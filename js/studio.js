@@ -351,6 +351,7 @@ document.addEventListener('DOMContentLoaded', () => {
             handle.addEventListener('mousedown', (e) => {
                 e.preventDefault();
                 e.stopPropagation();
+                handle.classList.add('is-active');
                 const startX = e.clientX, startY = e.clientY;
                 const origCX = ann.curveX, origCY = ann.curveY;
                 function onMove(ev) {
@@ -361,6 +362,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 function onUp() {
                     document.removeEventListener('mousemove', onMove);
                     document.removeEventListener('mouseup', onUp);
+                    const bubbleEl = bubbleLayer?.children[i];
+                    if (!bubbleEl || !bubbleEl.matches(':hover, :focus-within')) handle.classList.remove('is-active');
                 }
                 document.addEventListener('mousemove', onMove);
                 document.addEventListener('mouseup', onUp);
@@ -428,6 +431,15 @@ document.addEventListener('DOMContentLoaded', () => {
             // Empêche le clic dans la bulle de déclencher un placement sur la carte
             bubble.addEventListener('click', (e) => e.stopPropagation());
             bubble.addEventListener('mousedown', (e) => e.stopPropagation());
+
+            // Met en évidence la poignée de courbure tant que la bulle est survolée ou a le focus
+            const syncCurveHandleVisibility = () => {
+                curveHandles[i].classList.toggle('is-active', bubble.matches(':hover, :focus-within'));
+            };
+            bubble.addEventListener('mouseenter', syncCurveHandleVisibility);
+            bubble.addEventListener('mouseleave', syncCurveHandleVisibility);
+            bubble.addEventListener('focusin', syncCurveHandleVisibility);
+            bubble.addEventListener('focusout', syncCurveHandleVisibility);
 
             textEl.addEventListener('input', () => { ann.text = textEl.innerText; });
 

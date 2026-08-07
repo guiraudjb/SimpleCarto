@@ -360,7 +360,7 @@ body {
 .annotation-arrows-svg {
     position: absolute;
     inset: 0;
-    z-index: 250;
+    z-index: 320;
     pointer-events: none;
 }
 
@@ -371,10 +371,18 @@ body {
     opacity: 0.35;
     cursor: grab;
     pointer-events: all;
-    transition: opacity 0.15s ease;
+    transition: opacity 0.15s ease, r 0.15s ease, stroke 0.15s ease, fill 0.15s ease;
 }
 .annotation-curve-handle:hover { opacity: 1; }
 .annotation-curve-handle:active { cursor: grabbing; }
+
+.annotation-curve-handle.is-active {
+    opacity: 1;
+    r: 7;
+    fill: #ffb100;
+    stroke: #1e1e1e;
+    stroke-width: 2;
+}
 
 .annotation-bubble {
     position: absolute;
