@@ -59,6 +59,10 @@ document.addEventListener('DOMContentLoaded', () => {
     let currentMapConfig = null;
     let currentMapData = null;
     let currentPictograms = [];
+    let currentAnnotations = [];
+    let pictogramPlacementArmed = false;
+    let annotationPlacementArmed = false;
+    let autoRefreshEnabled = false;
     let customColors = { from: SUGGESTED_COLORS.bleu.bg, to: SUGGESTED_COLORS.bleu.sun, mid: null, midEnabled: false };
 
     const regToDeps = new Map();
@@ -179,8 +183,46 @@ document.addEventListener('DOMContentLoaded', () => {
         renderPictogramOverlay(document.getElementById('map-preview-area'), currentPictograms);
     };
 
+    function setPictogramPlacementArmed(armed) {
+        pictogramPlacementArmed = armed;
+        const btn = document.getElementById('btn-add-pictogram');
+        btn.textContent = armed ? '🛑 Arrêter le placement' : '📍 Placer ce pictogramme';
+        btn.classList.toggle('btn-armed', armed);
+    }
+
+    document.getElementById('btn-add-pictogram').onclick = () => {
+        if (pictogramPlacementArmed) {
+            setPictogramPlacementArmed(false);
+            return;
+        }
+        if (!currentMapConfig) {
+            showToast("Action impossible", "Générez d'abord une carte (Actualiser la vue) avant d'y placer un pictogramme.", "warning");
+            return;
+        }
+        if (!document.getElementById('pictogram-select').value) return;
+        setPictogramPlacementArmed(true);
+        showToast("Placement activé", "Cliquez sur la carte pour poser autant de pictogrammes que nécessaire. Cliquez de nouveau sur le bouton pour arrêter.", "info");
+    };
+
     document.getElementById('map-preview-area').addEventListener('click', (e) => {
         const container = e.currentTarget;
+
+        if (annotationPlacementArmed) {
+            annotationPlacementArmed = false;
+            const rect = container.getBoundingClientRect();
+            const tx = e.clientX - rect.left;
+            const ty = e.clientY - rect.top;
+            const width = 180;
+            const bubbleX = Math.max(4, Math.min(tx + 30, 850 - width - 4));
+            const bubbleY = Math.max(4, Math.min(ty - 90, 550 - 70));
+
+            currentAnnotations.push({ text: '', targetX: tx, targetY: ty, bubbleX, bubbleY, width });
+            const bubbleLayer = renderAnnotationOverlay(container, currentAnnotations);
+            const lastBubbleText = bubbleLayer?.lastElementChild?.querySelector('.annotation-bubble-text');
+            if (lastBubbleText) lastBubbleText.focus();
+            return;
+        }
+
         const marker = e.target.closest('.pictogram-marker');
 
         if (marker) {
@@ -189,6 +231,8 @@ document.addEventListener('DOMContentLoaded', () => {
             renderPictogramOverlay(container, currentPictograms);
             return;
         }
+
+        if (!pictogramPlacementArmed) return;
 
         if (!currentMapConfig) {
             showToast("Action impossible", "Générez d'abord une carte (Actualiser la vue) avant d'y placer un pictogramme.", "warning");
@@ -208,6 +252,179 @@ document.addEventListener('DOMContentLoaded', () => {
         currentPictograms.push({ set, file, color, size, x, y });
         renderPictogramOverlay(container, currentPictograms);
     });
+
+    // ---------------------------------------------------------------
+    // ANNOTATIONS MANUSCRITES (bulle de texte + flèche vers une zone)
+    // ---------------------------------------------------------------
+    function clipPointToRect(cx, cy, tx, ty, w, h) {
+        const dx = tx - cx, dy = ty - cy;
+        if (dx === 0 && dy === 0) return { x: cx, y: cy };
+        const halfW = w / 2, halfH = h / 2;
+        let scale = Infinity;
+        if (dx !== 0) scale = Math.min(scale, halfW / Math.abs(dx));
+        if (dy !== 0) scale = Math.min(scale, halfH / Math.abs(dy));
+        return { x: cx + dx * scale, y: cy + dy * scale };
+    }
+
+    function renderAnnotationOverlay(container, annotations) {
+        container.querySelectorAll('.annotation-layer').forEach(el => el.remove());
+        if (annotations.length === 0) return;
+
+        const svgNS = 'http://www.w3.org/2000/svg';
+        const markerId = `annotation-arrow-${Date.now()}-${Math.floor(Math.random() * 100000)}`;
+
+        const svg = document.createElementNS(svgNS, 'svg');
+        svg.setAttribute('class', 'annotation-layer annotation-arrows-svg');
+        svg.setAttribute('width', '100%');
+        svg.setAttribute('height', '100%');
+
+        const defs = document.createElementNS(svgNS, 'defs');
+        const marker = document.createElementNS(svgNS, 'marker');
+        marker.setAttribute('id', markerId);
+        marker.setAttribute('markerWidth', '8');
+        marker.setAttribute('markerHeight', '8');
+        marker.setAttribute('refX', '6');
+        marker.setAttribute('refY', '3');
+        marker.setAttribute('orient', 'auto');
+        marker.setAttribute('markerUnits', 'strokeWidth');
+        const arrowPath = document.createElementNS(svgNS, 'path');
+        arrowPath.setAttribute('d', 'M0,0 L6,3 L0,6 Z');
+        arrowPath.setAttribute('fill', '#1e1e1e');
+        marker.appendChild(arrowPath);
+        defs.appendChild(marker);
+        svg.appendChild(defs);
+
+        const lines = annotations.map(() => {
+            const line = document.createElementNS(svgNS, 'line');
+            line.setAttribute('stroke', '#1e1e1e');
+            line.setAttribute('stroke-width', '2');
+            line.setAttribute('marker-end', `url(#${markerId})`);
+            svg.appendChild(line);
+            return line;
+        });
+        container.appendChild(svg);
+
+        const bubbleLayer = document.createElement('div');
+        bubbleLayer.className = 'annotation-layer annotation-bubble-layer';
+        container.appendChild(bubbleLayer);
+
+        function updateGeometry(i) {
+            const ann = annotations[i];
+            const bubbleEl = bubbleLayer.children[i];
+            if (!bubbleEl) return;
+            bubbleEl.style.left = `${ann.bubbleX}px`;
+            bubbleEl.style.top = `${ann.bubbleY}px`;
+            const w = bubbleEl.offsetWidth, h = bubbleEl.offsetHeight;
+            const cx = ann.bubbleX + w / 2, cy = ann.bubbleY + h / 2;
+            const edge = clipPointToRect(cx, cy, ann.targetX, ann.targetY, w, h);
+            lines[i].setAttribute('x1', edge.x);
+            lines[i].setAttribute('y1', edge.y);
+            lines[i].setAttribute('x2', ann.targetX);
+            lines[i].setAttribute('y2', ann.targetY);
+        }
+
+        annotations.forEach((ann, i) => {
+            const bubble = document.createElement('div');
+            bubble.className = 'annotation-bubble';
+            bubble.style.width = `${ann.width || 180}px`;
+            if (ann.height) bubble.style.height = `${ann.height}px`;
+
+            const handle = document.createElement('div');
+            handle.className = 'annotation-bubble-handle';
+            handle.innerHTML = '<span>⠿</span>';
+            const delBtn = document.createElement('button');
+            delBtn.type = 'button';
+            delBtn.className = 'annotation-bubble-delete';
+            delBtn.innerHTML = '×';
+            delBtn.title = 'Supprimer cette annotation';
+            handle.appendChild(delBtn);
+
+            const textEl = document.createElement('div');
+            textEl.className = 'annotation-bubble-text';
+            textEl.contentEditable = 'true';
+            textEl.dataset.placeholder = 'Votre annotation...';
+            textEl.innerText = ann.text || '';
+
+            const resizeHandle = document.createElement('div');
+            resizeHandle.className = 'annotation-bubble-resize';
+            resizeHandle.title = 'Redimensionner';
+
+            bubble.appendChild(handle);
+            bubble.appendChild(textEl);
+            bubble.appendChild(resizeHandle);
+            bubbleLayer.appendChild(bubble);
+
+            // Empêche le clic dans la bulle de déclencher un placement sur la carte
+            bubble.addEventListener('click', (e) => e.stopPropagation());
+            bubble.addEventListener('mousedown', (e) => e.stopPropagation());
+
+            textEl.addEventListener('input', () => { ann.text = textEl.innerText; });
+
+            delBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                annotations.splice(i, 1);
+                renderAnnotationOverlay(container, annotations);
+            });
+
+            handle.addEventListener('mousedown', (e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                const startX = e.clientX, startY = e.clientY;
+                const origX = ann.bubbleX, origY = ann.bubbleY;
+                function onMove(ev) {
+                    ann.bubbleX = origX + (ev.clientX - startX);
+                    ann.bubbleY = origY + (ev.clientY - startY);
+                    updateGeometry(i);
+                }
+                function onUp() {
+                    document.removeEventListener('mousemove', onMove);
+                    document.removeEventListener('mouseup', onUp);
+                }
+                document.addEventListener('mousemove', onMove);
+                document.addEventListener('mouseup', onUp);
+            });
+
+            resizeHandle.addEventListener('mousedown', (e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                const startX = e.clientX, startY = e.clientY;
+                const origW = bubble.offsetWidth, origH = bubble.offsetHeight;
+                function onMove(ev) {
+                    const newW = Math.max(100, Math.min(400, origW + (ev.clientX - startX)));
+                    const newH = Math.max(40, Math.min(400, origH + (ev.clientY - startY)));
+                    bubble.style.width = `${newW}px`;
+                    bubble.style.height = `${newH}px`;
+                    ann.width = newW;
+                    ann.height = newH;
+                    updateGeometry(i);
+                }
+                function onUp() {
+                    document.removeEventListener('mousemove', onMove);
+                    document.removeEventListener('mouseup', onUp);
+                }
+                document.addEventListener('mousemove', onMove);
+                document.addEventListener('mouseup', onUp);
+            });
+
+            updateGeometry(i);
+        });
+
+        return bubbleLayer;
+    }
+
+    document.getElementById('btn-add-annotation').onclick = () => {
+        if (!currentMapConfig) {
+            showToast("Action impossible", "Générez d'abord une carte (Actualiser la vue) avant d'ajouter une annotation.", "warning");
+            return;
+        }
+        annotationPlacementArmed = true;
+        showToast("Placement", "Cliquez sur la carte à l'endroit que vous voulez annoter.", "info");
+    };
+
+    document.getElementById('btn-clear-annotations').onclick = () => {
+        currentAnnotations = [];
+        renderAnnotationOverlay(document.getElementById('map-preview-area'), currentAnnotations);
+    };
 
     function getCustomColorsArray() {
         const arr = [customColors.from];
@@ -357,7 +574,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 filterCol: document.getElementById('filter-col')?.value,
                 filterThreshold: parseFloat(document.getElementById('filter-value')?.value),
                 filterDataMap: filterMap,
-                pictograms: currentPictograms
+                pictograms: currentPictograms,
+                annotations: currentAnnotations
             };
 
             currentMapConfig = config;
@@ -370,6 +588,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (emptyState) emptyState.style.display = 'flex';
             } else {
                 await renderPictogramOverlay(document.getElementById('map-preview-area'), currentPictograms);
+                renderAnnotationOverlay(document.getElementById('map-preview-area'), currentAnnotations);
             }
 
             if (loader) loader.style.display = 'none';
@@ -378,6 +597,26 @@ document.addEventListener('DOMContentLoaded', () => {
 
     scaleSelect.onchange = updateUI;
     document.getElementById('btn-map-refresh').onclick = renderPreview;
+
+    // ---------------------------------------------------------------
+    // ACTUALISATION AUTOMATIQUE
+    // Regénère la carte (avec un léger délai anti-rebond) dès qu'un
+    // réglage change dans le panneau, tant que le mode "Auto" est activé.
+    // ---------------------------------------------------------------
+    let autoRefreshTimer = null;
+    function triggerAutoRefresh() {
+        if (!autoRefreshEnabled || !currentMapConfig) return;
+        clearTimeout(autoRefreshTimer);
+        autoRefreshTimer = setTimeout(renderPreview, 500);
+    }
+
+    document.getElementById('auto-refresh-toggle').onchange = (e) => {
+        autoRefreshEnabled = e.target.checked;
+        if (autoRefreshEnabled) triggerAutoRefresh();
+    };
+
+    document.querySelector('.panel').addEventListener('input', triggerAutoRefresh);
+    document.querySelector('.panel').addEventListener('change', triggerAutoRefresh);
 
     document.getElementById('label-type').onchange = (e) => {
         document.getElementById('label-toolkit').style.display = e.target.value === 'none' ? 'none' : 'block';
@@ -403,6 +642,7 @@ document.addEventListener('DOMContentLoaded', () => {
             o.value = h; o.textContent = h;
             filterCol.appendChild(o);
         });
+        triggerAutoRefresh();
     }
 
     document.getElementById('map-csv-file').onchange = (e) => {
@@ -504,6 +744,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 await drawD3Map(hiddenDiv, currentMapConfig, currentMapData);
                 await renderPictogramOverlay(hiddenDiv, currentMapConfig.pictograms || []);
+                renderAnnotationOverlay(hiddenDiv, currentMapConfig.annotations || []);
                 await new Promise(resolve => setTimeout(resolve, 50));
 
                 const canvas = await html2canvas(hiddenDiv, {
@@ -569,6 +810,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 currentPictograms = Array.isArray(config.pictograms)
                     ? config.pictograms.map(p => ({ set: 'ocha', ...p }))
                     : [];
+                currentAnnotations = Array.isArray(config.annotations) ? config.annotations : [];
                 rawCsvData = payload.rawCsvData || [];
                 if (rawCsvData.length > 0) {
                     const headers = Object.keys(rawCsvData[0]);

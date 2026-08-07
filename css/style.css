@@ -63,6 +63,60 @@ body {
     gap: 1rem;
 }
 
+.panel-section {
+    border: 1px solid var(--grey-900);
+    border-radius: 6px;
+    background: #fff;
+    /* Pas d'overflow:hidden ici : ça peut couper du contenu (listes déroulantes,
+       grilles de couleurs, texte long) quand le contenu dépasse légèrement. */
+}
+
+.panel-section-summary {
+    list-style: none;
+    cursor: pointer;
+    padding: 0.65rem 0.9rem;
+    font-weight: 700;
+    font-size: 0.85rem;
+    color: var(--theme-sun);
+    background: var(--grey-975);
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    user-select: none;
+}
+.panel-section-summary::-webkit-details-marker { display: none; }
+.panel-section-summary::marker { content: ""; }
+.panel-section[open] > .panel-section-summary {
+    border-bottom: 1px solid var(--grey-900);
+    border-radius: 6px 6px 0 0;
+}
+
+.panel-section-summary .title {
+    flex: 1 1 auto;
+    min-width: 0;
+    white-space: normal;
+    overflow-wrap: break-word;
+}
+
+.panel-section-summary .chevron {
+    flex-shrink: 0;
+    font-size: 0.7rem;
+    color: #999;
+    transition: transform 0.15s ease;
+}
+.panel-section[open] > .panel-section-summary .chevron { transform: rotate(90deg); }
+
+.panel-section-body {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    border-radius: 0 0 6px 6px;
+    min-width: 0;
+}
+
 .field { display: flex; flex-direction: column; gap: 0.35rem; }
 .field-label { font-weight: 700; font-size: 0.85rem; }
 .small-label { font-size: 0.8rem; font-weight: 700; }
@@ -107,14 +161,6 @@ body {
     gap: 0.5rem;
 }
 .sub-panel-title { font-size: 0.8rem; font-weight: bold; color: var(--theme-sun); margin: 0; }
-
-.field.boxed {
-    margin-top: 0;
-    background: #fff;
-    padding: 1rem;
-    border: 1px solid var(--grey-900);
-    border-radius: 4px;
-}
 
 .label-toolkit {
     margin-top: 0.5rem;
@@ -177,6 +223,9 @@ body {
 .btn:hover { background: var(--theme-main); }
 .btn-secondary { background: #fff; color: var(--theme-sun); border: 1px solid var(--theme-sun); flex: 1; }
 .btn-secondary:hover { background: var(--theme-bg); }
+
+.btn.btn-secondary.btn-armed { background: var(--theme-sun); color: #fff; }
+.btn.btn-secondary.btn-armed:hover { background: var(--theme-main); }
 .btn-block { width: 100%; }
 
 /* ---------- Zone d'aperçu ---------- */
@@ -200,11 +249,21 @@ body {
     flex-shrink: 0;
 }
 
-.btn-refresh-map {
+.refresh-controls {
     position: absolute;
     top: 12px;
     right: 12px;
     z-index: 200;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: rgba(255,255,255,0.9);
+    padding: 4px;
+    border-radius: 999px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+}
+
+.btn-refresh-map {
     background: #00a95f;
     color: #fff;
     border: none;
@@ -213,11 +272,23 @@ body {
     font-weight: 700;
     font-size: 0.85rem;
     cursor: pointer;
-    box-shadow: 0 3px 10px rgba(0,0,0,0.25);
     transition: transform 0.1s, background 0.15s;
 }
 .btn-refresh-map:hover { background: #297254; transform: translateY(-1px); }
 .btn-refresh-map:active { transform: translateY(0); }
+
+.auto-refresh-toggle {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0 0.6rem 0 0.3rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--theme-sun);
+    cursor: pointer;
+    user-select: none;
+}
+.auto-refresh-toggle input { cursor: pointer; accent-color: var(--theme-sun); }
 
 .map-loader {
     display: none;
@@ -271,6 +342,94 @@ body {
 }
 .pictogram-marker svg { width: 100%; height: 100%; display: block; }
 .pictogram-marker:hover { outline: 2px dashed #ce0500; outline-offset: 2px; }
+
+/* ---------- Annotations manuscrites ---------- */
+.annotation-arrows-svg {
+    position: absolute;
+    inset: 0;
+    z-index: 250;
+    pointer-events: none;
+}
+
+.annotation-bubble {
+    position: absolute;
+    z-index: 300;
+    display: flex;
+    flex-direction: column;
+    background: #ffffff;
+    border: 1px solid rgba(0,0,0,0.15);
+    border-radius: 8px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+}
+
+.annotation-bubble-handle,
+.annotation-bubble-resize {
+    opacity: 0;
+    transition: opacity 0.15s ease;
+}
+.annotation-bubble:hover .annotation-bubble-handle,
+.annotation-bubble:hover .annotation-bubble-resize,
+.annotation-bubble:focus-within .annotation-bubble-handle,
+.annotation-bubble:focus-within .annotation-bubble-resize {
+    opacity: 1;
+}
+
+.annotation-bubble-handle {
+    flex-shrink: 0;
+    height: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 4px;
+    cursor: move;
+    background: var(--grey-975);
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+    border-radius: 8px 8px 0 0;
+    font-size: 0.65rem;
+    color: #999;
+    user-select: none;
+}
+
+.annotation-bubble-delete {
+    cursor: pointer;
+    border: none;
+    background: none;
+    font-size: 0.9rem;
+    line-height: 1;
+    color: #999;
+    padding: 0 2px;
+}
+.annotation-bubble-delete:hover { color: #ce0500; }
+
+.annotation-bubble-resize {
+    position: absolute;
+    right: 2px;
+    bottom: 2px;
+    width: 12px;
+    height: 12px;
+    cursor: nwse-resize;
+    background:
+        linear-gradient(135deg, transparent 0 45%, #999 45% 55%, transparent 55% 100%),
+        linear-gradient(135deg, transparent 0 70%, #999 70% 80%, transparent 80% 100%);
+}
+
+.annotation-bubble-text {
+    flex: 1;
+    overflow-y: auto;
+    padding: 0.5rem 0.6rem;
+    min-height: 1.4em;
+    font-size: 0.85rem;
+    color: #1e1e1e;
+    outline: none;
+    white-space: pre-wrap;
+    word-break: break-word;
+    cursor: text;
+}
+.annotation-bubble-text:empty::before {
+    content: attr(data-placeholder);
+    color: #aaa;
+    font-style: italic;
+}
 
 /* ---------- Toasts ---------- */
 .toast-container {

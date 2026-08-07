@@ -80,200 +80,237 @@
     <main class="studio">
         <section class="panel" aria-label="Paramètres de la carte">
 
-            <div class="field">
-                <label class="field-label" for="map-title">Titre</label>
-                <input class="text-input" type="text" id="map-title" value="Répartition statistique">
-            </div>
-
-            <div class="field">
-                <label class="field-label" for="map-scale">Échelle</label>
-                <select class="select-input" id="map-scale">
-                    <option value="world">Monde (Projections thématiques)</option>
-                    <option value="national" selected>France métropolitaine</option>
-                    <option value="region">Région (FR)</option>
-                    <option value="departement">Département (FR)</option>
-                    <option value="epci">EPCI (FR)</option>
-                    <option value="commune">Commune (FR)</option>
-                </select>
-                <div id="cascade-menus" class="cascade-menus"></div>
-            </div>
-
-            <hr class="divider">
-
-            <div class="field">
-                <label class="field-label">Données (.csv)</label>
-
-                <select class="select-input" id="csv-sample-select">
-                    <option value="">-- Charger un exemple --</option>
-                    <option value="./data/samples/france_communes.csv">Exemple : Communes de France (subventions)</option>
-                    <option value="./data/samples/france_departements.csv">Exemple : Départements de France (population, budget)</option>
-                    <option value="./data/samples/monde.csv">Exemple : Pays du monde (jeu de test)</option>
-                </select>
-
-                <div class="csv-or-divider">ou</div>
-
-                <input type="file" id="map-csv-file" accept=".csv" style="display:none">
-                <button class="btn btn-secondary btn-block" onclick="document.getElementById('map-csv-file').click()">⬆️ Importer un CSV</button>
-                <div id="csv-status" class="hint-text"></div>
-
-                <div id="calc-engine-ui" class="sub-panel" style="display:none;">
-                    <p class="sub-panel-title">📍 ID : <span id="label-insee-col"></span></p>
-                    <select id="calc-mode" class="select-input">
-                        <option value="simple">Somme brute</option>
-                        <option value="share">Part (%)</option>
-                        <option value="ratio">Ratio (C1/C2)</option>
-                        <option value="growth">Évo (C1/C2)</option>
-                    </select>
-                    <select id="calc-col1" class="select-input"></select>
-                    <select id="calc-col2" class="select-input" style="display:none;"></select>
+            <details class="panel-section">
+                <summary class="panel-section-summary"><span class="title">🗺️ Zone géographique</span><span class="chevron">▸</span></summary>
+                <div class="panel-section-body">
+                    <div class="field">
+                        <label class="field-label" for="map-scale">Échelle</label>
+                        <select class="select-input" id="map-scale">
+                            <option value="world">Monde (Projections thématiques)</option>
+                            <option value="national" selected>France métropolitaine</option>
+                            <option value="region">Région (FR)</option>
+                            <option value="departement">Département (FR)</option>
+                            <option value="epci">EPCI (FR)</option>
+                            <option value="commune">Commune (FR)</option>
+                        </select>
+                        <div id="cascade-menus" class="cascade-menus"></div>
+                    </div>
                 </div>
-            </div>
+            </details>
 
-            <div class="field boxed">
-                <label class="field-label">Étiquettes</label>
-                <select class="select-input" id="label-type">
-                    <option value="name">Nom</option>
-                    <option value="value">Valeur</option>
-                    <option value="both">Nom + Val</option>
-                    <option value="none" selected>Aucune</option>
-                </select>
+            <details class="panel-section">
+                <summary class="panel-section-summary"><span class="title">📊 Données</span><span class="chevron">▸</span></summary>
+                <div class="panel-section-body">
+                    <div class="field">
+                        <label class="field-label">Données (.csv)</label>
 
-                <div id="label-toolkit" class="label-toolkit" style="display:none;">
-                    <div class="row-between">
-                        <label class="small-label">Taille (px)</label>
-                        <input type="number" id="label-size" class="text-input tiny" value="10" min="6" max="24">
+                        <select class="select-input" id="csv-sample-select">
+                            <option value="">-- Charger un exemple --</option>
+                            <option value="./data/samples/france_communes.csv">Exemple : Communes de France (subventions)</option>
+                            <option value="./data/samples/france_departements.csv">Exemple : Départements de France (population, budget)</option>
+                            <option value="./data/samples/monde.csv">Exemple : Pays du monde (jeu de test)</option>
+                        </select>
+
+                        <div class="csv-or-divider">ou</div>
+
+                        <input type="file" id="map-csv-file" accept=".csv" style="display:none">
+                        <button class="btn btn-secondary btn-block" onclick="document.getElementById('map-csv-file').click()">⬆️ Importer un CSV</button>
+                        <div id="csv-status" class="hint-text"></div>
+
+                        <div id="calc-engine-ui" class="sub-panel" style="display:none;">
+                            <p class="sub-panel-title">📍 ID : <span id="label-insee-col"></span></p>
+                            <select id="calc-mode" class="select-input">
+                                <option value="simple">Somme brute</option>
+                                <option value="share">Part (%)</option>
+                                <option value="ratio">Ratio (C1/C2)</option>
+                                <option value="growth">Évo (C1/C2)</option>
+                            </select>
+                            <select id="calc-col1" class="select-input"></select>
+                            <select id="calc-col2" class="select-input" style="display:none;"></select>
+                        </div>
+                    </div>
+                </div>
+            </details>
+
+            <details class="panel-section">
+                <summary class="panel-section-summary"><span class="title">🎨 Style de la carte</span><span class="chevron">▸</span></summary>
+                <div class="panel-section-body">
+                    <div class="field">
+                        <label class="field-label" for="map-title">Titre</label>
+                        <input class="text-input" type="text" id="map-title" value="Répartition statistique">
+                    </div>
+
+                    <hr class="divider">
+
+                    <div class="checkbox-row">
+                        <input type="checkbox" id="map-show-legend" checked>
+                        <label for="map-show-legend">Afficher la légende de colorimétrie</label>
+                    </div>
+
+                    <div class="field">
+                        <label class="field-label">Palette de couleurs</label>
+                        <select class="select-input" id="map-palette">
+                            <option value="default">Bleu (dégradé par défaut)</option>
+                            <option value="divergentDescending">Divergent (Vert → Jaune → Rouge)</option>
+                            <option value="divergentAscending">Divergent (Rouge → Jaune → Vert)</option>
+                            <option value="custom">Palette manuelle…</option>
+                        </select>
+
+                        <div id="palette-warning" class="warning-box" style="display:none;">
+                            ⚠️ <strong>Note :</strong> Cette palette est fixe.
+                        </div>
+
+                        <div id="custom-palette-ui" class="custom-palette-ui" style="display:none;">
+                            <div>
+                                <div class="swatch-header">
+                                    <div id="cp-from-preview" class="swatch-preview"></div>
+                                    <span class="swatch-title">Départ <span class="swatch-sub">(valeurs basses)</span></span>
+                                </div>
+                                <div id="cp-from-label" class="swatch-label"></div>
+                                <div id="cp-from-grid" class="swatch-grid"></div>
+                            </div>
+
+                            <div>
+                                <div class="checkbox-row small">
+                                    <input type="checkbox" id="cp-mid-enabled">
+                                    <label for="cp-mid-enabled">Ajouter une couleur pivot</label>
+                                </div>
+                                <div id="cp-mid-panel" style="display:none;">
+                                    <div class="swatch-header">
+                                        <div id="cp-mid-preview" class="swatch-preview" style="background:#dddddd;"></div>
+                                        <span class="swatch-title">Pivot <span class="swatch-sub">(valeurs médianes)</span></span>
+                                    </div>
+                                    <div id="cp-mid-label" class="swatch-label"></div>
+                                    <div id="cp-mid-grid" class="swatch-grid"></div>
+                                </div>
+                            </div>
+
+                            <div>
+                                <div class="swatch-header">
+                                    <div id="cp-to-preview" class="swatch-preview"></div>
+                                    <span class="swatch-title">Arrivée <span class="swatch-sub">(valeurs hautes)</span></span>
+                                </div>
+                                <div id="cp-to-label" class="swatch-label"></div>
+                                <div id="cp-to-grid" class="swatch-grid"></div>
+                            </div>
+
+                            <div>
+                                <div class="gradient-preview-title">Aperçu du dégradé</div>
+                                <div id="gradient-preview" class="gradient-preview"></div>
+                            </div>
+                        </div>
                     </div>
 
                     <hr class="divider">
 
                     <div class="field">
-                        <label class="field-label small-label">Filtrer par nom ou code (ex: Paris, 75...)</label>
-                        <input type="text" id="label-filter-names" class="text-input" placeholder="Séparer par des virgules">
-                    </div>
-
-                    <div id="advanced-filter-ui" class="sub-panel" style="display:none;">
-                        <p class="sub-panel-title">🔍 Filtre de données (Étiquettes)</p>
-                        <select id="filter-col" class="select-input">
-                            <option value="">-- Champ à filtrer --</option>
+                        <label class="field-label">Étiquettes</label>
+                        <select class="select-input" id="label-type">
+                            <option value="name">Nom</option>
+                            <option value="value">Valeur</option>
+                            <option value="both">Nom + Val</option>
+                            <option value="none" selected>Aucune</option>
                         </select>
-                        <div class="row-inline">
-                            <select id="filter-operator" class="select-input" style="flex:1">
-                                <option value=">"> &gt; </option>
-                                <option value=">="> &gt;= </option>
-                                <option value="="> = </option>
-                                <option value="<="> &lt;= </option>
-                                <option value="<"> &lt; </option>
-                            </select>
-                            <input type="text" id="filter-value" class="text-input" placeholder="Valeur" style="flex:2">
-                        </div>
-                    </div>
 
-                    <div class="row-between">
-                        <label class="small-label">Aération</label>
-                        <input type="range" id="phys-padding" min="0" max="15" value="4" style="width:100px;">
-                    </div>
-                    <div class="row-between">
-                        <label class="small-label">Répulsion</label>
-                        <input type="range" id="phys-strength" min="0.05" max="0.5" step="0.05" value="0.15" style="width:100px;">
-                    </div>
-                </div>
-            </div>
-
-            <div class="checkbox-row">
-                <input type="checkbox" id="map-show-legend" checked>
-                <label for="map-show-legend">Afficher la légende de colorimétrie</label>
-            </div>
-
-            <div class="field boxed">
-                <label class="field-label">Pictogrammes thématiques</label>
-
-                <select class="select-input" id="pictogram-set">
-                    <option value="ocha">Humanitaire (OCHA — conflits, catastrophes...)</option>
-                    <option value="dsfr">Pictogrammes DSFR (État)</option>
-                </select>
-
-                <select class="select-input" id="pictogram-select" style="margin-top:0.5rem;"></select>
-
-                <div class="row-inline" style="margin-top:0.5rem;">
-                    <div class="pictogram-preview-frame" id="pictogram-preview-frame"></div>
-                    <div class="field" style="flex:1; gap:0.5rem;">
-                        <select class="select-input" id="pictogram-color">
-                            <option value="un-blue">Bleu ONU</option>
-                            <option value="black">Noir</option>
-                            <option value="white">Blanc</option>
-                        </select>
-                        <input type="color" class="text-input" id="pictogram-dsfr-color" value="#000091" style="display:none; padding:0.15rem; height:34px;">
-                        <div class="row-between">
-                            <label class="small-label">Taille (px)</label>
-                            <input type="number" id="pictogram-size" class="text-input tiny" value="28" min="12" max="96">
-                        </div>
-                    </div>
-                </div>
-
-                <p class="hint-text">Cliquez sur la carte pour placer le pictogramme sélectionné. Cliquez sur un pictogramme déjà placé pour le supprimer.</p>
-
-                <button class="btn btn-secondary btn-block" id="btn-clear-pictograms">🗑️ Vider les pictogrammes</button>
-            </div>
-
-            <div class="field boxed">
-                <label class="field-label">Palette de couleurs</label>
-                <select class="select-input" id="map-palette">
-                    <option value="default">Bleu (dégradé par défaut)</option>
-                    <option value="divergentDescending">Divergent (Vert → Jaune → Rouge)</option>
-                    <option value="divergentAscending">Divergent (Rouge → Jaune → Vert)</option>
-                    <option value="custom">Palette manuelle…</option>
-                </select>
-
-                <div id="palette-warning" class="warning-box" style="display:none;">
-                    ⚠️ <strong>Note :</strong> Cette palette est fixe.
-                </div>
-
-                <div id="custom-palette-ui" class="custom-palette-ui" style="display:none;">
-                    <div>
-                        <div class="swatch-header">
-                            <div id="cp-from-preview" class="swatch-preview"></div>
-                            <span class="swatch-title">Départ <span class="swatch-sub">(valeurs basses)</span></span>
-                        </div>
-                        <div id="cp-from-label" class="swatch-label"></div>
-                        <div id="cp-from-grid" class="swatch-grid"></div>
-                    </div>
-
-                    <div>
-                        <div class="checkbox-row small">
-                            <input type="checkbox" id="cp-mid-enabled">
-                            <label for="cp-mid-enabled">Ajouter une couleur pivot</label>
-                        </div>
-                        <div id="cp-mid-panel" style="display:none;">
-                            <div class="swatch-header">
-                                <div id="cp-mid-preview" class="swatch-preview" style="background:#dddddd;"></div>
-                                <span class="swatch-title">Pivot <span class="swatch-sub">(valeurs médianes)</span></span>
+                        <div id="label-toolkit" class="label-toolkit" style="display:none;">
+                            <div class="row-between">
+                                <label class="small-label">Taille (px)</label>
+                                <input type="number" id="label-size" class="text-input tiny" value="10" min="6" max="24">
                             </div>
-                            <div id="cp-mid-label" class="swatch-label"></div>
-                            <div id="cp-mid-grid" class="swatch-grid"></div>
-                        </div>
-                    </div>
 
-                    <div>
-                        <div class="swatch-header">
-                            <div id="cp-to-preview" class="swatch-preview"></div>
-                            <span class="swatch-title">Arrivée <span class="swatch-sub">(valeurs hautes)</span></span>
-                        </div>
-                        <div id="cp-to-label" class="swatch-label"></div>
-                        <div id="cp-to-grid" class="swatch-grid"></div>
-                    </div>
+                            <hr class="divider">
 
-                    <div>
-                        <div class="gradient-preview-title">Aperçu du dégradé</div>
-                        <div id="gradient-preview" class="gradient-preview"></div>
+                            <div class="field">
+                                <label class="field-label small-label">Filtrer par nom ou code (ex: Paris, 75...)</label>
+                                <input type="text" id="label-filter-names" class="text-input" placeholder="Séparer par des virgules">
+                            </div>
+
+                            <div id="advanced-filter-ui" class="sub-panel" style="display:none;">
+                                <p class="sub-panel-title">🔍 Filtre de données (Étiquettes)</p>
+                                <select id="filter-col" class="select-input">
+                                    <option value="">-- Champ à filtrer --</option>
+                                </select>
+                                <div class="row-inline">
+                                    <select id="filter-operator" class="select-input" style="flex:1">
+                                        <option value=">"> &gt; </option>
+                                        <option value=">="> &gt;= </option>
+                                        <option value="="> = </option>
+                                        <option value="<="> &lt;= </option>
+                                        <option value="<"> &lt; </option>
+                                    </select>
+                                    <input type="text" id="filter-value" class="text-input" placeholder="Valeur" style="flex:2">
+                                </div>
+                            </div>
+
+                            <div class="row-between">
+                                <label class="small-label">Aération</label>
+                                <input type="range" id="phys-padding" min="0" max="15" value="4" style="width:100px;">
+                            </div>
+                            <div class="row-between">
+                                <label class="small-label">Répulsion</label>
+                                <input type="range" id="phys-strength" min="0.05" max="0.5" step="0.05" value="0.15" style="width:100px;">
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </div>
+            </details>
+
+            <details class="panel-section">
+                <summary class="panel-section-summary"><span class="title">📍 Éléments graphiques</span><span class="chevron">▸</span></summary>
+                <div class="panel-section-body">
+                    <div class="field">
+                        <label class="field-label">Pictogrammes</label>
+                        <select class="select-input" id="pictogram-set">
+                            <option value="ocha">Humanitaire (OCHA — conflits, catastrophes...)</option>
+                            <option value="dsfr">Pictogrammes DSFR (État)</option>
+                        </select>
+
+                        <select class="select-input" id="pictogram-select" style="margin-top:0.5rem;"></select>
+
+                        <div class="row-inline" style="margin-top:0.5rem;">
+                            <div class="pictogram-preview-frame" id="pictogram-preview-frame"></div>
+                            <div class="field" style="flex:1; gap:0.5rem;">
+                                <select class="select-input" id="pictogram-color">
+                                    <option value="un-blue">Bleu ONU</option>
+                                    <option value="black">Noir</option>
+                                    <option value="white">Blanc</option>
+                                </select>
+                                <input type="color" class="text-input" id="pictogram-dsfr-color" value="#000091" style="display:none; padding:0.15rem; height:34px;">
+                                <div class="row-between">
+                                    <label class="small-label">Taille (px)</label>
+                                    <input type="number" id="pictogram-size" class="text-input tiny" value="28" min="12" max="96">
+                                </div>
+                            </div>
+                        </div>
+
+                        <button class="btn btn-secondary btn-block" id="btn-add-pictogram" style="margin-top:0.75rem;">📍 Placer ce pictogramme</button>
+                        <p class="hint-text">Cliquez ensuite sur la carte pour le positionner. Cliquez sur un pictogramme déjà placé pour le supprimer.</p>
+
+                        <button class="btn btn-secondary btn-block" id="btn-clear-pictograms">🗑️ Vider les pictogrammes</button>
+                    </div>
+
+                    <hr class="divider">
+
+                    <div class="field">
+                        <label class="field-label">Annotations manuscrites</label>
+                        <button class="btn btn-secondary btn-block" id="btn-add-annotation">💬 Ajouter une bulle</button>
+                        <p class="hint-text">Cliquez ensuite sur la carte pour positionner la bulle et écrivez votre texte. Glissez la poignée (⠿) pour la déplacer ; × pour la supprimer.</p>
+                        <button class="btn btn-secondary btn-block" id="btn-clear-annotations">🗑️ Vider les annotations</button>
+                    </div>
+                </div>
+            </details>
 
         </section>
 
         <section class="preview-area" aria-label="Aperçu de la carte">
             <div class="map-frame">
-                <button class="btn btn-refresh-map" id="btn-map-refresh" title="Regénérer la carte avec les paramètres actuels">🔄 Actualiser la vue</button>
+                <div class="refresh-controls">
+                    <button class="btn btn-refresh-map" id="btn-map-refresh" title="Regénérer la carte avec les paramètres actuels">🔄 Actualiser la vue</button>
+                    <label class="auto-refresh-toggle" title="Regénère la carte automatiquement à chaque modification">
+                        <input type="checkbox" id="auto-refresh-toggle">
+                        <span>Auto</span>
+                    </label>
+                </div>
                 <div id="map-loader" class="map-loader" style="display:none;">
                     <div class="spinner"></div>
                     <p>Calcul en cours...</p>
