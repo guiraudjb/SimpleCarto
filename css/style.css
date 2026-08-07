@@ -137,6 +137,12 @@ body {
 }
 .text-input.tiny { width: 70px; padding: 0.2rem; }
 
+textarea.text-input {
+    resize: vertical;
+    min-height: 2.4rem;
+    line-height: 1.3;
+}
+
 .divider { border: none; border-top: 1px solid var(--grey-900); margin: 0.25rem 0; }
 
 .cascade-menus { display: flex; flex-direction: column; gap: 0.5rem; margin-top: 0.5rem; }
@@ -433,6 +439,54 @@ body {
     padding: 0 2px;
 }
 .annotation-bubble-delete:hover { color: #ce0500; }
+
+.annotation-bubble-settings-btn {
+    cursor: pointer;
+    border: none;
+    background: none;
+    font-size: 0.8rem;
+    line-height: 1;
+    color: #999;
+    padding: 0 4px;
+}
+.annotation-bubble-settings-btn:hover,
+.annotation-bubble-settings-btn.is-open { color: var(--theme-sun); }
+
+.annotation-settings-panel {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    margin-top: 4px;
+    width: 200px;
+    background: #fff;
+    border: 1px solid var(--grey-900);
+    border-radius: 6px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.25);
+    padding: 0.6rem;
+    z-index: 400;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    font-size: 0.75rem;
+}
+.annotation-settings-panel label { font-weight: 700; color: #555; }
+.annotation-settings-panel .row-inline { align-items: center; }
+.annotation-settings-panel select,
+.annotation-settings-panel input[type="number"] {
+    width: 100%;
+    padding: 0.25rem 0.4rem;
+    border: 1px solid var(--grey-900);
+    border-radius: 4px;
+    font-size: 0.75rem;
+}
+.annotation-settings-panel input[type="color"] {
+    width: 100%;
+    height: 26px;
+    padding: 2px;
+    border: 1px solid var(--grey-900);
+    border-radius: 4px;
+    cursor: pointer;
+}
 
 .annotation-bubble-resize {
     position: absolute;

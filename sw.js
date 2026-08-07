@@ -1,7 +1,8 @@
-const CACHE_NAME = 'simplecarto-v6';
-const PICTOGRAM_MANIFEST_URLS = [
+const CACHE_NAME = 'simplecarto-v8';
+const ASSET_MANIFEST_URLS = [
     './icons/pictograms/manifest.json',
-    './icons/pictograms-dsfr/manifest.json'
+    './icons/pictograms-dsfr/manifest.json',
+    './fonts/manifest.json'
 ];
 
 const PRECACHE_URLS = [
@@ -9,11 +10,14 @@ const PRECACHE_URLS = [
     './index.html',
     './manifest.json',
     './css/style.css',
+    './fonts/fonts.css',
+    './fonts/marianne.css',
     './js/geo-engine.js',
     './js/studio.js',
     './js/pwa.js',
     './js/pictogram-catalog.js',
     './js/dsfr-pictogram-catalog.js',
+    './js/font-catalog.js',
     './libs/papaparse.min.js',
     './libs/d3.v7.min.js',
     './libs/topojson.v3.min.js',
@@ -30,7 +34,7 @@ const PRECACHE_URLS = [
     './icons/icon-192.png',
     './icons/icon-512.png',
     './icons/favicon.ico',
-    ...PICTOGRAM_MANIFEST_URLS
+    ...ASSET_MANIFEST_URLS
 ];
 
 self.addEventListener('install', (event) => {
@@ -38,13 +42,13 @@ self.addEventListener('install', (event) => {
         (async () => {
             const cache = await caches.open(CACHE_NAME);
             await cache.addAll(PRECACHE_URLS);
-            for (const manifestUrl of PICTOGRAM_MANIFEST_URLS) {
+            for (const manifestUrl of ASSET_MANIFEST_URLS) {
                 try {
                     const res = await fetch(manifestUrl);
-                    const pictogramPaths = await res.json();
-                    await cache.addAll(pictogramPaths);
+                    const assetPaths = await res.json();
+                    await cache.addAll(assetPaths);
                 } catch (e) {
-                    console.error('Précache des pictogrammes impossible, ils seront mis en cache à la demande :', manifestUrl, e);
+                    console.error('Précache impossible, mise en cache à la demande :', manifestUrl, e);
                 }
             }
             self.skipWaiting();

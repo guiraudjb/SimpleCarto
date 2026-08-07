@@ -43,8 +43,11 @@ puis ouvrez `http://localhost:8080`.
 - **Référentiels géographiques** (`data/`) : limites communales, départementales, régionales et mondiales, ainsi que jeux de données d'exemple.
 - **Pictogrammes OCHA** (`icons/pictograms/`) : [UN-OCHA/humanitarian-icons](https://github.com/UN-OCHA/humanitarian-icons), domaine public (CC0 1.0).
 - **Pictogrammes DSFR** (`icons/pictograms-dsfr/`) : [Système de Design de l'État](https://github.com/GouvernementFR/dsfr) v1.14.3, licence MIT — icônes majoritairement issues de [Remix Icon](https://remixicon.com) (Apache License 2.0).
+- **Polices** (`fonts/`) : 23 familles Google Fonts (licence libre, OFL/Apache selon la police) reprises du projet ArduPaint, plus la police **Marianne** (police officielle de l'État).
 
-Voir les fichiers `LICENSE.txt` correspondants dans chaque sous-dossier d'icônes pour le détail des attributions.
+Voir les fichiers `LICENSE.txt` correspondants dans chaque sous-dossier pour le détail des attributions.
+
+⚠️ **Cas particulier — police Marianne** (`fonts/marianne.css`) : contrairement au reste du DSFR (licence MIT), Marianne en est explicitement exclue. Son usage est réservé par le Service d'Information du Gouvernement aux administrations centrales, préfectures, ambassades, opérateurs de l'État, etc. — ce n'est pas une police librement redistribuable. Elle est incluse ici et définie par défaut sur décision du mainteneur (agent public dans le champ d'usage autorisé). Voir `fonts/marianne.css` pour le détail.
 
 ## Licence du code
 

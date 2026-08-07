@@ -57,6 +57,8 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <meta name="apple-mobile-web-app-title" content="SimpleCarto">
 
+    <link rel="stylesheet" href="./fonts/fonts.css">
+    <link rel="stylesheet" href="./fonts/marianne.css">
     <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
@@ -137,7 +139,17 @@
                 <div class="panel-section-body">
                     <div class="field">
                         <label class="field-label" for="map-title">Titre</label>
-                        <input class="text-input" type="text" id="map-title" value="Répartition statistique">
+                        <textarea class="text-input" id="map-title" rows="2" placeholder="Titre de la carte (Entrée pour un retour à la ligne manuel)">Répartition statistique</textarea>
+                        <div class="row-inline" style="margin-top:0.5rem;">
+                            <div class="field" style="flex:1;">
+                                <label class="field-label small-label" for="title-font-select">Police du titre</label>
+                                <select class="select-input" id="title-font-select"></select>
+                            </div>
+                            <div class="field" style="flex:0 0 70px;">
+                                <label class="field-label small-label" for="title-font-size">Taille</label>
+                                <input type="number" id="title-font-size" class="text-input tiny" value="17" min="10" max="40">
+                            </div>
+                        </div>
                     </div>
 
                     <hr class="divider">
@@ -217,6 +229,8 @@
                                 <label class="small-label">Taille (px)</label>
                                 <input type="number" id="label-size" class="text-input tiny" value="10" min="6" max="24">
                             </div>
+                            <label class="field-label small-label" for="label-font-select">Police des étiquettes</label>
+                            <select class="select-input" id="label-font-select"></select>
 
                             <hr class="divider">
 
@@ -294,7 +308,7 @@
                     <div class="field">
                         <label class="field-label">Annotations manuscrites</label>
                         <button class="btn btn-secondary btn-block" id="btn-add-annotation">💬 Ajouter une bulle</button>
-                        <p class="hint-text">Cliquez ensuite sur la carte pour positionner la bulle et écrivez votre texte. Glissez la poignée (⠿) pour la déplacer ; × pour la supprimer.</p>
+                        <p class="hint-text">Cliquez ensuite sur la carte pour positionner la bulle et écrivez votre texte. Glissez la poignée (⠿) pour la déplacer, ⚙ pour choisir sa police/taille/couleurs, × pour la supprimer.</p>
                         <button class="btn btn-secondary btn-block" id="btn-clear-annotations">🗑️ Vider les annotations</button>
                     </div>
                 </div>
@@ -336,6 +350,7 @@
     <script src="./js/geo-engine.js"></script>
     <script src="./js/pictogram-catalog.js"></script>
     <script src="./js/dsfr-pictogram-catalog.js"></script>
+    <script src="./js/font-catalog.js"></script>
     <script src="./js/studio.js"></script>
     <script src="./js/pwa.js"></script>
 </body>

@@ -105,6 +105,38 @@ document.addEventListener('DOMContentLoaded', () => {
     updateMapScale();
 
     // ---------------------------------------------------------------
+    // POLICES (titre, étiquettes) — catalogue issu du projet ArduPaint
+    // (Google Fonts, self-hébergées) + Marianne.
+    // ---------------------------------------------------------------
+    function appendFontOptions(selectEl, selectedFont) {
+        FONT_CATALOG.forEach(cat => {
+            const grp = document.createElement('optgroup');
+            grp.label = cat.group;
+            cat.fonts.forEach(font => {
+                const opt = document.createElement('option');
+                opt.value = font;
+                opt.textContent = font;
+                opt.style.fontFamily = `"${font}", sans-serif`;
+                if (font === selectedFont) opt.selected = true;
+                grp.appendChild(opt);
+            });
+            selectEl.appendChild(grp);
+        });
+    }
+
+    ['title-font-select', 'label-font-select'].forEach(id => {
+        appendFontOptions(document.getElementById(id), DEFAULT_FONT);
+    });
+
+    // Précharge une police avant de l'utiliser pour un rendu/une mesure de texte,
+    // afin d'éviter tout décalage lié au chargement asynchrone du fichier WOFF2.
+    async function ensureFontLoaded(fontFamily) {
+        try {
+            await document.fonts.load(`700 16px "${fontFamily}"`);
+        } catch (e) { /* police indisponible : repli sur la police système */ }
+    }
+
+    // ---------------------------------------------------------------
     // PICTOGRAMMES THÉMATIQUES
     // Deux jeux d'icônes : OCHA Humanitarian Icons (domaine public)
     // et pictogrammes DSFR / Remix Icon (licence MIT / Apache 2.0)
@@ -402,10 +434,19 @@ document.addEventListener('DOMContentLoaded', () => {
             bubble.className = 'annotation-bubble';
             bubble.style.width = `${ann.width || 180}px`;
             if (ann.height) bubble.style.height = `${ann.height}px`;
+            bubble.style.background = ann.bgColor || '#ffffff';
 
             const handle = document.createElement('div');
             handle.className = 'annotation-bubble-handle';
             handle.innerHTML = '<span>⠿</span>';
+
+            const settingsBtn = document.createElement('button');
+            settingsBtn.type = 'button';
+            settingsBtn.className = 'annotation-bubble-settings-btn';
+            settingsBtn.innerHTML = '⚙';
+            settingsBtn.title = 'Police, taille et couleurs de cette bulle';
+            handle.appendChild(settingsBtn);
+
             const delBtn = document.createElement('button');
             delBtn.type = 'button';
             delBtn.className = 'annotation-bubble-delete';
@@ -418,14 +459,77 @@ document.addEventListener('DOMContentLoaded', () => {
             textEl.contentEditable = 'true';
             textEl.dataset.placeholder = 'Votre annotation...';
             textEl.innerText = ann.text || '';
+            textEl.style.fontFamily = `"${ann.font || DEFAULT_FONT}", sans-serif`;
+            textEl.style.fontSize = `${ann.fontSize || 14}px`;
+            textEl.style.color = ann.textColor || '#1e1e1e';
 
             const resizeHandle = document.createElement('div');
             resizeHandle.className = 'annotation-bubble-resize';
             resizeHandle.title = 'Redimensionner';
 
+            // Panneau de réglages individuels (police, taille, couleurs)
+            const settingsPanel = document.createElement('div');
+            settingsPanel.className = 'annotation-settings-panel';
+            settingsPanel.style.display = 'none';
+
+            const fontLabel = document.createElement('label');
+            fontLabel.textContent = 'Police';
+            const fontSelect = document.createElement('select');
+            appendFontOptions(fontSelect, ann.font || DEFAULT_FONT);
+
+            const sizeLabel = document.createElement('label');
+            sizeLabel.textContent = 'Taille (px)';
+            const sizeInput = document.createElement('input');
+            sizeInput.type = 'number';
+            sizeInput.min = '10'; sizeInput.max = '40';
+            sizeInput.value = ann.fontSize || 14;
+
+            const textColorLabel = document.createElement('label');
+            textColorLabel.textContent = 'Couleur du texte';
+            const textColorInput = document.createElement('input');
+            textColorInput.type = 'color';
+            textColorInput.value = ann.textColor || '#1e1e1e';
+
+            const bgColorLabel = document.createElement('label');
+            bgColorLabel.textContent = 'Couleur de fond';
+            const bgColorInput = document.createElement('input');
+            bgColorInput.type = 'color';
+            bgColorInput.value = ann.bgColor || '#ffffff';
+
+            settingsPanel.append(fontLabel, fontSelect, sizeLabel, sizeInput, textColorLabel, textColorInput, bgColorLabel, bgColorInput);
+
+            fontSelect.addEventListener('change', () => {
+                ann.font = fontSelect.value;
+                textEl.style.fontFamily = `"${ann.font}", sans-serif`;
+            });
+            sizeInput.addEventListener('input', () => {
+                ann.fontSize = parseFloat(sizeInput.value) || 14;
+                textEl.style.fontSize = `${ann.fontSize}px`;
+            });
+            textColorInput.addEventListener('input', () => {
+                ann.textColor = textColorInput.value;
+                textEl.style.color = ann.textColor;
+            });
+            bgColorInput.addEventListener('input', () => {
+                ann.bgColor = bgColorInput.value;
+                bubble.style.background = ann.bgColor;
+            });
+            [fontSelect, sizeInput, textColorInput, bgColorInput].forEach(el => {
+                el.addEventListener('click', (e) => e.stopPropagation());
+                el.addEventListener('mousedown', (e) => e.stopPropagation());
+            });
+
+            settingsBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                const isOpen = settingsPanel.style.display !== 'none';
+                settingsPanel.style.display = isOpen ? 'none' : 'flex';
+                settingsBtn.classList.toggle('is-open', !isOpen);
+            });
+
             bubble.appendChild(handle);
             bubble.appendChild(textEl);
             bubble.appendChild(resizeHandle);
+            bubble.appendChild(settingsPanel);
             bubbleLayer.appendChild(bubble);
 
             // Empêche le clic dans la bulle de déclencher un placement sur la carte
@@ -442,6 +546,10 @@ document.addEventListener('DOMContentLoaded', () => {
             bubble.addEventListener('focusout', syncCurveHandleVisibility);
 
             textEl.addEventListener('input', () => { ann.text = textEl.innerText; });
+            textEl.addEventListener('focusin', () => {
+                settingsPanel.style.display = 'none';
+                settingsBtn.classList.remove('is-open');
+            });
 
             delBtn.addEventListener('click', (e) => {
                 e.stopPropagation();
@@ -643,7 +751,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 epci: document.getElementById('sel-epci')?.value,
                 commune: document.getElementById('sel-commune')?.value,
                 title: document.getElementById('map-title')?.value,
+                titleFont: document.getElementById('title-font-select')?.value || DEFAULT_FONT,
+                titleFontSize: parseFloat(document.getElementById('title-font-size')?.value) || 17,
                 labelType: document.getElementById('label-type')?.value,
+                labelFont: document.getElementById('label-font-select')?.value || DEFAULT_FONT,
                 showLegend: showLegend,
                 palette: document.getElementById('map-palette')?.value || 'default',
                 customColors: document.getElementById('map-palette')?.value === 'custom' ? getCustomColorsArray() : null,
@@ -664,6 +775,7 @@ document.addEventListener('DOMContentLoaded', () => {
             currentMapConfig = config;
             currentMapData = mapData;
 
+            await Promise.all([ensureFontLoaded(config.titleFont), ensureFontLoaded(config.labelFont)]);
             const success = await drawD3Map(document.getElementById('map-preview-area'), config, mapData);
 
             if (!success) {
@@ -825,6 +937,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 hiddenDiv.style.background = '#fff';
                 document.body.appendChild(hiddenDiv);
 
+                await Promise.all([ensureFontLoaded(currentMapConfig.titleFont), ensureFontLoaded(currentMapConfig.labelFont)]);
                 await drawD3Map(hiddenDiv, currentMapConfig, currentMapData);
                 await renderPictogramOverlay(hiddenDiv, currentMapConfig.pictograms || []);
                 renderAnnotationOverlay(hiddenDiv, currentMapConfig.annotations || []);
@@ -911,6 +1024,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
 
                 document.getElementById('map-title').value = config.title || "";
+                document.getElementById('title-font-select').value = config.titleFont || DEFAULT_FONT;
+                document.getElementById('title-font-size').value = config.titleFontSize || 17;
+                document.getElementById('label-font-select').value = config.labelFont || DEFAULT_FONT;
                 document.getElementById('map-scale').value = config.scale || "national";
                 document.getElementById('label-type').value = config.labelType || "none";
                 document.getElementById('map-show-legend').checked = config.showLegend !== false;

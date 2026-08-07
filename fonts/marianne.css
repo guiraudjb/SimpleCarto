@@ -1,0 +1,63 @@
+/*
+ * Police Marianne — NON couverte par la licence des autres polices de ce
+ * dossier (voir LICENSE.txt). Usage réservé par le SIG aux administrations
+ * centrales, préfectures, ambassades, opérateurs de l'État, etc. Conditions
+ * d'usage encore en clarification côté SIG au moment de l'intégration.
+ * Fichiers repris de dsfr-v1.14.3 (GouvernementFR/dsfr), dossier dist/fonts.
+ */
+@font-face {
+  font-family: Marianne;
+  src: url("./Marianne-Light.woff2") format("woff2"), url("./Marianne-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Marianne;
+  src: url("./Marianne-Light_Italic.woff2") format("woff2"), url("./Marianne-Light_Italic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: Marianne;
+  src: url("./Marianne-Regular.woff2") format("woff2"), url("./Marianne-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Marianne;
+  src: url("./Marianne-Regular_Italic.woff2") format("woff2"), url("./Marianne-Regular_Italic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: Marianne;
+  src: url("./Marianne-Medium.woff2") format("woff2"), url("./Marianne-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Marianne;
+  src: url("./Marianne-Medium_Italic.woff2") format("woff2"), url("./Marianne-Medium_Italic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: Marianne;
+  src: url("./Marianne-Bold.woff2") format("woff2"), url("./Marianne-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Marianne;
+  src: url("./Marianne-Bold_Italic.woff2") format("woff2"), url("./Marianne-Bold_Italic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}

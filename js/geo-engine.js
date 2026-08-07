@@ -89,6 +89,44 @@ function computeValorAggregation(rawData, targetScale, calcMode, colCode, col1, 
     return finalMap;
 }
 
+// Découpe un titre en lignes : respecte les retours à la ligne manuels (\n)
+// puis, dans chaque segment, ajoute des retours automatiques si le texte
+// dépasse la largeur disponible (mesure réelle via getComputedTextLength).
+function wrapTitleLines(svg, text, maxWidth, fontSize, fontFamily) {
+    if (!text) return [];
+
+    const measurer = svg.append("text")
+        .style("font-weight", "bold")
+        .style("font-size", `${fontSize}px`)
+        .style("font-family", fontFamily)
+        .style("opacity", 0);
+
+    const manualLines = text.replace(/\r\n/g, "\n").split("\n");
+    const wrapped = [];
+
+    manualLines.forEach(manualLine => {
+        const words = manualLine.split(/\s+/).filter(Boolean);
+        if (words.length === 0) { wrapped.push(""); return; }
+
+        let currentLine = "";
+        words.forEach(word => {
+            const testLine = currentLine ? `${currentLine} ${word}` : word;
+            measurer.text(testLine);
+            const testWidth = measurer.node().getComputedTextLength();
+            if (testWidth > maxWidth && currentLine) {
+                wrapped.push(currentLine);
+                currentLine = word;
+            } else {
+                currentLine = testLine;
+            }
+        });
+        if (currentLine) wrapped.push(currentLine);
+    });
+
+    measurer.remove();
+    return wrapped;
+}
+
 function forceRectCollide(padding) {
     let nodes;
     function force(alpha) {
@@ -164,6 +202,17 @@ async function drawD3Map(container, config, dataMap) {
     if (targetFeatures.length === 0) return false;
 
     const svg = d3.select(container).append("svg").attr("width", width).attr("height", height);
+
+    // Zone de titre dynamique : retour à la ligne automatique (en plus des
+    // retours manuels saisis par l'utilisateur), avec une hauteur réservée
+    // qui s'adapte au nombre de lignes pour ne jamais chevaucher la carte.
+    const titleFontFamily = `"${config.titleFont || DEFAULT_FONT}", 'Segoe UI', Arial, sans-serif`;
+    const titleFontSize = config.titleFontSize || 17;
+    const titleLineHeight = Math.round(titleFontSize * 1.3);
+    const titleMaxWidth = Math.max(40, width - 40);
+    const titleLines = wrapTitleLines(svg, config.title || '', titleMaxWidth, titleFontSize, titleFontFamily);
+    const titleBlockHeight = titleLines.length > 0 ? (14 + titleLines.length * titleLineHeight + 10) : 24;
+
     let projection = (config.scale === 'world') ? d3.geoMercator().scale(1).translate([0,0]) : d3.geoConicConformal().center([2.45, 46.2]).scale(1).translate([0,0]);
     const path = d3.geoPath().projection(projection);
 
@@ -177,8 +226,9 @@ async function drawD3Map(container, config, dataMap) {
     }
 
     const bounds = path.bounds({type: "FeatureCollection", features: cameraFeatures});
-    const s = .85 / Math.max((bounds[1][0] - bounds[0][0]) / width, (bounds[1][1] - bounds[0][1]) / height);
-    const t = [(width - s * (bounds[1][0] + bounds[0][0])) / 2, ((height - 40) - s * (bounds[1][1] + bounds[0][1])) / 2];
+    const availableMapHeight = Math.max(40, height - 40 - titleBlockHeight);
+    const s = .85 / Math.max((bounds[1][0] - bounds[0][0]) / width, (bounds[1][1] - bounds[0][1]) / availableMapHeight);
+    const t = [(width - s * (bounds[1][0] + bounds[0][0])) / 2, ((titleBlockHeight + height - 40) - s * (bounds[1][1] + bounds[0][1])) / 2];
     projection.scale(s).translate(t);
 
     const rootStyle = getComputedStyle(document.documentElement);
@@ -268,7 +318,7 @@ async function drawD3Map(container, config, dataMap) {
             .attr("class", "label")
             .attr("x", d => d.x).attr("y", d => d.y).attr("text-anchor", "middle")
             .style("font-size", `${lSize}px`)
-            .style("font-family", "'Segoe UI', Arial, sans-serif")
+            .style("font-family", `"${config.labelFont || DEFAULT_FONT}", 'Segoe UI', Arial, sans-serif`)
             .style("font-weight", "700")
             .style("fill", mainColor)
             .attr("stroke", "#ffffff")
@@ -282,7 +332,20 @@ async function drawD3Map(container, config, dataMap) {
             });
     }
 
-    svg.append("text").attr("x", 20).attr("y", 35).style("font-weight", "bold").style("font-size", "1.1rem").style("fill", mainColor).text(config.title);
+    if (titleLines.length > 0) {
+        const titleEl = svg.append("text")
+            .attr("x", 20)
+            .style("font-weight", "bold")
+            .style("font-size", `${titleFontSize}px`)
+            .style("font-family", titleFontFamily)
+            .style("fill", mainColor);
+        titleLines.forEach((line, idx) => {
+            titleEl.append("tspan")
+                .attr("x", 20)
+                .attr("y", 14 + titleFontSize + idx * titleLineHeight)
+                .text(line);
+        });
+    }
 
     if (dataMap && dataMap.size > 0 && minVal !== maxVal && config.showLegend !== false) {
         const legendWidth = 200, legendHeight = 12;
