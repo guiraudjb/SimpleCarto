@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000091"/>
+      <stop offset="100%" stop-color="#1212b3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Pin de carte -->
+  <g transform="translate(120,155) scale(0.55)">
+    <circle cx="256" cy="205" r="118" fill="#ffffff"/>
+    <path d="M132,205 L256,410 L380,205 Z" fill="#ffffff"/>
+    <circle cx="256" cy="205" r="46" fill="#000091"/>
+  </g>
+
+  <text x="360" y="300" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="72" font-weight="bold" fill="#ffffff">SimpleCarto</text>
+  <text x="362" y="352" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="30" fill="#c5c5fb">Générateur de cartes thématiques — France &amp; Monde</text>
+
+  <text x="362" y="420" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="22" fill="#9a9af0">Communes · Départements · Régions · Pays du monde</text>
+
+  <g font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="20" font-weight="bold">
+    <rect x="362" y="460" width="150" height="42" rx="6" fill="#ffffff"/>
+    <text x="437" y="487" text-anchor="middle" fill="#000091">Gratuit</text>
+
+    <rect x="524" y="460" width="200" height="42" rx="6" fill="#ffffff"/>
+    <text x="624" y="487" text-anchor="middle" fill="#000091">100% hors-ligne</text>
+
+    <rect x="736" y="460" width="230" height="42" rx="6" fill="#ffffff"/>
+    <text x="851" y="487" text-anchor="middle" fill="#000091">Sans inscription</text>
+  </g>
+</svg>

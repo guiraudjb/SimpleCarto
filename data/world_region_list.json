@@ -1,0 +1,431 @@
+[
+{
+    "code": "ARCMA",
+    "category": "Géographique",
+    "name": "Espace maritime Mer Rouge, Golfes d'Aden, d'Oman et Arabo-Persique",
+    "countries": ["ARE", "BHR", "DJI", "EGY", "ERI", "IRN", "IRQ", "ISR", "JOR", "KWT", "OMN", "PAK", "QAT", "SAU", "SDN", "SOM","ABV", "YEM"]
+  },
+  {
+    "code": "AMRNOR",
+    "category": "Géographique",
+    "name": "Amérique du Nord",
+    "countries": ["CAN", "MEX", "USA"]
+  },
+  {
+    "code": "AMRSUD",
+    "category": "Géographique",
+    "name": "Amérique du Sud",
+    "countries": ["ARG", "BOL", "BRA", "CHL", "COL", "ECU", "GUY", "PER", "PRY", "SUR", "URY", "VEN"]
+  },
+  {
+    "code": "EUROES",
+    "category": "Géographique",
+    "name": "Europe de l'Ouest",
+    "countries": ["AUT", "BEL", "CHE", "DEU", "FRA", "LIE", "LUX", "MCO", "NLD"]
+  },
+  {
+    "code": "EUREST",
+    "category": "Géographique",
+    "name": "Europe de l'Est",
+    "countries": ["BGR", "BLR", "CZE", "HUN", "MDA", "POL", "ROU", "RUS", "SVK", "UKR"]
+  },
+  {
+    "code": "EURNOR",
+    "category": "Géographique",
+    "name": "Europe du Nord",
+    "countries": ["DNK", "EST", "FIN", "GBR", "IRL", "ISL", "LTU", "LVA", "NOR", "SWE"]
+  },
+  {
+    "code": "EURSUD",
+    "category": "Géographique",
+    "name": "Europe du Sud",
+    "countries": ["ALB", "AND", "BIH", "ESP", "GRC", "HRV", "ITA", "MKD", "MLT", "MNE", "PRT", "SMR", "SRB", "SVN", "VAT"]
+  },
+  {
+    "code": "ASIEST",
+    "category": "Géographique",
+    "name": "Asie de l'Est",
+    "countries": ["CHN", "JPN", "KOR", "MNG", "PRK", "TWN"]
+  },
+  {
+  "code": "AFRIQ",
+  "category": "Géographique",
+  "name": "Afrique",
+  "countries": [
+    "ABV", "AGO", "BDI", "BEN", "BFA", "BWA", "CAF", "CIV", "CMR", 
+    "COD", "COG", "COM", "CPV", "DJI", "DZA", "EGY", "ERI", "ESH", 
+    "ETH", "GAB", "GHA", "GIN", "GMB", "GNB", "GNQ", "KEN", "LBR", 
+    "LBY", "LSO", "MAR", "MDG", "MLI", "MOZ", "MRT", "MUS", "MWI", 
+    "NAM", "NER", "NGA", "RWA", "SDN", "SEN", "SLE", "SOM", "SSD", 
+    "STP", "SWZ", "SYC", "TCD", "TGO", "TUN", "TZA", "UGA", "ZAF", 
+    "ZMB", "ZWE"
+  ]
+},
+  {
+  "code": "AFRNOR",
+  "category": "Géographique",
+  "name": "Afrique du Nord",
+  "countries": ["DZA", "EGY", "ESH", "LBY", "MAR", "MRT", "SDN", "TUN"]
+},
+  {
+    "code": "AFROUE",
+    "category": "Géographique",
+    "name": "Afrique de l'Ouest",
+    "countries": ["BEN", "BFA", "CIV", "CPV", "GHA", "GIN", "GMB", "GNB", "LBR", "MLI", "MRT", "NER", "NGA", "SEN", "SLE", "TGO"]
+  },
+  {
+    "code": "AFRCEN",
+    "category": "Géographique",
+    "name": "Afrique Centrale",
+    "countries": ["AGO", "CAF", "CMR", "COD", "COG", "GAB", "GNQ", "STP", "TCD"]
+  },
+  {
+    "code": "AFREST",
+    "category": "Géographique",
+    "name": "Afrique de l'Est",
+    "countries": ["BDI", "COM", "DJI", "ERI", "ETH", "KEN", "MDG", "MUS", "RWA", "SDN", "SOM", "SSD", "SYC", "TZA", "UGA"]
+  },
+  {
+    "code": "AFRAUS",
+    "category": "Géographique",
+    "name": "Afrique Australe",
+    "countries": ["BWA", "LSO", "NAM", "SWZ", "ZAF"]
+  },
+  {
+    "code": "AUSTRA",
+    "category": "Géographique",
+    "name": "Australasie",
+    "countries": ["AUS", "NZL"]
+  },
+  {
+    "code": "ARCTIQ",
+    "category": "Géographique",
+    "name": "Arctique",
+    "countries": ["CAN", "DNK", "FIN", "ISL", "NOR", "RUS", "SWE", "USA"]
+  },
+  {
+    "code": "MEDIT",
+    "category": "Géographique",
+    "name": "Bassin Méditerranéen",
+    "countries": ["ALB", "BIH", "CYP", "DZA", "EGY", "ESP", "FRA", "GRC", "HRV", "ISR", "ITA", "LBN", "LBY", "MAR", "MCO", "MLT", "MNE", "SVN", "SYR", "TUN", "TUR"]
+  },
+  {
+    "code": "NOIRE",
+    "category": "Géographique",
+    "name": "Pays Riverains de la Mer Noire",
+    "countries": ["BGR", "GEO", "ROU", "RUS", "TUR", "UKR"]
+  },
+  {
+    "code": "CASPI",
+    "category": "Géographique",
+    "name": "Pays Riverains de la Mer Caspienne",
+    "countries": ["AZE", "IRN", "KAZ", "RUS", "TKM"]
+  },
+  {
+    "code": "BALTIQ",
+    "category": "Géographique",
+    "name": "Conseil des États de la Mer Baltique",
+    "countries": ["DEU", "DNK", "EST", "FIN", "LTU", "LVA", "POL", "RUS", "SWE"]
+  },
+  {
+    "code": "CCG",
+    "category": "Diplomatique",
+    "name": "Conseil de Coopération du Golfe",
+    "countries": ["ARE", "BHR", "KWT", "OMN", "QAT", "SAU"]
+  },
+  {
+    "code": "ROUGE",
+    "category": "Géographique",
+    "name": "Conseil des Pays Riverains de la Mer Rouge et du Golfe d'Aden",
+    "countries": ["DJI", "EGY", "ERI", "JOR", "SAU", "SDN", "SOM", "YEM"]
+  },
+  {
+    "code": "IORA",
+    "category": "Géographique",
+    "name": "Association des Riverains de l'Océan Indien",
+    "countries": ["ARE", "AUS", "BGD", "COM", "FRA", "IDN", "IND", "IRN", "KEN", "LKA", "MDG", "MOZ", "MUS", "MYS", "OMN", "SGP", "SOM", "SYC", "THA", "TZA", "YEM", "ZAF"]
+  },
+  {
+    "code": "FIP",
+    "category": "Géographique",
+    "name": "Forum des Îles du Pacifique",
+    "countries": ["AUS", "COK", "FJI", "FSM", "KIR", "MHL", "NIU", "NRU", "NZL", "PLW", "PNG", "SLB", "TON", "TUV", "VUT", "WSM"]
+  },
+  {
+    "code": "GUINEE",
+    "category": "Géographique",
+    "name": "Commission du Golfe de Guinée",
+    "countries": ["AGO", "CMR", "COD", "COG", "GAB", "GNQ", "NGA", "STP"]
+  },
+  {
+    "code": "GSEPT",
+    "category": "Diplomatique",
+    "name": "Groupe des Sept (G7)",
+    "countries": ["CAN", "DEU", "FRA", "GBR", "ITA", "JPN", "USA"]
+  },
+  {
+    "code": "GVINGT",
+    "category": "Diplomatique",
+    "name": "Groupe des Vingt (G20)",
+    "countries": ["ARG", "AUS", "BRA", "CAN", "CHN", "DEU", "FRA", "GBR", "IDN", "IND", "ITA", "JPN", "KOR", "MEX", "RUS", "SAU", "TUR", "USA", "ZAF"]
+  },
+  {
+    "code": "BRICS",
+    "category": "Diplomatique",
+    "name": "BRICS+",
+    "countries": ["ARE", "BRA", "CHN", "EGY", "ETH", "IND", "IRN", "RUS", "ZAF"]
+  },
+  {
+    "code": "UEURO",
+    "category": "Économique",
+    "name": "Union Européenne",
+    "countries": ["AUT", "BEL", "BGR", "HRV", "CYP", "CZE", "DNK", "ESP", "EST", "FIN", "FRA", "DEU", "GRC", "HUN", "IRL", "ITA", "LTU", "LUX", "LVA", "MLT", "NLD", "POL", "PRT", "ROU", "SVK", "SVN", "SWE"]
+  },
+  {
+    "code": "OTAN",
+    "category": "Stratégique",
+    "name": "Organisation du Traité de l'Atlantique Nord",
+    "countries": ["ALB", "BEL", "BGR", "CAN", "HRV", "CZE", "DNK", "ESP", "EST", "FIN", "FRA", "GBR", "DEU", "GRC", "HUN", "ISL", "ITA", "LTU", "LUX", "LVA", "MKD", "MNE", "NLD", "NOR", "POL", "PRT", "ROU", "SVK", "SVN", "SWE", "TUR", "USA"]
+  },
+  {
+    "code": "ASEAN",
+    "category": "Diplomatique",
+    "name": "Association des Nations de l'Asie du Sud-Est",
+    "countries": ["BRN", "IDN", "KHM", "LAO", "MMR", "MYS", "PHL", "SGP", "THA", "VNM"]
+  },
+  {
+    "code": "MERCOS",
+    "category": "Économique",
+    "name": "Marché Commun du Sud",
+    "countries": ["ARG", "BOL", "BRA", "PRY", "URY"]
+  },
+  {
+    "code": "ACEUM",
+    "category": "Économique",
+    "name": "Accord Canada–États-Unis–Mexique",
+    "countries": ["CAN", "MEX", "USA"]
+  },
+  {
+    "code": "CEDEAO",
+    "category": "Économique",
+    "name": "Communauté Économique des États de l'Afrique de l'Ouest",
+    "countries": ["BEN", "CIV", "CPV", "GHA", "GIN", "GMB", "GNB", "LBR", "MLI", "MRT", "NER", "NGA", "SEN", "SLE", "TGO"]
+  },
+  {
+    "code": "AES",
+    "category": "Stratégique",
+    "name": "Alliance des États du Sahel",
+    "countries": ["BFA", "MLI", "NER"]
+  },
+  {
+    "code": "AUKUS",
+    "category": "Stratégique",
+    "name": "Pacte de Sécurité AUKUS",
+    "countries": ["AUS", "GBR", "USA"]
+  },
+  {
+    "code": "QUAD",
+    "category": "Stratégique",
+    "name": "Dialogue Quadrilatéral pour la Sécurité",
+    "countries": ["AUS", "IND", "JPN", "USA"]
+  },
+  {
+    "code": "ARABE",
+    "category": "Diplomatique",
+    "name": "Ligue des États Arabes",
+    "countries": ["ARE", "BHR", "COM", "DJI", "DZA", "EGY", "IRQ", "JOR", "KWT", "LBN", "LBY", "MAR", "MRT", "OMN", "PSE", "QAT", "SAU", "SDN", "SOM", "SYR", "TUN", "YEM"]
+  },
+  {
+    "code": "OTSC",
+    "category": "Stratégique",
+    "name": "Organisation du Traité de Sécurité Collective",
+    "countries": ["ARM", "BLR", "KAZ", "KGZ", "RUS", "TJK"]
+  },
+  {
+    "code": "OCS",
+    "category": "Diplomatique",
+    "name": "Organisation de Coopération de Shanghai",
+    "countries": ["BLR", "CHN", "IND", "IRN", "KAZ", "KGZ", "PAK", "RUS", "TJK", "UZB"]
+  },
+  {
+    "code": "SCAND",
+    "category": "Géographique",
+    "name": "Pays Scandinaves",
+    "countries": ["DNK", "NOR", "SWE"]
+  },
+  {
+    "code": "BNLUX",
+    "category": "Économique",
+    "name": "Union Benelux",
+    "countries": ["BEL", "LUX", "NLD"]
+  },
+  {
+    "code": "BALTES",
+    "category": "Géographique",
+    "name": "Pays Baltes",
+    "countries": ["EST", "LTU", "LVA"]
+  },
+  {
+    "code": "VISEG",
+    "category": "Diplomatique",
+    "name": "Groupe de Visegrád",
+    "countries": ["CZE", "HUN", "POL", "SVK"]
+  },
+  {
+    "code": "AELE",
+    "category": "Économique",
+    "name": "Association Européenne de Libre-Échange",
+    "countries": ["CHE", "ISL", "LIE", "NOR"]
+  },
+  {
+    "code": "MOYENO",
+    "category": "Géographique",
+    "name": "Moyen-Orient",
+    "countries": ["ARE", "BHR", "CYP", "EGY", "IRN", "IRQ", "ISR", "JOR", "KWT", "LBN", "OMN", "PSE", "QAT", "SAU", "SYR", "TUR", "YEM"]
+  },
+  {
+    "code": "CARICO",
+    "category": "Géographique",
+    "name": "Communauté Caribéenne",
+    "countries": ["ATG", "BHS", "BLZ", "BRB", "DMA", "GRD", "GUY", "HTI", "JAM", "KNA", "LCA", "MSR", "SUR", "TTO", "VCT"]
+  },
+  {
+    "code": "CAE",
+    "category": "Géographique",
+    "name": "Communauté d'Afrique de l'Est",
+    "countries": ["BDI", "COD", "KEN", "RWA", "SOM", "SSD", "TZA", "UGA"]
+  },
+  {
+    "code": "FVEY",
+    "category": "Stratégique",
+    "name": "Alliance des Cinq Yeux",
+    "countries": ["AUS", "CAN", "GBR", "NZL", "USA"]
+  },
+  {
+    "code": "UMA",
+    "category": "Diplomatique",
+    "name": "Union du Maghreb Arabe",
+    "countries": ["DZA", "LBY", "MAR", "MRT", "TUN"]
+  },
+  {
+  "code": "CEE",
+  "category": "Économique",
+  "name": "Communauté Économique Européenne (CEE)",
+  "countries": ["BEL", "DEU", "DNK", "ESP", "FRA", "GBR", "GRC", "IRL", "ITA", "LUX", "NLD", "PRT"]
+},
+{
+  "code": "UEURO",
+  "category": "Économique",
+  "name": "Union Européenne (UE)",
+  "countries": ["AUT", "BEL", "BGR", "HRV", "CYP", "CZE", "DNK", "ESP", "EST", "FIN", "FRA", "DEU", "GRC", "HUN", "IRL", "ITA", "LTU", "LUX", "LVA", "MLT", "NLD", "POL", "PRT", "ROU", "SVK", "SVN", "SWE"]
+},
+{
+  "code": "ZONEUR",
+  "category": "Économique",
+  "name": "Zone Euro",
+  "countries": ["AUT", "BEL", "HRV", "CYP", "EST", "FIN", "FRA", "DEU", "GRC", "IRL", "ITA", "LVA", "LTU", "LUX", "MLT", "NLD", "PRT", "SVK", "SVN", "ESP"]
+},
+
+  {
+    "code": "OPEP",
+    "category": "Économique",
+    "name": "Organisation des Pays Exportateurs de Pétrole",
+    "countries": ["DZA", "COG", "GNQ", "GAB", "IRN", "IRQ", "KWT", "LBY", "NGA", "SAU", "ARE", "VEN"]
+  },
+  {
+    "code": "OCDE",
+    "category": "Économique",
+    "name": "Organisation de Coopération et de Développement Économiques",
+    "countries": ["AUS", "AUT", "BEL", "CAN", "CHL", "COL", "CRI", "CZE", "DNK", "EST", "FIN", "FRA", "DEU", "GRC", "HUN", "ISL", "IRL", "ISR", "ITA", "JPN", "KOR", "LVA", "LTU", "LUX", "MEX", "NLD", "NZL", "NOR", "POL", "PRT", "SVK", "SVN", "ESP", "SWE", "CHE", "TUR", "GBR", "USA"]
+  },
+  {
+    "code": "UEEA",
+    "category": "Économique",
+    "name": "Union Économique Eurasiatique",
+    "countries": ["ARM", "BLR", "KAZ", "KGZ", "RUS"]
+  },
+  {
+    "code": "APEC",
+    "category": "Économique",
+    "name": "Coopération Économique pour l'Asie-Pacifique",
+    "countries": ["AUS", "BRN", "CAN", "CHL", "CHN", "HKG", "IDN", "JPN", "KOR", "MYS", "MEX", "NZL", "PNG", "PER", "PHL", "RUS", "SGP", "TWN", "THA", "USA", "VNM"]
+  },
+  {
+    "code": "UAFR",
+    "category": "Diplomatique",
+    "name": "Union Africaine",
+    "countries": ["AGO", "BDI", "BEN", "BFA", "BWA", "CAF", "CIV", "CMR", "COD", "COG", "COM", "CPV", "DJI", "DZA", "EGY", "ERI", "ESH", "ETH", "GAB", "GHA", "GIN", "GMB", "GNB", "GNQ", "KEN", "LBR", "LBY", "LSO", "MAR", "MDG", "MLI", "MOZ", "MRT", "MUS", "MWI", "NAM", "NER", "NGA", "RWA", "SDN", "SEN", "SLE", "SOM", "SSD", "STP", "SWZ", "SYC", "TCD", "TGO", "TUN", "TZA", "UGA", "ZAF", "ZMB", "ZWE"]
+  },
+  {
+    "code": "OEA",
+    "category": "Diplomatique",
+    "name": "Organisation des États Américains",
+    "countries": ["ARG", "ATG", "BHS", "BLZ", "BOL", "BRA", "BRB", "CAN", "CHL", "COL", "CRI", "CUB", "DMA", "DOM", "ECU", "GRD", "GTM", "GUY", "HND", "HTI", "JAM", "KNA", "LCA", "MEX", "NIC", "PAN", "PER", "PRY", "SLV", "SUR", "TTO", "URY", "USA", "VCT", "VEN"]
+  },
+  {
+    "code": "OIF",
+    "category": "Diplomatique",
+    "name": "Organisation Internationale de la Francophonie",
+    "countries": ["ALB", "AND", "ARM", "BDI", "BEL", "BEN", "BFA", "BGR", "CAF", "CAN", "CHE", "CIV", "CMR", "COD", "COG", "COM", "CPV", "DJI", "DMA", "EGY", "FRA", "GAB", "GIN", "GNB", "GNQ", "GRC", "HTI", "KHM", "LAO", "LBN", "LCA", "LUX", "MAR", "MCO", "MDG", "MKD", "MLI", "MRT", "MUS", "NER", "ROU", "RWA", "SEN", "STP", "SYC", "TCD", "TGO", "TUN", "VNM", "VUT"]
+  },
+  {
+    "code": "COMMON",
+    "category": "Diplomatique",
+    "name": "Commonwealth des Nations",
+    "countries": ["ATG", "AUS", "BGD", "BHS", "BLZ", "BRB", "BRN", "BWA", "CAN", "CMR", "CYP", "DMA", "FJI", "GAB", "GBR", "GHA", "GMB", "GRD", "GUY", "IND", "JAM", "KEN", "KIR", "KNA", "LCA", "LKA", "LSO", "MDV", "MLT", "MOZ", "MUS", "MWI", "MYS", "NAM", "NGA", "NRU", "NZL", "PAK", "PNG", "RWA", "SGP", "SLB", "SLE", "SWZ", "SYC", "TGO", "TON", "TTO", "TUV", "UGA", "VCT", "VUT", "WSM", "ZAF", "ZMB"]
+  },
+  {
+    "code": "OCI",
+    "category": "Diplomatique",
+    "name": "Organisation de la Coopération Islamique",
+    "countries": ["AFG", "ALB", "ARE", "AZE", "BDI", "BFA", "BGD", "BHR", "BRN", "CIV", "CMR", "COM", "DJI", "DZA", "EGY", "GAB", "GIN", "GMB", "GNB", "GUY", "IDN", "IRN", "IRQ", "JOR", "KAZ", "KGZ", "KWT", "LBN", "LBY", "MAR", "MDV", "MLI", "MOZ", "MRT", "MYS", "NER", "NGA", "OMN", "PAK", "PSE", "QAT", "SAU", "SDN", "SEN", "SLE", "SOM", "SUR", "SYR", "TCD", "TGO", "TJK", "TKM", "TUN", "TUR", "UGA", "UZB", "YEM"]
+  },
+  {
+    "code": "UKRUS",
+    "category": "Conflit",
+    "name": "Théâtre de guerre Russo-Ukrainien",
+    "countries": ["UKR", "RUS"]
+  },
+  {
+    "code": "PROCHEO",
+    "category": "Conflit",
+    "name": "Zone de conflit Proche-Orientale",
+    "countries": ["ISR", "PSE", "LBN", "IRN", "SYR"]
+  },
+  {
+    "code": "SOUDAN",
+    "category": "Conflit",
+    "name": "Guerre civile soudanaise",
+    "countries": ["SDN", "TCD", "SSD"]
+  },
+  {
+    "code": "SAHEL_C",
+    "category": "Conflit",
+    "name": "Zone d'insurrection Sahélienne",
+    "countries": ["MLI", "BFA", "NER", "NGA"]
+  },
+  {
+    "code": "MYANM",
+    "category": "Conflit",
+    "name": "Guerre civile du Myanmar",
+    "countries": ["MMR", "THA", "CHN"]
+  },
+  {
+    "code": "RDC_EST",
+    "category": "Conflit",
+    "name": "Zone de conflit Kivu-Ituri",
+    "countries": ["COD", "RWA", "UGA"]
+  },
+  {
+    "code": "TAIWAN_S",
+    "category": "Conflit",
+    "name": "Point de friction Détroit de Taïwan",
+    "countries": ["CHN", "TWN", "USA"]
+  },
+  {
+    "code": "ARCMA",
+    "category": "Conflit",
+    "name": "Crise de sécurité maritime (Mer Rouge/Aden)",
+    "countries": ["YEM", "SAU", "USA", "GBR", "IRN"]
+  }
+]

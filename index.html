@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SimpleCarto : générateur de cartes thématiques gratuit</title>
+
+    <meta name="description" content="Créez gratuitement des cartes thématiques de France (communes, départements, régions) et du monde depuis un CSV. Sans inscription, 100% hors-ligne.">
+    <meta name="keywords" content="carte thématique, générateur de carte, carte de France, carte interactive, données CSV, carte communes, carte départements, cartographie en ligne, carte statistique, data visualisation">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="SimpleCarto">
+    <link rel="canonical" href="https://guiraudjb.github.io/SimpleCarto/">
+
+    <!-- Open Graph / réseaux sociaux -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="SimpleCarto">
+    <meta property="og:locale" content="fr_FR">
+    <meta property="og:url" content="https://guiraudjb.github.io/SimpleCarto/">
+    <meta property="og:title" content="SimpleCarto : générateur de cartes thématiques gratuit">
+    <meta property="og:description" content="Créez gratuitement des cartes thématiques de France (communes, départements, régions) et du monde depuis un CSV. Sans inscription, 100% hors-ligne.">
+    <meta property="og:image" content="https://guiraudjb.github.io/SimpleCarto/icons/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="SimpleCarto — Générateur de cartes thématiques France & Monde">
+
+    <!-- Twitter / X Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="SimpleCarto : générateur de cartes thématiques gratuit">
+    <meta name="twitter:description" content="Créez gratuitement des cartes thématiques de France et du monde à partir d'un fichier CSV. Sans inscription, 100% hors-ligne.">
+    <meta name="twitter:image" content="https://guiraudjb.github.io/SimpleCarto/icons/og-image.png">
+    <meta name="twitter:image:alt" content="SimpleCarto — Générateur de cartes thématiques France & Monde">
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "SimpleCarto",
+        "url": "https://guiraudjb.github.io/SimpleCarto/",
+        "description": "Générateur de cartes thématiques de France (communes, départements, régions) et du monde à partir de données CSV. Gratuit, sans inscription, fonctionne hors-ligne.",
+        "applicationCategory": "Cartographie / Data visualisation",
+        "operatingSystem": "Tout navigateur web moderne",
+        "inLanguage": "fr-FR",
+        "isAccessibleForFree": true,
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "EUR"
+        }
+    }
+    </script>
+
+    <link rel="manifest" href="./manifest.json">
+    <meta name="theme-color" content="#000091">
+    <link rel="icon" href="./icons/favicon.ico">
+    <link rel="apple-touch-icon" href="./icons/icon-180.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="SimpleCarto">
+
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+
+    <header class="app-header">
+        <div class="app-header-row">
+            <div class="app-header-title">
+                <h1>🗺️ SimpleCarto</h1>
+                <p class="app-tagline">Générateur de cartes thématiques (France &amp; Monde) — 100% hors-ligne</p>
+            </div>
+            <div class="app-header-actions">
+                <button class="btn btn-header" id="btn-map-refresh">🔄 Actualiser la vue</button>
+                <button class="btn btn-header" id="btn-export-config" title="Sauvegarder tous les paramètres et données dans un fichier .json">💾 Exporter config</button>
+                <input type="file" id="config-import-file" accept=".json" style="display:none">
+                <button class="btn btn-header" id="btn-import-config" title="Recharger une configuration sauvegardée">📂 Importer config</button>
+                <button class="btn btn-header btn-header--primary" id="btn-download-png" title="Télécharger la carte en image PNG haute définition">⬇️ Télécharger PNG</button>
+                <button id="btn-install-app" class="btn btn-header" style="display:none;">📲 Installer l'application</button>
+            </div>
+        </div>
+    </header>
+
+    <main class="studio">
+        <section class="panel" aria-label="Paramètres de la carte">
+
+            <div class="field">
+                <label class="field-label" for="map-title">Titre</label>
+                <input class="text-input" type="text" id="map-title" value="Répartition statistique">
+            </div>
+
+            <div class="field">
+                <label class="field-label" for="map-scale">Échelle</label>
+                <select class="select-input" id="map-scale">
+                    <option value="world">Monde (Projections thématiques)</option>
+                    <option value="national" selected>France métropolitaine</option>
+                    <option value="region">Région (FR)</option>
+                    <option value="departement">Département (FR)</option>
+                    <option value="epci">EPCI (FR)</option>
+                    <option value="commune">Commune (FR)</option>
+                </select>
+                <div id="cascade-menus" class="cascade-menus"></div>
+            </div>
+
+            <hr class="divider">
+
+            <div class="field">
+                <label class="field-label">Données (.csv)</label>
+
+                <select class="select-input" id="csv-sample-select">
+                    <option value="">-- Charger un exemple --</option>
+                    <option value="./data/samples/france_communes.csv">Exemple : Communes de France (subventions)</option>
+                    <option value="./data/samples/france_departements.csv">Exemple : Départements de France (population, budget)</option>
+                    <option value="./data/samples/monde.csv">Exemple : Pays du monde (jeu de test)</option>
+                </select>
+
+                <div class="csv-or-divider">ou</div>
+
+                <input type="file" id="map-csv-file" accept=".csv" style="display:none">
+                <button class="btn btn-secondary btn-block" onclick="document.getElementById('map-csv-file').click()">⬆️ Importer un CSV</button>
+                <div id="csv-status" class="hint-text"></div>
+
+                <div id="calc-engine-ui" class="sub-panel" style="display:none;">
+                    <p class="sub-panel-title">📍 ID : <span id="label-insee-col"></span></p>
+                    <select id="calc-mode" class="select-input">
+                        <option value="simple">Somme brute</option>
+                        <option value="share">Part (%)</option>
+                        <option value="ratio">Ratio (C1/C2)</option>
+                        <option value="growth">Évo (C1/C2)</option>
+                    </select>
+                    <select id="calc-col1" class="select-input"></select>
+                    <select id="calc-col2" class="select-input" style="display:none;"></select>
+                </div>
+            </div>
+
+            <div class="field boxed">
+                <label class="field-label">Étiquettes</label>
+                <select class="select-input" id="label-type">
+                    <option value="name">Nom</option>
+                    <option value="value">Valeur</option>
+                    <option value="both">Nom + Val</option>
+                    <option value="none" selected>Aucune</option>
+                </select>
+
+                <div id="label-toolkit" class="label-toolkit" style="display:none;">
+                    <div class="row-between">
+                        <label class="small-label">Taille (px)</label>
+                        <input type="number" id="label-size" class="text-input tiny" value="10" min="6" max="24">
+                    </div>
+
+                    <hr class="divider">
+
+                    <div class="field">
+                        <label class="field-label small-label">Filtrer par nom ou code (ex: Paris, 75...)</label>
+                        <input type="text" id="label-filter-names" class="text-input" placeholder="Séparer par des virgules">
+                    </div>
+
+                    <div id="advanced-filter-ui" class="sub-panel" style="display:none;">
+                        <p class="sub-panel-title">🔍 Filtre de données (Étiquettes)</p>
+                        <select id="filter-col" class="select-input">
+                            <option value="">-- Champ à filtrer --</option>
+                        </select>
+                        <div class="row-inline">
+                            <select id="filter-operator" class="select-input" style="flex:1">
+                                <option value=">"> &gt; </option>
+                                <option value=">="> &gt;= </option>
+                                <option value="="> = </option>
+                                <option value="<="> &lt;= </option>
+                                <option value="<"> &lt; </option>
+                            </select>
+                            <input type="text" id="filter-value" class="text-input" placeholder="Valeur" style="flex:2">
+                        </div>
+                    </div>
+
+                    <div class="row-between">
+                        <label class="small-label">Aération</label>
+                        <input type="range" id="phys-padding" min="0" max="15" value="4" style="width:100px;">
+                    </div>
+                    <div class="row-between">
+                        <label class="small-label">Répulsion</label>
+                        <input type="range" id="phys-strength" min="0.05" max="0.5" step="0.05" value="0.15" style="width:100px;">
+                    </div>
+                </div>
+            </div>
+
+            <div class="checkbox-row">
+                <input type="checkbox" id="map-show-legend" checked>
+                <label for="map-show-legend">Afficher la légende de colorimétrie</label>
+            </div>
+
+            <div class="field boxed">
+                <label class="field-label">Pictogrammes thématiques</label>
+
+                <select class="select-input" id="pictogram-set">
+                    <option value="ocha">Humanitaire (OCHA — conflits, catastrophes...)</option>
+                    <option value="dsfr">Pictogrammes DSFR (État)</option>
+                </select>
+
+                <select class="select-input" id="pictogram-select" style="margin-top:0.5rem;"></select>
+
+                <div class="row-inline" style="margin-top:0.5rem;">
+                    <div class="pictogram-preview-frame" id="pictogram-preview-frame"></div>
+                    <div class="field" style="flex:1; gap:0.5rem;">
+                        <select class="select-input" id="pictogram-color">
+                            <option value="un-blue">Bleu ONU</option>
+                            <option value="black">Noir</option>
+                            <option value="white">Blanc</option>
+                        </select>
+                        <input type="color" class="text-input" id="pictogram-dsfr-color" value="#000091" style="display:none; padding:0.15rem; height:34px;">
+                        <div class="row-between">
+                            <label class="small-label">Taille (px)</label>
+                            <input type="number" id="pictogram-size" class="text-input tiny" value="28" min="12" max="96">
+                        </div>
+                    </div>
+                </div>
+
+                <p class="hint-text">Cliquez sur la carte pour placer le pictogramme sélectionné. Cliquez sur un pictogramme déjà placé pour le supprimer.</p>
+
+                <button class="btn btn-secondary btn-block" id="btn-clear-pictograms">🗑️ Vider les pictogrammes</button>
+            </div>
+
+            <div class="field boxed">
+                <label class="field-label">Palette de couleurs</label>
+                <select class="select-input" id="map-palette">
+                    <option value="default">Bleu (dégradé par défaut)</option>
+                    <option value="divergentDescending">Divergent (Vert → Jaune → Rouge)</option>
+                    <option value="divergentAscending">Divergent (Rouge → Jaune → Vert)</option>
+                    <option value="custom">Palette manuelle…</option>
+                </select>
+
+                <div id="palette-warning" class="warning-box" style="display:none;">
+                    ⚠️ <strong>Note :</strong> Cette palette est fixe.
+                </div>
+
+                <div id="custom-palette-ui" class="custom-palette-ui" style="display:none;">
+                    <div>
+                        <div class="swatch-header">
+                            <div id="cp-from-preview" class="swatch-preview"></div>
+                            <span class="swatch-title">Départ <span class="swatch-sub">(valeurs basses)</span></span>
+                        </div>
+                        <div id="cp-from-label" class="swatch-label"></div>
+                        <div id="cp-from-grid" class="swatch-grid"></div>
+                    </div>
+
+                    <div>
+                        <div class="checkbox-row small">
+                            <input type="checkbox" id="cp-mid-enabled">
+                            <label for="cp-mid-enabled">Ajouter une couleur pivot</label>
+                        </div>
+                        <div id="cp-mid-panel" style="display:none;">
+                            <div class="swatch-header">
+                                <div id="cp-mid-preview" class="swatch-preview" style="background:#dddddd;"></div>
+                                <span class="swatch-title">Pivot <span class="swatch-sub">(valeurs médianes)</span></span>
+                            </div>
+                            <div id="cp-mid-label" class="swatch-label"></div>
+                            <div id="cp-mid-grid" class="swatch-grid"></div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="swatch-header">
+                            <div id="cp-to-preview" class="swatch-preview"></div>
+                            <span class="swatch-title">Arrivée <span class="swatch-sub">(valeurs hautes)</span></span>
+                        </div>
+                        <div id="cp-to-label" class="swatch-label"></div>
+                        <div id="cp-to-grid" class="swatch-grid"></div>
+                    </div>
+
+                    <div>
+                        <div class="gradient-preview-title">Aperçu du dégradé</div>
+                        <div id="gradient-preview" class="gradient-preview"></div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+        <section class="preview-area" aria-label="Aperçu de la carte">
+            <div class="map-frame">
+                <div id="map-loader" class="map-loader" style="display:none;">
+                    <div class="spinner"></div>
+                    <p>Calcul en cours...</p>
+                </div>
+                <div id="map-empty-state" class="map-empty-state">
+                    <span class="empty-icon">🗺️</span>
+                    <p>Aucune carte générée</p>
+                </div>
+                <div id="map-preview-area" class="map-preview-area"></div>
+            </div>
+        </section>
+    </main>
+
+    <div id="toast-container" class="toast-container"></div>
+
+    <script src="./libs/papaparse.min.js"></script>
+    <script src="./libs/d3.v7.min.js"></script>
+    <script src="./libs/topojson.v3.min.js"></script>
+    <script src="./libs/html2canvas.min.js"></script>
+
+    <script src="./js/geo-engine.js"></script>
+    <script src="./js/pictogram-catalog.js"></script>
+    <script src="./js/dsfr-pictogram-catalog.js"></script>
+    <script src="./js/studio.js"></script>
+    <script src="./js/pwa.js"></script>
+</body>
+</html>
