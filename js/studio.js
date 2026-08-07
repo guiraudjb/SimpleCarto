@@ -414,17 +414,25 @@ document.addEventListener('DOMContentLoaded', () => {
         document.getElementById('csv-sample-select').value = '';
     };
 
+    function loadSampleCsv(path, label) {
+        return new Promise((resolve, reject) => {
+            document.getElementById('csv-status').innerText = `⏳ Chargement de « ${label} »...`;
+            Papa.parse(path, { download: true, header: true, skipEmptyLines: true, complete: (res) => {
+                applyCsvData(res.data, res.meta.fields, `✅ ${res.data.length} lignes chargées — ${label}`);
+                resolve(res);
+            }, error: (err) => {
+                showToast("Erreur", "Impossible de charger le fichier d'exemple.", "error");
+                reject(err);
+            }});
+            document.getElementById('map-csv-file').value = '';
+        });
+    }
+
     document.getElementById('csv-sample-select').onchange = (e) => {
         const path = e.target.value;
         if (!path) return;
         const label = e.target.selectedOptions[0].textContent;
-        document.getElementById('csv-status').innerText = `⏳ Chargement de « ${label} »...`;
-        Papa.parse(path, { download: true, header: true, skipEmptyLines: true, complete: (res) => {
-            applyCsvData(res.data, res.meta.fields, `✅ ${res.data.length} lignes chargées — ${label}`);
-        }, error: () => {
-            showToast("Erreur", "Impossible de charger le fichier d'exemple.", "error");
-        }});
-        document.getElementById('map-csv-file').value = '';
+        loadSampleCsv(path, label);
     };
 
     document.getElementById('map-palette').onchange = (e) => {
@@ -651,6 +659,26 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             });
             updateUI();
+
+            // Chargement par défaut : évolution de la population des départements de France (2020 → 2025)
+            const defaultSample = document.getElementById('csv-sample-select');
+            defaultSample.value = './data/samples/france_departements.csv';
+            await loadSampleCsv(defaultSample.value, defaultSample.selectedOptions[0].textContent);
+
+            document.getElementById('map-title').value = 'Évolution de la population en France entre 2020 et 2025';
+            document.getElementById('calc-mode').value = 'growth';
+            document.getElementById('calc-col1').value = 'Pop 2020';
+            document.getElementById('calc-col2').value = 'Pop 2025';
+            document.getElementById('calc-col2').style.display = 'block';
+
+            const labelTypeSelect = document.getElementById('label-type');
+            labelTypeSelect.value = 'value';
+            document.getElementById('label-toolkit').style.display = 'block';
+
+            document.getElementById('map-palette').value = 'divergentAscending';
+            document.getElementById('palette-warning').style.display = 'block';
+
+            await renderPreview();
         } catch (err) {
             console.error(err);
             showToast("Erreur de chargement", "Impossible de charger les référentiels géographiques (dossier data/).", "error");

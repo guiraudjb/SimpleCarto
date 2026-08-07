@@ -200,6 +200,25 @@ body {
     flex-shrink: 0;
 }
 
+.btn-refresh-map {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    z-index: 200;
+    background: #00a95f;
+    color: #fff;
+    border: none;
+    padding: 0.6rem 1.1rem;
+    border-radius: 999px;
+    font-weight: 700;
+    font-size: 0.85rem;
+    cursor: pointer;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.25);
+    transition: transform 0.1s, background 0.15s;
+}
+.btn-refresh-map:hover { background: #297254; transform: translateY(-1px); }
+.btn-refresh-map:active { transform: translateY(0); }
+
 .map-loader {
     display: none;
     position: absolute; inset: 0;

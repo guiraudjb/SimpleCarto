@@ -68,7 +68,6 @@
                 <p class="app-tagline">Générateur de cartes thématiques (France &amp; Monde) — 100% hors-ligne</p>
             </div>
             <div class="app-header-actions">
-                <button class="btn btn-header" id="btn-map-refresh">🔄 Actualiser la vue</button>
                 <button class="btn btn-header" id="btn-export-config" title="Sauvegarder tous les paramètres et données dans un fichier .json">💾 Exporter config</button>
                 <input type="file" id="config-import-file" accept=".json" style="display:none">
                 <button class="btn btn-header" id="btn-import-config" title="Recharger une configuration sauvegardée">📂 Importer config</button>
@@ -274,6 +273,7 @@
 
         <section class="preview-area" aria-label="Aperçu de la carte">
             <div class="map-frame">
+                <button class="btn btn-refresh-map" id="btn-map-refresh" title="Regénérer la carte avec les paramètres actuels">🔄 Actualiser la vue</button>
                 <div id="map-loader" class="map-loader" style="display:none;">
                     <div class="spinner"></div>
                     <p>Calcul en cours...</p>
