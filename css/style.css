@@ -231,6 +231,8 @@ body {
 /* ---------- Zone d'aperçu ---------- */
 .preview-area {
     flex: 1;
+    min-width: 0;
+    min-height: 0;
     background: var(--grey-975);
     display: flex;
     justify-content: center;
@@ -239,14 +241,25 @@ body {
     padding: 1rem;
 }
 
+/* Dimensionné dynamiquement en JS pour occuper exactement l'espace visuel
+   de la carte mise à l'échelle (voir updateMapScale dans studio.js) : évite
+   le bug classique "flex align-items:center + overflow" où le haut d'un
+   contenu plus grand que son conteneur devient inatteignable au scroll. */
+.map-frame-wrapper {
+    flex-shrink: 0;
+    position: relative;
+}
+
 .map-frame {
     width: 850px;
     height: 550px;
     background: #fff;
-    position: relative;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform-origin: top left;
     box-shadow: 0 4px 20px rgba(0,0,0,0.1);
     border: 1px solid var(--grey-900);
-    flex-shrink: 0;
 }
 
 .refresh-controls {
@@ -350,6 +363,18 @@ body {
     z-index: 250;
     pointer-events: none;
 }
+
+.annotation-curve-handle {
+    fill: #fff;
+    stroke: #1e1e1e;
+    stroke-width: 1.5;
+    opacity: 0.35;
+    cursor: grab;
+    pointer-events: all;
+    transition: opacity 0.15s ease;
+}
+.annotation-curve-handle:hover { opacity: 1; }
+.annotation-curve-handle:active { cursor: grabbing; }
 
 .annotation-bubble {
     position: absolute;
@@ -462,5 +487,4 @@ body {
     .studio { flex-direction: column; height: auto; }
     .panel { flex: none; border-right: none; border-bottom: 1px solid var(--grey-900); }
     .preview-area { padding: 1rem 0; }
-    .map-frame { width: 100%; max-width: 850px; height: 60vw; max-height: 550px; }
 }

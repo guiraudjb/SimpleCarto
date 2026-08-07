@@ -303,7 +303,8 @@
         </section>
 
         <section class="preview-area" aria-label="Aperçu de la carte">
-            <div class="map-frame">
+            <div class="map-frame-wrapper" id="map-frame-wrapper">
+            <div class="map-frame" id="map-frame">
                 <div class="refresh-controls">
                     <button class="btn btn-refresh-map" id="btn-map-refresh" title="Regénérer la carte avec les paramètres actuels">🔄 Actualiser la vue</button>
                     <label class="auto-refresh-toggle" title="Regénère la carte automatiquement à chaque modification">
@@ -320,6 +321,7 @@
                     <p>Aucune carte générée</p>
                 </div>
                 <div id="map-preview-area" class="map-preview-area"></div>
+            </div>
             </div>
         </section>
     </main>

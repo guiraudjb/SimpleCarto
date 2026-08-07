@@ -63,10 +63,46 @@ document.addEventListener('DOMContentLoaded', () => {
     let pictogramPlacementArmed = false;
     let annotationPlacementArmed = false;
     let autoRefreshEnabled = false;
+    let currentMapScale = 1;
     let customColors = { from: SUGGESTED_COLORS.bleu.bg, to: SUGGESTED_COLORS.bleu.sun, mid: null, midEnabled: false };
 
     const regToDeps = new Map();
     const svgTextCache = new Map();
+
+    // ---------------------------------------------------------------
+    // ADAPTATION DE LA CARTE À LA TAILLE DE LA FENÊTRE
+    // La carte garde une taille logique fixe (850x550, nécessaire pour que
+    // les coordonnées des pictogrammes/annotations restent cohérentes avec
+    // l'export PNG) mais est affichée à l'échelle via transform:scale(),
+    // recalculée à chaque redimensionnement de fenêtre.
+    // ---------------------------------------------------------------
+    function updateMapScale() {
+        const previewArea = document.querySelector('.preview-area');
+        const wrapper = document.getElementById('map-frame-wrapper');
+        const frame = document.getElementById('map-frame');
+        if (!previewArea || !wrapper || !frame) return;
+
+        const style = getComputedStyle(previewArea);
+        const paddingX = parseFloat(style.paddingLeft) + parseFloat(style.paddingRight);
+        const paddingY = parseFloat(style.paddingTop) + parseFloat(style.paddingBottom);
+
+        const availW = previewArea.clientWidth - paddingX;
+        const availH = window.innerHeight - previewArea.getBoundingClientRect().top - paddingY - 16;
+
+        const scale = Math.max(0.25, Math.min(1, availW / 850, availH / 550));
+
+        frame.style.transform = `scale(${scale})`;
+        wrapper.style.width = `${850 * scale}px`;
+        wrapper.style.height = `${550 * scale}px`;
+        currentMapScale = scale;
+    }
+
+    let mapScaleResizeTimer = null;
+    window.addEventListener('resize', () => {
+        clearTimeout(mapScaleResizeTimer);
+        mapScaleResizeTimer = setTimeout(updateMapScale, 100);
+    });
+    updateMapScale();
 
     // ---------------------------------------------------------------
     // PICTOGRAMMES THÉMATIQUES
@@ -210,8 +246,8 @@ document.addEventListener('DOMContentLoaded', () => {
         if (annotationPlacementArmed) {
             annotationPlacementArmed = false;
             const rect = container.getBoundingClientRect();
-            const tx = e.clientX - rect.left;
-            const ty = e.clientY - rect.top;
+            const tx = (e.clientX - rect.left) / currentMapScale;
+            const ty = (e.clientY - rect.top) / currentMapScale;
             const width = 180;
             const bubbleX = Math.max(4, Math.min(tx + 30, 850 - width - 4));
             const bubbleY = Math.max(4, Math.min(ty - 90, 550 - 70));
@@ -244,8 +280,8 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!file) return;
 
         const rect = container.getBoundingClientRect();
-        const x = e.clientX - rect.left;
-        const y = e.clientY - rect.top;
+        const x = (e.clientX - rect.left) / currentMapScale;
+        const y = (e.clientY - rect.top) / currentMapScale;
         const color = set === 'dsfr' ? document.getElementById('pictogram-dsfr-color').value : document.getElementById('pictogram-color').value;
         const size = parseFloat(document.getElementById('pictogram-size').value) || 28;
 
@@ -294,13 +330,43 @@ document.addEventListener('DOMContentLoaded', () => {
         defs.appendChild(marker);
         svg.appendChild(defs);
 
-        const lines = annotations.map(() => {
-            const line = document.createElementNS(svgNS, 'line');
-            line.setAttribute('stroke', '#1e1e1e');
-            line.setAttribute('stroke-width', '2');
-            line.setAttribute('marker-end', `url(#${markerId})`);
-            svg.appendChild(line);
-            return line;
+        const paths = annotations.map(() => {
+            const path = document.createElementNS(svgNS, 'path');
+            path.setAttribute('fill', 'none');
+            path.setAttribute('stroke', '#1e1e1e');
+            path.setAttribute('stroke-width', '2');
+            path.setAttribute('marker-end', `url(#${markerId})`);
+            svg.appendChild(path);
+            return path;
+        });
+
+        const curveHandles = annotations.map((ann, i) => {
+            const handle = document.createElementNS(svgNS, 'circle');
+            handle.setAttribute('r', '5');
+            handle.setAttribute('class', 'annotation-curve-handle annotation-control-handle');
+            handle.setAttribute('title', 'Glisser pour courber la flèche');
+            svg.appendChild(handle);
+
+            handle.addEventListener('click', (e) => e.stopPropagation());
+            handle.addEventListener('mousedown', (e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                const startX = e.clientX, startY = e.clientY;
+                const origCX = ann.curveX, origCY = ann.curveY;
+                function onMove(ev) {
+                    ann.curveX = origCX + (ev.clientX - startX) / currentMapScale;
+                    ann.curveY = origCY + (ev.clientY - startY) / currentMapScale;
+                    updateGeometry(i);
+                }
+                function onUp() {
+                    document.removeEventListener('mousemove', onMove);
+                    document.removeEventListener('mouseup', onUp);
+                }
+                document.addEventListener('mousemove', onMove);
+                document.addEventListener('mouseup', onUp);
+            });
+
+            return handle;
         });
         container.appendChild(svg);
 
@@ -317,10 +383,15 @@ document.addEventListener('DOMContentLoaded', () => {
             const w = bubbleEl.offsetWidth, h = bubbleEl.offsetHeight;
             const cx = ann.bubbleX + w / 2, cy = ann.bubbleY + h / 2;
             const edge = clipPointToRect(cx, cy, ann.targetX, ann.targetY, w, h);
-            lines[i].setAttribute('x1', edge.x);
-            lines[i].setAttribute('y1', edge.y);
-            lines[i].setAttribute('x2', ann.targetX);
-            lines[i].setAttribute('y2', ann.targetY);
+
+            if (ann.curveX === undefined || ann.curveY === undefined) {
+                ann.curveX = (edge.x + ann.targetX) / 2;
+                ann.curveY = (edge.y + ann.targetY) / 2;
+            }
+
+            paths[i].setAttribute('d', `M ${edge.x} ${edge.y} Q ${ann.curveX} ${ann.curveY} ${ann.targetX} ${ann.targetY}`);
+            curveHandles[i].setAttribute('cx', ann.curveX);
+            curveHandles[i].setAttribute('cy', ann.curveY);
         }
 
         annotations.forEach((ann, i) => {
@@ -372,8 +443,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 const startX = e.clientX, startY = e.clientY;
                 const origX = ann.bubbleX, origY = ann.bubbleY;
                 function onMove(ev) {
-                    ann.bubbleX = origX + (ev.clientX - startX);
-                    ann.bubbleY = origY + (ev.clientY - startY);
+                    ann.bubbleX = origX + (ev.clientX - startX) / currentMapScale;
+                    ann.bubbleY = origY + (ev.clientY - startY) / currentMapScale;
                     updateGeometry(i);
                 }
                 function onUp() {
@@ -390,8 +461,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 const startX = e.clientX, startY = e.clientY;
                 const origW = bubble.offsetWidth, origH = bubble.offsetHeight;
                 function onMove(ev) {
-                    const newW = Math.max(100, Math.min(400, origW + (ev.clientX - startX)));
-                    const newH = Math.max(40, Math.min(400, origH + (ev.clientY - startY)));
+                    const newW = Math.max(100, Math.min(400, origW + (ev.clientX - startX) / currentMapScale));
+                    const newH = Math.max(40, Math.min(400, origH + (ev.clientY - startY) / currentMapScale));
                     bubble.style.width = `${newW}px`;
                     bubble.style.height = `${newH}px`;
                     ann.width = newW;
@@ -745,6 +816,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 await drawD3Map(hiddenDiv, currentMapConfig, currentMapData);
                 await renderPictogramOverlay(hiddenDiv, currentMapConfig.pictograms || []);
                 renderAnnotationOverlay(hiddenDiv, currentMapConfig.annotations || []);
+                hiddenDiv.querySelectorAll('.annotation-control-handle').forEach(el => el.remove());
                 await new Promise(resolve => setTimeout(resolve, 50));
 
                 const canvas = await html2canvas(hiddenDiv, {
