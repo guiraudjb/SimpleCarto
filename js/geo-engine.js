@@ -150,6 +150,139 @@ function forceRectCollide(padding) {
     return force;
 }
 
+// Bornes lon/lat exactes de l'image data/relief_france.png (requête WMS IGN d'origine)
+const RELIEF_BOUNDS = { lonMin: -5.2, latMin: 41.2, lonMax: 9.7, latMax: 51.3 };
+const roadDataCache = new Map();
+let reliefDataUrlPromise = null;
+
+function loadReliefDataUrl() {
+    if (!reliefDataUrlPromise) {
+        reliefDataUrlPromise = fetch('./data/relief_france.png')
+            .then(res => res.blob())
+            .then(blob => new Promise((resolve, reject) => {
+                const reader = new FileReader();
+                reader.onload = () => resolve(reader.result);
+                reader.onerror = reject;
+                reader.readAsDataURL(blob);
+            }))
+            .catch(() => { reliefDataUrlPromise = null; return null; });
+    }
+    return reliefDataUrlPromise;
+}
+
+// Découpe l'image de relief en grille et positionne chaque tuile via la projection D3
+// courante (recalculée à chaque rendu) : évite une reprojection matricielle complète,
+// suffisant pour un calque décoratif à faible emphase. L'image n'est décodée qu'une
+// seule fois (<defs><image>) et chaque tuile la référence via <use> — l'embarquer en
+// base64 dans chacune des tuiles ferait exploser la mémoire et gèlerait le rendu.
+const RELIEF_IMG_WIDTH = 2400, RELIEF_IMG_HEIGHT = 1700;
+
+function drawReliefTiles(svg, gRelief, projection, imgDataUrl) {
+    const GRID_N = 8, GRID_M = 6;
+    const { lonMin, latMin, lonMax, latMax } = RELIEF_BOUNDS;
+    const defImageId = 'relief-img-' + Math.random().toString(36).slice(2, 9);
+    svg.append("defs").append("image")
+        .attr("id", defImageId)
+        .attr("href", imgDataUrl)
+        .attr("width", RELIEF_IMG_WIDTH).attr("height", RELIEF_IMG_HEIGHT);
+
+    const srcTileW = RELIEF_IMG_WIDTH / GRID_N, srcTileH = RELIEF_IMG_HEIGHT / GRID_M;
+
+    for (let j = 0; j < GRID_M; j++) {
+        for (let i = 0; i < GRID_N; i++) {
+            const lon0 = lonMin + (i / GRID_N) * (lonMax - lonMin);
+            const lon1 = lonMin + ((i + 1) / GRID_N) * (lonMax - lonMin);
+            const lat1 = latMax - (j / GRID_M) * (latMax - latMin);
+            const lat0 = latMax - ((j + 1) / GRID_M) * (latMax - latMin);
+            const topLeft = projection([lon0, lat1]);
+            const bottomRight = projection([lon1, lat0]);
+            if (!topLeft || !bottomRight || Number.isNaN(topLeft[0]) || Number.isNaN(bottomRight[1])) continue;
+            const [sx0, sy0] = topLeft, [sx1, sy1] = bottomRight;
+            const screenW = sx1 - sx0, screenH = sy1 - sy0;
+            if (!(screenW > 0) || !(screenH > 0)) continue;
+            const scaleX = screenW / srcTileW, scaleY = screenH / srcTileH;
+            const tileSvg = gRelief.append("svg")
+                .attr("x", sx0).attr("y", sy0).attr("width", screenW).attr("height", screenH)
+                .attr("overflow", "hidden");
+            tileSvg.append("use")
+                .attr("href", `#${defImageId}`)
+                .attr("transform", `translate(${-i * srcTileW * scaleX}, ${-j * srcTileH * scaleY}) scale(${scaleX}, ${scaleY})`);
+        }
+    }
+}
+
+async function loadRoadData(config) {
+    let url = null;
+    if (['national', 'region'].includes(config.scale)) {
+        url = './data/roads_national.json';
+    } else if (['departement', 'epci', 'commune'].includes(config.scale) && config.dept) {
+        url = `./data/roads/dept/${config.dept}.json`;
+    }
+    if (!url) return null;
+    if (roadDataCache.has(url)) return roadDataCache.get(url);
+    try {
+        const topo = await d3.json(url);
+        const key = Object.keys(topo.objects)[0];
+        const features = topojson.feature(topo, topo.objects[key]).features;
+        roadDataCache.set(url, features);
+        return features;
+    } catch (e) {
+        console.warn('Réseau routier indisponible pour', url, e);
+        return null;
+    }
+}
+
+// Calques statiques France entière (un seul fichier, toujours le même quelle que soit
+// l'échelle) : hydrographie, voies ferrées (topojson) et aéroports/villes (points bruts).
+const staticTopoCache = new Map();
+async function loadStaticTopoLayer(url) {
+    if (staticTopoCache.has(url)) return staticTopoCache.get(url);
+    try {
+        const topo = await d3.json(url);
+        const key = Object.keys(topo.objects)[0];
+        const features = topojson.feature(topo, topo.objects[key]).features;
+        staticTopoCache.set(url, features);
+        return features;
+    } catch (e) {
+        console.warn('Calque indisponible pour', url, e);
+        return null;
+    }
+}
+
+const pointLayerCache = new Map();
+async function loadPointLayer(url) {
+    if (pointLayerCache.has(url)) return pointLayerCache.get(url);
+    try {
+        const data = await d3.json(url);
+        pointLayerCache.set(url, data);
+        return data;
+    } catch (e) {
+        console.warn('Calque indisponible pour', url, e);
+        return null;
+    }
+}
+
+function projectPoints(points, projection) {
+    return points.map(p => {
+        const xy = projection([p.lon, p.lat]);
+        return (xy && !Number.isNaN(xy[0]) && !Number.isNaN(xy[1])) ? { ...p, x: xy[0], y: xy[1] } : null;
+    }).filter(Boolean);
+}
+
+function appendMergedLinePath(container, path, features) {
+    const geom = { type: "GeometryCollection", geometries: features.map(f => f.geometry) };
+    container.append("path").attr("d", path(geom));
+}
+
+// Relief et routes sont limités à la France métropolitaine (pas de vendorisation
+// mondiale, pas de pertinence pour l'outre-mer avec ces jeux de données).
+function isMetropolitanScope(config) {
+    if (config.scale === 'world') return false;
+    if (config.scale === 'region' && ['01', '02', '03', '04', '06'].includes(String(config.region))) return false;
+    if (config.dept && String(config.dept).startsWith('97')) return false;
+    return true;
+}
+
 async function drawD3Map(container, config, dataMap) {
     const width = container.clientWidth, height = container.clientHeight;
     const pStrength = config.physStrength ?? 0.15;
@@ -265,6 +398,65 @@ async function drawD3Map(container, config, dataMap) {
         .attr("stroke", d => targetFeatures.includes(d) ? "#ffffff" : "#f0f0f0")
         .attr("stroke-width", d => targetFeatures.includes(d) ? 0.5 : 0.2);
 
+    const isMetro = isMetropolitanScope(config);
+    const [reliefImg, hydroFeatures, railFeatures, roadFeatures, airportPoints, cityPoints] = await Promise.all([
+        (isMetro && config.showRelief) ? loadReliefDataUrl() : null,
+        (isMetro && config.showHydro) ? loadStaticTopoLayer('./data/hydro_france.json') : null,
+        (isMetro && config.showRail) ? loadStaticTopoLayer('./data/rail_france.json') : null,
+        (isMetro && config.showRoads) ? loadRoadData(config) : null,
+        (isMetro && config.showAirports) ? loadPointLayer('./data/airports_france.json') : null,
+        (isMetro && config.showCities) ? loadPointLayer('./data/cities_france.json') : null
+    ]);
+
+    if (reliefImg) {
+        const clipId = 'geo-clip-' + Math.random().toString(36).slice(2, 9);
+        svg.append("defs").append("clipPath").attr("id", clipId)
+            .selectAll("path").data(targetFeatures).enter().append("path").attr("d", path);
+        const gRelief = svg.append("g").attr("opacity", config.reliefOpacity ?? 0.6).attr("clip-path", `url(#${clipId})`);
+        drawReliefTiles(svg, gRelief, projection, reliefImg);
+    }
+    if (hydroFeatures && hydroFeatures.length > 0) {
+        const gHydro = svg.append("g").attr("fill", "none").attr("stroke", "#5b8dd6").attr("stroke-width", 0.8).attr("stroke-linecap", "round");
+        appendMergedLinePath(gHydro, path, hydroFeatures);
+    }
+    if (railFeatures && railFeatures.length > 0) {
+        const gRail = svg.append("g").attr("fill", "none").attr("stroke", "#333333").attr("stroke-width", 0.7).attr("stroke-dasharray", "4,2");
+        appendMergedLinePath(gRail, path, railFeatures);
+    }
+    if (roadFeatures && roadFeatures.length > 0) {
+        // Un unique <path> concaténant tous les tronçons : des dizaines de milliers
+        // d'éléments <path> séparés (un par tronçon) font s'effondrer les perfs de
+        // rendu SVG ; un seul path multi-segments se peint en un temps négligeable.
+        const gRoads = svg.append("g")
+            .attr("fill", "none").attr("stroke", "#6b3f1d").attr("stroke-width", 0.9).attr("stroke-opacity", 0.85).attr("stroke-linecap", "round");
+        appendMergedLinePath(gRoads, path, roadFeatures);
+    }
+    if (airportPoints && airportPoints.length > 0) {
+        const pts = projectPoints(airportPoints, projection);
+        svg.append("g").attr("fill", "#3a3a3a").attr("stroke", "#ffffff").attr("stroke-width", 0.6)
+            .selectAll("circle").data(pts).enter().append("circle")
+            .attr("cx", d => d.x).attr("cy", d => d.y).attr("r", 3);
+    }
+    if (cityPoints && cityPoints.length > 0) {
+        const pts = projectPoints(cityPoints, projection);
+        const gCities = svg.append("g");
+        gCities.selectAll("circle").data(pts).enter().append("circle")
+            .attr("cx", d => d.x).attr("cy", d => d.y).attr("r", 2.5)
+            .attr("fill", "#333333").attr("stroke", "#ffffff").attr("stroke-width", 0.6);
+        // Les noms de villes ne sont affichés qu'aux échelles nationale/régionale, où les
+        // étiquettes de données existantes sont peu denses ; à l'échelle département/EPCI/
+        // commune elles saturaient l'espace déjà occupé par les étiquettes de données.
+        if (['national', 'region'].includes(config.scale)) {
+            gCities.selectAll("text").data(pts).enter().append("text")
+                .attr("x", d => d.x + 4).attr("y", d => d.y + 3)
+                .style("font-size", "9px").style("font-family", "'Segoe UI', Arial, sans-serif")
+                .style("fill", "#333333")
+                .text(d => d.name);
+        }
+    }
+
+    const gLabels = svg.append("g");
+
     if (config.labelType !== 'none') {
         const labelNodes = [];
         const filterNames = config.labelFilterNames ? config.labelFilterNames.split(',').map(s => s.trim().toLowerCase()) : [];
@@ -314,7 +506,7 @@ async function drawD3Map(container, config, dataMap) {
             .force("collide", forceRectCollide(pPadding)).stop();
         for (let i = 0; i < 200; ++i) simulation.tick();
 
-        g.selectAll("text.label").data(labelNodes).enter().append("text")
+        gLabels.selectAll("text.label").data(labelNodes).enter().append("text")
             .attr("class", "label")
             .attr("x", d => d.x).attr("y", d => d.y).attr("text-anchor", "middle")
             .style("font-size", `${lSize}px`)

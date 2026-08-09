@@ -647,6 +647,9 @@ document.addEventListener('DOMContentLoaded', () => {
         if (preview) preview.innerHTML = '';
         if (emptyState) emptyState.style.display = 'flex';
 
+        const layersSection = document.getElementById('layers-section');
+        if (layersSection) layersSection.style.display = scaleSelect.value === 'world' ? 'none' : '';
+
         if (scaleSelect.value === 'world') {
             const sel = document.createElement('select'); sel.className = 'select-input'; sel.id = 'sel-world-region';
             sel.innerHTML = '<option value="all">🌍 Monde entier</option><option value="auto">✨ Auto-cadrage</option>';
@@ -769,7 +772,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 filterThreshold: parseFloat(document.getElementById('filter-value')?.value),
                 filterDataMap: filterMap,
                 pictograms: currentPictograms,
-                annotations: currentAnnotations
+                annotations: currentAnnotations,
+
+                showRelief: document.getElementById('layer-show-relief')?.checked || false,
+                reliefOpacity: parseFloat(document.getElementById('layer-relief-opacity')?.value) ?? 0.6,
+                showRoads: document.getElementById('layer-show-roads')?.checked || false,
+                showHydro: document.getElementById('layer-show-hydro')?.checked || false,
+                showRail: document.getElementById('layer-show-rail')?.checked || false,
+                showAirports: document.getElementById('layer-show-airports')?.checked || false,
+                showCities: document.getElementById('layer-show-cities')?.checked || false
             };
 
             currentMapConfig = config;
@@ -1036,6 +1047,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (config.labelFilterNames) document.getElementById('label-filter-names').value = config.labelFilterNames;
                 if (config.physPadding) document.getElementById('phys-padding').value = config.physPadding;
                 if (config.physStrength) document.getElementById('phys-strength').value = config.physStrength;
+                document.getElementById('layer-show-relief').checked = config.showRelief === true;
+                document.getElementById('layer-relief-opacity').value = config.reliefOpacity ?? 0.6;
+                document.getElementById('layer-show-roads').checked = config.showRoads === true;
+                document.getElementById('layer-show-hydro').checked = config.showHydro === true;
+                document.getElementById('layer-show-rail').checked = config.showRail === true;
+                document.getElementById('layer-show-airports').checked = config.showAirports === true;
+                document.getElementById('layer-show-cities').checked = config.showCities === true;
 
                 if (config.palette === 'custom' && config.customColors) {
                     const cols = config.customColors;

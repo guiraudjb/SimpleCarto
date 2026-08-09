@@ -1,4 +1,4 @@
-const CACHE_NAME = 'simplecarto-v8';
+const CACHE_NAME = 'simplecarto-v10';
 const ASSET_MANIFEST_URLS = [
     './icons/pictograms/manifest.json',
     './icons/pictograms-dsfr/manifest.json',
@@ -28,6 +28,12 @@ const PRECACHE_URLS = [
     './data/commune_2025.json',
     './data/departement_2025.json',
     './data/world_2025.json',
+    './data/relief_france.png',
+    './data/roads_national.json',
+    './data/hydro_france.json',
+    './data/rail_france.json',
+    './data/airports_france.json',
+    './data/cities_france.json',
     './data/samples/france_communes.csv',
     './data/samples/france_departements.csv',
     './data/samples/monde.csv',
