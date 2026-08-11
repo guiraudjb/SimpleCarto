@@ -1087,6 +1087,22 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('btn-batch-generate').onclick = runBatchGeneration;
 
     // ---------------------------------------------------------------
+    // MODALE "À PROPOS" (manuel d'utilisation téléchargeable)
+    // ---------------------------------------------------------------
+    const aboutOverlay = document.getElementById('about-modal-overlay');
+    const openAboutModal = () => { aboutOverlay.style.display = 'flex'; };
+    const closeAboutModal = () => { aboutOverlay.style.display = 'none'; };
+
+    document.getElementById('btn-about').onclick = openAboutModal;
+    document.getElementById('btn-about-close').onclick = closeAboutModal;
+    aboutOverlay.addEventListener('click', (e) => {
+        if (e.target === aboutOverlay) closeAboutModal();
+    });
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && aboutOverlay.style.display !== 'none') closeAboutModal();
+    });
+
+    // ---------------------------------------------------------------
     // EXPORT / IMPORT DE CONFIGURATION (remplace data-map-config)
     // ---------------------------------------------------------------
     document.getElementById('btn-export-config').onclick = () => {

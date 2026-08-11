@@ -1,0 +1,542 @@
+<title>SimpleCarto — Manuel d'utilisation</title>
+<style>
+    @page {
+        size: A4;
+        margin: 20mm 18mm 22mm 18mm;
+    }
+
+    :root {
+        --theme-sun: #000091;
+        --theme-main: #6a6af4;
+        --theme-bg: #f5f5fe;
+        --text: #1e1e1e;
+        --grey: #666;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+        margin: 0;
+        font-family: 'Segoe UI', Arial, sans-serif;
+        color: var(--text);
+        font-size: 10.5pt;
+        line-height: 1.5;
+    }
+
+    h1, h2, h3 { color: var(--theme-sun); }
+    a { color: var(--theme-sun); }
+
+    /* ---------- Couverture ---------- */
+    .cover {
+        min-height: 240mm;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        page-break-after: always;
+    }
+    .cover .emoji { font-size: 4rem; margin-bottom: 0.5rem; }
+    .cover h1 { font-size: 2.2rem; margin: 0 0 0.5rem; }
+    .cover p.tagline { font-size: 1.1rem; color: var(--grey); max-width: 420px; margin: 0 auto 2rem; }
+    .cover .meta { font-size: 0.85rem; color: var(--grey); margin-top: 3rem; }
+    .cover .badge {
+        display: inline-block;
+        margin-top: 1.5rem;
+        padding: 0.4rem 1rem;
+        border-radius: 20px;
+        background: var(--theme-bg);
+        color: var(--theme-sun);
+        font-weight: 600;
+        font-size: 0.85rem;
+    }
+
+    /* ---------- Sommaire ---------- */
+    .toc { page-break-after: always; }
+    .toc h2 { font-size: 1.4rem; border-bottom: 2px solid var(--theme-bg); padding-bottom: 0.5rem; }
+    .toc ol { list-style: none; padding: 0; counter-reset: toc-counter; }
+    .toc li {
+        counter-increment: toc-counter;
+        padding: 0.45rem 0;
+        border-bottom: 1px dotted #ddd;
+        display: flex;
+        justify-content: space-between;
+    }
+    .toc li::before {
+        content: counter(toc-counter) ". ";
+        color: var(--theme-sun);
+        font-weight: 600;
+        margin-right: 0.5rem;
+    }
+    .toc a { text-decoration: none; color: var(--text); font-weight: 500; }
+
+    /* ---------- Sections ---------- */
+    section.chapter { page-break-before: always; }
+    section.chapter:first-of-type { page-break-before: auto; }
+
+    h2.chapter-title {
+        font-size: 1.35rem;
+        border-bottom: 2px solid var(--theme-bg);
+        padding-bottom: 0.5rem;
+        margin-top: 0;
+    }
+    h3 { font-size: 1.05rem; margin-top: 1.5rem; }
+
+    p { margin: 0.6rem 0; text-align: justify; }
+    ul, ol { margin: 0.5rem 0; padding-left: 1.4rem; }
+    li { margin: 0.25rem 0; }
+
+    code {
+        background: var(--theme-bg);
+        padding: 0.1rem 0.35rem;
+        border-radius: 3px;
+        font-size: 0.9em;
+    }
+
+    .note {
+        background: var(--theme-bg);
+        border-left: 4px solid var(--theme-main);
+        padding: 0.6rem 0.9rem;
+        border-radius: 4px;
+        font-size: 0.92em;
+        margin: 0.8rem 0;
+    }
+    .note strong { color: var(--theme-sun); }
+
+    .tip {
+        background: #eafaf0;
+        border-left: 4px solid #18753c;
+        padding: 0.6rem 0.9rem;
+        border-radius: 4px;
+        font-size: 0.92em;
+        margin: 0.8rem 0;
+    }
+
+    figure {
+        margin: 1rem 0 1.3rem;
+        text-align: center;
+        page-break-inside: avoid;
+    }
+    figure img {
+        max-width: 100%;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    figcaption {
+        font-size: 0.82rem;
+        color: var(--grey);
+        font-style: italic;
+        margin-top: 0.4rem;
+    }
+
+    .two-col-figs {
+        display: flex;
+        gap: 1rem;
+        justify-content: center;
+    }
+    .two-col-figs figure { flex: 1; margin: 1rem 0 1.3rem; }
+
+    table.keytable {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.92em;
+        margin: 0.8rem 0;
+    }
+    table.keytable th, table.keytable td {
+        border: 1px solid #ddd;
+        padding: 0.4rem 0.6rem;
+        text-align: left;
+        vertical-align: top;
+    }
+    table.keytable th { background: var(--theme-bg); color: var(--theme-sun); }
+
+    .steps { padding-left: 0; list-style: none; counter-reset: step-counter; }
+    .steps li {
+        counter-increment: step-counter;
+        position: relative;
+        padding-left: 2.1rem;
+        margin: 0.7rem 0;
+    }
+    .steps li::before {
+        content: counter(step-counter);
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 1.5rem;
+        height: 1.5rem;
+        border-radius: 50%;
+        background: var(--theme-sun);
+        color: #fff;
+        font-size: 0.8rem;
+        font-weight: 700;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+</style>
+
+<div class="cover">
+    <div class="emoji">🗺️</div>
+    <h1>SimpleCarto</h1>
+    <p class="tagline">Manuel d'utilisation — Créez des cartes thématiques de France et du monde à partir d'un simple fichier CSV.</p>
+    <span class="badge">100% gratuit &middot; sans inscription &middot; fonctionne hors-ligne</span>
+    <div class="meta">Version du manuel — août 2026<br>guiraudjb.github.io/SimpleCarto</div>
+</div>
+
+<div class="toc">
+    <h2>Sommaire</h2>
+    <ol>
+        <li><a href="#presentation">Présentation</a></li>
+        <li><a href="#prise-en-main">Prise en main en 4 étapes</a></li>
+        <li><a href="#zone-geo">Choisir une zone géographique</a></li>
+        <li><a href="#import-csv">Importer des données CSV</a></li>
+        <li><a href="#modes-calcul">Les modes de calcul</a></li>
+        <li><a href="#style">Personnaliser le style de la carte</a></li>
+        <li><a href="#etiquettes">Les étiquettes</a></li>
+        <li><a href="#couches">Les couches additionnelles</a></li>
+        <li><a href="#pictos">Pictogrammes et annotations manuscrites</a></li>
+        <li><a href="#lot">Générer une carte par colonne (mode lot)</a></li>
+        <li><a href="#export">Exporter vos cartes et vos configurations</a></li>
+        <li><a href="#pwa">Installer l'application hors-ligne</a></li>
+        <li><a href="#a-propos">Retrouver ce manuel dans l'application</a></li>
+        <li><a href="#faq">Questions fréquentes</a></li>
+    </ol>
+</div>
+
+<section class="chapter" id="presentation">
+    <h2 class="chapter-title">1. Présentation</h2>
+    <p>
+        SimpleCarto est un générateur de cartes thématiques (cartes choroplèthes) qui fonctionne entièrement
+        dans votre navigateur. À partir d'un fichier de données au format CSV, il colore automatiquement une
+        carte — communes, départements, régions, EPCI de France ou pays du monde — selon les valeurs de vos
+        données, puis vous permet de personnaliser son style avant de l'exporter en image.
+    </p>
+    <p>
+        Aucune inscription n'est nécessaire et aucune donnée n'est envoyée vers un serveur : tout le calcul et
+        le dessin de la carte se font localement, dans votre navigateur. L'application peut aussi être installée
+        pour être utilisée sans connexion Internet.
+    </p>
+    <figure>
+        <img src="images/01-vue-ensemble.jpg" alt="Vue d'ensemble de l'interface de SimpleCarto">
+        <figcaption>Vue d'ensemble de l'interface : le panneau de réglages à gauche, l'aperçu de la carte à droite.</figcaption>
+    </figure>
+    <p>
+        L'interface se compose de deux zones : à gauche, un panneau de réglages organisé en sections repliables
+        (Zone géographique, Couches additionnelles, Données, Style de la carte, Éléments graphiques) ; à droite,
+        l'aperçu de la carte, avec un bouton <strong>Actualiser la vue</strong> pour appliquer vos modifications
+        et une option <strong>Auto</strong> pour les appliquer automatiquement à chaque changement.
+    </p>
+</section>
+
+<section class="chapter" id="prise-en-main">
+    <h2 class="chapter-title">2. Prise en main en 4 étapes</h2>
+    <ol class="steps">
+        <li>Choisissez une <strong>zone géographique</strong> (France métropolitaine, région, département, EPCI, commune, ou Monde).</li>
+        <li>Chargez vos <strong>données</strong> : un exemple fourni ou votre propre fichier CSV.</li>
+        <li>Personnalisez le <strong>style</strong> : titre, palette de couleurs, étiquettes, pictogrammes, annotations.</li>
+        <li>Cliquez sur <strong>Actualiser la vue</strong>, puis <strong>Télécharger PNG</strong> pour récupérer votre carte en image.</li>
+    </ol>
+    <p class="tip">
+        <strong>Astuce :</strong> activez la case <strong>Auto</strong> en haut de l'aperçu pour que la carte se
+        régénère automatiquement à chaque réglage, sans avoir à cliquer sur « Actualiser la vue ».
+    </p>
+</section>
+
+<section class="chapter" id="zone-geo">
+    <h2 class="chapter-title">3. Choisir une zone géographique</h2>
+    <p>
+        Le menu <strong>Échelle</strong>, dans la section « 🗺️ Zone géographique », propose six niveaux :
+    </p>
+    <table class="keytable">
+        <tr><th>Échelle</th><th>Description</th></tr>
+        <tr><td>Monde</td><td>Carte des pays du monde, avec plusieurs projections thématiques et un cadrage par grande région.</td></tr>
+        <tr><td>France métropolitaine</td><td>Carte des départements de la France métropolitaine.</td></tr>
+        <tr><td>Région (FR)</td><td>Carte des départements d'une région choisie.</td></tr>
+        <tr><td>Département (FR)</td><td>Carte des communes d'un département choisi.</td></tr>
+        <tr><td>EPCI (FR)</td><td>Carte des communes d'un établissement public de coopération intercommunale.</td></tr>
+        <tr><td>Commune (FR)</td><td>Zoom sur une commune précise.</td></tr>
+    </table>
+    <p>
+        Pour les échelles région, département, EPCI et commune, des menus en cascade apparaissent pour affiner
+        la zone (région → département → EPCI/commune).
+    </p>
+    <figure>
+        <img src="images/02-zone-geographique.jpg" alt="Menus en cascade pour choisir une région puis un département">
+        <figcaption>Les menus en cascade s'adaptent à l'échelle choisie (ici : Département, avec la région Nouvelle-Aquitaine sélectionnée).</figcaption>
+    </figure>
+    <figure>
+        <img src="images/03-carte-monde.jpg" alt="Carte du monde générée par SimpleCarto">
+        <figcaption>À l'échelle Monde, la case « ID » de vos données doit contenir un code pays (ISO alpha-3).</figcaption>
+    </figure>
+</section>
+
+<section class="chapter" id="import-csv">
+    <h2 class="chapter-title">4. Importer des données CSV</h2>
+    <p>
+        Dans la section « 📊 Données », deux possibilités : charger l'un des <strong>trois jeux d'exemple</strong>
+        fournis (communes, départements, ou pays du monde), ou <strong>importer votre propre fichier CSV</strong>
+        via le bouton « ⬆️ Importer un CSV ».
+    </p>
+    <div class="note">
+        <strong>Format attendu :</strong> la première colonne de votre CSV doit contenir un identifiant
+        géographique (code commune INSEE, code département, ou code pays ISO alpha-3 selon l'échelle choisie).
+        Les colonnes suivantes contiennent les valeurs numériques à cartographier (les décimales avec virgule
+        sont acceptées).
+    </div>
+    <figure>
+        <img src="images/04-import-csv.jpg" alt="Panneau Données après chargement d'un CSV">
+        <figcaption>Après chargement, la colonne d'identifiant est détectée automatiquement et les colonnes de données peuplent les sélecteurs.</figcaption>
+    </figure>
+    <p class="tip">
+        <strong>Nouveau :</strong> à chaque chargement d'un nouveau jeu de données (exemple ou import), SimpleCarto
+        repasse automatiquement en mode <strong>Somme brute</strong> avec la <strong>palette bleue par défaut</strong>,
+        pour repartir d'un affichage neutre plutôt que de conserver les réglages du fichier précédent.
+    </p>
+    <figure>
+        <img src="images/05-somme-brute-defaut.jpg" alt="Carte affichée en somme brute avec la palette bleue par défaut">
+        <figcaption>Résultat du chargement d'un nouveau CSV : mode « Somme brute », palette bleue par défaut.</figcaption>
+    </figure>
+</section>
+
+<section class="chapter" id="modes-calcul">
+    <h2 class="chapter-title">5. Les modes de calcul</h2>
+    <p>
+        Une fois les données chargées, le menu situé sous l'identifiant permet de choisir comment les valeurs
+        sont calculées :
+    </p>
+    <table class="keytable">
+        <tr><th>Mode</th><th>Calcul</th></tr>
+        <tr><td>Somme brute</td><td>Additionne les valeurs de la colonne choisie (agrégées automatiquement si l'échelle est plus large que les données, par ex. communes → départements).</td></tr>
+        <tr><td>Part (%)</td><td>Exprime chaque valeur en pourcentage du total de la colonne.</td></tr>
+        <tr><td>Ratio (C1/C2)</td><td>Divise la colonne C1 par la colonne C2 (par ex. un montant par habitant).</td></tr>
+        <tr><td>Évo (C1/C2)</td><td>Calcule l'évolution en pourcentage entre la colonne C1 (valeur de départ) et C2 (valeur d'arrivée).</td></tr>
+    </table>
+    <p>
+        Les modes « Ratio » et « Évolution » affichent un second sélecteur de colonne (C2).
+    </p>
+</section>
+
+<section class="chapter" id="style">
+    <h2 class="chapter-title">6. Personnaliser le style de la carte</h2>
+    <h3>Titre et police</h3>
+    <p>
+        Le champ <strong>Titre</strong> accepte plusieurs lignes (touche Entrée pour un retour à la ligne
+        manuel). Sa police et sa taille sont réglables indépendamment de celles des étiquettes.
+    </p>
+    <figure>
+        <img src="images/06-style-titre.jpg" alt="Réglages du titre, de la police et de la légende">
+        <figcaption>Section « Style de la carte » : titre, police, taille, affichage de la légende et choix de la palette.</figcaption>
+    </figure>
+
+    <h3>Palettes de couleurs</h3>
+    <p>
+        Quatre options sont proposées : la palette <strong>bleue par défaut</strong> (dégradé unique, appliquée
+        automatiquement à chaque nouveau jeu de données), deux palettes <strong>divergentes</strong> fixes
+        (vert → jaune → rouge, ou l'inverse, utiles pour distinguer valeurs faibles et fortes), et une
+        <strong>palette manuelle</strong> entièrement personnalisable.
+    </p>
+    <p>
+        La palette manuelle propose une couleur de départ (valeurs basses), une couleur d'arrivée (valeurs
+        hautes), et optionnellement une couleur pivot (valeurs médianes) à activer via la case
+        « Ajouter une couleur pivot ». Un aperçu du dégradé s'affiche en temps réel.
+    </p>
+    <div class="two-col-figs">
+        <figure>
+            <img src="images/07-palette-manuelle-swatches.jpg" alt="Sélection des couleurs de la palette manuelle">
+            <figcaption>Choix des couleurs de départ et d'arrivée par nuancier.</figcaption>
+        </figure>
+        <figure>
+            <img src="images/08-palette-manuelle-carte.jpg" alt="Carte avec une palette manuelle vert-brun">
+            <figcaption>Résultat appliqué à la carte.</figcaption>
+        </figure>
+    </div>
+</section>
+
+<section class="chapter" id="etiquettes">
+    <h2 class="chapter-title">7. Les étiquettes</h2>
+    <p>
+        Le menu <strong>Étiquettes</strong> permet d'afficher le nom des zones, leur valeur, les deux, ou aucune
+        étiquette. Lorsqu'une option est active, un panneau complémentaire apparaît :
+    </p>
+    <ul>
+        <li><strong>Taille et police</strong> des étiquettes ;</li>
+        <li><strong>Filtre par nom ou code</strong> : liste de noms ou codes séparés par des virgules (ex : « Paris, 75 ») pour n'afficher que certaines étiquettes ;</li>
+        <li><strong>Filtre de données</strong> : n'afficher les étiquettes que pour les zones dont une colonne du CSV respecte une condition (&gt;, &gt;=, =, &lt;=, &lt;) par rapport à une valeur ;</li>
+        <li><strong>Aération</strong> et <strong>Répulsion</strong> : ajustent l'espacement automatique des étiquettes pour limiter les superpositions.</li>
+    </ul>
+    <div class="two-col-figs">
+        <figure>
+            <img src="images/09-etiquettes-panel.jpg" alt="Panneau complet des réglages d'étiquettes">
+            <figcaption>Le panneau complet des réglages d'étiquettes.</figcaption>
+        </figure>
+        <figure>
+            <img src="images/10-etiquettes-filtrees.jpg" alt="Carte avec seulement 3 étiquettes filtrées affichées">
+            <figcaption>Résultat d'un filtre par code : seules 3 zones affichent leur étiquette.</figcaption>
+        </figure>
+    </div>
+</section>
+
+<section class="chapter" id="couches">
+    <h2 class="chapter-title">8. Les couches additionnelles</h2>
+    <p>
+        Disponible pour les échelles françaises (national, région, département, EPCI, commune), la section
+        « 🏔️ Couches additionnelles » permet de superposer à votre carte thématique :
+    </p>
+    <ul>
+        <li>un <strong>relief</strong> en estompage, avec une opacité réglable ;</li>
+        <li>le <strong>réseau routier</strong> national ;</li>
+        <li>l'<strong>hydrographie</strong> (cours d'eau principaux) ;</li>
+        <li>les <strong>voies ferrées</strong> ;</li>
+        <li>les <strong>aéroports</strong> principaux ;</li>
+        <li>les <strong>villes</strong> principales.</li>
+    </ul>
+    <figure>
+        <img src="images/11-couches-additionnelles.jpg" alt="Carte avec relief, hydrographie et voies ferrées superposés">
+        <figcaption>Relief, hydrographie et voies ferrées superposés à une carte de population.</figcaption>
+    </figure>
+</section>
+
+<section class="chapter" id="pictos">
+    <h2 class="chapter-title">9. Pictogrammes et annotations manuscrites</h2>
+    <p>
+        La section « 📍 Éléments graphiques » permet d'enrichir la carte de deux façons :
+    </p>
+    <h3>Pictogrammes</h3>
+    <p>
+        Choisissez un jeu de pictogrammes (humanitaire OCHA ou pictogrammes DSFR de l'État), un symbole, sa
+        couleur et sa taille, puis cliquez sur « 📍 Placer ce pictogramme » avant de cliquer sur la carte pour
+        le positionner. Cliquer sur un pictogramme déjà placé le supprime.
+    </p>
+    <figure>
+        <img src="images/13-pictogrammes-panel.jpg" alt="Panneau de sélection des pictogrammes">
+        <figcaption>Sélection d'un pictogramme, de sa couleur et de sa taille avant de le placer sur la carte.</figcaption>
+    </figure>
+
+    <h3>Annotations manuscrites</h3>
+    <p>
+        Le bouton « 💬 Ajouter une bulle » crée une bulle de texte à positionner sur la carte d'un clic. Une
+        fois placée, glissez sa poignée (⠿) pour la déplacer, cliquez sur ⚙ pour choisir sa police, sa taille et
+        ses couleurs, ou sur × pour la supprimer. La flèche qui relie la bulle à son point d'ancrage peut être
+        courbée en ajustant sa poignée.
+    </p>
+    <figure>
+        <img src="images/14-pictogrammes-annotations-carte.jpg" alt="Carte avec un pictogramme hôpital et une bulle d'annotation">
+        <figcaption>Un pictogramme « Hôpital » et une bulle d'annotation manuscrite, reliée par une flèche courbe.</figcaption>
+    </figure>
+</section>
+
+<section class="chapter" id="lot">
+    <h2 class="chapter-title">10. Générer une carte par colonne (mode lot)</h2>
+    <p>
+        Lorsqu'un fichier CSV importé contient <strong>plusieurs colonnes de données</strong>, le bouton
+        « 🗂️ Générer une carte par colonne (lot) » apparaît dans la section « 📊 Données ». Il automatise la
+        création d'une série de cartes :
+    </p>
+    <ol class="steps">
+        <li>Pour chaque colonne de données du fichier (hors identifiant), SimpleCarto calcule la carte en mode
+            « Somme brute » ;</li>
+        <li>Le titre de la carte reprend l'en-tête de la colonne ;</li>
+        <li>L'image est automatiquement téléchargée, nommée <code>&lt;en-tête de colonne&gt;.png</code>.</li>
+    </ol>
+    <p>
+        Seuls le mode de calcul et le titre sont remplacés pour chaque carte du lot : la palette de couleurs,
+        les étiquettes, les couches additionnelles, les pictogrammes et les annotations actuellement réglés
+        dans le panneau sont conservés et appliqués à toutes les cartes générées. Pensez donc à régler le style
+        souhaité avant de lancer le mode lot.
+    </p>
+    <p>
+        Le panneau et l'aperçu affichés à l'écran ne sont pas modifiés par cette opération : le mode lot
+        travaille en arrière-plan et restitue l'aperçu tel qu'il était avant son lancement.
+    </p>
+    <figure>
+        <img src="images/15-lot-progression.jpg" alt="Progression de la génération par lot">
+        <figcaption>Une barre de progression indique la colonne en cours de traitement (ici 2 sur 6).</figcaption>
+    </figure>
+    <figure>
+        <img src="images/16-lot-exemple-sortie.jpg" alt="Exemple de carte générée automatiquement par le mode lot">
+        <figcaption>Exemple de carte générée automatiquement : le titre reprend l'en-tête de colonne, la palette reprend celle réglée dans le panneau.</figcaption>
+    </figure>
+    <div class="note">
+        <strong>Bon à savoir :</strong> selon votre navigateur, le téléchargement de plusieurs fichiers d'affilée
+        peut déclencher une demande d'autorisation pour les « téléchargements multiples » — acceptez-la pour que
+        toutes les cartes soient enregistrées.
+    </div>
+</section>
+
+<section class="chapter" id="export">
+    <h2 class="chapter-title">11. Exporter vos cartes et vos configurations</h2>
+    <p>
+        Les boutons d'export se trouvent en haut à droite de l'écran :
+    </p>
+    <figure>
+        <img src="images/17-entete-boutons.png" alt="Boutons Exporter config, Importer config, Télécharger PNG, Installer l'application, À propos">
+        <figcaption>Les actions disponibles depuis l'en-tête de l'application.</figcaption>
+    </figure>
+    <table class="keytable">
+        <tr><th>Bouton</th><th>Action</th></tr>
+        <tr><td>💾 Exporter config</td><td>Télécharge un fichier <code>.json</code> contenant vos données et tous vos réglages, pour reprendre le travail plus tard.</td></tr>
+        <tr><td>📂 Importer config</td><td>Recharge un fichier de configuration précédemment exporté.</td></tr>
+        <tr><td>⬇️ Télécharger PNG</td><td>Génère et télécharge la carte actuellement affichée en image haute définition.</td></tr>
+    </table>
+    <p>
+        L'image PNG téléchargée reprend le titre de la carte comme nom de fichier.
+    </p>
+</section>
+
+<section class="chapter" id="pwa">
+    <h2 class="chapter-title">12. Installer l'application hors-ligne</h2>
+    <p>
+        Le bouton « 📲 Installer l'application » (visible selon votre navigateur) installe SimpleCarto comme une
+        application autonome, utilisable sans connexion Internet une fois installée.
+    </p>
+    <ul>
+        <li>Sur <strong>Chrome, Edge</strong> et autres navigateurs à base Chromium : l'installation se fait en un clic.</li>
+        <li>Sur <strong>Firefox Android</strong> : utilisez le menu ⋮ du navigateur puis « Ajouter à l'écran d'accueil ».</li>
+        <li>Sur <strong>Firefox pour ordinateur</strong> : Firefox ne propose pas d'installation native de ce type
+            d'application ; le bouton ouvre l'extension tierce <em>PWAsForFirefox</em>, qui permet d'obtenir une
+            fenêtre autonome.</li>
+    </ul>
+</section>
+
+<section class="chapter" id="a-propos">
+    <h2 class="chapter-title">13. Retrouver ce manuel dans l'application</h2>
+    <p>
+        Ce manuel est disponible à tout moment depuis le bouton « ❓ À propos » de l'en-tête. Il ouvre une
+        fenêtre présentant SimpleCarto et proposant son téléchargement au format PDF.
+    </p>
+    <figure>
+        <img src="images/12-a-propos-modal.jpg" alt="Fenêtre À propos avec le lien de téléchargement du manuel">
+        <figcaption>La fenêtre « À propos », accessible depuis n'importe quelle page de l'application.</figcaption>
+    </figure>
+</section>
+
+<section class="chapter" id="faq">
+    <h2 class="chapter-title">14. Questions fréquentes</h2>
+
+    <h3>Ma carte reste vide après avoir chargé mes données</h3>
+    <p>
+        Vérifiez que la première colonne de votre CSV contient bien des codes géographiques reconnus
+        (codes commune INSEE, codes département, ou codes pays ISO alpha-3 selon l'échelle choisie), et que la
+        zone géographique choisie (région, département...) correspond à vos données. Cliquez sur
+        « Actualiser la vue » après tout changement si le mode « Auto » n'est pas activé.
+    </p>
+
+    <h3>Mes nombres décimaux ne s'affichent pas correctement</h3>
+    <p>
+        Les décimales séparées par une virgule (format français, ex : <code>1234,56</code>) sont acceptées
+        automatiquement.
+    </p>
+
+    <h3>Puis-je reprendre mon travail plus tard ?</h3>
+    <p>
+        Oui : utilisez « 💾 Exporter config » pour sauvegarder vos données et réglages dans un fichier, puis
+        « 📂 Importer config » pour les recharger — y compris sur un autre appareil.
+    </p>
+
+    <h3>Mes données sont-elles envoyées sur Internet ?</h3>
+    <p>
+        Non. Le traitement des fichiers CSV et le dessin des cartes se font entièrement dans votre navigateur ;
+        aucune donnée n'est transmise à un serveur.
+    </p>
+</section>
