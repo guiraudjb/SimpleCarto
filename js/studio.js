@@ -725,63 +725,125 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
 
+    // ---------------------------------------------------------------
+    // CONSTRUCTION DE LA CONFIGURATION DE CARTE
+    // Centralise la lecture du panneau pour l'aperçu ET pour l'export
+    // (simple ou par lot). Les overrides permettent de générer une carte
+    // pour une colonne donnée sans modifier les champs du panneau.
+    // ---------------------------------------------------------------
+    function buildMapConfig(overrides = {}) {
+        const showLegend = document.getElementById('map-show-legend').checked;
+        const calcMode = overrides.calcMode !== undefined ? overrides.calcMode : document.getElementById('calc-mode').value;
+        const calcCol1 = overrides.calcCol1 !== undefined ? overrides.calcCol1 : document.getElementById('calc-col1').value;
+        const calcCol2 = overrides.calcCol2 !== undefined ? overrides.calcCol2 : document.getElementById('calc-col2').value;
+        const title = overrides.title !== undefined ? overrides.title : document.getElementById('map-title')?.value;
+
+        let mapData = null;
+        let filterMap = null;
+
+        if (rawCsvData.length > 0) {
+            const codeCol = Object.keys(rawCsvData[0])[0];
+            mapData = computeValorAggregation(rawCsvData, scaleSelect.value, calcMode, codeCol, calcCol1, calcCol2);
+            const fCol = document.getElementById('filter-col').value;
+            if (fCol) {
+                filterMap = computeValorAggregation(rawCsvData, scaleSelect.value, 'simple', codeCol, fCol);
+            }
+        }
+
+        const config = {
+            scale: scaleSelect.value,
+            worldRegion: document.getElementById('sel-world-region')?.value,
+            region: document.getElementById('sel-region')?.value,
+            dept: document.getElementById('sel-dept')?.value,
+            epci: document.getElementById('sel-epci')?.value,
+            commune: document.getElementById('sel-commune')?.value,
+            title: title,
+            titleFont: document.getElementById('title-font-select')?.value || DEFAULT_FONT,
+            titleFontSize: parseFloat(document.getElementById('title-font-size')?.value) || 17,
+            labelType: document.getElementById('label-type')?.value,
+            labelFont: document.getElementById('label-font-select')?.value || DEFAULT_FONT,
+            showLegend: showLegend,
+            palette: document.getElementById('map-palette')?.value || 'default',
+            customColors: document.getElementById('map-palette')?.value === 'custom' ? getCustomColorsArray() : null,
+
+            labelFilterNames: document.getElementById('label-filter-names')?.value,
+            labelSize: parseFloat(document.getElementById('label-size')?.value) || 10,
+            physPadding: parseFloat(document.getElementById('phys-padding')?.value) || 4,
+            physStrength: parseFloat(document.getElementById('phys-strength')?.value) || 0.15,
+
+            filterOperator: document.getElementById('filter-operator')?.value,
+            filterCol: document.getElementById('filter-col')?.value,
+            filterThreshold: parseFloat(document.getElementById('filter-value')?.value),
+            filterDataMap: filterMap,
+            pictograms: currentPictograms,
+            annotations: currentAnnotations,
+
+            showRelief: document.getElementById('layer-show-relief')?.checked || false,
+            reliefOpacity: parseFloat(document.getElementById('layer-relief-opacity')?.value) ?? 0.6,
+            showRoads: document.getElementById('layer-show-roads')?.checked || false,
+            showHydro: document.getElementById('layer-show-hydro')?.checked || false,
+            showRail: document.getElementById('layer-show-rail')?.checked || false,
+            showAirports: document.getElementById('layer-show-airports')?.checked || false,
+            showCities: document.getElementById('layer-show-cities')?.checked || false
+        };
+
+        return { config, mapData };
+    }
+
+    // ---------------------------------------------------------------
+    // EXPORT PNG (utilisé par le téléchargement simple et le mode lot)
+    // ---------------------------------------------------------------
+    function sanitizeFilename(name) {
+        return String(name || 'carte').replace(/[\\/:*?"<>|]+/g, '_').trim() || 'carte';
+    }
+
+    async function exportMapAsPng(config, mapData, filename) {
+        const hiddenDiv = document.createElement('div');
+        hiddenDiv.style.position = 'absolute';
+        hiddenDiv.style.left = '-9999px';
+        hiddenDiv.style.width = '850px';
+        hiddenDiv.style.height = '550px';
+        hiddenDiv.style.background = '#fff';
+        document.body.appendChild(hiddenDiv);
+
+        await Promise.all([ensureFontLoaded(config.titleFont), ensureFontLoaded(config.labelFont)]);
+        const success = await drawD3Map(hiddenDiv, config, mapData);
+
+        if (!success) {
+            hiddenDiv.remove();
+            return false;
+        }
+
+        await renderPictogramOverlay(hiddenDiv, config.pictograms || []);
+        renderAnnotationOverlay(hiddenDiv, config.annotations || []);
+        hiddenDiv.querySelectorAll('.annotation-control-handle').forEach(el => el.remove());
+        await new Promise(resolve => setTimeout(resolve, 50));
+
+        const canvas = await html2canvas(hiddenDiv, {
+            scale: 2,
+            backgroundColor: "#ffffff",
+            useCORS: true,
+            logging: false
+        });
+
+        hiddenDiv.remove();
+
+        const link = document.createElement('a');
+        link.download = filename;
+        link.href = canvas.toDataURL('image/png');
+        link.click();
+        return true;
+    }
+
     async function renderPreview() {
         const loader = document.getElementById('map-loader');
         const emptyState = document.getElementById('map-empty-state');
 
         if (loader) loader.style.display = 'flex';
         if (emptyState) emptyState.style.display = 'none';
-        const showLegend = document.getElementById('map-show-legend').checked;
 
         setTimeout(async () => {
-            let mapData = null;
-            let filterMap = null;
-
-            if (rawCsvData.length > 0) {
-                const codeCol = Object.keys(rawCsvData[0])[0];
-                mapData = computeValorAggregation(rawCsvData, scaleSelect.value, document.getElementById('calc-mode').value, codeCol, document.getElementById('calc-col1').value, document.getElementById('calc-col2').value);
-                const fCol = document.getElementById('filter-col').value;
-                if (fCol) {
-                    filterMap = computeValorAggregation(rawCsvData, scaleSelect.value, 'simple', codeCol, fCol);
-                }
-            }
-
-            const config = {
-                scale: scaleSelect.value,
-                worldRegion: document.getElementById('sel-world-region')?.value,
-                region: document.getElementById('sel-region')?.value,
-                dept: document.getElementById('sel-dept')?.value,
-                epci: document.getElementById('sel-epci')?.value,
-                commune: document.getElementById('sel-commune')?.value,
-                title: document.getElementById('map-title')?.value,
-                titleFont: document.getElementById('title-font-select')?.value || DEFAULT_FONT,
-                titleFontSize: parseFloat(document.getElementById('title-font-size')?.value) || 17,
-                labelType: document.getElementById('label-type')?.value,
-                labelFont: document.getElementById('label-font-select')?.value || DEFAULT_FONT,
-                showLegend: showLegend,
-                palette: document.getElementById('map-palette')?.value || 'default',
-                customColors: document.getElementById('map-palette')?.value === 'custom' ? getCustomColorsArray() : null,
-
-                labelFilterNames: document.getElementById('label-filter-names')?.value,
-                labelSize: parseFloat(document.getElementById('label-size')?.value) || 10,
-                physPadding: parseFloat(document.getElementById('phys-padding')?.value) || 4,
-                physStrength: parseFloat(document.getElementById('phys-strength')?.value) || 0.15,
-
-                filterOperator: document.getElementById('filter-operator')?.value,
-                filterCol: document.getElementById('filter-col')?.value,
-                filterThreshold: parseFloat(document.getElementById('filter-value')?.value),
-                filterDataMap: filterMap,
-                pictograms: currentPictograms,
-                annotations: currentAnnotations,
-
-                showRelief: document.getElementById('layer-show-relief')?.checked || false,
-                reliefOpacity: parseFloat(document.getElementById('layer-relief-opacity')?.value) ?? 0.6,
-                showRoads: document.getElementById('layer-show-roads')?.checked || false,
-                showHydro: document.getElementById('layer-show-hydro')?.checked || false,
-                showRail: document.getElementById('layer-show-rail')?.checked || false,
-                showAirports: document.getElementById('layer-show-airports')?.checked || false,
-                showCities: document.getElementById('layer-show-cities')?.checked || false
-            };
+            const { config, mapData } = buildMapConfig();
 
             currentMapConfig = config;
             currentMapData = mapData;
@@ -848,6 +910,22 @@ document.addEventListener('DOMContentLoaded', () => {
             o.value = h; o.textContent = h;
             filterCol.appendChild(o);
         });
+
+        // Nouveau jeu de données : retour au mode par défaut (somme brute,
+        // palette bleue dégradée par défaut) plutôt que de garder les
+        // réglages du jeu de données précédent.
+        document.getElementById('calc-mode').value = 'simple';
+        document.getElementById('calc-col2').style.display = 'none';
+        document.getElementById('map-palette').value = 'default';
+        document.getElementById('palette-warning').style.display = 'none';
+        document.getElementById('custom-palette-ui').style.display = 'none';
+
+        const batchBtn = document.getElementById('btn-batch-generate');
+        const batchStatus = document.getElementById('batch-status');
+        const hasMultipleColumns = headers.slice(1).length > 1;
+        batchBtn.style.display = hasMultipleColumns ? 'block' : 'none';
+        if (batchStatus) batchStatus.innerText = '';
+
         triggerAutoRefresh();
     }
 
@@ -940,37 +1018,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
         setTimeout(async () => {
             try {
-                const hiddenDiv = document.createElement('div');
-                hiddenDiv.style.position = 'absolute';
-                hiddenDiv.style.left = '-9999px';
-                hiddenDiv.style.width = '850px';
-                hiddenDiv.style.height = '550px';
-                hiddenDiv.style.background = '#fff';
-                document.body.appendChild(hiddenDiv);
-
-                await Promise.all([ensureFontLoaded(currentMapConfig.titleFont), ensureFontLoaded(currentMapConfig.labelFont)]);
-                await drawD3Map(hiddenDiv, currentMapConfig, currentMapData);
-                await renderPictogramOverlay(hiddenDiv, currentMapConfig.pictograms || []);
-                renderAnnotationOverlay(hiddenDiv, currentMapConfig.annotations || []);
-                hiddenDiv.querySelectorAll('.annotation-control-handle').forEach(el => el.remove());
-                await new Promise(resolve => setTimeout(resolve, 50));
-
-                const canvas = await html2canvas(hiddenDiv, {
-                    scale: 2,
-                    backgroundColor: "#ffffff",
-                    useCORS: true,
-                    logging: false
-                });
-
-                hiddenDiv.remove();
-
-                const link = document.createElement('a');
                 const safeTitle = (currentMapConfig.title || 'carte').replace(/[^a-z0-9\-_]+/gi, '_');
-                link.download = `${safeTitle}.png`;
-                link.href = canvas.toDataURL('image/png');
-                link.click();
+                const ok = await exportMapAsPng(currentMapConfig, currentMapData, `${safeTitle}.png`);
 
-                showToast("Succès", "La carte a été téléchargée.", "success");
+                if (ok) {
+                    showToast("Succès", "La carte a été téléchargée.", "success");
+                } else {
+                    showToast("Sélection incomplète", "Veuillez préciser la zone géographique à cartographier.", "warning");
+                }
             } catch (error) {
                 console.error("Erreur de capture :", error);
                 showToast("Erreur", "Impossible de générer l'image de la carte.", "error");
@@ -979,6 +1034,57 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }, 100);
     };
+
+    // ---------------------------------------------------------------
+    // GÉNÉRATION PAR LOT (une carte par colonne de données du CSV)
+    // Pour chaque colonne (hors identifiant), calcule la carte en mode
+    // "Somme brute", utilise l'en-tête de colonne comme titre, et
+    // télécharge automatiquement l'image en <titre-colonne>.png.
+    // ---------------------------------------------------------------
+    async function runBatchGeneration() {
+        if (rawCsvData.length === 0) return;
+        const headers = Object.keys(rawCsvData[0]);
+        const dataColumns = headers.slice(1);
+
+        if (dataColumns.length < 2) {
+            showToast("Action impossible", "Le CSV ne possède qu'une seule colonne de données à cartographier.", "warning");
+            return;
+        }
+
+        const batchBtn = document.getElementById('btn-batch-generate');
+        const statusEl = document.getElementById('batch-status');
+        const loader = document.getElementById('map-loader');
+
+        batchBtn.disabled = true;
+        if (loader) {
+            loader.querySelector('p').innerText = "Génération des cartes par lot...";
+            loader.style.display = 'flex';
+        }
+
+        let successCount = 0;
+        try {
+            for (let i = 0; i < dataColumns.length; i++) {
+                const col = dataColumns[i];
+                if (statusEl) statusEl.innerText = `⏳ Carte ${i + 1}/${dataColumns.length} : « ${col} »...`;
+
+                const { config, mapData } = buildMapConfig({ calcMode: 'simple', calcCol1: col, calcCol2: '', title: col });
+                const ok = await exportMapAsPng(config, mapData, `${sanitizeFilename(col)}.png`);
+                if (ok) successCount++;
+                await new Promise(resolve => setTimeout(resolve, 300));
+            }
+
+            if (statusEl) statusEl.innerText = `✅ ${successCount}/${dataColumns.length} carte(s) générée(s) et téléchargée(s).`;
+            showToast("Génération par lot terminée", `${successCount} carte(s) sur ${dataColumns.length} téléchargée(s).`, successCount === dataColumns.length ? "success" : "warning");
+        } catch (error) {
+            console.error("Erreur de génération par lot :", error);
+            showToast("Erreur", "La génération par lot a été interrompue.", "error");
+        } finally {
+            batchBtn.disabled = false;
+            if (loader) loader.style.display = 'none';
+        }
+    }
+
+    document.getElementById('btn-batch-generate').onclick = runBatchGeneration;
 
     // ---------------------------------------------------------------
     // EXPORT / IMPORT DE CONFIGURATION (remplace data-map-config)
