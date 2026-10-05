@@ -54,20 +54,24 @@ function fetchCSV(url, delimiter = ",") {
     });
 }
 
+// Normalise un code INSEE du CSV (zéro initial perdu par les tableurs) et, aux
+// échelles affichées par département, ramène un code commune à son département.
+function resolveTargetCode(rawCode, targetScale) {
+    let sourceCode = String(rawCode || "").trim();
+    if (!sourceCode) return null;
+    if (sourceCode.length === 1 || sourceCode.length === 4) sourceCode = "0" + sourceCode;
+    if (targetScale === 'national' || targetScale === 'region') {
+        return (sourceCode.length >= 4) ? geoReferential.comToDep.get(sourceCode) : sourceCode;
+    }
+    return sourceCode;
+}
+
 function computeValorAggregation(rawData, targetScale, calcMode, colCode, col1, col2) {
     const aggregatedData = new Map();
     let globalTotalCol1 = 0;
 
     rawData.forEach(row => {
-        let sourceCode = String(row[colCode] || "").trim();
-        if (!sourceCode) return;
-        if (sourceCode.length === 1 || sourceCode.length === 4) sourceCode = "0" + sourceCode;
-
-        let targetCode = sourceCode;
-        if (targetScale === 'national' || targetScale === 'region') {
-            targetCode = (sourceCode.length >= 4) ? geoReferential.comToDep.get(sourceCode) : sourceCode;
-        }
-
+        const targetCode = resolveTargetCode(row[colCode], targetScale);
         if (!targetCode) return;
         if (!aggregatedData.has(targetCode)) aggregatedData.set(targetCode, { val1: 0, val2: 0 });
 
@@ -87,6 +91,17 @@ function computeValorAggregation(rawData, targetScale, calcMode, colCode, col1, 
         finalMap.set(String(code), val);
     });
     return finalMap;
+}
+
+// Texte d'étiquette issu d'une colonne du CSV : premier texte non vide par zone.
+function computeTextMap(rawData, targetScale, colCode, textCol) {
+    const textMap = new Map();
+    rawData.forEach(row => {
+        const targetCode = resolveTargetCode(row[colCode], targetScale);
+        const text = String(row[textCol] ?? "").trim();
+        if (targetCode && text && !textMap.has(targetCode)) textMap.set(targetCode, text);
+    });
+    return textMap;
 }
 
 // Découpe un titre en lignes : respecte les retours à la ligne manuels (\n)
@@ -213,7 +228,7 @@ function drawReliefTiles(svg, gRelief, projection, imgDataUrl) {
 
 async function loadRoadData(config) {
     let url = null;
-    if (['national', 'region'].includes(config.scale)) {
+    if (['national', 'region', 'region-communes'].includes(config.scale)) {
         url = './data/roads_national.json';
     } else if (['departement', 'epci', 'commune'].includes(config.scale) && config.dept) {
         url = `./data/roads/dept/${config.dept}.json`;
@@ -278,9 +293,73 @@ function appendMergedLinePath(container, path, features) {
 // mondiale, pas de pertinence pour l'outre-mer avec ces jeux de données).
 function isMetropolitanScope(config) {
     if (config.scale === 'world') return false;
-    if (config.scale === 'region' && ['01', '02', '03', '04', '06'].includes(String(config.region))) return false;
+    if (['region', 'region-communes'].includes(config.scale) && ['01', '02', '03', '04', '06'].includes(String(config.region))) return false;
     if (config.dept && String(config.dept).startsWith('97')) return false;
     return true;
+}
+
+// Épingles géolocalisées (lon/lat WGS84) : point coloré, texte optionnel à côté,
+// et encadré de légende (en bas à gauche) regroupant les couples couleur/légende
+// des épingles visibles dans le cadre.
+const PIN_LEGEND_MAX_ENTRIES = 12;
+
+function drawPins(svg, config, projection, width, height) {
+    const radius = config.pinSize || 5;
+    const labelFont = `"${config.labelFont || DEFAULT_FONT}", 'Segoe UI', Arial, sans-serif`;
+    const pts = projectPoints(config.pins, projection)
+        .filter(p => p.x >= 0 && p.x <= width && p.y >= 0 && p.y <= height);
+
+    const gPins = svg.append("g").attr("class", "pins-layer");
+    gPins.selectAll("circle").data(pts).enter().append("circle")
+        .attr("cx", d => d.x).attr("cy", d => d.y).attr("r", radius)
+        .attr("fill", d => d.color).attr("stroke", "#ffffff").attr("stroke-width", 1.2);
+
+    if (config.showPinLabels !== false) {
+        gPins.selectAll("text").data(pts.filter(p => p.label)).enter().append("text")
+            .attr("x", d => d.x + radius + 3).attr("y", d => d.y + 3.5)
+            .style("font-size", "10px").style("font-family", labelFont).style("font-weight", "700")
+            .style("fill", "#1e1e1e")
+            .attr("stroke", "#ffffff").attr("stroke-width", 2.5).attr("stroke-linejoin", "round")
+            .style("paint-order", "stroke fill")
+            .text(d => d.label);
+    }
+
+    if (config.showPinLegend === false) return;
+    const entries = [];
+    const seen = new Set();
+    pts.forEach(p => {
+        if (!p.label) return;
+        const key = `${p.color}|${p.label}`;
+        if (seen.has(key)) return;
+        seen.add(key);
+        entries.push({ color: p.color, label: p.label });
+    });
+    if (entries.length === 0) return;
+
+    const shown = entries.slice(0, PIN_LEGEND_MAX_ENTRIES);
+    const overflow = entries.length - shown.length;
+    const lineH = 15, padX = 8, padY = 6;
+    const rows = shown.length + (overflow > 0 ? 1 : 0);
+    const boxH = padY * 2 + rows * lineH;
+    const legend = svg.append("g").attr("class", "pins-legend")
+        .attr("transform", `translate(12, ${height - 12 - boxH})`);
+    const bg = legend.append("rect").attr("rx", 4)
+        .attr("fill", "#ffffff").attr("fill-opacity", 0.88).attr("stroke", "#cccccc").attr("height", boxH);
+
+    shown.forEach((e, i) => {
+        const cy = padY + i * lineH + lineH / 2;
+        legend.append("circle").attr("cx", padX + 5).attr("cy", cy).attr("r", 5)
+            .attr("fill", e.color).attr("stroke", "#ffffff").attr("stroke-width", 1);
+        legend.append("text").attr("x", padX + 15).attr("y", cy + 3.5)
+            .style("font-size", "10px").style("font-family", labelFont).style("fill", "#1e1e1e")
+            .text(e.label);
+    });
+    if (overflow > 0) {
+        legend.append("text").attr("x", padX).attr("y", padY + shown.length * lineH + lineH / 2 + 3.5)
+            .style("font-size", "10px").style("font-style", "italic").style("font-family", labelFont).style("fill", "#555555")
+            .text(`+${overflow} autre${overflow > 1 ? 's' : ''}`);
+    }
+    bg.attr("width", legend.node().getBBox().width + padX * 2);
 }
 
 async function drawD3Map(container, config, dataMap) {
@@ -319,7 +398,7 @@ async function drawD3Map(container, config, dataMap) {
         const codeDep = String(p.code_insee_du_departement || p.code_insee_departement || p.dep || "");
         const codeCom = String(p.code_insee || p.code || "");
 
-        if (config.scale === 'region' && config.region) return codeReg === String(config.region);
+        if (['region', 'region-communes'].includes(config.scale) && config.region) return codeReg === String(config.region);
         if (config.scale === 'departement' && config.dept) return codeDep === String(config.dept);
         if (config.scale === 'epci' && config.epci) return validEpci.has(codeCom);
         if (config.scale === 'commune' && config.commune) return codeCom === String(config.commune);
@@ -382,7 +461,7 @@ async function drawD3Map(container, config, dataMap) {
     }
 
     let renderFeatures = features;
-    if (['departement', 'epci', 'commune'].includes(config.scale)) {
+    if (['departement', 'epci', 'commune', 'region-communes'].includes(config.scale)) {
         renderFeatures = targetFeatures;
     }
 
@@ -397,6 +476,19 @@ async function drawD3Map(container, config, dataMap) {
         })
         .attr("stroke", d => targetFeatures.includes(d) ? "#ffffff" : "#f0f0f0")
         .attr("stroke-width", d => targetFeatures.includes(d) ? 0.5 : 0.2);
+
+    // Région détaillée à la commune : limites départementales internes en trait
+    // plus épais pour garder des repères lisibles parmi des centaines de communes.
+    if (config.scale === 'region-communes' && geoJSON.type === "Topology" && config.region) {
+        const obj = geoJSON.objects[Object.keys(geoJSON.objects)[0]];
+        const regionCode = String(config.region);
+        const depOf = (geom) => String(geom.properties?.code_insee_du_departement || "");
+        const regionObj = { ...obj, geometries: obj.geometries.filter(geom => String(geom.properties?.code_insee_de_la_region || "") === regionCode) };
+        g.append("path")
+            .datum(topojson.mesh(geoJSON, regionObj, (a, b) => a !== b && depOf(a) !== depOf(b)))
+            .attr("d", path)
+            .attr("fill", "none").attr("stroke", "#555555").attr("stroke-width", 1.2).attr("stroke-linejoin", "round");
+    }
 
     const isMetro = isMetropolitanScope(config);
     const [reliefImg, hydroFeatures, railFeatures, roadFeatures, airportPoints, cityPoints] = await Promise.all([
@@ -455,6 +547,10 @@ async function drawD3Map(container, config, dataMap) {
         }
     }
 
+    if (Array.isArray(config.pins) && config.pins.length > 0) {
+        drawPins(svg, config, projection, width, height);
+    }
+
     const gLabels = svg.append("g");
 
     if (config.labelType !== 'none') {
@@ -466,9 +562,10 @@ async function drawD3Map(container, config, dataMap) {
 
             const code = String((config.scale === 'world') ? getIso(d) : (d.properties.code_insee || d.properties.code || ""));
 
-            const name = (config.scale === 'world')
+            const geoName = (config.scale === 'world')
                 ? (d.properties.name_fr || d.properties.name || d.properties.NAME || "")
                 : (d.properties.nom_officiel || d.properties.nom || d.properties.NOM || d.properties.libgeo || d.properties.LIBGEO || d.properties.nom_com || d.properties.nom_commune || d.properties.nom_dept || d.properties.nom_reg || d.properties.libelle || "");
+            const name = config.labelTextMap?.get(code) || geoName;
 
             const rawValue = dataMap?.has(code) ? dataMap.get(code) : 0;
             const valText = dataMap?.has(code) ? frenchNumberFormat.format(rawValue) : "";
@@ -544,7 +641,8 @@ async function drawD3Map(container, config, dataMap) {
         const legendX = width - legendWidth - 30, legendY = height - 30;
         const defs = svg.append("defs");
 
-        const grad = defs.append("linearGradient").attr("id", "map-grad").attr("x1","0%").attr("x2","100%");
+        const gradId = 'map-grad-' + Math.random().toString(36).slice(2, 9);
+        const grad = defs.append("linearGradient").attr("id", gradId).attr("x1","0%").attr("x2","100%");
 
         if (config.palette === 'custom' && config.customColors && config.customColors.length >= 2) {
             const interpolator = d3.interpolateRgbBasis(config.customColors);
@@ -558,7 +656,7 @@ async function drawD3Map(container, config, dataMap) {
         }
 
         const leg = svg.append("g").attr("transform", `translate(${legendX}, ${legendY})`);
-        leg.append("rect").attr("width", legendWidth).attr("height", legendHeight).style("fill", "url(#map-grad)").style("stroke", "#ccc");
+        leg.append("rect").attr("width", legendWidth).attr("height", legendHeight).style("fill", `url(#${gradId})`).style("stroke", "#ccc");
         leg.append("text").attr("x", 0).attr("y", -6).style("font-size", "0.75rem").text(frenchNumberFormat.format(minVal));
         leg.append("text").attr("x", legendWidth).attr("y", -6).attr("text-anchor", "end").style("font-size", "0.75rem").text(frenchNumberFormat.format(maxVal));
     }

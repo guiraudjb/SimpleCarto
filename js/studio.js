@@ -60,6 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let currentMapData = null;
     let currentPictograms = [];
     let currentAnnotations = [];
+    let currentPins = [];
     let pictogramPlacementArmed = false;
     let annotationPlacementArmed = false;
     let autoRefreshEnabled = false;
@@ -617,6 +618,130 @@ document.addEventListener('DOMContentLoaded', () => {
         renderAnnotationOverlay(document.getElementById('map-preview-area'), currentAnnotations);
     };
 
+    // ---------------------------------------------------------------
+    // ÉPINGLES GÉOLOCALISÉES (lon/lat WGS84)
+    // Dessinées par le moteur via la projection : elles suivent la carte
+    // quelle que soit l'échelle, et passent dans l'export PNG et le lot.
+    // ---------------------------------------------------------------
+    const DEFAULT_PIN_COLOR = '#e1000f';
+
+    function parseCoordinate(raw) {
+        const n = parseFloat(String(raw ?? '').trim().replace(',', '.'));
+        return Number.isFinite(n) ? n : NaN;
+    }
+
+    // Couleur validée par le navigateur (#hex, rgb(), nom CSS) : évite toute
+    // valeur arbitraire injectée dans le SVG depuis un CSV ou une config.
+    function sanitizePinColor(raw) {
+        const c = String(raw ?? '').trim();
+        return c && CSS.supports('color', c) ? c : DEFAULT_PIN_COLOR;
+    }
+
+    function makePin(lon, lat, color, label) {
+        if (!(lon >= -180 && lon <= 180 && lat >= -90 && lat <= 90)) return null;
+        return { lon, lat, color: sanitizePinColor(color), label: String(label ?? '').trim() };
+    }
+
+    function refreshAfterPinsChange() {
+        renderPinList();
+        if (currentMapConfig) renderPreview();
+    }
+
+    function renderPinList() {
+        const list = document.getElementById('pin-list');
+        list.innerHTML = '';
+        currentPins.forEach((pin, i) => {
+            const li = document.createElement('li');
+            const dot = document.createElement('span');
+            dot.className = 'pin-dot';
+            dot.style.background = pin.color;
+            const text = document.createElement('span');
+            text.className = 'pin-text';
+            text.textContent = `${pin.label || '(sans légende)'} — ${pin.lon}, ${pin.lat}`;
+            const del = document.createElement('button');
+            del.type = 'button';
+            del.className = 'pin-delete';
+            del.title = 'Supprimer cette épingle';
+            del.textContent = '×';
+            del.onclick = () => {
+                currentPins.splice(i, 1);
+                refreshAfterPinsChange();
+            };
+            li.append(dot, text, del);
+            list.appendChild(li);
+        });
+        document.getElementById('btn-clear-pins').style.display = currentPins.length > 0 ? 'block' : 'none';
+    }
+
+    document.getElementById('btn-add-pin').onclick = () => {
+        const pin = makePin(
+            parseCoordinate(document.getElementById('pin-lon').value),
+            parseCoordinate(document.getElementById('pin-lat').value),
+            document.getElementById('pin-color').value,
+            document.getElementById('pin-label').value
+        );
+        if (!pin) {
+            showToast("Coordonnées invalides", "Saisissez une longitude (-180 à 180) et une latitude (-90 à 90) en degrés décimaux.", "warning");
+            return;
+        }
+        currentPins.push(pin);
+        document.getElementById('pin-lon').value = '';
+        document.getElementById('pin-lat').value = '';
+        document.getElementById('pin-label').value = '';
+        refreshAfterPinsChange();
+    };
+
+    document.getElementById('btn-import-pins').onclick = () => {
+        document.getElementById('pins-csv-file').click();
+    };
+
+    document.getElementById('pins-csv-file').onchange = (e) => {
+        const file = e.target.files[0];
+        if (!file) return;
+        Papa.parse(file, { header: false, skipEmptyLines: true, complete: (res) => {
+            const rows = res.data;
+            // Ligne d'en-tête facultative : détectée si x/y ne sont pas numériques
+            const hasHeader = rows.length > 0 && (Number.isNaN(parseCoordinate(rows[0][0])) || Number.isNaN(parseCoordinate(rows[0][1])));
+            const dataRows = hasHeader ? rows.slice(1) : rows;
+            let imported = 0;
+            dataRows.forEach(r => {
+                const pin = makePin(parseCoordinate(r[0]), parseCoordinate(r[1]), r[2], r[3]);
+                if (pin) { currentPins.push(pin); imported++; }
+            });
+            const ignored = dataRows.length - imported;
+            showToast("Import des épingles",
+                `${imported} épingle(s) importée(s)${ignored > 0 ? `, ${ignored} ligne(s) ignorée(s) (coordonnées invalides)` : ''}.`,
+                imported > 0 ? (ignored > 0 ? "warning" : "success") : "error");
+            refreshAfterPinsChange();
+        }});
+        e.target.value = '';
+    };
+
+    document.getElementById('btn-clear-pins').onclick = () => {
+        currentPins = [];
+        refreshAfterPinsChange();
+    };
+
+    // Remplit les listes de colonnes (calcul, filtre, texte des étiquettes) d'après les en-têtes du CSV
+    function populateColumnSelects(headers) {
+        document.getElementById('calc-engine-ui').style.display = 'block';
+        document.getElementById('label-insee-col').innerText = headers[0];
+        const s1 = document.getElementById('calc-col1'), s2 = document.getElementById('calc-col2');
+        s1.innerHTML = ''; s2.innerHTML = '';
+        headers.slice(1).forEach(h => { const o = document.createElement('option'); o.value = h; o.textContent = h; s1.appendChild(o.cloneNode(true)); s2.appendChild(o); });
+        document.getElementById('advanced-filter-ui').style.display = 'block';
+        const filterCol = document.getElementById('filter-col');
+        filterCol.innerHTML = '<option value="">-- Champ à filtrer (Optionnel) --</option>';
+        const textCol = document.getElementById('label-text-col');
+        textCol.innerHTML = '<option value="">Nom de la zone (par défaut)</option>';
+        headers.forEach(h => {
+            const o = document.createElement('option');
+            o.value = h; o.textContent = h;
+            filterCol.appendChild(o.cloneNode(true));
+            textCol.appendChild(o);
+        });
+    }
+
     function getCustomColorsArray() {
         const arr = [customColors.from];
         if (customColors.midEnabled && customColors.mid) arr.push(customColors.mid);
@@ -740,6 +865,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         let mapData = null;
         let filterMap = null;
+        let labelTextMap = null;
+        const labelTextCol = document.getElementById('label-text-col').value;
 
         if (rawCsvData.length > 0) {
             const codeCol = Object.keys(rawCsvData[0])[0];
@@ -747,6 +874,9 @@ document.addEventListener('DOMContentLoaded', () => {
             const fCol = document.getElementById('filter-col').value;
             if (fCol) {
                 filterMap = computeValorAggregation(rawCsvData, scaleSelect.value, 'simple', codeCol, fCol);
+            }
+            if (labelTextCol) {
+                labelTextMap = computeTextMap(rawCsvData, scaleSelect.value, codeCol, labelTextCol);
             }
         }
 
@@ -758,10 +888,15 @@ document.addEventListener('DOMContentLoaded', () => {
             epci: document.getElementById('sel-epci')?.value,
             commune: document.getElementById('sel-commune')?.value,
             title: title,
+            calcMode: calcMode,
+            calcCol1: calcCol1,
+            calcCol2: calcCol2,
             titleFont: document.getElementById('title-font-select')?.value || DEFAULT_FONT,
             titleFontSize: parseFloat(document.getElementById('title-font-size')?.value) || 17,
             labelType: document.getElementById('label-type')?.value,
             labelFont: document.getElementById('label-font-select')?.value || DEFAULT_FONT,
+            labelTextCol: labelTextCol,
+            labelTextMap: labelTextMap,
             showLegend: showLegend,
             palette: document.getElementById('map-palette')?.value || 'default',
             customColors: document.getElementById('map-palette')?.value === 'custom' ? getCustomColorsArray() : null,
@@ -777,6 +912,10 @@ document.addEventListener('DOMContentLoaded', () => {
             filterDataMap: filterMap,
             pictograms: currentPictograms,
             annotations: currentAnnotations,
+            pins: currentPins,
+            showPinLabels: document.getElementById('pin-show-labels').checked,
+            showPinLegend: document.getElementById('pin-show-legend').checked,
+            pinSize: parseFloat(document.getElementById('pin-size').value) || 5,
 
             showRelief: document.getElementById('layer-show-relief')?.checked || false,
             reliefOpacity: parseFloat(document.getElementById('layer-relief-opacity')?.value) ?? 0.6,
@@ -897,19 +1036,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function applyCsvData(data, headers, statusText) {
         rawCsvData = data;
         document.getElementById('csv-status').innerText = statusText;
-        document.getElementById('calc-engine-ui').style.display = 'block';
-        document.getElementById('label-insee-col').innerText = headers[0];
-        const s1 = document.getElementById('calc-col1'), s2 = document.getElementById('calc-col2');
-        s1.innerHTML = ''; s2.innerHTML = '';
-        headers.slice(1).forEach(h => { const o = document.createElement('option'); o.value = h; o.textContent = h; s1.appendChild(o.cloneNode(true)); s2.appendChild(o); });
-        document.getElementById('advanced-filter-ui').style.display = 'block';
-        const filterCol = document.getElementById('filter-col');
-        filterCol.innerHTML = '<option value="">-- Champ à filtrer (Optionnel) --</option>';
-        headers.forEach(h => {
-            const o = document.createElement('option');
-            o.value = h; o.textContent = h;
-            filterCol.appendChild(o);
-        });
+        populateColumnSelects(headers);
 
         // Nouveau jeu de données : retour au mode par défaut (somme brute,
         // palette bleue dégradée par défaut) plutôt que de garder les
@@ -1111,7 +1238,7 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
         const payload = {
-            config: { ...currentMapConfig, filterDataMap: undefined },
+            config: { ...currentMapConfig, filterDataMap: undefined, labelTextMap: undefined },
             data: currentMapData ? Array.from(currentMapData.entries()) : null,
             rawCsvData: rawCsvData
         };
@@ -1145,16 +1272,21 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (rawCsvData.length > 0) {
                     const headers = Object.keys(rawCsvData[0]);
                     document.getElementById('csv-status').innerText = `✅ ${rawCsvData.length} lignes importées (config restaurée).`;
-                    document.getElementById('calc-engine-ui').style.display = 'block';
-                    document.getElementById('label-insee-col').innerText = headers[0];
-                    const s1 = document.getElementById('calc-col1'), s2 = document.getElementById('calc-col2');
-                    s1.innerHTML = ''; s2.innerHTML = '';
-                    headers.slice(1).forEach(h => { const o = document.createElement('option'); o.value = h; o.textContent = h; s1.appendChild(o.cloneNode(true)); s2.appendChild(o); });
-                    document.getElementById('advanced-filter-ui').style.display = 'block';
-                    const filterCol = document.getElementById('filter-col');
-                    filterCol.innerHTML = '<option value="">-- Champ à filtrer (Optionnel) --</option>';
-                    headers.forEach(h => { const o = document.createElement('option'); o.value = h; o.textContent = h; filterCol.appendChild(o); });
+                    populateColumnSelects(headers);
+                    document.getElementById('calc-mode').value = config.calcMode || 'simple';
+                    if (config.calcCol1) document.getElementById('calc-col1').value = config.calcCol1;
+                    if (config.calcCol2) document.getElementById('calc-col2').value = config.calcCol2;
+                    document.getElementById('calc-col2').style.display = ['ratio', 'growth'].includes(config.calcMode) ? 'block' : 'none';
+                    document.getElementById('label-text-col').value = config.labelTextCol || '';
                 }
+
+                currentPins = Array.isArray(config.pins)
+                    ? config.pins.map(p => makePin(parseCoordinate(p.lon), parseCoordinate(p.lat), p.color, p.label)).filter(Boolean)
+                    : [];
+                renderPinList();
+                document.getElementById('pin-show-labels').checked = config.showPinLabels !== false;
+                document.getElementById('pin-show-legend').checked = config.showPinLegend !== false;
+                document.getElementById('pin-size').value = config.pinSize || 5;
 
                 document.getElementById('map-title').value = config.title || "";
                 document.getElementById('title-font-select').value = config.titleFont || DEFAULT_FONT;

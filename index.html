@@ -113,6 +113,7 @@
                             <option value="world">Monde (Projections thématiques)</option>
                             <option value="national" selected>France métropolitaine</option>
                             <option value="region">Région (FR)</option>
+                            <option value="region-communes">Région — détail communes (FR)</option>
                             <option value="departement">Département (FR)</option>
                             <option value="epci">EPCI (FR)</option>
                             <option value="commune">Commune (FR)</option>
@@ -192,6 +193,48 @@
                         <button class="btn btn-secondary btn-block" id="btn-batch-generate" style="display:none; margin-top:0.75rem;">🗂️ Générer une carte par colonne (lot)</button>
                         <p class="hint-text" id="batch-status"></p>
                     </div>
+                </div>
+            </details>
+
+            <details class="panel-section">
+                <summary class="panel-section-summary"><span class="title">📌 Épingles</span><span class="chevron">▸</span></summary>
+                <div class="panel-section-body">
+                    <div class="field">
+                        <label class="field-label">Ajouter une épingle (coordonnées GPS)</label>
+                        <div class="row-inline">
+                            <input type="text" id="pin-lon" class="text-input" placeholder="Longitude (ex: 5.3698)" inputmode="decimal" style="flex:1">
+                            <input type="text" id="pin-lat" class="text-input" placeholder="Latitude (ex: 43.2965)" inputmode="decimal" style="flex:1">
+                        </div>
+                        <div class="row-inline" style="margin-top:0.5rem;">
+                            <input type="color" id="pin-color" value="#e1000f" title="Couleur de l'épingle">
+                            <input type="text" id="pin-label" class="text-input" placeholder="Légende (optionnelle)" style="flex:1">
+                        </div>
+                        <button class="btn btn-secondary btn-block" id="btn-add-pin" style="margin-top:0.5rem;">📌 Ajouter l'épingle</button>
+                    </div>
+
+                    <div class="csv-or-divider">ou</div>
+
+                    <input type="file" id="pins-csv-file" accept=".csv,.txt" style="display:none">
+                    <button class="btn btn-secondary btn-block" id="btn-import-pins">⬆️ Importer un CSV d'épingles</button>
+                    <p class="hint-text">Format : <code>x,y,couleur,légende</code> — x = longitude, y = latitude (degrés décimaux). Séparateur <code>,</code> ou <code>;</code>, ligne d'en-tête facultative. Couleur : <code>#e1000f</code> ou un nom (<code>red</code>, <code>blue</code>...).</p>
+
+                    <hr class="divider">
+
+                    <div class="checkbox-row">
+                        <input type="checkbox" id="pin-show-labels" checked>
+                        <label for="pin-show-labels">Afficher le texte à côté des épingles</label>
+                    </div>
+                    <div class="checkbox-row">
+                        <input type="checkbox" id="pin-show-legend" checked>
+                        <label for="pin-show-legend">Afficher l'encadré de légende des épingles</label>
+                    </div>
+                    <div class="row-between">
+                        <label class="small-label" for="pin-size">Taille du point (px)</label>
+                        <input type="number" id="pin-size" class="text-input tiny" value="5" min="2" max="15">
+                    </div>
+
+                    <ul id="pin-list" class="pin-list"></ul>
+                    <button class="btn btn-secondary btn-block" id="btn-clear-pins" style="display:none;">🗑️ Effacer toutes les épingles</button>
                 </div>
             </details>
 
@@ -290,6 +333,10 @@
                                 <label class="small-label">Taille (px)</label>
                                 <input type="number" id="label-size" class="text-input tiny" value="10" min="6" max="24">
                             </div>
+                            <label class="field-label small-label" for="label-text-col">Texte des étiquettes</label>
+                            <select class="select-input" id="label-text-col">
+                                <option value="">Nom de la zone (par défaut)</option>
+                            </select>
                             <label class="field-label small-label" for="label-font-select">Police des étiquettes</label>
                             <select class="select-input" id="label-font-select"></select>
 

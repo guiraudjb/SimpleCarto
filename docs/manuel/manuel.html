@@ -196,6 +196,7 @@
         <li><a href="#etiquettes">Les étiquettes</a></li>
         <li><a href="#couches">Les couches additionnelles</a></li>
         <li><a href="#pictos">Pictogrammes et annotations manuscrites</a></li>
+        <li><a href="#epingles">Épingles géolocalisées</a></li>
         <li><a href="#lot">Générer une carte par colonne (mode lot)</a></li>
         <li><a href="#export">Exporter vos cartes et vos configurations</a></li>
         <li><a href="#pwa">Installer l'application hors-ligne</a></li>
@@ -246,13 +247,14 @@
 <section class="chapter" id="zone-geo">
     <h2 class="chapter-title">3. Choisir une zone géographique</h2>
     <p>
-        Le menu <strong>Échelle</strong>, dans la section « 🗺️ Zone géographique », propose six niveaux :
+        Le menu <strong>Échelle</strong>, dans la section « 🗺️ Zone géographique », propose sept niveaux :
     </p>
     <table class="keytable">
         <tr><th>Échelle</th><th>Description</th></tr>
         <tr><td>Monde</td><td>Carte des pays du monde, avec plusieurs projections thématiques et un cadrage par grande région.</td></tr>
         <tr><td>France métropolitaine</td><td>Carte des départements de la France métropolitaine.</td></tr>
         <tr><td>Région (FR)</td><td>Carte des départements d'une région choisie.</td></tr>
+        <tr><td>Région — détail communes (FR)</td><td>Carte de toutes les communes d'une région choisie, avec les limites départementales en trait plus épais. Vos données doivent alors être au niveau commune (code INSEE à 5 caractères).</td></tr>
         <tr><td>Département (FR)</td><td>Carte des communes d'un département choisi.</td></tr>
         <tr><td>EPCI (FR)</td><td>Carte des communes d'un établissement public de coopération intercommunale.</td></tr>
         <tr><td>Commune (FR)</td><td>Zoom sur une commune précise.</td></tr>
@@ -360,6 +362,7 @@
         étiquette. Lorsqu'une option est active, un panneau complémentaire apparaît :
     </p>
     <ul>
+        <li><strong>Texte des étiquettes</strong> : par défaut le nom de la zone ; vous pouvez choisir n'importe quelle colonne de votre CSV (par exemple un libellé ou un nom de responsable). La coloration et la valeur affichée restent celles de la colonne de calcul ;</li>
         <li><strong>Taille et police</strong> des étiquettes ;</li>
         <li><strong>Filtre par nom ou code</strong> : liste de noms ou codes séparés par des virgules (ex : « Paris, 75 ») pour n'afficher que certaines étiquettes ;</li>
         <li><strong>Filtre de données</strong> : n'afficher les étiquettes que pour les zones dont une colonne du CSV respecte une condition (&gt;, &gt;=, =, &lt;=, &lt;) par rapport à une valeur ;</li>
@@ -424,6 +427,24 @@
         <img src="images/14-pictogrammes-annotations-carte.jpg" alt="Carte avec un pictogramme hôpital et une bulle d'annotation">
         <figcaption>Un pictogramme « Hôpital » et une bulle d'annotation manuscrite, reliée par une flèche courbe.</figcaption>
     </figure>
+</section>
+
+<section class="chapter" id="epingles">
+    <h2 class="chapter-title">9 bis. Les épingles géolocalisées</h2>
+    <p>
+        La section « 📌 Épingles » place des points de couleur à partir de coordonnées GPS. Contrairement aux
+        pictogrammes, les épingles sont attachées à leurs coordonnées : elles restent au bon endroit quelle que
+        soit l'échelle choisie et apparaissent dans l'export PNG et la génération par lot.
+    </p>
+    <ul>
+        <li><strong>Une par une</strong> : saisissez la longitude et la latitude en degrés décimaux (ex : 5.3698 et 43.2965 pour Marseille), une couleur et une légende facultative, puis cliquez sur « 📌 Ajouter l'épingle ».</li>
+        <li><strong>En lot</strong> : « ⬆️ Importer un CSV d'épingles » lit un fichier de 4 colonnes <code>x,y,couleur,légende</code>, où x est la longitude et y la latitude. Le séparateur peut être <code>,</code> ou <code>;</code> (dans ce cas la virgule décimale est acceptée), la ligne d'en-tête est facultative, et la couleur s'écrit en hexadécimal (<code>#e1000f</code>) ou en toutes lettres en anglais (<code>red</code>, <code>blue</code>...). Les lignes aux coordonnées invalides sont ignorées et signalées.</li>
+    </ul>
+    <p>
+        La légende de chaque épingle peut s'afficher à côté du point, et un encadré en bas à gauche regroupe les
+        couples couleur / légende des épingles visibles. Les deux affichages, ainsi que la taille du point, se
+        règlent dans la même section. La liste des épingles permet d'en supprimer une (×) ou de toutes les effacer.
+    </p>
 </section>
 
 <section class="chapter" id="lot">
