@@ -1,4 +1,4 @@
-const CACHE_NAME = 'simplecarto-v11';
+const CACHE_NAME = 'simplecarto-v12';
 const ASSET_MANIFEST_URLS = [
     './icons/pictograms/manifest.json',
     './icons/pictograms-dsfr/manifest.json',
