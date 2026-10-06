@@ -1,0 +1,714 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+81239_sc4rs6_00002;2;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.492328;43.482866
+81239_sc4rs6_00005;5;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.4935;43.483082
+81239_sc4rs6_00013;13;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.495414;43.484027
+81239_sc4rs6_00020;20;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.496605;43.484602
+81239_sc4rs6_00025;25;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.49757;43.484875
+81239_sc4rs6_00029;29;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.498466;43.485665
+81239_sc4rs6_00033;33;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.499008;43.486327
+81239_0068_00003;3;;Rue de la Porte Ouest;81240;81239;Saint-Amans-Valtoret;;;2.488749;43.481102
+81239_0068_00004;4;;Rue de la Porte Ouest;81240;81239;Saint-Amans-Valtoret;;;2.488885;43.481163
+81239_0048_00001;1;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.487929;43.481204
+81239_0048_00009;9;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.489241;43.480796
+81239_0048_00014;14;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.488836;43.480654
+81239_0048_00023;23;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.490428;43.480792
+81239_0048_00028;28;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.490513;43.480615
+81239_0048_00002_bis;2;bis;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.487931;43.481009
+81239_0009_00006;6;;Rue de la Balmette;81240;81239;Saint-Amans-Valtoret;;;2.486284;43.484285
+81239_0009_00007;7;;Rue de la Balmette;81240;81239;Saint-Amans-Valtoret;;;2.485858;43.484437
+81239_sc4rs6_00006;6;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.493015;43.483017
+81239_sc4rs6_00011;11;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.495267;43.483925
+81239_sc4rs6_00015;15;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.495657;43.484164
+81239_sc4rs6_00023;23;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.497242;43.484663
+81239_sc4rs6_00024;24;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.497406;43.484882
+81239_sc4rs6_00031;31;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.498786;43.486057
+81239_sc4rs6_00035;35;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.499329;43.486682
+81239_0068_00008;8;;Rue de la Porte Ouest;81240;81239;Saint-Amans-Valtoret;;;2.488728;43.48114
+81239_0048_00008;8;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.488545;43.480752
+81239_0048_00012;12;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.488741;43.480676
+81239_0048_00021;21;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.490369;43.480795
+81239_0048_00022;22;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.490101;43.480547
+81239_0048_00024;24;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.490368;43.480591
+81239_0048_00026;26;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.490453;43.480604
+81239_0048_00036;36;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.490949;43.480643
+81239_0100_00002;2;;Route d’En Alquier;81240;81239;Saint-Amans-Valtoret;;;2.499903;43.484476
+81239_0100_00004;4;;Route d’En Alquier;81240;81239;Saint-Amans-Valtoret;;;2.515221;43.484855
+81239_0100_00005;5;;Route d’En Alquier;81240;81239;Saint-Amans-Valtoret;;;2.516577;43.490128
+81239_0100_00010;10;;Route d’En Alquier;81240;81239;Saint-Amans-Valtoret;;;2.515403;43.490525
+81239_0072_00004;4;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.487554;43.48433
+81239_0072_00011;11;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.488298;43.484558
+81239_0072_00014;14;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.488994;43.483901
+81239_0072_00015;15;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.489088;43.48394
+81239_0072_00017;17;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.489262;43.483872
+81239_0072_00019;19;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.489649;43.483868
+81239_0072_00022;22;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.489997;43.48364
+81239_0058_00003;3;;Avenue du Moulin;81240;81239;Saint-Amans-Valtoret;;;2.489745;43.480184
+81239_0058_00004;4;;Avenue du Moulin;81240;81239;Saint-Amans-Valtoret;;;2.490086;43.479511
+81239_0058_00006;6;;Avenue du Moulin;81240;81239;Saint-Amans-Valtoret;;;2.490245;43.479472
+81239_0058_00007;7;;Avenue du Moulin;81240;81239;Saint-Amans-Valtoret;;;2.489891;43.479729
+81239_0058_00009;9;;Avenue du Moulin;81240;81239;Saint-Amans-Valtoret;;;2.490312;43.479566
+81239_0058_00015;15;;Avenue du Moulin;81240;81239;Saint-Amans-Valtoret;;;2.490852;43.479044
+81239_0130_00005;5;;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.493104;43.501146
+81239_0130_00006;6;;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.493614;43.502237
+81239_0130_00012;12;;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.492757;43.503727
+81239_0130_00019;19;;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.489156;43.508331
+81239_0130_00015_bis;15;bis;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.490013;43.507155
+81239_0008_00004;4;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.491261;43.480418
+81239_0008_00009;9;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.491785;43.480346
+81239_0008_00014;14;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.492012;43.480247
+81239_0008_00031;31;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.493249;43.480317
+81239_0008_00033;33;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.493511;43.480388
+81239_0008_00055;55;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.495754;43.481726
+81239_0008_00061;61;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.496133;43.481746
+81239_0008_00063;63;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.496293;43.481762
+81239_0008_00069;69;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.496872;43.481814
+81239_0008_00077;77;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.497918;43.481843
+81239_0008_00067_bis;67;bis;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.496703;43.4818
+81239_0008_00051_bis;51;bis;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.495413;43.481762
+81239_0093_00001;1;;Rue des Tailhades;81240;81239;Saint-Amans-Valtoret;;;2.490568;43.48372
+81239_0093_00012;12;;Rue des Tailhades;81240;81239;Saint-Amans-Valtoret;;;2.489677;43.486203
+81239_0038_00001;1;;Grand Rue;81240;81239;Saint-Amans-Valtoret;;;2.489977;43.481155
+81239_0038_00002;2;;Grand Rue;81240;81239;Saint-Amans-Valtoret;;;2.490065;43.481046
+81239_0038_00003;3;;Grand Rue;81240;81239;Saint-Amans-Valtoret;;;2.490098;43.481106
+81239_0038_00004;4;;Grand Rue;81240;81239;Saint-Amans-Valtoret;;;2.490094;43.481049
+81239_0038_00015;15;;Grand Rue;81240;81239;Saint-Amans-Valtoret;;;2.490555;43.48096
+81239_0071_00001;1;;Rue de la Prade;81240;81239;Saint-Amans-Valtoret;;;2.494029;43.481866
+81239_0026_00002;2;;Impasse de l'Autan;81240;81239;Saint-Amans-Valtoret;;;2.490728;43.483689
+81239_0026_00003;3;;Impasse de l'Autan;81240;81239;Saint-Amans-Valtoret;;;2.491193;43.483752
+81239_0026_00005;5;;Impasse de l'Autan;81240;81239;Saint-Amans-Valtoret;;;2.491365;43.483776
+81239_0127_00002;2;;Route des Gorges de l’Arn;81240;81239;Saint-Amans-Valtoret;;;2.470959;43.509744
+81239_0127_00003;3;;Route des Gorges de l’Arn;81240;81239;Saint-Amans-Valtoret;;;2.471988;43.509925
+81239_0127_00007;7;;Route des Gorges de l’Arn;81240;81239;Saint-Amans-Valtoret;;;2.471511;43.509843
+81239_0127_00009;9;;Route des Gorges de l’Arn;81240;81239;Saint-Amans-Valtoret;;;2.471315;43.509813
+81239_0127_00014;14;;Route des Gorges de l’Arn;81240;81239;Saint-Amans-Valtoret;;;2.469253;43.510301
+81239_0127_00016;16;;Route des Gorges de l’Arn;81240;81239;Saint-Amans-Valtoret;;;2.467346;43.510148
+81239_0075_00001;1;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.491195;43.480869
+81239_0075_00003;3;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.491299;43.480863
+81239_0075_00005;5;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.491374;43.480857
+81239_0075_00015;15;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.491822;43.480819
+81239_0075_00019;19;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.492528;43.480753
+81239_0054_00001;1;;Chemin de Lembraut;81240;81239;Saint-Amans-Valtoret;;;2.488276;43.481879
+81239_0054_00003;3;;Chemin de Lembraut;81240;81239;Saint-Amans-Valtoret;;;2.487516;43.483861
+81239_0054_00012;12;;Chemin de Lembraut;81240;81239;Saint-Amans-Valtoret;;;2.486405;43.485549
+81239_0148_00002;2;;Chemin de la Rousselle;81240;81239;Saint-Amans-Valtoret;;;2.500972;43.488188
+81239_0074_00001;1;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.494636;43.483397
+81239_0074_00007;7;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.495956;43.482257
+81239_0074_00012;12;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.496131;43.482527
+81239_0074_00017;17;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.497765;43.482419
+81239_0009_00003;3;;Rue de la Balmette;81240;81239;Saint-Amans-Valtoret;;;2.487016;43.483882
+81239_0009_00010;10;;Rue de la Balmette;81240;81239;Saint-Amans-Valtoret;;;2.485654;43.484585
+81239_0100_00001;1;;Route d’En Alquier;81240;81239;Saint-Amans-Valtoret;;;2.511459;43.482662
+81239_0100_00006;6;;Route d’En Alquier;81240;81239;Saint-Amans-Valtoret;;;2.517377;43.490189
+81239_0072_00001;1;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.487126;43.484761
+81239_0072_00002;2;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.48742;43.484509
+81239_0072_00006;6;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.487807;43.484281
+81239_0072_00008;8;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.488051;43.484333
+81239_0072_00009;9;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.488036;43.484517
+81239_0072_00012;12;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.488811;43.48406
+81239_0072_00013;13;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.488837;43.484153
+81239_0058_00002;2;;Avenue du Moulin;81240;81239;Saint-Amans-Valtoret;;;2.489829;43.479576
+81239_0058_00013;13;;Avenue du Moulin;81240;81239;Saint-Amans-Valtoret;;;2.490784;43.47935
+81239_0058_00017;17;;Avenue du Moulin;81240;81239;Saint-Amans-Valtoret;;;2.490891;43.47898
+81239_0058_00023;23;;Avenue du Moulin;81240;81239;Saint-Amans-Valtoret;;;2.490038;43.478958
+81239_0130_00001;1;;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.492812;43.500462
+81239_0130_00009;9;;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.492926;43.502393
+81239_0130_00013;13;;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.492588;43.503895
+81239_0130_00017;17;;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.489692;43.50756
+81239_0008_00001;1;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.491322;43.480518
+81239_0008_00002;2;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.491148;43.480473
+81239_0008_00003;3;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.491446;43.480464
+81239_0008_00011;11;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.491992;43.480338
+81239_0008_00012;12;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.491918;43.480252
+81239_0008_00016;16;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.492447;43.480212
+81239_0008_00023;23;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.492844;43.480432
+81239_0008_00025;25;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.492867;43.480295
+81239_0008_00049;49;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.494989;43.481539
+81239_0008_00053;53;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.495682;43.481881
+81239_0008_00059;59;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.496073;43.481741
+81239_0008_00065;65;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.496379;43.481769
+81239_0008_00067;67;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.49655;43.481784
+81239_0008_00071;71;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.497098;43.481833
+81239_0008_00075;75;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.497635;43.481879
+81239_0008_00031_bis;31;bis;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.493395;43.480326
+81239_0093_00005;5;;Rue des Tailhades;81240;81239;Saint-Amans-Valtoret;;;2.490701;43.484135
+81239_0093_00006;6;;Rue des Tailhades;81240;81239;Saint-Amans-Valtoret;;;2.491145;43.484841
+81239_0093_00007;7;;Rue des Tailhades;81240;81239;Saint-Amans-Valtoret;;;2.48966;43.486038
+81239_0038_00010;10;;Grand Rue;81240;81239;Saint-Amans-Valtoret;;;2.490617;43.480907
+81239_0038_00017;17;;Grand Rue;81240;81239;Saint-Amans-Valtoret;;;2.490632;43.480939
+81239_0071_00010;10;;Rue de la Prade;81240;81239;Saint-Amans-Valtoret;;;2.494322;43.482277
+81239_0071_00014;14;;Rue de la Prade;81240;81239;Saint-Amans-Valtoret;;;2.493678;43.482137
+81239_0071_00016;16;;Rue de la Prade;81240;81239;Saint-Amans-Valtoret;;;2.493626;43.482142
+81239_0071_00022;22;;Rue de la Prade;81240;81239;Saint-Amans-Valtoret;;;2.492622;43.481965
+81239_0026_00007;7;;Impasse de l'Autan;81240;81239;Saint-Amans-Valtoret;;;2.491702;43.483783
+81239_0127_00005;5;;Route des Gorges de l’Arn;81240;81239;Saint-Amans-Valtoret;;;2.47169;43.50982
+81239_0127_00008;8;;Route des Gorges de l’Arn;81240;81239;Saint-Amans-Valtoret;;;2.46975;43.510182
+81239_0075_00006;6;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.492281;43.480652
+81239_0075_00007;7;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.491447;43.480852
+81239_0075_00009;9;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.491518;43.480847
+81239_0075_00013;13;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.491712;43.480829
+81239_0075_00017;17;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.492172;43.480771
+81239_0075_00023;23;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.492645;43.480755
+81239_0075_00031;31;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.493665;43.481071
+81239_0075_00033;33;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.493822;43.481154
+81239_0054_00002;2;;Chemin de Lembraut;81240;81239;Saint-Amans-Valtoret;;;2.488427;43.481991
+81239_0054_00005;5;;Chemin de Lembraut;81240;81239;Saint-Amans-Valtoret;;;2.487252;43.484264
+81239_0054_00007;7;;Chemin de Lembraut;81240;81239;Saint-Amans-Valtoret;;;2.487005;43.48463
+81239_0054_00009;9;;Chemin de Lembraut;81240;81239;Saint-Amans-Valtoret;;;2.486849;43.484859
+81239_0054_00017;17;;Chemin de Lembraut;81240;81239;Saint-Amans-Valtoret;;;2.486265;43.48564
+81239_0148_00001;1;;Chemin de la Rousselle;81240;81239;Saint-Amans-Valtoret;;;2.500872;43.488197
+81239_0074_00009;9;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.496068;43.482385
+81239_0074_00013;13;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.496936;43.482808
+81239_0074_00015;15;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.497534;43.482598
+81239_0074_00021;21;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.498384;43.482287
+81239_0074_00024;24;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.498645;43.482703
+81239_0074_00025;25;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.498703;43.482522
+81239_0074_00030;30;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.498563;43.483396
+81239_0133_00001;1;;Rue des Maisons Claires;81240;81239;Saint-Amans-Valtoret;;;2.489112;43.480244
+81239_0133_00003;3;;Rue des Maisons Claires;81240;81239;Saint-Amans-Valtoret;;;2.489027;43.479996
+81239_0158_00001;1;;Ruelle de la Carrierasse;81240;81239;Saint-Amans-Valtoret;;;2.490969;43.480173
+81239_0142_00002;2;;Chemin du Pioch;81240;81239;Saint-Amans-Valtoret;;;2.467635;43.496671
+81239_0123_00002;2;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.513594;43.501179
+81239_0123_00005;5;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.513221;43.501343
+81239_0123_00014;14;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.51186;43.502567
+81239_0123_00022;22;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.511792;43.502878
+81239_0151_00003;3;;Route de Saint-Martin;81240;81239;Saint-Amans-Valtoret;;;2.467399;43.508643
+81239_0151_00012;12;;Route de Saint-Martin;81240;81239;Saint-Amans-Valtoret;;;2.466383;43.509056
+81239_0129_00006;6;;Chemin des Gîtes;81240;81239;Saint-Amans-Valtoret;;;2.514615;43.539559
+81239_0016_00002;2;;Rue Plan Castel;81240;81239;Saint-Amans-Valtoret;;;2.490133;43.481318
+81239_0096_00005;5;;Rue des treilles;81240;81239;Saint-Amans-Valtoret;;;2.489391;43.48117
+81239_0096_00007;7;;Rue des treilles;81240;81239;Saint-Amans-Valtoret;;;2.489525;43.48114
+81239_0096_00009;9;;Rue des treilles;81240;81239;Saint-Amans-Valtoret;;;2.489583;43.481123
+81239_0121_00001;1;;Impasse Eugène Guiraud;81240;81239;Saint-Amans-Valtoret;;;2.492167;43.47998
+81239_0121_00006;6;;Impasse Eugène Guiraud;81240;81239;Saint-Amans-Valtoret;;;2.492356;43.47985
+81239_0081_00007;7;;Impasse Sagne Mégé;81240;81239;Saint-Amans-Valtoret;;;2.49771;43.483053
+81239_0144_00001;1;;Route des Quatre Chemins;81240;81239;Saint-Amans-Valtoret;;;2.518171;43.504473
+81239_0019_00003;3;;Avenue du Château;81240;81239;Saint-Amans-Valtoret;;;2.48981;43.480832
+81239_0019_00006;6;;Avenue du Château;81240;81239;Saint-Amans-Valtoret;;;2.489724;43.48096
+81239_0157_00003;3;;Route du Vintrou;81240;81239;Saint-Amans-Valtoret;;;2.4728;43.508005
+81239_0065_00002;2;;Petite Rue;81240;81239;Saint-Amans-Valtoret;;;2.489974;43.480876
+81239_0149_00006;6;;Chemin de la Rustagne;81240;81239;Saint-Amans-Valtoret;;;2.489119;43.504443
+81239_0012_00002;2;;Place de la Brêche;81240;81239;Saint-Amans-Valtoret;;;2.488305;43.481462
+81239_0107_00001;1;;Route de Bellevue;81240;81239;Saint-Amans-Valtoret;;;2.499137;43.48223
+81239_0107_00005;5;;Route de Bellevue;81240;81239;Saint-Amans-Valtoret;;;2.500194;43.486474
+81239_0107_00007;7;;Route de Bellevue;81240;81239;Saint-Amans-Valtoret;;;2.500111;43.486608
+81239_0107_00009;9;;Route de Bellevue;81240;81239;Saint-Amans-Valtoret;;;2.499971;43.486696
+81239_0107_00010;10;;Route de Bellevue;81240;81239;Saint-Amans-Valtoret;;;2.499456;43.487972
+81239_0084_00001;1;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.490986;43.481459
+81239_0084_00013;13;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.491879;43.482348
+81239_0084_00014;14;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.492172;43.48293
+81239_0084_00023;23;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.492003;43.482819
+81239_0084_00024;24;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.491698;43.483203
+81239_0084_00025;25;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.491928;43.482897
+81239_0084_00027;27;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.491847;43.482974
+81239_0034_00003;3;;Rue du Four;81240;81239;Saint-Amans-Valtoret;;;2.490468;43.48127
+81239_0034_00004;4;;Rue du Four;81240;81239;Saint-Amans-Valtoret;;;2.490744;43.481082
+81239_0034_00007;7;;Rue du Four;81240;81239;Saint-Amans-Valtoret;;;2.490581;43.481233
+81239_0034_00008;8;;Rue du Four;81240;81239;Saint-Amans-Valtoret;;;2.490709;43.480999
+81239_0034_00015;15;;Rue du Four;81240;81239;Saint-Amans-Valtoret;;;2.490766;43.481033
+81239_0141_00003;3;;Route de Peyresalbes;81240;81239;Saint-Amans-Valtoret;;;2.505637;43.502044
+81239_0118_00001;1;;Impasse Coumbetto;81240;81239;Saint-Amans-Valtoret;;;2.4755;43.507512
+81239_0030_00001;1;;Rue de l'Est;81240;81239;Saint-Amans-Valtoret;;;2.493428;43.48064
+81239_0160_00002;2;;Chemin du Valat;81240;81239;Saint-Amans-Valtoret;;;2.4892;43.481886
+81239_0136_00003;3;;Route de Mazamet;81240;81239;Saint-Amans-Valtoret;;;2.456336;43.489546
+81239_0136_00004;4;;Route de Mazamet;81240;81239;Saint-Amans-Valtoret;;;2.454998;43.490566
+81239_0136_00009;9;;Route de Mazamet;81240;81239;Saint-Amans-Valtoret;;;2.450277;43.492262
+81239_0135_00007;7;;Route de la Mathe;81240;81239;Saint-Amans-Valtoret;;;2.524366;43.487434
+81239_0156_00002;2;;Chemin de la Vintaine;81240;81239;Saint-Amans-Valtoret;;;2.463045;43.488742
+81239_0117_00001;1;;Route des Costes;81240;81239;Saint-Amans-Valtoret;;;2.500582;43.481142
+81239_0117_00005;5;;Route des Costes;81240;81239;Saint-Amans-Valtoret;;;2.52172;43.481001
+81239_0092_00002;2;;Ruelle traversière;81240;81239;Saint-Amans-Valtoret;;;2.490158;43.481156
+81239_0099_00001;1;;Place Villemage;81240;81239;Saint-Amans-Valtoret;;;2.490962;43.481266
+81239_0114_00001;1;;Chemin des Calmilles;81240;81239;Saint-Amans-Valtoret;;;2.506424;43.494093
+81239_0103_00003;3;;Impasse du Baous;81240;81239;Saint-Amans-Valtoret;;;2.492567;43.47949
+81239_0004_00001;1;;Rue de l'Ancienne Place;81240;81239;Saint-Amans-Valtoret;;;2.488846;43.480907
+81239_0004_00002;2;;Rue de l'Ancienne Place;81240;81239;Saint-Amans-Valtoret;;;2.488839;43.481038
+81239_0111_00003;3;;Chemin de Bouisset;81240;81239;Saint-Amans-Valtoret;;;2.49219;43.502405
+81239_sc4rs6_00007;7;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.493706;43.483219
+81239_sc4rs6_00008;8;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.493351;43.483082
+81239_sc4rs6_00009;9;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.494005;43.48341
+81239_sc4rs6_00010;10;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.493529;43.483178
+81239_sc4rs6_00016;16;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.493964;43.483465
+81239_sc4rs6_00021;21;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.496827;43.484454
+81239_sc4rs6_00026;26;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.497769;43.4851
+81239_0068_00001;1;;Rue de la Porte Ouest;81240;81239;Saint-Amans-Valtoret;;;2.489011;43.481149
+81239_0068_00005;5;;Rue de la Porte Ouest;81240;81239;Saint-Amans-Valtoret;;;2.488401;43.481111
+81239_0068_00009;9;;Rue de la Porte Ouest;81240;81239;Saint-Amans-Valtoret;;;2.488295;43.481143
+81239_0048_00002;2;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.487862;43.481039
+81239_0111_00008;8;;Chemin de Bouisset;81240;81239;Saint-Amans-Valtoret;;;2.492718;43.502947
+81239_0111_00012;12;;Chemin de Bouisset;81240;81239;Saint-Amans-Valtoret;;;2.492467;43.502887
+81239_0111_00014;14;;Chemin de Bouisset;81240;81239;Saint-Amans-Valtoret;;;2.492381;43.50292
+81239_0120_00001;1;;Impasse dal Mouli;81240;81239;Saint-Amans-Valtoret;;;2.472799;43.509425
+81239_0120_00006;6;;Impasse dal Mouli;81240;81239;Saint-Amans-Valtoret;;;2.471631;43.509232
+81239_0134_00001;1;;Chemin de Manquepeyroux;81240;81239;Saint-Amans-Valtoret;;;2.482152;43.501636
+81239_0060_00007;7;;Ruelle de la Muraille;81240;81239;Saint-Amans-Valtoret;;;2.489491;43.480929
+81239_0159_00037;37;;Rue de Sébastopol;81240;81239;Saint-Amans-Valtoret;;;2.471964;43.485158
+81239_0159_00039;39;;Rue de Sébastopol;81240;81239;Saint-Amans-Valtoret;;;2.471612;43.485616
+81239_0055_00004;4;;Rue de la Mairie;81240;81239;Saint-Amans-Valtoret;;;2.489108;43.481055
+81239_0055_00006;6;;Rue de la Mairie;81240;81239;Saint-Amans-Valtoret;;;2.489092;43.480965
+81239_0102_00004;4;;Impasse du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.47031;43.509299
+81239_0102_00007;7;;Impasse du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.470217;43.509244
+81239_0028_00003;3;;Rue de l'Eglise;81240;81239;Saint-Amans-Valtoret;;;2.489059;43.481399
+81239_0028_00008;8;;Rue de l'Eglise;81240;81239;Saint-Amans-Valtoret;;;2.489453;43.481291
+81239_0028_00016;16;;Rue de l'Eglise;81240;81239;Saint-Amans-Valtoret;;;2.489768;43.481225
+81239_0131_00001;1;;Chemin du Lac;81240;81239;Saint-Amans-Valtoret;;;2.473572;43.508297
+81239_0131_00004;4;;Chemin du Lac;81240;81239;Saint-Amans-Valtoret;;;2.473503;43.508243
+81239_0131_00007;7;;Chemin du Lac;81240;81239;Saint-Amans-Valtoret;;;2.474494;43.508528
+81239_0131_00008;8;;Chemin du Lac;81240;81239;Saint-Amans-Valtoret;;;2.475148;43.508612
+81239_0109_00003;3;;Chemin de Bonnare;81240;81239;Saint-Amans-Valtoret;;;2.522916;43.510173
+81239_0022_00006;6;;Rue du Clocher;81240;81239;Saint-Amans-Valtoret;;;2.489336;43.481523
+81239_0022_00008;8;;Rue du Clocher;81240;81239;Saint-Amans-Valtoret;;;2.48931;43.481636
+81239_0110_00002;2;;Route de Bonnavenc;81240;81239;Saint-Amans-Valtoret;;;2.505959;43.486488
+81239_0078_00001;1;;Rue du Rieussalenc;81240;81239;Saint-Amans-Valtoret;;;2.490845;43.481753
+81239_0150_00001;1;;Chemin de la Sagne;81240;81239;Saint-Amans-Valtoret;;;2.486713;43.507502
+81239_0106_00001;1;;Chemin de Bellesserre;81240;81239;Saint-Amans-Valtoret;;;2.502434;43.482842
+81239_sc4rs6_00001;1;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.492752;43.4829
+81239_sc4rs6_00003;3;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.492956;43.482953
+81239_sc4rs6_00004;4;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.492455;43.482881
+81239_sc4rs6_00014;14;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.493683;43.483277
+81239_sc4rs6_00017;17;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.495991;43.484275
+81239_sc4rs6_00018;18;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.496123;43.484373
+81239_sc4rs6_00019;19;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.496294;43.484349
+81239_sc4rs6_00022;22;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.49712;43.484702
+81239_sc4rs6_00027;27;;Chemin du Mailhol;81240;81239;Saint-Amans-Valtoret;;;2.498088;43.485249
+81239_0068_00002;2;;Rue de la Porte Ouest;81240;81239;Saint-Amans-Valtoret;;;2.488951;43.481174
+81239_0068_00006;6;;Rue de la Porte Ouest;81240;81239;Saint-Amans-Valtoret;;;2.48881;43.481152
+81239_0068_00007;7;;Rue de la Porte Ouest;81240;81239;Saint-Amans-Valtoret;;;2.488334;43.481129
+81239_0048_00003;3;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.488183;43.481138
+81239_0048_00006;6;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.48842;43.480803
+81239_0048_00007;7;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.488937;43.480818
+81239_0048_00010;10;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.488656;43.480706
+81239_0048_00017;17;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.490218;43.480782
+81239_0048_00030;30;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.490626;43.480629
+81239_0048_00038;38;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.491099;43.480585
+81239_0009_00002;2;;Rue de la Balmette;81240;81239;Saint-Amans-Valtoret;;;2.486835;43.48402
+81239_0009_00004;4;;Rue de la Balmette;81240;81239;Saint-Amans-Valtoret;;;2.486474;43.484193
+81239_0009_00005;5;;Rue de la Balmette;81240;81239;Saint-Amans-Valtoret;;;2.486452;43.484155
+81239_0009_00008;8;;Rue de la Balmette;81240;81239;Saint-Amans-Valtoret;;;2.48605;43.48445
+81239_0009_00009;9;;Rue de la Balmette;81240;81239;Saint-Amans-Valtoret;;;2.485442;43.484589
+81239_0009_00012;12;;Rue de la Balmette;81240;81239;Saint-Amans-Valtoret;;;2.485503;43.484654
+81239_0100_00007;7;;Route d’En Alquier;81240;81239;Saint-Amans-Valtoret;;;2.515387;43.490317
+81239_0100_00008;8;;Route d’En Alquier;81240;81239;Saint-Amans-Valtoret;;;2.517273;43.490211
+81239_0072_00005;5;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.487469;43.484578
+81239_0072_00007;7;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.487932;43.484513
+81239_0072_00020;20;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.489791;43.483751
+81239_0058_00001;1;;Avenue du Moulin;81240;81239;Saint-Amans-Valtoret;;;2.489749;43.480287
+81239_0058_00005;5;;Avenue du Moulin;81240;81239;Saint-Amans-Valtoret;;;2.489847;43.4798
+81239_0058_00008;8;;Avenue du Moulin;81240;81239;Saint-Amans-Valtoret;;;2.490557;43.479394
+81239_0058_00011;11;;Avenue du Moulin;81240;81239;Saint-Amans-Valtoret;;;2.490709;43.479435
+81239_0058_00019;19;;Avenue du Moulin;81240;81239;Saint-Amans-Valtoret;;;2.490568;43.478987
+81239_0058_00021;21;;Avenue du Moulin;81240;81239;Saint-Amans-Valtoret;;;2.490459;43.478986
+81239_0130_00002;2;;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.493204;43.501123
+81239_0130_00003;3;;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.492948;43.500814
+81239_0130_00004;4;;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.493296;43.501478
+81239_0130_00008;8;;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.493474;43.502324
+81239_0130_00011;11;;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.492825;43.503322
+81239_0130_00015_ter;15;ter;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.489817;43.507391
+81239_0008_00007;7;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.491555;43.480415
+81239_0008_00015;15;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.492378;43.480321
+81239_0008_00017;17;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.492526;43.480312
+81239_0008_00019;19;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.492639;43.480307
+81239_0008_00021;21;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.492731;43.480447
+81239_0008_00029;29;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.493048;43.480289
+81239_0008_00041;41;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.494083;43.480894
+81239_0008_00043;43;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.494285;43.481082
+81239_0008_00073;73;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.497346;43.481889
+81239_0008_00006_bis;6;bis;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.491348;43.480374
+81239_0093_00002;2;;Rue des Tailhades;81240;81239;Saint-Amans-Valtoret;;;2.490801;43.484133
+81239_0093_00003;3;;Rue des Tailhades;81240;81239;Saint-Amans-Valtoret;;;2.490633;43.483922
+81239_0093_00004;4;;Rue des Tailhades;81240;81239;Saint-Amans-Valtoret;;;2.491004;43.484529
+81239_0038_00006;6;;Grand Rue;81240;81239;Saint-Amans-Valtoret;;;2.490159;43.481045
+81239_0038_00008;8;;Grand Rue;81240;81239;Saint-Amans-Valtoret;;;2.490526;43.480933
+81239_0038_00009;9;;Grand Rue;81240;81239;Saint-Amans-Valtoret;;;2.490392;43.481008
+81239_0038_00011;11;;Grand Rue;81240;81239;Saint-Amans-Valtoret;;;2.490453;43.480991
+81239_0071_00002;2;;Rue de la Prade;81240;81239;Saint-Amans-Valtoret;;;2.494428;43.481692
+81239_0071_00005;5;;Rue de la Prade;81240;81239;Saint-Amans-Valtoret;;;2.492588;43.481897
+81239_0071_00012;12;;Rue de la Prade;81240;81239;Saint-Amans-Valtoret;;;2.494182;43.482269
+81239_0071_00018;18;;Rue de la Prade;81240;81239;Saint-Amans-Valtoret;;;2.493548;43.482144
+81239_0071_00020;20;;Rue de la Prade;81240;81239;Saint-Amans-Valtoret;;;2.493165;43.482154
+81239_0026_00001;1;;Impasse de l'Autan;81240;81239;Saint-Amans-Valtoret;;;2.490712;43.483802
+81239_0127_00001;1;;Route des Gorges de l’Arn;81240;81239;Saint-Amans-Valtoret;;;2.472202;43.51035
+81239_0127_00006;6;;Route des Gorges de l’Arn;81240;81239;Saint-Amans-Valtoret;;;2.469929;43.510113
+81239_0127_00002_bis;2;bis;Route des Gorges de l’Arn;81240;81239;Saint-Amans-Valtoret;;;2.472787;43.510791
+81239_0048_00004;4;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.488057;43.480955
+81239_0048_00005;5;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.488313;43.481001
+81239_0048_00013;13;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.489925;43.480756
+81239_0048_00015;15;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.490109;43.480769
+81239_0048_00016;16;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.488983;43.480622
+81239_0048_00018;18;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.48915;43.480585
+81239_0048_00019;19;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.490273;43.480785
+81239_0048_00020;20;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.489985;43.48056
+81239_0048_00025;25;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.490539;43.480795
+81239_0048_00032;32;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.490752;43.480641
+81239_0048_00034;34;;Boulevard Jeanne d'Arc;81240;81239;Saint-Amans-Valtoret;;;2.490841;43.480647
+81239_0009_00001;1;;Rue de la Balmette;81240;81239;Saint-Amans-Valtoret;;;2.48755;43.483646
+81239_0100_00003;3;;Route d’En Alquier;81240;81239;Saint-Amans-Valtoret;;;2.515323;43.484924
+81239_0072_00003;3;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.487315;43.484634
+81239_0072_00010;10;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.488192;43.484438
+81239_0072_00016;16;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.489201;43.483808
+81239_0072_00018;18;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.489559;43.483779
+81239_0072_00021;21;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.489915;43.483782
+81239_0072_00023;23;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.490056;43.483696
+81239_0072_00024;24;;Boulevard du Parc;81240;81239;Saint-Amans-Valtoret;;;2.490228;43.483484
+81239_0058_00025;25;;Avenue du Moulin;81240;81239;Saint-Amans-Valtoret;;;2.489887;43.479076
+81239_0058_00002_bis;2;bis;Avenue du Moulin;81240;81239;Saint-Amans-Valtoret;;;2.489906;43.479556
+81239_0130_00007;7;;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.493219;43.501721
+81239_0130_00010;10;;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.4929;43.503281
+81239_0130_00014;14;;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.489992;43.507274
+81239_0130_00015;15;;Route des Hameaux;81240;81239;Saint-Amans-Valtoret;;;2.490058;43.507108
+81239_0008_00006;6;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.491336;43.48038
+81239_0008_00008;8;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.491421;43.480339
+81239_0008_00010;10;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.491663;43.480225
+81239_0008_00013;13;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.492149;43.480332
+81239_0008_00018;18;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.492711;43.480194
+81239_0008_00020;20;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.493032;43.480191
+81239_0008_00027;27;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.492954;43.480292
+81239_0008_00035;35;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.493683;43.480532
+81239_0008_00037;37;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.493862;43.480681
+81239_0008_00039;39;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.49399;43.480821
+81239_0008_00051;51;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.49517;43.481633
+81239_0008_00057;57;;Avenue du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.495819;43.481739
+81239_0093_00008;8;;Rue des Tailhades;81240;81239;Saint-Amans-Valtoret;;;2.491286;43.48516
+81239_0093_00010;10;;Rue des Tailhades;81240;81239;Saint-Amans-Valtoret;;;2.491445;43.48549
+81239_0038_00005;5;;Grand Rue;81240;81239;Saint-Amans-Valtoret;;;2.490189;43.481074
+81239_0038_00007;7;;Grand Rue;81240;81239;Saint-Amans-Valtoret;;;2.490333;43.481028
+81239_0038_00013;13;;Grand Rue;81240;81239;Saint-Amans-Valtoret;;;2.490503;43.480976
+81239_0038_00019;19;;Grand Rue;81240;81239;Saint-Amans-Valtoret;;;2.490751;43.48091
+81239_0071_00003;3;;Rue de la Prade;81240;81239;Saint-Amans-Valtoret;;;2.493435;43.482106
+81239_0071_00004;4;;Rue de la Prade;81240;81239;Saint-Amans-Valtoret;;;2.494201;43.481816
+81239_0071_00006;6;;Rue de la Prade;81240;81239;Saint-Amans-Valtoret;;;2.494198;43.482215
+81239_0071_00008;8;;Rue de la Prade;81240;81239;Saint-Amans-Valtoret;;;2.494692;43.482152
+81239_0026_00004;4;;Impasse de l'Autan;81240;81239;Saint-Amans-Valtoret;;;2.491089;43.483677
+81239_0026_00006;6;;Impasse de l'Autan;81240;81239;Saint-Amans-Valtoret;;;2.491455;43.483718
+81239_0127_00004;4;;Route des Gorges de l’Arn;81240;81239;Saint-Amans-Valtoret;;;2.470377;43.509848
+81239_0127_00010;10;;Route des Gorges de l’Arn;81240;81239;Saint-Amans-Valtoret;;;2.469661;43.510218
+81239_0127_00012;12;;Route des Gorges de l’Arn;81240;81239;Saint-Amans-Valtoret;;;2.469528;43.510249
+81239_0075_00004;4;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.491966;43.480699
+81239_0075_00011;11;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.491599;43.48084
+81239_0075_00021;21;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.492588;43.480752
+81239_0075_00029;29;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.493382;43.480916
+81239_0075_00035;35;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.494024;43.481257
+81239_0075_00037;37;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.494311;43.481389
+81239_0075_00039;39;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.494378;43.481418
+81239_0054_00004;4;;Chemin de Lembraut;81240;81239;Saint-Amans-Valtoret;;;2.488077;43.482628
+81239_0054_00013;13;;Chemin de Lembraut;81240;81239;Saint-Amans-Valtoret;;;2.486589;43.485265
+81239_0054_00014;14;;Chemin de Lembraut;81240;81239;Saint-Amans-Valtoret;;;2.485492;43.486345
+81239_0054_00019;19;;Chemin de Lembraut;81240;81239;Saint-Amans-Valtoret;;;2.486089;43.485787
+81239_0074_00016;16;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.496489;43.482986
+81239_0074_00020;20;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.497358;43.482768
+81239_0133_00002;2;;Rue des Maisons Claires;81240;81239;Saint-Amans-Valtoret;;;2.488795;43.480425
+81239_0143_00002;2;;Chemin du Pont;81240;81239;Saint-Amans-Valtoret;;;2.492355;43.483783
+81239_0143_00004;4;;Chemin du Pont;81240;81239;Saint-Amans-Valtoret;;;2.493185;43.483992
+81239_0143_00006;6;;Chemin du Pont;81240;81239;Saint-Amans-Valtoret;;;2.492479;43.484082
+81239_0123_00001;1;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.513034;43.500379
+81239_0123_00007;7;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.512912;43.501649
+81239_0123_00008;8;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.512237;43.502396
+81239_0123_00009;9;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.512762;43.501868
+81239_0123_00011;11;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.511955;43.502284
+81239_0123_00012;12;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.511969;43.502872
+81239_0123_00016;16;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.511803;43.502726
+81239_0123_00019;19;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.511586;43.502539
+81239_0151_00002;2;;Route de Saint-Martin;81240;81239;Saint-Amans-Valtoret;;;2.467484;43.508796
+81239_0151_00006;6;;Route de Saint-Martin;81240;81239;Saint-Amans-Valtoret;;;2.467662;43.508282
+81239_0129_00001;1;;Chemin des Gîtes;81240;81239;Saint-Amans-Valtoret;;;2.51323;43.53961
+81239_0129_00009;9;;Chemin des Gîtes;81240;81239;Saint-Amans-Valtoret;;;2.514772;43.539256
+81239_0129_00010;10;;Chemin des Gîtes;81240;81239;Saint-Amans-Valtoret;;;2.514857;43.53923
+81239_0016_00005;5;;Rue Plan Castel;81240;81239;Saint-Amans-Valtoret;;;2.490354;43.481823
+81239_0016_00008;8;;Rue Plan Castel;81240;81239;Saint-Amans-Valtoret;;;2.490571;43.481642
+81239_0016_00009;9;;Rue Plan Castel;81240;81239;Saint-Amans-Valtoret;;;2.490976;43.481982
+81239_0016_00011;11;;Rue Plan Castel;81240;81239;Saint-Amans-Valtoret;;;2.491078;43.481986
+81239_0096_00001;1;;Rue des treilles;81240;81239;Saint-Amans-Valtoret;;;2.48928;43.481193
+81239_0096_00002;2;;Rue des treilles;81240;81239;Saint-Amans-Valtoret;;;2.489683;43.481052
+81239_0096_00004;4;;Rue des treilles;81240;81239;Saint-Amans-Valtoret;;;2.489738;43.481037
+81239_0096_00011;11;;Rue des treilles;81240;81239;Saint-Amans-Valtoret;;;2.489638;43.481105
+81239_0139_00001;1;;Chemin de Montalbo;81240;81239;Saint-Amans-Valtoret;;;2.496267;43.489651
+81239_0081_00001;1;;Impasse Sagne Mégé;81240;81239;Saint-Amans-Valtoret;;;2.498008;43.48278
+81239_0081_00003;3;;Impasse Sagne Mégé;81240;81239;Saint-Amans-Valtoret;;;2.498078;43.482947
+81239_0081_00011;11;;Impasse Sagne Mégé;81240;81239;Saint-Amans-Valtoret;;;2.497417;43.483141
+81239_0144_00003;3;;Route des Quatre Chemins;81240;81239;Saint-Amans-Valtoret;;;2.517331;43.507863
+81239_0144_00005;5;;Route des Quatre Chemins;81240;81239;Saint-Amans-Valtoret;;;2.517852;43.508305
+81239_0019_00001;1;;Avenue du Château;81240;81239;Saint-Amans-Valtoret;;;2.489847;43.480939
+81239_0019_00004;4;;Avenue du Château;81240;81239;Saint-Amans-Valtoret;;;2.489797;43.481106
+81239_0138_00001;1;;Route de la Montagne;81240;81239;Saint-Amans-Valtoret;;;2.463562;43.489165
+81239_0138_00003;3;;Route de la Montagne;81240;81239;Saint-Amans-Valtoret;;;2.47256;43.492377
+81239_0138_00005;5;;Route de la Montagne;81240;81239;Saint-Amans-Valtoret;;;2.468063;43.496128
+81239_0138_00006;6;;Route de la Montagne;81240;81239;Saint-Amans-Valtoret;;;2.463848;43.488811
+81239_0138_00007;7;;Route de la Montagne;81240;81239;Saint-Amans-Valtoret;;;2.468003;43.496665
+81239_0138_00009;9;;Route de la Montagne;81240;81239;Saint-Amans-Valtoret;;;2.469423;43.498816
+81239_0138_00010;10;;Route de la Montagne;81240;81239;Saint-Amans-Valtoret;;;2.468947;43.496431
+81239_0157_00001;1;;Route du Vintrou;81240;81239;Saint-Amans-Valtoret;;;2.486444;43.494257
+81239_0157_00007;7;;Route du Vintrou;81240;81239;Saint-Amans-Valtoret;;;2.472599;43.509754
+81239_0157_00008;8;;Route du Vintrou;81240;81239;Saint-Amans-Valtoret;;;2.474045;43.507779
+81239_0157_00016;16;;Route du Vintrou;81240;81239;Saint-Amans-Valtoret;;;2.476962;43.511265
+81239_0065_00001;1;;Petite Rue;81240;81239;Saint-Amans-Valtoret;;;2.489988;43.48096
+81239_0012_00003;3;;Place de la Brêche;81240;81239;Saint-Amans-Valtoret;;;2.488404;43.481555
+81239_0107_00006;6;;Route de Bellevue;81240;81239;Saint-Amans-Valtoret;;;2.499957;43.486837
+81239_0084_00002;2;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.491017;43.48145
+81239_0084_00003;3;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.491101;43.481812
+81239_0084_00004;4;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.491081;43.481648
+81239_0084_00006;6;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.491143;43.481782
+81239_0084_00007;7;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.491505;43.48212
+81239_0084_00009;9;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.491702;43.482236
+81239_0084_00021;21;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.492059;43.48275
+81239_0084_00007_bis;7;bis;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.491577;43.482164
+81239_0084_00006_bis;6;bis;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.491216;43.481877
+81239_0034_00002;2;;Rue du Four;81240;81239;Saint-Amans-Valtoret;;;2.490758;43.481116
+81239_0034_00006;6;;Rue du Four;81240;81239;Saint-Amans-Valtoret;;;2.490732;43.481052
+81239_0034_00011;11;;Rue du Four;81240;81239;Saint-Amans-Valtoret;;;2.49069;43.481209
+81239_0141_00002;2;;Route de Peyresalbes;81240;81239;Saint-Amans-Valtoret;;;2.505124;43.502178
+81239_0141_00005;5;;Route de Peyresalbes;81240;81239;Saint-Amans-Valtoret;;;2.505488;43.502547
+81239_0105_00003;3;;Chemin du Bascaud;81240;81239;Saint-Amans-Valtoret;;;2.479316;43.495241
+81239_0030_00002;2;;Rue de l'Est;81240;81239;Saint-Amans-Valtoret;;;2.493173;43.480683
+81239_0136_00005;5;;Route de Mazamet;81240;81239;Saint-Amans-Valtoret;;;2.456616;43.489416
+81239_0135_00005;5;;Route de la Mathe;81240;81239;Saint-Amans-Valtoret;;;2.523956;43.487554
+81239_0135_00006;6;;Route de la Mathe;81240;81239;Saint-Amans-Valtoret;;;2.525027;43.487133
+81239_0135_00011;11;;Route de la Mathe;81240;81239;Saint-Amans-Valtoret;;;2.526993;43.486316
+81239_0156_00001;1;;Chemin de la Vintaine;81240;81239;Saint-Amans-Valtoret;;;2.458921;43.491555
+81239_0117_00009;9;;Route des Costes;81240;81239;Saint-Amans-Valtoret;;;2.521829;43.480717
+81239_0099_00004;4;;Place Villemage;81240;81239;Saint-Amans-Valtoret;;;2.491115;43.48104
+81239_0103_00001;1;;Impasse du Baous;81240;81239;Saint-Amans-Valtoret;;;2.49098;43.479232
+81239_0103_00002;2;;Impasse du Baous;81240;81239;Saint-Amans-Valtoret;;;2.491001;43.479327
+81239_0103_00006;6;;Impasse du Baous;81240;81239;Saint-Amans-Valtoret;;;2.493406;43.479293
+81239_0111_00005;5;;Chemin de Bouisset;81240;81239;Saint-Amans-Valtoret;;;2.492132;43.502451
+81239_0102_00001;1;;Impasse du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.470808;43.508831
+81239_0102_00003;3;;Impasse du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.470337;43.509088
+81239_0119_00001;1;;Route du Cuzel;81240;81239;Saint-Amans-Valtoret;;;2.516674;43.484806
+81239_0119_00003;3;;Route du Cuzel;81240;81239;Saint-Amans-Valtoret;;;2.517553;43.484492
+81239_0028_00010;10;;Rue de l'Eglise;81240;81239;Saint-Amans-Valtoret;;;2.489522;43.481279
+81239_0145_00001;1;;Chemin de Ravet;81240;81239;Saint-Amans-Valtoret;;;2.518807;43.503753
+81239_0131_00003;3;;Chemin du Lac;81240;81239;Saint-Amans-Valtoret;;;2.473776;43.508362
+81239_0131_00006;6;;Chemin du Lac;81240;81239;Saint-Amans-Valtoret;;;2.474462;43.508484
+81239_0131_00009;9;;Chemin du Lac;81240;81239;Saint-Amans-Valtoret;;;2.478887;43.51016
+81239_0109_00001;1;;Chemin de Bonnare;81240;81239;Saint-Amans-Valtoret;;;2.522842;43.510137
+81239_0109_00002;2;;Chemin de Bonnare;81240;81239;Saint-Amans-Valtoret;;;2.522794;43.510052
+81239_0109_00005;5;;Chemin de Bonnare;81240;81239;Saint-Amans-Valtoret;;;2.522854;43.511295
+81239_0110_00003;3;;Route de Bonnavenc;81240;81239;Saint-Amans-Valtoret;;;2.50557;43.487048
+81239_0078_00003;3;;Rue du Rieussalenc;81240;81239;Saint-Amans-Valtoret;;;2.490952;43.481771
+81239_0147_00001;1;;Chemin de Roucan;81240;81239;Saint-Amans-Valtoret;;;2.511006;43.495153
+81239_0153_00001;1;;Impasse des Salesses Hautes;81240;81239;Saint-Amans-Valtoret;;;2.49147;43.508477
+81239_0124_00001;1;;Impasse Florentine Haute;81240;81239;Saint-Amans-Valtoret;;;2.485836;43.497503
+81239_0104_00001;1;;Chemin de La Bartassade;81240;81239;Saint-Amans-Valtoret;;;2.502958;43.503353
+81239_0074_00002;2;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.49533;43.483229
+81239_0074_00005;5;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.495598;43.482491
+81239_0074_00006;6;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.495629;43.483302
+81239_0074_00008;8;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.495393;43.482986
+81239_0074_00011;11;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.496625;43.48267
+81239_0074_00023;23;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.498578;43.482383
+81239_0074_00026;26;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.498605;43.482994
+81239_0074_00027;27;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.49872;43.482823
+81239_0074_00031;31;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.498673;43.483242
+81239_0074_00035;35;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.498626;43.483643
+81239_0133_00004;4;;Rue des Maisons Claires;81240;81239;Saint-Amans-Valtoret;;;2.488685;43.480429
+81239_0133_00008;8;;Rue des Maisons Claires;81240;81239;Saint-Amans-Valtoret;;;2.488692;43.480108
+81239_0133_00012;12;;Rue des Maisons Claires;81240;81239;Saint-Amans-Valtoret;;;2.488531;43.479808
+81239_0143_00008;8;;Chemin du Pont;81240;81239;Saint-Amans-Valtoret;;;2.492975;43.484387
+81239_0143_00010;10;;Chemin du Pont;81240;81239;Saint-Amans-Valtoret;;;2.492762;43.484584
+81239_0143_00014;14;;Chemin du Pont;81240;81239;Saint-Amans-Valtoret;;;2.493022;43.485315
+81239_0143_00016;16;;Chemin du Pont;81240;81239;Saint-Amans-Valtoret;;;2.493686;43.486791
+81239_0142_00004;4;;Chemin du Pioch;81240;81239;Saint-Amans-Valtoret;;;2.466433;43.497114
+81239_0123_00003;3;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.513753;43.501037
+81239_0123_00004;4;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.513066;43.501585
+81239_0123_00006;6;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.51285;43.501885
+81239_0123_00010;10;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.512294;43.502887
+81239_0123_00013;13;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.511736;43.502421
+81239_0123_00015;15;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.511624;43.502461
+81239_0123_00017;17;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.511471;43.502403
+81239_0123_00018;18;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.511589;43.502796
+81239_0123_00020;20;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.511765;43.502851
+81239_0123_00021;21;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.511562;43.50266
+81239_0123_00023;23;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.511395;43.50265
+81239_0123_00024;24;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.511383;43.5029
+81239_0123_00026;26;;Route de Faumontagne;81240;81239;Saint-Amans-Valtoret;;;2.511106;43.503328
+81239_0151_00004;4;;Route de Saint-Martin;81240;81239;Saint-Amans-Valtoret;;;2.46756;43.508268
+81239_0151_00005;5;;Route de Saint-Martin;81240;81239;Saint-Amans-Valtoret;;;2.468016;43.508323
+81239_0151_00008;8;;Route de Saint-Martin;81240;81239;Saint-Amans-Valtoret;;;2.467759;43.508278
+81239_0151_00010;10;;Route de Saint-Martin;81240;81239;Saint-Amans-Valtoret;;;2.467911;43.508269
+81239_0151_00011;11;;Route de Saint-Martin;81240;81239;Saint-Amans-Valtoret;;;2.466714;43.508383
+81239_0129_00008;8;;Chemin des Gîtes;81240;81239;Saint-Amans-Valtoret;;;2.514183;43.539432
+81239_0016_00004;4;;Rue Plan Castel;81240;81239;Saint-Amans-Valtoret;;;2.490299;43.481372
+81239_0016_00007;7;;Rue Plan Castel;81240;81239;Saint-Amans-Valtoret;;;2.490663;43.481885
+81239_0096_00003;3;;Rue des treilles;81240;81239;Saint-Amans-Valtoret;;;2.489342;43.481181
+81239_0121_00002;2;;Impasse Eugène Guiraud;81240;81239;Saint-Amans-Valtoret;;;2.491742;43.480183
+81239_0125_00001;1;;Chemin des Fournials;81240;81239;Saint-Amans-Valtoret;;;2.524193;43.478039
+81239_0081_00009;9;;Impasse Sagne Mégé;81240;81239;Saint-Amans-Valtoret;;;2.497482;43.483145
+81239_0019_00008;8;;Avenue du Château;81240;81239;Saint-Amans-Valtoret;;;2.489663;43.480836
+81239_0138_00004;4;;Route de la Montagne;81240;81239;Saint-Amans-Valtoret;;;2.46373;43.488733
+81239_0138_00008;8;;Route de la Montagne;81240;81239;Saint-Amans-Valtoret;;;2.468106;43.496618
+81239_0157_00005;5;;Route du Vintrou;81240;81239;Saint-Amans-Valtoret;;;2.472637;43.509482
+81239_0157_00006;6;;Route du Vintrou;81240;81239;Saint-Amans-Valtoret;;;2.474176;43.507407
+81239_0157_00012;12;;Route du Vintrou;81240;81239;Saint-Amans-Valtoret;;;2.472733;43.509131
+81239_0065_00003;3;;Petite Rue;81240;81239;Saint-Amans-Valtoret;;;2.49;43.480885
+81239_0149_00008;8;;Chemin de la Rustagne;81240;81239;Saint-Amans-Valtoret;;;2.489638;43.504074
+81239_0012_00001;1;;Place de la Brêche;81240;81239;Saint-Amans-Valtoret;;;2.488396;43.481315
+81239_0107_00004;4;;Route de Bellevue;81240;81239;Saint-Amans-Valtoret;;;2.500767;43.485554
+81239_0084_00011;11;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.491813;43.482307
+81239_0084_00015;15;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.491967;43.482401
+81239_0084_00017;17;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.492042;43.482447
+81239_0084_00018;18;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.492098;43.483021
+81239_0084_00019;19;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.492124;43.482666
+81239_0084_00020;20;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.49183;43.483093
+81239_0084_00001_bis;1;bis;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.491022;43.481638
+81239_0034_00013;13;;Rue du Four;81240;81239;Saint-Amans-Valtoret;;;2.49079;43.481094
+81239_0141_00001;1;;Route de Peyresalbes;81240;81239;Saint-Amans-Valtoret;;;2.505291;43.502009
+81239_0141_00004;4;;Route de Peyresalbes;81240;81239;Saint-Amans-Valtoret;;;2.504864;43.502452
+81239_0115_00001;1;;Chemin du Camp Grand;81240;81239;Saint-Amans-Valtoret;;;2.515722;43.491089
+81239_0030_00004;4;;Rue de l'Est;81240;81239;Saint-Amans-Valtoret;;;2.493344;43.480567
+81239_0160_00001;1;;Chemin du Valat;81240;81239;Saint-Amans-Valtoret;;;2.488911;43.482009
+81239_0160_00003;3;;Chemin du Valat;81240;81239;Saint-Amans-Valtoret;;;2.489357;43.482033
+81239_0160_00009;9;;Chemin du Valat;81240;81239;Saint-Amans-Valtoret;;;2.490415;43.482377
+81239_0035_00001;1;;Impasse Fleurie;81240;81239;Saint-Amans-Valtoret;;;2.489548;43.484165
+81239_0035_00002;2;;Impasse Fleurie;81240;81239;Saint-Amans-Valtoret;;;2.489807;43.484142
+81239_0035_00003;3;;Impasse Fleurie;81240;81239;Saint-Amans-Valtoret;;;2.489684;43.484299
+81239_0035_00004;4;;Impasse Fleurie;81240;81239;Saint-Amans-Valtoret;;;2.489824;43.484303
+81239_0136_00001;1;;Route de Mazamet;81240;81239;Saint-Amans-Valtoret;;;2.457258;43.489144
+81239_0136_00002;2;;Route de Mazamet;81240;81239;Saint-Amans-Valtoret;;;2.456415;43.489904
+81239_0136_00007;7;;Route de Mazamet;81240;81239;Saint-Amans-Valtoret;;;2.450396;43.492251
+81239_0135_00003;3;;Route de la Mathe;81240;81239;Saint-Amans-Valtoret;;;2.519945;43.486422
+81239_0135_00008;8;;Route de la Mathe;81240;81239;Saint-Amans-Valtoret;;;2.526966;43.486181
+81239_0156_00003;3;;Chemin de la Vintaine;81240;81239;Saint-Amans-Valtoret;;;2.459265;43.492923
+81239_0156_00005;5;;Chemin de la Vintaine;81240;81239;Saint-Amans-Valtoret;;;2.456156;43.494036
+81239_0156_00006;6;;Chemin de la Vintaine;81240;81239;Saint-Amans-Valtoret;;;2.462658;43.488958
+81239_0117_00003;3;;Route des Costes;81240;81239;Saint-Amans-Valtoret;;;2.516045;43.480364
+81239_0117_00007;7;;Route des Costes;81240;81239;Saint-Amans-Valtoret;;;2.52151;43.480836
+81239_0117_00008;8;;Route des Costes;81240;81239;Saint-Amans-Valtoret;;;2.516393;43.480067
+81239_0117_00010;10;;Route des Costes;81240;81239;Saint-Amans-Valtoret;;;2.52139;43.480713
+81239_0155_00001;1;;Chemin de la Vallée;81240;81239;Saint-Amans-Valtoret;;;2.476054;43.487108
+81239_0155_00002;2;;Chemin de la Vallée;81240;81239;Saint-Amans-Valtoret;;;2.483799;43.484893
+81239_0155_00003;3;;Chemin de la Vallée;81240;81239;Saint-Amans-Valtoret;;;2.469282;43.488482
+81239_0099_00006;6;;Place Villemage;81240;81239;Saint-Amans-Valtoret;;;2.491097;43.481104
+81239_0099_00008;8;;Place Villemage;81240;81239;Saint-Amans-Valtoret;;;2.491081;43.481194
+81239_0111_00001;1;;Chemin de Bouisset;81240;81239;Saint-Amans-Valtoret;;;2.492425;43.502243
+81239_0111_00002;2;;Chemin de Bouisset;81240;81239;Saint-Amans-Valtoret;;;2.492765;43.502178
+81239_0111_00004;4;;Chemin de Bouisset;81240;81239;Saint-Amans-Valtoret;;;2.492672;43.50241
+81239_0111_00006;6;;Chemin de Bouisset;81240;81239;Saint-Amans-Valtoret;;;2.492493;43.50248
+81239_0111_00007;7;;Chemin de Bouisset;81240;81239;Saint-Amans-Valtoret;;;2.492274;43.502502
+81239_0111_00010;10;;Chemin de Bouisset;81240;81239;Saint-Amans-Valtoret;;;2.492545;43.502858
+81239_0120_00002;2;;Impasse dal Mouli;81240;81239;Saint-Amans-Valtoret;;;2.473076;43.509387
+81239_0120_00003;3;;Impasse dal Mouli;81240;81239;Saint-Amans-Valtoret;;;2.473681;43.509429
+81239_0120_00004;4;;Impasse dal Mouli;81240;81239;Saint-Amans-Valtoret;;;2.472443;43.509353
+81239_0154_00001;1;;Rue du Temple;81240;81239;Saint-Amans-Valtoret;;;2.487464;43.481008
+81239_0055_00001;1;;Rue de la Mairie;81240;81239;Saint-Amans-Valtoret;;;2.489206;43.481275
+81239_0055_00003;3;;Rue de la Mairie;81240;81239;Saint-Amans-Valtoret;;;2.489151;43.481052
+81239_0102_00002;2;;Impasse du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.470058;43.508918
+81239_0146_00002;2;;Chemin de Roques;81240;81239;Saint-Amans-Valtoret;;;2.501684;43.495342
+81239_0112_00001;1;;Chemin du Bouissou;81240;81239;Saint-Amans-Valtoret;;;2.461528;43.509143
+81239_0119_00004;4;;Route du Cuzel;81240;81239;Saint-Amans-Valtoret;;;2.517513;43.484695
+81239_0028_00004;4;;Rue de l'Eglise;81240;81239;Saint-Amans-Valtoret;;;2.488865;43.481359
+81239_0028_00006;6;;Rue de l'Eglise;81240;81239;Saint-Amans-Valtoret;;;2.489387;43.481303
+81239_0028_00012;12;;Rue de l'Eglise;81240;81239;Saint-Amans-Valtoret;;;2.489586;43.481268
+81239_0028_00014;14;;Rue de l'Eglise;81240;81239;Saint-Amans-Valtoret;;;2.48968;43.481247
+81239_0131_00002;2;;Chemin du Lac;81240;81239;Saint-Amans-Valtoret;;;2.472979;43.508081
+81239_0131_00010;10;;Chemin du Lac;81240;81239;Saint-Amans-Valtoret;;;2.517631;43.539768
+81239_0022_00004;4;;Rue du Clocher;81240;81239;Saint-Amans-Valtoret;;;2.48939;43.481505
+81239_0110_00001;1;;Route de Bonnavenc;81240;81239;Saint-Amans-Valtoret;;;2.500939;43.48414
+81239_0025_00001;1;;Rue du Couvent;81240;81239;Saint-Amans-Valtoret;;;2.48878;43.481656
+81239_0137_00001;1;;Chemin de la Métairie Haute;81240;81239;Saint-Amans-Valtoret;;;2.500725;43.491286
+81239_0126_00001;1;;Chemin du Fraysse;81240;81239;Saint-Amans-Valtoret;;;2.523785;43.497771
+81239_0101_00002;2;;Route de la Balme;81240;81239;Saint-Amans-Valtoret;;;2.49576;43.499221
+81239_0108_00001;1;;Chemin de la Bergerie;81240;81239;Saint-Amans-Valtoret;;;2.482002;43.489936
+81239_0075_00002;2;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.491429;43.480713
+81239_0075_00025;25;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.492724;43.480757
+81239_0075_00027;27;;Rue du Rampan;81240;81239;Saint-Amans-Valtoret;;;2.492814;43.480761
+81239_0054_00006;6;;Chemin de Lembraut;81240;81239;Saint-Amans-Valtoret;;;2.488067;43.482687
+81239_0054_00008;8;;Chemin de Lembraut;81240;81239;Saint-Amans-Valtoret;;;2.487997;43.482959
+81239_0054_00010;10;;Chemin de Lembraut;81240;81239;Saint-Amans-Valtoret;;;2.486674;43.485234
+81239_0054_00011;11;;Chemin de Lembraut;81240;81239;Saint-Amans-Valtoret;;;2.486727;43.485049
+81239_0054_00015;15;;Chemin de Lembraut;81240;81239;Saint-Amans-Valtoret;;;2.48648;43.485402
+81239_0054_00021;21;;Chemin de Lembraut;81240;81239;Saint-Amans-Valtoret;;;2.485755;43.486061
+81239_0074_00003;3;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.495057;43.483196
+81239_0074_00004;4;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.495659;43.483356
+81239_0074_00010;10;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.495674;43.482558
+81239_0074_00014;14;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.496574;43.482762
+81239_0074_00018;18;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.496923;43.482888
+81239_0074_00019;19;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.498101;43.482266
+81239_0074_00022;22;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.497993;43.482369
+81239_0074_00028;28;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.498589;43.483157
+81239_0074_00029;29;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.498695;43.483047
+81239_0074_00033;33;;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.498647;43.483468
+81239_0074_00002_bis;2;bis;Rue du Pastural;81240;81239;Saint-Amans-Valtoret;;;2.494844;43.483395
+81239_0133_00005;5;;Rue des Maisons Claires;81240;81239;Saint-Amans-Valtoret;;;2.488665;43.479295
+81239_0133_00006;6;;Rue des Maisons Claires;81240;81239;Saint-Amans-Valtoret;;;2.488891;43.480094
+81239_0133_00010;10;;Rue des Maisons Claires;81240;81239;Saint-Amans-Valtoret;;;2.488729;43.479769
+81239_0143_00012;12;;Chemin du Pont;81240;81239;Saint-Amans-Valtoret;;;2.492778;43.484677
+81239_0158_00002;2;;Ruelle de la Carrierasse;81240;81239;Saint-Amans-Valtoret;;;2.490844;43.48012
+81239_0142_00001;1;;Chemin du Pioch;81240;81239;Saint-Amans-Valtoret;;;2.46732;43.496573
+81239_0142_00003;3;;Chemin du Pioch;81240;81239;Saint-Amans-Valtoret;;;2.466992;43.496958
+81239_0142_00005;5;;Chemin du Pioch;81240;81239;Saint-Amans-Valtoret;;;2.467549;43.496862
+81239_0151_00001;1;;Route de Saint-Martin;81240;81239;Saint-Amans-Valtoret;;;2.467413;43.508657
+81239_0151_00007;7;;Route de Saint-Martin;81240;81239;Saint-Amans-Valtoret;;;2.467466;43.508099
+81239_0151_00009;9;;Route de Saint-Martin;81240;81239;Saint-Amans-Valtoret;;;2.466994;43.508209
+81239_0129_00002;2;;Chemin des Gîtes;81240;81239;Saint-Amans-Valtoret;;;2.513202;43.539539
+81239_0129_00003;3;;Chemin des Gîtes;81240;81239;Saint-Amans-Valtoret;;;2.513688;43.539614
+81239_0129_00004;4;;Chemin des Gîtes;81240;81239;Saint-Amans-Valtoret;;;2.51379;43.539582
+81239_0129_00005;5;;Chemin des Gîtes;81240;81239;Saint-Amans-Valtoret;;;2.514516;43.539587
+81239_0129_00007;7;;Chemin des Gîtes;81240;81239;Saint-Amans-Valtoret;;;2.514089;43.539454
+81239_0129_00011;11;;Chemin des Gîtes;81240;81239;Saint-Amans-Valtoret;;;2.515512;43.538315
+81239_0016_00001;1;;Rue Plan Castel;81240;81239;Saint-Amans-Valtoret;;;2.490034;43.481579
+81239_0016_00003;3;;Rue Plan Castel;81240;81239;Saint-Amans-Valtoret;;;2.490327;43.481791
+81239_0016_00006;6;;Rue Plan Castel;81240;81239;Saint-Amans-Valtoret;;;2.490377;43.481486
+81239_0121_00003;3;;Impasse Eugène Guiraud;81240;81239;Saint-Amans-Valtoret;;;2.492552;43.479556
+81239_0121_00004;4;;Impasse Eugène Guiraud;81240;81239;Saint-Amans-Valtoret;;;2.492066;43.48
+81239_0121_00005;5;;Impasse Eugène Guiraud;81240;81239;Saint-Amans-Valtoret;;;2.492543;43.479517
+81239_0081_00002;2;;Impasse Sagne Mégé;81240;81239;Saint-Amans-Valtoret;;;2.497753;43.482971
+81239_0081_00005;5;;Impasse Sagne Mégé;81240;81239;Saint-Amans-Valtoret;;;2.49791;43.483313
+81239_0019_00002;2;;Avenue du Château;81240;81239;Saint-Amans-Valtoret;;;2.489816;43.481149
+81239_0138_00002;2;;Route de la Montagne;81240;81239;Saint-Amans-Valtoret;;;2.462817;43.488583
+81239_0138_00011;11;;Route de la Montagne;81240;81239;Saint-Amans-Valtoret;;;2.469553;43.503274
+81239_0157_00002;2;;Route du Vintrou;81240;81239;Saint-Amans-Valtoret;;;2.49615;43.489907
+81239_0157_00004;4;;Route du Vintrou;81240;81239;Saint-Amans-Valtoret;;;2.490474;43.490828
+81239_0157_00010;10;;Route du Vintrou;81240;81239;Saint-Amans-Valtoret;;;2.472719;43.508815
+81239_0157_00014;14;;Route du Vintrou;81240;81239;Saint-Amans-Valtoret;;;2.473352;43.511263
+81239_0065_00004;4;;Petite Rue;81240;81239;Saint-Amans-Valtoret;;;2.489983;43.480829
+81239_0149_00002;2;;Chemin de la Rustagne;81240;81239;Saint-Amans-Valtoret;;;2.489727;43.504321
+81239_0149_00004;4;;Chemin de la Rustagne;81240;81239;Saint-Amans-Valtoret;;;2.489495;43.504348
+81239_0149_00010;10;;Chemin de la Rustagne;81240;81239;Saint-Amans-Valtoret;;;2.489013;43.503341
+81239_0012_00004;4;;Place de la Brêche;81240;81239;Saint-Amans-Valtoret;;;2.488486;43.481249
+81239_0107_00002;2;;Route de Bellevue;81240;81239;Saint-Amans-Valtoret;;;2.500055;43.484993
+81239_0107_00003;3;;Route de Bellevue;81240;81239;Saint-Amans-Valtoret;;;2.500604;43.485944
+81239_0107_00008;8;;Route de Bellevue;81240;81239;Saint-Amans-Valtoret;;;2.499879;43.486908
+81239_0084_00005;5;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.491404;43.482079
+81239_0084_00008;8;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.492203;43.482495
+81239_0084_00010;10;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.49215;43.48274
+81239_0084_00016;16;;Rue de la Sophie;81240;81239;Saint-Amans-Valtoret;;;2.492139;43.482971
+81239_0034_00001;1;;Rue du Four;81240;81239;Saint-Amans-Valtoret;;;2.490417;43.481285
+81239_0034_00005;5;;Rue du Four;81240;81239;Saint-Amans-Valtoret;;;2.490526;43.481252
+81239_0034_00009;9;;Rue du Four;81240;81239;Saint-Amans-Valtoret;;;2.490634;43.481218
+81239_0105_00001;1;;Chemin du Bascaud;81240;81239;Saint-Amans-Valtoret;;;2.479714;43.496319
+81239_0105_00002;2;;Chemin du Bascaud;81240;81239;Saint-Amans-Valtoret;;;2.479194;43.495239
+81239_0160_00005;5;;Chemin du Valat;81240;81239;Saint-Amans-Valtoret;;;2.489756;43.482197
+81239_0160_00007;7;;Chemin du Valat;81240;81239;Saint-Amans-Valtoret;;;2.489256;43.482605
+81239_0135_00001;1;;Route de la Mathe;81240;81239;Saint-Amans-Valtoret;;;2.519731;43.486475
+81239_0135_00002;2;;Route de la Mathe;81240;81239;Saint-Amans-Valtoret;;;2.524719;43.487294
+81239_0135_00004;4;;Route de la Mathe;81240;81239;Saint-Amans-Valtoret;;;2.524859;43.48722
+81239_0135_00009;9;;Route de la Mathe;81240;81239;Saint-Amans-Valtoret;;;2.524468;43.487414
+81239_0156_00004;4;;Chemin de la Vintaine;81240;81239;Saint-Amans-Valtoret;;;2.462868;43.488852
+81239_0156_00007;7;;Chemin de la Vintaine;81240;81239;Saint-Amans-Valtoret;;;2.456127;43.494045
+81239_0156_00009;9;;Chemin de la Vintaine;81240;81239;Saint-Amans-Valtoret;;;2.455749;43.494631
+81239_0117_00002;2;;Route des Costes;81240;81239;Saint-Amans-Valtoret;;;2.501998;43.480903
+81239_0117_00004;4;;Route des Costes;81240;81239;Saint-Amans-Valtoret;;;2.514854;43.479642
+81239_0117_00006;6;;Route des Costes;81240;81239;Saint-Amans-Valtoret;;;2.515337;43.479757
+81239_0092_00004;4;;Ruelle traversière;81240;81239;Saint-Amans-Valtoret;;;2.490174;43.481188
+81239_0155_00005;5;;Chemin de la Vallée;81240;81239;Saint-Amans-Valtoret;;;2.468363;43.488612
+81239_0099_00002;2;;Place Villemage;81240;81239;Saint-Amans-Valtoret;;;2.49121;43.480625
+81239_0114_00002;2;;Chemin des Calmilles;81240;81239;Saint-Amans-Valtoret;;;2.504729;43.494285
+81239_0103_00004;4;;Impasse du Baous;81240;81239;Saint-Amans-Valtoret;;;2.492837;43.479454
+81239_0103_00005;5;;Impasse du Baous;81240;81239;Saint-Amans-Valtoret;;;2.492831;43.479354
+81239_0111_00009;9;;Chemin de Bouisset;81240;81239;Saint-Amans-Valtoret;;;2.492256;43.502946
+81239_0111_00016;16;;Chemin de Bouisset;81240;81239;Saint-Amans-Valtoret;;;2.492158;43.503051
+81239_0140_00001;1;;Route de Pataraze;81240;81239;Saint-Amans-Valtoret;;;2.504413;43.480497
+81239_0060_00001;1;;Ruelle de la Muraille;81240;81239;Saint-Amans-Valtoret;;;2.489585;43.481077
+81239_0060_00003;3;;Ruelle de la Muraille;81240;81239;Saint-Amans-Valtoret;;;2.489541;43.481025
+81239_0060_00005;5;;Ruelle de la Muraille;81240;81239;Saint-Amans-Valtoret;;;2.489518;43.48098
+81239_0055_00002;2;;Rue de la Mairie;81240;81239;Saint-Amans-Valtoret;;;2.489139;43.481265
+81239_0102_00005;5;;Impasse du Banquet;81240;81239;Saint-Amans-Valtoret;;;2.470193;43.509118
+81239_0146_00001;1;;Chemin de Roques;81240;81239;Saint-Amans-Valtoret;;;2.50228;43.495294
+81239_0119_00002;2;;Route du Cuzel;81240;81239;Saint-Amans-Valtoret;;;2.515796;43.48467
+81239_0028_00001;1;;Rue de l'Eglise;81240;81239;Saint-Amans-Valtoret;;;2.488855;43.481504
+81239_0131_00005;5;;Chemin du Lac;81240;81239;Saint-Amans-Valtoret;;;2.473915;43.508393
+81239_0022_00002;2;;Rue du Clocher;81240;81239;Saint-Amans-Valtoret;;;2.489446;43.481487
+81239_0078_00005;5;;Rue du Rieussalenc;81240;81239;Saint-Amans-Valtoret;;;2.491028;43.481782
+81239_0116_00001;1;;Chemin du Cantou;81240;81239;Saint-Amans-Valtoret;;;2.487777;43.508008
+81239_0113_00001;1;;Chemin du Brugas;81240;81239;Saint-Amans-Valtoret;;;2.464353;43.504192
+81239_0128_00001;1;;Chemin de la Gimberte;81240;81239;Saint-Amans-Valtoret;;;2.51644;43.507346
+81239_0101_00001;1;;Route de la Balme;81240;81239;Saint-Amans-Valtoret;;;2.495522;43.49947
+81239_0122_00001;1;;Chemin des Fargues;81240;81239;Saint-Amans-Valtoret;;;2.460865;43.502741
+81239_0122_00002;2;;Chemin des Fargues;81240;81239;Saint-Amans-Valtoret;;;2.461062;43.502799

@@ -1,0 +1,519 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+50032_tzicwb_00005_a;5;a;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.016353;49.103448
+50032_tzicwb_00021_d;21;d;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.01742;49.101105
+50032_cwx9rp_00020;20;;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.000738;49.110746
+50032_isgdif_00002;2;;La Houesliere;50810;50032;La Barre-de-Semilly;;;-1.026739;49.096117
+50032_tzicwb_00008;8;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.016558;49.104079
+50032_cwx9rp_00002;2;;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.003661;49.111596
+50032_2o880v_00001;1;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.033699;49.100553
+50032_e0g7hb_00002;2;;La Cosnetiere;50810;50032;La Barre-de-Semilly;;;-0.995564;49.108906
+50032_jx40zc_00006;6;;Les Chasses;50810;50032;La Barre-de-Semilly;;;-1.002567;49.115192
+50032_08qbu7_00008;8;;Le Jardin;50810;50032;La Barre-de-Semilly;;;-1.021171;49.105976
+50032_0005_00004;4;;Allée du Clos Renard;50810;50032;La Barre-de-Semilly;;;-1.031039;49.112866
+50032_0330_00003;3;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.034672;49.115247
+50032_0330_00011;11;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.03605;49.115155
+50032_0330_00023;23;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.03621;49.116532
+50032_0150_00005;5;;Avenue de la Mazure;50810;50032;La Barre-de-Semilly;;;-1.031895;49.112185
+50032_0070_00025_a;25;a;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033652;49.117377
+50032_0054_00001;1;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.033219;49.118011
+50032_0054_00009_a;9;a;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.032809;49.117834
+50032_2o880v_00019;19;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.03545;49.099643
+50032_isgdif_00008;8;;La Houesliere;50810;50032;La Barre-de-Semilly;;;-1.02664;49.096969
+50032_isgdif_00015;15;;La Houesliere;50810;50032;La Barre-de-Semilly;;;-1.024519;49.096947
+50032_e0g7hb_00006;6;;La Cosnetiere;50810;50032;La Barre-de-Semilly;;;-0.995564;49.108906
+50032_jx40zc_00002;2;;Les Chasses;50810;50032;La Barre-de-Semilly;;;-1.002439;49.114933
+50032_jx40zc_00002_b;2;b;Les Chasses;50810;50032;La Barre-de-Semilly;;;-1.002605;49.115188
+50032_f5bcae_00025;25;;La Duranderie;50810;50032;La Barre-de-Semilly;;;-1.010736;49.114726
+50032_f5bcae_00031;31;;La Duranderie;50810;50032;La Barre-de-Semilly;;;-1.010355;49.115322
+50032_ip4yxf_00004;4;;Le Roussel;50810;50032;La Barre-de-Semilly;;;-1.013777;49.104888
+50032_t16eln_00002;2;;Plantrô;50810;50032;La Barre-de-Semilly;;;-1.001832;49.113696
+50032_t16eln_00007;7;;Plantrô;50810;50032;La Barre-de-Semilly;;;-1.003622;49.111513
+50032_b168_00007;7;;Le Hamel Aubree;50810;50032;La Barre-de-Semilly;;;-1.039934;49.099673
+50032_0050_00004;4;;Rue des Ecoles;50810;50032;La Barre-de-Semilly;;;-1.03425;49.112718
+50032_0070_00044;44;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033628;49.118769
+50032_0054_00005;5;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.032564;49.11822
+50032_0054_00009;9;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.032379;49.118139
+50032_tzicwb_00004;4;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.014938;49.104097
+50032_tzicwb_00012;12;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.016291;49.103607
+50032_tzicwb_00018;18;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.017157;49.102838
+50032_tzicwb_00022;22;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.017485;49.101097
+50032_tzicwb_00028;28;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.01998;49.101971
+50032_cwx9rp_00012;12;;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.002063;49.111645
+50032_cwx9rp_00004_c;4;c;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.002168;49.112192
+50032_2o880v_00012;12;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.035711;49.100171
+50032_2o880v_00033;33;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.036883;49.099042
+50032_dqa69v_00012;12;;Bouligny;50810;50032;La Barre-de-Semilly;;;-1.017198;49.095999
+50032_w8d1t8_00002;2;;La Rougerie;50810;50032;La Barre-de-Semilly;;;-1.021348;49.116757
+50032_4z5ml3_00007;7;;La Percherie;50810;50032;La Barre-de-Semilly;;;-1.015091;49.10733
+50032_f5bcae_00002;2;;La Duranderie;50810;50032;La Barre-de-Semilly;;;-1.013202;49.11207
+50032_t16eln_00014;14;;Plantrô;50810;50032;La Barre-de-Semilly;;;-1.001782;49.111335
+50032_rc1omu_00032;32;;Rue Jean Trumeau;50810;50032;La Barre-de-Semilly;;;-1.03711;49.116182
+50032_0330_00019;19;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.036266;49.115238
+50032_0330_00030;30;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.036703;49.116344
+50032_b168_00001;1;;Le Hamel Aubree;50810;50032;La Barre-de-Semilly;;;-1.039409;49.098754
+50032_0050_00007;7;;Rue des Ecoles;50810;50032;La Barre-de-Semilly;;;-1.035112;49.112233
+50032_0050_00009;9;;Rue des Ecoles;50810;50032;La Barre-de-Semilly;;;-1.035436;49.112058
+50032_b253_00008;8;;Le Quesnot de Haut;50810;50032;La Barre-de-Semilly;;;-1.006045;49.104365
+50032_0150_00009;9;;Avenue de la Mazure;50810;50032;La Barre-de-Semilly;;;-1.029948;49.1124
+50032_0150_00015;15;;Avenue de la Mazure;50810;50032;La Barre-de-Semilly;;;-1.029003;49.111429
+50032_0070_00001;1;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033842;49.113976
+50032_0070_00005;5;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033781;49.114512
+50032_b317_00008;8;;Vieux Chemin de Caen;50810;50032;La Barre-de-Semilly;;;-1.020742;49.110721
+50032_fle6he_00006;6;;Les Montsjoies;50810;50032;La Barre-de-Semilly;;;-0.993671;49.112056
+50032_tzicwb_00007_a;7;a;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.016712;49.103161
+50032_tzicwb_00001_a;1;a;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.013105;49.104233
+50032_3apq4e_00002;2;;Les Fontaines;50810;50032;La Barre-de-Semilly;;;-1.015972;49.114878
+50032_cwx9rp_00006;6;;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.001378;49.112919
+50032_2o880v_00008;8;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.034518;49.100156
+50032_dqa69v_00001;1;;Bouligny;50810;50032;La Barre-de-Semilly;;;-1.015796;49.096409
+50032_dqa69v_00005;5;;Bouligny;50810;50032;La Barre-de-Semilly;;;-1.016916;49.095705
+50032_dqa69v_00003_b;3;b;Bouligny;50810;50032;La Barre-de-Semilly;;;-1.016611;49.096214
+50032_08qbu7_00004;4;;Le Jardin;50810;50032;La Barre-de-Semilly;;;-1.021085;49.106401
+50032_e4lzid_00002;2;;La Mouliniere;50810;50032;La Barre-de-Semilly;;;-1.012334;49.099785
+50032_srsoli_00002;2;;La Fosse;50810;50032;La Barre-de-Semilly;;;-1.0053;49.113873
+50032_0005_00010;10;;Allée du Clos Renard;50810;50032;La Barre-de-Semilly;;;-1.031339;49.113145
+50032_0330_00007;7;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.035309;49.115563
+50032_0330_00015;15;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.035863;49.115261
+50032_0065_00002;2;;Rue des Iris;50810;50032;La Barre-de-Semilly;;;-1.027303;49.10895
+50032_0070_00011;11;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033558;49.115089
+50032_0070_00018;18;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033321;49.11558
+50032_0070_00024;24;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033339;49.116093
+50032_0070_00028;28;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033511;49.116489
+50032_0070_00032;32;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.03357;49.117195
+50032_0054_00013;13;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.032071;49.1177
+50032_0054_00017;17;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.031567;49.117788
+50032_0300_00014;14;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.027212;49.109424
+50032_0300_00009;9;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.021139;49.109515
+50032_0300_00032;32;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.02253;49.109607
+50032_b254_00002;2;;Le Quesnot de Bas;50810;50032;La Barre-de-Semilly;;;-1.009534;49.10265
+50032_b017_00002;2;;L’Hotel Toupin;50810;50032;La Barre-de-Semilly;;;-0.988718;49.113009
+50032_0075_00008;8;;Rue du Clos Saint Jean;50810;50032;La Barre-de-Semilly;;;-1.025659;49.108862
+50032_0041_00003;3;;Rue du Domaine;50810;50032;La Barre-de-Semilly;;;-1.031385;49.108624
+50032_0041_00011;11;;Rue du Domaine;50810;50032;La Barre-de-Semilly;;;-1.030106;49.108877
+50032_0100_00007;7;;Rue du Lavoir;50810;50032;La Barre-de-Semilly;;;-1.03404;49.112735
+50032_0200_00021;21;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.03678;49.110623
+50032_0200_00029;29;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.035652;49.111073
+50032_0130_00008;8;;Impasse de la Longue Maison;50810;50032;La Barre-de-Semilly;;;-1.031881;49.118953
+50032_0051_00006;6;;Chemin des Fondraies;50810;50032;La Barre-de-Semilly;;;-1.019427;49.110197
+50032_0095_00008;8;;Rue des Lavandières;50810;50032;La Barre-de-Semilly;;;-1.032997;49.112563
+50032_0095_00012;12;;Rue des Lavandières;50810;50032;La Barre-de-Semilly;;;-1.032433;49.112615
+50032_b093_00003;3;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.035179;49.11417
+50032_b093_00016;16;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.03651;49.11496
+50032_0045_00025;25;;Rue de la Duranderie;50810;50032;La Barre-de-Semilly;;;-1.010698;49.11472
+50032_0045_00031;31;;Rue de la Duranderie;50810;50032;La Barre-de-Semilly;;;-1.010335;49.115325
+50032_0300_00024;24;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.02499;49.10968
+50032_0075_00014;14;;Rue du Clos Saint Jean;50810;50032;La Barre-de-Semilly;;;-1.024977;49.108829
+50032_0200_00007;7;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.035064;49.110511
+50032_0200_00011;11;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.035323;49.110317
+50032_0200_00015;15;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.035982;49.110417
+50032_b093_00011;11;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.034894;49.115383
+50032_b093_00008_a;8;a;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.036202;49.114066
+50032_b016_00001;1;;L’Hotel Ferrier;50810;50032;La Barre-de-Semilly;;;-1.012017;49.110207
+50032_b016_00005;5;;L’Hotel Ferrier;50810;50032;La Barre-de-Semilly;;;-1.011563;49.109626
+50032_0090_00002;2;;Rue des Lauriers;50810;50032;La Barre-de-Semilly;;;-1.032751;49.114413
+50032_0045_00002;2;;Rue de la Duranderie;50810;50032;La Barre-de-Semilly;;;-1.013162;49.112062
+50032_0080_00002;2;;Rue de la Lande;50810;50032;La Barre-de-Semilly;;;-1.0218;49.109868
+50032_0080_00006;6;;Rue de la Lande;50810;50032;La Barre-de-Semilly;;;-1.021694;49.110487
+50032_0075_00004;4;;Rue du Clos Saint Jean;50810;50032;La Barre-de-Semilly;;;-1.02586;49.109267
+50032_0041_00007;7;;Rue du Domaine;50810;50032;La Barre-de-Semilly;;;-1.030261;49.1085
+50032_0130_00004;4;;Impasse de la Longue Maison;50810;50032;La Barre-de-Semilly;;;-1.032508;49.119097
+50032_0095_00004;4;;Rue des Lavandières;50810;50032;La Barre-de-Semilly;;;-1.033518;49.112277
+50032_0030_00004;4;;Rue des Bruyeres;50810;50032;La Barre-de-Semilly;;;-1.021096;49.110159
+50032_b093_00020;20;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.036721;49.116348
+50032_tzicwb_00005_t;5;t;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.016016;49.103834
+50032_cwx9rp_00016;16;;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.000695;49.111801
+50032_2o880v_00037;37;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.037621;49.098775
+50032_isgdif_00006;6;;La Houesliere;50810;50032;La Barre-de-Semilly;;;-1.027191;49.097175
+50032_e0g7hb_00009;9;;La Cosnetiere;50810;50032;La Barre-de-Semilly;;;-0.995635;49.108862
+50032_dqa69v_00007;7;;Bouligny;50810;50032;La Barre-de-Semilly;;;-1.017531;49.095767
+50032_w8d1t8_00005;5;;La Rougerie;50810;50032;La Barre-de-Semilly;;;-1.021267;49.116758
+50032_jx40zc_00009;9;;Les Chasses;50810;50032;La Barre-de-Semilly;;;-1.002522;49.115172
+50032_f5bcae_00029;29;;La Duranderie;50810;50032;La Barre-de-Semilly;;;-1.010571;49.115069
+50032_0330_00026;26;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.036264;49.116229
+50032_0330_00026_a;26;a;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.036162;49.11625
+50032_0050_00006;6;;Rue des Ecoles;50810;50032;La Barre-de-Semilly;;;-1.034833;49.112328
+50032_b253_00003;3;;Le Quesnot de Haut;50810;50032;La Barre-de-Semilly;;;-1.005418;49.103849
+50032_b253_00010;10;;Le Quesnot de Haut;50810;50032;La Barre-de-Semilly;;;-1.005934;49.104255
+50032_0070_00007;7;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033744;49.114646
+50032_0070_00014;14;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.032123;49.115225
+50032_0070_00040;40;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033417;49.118245
+50032_0054_00003;3;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.032583;49.118114
+50032_b317_00004;4;;Vieux Chemin de Caen;50810;50032;La Barre-de-Semilly;;;-1.023562;49.110245
+50032_0300_00001;1;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.025261;49.109798
+50032_0060_00002;2;;Rue Hippolyte Gancel;50810;50032;La Barre-de-Semilly;;;-1.034178;49.111512
+50032_0060_00010;10;;Rue Hippolyte Gancel;50810;50032;La Barre-de-Semilly;;;-1.0334;49.109945
+50032_0075_00002;2;;Rue du Clos Saint Jean;50810;50032;La Barre-de-Semilly;;;-1.025947;49.109365
+50032_0075_00010;10;;Rue du Clos Saint Jean;50810;50032;La Barre-de-Semilly;;;-1.025571;49.108772
+50032_tzicwb_00016;16;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.017041;49.102963
+50032_tzicwb_00005_b;5;b;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.016583;49.103292
+50032_cwx9rp_00003_a;3;a;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.003055;49.111744
+50032_dqa69v_00003;3;;Bouligny;50810;50032;La Barre-de-Semilly;;;-1.016241;49.096244
+50032_4z5ml3_00010;10;;La Percherie;50810;50032;La Barre-de-Semilly;;;-1.015202;49.10685
+50032_j7y9kf_00003;3;;La Motte;50810;50032;La Barre-de-Semilly;;;-1.032709;49.107632
+50032_0330_00009;9;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.034327;49.11522
+50032_b253_00001;1;;Le Quesnot de Haut;50810;50032;La Barre-de-Semilly;;;-1.006068;49.104455
+50032_0150_00008;8;;Avenue de la Mazure;50810;50032;La Barre-de-Semilly;;;-1.0324;49.112068
+50032_0150_00007_a;7;a;Avenue de la Mazure;50810;50032;La Barre-de-Semilly;;;-1.03084;49.11231
+50032_0070_00025_d;25;d;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.0336;49.117742
+50032_0054_00011;11;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.032344;49.11772
+50032_0300_00017;17;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.019804;49.109153
+50032_0041_00005;5;;Rue du Domaine;50810;50032;La Barre-de-Semilly;;;-1.031203;49.108493
+50032_0041_00009;9;;Rue du Domaine;50810;50032;La Barre-de-Semilly;;;-1.030169;49.108717
+50032_0041_00013;13;;Rue du Domaine;50810;50032;La Barre-de-Semilly;;;-1.029832;49.108853
+50032_0100_00001;1;;Rue du Lavoir;50810;50032;La Barre-de-Semilly;;;-1.033814;49.112581
+50032_0100_00005;5;;Rue du Lavoir;50810;50032;La Barre-de-Semilly;;;-1.033578;49.112601
+50032_0200_00005;5;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.034775;49.110572
+50032_0200_00009;9;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.035193;49.110296
+50032_0200_00017;17;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.036445;49.110461
+50032_b093_00006_bis;6;bis;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.035391;49.114216
+50032_0250_00003;3;;Le Chemin des Racines;50810;50032;La Barre-de-Semilly;;;-1.018257;49.10945
+50032_0002_00003_b;3;b;Route de Bayeux;50810;50032;La Barre-de-Semilly;;;-1.036393;49.117964
+50032_a001_00004;4;;Residence des Jardins;50810;50032;La Barre-de-Semilly;;;-1.034385;49.116651
+50032_0200_00025;25;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.036196;49.110874
+50032_0130_00006;6;;Impasse de la Longue Maison;50810;50032;La Barre-de-Semilly;;;-1.032286;49.118729
+50032_0095_00002;2;;Rue des Lavandières;50810;50032;La Barre-de-Semilly;;;-1.033721;49.112229
+50032_b093_00005;5;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.035514;49.114135
+50032_0300_00003;3;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.02294;49.109714
+50032_0060_00005;5;;Rue Hippolyte Gancel;50810;50032;La Barre-de-Semilly;;;-1.033758;49.110916
+50032_0041_00020;20;;Rue du Domaine;50810;50032;La Barre-de-Semilly;;;-1.030251;49.108314
+50032_0100_00003;3;;Rue du Lavoir;50810;50032;La Barre-de-Semilly;;;-1.034058;49.112807
+50032_0200_00003;3;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.034449;49.110691
+50032_b093_00007;7;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.03522;49.116061
+50032_b223_00004;4;;Le Parc de Haut;50810;50032;La Barre-de-Semilly;;;-1.03493;49.102375
+50032_0002_00003;3;;Route de Bayeux;50810;50032;La Barre-de-Semilly;;;-1.036393;49.117964
+50032_a001_00002;2;;Residence des Jardins;50810;50032;La Barre-de-Semilly;;;-1.034335;49.116676
+50032_fle6he_00002;2;;Les Montsjoies;50810;50032;La Barre-de-Semilly;;;-0.995262;49.112025
+50032_tzicwb_00002;2;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.014266;49.104597
+50032_tzicwb_00006;6;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.015665;49.103989
+50032_tzicwb_00025;25;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.017399;49.10076
+50032_tzicwb_00018_a;18;a;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.017381;49.102595
+50032_cwx9rp_00007_bis;7;bis;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.003543;49.111563
+50032_2o880v_00005;5;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.034215;49.100122
+50032_tzicwb_00010;10;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.016736;49.104205
+50032_tzicwb_00020;20;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.017539;49.102079
+50032_tzicwb_00018_b;18;b;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.017746;49.102503
+50032_tzicwb_00005_c;5;c;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.016815;49.103087
+50032_29wong_00002;2;;La Meuneliere;50810;50032;La Barre-de-Semilly;;;-1.005143;49.096897
+50032_cwx9rp_00004;4;;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.001561;49.113388
+50032_cwx9rp_00008;8;;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.002684;49.112463
+50032_2o880v_00015;15;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.034414;49.099116
+50032_isgdif_00020;20;;La Houesliere;50810;50032;La Barre-de-Semilly;;;-1.025569;49.096753
+50032_e0g7hb_00004;4;;La Cosnetiere;50810;50032;La Barre-de-Semilly;;;-0.995564;49.108906
+50032_dqa69v_00001_a;1;a;Bouligny;50810;50032;La Barre-de-Semilly;;;-1.01481;49.096737
+50032_jx40zc_00004;4;;Les Chasses;50810;50032;La Barre-de-Semilly;;;-1.002461;49.114863
+50032_4z5ml3_00002;2;;La Percherie;50810;50032;La Barre-de-Semilly;;;-1.015517;49.107232
+50032_08qbu7_00006;6;;Le Jardin;50810;50032;La Barre-de-Semilly;;;-1.020945;49.106737
+50032_ip4yxf_00008;8;;Le Roussel;50810;50032;La Barre-de-Semilly;;;-1.013654;49.104744
+50032_8ki1jn_00014;14;;Les Jardins;50810;50032;La Barre-de-Semilly;;;-1.032315;49.115155
+50032_0005_00002;2;;Allée du Clos Renard;50810;50032;La Barre-de-Semilly;;;-1.031069;49.112811
+50032_0005_00006;6;;Allée du Clos Renard;50810;50032;La Barre-de-Semilly;;;-1.031261;49.11306
+50032_b168_00003;3;;Le Hamel Aubree;50810;50032;La Barre-de-Semilly;;;-1.039534;49.098985
+50032_0050_00002;2;;Rue des Ecoles;50810;50032;La Barre-de-Semilly;;;-1.034288;49.1128
+50032_0150_00004;4;;Avenue de la Mazure;50810;50032;La Barre-de-Semilly;;;-1.033221;49.111873
+50032_0070_00003;3;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033823;49.114212
+50032_0070_00022;22;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033314;49.116015
+50032_0070_00030;30;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033584;49.116791
+50032_0070_00009_e;9;e;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033942;49.114857
+50032_0054_00007;7;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.032437;49.118231
+50032_0054_00019;19;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.031599;49.117847
+50032_0300_00012;12;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.027583;49.109383
+50032_0300_00028;28;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.023184;49.10965
+50032_0300_00050;50;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.017562;49.108409
+50032_b254_00006;6;;Le Quesnot de Bas;50810;50032;La Barre-de-Semilly;;;-1.009158;49.102012
+50032_2o880v_00010;10;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.03538;49.099862
+50032_2o880v_00023;23;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.036215;49.099286
+50032_isgdif_00011;11;;La Houesliere;50810;50032;La Barre-de-Semilly;;;-1.025948;49.096886
+50032_dqa69v_00003_a;3;a;Bouligny;50810;50032;La Barre-de-Semilly;;;-1.01636;49.096211
+50032_f5bcae_00023;23;;La Duranderie;50810;50032;La Barre-de-Semilly;;;-1.010886;49.114436
+50032_08qbu7_00007_bis;7;bis;Le Jardin;50810;50032;La Barre-de-Semilly;;;-1.021309;49.105741
+50032_7hm99h_00001;1;;Le Caillou;50810;50032;La Barre-de-Semilly;;;-1.010083;49.10863
+50032_t16eln_00004;4;;Plantrô;50810;50032;La Barre-de-Semilly;;;-1.001568;49.113388
+50032_t16eln_00010;10;;Plantrô;50810;50032;La Barre-de-Semilly;;;-1.003028;49.111899
+50032_t16eln_00020;20;;Plantrô;50810;50032;La Barre-de-Semilly;;;-1.000744;49.110748
+50032_0005_00014;14;;Allée du Clos Renard;50810;50032;La Barre-de-Semilly;;;-1.032037;49.112958
+50032_0330_00005;5;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.034951;49.115323
+50032_0330_00013;13;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.036271;49.115158
+50032_0330_00017;17;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.036266;49.115238
+50032_0330_00021;21;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.036652;49.115867
+50032_0065_00004;4;;Rue des Iris;50810;50032;La Barre-de-Semilly;;;-1.026978;49.108985
+50032_0150_00006;6;;Avenue de la Mazure;50810;50032;La Barre-de-Semilly;;;-1.032813;49.111969
+50032_0150_00010;10;;Avenue de la Mazure;50810;50032;La Barre-de-Semilly;;;-1.032155;49.112126
+50032_0070_00026;26;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033367;49.116178
+50032_0054_00015;15;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.031535;49.117732
+50032_0300_00006;6;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.028667;49.10927
+50032_0080_00004;4;;Rue de la Lande;50810;50032;La Barre-de-Semilly;;;-1.021741;49.110217
+50032_0075_00006;6;;Rue du Clos Saint Jean;50810;50032;La Barre-de-Semilly;;;-1.025643;49.109083
+50032_0041_00001;1;;Rue du Domaine;50810;50032;La Barre-de-Semilly;;;-1.031754;49.108985
+50032_0051_00002;2;;Chemin des Fondraies;50810;50032;La Barre-de-Semilly;;;-1.019597;49.109498
+50032_0095_00006;6;;Rue des Lavandières;50810;50032;La Barre-de-Semilly;;;-1.033154;49.11252
+50032_0095_00010;10;;Rue des Lavandières;50810;50032;La Barre-de-Semilly;;;-1.032857;49.112527
+50032_b093_00001;1;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.034459;49.114239
+50032_b093_00013;13;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.03542;49.115051
+50032_b016_00003;3;;L’Hotel Ferrier;50810;50032;La Barre-de-Semilly;;;-1.011549;49.10956
+50032_0090_00004;4;;Rue des Lauriers;50810;50032;La Barre-de-Semilly;;;-1.032366;49.114428
+50032_b177_00008;8;;Le Jardin de Haut;50810;50032;La Barre-de-Semilly;;;-1.020985;49.105964
+50032_0200_00001;1;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.034055;49.110776
+50032_0200_00013;13;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.035603;49.110358
+50032_0130_00001;1;;Impasse de la Longue Maison;50810;50032;La Barre-de-Semilly;;;-1.032176;49.119285
+50032_0095_00007_bis;7;bis;Rue des Lavandières;50810;50032;La Barre-de-Semilly;;;-1.033149;49.1129
+50032_b093_00009;9;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.034299;49.115286
+50032_b093_00018;18;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.03691;49.115779
+50032_b093_00025;25;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.03529;49.11659
+50032_b217_00002;2;;Le Moulin d’Arondel;50810;50032;La Barre-de-Semilly;;;-1.023459;49.10012
+50032_0045_00023;23;;Rue de la Duranderie;50810;50032;La Barre-de-Semilly;;;-1.011106;49.114517
+50032_0045_00029;29;;Rue de la Duranderie;50810;50032;La Barre-de-Semilly;;;-1.01054;49.115067
+50032_fle6he_00004;4;;Les Montsjoies;50810;50032;La Barre-de-Semilly;;;-0.993023;49.11105
+50032_tzicwb_00005;5;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.0162;49.103599
+50032_tzicwb_00013;13;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.017443;49.102376
+50032_tzicwb_00006_bis;6;bis;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.016239;49.103958
+50032_tzicwb_00008_bis;8;bis;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.016682;49.104172
+50032_tzicwb_00021_a;21;a;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.019821;49.100548
+50032_3apq4e_00004;4;;Les Fontaines;50810;50032;La Barre-de-Semilly;;;-1.01603;49.115223
+50032_cwx9rp_00001;1;;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.001078;49.112471
+50032_cwx9rp_00001_a;1;a;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.001465;49.112453
+50032_2o880v_00011;11;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.034727;49.100032
+50032_2o880v_00013;13;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.034934;49.099545
+50032_isgdif_00013;13;;La Houesliere;50810;50032;La Barre-de-Semilly;;;-1.025476;49.096784
+50032_e0g7hb_00001;1;;La Cosnetiere;50810;50032;La Barre-de-Semilly;;;-0.995024;49.107132
+50032_e0g7hb_00003;3;;La Cosnetiere;50810;50032;La Barre-de-Semilly;;;-0.995307;49.107041
+50032_e0g7hb_00007;7;;La Cosnetiere;50810;50032;La Barre-de-Semilly;;;-0.994301;49.10781
+50032_dqa69v_00004;4;;Bouligny;50810;50032;La Barre-de-Semilly;;;-1.01522;49.096678
+50032_w8d1t8_00001;1;;La Rougerie;50810;50032;La Barre-de-Semilly;;;-1.020568;49.11746
+50032_4z5ml3_00009;9;;La Percherie;50810;50032;La Barre-de-Semilly;;;-1.015292;49.107401
+50032_f5bcae_00022;22;;La Duranderie;50810;50032;La Barre-de-Semilly;;;-1.010952;49.114274
+50032_08qbu7_00005;5;;Le Jardin;50810;50032;La Barre-de-Semilly;;;-1.020214;49.106282
+50032_08qbu7_00009;9;;Le Jardin;50810;50032;La Barre-de-Semilly;;;-1.020214;49.106282
+50032_e4lzid_00001;1;;La Mouliniere;50810;50032;La Barre-de-Semilly;;;-1.012171;49.099858
+50032_ip4yxf_00002;2;;Le Roussel;50810;50032;La Barre-de-Semilly;;;-1.014866;49.106361
+50032_srsoli_00001;1;;La Fosse;50810;50032;La Barre-de-Semilly;;;-1.005074;49.113696
+50032_0330_00008;8;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.034037;49.115892
+50032_tzicwb_00003;3;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.01569;49.103939
+50032_tzicwb_00007;7;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.016988;49.102928
+50032_tzicwb_00011;11;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.015164;49.101976
+50032_tzicwb_00021;21;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.017434;49.101691
+50032_tzicwb_00028_b;28;b;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.020336;49.101763
+50032_tzicwb_00028_a;28;a;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.019607;49.102297
+50032_cwx9rp_00005;5;;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.002752;49.111872
+50032_cwx9rp_00014;14;;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.001812;49.111685
+50032_2o880v_00017;17;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.034651;49.099277
+50032_2o880v_00021;21;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.035802;49.099468
+50032_2o880v_00003_bis;3;bis;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.034138;49.100225
+50032_e0g7hb_00005;5;;La Cosnetiere;50810;50032;La Barre-de-Semilly;;;-0.994488;49.10792
+50032_e0g7hb_00007_bis;7;bis;La Cosnetiere;50810;50032;La Barre-de-Semilly;;;-0.994725;49.107966
+50032_dqa69v_00006;6;;Bouligny;50810;50032;La Barre-de-Semilly;;;-1.015706;49.096506
+50032_dqa69v_00001_c;1;c;Bouligny;50810;50032;La Barre-de-Semilly;;;-1.0157;49.09644
+50032_jx40zc_00001;1;;Les Chasses;50810;50032;La Barre-de-Semilly;;;-1.002574;49.11524
+50032_jx40zc_00008;8;;Les Chasses;50810;50032;La Barre-de-Semilly;;;-1.002397;49.114716
+50032_4z5ml3_00005;5;;La Percherie;50810;50032;La Barre-de-Semilly;;;-1.015288;49.107447
+50032_f5bcae_00030;30;;La Duranderie;50810;50032;La Barre-de-Semilly;;;-1.010392;49.115228
+50032_08qbu7_00002;2;;Le Jardin;50810;50032;La Barre-de-Semilly;;;-1.02127;49.105911
+50032_08qbu7_00007;7;;Le Jardin;50810;50032;La Barre-de-Semilly;;;-1.020751;49.105803
+50032_e4lzid_00004;4;;La Mouliniere;50810;50032;La Barre-de-Semilly;;;-1.009598;49.100108
+50032_t16eln_00006;6;;Plantrô;50810;50032;La Barre-de-Semilly;;;-1.001383;49.112921
+50032_t16eln_00008;8;;Plantrô;50810;50032;La Barre-de-Semilly;;;-1.002691;49.112466
+50032_t16eln_00022;22;;Plantrô;50810;50032;La Barre-de-Semilly;;;-1.000656;49.1108
+50032_0005_00008;8;;Allée du Clos Renard;50810;50032;La Barre-de-Semilly;;;-1.031276;49.113135
+50032_0005_00012;12;;Allée du Clos Renard;50810;50032;La Barre-de-Semilly;;;-1.031692;49.113052
+50032_0330_00018;18;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.035716;49.116225
+50032_0330_00022;22;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.035817;49.11642
+50032_0065_00001;1;;Rue des Iris;50810;50032;La Barre-de-Semilly;;;-1.026843;49.109134
+50032_b168_00002;2;;Le Hamel Aubree;50810;50032;La Barre-de-Semilly;;;-1.040011;49.100918
+50032_0070_00020;20;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033321;49.115448
+50032_0070_00042;42;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033461;49.118485
+50032_0054_00002;2;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.033157;49.117929
+50032_0054_00014;14;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.032321;49.117522
+50032_0054_00018;18;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.031772;49.117653
+50032_0300_00008;8;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.028901;49.108796
+50032_0300_00019;19;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.018597;49.108792
+50032_b254_00001;1;;Le Quesnot de Bas;50810;50032;La Barre-de-Semilly;;;-1.008537;49.101752
+50032_0080_00001;1;;Rue de la Lande;50810;50032;La Barre-de-Semilly;;;-1.021933;49.109853
+50032_0060_00004;4;;Rue Hippolyte Gancel;50810;50032;La Barre-de-Semilly;;;-1.033922;49.110391
+50032_0330_00006;6;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.034117;49.115999
+50032_0330_00012;12;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.034879;49.115973
+50032_0330_00024;24;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.035933;49.116396
+50032_0065_00003;3;;Rue des Iris;50810;50032;La Barre-de-Semilly;;;-1.026691;49.108894
+50032_0050_00005;5;;Rue des Ecoles;50810;50032;La Barre-de-Semilly;;;-1.034732;49.112351
+50032_0050_00008;8;;Rue des Ecoles;50810;50032;La Barre-de-Semilly;;;-1.035441;49.112107
+50032_b253_00002;2;;Le Quesnot de Haut;50810;50032;La Barre-de-Semilly;;;-1.005564;49.104014
+50032_0150_00011;11;;Avenue de la Mazure;50810;50032;La Barre-de-Semilly;;;-1.031146;49.11201
+50032_0075_00005;5;;Rue du Clos Saint Jean;50810;50032;La Barre-de-Semilly;;;-1.025548;49.109111
+50032_0075_00007;7;;Rue du Clos Saint Jean;50810;50032;La Barre-de-Semilly;;;-1.024906;49.108896
+50032_0075_00012;12;;Rue du Clos Saint Jean;50810;50032;La Barre-de-Semilly;;;-1.025361;49.108815
+50032_0041_00006;6;;Rue du Domaine;50810;50032;La Barre-de-Semilly;;;-1.031736;49.108546
+50032_0100_00006;6;;Rue du Lavoir;50810;50032;La Barre-de-Semilly;;;-1.03421;49.112438
+50032_0200_00010;10;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.035127;49.110618
+50032_0200_00012;12;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.035319;49.110567
+50032_0130_00003;3;;Impasse de la Longue Maison;50810;50032;La Barre-de-Semilly;;;-1.032197;49.119233
+50032_0095_00001;1;;Rue des Lavandières;50810;50032;La Barre-de-Semilly;;;-1.033814;49.112581
+50032_0095_00003;3;;Rue des Lavandières;50810;50032;La Barre-de-Semilly;;;-1.034058;49.112807
+50032_0095_00009;9;;Rue des Lavandières;50810;50032;La Barre-de-Semilly;;;-1.032939;49.112687
+50032_0095_00013;13;;Rue des Lavandières;50810;50032;La Barre-de-Semilly;;;-1.032434;49.112872
+50032_0030_00002;2;;Rue des Bruyeres;50810;50032;La Barre-de-Semilly;;;-1.021027;49.110437
+50032_b093_00004;4;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.034906;49.11426
+50032_b093_00008;8;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.036506;49.114018
+50032_b093_00012;12;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.03543;49.115289
+50032_b093_00019;19;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.03667;49.11554
+50032_b093_00008_c;8;c;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.036255;49.114221
+50032_b016_00002;2;;L’Hotel Ferrier;50810;50032;La Barre-de-Semilly;;;-1.012046;49.109499
+50032_0002_00005;5;;Route de Bayeux;50810;50032;La Barre-de-Semilly;;;-1.037535;49.117865
+50032_a001_00005;5;;Residence des Jardins;50810;50032;La Barre-de-Semilly;;;-1.034372;49.116591
+50032_0150_00007_b;7;b;Avenue de la Mazure;50810;50032;La Barre-de-Semilly;;;-1.03099;49.11248
+50032_0070_00002;2;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033806;49.113819
+50032_0070_00012;12;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033324;49.115361
+50032_0070_00016;16;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.031868;49.115227
+50032_0070_00025;25;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033553;49.118011
+50032_0070_00027;27;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.03353;49.118212
+50032_0070_00031;31;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033796;49.118852
+50032_0070_00025_c;25;c;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033625;49.117618
+50032_0070_00025_b;25;b;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033652;49.117377
+50032_0054_00006;6;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.032772;49.117775
+50032_0054_00008;8;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.032747;49.117492
+50032_0054_00010;10;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.032778;49.11734
+50032_0054_00012;12;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.03262;49.117358
+50032_0054_00016;16;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.032055;49.117583
+50032_b317_00007;7;;Vieux Chemin de Caen;50810;50032;La Barre-de-Semilly;;;-1.012069;49.111782
+50032_0300_00016;16;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.026734;49.109487
+50032_0300_00030;30;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.022886;49.109634
+50032_0080_00003;3;;Rue de la Lande;50810;50032;La Barre-de-Semilly;;;-1.021874;49.110207
+50032_0060_00001;1;;Rue Hippolyte Gancel;50810;50032;La Barre-de-Semilly;;;-1.033989;49.111381
+50032_0075_00009;9;;Rue du Clos Saint Jean;50810;50032;La Barre-de-Semilly;;;-1.024817;49.108899
+50032_0075_00016;16;;Rue du Clos Saint Jean;50810;50032;La Barre-de-Semilly;;;-1.024768;49.108836
+50032_0041_00012;12;;Rue du Domaine;50810;50032;La Barre-de-Semilly;;;-1.031549;49.108212
+50032_0200_00002;2;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.034014;49.110853
+50032_0200_00019;19;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.036715;49.110486
+50032_0200_00023;23;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.036552;49.11072
+50032_0200_00027;27;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.035895;49.110986
+50032_0030_00006;6;;Rue des Bruyeres;50810;50032;La Barre-de-Semilly;;;-1.021097;49.110094
+50032_b093_00006;6;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.035045;49.114247
+50032_b093_00024;24;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.035663;49.116663
+50032_b016_00001_a;1;a;L’Hotel Ferrier;50810;50032;La Barre-de-Semilly;;;-1.011706;49.110164
+50032_b223_00002;2;;Le Parc de Haut;50810;50032;La Barre-de-Semilly;;;-1.034937;49.102405
+50032_0250_00001;1;;Le Chemin des Racines;50810;50032;La Barre-de-Semilly;;;-1.018679;49.109432
+50032_0002_00003_a;3;a;Route de Bayeux;50810;50032;La Barre-de-Semilly;;;-1.036393;49.117964
+50032_a001_00001;1;;Residence des Jardins;50810;50032;La Barre-de-Semilly;;;-1.034256;49.116568
+50032_tzicwb_00009;9;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.017119;49.102791
+50032_tzicwb_00017;17;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.017473;49.101979
+50032_tzicwb_00007_b;7;b;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.016406;49.10338
+50032_cwx9rp_00003;3;;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.002367;49.112069
+50032_cwx9rp_00007;7;;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.003611;49.111507
+50032_cwx9rp_00010;10;;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.003019;49.111897
+50032_cwx9rp_00018;18;;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.000154;49.111374
+50032_cwx9rp_00001_c;1;c;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.002078;49.11203
+50032_isgdif_00005;5;;La Houesliere;50810;50032;La Barre-de-Semilly;;;-1.027497;49.097275
+50032_isgdif_00017;17;;La Houesliere;50810;50032;La Barre-de-Semilly;;;-1.024933;49.097793
+50032_dqa69v_00002;2;;Bouligny;50810;50032;La Barre-de-Semilly;;;-1.014955;49.096785
+50032_dqa69v_00008;8;;Bouligny;50810;50032;La Barre-de-Semilly;;;-1.016196;49.09636
+50032_dqa69v_00016;16;;Bouligny;50810;50032;La Barre-de-Semilly;;;-1.017508;49.09587
+50032_w8d1t8_00003;3;;La Rougerie;50810;50032;La Barre-de-Semilly;;;-1.020711;49.11736
+50032_jx40zc_00002_a;2;a;Les Chasses;50810;50032;La Barre-de-Semilly;;;-1.002522;49.115172
+50032_4z5ml3_00001;1;;La Percherie;50810;50032;La Barre-de-Semilly;;;-1.016453;49.108052
+50032_f5bcae_00026;26;;La Duranderie;50810;50032;La Barre-de-Semilly;;;-1.010261;49.115421
+50032_j7y9kf_00001;1;;La Motte;50810;50032;La Barre-de-Semilly;;;-1.032873;49.10835
+50032_ip4yxf_00006;6;;Le Roussel;50810;50032;La Barre-de-Semilly;;;-1.013593;49.104676
+50032_83tyau_00001;1;;Le Pamerot;50810;50032;La Barre-de-Semilly;;;-1.007807;49.111172
+50032_t16eln_00012;12;;Plantrô;50810;50032;La Barre-de-Semilly;;;-1.002079;49.111646
+50032_0005_00003;3;;Allée du Clos Renard;50810;50032;La Barre-de-Semilly;;;-1.031707;49.112526
+50032_0330_00010;10;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.034892;49.115879
+50032_0330_00014;14;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.034987;49.115832
+50032_0330_00016;16;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.035002;49.115967
+50032_0330_00020;20;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.035816;49.116421
+50032_0050_00001;1;;Rue des Ecoles;50810;50032;La Barre-de-Semilly;;;-1.034326;49.112412
+50032_0150_00007;7;;Avenue de la Mazure;50810;50032;La Barre-de-Semilly;;;-1.030459;49.112307
+50032_0150_00016;16;;Avenue de la Mazure;50810;50032;La Barre-de-Semilly;;;-1.030165;49.111623
+50032_0070_00009;9;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033653;49.114871
+50032_0070_00023;23;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033651;49.117243
+50032_0070_00029;29;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033664;49.118686
+50032_0070_00046;46;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.032123;49.115225
+50032_b317_00002;2;;Vieux Chemin de Caen;50810;50032;La Barre-de-Semilly;;;-1.024243;49.110107
+50032_b317_00012;12;;Vieux Chemin de Caen;50810;50032;La Barre-de-Semilly;;;-1.019648;49.110835
+50032_0300_00013;13;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.020511;49.109346
+50032_0300_00036;36;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.021791;49.109523
+50032_b254_00003;3;;Le Quesnot de Bas;50810;50032;La Barre-de-Semilly;;;-1.008585;49.101794
+50032_0080_00005;5;;Rue de la Lande;50810;50032;La Barre-de-Semilly;;;-1.021826;49.110476
+50032_0075_00003;3;;Rue du Clos Saint Jean;50810;50032;La Barre-de-Semilly;;;-1.025642;49.109231
+50032_0041_00008;8;;Rue du Domaine;50810;50032;La Barre-de-Semilly;;;-1.031814;49.108467
+50032_0041_00010;10;;Rue du Domaine;50810;50032;La Barre-de-Semilly;;;-1.031754;49.108437
+50032_0041_00014;14;;Rue du Domaine;50810;50032;La Barre-de-Semilly;;;-1.031434;49.108221
+50032_0100_00004;4;;Rue du Lavoir;50810;50032;La Barre-de-Semilly;;;-1.03425;49.112718
+50032_0100_00002_a;2;a;Rue du Lavoir;50810;50032;La Barre-de-Semilly;;;-1.034396;49.112954
+50032_0200_00004;4;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.03425;49.110801
+50032_0200_00006;6;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.034518;49.110742
+50032_0200_00031;31;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.035581;49.111061
+50032_0130_00005;5;;Impasse de la Longue Maison;50810;50032;La Barre-de-Semilly;;;-1.032259;49.118901
+50032_0095_00005;5;;Rue des Lavandières;50810;50032;La Barre-de-Semilly;;;-1.033311;49.112564
+50032_0095_00007;7;;Rue des Lavandières;50810;50032;La Barre-de-Semilly;;;-1.033093;49.112634
+50032_0095_00011;11;;Rue des Lavandières;50810;50032;La Barre-de-Semilly;;;-1.032668;49.112762
+50032_b093_00010;10;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.03485;49.115119
+50032_b093_00014;14;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.036031;49.114994
+50032_b093_00017;17;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.03665;49.115378
+50032_a001_00003;3;;Residence des Jardins;50810;50032;La Barre-de-Semilly;;;-1.034363;49.116576
+50032_0045_00024;24;;Rue de la Duranderie;50810;50032;La Barre-de-Semilly;;;-1.010539;49.115014
+50032_b055_00003;3;;La Longue Maison;50810;50032;La Barre-de-Semilly;;;-1.032195;49.119234
+50032_tzicwb_00001;1;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.014694;49.104087
+50032_tzicwb_00019;19;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.016811;49.10194
+50032_tzicwb_00024;24;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.01834;49.10048
+50032_tzicwb_00026;26;;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.019213;49.100562
+50032_tzicwb_00021_b;21;b;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.017134;49.101434
+50032_tzicwb_00022_a;22;a;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.01747;49.100816
+50032_tzicwb_00021_c;21;c;Le Ruffey;50810;50032;La Barre-de-Semilly;;;-1.016871;49.101121
+50032_3apq4e_00001;1;;Les Fontaines;50810;50032;La Barre-de-Semilly;;;-1.016134;49.115444
+50032_cwx9rp_00022;22;;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.000651;49.110798
+50032_cwx9rp_00001_b;1;b;Plantrot;50810;50032;La Barre-de-Semilly;;;-1.00185;49.11228
+50032_2o880v_00003;3;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.033994;49.10031
+50032_2o880v_00006;6;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.034333;49.100222
+50032_2o880v_00009;9;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.034863;49.099919
+50032_2o880v_00031;31;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.036464;49.099196
+50032_2o880v_00035;35;;Le Parc;50810;50032;La Barre-de-Semilly;;;-1.037224;49.098922
+50032_isgdif_00007;7;;La Houesliere;50810;50032;La Barre-de-Semilly;;;-1.026583;49.097088
+50032_isgdif_00010;10;;La Houesliere;50810;50032;La Barre-de-Semilly;;;-1.026805;49.096329
+50032_dqa69v_00001_b;1;b;Bouligny;50810;50032;La Barre-de-Semilly;;;-1.01525;49.096596
+50032_jx40zc_00003;3;;Les Chasses;50810;50032;La Barre-de-Semilly;;;-1.0019;49.115126
+50032_jx40zc_00005;5;;Les Chasses;50810;50032;La Barre-de-Semilly;;;-1.003631;49.117047
+50032_4z5ml3_00014;14;;La Percherie;50810;50032;La Barre-de-Semilly;;;-1.015202;49.10685
+50032_f5bcae_00024;24;;La Duranderie;50810;50032;La Barre-de-Semilly;;;-1.01057;49.115016
+50032_t16eln_00001;1;;Plantrô;50810;50032;La Barre-de-Semilly;;;-1.001073;49.11247
+50032_t16eln_00003;3;;Plantrô;50810;50032;La Barre-de-Semilly;;;-1.002374;49.112076
+50032_t16eln_00016;16;;Plantrô;50810;50032;La Barre-de-Semilly;;;-1.000698;49.111802
+50032_0005_00001;1;;Allée du Clos Renard;50810;50032;La Barre-de-Semilly;;;-1.031761;49.112512
+50032_0005_00005;5;;Allée du Clos Renard;50810;50032;La Barre-de-Semilly;;;-1.031741;49.112963
+50032_0330_00002;2;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.033651;49.115927
+50032_0330_00004;4;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.034906;49.114259
+50032_0330_00028;28;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.035981;49.115751
+50032_0330_00032;32;;Rue Jean Turmeau;50810;50032;La Barre-de-Semilly;;;-1.036584;49.1161
+50032_0065_00008;8;;Rue des Iris;50810;50032;La Barre-de-Semilly;;;-1.02674;49.109063
+50032_b168_00005;5;;Le Hamel Aubree;50810;50032;La Barre-de-Semilly;;;-1.03973;49.099319
+50032_0050_00003;3;;Rue des Ecoles;50810;50032;La Barre-de-Semilly;;;-1.034528;49.112379
+50032_0150_00002;2;;Avenue de la Mazure;50810;50032;La Barre-de-Semilly;;;-1.033693;49.111768
+50032_0070_00004;4;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033714;49.114111
+50032_0070_00006;6;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033701;49.114304
+50032_0070_00034;34;;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033561;49.117468
+50032_0070_00007_d;7;d;Rue des Jardins;50810;50032;La Barre-de-Semilly;;;-1.033995;49.114675
+50032_0054_00004;4;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.033078;49.117817
+50032_0054_00020;20;;Rue de la Forge;50810;50032;La Barre-de-Semilly;;;-1.031702;49.117693
+50032_0300_00002;2;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.029348;49.109227
+50032_0300_00005;5;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.022734;49.109697
+50032_0300_00010;10;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.028102;49.109329
+50032_0300_00026;26;;Route de Saint-jean;50810;50032;La Barre-de-Semilly;;;-1.025214;49.109668
+50032_0060_00008;8;;Rue Hippolyte Gancel;50810;50032;La Barre-de-Semilly;;;-1.033574;49.110327
+50032_b017_00001;1;;L’Hotel Toupin;50810;50032;La Barre-de-Semilly;;;-0.989779;49.114112
+50032_0075_00001;1;;Rue du Clos Saint Jean;50810;50032;La Barre-de-Semilly;;;-1.025393;49.108792
+50032_0041_00002;2;;Rue du Domaine;50810;50032;La Barre-de-Semilly;;;-1.032127;49.10923
+50032_0041_00004;4;;Rue du Domaine;50810;50032;La Barre-de-Semilly;;;-1.031898;49.109023
+50032_0041_00022;22;;Rue du Domaine;50810;50032;La Barre-de-Semilly;;;-1.029883;49.108751
+50032_0100_00002;2;;Rue du Lavoir;50810;50032;La Barre-de-Semilly;;;-1.034288;49.1128
+50032_0200_00008;8;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.034798;49.110684
+50032_0200_00014;14;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.035632;49.110478
+50032_0200_00016;16;;Rue des Pommiers;50810;50032;La Barre-de-Semilly;;;-1.036131;49.110516
+50032_0130_00007;7;;Impasse de la Longue Maison;50810;50032;La Barre-de-Semilly;;;-1.032134;49.11857
+50032_0051_00001;1;;Chemin des Fondraies;50810;50032;La Barre-de-Semilly;;;-1.019839;49.110846
+50032_0051_00004;4;;Chemin des Fondraies;50810;50032;La Barre-de-Semilly;;;-1.019624;49.109696
+50032_b093_00002;2;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.034495;49.114309
+50032_b093_00026;26;;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.03529;49.11632
+50032_b093_00008_b;8;b;Le Blanc Pignon;50810;50032;La Barre-de-Semilly;;;-1.036255;49.114221
+50032_b016_00004;4;;L’Hotel Ferrier;50810;50032;La Barre-de-Semilly;;;-1.012194;49.109187
+50032_0002_00001;1;;Route de Bayeux;50810;50032;La Barre-de-Semilly;;;-1.034937;49.118666
+50032_0090_00003;3;;Rue des Lauriers;50810;50032;La Barre-de-Semilly;;;-1.032709;49.114066
+50032_0045_00022;22;;Rue de la Duranderie;50810;50032;La Barre-de-Semilly;;;-1.010913;49.114262
+50032_0045_00026;26;;Rue de la Duranderie;50810;50032;La Barre-de-Semilly;;;-1.010245;49.115424
+50032_0045_00030;30;;Rue de la Duranderie;50810;50032;La Barre-de-Semilly;;;-1.009707;49.115032
+50032_b316_00002;2;;Plantrot de Bas;50810;50032;La Barre-de-Semilly;;;-1.001832;49.113696

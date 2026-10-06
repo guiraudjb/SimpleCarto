@@ -1,0 +1,938 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+86046_0008_00031;31;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536741;46.768605
+86046_0061_00017;17;;Impasse Hélène Boucher;86530;86046;Cenon-sur-Vienne;;;0.545036;46.769884
+86046_0115_00005;5;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.535944;46.774678
+86046_0070_00004;4;;Rue de Lorraine;86530;86046;Cenon-sur-Vienne;;;0.535808;46.771359
+86046_0057_00005;5;;Rue Haute des Métairies;86530;86046;Cenon-sur-Vienne;;;0.519492;46.750877
+86046_0012_00008;8;;Rue Aragon;86530;86046;Cenon-sur-Vienne;;;0.546012;46.770022
+86046_0063_00014;14;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.542909;46.770121
+86046_0087_00009;9;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.54558;46.769341
+86046_0068_00014;14;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.533566;46.772712
+86046_0043_00014;14;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.524229;46.753622
+86046_0095_00005;5;;Place du Poitou;86530;86046;Cenon-sur-Vienne;;;0.539415;46.775349
+86046_0008_00048;48;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536533;46.766607
+86046_ubocfe_00011;11;;Allée du Château des Sources;86530;86046;Cenon-sur-Vienne;;;0.54291;46.774161
+86046_0095_00011;11;;Place du Poitou;86530;86046;Cenon-sur-Vienne;;;0.539731;46.775526
+86046_0007_00003;3;;Impasse Albert Camus;86530;86046;Cenon-sur-Vienne;;;0.546424;46.770689
+86046_0068_00010;10;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.533894;46.772864
+86046_0055_00048;48;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.532842;46.769812
+86046_0079_00006;6;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.544977;46.771628
+86046_0043_00038;38;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.526269;46.752037
+86046_9yu8it_00008;8;;Les Rabottes;86530;86046;Cenon-sur-Vienne;;;0.528645;46.74461
+86046_0054_00019;19;;Impasse de Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.534606;46.77185
+86046_fdsov5_00012;12;;La Revoute;86530;86046;Cenon-sur-Vienne;;;0.538776;46.758755
+86046_0087_00026;26;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.545608;46.769224
+86046_0061_00002;2;;Impasse Hélène Boucher;86530;86046;Cenon-sur-Vienne;;;0.543987;46.769266
+86046_0030_00004;4;;Rue de Bourgogne;86530;86046;Cenon-sur-Vienne;;;0.537017;46.773165
+86046_0092_00002;2;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.543602;46.770185
+86046_0084_00004;4;;Place Michel Gaudineau;86530;86046;Cenon-sur-Vienne;;;0.536326;46.773736
+86046_0067_00015;15;;Route des Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.526911;46.755454
+86046_0043_00035;35;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.526642;46.752202
+86046_0088_00062;62;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.529247;46.75495
+86046_0025_00006;6;;Rue du Berry;86530;86046;Cenon-sur-Vienne;;;0.538481;46.773058
+86046_0015_00010;10;;Rue d'Artois;86530;86046;Cenon-sur-Vienne;;;0.539256;46.774639
+86046_0092_00005;5;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.54402;46.770342
+86046_0008_00099;99;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.537409;46.764249
+86046_0008_00035;35;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536706;46.768395
+86046_0115_00027;27;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.534576;46.776857
+86046_0085_00012;12;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.537593;46.775149
+86046_0095_00015;15;;Place du Poitou;86530;86046;Cenon-sur-Vienne;;;0.539737;46.775391
+86046_0068_00007;7;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.532053;46.771306
+86046_0043_00018;18;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.524412;46.753157
+86046_0090_00013;13;;Rue de Picardie;86530;86046;Cenon-sur-Vienne;;;0.538966;46.774483
+86046_0047_00019;19;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.544493;46.771097
+86046_0035_00054;54;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.529816;46.776026
+86046_0008_00038;38;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536524;46.767977
+86046_0035_00050;50;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.530702;46.776214
+86046_0047_00012;12;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.543657;46.771375
+86046_0113_00009;9;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534302;46.769672
+86046_0079_00018;18;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.546942;46.770961
+86046_0130_00005;5;;Square Yves Montand;86530;86046;Cenon-sur-Vienne;;;0.537997;46.775198
+86046_0035_00055;55;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.531691;46.776089
+86046_0055_00035;35;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.533209;46.770105
+86046_0043_00002;2;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.523484;46.75429
+86046_0012_00001;1;;Rue Aragon;86530;86046;Cenon-sur-Vienne;;;0.545975;46.769566
+86046_0092_00015;15;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.544529;46.770503
+86046_0035_00003;3;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.538355;46.775606
+86046_fdsov5_00025;25;;La Revoute;86530;86046;Cenon-sur-Vienne;;;0.53958;46.757271
+86046_0113_00024;24;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.53473;46.768112
+86046_0008_00022;22;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536673;46.770834
+86046_0008_00097;97;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.537391;46.764378
+86046_9yu8it_00010;10;;Les Rabottes;86530;86046;Cenon-sur-Vienne;;;0.528655;46.744403
+86046_0039_00005;5;;Rue Charles Martel;86530;86046;Cenon-sur-Vienne;;;0.534008;46.768003
+86046_ngxly1_00001;1;;Bellevue;86530;86046;Cenon-sur-Vienne;;;0.520541;46.747549
+86046_0039_00004;4;;Rue Charles Martel;86530;86046;Cenon-sur-Vienne;;;0.534029;46.768296
+86046_0055_00050;50;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.532822;46.769718
+86046_0043_00004;4;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.523735;46.754108
+86046_0008_00062;62;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536756;46.76538
+86046_b064_00004;4;;La Sablière de Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.529257;46.751983
+86046_0088_00064;64;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.528847;46.754853
+86046_0043_00040;40;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.526558;46.751994
+86046_0114_00001_bis;1;bis;Impasse de Touraine;86530;86046;Cenon-sur-Vienne;;;0.534407;46.7766
+86046_0012_00010;10;;Rue Aragon;86530;86046;Cenon-sur-Vienne;;;0.54575;46.770177
+86046_0081_00018;18;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.535213;46.769257
+86046_0109_00014;14;;Impasse Simone Signoret;86530;86046;Cenon-sur-Vienne;;;0.545141;46.772617
+86046_0111_00032;32;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547282;46.769961
+86046_0079_00008;8;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.545175;46.77151
+86046_0008_00093;93;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.53724;46.764736
+86046_0035_00053;53;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.531817;46.776026
+86046_0045_00004;4;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.532653;46.770227
+86046_0087_00022;22;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.545101;46.769121
+86046_0090_00011;11;;Rue de Picardie;86530;86046;Cenon-sur-Vienne;;;0.538672;46.774509
+86046_0055_00023;23;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.533416;46.770977
+86046_0092_00008;8;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.544298;46.77027
+86046_0070_00001;1;;Rue de Lorraine;86530;86046;Cenon-sur-Vienne;;;0.536156;46.771258
+86046_0113_00003;3;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534938;46.769045
+86046_0092_00009;9;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.54424;46.770392
+86046_0088_00012;12;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.537298;46.756739
+86046_0130_00003;3;;Square Yves Montand;86530;86046;Cenon-sur-Vienne;;;0.538147;46.7752
+86046_0111_00021;21;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547103;46.769935
+86046_0111_00038;38;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547278;46.769485
+86046_0025_00009;9;;Rue du Berry;86530;86046;Cenon-sur-Vienne;;;0.538472;46.773258
+86046_0113_00002;2;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534793;46.769923
+86046_0010_00023;23;;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.529729;46.7771
+86046_0007_00011;11;;Impasse Albert Camus;86530;86046;Cenon-sur-Vienne;;;0.546044;46.770458
+86046_0008_00037;37;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536712;46.768256
+86046_0111_00015;15;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547255;46.771177
+86046_0043_00027;27;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.525927;46.75264
+86046_0113_00026;26;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534825;46.76786
+86046_0087_00007;7;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.545205;46.769268
+86046_0113_00016;16;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534226;46.769091
+86046_0035_00007;7;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.538053;46.77554
+86046_0083_00054;54;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.520299;46.750881
+86046_0075_00010;10;;Rue du Maine;86530;86046;Cenon-sur-Vienne;;;0.531656;46.776782
+86046_0008_00011;11;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.537855;46.771998
+86046_0092_00013;13;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.544453;46.770468
+86046_0064_00005;5;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.533353;46.76781
+86046_0085_00028;28;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.537333;46.775185
+86046_0064_00018;18;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.533515;46.766962
+86046_0085_00009;9;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.536993;46.775447
+86046_0020_00001;1;;Rue du Béarn;86530;86046;Cenon-sur-Vienne;;;0.539306;46.773893
+86046_0087_00015;15;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.546723;46.769452
+86046_0054_00008;8;;Impasse de Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.535001;46.771761
+86046_mtlhf0_00001;1;;Route de Fréfoir;86530;86046;Cenon-sur-Vienne;;;0.541883;46.772225
+86046_0035_00001_bis;1;bis;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.538342;46.77564
+86046_0068_00016;16;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.533414;46.7725
+86046_0111_00028;28;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547296;46.770395
+86046_0079_00005;5;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.544818;46.771886
+86046_0083_00050;50;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.520634;46.750984
+86046_0055_00042;42;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.533066;46.770691
+86046_0111_00019;19;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547095;46.770526
+86046_0043_00007;7;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.524064;46.753987
+86046_0092_00014;14;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.544911;46.770566
+86046_0008_00004;4;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536801;46.773171
+86046_0043_00024;24;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.524678;46.752696
+86046_0075_00006;6;;Rue du Maine;86530;86046;Cenon-sur-Vienne;;;0.532094;46.777156
+86046_0130_00009;9;;Square Yves Montand;86530;86046;Cenon-sur-Vienne;;;0.538508;46.775194
+86046_0007_00014;14;;Impasse Albert Camus;86530;86046;Cenon-sur-Vienne;;;0.546407;46.770365
+86046_0035_00057;57;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.531035;46.776208
+86046_0008_00101;101;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.537474;46.764102
+86046_0075_00004;4;;Rue du Maine;86530;86046;Cenon-sur-Vienne;;;0.532344;46.777362
+86046_0060_00014;14;;Rue de Guyenne;86530;86046;Cenon-sur-Vienne;;;0.530649;46.77424
+86046_0081_00013;13;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.535579;46.769804
+86046_0063_00001;1;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.544126;46.772801
+86046_0114_00015;15;;Impasse de Touraine;86530;86046;Cenon-sur-Vienne;;;0.533527;46.776424
+86046_0063_00013;13;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.543089;46.769635
+86046_ubocfe_00001;1;;Allée du Château des Sources;86530;86046;Cenon-sur-Vienne;;;0.542555;46.774272
+86046_0088_00027;27;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.534428;46.756145
+86046_0090_00004_bis;4;bis;Rue de Picardie;86530;86046;Cenon-sur-Vienne;;;0.538081;46.774099
+86046_0068_00015;15;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.531793;46.770948
+86046_fdsov5_00021;21;;La Revoute;86530;86046;Cenon-sur-Vienne;;;0.539456;46.757654
+86046_0015_00006;6;;Rue d'Artois;86530;86046;Cenon-sur-Vienne;;;0.539328;46.774422
+86046_0061_00011;11;;Impasse Hélène Boucher;86530;86046;Cenon-sur-Vienne;;;0.544187;46.76973
+86046_0008_00001;1;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536946;46.772985
+86046_0010_00014;14;;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.529962;46.776901
+86046_0100_00003;3;;Rue de Provence;86530;86046;Cenon-sur-Vienne;;;0.537732;46.774751
+86046_0084_00015;15;;Place Michel Gaudineau;86530;86046;Cenon-sur-Vienne;;;0.537181;46.774181
+86046_0111_00018;18;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547561;46.771275
+86046_0095_00004;4;;Place du Poitou;86530;86046;Cenon-sur-Vienne;;;0.539055;46.775172
+86046_0050_00002;2;;Rue de Flandre;86530;86046;Cenon-sur-Vienne;;;0.539392;46.775169
+86046_0010_00017;17;;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.529504;46.776802
+86046_0081_00006;6;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.535771;46.770402
+86046_0035_00074;74;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.529075;46.775905
+86046_0092_00023;23;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.544859;46.770724
+86046_0055_00008;8;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.535567;46.773678
+86046_0114_00001;1;;Impasse de Touraine;86530;86046;Cenon-sur-Vienne;;;0.534647;46.776643
+86046_0088_00066;66;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.528512;46.75473
+86046_0100_00004;4;;Rue de Provence;86530;86046;Cenon-sur-Vienne;;;0.537816;46.774688
+86046_0092_00019;19;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.544705;46.770606
+86046_0063_00012;12;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.542974;46.770253
+86046_0047_00016;16;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.543532;46.771241
+86046_0008_00063;63;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536719;46.766552
+86046_0012_00007;7;;Rue Aragon;86530;86046;Cenon-sur-Vienne;;;0.545189;46.770142
+86046_0092_00006;6;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.544009;46.770196
+86046_0047_00015;15;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.54445;46.771285
+86046_0092_00016;16;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.545049;46.770687
+86046_0083_00062;62;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.520097;46.750515
+86046_ubocfe_00006;6;;Allée du Château des Sources;86530;86046;Cenon-sur-Vienne;;;0.541744;46.773074
+86046_0066_00001;1;;Rue Lamartine;86530;86046;Cenon-sur-Vienne;;;0.546385;46.771938
+86046_0095_00007;7;;Place du Poitou;86530;86046;Cenon-sur-Vienne;;;0.539531;46.775576
+86046_0122_00021;21;;Route d’Isle;86530;86046;Cenon-sur-Vienne;;;0.542871;46.74693
+86046_0111_00026;26;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547272;46.770583
+86046_mtlhf0_00005;5;;Route de Fréfoir;86530;86046;Cenon-sur-Vienne;;;0.541447;46.77103
+86046_0008_00072;72;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.53717;46.764273
+86046_0035_00015;15;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.536753;46.775549
+86046_0113_00028;28;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534952;46.767731
+86046_0081_00019;19;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.536349;46.769461
+86046_0063_00008;8;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.543898;46.772212
+86046_0107_00001;1;;Impasse Simone de Beauvoir;86530;86046;Cenon-sur-Vienne;;;0.545986;46.771775
+86046_0113_00027;27;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534706;46.767404
+86046_0088_00041;41;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.531584;46.755483
+86046_ubocfe_00007;7;;Allée du Château des Sources;86530;86046;Cenon-sur-Vienne;;;0.543179;46.774294
+86046_0008_00034;34;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536527;46.768309
+86046_0087_00004;4;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.542688;46.768817
+86046_0064_00026;26;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.534348;46.767056
+86046_0061_00005;5;;Impasse Hélène Boucher;86530;86046;Cenon-sur-Vienne;;;0.543851;46.769525
+86046_0113_00025;25;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.535007;46.767436
+86046_0083_00004;4;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.525506;46.757071
+86046_0045_00021;21;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.531337;46.770068
+86046_0114_00007;7;;Impasse de Touraine;86530;86046;Cenon-sur-Vienne;;;0.534019;46.776518
+86046_0113_00022;22;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534702;46.76819
+86046_0083_00010;10;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.524581;46.756057
+86046_b064_00006;6;;La Sablière de Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.529633;46.751852
+86046_0035_00046;46;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.530922;46.77629
+86046_0008_00057;57;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536772;46.767016
+86046_0085_00005;5;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.53696;46.775156
+86046_0057_00006;6;;Rue Haute des Métairies;86530;86046;Cenon-sur-Vienne;;;0.51987;46.750779
+86046_0010_00012;12;;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.530091;46.776763
+86046_73ik6c_00019;19;;Chemin des Pontereaux;86530;86046;Cenon-sur-Vienne;;;0.545158;46.781061
+86046_0043_00032;32;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.525534;46.752573
+86046_0055_00004;4;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.535965;46.773832
+86046_0090_00014;14;;Rue de Picardie;86530;86046;Cenon-sur-Vienne;;;0.538783;46.774417
+86046_0097_00012;12;;Rue Molé;86530;86046;Cenon-sur-Vienne;;;0.533267;46.776706
+86046_0068_00012;12;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.533813;46.772803
+86046_0012_00006;6;;Rue Aragon;86530;86046;Cenon-sur-Vienne;;;0.546105;46.76993
+86046_0084_00017;17;;Place Michel Gaudineau;86530;86046;Cenon-sur-Vienne;;;0.537154;46.774265
+86046_0081_00016;16;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.535583;46.769458
+86046_0010_00004;4;;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.530548;46.776755
+86046_0007_00008;8;;Impasse Albert Camus;86530;86046;Cenon-sur-Vienne;;;0.546004;46.770687
+86046_0068_00019;19;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.531167;46.770708
+86046_0015_00005;5;;Rue d'Artois;86530;86046;Cenon-sur-Vienne;;;0.539039;46.773907
+86046_fdsov5_00015;15;;La Revoute;86530;86046;Cenon-sur-Vienne;;;0.539805;46.758416
+86046_0063_00022;22;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.542895;46.769405
+86046_0015_00015;15;;Rue d'Artois;86530;86046;Cenon-sur-Vienne;;;0.539111;46.774778
+86046_0055_00025;25;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.53341;46.770882
+86046_0035_00002;2;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.538674;46.775824
+86046_0045_00014;14;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.531208;46.770457
+86046_0088_00017;17;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.537423;46.756614
+86046_0067_00064;64;;Route des Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.527273;46.751406
+86046_0008_00061;61;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536703;46.766789
+86046_0055_00014;14;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.535114;46.773447
+86046_0015_00003;3;;Rue d'Artois;86530;86046;Cenon-sur-Vienne;;;0.539305;46.774157
+86046_0055_00010;10;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.535433;46.773597
+86046_0008_00051;51;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536704;46.767315
+86046_0084_00003;3;;Place Michel Gaudineau;86530;86046;Cenon-sur-Vienne;;;0.536769;46.774237
+86046_0079_00013;13;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.546149;46.771438
+86046_0088_00004;4;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.538871;46.756965
+86046_0064_00022;22;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.534233;46.766952
+86046_0122_00029;29;;Route d’Isle;86530;86046;Cenon-sur-Vienne;;;0.544355;46.746812
+86046_0007_00009;9;;Impasse Albert Camus;86530;86046;Cenon-sur-Vienne;;;0.545931;46.770601
+86046_0115_00011;11;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.535063;46.775902
+86046_0008_00036;36;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536541;46.768169
+86046_0079_00009;9;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.545308;46.771586
+86046_0087_00016;16;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.544398;46.769026
+86046_0083_00018;18;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.523555;46.754894
+86046_0088_00048;48;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.531274;46.755516
+86046_0055_00011;11;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.536228;46.773504
+86046_0074_00014;14;;Impasse du Maine;86530;86046;Cenon-sur-Vienne;;;0.53066;46.777235
+86046_fdsov5_00007;7;;La Revoute;86530;86046;Cenon-sur-Vienne;;;0.540098;46.758842
+86046_0115_00007;7;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.535772;46.774866
+86046_0081_00017;17;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.536171;46.769477
+86046_0083_00037;37;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.521635;46.75208
+86046_0025_00007;7;;Rue du Berry;86530;86046;Cenon-sur-Vienne;;;0.53816;46.773361
+86046_0109_00007;7;;Impasse Simone Signoret;86530;86046;Cenon-sur-Vienne;;;0.544768;46.772449
+86046_0113_00019;19;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534881;46.768306
+86046_0054_00002;2;;Impasse de Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.533817;46.771636
+86046_0107_00017;17;;Impasse Simone de Beauvoir;86530;86046;Cenon-sur-Vienne;;;0.547333;46.772461
+86046_0088_00068;68;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.528371;46.754618
+86046_0008_00049;49;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536702;46.767409
+86046_0092_00010;10;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.544466;46.770309
+86046_0008_00040;40;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536528;46.767572
+86046_0043_00029;29;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.526148;46.752755
+86046_0057_00009;9;;Rue Haute des Métairies;86530;86046;Cenon-sur-Vienne;;;0.519012;46.751062
+86046_0111_00036;36;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547283;46.769553
+86046_0068_00021;21;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.530739;46.770479
+86046_0064_00028;28;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.534336;46.767362
+86046_0045_00009;9;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.53202;46.769461
+86046_ubocfe_00012;12;;Allée du Château des Sources;86530;86046;Cenon-sur-Vienne;;;0.542165;46.772659
+86046_0113_00020;20;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534597;46.768383
+86046_0083_00006;6;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.525177;46.756725
+86046_0055_00009;9;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.536212;46.773542
+86046_0115_00003;3;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.536065;46.774474
+86046_0047_00018;18;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.543498;46.771217
+86046_0085_00008;8;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.5374;46.775118
+86046_0115_00009;9;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.535465;46.775191
+86046_0122_00041;41;;Route d’Isle;86530;86046;Cenon-sur-Vienne;;;0.545168;46.747601
+86046_0090_00002;2;;Rue de Picardie;86530;86046;Cenon-sur-Vienne;;;0.537676;46.774125
+86046_0079_00001;1;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.544544;46.772062
+86046_0008_00056;56;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536608;46.76581
+86046_0008_00002;2;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536838;46.773321
+86046_0041_00001;1;;Square Claude Nougaro;86530;86046;Cenon-sur-Vienne;;;0.537425;46.774418
+86046_0122_00037;37;;Route d’Isle;86530;86046;Cenon-sur-Vienne;;;0.545807;46.74741
+86046_0030_00007;7;;Rue de Bourgogne;86530;86046;Cenon-sur-Vienne;;;0.53614;46.772756
+86046_0100_00016;16;;Rue de Provence;86530;86046;Cenon-sur-Vienne;;;0.538616;46.77508
+86046_0066_00002;2;;Rue Lamartine;86530;86046;Cenon-sur-Vienne;;;0.546349;46.771853
+86046_0035_00011_bis;11;bis;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.537295;46.775599
+86046_0010_00009;9;;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.529729;46.776793
+86046_0035_00061;61;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.530152;46.77598
+86046_0088_00021;21;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.536316;46.756455
+86046_0081_00014;14;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.535412;46.769786
+86046_0008_00076;76;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.537314;46.76394
+86046_0100_00005;5;;Rue de Provence;86530;86046;Cenon-sur-Vienne;;;0.537892;46.774873
+86046_0045_00006;6;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.532529;46.770238
+86046_0063_00005;5;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.544072;46.772439
+86046_0063_00009;9;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.543059;46.770025
+86046_0074_00012;12;;Impasse du Maine;86530;86046;Cenon-sur-Vienne;;;0.531015;46.777004
+86046_ngxly1_00002;2;;Bellevue;86530;86046;Cenon-sur-Vienne;;;0.521637;46.747728
+86046_0015_00011;11;;Rue d'Artois;86530;86046;Cenon-sur-Vienne;;;0.539202;46.774516
+86046_0047_00013;13;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.544405;46.771304
+86046_0079_00007;7;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.54509;46.771718
+86046_0067_00004;4;;Route des Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.526817;46.758329
+86046_0055_00006;6;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.535778;46.773742
+86046_0090_00016;16;;Rue de Picardie;86530;86046;Cenon-sur-Vienne;;;0.538924;46.774395
+86046_0111_00004;4;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.548287;46.772293
+86046_0025_00001;1;;Rue du Berry;86530;86046;Cenon-sur-Vienne;;;0.537067;46.773781
+86046_0008_00047;47;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.53674;46.767646
+86046_0088_00056;56;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.530298;46.755229
+86046_0084_00007;7;;Place Michel Gaudineau;86530;86046;Cenon-sur-Vienne;;;0.536919;46.774302
+86046_0085_00007;7;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.536992;46.775399
+86046_0067_00062;62;;Route des Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.527289;46.751594
+86046_0088_00037;37;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.53242;46.755713
+86046_0087_00020;20;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.54491;46.769084
+86046_0055_00032;32;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.533315;46.771571
+86046_0084_00013;13;;Place Michel Gaudineau;86530;86046;Cenon-sur-Vienne;;;0.537162;46.774168
+86046_0070_00007;7;;Rue de Lorraine;86530;86046;Cenon-sur-Vienne;;;0.535328;46.771249
+86046_0067_00042;42;;Route des Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.527391;46.753776
+86046_0107_00019;19;;Impasse Simone de Beauvoir;86530;86046;Cenon-sur-Vienne;;;0.547495;46.772391
+86046_0055_00036;36;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.533172;46.771081
+86046_0008_00007;7;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.53705;46.772457
+86046_0015_00007_a;7;a;Rue d'Artois;86530;86046;Cenon-sur-Vienne;;;0.539076;46.774237
+86046_0045_00002;2;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.532914;46.770212
+86046_0087_00013;13;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.54643;46.769436
+86046_b064_00008;8;;La Sablière de Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.529814;46.751498
+86046_0092_00020;20;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.545295;46.770977
+86046_0008_00045;45;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536706;46.767769
+86046_0063_00011;11;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.543052;46.769902
+86046_0109_00008;8;;Impasse Simone Signoret;86530;86046;Cenon-sur-Vienne;;;0.545585;46.772367
+86046_0088_00031;31;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.533634;46.756011
+86046_0111_00017;17;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547077;46.770665
+86046_0092_00029;29;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.545077;46.770971
+86046_0043_00005;5;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.523847;46.754209
+86046_0090_00001_bis;1;bis;Rue de Picardie;86530;86046;Cenon-sur-Vienne;;;0.537891;46.774563
+86046_0047_00007;7;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.544201;46.771562
+86046_0008_00074;74;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.537213;46.764183
+86046_0107_00013;13;;Impasse Simone de Beauvoir;86530;86046;Cenon-sur-Vienne;;;0.546816;46.772448
+86046_0115_00002;2;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.536606;46.774399
+86046_0079_00002;2;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.544626;46.771862
+86046_73ik6c_00017;17;;Chemin des Pontereaux;86530;86046;Cenon-sur-Vienne;;;0.544548;46.780598
+86046_0064_00016;16;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.53329;46.766848
+86046_0066_00007;7;;Rue Lamartine;86530;86046;Cenon-sur-Vienne;;;0.54727;46.771844
+86046_0045_00019;19;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.531384;46.769896
+86046_0043_00013;13;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.524389;46.753603
+86046_0008_00081;81;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536979;46.765427
+86046_0092_00003;3;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.543892;46.770328
+86046_0035_00024;24;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.535023;46.775512
+86046_0113_00004;4;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534566;46.769873
+86046_0015_00014;14;;Rue d'Artois;86530;86046;Cenon-sur-Vienne;;;0.539078;46.775066
+86046_0107_00011;11;;Impasse Simone de Beauvoir;86530;86046;Cenon-sur-Vienne;;;0.546584;46.77246
+86046_7lgpcq_00001;1;;Le Coudreau;86530;86046;Cenon-sur-Vienne;;;0.511231;46.74819
+86046_0067_00032;32;;Route des Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.526886;46.754923
+86046_0047_00021;21;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.54456;46.771008
+86046_0081_00004;4;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.535986;46.770384
+86046_0079_00011;11;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.545693;46.771453
+86046_0097_00004;4;;Rue Molé;86530;86046;Cenon-sur-Vienne;;;0.533581;46.775847
+86046_0008_00095;95;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.537316;46.764496
+86046_0088_00060;60;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.529581;46.755024
+86046_0092_00004;4;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.543825;46.770188
+86046_0081_00009;9;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.535779;46.77026
+86046_0012_00004;4;;Rue Aragon;86530;86046;Cenon-sur-Vienne;;;0.546251;46.769782
+86046_0064_00009;9;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.533379;46.76739
+86046_0055_00034;34;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.53323;46.771257
+86046_0087_00032;32;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.54632;46.769307
+86046_0113_00005;5;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534865;46.769543
+86046_0055_00039;39;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.533141;46.769905
+86046_0047_00014;14;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.543636;46.771347
+86046_0107_00008;8;;Impasse Simone de Beauvoir;86530;86046;Cenon-sur-Vienne;;;0.547293;46.772261
+86046_0015_00004;4;;Rue d'Artois;86530;86046;Cenon-sur-Vienne;;;0.539366;46.774293
+86046_mtlhf0_00030;30;;Route de Fréfoir;86530;86046;Cenon-sur-Vienne;;;0.543286;46.766917
+86046_0085_00002;2;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.537173;46.774683
+86046_0115_00017;17;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.534951;46.776205
+86046_0064_00003;3;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.53335;46.767953
+86046_0008_00010;10;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.535687;46.771764
+86046_0113_00014;14;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.533849;46.769254
+86046_fdsov5_00013;13;;La Revoute;86530;86046;Cenon-sur-Vienne;;;0.539267;46.758234
+86046_0083_00047;47;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.520359;46.750575
+86046_0061_00003;3;;Impasse Hélène Boucher;86530;86046;Cenon-sur-Vienne;;;0.543848;46.769353
+86046_0092_00017;17;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.544618;46.770557
+86046_0064_00010;10;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.533175;46.767253
+86046_0055_00054;54;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.532719;46.769348
+86046_0015_00008;8;;Rue d'Artois;86530;86046;Cenon-sur-Vienne;;;0.539313;46.774524
+86046_0043_00019;19;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.524753;46.752975
+86046_fdsov5_00009;9;;La Revoute;86530;86046;Cenon-sur-Vienne;;;0.539728;46.758645
+86046_0111_00024;24;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547274;46.770667
+86046_0008_00029;29;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536727;46.768653
+86046_0015_00017;17;;Rue d'Artois;86530;86046;Cenon-sur-Vienne;;;0.539016;46.774899
+86046_0095_00013;13;;Place du Poitou;86530;86046;Cenon-sur-Vienne;;;0.539771;46.775464
+86046_0045_00023;23;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.531184;46.770233
+86046_0088_00058;58;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.529964;46.755129
+86046_0111_00030;30;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547305;46.770216
+86046_0064_00002;2;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.533141;46.767941
+86046_0081_00022;22;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.535592;46.76929
+86046_0007_00015;15;;Impasse Albert Camus;86530;86046;Cenon-sur-Vienne;;;0.546666;46.770258
+86046_0064_00020;20;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.533775;46.76696
+86046_0047_00008;8;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.543767;46.771522
+86046_0068_00008;8;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.534015;46.772958
+86046_0035_00021;21;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.536263;46.775483
+86046_0064_00024;24;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.534326;46.766946
+86046_0045_00007;7;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.532121;46.769501
+86046_0090_00006;6;;Rue de Picardie;86530;86046;Cenon-sur-Vienne;;;0.537985;46.774469
+86046_0063_00019;19;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.543029;46.769125
+86046_0079_00012;12;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.546331;46.771282
+86046_0045_00013;13;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.531609;46.769436
+86046_0092_00011;11;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.544342;46.770424
+86046_0008_00018;18;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536708;46.771185
+86046_0068_00009;9;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.531948;46.771243
+86046_0008_00032;32;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536536;46.768483
+86046_0039_00009;9;;Rue Charles Martel;86530;86046;Cenon-sur-Vienne;;;0.534096;46.767704
+86046_0107_00005;5;;Impasse Simone de Beauvoir;86530;86046;Cenon-sur-Vienne;;;0.546177;46.772181
+86046_0083_00008;8;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.524623;46.756127
+86046_0081_00015;15;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.535697;46.769618
+86046_0060_00006;6;;Rue de Guyenne;86530;86046;Cenon-sur-Vienne;;;0.531037;46.773462
+86046_0061_00009;9;;Impasse Hélène Boucher;86530;86046;Cenon-sur-Vienne;;;0.544028;46.769696
+86046_0043_00009;9;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.524222;46.753848
+86046_0045_00001;1;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.532333;46.770042
+86046_0055_00040;40;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.533114;46.770871
+86046_s5bs6l_00005;5;;Les Renaudières;86530;86046;Cenon-sur-Vienne;;;0.540674;46.755595
+86046_0035_00080;80;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.528455;46.775822
+86046_0043_00006;6;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.523954;46.753962
+86046_0047_00002;2;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.543946;46.771754
+86046_0010_00007;7;;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.529888;46.776846
+86046_0083_00049;49;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.520185;46.750453
+86046_0045_00015;15;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.531504;46.769568
+86046_0109_00004;4;;Impasse Simone Signoret;86530;86046;Cenon-sur-Vienne;;;0.545466;46.772073
+86046_0008_00027;27;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536724;46.768879
+86046_0115_00041;41;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.534242;46.778057
+86046_0035_00006;6;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.537136;46.775781
+86046_sxrw31_00015;15;;Route des Goupillères;86530;86046;Cenon-sur-Vienne;;;0.522972;46.765863
+86046_0025_00005;5;;Rue du Berry;86530;86046;Cenon-sur-Vienne;;;0.537889;46.773452
+86046_0025_00002_bis;2;bis;Rue du Berry;86530;86046;Cenon-sur-Vienne;;;0.537213;46.773481
+86046_0030_00010;10;;Rue de Bourgogne;86530;86046;Cenon-sur-Vienne;;;0.534413;46.772342
+86046_0079_00014;14;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.54649;46.771233
+86046_0030_00009;9;;Rue de Bourgogne;86530;86046;Cenon-sur-Vienne;;;0.534899;46.772338
+86046_0043_00026;26;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.524621;46.752211
+86046_0008_00042;42;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536536;46.767223
+86046_0010_00005;5;;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.529957;46.776758
+86046_0055_00012;12;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.535167;46.773475
+86046_0122_00035;35;;Route d’Isle;86530;86046;Cenon-sur-Vienne;;;0.54571;46.747567
+86046_0035_00026;26;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.534375;46.77556
+86046_0087_00028;28;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.545808;46.769265
+86046_0043_00023;23;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.525549;46.752745
+86046_0041_00007;7;;Square Claude Nougaro;86530;86046;Cenon-sur-Vienne;;;0.537665;46.77432
+86046_0039_00006;6;;Rue Charles Martel;86530;86046;Cenon-sur-Vienne;;;0.534134;46.768112
+86046_0130_00006;6;;Square Yves Montand;86530;86046;Cenon-sur-Vienne;;;0.538465;46.775334
+86046_0007_00017;17;;Impasse Albert Camus;86530;86046;Cenon-sur-Vienne;;;0.547028;46.770171
+86046_0055_00025_bis;25;bis;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.534648;46.770805
+86046_0063_00018;18;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.542896;46.769701
+86046_0087_00034;34;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.546648;46.769329
+86046_0083_00070;70;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.519278;46.749856
+86046_0008_00041;41;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536718;46.768023
+86046_0008_00026;26;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536531;46.768794
+86046_0067_00019;19;;Route des Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.527195;46.754916
+86046_fdsov5_00005;5;;La Revoute;86530;86046;Cenon-sur-Vienne;;;0.539526;46.758735
+86046_0064_00011;11;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.533633;46.767097
+86046_0063_00020;20;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.542897;46.769491
+86046_0111_00003;3;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.548055;46.772242
+86046_0115_00012;12;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.535671;46.775217
+86046_0092_00027;27;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.545003;46.770883
+86046_0113_00001;1;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.535093;46.768899
+86046_0083_00023;23;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.522592;46.753315
+86046_0079_00003;3;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.544696;46.771981
+86046_0090_00010;10;;Rue de Picardie;86530;86046;Cenon-sur-Vienne;;;0.538334;46.774447
+86046_0084_00015_bis;15;bis;Place Michel Gaudineau;86530;86046;Cenon-sur-Vienne;;;0.537186;46.774193
+86046_0087_00012;12;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.54377;46.768954
+86046_0111_00040;40;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547233;46.769293
+86046_0088_00025;25;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.535006;46.756251
+86046_0035_00007_bis;7;bis;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.538004;46.775535
+86046_0008_00016;16;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536708;46.771501
+86046_0088_00070;70;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.528018;46.754428
+86046_0041_00005;5;;Square Claude Nougaro;86530;86046;Cenon-sur-Vienne;;;0.537588;46.774445
+86046_0063_00002;2;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.543922;46.772782
+86046_0067_00023;23;;Route des Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.527355;46.754556
+86046_0112_00013;13;;Route du Temple;86530;86046;Cenon-sur-Vienne;;;0.525709;46.760468
+86046_mtlhf0_00032;32;;Route de Fréfoir;86530;86046;Cenon-sur-Vienne;;;0.543345;46.766718
+86046_0087_00030;30;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.546211;46.769304
+86046_0047_00009;9;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.54426;46.771447
+86046_0007_00006;6;;Impasse Albert Camus;86530;86046;Cenon-sur-Vienne;;;0.546154;46.77078
+86046_0010_00001;1;;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.530345;46.776309
+86046_0047_00011;11;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.544323;46.771417
+86046_0088_00043;43;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.531384;46.755359
+86046_0083_00009;9;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.524277;46.75531
+86046_9yu8it_00004;4;;Les Rabottes;86530;86046;Cenon-sur-Vienne;;;0.528612;46.744823
+86046_9yu8it_00014;14;;Les Rabottes;86530;86046;Cenon-sur-Vienne;;;0.528447;46.744018
+86046_0113_00017;17;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534783;46.768485
+86046_0109_00009;9;;Impasse Simone Signoret;86530;86046;Cenon-sur-Vienne;;;0.544701;46.772571
+86046_0111_00010;10;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.548007;46.771894
+86046_0114_00009;9;;Impasse de Touraine;86530;86046;Cenon-sur-Vienne;;;0.533846;46.77649
+86046_0066_00005;5;;Rue Lamartine;86530;86046;Cenon-sur-Vienne;;;0.547073;46.77184
+86046_0114_00005;5;;Impasse de Touraine;86530;86046;Cenon-sur-Vienne;;;0.534132;46.776532
+86046_0115_00033;33;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.534409;46.777282
+86046_0008_00025;25;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536724;46.768962
+86046_0090_00004_ter;4;ter;Rue de Picardie;86530;86046;Cenon-sur-Vienne;;;0.538152;46.77416
+86046_0007_00002;2;;Impasse Albert Camus;86530;86046;Cenon-sur-Vienne;;;0.546404;46.770604
+86046_0107_00015;15;;Impasse Simone de Beauvoir;86530;86046;Cenon-sur-Vienne;;;0.547002;46.772432
+86046_0097_00016;16;;Rue Molé;86530;86046;Cenon-sur-Vienne;;;0.533066;46.777002
+86046_0070_00002;2;;Rue de Lorraine;86530;86046;Cenon-sur-Vienne;;;0.536181;46.771372
+86046_0043_00036_bis;36;bis;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.525998;46.752095
+86046_0012_00018;18;;Rue Aragon;86530;86046;Cenon-sur-Vienne;;;0.545343;46.770335
+86046_0015_00001;1;;Rue d'Artois;86530;86046;Cenon-sur-Vienne;;;0.53933;46.774065
+86046_0085_00016;16;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.537785;46.775126
+86046_0064_00004;4;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.533137;46.767783
+86046_0115_00039;39;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.534375;46.777689
+86046_0113_00006;6;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534215;46.769807
+86046_0015_00002;2;;Rue d'Artois;86530;86046;Cenon-sur-Vienne;;;0.53941;46.774123
+86046_0010_00006;6;;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.530582;46.77684
+86046_fdsov5_00003;3;;La Revoute;86530;86046;Cenon-sur-Vienne;;;0.539267;46.758747
+86046_0064_00007;7;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.53338;46.767529
+86046_0111_00012;12;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.54788;46.771724
+86046_0008_00060;60;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536635;46.765656
+86046_0107_00006;6;;Impasse Simone de Beauvoir;86530;86046;Cenon-sur-Vienne;;;0.547046;46.772337
+86046_0045_00005;5;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.532154;46.769629
+86046_0109_00018;18;;Impasse Simone Signoret;86530;86046;Cenon-sur-Vienne;;;0.544744;46.772648
+86046_0087_00036;36;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.54698;46.769341
+86046_fdsov5_00006;6;;La Revoute;86530;86046;Cenon-sur-Vienne;;;0.538621;46.7594
+86046_0008_00091;91;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.537233;46.764838
+86046_0085_00018;18;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.53782;46.775269
+86046_0061_00010;10;;Impasse Hélène Boucher;86530;86046;Cenon-sur-Vienne;;;0.544754;46.769701
+86046_0088_00050;50;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.531097;46.755448
+86046_0111_00022;22;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547263;46.771019
+86046_0100_00010;10;;Rue de Provence;86530;86046;Cenon-sur-Vienne;;;0.538083;46.774824
+86046_0055_00046;46;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.532895;46.769998
+86046_0130_00001;1;;Square Yves Montand;86530;86046;Cenon-sur-Vienne;;;0.538275;46.775235
+86046_0041_00004;4;;Square Claude Nougaro;86530;86046;Cenon-sur-Vienne;;;0.537498;46.774448
+86046_0112_00007;7;;Route du Temple;86530;86046;Cenon-sur-Vienne;;;0.526249;46.759075
+86046_ubocfe_00002;2;;Allée du Château des Sources;86530;86046;Cenon-sur-Vienne;;;0.542061;46.773058
+86046_0015_00013;13;;Rue d'Artois;86530;86046;Cenon-sur-Vienne;;;0.539117;46.774655
+86046_0008_00053;53;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536701;46.767256
+86046_0068_00017;17;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.531358;46.770811
+86046_0008_00085;85;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.537724;46.765282
+86046_0050_00003;3;;Rue de Flandre;86530;86046;Cenon-sur-Vienne;;;0.540507;46.775356
+86046_fdsov5_00014;14;;La Revoute;86530;86046;Cenon-sur-Vienne;;;0.538911;46.758481
+86046_0113_00007;7;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534814;46.769627
+86046_0015_00012;12;;Rue d'Artois;86530;86046;Cenon-sur-Vienne;;;0.539164;46.774853
+86046_0107_00009;9;;Impasse Simone de Beauvoir;86530;86046;Cenon-sur-Vienne;;;0.546337;46.772474
+86046_0039_00007;7;;Rue Charles Martel;86530;86046;Cenon-sur-Vienne;;;0.534039;46.767959
+86046_0010_00016;16;;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.529862;46.777077
+86046_0035_00003_bis;3;bis;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.538367;46.775528
+86046_0010_00002;2;;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.530356;46.776672
+86046_0039_00010;10;;Rue Charles Martel;86530;86046;Cenon-sur-Vienne;;;0.534246;46.767925
+86046_0055_00002;2;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.536223;46.773946
+86046_0068_00018;18;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.533166;46.772378
+86046_0083_00031;31;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.521893;46.752763
+86046_0092_00001;1;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.543777;46.770316
+86046_0115_00008;8;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.535966;46.774894
+86046_0083_00033;33;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.521683;46.752469
+86046_0087_00006;6;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.542909;46.768858
+86046_b064_00021;21;;La Sablière de Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.529892;46.749867
+86046_0035_00059;59;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.53057;46.776048
+86046_0007_00001;1;;Impasse Albert Camus;86530;86046;Cenon-sur-Vienne;;;0.546357;46.770548
+86046_ubocfe_00005;5;;Allée du Château des Sources;86530;86046;Cenon-sur-Vienne;;;0.543068;46.774316
+86046_0008_00067_bis;67;bis;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.537963;46.766473
+86046_0115_00019;19;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.534885;46.776362
+86046_0113_00013;13;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534407;46.769037
+86046_0083_00012;12;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.524224;46.755655
+86046_0083_00053;53;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.519934;46.750191
+86046_0122_00023;23;;Route d’Isle;86530;86046;Cenon-sur-Vienne;;;0.543089;46.746922
+86046_0085_00030;30;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.537239;46.77517
+86046_0083_00014;14;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.523822;46.755093
+86046_0055_00016;16;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.535045;46.773431
+86046_0010_00003;3;;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.530139;46.776603
+86046_0100_00014;14;;Rue de Provence;86530;86046;Cenon-sur-Vienne;;;0.538426;46.774991
+86046_0064_00013;13;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.534085;46.767247
+86046_0084_00002;2;;Place Michel Gaudineau;86530;86046;Cenon-sur-Vienne;;;0.536565;46.773699
+86046_0043_00031;31;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.526221;46.752662
+86046_0063_00006;6;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.543848;46.772486
+86046_0095_00001;1;;Place du Poitou;86530;86046;Cenon-sur-Vienne;;;0.53921;46.775295
+86046_0063_00016;16;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.542864;46.76996
+86046_0063_00017;17;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.543057;46.76929
+86046_0090_00008;8;;Rue de Picardie;86530;86046;Cenon-sur-Vienne;;;0.538274;46.774454
+86046_0070_00003;3;;Rue de Lorraine;86530;86046;Cenon-sur-Vienne;;;0.535868;46.771247
+86046_fdsov5_00027;27;;La Revoute;86530;86046;Cenon-sur-Vienne;;;0.540214;46.757198
+86046_fdsov5_00031;31;;La Revoute;86530;86046;Cenon-sur-Vienne;;;0.53958;46.757023
+86046_0010_00025;25;;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.528946;46.777106
+86046_0088_00029;29;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.533874;46.756058
+86046_0111_00008;8;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.548111;46.772037
+86046_0060_00008;8;;Rue de Guyenne;86530;86046;Cenon-sur-Vienne;;;0.530871;46.773774
+86046_0043_00036;36;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.526059;46.751988
+86046_0079_00019;19;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.546774;46.771243
+86046_0088_00014;14;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.53678;46.756677
+86046_0063_00007;7;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.544065;46.772276
+86046_0081_00020;20;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.53533;46.769084
+86046_0084_00005;5;;Place Michel Gaudineau;86530;86046;Cenon-sur-Vienne;;;0.536843;46.774271
+86046_fdsov5_00023;23;;La Revoute;86530;86046;Cenon-sur-Vienne;;;0.5395;46.757439
+86046_0081_00005;5;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.536061;46.769924
+86046_0010_00021;21;;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.529809;46.776998
+86046_0097_00010;10;;Rue Molé;86530;86046;Cenon-sur-Vienne;;;0.533286;46.776508
+86046_13znwv_00001;1;;Route d’Availles;86530;86046;Cenon-sur-Vienne;;;0.543464;46.772977
+86046_0035_00025;25;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.534923;46.775388
+86046_0047_00003;3;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.544181;46.771712
+86046_0111_00009;9;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547584;46.771587
+86046_0035_00035;35;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.533834;46.775356
+86046_0113_00015;15;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534589;46.768685
+86046_0109_00016;16;;Impasse Simone Signoret;86530;86046;Cenon-sur-Vienne;;;0.544898;46.772643
+86046_0043_00016;16;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.524278;46.753495
+86046_0083_00060;60;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.520242;46.75065
+86046_0063_00003;3;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.54412;46.772552
+86046_0109_00001;1;;Impasse Simone Signoret;86530;86046;Cenon-sur-Vienne;;;0.545297;46.772087
+86046_0111_00023;23;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547095;46.769782
+86046_0008_00055;55;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536759;46.767061
+86046_0055_00045;45;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.532975;46.769231
+86046_0113_00012;12;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.533842;46.76946
+86046_0035_00005;5;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.538335;46.775499
+86046_0090_00002_bis;2;bis;Rue de Picardie;86530;86046;Cenon-sur-Vienne;;;0.537811;46.7741
+86046_0115_00001;1;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.536276;46.774216
+86046_0090_00004;4;;Rue de Picardie;86530;86046;Cenon-sur-Vienne;;;0.537945;46.774099
+86046_ubocfe_00004;4;;Allée du Château des Sources;86530;86046;Cenon-sur-Vienne;;;0.541859;46.773144
+86046_0079_00010;10;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.545918;46.771347
+86046_0115_00004_a;4;a;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.536412;46.77462
+86046_0113_00010;10;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.533872;46.769639
+86046_0111_00016;16;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547693;46.771474
+86046_0109_00012;12;;Impasse Simone Signoret;86530;86046;Cenon-sur-Vienne;;;0.545462;46.772555
+86046_0030_00003;3;;Rue de Bourgogne;86530;86046;Cenon-sur-Vienne;;;0.537645;46.773175
+86046_0081_00012;12;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.535334;46.769932
+86046_0081_00011;11;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.535544;46.769875
+86046_0008_00033;33;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536727;46.768471
+86046_0107_00010;10;;Impasse Simone de Beauvoir;86530;86046;Cenon-sur-Vienne;;;0.547457;46.772308
+86046_0010_00017_bis;17;bis;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.529675;46.776864
+86046_0039_00011;11;;Rue Charles Martel;86530;86046;Cenon-sur-Vienne;;;0.534106;46.767658
+86046_0061_00001;1;;Impasse Hélène Boucher;86530;86046;Cenon-sur-Vienne;;;0.543831;46.769226
+86046_0087_00002;2;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.542404;46.768785
+86046_ubocfe_00018;18;;Allée du Château des Sources;86530;86046;Cenon-sur-Vienne;;;0.54256;46.773018
+86046_0088_00035;35;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.532651;46.755761
+86046_0066_00008;8;;Rue Lamartine;86530;86046;Cenon-sur-Vienne;;;0.547144;46.771737
+86046_0083_00021;21;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.523358;46.753672
+86046_0083_00068_bis;68;bis;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.51953;46.750051
+86046_0088_00046;46;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.531644;46.755643
+86046_0111_00013;13;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547396;46.771325
+86046_0060_00034;34;;Rue de Guyenne;86530;86046;Cenon-sur-Vienne;;;0.530047;46.775797
+86046_0035_00049;49;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.532129;46.77587
+86046_0113_00008;8;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534048;46.769758
+86046_0047_00006;6;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.543889;46.771612
+86046_0084_00009;9;;Place Michel Gaudineau;86530;86046;Cenon-sur-Vienne;;;0.536972;46.774345
+86046_0081_00026;26;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.536247;46.769335
+86046_0047_00005;5;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.544176;46.771586
+86046_0109_00006;6;;Impasse Simone Signoret;86530;86046;Cenon-sur-Vienne;;;0.54555;46.772278
+86046_0061_00012;12;;Impasse Hélène Boucher;86530;86046;Cenon-sur-Vienne;;;0.545041;46.769731
+86046_0055_00031;31;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.533286;46.770376
+86046_0041_00009;9;;Square Claude Nougaro;86530;86046;Cenon-sur-Vienne;;;0.537658;46.774234
+86046_0087_00017;17;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.546937;46.76946
+86046_0111_00011;11;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547473;46.77144
+86046_0008_00028;28;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536465;46.768628
+86046_0113_00011;11;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534336;46.769298
+86046_0055_00033;33;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.533276;46.770207
+86046_0092_00021;21;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.544793;46.770677
+86046_0008_00050;50;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536522;46.766394
+86046_0097_00002;2;;Rue Molé;86530;86046;Cenon-sur-Vienne;;;0.533643;46.775661
+86046_0112_00009;9;;Route du Temple;86530;86046;Cenon-sur-Vienne;;;0.526056;46.759388
+86046_mtlhf0_00007;7;;Route de Fréfoir;86530;86046;Cenon-sur-Vienne;;;0.541765;46.770077
+86046_0092_00022;22;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.545546;46.771245
+86046_0114_00017;17;;Impasse de Touraine;86530;86046;Cenon-sur-Vienne;;;0.533353;46.776398
+86046_0109_00010;10;;Impasse Simone Signoret;86530;86046;Cenon-sur-Vienne;;;0.545637;46.772522
+86046_0054_00006;6;;Impasse de Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.534412;46.771734
+86046_0085_00022;22;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.537628;46.775236
+86046_0090_00003;3;;Rue de Picardie;86530;86046;Cenon-sur-Vienne;;;0.537982;46.77455
+86046_0043_00008;8;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.52412;46.753743
+86046_0055_00017;17;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.533927;46.771889
+86046_0008_00058;58;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536617;46.765728
+86046_0035_00005_bis;5;bis;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.538144;46.775516
+86046_7lgpcq_00002;2;;Le Coudreau;86530;86046;Cenon-sur-Vienne;;;0.512321;46.748661
+86046_0047_00010;10;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.543794;46.771463
+86046_0068_00016_bis;16;bis;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.533551;46.772612
+86046_0008_00012;12;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536094;46.771733
+86046_0111_00002;2;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.548366;46.77247
+86046_0083_00041;41;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.52086;46.750986
+86046_0043_00017;17;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.524608;46.753045
+86046_0047_00001;1;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.544196;46.771901
+86046_0008_00066;66;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536411;46.76512
+86046_fdsov5_00017;17;;La Revoute;86530;86046;Cenon-sur-Vienne;;;0.539316;46.758015
+86046_0068_00029;29;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.530618;46.76955
+86046_mtlhf0_00003;3;;Route de Fréfoir;86530;86046;Cenon-sur-Vienne;;;0.541603;46.771667
+86046_0079_00004;4;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.544825;46.771721
+86046_0007_00016;16;;Impasse Albert Camus;86530;86046;Cenon-sur-Vienne;;;0.546809;46.77021
+86046_0092_00007;7;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.544123;46.770364
+86046_0035_00045;45;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.532482;46.775728
+86046_0007_00013;13;;Impasse Albert Camus;86530;86046;Cenon-sur-Vienne;;;0.546301;46.770411
+86046_0068_00027;27;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.530666;46.769624
+86046_0012_00012;12;;Rue Aragon;86530;86046;Cenon-sur-Vienne;;;0.545813;46.770257
+86046_0063_00026;26;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.542837;46.769045
+86046_0039_00002;2;;Rue Charles Martel;86530;86046;Cenon-sur-Vienne;;;0.534005;46.768334
+86046_0111_00014;14;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547807;46.77161
+86046_0041_00010;10;;Square Claude Nougaro;86530;86046;Cenon-sur-Vienne;;;0.537364;46.774297
+86046_0043_00022;22;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.524422;46.752937
+86046_0010_00015;15;;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.529553;46.776687
+86046_0070_00005;5;;Rue de Lorraine;86530;86046;Cenon-sur-Vienne;;;0.535386;46.771189
+86046_0035_00023;23;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.535851;46.775462
+86046_0064_00001;1;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.533318;46.768192
+86046_0055_00041;41;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.533084;46.769684
+86046_0090_00007;7;;Rue de Picardie;86530;86046;Cenon-sur-Vienne;;;0.538327;46.774528
+86046_0115_00021;21;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.534851;46.776471
+86046_0030_00005;5;;Rue de Bourgogne;86530;86046;Cenon-sur-Vienne;;;0.536476;46.772873
+86046_0068_00013;13;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.531733;46.771094
+86046_0045_00011;11;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.531771;46.769393
+86046_0043_00037;37;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.526976;46.752146
+86046_0111_00007;7;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547523;46.771806
+86046_0008_00059;59;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536721;46.766972
+86046_sxrw31_00017;17;;Route des Goupillères;86530;86046;Cenon-sur-Vienne;;;0.523061;46.766141
+86046_0083_00045;45;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.520546;46.750668
+86046_0068_00025;25;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.530349;46.770152
+86046_0111_00001;1;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.548184;46.772463
+86046_0008_00081_bis;81;bis;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.537711;46.765366
+86046_0130_00002;2;;Square Yves Montand;86530;86046;Cenon-sur-Vienne;;;0.538214;46.775218
+86046_0107_00004;4;;Impasse Simone de Beauvoir;86530;86046;Cenon-sur-Vienne;;;0.546813;46.772353
+86046_0043_00012;12;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.524003;46.753562
+86046_0085_00002_bis;2;bis;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.537166;46.774983
+86046_ubocfe_00013;13;;Allée du Château des Sources;86530;86046;Cenon-sur-Vienne;;;0.54304;46.774148
+86046_0090_00012;12;;Rue de Picardie;86530;86046;Cenon-sur-Vienne;;;0.538583;46.774423
+86046_fdsov5_00011;11;;La Revoute;86530;86046;Cenon-sur-Vienne;;;0.539323;46.758511
+86046_0092_00025;25;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.544938;46.770804
+86046_0090_00001;1;;Rue de Picardie;86530;86046;Cenon-sur-Vienne;;;0.537783;46.774583
+86046_0075_00002;2;;Rue du Maine;86530;86046;Cenon-sur-Vienne;;;0.532511;46.777524
+86046_0055_00013;13;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.535647;46.77324
+86046_0084_00008;8;;Place Michel Gaudineau;86530;86046;Cenon-sur-Vienne;;;0.536684;46.77354
+86046_0060_00010;10;;Rue de Guyenne;86530;86046;Cenon-sur-Vienne;;;0.530815;46.773871
+86046_0045_00025;25;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.531085;46.770328
+86046_0055_00027;27;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.534171;46.770777
+86046_0041_00006;6;;Square Claude Nougaro;86530;86046;Cenon-sur-Vienne;;;0.53769;46.774442
+86046_0111_00006;6;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.548245;46.772214
+86046_0095_00017;17;;Place du Poitou;86530;86046;Cenon-sur-Vienne;;;0.539434;46.77527
+86046_0115_00010;10;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.535912;46.774947
+86046_0115_00006;6;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.536151;46.774691
+86046_0039_00013;13;;Rue Charles Martel;86530;86046;Cenon-sur-Vienne;;;0.534148;46.767525
+86046_0008_00039;39;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536727;46.768177
+86046_0079_00015;15;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.546383;46.771394
+86046_0084_00011;11;;Place Michel Gaudineau;86530;86046;Cenon-sur-Vienne;;;0.537034;46.774369
+86046_0035_00051;51;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.531968;46.775948
+86046_b064_00018;18;;La Sablière de Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.529993;46.750808
+86046_0008_00009;9;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.53695;46.772108
+86046_0130_00004;4;;Square Yves Montand;86530;86046;Cenon-sur-Vienne;;;0.538073;46.775202
+86046_0067_00011;11;;Route des Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.526775;46.755778
+86046_0079_00017;17;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.546595;46.771321
+86046_0007_00012;12;;Impasse Albert Camus;86530;86046;Cenon-sur-Vienne;;;0.546166;46.770431
+86046_0008_00071;71;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536711;46.766134
+86046_0050_00004;4;;Rue de Flandre;86530;86046;Cenon-sur-Vienne;;;0.539584;46.775022
+86046_0087_00018;18;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.544655;46.769058
+86046_0070_00006;6;;Rue de Lorraine;86530;86046;Cenon-sur-Vienne;;;0.535331;46.77133
+86046_0043_00010;10;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.523874;46.753542
+86046_0043_00033;33;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.526221;46.752395
+86046_0087_00001;1;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.544537;46.769167
+86046_0083_00055;55;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.519679;46.749992
+86046_0049_00011;11;;Rue d'Eschelbach;86530;86046;Cenon-sur-Vienne;;;0.534154;46.768561
+86046_0109_00002;2;;Impasse Simone Signoret;86530;86046;Cenon-sur-Vienne;;;0.545348;46.77196
+86046_0054_00004;4;;Impasse de Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.533894;46.771637
+86046_0122_00033;33;;Route d’Isle;86530;86046;Cenon-sur-Vienne;;;0.545566;46.746881
+86046_0085_00014;14;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.537691;46.775169
+86046_0083_00007;7;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.524533;46.755633
+86046_0035_00009_bis;9;bis;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.537718;46.775522
+86046_5x4pth_00002;2;;Chemin de Forclan;86530;86046;Cenon-sur-Vienne;;;0.53908;46.776405
+86046_0087_00024;24;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.545362;46.769179
+86046_0007_00007;7;;Impasse Albert Camus;86530;86046;Cenon-sur-Vienne;;;0.546077;46.770792
+86046_0122_00027;27;;Route d’Isle;86530;86046;Cenon-sur-Vienne;;;0.54379;46.746885
+86046_0130_00010;10;;Square Yves Montand;86530;86046;Cenon-sur-Vienne;;;0.538391;46.775179
+86046_0061_00013;13;;Impasse Hélène Boucher;86530;86046;Cenon-sur-Vienne;;;0.544519;46.769807
+86046_0067_00054;54;;Route des Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.527502;46.752562
+86046_0081_00024;24;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.535723;46.769357
+86046_0122_00005;5;;Route d’Isle;86530;86046;Cenon-sur-Vienne;;;0.539713;46.75166
+86046_0067_00004_bis;4;bis;Route des Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.526609;46.758094
+86046_0083_00039;39;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.521268;46.751371
+86046_0113_00021;21;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534975;46.768109
+86046_0067_00010;10;;Route des Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.526098;46.757556
+86046_0055_00038;38;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.533145;46.770961
+86046_0030_00002;2;;Rue de Bourgogne;86530;86046;Cenon-sur-Vienne;;;0.537545;46.773278
+86046_0085_00024;24;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.53753;46.775219
+86046_0081_00007;7;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.536161;46.770098
+86046_0008_00067;67;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.537456;46.766423
+86046_0008_00068;68;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.53664;46.765062
+86046_0045_00017;17;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.531462;46.769655
+86046_ubocfe_00003;3;;Allée du Château des Sources;86530;86046;Cenon-sur-Vienne;;;0.542894;46.774338
+86046_0130_00008;8;;Square Yves Montand;86530;86046;Cenon-sur-Vienne;;;0.538519;46.77524
+86046_0087_00014;14;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.543971;46.768977
+86046_0083_00011;11;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.52378;46.754786
+86046_0007_00005;5;;Impasse Albert Camus;86530;86046;Cenon-sur-Vienne;;;0.546232;46.770742
+86046_0088_00023;23;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.535691;46.756344
+86046_0068_00015_bis;15;bis;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.531513;46.770931
+86046_0008_00064;64;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536639;46.765144
+86046_0115_00003_bis;3;bis;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.536005;46.774547
+86046_0083_00002;2;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.525613;46.75713
+86046_0075_00003;3;;Rue du Maine;86530;86046;Cenon-sur-Vienne;;;0.534094;46.778082
+86046_0114_00003;3;;Impasse de Touraine;86530;86046;Cenon-sur-Vienne;;;0.534311;46.77657
+86046_0015_00007_c;7;c;Rue d'Artois;86530;86046;Cenon-sur-Vienne;;;0.539108;46.774035
+86046_0068_00023;23;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.530572;46.770384
+86046_0025_00004;4;;Rue du Berry;86530;86046;Cenon-sur-Vienne;;;0.538131;46.773123
+86046_ubocfe_00010;10;;Allée du Château des Sources;86530;86046;Cenon-sur-Vienne;;;0.541968;46.772833
+86046_0111_00005;5;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547969;46.77211
+86046_0008_00014;14;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536738;46.771746
+86046_mtlhf0_00009;9;;Route de Fréfoir;86530;86046;Cenon-sur-Vienne;;;0.54231;46.769757
+86046_0055_00021;21;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.533899;46.771425
+86046_0035_00009;9;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.537935;46.775485
+86046_0045_00008;8;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.532154;46.770319
+86046_0100_00007;7;;Rue de Provence;86530;86046;Cenon-sur-Vienne;;;0.537987;46.774923
+86046_0107_00002;2;;Impasse Simone de Beauvoir;86530;86046;Cenon-sur-Vienne;;;0.546595;46.772368
+86046_0041_00011;11;;Square Claude Nougaro;86530;86046;Cenon-sur-Vienne;;;0.537325;46.774354
+86046_0061_00015;15;;Impasse Hélène Boucher;86530;86046;Cenon-sur-Vienne;;;0.544782;46.769885
+86046_0097_00014;14;;Rue Molé;86530;86046;Cenon-sur-Vienne;;;0.533124;46.776907
+86046_0081_00008;8;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.535507;46.770259
+86046_ubocfe_00016;16;;Allée du Château des Sources;86530;86046;Cenon-sur-Vienne;;;0.542376;46.772675
+86046_0063_00024;24;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.542853;46.769167
+86046_0111_00034;34;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547289;46.769786
+86046_0085_00020;20;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.537725;46.775251
+86046_0055_00044;44;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.533024;46.770486
+86046_0081_00002;2;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.536348;46.770335
+86046_0041_00003;3;;Square Claude Nougaro;86530;86046;Cenon-sur-Vienne;;;0.537692;46.774388
+86046_0115_00023;23;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.534802;46.776534
+86046_0075_00008;8;;Rue du Maine;86530;86046;Cenon-sur-Vienne;;;0.53185;46.776953
+86046_0050_00006;6;;Rue de Flandre;86530;86046;Cenon-sur-Vienne;;;0.539696;46.774996
+86046_0092_00018;18;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.545183;46.770837
+86046_0109_00005;5;;Impasse Simone Signoret;86530;86046;Cenon-sur-Vienne;;;0.545134;46.772514
+86046_fdsov5_00016;16;;La Revoute;86530;86046;Cenon-sur-Vienne;;;0.538957;46.758225
+86046_0039_00014;14;;Rue Charles Martel;86530;86046;Cenon-sur-Vienne;;;0.534303;46.767611
+86046_0020_00003;3;;Rue du Béarn;86530;86046;Cenon-sur-Vienne;;;0.539152;46.773649
+86046_0088_00072;72;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.52768;46.754329
+86046_0015_00007_b;7;b;Rue d'Artois;86530;86046;Cenon-sur-Vienne;;;0.539117;46.77409
+86046_0064_00008;8;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.533182;46.767378
+86046_0061_00007;7;;Impasse Hélène Boucher;86530;86046;Cenon-sur-Vienne;;;0.543833;46.76966
+86046_0055_00042_bis;42;bis;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.532989;46.770606
+86046_0060_00012;12;;Rue de Guyenne;86530;86046;Cenon-sur-Vienne;;;0.530742;46.774038
+86046_fdsov5_00018;18;;La Revoute;86530;86046;Cenon-sur-Vienne;;;0.539176;46.757771
+86046_0122_00039;39;;Route d’Isle;86530;86046;Cenon-sur-Vienne;;;0.54495;46.74799
+86046_0067_00009;9;;Route des Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.526614;46.756184
+86046_0067_00016;16;;Route des Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.526137;46.756575
+86046_0092_00012;12;;Rue Pierre Corneille;86530;86046;Cenon-sur-Vienne;;;0.544685;46.77041
+86046_0074_00018;18;;Impasse du Maine;86530;86046;Cenon-sur-Vienne;;;0.530991;46.776799
+86046_ubocfe_00008;8;;Allée du Château des Sources;86530;86046;Cenon-sur-Vienne;;;0.541918;46.772965
+86046_0122_00031;31;;Route d’Isle;86530;86046;Cenon-sur-Vienne;;;0.545436;46.746824
+86046_0035_00027;27;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.534769;46.775366
+86046_0064_00006;6;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.533152;46.767608
+86046_0008_00069;69;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.53672;46.766328
+86046_0055_00027_bis;27;bis;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.534053;46.770753
+86046_0115_00015;15;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.535004;46.776096
+86046_0067_00021;21;;Route des Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.527251;46.754872
+86046_0084_00001;1;;Place Michel Gaudineau;86530;86046;Cenon-sur-Vienne;;;0.536691;46.774198
+86046_0088_00019;19;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.537;46.756555
+86046_0115_00013;13;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.535034;46.77598
+86046_0039_00001;1;;Rue Charles Martel;86530;86046;Cenon-sur-Vienne;;;0.533888;46.768279
+86046_0055_00047;47;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.532958;46.769175
+86046_0068_00004;4;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.534326;46.773117
+86046_0049_00009;9;;Rue d'Eschelbach;86530;86046;Cenon-sur-Vienne;;;0.533867;46.768522
+86046_0043_00015;15;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.524546;46.753364
+86046_0035_00019;19;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.536346;46.775511
+86046_0066_00004;4;;Rue Lamartine;86530;86046;Cenon-sur-Vienne;;;0.546526;46.771825
+86046_0113_00018;18;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.534271;46.76895
+86046_0085_00010;10;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.537498;46.775136
+86046_ubocfe_00009;9;;Allée du Château des Sources;86530;86046;Cenon-sur-Vienne;;;0.542788;46.774172
+86046_0049_00005;5;;Rue d'Eschelbach;86530;86046;Cenon-sur-Vienne;;;0.533412;46.768435
+86046_0087_00008;8;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.54323;46.768895
+86046_0087_00003;3;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.544711;46.769185
+86046_0043_00020;20;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.52389;46.752912
+86046_0008_00046;46;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536518;46.766948
+86046_0061_00006;6;;Impasse Hélène Boucher;86530;86046;Cenon-sur-Vienne;;;0.544337;46.769659
+86046_0047_00004;4;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.543883;46.77168
+86046_0008_00065;65;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.537275;46.766501
+86046_0010_00010;10;;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.530329;46.776739
+86046_0008_00023;23;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536785;46.769185
+86046_0049_00007;7;;Rue d'Eschelbach;86530;86046;Cenon-sur-Vienne;;;0.533581;46.768487
+86046_0008_00020;20;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536695;46.770994
+86046_0055_00043;43;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.53302;46.769398
+86046_0075_00005;5;;Rue du Maine;86530;86046;Cenon-sur-Vienne;;;0.533916;46.778039
+86046_0067_00007;7;;Route des Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.52646;46.756503
+86046_9yu8it_00003;3;;Les Rabottes;86530;86046;Cenon-sur-Vienne;;;0.528794;46.745998
+86046_0113_00023;23;;Rue du Tramaguet;86530;86046;Cenon-sur-Vienne;;;0.535062;46.767995
+86046_0107_00003;3;;Impasse Simone de Beauvoir;86530;86046;Cenon-sur-Vienne;;;0.546094;46.771954
+86046_0114_00011;11;;Impasse de Touraine;86530;86046;Cenon-sur-Vienne;;;0.533773;46.776471
+86046_0081_00001;1;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.536408;46.770182
+86046_0035_00028;28;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.534259;46.77549
+86046_0084_00006;6;;Place Michel Gaudineau;86530;86046;Cenon-sur-Vienne;;;0.536341;46.773625
+86046_0010_00008;8;;Rue d'Anjou;86530;86046;Cenon-sur-Vienne;;;0.530491;46.776804
+86046_b064_00023;23;;La Sablière de Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.529483;46.749787
+86046_0012_00003;3;;Rue Aragon;86530;86046;Cenon-sur-Vienne;;;0.545909;46.769755
+86046_0114_00013;13;;Impasse de Touraine;86530;86046;Cenon-sur-Vienne;;;0.533587;46.776438
+86046_0008_00003;3;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536949;46.772779
+86046_0088_00018;18;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.536405;46.756649
+86046_0083_00052;52;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.520505;46.750851
+86046_0025_00007_bis;7;bis;Rue du Berry;86530;86046;Cenon-sur-Vienne;;;0.538378;46.773312
+86046_0008_00075;75;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536832;46.765733
+86046_0066_00003;3;;Rue Lamartine;86530;86046;Cenon-sur-Vienne;;;0.546639;46.771905
+86046_0107_00007;7;;Impasse Simone de Beauvoir;86530;86046;Cenon-sur-Vienne;;;0.546227;46.772334
+86046_0081_00003;3;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.536313;46.76989
+86046_0085_00003;3;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.53696;46.775101
+86046_0115_00031;31;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.534547;46.776978
+86046_0130_00007;7;;Square Yves Montand;86530;86046;Cenon-sur-Vienne;;;0.538535;46.775285
+86046_ubocfe_00020;20;;Allée du Château des Sources;86530;86046;Cenon-sur-Vienne;;;0.542351;46.773046
+86046_0122_00025;25;;Route d’Isle;86530;86046;Cenon-sur-Vienne;;;0.543622;46.746852
+86046_0030_00007_bis;7;bis;Rue de Bourgogne;86530;86046;Cenon-sur-Vienne;;;0.535834;46.772661
+86046_0055_00037;37;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.533177;46.770003
+86046_0083_00064;64;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.519899;46.750374
+86046_0043_00011;11;;Route de la Croix;86530;86046;Cenon-sur-Vienne;;;0.524309;46.753728
+86046_0088_00033;33;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.533388;46.755938
+86046_0025_00003;3;;Rue du Berry;86530;86046;Cenon-sur-Vienne;;;0.53753;46.773557
+86046_0112_00011;11;;Route du Temple;86530;86046;Cenon-sur-Vienne;;;0.525746;46.759676
+86046_0039_00012;12;;Rue Charles Martel;86530;86046;Cenon-sur-Vienne;;;0.534276;46.767665
+86046_0085_00026;26;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.537433;46.775205
+86046_0061_00008;8;;Impasse Hélène Boucher;86530;86046;Cenon-sur-Vienne;;;0.544517;46.769696
+86046_0008_00052;52;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536534;46.766
+86046_0055_00021_bis;21;bis;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.53353;46.771321
+86046_ubocfe_00014;14;;Allée du Château des Sources;86530;86046;Cenon-sur-Vienne;;;0.542249;46.772595
+86046_0007_00004;4;;Impasse Albert Camus;86530;86046;Cenon-sur-Vienne;;;0.546326;46.770727
+86046_0008_00005;5;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536962;46.772593
+86046_0085_00006;6;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.537304;46.775103
+86046_0109_00003;3;;Impasse Simone Signoret;86530;86046;Cenon-sur-Vienne;;;0.545385;46.77227
+86046_0063_00015;15;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.543081;46.7695
+86046_0012_00002;2;;Rue Aragon;86530;86046;Cenon-sur-Vienne;;;0.54614;46.769599
+86046_0035_00047;47;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.532328;46.775785
+86046_9yu8it_00006;6;;Les Rabottes;86530;86046;Cenon-sur-Vienne;;;0.528674;46.744922
+86046_0007_00010;10;;Impasse Albert Camus;86530;86046;Cenon-sur-Vienne;;;0.545948;46.770558
+86046_0083_00019;19;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.522992;46.753905
+86046_0097_00006;6;;Rue Molé;86530;86046;Cenon-sur-Vienne;;;0.533496;46.776048
+86046_0060_00004;4;;Rue de Guyenne;86530;86046;Cenon-sur-Vienne;;;0.531211;46.773339
+86046_0041_00008;8;;Square Claude Nougaro;86530;86046;Cenon-sur-Vienne;;;0.537661;46.774289
+86046_0074_00016;16;;Impasse du Maine;86530;86046;Cenon-sur-Vienne;;;0.530686;46.777105
+86046_0035_00052;52;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.529861;46.776081
+86046_0061_00004;4;;Impasse Hélène Boucher;86530;86046;Cenon-sur-Vienne;;;0.54415;46.76961
+86046_0068_00006;6;;Rue de Languedoc;86530;86046;Cenon-sur-Vienne;;;0.534151;46.773049
+86046_0087_00005;5;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.545031;46.769232
+86046_0081_00010;10;;Rue Marcel Ribbe;86530;86046;Cenon-sur-Vienne;;;0.535342;46.770079
+86046_0067_00017;17;;Route des Jumeaux;86530;86046;Cenon-sur-Vienne;;;0.527023;46.755251
+86046_0064_00012;12;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.533199;46.767016
+86046_0087_00010;10;;Rue Paul Verlaine;86530;86046;Cenon-sur-Vienne;;;0.543571;46.768931
+86046_0045_00010;10;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.532033;46.770357
+86046_0083_00068;68;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.519566;46.750069
+86046_0085_00004;4;;Rue de Normandie;86530;86046;Cenon-sur-Vienne;;;0.537207;46.775089
+86046_ubocfe_00015;15;;Allée du Château des Sources;86530;86046;Cenon-sur-Vienne;;;0.543146;46.77409
+86046_0008_00073;73;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536757;46.765919
+86046_0064_00014;14;;Rue Jean Jaurès;86530;86046;Cenon-sur-Vienne;;;0.532892;46.766883
+86046_0055_00052;52;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.532783;46.769582
+86046_0055_00029;29;;Rue Franche Comté;86530;86046;Cenon-sur-Vienne;;;0.533307;46.770552
+86046_0008_00103;103;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.53749;46.763987
+86046_0045_00012;12;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.531809;46.770425
+86046_0095_00003;3;;Place du Poitou;86530;86046;Cenon-sur-Vienne;;;0.539314;46.775312
+86046_0083_00056;56;;Route des Métairies;86530;86046;Cenon-sur-Vienne;;;0.520225;46.751006
+86046_0039_00008;8;;Rue Charles Martel;86530;86046;Cenon-sur-Vienne;;;0.534159;46.768065
+86046_0008_00024;24;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.536547;46.768918
+86046_0066_00006;6;;Rue Lamartine;86530;86046;Cenon-sur-Vienne;;;0.54684;46.771778
+86046_0063_00010;10;;Rue Jacques Brel;86530;86046;Cenon-sur-Vienne;;;0.543963;46.772021
+86046_0012_00005;5;;Rue Aragon;86530;86046;Cenon-sur-Vienne;;;0.545763;46.769932
+86046_0079_00016;16;;Rue Marcel Pagnol;86530;86046;Cenon-sur-Vienne;;;0.546739;46.771105
+86046_0088_00039;39;;Route des Petits Prés;86530;86046;Cenon-sur-Vienne;;;0.531878;46.755578
+86046_0100_00008;8;;Rue de Provence;86530;86046;Cenon-sur-Vienne;;;0.537923;46.774758
+86046_0041_00002;2;;Square Claude Nougaro;86530;86046;Cenon-sur-Vienne;;;0.537466;46.774478
+86046_0045_00003;3;;Rue du Dauphiné;86530;86046;Cenon-sur-Vienne;;;0.532297;46.769949
+86046_0111_00020;20;;Avenue des Sources;86530;86046;Cenon-sur-Vienne;;;0.547473;46.77117
+86046_0035_00011;11;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.53765;46.775503
+86046_0008_00083;83;;Rue d'Alsace;86530;86046;Cenon-sur-Vienne;;;0.537083;46.765118
+86046_0012_00014;14;;Rue Aragon;86530;86046;Cenon-sur-Vienne;;;0.545655;46.770342
+86046_0025_00002;2;;Rue du Berry;86530;86046;Cenon-sur-Vienne;;;0.537065;46.773505
+86046_0035_00044;44;;Rue de Bretagne;86530;86046;Cenon-sur-Vienne;;;0.531188;46.77639
+86046_0060_00036;36;;Rue de Guyenne;86530;86046;Cenon-sur-Vienne;;;0.529989;46.775907
+86046_0039_00003;3;;Rue Charles Martel;86530;86046;Cenon-sur-Vienne;;;0.533904;46.768219
+86046_0012_00016;16;;Rue Aragon;86530;86046;Cenon-sur-Vienne;;;0.545571;46.770246
+86046_0115_00004;4;;Rue de Touraine;86530;86046;Cenon-sur-Vienne;;;0.536368;46.774525
+86046_0047_00017;17;;Place du Docteur Guerin Katz;86530;86046;Cenon-sur-Vienne;;;0.54451;46.771175
+86046_0095_00009;9;;Place du Poitou;86530;86046;Cenon-sur-Vienne;;;0.539667;46.77562

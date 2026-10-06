@@ -1,0 +1,835 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+85140_0059_00001;1;;Rue de la treille;85700;85140;La Meilleraie-Tillay;;;-0.847044;46.741651
+85140_0070_00002_b;2;b;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.825677;46.74602
+85140_b141_00004;4;;la grande orissière;85700;85140;La Meilleraie-Tillay;;;-0.890718;46.75077
+85140_0090_00305;305;;Chemin des bergeronnettes;85700;85140;La Meilleraie-Tillay;;;-0.80542;46.753727
+85140_0054_00015;15;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.83754;46.743517
+85140_9xl4tt_00006;6;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.843487;46.741954
+85140_0140_00317;317;;Rue des iris;85700;85140;La Meilleraie-Tillay;;;-0.894351;46.737121
+85140_0021_00022;22;;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.822614;46.748298
+85140_0044_00017;17;;Rue des ombrages;85700;85140;La Meilleraie-Tillay;;;-0.844519;46.73856
+85140_0150_00014;14;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.838729;46.744537
+85140_0022_00004;4;;Rue du grand pré;85700;85140;La Meilleraie-Tillay;;;-0.820394;46.75869
+85140_9xl4tt_00022_bis;22;bis;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.846245;46.74154
+85140_0190_00001;1;;Impasse Roger Colin;85700;85140;La Meilleraie-Tillay;;;-0.810905;46.750184
+85140_9xl4tt_00036;36;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.847479;46.741408
+85140_0048_00010;10;;Rue de la patrie;85700;85140;La Meilleraie-Tillay;;;-0.816545;46.754284
+85140_0005_00008;8;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.814757;46.747315
+85140_0046_00006;6;;Impasse des peupliers;85700;85140;La Meilleraie-Tillay;;;-0.849057;46.743285
+85140_0180_00022;22;;Chemin des roseaux;85700;85140;La Meilleraie-Tillay;;;-0.89516;46.737076
+85140_0021_00007;7;;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.824169;46.747866
+85140_9xl4tt_00012;12;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.845458;46.741573
+85140_0044_00008;8;;Rue des ombrages;85700;85140;La Meilleraie-Tillay;;;-0.84465;46.738195
+85140_0048_00004;4;;Rue de la patrie;85700;85140;La Meilleraie-Tillay;;;-0.817133;46.753728
+85140_0006_00012;12;;Rue de la batteuse;85700;85140;La Meilleraie-Tillay;;;-0.84135;46.738629
+85140_0034_00048;48;;Chemin des marguerites;85700;85140;La Meilleraie-Tillay;;;-0.874821;46.718756
+85140_0009_00009;9;;Rue des chaumes;85700;85140;La Meilleraie-Tillay;;;-0.840383;46.742049
+85140_0020_00013;13;;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.81932;46.756297
+85140_9xl4tt_00031;31;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.84905;46.741952
+85140_0048_00008;8;;Rue de la patrie;85700;85140;La Meilleraie-Tillay;;;-0.816669;46.754161
+85140_0047_00011;11;;Rue des platanes;85700;85140;La Meilleraie-Tillay;;;-0.81775;46.754675
+85140_0150_00018_bis;18;bis;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.838428;46.744153
+85140_9xl4tt_00056;56;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.848255;46.741621
+85140_0062_00005_t;5;t;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.848167;46.742062
+85140_0033_00016;16;;Chemin des lis;85700;85140;La Meilleraie-Tillay;;;-0.895086;46.736503
+85140_b007_00010;10;;la barre pilot;85700;85140;La Meilleraie-Tillay;;;-0.810539;46.763706
+85140_0150_00043;43;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.839033;46.74373
+85140_17vg8w_00024;24;;la Rainsandière;85700;85140;La Meilleraie-Tillay;;Lotissement La Rainsandière;-0.819771;46.744614
+85140_0019_00008;8;;Impasse des genêts;85700;85140;La Meilleraie-Tillay;;;-0.826242;46.746551
+85140_9xl4tt_00007;7;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.845595;46.741273
+85140_1riayq_00001;1;;les vignes;85700;85140;La Meilleraie-Tillay;;;-0.861708;46.725608
+85140_0004_00005;5;;Rue de l'ageasse;85700;85140;La Meilleraie-Tillay;;;-0.849292;46.743913
+85140_0003_00015_ter;15;ter;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.843262;46.738437
+85140_0150_00007;7;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.840125;46.744094
+85140_0011_00002;2;;Rue de la coussotte;85700;85140;La Meilleraie-Tillay;;;-0.820999;46.757931
+85140_0045_00006;6;;Rue du parc;85700;85140;La Meilleraie-Tillay;;;-0.843288;46.741272
+85140_0039_00009;9;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.841983;46.739576
+85140_syz04p_00008;8;;Rue de la mairie;85700;85140;La Meilleraie-Tillay;;;-0.847503;46.742112
+85140_0054_00007;7;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.838209;46.743109
+85140_0011_00005;5;;Rue de la coussotte;85700;85140;La Meilleraie-Tillay;;;-0.821561;46.757762
+85140_0033_00025;25;;Chemin des lis;85700;85140;La Meilleraie-Tillay;;;-0.894944;46.736613
+85140_0010_00004;4;;Impasse de la corniche;85700;85140;La Meilleraie-Tillay;;;-0.847044;46.740858
+85140_0045_00007;7;;Rue du parc;85700;85140;La Meilleraie-Tillay;;;-0.844012;46.740831
+85140_9xl4tt_00060;60;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.848572;46.7418
+85140_0055_00009;9;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.843373;46.74255
+85140_t28tjv_00020;20;;le puy morin;85700;85140;La Meilleraie-Tillay;;;-0.797524;46.758345
+85140_0020_00006;6;;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.819029;46.75552
+85140_0020_00003;3;;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.817393;46.752634
+85140_0120_00102;102;;Chemin des coquelicots;85700;85140;La Meilleraie-Tillay;;;-0.866146;46.728359
+85140_b014_00003;3;;le bois boissonnière;85700;85140;La Meilleraie-Tillay;;;-0.896874;46.743991
+85140_ukoyru_00001;1;;Route de la Grande Macré;85700;85140;La Meilleraie-Tillay;;;-0.841706;46.752811
+85140_9xl4tt_00027;27;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.847837;46.741399
+85140_0059_00003;3;;Rue de la treille;85700;85140;La Meilleraie-Tillay;;;-0.846808;46.741919
+85140_0023_00052;52;;Rue des fontenelles;85700;85140;La Meilleraie-Tillay;;;-0.816238;46.739912
+85140_0047_00012;12;;Rue des platanes;85700;85140;La Meilleraie-Tillay;;;-0.817843;46.754474
+85140_b219_00001;1;;la petite vinatière;85700;85140;La Meilleraie-Tillay;;;-0.85686;46.746287
+85140_0045_00015;15;;Rue du parc;85700;85140;La Meilleraie-Tillay;;;-0.84544;46.74069
+85140_0022_00007;7;;Rue du grand pré;85700;85140;La Meilleraie-Tillay;;;-0.817575;46.758957
+85140_0155_00003;3;;Rue de la prairie;85700;85140;La Meilleraie-Tillay;;;-0.846057;46.742426
+85140_0054_00004;4;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.838959;46.74293
+85140_0100_00012;12;;Chemin des bleuets;85700;85140;La Meilleraie-Tillay;;;-0.874794;46.719281
+85140_8xwaqh_00003;3;;Chemin de Palliau;85700;85140;La Meilleraie-Tillay;;;-0.843774;46.750201
+85140_ad3yw0_00001;1;;Venelles du Lay;85700;85140;La Meilleraie-Tillay;;;-0.844421;46.739632
+85140_0150_00022;22;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.838893;46.743968
+85140_0036_00003;3;;Rue des meilliers;85700;85140;La Meilleraie-Tillay;;;-0.848554;46.743818
+85140_0006_00014;14;;Rue de la batteuse;85700;85140;La Meilleraie-Tillay;;;-0.840954;46.73853
+85140_0160_00304;304;;Chemin des primevères;85700;85140;La Meilleraie-Tillay;;;-0.865218;46.729391
+85140_0120_00071;71;;Chemin des coquelicots;85700;85140;La Meilleraie-Tillay;;;-0.864729;46.727964
+85140_0150_00033;33;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.837928;46.744304
+85140_0070_00017;17;;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.826542;46.743447
+85140_9xl4tt_00060_b;60;b;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.848553;46.74201
+85140_9xl4tt_00022;22;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.846198;46.741468
+85140_0009_00005;5;;Rue des chaumes;85700;85140;La Meilleraie-Tillay;;;-0.840731;46.742181
+85140_0062_00016;16;;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.847795;46.742545
+85140_0090_00141;141;;Chemin des bergeronnettes;85700;85140;La Meilleraie-Tillay;;;-0.805633;46.752734
+85140_s5ics5_00002;2;;les biallières;85700;85140;La Meilleraie-Tillay;;;-0.831044;46.754342
+85140_t28tjv_00022;22;;le puy morin;85700;85140;La Meilleraie-Tillay;;;-0.798075;46.758425
+85140_0037_00064;64;;Chemin des mésanges;85700;85140;La Meilleraie-Tillay;;;-0.805604;46.755069
+85140_0057_00003;3;;Place des tilleuls;85700;85140;La Meilleraie-Tillay;;;-0.842049;46.740219
+85140_0140_00084;84;;Rue des iris;85700;85140;La Meilleraie-Tillay;;;-0.897004;46.735873
+85140_0018_00001;1;;Rue de la gare;85700;85140;La Meilleraie-Tillay;;;-0.815905;46.752277
+85140_0008_00001;1;;Impasse de la caux;85700;85140;La Meilleraie-Tillay;;;-0.844391;46.740327
+85140_0039_00036;36;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.840358;46.741494
+85140_zwmnqk_00006;6;;Impasse Saint-Martin;85700;85140;La Meilleraie-Tillay;;Lotissement Saint-Martin;-0.850262;46.744142
+85140_0053_00002_b;2;b;Rue serpentine;85700;85140;La Meilleraie-Tillay;;;-0.846823;46.740558
+85140_0070_00011;11;;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.825994;46.744918
+85140_0050_00012;12;;Rue des rosiers;85700;85140;La Meilleraie-Tillay;;;-0.826896;46.746787
+85140_4zd8rv_00001;1;;les carrières;85700;85140;La Meilleraie-Tillay;;;-0.864896;46.741994
+85140_0005_00003;3;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.814391;46.746825
+85140_0015_00002;2;;Rue de la chagnaie;85700;85140;La Meilleraie-Tillay;;;-0.819423;46.756206
+85140_0023_00113;113;;Rue des fontenelles;85700;85140;La Meilleraie-Tillay;;;-0.81689;46.739967
+85140_0150_00024;24;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.839059;46.743834
+85140_fneu9i_00002;2;;le palliau;85700;85140;La Meilleraie-Tillay;;;-0.844612;46.750901
+85140_0120_00035;35;;Chemin des coquelicots;85700;85140;La Meilleraie-Tillay;;;-0.864932;46.728442
+85140_0012_00003;3;;Allée du dail;85700;85140;La Meilleraie-Tillay;;;-0.843864;46.74051
+85140_0040_00005;5;;Rue monte à peine;85700;85140;La Meilleraie-Tillay;;;-0.848401;46.741315
+85140_i3e9o5_00004;4;;la vinatière;85700;85140;La Meilleraie-Tillay;;;-0.855165;46.745609
+85140_0032_00004;4;;Route de la lunelière;85700;85140;La Meilleraie-Tillay;;;-0.813176;46.746584
+85140_0090_00117;117;;Chemin des bergeronnettes;85700;85140;La Meilleraie-Tillay;;;-0.805825;46.752735
+85140_0047_00007;7;;Rue des platanes;85700;85140;La Meilleraie-Tillay;;;-0.81735;46.75463
+85140_0150_00020_bis;20;bis;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.838729;46.744051
+85140_0043_00005;5;;Rue de l'orangerie;85700;85140;La Meilleraie-Tillay;;;-0.841062;46.742769
+85140_0070_00001;1;;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.825414;46.746146
+85140_0155_00001;1;;Rue de la prairie;85700;85140;La Meilleraie-Tillay;;;-0.845032;46.741788
+85140_wr64cj_00002;2;;la lande;85700;85140;La Meilleraie-Tillay;;;-0.877668;46.742235
+85140_0150_00045;45;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.839205;46.743646
+85140_0011_00007;7;;Rue de la coussotte;85700;85140;La Meilleraie-Tillay;;;-0.821768;46.757678
+85140_4muvkn_00004;4;;la maisonnette;85700;85140;La Meilleraie-Tillay;;;-0.899674;46.73251
+85140_0062_00001;1;;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.848453;46.741812
+85140_0050_00010;10;;Rue des rosiers;85700;85140;La Meilleraie-Tillay;;;-0.827049;46.746527
+85140_0025_00002;2;;Rue des javelles;85700;85140;La Meilleraie-Tillay;;;-0.843518;46.739509
+85140_0020_00009_ter;9;ter;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.819186;46.756072
+85140_0019_00002;2;;Impasse des genêts;85700;85140;La Meilleraie-Tillay;;;-0.825545;46.746927
+85140_0015_00010;10;;Rue de la chagnaie;85700;85140;La Meilleraie-Tillay;;;-0.819885;46.756032
+85140_0025_00006;6;;Rue des javelles;85700;85140;La Meilleraie-Tillay;;;-0.843206;46.739801
+85140_0070_00019;19;;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.826566;46.743228
+85140_0160_00244;244;;Chemin des primevères;85700;85140;La Meilleraie-Tillay;;;-0.864971;46.728908
+85140_0002_00001;1;;Rue de l'abreuvoir;85700;85140;La Meilleraie-Tillay;;;-0.825519;46.744277
+85140_0150_00041;41;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.83868;46.743886
+85140_5rk9kd_00003;3;;les loges;85700;85140;La Meilleraie-Tillay;;;-0.893299;46.753436
+85140_9xl4tt_00060_t;60;t;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.848698;46.7421
+85140_0039_00028;28;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.840903;46.740881
+85140_0110_00114;114;;Chemin des chardonnerets;85700;85140;La Meilleraie-Tillay;;;-0.807181;46.754856
+85140_0046_00001;1;;Impasse des peupliers;85700;85140;La Meilleraie-Tillay;;;-0.8495;46.743619
+85140_0039_00030;30;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.840761;46.741042
+85140_pkppfc_00004;4;;Village la Jauffraire;85700;85140;La Meilleraie-Tillay;;;-0.825149;46.741739
+85140_0010_00003;3;;Impasse de la corniche;85700;85140;La Meilleraie-Tillay;;;-0.846839;46.740841
+85140_0005_00015;15;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.814933;46.747859
+85140_0055_00005;5;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.842681;46.742472
+85140_0010_00001;1;;Impasse de la corniche;85700;85140;La Meilleraie-Tillay;;;-0.846732;46.7408
+85140_0003_00017;17;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.843175;46.738348
+85140_0150_00016;16;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.838597;46.744606
+85140_0160_00273;273;;Chemin des primevères;85700;85140;La Meilleraie-Tillay;;;-0.865151;46.728942
+85140_0062_00015;15;;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.846122;46.74284
+85140_x001_00015;15;;Zone artisanale de l'Orangerie;85700;85140;La Meilleraie-Tillay;;;-0.836875;46.744481
+85140_0110_00141;141;;Chemin des chardonnerets;85700;85140;La Meilleraie-Tillay;;;-0.807572;46.754742
+85140_wr64cj_00005;5;;la lande;85700;85140;La Meilleraie-Tillay;;;-0.876565;46.742007
+85140_b223_00003;3;;la pierre blanche;85700;85140;La Meilleraie-Tillay;;;-0.828209;46.749216
+85140_0056_00139;139;;Rue des sources;85700;85140;La Meilleraie-Tillay;;;-0.818294;46.73934
+85140_0007_00003;3;;Rue du chêne vert;85700;85140;La Meilleraie-Tillay;;;-0.81545;46.746051
+85140_0090_00330;330;;Chemin des bergeronnettes;85700;85140;La Meilleraie-Tillay;;;-0.805595;46.75383
+85140_9xl4tt_00001_ter;1;ter;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.844701;46.741644
+85140_0025_00009;9;;Rue des javelles;85700;85140;La Meilleraie-Tillay;;;-0.843139;46.740124
+85140_0039_00017;17;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.840418;46.741726
+85140_0011_00013;13;;Rue de la coussotte;85700;85140;La Meilleraie-Tillay;;;-0.822504;46.7574
+85140_0020_00002_bis;2;bis;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.818612;46.754644
+85140_i3e9o5_00003;3;;la vinatière;85700;85140;La Meilleraie-Tillay;;;-0.855294;46.745568
+85140_0150_00009;9;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.839998;46.744206
+85140_0062_00007;7;;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.848083;46.742647
+85140_0036_00004;4;;Rue des meilliers;85700;85140;La Meilleraie-Tillay;;;-0.848661;46.743801
+85140_0057_00005;5;;Place des tilleuls;85700;85140;La Meilleraie-Tillay;;;-0.841752;46.740005
+85140_0100_00042;42;;Chemin des bleuets;85700;85140;La Meilleraie-Tillay;;;-0.875126;46.71919
+85140_0020_00007;7;;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.817673;46.753163
+85140_0005_00011;11;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.814758;46.747522
+85140_0045_00005_bis;5;bis;Rue du parc;85700;85140;La Meilleraie-Tillay;;;-0.84369;46.740998
+85140_0021_00024;24;;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.822918;46.748073
+85140_0009_00007;7;;Rue des chaumes;85700;85140;La Meilleraie-Tillay;;;-0.840598;46.742133
+85140_0012_00005;5;;Allée du dail;85700;85140;La Meilleraie-Tillay;;;-0.843684;46.740416
+85140_0110_00021;21;;Chemin des chardonnerets;85700;85140;La Meilleraie-Tillay;;;-0.806302;46.754889
+85140_0062_00004;4;;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.848327;46.741795
+85140_0044_00006;6;;Rue des ombrages;85700;85140;La Meilleraie-Tillay;;;-0.844712;46.738269
+85140_0120_00030;30;;Chemin des coquelicots;85700;85140;La Meilleraie-Tillay;;;-0.86507;46.728499
+85140_n3c4nt_00005;5;;la buchetière;85700;85140;La Meilleraie-Tillay;;;-0.803113;46.748515
+85140_b163_00003;3;;la maison neuve;85700;85140;La Meilleraie-Tillay;;;-0.842027;46.75284
+85140_0090_00216;216;;Chemin des bergeronnettes;85700;85140;La Meilleraie-Tillay;;;-0.805067;46.752989
+85140_0021_00016;16;;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.823783;46.748272
+85140_9xl4tt_00005;5;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.845278;46.741453
+85140_0052_00001;1;;Rue des sapins;85700;85140;La Meilleraie-Tillay;;;-0.826226;46.743957
+85140_4muvkn_00002;2;;la maisonnette;85700;85140;La Meilleraie-Tillay;;;-0.899419;46.732274
+85140_0049_00002;2;;Rue du pin parasol;85700;85140;La Meilleraie-Tillay;;;-0.825844;46.747132
+85140_0059_00009;9;;Rue de la treille;85700;85140;La Meilleraie-Tillay;;;-0.845697;46.743524
+85140_0037_00094;94;;Chemin des mésanges;85700;85140;La Meilleraie-Tillay;;;-0.805727;46.755339
+85140_0047_00006;6;;Rue des platanes;85700;85140;La Meilleraie-Tillay;;;-0.817582;46.753957
+85140_0140_00404;404;;Rue des iris;85700;85140;La Meilleraie-Tillay;;;-0.893466;46.737358
+85140_9xl4tt_00028;28;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.846365;46.741425
+85140_0039_00001;1;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.842644;46.739442
+85140_0140_00297;297;;Rue des iris;85700;85140;La Meilleraie-Tillay;;;-0.894594;46.737019
+85140_9xl4tt_00031_bis;31;bis;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.849288;46.742092
+85140_0015_00004;4;;Rue de la chagnaie;85700;85140;La Meilleraie-Tillay;;;-0.819576;46.756196
+85140_0002_00006;6;;Rue de l'abreuvoir;85700;85140;La Meilleraie-Tillay;;;-0.824855;46.744015
+85140_zwmnqk_00015;15;;Impasse Saint-Martin;85700;85140;La Meilleraie-Tillay;;Lotissement Saint-Martin;-0.850473;46.744395
+85140_0023_00068;68;;Rue des fontenelles;85700;85140;La Meilleraie-Tillay;;;-0.816326;46.739885
+85140_n3c4nt_00001;1;;la buchetière;85700;85140;La Meilleraie-Tillay;;;-0.803285;46.748645
+85140_0046_00002;2;;Impasse des peupliers;85700;85140;La Meilleraie-Tillay;;;-0.849463;46.743472
+85140_0003_00012;12;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.84441;46.739356
+85140_a052_00002;2;;Lotissement saint-martin;85700;85140;La Meilleraie-Tillay;;;-0.84983;46.743983
+85140_0053_00007_t;7;t;Rue serpentine;85700;85140;La Meilleraie-Tillay;;;-0.846229;46.740882
+85140_wr64cj_00001;1;;la lande;85700;85140;La Meilleraie-Tillay;;;-0.876911;46.742118
+85140_0040_00011;11;;Rue monte à peine;85700;85140;La Meilleraie-Tillay;;;-0.848222;46.741153
+85140_0037_00150;150;;Chemin des mésanges;85700;85140;La Meilleraie-Tillay;;;-0.805563;46.75581
+85140_0150_00025;25;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.838317;46.744662
+85140_0145_00006;6;;Impasse de la mare;85700;85140;La Meilleraie-Tillay;;;-0.839994;46.743335
+85140_0016_00133;133;;Chemin des fauvettes;85700;85140;La Meilleraie-Tillay;;;-0.806246;46.753437
+85140_t28tjv_00057;57;;le puy morin;85700;85140;La Meilleraie-Tillay;;;-0.797145;46.757767
+85140_0046_00008;8;;Impasse des peupliers;85700;85140;La Meilleraie-Tillay;;;-0.848761;46.743152
+85140_0025_00010;10;;Rue des javelles;85700;85140;La Meilleraie-Tillay;;;-0.843049;46.740082
+85140_0040_00002_ter;2;ter;Rue monte à peine;85700;85140;La Meilleraie-Tillay;;;-0.848506;46.741104
+85140_0044_00001_bis;1;bis;Rue des ombrages;85700;85140;La Meilleraie-Tillay;;;-0.847492;46.740172
+85140_0011_00006;6;;Rue de la coussotte;85700;85140;La Meilleraie-Tillay;;;-0.821838;46.757588
+85140_0120_00060;60;;Chemin des coquelicots;85700;85140;La Meilleraie-Tillay;;;-0.865216;46.728375
+85140_0044_00025;25;;Rue des ombrages;85700;85140;La Meilleraie-Tillay;;;-0.844012;46.738979
+85140_0110_00112;112;;Chemin des chardonnerets;85700;85140;La Meilleraie-Tillay;;;-0.807122;46.754829
+85140_0011_00004;4;;Rue de la coussotte;85700;85140;La Meilleraie-Tillay;;;-0.821449;46.757752
+85140_zwmnqk_00010;10;;Impasse Saint-Martin;85700;85140;La Meilleraie-Tillay;;Lotissement Saint-Martin;-0.850215;46.744489
+85140_0009_00011;11;;Rue des chaumes;85700;85140;La Meilleraie-Tillay;;;-0.840313;46.741988
+85140_9xl4tt_00072;72;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.848803;46.7422
+85140_0020_00017;17;;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.8194;46.756402
+85140_0006_00008;8;;Rue de la batteuse;85700;85140;La Meilleraie-Tillay;;;-0.842214;46.738845
+85140_0059_00003_b;3;b;Rue de la treille;85700;85140;La Meilleraie-Tillay;;;-0.846825;46.741909
+85140_0054_00022;22;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.837969;46.74309
+85140_0005_00026;26;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.815555;46.74886
+85140_0036_00011;11;;Rue des meilliers;85700;85140;La Meilleraie-Tillay;;;-0.847547;46.743293
+85140_9xl4tt_00017_b;17;b;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.846606;46.741236
+85140_0020_00009_bis;9;bis;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.818956;46.755652
+85140_0150_00012;12;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.83895;46.744415
+85140_0055_00017;17;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.844127;46.742647
+85140_0150_00019;19;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.838663;46.744667
+85140_0140_00257;257;;Rue des iris;85700;85140;La Meilleraie-Tillay;;;-0.895135;46.736768
+85140_0009_00003;3;;Rue des chaumes;85700;85140;La Meilleraie-Tillay;;;-0.840707;46.742047
+85140_9xl4tt_00050;50;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.847916;46.741672
+85140_17vg8w_00002;2;;la Rainsandière;85700;85140;La Meilleraie-Tillay;;Lotissement La Rainsandière;-0.823306;46.745584
+85140_0003_00001;1;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.846007;46.741014
+85140_0110_00245;245;;Chemin des chardonnerets;85700;85140;La Meilleraie-Tillay;;;-0.808405;46.754464
+85140_0044_00001;1;;Rue des ombrages;85700;85140;La Meilleraie-Tillay;;;-0.847322;46.740074
+85140_0050_00001;1;;Rue des rosiers;85700;85140;La Meilleraie-Tillay;;;-0.828032;46.74613
+85140_0150_00018;18;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.838128;46.74434
+85140_0040_00001;1;;Rue monte à peine;85700;85140;La Meilleraie-Tillay;;;-0.848332;46.741502
+85140_0016_00230;230;;Chemin des fauvettes;85700;85140;La Meilleraie-Tillay;;;-0.807418;46.753222
+85140_0005_00006;6;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.814665;46.747133
+85140_0062_00026;26;;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.846154;46.742759
+85140_0002_00003_ter;3;ter;Rue de l'abreuvoir;85700;85140;La Meilleraie-Tillay;;;-0.82514;46.744826
+85140_0020_00014;14;;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.819298;46.756036
+85140_syz04p_00003;3;;Rue de la mairie;85700;85140;La Meilleraie-Tillay;;;-0.847346;46.741862
+85140_syz04p_00001;1;;Rue de la mairie;85700;85140;La Meilleraie-Tillay;;;-0.847374;46.741833
+85140_9xl4tt_00042;42;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.847687;46.741458
+85140_cn8dkj_00002;2;;Le Brejeon;85700;85140;La Meilleraie-Tillay;;;-0.795356;46.762906
+85140_0055_00004;4;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.844995;46.742857
+85140_0056_00015;15;;Rue des sources;85700;85140;La Meilleraie-Tillay;;;-0.817365;46.739938
+85140_0062_00007_bis;7;bis;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.847995;46.742751
+85140_9xl4tt_00066;66;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.848655;46.742178
+85140_x001_00009;9;;Zone artisanale de l'Orangerie;85700;85140;La Meilleraie-Tillay;;;-0.837322;46.744897
+85140_0050_00003;3;;Rue des rosiers;85700;85140;La Meilleraie-Tillay;;;-0.827297;46.746384
+85140_9xl4tt_00074;74;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.849191;46.742229
+85140_0015_00006;6;;Rue de la chagnaie;85700;85140;La Meilleraie-Tillay;;;-0.819653;46.756185
+85140_0044_00023;23;;Rue des ombrages;85700;85140;La Meilleraie-Tillay;;;-0.843754;46.7386
+85140_t28tjv_00049;49;;le puy morin;85700;85140;La Meilleraie-Tillay;;;-0.796257;46.757484
+85140_0008_00003;3;;Impasse de la caux;85700;85140;La Meilleraie-Tillay;;;-0.844192;46.740241
+85140_cwhb4e_00001;1;;la daunière;85700;85140;La Meilleraie-Tillay;;;-0.831029;46.742623
+85140_0150_00011;11;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.839772;46.744268
+85140_0011_00009;9;;Rue de la coussotte;85700;85140;La Meilleraie-Tillay;;;-0.822006;46.757587
+85140_0035_00001;1;;Chemin des martinets;85700;85140;La Meilleraie-Tillay;;;-0.805989;46.753002
+85140_ajaatr_00002;2;;les lattries;85700;85140;La Meilleraie-Tillay;;;-0.896303;46.749182
+85140_0039_00034;34;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.84049;46.74135
+85140_17vg8w_00004;4;;la Rainsandière;85700;85140;La Meilleraie-Tillay;;Lotissement La Rainsandière;-0.821762;46.745658
+85140_0003_00019;19;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.843092;46.73824
+85140_0040_00003;3;;Rue monte à peine;85700;85140;La Meilleraie-Tillay;;;-0.848353;46.741444
+85140_0020_00008;8;;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.819077;46.755636
+85140_0003_00006;6;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.845275;46.73988
+85140_9xl4tt_00032;32;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.84657;46.741508
+85140_0057_00008;8;;Place des tilleuls;85700;85140;La Meilleraie-Tillay;;;-0.842543;46.740048
+85140_0090_00077;77;;Chemin des bergeronnettes;85700;85140;La Meilleraie-Tillay;;;-0.806465;46.752881
+85140_0039_00032;32;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.840597;46.741227
+85140_0049_00027;27;;Rue du pin parasol;85700;85140;La Meilleraie-Tillay;;;-0.822719;46.746702
+85140_0025_00001;1;;Rue des javelles;85700;85140;La Meilleraie-Tillay;;;-0.84363;46.739517
+85140_pkppfc_00002;2;;Village la Jauffraire;85700;85140;La Meilleraie-Tillay;;;-0.82303;46.742715
+85140_9xl4tt_00076;76;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.849302;46.742292
+85140_5rk9kd_00002;2;;les loges;85700;85140;La Meilleraie-Tillay;;;-0.892049;46.753024
+85140_b141_00003;3;;la grande orissière;85700;85140;La Meilleraie-Tillay;;;-0.890751;46.750954
+85140_0025_00008;8;;Rue des javelles;85700;85140;La Meilleraie-Tillay;;;-0.843089;46.739945
+85140_0160_00110;110;;Chemin des primevères;85700;85140;La Meilleraie-Tillay;;;-0.863558;46.728706
+85140_0036_00007;7;;Rue des meilliers;85700;85140;La Meilleraie-Tillay;;;-0.847971;46.743515
+85140_0036_00006;6;;Rue des meilliers;85700;85140;La Meilleraie-Tillay;;;-0.848452;46.743691
+85140_0090_00089;89;;Chemin des bergeronnettes;85700;85140;La Meilleraie-Tillay;;;-0.806171;46.7528
+85140_4llwsp_00005;5;;la regouttière;85700;85140;La Meilleraie-Tillay;;;-0.863346;46.734076
+85140_x001_00006;6;;Zone artisanale de l'Orangerie;85700;85140;La Meilleraie-Tillay;;;-0.836499;46.744862
+85140_0039_00015;15;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.840596;46.74143
+85140_0043_00001;1;;Rue de l'orangerie;85700;85140;La Meilleraie-Tillay;;;-0.841631;46.742604
+85140_zwmnqk_00005;5;;Impasse Saint-Martin;85700;85140;La Meilleraie-Tillay;;Lotissement Saint-Martin;-0.850314;46.744041
+85140_0002_00003_bis;3;bis;Rue de l'abreuvoir;85700;85140;La Meilleraie-Tillay;;;-0.825196;46.744794
+85140_0020_00011;11;;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.818574;46.756252
+85140_9xl4tt_00029;29;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.847993;46.741452
+85140_0045_00001;1;;Rue du parc;85700;85140;La Meilleraie-Tillay;;;-0.844243;46.741691
+85140_0120_00159;159;;Chemin des coquelicots;85700;85140;La Meilleraie-Tillay;;;-0.865815;46.727502
+85140_0120_00138;138;;Chemin des coquelicots;85700;85140;La Meilleraie-Tillay;;;-0.865907;46.727713
+85140_0036_00012;12;;Rue des meilliers;85700;85140;La Meilleraie-Tillay;;;-0.847826;46.743367
+85140_0049_00009;9;;Rue du pin parasol;85700;85140;La Meilleraie-Tillay;;;-0.825083;46.746845
+85140_0036_00009;9;;Rue des meilliers;85700;85140;La Meilleraie-Tillay;;;-0.84775;46.743399
+85140_0045_00008;8;;Rue du parc;85700;85140;La Meilleraie-Tillay;;;-0.843117;46.741165
+85140_0054_00018;18;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.838185;46.742721
+85140_0048_00012;12;;Rue de la patrie;85700;85140;La Meilleraie-Tillay;;;-0.8164;46.754443
+85140_zwmnqk_00008;8;;Impasse Saint-Martin;85700;85140;La Meilleraie-Tillay;;Lotissement Saint-Martin;-0.850097;46.744391
+85140_n3c4nt_00003;3;;la buchetière;85700;85140;La Meilleraie-Tillay;;;-0.803196;46.748585
+85140_0054_00016;16;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.838094;46.742508
+85140_zwmnqk_00001;1;;Impasse Saint-Martin;85700;85140;La Meilleraie-Tillay;;Lotissement Saint-Martin;-0.849894;46.743778
+85140_0047_00010;10;;Rue des platanes;85700;85140;La Meilleraie-Tillay;;;-0.817752;46.754294
+85140_s3fzwj_00001;1;;les alouettes;85700;85140;La Meilleraie-Tillay;;;-0.824283;46.74989
+85140_0070_00004;4;;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.826003;46.745701
+85140_9xl4tt_00021;21;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.846788;46.741407
+85140_0003_00007;7;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.845157;46.740342
+85140_0003_00013;13;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.845338;46.740254
+85140_0046_00007;7;;Impasse des peupliers;85700;85140;La Meilleraie-Tillay;;;-0.848564;46.743215
+85140_0055_00001;1;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.842389;46.74236
+85140_x001_00007;7;;Zone artisanale de l'Orangerie;85700;85140;La Meilleraie-Tillay;;;-0.837301;46.744815
+85140_0110_00190;190;;Chemin des chardonnerets;85700;85140;La Meilleraie-Tillay;;;-0.808146;46.754805
+85140_0056_00091;91;;Rue des sources;85700;85140;La Meilleraie-Tillay;;;-0.817903;46.739696
+85140_0006_00010;10;;Rue de la batteuse;85700;85140;La Meilleraie-Tillay;;;-0.841785;46.738756
+85140_0005_00017;17;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.814992;46.747971
+85140_0020_00015;15;;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.819354;46.756343
+85140_9xl4tt_00018;18;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.846243;46.741227
+85140_17vg8w_00012;12;;la Rainsandière;85700;85140;La Meilleraie-Tillay;;Lotissement La Rainsandière;-0.822026;46.745118
+85140_0055_00023;23;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.844868;46.742751
+85140_0003_00023;23;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.842497;46.737824
+85140_0070_00010;10;;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.826254;46.744879
+85140_9xl4tt_00025;25;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.847183;46.741327
+85140_0150_00027;27;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.838125;46.744575
+85140_0043_00002;2;;Rue de l'orangerie;85700;85140;La Meilleraie-Tillay;;;-0.841146;46.742646
+85140_0005_00024;24;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.81547;46.748696
+85140_0150_00017;17;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.838935;46.744557
+85140_0100_00080;80;;Chemin des bleuets;85700;85140;La Meilleraie-Tillay;;;-0.875827;46.718967
+85140_pkppfc_00008;8;;Village la Jauffraire;85700;85140;La Meilleraie-Tillay;;;-0.824119;46.741384
+85140_0047_00004;4;;Rue des platanes;85700;85140;La Meilleraie-Tillay;;;-0.817498;46.753794
+85140_0044_00003;3;;Rue des ombrages;85700;85140;La Meilleraie-Tillay;;;-0.846965;46.739884
+85140_0070_00021;21;;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.826595;46.742989
+85140_8xwaqh_00005;5;;Chemin de Palliau;85700;85140;La Meilleraie-Tillay;;;-0.843249;46.750067
+85140_0110_00130;130;;Chemin des chardonnerets;85700;85140;La Meilleraie-Tillay;;;-0.807373;46.7548
+85140_0005_00001;1;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.8143;46.746651
+85140_0150_00008;8;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.839248;46.744302
+85140_0005_00019;19;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.815225;46.748481
+85140_0005_00005;5;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.814474;46.746983
+85140_0020_00005;5;;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.817531;46.752896
+85140_9xl4tt_00004;4;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.84335;46.741974
+85140_0062_00024;24;;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.846492;46.742861
+85140_0047_00001;1;;Rue des platanes;85700;85140;La Meilleraie-Tillay;;;-0.817573;46.754154
+85140_0155_00001_bis;1;bis;Rue de la prairie;85700;85140;La Meilleraie-Tillay;;;-0.845032;46.741788
+85140_b007_00008;8;;la barre pilot;85700;85140;La Meilleraie-Tillay;;;-0.810444;46.763526
+85140_0049_00029;29;;Rue du pin parasol;85700;85140;La Meilleraie-Tillay;;;-0.822769;46.746749
+85140_4zd8rv_00003;3;;les carrières;85700;85140;La Meilleraie-Tillay;;;-0.867353;46.739029
+85140_0021_00001;1;;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.824811;46.746882
+85140_0021_00018_bis;18;bis;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.823166;46.748329
+85140_0140_00195;195;;Rue des iris;85700;85140;La Meilleraie-Tillay;;;-0.895794;46.736496
+85140_0019_00003;3;;Impasse des genêts;85700;85140;La Meilleraie-Tillay;;;-0.826493;46.746413
+85140_0036_00008;8;;Rue des meilliers;85700;85140;La Meilleraie-Tillay;;;-0.848232;46.743579
+85140_0012_00006;6;;Allée du dail;85700;85140;La Meilleraie-Tillay;;;-0.843237;46.740367
+85140_0003_00009;9;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.845198;46.740303
+85140_0055_00006;6;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.845183;46.742882
+85140_b223_00001;1;;la pierre blanche;85700;85140;La Meilleraie-Tillay;;;-0.829617;46.746992
+85140_9xl4tt_00011;11;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.846129;46.741026
+85140_0150_00020;20;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.838592;46.744098
+85140_0140_00153;153;;Rue des iris;85700;85140;La Meilleraie-Tillay;;;-0.896336;46.736249
+85140_0054_00013;13;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.837877;46.743383
+85140_0039_00005;5;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.842454;46.739366
+85140_0005_00030;30;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.815758;46.749251
+85140_0021_00008_bis;8;bis;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.824025;46.747427
+85140_0025_00022;22;;Rue des javelles;85700;85140;La Meilleraie-Tillay;;;-0.842277;46.741105
+85140_0044_00011;11;;Rue des ombrages;85700;85140;La Meilleraie-Tillay;;;-0.845858;46.739284
+85140_zwmnqk_00011;11;;Impasse Saint-Martin;85700;85140;La Meilleraie-Tillay;;Lotissement Saint-Martin;-0.850684;46.744253
+85140_0023_00120;120;;Rue des fontenelles;85700;85140;La Meilleraie-Tillay;;;-0.816728;46.739959
+85140_0005_00025;25;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.816436;46.750777
+85140_0049_00021;21;;Rue du pin parasol;85700;85140;La Meilleraie-Tillay;;;-0.822859;46.746676
+85140_0005_00002;2;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.814423;46.746666
+85140_0055_00011;11;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.843552;46.742558
+85140_0140_00438;438;;Rue des iris;85700;85140;La Meilleraie-Tillay;;;-0.893091;46.73753
+85140_0150_00001;1;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.839771;46.743712
+85140_9xl4tt_00034;34;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.847112;46.74159
+85140_0090_00107;107;;Chemin des bergeronnettes;85700;85140;La Meilleraie-Tillay;;;-0.805972;46.75275
+85140_0090_00293;293;;Chemin des bergeronnettes;85700;85140;La Meilleraie-Tillay;;;-0.805253;46.753679
+85140_0055_00007;7;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.842719;46.742301
+85140_0053_00002_t;2;t;Rue serpentine;85700;85140;La Meilleraie-Tillay;;;-0.847216;46.740554
+85140_b163_00001;1;;la maison neuve;85700;85140;La Meilleraie-Tillay;;;-0.842178;46.752757
+85140_b007_00012;12;;la barre pilot;85700;85140;La Meilleraie-Tillay;;;-0.81058;46.76376
+85140_0005_00007;7;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.81457;46.747166
+85140_0025_00007;7;;Rue des javelles;85700;85140;La Meilleraie-Tillay;;;-0.843309;46.739953
+85140_0062_00005_b;5;b;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.848199;46.741988
+85140_0020_00018;18;;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.820152;46.757358
+85140_b007_00001;1;;la barre pilot;85700;85140;La Meilleraie-Tillay;;;-0.811546;46.763731
+85140_17vg8w_00018;18;;la Rainsandière;85700;85140;La Meilleraie-Tillay;;Lotissement La Rainsandière;-0.820406;46.745189
+85140_0039_00018;18;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.84144;46.740036
+85140_0022_00005;5;;Rue du grand pré;85700;85140;La Meilleraie-Tillay;;;-0.818772;46.758815
+85140_0009_00015;15;;Rue des chaumes;85700;85140;La Meilleraie-Tillay;;;-0.83975;46.74176
+85140_0003_00015;15;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.844796;46.739708
+85140_0160_00028;28;;Chemin des primevères;85700;85140;La Meilleraie-Tillay;;;-0.862914;46.729328
+85140_b163_00004;4;;la maison neuve;85700;85140;La Meilleraie-Tillay;;;-0.841037;46.7535
+85140_0040_00015;15;;Rue monte à peine;85700;85140;La Meilleraie-Tillay;;;-0.847842;46.740683
+85140_0045_00005;5;;Rue du parc;85700;85140;La Meilleraie-Tillay;;;-0.843614;46.741373
+85140_0005_00004_b;4;b;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.814522;46.746858
+85140_0059_00008;8;;Rue de la treille;85700;85140;La Meilleraie-Tillay;;;-0.84516;46.74357
+85140_0003_00015_bis;15;bis;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.84333;46.738537
+85140_pkppfc_00003;3;;Village la Jauffraire;85700;85140;La Meilleraie-Tillay;;;-0.82432;46.741659
+85140_9xl4tt_00062;62;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.848733;46.741905
+85140_0059_00011;11;;Rue de la treille;85700;85140;La Meilleraie-Tillay;;;-0.846334;46.743694
+85140_0057_00004;4;;Place des tilleuls;85700;85140;La Meilleraie-Tillay;;;-0.841925;46.740114
+85140_0044_00015;15;;Rue des ombrages;85700;85140;La Meilleraie-Tillay;;;-0.844827;46.73872
+85140_zwmnqk_00004;4;;Impasse Saint-Martin;85700;85140;La Meilleraie-Tillay;;Lotissement Saint-Martin;-0.850054;46.744002
+85140_0055_00025;25;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.845077;46.74278
+85140_0044_00021;21;;Rue des ombrages;85700;85140;La Meilleraie-Tillay;;;-0.843815;46.738527
+85140_0047_00019;19;;Rue des platanes;85700;85140;La Meilleraie-Tillay;;;-0.816951;46.755503
+85140_0020_00012;12;;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.819242;46.755928
+85140_0044_00013;13;;Rue des ombrages;85700;85140;La Meilleraie-Tillay;;;-0.845152;46.738859
+85140_0070_00002;2;;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.825918;46.745779
+85140_0025_00018;18;;Rue des javelles;85700;85140;La Meilleraie-Tillay;;;-0.84268;46.740526
+85140_0140_00167;167;;Rue des iris;85700;85140;La Meilleraie-Tillay;;;-0.896102;46.736343
+85140_0023_00116;116;;Rue des fontenelles;85700;85140;La Meilleraie-Tillay;;;-0.816766;46.740022
+85140_9xl4tt_00020;20;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.846152;46.741418
+85140_8xwaqh_00001;1;;Chemin de Palliau;85700;85140;La Meilleraie-Tillay;;;-0.844363;46.750282
+85140_17vg8w_00026;26;;la Rainsandière;85700;85140;La Meilleraie-Tillay;;Lotissement La Rainsandière;-0.82091;46.744624
+85140_0003_00010;10;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.844482;46.739429
+85140_0050_00006;6;;Rue des rosiers;85700;85140;La Meilleraie-Tillay;;;-0.827211;46.746277
+85140_0057_00006;6;;Place des tilleuls;85700;85140;La Meilleraie-Tillay;;;-0.842201;46.739897
+85140_t28tjv_00053;53;;le puy morin;85700;85140;La Meilleraie-Tillay;;;-0.796661;46.757027
+85140_0006_00006;6;;Rue de la batteuse;85700;85140;La Meilleraie-Tillay;;;-0.84266;46.739038
+85140_0011_00015;15;;Rue de la coussotte;85700;85140;La Meilleraie-Tillay;;;-0.822909;46.757276
+85140_0055_00003;3;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.842592;46.742462
+85140_0009_00013;13;;Rue des chaumes;85700;85140;La Meilleraie-Tillay;;;-0.839976;46.741809
+85140_0150_00039;39;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.838508;46.74401
+85140_0003_00011;11;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.845275;46.740274
+85140_0150_00015;15;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.839297;46.744448
+85140_0036_00016;16;;Rue des meilliers;85700;85140;La Meilleraie-Tillay;;;-0.847401;46.743144
+85140_0054_00002;2;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.839108;46.74306
+85140_0047_00013;13;;Rue des platanes;85700;85140;La Meilleraie-Tillay;;;-0.818214;46.755474
+85140_ygmz94_00003;3;;Impasse des Nénuphars;85700;85140;La Meilleraie-Tillay;;;-0.844921;46.742459
+85140_0009_00017;17;;Rue des chaumes;85700;85140;La Meilleraie-Tillay;;;-0.838889;46.741642
+85140_0145_00004;4;;Impasse de la mare;85700;85140;La Meilleraie-Tillay;;;-0.839796;46.743448
+85140_0019_00005;5;;Impasse des genêts;85700;85140;La Meilleraie-Tillay;;;-0.826046;46.746592
+85140_x001_00005;5;;Zone artisanale de l'Orangerie;85700;85140;La Meilleraie-Tillay;;;-0.836984;46.744423
+85140_0017_00275;275;;Rue du cormier;85700;85140;La Meilleraie-Tillay;;;-0.814599;46.741524
+85140_0052_00002;2;;Rue des sapins;85700;85140;La Meilleraie-Tillay;;;-0.82581;46.744005
+85140_9xl4tt_00030;30;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.846555;46.741416
+85140_0062_00012;12;;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.847899;46.742427
+85140_0021_00010;10;;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.824128;46.74769
+85140_fneu9i_00003;3;;le palliau;85700;85140;La Meilleraie-Tillay;;;-0.844108;46.75162
+85140_0018_00005;5;;Rue de la gare;85700;85140;La Meilleraie-Tillay;;;-0.815685;46.752341
+85140_b163_00005;5;;la maison neuve;85700;85140;La Meilleraie-Tillay;;;-0.841892;46.752949
+85140_i3e9o5_00006;6;;la vinatière;85700;85140;La Meilleraie-Tillay;;;-0.85528;46.745684
+85140_b014_00001;1;;le bois boissonnière;85700;85140;La Meilleraie-Tillay;;;-0.896813;46.743859
+85140_9xl4tt_00052;52;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.848074;46.741634
+85140_0023_00084;84;;Rue des fontenelles;85700;85140;La Meilleraie-Tillay;;;-0.816697;46.739906
+85140_0140_00314;314;;Rue des iris;85700;85140;La Meilleraie-Tillay;;;-0.89407;46.736902
+85140_0010_00007;7;;Impasse de la corniche;85700;85140;La Meilleraie-Tillay;;;-0.847067;46.740964
+85140_0049_00001;1;;Rue du pin parasol;85700;85140;La Meilleraie-Tillay;;;-0.82623;46.747242
+85140_pkppfc_00001;1;;Village la Jauffraire;85700;85140;La Meilleraie-Tillay;;;-0.82423;46.741932
+85140_0025_00004;4;;Rue des javelles;85700;85140;La Meilleraie-Tillay;;;-0.843388;46.739666
+85140_9xl4tt_00023;23;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.847109;46.741426
+85140_0140_00100;100;;Rue des iris;85700;85140;La Meilleraie-Tillay;;;-0.89673;46.735983
+85140_0039_00011;11;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.84103;46.740968
+85140_0110_00121;121;;Chemin des chardonnerets;85700;85140;La Meilleraie-Tillay;;;-0.807312;46.754749
+85140_0020_00002;2;;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.817185;46.751961
+85140_s5ics5_00001;1;;les biallières;85700;85140;La Meilleraie-Tillay;;;-0.831185;46.754302
+85140_0049_00017;17;;Rue du pin parasol;85700;85140;La Meilleraie-Tillay;;;-0.823543;46.746202
+85140_0070_00005_bis;5;bis;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.825403;46.745623
+85140_0021_00018;18;;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.823706;46.748417
+85140_b007_00003;3;;la barre pilot;85700;85140;La Meilleraie-Tillay;;;-0.810616;46.763913
+85140_0017_00534;534;;Rue du cormier;85700;85140;La Meilleraie-Tillay;;;-0.817142;46.740235
+85140_0070_00002_ter;2;ter;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.825352;46.746312
+85140_5rk9kd_00001;1;;les loges;85700;85140;La Meilleraie-Tillay;;;-0.892561;46.751982
+85140_0040_00009;9;;Rue monte à peine;85700;85140;La Meilleraie-Tillay;;;-0.848297;46.741223
+85140_0039_00006;6;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.842099;46.73929
+85140_0120_00076;76;;Chemin des coquelicots;85700;85140;La Meilleraie-Tillay;;;-0.865442;46.7282
+85140_0150_00035;35;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.838044;46.744218
+85140_0145_00010;10;;Impasse de la mare;85700;85140;La Meilleraie-Tillay;;;-0.840273;46.74338
+85140_vj0c2r_00002;2;;Route des Carrières;85700;85140;La Meilleraie-Tillay;;;-0.85123;46.742683
+85140_0044_00009;9;;Rue des ombrages;85700;85140;La Meilleraie-Tillay;;;-0.846209;46.739432
+85140_0005_00016;16;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.815113;46.748002
+85140_0150_00005;5;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.83997;46.743934
+85140_0004_00007;7;;Rue de l'ageasse;85700;85140;La Meilleraie-Tillay;;;-0.85019;46.743417
+85140_0070_00003;3;;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.825513;46.746039
+85140_0062_00004_b;4;b;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.84831;46.741796
+85140_0011_00021;21;;Rue de la coussotte;85700;85140;La Meilleraie-Tillay;;;-0.823883;46.756926
+85140_0036_00001;1;;Rue des meilliers;85700;85140;La Meilleraie-Tillay;;;-0.848713;46.743927
+85140_0054_00014;14;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.838201;46.742545
+85140_0025_00008_bis;8;bis;Rue des javelles;85700;85140;La Meilleraie-Tillay;;;-0.843113;46.739894
+85140_0005_00021_bis;21;bis;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.814941;46.748815
+85140_4llwsp_00003;3;;la regouttière;85700;85140;La Meilleraie-Tillay;;;-0.862716;46.733916
+85140_0039_00014;14;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.841622;46.739818
+85140_0047_00009;9;;Rue des platanes;85700;85140;La Meilleraie-Tillay;;;-0.817496;46.754663
+85140_0039_00020;20;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.841344;46.740152
+85140_0090_00250;250;;Chemin des bergeronnettes;85700;85140;La Meilleraie-Tillay;;;-0.804992;46.753306
+85140_0070_00023;23;;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.826214;46.742757
+85140_0045_00012;12;;Rue du parc;85700;85140;La Meilleraie-Tillay;;;-0.843623;46.740865
+85140_0150_00037;37;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.838281;46.744129
+85140_0032_00002;2;;Route de la lunelière;85700;85140;La Meilleraie-Tillay;;;-0.813646;46.746446
+85140_9xl4tt_00009;9;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.845885;46.741115
+85140_b007_00004;4;;la barre pilot;85700;85140;La Meilleraie-Tillay;;;-0.810255;46.763018
+85140_0036_00010;10;;Rue des meilliers;85700;85140;La Meilleraie-Tillay;;;-0.84801;46.743462
+85140_0150_00013;13;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.839641;46.744335
+85140_0090_00199;199;;Chemin des bergeronnettes;85700;85140;La Meilleraie-Tillay;;;-0.805149;46.75302
+85140_0039_00026;26;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.841018;46.740563
+85140_0017_00405;405;;Rue du cormier;85700;85140;La Meilleraie-Tillay;;;-0.815798;46.740602
+85140_0040_00004;4;;Rue monte à peine;85700;85140;La Meilleraie-Tillay;;;-0.848184;46.740792
+85140_0015_00002_bis;2;bis;Rue de la chagnaie;85700;85140;La Meilleraie-Tillay;;;-0.819498;46.756196
+85140_0003_00002_bis;2;bis;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.845397;46.739996
+85140_0055_00015;15;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.84387;46.742599
+85140_0049_00015;15;;Rue du pin parasol;85700;85140;La Meilleraie-Tillay;;;-0.823883;46.746288
+85140_0036_00013;13;;Rue des meilliers;85700;85140;La Meilleraie-Tillay;;;-0.847352;46.743189
+85140_0005_00012;12;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.814938;46.747668
+85140_0021_00008;8;;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.823678;46.74732
+85140_i3e9o5_00005;5;;la vinatière;85700;85140;La Meilleraie-Tillay;;;-0.856508;46.746272
+85140_0053_00007;7;;Rue serpentine;85700;85140;La Meilleraie-Tillay;;;-0.846307;46.740799
+85140_0062_00006_bis;6;bis;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.848118;46.7418
+85140_0052_00003;3;;Rue des sapins;85700;85140;La Meilleraie-Tillay;;;-0.825727;46.744078
+85140_0059_00003_ter;3;ter;Rue de la treille;85700;85140;La Meilleraie-Tillay;;;-0.846593;46.742065
+85140_0048_00006;6;;Rue de la patrie;85700;85140;La Meilleraie-Tillay;;;-0.816955;46.753857
+85140_9xl4tt_00014;14;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.845605;46.741478
+85140_0150_00006;6;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.839428;46.744267
+85140_0016_00276;276;;Chemin des fauvettes;85700;85140;La Meilleraie-Tillay;;;-0.808062;46.75294
+85140_0003_00008;8;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.844913;46.739676
+85140_0040_00007_bis;7;bis;Rue monte à peine;85700;85140;La Meilleraie-Tillay;;;-0.848177;46.741228
+85140_0046_00003;3;;Impasse des peupliers;85700;85140;La Meilleraie-Tillay;;;-0.849104;46.743404
+85140_0054_00011;11;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.837984;46.743342
+85140_0062_00020;20;;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.846954;46.743007
+85140_0043_00004;4;;Rue de l'orangerie;85700;85140;La Meilleraie-Tillay;;;-0.84087;46.742723
+85140_0025_00012;12;;Rue des javelles;85700;85140;La Meilleraie-Tillay;;;-0.842992;46.740147
+85140_0002_00002;2;;Rue de l'abreuvoir;85700;85140;La Meilleraie-Tillay;;;-0.826145;46.744485
+85140_0150_00004;4;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.83962;46.744197
+85140_0022_00002;2;;Rue du grand pré;85700;85140;La Meilleraie-Tillay;;;-0.820293;46.758248
+85140_0110_00140;140;;Chemin des chardonnerets;85700;85140;La Meilleraie-Tillay;;;-0.807507;46.754796
+85140_i3e9o5_00008;8;;la vinatière;85700;85140;La Meilleraie-Tillay;;;-0.855421;46.745775
+85140_0090_00070;70;;Chemin des bergeronnettes;85700;85140;La Meilleraie-Tillay;;;-0.806393;46.752789
+85140_9xl4tt_00005_bis;5;bis;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.845354;46.74142
+85140_0006_00001;1;;Rue de la batteuse;85700;85140;La Meilleraie-Tillay;;;-0.844319;46.739547
+85140_0160_00588;588;;Chemin des primevères;85700;85140;La Meilleraie-Tillay;;;-0.869083;46.729098
+85140_9xl4tt_00032_b;32;b;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.846753;46.741474
+85140_0018_00003;3;;Rue de la gare;85700;85140;La Meilleraie-Tillay;;;-0.815757;46.752309
+85140_b219_00002;2;;la petite vinatière;85700;85140;La Meilleraie-Tillay;;;-0.857851;46.7459
+85140_0036_00002;2;;Rue des meilliers;85700;85140;La Meilleraie-Tillay;;;-0.84884;46.743896
+85140_0055_00025_bis;25;bis;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.845181;46.742792
+85140_0039_00022;22;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.841266;46.740245
+85140_0021_00004_bis;4;bis;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.824052;46.746919
+85140_b007_00006;6;;la barre pilot;85700;85140;La Meilleraie-Tillay;;;-0.810185;46.763375
+85140_0055_00008;8;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.845388;46.742912
+85140_0049_00023;23;;Rue du pin parasol;85700;85140;La Meilleraie-Tillay;;;-0.823024;46.746229
+85140_zwmnqk_00013;13;;Impasse Saint-Martin;85700;85140;La Meilleraie-Tillay;;Lotissement Saint-Martin;-0.850626;46.744292
+85140_0039_00016;16;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.841506;46.739952
+85140_0053_00009;9;;Rue serpentine;85700;85140;La Meilleraie-Tillay;;;-0.846174;46.740944
+85140_0150_00029;29;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.838057;46.744491
+85140_0070_00008;8;;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.826179;46.74494
+85140_0054_00024;24;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.837857;46.743261
+85140_0046_00004;4;;Impasse des peupliers;85700;85140;La Meilleraie-Tillay;;;-0.849253;46.743375
+85140_0160_00374;374;;Chemin des primevères;85700;85140;La Meilleraie-Tillay;;;-0.866074;46.729396
+85140_0140_00310;310;;Rue des iris;85700;85140;La Meilleraie-Tillay;;;-0.894099;46.73694
+85140_b17x90_00005;5;;Zone artisanale du Chêne Vert;85700;85140;La Meilleraie-Tillay;;;-0.816343;46.745397
+85140_zwmnqk_00007;7;;Impasse Saint-Martin;85700;85140;La Meilleraie-Tillay;;Lotissement Saint-Martin;-0.850492;46.744165
+85140_0180_00020;20;;Chemin des roseaux;85700;85140;La Meilleraie-Tillay;;;-0.895136;46.737048
+85140_0120_00013;13;;Chemin des coquelicots;85700;85140;La Meilleraie-Tillay;;;-0.864852;46.728705
+85140_zwmnqk_00009;9;;Impasse Saint-Martin;85700;85140;La Meilleraie-Tillay;;Lotissement Saint-Martin;-0.850791;46.744144
+85140_0059_00006;6;;Rue de la treille;85700;85140;La Meilleraie-Tillay;;;-0.845303;46.743408
+85140_0022_00004_bis;4;bis;Rue du grand pré;85700;85140;La Meilleraie-Tillay;;;-0.819909;46.758395
+85140_0012_00002;2;;Allée du dail;85700;85140;La Meilleraie-Tillay;;;-0.843747;46.740526
+85140_9xl4tt_00010_bis;10;bis;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.844095;46.741892
+85140_0039_00038;38;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.840274;46.741659
+85140_0080_00051;51;;Chemin des ajoncs;85700;85140;La Meilleraie-Tillay;;;-0.894459;46.735777
+85140_0090_00262;262;;Chemin des bergeronnettes;85700;85140;La Meilleraie-Tillay;;;-0.804969;46.753515
+85140_0062_00006;6;;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.84807;46.741842
+85140_x001_00011;11;;Zone artisanale de l'Orangerie;85700;85140;La Meilleraie-Tillay;;;-0.837232;46.744996
+85140_0045_00013;13;;Rue du parc;85700;85140;La Meilleraie-Tillay;;;-0.845104;46.740828
+85140_0110_00278;278;;Chemin des chardonnerets;85700;85140;La Meilleraie-Tillay;;;-0.809546;46.755032
+85140_b17x90_00003;3;;Zone artisanale du Chêne Vert;85700;85140;La Meilleraie-Tillay;;;-0.815523;46.745911
+85140_n3c4nt_00007;7;;la buchetière;85700;85140;La Meilleraie-Tillay;;;-0.802937;46.748367
+85140_0009_00008;8;;Rue des chaumes;85700;85140;La Meilleraie-Tillay;;;-0.839758;46.741695
+85140_0100_00058;58;;Chemin des bleuets;85700;85140;La Meilleraie-Tillay;;;-0.875418;46.719101
+85140_0005_00014;14;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.815019;46.747827
+85140_0090_00278;278;;Chemin des bergeronnettes;85700;85140;La Meilleraie-Tillay;;;-0.804819;46.753759
+85140_9xl4tt_00064;64;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.848816;46.742009
+85140_0140_00050;50;;Rue des iris;85700;85140;La Meilleraie-Tillay;;;-0.897295;46.735742
+85140_0016_00020;20;;Chemin des fauvettes;85700;85140;La Meilleraie-Tillay;;;-0.80592;46.75359
+85140_0011_00013_b;13;b;Rue de la coussotte;85700;85140;La Meilleraie-Tillay;;;-0.822768;46.757289
+85140_0050_00004;4;;Rue des rosiers;85700;85140;La Meilleraie-Tillay;;;-0.827529;46.74593
+85140_0005_00023;23;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.815416;46.74885
+85140_0011_00003;3;;Rue de la coussotte;85700;85140;La Meilleraie-Tillay;;;-0.821338;46.757841
+85140_0005_00013;13;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.814856;46.747713
+85140_0110_00118;118;;Chemin des chardonnerets;85700;85140;La Meilleraie-Tillay;;;-0.807275;46.754927
+85140_0018_00009;9;;Rue de la gare;85700;85140;La Meilleraie-Tillay;;;-0.815487;46.752365
+85140_0054_00006;6;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.838787;46.742743
+85140_0021_00004;4;;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.824191;46.746894
+85140_0042_00002;2;;Rue des noyers;85700;85140;La Meilleraie-Tillay;;;-0.826665;46.74734
+85140_ajaatr_00004;4;;les lattries;85700;85140;La Meilleraie-Tillay;;;-0.897243;46.750169
+85140_0062_00005;5;;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.848263;46.741912
+85140_0150_00023;23;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.838378;46.744773
+85140_b17x90_00002;2;;Zone artisanale du Chêne Vert;85700;85140;La Meilleraie-Tillay;;;-0.81619;46.745389
+85140_0054_00001;1;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.838983;46.743158
+85140_0025_00014;14;;Rue des javelles;85700;85140;La Meilleraie-Tillay;;;-0.842839;46.740354
+85140_9xl4tt_00017;17;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.84654;46.741163
+85140_0037_00170;170;;Chemin des mésanges;85700;85140;La Meilleraie-Tillay;;;-0.80548;46.755974
+85140_0005_00022;22;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.815386;46.748536
+85140_0049_00025;25;;Rue du pin parasol;85700;85140;La Meilleraie-Tillay;;;-0.822795;46.746584
+85140_0047_00018;18;;Rue des platanes;85700;85140;La Meilleraie-Tillay;;;-0.818099;46.75497
+85140_0062_00022;22;;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.846537;46.742913
+85140_0059_00002;2;;Rue de la treille;85700;85140;La Meilleraie-Tillay;;;-0.846282;46.742213
+85140_0047_00002;2;;Rue des platanes;85700;85140;La Meilleraie-Tillay;;;-0.817543;46.753474
+85140_0110_00154;154;;Chemin des chardonnerets;85700;85140;La Meilleraie-Tillay;;;-0.80784;46.7548
+85140_0039_00013;13;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.840771;46.74125
+85140_0040_00002_bis;2;bis;Rue monte à peine;85700;85140;La Meilleraie-Tillay;;;-0.848496;46.741283
+85140_0002_00005;5;;Rue de l'abreuvoir;85700;85140;La Meilleraie-Tillay;;;-0.826065;46.744535
+85140_0140_00239;239;;Rue des iris;85700;85140;La Meilleraie-Tillay;;;-0.895419;46.73665
+85140_0002_00001_ter;1;ter;Rue de l'abreuvoir;85700;85140;La Meilleraie-Tillay;;;-0.82501;46.744787
+85140_9xl4tt_00026;26;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.846293;46.741453
+85140_0047_00003;3;;Rue des platanes;85700;85140;La Meilleraie-Tillay;;;-0.817356;46.75444
+85140_0045_00009;9;;Rue du parc;85700;85140;La Meilleraie-Tillay;;;-0.844184;46.74075
+85140_0010_00005;5;;Impasse de la corniche;85700;85140;La Meilleraie-Tillay;;;-0.846978;46.740912
+85140_17vg8w_00022;22;;la Rainsandière;85700;85140;La Meilleraie-Tillay;;Lotissement La Rainsandière;-0.820244;46.744921
+85140_0003_00018;18;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.842495;46.737623
+85140_0021_00003;3;;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.824524;46.747321
+85140_0059_00007;7;;Rue de la treille;85700;85140;La Meilleraie-Tillay;;;-0.846288;46.742457
+85140_0016_00308;308;;Chemin des fauvettes;85700;85140;La Meilleraie-Tillay;;;-0.808327;46.752814
+85140_4llwsp_00001;1;;la regouttière;85700;85140;La Meilleraie-Tillay;;;-0.862712;46.733772
+85140_0022_00003;3;;Rue du grand pré;85700;85140;La Meilleraie-Tillay;;;-0.819662;46.758359
+85140_0025_00016;16;;Rue des javelles;85700;85140;La Meilleraie-Tillay;;;-0.842763;46.74042
+85140_dl9cfd_00001;1;;Village le Vallereau;85700;85140;La Meilleraie-Tillay;;;-0.864682;46.737335
+85140_0044_00007;7;;Rue des ombrages;85700;85140;La Meilleraie-Tillay;;;-0.846448;46.739595
+85140_0004_00001;1;;Rue de l'ageasse;85700;85140;La Meilleraie-Tillay;;;-0.848507;46.744365
+85140_0004_00009;9;;Rue de l'ageasse;85700;85140;La Meilleraie-Tillay;;;-0.850786;46.743845
+85140_0041_00002;2;;Rue des monts;85700;85140;La Meilleraie-Tillay;;;-0.847471;46.741099
+85140_0140_00037;37;;Rue des iris;85700;85140;La Meilleraie-Tillay;;;-0.897547;46.735728
+85140_0012_00004;4;;Allée du dail;85700;85140;La Meilleraie-Tillay;;;-0.843419;46.740395
+85140_wr64cj_00007;7;;la lande;85700;85140;La Meilleraie-Tillay;;;-0.876471;46.742092
+85140_elgz1y_00001;1;;la motte;85700;85140;La Meilleraie-Tillay;;;-0.874455;46.746643
+85140_0025_00005;5;;Rue des javelles;85700;85140;La Meilleraie-Tillay;;;-0.843405;46.73983
+85140_0150_00003;3;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.839911;46.74384
+85140_0150_00021;21;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.838482;46.744766
+85140_0020_00020;20;;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.82031;46.757553
+85140_syz04p_00012;12;;Rue de la mairie;85700;85140;La Meilleraie-Tillay;;;-0.847683;46.742184
+85140_0100_00110;110;;Chemin des bleuets;85700;85140;La Meilleraie-Tillay;;;-0.87601;46.718921
+85140_0160_00138;138;;Chemin des primevères;85700;85140;La Meilleraie-Tillay;;;-0.863731;46.728523
+85140_0022_00001;1;;Rue du grand pré;85700;85140;La Meilleraie-Tillay;;;-0.820238;46.758204
+85140_0025_00003;3;;Rue des javelles;85700;85140;La Meilleraie-Tillay;;;-0.843496;46.739712
+85140_0054_00017;17;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.837347;46.74361
+85140_0045_00004;4;;Rue du parc;85700;85140;La Meilleraie-Tillay;;;-0.843538;46.741442
+85140_0150_00002;2;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.839814;46.744108
+85140_0070_00014;14;;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.826582;46.74458
+85140_0039_00012;12;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.841681;46.739737
+85140_0005_00028;28;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.815664;46.749072
+85140_0055_00029;29;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.845632;46.742854
+85140_0005_00018;18;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.815201;46.748173
+85140_0002_00003;3;;Rue de l'abreuvoir;85700;85140;La Meilleraie-Tillay;;;-0.825823;46.744425
+85140_4llwsp_00007;7;;la regouttière;85700;85140;La Meilleraie-Tillay;;;-0.863515;46.734065
+85140_0003_00003;3;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.845332;46.740412
+85140_0020_00009;9;;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.818674;46.755098
+85140_0090_00007;7;;Chemin des bergeronnettes;85700;85140;La Meilleraie-Tillay;;;-0.806537;46.753342
+85140_0023_00118;118;;Rue des fontenelles;85700;85140;La Meilleraie-Tillay;;;-0.816748;46.73999
+85140_0055_00010;10;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.845566;46.742936
+85140_0005_00009;9;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.814666;46.747345
+85140_0015_00003;3;;Rue de la chagnaie;85700;85140;La Meilleraie-Tillay;;;-0.819823;46.756175
+85140_0009_00010;10;;Rue des chaumes;85700;85140;La Meilleraie-Tillay;;;-0.839333;46.741619
+85140_0016_00252;252;;Chemin des fauvettes;85700;85140;La Meilleraie-Tillay;;;-0.807678;46.753115
+85140_zwmnqk_00012;12;;Impasse Saint-Martin;85700;85140;La Meilleraie-Tillay;;Lotissement Saint-Martin;-0.850279;46.74452
+85140_0062_00020_b;20;b;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.8466;46.742958
+85140_0021_00012;12;;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.82402;46.747895
+85140_0049_00007;7;;Rue du pin parasol;85700;85140;La Meilleraie-Tillay;;;-0.825225;46.746944
+85140_0049_00013;13;;Rue du pin parasol;85700;85140;La Meilleraie-Tillay;;;-0.824206;46.746394
+85140_b163_00002;2;;la maison neuve;85700;85140;La Meilleraie-Tillay;;;-0.841151;46.753372
+85140_9xl4tt_00024;24;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.846297;46.741563
+85140_0005_00004;4;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.814586;46.74698
+85140_0043_00003;3;;Rue de l'orangerie;85700;85140;La Meilleraie-Tillay;;;-0.841455;46.742666
+85140_wr64cj_00003;3;;la lande;85700;85140;La Meilleraie-Tillay;;;-0.876635;46.74195
+85140_0062_00012_b;12;b;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.847803;46.742469
+85140_0011_00001;1;;Rue de la coussotte;85700;85140;La Meilleraie-Tillay;;;-0.821022;46.757976
+85140_0006_00004;4;;Rue de la batteuse;85700;85140;La Meilleraie-Tillay;;;-0.842843;46.739126
+85140_0047_00005;5;;Rue des platanes;85700;85140;La Meilleraie-Tillay;;;-0.817311;46.754541
+85140_0036_00005;5;;Rue des meilliers;85700;85140;La Meilleraie-Tillay;;;-0.848173;46.743619
+85140_0044_00005;5;;Rue des ombrages;85700;85140;La Meilleraie-Tillay;;;-0.846783;46.739772
+85140_t28tjv_00047;47;;le puy morin;85700;85140;La Meilleraie-Tillay;;;-0.796204;46.757403
+85140_0057_00007;7;;Place des tilleuls;85700;85140;La Meilleraie-Tillay;;;-0.842387;46.739987
+85140_0003_00025;25;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.842381;46.737739
+85140_0047_00014;14;;Rue des platanes;85700;85140;La Meilleraie-Tillay;;;-0.817927;46.754631
+85140_0053_00004;4;;Rue serpentine;85700;85140;La Meilleraie-Tillay;;;-0.846675;46.740632
+85140_fneu9i_00001;1;;le palliau;85700;85140;La Meilleraie-Tillay;;;-0.844934;46.750745
+85140_0021_00008_qua;8;qua;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.82387;46.747352
+85140_0045_00003;3;;Rue du parc;85700;85140;La Meilleraie-Tillay;;;-0.843782;46.741486
+85140_0070_00005;5;;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.82525;46.745743
+85140_ax5ynx_00003;3;;Impasse des Libellules;85700;85140;La Meilleraie-Tillay;;;-0.844212;46.742265
+85140_0053_00007_b;7;b;Rue serpentine;85700;85140;La Meilleraie-Tillay;;;-0.846265;46.740842
+85140_0042_00004;4;;Rue des noyers;85700;85140;La Meilleraie-Tillay;;;-0.826768;46.747377
+85140_0034_00147;147;;Chemin des marguerites;85700;85140;La Meilleraie-Tillay;;;-0.87481;46.718101
+85140_0011_00017;17;;Rue de la coussotte;85700;85140;La Meilleraie-Tillay;;;-0.823258;46.757143
+85140_0021_00020;20;;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.822885;46.749923
+85140_0039_00010;10;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.841786;46.739638
+85140_0034_00104;104;;Chemin des marguerites;85700;85140;La Meilleraie-Tillay;;;-0.874811;46.718454
+85140_0049_00003;3;;Rue du pin parasol;85700;85140;La Meilleraie-Tillay;;;-0.825879;46.747227
+85140_0021_00004_ter;4;ter;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.823782;46.746799
+85140_b141_00002;2;;la grande orissière;85700;85140;La Meilleraie-Tillay;;;-0.891827;46.749326
+85140_0059_00012;12;;Rue de la treille;85700;85140;La Meilleraie-Tillay;;;-0.846035;46.74365
+85140_0057_00001;1;;Place des tilleuls;85700;85140;La Meilleraie-Tillay;;;-0.842241;46.740109
+85140_0047_00008;8;;Rue des platanes;85700;85140;La Meilleraie-Tillay;;;-0.817673;46.754139
+85140_0053_00005;5;;Rue serpentine;85700;85140;La Meilleraie-Tillay;;;-0.846973;46.740552
+85140_0019_00006;6;;Impasse des genêts;85700;85140;La Meilleraie-Tillay;;;-0.825924;46.746804
+85140_0044_00004;4;;Rue des ombrages;85700;85140;La Meilleraie-Tillay;;;-0.844593;46.73835
+85140_b219_00003;3;;la petite vinatière;85700;85140;La Meilleraie-Tillay;;;-0.85754;46.746114
+85140_0062_00013;13;;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.846168;46.742836
+85140_n3c4nt_00009;9;;la buchetière;85700;85140;La Meilleraie-Tillay;;;-0.802739;46.748196
+85140_cwhb4e_00002;2;;la daunière;85700;85140;La Meilleraie-Tillay;;;-0.832296;46.743505
+85140_0055_00013;13;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.843708;46.742576
+85140_0054_00010;10;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.838501;46.74263
+85140_9xl4tt_00048;48;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.847969;46.741573
+85140_0015_00008;8;;Rue de la chagnaie;85700;85140;La Meilleraie-Tillay;;;-0.819775;46.756146
+85140_0070_00007;7;;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.825887;46.745682
+85140_0110_00044;44;;Chemin des chardonnerets;85700;85140;La Meilleraie-Tillay;;;-0.806163;46.755017
+85140_0160_00356;356;;Chemin des primevères;85700;85140;La Meilleraie-Tillay;;;-0.866322;46.729379
+85140_0039_00004;4;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.842204;46.739168
+85140_0062_00007_ter;7;ter;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.847942;46.742825
+85140_0054_00012;12;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.838397;46.7426
+85140_9xl4tt_00003;3;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.845148;46.741508
+85140_i3e9o5_00010;10;;la vinatière;85700;85140;La Meilleraie-Tillay;;;-0.856263;46.746291
+85140_i6ukhj_00001;1;;Impasse des Ormeaux;85700;85140;La Meilleraie-Tillay;;;-0.812575;46.74818
+85140_b17x90_00004;4;;Zone artisanale du Chêne Vert;85700;85140;La Meilleraie-Tillay;;;-0.815822;46.744775
+85140_0016_00192;192;;Chemin des fauvettes;85700;85140;La Meilleraie-Tillay;;;-0.807216;46.753321
+85140_0046_00005;5;;Impasse des peupliers;85700;85140;La Meilleraie-Tillay;;;-0.849001;46.743349
+85140_9xl4tt_00005_qua;5;qua;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.845311;46.741448
+85140_i3e9o5_00002;2;;la vinatière;85700;85140;La Meilleraie-Tillay;;;-0.855104;46.745579
+85140_ygmz94_00001;1;;Impasse des Nénuphars;85700;85140;La Meilleraie-Tillay;;;-0.844791;46.742416
+85140_0019_00001;1;;Impasse des genêts;85700;85140;La Meilleraie-Tillay;;;-0.826258;46.746475
+85140_9xl4tt_00010;10;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.84393;46.741903
+85140_0053_00001;1;;Rue serpentine;85700;85140;La Meilleraie-Tillay;;;-0.847163;46.740566
+85140_t28tjv_00041;41;;le puy morin;85700;85140;La Meilleraie-Tillay;;;-0.795886;46.757083
+85140_0052_00005;5;;Rue des sapins;85700;85140;La Meilleraie-Tillay;;;-0.825508;46.744166
+85140_0050_00014;14;;Rue des rosiers;85700;85140;La Meilleraie-Tillay;;;-0.826417;46.746936
+85140_0053_00003;3;;Rue serpentine;85700;85140;La Meilleraie-Tillay;;;-0.847085;46.74057
+85140_0040_00002;2;;Rue monte à peine;85700;85140;La Meilleraie-Tillay;;;-0.848573;46.741308
+85140_zwmnqk_00003;3;;Impasse Saint-Martin;85700;85140;La Meilleraie-Tillay;;Lotissement Saint-Martin;-0.850075;46.743888
+85140_b217_00003;3;;la petite orissiere;85700;85140;La Meilleraie-Tillay;;;-0.894358;46.749869
+85140_9xl4tt_00011_b;11;b;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.846278;46.741137
+85140_0057_00002;2;;Place des tilleuls;85700;85140;La Meilleraie-Tillay;;;-0.84213;46.740184
+85140_t28tjv_00043;43;;le puy morin;85700;85140;La Meilleraie-Tillay;;;-0.795624;46.757164
+85140_0022_00009;9;;Rue du grand pré;85700;85140;La Meilleraie-Tillay;;;-0.818417;46.759092
+85140_0005_00010;10;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.814851;46.747496
+85140_0021_00008_ter;8;ter;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.824131;46.747461
+85140_0009_00001;1;;Rue des chaumes;85700;85140;La Meilleraie-Tillay;;;-0.841333;46.742124
+85140_0003_00020;20;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.841738;46.737249
+85140_0053_00006;6;;Rue serpentine;85700;85140;La Meilleraie-Tillay;;;-0.846123;46.740483
+85140_0100_00045;45;;Chemin des bleuets;85700;85140;La Meilleraie-Tillay;;;-0.875116;46.719138
+85140_9xl4tt_00001_bis;1;bis;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.844464;46.741662
+85140_9xl4tt_00008;8;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.843726;46.741933
+85140_17vg8w_00014;14;;la Rainsandière;85700;85140;La Meilleraie-Tillay;;Lotissement La Rainsandière;-0.821855;46.745361
+85140_0039_00007;7;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.842027;46.73952
+85140_0020_00022;22;;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.820455;46.757725
+85140_0160_00155;155;;Chemin des primevères;85700;85140;La Meilleraie-Tillay;;;-0.864142;46.727823
+85140_0055_00027;27;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.845365;46.742816
+85140_0062_00008;8;;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.848149;46.741952
+85140_ukoyru_00002;2;;Route de la Grande Macré;85700;85140;La Meilleraie-Tillay;;;-0.839909;46.752176
+85140_zmd994_00001;1;;la garenne;85700;85140;La Meilleraie-Tillay;;;-0.875573;46.746734
+85140_b301_00001;1;;l'ouche des trois saules;85700;85140;La Meilleraie-Tillay;;;-0.830232;46.745955
+85140_b217_00001;1;;la petite orissiere;85700;85140;La Meilleraie-Tillay;;;-0.894765;46.749337
+85140_syz04p_00005;5;;Rue de la mairie;85700;85140;La Meilleraie-Tillay;;;-0.847154;46.741898
+85140_0045_00010;10;;Rue du parc;85700;85140;La Meilleraie-Tillay;;;-0.843065;46.741045
+85140_0053_00002;2;;Rue serpentine;85700;85140;La Meilleraie-Tillay;;;-0.847008;46.740462
+85140_ukoyru_00003;3;;Route de la Grande Macré;85700;85140;La Meilleraie-Tillay;;;-0.841538;46.752755
+85140_0003_00005;5;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.845211;46.740405
+85140_0080_00023;23;;Chemin des ajoncs;85700;85140;La Meilleraie-Tillay;;;-0.894157;46.735914
+85140_9xl4tt_00015;15;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.846538;46.741273
+85140_0003_00021;21;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.842993;46.738142
+85140_0033_00493;493;;Chemin des lis;85700;85140;La Meilleraie-Tillay;;;-0.889597;46.734325
+85140_0012_00001;1;;Allée du dail;85700;85140;La Meilleraie-Tillay;;;-0.844072;46.740622
+85140_0080_00035;35;;Chemin des ajoncs;85700;85140;La Meilleraie-Tillay;;;-0.894472;46.735927
+85140_0054_00003;3;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.838899;46.743082
+85140_0145_00002;2;;Impasse de la mare;85700;85140;La Meilleraie-Tillay;;;-0.839622;46.743531
+85140_0005_00020;20;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.8153;46.748371
+85140_0033_00027;27;;Chemin des lis;85700;85140;La Meilleraie-Tillay;;;-0.894542;46.736531
+85140_0145_00008;8;;Impasse de la mare;85700;85140;La Meilleraie-Tillay;;;-0.840167;46.743324
+85140_0062_00018;18;;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.847209;46.743077
+85140_b007_00002;2;;la barre pilot;85700;85140;La Meilleraie-Tillay;;;-0.810606;46.763224
+85140_x001_00013;13;;Zone artisanale de l'Orangerie;85700;85140;La Meilleraie-Tillay;;;-0.837037;46.744847
+85140_0070_00012;12;;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.826509;46.744626
+85140_0034_00091;91;;Chemin des marguerites;85700;85140;La Meilleraie-Tillay;;;-0.874399;46.718316
+85140_0150_00026;26;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.839359;46.743706
+85140_0021_00002;2;;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.824605;46.74699
+85140_0047_00016;16;;Rue des platanes;85700;85140;La Meilleraie-Tillay;;;-0.818015;46.754804
+85140_0020_00001_b;1;b;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.817223;46.752305
+85140_17vg8w_00010;10;;la Rainsandière;85700;85140;La Meilleraie-Tillay;;Lotissement La Rainsandière;-0.82212;46.74519
+85140_0045_00014;14;;Rue du parc;85700;85140;La Meilleraie-Tillay;;;-0.845238;46.740698
+85140_ax5ynx_00001;1;;Impasse des Libellules;85700;85140;La Meilleraie-Tillay;;;-0.844065;46.742291
+85140_0033_00079;79;;Chemin des lis;85700;85140;La Meilleraie-Tillay;;;-0.894388;46.73625
+85140_0025_00030;30;;Rue des javelles;85700;85140;La Meilleraie-Tillay;;;-0.841351;46.741878
+85140_0120_00069;69;;Chemin des coquelicots;85700;85140;La Meilleraie-Tillay;;;-0.864288;46.727968
+85140_ax5ynx_00005;5;;Impasse des Libellules;85700;85140;La Meilleraie-Tillay;;;-0.844246;46.742313
+85140_0055_00019;19;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.844327;46.742676
+85140_9xl4tt_00005_ter;5;ter;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.845307;46.741425
+85140_0150_00031;31;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.837952;46.744409
+85140_0007_00001;1;;Rue du chêne vert;85700;85140;La Meilleraie-Tillay;;;-0.814744;46.74622
+85140_0004_00003;3;;Rue de l'ageasse;85700;85140;La Meilleraie-Tillay;;;-0.848961;46.744124
+85140_0054_00020;20;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.838058;46.74292
+85140_0150_00010;10;;Rue du beau pommier;85700;85140;La Meilleraie-Tillay;;;-0.839086;46.744369
+85140_0044_00001_ter;1;ter;Rue des ombrages;85700;85140;La Meilleraie-Tillay;;;-0.847116;46.739961
+85140_0090_00041;41;;Chemin des bergeronnettes;85700;85140;La Meilleraie-Tillay;;;-0.806577;46.753043
+85140_0049_00011;11;;Rue du pin parasol;85700;85140;La Meilleraie-Tillay;;;-0.824684;46.746618
+85140_b141_00001;1;;la grande orissière;85700;85140;La Meilleraie-Tillay;;;-0.890926;46.750731
+85140_0021_00006;6;;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.824437;46.74724
+85140_0011_00011;11;;Rue de la coussotte;85700;85140;La Meilleraie-Tillay;;;-0.822273;46.757486
+85140_0055_00002;2;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.844766;46.742824
+85140_0005_00021;21;;Rue de la baudrière;85700;85140;La Meilleraie-Tillay;;;-0.815027;46.748773
+85140_0052_00004;4;;Rue des sapins;85700;85140;La Meilleraie-Tillay;;;-0.825518;46.744101
+85140_0062_00009;9;;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.847608;46.742785
+85140_0040_00007;7;;Rue monte à peine;85700;85140;La Meilleraie-Tillay;;;-0.848349;46.74127
+85140_0054_00009;9;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.838224;46.743212
+85140_17vg8w_00020;20;;la Rainsandière;85700;85140;La Meilleraie-Tillay;;Lotissement La Rainsandière;-0.820176;46.745125
+85140_0055_00021;21;;Rue du stade;85700;85140;La Meilleraie-Tillay;;;-0.844548;46.742705
+85140_0054_00005;5;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.838732;46.742917
+85140_0039_00008;8;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.841907;46.739495
+85140_0003_00004;4;;Rue de l'adret;85700;85140;La Meilleraie-Tillay;;;-0.84552;46.739903
+85140_0059_00001_bis;1;bis;Rue de la treille;85700;85140;La Meilleraie-Tillay;;;-0.846992;46.741713
+85140_0023_00097;97;;Rue des fontenelles;85700;85140;La Meilleraie-Tillay;;;-0.816842;46.739906
+85140_0009_00006;6;;Rue des chaumes;85700;85140;La Meilleraie-Tillay;;;-0.840778;46.741897
+85140_0070_00009;9;;Rue des vignes;85700;85140;La Meilleraie-Tillay;;;-0.82599;46.745567
+85140_0039_00002;2;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.842284;46.739192
+85140_4e0o43_00001;1;;bourgneuf;85700;85140;La Meilleraie-Tillay;;;-0.847936;46.745422
+85140_0062_00024_b;24;b;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.846292;46.742804
+85140_0015_00001;1;;Rue de la chagnaie;85700;85140;La Meilleraie-Tillay;;;-0.819601;46.756242
+85140_0020_00004;4;;Rue de la gandouinière;85700;85140;La Meilleraie-Tillay;;;-0.818972;46.755408
+85140_0062_00003;3;;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.848311;46.741891
+85140_0054_00008;8;;Impasse des semailles;85700;85140;La Meilleraie-Tillay;;;-0.838671;46.742691
+85140_0049_00019;19;;Rue du pin parasol;85700;85140;La Meilleraie-Tillay;;;-0.823235;46.746182
+85140_17vg8w_00016;16;;la Rainsandière;85700;85140;La Meilleraie-Tillay;;Lotissement La Rainsandière;-0.820472;46.74527
+85140_0039_00024;24;;Rue des moissons;85700;85140;La Meilleraie-Tillay;;;-0.841145;46.740407
+85140_0021_00014;14;;Rue des grands chênes;85700;85140;La Meilleraie-Tillay;;;-0.823463;46.747548
+85140_0022_00011;11;;Rue du grand pré;85700;85140;La Meilleraie-Tillay;;;-0.818927;46.759284
+85140_0034_00118;118;;Chemin des marguerites;85700;85140;La Meilleraie-Tillay;;;-0.875204;46.718235
+85140_0045_00002;2;;Rue du parc;85700;85140;La Meilleraie-Tillay;;;-0.843728;46.741524
+85140_i3e9o5_00001;1;;la vinatière;85700;85140;La Meilleraie-Tillay;;;-0.853859;46.745258
+85140_t28tjv_00045;45;;le puy morin;85700;85140;La Meilleraie-Tillay;;;-0.795852;46.757241
+85140_t28tjv_00024;24;;le puy morin;85700;85140;La Meilleraie-Tillay;;;-0.798231;46.758448
+85140_0006_00002;2;;Rue de la batteuse;85700;85140;La Meilleraie-Tillay;;;-0.84411;46.739395
+85140_0059_00005;5;;Rue de la treille;85700;85140;La Meilleraie-Tillay;;;-0.846416;46.742238
+85140_0036_00014;14;;Rue des meilliers;85700;85140;La Meilleraie-Tillay;;;-0.847603;46.743251
+85140_17vg8w_00006;6;;la Rainsandière;85700;85140;La Meilleraie-Tillay;;Lotissement La Rainsandière;-0.821936;46.745395
+85140_pkppfc_00006;6;;Village la Jauffraire;85700;85140;La Meilleraie-Tillay;;;-0.824267;46.741452
+85140_0062_00002;2;;Rue des vergers;85700;85140;La Meilleraie-Tillay;;;-0.848385;46.741783
+85140_0025_00020;20;;Rue des javelles;85700;85140;La Meilleraie-Tillay;;;-0.842546;46.740623
+85140_0034_00133;133;;Chemin des marguerites;85700;85140;La Meilleraie-Tillay;;;-0.875122;46.718095
+85140_9xl4tt_00002;2;;Rue de la diorite/rue diorite;85700;85140;La Meilleraie-Tillay;;;-0.843195;46.741999

@@ -1,0 +1,633 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+77027_xxjdwt_00016;16;;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.497248;48.142791
+77027_33uxm3_00014;14;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.521313;48.135007
+77027_33uxm3_00027;27;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.520035;48.13421
+77027_33uxm3_00035_bis;35;bis;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.519922;48.133699
+77027_0026nk_00050_bis;50;bis;rue de  la Commanderie;77890;77027;Beaumont-du-Gâtinais;;;2.51846;48.130661
+77027_3rr73x_00081;81;;rue des Montagnes;77890;77027;Beaumont-du-Gâtinais;;;2.519409;48.125527
+77027_zle5te_00076;76;;rue des Marais;77890;77027;Beaumont-du-Gâtinais;;;2.520254;48.125624
+77027_0160_00016;16;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.473905;48.141089
+77027_0370_00002;2;;Rue des Ormeaux;77890;77027;Beaumont-du-Gâtinais;;;2.480564;48.139924
+77027_0140_00014;14;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477643;48.138374
+77027_0380_00012;12;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.475417;48.135696
+77027_0380_00041;41;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.478437;48.133798
+77027_0280_00004;4;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475054;48.136611
+77027_0280_00035;35;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476221;48.137732
+77027_0280_00046;46;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.47663;48.138388
+77027_0280_00051;51;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476508;48.138189
+77027_0280_00067;67;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476272;48.138683
+77027_0280_00075;75;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476386;48.139407
+77027_0280_00079;79;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476252;48.13962
+77027_0280_00070_a;70;a;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476511;48.139325
+77027_0200_00013;13;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.475968;48.136613
+77027_0200_00020;20;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.475767;48.13643
+77027_0200_00025;25;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476543;48.136972
+77027_0200_00033;33;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.477027;48.137249
+77027_0200_00044;44;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.477664;48.137582
+77027_0200_00069;69;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.480927;48.13815
+77027_0200_00058_bis;58;bis;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.479868;48.137925
+77027_0200_00063_ter;63;ter;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.480121;48.138001
+77027_0020_00001;1;;Faubourg Casseaux;77890;77027;Beaumont-du-Gâtinais;;;2.480998;48.138498
+77027_0020_00012;12;;Faubourg Casseaux;77890;77027;Beaumont-du-Gâtinais;;;2.48113;48.139283
+77027_sc960z_00001;1;;Le Mesnil;77890;77027;Beaumont-du-Gâtinais;;;2.448667;48.132386
+77027_6jh09a_00003;3;;rue de Château-Landon;77890;77027;Beaumont-du-Gâtinais;;;2.523332;48.136598
+77027_33uxm3_00018;18;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.520694;48.134496
+77027_33uxm3_00024;24;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.520378;48.134272
+77027_0160_00027;27;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.471925;48.141713
+77027_0160_00034;34;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.471332;48.142155
+77027_0140_00003;3;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477697;48.138083
+77027_0140_00005_bis;5;bis;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477626;48.138283
+77027_0380_00021;21;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.477321;48.135139
+77027_0380_00029;29;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.477665;48.134843
+77027_0380_00034;34;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.476272;48.135413
+77027_0380_00044;44;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.47757;48.134843
+77027_0280_00001;1;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.47483;48.136531
+77027_0280_00013;13;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475499;48.137091
+77027_0280_00054;54;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476628;48.138717
+77027_0200_00017;17;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476138;48.136718
+77027_0200_00049;49;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.477649;48.137834
+77027_0200_00060;60;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.480003;48.137952
+77027_0200_00065;65;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.480311;48.138021
+77027_0020_00004;4;;Faubourg Casseaux;77890;77027;Beaumont-du-Gâtinais;;;2.481087;48.13869
+77027_0020_00009;9;;Faubourg Casseaux;77890;77027;Beaumont-du-Gâtinais;;;2.480931;48.139007
+77027_0060_00017;17;;Chemin du Coudray;77890;77027;Beaumont-du-Gâtinais;;;2.472082;48.140674
+77027_0220_00015;15;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.483835;48.137481
+77027_0220_00034;34;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.486274;48.137132
+77027_0120_00002;2;;Place de l'Eglise;77890;77027;Beaumont-du-Gâtinais;;;2.474602;48.136601
+77027_0260_00005;5;;Rue du Mail Nord;77890;77027;Beaumont-du-Gâtinais;;;2.477574;48.138929
+77027_b112_00004;4;;Lotissement du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.473966;48.142422
+77027_b112_00012;12;;Lotissement du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.475734;48.142428
+77027_0480_00003;3;;Route de Puiseaux;77890;77027;Beaumont-du-Gâtinais;;;2.476019;48.140861
+77027_0013_00005;5;;Chemin de Boesses;77890;77027;Beaumont-du-Gâtinais;;;2.474323;48.142222
+77027_0011_00193;193;;Rue de l'Avoine;77890;77027;Beaumont-du-Gâtinais;;;2.488813;48.141834
+77027_0011_00333;333;;Rue de l'Avoine;77890;77027;Beaumont-du-Gâtinais;;;2.490599;48.14186
+77027_0490_00248;248;;Rue du Tournesol;77890;77027;Beaumont-du-Gâtinais;;;2.489374;48.139914
+77027_0650_00001;1;;Zone Industrielle;77890;77027;Beaumont-du-Gâtinais;;;2.46837;48.143737
+77027_0020_00017;17;;Faubourg Casseaux;77890;77027;Beaumont-du-Gâtinais;;;2.480989;48.139539
+77027_0220_00007;7;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.482143;48.137753
+77027_0220_00018;18;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.484616;48.137234
+77027_0220_00026;26;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.485517;48.137162
+77027_0040_00002;2;;Rue du Cimetière;77890;77027;Beaumont-du-Gâtinais;;;2.476764;48.139903
+77027_0180_00001;1;;Route de Gaubertin;77890;77027;Beaumont-du-Gâtinais;;;2.478054;48.133709
+77027_b112_00015;15;;Lotissement du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.475254;48.142757
+77027_0100_00005;5;;Impasse de l’Ecritoire;77890;77027;Beaumont-du-Gâtinais;;;2.474266;48.135514
+77027_0240_00004;4;;Rue du Mail Est;77890;77027;Beaumont-du-Gâtinais;;;2.478527;48.138172
+77027_0240_00007;7;;Rue du Mail Est;77890;77027;Beaumont-du-Gâtinais;;;2.478063;48.139799
+77027_0470_00001;1;;Rue des Prunus;77890;77027;Beaumont-du-Gâtinais;;;2.478089;48.140003
+77027_0080_00004;4;;Rue à Dieu;77890;77027;Beaumont-du-Gâtinais;;;2.477135;48.137855
+77027_0490_00026;26;;Rue du Tournesol;77890;77027;Beaumont-du-Gâtinais;;;2.487349;48.141277
+77027_0365_00008;8;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.479314;48.139336
+77027_b023_00061;61;;Chemin de Sceaux;77890;77027;Beaumont-du-Gâtinais;;;2.520765;48.128131
+77027_xxjdwt_00001;1;;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.492764;48.143965
+77027_33uxm3_00009;9;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.521945;48.135534
+77027_33uxm3_00013;13;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.521274;48.13507
+77027_33uxm3_00047;47;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.519081;48.13148
+77027_0026nk_00050;50;;rue de  la Commanderie;77890;77027;Beaumont-du-Gâtinais;;;2.518763;48.130305
+77027_0026nk_00054;54;;rue de  la Commanderie;77890;77027;Beaumont-du-Gâtinais;;;2.519378;48.129548
+77027_3rr73x_00079;79;;rue des Montagnes;77890;77027;Beaumont-du-Gâtinais;;;2.51949;48.125655
+77027_0160_00032;32;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.471507;48.142082
+77027_0160_00040;40;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.470596;48.142463
+77027_xxjdwt_00006;6;;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.493666;48.143982
+77027_xxjdwt_00013_b;13;b;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.494853;48.143791
+77027_9imtag_00021;21;;Impasse du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.496948;48.139124
+77027_6jh09a_00002;2;;rue de Château-Landon;77890;77027;Beaumont-du-Gâtinais;;;2.523529;48.136701
+77027_33uxm3_00023;23;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.52024;48.134443
+77027_0026nk_00059;59;;rue de  la Commanderie;77890;77027;Beaumont-du-Gâtinais;;;2.519974;48.128873
+77027_zle5te_00074;74;;rue des Marais;77890;77027;Beaumont-du-Gâtinais;;;2.519785;48.12589
+77027_0160_00035;35;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.470624;48.142293
+77027_0160_00043;43;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.469429;48.142822
+77027_0370_00003;3;;Rue des Ormeaux;77890;77027;Beaumont-du-Gâtinais;;;2.478843;48.139914
+77027_0140_00009;9;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.47734;48.138508
+77027_0380_00001;1;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.475265;48.135836
+77027_0380_00019;19;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.476938;48.135261
+77027_0380_00033;33;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.477755;48.134755
+77027_0380_00064;64;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.478963;48.132245
+77027_0280_00007;7;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475172;48.136822
+77027_0280_00020;20;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475677;48.137158
+77027_0280_00031;31;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.47614;48.137636
+77027_0280_00056;56;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476567;48.139054
+77027_0280_00076;76;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476378;48.139883
+77027_0200_00011;11;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.475863;48.136554
+77027_0200_00019;19;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.47626;48.136795
+77027_0200_00051;51;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.478168;48.137769
+77027_0200_00054;54;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.47912;48.137834
+77027_0200_00067;67;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.480602;48.138062
+77027_0060_00001;1;;Chemin du Coudray;77890;77027;Beaumont-du-Gâtinais;;;2.475442;48.139237
+77027_0220_00003;3;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.481624;48.137808
+77027_0220_00013;13;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.483563;48.137584
+77027_0220_00028;28;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.485717;48.137153
+77027_b112_00014;14;;Lotissement du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.475491;48.142815
+77027_0013_00003;3;;Chemin de Boesses;77890;77027;Beaumont-du-Gâtinais;;;2.474566;48.142191
+77027_0011_00289;289;;Rue de l'Avoine;77890;77027;Beaumont-du-Gâtinais;;;2.489943;48.142122
+77027_0361_00156;156;;Rue de l'Orge;77890;77027;Beaumont-du-Gâtinais;;;2.48789;48.142333
+77027_0485_00036;36;;Rue du Seigle;77890;77027;Beaumont-du-Gâtinais;;;2.489052;48.140395
+77027_0485_00187;187;;Rue du Seigle;77890;77027;Beaumont-du-Gâtinais;;;2.490081;48.141566
+77027_0365_00007;7;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.47943;48.139365
+77027_0365_00010;10;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.479322;48.13919
+77027_0365_00022;22;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.480196;48.139616
+77027_0380_00038;38;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.476439;48.135361
+77027_0380_00043;43;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.478544;48.133528
+77027_0380_00046;46;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.477696;48.134721
+77027_0280_00003;3;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.474918;48.136613
+77027_0280_00037;37;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476277;48.1378
+77027_0280_00040;40;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476598;48.138132
+77027_0280_00053;53;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476524;48.138293
+77027_0280_00073;73;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476424;48.139287
+77027_0200_00027;27;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476579;48.136986
+77027_0200_00039;39;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.477352;48.137459
+77027_0200_00042;42;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.477281;48.137307
+77027_0200_00046;46;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.478012;48.137717
+77027_0200_00014_b;14;b;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476165;48.136016
+77027_0200_00067_bis;67;bis;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.480817;48.138096
+77027_0220_00025;25;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.485086;48.137222
+77027_0180_00003;3;;Route de Gaubertin;77890;77027;Beaumont-du-Gâtinais;;;2.477764;48.133396
+77027_0180_00011;11;;Route de Gaubertin;77890;77027;Beaumont-du-Gâtinais;;;2.476007;48.13221
+77027_b112_00001;1;;Lotissement du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.475195;48.14216
+77027_b112_00006;6;;Lotissement du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.473491;48.142596
+77027_b112_00009;9;;Lotissement du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.474285;48.142737
+77027_0480_00010;10;;Route de Puiseaux;77890;77027;Beaumont-du-Gâtinais;;;2.47612;48.141126
+77027_0240_00006;6;;Rue du Mail Est;77890;77027;Beaumont-du-Gâtinais;;;2.478415;48.138559
+77027_0080_00003;3;;Rue à Dieu;77890;77027;Beaumont-du-Gâtinais;;;2.476966;48.137877
+77027_0360_00004;4;;Route de Nemours;77890;77027;Beaumont-du-Gâtinais;;;2.476579;48.140181
+77027_0360_00001_bis;1;bis;Route de Nemours;77890;77027;Beaumont-du-Gâtinais;;;2.476808;48.140474
+77027_0650_00007;7;;Zone Industrielle;77890;77027;Beaumont-du-Gâtinais;;;2.46802;48.142082
+77027_xxjdwt_00002;2;;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.492905;48.143906
+77027_xxjdwt_00007;7;;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.493948;48.143901
+77027_33uxm3_00007;7;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.5221;48.135702
+77027_33uxm3_00033;33;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.520151;48.133962
+77027_0026nk_00051;51;;rue de  la Commanderie;77890;77027;Beaumont-du-Gâtinais;;;2.518904;48.13039
+77027_zle5te_00077_bis;77;bis;rue des Marais;77890;77027;Beaumont-du-Gâtinais;;;2.51982;48.125521
+77027_0160_00008;8;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.474861;48.140694
+77027_0160_00022;22;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.472718;48.141557
+77027_0160_00037;37;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.47051;48.142343
+77027_0160_00046;46;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.470099;48.143412
+77027_0140_00007;7;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477541;48.138494
+77027_0140_00028;28;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.47782;48.138611
+77027_0380_00006;6;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.475285;48.135756
+77027_0380_00015;15;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.476619;48.135367
+77027_0380_00052;52;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.477949;48.134436
+77027_0280_00018;18;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475638;48.137129
+77027_0280_00043;43;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476395;48.137921
+77027_0280_00062;62;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.477108;48.139195
+77027_0280_00070;70;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476502;48.139362
+77027_0200_00005;5;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.475531;48.136359
+77027_0200_00008;8;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.475412;48.136193
+77027_0200_00036;36;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476633;48.136929
+77027_0060_00003;3;;Chemin du Coudray;77890;77027;Beaumont-du-Gâtinais;;;2.475337;48.139271
+77027_0120_00008;8;;Place de l'Eglise;77890;77027;Beaumont-du-Gâtinais;;;2.473784;48.13634
+77027_0180_00009;9;;Route de Gaubertin;77890;77027;Beaumont-du-Gâtinais;;;2.476819;48.132444
+77027_0049_00003;3;;Chemin de la Conduite;77890;77027;Beaumont-du-Gâtinais;;;2.481767;48.138498
+77027_0480_00012;12;;Route de Puiseaux;77890;77027;Beaumont-du-Gâtinais;;;2.476127;48.141316
+77027_0501_00004;4;;Ruelle des Clos;77890;77027;Beaumont-du-Gâtinais;;;2.477461;48.135701
+77027_0037_00001;1;;Chemin Champion;77890;77027;Beaumont-du-Gâtinais;;;2.477514;48.132332
+77027_0360_00003;3;;Route de Nemours;77890;77027;Beaumont-du-Gâtinais;;;2.477009;48.140606
+77027_0011_00259;259;;Rue de l'Avoine;77890;77027;Beaumont-du-Gâtinais;;;2.489592;48.141936
+77027_0012_00200;200;;Rue du Blé;77890;77027;Beaumont-du-Gâtinais;;;2.487782;48.142872
+77027_0012_00275;275;;Rue du Blé;77890;77027;Beaumont-du-Gâtinais;;;2.488651;48.143493
+77027_0361_00051;51;;Rue de l'Orge;77890;77027;Beaumont-du-Gâtinais;;;2.488865;48.143125
+77027_0361_00194;194;;Rue de l'Orge;77890;77027;Beaumont-du-Gâtinais;;;2.48791;48.141986
+77027_0485_00032;32;;Rue du Seigle;77890;77027;Beaumont-du-Gâtinais;;;2.489017;48.140352
+77027_0650_00005;5;;Zone Industrielle;77890;77027;Beaumont-du-Gâtinais;;;2.468216;48.142283
+77027_0032_00018;18;;Impasse des Cerisiers;77890;77027;Beaumont-du-Gâtinais;;;2.47996;48.138718
+77027_sc960z_00002;2;;Le Mesnil;77890;77027;Beaumont-du-Gâtinais;;;2.448195;48.132174
+77027_xxjdwt_00012;12;;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.494965;48.143696
+77027_33uxm3_00019;19;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.520743;48.134922
+77027_0026nk_00067;67;;rue de  la Commanderie;77890;77027;Beaumont-du-Gâtinais;;;2.519301;48.127775
+77027_0160_00002;2;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.475818;48.1403
+77027_0160_00006;6;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.475225;48.140537
+77027_0160_00011;11;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.474456;48.140664
+77027_0160_00023;23;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.472248;48.141575
+77027_0160_00037_bis;37;bis;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.470434;48.142374
+77027_0140_00012;12;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477692;48.138241
+77027_0140_00020;20;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477728;48.138521
+77027_0140_00005_ter;5;ter;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477605;48.138337
+77027_0380_00008;8;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.475231;48.135523
+77027_0380_00023;23;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.477748;48.135272
+77027_0380_00058;58;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.478461;48.133458
+77027_0280_00012;12;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.47543;48.136946
+77027_0280_00048;48;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476636;48.138479
+77027_0280_00020_bis;20;bis;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475751;48.137206
+77027_0280_00025_b;25;b;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475628;48.137459
+77027_0200_00006;6;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.475322;48.136155
+77027_0200_00014;14;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476212;48.136054
+77027_0200_00022;22;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476088;48.136329
+77027_0200_00031;31;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476882;48.137169
+77027_0200_00034;34;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476365;48.136801
+77027_0020_00006;6;;Faubourg Casseaux;77890;77027;Beaumont-du-Gâtinais;;;2.481097;48.138843
+77027_0020_00014;14;;Faubourg Casseaux;77890;77027;Beaumont-du-Gâtinais;;;2.481141;48.13952
+77027_0060_00013;13;;Chemin du Coudray;77890;77027;Beaumont-du-Gâtinais;;;2.473292;48.140085
+77027_0220_00008;8;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.482588;48.13765
+77027_0220_00016;16;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.484176;48.137341
+77027_0120_00004;4;;Place de l'Eglise;77890;77027;Beaumont-du-Gâtinais;;;2.474442;48.136582
+77027_0120_00011;11;;Place de l'Eglise;77890;77027;Beaumont-du-Gâtinais;;;2.474143;48.135782
+77027_0480_00016;16;;Route de Puiseaux;77890;77027;Beaumont-du-Gâtinais;;;2.476012;48.142411
+77027_0013_00002_ter;2;ter;Chemin de Boesses;77890;77027;Beaumont-du-Gâtinais;;;2.47478;48.142168
+77027_0100_00003;3;;Impasse de l’Ecritoire;77890;77027;Beaumont-du-Gâtinais;;;2.47437;48.135575
+77027_0012_00271;271;;Rue du Blé;77890;77027;Beaumont-du-Gâtinais;;;2.488542;48.143448
+77027_0361_00072;72;;Rue de l'Orge;77890;77027;Beaumont-du-Gâtinais;;;2.488645;48.142777
+77027_0490_00186;186;;Rue du Tournesol;77890;77027;Beaumont-du-Gâtinais;;;2.488614;48.140224
+77027_0650_00002;2;;Zone Industrielle;77890;77027;Beaumont-du-Gâtinais;;;2.468285;48.143879
+77027_0032_00006;6;;Impasse des Cerisiers;77890;77027;Beaumont-du-Gâtinais;;;2.479788;48.138699
+77027_0032_00016;16;;Impasse des Cerisiers;77890;77027;Beaumont-du-Gâtinais;;;2.48022;48.138733
+77027_0365_00002;2;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.479242;48.139716
+77027_0365_00013;13;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.480068;48.139329
+77027_xxjdwt_00011;11;;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.494577;48.143776
+77027_xxjdwt_00020;20;;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.49823;48.142368
+77027_xxjdwt_00013_bis;13;bis;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.495801;48.143498
+77027_xxjdwt_00018_bis;18;bis;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.497878;48.142442
+77027_33uxm3_00037;37;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.520417;48.133569
+77027_33uxm3_00043;43;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.521745;48.131816
+77027_0026nk_00057;57;;rue de  la Commanderie;77890;77027;Beaumont-du-Gâtinais;;;2.51979;48.129081
+77027_0026nk_00064;64;;rue de  la Commanderie;77890;77027;Beaumont-du-Gâtinais;;;2.519769;48.128121
+77027_0160_00005;5;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.475449;48.140255
+77027_0160_00013;13;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.473818;48.14093
+77027_0160_00042;42;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.469999;48.142711
+77027_0370_00007;7;;Rue des Ormeaux;77890;77027;Beaumont-du-Gâtinais;;;2.48004;48.13996
+77027_0140_00010;10;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477732;48.138125
+77027_0140_00036;36;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477356;48.138574
+77027_0015_00002;2;;Impasse des Bretons;77890;77027;Beaumont-du-Gâtinais;;;2.475667;48.141121
+77027_0380_00003;3;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.475561;48.135709
+77027_0380_00024;24;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.475958;48.135515
+77027_0380_00060;60;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.478523;48.133253
+77027_0280_00010;10;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475348;48.136891
+77027_0280_00021;21;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475557;48.137654
+77027_0280_00026;26;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476528;48.137492
+77027_0280_00029;29;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476066;48.137571
+77027_0280_00038;38;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476575;48.138054
+77027_0280_00054_bis;54;bis;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476885;48.138803
+77027_0200_00028;28;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476128;48.13664
+77027_0200_00041;41;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.477581;48.137589
+77027_0200_00052;52;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.478952;48.137819
+77027_0200_00057;57;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.479019;48.137863
+77027_0060_00011;11;;Chemin du Coudray;77890;77027;Beaumont-du-Gâtinais;;;2.474495;48.13983
+77027_0220_00010;10;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.483261;48.137543
+77027_0220_00023;23;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.484849;48.137248
+77027_0220_00031;31;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.485696;48.137204
+77027_0120_00012;12;;Place de l'Eglise;77890;77027;Beaumont-du-Gâtinais;;;2.474301;48.135913
+77027_b112_00007;7;;Lotissement du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.473729;48.142679
+77027_0011_00101;101;;Rue de l'Avoine;77890;77027;Beaumont-du-Gâtinais;;;2.487649;48.141537
+77027_0490_00183;183;;Rue du Tournesol;77890;77027;Beaumont-du-Gâtinais;;;2.488441;48.140291
+77027_0032_00002;2;;Impasse des Cerisiers;77890;77027;Beaumont-du-Gâtinais;;;2.479732;48.138934
+77027_0032_00012;12;;Impasse des Cerisiers;77890;77027;Beaumont-du-Gâtinais;;;2.480165;48.138678
+77027_0365_00005;5;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.479414;48.139481
+77027_0365_00012;12;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.479352;48.139061
+77027_0365_00015;15;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.480052;48.139416
+77027_0365_00020;20;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.480212;48.139453
+77027_xxjdwt_00015;15;;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.497006;48.142936
+77027_xxjdwt_00013_a;13;a;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.495144;48.143704
+77027_33uxm3_00028;28;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.519892;48.134141
+77027_33uxm3_00032;32;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.519399;48.133821
+77027_33uxm3_00039;39;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.520582;48.133441
+77027_33uxm3_00042;42;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.520031;48.132224
+77027_zle5te_00077;77;;rue des Marais;77890;77027;Beaumont-du-Gâtinais;;;2.520058;48.125681
+77027_0160_00014;14;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.474221;48.140943
+77027_0160_00020;20;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.473048;48.141443
+77027_0140_00001;1;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477715;48.138016
+77027_0140_00004;4;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477817;48.137842
+77027_0140_00030;30;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477636;48.138595
+77027_0140_00042;42;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.47697;48.138591
+77027_0380_00004;4;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.475203;48.135805
+77027_0380_00013;13;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.476475;48.135404
+77027_0380_00026;26;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.476088;48.135466
+77027_0280_00015;15;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475644;48.137212
+77027_0280_00023;23;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475698;48.137825
+77027_0280_00028;28;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476278;48.137693
+77027_0280_00045;45;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476471;48.138012
+77027_0280_00065;65;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476011;48.138697
+77027_0280_00068;68;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476739;48.139297
+77027_0200_00003;3;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.475444;48.136308
+77027_0200_00059;59;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.479217;48.137889
+77027_0200_00062;62;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.480354;48.137991
+77027_0200_00014_c;14;c;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476163;48.135979
+77027_0020_00003;3;;Faubourg Casseaux;77890;77027;Beaumont-du-Gâtinais;;;2.48092;48.138576
+77027_0020_00011;11;;Faubourg Casseaux;77890;77027;Beaumont-du-Gâtinais;;;2.480903;48.139141
+77027_0060_00007;7;;Chemin du Coudray;77890;77027;Beaumont-du-Gâtinais;;;2.474926;48.139524
+77027_0220_00021;21;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.484682;48.137275
+77027_0220_00033;33;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.485921;48.137195
+77027_0220_00037;37;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.486286;48.137185
+77027_0120_00001;1;;Place de l'Eglise;77890;77027;Beaumont-du-Gâtinais;;;2.475031;48.136366
+77027_0120_00014;14;;Place de l'Eglise;77890;77027;Beaumont-du-Gâtinais;;;2.474694;48.135556
+77027_0260_00003;3;;Rue du Mail Nord;77890;77027;Beaumont-du-Gâtinais;;;2.477028;48.13893
+77027_b112_00017;17;;Lotissement du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.474862;48.142827
+77027_0010_00002;2;;Ruelle a Blaise;77890;77027;Beaumont-du-Gâtinais;;;2.476968;48.138022
+77027_0470_00003;3;;Rue des Prunus;77890;77027;Beaumont-du-Gâtinais;;;2.478131;48.140277
+77027_0011_00204;204;;Rue de l'Avoine;77890;77027;Beaumont-du-Gâtinais;;;2.488986;48.141828
+77027_0011_00246;246;;Rue de l'Avoine;77890;77027;Beaumont-du-Gâtinais;;;2.489559;48.1419
+77027_0012_00220;220;;Rue du Blé;77890;77027;Beaumont-du-Gâtinais;;;2.487824;48.142903
+77027_0490_00241;241;;Rue du Tournesol;77890;77027;Beaumont-du-Gâtinais;;;2.489129;48.140031
+77027_0365_00018;18;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.480244;48.139337
+77027_9imtag_00022;22;;Impasse du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.497233;48.138793
+77027_33uxm3_00020;20;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.520499;48.134888
+77027_33uxm3_00025;25;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.52037;48.134097
+77027_33uxm3_00031;31;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.519568;48.133959
+77027_hkr4ja_00029;29;;Impasse de l'école;77890;77027;Beaumont-du-Gâtinais;;;2.519487;48.134255
+77027_zle5te_00073;73;;rue des Marais;77890;77027;Beaumont-du-Gâtinais;;;2.519815;48.125938
+77027_0160_00001;1;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.476217;48.140031
+77027_0160_00007;7;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.475176;48.140368
+77027_0160_00025;25;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.472105;48.141618
+77027_0140_00044;44;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.476874;48.138605
+77027_0380_00002;2;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.4751;48.135876
+77027_0380_00011;11;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.476327;48.135455
+77027_0380_00016;16;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.47551;48.135392
+77027_0380_00028;28;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.476046;48.135346
+77027_0380_00040;40;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.476855;48.135201
+77027_0380_00045;45;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.478792;48.133404
+77027_0280_00022;22;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475958;48.137368
+77027_0280_00042;42;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476615;48.138207
+77027_0280_00066;66;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476928;48.139303
+77027_0280_00071;71;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476496;48.139028
+77027_0200_00001;1;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.475342;48.136253
+77027_0200_00004;4;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.475205;48.136079
+77027_0200_00009;9;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.475739;48.136482
+77027_0200_00024;24;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.47599;48.136561
+77027_0200_00032;32;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476638;48.136433
+77027_0200_00064;64;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.480597;48.13802
+77027_xxjdwt_00013;13;;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.494721;48.143829
+77027_33uxm3_00006;6;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.522268;48.135928
+77027_33uxm3_00011;11;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.521543;48.135283
+77027_33uxm3_00016;16;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.521019;48.134778
+77027_33uxm3_00041;41;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.520674;48.132571
+77027_0026nk_00055;55;;rue de  la Commanderie;77890;77027;Beaumont-du-Gâtinais;;;2.5195;48.129449
+77027_zle5te_00078;78;;rue des Marais;77890;77027;Beaumont-du-Gâtinais;;;2.520342;48.125541
+77027_0370_00005;5;;Rue des Ormeaux;77890;77027;Beaumont-du-Gâtinais;;;2.479262;48.139923
+77027_0140_00038;38;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477257;48.138554
+77027_0380_00020;20;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.475813;48.135549
+77027_0380_00050;50;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.477825;48.134565
+77027_0280_00039;39;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475513;48.1381
+77027_0280_00050;50;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476639;48.138571
+77027_0280_00055;55;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476547;48.138412
+77027_0280_00081;81;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476285;48.139762
+77027_0200_00016;16;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476065;48.136053
+77027_0200_00029;29;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476678;48.137037
+77027_0200_00037;37;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.477252;48.137391
+77027_0200_00045;45;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.477437;48.137831
+77027_0200_00048;48;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.478166;48.137743
+77027_0200_00056;56;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.479346;48.137873
+77027_0200_00061;61;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.479528;48.137933
+77027_0200_00042_bis;42;bis;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.477388;48.137401
+77027_0020_00005;5;;Faubourg Casseaux;77890;77027;Beaumont-du-Gâtinais;;;2.480904;48.138725
+77027_0060_00004;4;;Chemin du Coudray;77890;77027;Beaumont-du-Gâtinais;;;2.475324;48.139417
+77027_0220_00005;5;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.48189;48.137775
+77027_0040_00001;1;;Rue du Cimetière;77890;77027;Beaumont-du-Gâtinais;;;2.477414;48.139904
+77027_b112_00008;8;;Lotissement du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.473994;48.142729
+77027_b112_00011;11;;Lotissement du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.475744;48.142225
+77027_b112_00016;16;;Lotissement du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.475198;48.142631
+77027_0501_00002;2;;Ruelle des Clos;77890;77027;Beaumont-du-Gâtinais;;;2.477403;48.135653
+77027_0011_00185;185;;Rue de l'Avoine;77890;77027;Beaumont-du-Gâtinais;;;2.488618;48.141797
+77027_0011_00236;236;;Rue de l'Avoine;77890;77027;Beaumont-du-Gâtinais;;;2.48931;48.141659
+77027_0361_00015;15;;Rue de l'Orge;77890;77027;Beaumont-du-Gâtinais;;;2.488893;48.143362
+77027_0650_00006;6;;Zone Industrielle;77890;77027;Beaumont-du-Gâtinais;;;2.468121;48.14252
+77027_0032_00014;14;;Impasse des Cerisiers;77890;77027;Beaumont-du-Gâtinais;;;2.48024;48.13871
+77027_0365_00016;16;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.480134;48.139146
+77027_0365_00019;19;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.480082;48.139707
+77027_sc960z_00005;5;;Le Mesnil;77890;77027;Beaumont-du-Gâtinais;;;2.447379;48.131705
+77027_xxjdwt_00014_ter;14;ter;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.496384;48.143282
+77027_33uxm3_00048;48;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.5187;48.131182
+77027_0026nk_00066;66;;rue de  la Commanderie;77890;77027;Beaumont-du-Gâtinais;;;2.519433;48.12796
+77027_3rr73x_00080;80;;rue des Montagnes;77890;77027;Beaumont-du-Gâtinais;;;2.519407;48.125577
+77027_0160_00045;45;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.469618;48.143106
+77027_0140_00005;5;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477657;48.138177
+77027_0140_00011;11;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477117;48.138403
+77027_0015_00003;3;;Impasse des Bretons;77890;77027;Beaumont-du-Gâtinais;;;2.475581;48.141284
+77027_0380_00025;25;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.477966;48.135253
+77027_0380_00062;62;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.478774;48.132667
+77027_0280_00009;9;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475226;48.136856
+77027_0280_00014;14;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475473;48.136989
+77027_0280_00017;17;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475417;48.137428
+77027_0280_00030;30;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476351;48.137765
+77027_0280_00034;34;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476464;48.137882
+77027_0280_00047;47;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476073;48.138282
+77027_0200_00012;12;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.47561;48.13633
+77027_0200_00053;53;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.478362;48.137789
+77027_xxjdwt_00008;8;;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.494228;48.143865
+77027_33uxm3_00026;26;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.51985;48.134352
+77027_33uxm3_00018_bis;18;bis;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.520631;48.134458
+77027_0026nk_00065;65;;rue de  la Commanderie;77890;77027;Beaumont-du-Gâtinais;;;2.519517;48.127895
+77027_0160_00038;38;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.470866;48.142336
+77027_0160_00047;47;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.469468;48.1436
+77027_0370_00009;9;;Rue des Ormeaux;77890;77027;Beaumont-du-Gâtinais;;;2.480384;48.13996
+77027_0200_00059_bis;59;bis;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.479346;48.13791
+77027_0200_00035_bis;35;bis;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.477199;48.137352
+77027_0060_00010;10;;Chemin du Coudray;77890;77027;Beaumont-du-Gâtinais;;;2.474473;48.139937
+77027_0060_00013_bis;13;bis;Chemin du Coudray;77890;77027;Beaumont-du-Gâtinais;;;2.473159;48.140102
+77027_0220_00014;14;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.483904;48.137411
+77027_0220_00022;22;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.485143;48.137177
+77027_0120_00007;7;;Place de l'Eglise;77890;77027;Beaumont-du-Gâtinais;;;2.473983;48.136375
+77027_0120_00013;13;;Place de l'Eglise;77890;77027;Beaumont-du-Gâtinais;;;2.4747;48.135729
+77027_0049_00002;2;;Chemin de la Conduite;77890;77027;Beaumont-du-Gâtinais;;;2.481699;48.138529
+77027_0260_00007;7;;Rue du Mail Nord;77890;77027;Beaumont-du-Gâtinais;;;2.477692;48.138927
+77027_0013_00007;7;;Chemin de Boesses;77890;77027;Beaumont-du-Gâtinais;;;2.473828;48.142308
+77027_0013_00002_bis;2;bis;Chemin de Boesses;77890;77027;Beaumont-du-Gâtinais;;;2.474874;48.142159
+77027_0240_00002;2;;Rue du Mail Est;77890;77027;Beaumont-du-Gâtinais;;;2.478613;48.137949
+77027_0360_00001;1;;Route de Nemours;77890;77027;Beaumont-du-Gâtinais;;;2.476561;48.140253
+77027_0011_00271;271;;Rue de l'Avoine;77890;77027;Beaumont-du-Gâtinais;;;2.490075;48.141938
+77027_0012_00195;195;;Rue du Blé;77890;77027;Beaumont-du-Gâtinais;;;2.487665;48.142859
+77027_0485_00038;38;;Rue du Seigle;77890;77027;Beaumont-du-Gâtinais;;;2.489564;48.140419
+77027_0490_00080;80;;Rue du Tournesol;77890;77027;Beaumont-du-Gâtinais;;;2.487243;48.140715
+77027_0490_00267;267;;Rue du Tournesol;77890;77027;Beaumont-du-Gâtinais;;;2.489526;48.13992
+77027_0365_00006;6;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.479286;48.139466
+77027_0365_00011;11;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.48007;48.139216
+77027_b023_00062;62;;Chemin de Sceaux;77890;77027;Beaumont-du-Gâtinais;;;2.521196;48.127829
+77027_0140_00018;18;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.47783;48.138435
+77027_0015_00001;1;;Impasse des Bretons;77890;77027;Beaumont-du-Gâtinais;;;2.475449;48.141189
+77027_0380_00005;5;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.47569;48.13566
+77027_0380_00010;10;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.475358;48.135398
+77027_0380_00022;22;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.475834;48.135538
+77027_0380_00032;32;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.476206;48.135442
+77027_0280_00002;2;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.474996;48.136553
+77027_0280_00011;11;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475458;48.137056
+77027_0280_00027;27;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475929;48.137453
+77027_0280_00033;33;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.47603;48.137746
+77027_0280_00036;36;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476519;48.137955
+77027_0280_00052;52;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476634;48.138654
+77027_0280_00064;64;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.477314;48.139333
+77027_0280_00069;69;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476531;48.138759
+77027_0280_00083;83;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475539;48.139815
+77027_0200_00010;10;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.475518;48.136258
+77027_0200_00035;35;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.47711;48.137298
+77027_0200_00058;58;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.479532;48.137895
+77027_0200_00016_bis;16;bis;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476024;48.136177
+77027_0200_00022_bis;22;bis;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.475892;48.136475
+77027_0020_00015;15;;Faubourg Casseaux;77890;77027;Beaumont-du-Gâtinais;;;2.480957;48.139419
+77027_0060_00005;5;;Chemin du Coudray;77890;77027;Beaumont-du-Gâtinais;;;2.475065;48.139459
+77027_0180_00013;13;;Route de Gaubertin;77890;77027;Beaumont-du-Gâtinais;;;2.473484;48.131286
+77027_b112_00005;5;;Lotissement du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.473872;48.142546
+77027_b112_00016_bis;16;bis;Lotissement du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.475078;48.142734
+77027_0013_00001;1;;Chemin de Boesses;77890;77027;Beaumont-du-Gâtinais;;;2.475789;48.141852
+77027_0012_00248;248;;Rue du Blé;77890;77027;Beaumont-du-Gâtinais;;;2.488001;48.143007
+77027_0490_00066;66;;Rue du Tournesol;77890;77027;Beaumont-du-Gâtinais;;;2.487281;48.140867
+77027_0490_00236;236;;Rue du Tournesol;77890;77027;Beaumont-du-Gâtinais;;;2.489072;48.139998
+77027_0032_00004;4;;Impasse des Cerisiers;77890;77027;Beaumont-du-Gâtinais;;;2.479773;48.138802
+77027_0032_00010;10;;Impasse des Cerisiers;77890;77027;Beaumont-du-Gâtinais;;;2.479986;48.138675
+77027_xxjdwt_00005;5;;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.493776;48.143922
+77027_xxjdwt_00014_bis;14;bis;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.49675;48.14308
+77027_33uxm3_00015;15;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.521173;48.134971
+77027_33uxm3_00021;21;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.520421;48.135022
+77027_33uxm3_00046;46;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.519286;48.131648
+77027_0026nk_00068;68;;rue de  la Commanderie;77890;77027;Beaumont-du-Gâtinais;;;2.519296;48.127607
+77027_zle5te_00075;75;;rue des Marais;77890;77027;Beaumont-du-Gâtinais;;;2.519999;48.12579
+77027_zle5te_00077_ter;77;ter;rue des Marais;77890;77027;Beaumont-du-Gâtinais;;;2.520148;48.125483
+77027_0160_00017;17;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.473061;48.141235
+77027_0160_00021;21;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.472564;48.141447
+77027_0140_00008;8;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477755;48.138045
+77027_0365_00014;14;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.480084;48.139082
+77027_0365_00024;24;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.48018;48.139732
+77027_0140_00032;32;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477546;48.138583
+77027_0380_00014;14;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.475549;48.13565
+77027_0380_00027;27;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.477584;48.134937
+77027_0380_00048;48;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.477759;48.134646
+77027_0280_00008;8;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475312;48.13685
+77027_0280_00016;16;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475559;48.137046
+77027_0280_00024;24;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476357;48.137577
+77027_0280_00072;72;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476412;48.139657
+77027_0200_00015;15;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476048;48.136657
+77027_0200_00018;18;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.475801;48.136325
+77027_0200_00023;23;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476467;48.136914
+77027_0200_00030;30;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.47622;48.136706
+77027_0200_00047;47;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.477532;48.137834
+77027_0200_00063;63;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.479704;48.137949
+77027_0200_00066;66;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.48105;48.13822
+77027_0020_00002;2;;Faubourg Casseaux;77890;77027;Beaumont-du-Gâtinais;;;2.481125;48.138395
+77027_0020_00007;7;;Faubourg Casseaux;77890;77027;Beaumont-du-Gâtinais;;;2.480905;48.138838
+77027_0220_00001;1;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.481314;48.137838
+77027_0220_00009;9;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.482392;48.137731
+77027_0040_00008;8;;Rue du Cimetière;77890;77027;Beaumont-du-Gâtinais;;;2.477362;48.139877
+77027_0120_00005;5;;Place de l'Eglise;77890;77027;Beaumont-du-Gâtinais;;;2.474059;48.136526
+77027_0120_00010;10;;Place de l'Eglise;77890;77027;Beaumont-du-Gâtinais;;;2.473485;48.135868
+77027_b112_00002;2;;Lotissement du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.474898;48.142205
+77027_0012_00311;311;;Rue du Blé;77890;77027;Beaumont-du-Gâtinais;;;2.488834;48.143595
+77027_0485_00145;145;;Rue du Seigle;77890;77027;Beaumont-du-Gâtinais;;;2.489695;48.141251
+77027_0365_00004;4;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.479268;48.139589
+77027_0365_00009;9;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.479454;48.139209
+77027_b023_00064_bis;64;bis;Chemin de Sceaux;77890;77027;Beaumont-du-Gâtinais;;;2.520415;48.128453
+77027_0200_00063_bis;63;bis;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.479969;48.137982
+77027_0220_00011;11;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.48269;48.137707
+77027_0220_00019;19;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.484435;48.137323
+77027_0220_00035;35;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.486112;48.13719
+77027_0120_00003;3;;Place de l'Eglise;77890;77027;Beaumont-du-Gâtinais;;;2.474401;48.136705
+77027_0180_00010;10;;Route de Gaubertin;77890;77027;Beaumont-du-Gâtinais;;;2.470585;48.130436
+77027_b112_00003;3;;Lotissement du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.474536;48.142264
+77027_0480_00001;1;;Route de Puiseaux;77890;77027;Beaumont-du-Gâtinais;;;2.476086;48.140475
+77027_0100_00007;7;;Impasse de l’Ecritoire;77890;77027;Beaumont-du-Gâtinais;;;2.474117;48.135473
+77027_0361_00119;119;;Rue de l'Orge;77890;77027;Beaumont-du-Gâtinais;;;2.48842;48.142633
+77027_0490_00225;225;;Rue du Tournesol;77890;77027;Beaumont-du-Gâtinais;;;2.48899;48.140071
+77027_0032_00008;8;;Impasse des Cerisiers;77890;77027;Beaumont-du-Gâtinais;;;2.47988;48.138677
+77027_0365_00003;3;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.479376;48.139601
+77027_xxjdwt_00003;3;;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.493283;48.143977
+77027_xxjdwt_00010;10;;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.494405;48.143829
+77027_xxjdwt_00019;19;;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.497689;48.142383
+77027_xxjdwt_00013_c;13;c;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.495524;48.143587
+77027_33uxm3_00035;35;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.520254;48.133694
+77027_0026nk_00063;63;;rue de  la Commanderie;77890;77027;Beaumont-du-Gâtinais;;;2.519504;48.128409
+77027_0160_00010;10;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.474421;48.140837
+77027_0160_00015;15;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.473446;48.141093
+77027_0160_00018;18;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.47345;48.141276
+77027_0160_00030;30;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.471654;48.142016
+77027_0160_00036;36;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.471125;48.142241
+77027_0160_00039;39;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.470114;48.141877
+77027_0160_00011_bis;11;bis;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.474097;48.140785
+77027_0370_00005_bis;5;bis;Rue des Ormeaux;77890;77027;Beaumont-du-Gâtinais;;;2.479608;48.139942
+77027_0140_00016;16;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477853;48.138383
+77027_0140_00022;22;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477916;48.138591
+77027_0380_00007;7;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.475808;48.135624
+77027_0380_00036;36;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.476359;48.135387
+77027_0380_00030_bis;30;bis;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.476111;48.135252
+77027_0280_00006;6;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475282;48.136736
+77027_0280_00025;25;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475842;48.13739
+77027_0280_00059;59;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476378;48.138616
+77027_0280_00074;74;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.47639;48.139725
+77027_0280_00071_bis;71;bis;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476479;48.139126
+77027_0200_00021;21;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476375;48.136867
+77027_0200_00040;40;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476966;48.137152
+77027_xxjdwt_00013_ter;13;ter;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.49611;48.143396
+77027_6jh09a_00001;1;;rue de Château-Landon;77890;77027;Beaumont-du-Gâtinais;;;2.523737;48.136822
+77027_6jh09a_00004;4;;rue de Château-Landon;77890;77027;Beaumont-du-Gâtinais;;;2.523119;48.136495
+77027_33uxm3_00012;12;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.521149;48.13539
+77027_33uxm3_00030;30;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.519742;48.134061
+77027_0026nk_00056;56;;rue de  la Commanderie;77890;77027;Beaumont-du-Gâtinais;;;2.519666;48.129292
+77027_zle5te_00072;72;;rue des Marais;77890;77027;Beaumont-du-Gâtinais;;;2.519511;48.12616
+77027_0160_00029;29;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.471621;48.141839
+77027_0160_00033;33;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.470843;48.14214
+77027_0140_00002;2;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477845;48.137764
+77027_0140_00040;40;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.47711;48.138561
+77027_0015_00004;4;;Impasse des Bretons;77890;77027;Beaumont-du-Gâtinais;;;2.475763;48.141339
+77027_0380_00039;39;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.478383;48.133922
+77027_0020_00008;8;;Faubourg Casseaux;77890;77027;Beaumont-du-Gâtinais;;;2.481078;48.139013
+77027_0020_00013;13;;Faubourg Casseaux;77890;77027;Beaumont-du-Gâtinais;;;2.480932;48.139307
+77027_0020_00016;16;;Faubourg Casseaux;77890;77027;Beaumont-du-Gâtinais;;;2.481309;48.139817
+77027_0220_00027;27;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.4853;48.137218
+77027_0220_00030;30;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.485884;48.137151
+77027_0120_00008_bis;8;bis;Place de l'Eglise;77890;77027;Beaumont-du-Gâtinais;;;2.473572;48.136381
+77027_0480_00014;14;;Route de Puiseaux;77890;77027;Beaumont-du-Gâtinais;;;2.476099;48.141506
+77027_0240_00008;8;;Rue du Mail Est;77890;77027;Beaumont-du-Gâtinais;;;2.47819;48.139666
+77027_0080_00002;2;;Rue à Dieu;77890;77027;Beaumont-du-Gâtinais;;;2.47696;48.137902
+77027_0360_00008;8;;Route de Nemours;77890;77027;Beaumont-du-Gâtinais;;;2.477177;48.140684
+77027_0012_00225;225;;Rue du Blé;77890;77027;Beaumont-du-Gâtinais;;;2.487891;48.143033
+77027_0485_00015;15;;Rue du Seigle;77890;77027;Beaumont-du-Gâtinais;;;2.488963;48.140166
+77027_0650_00003;3;;Zone Industrielle;77890;77027;Beaumont-du-Gâtinais;;;2.468306;48.142611
+77027_0380_00054;54;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.478062;48.133948
+77027_0280_00019;19;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475743;48.13729
+77027_0280_00044;44;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476618;48.138332
+77027_0280_00049;49;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475943;48.13828
+77027_0200_00002;2;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.475113;48.136024
+77027_0200_00007;7;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.475619;48.136414
+77027_0200_00026;26;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476352;48.136439
+77027_0020_00010;10;;Faubourg Casseaux;77890;77027;Beaumont-du-Gâtinais;;;2.481086;48.139163
+77027_0020_00019;19;;Faubourg Casseaux;77890;77027;Beaumont-du-Gâtinais;;;2.481023;48.139675
+77027_0060_00015;15;;Chemin du Coudray;77890;77027;Beaumont-du-Gâtinais;;;2.472322;48.140444
+77027_0220_00012;12;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.483523;48.137486
+77027_0220_00017;17;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.484178;48.1374
+77027_0220_00024;24;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.485296;48.137169
+77027_0180_00002;2;;Route de Gaubertin;77890;77027;Beaumont-du-Gâtinais;;;2.477647;48.133478
+77027_0260_00001;1;;Rue du Mail Nord;77890;77027;Beaumont-du-Gâtinais;;;2.476728;48.138931
+77027_0100_00001;1;;Impasse de l’Ecritoire;77890;77027;Beaumont-du-Gâtinais;;;2.474582;48.135698
+77027_0240_00005;5;;Rue du Mail Est;77890;77027;Beaumont-du-Gâtinais;;;2.478119;48.139471
+77027_0240_00004_bis;4;bis;Rue du Mail Est;77890;77027;Beaumont-du-Gâtinais;;;2.478501;48.138307
+77027_0080_00001;1;;Rue à Dieu;77890;77027;Beaumont-du-Gâtinais;;;2.476862;48.137909
+77027_0360_00002;2;;Route de Nemours;77890;77027;Beaumont-du-Gâtinais;;;2.476447;48.140057
+77027_0011_00190;190;;Rue de l'Avoine;77890;77027;Beaumont-du-Gâtinais;;;2.488584;48.141768
+77027_0361_00138;138;;Rue de l'Orge;77890;77027;Beaumont-du-Gâtinais;;;2.488012;48.142527
+77027_0361_00220;220;;Rue de l'Orge;77890;77027;Beaumont-du-Gâtinais;;;2.487918;48.141753
+77027_sc960z_00003;3;;Le Mesnil;77890;77027;Beaumont-du-Gâtinais;;;2.447959;48.132025
+77027_xxjdwt_00014;14;;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.496471;48.143215
+77027_xxjdwt_00018;18;;rue du Meunier;77890;77027;Beaumont-du-Gâtinais;;;2.49744;48.142665
+77027_33uxm3_00036;36;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.51983;48.133618
+77027_33uxm3_00040;40;;rue Germaine COEUR;77890;77027;Beaumont-du-Gâtinais;;;2.5207;48.132795
+77027_0026nk_00052;52;;rue de  la Commanderie;77890;77027;Beaumont-du-Gâtinais;;;2.518947;48.130038
+77027_0160_00004;4;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.475434;48.140404
+77027_0160_00009;9;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.474626;48.140616
+77027_0650_00004;4;;Zone Industrielle;77890;77027;Beaumont-du-Gâtinais;;;2.46811;48.143448
+77027_0160_00012;12;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.474317;48.140912
+77027_0160_00041;41;;Avenue de la Gare;77890;77027;Beaumont-du-Gâtinais;;;2.469778;48.142651
+77027_0370_00001;1;;Rue des Ormeaux;77890;77027;Beaumont-du-Gâtinais;;;2.478389;48.139914
+77027_0140_00013;13;;Rue Ernest Prévost;77890;77027;Beaumont-du-Gâtinais;;;2.477002;48.138532
+77027_0380_00018;18;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.47559;48.135514
+77027_0380_00042;42;;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.476989;48.13517
+77027_0380_00041_bis;41;bis;Rue du Pont;77890;77027;Beaumont-du-Gâtinais;;;2.478488;48.133687
+77027_0280_00041;41;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475775;48.138079
+77027_0280_00057;57;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476555;48.138528
+77027_0280_00077;77;;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.476362;48.139499
+77027_0280_00019_bis;19;bis;Rue Montgaudier;77890;77027;Beaumont-du-Gâtinais;;;2.475435;48.13753
+77027_0200_00038;38;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476795;48.13705
+77027_0200_00043;43;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.47755;48.137717
+77027_0200_00050;50;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.478739;48.137799
+77027_0200_00055;55;;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.478797;48.137835
+77027_0200_00032_bis;32;bis;Rue de l'Hôtel-de-ville;77890;77027;Beaumont-du-Gâtinais;;;2.476619;48.136511
+77027_0220_00020;20;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.484894;48.137199
+77027_0220_00029;29;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.485508;48.137213
+77027_0220_00032;32;;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.48609;48.137138
+77027_0220_00009_bis;9;bis;Rue de la Laiterie;77890;77027;Beaumont-du-Gâtinais;;;2.482722;48.137922
+77027_0120_00015;15;;Place de l'Eglise;77890;77027;Beaumont-du-Gâtinais;;;2.474803;48.135504
+77027_b112_00010;10;;Lotissement du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.474159;48.142586
+77027_b112_00013;13;;Lotissement du Moulin;77890;77027;Beaumont-du-Gâtinais;;;2.475681;48.142695
+77027_0480_00008;8;;Route de Puiseaux;77890;77027;Beaumont-du-Gâtinais;;;2.476181;48.140963
+77027_0501_00001;1;;Ruelle des Clos;77890;77027;Beaumont-du-Gâtinais;;;2.477382;48.135761
+77027_0013_00001_bis;1;bis;Chemin de Boesses;77890;77027;Beaumont-du-Gâtinais;;;2.475488;48.141992
+77027_0010_00004;4;;Ruelle a Blaise;77890;77027;Beaumont-du-Gâtinais;;;2.477026;48.138126
+77027_0360_00006;6;;Route de Nemours;77890;77027;Beaumont-du-Gâtinais;;;2.476817;48.140422
+77027_0011_00230;230;;Rue de l'Avoine;77890;77027;Beaumont-du-Gâtinais;;;2.489303;48.141872
+77027_0011_00286;286;;Rue de l'Avoine;77890;77027;Beaumont-du-Gâtinais;;;2.490002;48.141912
+77027_0012_00155;155;;Rue du Blé;77890;77027;Beaumont-du-Gâtinais;;;2.487358;48.142638
+77027_0490_00251;251;;Rue du Tournesol;77890;77027;Beaumont-du-Gâtinais;;;2.489325;48.139963
+77027_0365_00001;1;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.479336;48.139729
+77027_0365_00017;17;;Rue des Poiriers;77890;77027;Beaumont-du-Gâtinais;;;2.48006;48.139576

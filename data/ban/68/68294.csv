@@ -1,0 +1,782 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+68294_0013_00013;13;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.233394;48.263175
+68294_0080_00005;5;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.218852;48.259791
+68294_0200_00068;68;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.225648;48.263087
+68294_0360_00011_b;11;b;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.23843;48.264325
+68294_0f4m5q_00003;3;;Les Pres Pierre;68160;68294;Sainte-Croix-aux-Mines;;;7.220577;48.260634
+68294_0200_00017;17;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.227929;48.263002
+68294_uhl0qs_00006;6;;Les Moules;68160;68294;Sainte-Croix-aux-Mines;;;7.206869;48.255991
+68294_0080_00007_a;7;a;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.219713;48.260145
+68294_9mx0ht_00032_b;32;b;Hury;68160;68294;Sainte-Croix-aux-Mines;;;7.231079;48.242975
+68294_b063_00021_a;21;a;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.20993;48.279962
+68294_0160_00011;11;;Rue de l’Hopital;68160;68294;Sainte-Croix-aux-Mines;;;7.223288;48.261567
+68294_b107_00006;6;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.207802;48.262136
+68294_b063_00010;10;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.21412;48.274633
+68294_0200_00067_a;67;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.220064;48.261237
+68294_0310_00003;3;;Rue Saint Nicolas;68160;68294;Sainte-Croix-aux-Mines;;;7.22815;48.264013
+68294_b063_00052;52;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;Grandmont;7.223381;48.27585
+68294_uhl0qs_00003;3;;Les Moules;68160;68294;Sainte-Croix-aux-Mines;;;7.208055;48.256495
+68294_0360_00009_a;9;a;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.237383;48.263557
+68294_0200_00102;102;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.22229;48.262344
+68294_b107_00064;64;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;La Bouille;7.179802;48.266641
+68294_0160_00006;6;;Rue de l’Hopital;68160;68294;Sainte-Croix-aux-Mines;;;7.223682;48.261826
+68294_b107_00013;13;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.204494;48.262803
+68294_0013_00017;17;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.232568;48.262726
+68294_0040_00007;7;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.227618;48.262252
+68294_b107_00002_a;2;a;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.212607;48.261819
+68294_9mx0ht_00035;35;;Hury;68160;68294;Sainte-Croix-aux-Mines;;;7.23142;48.238563
+68294_b107_00047;47;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Vraie Côte;7.189574;48.269887
+68294_0160_00005;5;;Rue de l’Hopital;68160;68294;Sainte-Croix-aux-Mines;;;7.223729;48.261706
+68294_uhl0qs_00005;5;;Les Moules;68160;68294;Sainte-Croix-aux-Mines;;;7.205975;48.255921
+68294_0200_00116;116;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.220621;48.261617
+68294_b107_00040;40;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Vraie Côte;7.194987;48.267022
+68294_0230_00022;22;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.232122;48.264314
+68294_0020_00001;1;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.225378;48.262921
+68294_eo2mgh_00015;15;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.195589;48.255462
+68294_0200_00067;67;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.220805;48.26139
+68294_0180_00010;10;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.226883;48.262095
+68294_0020_00005;5;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.225262;48.263303
+68294_0200_00144;144;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.218174;48.260099
+68294_0080_00009;9;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.219181;48.259849
+68294_0230_00004;4;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.232016;48.264779
+68294_0340_00006_a;6;a;Rue de Sobache;68160;68294;Sainte-Croix-aux-Mines;;;7.231457;48.261153
+68294_0180_00004;4;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.227122;48.261986
+68294_0230_00003_a;3;a;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.232767;48.26496
+68294_0200_00132;132;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.218816;48.261042
+68294_0200_00026;26;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.228976;48.263353
+68294_0230_00016;16;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.231252;48.264427
+68294_0013_00018;18;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.232202;48.262652
+68294_0200_00090;90;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.222816;48.262334
+68294_b107_00086;86;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Berbruche;7.217244;48.264626
+68294_0200_00098;98;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.222605;48.262459
+68294_b107_00050;50;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Vraie Côte;7.186271;48.27556
+68294_b107_00038;38;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.199309;48.265762
+68294_0140_00015;15;;Rue du Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.223729;48.265645
+68294_0350_00004;4;;Rue de la Stimbach;68160;68294;Sainte-Croix-aux-Mines;;;7.235616;48.26645
+68294_0140_00009;9;;Rue du Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.225263;48.264788
+68294_b107_00072;72;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Trachenbach;7.199279;48.273331
+68294_b107_00003;3;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.21115;48.261604
+68294_0200_00060;60;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.22616;48.262954
+68294_b107_00017_a;17;a;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.203351;48.263829
+68294_0200_00051;51;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.223339;48.262346
+68294_0005_00001_a;1;a;Rue Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.228229;48.260723
+68294_0020_00004;4;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.225531;48.263822
+68294_0360_00020;20;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;Harangoutte;7.239929;48.248081
+68294_0180_00003;3;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.227171;48.261798
+68294_0200_00128;128;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.219193;48.261395
+68294_0200_00089;89;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.218516;48.260157
+68294_b107_00071;71;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Trachenbach;7.198335;48.26795
+68294_0020_00008;8;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.22564;48.264037
+68294_0160_00014;14;;Rue de l’Hopital;68160;68294;Sainte-Croix-aux-Mines;;;7.222032;48.261028
+68294_0350_00005;5;;Rue de la Stimbach;68160;68294;Sainte-Croix-aux-Mines;;;7.235024;48.267005
+68294_b063_00022_a;22;a;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.210264;48.281483
+68294_0240_00008;8;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.221853;48.259938
+68294_b107_00062;62;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;La Haute Bouille;7.175805;48.267922
+68294_0020_00011;11;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.224819;48.26337
+68294_0014_00011;11;;Rue des Coccinelles;68160;68294;Sainte-Croix-aux-Mines;;;7.230209;48.261309
+68294_0200_00020;20;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.229301;48.263422
+68294_0005_00014;14;;Rue Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.228243;48.259678
+68294_0360_00010;10;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.237055;48.263452
+68294_b107_00036_a;36;a;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.199583;48.265754
+68294_0200_00034;34;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.22827;48.263225
+68294_0240_00023;23;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.22248;48.260004
+68294_b107_00037_a;37;a;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.199608;48.26624
+68294_0140_00016;16;;Rue du Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.223566;48.26601
+68294_0200_00069;69;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.219862;48.2613
+68294_0200_00007;7;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.230741;48.26367
+68294_0180_00009;9;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.2262;48.261894
+68294_0380_00003;3;;Rue de la Warthe;68160;68294;Sainte-Croix-aux-Mines;;;7.225878;48.260385
+68294_0200_00130;130;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.217858;48.261963
+68294_9mx0ht_00037_b;37;b;Hury;68160;68294;Sainte-Croix-aux-Mines;;;7.230712;48.243138
+68294_b107_00026;26;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.202337;48.264807
+68294_0180_00013;13;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.225145;48.26188
+68294_9mx0ht_00034;34;;Hury;68160;68294;Sainte-Croix-aux-Mines;;;7.231026;48.241345
+68294_0230_00009;9;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.230581;48.264831
+68294_0160_00003;3;;Rue de l’Hopital;68160;68294;Sainte-Croix-aux-Mines;;;7.224399;48.261948
+68294_0080_00015;15;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.219527;48.259357
+68294_0200_00006;6;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.233682;48.265078
+68294_b107_00034;34;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.199885;48.265358
+68294_0230_00017;17;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.231583;48.264456
+68294_0360_00018;18;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.238838;48.251588
+68294_b063_00021_b;21;b;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.209785;48.28036
+68294_hepah8_00027;27;;Chemin de Montplaisir;68160;68294;Sainte-Croix-aux-Mines;;;7.245635;48.255773
+68294_0040_00030;30;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.22865;48.260309
+68294_9mx0ht_00031;31;;Hury;68160;68294;Sainte-Croix-aux-Mines;;;7.233874;48.239483
+68294_0040_00019;19;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.228959;48.260094
+68294_0040_00008;8;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.228149;48.261679
+68294_0014_00014;14;;Rue des Coccinelles;68160;68294;Sainte-Croix-aux-Mines;;;7.230671;48.261469
+68294_0013_00008;8;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.234262;48.263882
+68294_b107_00010_b;10;b;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.205465;48.263183
+68294_0200_00142;142;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.218191;48.260194
+68294_eo2mgh_00004;4;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.19543;48.254882
+68294_0200_00160;160;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.217339;48.259526
+68294_0240_00027;27;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.221518;48.259776
+68294_0380_00002_a;2;a;Rue de la Warthe;68160;68294;Sainte-Croix-aux-Mines;;;7.226087;48.260428
+68294_0200_00120;120;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.220201;48.261485
+68294_eo2mgh_00008;8;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.192553;48.253052
+68294_0200_00096;96;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.222182;48.262174
+68294_0200_00046;46;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.227147;48.263005
+68294_b107_00010_a;10;a;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.205774;48.263502
+68294_0380_00007;7;;Rue de la Warthe;68160;68294;Sainte-Croix-aux-Mines;;;7.225126;48.260198
+68294_0013_00005;5;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.233436;48.263463
+68294_0240_00018;18;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.218936;48.259067
+68294_0340_00010;10;;Rue de Sobache;68160;68294;Sainte-Croix-aux-Mines;;;7.231143;48.260432
+68294_2mpdxj_00012;12;;Stimbach;68160;68294;Sainte-Croix-aux-Mines;;La Basse;7.235293;48.274377
+68294_0360_00001;1;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.234941;48.26397
+68294_0230_00005;5;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.23284;48.265031
+68294_0320_00001;1;;Impasse de Sobache;68160;68294;Sainte-Croix-aux-Mines;;;7.23056;48.260743
+68294_2mpdxj_00011;11;;Stimbach;68160;68294;Sainte-Croix-aux-Mines;;La Herrschaft;7.241948;48.274898
+68294_0360_00002;2;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.2351;48.264066
+68294_0200_00158;158;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.217454;48.259612
+68294_0200_00036;36;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.22794;48.263105
+68294_0090_00005;5;;Rue du Chemin de la Goutte Saint Blaise;68160;68294;Sainte-Croix-aux-Mines;;;7.220853;48.258013
+68294_b107_00037_b;37;b;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.199041;48.26635
+68294_0005_00008;8;;Rue Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.227554;48.259894
+68294_0200_00091;91;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.218299;48.260056
+68294_b107_00010;10;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.20585;48.262613
+68294_0013_00019;19;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.232078;48.26295
+68294_0200_00028;28;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.228582;48.263298
+68294_0220_00002;2;;Rue du Merle;68160;68294;Sainte-Croix-aux-Mines;;;7.231115;48.261744
+68294_2y6odh_00003;3;;Zone Artisanale Est;68160;68294;Sainte-Croix-aux-Mines;;;7.234564;48.265009
+68294_0200_00056;56;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.226446;48.262914
+68294_b107_00064_a;64;a;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;La Bouille;7.182317;48.267122
+68294_0200_00075;75;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.219838;48.260984
+68294_0200_00061;61;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.221202;48.261575
+68294_0040_00017;17;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.228777;48.260293
+68294_0340_00011;11;;Rue de Sobache;68160;68294;Sainte-Croix-aux-Mines;;;7.231154;48.260044
+68294_0200_00023;23;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.227589;48.262813
+68294_0005_00012;12;;Rue Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.228008;48.259595
+68294_0040_00003;3;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.227116;48.26256
+68294_0080_00007;7;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.219222;48.2601
+68294_0320_00001_b;1;b;Impasse de Sobache;68160;68294;Sainte-Croix-aux-Mines;;;7.230413;48.260529
+68294_b107_00014;14;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.204782;48.263111
+68294_0080_00006;6;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.218909;48.259897
+68294_0200_00011_a;11;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.228996;48.263218
+68294_b107_00001;1;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.212713;48.261514
+68294_b063_00006;6;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.21653;48.272968
+68294_0f4m5q_00006;6;;Les Pres Pierre;68160;68294;Sainte-Croix-aux-Mines;;;7.221174;48.260743
+68294_0180_00006;6;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.227271;48.262199
+68294_uhl0qs_00002;2;;Les Moules;68160;68294;Sainte-Croix-aux-Mines;;;7.210446;48.256757
+68294_0240_00002;2;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.22482;48.261458
+68294_0200_00010;10;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.232857;48.264489
+68294_0350_00001;1;;Rue de la Stimbach;68160;68294;Sainte-Croix-aux-Mines;;;7.23433;48.265554
+68294_b107_00067;67;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;La Bouille;7.18377;48.268824
+68294_0200_00119;119;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.214289;48.257968
+68294_0340_00005;5;;Rue de Sobache;68160;68294;Sainte-Croix-aux-Mines;;;7.231065;48.261352
+68294_0040_00021;21;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.229386;48.259672
+68294_9mx0ht_00036;36;;Hury;68160;68294;Sainte-Croix-aux-Mines;;;7.228046;48.240381
+68294_0200_00066;66;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.225832;48.263117
+68294_0200_00109;109;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.21558;48.258522
+68294_0013_00009;9;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.23435;48.263667
+68294_b063_00014;14;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.210252;48.277174
+68294_0013_00024;24;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.233769;48.263816
+68294_0200_00009;9;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.229842;48.263397
+68294_b107_00002;2;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.211717;48.261873
+68294_b107_00045;45;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Vraie Côte;7.190401;48.268581
+68294_0080_00016_a;16;a;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.220057;48.259807
+68294_0200_00068_a;68;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.225103;48.26278
+68294_0270_00006;6;;Rue de Prisegoutte;68160;68294;Sainte-Croix-aux-Mines;;;7.209507;48.262648
+68294_0005_00010;10;;Rue Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.227842;48.25987
+68294_0360_00029;29;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;Harangoutte;7.244368;48.250146
+68294_b063_00020;20;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.210131;48.281003
+68294_b063_00053_a;53;a;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;Grandmont;7.222419;48.27411
+68294_0240_00033;33;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.22055;48.258706
+68294_0200_00111;111;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.215365;48.258426
+68294_b107_00039_c;39;c;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.198742;48.26699
+68294_eo2mgh_00035;35;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.190302;48.252297
+68294_0180_00001_a;1;a;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.227351;48.261835
+68294_b063_00004;4;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.219836;48.269324
+68294_0013_00004;4;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.23317;48.263349
+68294_0060_00005;5;;Place du General Bourgeois;68160;68294;Sainte-Croix-aux-Mines;;;7.223842;48.262062
+68294_b063_00011;11;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.213123;48.275107
+68294_0200_00115;115;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.215095;48.258363
+68294_0270_00003;3;;Rue de Prisegoutte;68160;68294;Sainte-Croix-aux-Mines;;;7.209513;48.263032
+68294_0230_00020;20;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.231664;48.26421
+68294_0200_00054;54;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.226635;48.262918
+68294_eo2mgh_00031;31;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.190998;48.252242
+68294_0080_00016;16;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.219809;48.259365
+68294_0005_00001;1;;Rue Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.228053;48.2606
+68294_0040_00016;16;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.229074;48.260559
+68294_0200_00022;22;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.229164;48.263398
+68294_0200_00008;8;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.233422;48.264748
+68294_eo2mgh_00005;5;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.201361;48.255978
+68294_b063_00023;23;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.210586;48.281132
+68294_0040_00024;24;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.228508;48.260692
+68294_0010_00001;1;;Rue des Cerisiers;68160;68294;Sainte-Croix-aux-Mines;;;7.226917;48.259898
+68294_0200_00132_a;132;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.218707;48.261028
+68294_9mx0ht_00033;33;;Hury;68160;68294;Sainte-Croix-aux-Mines;;;7.231409;48.242885
+68294_0180_00001;1;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.227659;48.261917
+68294_b107_00054;54;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Faîte;7.177416;48.279021
+68294_0360_00011_a;11;a;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.238159;48.264396
+68294_0200_00164;164;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.216803;48.259165
+68294_0200_00140;140;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.218304;48.260306
+68294_b107_00016;16;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.204149;48.263226
+68294_b107_00017;17;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.203753;48.263291
+68294_0230_00011;11;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.230907;48.264591
+68294_0280_00004;4;;Rue Privee;68160;68294;Sainte-Croix-aux-Mines;;;7.21799;48.261417
+68294_0360_00008_a;8;a;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.236915;48.264196
+68294_0360_00008;8;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.236737;48.264058
+68294_0140_00014;14;;Rue du Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.223887;48.265464
+68294_0280_00006;6;;Rue Privee;68160;68294;Sainte-Croix-aux-Mines;;;7.21755;48.261487
+68294_0200_00110;110;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.221558;48.261954
+68294_eo2mgh_00033_a;33;a;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.190459;48.252227
+68294_0200_00039;39;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.225611;48.262753
+68294_0020_00014;14;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.226324;48.264114
+68294_0200_00030;30;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.22847;48.263268
+68294_0020_00022;22;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.225744;48.264158
+68294_0014_00004;4;;Rue des Coccinelles;68160;68294;Sainte-Croix-aux-Mines;;;7.229258;48.261075
+68294_0040_00010;10;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.228285;48.261583
+68294_0010_00005;5;;Rue des Cerisiers;68160;68294;Sainte-Croix-aux-Mines;;;7.226015;48.259893
+68294_0200_00072;72;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.224719;48.262671
+68294_0200_00009_a;9;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.229841;48.263141
+68294_0040_00002;2;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.226801;48.262694
+68294_0200_00016_b;16;b;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.229961;48.263841
+68294_b063_00043;43;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;Marigoutte;7.20403;48.293946
+68294_0200_00152;152;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.217836;48.259821
+68294_0040_00022;22;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.229795;48.259512
+68294_0280_00001_a;1;a;Rue Privee;68160;68294;Sainte-Croix-aux-Mines;;;7.218929;48.261333
+68294_0280_00010;10;;Rue Privee;68160;68294;Sainte-Croix-aux-Mines;;;7.216462;48.261542
+68294_hepah8_00023;23;;Chemin de Montplaisir;68160;68294;Sainte-Croix-aux-Mines;;;7.242903;48.257404
+68294_b107_00076;76;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Jaboumont;7.193192;48.279715
+68294_0014_00005;5;;Rue des Coccinelles;68160;68294;Sainte-Croix-aux-Mines;;;7.229411;48.261112
+68294_0310_00008;8;;Rue Saint Nicolas;68160;68294;Sainte-Croix-aux-Mines;;;7.228338;48.264203
+68294_eo2mgh_00008_a;8;a;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.193312;48.253299
+68294_0350_00001_a;1;a;Rue de la Stimbach;68160;68294;Sainte-Croix-aux-Mines;;;7.234787;48.265777
+68294_0200_00121_a;121;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.2139;48.257995
+68294_0340_00042;42;;Rue de Sobache;68160;68294;Sainte-Croix-aux-Mines;;Sobache;7.232082;48.255162
+68294_0200_00118_a;118;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.22035;48.261555
+68294_b063_00006_a;6;a;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.215741;48.273625
+68294_b059_00043;43;;La Goutte Saint Blaise;68160;68294;Sainte-Croix-aux-Mines;;;7.225485;48.239627
+68294_9mx0ht_00037;37;;Hury;68160;68294;Sainte-Croix-aux-Mines;;;7.231766;48.245244
+68294_eo2mgh_00019;19;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.193313;48.253916
+68294_0200_00011_b;11;b;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.229071;48.262922
+68294_0380_00010;10;;Rue de la Warthe;68160;68294;Sainte-Croix-aux-Mines;;;7.224401;48.259982
+68294_b107_00029;29;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.200793;48.264622
+68294_0340_00040;40;;Rue de Sobache;68160;68294;Sainte-Croix-aux-Mines;;Sobache;7.232261;48.253101
+68294_0013_00001;1;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.232511;48.263049
+68294_0180_00008;8;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.227071;48.262191
+68294_0200_00037;37;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.226207;48.26277
+68294_0040_00032;32;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.228768;48.260003
+68294_0200_00121;121;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.214571;48.257681
+68294_0200_00099;99;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.217199;48.259262
+68294_0180_00014;14;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.226597;48.261992
+68294_b063_00017_a;17;a;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.210894;48.27909
+68294_0240_00010_a;10;a;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.220523;48.259463
+68294_0360_00016;16;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.239125;48.255712
+68294_0200_00026_a;26;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.228708;48.263783
+68294_b063_00004_a;4;a;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.219971;48.269717
+68294_0020_00024;24;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.225613;48.264157
+68294_0040_00014;14;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.228282;48.261339
+68294_eo2mgh_00011;11;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.196047;48.25563
+68294_0013_00023;23;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.233483;48.263724
+68294_0200_00106;106;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.221938;48.262106
+68294_0060_00006;6;;Place du General Bourgeois;68160;68294;Sainte-Croix-aux-Mines;;;7.224127;48.262275
+68294_eo2mgh_00010;10;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.192231;48.252717
+68294_0160_00002;2;;Rue de l’Hopital;68160;68294;Sainte-Croix-aux-Mines;;;7.224497;48.262057
+68294_0180_00011;11;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.225788;48.261635
+68294_0360_00019;19;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.240417;48.249845
+68294_0140_00006;6;;Rue du Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.224607;48.265008
+68294_b107_00078;78;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Surpense;7.203446;48.278042
+68294_0240_00010;10;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.22089;48.259653
+68294_0005_00003;3;;Rue Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.227685;48.260208
+68294_0f4m5q_00005;5;;Les Pres Pierre;68160;68294;Sainte-Croix-aux-Mines;;;7.220996;48.260695
+68294_0160_00002_a;2;a;Rue de l’Hopital;68160;68294;Sainte-Croix-aux-Mines;;;7.224715;48.262099
+68294_0040_00015;15;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.2288;48.26066
+68294_0230_00012;12;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.230866;48.264371
+68294_0040_00013;13;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.228882;48.261497
+68294_b063_00018;18;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.210741;48.280292
+68294_0005_00017;17;;Rue Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.228824;48.259657
+68294_0360_00006;6;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.235938;48.2639
+68294_0310_00007;7;;Rue Saint Nicolas;68160;68294;Sainte-Croix-aux-Mines;;;7.227961;48.264094
+68294_0200_00021;21;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.227716;48.262913
+68294_b063_00017_b;17;b;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.210808;48.280032
+68294_b107_00032;32;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.200286;48.265104
+68294_b107_00080;80;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Sur Borne;7.20409;48.268954
+68294_0260_00002;2;;Rue du Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.218153;48.261031
+68294_0005_00006;6;;Rue Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.22689;48.260255
+68294_0160_00007;7;;Rue de l’Hopital;68160;68294;Sainte-Croix-aux-Mines;;;7.223511;48.261517
+68294_0020_00013;13;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.224849;48.263662
+68294_0060_00007;7;;Place du General Bourgeois;68160;68294;Sainte-Croix-aux-Mines;;;7.22412;48.262394
+68294_0320_00001_c;1;c;Impasse de Sobache;68160;68294;Sainte-Croix-aux-Mines;;;7.230743;48.260934
+68294_0360_00005;5;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.236196;48.263514
+68294_0270_00010;10;;Rue de Prisegoutte;68160;68294;Sainte-Croix-aux-Mines;;;7.209961;48.262263
+68294_0280_00007;7;;Rue Privee;68160;68294;Sainte-Croix-aux-Mines;;;7.21738;48.26154
+68294_0200_00162;162;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.217202;48.259436
+68294_0200_00059_b;59;b;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.221868;48.261796
+68294_0200_00121_c;121;c;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.214191;48.257551
+68294_eo2mgh_00033;33;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.190678;48.252098
+68294_0140_00004;4;;Rue du Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.225045;48.264523
+68294_eo2mgh_00037;37;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;Goutte des Pommes;7.182083;48.256339
+68294_0010_00003;3;;Rue des Cerisiers;68160;68294;Sainte-Croix-aux-Mines;;;7.226545;48.259831
+68294_0180_00022;22;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.225601;48.262055
+68294_0200_00156;156;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.217558;48.259648
+68294_0200_00042;42;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.227388;48.263038
+68294_0005_00002;2;;Rue Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.227702;48.260431
+68294_0340_00041;41;;Rue de Sobache;68160;68294;Sainte-Croix-aux-Mines;;Sobache;7.232452;48.253879
+68294_0005_00015;15;;Rue Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.228451;48.259842
+68294_0200_00052;52;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.226786;48.262929
+68294_eo2mgh_00025;25;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.192444;48.253136
+68294_0310_00004;4;;Rue Saint Nicolas;68160;68294;Sainte-Croix-aux-Mines;;;7.228546;48.26418
+68294_0200_00012;12;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.230826;48.263851
+68294_0200_00077;77;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.219623;48.260837
+68294_0200_00107_a;107;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.215808;48.258308
+68294_0240_00037;37;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.220883;48.259188
+68294_0200_00148;148;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.218049;48.259976
+68294_0200_00031;31;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.227128;48.262733
+68294_0240_00017;17;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.223945;48.260429
+68294_0200_00077_a;77;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.219501;48.260797
+68294_0340_00008;8;;Rue de Sobache;68160;68294;Sainte-Croix-aux-Mines;;;7.231263;48.260884
+68294_0020_00002;2;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.225535;48.263323
+68294_0020_00007;7;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.225266;48.263433
+68294_0180_00018;18;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.226253;48.261999
+68294_0340_00039;39;;Rue de Sobache;68160;68294;Sainte-Croix-aux-Mines;;Pré Vareth;7.234186;48.249885
+68294_0200_00065;65;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.221065;48.261539
+68294_0280_00005;5;;Rue Privee;68160;68294;Sainte-Croix-aux-Mines;;;7.217811;48.261486
+68294_0200_00081;81;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.218692;48.260609
+68294_0380_00014;14;;Rue de la Warthe;68160;68294;Sainte-Croix-aux-Mines;;;7.222802;48.259722
+68294_0340_00003;3;;Rue de Sobache;68160;68294;Sainte-Croix-aux-Mines;;;7.230601;48.261117
+68294_0200_00070;70;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.224925;48.262702
+68294_b107_00077;77;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Surpense;7.203057;48.277715
+68294_0020_00018;18;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.225952;48.264139
+68294_eo2mgh_00013;13;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.195784;48.255533
+68294_0270_00004;4;;Rue de Prisegoutte;68160;68294;Sainte-Croix-aux-Mines;;;7.209734;48.262772
+68294_0200_00100;100;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.222422;48.262393
+68294_0240_00003;3;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.224938;48.261525
+68294_0020_00012;12;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.225892;48.26409
+68294_0200_00014;14;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.230202;48.263702
+68294_b107_00037;37;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.199496;48.265638
+68294_0280_00011;11;;Rue Privee;68160;68294;Sainte-Croix-aux-Mines;;;7.216286;48.261525
+68294_0010_00002;2;;Rue des Cerisiers;68160;68294;Sainte-Croix-aux-Mines;;;7.226566;48.259979
+68294_0160_00001;1;;Rue de l’Hopital;68160;68294;Sainte-Croix-aux-Mines;;;7.224701;48.261996
+68294_0270_00007;7;;Rue de Prisegoutte;68160;68294;Sainte-Croix-aux-Mines;;;7.209086;48.262486
+68294_0080_00001;1;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.218437;48.259373
+68294_0180_00007;7;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.226416;48.26189
+68294_0200_00117;117;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.214442;48.258212
+68294_0200_00016_a;16;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.229892;48.263648
+68294_0140_00011;11;;Rue du Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.224354;48.264985
+68294_0240_00009;9;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.225189;48.261342
+68294_0200_00108;108;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.222015;48.262259
+68294_0013_00015;15;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.23288;48.262998
+68294_0240_00013_b3;13;b3;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.226095;48.260983
+68294_b107_00019;19;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.20361;48.263789
+68294_0040_00009;9;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.227739;48.262123
+68294_0200_00118;118;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.220478;48.261543
+68294_0230_00018;18;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.231104;48.264064
+68294_0240_00021;21;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.222807;48.260101
+68294_0200_00050;50;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.226933;48.26297
+68294_b107_00043;43;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Vraie Côte;7.191123;48.267793
+68294_0280_00003;3;;Rue Privee;68160;68294;Sainte-Croix-aux-Mines;;;7.218113;48.261405
+68294_0200_00063;63;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.221195;48.261405
+68294_0230_00014_bis;14;bis;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.230426;48.26417
+68294_b107_00020;20;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.203502;48.263911
+68294_eo2mgh_00012;12;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.191298;48.251735
+68294_0240_00010_b;10;b;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.220335;48.259395
+68294_0380_00008;8;;Rue de la Warthe;68160;68294;Sainte-Croix-aux-Mines;;;7.225129;48.259836
+68294_0020_00016;16;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.226158;48.264132
+68294_0200_00010_c;10;c;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.232575;48.26443
+68294_0200_00105_b;105;b;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.216045;48.25845
+68294_0240_00013_b2;13;b2;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.225895;48.260956
+68294_b107_00039_a;39;a;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.198247;48.26698
+68294_0380_00004;4;;Rue de la Warthe;68160;68294;Sainte-Croix-aux-Mines;;;7.225788;48.260324
+68294_b063_00030;30;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.195211;48.289264
+68294_0380_00005;5;;Rue de la Warthe;68160;68294;Sainte-Croix-aux-Mines;;;7.225578;48.260326
+68294_0230_00013;13;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.230595;48.264315
+68294_0014_00007;7;;Rue des Coccinelles;68160;68294;Sainte-Croix-aux-Mines;;;7.229678;48.26118
+68294_0350_00006;6;;Rue de la Stimbach;68160;68294;Sainte-Croix-aux-Mines;;;7.234838;48.267316
+68294_eo2mgh_00027;27;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.19217;48.252983
+68294_0200_00013;13;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.22862;48.263141
+68294_0200_00057;57;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.222352;48.262054
+68294_0200_00055;55;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.222622;48.262103
+68294_0200_00092;92;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.222652;48.262279
+68294_0360_00001_a;1;a;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.234453;48.264437
+68294_b107_00005;5;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.20798;48.262126
+68294_0200_00150;150;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.217946;48.259899
+68294_0200_00041;41;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.225336;48.262696
+68294_0240_00001;1;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.225018;48.261753
+68294_0180_00009_a;9;a;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.225955;48.261855
+68294_0010_00004;4;;Rue des Cerisiers;68160;68294;Sainte-Croix-aux-Mines;;;7.226342;48.259973
+68294_0200_00044;44;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.227234;48.263019
+68294_0200_00124;124;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.219499;48.261355
+68294_0200_00048;48;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.227065;48.262988
+68294_b063_00040;40;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;Grange des Clous - Barthélémy;7.194999;48.293054
+68294_0160_00003_b;3;b;Rue de l’Hopital;68160;68294;Sainte-Croix-aux-Mines;;;7.223897;48.26181
+68294_0340_00005_a;5;a;Rue de Sobache;68160;68294;Sainte-Croix-aux-Mines;;;7.231445;48.261413
+68294_0040_00011_a;11;a;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.22805;48.261904
+68294_0004_00002;2;;Impasse Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.228257;48.260295
+68294_0200_00123;123;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.212087;48.257458
+68294_0160_00003_a;3;a;Rue de l’Hopital;68160;68294;Sainte-Croix-aux-Mines;;;7.224024;48.26186
+68294_b063_00042;42;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;Danigoutte;7.200451;48.295464
+68294_0200_00035;35;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.226621;48.262797
+68294_0310_00002;2;;Rue Saint Nicolas;68160;68294;Sainte-Croix-aux-Mines;;;7.228073;48.263806
+68294_0260_00004;4;;Rue du Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.217823;48.261086
+68294_b107_00048;48;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Vraie Côte;7.187607;48.273742
+68294_b107_00011;11;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.204773;48.262684
+68294_0160_00013;13;;Rue de l’Hopital;68160;68294;Sainte-Croix-aux-Mines;;;7.222515;48.261508
+68294_0040_00006;6;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.227946;48.261808
+68294_0240_00013;13;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.224816;48.261265
+68294_0200_00004;4;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.234052;48.265119
+68294_0f4m5q_00007;7;;Les Pres Pierre;68160;68294;Sainte-Croix-aux-Mines;;;7.221439;48.260913
+68294_0230_00006;6;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.232114;48.26497
+68294_0020_00009;9;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.224939;48.263379
+68294_0380_00012;12;;Rue de la Warthe;68160;68294;Sainte-Croix-aux-Mines;;;7.223719;48.259936
+68294_0005_00011;11;;Rue Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.227578;48.259631
+68294_b107_00079;79;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Sur Borne;7.203734;48.268847
+68294_0180_00011_a;11;a;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.225476;48.261874
+68294_0230_00001_b;1;b;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.232378;48.26439
+68294_eo2mgh_00023;23;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.192623;48.253294
+68294_0200_00085;85;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.218547;48.260432
+68294_0230_00014;14;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.230383;48.26426
+68294_b063_00009;9;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.214803;48.274321
+68294_0240_00005_a;5;a;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.225613;48.261355
+68294_b107_00075_a;75;a;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Jaboumont;7.19166;48.275848
+68294_b107_00081;81;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Sur Borne;7.204576;48.268875
+68294_0350_00001_b;1;b;Rue de la Stimbach;68160;68294;Sainte-Croix-aux-Mines;;;7.23437;48.265309
+68294_0230_00021;21;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.231778;48.264247
+68294_0260_00001;1;;Rue du Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.218384;48.260962
+68294_0014_00006;6;;Rue des Coccinelles;68160;68294;Sainte-Croix-aux-Mines;;;7.229535;48.261144
+68294_0200_00064;64;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.225838;48.262985
+68294_0040_00005;5;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.227426;48.262358
+68294_b107_00066;66;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;La Bouille;7.183516;48.268575
+68294_2mpdxj_00009;9;;Stimbach;68160;68294;Sainte-Croix-aux-Mines;;La Herrschaft;7.243064;48.271026
+68294_0230_00019;19;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.231421;48.264156
+68294_0270_00005;5;;Rue de Prisegoutte;68160;68294;Sainte-Croix-aux-Mines;;;7.209341;48.262836
+68294_0350_00008_a;8;a;Rue de la Stimbach;68160;68294;Sainte-Croix-aux-Mines;;;7.234596;48.268206
+68294_0240_00035;35;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.220654;48.259091
+68294_0360_00015;15;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.240357;48.258347
+68294_0080_00002;2;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.218749;48.259478
+68294_0140_00012;12;;Rue du Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.224196;48.265168
+68294_b107_00022;22;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.203013;48.264092
+68294_0350_00003;3;;Rue de la Stimbach;68160;68294;Sainte-Croix-aux-Mines;;;7.235536;48.266089
+68294_b063_00029;29;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.20097;48.287856
+68294_2mpdxj_00014;14;;Stimbach;68160;68294;Sainte-Croix-aux-Mines;;Châmont;7.231241;48.27138
+68294_0200_00049;49;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.223409;48.262392
+68294_b107_00065;65;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;La Bouille;7.182742;48.268273
+68294_0270_00009;9;;Rue de Prisegoutte;68160;68294;Sainte-Croix-aux-Mines;;;7.209185;48.262251
+68294_b063_00021;21;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.209789;48.280866
+68294_b107_00073;73;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Jaboumont;7.197638;48.276314
+68294_b107_00036;36;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.199703;48.265499
+68294_b063_00005;5;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.21712;48.269351
+68294_b063_00031;31;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;Baligoutte;7.189818;48.290145
+68294_0180_00026;26;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.225174;48.262085
+68294_b063_00026;26;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.206495;48.283098
+68294_0020_00006;6;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.225584;48.26397
+68294_2y6odh_00013;13;;Zone Artisanale Est;68160;68294;Sainte-Croix-aux-Mines;;;7.239033;48.26615
+68294_0005_00007;7;;Rue Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.227409;48.260062
+68294_2y6odh_00006;6;;Zone Artisanale Est;68160;68294;Sainte-Croix-aux-Mines;;;7.236317;48.266081
+68294_b063_00015;15;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.210837;48.277951
+68294_0040_00012;12;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.228283;48.261438
+68294_b063_00028;28;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.202701;48.286701
+68294_0f4m5q_00001;1;;Les Pres Pierre;68160;68294;Sainte-Croix-aux-Mines;;;7.220025;48.26058
+68294_0360_00004;4;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;Trou de la Terre;7.235136;48.263455
+68294_0360_00007;7;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.236602;48.263856
+68294_0013_00020;20;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.232532;48.263508
+68294_0060_00002;2;;Place du General Bourgeois;68160;68294;Sainte-Croix-aux-Mines;;;7.22457;48.262242
+68294_0200_00019;19;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.227832;48.26298
+68294_0230_00002;2;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.231974;48.264532
+68294_0080_00003;3;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.218463;48.259522
+68294_b107_00007;7;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.20751;48.261969
+68294_0140_00005;5;;Rue du Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.224861;48.264645
+68294_0200_00076;76;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.223567;48.262648
+68294_0280_00001;1;;Rue Privee;68160;68294;Sainte-Croix-aux-Mines;;;7.21861;48.261393
+68294_0200_00074;74;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.223767;48.262848
+68294_0200_00088;88;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.222902;48.262381
+68294_0200_00121_b;121;b;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.214053;48.25789
+68294_0200_00093;93;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.218154;48.259761
+68294_0240_00029;29;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.221045;48.259596
+68294_0013_00006;6;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.233615;48.263506
+68294_b063_00049;49;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;Navégoutte;7.21815;48.280372
+68294_9mx0ht_00037_a;37;a;Hury;68160;68294;Sainte-Croix-aux-Mines;;;7.230512;48.244779
+68294_0060_00001;1;;Place du General Bourgeois;68160;68294;Sainte-Croix-aux-Mines;;;7.224876;48.262262
+68294_0200_00071;71;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.21971;48.261276
+68294_0200_00087;87;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.218472;48.26031
+68294_0350_00008;8;;Rue de la Stimbach;68160;68294;Sainte-Croix-aux-Mines;;;7.234578;48.268052
+68294_b063_00003_a;3;a;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.22056;48.268801
+68294_2y6odh_00007;7;;Zone Artisanale Est;68160;68294;Sainte-Croix-aux-Mines;;;7.235689;48.265433
+68294_0200_00024;24;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.229006;48.263353
+68294_0200_00084;84;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.222998;48.262497
+68294_0f4m5q_00002;2;;Les Pres Pierre;68160;68294;Sainte-Croix-aux-Mines;;;7.220278;48.260519
+68294_0200_00053;53;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.222807;48.262211
+68294_0080_00018;18;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.22005;48.259355
+68294_0200_00040;40;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.227598;48.263085
+68294_0340_00006;6;;Rue de Sobache;68160;68294;Sainte-Croix-aux-Mines;;;7.23107;48.261262
+68294_0200_00033;33;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.226923;48.262789
+68294_0200_00005;5;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.232366;48.264161
+68294_0200_00104;104;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.222064;48.262316
+68294_b063_00012;12;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.212065;48.275707
+68294_b107_00075;75;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Jaboumont;7.191301;48.275942
+68294_0200_00029;29;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.227203;48.262761
+68294_b107_00006_a;6;a;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.20702;48.262689
+68294_b063_00006_b;6;b;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.215644;48.273663
+68294_eo2mgh_00038;38;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;Goutte des Pommes;7.180056;48.257244
+68294_0200_00079;79;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.21936;48.260755
+68294_b107_00046;46;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Vraie Côte;7.190336;48.269063
+68294_2y6odh_00012;12;;Zone Artisanale Est;68160;68294;Sainte-Croix-aux-Mines;;;7.238497;48.26617
+68294_0200_00138;138;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.218394;48.260438
+68294_0200_00115_a;115;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.214823;48.258216
+68294_0260_00001_a;1;a;Rue du Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.218471;48.261054
+68294_0320_00001_a;1;a;Impasse de Sobache;68160;68294;Sainte-Croix-aux-Mines;;;7.230397;48.260168
+68294_0200_00154;154;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.217678;48.259723
+68294_0020_00026;26;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.225453;48.264213
+68294_0270_00001;1;;Rue de Prisegoutte;68160;68294;Sainte-Croix-aux-Mines;;;7.209753;48.263443
+68294_0200_00162_a;162;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.217083;48.25935
+68294_0013_00003;3;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.233001;48.26328
+68294_0020_00014_a;14;a;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.226381;48.264107
+68294_b063_00022;22;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.210363;48.280986
+68294_0340_00002;2;;Rue de Sobache;68160;68294;Sainte-Croix-aux-Mines;;;7.230415;48.261148
+68294_b107_00009;9;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.206541;48.262202
+68294_0200_00122;122;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.219876;48.261418
+68294_0200_00010_a;10;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.233135;48.264817
+68294_b063_00003;3;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.220896;48.26855
+68294_0230_00001_a;1;a;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.232333;48.264464
+68294_0f4m5q_00004;4;;Les Pres Pierre;68160;68294;Sainte-Croix-aux-Mines;;;7.220709;48.260612
+68294_eo2mgh_00021;21;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.193105;48.253758
+68294_2y6odh_00005;5;;Zone Artisanale Est;68160;68294;Sainte-Croix-aux-Mines;;;7.23517;48.265236
+68294_0220_00001;1;;Rue du Merle;68160;68294;Sainte-Croix-aux-Mines;;;7.230294;48.260938
+68294_0200_00113;113;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.215264;48.25835
+68294_0220_00004;4;;Rue du Merle;68160;68294;Sainte-Croix-aux-Mines;;;7.234168;48.263067
+68294_0240_00020;20;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.218551;48.259238
+68294_0360_00011;11;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.238369;48.265042
+68294_0200_00002;2;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.234988;48.265465
+68294_0200_00043;43;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.225151;48.262632
+68294_b107_00082;82;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Sur Borne;7.205995;48.26876
+68294_0240_00016;16;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.21908;48.259086
+68294_0140_00013;13;;Rue du Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.224006;48.265339
+68294_0240_00005;5;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.225459;48.261335
+68294_0200_00094;94;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.222428;48.262288
+68294_0200_00126;126;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.219345;48.261336
+68294_b063_00053;53;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;Grandmont;7.223626;48.275766
+68294_0005_00009;9;;Rue Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.227365;48.259722
+68294_0350_00007;7;;Rue de la Stimbach;68160;68294;Sainte-Croix-aux-Mines;;;7.234492;48.267744
+68294_0200_00038;38;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.22767;48.263124
+68294_0240_00014;14;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.219518;48.259257
+68294_b063_00048;48;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;Prés Georges;7.214674;48.284016
+68294_b107_00071_a;71;a;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Trachenbach;7.197881;48.268327
+68294_b063_00005_b;5;b;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.218314;48.271355
+68294_b063_00023_a;23;a;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.210017;48.281414
+68294_b107_00035;35;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.199742;48.265467
+68294_0280_00002;2;;Rue Privee;68160;68294;Sainte-Croix-aux-Mines;;;7.218404;48.261399
+68294_0230_00010;10;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.230557;48.264675
+68294_0360_00022;22;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;Pré de lune;7.236075;48.240311
+68294_0360_00010_a;10;a;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.237564;48.264179
+68294_0220_00003;3;;Rue du Merle;68160;68294;Sainte-Croix-aux-Mines;;;7.233757;48.262737
+68294_0200_00058;58;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.226247;48.262963
+68294_0200_00105;105;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.216616;48.258891
+68294_0230_00003;3;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.232449;48.264908
+68294_b063_00025;25;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.211549;48.281858
+68294_0004_00001;1;;Impasse Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.228245;48.260553
+68294_0240_00012;12;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.220226;48.259207
+68294_0200_00101;101;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.217072;48.259196
+68294_0360_00017;17;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.238276;48.253756
+68294_0090_00004;4;;Rue du Chemin de la Goutte Saint Blaise;68160;68294;Sainte-Croix-aux-Mines;;;7.220553;48.258239
+68294_b107_00028;28;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.201385;48.264212
+68294_2mpdxj_00013;13;;Stimbach;68160;68294;Sainte-Croix-aux-Mines;;Châmont;7.231665;48.271798
+68294_b107_00055;55;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Rougigoutte;7.178202;48.281282
+68294_0180_00020;20;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.225798;48.262041
+68294_0380_00006;6;;Rue de la Warthe;68160;68294;Sainte-Croix-aux-Mines;;;7.225313;48.260247
+68294_0340_00007;7;;Rue de Sobache;68160;68294;Sainte-Croix-aux-Mines;;;7.231394;48.26081
+68294_9mx0ht_00030;30;;Hury;68160;68294;Sainte-Croix-aux-Mines;;;7.235275;48.238319
+68294_0200_00122_a;122;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.219765;48.261404
+68294_0200_00112;112;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.220925;48.261645
+68294_0040_00018;18;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.228144;48.260969
+68294_b107_00087;87;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Berbruche;7.216968;48.264607
+68294_0200_00103;103;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.216744;48.258967
+68294_b107_00053;53;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Faîte;7.179867;48.278549
+68294_0080_00010;10;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.219404;48.260003
+68294_0200_00134;134;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.218554;48.260838
+68294_b063_00008;8;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.215265;48.273894
+68294_0180_00016;16;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.226469;48.261981
+68294_0020_00010;10;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.225755;48.264101
+68294_0230_00001;1;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.232335;48.264706
+68294_b107_00041;41;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Vraie Côte;7.194022;48.267096
+68294_0013_00014;14;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.233146;48.263065
+68294_0180_00002;2;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.227335;48.262
+68294_0200_00095;95;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.217874;48.259577
+68294_2y6odh_00002;2;;Zone Artisanale Est;68160;68294;Sainte-Croix-aux-Mines;;;7.235317;48.265611
+68294_0180_00005;5;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.226969;48.261881
+68294_0360_00014;14;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;Bougifontaine;7.239213;48.260506
+68294_b107_00069;69;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Bougival;7.190642;48.266194
+68294_b063_00001;1;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.221373;48.268064
+68294_0014_00003;3;;Rue des Coccinelles;68160;68294;Sainte-Croix-aux-Mines;;;7.229128;48.261044
+68294_0360_00003;3;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.235344;48.264136
+68294_0200_00001;1;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.233864;48.264727
+68294_b107_00031;31;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.200472;48.26491
+68294_0080_00004;4;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.218724;48.259643
+68294_0180_00028;28;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.225013;48.262098
+68294_0040_00004;4;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.22674;48.26248
+68294_0040_00020;20;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.228489;48.260788
+68294_0360_00008_b;8;b;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.23716;48.264288
+68294_0200_00168_a;168;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.215746;48.258734
+68294_0200_00045;45;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.225038;48.262588
+68294_0200_00059_c;59;c;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.221431;48.261724
+68294_0014_00002;2;;Rue des Coccinelles;68160;68294;Sainte-Croix-aux-Mines;;;7.228978;48.261008
+68294_0040_00001;1;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.227055;48.262607
+68294_0013_00021;21;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.232214;48.263389
+68294_0310_00006;6;;Rue Saint Nicolas;68160;68294;Sainte-Croix-aux-Mines;;;7.229017;48.264253
+68294_eo2mgh_00007;7;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.197788;48.255943
+68294_b107_00024;24;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.202592;48.264267
+68294_0360_00012_a;12;a;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.238284;48.263888
+68294_b107_00059;59;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;La Chaume de Lusse;7.160808;48.274997
+68294_0200_00114;114;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.220741;48.261605
+68294_0013_00011;11;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.233838;48.263417
+68294_0200_00146;146;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.218087;48.260056
+68294_b063_00021_c;21;c;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.209864;48.280161
+68294_0200_00073;73;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.219026;48.261016
+68294_0014_00015;15;;Rue des Coccinelles;68160;68294;Sainte-Croix-aux-Mines;;;7.230732;48.261639
+68294_0360_00004_a;4;a;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.235609;48.263805
+68294_0080_00013;13;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.219432;48.2596
+68294_0230_00008;8;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.231156;48.26462
+68294_0200_00062;62;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.226062;48.262942
+68294_0200_00032;32;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.228371;48.263244
+68294_0005_00013;13;;Rue Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.228197;48.25985
+68294_eo2mgh_00015_a;15;a;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.195197;48.255326
+68294_0020_00020;20;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.225852;48.264148
+68294_0280_00005_a;5;a;Rue Privee;68160;68294;Sainte-Croix-aux-Mines;;;7.217882;48.261564
+68294_b059_00046;46;;La Goutte Saint Blaise;68160;68294;Sainte-Croix-aux-Mines;;;7.224656;48.25407
+68294_0200_00082;82;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.223126;48.262545
+68294_0200_00136;136;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.21848;48.260614
+68294_b063_00017;17;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.210906;48.279497
+68294_b107_00021;21;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.203141;48.264035
+68294_0200_00166;166;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.21666;48.259073
+68294_0080_00019;19;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.220097;48.25929
+68294_0310_00001;1;;Rue Saint Nicolas;68160;68294;Sainte-Croix-aux-Mines;;;7.227931;48.263714
+68294_0200_00122_b;122;b;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.220014;48.261444
+68294_0040_00028;28;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.228546;48.260579
+68294_b107_00001_a;1;a;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.214577;48.260923
+68294_0080_00012;12;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.219141;48.259514
+68294_b107_00023;23;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.202861;48.264163
+68294_b063_00013;13;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.210498;48.277005
+68294_b107_00008;8;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.206814;48.262028
+68294_b107_00033_a;33;a;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.200232;48.265458
+68294_0014_00001;1;;Rue des Coccinelles;68160;68294;Sainte-Croix-aux-Mines;;;7.228645;48.261164
+68294_0200_00014_a;14;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.230395;48.263759
+68294_eo2mgh_00017_a;17;a;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.193622;48.254196
+68294_0230_00007;7;;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.231512;48.264779
+68294_0380_00007_a;7;a;Rue de la Warthe;68160;68294;Sainte-Croix-aux-Mines;;;7.224981;48.260146
+68294_0360_00013;13;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.238659;48.263258
+68294_0200_00059;59;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.222436;48.261839
+68294_b107_00026_a;26;a;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.202175;48.26437
+68294_2mpdxj_00015;15;;Stimbach;68160;68294;Sainte-Croix-aux-Mines;;Châmont;7.229865;48.268629
+68294_0014_00009;9;;Rue des Coccinelles;68160;68294;Sainte-Croix-aux-Mines;;;7.229915;48.261235
+68294_eo2mgh_00017;17;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.193857;48.25442
+68294_b107_00042;42;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Vraie Côte;7.191356;48.267665
+68294_0240_00011;11;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.224987;48.261348
+68294_0080_00014;14;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.21962;48.259674
+68294_0200_00105_a;105;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.216511;48.258807
+68294_0140_00018;18;;Rue du Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.223298;48.266452
+68294_b107_00026_b;26;b;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.201606;48.264354
+68294_0014_00012;12;;Rue des Coccinelles;68160;68294;Sainte-Croix-aux-Mines;;;7.230383;48.261349
+68294_b107_00083;83;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Sur Borne;7.206324;48.267637
+68294_b107_00014_a;14;a;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.20473;48.263244
+68294_0080_00017;17;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.220142;48.259444
+68294_b107_00027;27;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.201816;48.264056
+68294_b063_00009_a;9;a;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.21519;48.274392
+68294_0280_00009;9;;Rue Privee;68160;68294;Sainte-Croix-aux-Mines;;;7.216674;48.261559
+68294_0020_00003;3;;Rue de l’Eglise;68160;68294;Sainte-Croix-aux-Mines;;;7.225304;48.263211
+68294_b063_00007;7;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.217411;48.27313
+68294_0350_00002;2;;Rue de la Stimbach;68160;68294;Sainte-Croix-aux-Mines;;;7.235268;48.266223
+68294_0200_00097;97;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.217768;48.259511
+68294_0380_00002;2;;Rue de la Warthe;68160;68294;Sainte-Croix-aux-Mines;;;7.226353;48.260462
+68294_b107_00060;60;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;La Haute Bouille;7.174615;48.268984
+68294_0013_00012;12;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.233672;48.263318
+68294_0200_00015;15;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.228223;48.263058
+68294_0040_00011;11;;Rue de la Gare;68160;68294;Sainte-Croix-aux-Mines;;;7.227869;48.262022
+68294_9mx0ht_00032;32;;Hury;68160;68294;Sainte-Croix-aux-Mines;;;7.234061;48.240138
+68294_b063_00005_c;5;c;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.218063;48.271563
+68294_b063_00005_a;5;a;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.218348;48.271148
+68294_0380_00009;9;;Rue de la Warthe;68160;68294;Sainte-Croix-aux-Mines;;;7.224795;48.26013
+68294_0340_00004;4;;Rue de Sobache;68160;68294;Sainte-Croix-aux-Mines;;;7.23087;48.261201
+68294_b107_00020_a;20;a;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.203049;48.263905
+68294_0230_00009_a;9;a;Rue de la Miessette;68160;68294;Sainte-Croix-aux-Mines;;;7.230931;48.26481
+68294_0380_00013;13;;Rue de la Warthe;68160;68294;Sainte-Croix-aux-Mines;;;7.223274;48.259799
+68294_0013_00016;16;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.232674;48.262845
+68294_b107_00006_b;6;b;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.207853;48.262643
+68294_b063_00024;24;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.211051;48.281411
+68294_b107_00012;12;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.204494;48.262381
+68294_eo2mgh_00009;9;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.196418;48.255734
+68294_0140_00001;1;;Rue du Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.225373;48.264366
+68294_0310_00005;5;;Rue Saint Nicolas;68160;68294;Sainte-Croix-aux-Mines;;;7.227526;48.263992
+68294_b063_00003_c;3;c;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.220321;48.269067
+68294_0013_00010;10;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.234135;48.263586
+68294_b107_00033;33;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.200134;48.265205
+68294_b063_00054;54;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;Goutte Martin;7.224039;48.270652
+68294_0220_00002_a;2;a;Rue du Merle;68160;68294;Sainte-Croix-aux-Mines;;;7.232929;48.262317
+68294_eo2mgh_00003;3;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.201569;48.255883
+68294_b107_00044;44;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Vraie Côte;7.190591;48.26797
+68294_0310_00009;9;;Rue Saint Nicolas;68160;68294;Sainte-Croix-aux-Mines;;;7.228636;48.264288
+68294_b107_00058;58;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Le Grand Sterpois;7.169856;48.284348
+68294_0080_00011;11;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.218955;48.259514
+68294_0240_00031;31;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.219996;48.259123
+68294_b063_00003_b;3;b;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.220337;48.268949
+68294_0240_00008_a;8;a;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.221395;48.259855
+68294_eo2mgh_00009_a;9;a;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.196865;48.255826
+68294_0140_00007;7;;Rue du Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.224374;48.265318
+68294_0340_00009;9;;Rue de Sobache;68160;68294;Sainte-Croix-aux-Mines;;;7.231174;48.260514
+68294_0200_00123_a;123;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.212243;48.257582
+68294_0200_00011;11;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.229494;48.263211
+68294_0380_00015;15;;Rue de la Warthe;68160;68294;Sainte-Croix-aux-Mines;;;7.222423;48.259439
+68294_b107_00025;25;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.202409;48.264248
+68294_0200_00059_a;59;a;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.221987;48.261871
+68294_0200_00168;168;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.216122;48.258772
+68294_0350_00004_a;4;a;Rue de la Stimbach;68160;68294;Sainte-Croix-aux-Mines;;;7.235313;48.266907
+68294_2y6odh_00009;9;;Zone Artisanale Est;68160;68294;Sainte-Croix-aux-Mines;;;7.237254;48.26596
+68294_0200_00107;107;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.215798;48.258529
+68294_uhl0qs_00001;1;;Les Moules;68160;68294;Sainte-Croix-aux-Mines;;;7.207234;48.256618
+68294_uhl0qs_00004;4;;Les Moules;68160;68294;Sainte-Croix-aux-Mines;;;7.207815;48.2565
+68294_b063_00016;16;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.211255;48.278932
+68294_0080_00008;8;;Rue du General de Gaulle;68160;68294;Sainte-Croix-aux-Mines;;;7.219017;48.25969
+68294_0200_00018;18;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.229514;48.263465
+68294_0360_00009;9;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.23703;48.263986
+68294_b107_00010_c;10;c;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.205162;48.262907
+68294_0013_00007;7;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.233814;48.26362
+68294_0180_00012;12;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.226799;48.261983
+68294_b063_00019;19;;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.210373;48.280798
+68294_b107_00052;52;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Vraie Côte;7.182416;48.275963
+68294_b107_00030;30;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.200687;48.264741
+68294_hepah8_00024;24;;Chemin de Montplaisir;68160;68294;Sainte-Croix-aux-Mines;;;7.244168;48.255886
+68294_b059_00044;44;;La Goutte Saint Blaise;68160;68294;Sainte-Croix-aux-Mines;;;7.224889;48.249016
+68294_b107_00074;74;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Jaboumont;7.194557;48.277636
+68294_0240_00007;7;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.225229;48.261265
+68294_0180_00024;24;;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.22538;48.262069
+68294_0270_00008;8;;Rue de Prisegoutte;68160;68294;Sainte-Croix-aux-Mines;;;7.208709;48.26229
+68294_0240_00002_a;2;a;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.224791;48.261683
+68294_b063_00008_a;8;a;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.214974;48.274098
+68294_b107_00052_a;52;a;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Faîte;7.17948;48.2776
+68294_2y6odh_00011;11;;Zone Artisanale Est;68160;68294;Sainte-Croix-aux-Mines;;;7.238034;48.266112
+68294_9mx0ht_00032_a;32;a;Hury;68160;68294;Sainte-Croix-aux-Mines;;;7.233015;48.241694
+68294_0004_00003;3;;Impasse Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.228324;48.260177
+68294_0200_00078;78;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.22338;48.262612
+68294_hepah8_00026;26;;Chemin de Montplaisir;68160;68294;Sainte-Croix-aux-Mines;;;7.244696;48.255803
+68294_0240_00013_b1;13;b1;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.225676;48.26092
+68294_0380_00001;1;;Rue de la Warthe;68160;68294;Sainte-Croix-aux-Mines;;;7.226569;48.260509
+68294_0013_00025;25;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.233923;48.263899
+68294_0280_00008;8;;Rue Privee;68160;68294;Sainte-Croix-aux-Mines;;;7.217074;48.26154
+68294_0140_00008;8;;Rue du Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.224039;48.265654
+68294_0200_00007;7;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.23069;48.263649
+68294_0240_00002_b;2;b;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.224859;48.261846
+68294_0005_00016;16;;Rue Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.228616;48.259649
+68294_b063_00029_a;29;a;Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.20047;48.288737
+68294_0240_00006;6;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.224392;48.261181
+68294_0240_00025;25;;Rue du Moulin;68160;68294;Sainte-Croix-aux-Mines;;;7.222193;48.259935
+68294_0200_00080;80;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.223324;48.262598
+68294_0200_00047;47;;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.224889;48.262553
+68294_0200_00010_b;10;b;Rue Maurice Burrus;68160;68294;Sainte-Croix-aux-Mines;;;7.232877;48.264749
+68294_0140_00002;2;;Rue du Grand Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.225168;48.264453
+68294_0090_00008;8;;Rue du Chemin de la Goutte Saint Blaise;68160;68294;Sainte-Croix-aux-Mines;;;7.221376;48.257557
+68294_b107_00018;18;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.203773;48.263685
+68294_b107_00039_b;39;b;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.198568;48.266781
+68294_0013_00002;2;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.232722;48.263149
+68294_0014_00013;13;;Rue des Coccinelles;68160;68294;Sainte-Croix-aux-Mines;;;7.230487;48.261374
+68294_hepah8_00025;25;;Chemin de Montplaisir;68160;68294;Sainte-Croix-aux-Mines;;;7.244422;48.255765
+68294_b107_00039;39;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;;7.198303;48.266669
+68294_0360_00012;12;;Rue de la Timbach;68160;68294;Sainte-Croix-aux-Mines;;;7.238637;48.263952
+68294_b107_00063;63;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;La Haute Bouille;7.175138;48.267142
+68294_0270_00002;2;;Rue de Prisegoutte;68160;68294;Sainte-Croix-aux-Mines;;;7.209627;48.263255
+68294_0013_00022;22;;Rue du Château;68160;68294;Sainte-Croix-aux-Mines;;;7.232011;48.263318
+68294_0180_00005_a;5;a;Rue du Marechal Leclerc;68160;68294;Sainte-Croix-aux-Mines;;;7.226692;48.26176
+68294_b107_00085;85;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Pré Renard;7.212286;48.270647
+68294_0005_00004;4;;Rue Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.227363;48.260292
+68294_eo2mgh_00002;2;;Les Halles;68160;68294;Sainte-Croix-aux-Mines;;;7.19865;48.254712
+68294_0014_00010;10;;Rue des Coccinelles;68160;68294;Sainte-Croix-aux-Mines;;;7.230021;48.261263
+68294_9mx0ht_00035_a;35;a;Hury;68160;68294;Sainte-Croix-aux-Mines;;;7.231359;48.240024
+68294_0005_00005;5;;Rue Belle Vue;68160;68294;Sainte-Croix-aux-Mines;;;7.226978;48.260108
+68294_b107_00070;70;;Petit Rombach;68160;68294;Sainte-Croix-aux-Mines;;Bougival;7.192682;48.266742

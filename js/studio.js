@@ -655,6 +655,89 @@ document.addEventListener('DOMContentLoaded', () => {
     // ---------------------------------------------------------------
     const DEFAULT_PIN_COLOR = '#e1000f';
 
+    // Recherche d'adresse en cascade (département → commune → voie → numéro)
+    // sur la Base Adresse Nationale découpée par commune : data/ban/<dép>/<code INSEE>.csv
+    const addrDept = document.getElementById('addr-dept');
+    const addrCommune = document.getElementById('addr-commune');
+    const addrVoie = document.getElementById('addr-voie');
+    const addrNumero = document.getElementById('addr-numero');
+    let addrRows = [];
+
+    function resetAddrSelect(sel, text) {
+        sel.innerHTML = `<option value="">${text}</option>`;
+        sel.disabled = true;
+    }
+    function appendOptions(sel, entries) {
+        entries.forEach(([value, label]) => { const o = document.createElement('option'); o.value = value; o.textContent = label; sel.appendChild(o); });
+        sel.disabled = entries.length === 0;
+    }
+    // La BAN note « 0 » les adresses sans numéro (lieux-dits notamment)
+    const hasHouseNumber = r => r.numero && r.numero !== '0';
+    const formatHouseNumber = r => hasHouseNumber(r) ? `${r.numero}${r.rep ? ' ' + r.rep : ''}` : '(sans numéro)';
+
+    appendOptions(addrDept, Object.entries(DEPARTEMENTS_DICT).map(([c, n]) => [c, `${c} - ${n}`]));
+
+    addrDept.onchange = async () => {
+        resetAddrSelect(addrCommune, '-- 2. Choisir la Commune --');
+        resetAddrSelect(addrVoie, '-- 3. Choisir la Voie --');
+        resetAddrSelect(addrNumero, '-- 4. Choisir le Numéro --');
+        const dep = addrDept.value;
+        if (!dep) return;
+        await loadMapReferentials();
+        const communes = [];
+        geoReferential.communes.forEach(r => {
+            if (getSafeCol(r, 'DEP') !== dep || getSafeCol(r, 'TYPECOM') !== 'COM') return;
+            const code = getSafeCol(r, 'COM'), name = getSafeCol(r, 'LIBELLE');
+            const arm = MUNICIPAL_ARRONDISSEMENTS[code];
+            // La BAN adresse Paris, Lyon et Marseille par arrondissement municipal
+            if (arm) for (let i = 1; i <= arm[2]; i++) communes.push([String(arm[1] + i - 1), `${name} ${i === 1 ? '1er' : i + 'e'} Arrondissement`]);
+            else communes.push([code, name]);
+        });
+        communes.sort((a, b) => a[1].localeCompare(b[1], 'fr', { numeric: true }));
+        appendOptions(addrCommune, communes.map(([c, n]) => [c, `${n} (${c})`]));
+    };
+
+    addrCommune.onchange = async () => {
+        resetAddrSelect(addrVoie, '-- 3. Choisir la Voie --');
+        resetAddrSelect(addrNumero, '-- 4. Choisir le Numéro --');
+        addrRows = [];
+        if (!addrCommune.value) return;
+        const code = addrCommune.value;
+        try {
+            const res = await fetch(`./data/ban/${addrDept.value}/${code}.csv`);
+            if (!res.ok) throw new Error(res.status);
+            addrRows = Papa.parse(await res.text(), { header: true, delimiter: ';', skipEmptyLines: true }).data;
+        } catch (e) {
+            showToast("Recherche d'adresse", "Aucune adresse disponible pour cette commune.", 'warning');
+            return;
+        }
+        if (addrCommune.value !== code) return;
+        const voies = Array.from(new Set(addrRows.map(r => r.nom_voie).filter(Boolean)))
+            .sort((a, b) => a.localeCompare(b, 'fr', { numeric: true }));
+        appendOptions(addrVoie, voies.map(v => [v, v]));
+    };
+
+    addrVoie.onchange = () => {
+        resetAddrSelect(addrNumero, '-- 4. Choisir le Numéro --');
+        if (!addrVoie.value) return;
+        const numeros = addrRows
+            .map((r, i) => [i, r])
+            .filter(([, r]) => r.nom_voie === addrVoie.value)
+            .sort(([, a], [, b]) => (parseInt(a.numero, 10) - parseInt(b.numero, 10)) || a.rep.localeCompare(b.rep));
+        appendOptions(addrNumero, numeros.map(([i, r]) => [i, formatHouseNumber(r)]));
+        // Une voie à adresse unique (lieu-dit) se sélectionne directement
+        if (numeros.length === 1) { addrNumero.value = numeros[0][0]; addrNumero.onchange(); }
+    };
+
+    addrNumero.onchange = () => {
+        const r = addrRows[addrNumero.value];
+        if (!r) return;
+        document.getElementById('pin-lon').value = r.lon;
+        document.getElementById('pin-lat').value = r.lat;
+        const num = hasHouseNumber(r) ? formatHouseNumber(r) + ' ' : '';
+        document.getElementById('pin-label').value = `${num}${r.nom_voie}, ${r.code_postal} ${r.nom_commune}`;
+    };
+
     function parseCoordinate(raw) {
         const n = parseFloat(String(raw ?? '').trim().replace(',', '.'));
         return Number.isFinite(n) ? n : NaN;

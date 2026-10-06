@@ -1,0 +1,926 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+41229_0050_00102;102;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.419415;47.331984
+41229_0008_00011;11;;Côte de l'Aubrière;41140;41229;Saint-Romain-sur-Cher;;;1.355783;47.301524
+41229_0008_00015;15;;Côte de l'Aubrière;41140;41229;Saint-Romain-sur-Cher;;;1.357049;47.302678
+41229_0008_00028;28;;Côte de l'Aubrière;41140;41229;Saint-Romain-sur-Cher;;;1.358331;47.303681
+41229_0008_00007_a;7;a;Côte de l'Aubrière;41140;41229;Saint-Romain-sur-Cher;;;1.354635;47.301546
+41229_0022_00004;4;;rue des chevet;41140;41229;Saint-Romain-sur-Cher;;;1.36035;47.310147
+41229_0022_00007;7;;rue des chevet;41140;41229;Saint-Romain-sur-Cher;;;1.360812;47.309429
+41229_0022_00011;11;;rue des chevet;41140;41229;Saint-Romain-sur-Cher;;;1.360616;47.308819
+41229_0022_00016;16;;rue des chevet;41140;41229;Saint-Romain-sur-Cher;;;1.359581;47.308246
+41229_0022_00020;20;;rue des chevet;41140;41229;Saint-Romain-sur-Cher;;;1.358658;47.306184
+41229_0141_00030;30;;Route de la Vallee des Pierres;41140;41229;Saint-Romain-sur-Cher;;;1.404959;47.328413
+41229_0019_00002;2;;Route des Brosses;41140;41229;Saint-Romain-sur-Cher;;;1.422682;47.332237
+41229_0019_00004;4;;Route des Brosses;41140;41229;Saint-Romain-sur-Cher;;;1.422922;47.331823
+41229_0019_00007;7;;Route des Brosses;41140;41229;Saint-Romain-sur-Cher;;;1.423216;47.331308
+41229_0019_00064;64;;Route des Brosses;41140;41229;Saint-Romain-sur-Cher;;;1.42632;47.323205
+41229_0019_00066;66;;Route des Brosses;41140;41229;Saint-Romain-sur-Cher;;;1.426724;47.323102
+41229_0019_01610;1610;;Route des Brosses;41140;41229;Saint-Romain-sur-Cher;;;1.426467;47.32294
+41229_0070_00007;7;;Impasse du Martinet;41140;41229;Saint-Romain-sur-Cher;;;1.396584;47.319629
+41229_0090_00006;6;;Route de Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.397433;47.321554
+41229_0090_00043;43;;Route de Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.387761;47.332308
+41229_0090_00047;47;;Route de Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.387511;47.332599
+41229_0130_00008;8;;Rue du Ruisseau;41140;41229;Saint-Romain-sur-Cher;;;1.408313;47.319552
+41229_0007_00009;9;;Chemin de l’Aubriere;41140;41229;Saint-Romain-sur-Cher;;;1.355716;47.301337
+41229_0360_00002;2;;Chemin de la Chainais;41140;41229;Saint-Romain-sur-Cher;;;1.367922;47.318181
+41229_0133_00008;8;;Route des Sablons;41140;41229;Saint-Romain-sur-Cher;;;1.404589;47.334641
+41229_0133_00014;14;;Route des Sablons;41140;41229;Saint-Romain-sur-Cher;;;1.404636;47.334738
+41229_0133_00024;24;;Route des Sablons;41140;41229;Saint-Romain-sur-Cher;;;1.406458;47.334806
+41229_0029_00049;49;;Chemin de la Ferme Neuve;41140;41229;Saint-Romain-sur-Cher;;;1.388665;47.345351
+41229_0029_00051;51;;Chemin de la Ferme Neuve;41140;41229;Saint-Romain-sur-Cher;;;1.388246;47.345743
+41229_0056_00002;2;;Rue des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.39936;47.315888
+41229_0056_00013;13;;Rue des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.397313;47.314799
+41229_0115_00004;4;;Impasse de la Pilette;41140;41229;Saint-Romain-sur-Cher;;;1.384355;47.299781
+41229_0067_00003;3;;Rue du Haut Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.380094;47.340951
+41229_0050_00107;107;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.422288;47.333794
+41229_0050_00140;140;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.424829;47.334652
+41229_0008_00002;2;;Côte de l'Aubrière;41140;41229;Saint-Romain-sur-Cher;;;1.355062;47.30085
+41229_0008_00010;10;;Côte de l'Aubrière;41140;41229;Saint-Romain-sur-Cher;;;1.3562;47.30184
+41229_0008_00017;17;;Côte de l'Aubrière;41140;41229;Saint-Romain-sur-Cher;;;1.357265;47.302868
+41229_0008_00018;18;;Côte de l'Aubrière;41140;41229;Saint-Romain-sur-Cher;;;1.357169;47.302641
+41229_0008_00033;33;;Côte de l'Aubrière;41140;41229;Saint-Romain-sur-Cher;;;1.358246;47.303753
+41229_0008_00007_b;7;b;Côte de l'Aubrière;41140;41229;Saint-Romain-sur-Cher;;;1.355396;47.301207
+41229_0022_00006;6;;rue des chevet;41140;41229;Saint-Romain-sur-Cher;;;1.360475;47.309925
+41229_0022_00012;12;;rue des chevet;41140;41229;Saint-Romain-sur-Cher;;;1.360253;47.309036
+41229_0022_00014;14;;rue des chevet;41140;41229;Saint-Romain-sur-Cher;;;1.359977;47.308882
+41229_0141_00039;39;;Route de la Vallee des Pierres;41140;41229;Saint-Romain-sur-Cher;;;1.404968;47.330703
+41229_0019_00020;20;;Route des Brosses;41140;41229;Saint-Romain-sur-Cher;;;1.423983;47.330538
+41229_0019_00068;68;;Route des Brosses;41140;41229;Saint-Romain-sur-Cher;;;1.426832;47.322618
+41229_0019_01610_f;1610;f;Route des Brosses;41140;41229;Saint-Romain-sur-Cher;;;1.426771;47.322913
+41229_0070_00001;1;;Impasse du Martinet;41140;41229;Saint-Romain-sur-Cher;;;1.395275;47.319875
+41229_0070_00003;3;;Impasse du Martinet;41140;41229;Saint-Romain-sur-Cher;;;1.395731;47.319835
+41229_0090_00002;2;;Route de Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.399803;47.321517
+41229_0090_00008;8;;Route de Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.396382;47.321977
+41229_0090_00012;12;;Route de Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.394514;47.323021
+41229_0090_00037;37;;Route de Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.386062;47.331762
+41229_0090_00057;57;;Route de Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.38625;47.334336
+41229_0090_00062;62;;Route de Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.383619;47.335951
+41229_0130_00002;2;;Rue du Ruisseau;41140;41229;Saint-Romain-sur-Cher;;;1.40774;47.318759
+41229_0130_00006;6;;Rue du Ruisseau;41140;41229;Saint-Romain-sur-Cher;;;1.408123;47.319287
+41229_0130_00010;10;;Rue du Ruisseau;41140;41229;Saint-Romain-sur-Cher;;;1.408572;47.319787
+41229_0130_00015;15;;Rue du Ruisseau;41140;41229;Saint-Romain-sur-Cher;;;1.410696;47.3208
+41229_0007_00001;1;;Chemin de l’Aubriere;41140;41229;Saint-Romain-sur-Cher;;;1.356256;47.299645
+41229_0007_00007;7;;Chemin de l’Aubriere;41140;41229;Saint-Romain-sur-Cher;;;1.35621;47.301029
+41229_0007_00008;8;;Chemin de l’Aubriere;41140;41229;Saint-Romain-sur-Cher;;;1.356355;47.299593
+41229_0007_00018;18;;Chemin de l’Aubriere;41140;41229;Saint-Romain-sur-Cher;;;1.355796;47.301401
+41229_0133_00011;11;;Route des Sablons;41140;41229;Saint-Romain-sur-Cher;;;1.403052;47.335097
+41229_0133_00012;12;;Route des Sablons;41140;41229;Saint-Romain-sur-Cher;;;1.405802;47.334876
+41229_0133_00020;20;;Route des Sablons;41140;41229;Saint-Romain-sur-Cher;;;1.405805;47.334909
+41229_0133_00022;22;;Route des Sablons;41140;41229;Saint-Romain-sur-Cher;;;1.406072;47.334873
+41229_0029_00006;6;;Chemin de la Ferme Neuve;41140;41229;Saint-Romain-sur-Cher;;;1.387866;47.338291
+41229_0029_00009;9;;Chemin de la Ferme Neuve;41140;41229;Saint-Romain-sur-Cher;;;1.388987;47.339036
+41229_0056_00003;3;;Rue des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.398667;47.315541
+41229_0056_00007;7;;Rue des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.397313;47.314799
+41229_0115_00009;9;;Impasse de la Pilette;41140;41229;Saint-Romain-sur-Cher;;;1.382843;47.300116
+41229_0067_00007;7;;Rue du Haut Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.378602;47.339913
+41229_0067_00015;15;;Rue du Haut Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.37788;47.339468
+41229_0008_00007;7;;Côte de l'Aubrière;41140;41229;Saint-Romain-sur-Cher;;;1.355783;47.301524
+41229_0008_00020;20;;Côte de l'Aubrière;41140;41229;Saint-Romain-sur-Cher;;;1.357449;47.302822
+41229_0008_00026;26;;Côte de l'Aubrière;41140;41229;Saint-Romain-sur-Cher;;;1.358151;47.303449
+41229_0022_00005;5;;rue des chevet;41140;41229;Saint-Romain-sur-Cher;;;1.360697;47.309768
+41229_0022_00009;9;;rue des chevet;41140;41229;Saint-Romain-sur-Cher;;;1.360341;47.309077
+41229_0142_00013;13;;Route de Vaurioux;41140;41229;Saint-Romain-sur-Cher;;;1.351092;47.319411
+41229_0014_00026;26;;Route de Blois;41140;41229;Saint-Romain-sur-Cher;;;1.401358;47.330743
+41229_0014_00031;31;;Route de Blois;41140;41229;Saint-Romain-sur-Cher;;;1.400601;47.331903
+41229_0014_00035;35;;Route de Blois;41140;41229;Saint-Romain-sur-Cher;;;1.40237;47.34464
+41229_0071_00001;1;;Rue du Martinet;41140;41229;Saint-Romain-sur-Cher;;;1.395274;47.318765
+41229_0071_00002;2;;Rue du Martinet;41140;41229;Saint-Romain-sur-Cher;;;1.395393;47.318759
+41229_0071_00006;6;;Rue du Martinet;41140;41229;Saint-Romain-sur-Cher;;;1.395273;47.319794
+41229_0071_00013;13;;Rue du Martinet;41140;41229;Saint-Romain-sur-Cher;;;1.395155;47.319841
+41229_0027_00003_bis;3;bis;Route de l'Ecluse;41140;41229;Saint-Romain-sur-Cher;;;1.347477;47.291168
+41229_0125_00006;6;;Chemin de la Robinette;41140;41229;Saint-Romain-sur-Cher;;;1.397738;47.326501
+41229_0045_00005;5;;Rue de la Fosse Vilain;41140;41229;Saint-Romain-sur-Cher;;;1.376207;47.292851
+41229_0035_00002;2;;Chemin de la Foret;41140;41229;Saint-Romain-sur-Cher;;;1.409488;47.318781
+41229_0068_00003;3;;Chemin de l’Heraudiere;41140;41229;Saint-Romain-sur-Cher;;;1.423683;47.342473
+41229_0091_00008;8;;Impasse du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.383187;47.332535
+41229_0091_00012;12;;Impasse du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.382418;47.331964
+41229_0006_00006;6;;Chemin des Aubras;41140;41229;Saint-Romain-sur-Cher;;;1.371751;47.318514
+41229_0006_00441;441;;Chemin des Aubras;41140;41229;Saint-Romain-sur-Cher;;;1.372048;47.318896
+41229_0080_00005;5;;Impasse du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.38222;47.297641
+41229_0080_00006;6;;Impasse du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.382154;47.297841
+41229_0012_00005;5;;Chemin de la Bliniere;41140;41229;Saint-Romain-sur-Cher;;;1.351582;47.321024
+41229_0025_00012;12;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.397062;47.318568
+41229_0025_00025;25;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.395341;47.318662
+41229_0022_00018;18;;rue des chevet;41140;41229;Saint-Romain-sur-Cher;;;1.359217;47.307586
+41229_0022_00036;36;;rue des chevet;41140;41229;Saint-Romain-sur-Cher;;;1.358658;47.306184
+41229_0141_00033;33;;Route de la Vallee des Pierres;41140;41229;Saint-Romain-sur-Cher;;;1.404097;47.326431
+41229_0019_00060;60;;Route des Brosses;41140;41229;Saint-Romain-sur-Cher;;;1.426707;47.323807
+41229_0019_00062;62;;Route des Brosses;41140;41229;Saint-Romain-sur-Cher;;;1.426674;47.323604
+41229_0070_00002;2;;Impasse du Martinet;41140;41229;Saint-Romain-sur-Cher;;;1.395273;47.319794
+41229_0090_00040;40;;Route de Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.387236;47.332943
+41229_0090_00046;46;;Route de Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.386766;47.333729
+41229_0090_00056;56;;Route de Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.384334;47.335589
+41229_0090_00059;59;;Route de Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.388633;47.331337
+41229_0090_00067;67;;Route de Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.383799;47.335799
+41229_0130_00004;4;;Rue du Ruisseau;41140;41229;Saint-Romain-sur-Cher;;;1.408325;47.319201
+41229_0130_00005;5;;Rue du Ruisseau;41140;41229;Saint-Romain-sur-Cher;;;1.408548;47.319885
+41229_0360_00003;3;;Chemin de la Chainais;41140;41229;Saint-Romain-sur-Cher;;;1.36784;47.318276
+41229_0133_00010;10;;Route des Sablons;41140;41229;Saint-Romain-sur-Cher;;;1.405802;47.334876
+41229_0056_00005;5;;Rue des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.39799;47.31517
+41229_0115_00003;3;;Impasse de la Pilette;41140;41229;Saint-Romain-sur-Cher;;;1.382843;47.300116
+41229_0115_00006;6;;Impasse de la Pilette;41140;41229;Saint-Romain-sur-Cher;;;1.384355;47.299781
+41229_0142_00009;9;;Route de Vaurioux;41140;41229;Saint-Romain-sur-Cher;;;1.350957;47.319369
+41229_0142_00023;23;;Route de Vaurioux;41140;41229;Saint-Romain-sur-Cher;;;1.35033;47.318017
+41229_0142_00033;33;;Route de Vaurioux;41140;41229;Saint-Romain-sur-Cher;;;1.359633;47.311437
+41229_0014_00040;40;;Route de Blois;41140;41229;Saint-Romain-sur-Cher;;;1.401173;47.333305
+41229_0071_00005;5;;Rue du Martinet;41140;41229;Saint-Romain-sur-Cher;;;1.395317;47.319209
+41229_0071_00011;11;;Rue du Martinet;41140;41229;Saint-Romain-sur-Cher;;;1.395154;47.31984
+41229_0071_00015;15;;Rue du Martinet;41140;41229;Saint-Romain-sur-Cher;;;1.395227;47.320482
+41229_0125_00014;14;;Chemin de la Robinette;41140;41229;Saint-Romain-sur-Cher;;;1.39799;47.326271
+41229_0030_00002;2;;Chemin de la Fontaine;41140;41229;Saint-Romain-sur-Cher;;;1.419277;47.319985
+41229_0045_00001;1;;Rue de la Fosse Vilain;41140;41229;Saint-Romain-sur-Cher;;;1.374589;47.291932
+41229_0035_00004;4;;Chemin de la Foret;41140;41229;Saint-Romain-sur-Cher;;;1.409488;47.318781
+41229_0018_00007;7;;Chemin des Brosses;41140;41229;Saint-Romain-sur-Cher;;;1.42194;47.33093
+41229_0006_00008;8;;Chemin des Aubras;41140;41229;Saint-Romain-sur-Cher;;;1.37107;47.317997
+41229_0080_00003;3;;Impasse du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.382409;47.297808
+41229_0028_00001;1;;Impasse des Ecoles;41140;41229;Saint-Romain-sur-Cher;;;1.401001;47.31797
+41229_0025_00004;4;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.398531;47.318444
+41229_0025_00005;5;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.39838;47.318273
+41229_0025_00010;10;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.397399;47.318508
+41229_0025_00022;22;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.395518;47.318755
+41229_0025_00026;26;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.394517;47.318815
+41229_0025_00029;29;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.394859;47.318692
+41229_0025_00036;36;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.39285;47.31901
+41229_0025_00039;39;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.39316;47.318717
+41229_0008_00001;1;;Côte de l'Aubrière;41140;41229;Saint-Romain-sur-Cher;;;1.354179;47.30051
+41229_0008_00004;4;;Côte de l'Aubrière;41140;41229;Saint-Romain-sur-Cher;;;1.355062;47.30085
+41229_0008_00008;8;;Côte de l'Aubrière;41140;41229;Saint-Romain-sur-Cher;;;1.356016;47.301609
+41229_0008_00013;13;;Côte de l'Aubrière;41140;41229;Saint-Romain-sur-Cher;;;1.355948;47.301693
+41229_0008_00014;14;;Côte de l'Aubrière;41140;41229;Saint-Romain-sur-Cher;;;1.356597;47.302288
+41229_0022_00001;1;;rue des chevet;41140;41229;Saint-Romain-sur-Cher;;;1.360341;47.309077
+41229_0022_00003;3;;rue des chevet;41140;41229;Saint-Romain-sur-Cher;;;1.360596;47.309933
+41229_0141_00031;31;;Route de la Vallee des Pierres;41140;41229;Saint-Romain-sur-Cher;;;1.404905;47.329959
+41229_0141_00032;32;;Route de la Vallee des Pierres;41140;41229;Saint-Romain-sur-Cher;;;1.404705;47.328421
+41229_0141_00037;37;;Route de la Vallee des Pierres;41140;41229;Saint-Romain-sur-Cher;;;1.404853;47.329732
+41229_0141_00046;46;;Route de la Vallee des Pierres;41140;41229;Saint-Romain-sur-Cher;;;1.405014;47.33034
+41229_0019_00018;18;;Route des Brosses;41140;41229;Saint-Romain-sur-Cher;;;1.423748;47.330779
+41229_0019_00022;22;;Route des Brosses;41140;41229;Saint-Romain-sur-Cher;;;1.424133;47.330229
+41229_0070_00004;4;;Impasse du Martinet;41140;41229;Saint-Romain-sur-Cher;;;1.396549;47.319551
+41229_0070_00005;5;;Impasse du Martinet;41140;41229;Saint-Romain-sur-Cher;;;1.396144;47.31972
+41229_0090_00004;4;;Route de Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.398606;47.321378
+41229_0090_00058;58;;Route de Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.394514;47.323021
+41229_0090_00060;60;;Route de Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.383811;47.335846
+41229_0130_00001;1;;Rue du Ruisseau;41140;41229;Saint-Romain-sur-Cher;;;1.40761;47.318764
+41229_0130_00016;16;;Rue du Ruisseau;41140;41229;Saint-Romain-sur-Cher;;;1.410741;47.320725
+41229_0007_00002;2;;Chemin de l’Aubriere;41140;41229;Saint-Romain-sur-Cher;;;1.356355;47.299593
+41229_0007_00018_bis;18;bis;Chemin de l’Aubriere;41140;41229;Saint-Romain-sur-Cher;;;1.3561;47.301161
+41229_0360_00006;6;;Chemin de la Chainais;41140;41229;Saint-Romain-sur-Cher;;;1.368405;47.316866
+41229_0133_00033;33;;Route des Sablons;41140;41229;Saint-Romain-sur-Cher;;;1.410404;47.332596
+41229_0056_00001;1;;Rue des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.398872;47.315679
+41229_0056_00010;10;;Rue des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.39706;47.314766
+41229_0115_00001;1;;Impasse de la Pilette;41140;41229;Saint-Romain-sur-Cher;;;1.382843;47.300116
+41229_0115_00002;2;;Impasse de la Pilette;41140;41229;Saint-Romain-sur-Cher;;;1.382738;47.300059
+41229_0067_00013;13;;Rue du Haut Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.377347;47.339656
+41229_0067_00017;17;;Rue du Haut Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.377347;47.339656
+41229_0142_00021;21;;Route de Vaurioux;41140;41229;Saint-Romain-sur-Cher;;;1.350489;47.318221
+41229_0142_00031;31;;Route de Vaurioux;41140;41229;Saint-Romain-sur-Cher;;;1.356225;47.313048
+41229_0142_00013_bis;13;bis;Route de Vaurioux;41140;41229;Saint-Romain-sur-Cher;;;1.351072;47.319498
+41229_0014_00011;11;;Route de Blois;41140;41229;Saint-Romain-sur-Cher;;;1.400399;47.327666
+41229_0014_00024;24;;Route de Blois;41140;41229;Saint-Romain-sur-Cher;;;1.40237;47.34464
+41229_0027_00002;2;;Route de l'Ecluse;41140;41229;Saint-Romain-sur-Cher;;;1.343469;47.294536
+41229_0027_00003;3;;Route de l'Ecluse;41140;41229;Saint-Romain-sur-Cher;;;1.347393;47.291201
+41229_0027_00006;6;;Route de l'Ecluse;41140;41229;Saint-Romain-sur-Cher;;;1.343222;47.294609
+41229_0072_00060;60;;Route des Marnières;41140;41229;Saint-Romain-sur-Cher;;;1.388237;47.333724
+41229_0045_00003;3;;Rue de la Fosse Vilain;41140;41229;Saint-Romain-sur-Cher;;;1.375571;47.292407
+41229_0035_00001;1;;Chemin de la Foret;41140;41229;Saint-Romain-sur-Cher;;;1.410389;47.318423
+41229_0035_00002_bis;2;bis;Chemin de la Foret;41140;41229;Saint-Romain-sur-Cher;;;1.409849;47.317511
+41229_0018_00005;5;;Chemin des Brosses;41140;41229;Saint-Romain-sur-Cher;;;1.422039;47.330992
+41229_0450_00016;16;;Route des Cormins;41140;41229;Saint-Romain-sur-Cher;;;1.353017;47.307631
+41229_0025_00001;1;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.399228;47.318175
+41229_0025_00007;7;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.397988;47.318328
+41229_0025_00016;16;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.396445;47.318693
+41229_0025_00017;17;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.396537;47.318587
+41229_0025_00018;18;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.396169;47.318724
+41229_0025_00020;20;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.395839;47.318742
+41229_0025_00033;33;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.394197;47.318757
+41229_0025_00003_a;3;a;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.39881;47.317949
+41229_0025_00013_a;13;a;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.396984;47.318266
+41229_0067_00022;22;;Rue du Haut Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.375888;47.339199
+41229_0142_00011;11;;Route de Vaurioux;41140;41229;Saint-Romain-sur-Cher;;;1.350957;47.319369
+41229_0142_00017;17;;Route de Vaurioux;41140;41229;Saint-Romain-sur-Cher;;;1.350807;47.318679
+41229_0142_00019;19;;Route de Vaurioux;41140;41229;Saint-Romain-sur-Cher;;;1.350664;47.318519
+41229_0142_00025;25;;Route de Vaurioux;41140;41229;Saint-Romain-sur-Cher;;;1.349859;47.317027
+41229_0014_00013;13;;Route de Blois;41140;41229;Saint-Romain-sur-Cher;;;1.400405;47.327771
+41229_0014_00048;48;;Route de Blois;41140;41229;Saint-Romain-sur-Cher;;;1.401814;47.334501
+41229_0071_00003;3;;Rue du Martinet;41140;41229;Saint-Romain-sur-Cher;;;1.395319;47.318988
+41229_0071_00004;4;;Rue du Martinet;41140;41229;Saint-Romain-sur-Cher;;;1.395381;47.319284
+41229_0071_00007;7;;Rue du Martinet;41140;41229;Saint-Romain-sur-Cher;;;1.395124;47.319391
+41229_0071_00009;9;;Rue du Martinet;41140;41229;Saint-Romain-sur-Cher;;;1.395138;47.319615
+41229_0027_00004;4;;Route de l'Ecluse;41140;41229;Saint-Romain-sur-Cher;;;1.343246;47.294332
+41229_0125_00001;1;;Chemin de la Robinette;41140;41229;Saint-Romain-sur-Cher;;;1.399624;47.324717
+41229_0030_00003;3;;Chemin de la Fontaine;41140;41229;Saint-Romain-sur-Cher;;;1.418988;47.320232
+41229_0030_00004;4;;Chemin de la Fontaine;41140;41229;Saint-Romain-sur-Cher;;;1.419115;47.320505
+41229_0045_00019;19;;Rue de la Fosse Vilain;41140;41229;Saint-Romain-sur-Cher;;;1.376833;47.2933
+41229_0068_00001;1;;Chemin de l’Heraudiere;41140;41229;Saint-Romain-sur-Cher;;;1.42391;47.34281
+41229_0006_00004;4;;Chemin des Aubras;41140;41229;Saint-Romain-sur-Cher;;;1.371983;47.318788
+41229_0006_00014;14;;Chemin des Aubras;41140;41229;Saint-Romain-sur-Cher;;;1.364822;47.315544
+41229_0080_00001;1;;Impasse du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.382605;47.297973
+41229_0080_00009;9;;Impasse du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.381848;47.297302
+41229_0012_00003;3;;Chemin de la Bliniere;41140;41229;Saint-Romain-sur-Cher;;;1.351431;47.320595
+41229_0025_00002;2;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.398807;47.318282
+41229_0025_00003;3;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.398945;47.318209
+41229_0025_00006;6;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.397952;47.318418
+41229_0025_00014;14;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.396731;47.318638
+41229_0025_00024;24;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.394873;47.318792
+41229_0025_00032;32;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.393508;47.318933
+41229_0025_00035;35;;Cheminement de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.393903;47.318786
+41229_0088_00004;4;;Cheminement de Mortheze;41140;41229;Saint-Romain-sur-Cher;;;1.410869;47.345644
+41229_2i32vo_00001_b;1;b;1 Rue des Chevets;41140;41229;Saint-Romain-sur-Cher;;;1.358052;47.303528
+41229_pb6r6y_00005;5;;45 Rue de la Fosse aux Chats;41140;41229;Saint-Romain-sur-Cher;;;1.40593;47.316561
+41229_pb6r6y_00033;33;;45 Rue de la Fosse aux Chats;41140;41229;Saint-Romain-sur-Cher;;;1.40593;47.316561
+41229_2i32vo_00009;9;;1 Rue des Chevets;41140;41229;Saint-Romain-sur-Cher;;;1.354066;47.304658
+41229_pb6r6y_00041;41;;45 Rue de la Fosse aux Chats;41140;41229;Saint-Romain-sur-Cher;;;1.403941;47.314564
+41229_xxjopj_00004;4;;Chemin de Morthese;41140;41229;Saint-Romain-sur-Cher;;;1.410786;47.345416
+41229_2i32vo_00002;2;;1 Rue des Chevets;41140;41229;Saint-Romain-sur-Cher;;;1.357813;47.303733
+41229_2i32vo_00002_a;2;a;1 Rue des Chevets;41140;41229;Saint-Romain-sur-Cher;;;1.357742;47.303744
+41229_2i32vo_00001;1;;1 Rue des Chevets;41140;41229;Saint-Romain-sur-Cher;;;1.357651;47.303535
+41229_pb6r6y_00039;39;;45 Rue de la Fosse aux Chats;41140;41229;Saint-Romain-sur-Cher;;;1.404074;47.314655
+41229_pb6r6y_00041_a;41;a;45 Rue de la Fosse aux Chats;41140;41229;Saint-Romain-sur-Cher;;;1.403975;47.314583
+41229_0087_00041;41;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.380308;47.297549
+41229_0087_00049;49;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.380637;47.298426
+41229_0087_00055;55;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.381488;47.300103
+41229_0120_00001;1;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399748;47.321107
+41229_0120_00005;5;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399805;47.320529
+41229_0120_00018;18;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.400019;47.31959
+41229_0120_00035;35;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399533;47.317149
+41229_0120_00043;43;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399533;47.317149
+41229_0120_00066;66;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399486;47.315939
+41229_0120_00071;71;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399034;47.313589
+41229_0020_00042;42;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.36906;47.293782
+41229_0087_00010;10;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.380233;47.29719
+41229_0087_00063;63;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.381608;47.300848
+41229_0087_00071;71;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.382621;47.302282
+41229_0120_00004;4;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399867;47.320943
+41229_0120_00014;14;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.400037;47.319797
+41229_0120_00041;41;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399556;47.317309
+41229_0120_00054;54;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399618;47.316907
+41229_0120_00064;64;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399509;47.316105
+41229_0120_00067;67;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399085;47.313946
+41229_0120_00075;75;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.398957;47.313349
+41229_0020_00006;6;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.373652;47.292259
+41229_0020_00011_bis;11;bis;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.372759;47.292414
+41229_0081_00014;14;;Rue du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.384318;47.298804
+41229_pb6r6y_00045_bis;45;bis;45 Rue de la Fosse aux Chats;41140;41229;Saint-Romain-sur-Cher;;;1.402729;47.313702
+41229_0600_00092;92;;Route de la Madeleine;41140;41229;Saint-Romain-sur-Cher;;;1.417826;47.34293
+41229_0087_00002;2;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.379644;47.296257
+41229_0087_00004;4;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.379848;47.296581
+41229_0087_00008;8;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.380075;47.296942
+41229_0087_00014;14;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.380537;47.297774
+41229_0087_00018;18;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.380802;47.298549
+41229_0087_00028;28;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.381097;47.299237
+41229_0087_00030;30;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.381173;47.299371
+41229_0087_00045;45;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.380443;47.297843
+41229_0087_00051;51;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.380693;47.298588
+41229_0120_00011;11;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399922;47.319899
+41229_0120_00022;22;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399988;47.319412
+41229_0120_00031;31;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399666;47.318049
+41229_0120_00060;60;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399554;47.316437
+41229_0120_00001_bis;1;bis;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399748;47.321107
+41229_0020_00050;50;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.368573;47.293994
+41229_0020_00094;94;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.360784;47.297556
+41229_0020_00098;98;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.360135;47.297864
+41229_crze0h_00001;1;;Route de Tours;41140;41229;Saint-Romain-sur-Cher;;;1.363603;47.294425
+41229_maporv_00007;7;;Rue des Hauts des Brosses;41140;41229;Saint-Romain-sur-Cher;;;1.42162;47.333947
+41229_0087_00014_bis;14;bis;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.381646;47.297271
+41229_0120_00017;17;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.39982;47.319091
+41229_0120_00025;25;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399733;47.31852
+41229_0120_00029;29;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399693;47.318233
+41229_0120_00062;62;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399532;47.316271
+41229_0120_00058_bis;58;bis;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.400159;47.316875
+41229_0020_00004;4;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.374589;47.291932
+41229_0020_00018;18;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.371098;47.292953
+41229_0020_00114;114;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.35795;47.298829
+41229_0020_00132;132;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.356256;47.299645
+41229_0020_00092_bis;92;bis;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.360353;47.297762
+41229_0020_00018_bis;18;bis;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.360814;47.298918
+41229_0085_00005;5;;Impasse de Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.381363;47.297456
+41229_0145_00007;7;;Rue des Vignes;41140;41229;Saint-Romain-sur-Cher;;;1.379504;47.298951
+41229_0145_00012;12;;Rue des Vignes;41140;41229;Saint-Romain-sur-Cher;;;1.378574;47.299312
+41229_0060_00019;19;;Rue du Gros Caillou;41140;41229;Saint-Romain-sur-Cher;;;1.372489;47.295641
+41229_0060_00024;24;;Rue du Gros Caillou;41140;41229;Saint-Romain-sur-Cher;;;1.37537;47.297623
+41229_0300_00012;12;;Route du Carroir;41140;41229;Saint-Romain-sur-Cher;;;1.367553;47.318827
+41229_0300_00027;27;;Route du Carroir;41140;41229;Saint-Romain-sur-Cher;;;1.364878;47.318766
+41229_0066_00004;4;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.37688;47.293947
+41229_0066_00016;16;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.376786;47.296466
+41229_0095_00005;5;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.398496;47.320128
+41229_0095_00018;18;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.39529;47.320563
+41229_0095_00034;34;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.391543;47.320657
+41229_0095_00038;38;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.388968;47.320032
+41229_0095_00053;53;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.362787;47.311843
+41229_0095_00055;55;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.360434;47.310811
+41229_0095_00075_bis;75;bis;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.390718;47.320419
+41229_0095_00004_bis;4;bis;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.399119;47.320096
+41229_0020_00048;48;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.368701;47.293937
+41229_0020_00052;52;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.368448;47.294054
+41229_0020_00066;66;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.3682;47.294176
+41229_0020_00092_ter;92;ter;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.360568;47.297658
+41229_0145_00002;2;;Rue des Vignes;41140;41229;Saint-Romain-sur-Cher;;;1.380693;47.298588
+41229_0060_00015;15;;Rue du Gros Caillou;41140;41229;Saint-Romain-sur-Cher;;;1.373904;47.296363
+41229_0060_00029;29;;Rue du Gros Caillou;41140;41229;Saint-Romain-sur-Cher;;;1.37022;47.295452
+41229_0066_00007;7;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.376684;47.294383
+41229_0066_00018;18;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.376814;47.297029
+41229_0066_00031;31;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.376903;47.2981
+41229_0026_00003;3;;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.359897;47.29857
+41229_0026_00007;7;;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.360685;47.299418
+41229_0095_00007;7;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.398158;47.320204
+41229_0095_00037;37;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.390718;47.320419
+41229_0095_00069;69;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.358083;47.310052
+41229_0095_00077;77;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.355847;47.309419
+41229_0015_00020;20;;Rue des Bourguignons;41140;41229;Saint-Romain-sur-Cher;;;1.40579;47.316553
+41229_0015_00028;28;;Rue des Bourguignons;41140;41229;Saint-Romain-sur-Cher;;;1.406626;47.31562
+41229_0015_00033;33;;Rue des Bourguignons;41140;41229;Saint-Romain-sur-Cher;;;1.406928;47.315348
+41229_0092_00005;5;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.381186;47.333311
+41229_0092_00009;9;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.385326;47.336425
+41229_0092_00035;35;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.38201;47.333636
+41229_0092_00045;45;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.38002;47.332405
+41229_0092_00069;69;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.374844;47.332212
+41229_0143_00017;17;;Route de Véret;41140;41229;Saint-Romain-sur-Cher;;;1.354722;47.290285
+41229_0024_00027;27;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.392706;47.318941
+41229_0024_00029;29;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.392706;47.318941
+41229_0024_00039;39;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.392706;47.318941
+41229_0024_00003_b;3;b;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.398718;47.318246
+41229_0123_00012;12;;Route de la Rimbertière;41140;41229;Saint-Romain-sur-Cher;;;1.403541;47.331518
+41229_0123_00047;47;;Route de la Rimbertière;41140;41229;Saint-Romain-sur-Cher;;;1.411101;47.331835
+41229_0123_00049;49;;Route de la Rimbertière;41140;41229;Saint-Romain-sur-Cher;;;1.411795;47.331698
+41229_0135_00007;7;;Route du Stade;41140;41229;Saint-Romain-sur-Cher;;;1.400502;47.313903
+41229_0092_00011;11;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.385039;47.336264
+41229_0092_00027;27;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.383759;47.334616
+41229_0092_00037;37;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.381063;47.333261
+41229_0092_00047;47;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.379899;47.332264
+41229_0143_00001;1;;Route de Véret;41140;41229;Saint-Romain-sur-Cher;;;1.35408;47.291717
+41229_0143_00003;3;;Route de Véret;41140;41229;Saint-Romain-sur-Cher;;;1.354132;47.291342
+41229_0143_00011;11;;Route de Véret;41140;41229;Saint-Romain-sur-Cher;;;1.354147;47.290484
+41229_0024_00013;13;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.396408;47.318617
+41229_0024_00021;21;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.394442;47.318739
+41229_0024_00031;31;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.392706;47.318941
+41229_0024_00035;35;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.392706;47.318941
+41229_0024_00012_bis;12;bis;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.396096;47.318728
+41229_0024_00003_a;3;a;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.398905;47.318234
+41229_0010_00005;5;;Rue du Bas Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.378558;47.298477
+41229_0123_00001;1;;Route de la Rimbertière;41140;41229;Saint-Romain-sur-Cher;;;1.417043;47.330542
+41229_0123_00006;6;;Route de la Rimbertière;41140;41229;Saint-Romain-sur-Cher;;;1.401876;47.331648
+41229_0075_00089;89;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.415186;47.319762
+41229_0075_00090;90;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.416989;47.319878
+41229_0075_00113;113;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.418444;47.319974
+41229_0075_00004;4;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.400702;47.320277
+41229_0075_00009;9;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.401884;47.320247
+41229_0060_00005;5;;Rue du Gros Caillou;41140;41229;Saint-Romain-sur-Cher;;;1.376575;47.298191
+41229_0060_00056;56;;Rue du Gros Caillou;41140;41229;Saint-Romain-sur-Cher;;;1.372436;47.295714
+41229_0066_00022;22;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.377027;47.298115
+41229_0066_00002_bis;2;bis;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.376895;47.293862
+41229_0026_00009;9;;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.360685;47.299418
+41229_0095_00001;1;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.399104;47.31988
+41229_0095_00027;27;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.394577;47.320479
+41229_0095_00061;61;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.359235;47.310418
+41229_0095_00067;67;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.358347;47.310129
+41229_0095_00079;79;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.355547;47.309326
+41229_0146_00013;13;;Route du Petit Village;41140;41229;Saint-Romain-sur-Cher;;;1.368643;47.323611
+41229_0146_00017;17;;Route du Petit Village;41140;41229;Saint-Romain-sur-Cher;;;1.368646;47.323251
+41229_0020_00040;40;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.36986;47.293441
+41229_0020_00100;100;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.359924;47.297959
+41229_0085_00003;3;;Impasse de Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.380537;47.297774
+41229_0081_00006;6;;Rue du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.382606;47.297973
+41229_0081_00011;11;;Rue du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.384275;47.298879
+41229_0145_00022;22;;Rue des Vignes;41140;41229;Saint-Romain-sur-Cher;;;1.376625;47.299512
+41229_0300_00004;4;;Route du Carroir;41140;41229;Saint-Romain-sur-Cher;;;1.371217;47.319838
+41229_0300_00018;18;;Route du Carroir;41140;41229;Saint-Romain-sur-Cher;;;1.366554;47.318594
+41229_0300_00022;22;;Route du Carroir;41140;41229;Saint-Romain-sur-Cher;;;1.365731;47.318381
+41229_0066_00025;25;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.376708;47.29682
+41229_0026_00011;11;;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.361118;47.299893
+41229_0095_00011;11;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.397836;47.319957
+41229_0095_00016;16;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.396095;47.320554
+41229_0095_00021;21;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.395703;47.320494
+41229_0095_00032;32;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.392903;47.320648
+41229_0095_00052;52;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.388968;47.320032
+41229_0015_00022;22;;Rue des Bourguignons;41140;41229;Saint-Romain-sur-Cher;;;1.40579;47.316553
+41229_0143_00004;4;;Route de Véret;41140;41229;Saint-Romain-sur-Cher;;;1.354148;47.291913
+41229_0143_00013;13;;Route de Véret;41140;41229;Saint-Romain-sur-Cher;;;1.354255;47.290436
+41229_0024_00002;2;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.399147;47.318262
+41229_0024_00005;5;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.398526;47.318262
+41229_0024_00023;23;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.393573;47.318835
+41229_0024_00032;32;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.393451;47.319298
+41229_0123_00042;42;;Route de la Rimbertière;41140;41229;Saint-Romain-sur-Cher;;;1.410667;47.332012
+41229_0123_00043;43;;Route de la Rimbertière;41140;41229;Saint-Romain-sur-Cher;;;1.410666;47.332148
+41229_0123_00044;44;;Route de la Rimbertière;41140;41229;Saint-Romain-sur-Cher;;;1.410788;47.331943
+41229_0021_00015;15;;Route de Chevelliere;41140;41229;Saint-Romain-sur-Cher;;;1.357931;47.316214
+41229_0135_00005;5;;Route du Stade;41140;41229;Saint-Romain-sur-Cher;;;1.400263;47.314543
+41229_0135_00010;10;;Route du Stade;41140;41229;Saint-Romain-sur-Cher;;;1.400568;47.31324
+41229_0140_00003;3;;Chemin de la Taille;41140;41229;Saint-Romain-sur-Cher;;;1.394714;47.320359
+41229_0092_00020;20;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.384182;47.336504
+41229_0092_00067;67;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.375246;47.332564
+41229_0460_00002;2;;Route du Courtillet;41140;41229;Saint-Romain-sur-Cher;;;1.368497;47.326986
+41229_0143_00016;16;;Route de Véret;41140;41229;Saint-Romain-sur-Cher;;;1.354635;47.29026
+41229_0143_00019;19;;Route de Véret;41140;41229;Saint-Romain-sur-Cher;;;1.355602;47.290109
+41229_0024_00012;12;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.395393;47.318759
+41229_0024_00016;16;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.396444;47.318695
+41229_0024_00025;25;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.392706;47.318941
+41229_0024_00030;30;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.393314;47.31895
+41229_0010_00010;10;;Rue du Bas Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.377717;47.298248
+41229_0010_00011;11;;Rue du Bas Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.377027;47.298115
+41229_0075_00083;83;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.414742;47.319744
+41229_0075_00094;94;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.418036;47.319903
+41229_0075_00102;102;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.419134;47.319894
+41229_0075_00106;106;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.419134;47.319894
+41229_0075_00109;109;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.41797;47.319983
+41229_0075_00111;111;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.418122;47.319983
+41229_0140_00013;13;;Chemin de la Taille;41140;41229;Saint-Romain-sur-Cher;;;1.393564;47.319937
+41229_0075_00002;2;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.400021;47.320111
+41229_0075_00006;6;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.401659;47.320211
+41229_0075_00012;12;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.403599;47.319093
+41229_0075_00015;15;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.403114;47.319683
+41229_0075_00018;18;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.403599;47.319093
+41229_0075_00048;48;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.409488;47.318781
+41229_0075_00055;55;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.408849;47.318797
+41229_0075_00059;59;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.409367;47.318841
+41229_0075_00061;61;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.409367;47.318841
+41229_0075_00063;63;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.409939;47.318979
+41229_0075_00068;68;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.413091;47.319619
+41229_0075_00069;69;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.411589;47.319485
+41229_0075_00088;88;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.416989;47.319878
+41229_0075_00125;125;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.420826;47.320107
+41229_0065_00005;5;;Impasse du Haut Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.377117;47.299184
+41229_0075_00004_ter;4;ter;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.401235;47.320276
+41229_0005_00001;1;;Rue Ancienne;41140;41229;Saint-Romain-sur-Cher;;;1.399893;47.319558
+41229_0017_00067;67;;Route du Bois d’Ouzy;41140;41229;Saint-Romain-sur-Cher;;;1.41955;47.342424
+41229_0065_00004;4;;Impasse du Haut Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.377346;47.298971
+41229_0023_00016;16;;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.388621;47.334494
+41229_0023_00031;31;;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.387048;47.336869
+41229_0023_00008_bis;8;bis;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.389064;47.3327
+41229_0055_00014;14;;Impasse des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.397815;47.314277
+41229_0400_00001;1;;Chemin de la Claudiere;41140;41229;Saint-Romain-sur-Cher;;;1.374251;47.310212
+41229_0400_00006;6;;Chemin de la Claudiere;41140;41229;Saint-Romain-sur-Cher;;;1.37482;47.310431
+41229_0400_00018;18;;Chemin de la Claudiere;41140;41229;Saint-Romain-sur-Cher;;;1.377278;47.31175
+41229_0400_00031;31;;Chemin de la Claudiere;41140;41229;Saint-Romain-sur-Cher;;;1.375764;47.31264
+41229_0401_00017;17;;Rue de la Claudière;41140;41229;Saint-Romain-sur-Cher;;;1.374586;47.313094
+41229_0401_00023;23;;Rue de la Claudière;41140;41229;Saint-Romain-sur-Cher;;;1.373897;47.312308
+41229_0050_00019;19;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.406096;47.325046
+41229_0023_00024;24;;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.387629;47.336268
+41229_0023_00027;27;;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.387361;47.336481
+41229_0055_00002;2;;Impasse des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.39722;47.314748
+41229_0055_00007;7;;Impasse des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.398256;47.314169
+41229_0055_00012;12;;Impasse des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.397723;47.31435
+41229_0055_00016;16;;Impasse des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.397907;47.314203
+41229_0400_00002;2;;Chemin de la Claudiere;41140;41229;Saint-Romain-sur-Cher;;;1.374071;47.310003
+41229_0400_00031_bis;31;bis;Chemin de la Claudiere;41140;41229;Saint-Romain-sur-Cher;;;1.374922;47.312575
+41229_0050_00029;29;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.40983;47.325817
+41229_0050_00034;34;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.41001;47.325428
+41229_0050_00035;35;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.410351;47.325882
+41229_0050_00081;81;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.41667;47.330281
+41229_0050_00097;97;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.418692;47.331732
+41229_0075_00019;19;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.403694;47.319143
+41229_0075_00021;21;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.403743;47.319121
+41229_0075_00064;64;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.412152;47.319482
+41229_0075_00080;80;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.415796;47.31977
+41229_0075_00085;85;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.414594;47.319742
+41229_0075_00091;91;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.415332;47.319778
+41229_0075_00098;98;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.418036;47.319903
+41229_0075_00105;105;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.415867;47.319867
+41229_0005_00004;4;;Rue Ancienne;41140;41229;Saint-Romain-sur-Cher;;;1.399279;47.319878
+41229_0017_00074;74;;Route du Bois d’Ouzy;41140;41229;Saint-Romain-sur-Cher;;;1.419508;47.342542
+41229_0065_00006;6;;Impasse du Haut Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.377656;47.299211
+41229_0023_00008;8;;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.388664;47.333029
+41229_0023_00009;9;;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.388537;47.334117
+41229_0023_00023;23;;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.388621;47.334494
+41229_0065_00002;2;;Impasse du Haut Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.37705;47.298529
+41229_0065_00004_bis;4;bis;Impasse du Haut Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.377504;47.298929
+41229_0023_00025;25;;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.387416;47.336412
+41229_0055_00001;1;;Impasse des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.397313;47.314799
+41229_0055_00004;4;;Impasse des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.397319;47.314667
+41229_0055_00020;20;;Impasse des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.398138;47.314108
+41229_0400_00019;19;;Chemin de la Claudiere;41140;41229;Saint-Romain-sur-Cher;;;1.379736;47.314792
+41229_0050_00008;8;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.402463;47.324266
+41229_0050_00027;27;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.410229;47.326214
+41229_0400_00003;3;;Chemin de la Claudiere;41140;41229;Saint-Romain-sur-Cher;;;1.375025;47.310612
+41229_0400_00014;14;;Chemin de la Claudiere;41140;41229;Saint-Romain-sur-Cher;;;1.376091;47.311266
+41229_0050_00021;21;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.406958;47.325181
+41229_0050_00030;30;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.41036;47.325825
+41229_0050_00031;31;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.409909;47.326204
+41229_0050_00064;64;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.414719;47.328979
+41229_0050_00066;66;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.414984;47.329183
+41229_0050_00089;89;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.417851;47.331074
+41229_0050_00095;95;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.418488;47.331545
+41229_0600_00072;72;;Route de la Madeleine;41140;41229;Saint-Romain-sur-Cher;;;1.414146;47.339751
+41229_0087_00013;13;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.378466;47.295168
+41229_0087_00027;27;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.379507;47.296246
+41229_0120_00012;12;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.400038;47.319939
+41229_0120_00016;16;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.400028;47.319694
+41229_0020_00090;90;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.361438;47.297253
+41229_0020_00044_bis;44;bis;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.368895;47.293853
+41229_0087_00031;31;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.379659;47.296528
+41229_0087_00046;46;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.381739;47.300452
+41229_0087_00075;75;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.383206;47.302776
+41229_0120_00002;2;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399871;47.321125
+41229_0120_00019;19;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.39979;47.318908
+41229_0120_00023;23;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399739;47.318806
+41229_0120_00026;26;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399955;47.319188
+41229_0120_00036;36;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399846;47.318474
+41229_0120_00044;44;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399764;47.317899
+41229_0120_00046;46;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399724;47.317633
+41229_0120_00048;48;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399685;47.317366
+41229_0120_00050;50;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399645;47.3171
+41229_0120_00057;57;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399301;47.315465
+41229_0120_00059;59;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399255;47.315129
+41229_0120_00063_bis;63;bis;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.398958;47.315083
+41229_0020_00005;5;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.374143;47.292027
+41229_0020_00046;46;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.36883;47.293881
+41229_0020_00106;106;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.359606;47.298102
+41229_0020_00120;120;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.35795;47.298829
+41229_0020_00138;138;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.353888;47.301099
+41229_0020_00108_bis;108;bis;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.35795;47.298829
+41229_0085_00004;4;;Impasse de Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.380953;47.297619
+41229_0081_00010;10;;Rue du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.383182;47.298394
+41229_0145_00001;1;;Rue des Vignes;41140;41229;Saint-Romain-sur-Cher;;;1.380665;47.298505
+41229_0145_00007_bis;7;bis;Rue des Vignes;41140;41229;Saint-Romain-sur-Cher;;;1.379504;47.298951
+41229_0060_00026;26;;Rue du Gros Caillou;41140;41229;Saint-Romain-sur-Cher;;;1.374426;47.296904
+41229_0300_00010;10;;Route du Carroir;41140;41229;Saint-Romain-sur-Cher;;;1.367853;47.318878
+41229_0300_00019;19;;Route du Carroir;41140;41229;Saint-Romain-sur-Cher;;;1.366923;47.318641
+41229_0066_00005;5;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.376737;47.294077
+41229_0066_00019;19;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.376479;47.295852
+41229_0026_00006;6;;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.360819;47.29941
+41229_0026_00008;8;;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.360949;47.299558
+41229_0026_00014;14;;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.361359;47.299994
+41229_0095_00004;4;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.399157;47.319953
+41229_0095_00006;6;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.399157;47.319953
+41229_0146_00016;16;;Route du Petit Village;41140;41229;Saint-Romain-sur-Cher;;;1.372635;47.318901
+41229_0015_00001;1;;Rue des Bourguignons;41140;41229;Saint-Romain-sur-Cher;;;1.403757;47.319017
+41229_0015_00021;21;;Rue des Bourguignons;41140;41229;Saint-Romain-sur-Cher;;;1.405845;47.316637
+41229_0092_00010;10;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.385806;47.336783
+41229_0092_00013;13;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.381186;47.333311
+41229_0092_00032;32;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.385222;47.336462
+41229_0092_00036;36;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.383699;47.33464
+41229_0092_00061;61;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.37692;47.332342
+41229_0460_00001;1;;Route du Courtillet;41140;41229;Saint-Romain-sur-Cher;;;1.368458;47.326958
+41229_0085_00006;6;;Impasse de Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.381771;47.297292
+41229_0081_00002;2;;Rue du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.381603;47.298202
+41229_0145_00003;3;;Rue des Vignes;41140;41229;Saint-Romain-sur-Cher;;;1.380278;47.298654
+41229_0060_00011;11;;Rue du Gros Caillou;41140;41229;Saint-Romain-sur-Cher;;;1.374559;47.296886
+41229_0060_00028;28;;Rue du Gros Caillou;41140;41229;Saint-Romain-sur-Cher;;;1.374426;47.296904
+41229_0060_00030;30;;Rue du Gros Caillou;41140;41229;Saint-Romain-sur-Cher;;;1.372436;47.295714
+41229_0060_00058;58;;Rue du Gros Caillou;41140;41229;Saint-Romain-sur-Cher;;;1.372436;47.295714
+41229_0300_00024;24;;Route du Carroir;41140;41229;Saint-Romain-sur-Cher;;;1.365494;47.318394
+41229_0066_00003;3;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.376809;47.293671
+41229_0066_00015;15;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.376506;47.295366
+41229_0066_00026;26;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.376765;47.298235
+41229_0026_00004;4;;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.359606;47.298102
+41229_0026_00012;12;;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.361358;47.299992
+41229_0026_00016;16;;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.361701;47.300376
+41229_0095_00002;2;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.399907;47.320037
+41229_0095_00010;10;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.398463;47.320226
+41229_0095_00019;19;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.396058;47.320475
+41229_0095_00035;35;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.391597;47.320582
+41229_0095_00049;49;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.364161;47.312245
+41229_0095_00059;59;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.359544;47.310525
+41229_0095_00066;66;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.355788;47.309466
+41229_0095_00074;74;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.353673;47.30886
+41229_0095_00081;81;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.390718;47.320419
+41229_0095_00074_a;74;a;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.353696;47.30885
+41229_0015_00010;10;;Rue des Bourguignons;41140;41229;Saint-Romain-sur-Cher;;;1.404355;47.318011
+41229_0015_00019;19;;Rue des Bourguignons;41140;41229;Saint-Romain-sur-Cher;;;1.405577;47.316866
+41229_0015_00024;24;;Rue des Bourguignons;41140;41229;Saint-Romain-sur-Cher;;;1.40579;47.316553
+41229_0092_00003;3;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.381186;47.333311
+41229_0092_00021;21;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.384155;47.33538
+41229_0092_00038;38;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.383448;47.334439
+41229_0143_00015;15;;Route de Véret;41140;41229;Saint-Romain-sur-Cher;;;1.354429;47.290392
+41229_0024_00004;4;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.398492;47.318349
+41229_2i32vo_00026;26;;1 Rue des Chevets;41140;41229;Saint-Romain-sur-Cher;;;1.352532;47.303388
+41229_pb6r6y_00045;45;;45 Rue de la Fosse aux Chats;41140;41229;Saint-Romain-sur-Cher;;;1.403305;47.314217
+41229_maporv_00008;8;;Rue des Hauts des Brosses;41140;41229;Saint-Romain-sur-Cher;;;1.422062;47.334654
+41229_0087_00006;6;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.380053;47.296904
+41229_0087_00011;11;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.378194;47.294891
+41229_0087_00020;20;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.380846;47.29869
+41229_0087_00026;26;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.381023;47.299103
+41229_0087_00032;32;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.381214;47.299398
+41229_0087_00047;47;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.380526;47.298094
+41229_0087_00069;69;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.382214;47.301965
+41229_0087_00048_a;48;a;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.381654;47.301197
+41229_0120_00013;13;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399856;47.319386
+41229_0120_00039;39;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.39958;47.317468
+41229_0120_00056;56;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.3996;47.316768
+41229_0020_00012;12;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.372668;47.292525
+41229_0020_00064;64;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.3682;47.294176
+41229_2i32vo_00004;4;;1 Rue des Chevets;41140;41229;Saint-Romain-sur-Cher;;;1.357096;47.303813
+41229_2i32vo_00001_a;1;a;1 Rue des Chevets;41140;41229;Saint-Romain-sur-Cher;;;1.357684;47.30365
+41229_pb6r6y_00023;23;;45 Rue de la Fosse aux Chats;41140;41229;Saint-Romain-sur-Cher;;;1.404921;47.315415
+41229_pb6r6y_00043;43;;45 Rue de la Fosse aux Chats;41140;41229;Saint-Romain-sur-Cher;;;1.403769;47.314464
+41229_0087_00005;5;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.377825;47.294364
+41229_0087_00044;44;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.381726;47.30037
+41229_0120_00009;9;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399788;47.32061
+41229_0120_00033;33;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399651;47.317946
+41229_0120_00045;45;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399521;47.317069
+41229_0120_00049;49;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399421;47.316339
+41229_0120_00072;72;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399384;47.315195
+41229_0120_00084;84;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399199;47.313908
+41229_0120_00044_bis;44;bis;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.401069;47.317787
+41229_0120_00027_bis;27;bis;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399406;47.318489
+41229_0020_00024;24;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.370017;47.293375
+41229_0020_00104;104;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.359659;47.298078
+41229_0020_00108;108;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.35795;47.298829
+41229_0020_00136;136;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.354403;47.300754
+41229_0020_00164;164;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.347146;47.305688
+41229_0020_00046_bis;46;bis;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.368766;47.293909
+41229_0060_00027;27;;Rue du Gros Caillou;41140;41229;Saint-Romain-sur-Cher;;;1.370796;47.295446
+41229_0300_00020;20;;Route du Carroir;41140;41229;Saint-Romain-sur-Cher;;;1.366219;47.318503
+41229_pb6r6y_00001;1;;45 Rue de la Fosse aux Chats;41140;41229;Saint-Romain-sur-Cher;;;1.407674;47.318679
+41229_0600_00074;74;;Route de la Madeleine;41140;41229;Saint-Romain-sur-Cher;;;1.414544;47.339914
+41229_0600_00080;80;;Route de la Madeleine;41140;41229;Saint-Romain-sur-Cher;;;1.413622;47.340628
+41229_0087_00035;35;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.379861;47.296836
+41229_0087_00039;39;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.380227;47.297405
+41229_0087_00043;43;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.380379;47.297695
+41229_0087_00061;61;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.381614;47.300428
+41229_0087_00067;67;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.381795;47.301656
+41229_0120_00003;3;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399788;47.32061
+41229_0120_00008;8;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399989;47.320267
+41229_0120_00015;15;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399842;47.319234
+41229_0120_00027;27;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399713;47.318376
+41229_0120_00047;47;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399471;47.316704
+41229_0120_00051;51;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399372;47.315974
+41229_0120_00077;77;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399022;47.313508
+41229_0120_00035_bis;35;bis;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399568;47.317388
+41229_0020_00002;2;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.374589;47.291932
+41229_0020_00008;8;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.373718;47.292245
+41229_0020_00022;22;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.370118;47.293332
+41229_0020_00088;88;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.361766;47.297102
+41229_0600_00078;78;;Route de la Madeleine;41140;41229;Saint-Romain-sur-Cher;;;1.413591;47.339818
+41229_0087_00001;1;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.377324;47.293782
+41229_0066_00028;28;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.376605;47.29827
+41229_0026_00005;5;;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.36029;47.298994
+41229_0026_00013;13;;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.361118;47.299893
+41229_0026_00017;17;;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.361505;47.300313
+41229_0095_00029;29;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.394316;47.320486
+41229_0095_00031;31;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.393407;47.320522
+41229_0095_00044;44;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.372566;47.316819
+41229_0095_00048;48;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.365861;47.31264
+41229_0095_00065;65;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.358347;47.310129
+41229_0095_00070;70;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.353513;47.308811
+41229_0020_00044;44;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.368959;47.293825
+41229_0020_00086;86;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.361766;47.297102
+41229_0020_00092;92;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.360135;47.297864
+41229_0020_00110;110;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.358983;47.29837
+41229_0020_00142;142;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.352597;47.30199
+41229_0020_00006_a;6;a;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.374589;47.291932
+41229_0081_00002_b;2;b;Rue du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.381603;47.298202
+41229_0145_00009;9;;Rue des Vignes;41140;41229;Saint-Romain-sur-Cher;;;1.379504;47.298951
+41229_0066_00012;12;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.376609;47.295912
+41229_0026_00015;15;;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.361292;47.300075
+41229_0095_00003;3;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.398819;47.320025
+41229_0095_00028;28;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.394677;47.320559
+41229_0095_00056;56;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.362556;47.311829
+41229_0095_00063;63;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.358914;47.310307
+41229_0015_00006;6;;Rue des Bourguignons;41140;41229;Saint-Romain-sur-Cher;;;1.403658;47.318962
+41229_0015_00012;12;;Rue des Bourguignons;41140;41229;Saint-Romain-sur-Cher;;;1.404754;47.317552
+41229_0092_00024;24;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.384474;47.336022
+41229_0092_00039;39;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.381186;47.333311
+41229_0069_00002;2;;Ruelle des Jardins;41140;41229;Saint-Romain-sur-Cher;;;1.399549;47.320253
+41229_0024_00018;18;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.396096;47.318728
+41229_0024_00020;20;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.395744;47.318744
+41229_0024_00024;24;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.395274;47.318765
+41229_0024_00033;33;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.392706;47.318941
+41229_0024_00027_bis;27;bis;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.395118;47.318724
+41229_0010_00004;4;;Rue du Bas Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.378576;47.298615
+41229_0010_00008;8;;Rue du Bas Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.376944;47.298176
+41229_0010_00009;9;;Rue du Bas Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.377549;47.29822
+41229_0010_00309;309;;Rue du Bas Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.378179;47.298422
+41229_0123_00010;10;;Route de la Rimbertière;41140;41229;Saint-Romain-sur-Cher;;;1.403995;47.331456
+41229_0135_00009;9;;Route du Stade;41140;41229;Saint-Romain-sur-Cher;;;1.400685;47.313255
+41229_0140_00001;1;;Chemin de la Taille;41140;41229;Saint-Romain-sur-Cher;;;1.394714;47.320359
+41229_0140_00005;5;;Chemin de la Taille;41140;41229;Saint-Romain-sur-Cher;;;1.394629;47.320334
+41229_0140_00006;6;;Chemin de la Taille;41140;41229;Saint-Romain-sur-Cher;;;1.394219;47.320196
+41229_0140_00007;7;;Chemin de la Taille;41140;41229;Saint-Romain-sur-Cher;;;1.394432;47.320275
+41229_0140_00009;9;;Chemin de la Taille;41140;41229;Saint-Romain-sur-Cher;;;1.394219;47.320196
+41229_0092_00007;7;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.385603;47.336591
+41229_0092_00043;43;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.381186;47.333311
+41229_0092_00071;71;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.374493;47.332544
+41229_0009_00041;41;;Route de la Barbière;41140;41229;Saint-Romain-sur-Cher;;;1.383914;47.322821
+41229_0069_00001;1;;Ruelle des Jardins;41140;41229;Saint-Romain-sur-Cher;;;1.399863;47.320288
+41229_0143_00005;5;;Route de Véret;41140;41229;Saint-Romain-sur-Cher;;;1.354716;47.291154
+41229_0143_00014;14;;Route de Véret;41140;41229;Saint-Romain-sur-Cher;;;1.354414;47.290417
+41229_0024_00001;1;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.399681;47.318152
+41229_0024_00003;3;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.398584;47.318255
+41229_0024_00007;7;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.397991;47.318337
+41229_0024_00017;17;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.39532;47.318681
+41229_0024_00054;54;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.393314;47.31895
+41229_0010_00007;7;;Rue du Bas Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.378341;47.298117
+41229_0075_00097;97;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.415764;47.319848
+41229_0075_00104;104;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.419134;47.319894
+41229_0075_00115;115;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.418798;47.319968
+41229_0075_00117;117;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.419152;47.319977
+41229_0075_00001;1;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.400009;47.320192
+41229_0075_00017;17;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.403439;47.319432
+41229_0087_00016;16;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.380638;47.298063
+41229_0087_00025;25;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.37938;47.296091
+41229_0087_00029;29;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.379528;47.296303
+41229_0087_00033;33;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.379767;47.296686
+41229_0087_00040;40;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.381576;47.300035
+41229_0087_00048;48;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.381772;47.301472
+41229_0087_00053;53;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.381036;47.299358
+41229_0120_00020;20;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.400018;47.319588
+41229_0120_00037;37;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399604;47.317627
+41229_0120_00058;58;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399614;47.31687
+41229_0120_00070;70;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399443;47.315624
+41229_0120_00078;78;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399199;47.313908
+41229_0120_00032_bis;32;bis;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.39992;47.318974
+41229_0020_00009;9;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.372759;47.292414
+41229_0020_00011;11;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.371814;47.292666
+41229_0020_00013;13;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.370882;47.292938
+41229_0081_00004;4;;Rue du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.381603;47.298202
+41229_0081_00008;8;;Rue du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.382872;47.298198
+41229_0081_00002_a;2;a;Rue du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.381603;47.298202
+41229_0060_00031;31;;Rue du Gros Caillou;41140;41229;Saint-Romain-sur-Cher;;;1.369653;47.295511
+41229_0066_00009;9;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.376631;47.294688
+41229_0095_00009;9;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.397812;47.320263
+41229_0095_00014;14;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.396883;47.320437
+41229_0095_00023;23;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.395347;47.320484
+41229_0095_00036;36;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.390234;47.320387
+41229_0095_00051;51;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.36312;47.312006
+41229_0095_00058;58;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.361953;47.311489
+41229_0095_00075;75;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.356329;47.309562
+41229_0020_00062;62;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.3682;47.294176
+41229_0020_00134;134;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.354615;47.30062
+41229_0020_00040_a;40;a;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.37061;47.294169
+41229_0020_00006_b;6;b;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.374589;47.291932
+41229_0081_00001;1;;Rue du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.382818;47.29828
+41229_0060_00025;25;;Rue du Gros Caillou;41140;41229;Saint-Romain-sur-Cher;;;1.371372;47.295452
+41229_0060_00035;35;;Rue du Gros Caillou;41140;41229;Saint-Romain-sur-Cher;;;1.368527;47.295678
+41229_0066_00002;2;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.37688;47.293947
+41229_0066_00021;21;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.376499;47.295949
+41229_0026_00021;21;;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.361933;47.30079
+41229_0095_00045;45;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.364901;47.312425
+41229_0095_01661;1661;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.372292;47.316445
+41229_0095_00001_bis;1;bis;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.399104;47.31988
+41229_0146_00005;5;;Route du Petit Village;41140;41229;Saint-Romain-sur-Cher;;;1.371828;47.320328
+41229_0146_00015;15;;Route du Petit Village;41140;41229;Saint-Romain-sur-Cher;;;1.368293;47.323371
+41229_0092_00016;16;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.38491;47.336278
+41229_0460_00003;3;;Route du Courtillet;41140;41229;Saint-Romain-sur-Cher;;;1.368427;47.327079
+41229_0009_00038;38;;Route de la Barbière;41140;41229;Saint-Romain-sur-Cher;;;1.38391;47.322988
+41229_0024_00010;10;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.397462;47.318506
+41229_0024_00014;14;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.396782;47.318628
+41229_0024_00015;15;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.396927;47.318448
+41229_0024_00036;36;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.393314;47.31895
+41229_0010_00002;2;;Rue du Bas Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.376944;47.298176
+41229_0010_00002_bis;2;bis;Rue du Bas Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.376944;47.298176
+41229_0021_00008;8;;Route de Chevelliere;41140;41229;Saint-Romain-sur-Cher;;;1.359243;47.314262
+41229_0135_00001;1;;Route du Stade;41140;41229;Saint-Romain-sur-Cher;;;1.399458;47.315734
+41229_0135_00002;2;;Route du Stade;41140;41229;Saint-Romain-sur-Cher;;;1.399443;47.315624
+41229_0135_00003;3;;Route du Stade;41140;41229;Saint-Romain-sur-Cher;;;1.399938;47.315164
+41229_0135_00006;6;;Route du Stade;41140;41229;Saint-Romain-sur-Cher;;;1.400568;47.31324
+41229_0140_00011;11;;Chemin de la Taille;41140;41229;Saint-Romain-sur-Cher;;;1.394088;47.320144
+41229_0015_00201_f;201;f;Rue des Bourguignons;41140;41229;Saint-Romain-sur-Cher;;;1.404281;47.318242
+41229_0092_00040;40;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.383144;47.334225
+41229_0460_00004;4;;Route du Courtillet;41140;41229;Saint-Romain-sur-Cher;;;1.368435;47.327275
+41229_0460_00007;7;;Route du Courtillet;41140;41229;Saint-Romain-sur-Cher;;;1.367879;47.327216
+41229_0024_00022;22;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.395393;47.318759
+41229_0024_00026;26;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.394565;47.318811
+41229_0075_00035;35;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.405432;47.319095
+41229_0075_00040;40;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.409488;47.318781
+41229_0075_00045;45;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.40761;47.318764
+41229_0075_00051;51;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.40848;47.318777
+41229_0075_00053;53;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.408849;47.318797
+41229_0075_00081;81;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.414594;47.319742
+41229_0065_00001;1;;Impasse du Haut Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.376936;47.298561
+41229_0023_00017;17;;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.387376;47.335031
+41229_0023_00018;18;;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.388202;47.335398
+41229_0005_00005;5;;Rue Ancienne;41140;41229;Saint-Romain-sur-Cher;;;1.399104;47.31988
+41229_0023_00014;14;;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.388468;47.334704
+41229_0023_00021;21;;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.388621;47.334494
+41229_0023_00030;30;;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.387154;47.33685
+41229_0055_00005;5;;Impasse des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.397891;47.314324
+41229_0055_00008;8;;Impasse des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.397537;47.314498
+41229_0400_00008;8;;Chemin de la Claudiere;41140;41229;Saint-Romain-sur-Cher;;;1.375005;47.310537
+41229_0023_00033;33;;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.386833;47.337106
+41229_0055_00003;3;;Impasse des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.397602;47.314562
+41229_0055_00006;6;;Impasse des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.397445;47.314572
+41229_0050_00036;36;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.410356;47.325675
+41229_0024_00034;34;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.393314;47.31895
+41229_0010_00001;1;;Rue du Bas Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.379124;47.299106
+41229_0123_00040;40;;Route de la Rimbertière;41140;41229;Saint-Romain-sur-Cher;;;1.410456;47.332151
+41229_0075_00079;79;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.414594;47.319742
+41229_0075_00084;84;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.416989;47.319878
+41229_0140_00015;15;;Chemin de la Taille;41140;41229;Saint-Romain-sur-Cher;;;1.393034;47.319738
+41229_0140_00023;23;;Chemin de la Taille;41140;41229;Saint-Romain-sur-Cher;;;1.393034;47.319738
+41229_0075_00003;3;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.400422;47.320367
+41229_0075_00007;7;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.401406;47.320337
+41229_0075_00008;8;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.402417;47.319933
+41229_0075_00010;10;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.403114;47.31958
+41229_0075_00011;11;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.40232;47.320089
+41229_0075_00033;33;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.405151;47.319088
+41229_0075_00037;37;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.405686;47.319079
+41229_0075_00039;39;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.405744;47.319071
+41229_0075_00041;41;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.405917;47.319039
+41229_0075_00042;42;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.409488;47.318781
+41229_0075_00052;52;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.409488;47.318781
+41229_0075_00054;54;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.410616;47.319153
+41229_0075_00071;71;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.412184;47.31957
+41229_0075_00074;74;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.414529;47.319661
+41229_0075_00092;92;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.416989;47.319878
+41229_0075_00100;100;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.419134;47.319894
+41229_0075_00121;121;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.419277;47.319985
+41229_0075_00004_bis;4;bis;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.400804;47.320308
+41229_0005_00002;2;;Rue Ancienne;41140;41229;Saint-Romain-sur-Cher;;;1.399904;47.319639
+41229_0075_00123;123;;Route de Méhers;41140;41229;Saint-Romain-sur-Cher;;;1.420052;47.320045
+41229_0065_00008;8;;Impasse du Haut Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.377258;47.299198
+41229_0023_00019;19;;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.388072;47.335477
+41229_0023_00026;26;;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.387439;47.33651
+41229_0055_00010;10;;Impasse des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.397629;47.314425
+41229_0400_00038;38;;Chemin de la Claudiere;41140;41229;Saint-Romain-sur-Cher;;;1.373931;47.314104
+41229_0401_00015;15;;Rue de la Claudière;41140;41229;Saint-Romain-sur-Cher;;;1.374375;47.313226
+41229_0050_00002;2;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.400218;47.324268
+41229_0050_00028;28;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.409996;47.325792
+41229_0023_00029;29;;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.38809;47.335397
+41229_0023_00042;42;;Route de Choussy;41140;41229;Saint-Romain-sur-Cher;;;1.386005;47.338252
+41229_0055_00018;18;;Impasse des Grands Champs;41140;41229;Saint-Romain-sur-Cher;;;1.398;47.31413
+41229_0400_00016;16;;Chemin de la Claudiere;41140;41229;Saint-Romain-sur-Cher;;;1.376445;47.311589
+41229_0400_00020;20;;Chemin de la Claudiere;41140;41229;Saint-Romain-sur-Cher;;;1.379736;47.314792
+41229_0401_00013;13;;Rue de la Claudière;41140;41229;Saint-Romain-sur-Cher;;;1.374022;47.313118
+41229_0401_00019;19;;Rue de la Claudière;41140;41229;Saint-Romain-sur-Cher;;;1.375491;47.313158
+41229_0401_00021;21;;Rue de la Claudière;41140;41229;Saint-Romain-sur-Cher;;;1.373936;47.312565
+41229_0050_00004;4;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.400438;47.323783
+41229_0050_00006;6;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.401715;47.324266
+41229_0050_00026;26;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.409433;47.325689
+41229_0050_00068;68;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.415209;47.329341
+41229_0050_00083;83;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.417008;47.330518
+41229_0050_00091;91;;Rue des Fourneaux;41140;41229;Saint-Romain-sur-Cher;;;1.418113;47.33122
+41229_0087_00003;3;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.377639;47.294162
+41229_0087_00037;37;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.379952;47.296944
+41229_0087_00042;42;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.381618;47.30011
+41229_0087_00050;50;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.382743;47.302258
+41229_0120_00021;21;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399773;47.318806
+41229_0120_00028;28;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399932;47.319045
+41229_0120_00030;30;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399909;47.318903
+41229_0120_00032;32;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399977;47.319331
+41229_0120_00034;34;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399866;47.318617
+41229_0120_00038;38;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399826;47.318332
+41229_0120_00042;42;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399764;47.317899
+41229_0120_00068;68;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399472;47.315836
+41229_0020_00015;15;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.370005;47.293284
+41229_0020_00084;84;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.366676;47.294878
+41229_0020_00144;144;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.352597;47.30199
+41229_0020_00166;166;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.347038;47.305904
+41229_0020_00006_d;6;d;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.374023;47.292158
+41229_0020_00040_b;40;b;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.369838;47.293451
+41229_0600_00090;90;;Route de la Madeleine;41140;41229;Saint-Romain-sur-Cher;;;1.417787;47.342914
+41229_0087_00007;7;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.37797;47.294616
+41229_0087_00019;19;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.379054;47.295688
+41229_0087_00059;59;;Route de Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.381614;47.300427
+41229_0120_00007;7;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399821;47.320448
+41229_0120_00040;40;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399806;47.318189
+41229_0120_00052;52;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399726;47.317159
+41229_0120_00055;55;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399332;47.315681
+41229_0120_00063;63;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399171;47.314537
+41229_0120_00073;73;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399022;47.313508
+41229_0120_00082;82;;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399199;47.313908
+41229_0120_00038_bis;38;bis;Rue Principale;41140;41229;Saint-Romain-sur-Cher;;;1.399816;47.31826
+41229_0020_00010;10;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.373333;47.292318
+41229_0020_00038;38;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.369272;47.293691
+41229_0020_00056;56;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.3682;47.294176
+41229_0020_00096;96;;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.36046;47.29771
+41229_0020_00006_c;6;c;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.373945;47.292184
+41229_0020_00104_bis;104;bis;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.359632;47.29809
+41229_0020_00052_a;52;a;Rue du Chemin de Fer;41140;41229;Saint-Romain-sur-Cher;;;1.368918;47.294428
+41229_0085_00002;2;;Impasse de Monteriou;41140;41229;Saint-Romain-sur-Cher;;;1.380537;47.297774
+41229_0081_00005;5;;Rue du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.382818;47.29828
+41229_0081_00007;7;;Rue du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.383157;47.298482
+41229_0081_00012;12;;Rue du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.383281;47.29844
+41229_0081_00001_ter;1;ter;Rue du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.382818;47.29828
+41229_0145_00010;10;;Rue des Vignes;41140;41229;Saint-Romain-sur-Cher;;;1.379136;47.299196
+41229_0060_00033;33;;Rue du Gros Caillou;41140;41229;Saint-Romain-sur-Cher;;;1.36909;47.295595
+41229_0300_00029;29;;Route du Carroir;41140;41229;Saint-Romain-sur-Cher;;;1.364609;47.318919
+41229_0066_00002_ter;2;ter;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.376925;47.293694
+41229_0026_00001;1;;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.359505;47.298146
+41229_0026_00010;10;;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.361143;47.299772
+41229_0095_00013;13;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.397107;47.320334
+41229_0095_00017;17;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.396408;47.320427
+41229_0095_00030;30;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.394266;47.320567
+41229_0095_00041;41;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.389686;47.320166
+41229_0095_00054;54;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.363763;47.312195
+41229_0095_01661_f;1661;f;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.37232;47.316512
+41229_0146_00004;4;;Route du Petit Village;41140;41229;Saint-Romain-sur-Cher;;;1.372157;47.320283
+41229_0146_00014;14;;Route du Petit Village;41140;41229;Saint-Romain-sur-Cher;;;1.369739;47.324013
+41229_0092_00006;6;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.386159;47.337025
+41229_0092_00018;18;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.384631;47.336488
+41229_0460_00005;5;;Route du Courtillet;41140;41229;Saint-Romain-sur-Cher;;;1.3683;47.327449
+41229_0143_00006;6;;Route de Véret;41140;41229;Saint-Romain-sur-Cher;;;1.353926;47.291627
+41229_0024_00009;9;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.397613;47.318158
+41229_0081_00001_bis;1;bis;Rue du Meslier;41140;41229;Saint-Romain-sur-Cher;;;1.382818;47.29828
+41229_0145_00008;8;;Rue des Vignes;41140;41229;Saint-Romain-sur-Cher;;;1.379519;47.299038
+41229_0145_00014;14;;Rue des Vignes;41140;41229;Saint-Romain-sur-Cher;;;1.377994;47.299385
+41229_0060_00022;22;;Rue du Gros Caillou;41140;41229;Saint-Romain-sur-Cher;;;1.376463;47.298219
+41229_0060_00037;37;;Rue du Gros Caillou;41140;41229;Saint-Romain-sur-Cher;;;1.367962;47.29575
+41229_0300_00016;16;;Route du Carroir;41140;41229;Saint-Romain-sur-Cher;;;1.366873;47.318675
+41229_0300_00021;21;;Route du Carroir;41140;41229;Saint-Romain-sur-Cher;;;1.366364;47.318492
+41229_0066_00008;8;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.376695;47.295018
+41229_0066_00011;11;;Rue du Haut Montériou;41140;41229;Saint-Romain-sur-Cher;;;1.37658;47.294994
+41229_0026_00018;18;;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.362044;47.300758
+41229_0026_00004_bis;4;bis;Rue des Cotes;41140;41229;Saint-Romain-sur-Cher;;;1.360421;47.298984
+41229_0095_00008;8;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.399157;47.319953
+41229_0095_00015;15;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.396755;47.32037
+41229_0095_00025;25;;Route des Moulins;41140;41229;Saint-Romain-sur-Cher;;;1.394577;47.320479
+41229_0146_00006;6;;Route du Petit Village;41140;41229;Saint-Romain-sur-Cher;;;1.372342;47.320462
+41229_0015_00030;30;;Rue des Bourguignons;41140;41229;Saint-Romain-sur-Cher;;;1.406934;47.315123
+41229_0015_00201;201;;Rue des Bourguignons;41140;41229;Saint-Romain-sur-Cher;;;1.404805;47.318383
+41229_0092_00008;8;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.386082;47.336996
+41229_0092_00026;26;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.384252;47.335843
+41229_0092_00041;41;;Route du Petit Morlu;41140;41229;Saint-Romain-sur-Cher;;;1.380548;47.333057
+41229_0009_00038_a;38;a;Route de la Barbière;41140;41229;Saint-Romain-sur-Cher;;;1.38391;47.322988
+41229_0143_00002;2;;Route de Véret;41140;41229;Saint-Romain-sur-Cher;;;1.354284;47.292055
+41229_0143_00057;57;;Route de Véret;41140;41229;Saint-Romain-sur-Cher;;;1.358339;47.296973
+41229_0024_00006;6;;Rue de la Côte Morte;41140;41229;Saint-Romain-sur-Cher;;;1.398147;47.318396

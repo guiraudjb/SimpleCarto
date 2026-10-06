@@ -1,0 +1,633 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+78010_0075_00025;25;;Rue des Vergers;78580;78010;Les Alluets-le-Roi;;;1.91232;48.910462
+78010_0050_00032;32;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.916901;48.918718
+78010_0015_00019;19;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.917701;48.912422
+78010_0080_00011;11;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.911958;48.914238
+78010_0050_00114;114;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.911764;48.92143
+78010_a002_00004;4;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.911397;48.913251
+78010_0005_00010;10;;Rue des Bons Enfants;78580;78010;Les Alluets-le-Roi;;;1.919554;48.91252
+78010_0025_00036;36;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.91623;48.915111
+78010_a002_00027;27;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.913284;48.912755
+78010_0015_00003;3;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.917318;48.912778
+78010_0015_00015;15;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.922448;48.911145
+78010_0025_00003;3;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.922496;48.914478
+78010_0020_00007;7;;Rue d'Enfer;78580;78010;Les Alluets-le-Roi;;;1.92089;48.912326
+78010_0033_00019;19;;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.914566;48.911966
+78010_onen5l_00003;3;;Rue des Genets d’Albert;78580;78010;Les Alluets-le-Roi;;;1.921553;48.915055
+78010_0067_00001;1;;Rue Traversiere;78580;78010;Les Alluets-le-Roi;;;1.911296;48.911229
+78010_0017_00004_bis;4;bis;Rue de l'Eglise;78580;78010;Les Alluets-le-Roi;;;1.917118;48.914247
+78010_0050_00015;15;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.919776;48.916492
+78010_0021_00009;9;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.917699;48.915831
+78010_0050_00035;35;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.915645;48.919354
+78010_0047_00003;3;;Rue de la Procession;78580;78010;Les Alluets-le-Roi;;;1.914245;48.914435
+78010_0001_00017;17;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.910949;48.915161
+78010_0050_00028;28;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.917585;48.91838
+78010_0011_00008;8;;Le Clos Saint Sylvestre;78580;78010;Les Alluets-le-Roi;;;1.9207;48.911585
+78010_0075_00028;28;;Rue des Vergers;78580;78010;Les Alluets-le-Roi;;;1.912031;48.909684
+78010_b002_00004;4;;Sous les Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.916852;48.919447
+78010_0013_00002;2;;Impasse des Coudrayes;78580;78010;Les Alluets-le-Roi;;;1.921415;48.91267
+78010_0010_00004;4;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.916642;48.912036
+78010_0050_00027_bis;27;bis;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.916761;48.918646
+78010_a002_00016;16;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.91224;48.913312
+78010_0067_00011;11;;Rue Traversiere;78580;78010;Les Alluets-le-Roi;;;1.912603;48.911286
+78010_0035_00035;35;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.92065;48.913496
+78010_0021_00024;24;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.917736;48.916157
+78010_0060_00001;1;;Rue Saint-nicolas;78580;78010;Les Alluets-le-Roi;;;1.915827;48.91395
+78010_0045_00003;3;;Rue de la Platrière;78580;78010;Les Alluets-le-Roi;;;1.922521;48.913898
+78010_0010_00002;2;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.916682;48.912119
+78010_0035_00023;23;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.91953;48.913797
+78010_0025_00002;2;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.922299;48.914603
+78010_0010_00005;5;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.917022;48.91229
+78010_0045_00001;1;;Rue de la Platrière;78580;78010;Les Alluets-le-Roi;;;1.922384;48.91372
+78010_0001_00003;3;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.910917;48.914596
+78010_0035_00020;20;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.921237;48.913274
+78010_b031_00032;32;;Hameau des Ruettes;78580;78010;Les Alluets-le-Roi;;;1.916359;48.917062
+78010_0015_00020;20;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.920901;48.910916
+78010_0010_00004_bis;4;bis;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.916539;48.91196
+78010_0025_00015;15;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.918585;48.914726
+78010_0035_00039;39;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.921156;48.913359
+78010_0021_00012;12;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.917811;48.915762
+78010_0035_00018;18;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.922697;48.913158
+78010_0050_00013;13;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.920653;48.916507
+78010_0010_00010_bis;10;bis;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.915666;48.912141
+78010_0021_00018;18;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.918551;48.916326
+78010_0016_00009_bis;9;bis;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.914295;48.917403
+78010_0005_00008_bis;8;bis;Rue des Bons Enfants;78580;78010;Les Alluets-le-Roi;;;1.919577;48.912468
+78010_a8wp19_00007;7;;Rue Moulin Capignard;78580;78010;Les Alluets-le-Roi;;;1.914967;48.912229
+78010_0025_00035;35;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.915407;48.915281
+78010_0010_00021;21;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.915042;48.91106
+78010_0033_00014;14;;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.914423;48.91165
+78010_0027_00005;5;;Rue au Loup;78580;78010;Les Alluets-le-Roi;;;1.915508;48.91384
+78010_0025_00031_bis;31;bis;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.918576;48.914727
+78010_a002_00021;21;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.913312;48.913167
+78010_0033_00001;1;;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.915359;48.913474
+78010_a002_00010;10;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.911535;48.913324
+78010_b022_00010;10;;Moulin Capignard;78580;78010;Les Alluets-le-Roi;;;1.916128;48.911619
+78010_onen5l_00001;1;;Rue des Genets d’Albert;78580;78010;Les Alluets-le-Roi;;;1.921578;48.915069
+78010_b031_00019;19;;Hameau des Ruettes;78580;78010;Les Alluets-le-Roi;;;1.916415;48.917598
+78010_0048_00002;2;;Allée des Roses Trémières;78580;78010;Les Alluets-le-Roi;;;1.91172;48.915109
+78010_0021_00002;2;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.917634;48.91501
+78010_fxvbdu_00004;4;;Rue du Domaine des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.916978;48.920454
+78010_0080_00012;12;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.912401;48.914087
+78010_0025_00042;42;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.916857;48.914976
+78010_0066_00015;15;;Chemin de la Vieille Rue;78580;78010;Les Alluets-le-Roi;;;1.91259;48.915665
+78010_0007_00007;7;;Clos de la Breche;78580;78010;Les Alluets-le-Roi;;;1.916223;48.91315
+78010_0030_00005;5;;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.916858;48.913529
+78010_a002_00026;26;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.913388;48.91296
+78010_0050_00001;1;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.923947;48.913695
+78010_0025_00010_ter;10;ter;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.920455;48.915335
+78010_0080_00008;8;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.91218;48.914156
+78010_0047_00002_bis;2;bis;Rue de la Procession;78580;78010;Les Alluets-le-Roi;;;1.914877;48.914121
+78010_0067_00002;2;;Rue Traversiere;78580;78010;Les Alluets-le-Roi;;;1.911449;48.911174
+78010_0035_00019;19;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.919111;48.913957
+78010_0033_00018;18;;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.915439;48.913616
+78010_0035_00037;37;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.920883;48.913434
+78010_a001_00005;5;;Domaine des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.917124;48.920124
+78010_0005_00001;1;;Rue des Bons Enfants;78580;78010;Les Alluets-le-Roi;;;1.918058;48.913347
+78010_0060_00003;3;;Rue Saint-nicolas;78580;78010;Les Alluets-le-Roi;;;1.915908;48.914126
+78010_0080_00007;7;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.911607;48.914279
+78010_a002_00005;5;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.911683;48.912808
+78010_0075_00023;23;;Rue des Vergers;78580;78010;Les Alluets-le-Roi;;;1.913189;48.910594
+78010_0055_00001_bis;1;bis;Rue Sainte Gabrielle;78580;78010;Les Alluets-le-Roi;;;1.919535;48.913457
+78010_0050_00050;50;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.913995;48.920188
+78010_onen5l_00009;9;;Rue des Genets d’Albert;78580;78010;Les Alluets-le-Roi;;;1.920903;48.916051
+78010_0030_00003;3;;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.91699;48.913445
+78010_0020_00015;15;;Rue d'Enfer;78580;78010;Les Alluets-le-Roi;;;1.920614;48.911816
+78010_0030_00010;10;;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.916547;48.913753
+78010_0025_00028_bis;28;bis;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.91703;48.915198
+78010_a002_00013;13;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.912546;48.912747
+78010_fxvbdu_00003;3;;Rue du Domaine des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.916339;48.92007
+78010_0030_00001;1;;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.917233;48.913294
+78010_0048_00014;14;;Allée des Roses Trémières;78580;78010;Les Alluets-le-Roi;;;1.9127;48.915057
+78010_0030_00008;8;;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.916611;48.913735
+78010_0021_00007;7;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.917536;48.915755
+78010_b031_00008;8;;Hameau des Ruettes;78580;78010;Les Alluets-le-Roi;;;1.916292;48.917602
+78010_0065_00004_ter;4;ter;Rue Saint Pierre;78580;78010;Les Alluets-le-Roi;;;1.918729;48.913359
+78010_0011_00007;7;;Le Clos Saint Sylvestre;78580;78010;Les Alluets-le-Roi;;;1.920945;48.911432
+78010_0050_00023;23;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.918493;48.917703
+78010_0001_00001;1;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.911017;48.914573
+78010_0045_00002_bis;2;bis;Rue de la Platrière;78580;78010;Les Alluets-le-Roi;;;1.923023;48.914347
+78010_0025_00038;38;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.915808;48.915233
+78010_0012_00001;1;;Rue de la Costiere;78580;78010;Les Alluets-le-Roi;;;1.916701;48.911602
+78010_0037_00011;11;;Rue du Parc;78580;78010;Les Alluets-le-Roi;;;1.916944;48.916079
+78010_0020_00013;13;;Rue d'Enfer;78580;78010;Les Alluets-le-Roi;;;1.920825;48.911969
+78010_0005_00004_bis;4;bis;Rue des Bons Enfants;78580;78010;Les Alluets-le-Roi;;;1.918449;48.913045
+78010_b031_00001;1;;Hameau des Ruettes;78580;78010;Les Alluets-le-Roi;;;1.915183;48.916755
+78010_0027_00004_c;4;c;Rue au Loup;78580;78010;Les Alluets-le-Roi;;;1.915508;48.91384
+78010_0067_00015;15;;Rue Traversiere;78580;78010;Les Alluets-le-Roi;;;1.913178;48.911339
+78010_0047_00011;11;;Rue de la Procession;78580;78010;Les Alluets-le-Roi;;;1.914667;48.914724
+78010_0035_00003;3;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.917568;48.91341
+78010_0016_00017;17;;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.915338;48.918924
+78010_0015_00002;2;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.917326;48.913225
+78010_0047_00001;1;;Rue de la Procession;78580;78010;Les Alluets-le-Roi;;;1.91456;48.914011
+78010_0021_00015;15;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.917819;48.916749
+78010_0037_00009;9;;Rue du Parc;78580;78010;Les Alluets-le-Roi;;;1.916501;48.91602
+78010_0002_00004;4;;Chemin de la Bigornette;78580;78010;Les Alluets-le-Roi;;;1.91401;48.916395
+78010_0066_00007;7;;Chemin de la Vieille Rue;78580;78010;Les Alluets-le-Roi;;;1.91259;48.915665
+78010_0045_00008;8;;Rue de la Platrière;78580;78010;Les Alluets-le-Roi;;;1.923023;48.914347
+78010_0015_00001;1;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.91734;48.913017
+78010_0037_00002;2;;Rue du Parc;78580;78010;Les Alluets-le-Roi;;;1.914817;48.915805
+78010_0050_00119;119;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.920981;48.916317
+78010_0037_00012;12;;Rue du Parc;78580;78010;Les Alluets-le-Roi;;;1.916794;48.915985
+78010_0035_00033;33;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.920472;48.913546
+78010_0002_00002;2;;Chemin de la Bigornette;78580;78010;Les Alluets-le-Roi;;;1.914733;48.915851
+78010_0009_00005;5;;Impasse des Cèdres;78580;78010;Les Alluets-le-Roi;;;1.915803;48.912345
+78010_0040_00003;3;;Rue de Paris;78580;78010;Les Alluets-le-Roi;;;1.918787;48.914266
+78010_fxvbdu_00006;6;;Rue du Domaine des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.917798;48.920088
+78010_0080_00002;2;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.911853;48.914155
+78010_a002_00017;17;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.912544;48.913036
+78010_0001_00011;11;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.910775;48.914757
+78010_b032_00010;10;;Hameau du Pressoir;78580;78010;Les Alluets-le-Roi;;;1.918906;48.915491
+78010_0050_00044;44;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.915049;48.919622
+78010_0037_00005;5;;Rue du Parc;78580;78010;Les Alluets-le-Roi;;;1.915792;48.915951
+78010_a002_00001;1;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.911097;48.912796
+78010_0015_00031;31;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.917701;48.912422
+78010_0005_00006;6;;Rue des Bons Enfants;78580;78010;Les Alluets-le-Roi;;;1.919166;48.912684
+78010_onen5l_00004;4;;Rue des Genets d’Albert;78580;78010;Les Alluets-le-Roi;;;1.921549;48.91507
+78010_0050_00025;25;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.917805;48.918024
+78010_0040_00016;16;;Rue de Paris;78580;78010;Les Alluets-le-Roi;;;1.919439;48.914605
+78010_0055_00007;7;;Rue Sainte Gabrielle;78580;78010;Les Alluets-le-Roi;;;1.91866;48.912743
+78010_a002_00014;14;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.912464;48.912921
+78010_0001_00008;8;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.910994;48.915005
+78010_0017_00001_bis;1;bis;Rue de l'Eglise;78580;78010;Les Alluets-le-Roi;;;1.917184;48.914171
+78010_b031_00009;9;;Hameau des Ruettes;78580;78010;Les Alluets-le-Roi;;;1.9163;48.916954
+78010_0004_00008;8;;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.915701;48.92025
+78010_0021_00008;8;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.918218;48.915613
+78010_0035_00031;31;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.920213;48.913631
+78010_0017_00001_ter;1;ter;Rue de l'Eglise;78580;78010;Les Alluets-le-Roi;;;1.917083;48.914211
+78010_0025_00001;1;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.922733;48.914405
+78010_0040_00002;2;;Rue de Paris;78580;78010;Les Alluets-le-Roi;;;1.918811;48.914196
+78010_0010_00016;16;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.915234;48.911265
+78010_0066_00002;2;;Chemin de la Vieille Rue;78580;78010;Les Alluets-le-Roi;;;1.914459;48.915851
+78010_0021_00017;17;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.917904;48.917047
+78010_0027_00004_b;4;b;Rue au Loup;78580;78010;Les Alluets-le-Roi;;;1.915508;48.91384
+78010_a002_00028;28;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.913409;48.912837
+78010_0016_00011;11;;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.914844;48.917566
+78010_0011_00010;10;;Le Clos Saint Sylvestre;78580;78010;Les Alluets-le-Roi;;;1.920278;48.911719
+78010_0021_00011;11;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.917765;48.916222
+78010_0001_00012;12;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.911315;48.915164
+78010_0033_00007;7;;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.914753;48.912888
+78010_0005_00005;5;;Rue des Bons Enfants;78580;78010;Les Alluets-le-Roi;;;1.918712;48.913132
+78010_0034_00004;4;;Clos de la Moutonniere;78580;78010;Les Alluets-le-Roi;;;1.913467;48.911676
+78010_0065_00002;2;;Rue Saint Pierre;78580;78010;Les Alluets-le-Roi;;;1.918227;48.913807
+78010_0010_00015;15;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.916307;48.911312
+78010_0015_00012;12;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.919678;48.911302
+78010_0035_00021;21;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.919222;48.913915
+78010_0025_00037;37;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.915206;48.915331
+78010_0001_00023;23;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.911083;48.915429
+78010_0047_00004_bis;4;bis;Rue de la Procession;78580;78010;Les Alluets-le-Roi;;;1.914666;48.914542
+78010_0036_00002;2;;rue de l'orée des champs;78580;78010;Les Alluets-le-Roi;;;1.911327;48.914628
+78010_b031_00006;6;;Hameau des Ruettes;78580;78010;Les Alluets-le-Roi;;;1.916281;48.917447
+78010_0035_00004;4;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.918716;48.913848
+78010_0004_00017_bis;17;bis;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.915898;48.922131
+78010_0048_00018;18;;Allée des Roses Trémières;78580;78010;Les Alluets-le-Roi;;;1.912702;48.915239
+78010_0005_00002_bis;2;bis;Rue des Bons Enfants;78580;78010;Les Alluets-le-Roi;;;1.918117;48.913244
+78010_0015_00003_bis;3;bis;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.917356;48.912875
+78010_0004_00006;6;;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.915701;48.92025
+78010_0033_00003;3;;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.915322;48.913363
+78010_0033_00025;25;;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.914603;48.911164
+78010_0035_00005;5;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.917697;48.913531
+78010_0050_00031;31;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.916282;48.918906
+78010_0050_00112;112;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.926023;48.911445
+78010_0034_00005;5;;Clos de la Moutonniere;78580;78010;Les Alluets-le-Roi;;;1.913445;48.91134
+78010_0016_00002;2;;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.914964;48.916829
+78010_0001_00005;5;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.910813;48.914619
+78010_0021_00006;6;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.917734;48.915482
+78010_0001_00004;4;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.910934;48.914834
+78010_0050_00021;21;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.919273;48.917329
+78010_b032_00003;3;;Hameau du Pressoir;78580;78010;Les Alluets-le-Roi;;;1.918906;48.915491
+78010_0015_00018;18;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.920592;48.911012
+78010_0055_00003;3;;Rue Sainte Gabrielle;78580;78010;Les Alluets-le-Roi;;;1.919219;48.913346
+78010_a002_00020;20;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.912843;48.913319
+78010_0075_00026;26;;Rue des Vergers;78580;78010;Les Alluets-le-Roi;;;1.912266;48.909854
+78010_0005_00009;9;;Rue des Bons Enfants;78580;78010;Les Alluets-le-Roi;;;1.919236;48.912719
+78010_0050_00024;24;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.911764;48.92143
+78010_a002_00002;2;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.911405;48.913046
+78010_0075_00031;31;;Rue des Vergers;78580;78010;Les Alluets-le-Roi;;;1.91368;48.908728
+78010_0026_00002;2;;Impasse des Lauriers;78580;78010;Les Alluets-le-Roi;;;1.919583;48.913824
+78010_b031_00007;7;;Hameau des Ruettes;78580;78010;Les Alluets-le-Roi;;;1.916179;48.916868
+78010_0015_00009;9;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.918034;48.912344
+78010_0020_00003;3;;Rue d'Enfer;78580;78010;Les Alluets-le-Roi;;;1.921158;48.912497
+78010_a002_00012;12;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.911462;48.913004
+78010_0080_00016;16;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.912601;48.914084
+78010_0025_00031;31;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.916019;48.915122
+78010_0035_00022;22;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.921237;48.913274
+78010_0035_00011_ter;11;ter;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.918396;48.914274
+78010_0016_00002_bis;2;bis;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.915126;48.917172
+78010_0067_00005;5;;Rue Traversiere;78580;78010;Les Alluets-le-Roi;;;1.911828;48.911253
+78010_0007_00002;2;;Clos de la Breche;78580;78010;Les Alluets-le-Roi;;;1.915753;48.913275
+78010_0001_00021;21;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.911041;48.91535
+78010_0050_00031_bis;31;bis;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.916422;48.918832
+78010_0025_00001_bis;1;bis;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.922472;48.914468
+78010_0080_00020;20;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.91282;48.914062
+78010_0045_00011;11;;Rue de la Platrière;78580;78010;Les Alluets-le-Roi;;;1.922685;48.914077
+78010_0016_00007_bis;7;bis;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.914842;48.916787
+78010_0015_00006_bis;6;bis;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.917754;48.912322
+78010_0025_00018;18;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.916855;48.914976
+78010_a8wp19_00005;5;;Rue Moulin Capignard;78580;78010;Les Alluets-le-Roi;;;1.915129;48.912194
+78010_0035_00017;17;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.919036;48.913994
+78010_0048_00001;1;;Allée des Roses Trémières;78580;78010;Les Alluets-le-Roi;;;1.912209;48.915202
+78010_0040_00001;1;;Rue de Paris;78580;78010;Les Alluets-le-Roi;;;1.918725;48.914219
+78010_onen5l_00005;5;;Rue des Genets d’Albert;78580;78010;Les Alluets-le-Roi;;;1.921298;48.91542
+78010_0047_00019;19;;Rue de la Procession;78580;78010;Les Alluets-le-Roi;;;1.914273;48.915245
+78010_0067_00009;9;;Rue Traversiere;78580;78010;Les Alluets-le-Roi;;;1.912376;48.911276
+78010_0010_00019;19;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.915444;48.911291
+78010_a002_00023;23;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.913324;48.913048
+78010_0021_00010;10;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.918251;48.915656
+78010_0040_00008;8;;Rue de Paris;78580;78010;Les Alluets-le-Roi;;;1.919033;48.914347
+78010_0016_00009;9;;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.914959;48.917174
+78010_0025_00012;12;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.919961;48.915139
+78010_0025_00040;40;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.915694;48.915271
+78010_0048_00008;8;;Allée des Roses Trémières;78580;78010;Les Alluets-le-Roi;;;1.91229;48.91511
+78010_0050_00017;17;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.919561;48.916998
+78010_0015_00016;16;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.920232;48.91113
+78010_0040_00010;10;;Rue de Paris;78580;78010;Les Alluets-le-Roi;;;1.91913;48.914407
+78010_0060_00006;6;;Rue Saint-nicolas;78580;78010;Les Alluets-le-Roi;;;1.916601;48.914563
+78010_0005_00004;4;;Rue des Bons Enfants;78580;78010;Les Alluets-le-Roi;;;1.918304;48.913136
+78010_0010_00029;29;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.913433;48.909858
+78010_0017_00002;2;;Rue de l'Eglise;78580;78010;Les Alluets-le-Roi;;;1.917427;48.914265
+78010_0075_00020;20;;Rue des Vergers;78580;78010;Les Alluets-le-Roi;;;1.912401;48.910129
+78010_0025_00039;39;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.914968;48.915388
+78010_0065_00001_t;1;t;Rue Saint Pierre;78580;78010;Les Alluets-le-Roi;;;1.918685;48.913863
+78010_0055_00004;4;;Rue Sainte Gabrielle;78580;78010;Les Alluets-le-Roi;;;1.918456;48.912592
+78010_0025_00006;6;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.92102;48.914734
+78010_0025_00004;4;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.921389;48.914693
+78010_tyhk37_00001;1;;Queue des;78580;78010;Les Alluets-le-Roi;;;1.912481;48.915537
+78010_onen5l_00011;11;;Rue des Genets d’Albert;78580;78010;Les Alluets-le-Roi;;;1.920419;48.916217
+78010_0027_00006;6;;Rue au Loup;78580;78010;Les Alluets-le-Roi;;;1.915529;48.914349
+78010_0075_00026_bis;26;bis;Rue des Vergers;78580;78010;Les Alluets-le-Roi;;;1.91233;48.909952
+78010_0080_00004;4;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.91196;48.914158
+78010_0050_00038;38;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.916259;48.919064
+78010_0004_00010;10;;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.915556;48.92087
+78010_0055_00011_bis;11;bis;Rue Sainte Gabrielle;78580;78010;Les Alluets-le-Roi;;;1.919144;48.91342
+78010_a002_00018;18;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.912541;48.913279
+78010_0016_00005;5;;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.914213;48.916606
+78010_0027_00001;1;;Rue au Loup;78580;78010;Les Alluets-le-Roi;;;1.91545;48.91413
+78010_0055_00005;5;;Rue Sainte Gabrielle;78580;78010;Les Alluets-le-Roi;;;1.919078;48.912981
+78010_0033_00005;5;;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.914914;48.913069
+78010_0027_00004_a;4;a;Rue au Loup;78580;78010;Les Alluets-le-Roi;;;1.915508;48.91384
+78010_0030_00001_bis;1;bis;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.917136;48.913348
+78010_0050_00046;46;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.914641;48.919843
+78010_b031_00013;13;;Hameau des Ruettes;78580;78010;Les Alluets-le-Roi;;;1.916391;48.91733
+78010_0020_00005;5;;Rue d'Enfer;78580;78010;Les Alluets-le-Roi;;;1.921218;48.911559
+78010_0010_00023;23;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.914775;48.910929
+78010_0001_00006;6;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.910956;48.914915
+78010_0047_00009;9;;Rue de la Procession;78580;78010;Les Alluets-le-Roi;;;1.912839;48.914669
+78010_0016_00006;6;;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.915142;48.918108
+78010_0025_00013;13;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.920581;48.914721
+78010_0055_00001;1;;Rue Sainte Gabrielle;78580;78010;Les Alluets-le-Roi;;;1.919334;48.913453
+78010_0001_00015;15;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.910892;48.91501
+78010_0033_00011;11;;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.915317;48.91239
+78010_0035_00006;6;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.919203;48.913846
+78010_0017_00004;4;;Rue de l'Eglise;78580;78010;Les Alluets-le-Roi;;;1.91682;48.914279
+78010_0045_00006;6;;Rue de la Platrière;78580;78010;Les Alluets-le-Roi;;;1.92246;48.913681
+78010_0035_00029;29;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.920284;48.91359
+78010_0010_00001_bis;1;bis;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.917482;48.912258
+78010_0007_00001;1;;Clos de la Breche;78580;78010;Les Alluets-le-Roi;;;1.915835;48.91363
+78010_0033_00021;21;;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.914583;48.911692
+78010_0005_00011;11;;Rue des Bons Enfants;78580;78010;Les Alluets-le-Roi;;;1.919488;48.912607
+78010_0033_00013;13;;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.914756;48.912706
+78010_0047_00001_bis;1;bis;Rue de la Procession;78580;78010;Les Alluets-le-Roi;;;1.914239;48.914219
+78010_a002_00011;11;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.912588;48.912597
+78010_a002_00015;15;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.912551;48.912894
+78010_0034_00001;1;;Clos de la Moutonniere;78580;78010;Les Alluets-le-Roi;;;1.914045;48.911578
+78010_fxvbdu_00008;8;;Rue du Domaine des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.917036;48.920805
+78010_0015_00005_bis;5;bis;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.917581;48.912463
+78010_0035_00001;1;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.917508;48.913363
+78010_0025_00024;24;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.918029;48.914885
+78010_a001_00007;7;;Domaine des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.917443;48.92061
+78010_0020_00002_c;2;c;Rue d'Enfer;78580;78010;Les Alluets-le-Roi;;;1.92172;48.913051
+78010_onen5l_00007;7;;Rue des Genets d’Albert;78580;78010;Les Alluets-le-Roi;;;1.921122;48.91568
+78010_a002_00030;30;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.913407;48.912711
+78010_0004_00004;4;;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.915701;48.92025
+78010_0016_00012;12;;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.915193;48.918244
+78010_0025_00023;23;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.918668;48.914705
+78010_0040_00004;4;;Rue de Paris;78580;78010;Les Alluets-le-Roi;;;1.918864;48.914229
+78010_0045_00012;12;;Rue de la Platrière;78580;78010;Les Alluets-le-Roi;;;1.922646;48.914335
+78010_0010_00025;25;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.914364;48.910687
+78010_0066_00011;11;;Chemin de la Vieille Rue;78580;78010;Les Alluets-le-Roi;;;1.91232;48.915497
+78010_0025_00026_bis;26;bis;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.916909;48.915491
+78010_b022_00013;13;;Moulin Capignard;78580;78010;Les Alluets-le-Roi;;;1.914873;48.912505
+78010_0021_00020;20;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.918125;48.916476
+78010_0011_00005;5;;Le Clos Saint Sylvestre;78580;78010;Les Alluets-le-Roi;;;1.92025;48.911909
+78010_0060_00005_bis;5;bis;Rue Saint-nicolas;78580;78010;Les Alluets-le-Roi;;;1.916439;48.91423
+78010_0021_00013;13;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.917775;48.916462
+78010_0075_00027;27;;Rue des Vergers;78580;78010;Les Alluets-le-Roi;;;1.912339;48.909512
+78010_0047_00004;4;;Rue de la Procession;78580;78010;Les Alluets-le-Roi;;;1.914656;48.914286
+78010_0016_00003;3;;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.914597;48.916207
+78010_0025_00021;21;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.918891;48.914652
+78010_fxvbdu_00002;2;;Rue du Domaine des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.916456;48.920427
+78010_0080_00006;6;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.912097;48.914146
+78010_0005_00013;13;;Rue des Bons Enfants;78580;78010;Les Alluets-le-Roi;;;1.920134;48.912338
+78010_0011_00004;4;;Le Clos Saint Sylvestre;78580;78010;Les Alluets-le-Roi;;;1.921253;48.911679
+78010_0015_00011;11;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.917701;48.912422
+78010_0001_00025;25;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.911125;48.915505
+78010_0050_00110;110;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.911764;48.92143
+78010_b032_00006;6;;Hameau du Pressoir;78580;78010;Les Alluets-le-Roi;;;1.918906;48.915491
+78010_b022_00005;5;;Moulin Capignard;78580;78010;Les Alluets-le-Roi;;;1.915044;48.912142
+78010_0035_00027;27;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.92007;48.913642
+78010_0005_00003;3;;Rue des Bons Enfants;78580;78010;Les Alluets-le-Roi;;;1.91843;48.913126
+78010_0001_00019;19;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.910986;48.915292
+78010_0021_00016;16;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.918556;48.916021
+78010_0004_00021;21;;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.915401;48.921071
+78010_0016_00016;16;;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.915108;48.918354
+78010_0004_00016;16;;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.916133;48.921782
+78010_0010_00007;7;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.917014;48.912283
+78010_0025_00009_bis;9;bis;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.921512;48.914635
+78010_a002_00008;8;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.911537;48.913366
+78010_0030_00006;6;;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.916784;48.913674
+78010_0004_00017;17;;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.915401;48.921071
+78010_0027_00003;3;;Rue au Loup;78580;78010;Les Alluets-le-Roi;;;1.915384;48.914575
+78010_b032_00009;9;;Hameau du Pressoir;78580;78010;Les Alluets-le-Roi;;;1.918906;48.915491
+78010_0020_00076;76;;Rue d'Enfer;78580;78010;Les Alluets-le-Roi;;;1.922309;48.91243
+78010_fxvbdu_00007;7;;Rue du Domaine des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.917569;48.920527
+78010_0080_00009;9;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.911712;48.914251
+78010_0020_00002_e;2;e;Rue d'Enfer;78580;78010;Les Alluets-le-Roi;;;1.92172;48.913051
+78010_0080_00010;10;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.912311;48.914145
+78010_0025_00005_bis;5;bis;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.920463;48.914484
+78010_0048_00012;12;;Allée des Roses Trémières;78580;78010;Les Alluets-le-Roi;;;1.912653;48.915011
+78010_0011_00006;6;;Le Clos Saint Sylvestre;78580;78010;Les Alluets-le-Roi;;;1.921123;48.911435
+78010_0047_00013;13;;Rue de la Procession;78580;78010;Les Alluets-le-Roi;;;1.914391;48.914952
+78010_0040_00014;14;;Rue de Paris;78580;78010;Les Alluets-le-Roi;;;1.91927;48.914505
+78010_a002_00003;3;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.911434;48.912801
+78010_0020_00002_a;2;a;Rue d'Enfer;78580;78010;Les Alluets-le-Roi;;;1.92172;48.913051
+78010_0025_00001_ter;1;ter;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.922238;48.914512
+78010_0025_00016;16;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.916861;48.915057
+78010_0050_00003;3;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.922238;48.91521
+78010_0010_00033;33;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.913433;48.909858
+78010_b032_00004;4;;Hameau du Pressoir;78580;78010;Les Alluets-le-Roi;;;1.918906;48.915491
+78010_0020_00008;8;;Rue d'Enfer;78580;78010;Les Alluets-le-Roi;;;1.920782;48.911557
+78010_0025_00032;32;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.916696;48.915133
+78010_0010_00008;8;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.916294;48.911681
+78010_0065_00004_bis;4;bis;Rue Saint Pierre;78580;78010;Les Alluets-le-Roi;;;1.918669;48.913406
+78010_0025_00012_bis;12;bis;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.919908;48.915525
+78010_0048_00016;16;;Allée des Roses Trémières;78580;78010;Les Alluets-le-Roi;;;1.912697;48.915135
+78010_0033_00009;9;;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.91548;48.912562
+78010_a002_00022;22;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.913311;48.913275
+78010_0013_00006;6;;Impasse des Coudrayes;78580;78010;Les Alluets-le-Roi;;;1.921415;48.91267
+78010_0047_00005;5;;Rue de la Procession;78580;78010;Les Alluets-le-Roi;;;1.914353;48.9144
+78010_0007_00003;3;;Clos de la Breche;78580;78010;Les Alluets-le-Roi;;;1.915872;48.913255
+78010_a001_00009;9;;Domaine des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.917323;48.921146
+78010_0030_00014;14;;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.916349;48.913809
+78010_0050_00030;30;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.917122;48.918565
+78010_0065_00006;6;;Rue Saint Pierre;78580;78010;Les Alluets-le-Roi;;;1.918984;48.91336
+78010_0055_00002;2;;Rue Sainte Gabrielle;78580;78010;Les Alluets-le-Roi;;;1.919165;48.913577
+78010_0010_00012;12;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.915516;48.911439
+78010_a001_00008;8;;Domaine des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.917347;48.920771
+78010_0025_00028;28;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.917078;48.914928
+78010_b032_00005;5;;Hameau du Pressoir;78580;78010;Les Alluets-le-Roi;;;1.919157;48.915594
+78010_0015_00008;8;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.918908;48.911833
+78010_0035_00008;8;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.92002;48.913591
+78010_0010_00002_bis;2;bis;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.917;48.91236
+78010_0027_00002;2;;Rue au Loup;78580;78010;Les Alluets-le-Roi;;;1.915567;48.914159
+78010_0050_00005;5;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.922486;48.914971
+78010_b031_00010;10;;Hameau des Ruettes;78580;78010;Les Alluets-le-Roi;;;1.916292;48.917602
+78010_0025_00014;14;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.919696;48.914711
+78010_0050_00036;36;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.916325;48.919065
+78010_b031_00002;2;;Hameau des Ruettes;78580;78010;Les Alluets-le-Roi;;;1.915954;48.916875
+78010_fxvbdu_00009;9;;Rue du Domaine des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.917123;48.921134
+78010_0020_00002_d;2;d;Rue d'Enfer;78580;78010;Les Alluets-le-Roi;;;1.92172;48.913051
+78010_0030_00026;26;;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.913078;48.914048
+78010_0080_00018;18;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.912716;48.914055
+78010_0025_00027;27;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.917744;48.914835
+78010_a002_00009;9;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.912429;48.912827
+78010_0016_00008;8;;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.915297;48.917945
+78010_0045_00004;4;;Rue de la Platrière;78580;78010;Les Alluets-le-Roi;;;1.922601;48.913858
+78010_0013_00007;7;;Impasse des Coudrayes;78580;78010;Les Alluets-le-Roi;;;1.922146;48.912691
+78010_0009_00004;4;;Impasse des Cèdres;78580;78010;Les Alluets-le-Roi;;;1.916103;48.912349
+78010_0050_00004;4;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.923088;48.914576
+78010_0016_00007;7;;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.914569;48.916727
+78010_0035_00011_bis;11;bis;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.918464;48.91407
+78010_0034_00002;2;;Clos de la Moutonniere;78580;78010;Les Alluets-le-Roi;;;1.913912;48.911692
+78010_0048_00003;3;;Allée des Roses Trémières;78580;78010;Les Alluets-le-Roi;;;1.912321;48.915188
+78010_0040_00005;5;;Rue de Paris;78580;78010;Les Alluets-le-Roi;;;1.918913;48.914351
+78010_0036_00014;14;;rue de l'orée des champs;78580;78010;Les Alluets-le-Roi;;;1.911754;48.915395
+78010_0016_00019;19;;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.915439;48.919211
+78010_b031_00003;3;;Hameau des Ruettes;78580;78010;Les Alluets-le-Roi;;;1.915618;48.916769
+78010_0010_00011;11;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.916775;48.912067
+78010_0048_00006;6;;Allée des Roses Trémières;78580;78010;Les Alluets-le-Roi;;;1.912109;48.915112
+78010_0033_00025_bis;25;bis;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.914603;48.911165
+78010_0025_00025_bis;25;bis;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.918497;48.914752
+78010_0036_00008;8;;rue de l'orée des champs;78580;78010;Les Alluets-le-Roi;;;1.911464;48.914866
+78010_0020_00009;9;;Rue d'Enfer;78580;78010;Les Alluets-le-Roi;;;1.92095;48.912339
+78010_0055_00011;11;;Rue Sainte Gabrielle;78580;78010;Les Alluets-le-Roi;;;1.918288;48.912247
+78010_0060_00007;7;;Rue Saint-nicolas;78580;78010;Les Alluets-le-Roi;;;1.916577;48.914631
+78010_a001_00004;4;;Domaine des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.916908;48.920226
+78010_0080_00001;1;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.911304;48.914358
+78010_0016_00004;4;;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.914927;48.917391
+78010_0017_00002_bis;2;bis;Rue de l'Eglise;78580;78010;Les Alluets-le-Roi;;;1.917781;48.914329
+78010_0001_00010;10;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.911184;48.915204
+78010_0035_00002_a;2;a;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.917505;48.913239
+78010_b032_00001;1;;Hameau du Pressoir;78580;78010;Les Alluets-le-Roi;;;1.918906;48.915491
+78010_0013_00001;1;;Impasse des Coudrayes;78580;78010;Les Alluets-le-Roi;;;1.921702;48.912426
+78010_0035_00009;9;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.9196;48.913689
+78010_0060_00004;4;;Rue Saint-nicolas;78580;78010;Les Alluets-le-Roi;;;1.916577;48.914413
+78010_0050_00026;26;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.917688;48.918354
+78010_0007_00004;4;;Clos de la Breche;78580;78010;Les Alluets-le-Roi;;;1.916158;48.913091
+78010_0009_00003;3;;Impasse des Cèdres;78580;78010;Les Alluets-le-Roi;;;1.916294;48.912299
+78010_0010_00003;3;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.917495;48.912258
+78010_0001_00002;2;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.910891;48.914734
+78010_0050_00009;9;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.921478;48.915866
+78010_0004_00013;13;;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.915394;48.921415
+78010_0055_00009;9;;Rue Sainte Gabrielle;78580;78010;Les Alluets-le-Roi;;;1.918506;48.912576
+78010_b032_00012;12;;Hameau du Pressoir;78580;78010;Les Alluets-le-Roi;;;1.918906;48.915491
+78010_0025_00026;26;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.914962;48.91565
+78010_0015_00001_bis;1;bis;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.917391;48.913012
+78010_0004_00018;18;;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.915701;48.92025
+78010_0025_00034;34;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.916435;48.915083
+78010_0030_00024;24;;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.913187;48.913806
+78010_0050_00034;34;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.916276;48.919036
+78010_0036_00012;12;;rue de l'orée des champs;78580;78010;Les Alluets-le-Roi;;;1.911677;48.915286
+78010_0047_00006_bis;6;bis;Rue de la Procession;78580;78010;Les Alluets-le-Roi;;;1.914597;48.914632
+78010_0025_00011;11;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.920813;48.914707
+78010_0033_00015;15;;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.914687;48.912382
+78010_0030_00028;28;;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.913078;48.914048
+78010_0013_00005;5;;Impasse des Coudrayes;78580;78010;Les Alluets-le-Roi;;;1.922146;48.912628
+78010_0036_00006;6;;rue de l'orée des champs;78580;78010;Les Alluets-le-Roi;;;1.91142;48.914787
+78010_0026_00003;3;;Impasse des Lauriers;78580;78010;Les Alluets-le-Roi;;;1.919583;48.913824
+78010_0030_00020;20;;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.914763;48.913911
+78010_0010_00001;1;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.917295;48.912448
+78010_0004_00015;15;;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.915499;48.921623
+78010_0050_00015_bis;15;bis;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.919762;48.916762
+78010_0013_00004;4;;Impasse des Coudrayes;78580;78010;Les Alluets-le-Roi;;;1.922067;48.912519
+78010_0035_00014;14;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.921237;48.913274
+78010_0021_00005_bis;5;bis;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.917582;48.915214
+78010_0004_00012;12;;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.915573;48.921533
+78010_0004_00014;14;;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.91595;48.921867
+78010_0037_00007;7;;Rue du Parc;78580;78010;Les Alluets-le-Roi;;;1.916073;48.915987
+78010_0035_00011;11;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.918312;48.913983
+78010_0035_00024;24;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.92369;48.913288
+78010_0045_00007;7;;Rue de la Platrière;78580;78010;Les Alluets-le-Roi;;;1.922612;48.913973
+78010_a002_00029;29;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.913188;48.91263
+78010_0027_00004;4;;Rue au Loup;78580;78010;Les Alluets-le-Roi;;;1.915529;48.914349
+78010_0080_00019;19;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.912693;48.914237
+78010_0030_00002;2;;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.917287;48.913346
+78010_0010_00018;18;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.915176;48.911228
+78010_0013_00003;3;;Impasse des Coudrayes;78580;78010;Les Alluets-le-Roi;;;1.921942;48.912368
+78010_a002_00025;25;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.913332;48.912907
+78010_0005_00002;2;;Rue des Bons Enfants;78580;78010;Les Alluets-le-Roi;;;1.917875;48.913393
+78010_b031_00004;4;;Hameau des Ruettes;78580;78010;Les Alluets-le-Roi;;;1.916261;48.917216
+78010_0066_00004;4;;Chemin de la Vieille Rue;78580;78010;Les Alluets-le-Roi;;;1.913737;48.916009
+78010_0011_00009;9;;Le Clos Saint Sylvestre;78580;78010;Les Alluets-le-Roi;;;1.920529;48.911645
+78010_qr9cds_00014;14;;Le Village;78580;78010;Les Alluets-le-Roi;;;1.920804;48.913159
+78010_0015_00004;4;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.916961;48.912637
+78010_0015_00010;10;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.919318;48.911603
+78010_0066_00003;3;;Chemin de la Vieille Rue;78580;78010;Les Alluets-le-Roi;;;1.913037;48.915801
+78010_0020_00002;2;;Rue d'Enfer;78580;78010;Les Alluets-le-Roi;;;1.921537;48.912905
+78010_0066_00013;13;;Chemin de la Vieille Rue;78580;78010;Les Alluets-le-Roi;;;1.912219;48.91564
+78010_0075_00029;29;;Rue des Vergers;78580;78010;Les Alluets-le-Roi;;;1.912936;48.909269
+78010_a001_00006;6;;Domaine des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.917272;48.920195
+78010_a002_00006;6;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.911424;48.913399
+78010_0050_00048;48;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.914278;48.920034
+78010_0004_00003;3;;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.915687;48.92051
+78010_0021_00003;3;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.917561;48.91508
+78010_0080_00013;13;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.912122;48.914226
+78010_0001_00009;9;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.910553;48.914681
+78010_0067_00013;13;;Rue Traversiere;78580;78010;Les Alluets-le-Roi;;;1.912877;48.911299
+78010_0017_00001;1;;Rue de l'Eglise;78580;78010;Les Alluets-le-Roi;;;1.917328;48.914121
+78010_0036_00016;16;;rue de l'orée des champs;78580;78010;Les Alluets-le-Roi;;;1.911778;48.915483
+78010_0035_00013;13;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.91854;48.9141
+78010_0047_00009_bis;9;bis;Rue de la Procession;78580;78010;Les Alluets-le-Roi;;;1.913792;48.914697
+78010_0050_00027;27;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.916864;48.918584
+78010_0004_00019;19;;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.915905;48.92206
+78010_0021_00004;4;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.917691;48.915196
+78010_0002_00001;1;;Chemin de la Bigornette;78580;78010;Les Alluets-le-Roi;;;1.913459;48.916796
+78010_0035_00002;2;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.917581;48.913293
+78010_0030_00016;16;;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.916045;48.913844
+78010_0001_00007;7;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.910707;48.914643
+78010_0010_00017;17;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.915596;48.911415
+78010_0033_00004;4;;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.91502;48.913073
+78010_0030_00004;4;;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.91698;48.913538
+78010_0047_00002;2;;Rue de la Procession;78580;78010;Les Alluets-le-Roi;;;1.914905;48.914079
+78010_b031_00015;15;;Hameau des Ruettes;78580;78010;Les Alluets-le-Roi;;;1.916411;48.91758
+78010_0005_00008;8;;Rue des Bons Enfants;78580;78010;Les Alluets-le-Roi;;;1.919349;48.912605
+78010_0030_00018;18;;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.914958;48.913902
+78010_0025_00009;9;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.91903;48.91462
+78010_0080_00021;21;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.91284;48.914242
+78010_0080_00005;5;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.911534;48.914315
+78010_0048_00004;4;;Allée des Roses Trémières;78580;78010;Les Alluets-le-Roi;;;1.911973;48.915113
+78010_0080_00014;14;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.912499;48.914072
+78010_0015_00002_bis;2;bis;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.917271;48.913026
+78010_0025_00029;29;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.917101;48.91487
+78010_0005_00007;7;;Rue des Bons Enfants;78580;78010;Les Alluets-le-Roi;;;1.918841;48.912785
+78010_0034_00003;3;;Clos de la Moutonniere;78580;78010;Les Alluets-le-Roi;;;1.913586;48.911683
+78010_0025_00012_ter;12;ter;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.91994;48.916155
+78010_0001_00027;27;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.911301;48.915595
+78010_0080_00015;15;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.912267;48.914221
+78010_0010_00014;14;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.915349;48.911342
+78010_0025_00019;19;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.919691;48.914666
+78010_fxvbdu_00005;5;;Rue du Domaine des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.916943;48.919986
+78010_a002_00024;24;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.913385;48.913111
+78010_0040_00012;12;;Rue de Paris;78580;78010;Les Alluets-le-Roi;;;1.919197;48.914459
+78010_0015_00007;7;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.917744;48.91242
+78010_0075_00033;33;;Rue des Vergers;78580;78010;Les Alluets-le-Roi;;;1.912487;48.910601
+78010_0012_00002;2;;Rue de la Costiere;78580;78010;Les Alluets-le-Roi;;;1.916736;48.911404
+78010_a001_00003;3;;Domaine des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.916259;48.92018
+78010_b032_00002;2;;Hameau du Pressoir;78580;78010;Les Alluets-le-Roi;;;1.918842;48.915182
+78010_0065_00004;4;;Rue Saint Pierre;78580;78010;Les Alluets-le-Roi;;;1.918744;48.913504
+78010_0036_00004;4;;rue de l'orée des champs;78580;78010;Les Alluets-le-Roi;;;1.911373;48.914709
+78010_0020_00001;1;;Rue d'Enfer;78580;78010;Les Alluets-le-Roi;;;1.921089;48.912046
+78010_0035_00007;7;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.918063;48.913817
+78010_a002_00007;7;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.911932;48.912803
+78010_0015_00001_ter;1;ter;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.917448;48.913216
+78010_0010_00006;6;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.916415;48.911767
+78010_0050_00019;19;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.919118;48.916788
+78010_0020_00011;11;;Rue d'Enfer;78580;78010;Les Alluets-le-Roi;;;1.920623;48.912154
+78010_a002_00019;19;;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.912536;48.913149
+78010_0004_00011;11;;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.914885;48.92081
+78010_0035_00012;12;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.920607;48.913287
+78010_0025_00007;7;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.921774;48.914593
+78010_0045_00015;15;;Rue de la Platrière;78580;78010;Les Alluets-le-Roi;;;1.922742;48.914133
+78010_0004_00002;2;;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.915585;48.919467
+78010_b031_00017;17;;Hameau des Ruettes;78580;78010;Les Alluets-le-Roi;;;1.916414;48.917598
+78010_b032_00011;11;;Hameau du Pressoir;78580;78010;Les Alluets-le-Roi;;;1.918906;48.915491
+78010_0025_00020;20;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.918741;48.914732
+78010_0012_00003;3;;Rue de la Costiere;78580;78010;Les Alluets-le-Roi;;;1.916786;48.911571
+78010_0016_00010;10;;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.915297;48.91859
+78010_0030_00016_bis;16;bis;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.915688;48.913844
+78010_0037_00004;4;;Rue du Parc;78580;78010;Les Alluets-le-Roi;;;1.915477;48.915853
+78010_0004_00007;7;;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.915542;48.920781
+78010_0021_00014;14;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.917861;48.916001
+78010_0010_00010;10;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.915635;48.911495
+78010_0035_00010;10;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.920353;48.913366
+78010_0048_00022;22;;Allée des Roses Trémières;78580;78010;Les Alluets-le-Roi;;;1.912729;48.915472
+78010_0033_00002;2;;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.915439;48.913616
+78010_0025_00010;10;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.920324;48.91475
+78010_0033_00016;16;;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.914429;48.911495
+78010_0047_00015;15;;Rue de la Procession;78580;78010;Les Alluets-le-Roi;;;1.9142;48.915088
+78010_0025_00008;8;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.920576;48.91475
+78010_b031_00011;11;;Hameau des Ruettes;78580;78010;Les Alluets-le-Roi;;;1.916365;48.917093
+78010_0048_00020;20;;Allée des Roses Trémières;78580;78010;Les Alluets-le-Roi;;;1.912702;48.915343
+78010_0010_00027;27;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.913433;48.909858
+78010_0050_00026_a;26;a;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.917541;48.918345
+78010_0047_00007;7;;Rue de la Procession;78580;78010;Les Alluets-le-Roi;;;1.914586;48.914509
+78010_0050_00040;40;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.916191;48.919102
+78010_0050_00033;33;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.915735;48.919008
+78010_0010_00009;9;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.917047;48.912311
+78010_0050_00029;29;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.916514;48.918767
+78010_0016_00001_bis;1;bis;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.915105;48.915982
+78010_0080_00017;17;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.912451;48.914219
+78010_0020_00004;4;;Rue d'Enfer;78580;78010;Les Alluets-le-Roi;;;1.920883;48.912772
+78010_0036_00010;10;;rue de l'orée des champs;78580;78010;Les Alluets-le-Roi;;;1.911504;48.91494
+78010_0075_00026_ter;26;ter;Rue des Vergers;78580;78010;Les Alluets-le-Roi;;;1.91233;48.909952
+78010_0060_00005;5;;Rue Saint-nicolas;78580;78010;Les Alluets-le-Roi;;;1.915935;48.914641
+78010_0060_00002;2;;Rue Saint-nicolas;78580;78010;Les Alluets-le-Roi;;;1.916493;48.913875
+78010_0021_00022;22;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.917888;48.916703
+78010_0015_00006;6;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.918455;48.912073
+78010_0025_00017_bis;17;bis;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.91991;48.914688
+78010_0067_00003;3;;Rue Traversiere;78580;78010;Les Alluets-le-Roi;;;1.911582;48.911245
+78010_0016_00015;15;;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.915245;48.918691
+78010_0016_00014;14;;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.915203;48.918271
+78010_0010_00031;31;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.913433;48.909858
+78010_0025_00022;22;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.918344;48.914861
+78010_0080_00003;3;;Allée des Coquelicots;78580;78010;Les Alluets-le-Roi;;;1.911422;48.91434
+78010_0030_00022;22;;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.913591;48.913799
+78010_0015_00007_bis;7;bis;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.917701;48.912422
+78010_0030_00007;7;;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.915185;48.913775
+78010_0047_00006;6;;Rue de la Procession;78580;78010;Les Alluets-le-Roi;;;1.914696;48.914829
+78010_0050_00007;7;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.921979;48.915417
+78010_0048_00005;5;;Allée des Roses Trémières;78580;78010;Les Alluets-le-Roi;;;1.912484;48.915188
+78010_0067_00007;7;;Rue Traversiere;78580;78010;Les Alluets-le-Roi;;;1.912059;48.911263
+78010_0001_00013;13;;allée des Bleuets;78580;78010;Les Alluets-le-Roi;;;1.910838;48.914875
+78010_0036_00018;18;;rue de l'orée des champs;78580;78010;Les Alluets-le-Roi;;;1.91187;48.915601
+78010_0035_00041;41;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.921457;48.91327
+78010_0030_00009;9;;Rue de Maule;78580;78010;Les Alluets-le-Roi;;;1.914616;48.913752
+78010_b032_00008;8;;Hameau du Pressoir;78580;78010;Les Alluets-le-Roi;;;1.918906;48.915491
+78010_0060_00008;8;;Rue Saint-nicolas;78580;78010;Les Alluets-le-Roi;;;1.916651;48.914708
+78010_0050_00011;11;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.920981;48.916317
+78010_0025_00025;25;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.918495;48.914752
+78010_0025_00005;5;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.922076;48.914554
+78010_a002_00020_bis;20;bis;Domaine des Meulieres;78580;78010;Les Alluets-le-Roi;;;1.913106;48.913386
+78010_0048_00024;24;;Allée des Roses Trémières;78580;78010;Les Alluets-le-Roi;;;1.912697;48.915573
+78010_0035_00025;25;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.920067;48.913828
+78010_0020_00002_b;2;b;Rue d'Enfer;78580;78010;Les Alluets-le-Roi;;;1.92172;48.913051
+78010_0026_00001;1;;Impasse des Lauriers;78580;78010;Les Alluets-le-Roi;;;1.919718;48.913955
+78010_0035_00016;16;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.921066;48.913129
+78010_0015_00005;5;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.917291;48.912634
+78010_0015_00002_ter;2;ter;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.917209;48.91277
+78010_0060_00009;9;;Rue Saint-nicolas;78580;78010;Les Alluets-le-Roi;;;1.916615;48.914816
+78010_a001_00002;2;;Domaine des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.916282;48.920259
+78010_0027_00004_d;4;d;Rue au Loup;78580;78010;Les Alluets-le-Roi;;;1.915508;48.91384
+78010_onen5l_00002;2;;Rue des Genets d’Albert;78580;78010;Les Alluets-le-Roi;;;1.921566;48.914991
+78010_0035_00023_bis;23;bis;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.919855;48.913825
+78010_0048_00010;10;;Allée des Roses Trémières;78580;78010;Les Alluets-le-Roi;;;1.912498;48.915108
+78010_0067_00006;6;;Rue Traversiere;78580;78010;Les Alluets-le-Roi;;;1.913062;48.911334
+78010_0047_00017;17;;Rue de la Procession;78580;78010;Les Alluets-le-Roi;;;1.914698;48.915077
+78010_0010_00013;13;;Rue de Clairbois;78580;78010;Les Alluets-le-Roi;;;1.916159;48.911561
+78010_0015_00014;14;;Rue de Crespières;78580;78010;Les Alluets-le-Roi;;;1.919944;48.911221
+78010_b032_00007;7;;Hameau du Pressoir;78580;78010;Les Alluets-le-Roi;;;1.91922;48.915905
+78010_0045_00002;2;;Rue de la Platrière;78580;78010;Les Alluets-le-Roi;;;1.922936;48.914229
+78010_0004_00009;9;;Chemin des Bois Janeaudes;78580;78010;Les Alluets-le-Roi;;;1.915401;48.921071
+78010_0025_00030;30;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.916857;48.914976
+78010_0007_00005;5;;Clos de la Breche;78580;78010;Les Alluets-le-Roi;;;1.916006;48.913245
+78010_0035_00045;45;;Rue d'Orgeval;78580;78010;Les Alluets-le-Roi;;;1.932918;48.915084
+78010_0040_00006;6;;Rue de Paris;78580;78010;Les Alluets-le-Roi;;;1.918958;48.914289
+78010_0025_00017;17;;Grande Rue;78580;78010;Les Alluets-le-Roi;;;1.920066;48.91469
+78010_b022_00007;7;;Moulin Capignard;78580;78010;Les Alluets-le-Roi;;;1.914759;48.912169
+78010_b031_00005;5;;Hameau des Ruettes;78580;78010;Les Alluets-le-Roi;;;1.915991;48.916798
+78010_0033_00008;8;;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.914756;48.912706
+78010_0021_00005;5;;Rue de la Ferme;78580;78010;Les Alluets-le-Roi;;;1.917609;48.915294
+78010_0016_00001;1;;Rue d'Ecquevilly;78580;78010;Les Alluets-le-Roi;;;1.915153;48.916327
+78010_0050_00100;100;;Route Royale;78580;78010;Les Alluets-le-Roi;;;1.924306;48.9131
+78010_0017_00002_ter;2;ter;Rue de l'Eglise;78580;78010;Les Alluets-le-Roi;;;1.917683;48.9142
+78010_0033_00017;17;;Rue du Moulin;78580;78010;Les Alluets-le-Roi;;;1.914629;48.912057

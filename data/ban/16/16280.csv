@@ -1,0 +1,959 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+16280_0048_00039;39;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.35777;45.744475
+16280_0040_00322;322;;Rue de la Borderie;16110;16280;Rivières;;Monthézard;0.374193;45.764052
+16280_0066_00027;27;;Rue des Châtaigniers;16110;16280;Rivières;;Chez La Serre;0.357176;45.744171
+16280_0074_00435;435;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.394881;45.764154
+16280_0115_00080;80;;Chemin de Chez Brouelle;16110;16280;Rivières;;;0.352931;45.756583
+16280_0240_00298;298;;Route de la Rochefoucauld;16110;16280;Rivières;;;0.35584;45.750541
+16280_0235_00064;64;;Chemin des Rocailles;16110;16280;Rivières;;;0.351354;45.748547
+16280_0074_00465;465;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.394938;45.763906
+16280_0229_00524;524;;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.366084;45.773379
+16280_0211_00756;756;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.384175;45.745575
+16280_0034_00107;107;;Rue du Bois de Gendarme;16110;16280;Rivières;;La Coutière;0.394136;45.764236
+16280_0219_00162;162;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.374735;45.782802
+16280_0190_00360;360;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353642;45.755546
+16280_0195_00224;224;;Rue du Gros Roc;16110;16280;Rivières;;;0.348063;45.750508
+16280_0195_00445;445;;Rue du Gros Roc;16110;16280;Rivières;;;0.345286;45.749496
+16280_0190_00313_h;313;h;Rue du Grand Plantier;16110;16280;Rivières;;;0.351992;45.755422
+16280_0065_00288;288;;Rue de la Charentaise;16110;16280;Rivières;;Monthézard;0.372809;45.762076
+16280_0065_00046;46;;Rue de la Charentaise;16110;16280;Rivières;;Monthézard;0.374333;45.760216
+16280_0081_00002;2;;Rue des Gavareaux;16110;16280;Rivières;;La Maladrie;0.384089;45.745314
+16280_0160_00115;115;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.374337;45.745131
+16280_0217_00121;121;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.370839;45.763081
+16280_0180_00157;157;;Rue de la Fosse à Muguet;16110;16280;Rivières;;;0.36156;45.749833
+16280_0209_00050_c;50;c;Rue de la Machère;16110;16280;Rivières;;La Croix de l'Orme;0.375037;45.742739
+16280_0160_00201;201;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.375297;45.744691
+16280_0229_00435;435;;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.364704;45.773446
+16280_0211_00196;196;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.381207;45.750123
+16280_0272_00085;85;;Ruelle du Vieux Monthézard;16110;16280;Rivières;;Monthézard;0.372744;45.764441
+16280_0209_00106;106;;Rue de la Machère;16110;16280;Rivières;;La Croix de l'Orme;0.374391;45.741995
+16280_0217_00464;464;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.372193;45.765523
+16280_0193_00151;151;;Rue du Gros Chêne;16110;16280;Rivières;;La Villandière;0.382845;45.75978
+16280_0030_00501;501;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.374328;45.782074
+16280_z2zdha_00001_a;1;a;Logis de Caillère;16110;16280;Rivières;;Logis de Caillère;0.337082;45.750735
+16280_0066_00181;181;;Rue des Châtaigniers;16110;16280;Rivières;;Chez La Serre;0.35614;45.745408
+16280_0176_00173;173;;Rue des Fonds de Bellone;16110;16280;Rivières;;Les Houillères;0.377529;45.782836
+16280_0095_00133;133;;Rue du Champ des Pommiers;16110;16280;Rivières;;;0.351361;45.750293
+16280_0209_00086;86;;Rue de la Machère;16110;16280;Rivières;;La Croix de l'Orme;0.374645;45.741997
+16280_0030_00105;105;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.369976;45.780463
+16280_0217_00073;73;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.370173;45.762846
+16280_0105_00300;300;;Rue de la Charbonnière;16110;16280;Rivières;;;0.352071;45.749203
+16280_0219_00218;218;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.374336;45.783182
+16280_7ovfxs_00001;1;;Les Landes de Chez Vicard;16110;16280;Rivières;;;0.39281;45.760902
+16280_0177_00114;114;;Allée des Fonds de Bellone;16110;16280;Rivières;;Les Houillères;0.376307;45.783277
+16280_0105_00179;179;;Rue de la Charbonnière;16110;16280;Rivières;;;0.353188;45.749945
+16280_0095_00101;101;;Rue du Champ des Pommiers;16110;16280;Rivières;;;0.351771;45.750148
+16280_0217_00145;145;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.371083;45.763178
+16280_0160_00154;154;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.373853;45.744079
+16280_0077_00145;145;;Rue de la Garenne;16110;16280;Rivières;;La Villandière;0.380516;45.7595
+16280_0229_00130;130;;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.36134;45.772312
+16280_0084_00179;179;;Rue du Champ des Fliers;16110;16280;Rivières;;La Maladrie;0.383098;45.745956
+16280_0221_00411;411;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.368707;45.762047
+16280_0080_00980;980;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.368808;45.76317
+16280_0229_00323;323;;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.363653;45.772791
+16280_0081_00034;34;;Rue des Gavareaux;16110;16280;Rivières;;La Maladrie;0.382444;45.7435
+16280_0180_00264;264;;Rue de la Fosse à Muguet;16110;16280;Rivières;;;0.360723;45.749098
+16280_0195_00550;550;;Rue du Gros Roc;16110;16280;Rivières;;;0.344161;45.749465
+16280_0030_00578;578;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.375231;45.782319
+16280_0066_00211;211;;Rue des Châtaigniers;16110;16280;Rivières;;Chez La Serre;0.356027;45.745724
+16280_0105_00266;266;;Rue de la Charbonnière;16110;16280;Rivières;;;0.35255;45.749295
+16280_0260_00018;18;;Chemin de la Tardoire;16110;16280;Rivières;;;0.362682;45.751823
+16280_0221_00465;465;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.36925;45.762383
+16280_0081_00026;26;;Rue des Gavareaux;16110;16280;Rivières;;La Maladrie;0.382709;45.743986
+16280_0068_00304;304;;Rue du Château de la Ménardière;16110;16280;Rivières;;Lavaud;0.368054;45.773446
+16280_0090_00188;188;;Impasse Champ du Chapitre;16110;16280;Rivières;;;0.362519;45.751201
+16280_0176_00088;88;;Rue des Fonds de Bellone;16110;16280;Rivières;;Les Houillères;0.376555;45.78254
+16280_0228_00336;336;;Route du Pont d'Agris;16110;16280;Rivières;;Lavaud;0.361008;45.770388
+16280_0074_00162;162;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.392731;45.764696
+16280_0221_00185;185;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.366538;45.76081
+16280_0048_00272;272;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.355296;45.743925
+16280_0066_00046;46;;Rue des Châtaigniers;16110;16280;Rivières;;Chez La Serre;0.356909;45.744415
+16280_0076_00016;16;;Rue des Fours à Pain;16110;16280;Rivières;;La Villandière;0.38192;45.758449
+16280_0048_00131;131;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.357491;45.743433
+16280_0160_00020;20;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.37327;45.74549
+16280_0195_00670;670;;Rue du Gros Roc;16110;16280;Rivières;;;0.342735;45.749455
+16280_0eaa89_00001;1;;Le Monat;16110;16280;Rivières;;;0.342865;45.770839
+16280_0050_00474;474;;Rue du Bourg;16110;16280;Rivières;;;0.355123;45.752285
+16280_0219_00151;151;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.374792;45.782676
+16280_0034_00042;42;;Rue du Bois de Gendarme;16110;16280;Rivières;;La Coutière;0.393547;45.764234
+16280_0217_00126;126;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.370976;45.763033
+16280_0217_00286;286;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.372249;45.764031
+16280_0080_00735;735;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.370253;45.761222
+16280_0211_00569;569;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.383449;45.747161
+16280_0247_00059;59;;Allée des Sept Liasses;16110;16280;Rivières;;Chez La Serre;0.355782;45.744637
+16280_0205_00222;222;;Route des Landes;16110;16280;Rivières;;Monthézard;0.375245;45.764782
+16280_0224_00150;150;;Sentier du Petit Bois;16110;16280;Rivières;;Monthézard;0.372102;45.762428
+16280_2pgsj2_00001;1;;Ribérolles;16110;16280;Rivières;;;0.357561;45.759603
+16280_0219_00205;205;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.374307;45.783054
+16280_0211_00645;645;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.383761;45.746594
+16280_0160_00142;142;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.374344;45.744814
+16280_0035_00133;133;;Impasse du Bois de Péruzet;16110;16280;Rivières;;Péruzet;0.388058;45.753519
+16280_0217_00554;554;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.37175;45.766272
+16280_0082_00036;36;;Rue de Limoges;16110;16280;Rivières;;Péruzet;0.388736;45.751819
+16280_0150_00141;141;;Chemin du Clos Redon;16110;16280;Rivières;;;0.355736;45.759177
+16280_0190_00313_k;313;k;Rue du Grand Plantier;16110;16280;Rivières;;;0.352403;45.755799
+16280_0130_00165;165;;Rue de Chez Pichou;16110;16280;Rivières;;;0.354059;45.757127
+16280_0217_00285;285;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.372097;45.763957
+16280_9j68vj_00232;232;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.342888;45.747472
+16280_0229_00135;135;;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.361387;45.77242
+16280_0240_00004;4;;Route de la Rochefoucauld;16110;16280;Rivières;;;0.352949;45.752113
+16280_0228_00101;101;;Route du Pont d'Agris;16110;16280;Rivières;;Lavaud;0.362624;45.768618
+16280_0081_00010;10;;Rue des Gavareaux;16110;16280;Rivières;;La Maladrie;0.383476;45.744716
+16280_0032_00312;312;;Chemin du Bandiat;16110;16280;Rivières;;Caillère;0.336011;45.752912
+16280_0217_00198;198;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.371712;45.763289
+16280_0065_00440;440;;Rue de la Charentaise;16110;16280;Rivières;;Monthézard;0.372118;45.763326
+16280_0160_00160_e;160;e;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.373153;45.744472
+16280_0048_00291;291;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.355644;45.742698
+16280_0220_00180;180;;Route de Pelle Buze;16110;16280;Rivières;;;0.364519;45.748953
+16280_0217_00173;173;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.371386;45.76331
+16280_0080_00067;67;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.374758;45.756041
+16280_b171_00280;280;;Le Puy Lavaud;16110;16280;Rivières;;Le Puy de Lavaud;0.364769;45.778353
+16280_0190_00355;355;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353487;45.755611
+16280_b204_00003;3;;Les Hauts du Grand Bois;16110;16280;Rivières;;Monthézard;0.37654;45.760738
+16280_0066_00170;170;;Rue des Châtaigniers;16110;16280;Rivières;;Chez La Serre;0.356221;45.74535
+16280_0240_00186;186;;Route de la Rochefoucauld;16110;16280;Rivières;;;0.354431;45.751203
+16280_0030_00512;512;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.374584;45.782085
+16280_0082_00002;2;;Rue de Limoges;16110;16280;Rivières;;La Maladrie;0.38445;45.74589
+16280_0050_00381;381;;Rue du Bourg;16110;16280;Rivières;;;0.356289;45.75215
+16280_0228_00616;616;;Route du Pont d'Agris;16110;16280;Rivières;;Lavaud;0.359299;45.772484
+16280_0200_00142;142;;Rue de la Haute Bouège;16110;16280;Rivières;;;0.355503;45.757211
+16280_0072_00034;34;;Chemin de Corbesain;16110;16280;Rivières;;Les Houillères;0.36953;45.779454
+16280_0027_00201;201;;Rue des Amettes;16110;16280;Rivières;;Le Mainebeau;0.341976;45.74666
+16280_0160_00160_d;160;d;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.372835;45.744564
+16280_0069_00121;121;;Rue de la Clide;16110;16280;Rivières;;Caillère;0.341015;45.752543
+16280_0190_00313_d;313;d;Rue du Grand Plantier;16110;16280;Rivières;;;0.352004;45.754897
+16280_0190_00313_l;313;l;Rue du Grand Plantier;16110;16280;Rivières;;;0.352452;45.755697
+16280_0160_00162;162;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.374807;45.744788
+16280_0226_00058;58;;Impasse de la Plante;16110;16280;Rivières;;Monthézard;0.372733;45.763411
+16280_0207_00463;463;;Impasse de la Ramisse;16110;16280;Rivières;;La Croix de l'Orme;0.374393;45.747263
+16280_0226_00060;60;;Impasse de la Plante;16110;16280;Rivières;;Monthézard;0.372776;45.763464
+16280_0270_00123;123;;Route des Vieilles Vaures;16110;16280;Rivières;;;0.351564;45.752832
+16280_0211_00640_b;640;b;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.383411;45.746812
+16280_0030_00070;70;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.369757;45.780203
+16280_0245_00015;15;;Route de Saint-Projet;16110;16280;Rivières;;La Croix de l'Orme;0.376014;45.741949
+16280_0280_00052;52;;Rue des Villars;16110;16280;Rivières;;La Villandière;0.383436;45.75898
+16280_0080_00105;105;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.374531;45.756351
+16280_0250_00428;428;;Rue du Stade;16110;16280;Rivières;;;0.354553;45.755689
+16280_0213_00038;38;;Rue du Maziller;16110;16280;Rivières;;Chaufourgne;0.346788;45.762928
+16280_0082_00042;42;;Rue de Limoges;16110;16280;Rivières;;Péruzet;0.389058;45.752237
+16280_0229_00130_c;130;c;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.361711;45.771933
+16280_0069_00021;21;;Rue de la Clide;16110;16280;Rivières;;Caillère;0.341821;45.752187
+16280_0208_00020;20;;Impasse du Logis de Peruzet;16110;16280;Rivières;;Péruzet;0.388954;45.752533
+16280_0105_00213;213;;Rue de la Charbonnière;16110;16280;Rivières;;;0.352989;45.749673
+16280_0068_00365;365;;Rue du Château de la Ménardière;16110;16280;Rivières;;Lavaud;0.367539;45.77383
+16280_0065_00348;348;;Rue de la Charentaise;16110;16280;Rivières;;Monthézard;0.37253;45.762558
+16280_0074_00413;413;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.394848;45.764301
+16280_0245_00017;17;;Route de Saint-Projet;16110;16280;Rivières;;La Croix de l'Orme;0.375706;45.7418
+16280_0048_00167;167;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.356819;45.743473
+16280_0180_00277;277;;Rue de la Fosse à Muguet;16110;16280;Rivières;;;0.360784;45.748928
+16280_0050_00293;293;;Rue du Bourg;16110;16280;Rivières;;;0.357416;45.752182
+16280_0047_00051;51;;Rue de la Bouffargne;16110;16280;Rivières;;Chez Lambert;0.351942;45.763302
+16280_0030_00159;159;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.3705;45.780838
+16280_0040_00244;244;;Rue de la Borderie;16110;16280;Rivières;;Monthézard;0.373966;45.763353
+16280_0090_00082;82;;Impasse Champ du Chapitre;16110;16280;Rivières;;;0.36165;45.751322
+16280_0160_00310;310;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.376435;45.744233
+16280_0195_00644;644;;Rue du Gros Roc;16110;16280;Rivières;;;0.343073;45.74942
+16280_0211_00439;439;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.382761;45.748277
+16280_0120_00230;230;;Rue de Chez Liot;16110;16280;Rivières;;;0.363101;45.750982
+16280_0030_00125;125;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.370167;45.78066
+16280_0071_00037;37;;Passage du Cloutier;16110;16280;Rivières;;Caillère;0.339815;45.75309
+16280_0160_00160_c;160;c;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.372723;45.744525
+16280_0228_00624;624;;Route du Pont d'Agris;16110;16280;Rivières;;Lavaud;0.359186;45.772606
+16280_0190_00281;281;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353331;45.754844
+16280_0048_00274;274;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.355228;45.744007
+16280_0074_00087;87;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.391891;45.764383
+16280_0047_00036;36;;Rue de la Bouffargne;16110;16280;Rivières;;Chez Lambert;0.352235;45.763263
+16280_e9590a_00058;58;;les Sablons;16110;16280;Rivières;;Les Sablons;0.349844;45.76034
+16280_0190_00313_g;313;g;Rue du Grand Plantier;16110;16280;Rivières;;;0.351881;45.755241
+16280_0063_00026;26;;Impasse des Brunettes;16110;16280;Rivières;;La Coutière;0.395;45.763101
+16280_0076_00118;118;;Rue des Fours à Pain;16110;16280;Rivières;;La Villandière;0.382849;45.758434
+16280_0081_00020;20;;Rue des Gavareaux;16110;16280;Rivières;;La Maladrie;0.382975;45.744249
+16280_0270_00059;59;;Route des Vieilles Vaures;16110;16280;Rivières;;;0.352394;45.75253
+16280_0205_00060;60;;Route des Landes;16110;16280;Rivières;;Monthézard;0.373284;45.764758
+16280_0110_00355;355;;Route de Chaufourgne;16110;16280;Rivières;;;0.351038;45.760901
+16280_9j68vj_00404;404;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.341082;45.74669
+16280_0090_00021;21;;Impasse Champ du Chapitre;16110;16280;Rivières;;;0.362207;45.751546
+16280_0228_00438;438;;Route du Pont d'Agris;16110;16280;Rivières;;Lavaud;0.360414;45.771192
+16280_0080_00390;390;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.372678;45.759453
+16280_9j68vj_00462;462;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.340416;45.74712
+16280_0176_00206;206;;Rue des Fonds de Bellone;16110;16280;Rivières;;Les Houillères;0.377915;45.78286
+16280_0273_00063;63;;Rue du Vieux Pigeonnier;16110;16280;Rivières;;La Villandière;0.381283;45.759019
+16280_0035_00093;93;;Impasse du Bois de Péruzet;16110;16280;Rivières;;Péruzet;0.388447;45.753253
+16280_0030_00386;386;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.373132;45.781722
+16280_0090_00016;16;;Impasse Champ du Chapitre;16110;16280;Rivières;;;0.362053;45.751699
+16280_0050_00049;49;;Rue du Bourg;16110;16280;Rivières;;;0.360403;45.752869
+16280_0027_00181;181;;Rue des Amettes;16110;16280;Rivières;;Le Mainebeau;0.342258;45.746504
+16280_0080_00092;92;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.37567;45.756651
+16280_0217_00364;364;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.372481;45.764687
+16280_0195_00200;200;;Rue du Gros Roc;16110;16280;Rivières;;;0.348307;45.750602
+16280_0064_00393;393;;Rue du Champ de l'Amour;16110;16280;Rivières;;Chez Lambert;0.352105;45.764134
+16280_0084_00281;281;;Rue du Champ des Fliers;16110;16280;Rivières;;La Maladrie;0.384117;45.745483
+16280_0050_00189;189;;Rue du Bourg;16110;16280;Rivières;;;0.358666;45.752398
+16280_0240_00309;309;;Route de la Rochefoucauld;16110;16280;Rivières;;;0.356047;45.75064
+16280_0100_00080;80;;Impasse Champ de Vidaud;16110;16280;Rivières;;;0.351842;45.751454
+16280_0195_00656;656;;Rue du Gros Roc;16110;16280;Rivières;;;0.342949;45.749433
+16280_0065_00110;110;;Rue de la Charentaise;16110;16280;Rivières;;Monthézard;0.373823;45.760702
+16280_0190_00221;221;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353245;45.754311
+16280_0177_00048;48;;Allée des Fonds de Bellone;16110;16280;Rivières;;Les Houillères;0.376813;45.783158
+16280_0229_00130_b;130;b;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.361582;45.772112
+16280_0221_00205;205;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.366693;45.760903
+16280_0200_00116;116;;Rue de la Haute Bouège;16110;16280;Rivières;;;0.355383;45.757327
+16280_0170_00155;155;;Rue de l'École;16110;16280;Rivières;;;0.360543;45.753875
+16280_0095_00052;52;;Rue du Champ des Pommiers;16110;16280;Rivières;;;0.35246;45.749962
+16280_0211_00230;230;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.38138;45.749863
+16280_0025_00341;341;;Rue de l'Alambic;16110;16280;Rivières;;Les Houillères;0.373357;45.783837
+16280_0066_00241;241;;Rue des Châtaigniers;16110;16280;Rivières;;Chez La Serre;0.355947;45.745945
+16280_0081_00022;22;;Rue des Gavareaux;16110;16280;Rivières;;La Maladrie;0.38291;45.744186
+16280_0064_00189;189;;Rue du Champ de l'Amour;16110;16280;Rivières;;Chez Lambert;0.353624;45.764106
+16280_0210_00000;0;;Place de la Mairie;16110;16280;Rivières;;;0.361007;45.75233
+16280_0280_00055;55;;Rue des Villars;16110;16280;Rivières;;La Villandière;0.38331;45.759026
+16280_0190_00300;300;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353551;45.755127
+16280_0213_00022;22;;Rue du Maziller;16110;16280;Rivières;;Chaufourgne;0.346957;45.762874
+16280_b056_00001;1;;Chez Lacoux;16110;16280;Rivières;;;0.36601;45.749667
+16280_0025_00156;156;;Rue de l'Alambic;16110;16280;Rivières;;Les Houillères;0.372217;45.782399
+16280_0066_00080;80;;Rue des Châtaigniers;16110;16280;Rivières;;Chez La Serre;0.356601;45.744571
+16280_0280_00339;339;;Rue des Villars;16110;16280;Rivières;;La Villandière;0.381961;45.761419
+16280_9j68vj_00425;425;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.340732;45.746466
+16280_0219_00043;43;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.375697;45.782052
+16280_0048_00030;30;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.357761;45.744542
+16280_0260_00090;90;;Chemin de la Tardoire;16110;16280;Rivières;;;0.363471;45.752233
+16280_0265_00410;410;;Route de Tout Y Faut;16110;16280;Rivières;;Monthézard;0.379176;45.762118
+16280_0263_00005;5;;Rue de la Terre de Lavaud;16110;16280;Rivières;;Lavaud;0.358979;45.772761
+16280_0211_00617;617;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.38354;45.746906
+16280_0050_00243;243;;Rue du Bourg;16110;16280;Rivières;;;0.357987;45.752252
+16280_b171_00261;261;;Le Puy Lavaud;16110;16280;Rivières;;Le Puy de Lavaud;0.36475;45.778085
+16280_0083_00815;815;;Rue des Flots;16110;16280;Rivières;;La Maladrie;0.381438;45.744282
+16280_0025_00005;5;;Rue de l'Alambic;16110;16280;Rivières;;Les Houillères;0.371289;45.781365
+16280_9j68vj_00241;241;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.343221;45.747168
+16280_0080_00870;870;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.369692;45.762365
+16280_0064_00383;383;;Rue du Champ de l'Amour;16110;16280;Rivières;;Chez Lambert;0.352196;45.764195
+16280_0192_00070;70;;Chemin de la Grave;16110;16280;Rivières;;Monthézard;0.375463;45.754138
+16280_0047_00181;181;;Rue de la Bouffargne;16110;16280;Rivières;;Chez Lambert;0.350818;45.763617
+16280_0217_00070;70;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.370305;45.762781
+16280_0025_00184;184;;Rue de l'Alambic;16110;16280;Rivières;;Les Houillères;0.37236;45.782564
+16280_0130_00031;31;;Rue de Chez Pichou;16110;16280;Rivières;;;0.353605;45.755969
+16280_0180_00091;91;;Rue de la Fosse à Muguet;16110;16280;Rivières;;;0.362326;45.750014
+16280_0050_00183;183;;Rue du Bourg;16110;16280;Rivières;;;0.358789;45.752435
+16280_0211_00527;527;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.38323;45.74753
+16280_0064_00272;272;;Rue du Champ de l'Amour;16110;16280;Rivières;;Chez Lambert;0.353308;45.764778
+16280_0235_00356;356;;Chemin des Rocailles;16110;16280;Rivières;;;0.348021;45.749349
+16280_0190_00333;333;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353438;45.75531
+16280_0228_00592;592;;Route du Pont d'Agris;16110;16280;Rivières;;Lavaud;0.35938;45.772411
+16280_b171_00332;332;;Le Puy Lavaud;16110;16280;Rivières;;Le Puy de Lavaud;0.364722;45.778851
+16280_0217_00158;158;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.371293;45.763142
+16280_0076_00065;65;;Rue des Fours à Pain;16110;16280;Rivières;;La Villandière;0.382378;45.758709
+16280_0060_00060;60;;Rue de la Braconne;16110;16280;Rivières;;;0.352865;45.751358
+16280_0064_00300;300;;Rue du Champ de l'Amour;16110;16280;Rivières;;Chez Lambert;0.352787;45.764796
+16280_0217_00023;23;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.369702;45.762657
+16280_0027_00125;125;;Rue des Amettes;16110;16280;Rivières;;Le Mainebeau;0.342671;45.746533
+16280_0221_00160;160;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.366281;45.760597
+16280_0280_00027;27;;Rue des Villars;16110;16280;Rivières;;La Villandière;0.383474;45.758806
+16280_0209_00050_d;50;d;Rue de la Machère;16110;16280;Rivières;;La Croix de l'Orme;0.374908;45.742528
+16280_0221_00148;148;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.366149;45.760494
+16280_0048_00087;87;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.357413;45.744078
+16280_0066_00101;101;;Rue des Châtaigniers;16110;16280;Rivières;;Chez La Serre;0.356387;45.744675
+16280_0074_00074;74;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.391747;45.764277
+16280_0250_00455;455;;Rue du Stade;16110;16280;Rivières;;;0.354396;45.7556
+16280_e9590a_00051;51;;les Sablons;16110;16280;Rivières;;Les Sablons;0.350837;45.760054
+16280_0048_00219;219;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.356489;45.743159
+16280_b204_00050;50;;Les Hauts du Grand Bois;16110;16280;Rivières;;Monthézard;0.376868;45.760812
+16280_e9590a_00167;167;;les Sablons;16110;16280;Rivières;;Les Sablons;0.349547;45.759218
+16280_0030_00248;248;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.371452;45.781245
+16280_0025_00230;230;;Rue de l'Alambic;16110;16280;Rivières;;Les Houillères;0.372673;45.782882
+16280_0130_00291;291;;Rue de Chez Pichou;16110;16280;Rivières;;;0.354517;45.758308
+16280_0211_00280;280;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.381654;45.749485
+16280_0025_00283;283;;Rue de l'Alambic;16110;16280;Rivières;;Les Houillères;0.373041;45.783424
+16280_0270_00005;5;;Route des Vieilles Vaures;16110;16280;Rivières;;;0.352741;45.752314
+16280_0280_00241;241;;Rue des Villars;16110;16280;Rivières;;La Villandière;0.382396;45.760597
+16280_0064_00277;277;;Rue du Champ de l'Amour;16110;16280;Rivières;;Chez Lambert;0.353317;45.764667
+16280_0073_00108;108;;Rue des Courades;16110;16280;Rivières;;Chaufourgne;0.34639;45.76298
+16280_0074_00229;229;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.393289;45.765167
+16280_0140_00038;38;;Rue de Chez Salot;16110;16280;Rivières;;;0.353877;45.752252
+16280_0190_00125_e;125;e;Rue du Grand Plantier;16110;16280;Rivières;;;0.352365;45.753744
+16280_0211_00517;517;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.383135;45.747659
+16280_0030_00306;306;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.372075;45.781478
+16280_0176_00117;117;;Rue des Fonds de Bellone;16110;16280;Rivières;;Les Houillères;0.376835;45.782712
+16280_0211_00640;640;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.383546;45.7466
+16280_0221_00375;375;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.368359;45.761857
+16280_0032_00104;104;;Chemin du Bandiat;16110;16280;Rivières;;Caillère;0.339044;45.75336
+16280_0048_00061;61;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.357621;45.744281
+16280_0221_00301;301;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.367625;45.761452
+16280_0060_00135;135;;Rue de la Braconne;16110;16280;Rivières;;;0.352312;45.750844
+16280_9j68vj_00187;187;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.343387;45.747949
+16280_0190_00120;120;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353262;45.753462
+16280_0177_00131;131;;Allée des Fonds de Bellone;16110;16280;Rivières;;Les Houillères;0.376212;45.783186
+16280_0211_00213;213;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.381531;45.750081
+16280_0048_00368;368;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.354853;45.742486
+16280_0027_00090;90;;Rue des Amettes;16110;16280;Rivières;;Le Mainebeau;0.343238;45.746599
+16280_0180_00067;67;;Rue de la Fosse à Muguet;16110;16280;Rivières;;;0.362569;45.750152
+16280_0235_00466;466;;Chemin des Rocailles;16110;16280;Rivières;;;0.347183;45.750053
+16280_0266_00018;18;;Rue des Tremieres;16110;16280;Rivières;;La Coutière;0.393389;45.764436
+16280_0130_00320;320;;Rue de Chez Pichou;16110;16280;Rivières;;;0.354685;45.758377
+16280_0190_00349;349;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353479;45.755497
+16280_0217_00274;274;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.372257;45.763897
+16280_0064_00237;237;;Rue du Champ de l'Amour;16110;16280;Rivières;;Chez Lambert;0.353652;45.764466
+16280_0069_00164;164;;Rue de la Clide;16110;16280;Rivières;;Caillère;0.340541;45.752936
+16280_a300_00010;10;;ZAC de la Fosse Pacaud;16110;16280;Rivières;;;0.384197;45.752309
+16280_e9590a_00011;11;;les Sablons;16110;16280;Rivières;;Les Sablons;0.35029;45.760645
+16280_0150_00047;47;;Chemin du Clos Redon;16110;16280;Rivières;;;0.356433;45.75869
+16280_0218_00086;86;;Chemin du Moulin;16110;16280;Rivières;;La Croix de l'Orme;0.373689;45.746238
+16280_b062_00247;247;;Chez Pouret;16110;16280;Rivières;;;0.367777;45.757329
+16280_0218_00110;110;;Chemin du Moulin;16110;16280;Rivières;;La Croix de l'Orme;0.37388;45.746414
+16280_0160_00160_b;160;b;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.372771;45.744379
+16280_0275_00181;181;;Chemin des Vignes;16110;16280;Rivières;;;0.353629;45.74948
+16280_0040_00259;259;;Rue de la Borderie;16110;16280;Rivières;;Monthézard;0.373906;45.763595
+16280_0050_00491;491;;Rue du Bourg;16110;16280;Rivières;;;0.354945;45.752153
+16280_0221_00203;203;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.36661;45.760864
+16280_b171_00285;285;;Le Puy Lavaud;16110;16280;Rivières;;Le Puy de Lavaud;0.364657;45.778416
+16280_0221_00255;255;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.367162;45.761178
+16280_0200_00031;31;;Rue de la Haute Bouège;16110;16280;Rivières;;;0.354935;45.758096
+16280_0081_00018;18;;Rue des Gavareaux;16110;16280;Rivières;;La Maladrie;0.383055;45.744338
+16280_0083_00835;835;;Rue des Flots;16110;16280;Rivières;;La Maladrie;0.381567;45.744047
+16280_0190_00287;287;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353365;45.754984
+16280_0032_00082;82;;Chemin du Bandiat;16110;16280;Rivières;;Caillère;0.339298;45.75338
+16280_0076_00129;129;;Rue des Fours à Pain;16110;16280;Rivières;;La Villandière;0.383035;45.758481
+16280_0067_00014;14;;Rue de Chez Merlet;16110;16280;Rivières;;Monthézard;0.365805;45.758437
+16280_0082_00012;12;;Rue de Limoges;16110;16280;Rivières;;La Maladrie;0.385001;45.746684
+16280_0060_00015;15;;Rue de la Braconne;16110;16280;Rivières;;;0.353247;45.751512
+16280_0240_00247;247;;Route de la Rochefoucauld;16110;16280;Rivières;;;0.355544;45.750824
+16280_0195_00506;506;;Rue du Gros Roc;16110;16280;Rivières;;;0.344837;45.749524
+16280_0213_00017;17;;Rue du Maziller;16110;16280;Rivières;;Chaufourgne;0.346995;45.762832
+16280_0080_00050;50;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.375061;45.755973
+16280_0130_00236;236;;Rue de Chez Pichou;16110;16280;Rivières;;;0.354451;45.757765
+16280_0075_00284;284;;Rue de la Déesse Damona;16110;16280;Rivières;;Lavaud;0.362957;45.771982
+16280_0170_00096;96;;Rue de l'École;16110;16280;Rivières;;;0.360939;45.753386
+16280_0221_00452;452;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.369216;45.762241
+16280_0083_00376;376;;Rue des Flots;16110;16280;Rivières;;La Maladrie;0.380407;45.748087
+16280_0130_00204_b;204;b;Rue de Chez Pichou;16110;16280;Rivières;;;0.354392;45.757631
+16280_0083_00540;540;;Rue des Flots;16110;16280;Rivières;;La Maladrie;0.380701;45.746692
+16280_0195_00045;45;;Rue du Gros Roc;16110;16280;Rivières;;;0.350239;45.750742
+16280_0217_00320;320;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.372263;45.764312
+16280_0190_00092;92;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353199;45.753187
+16280_0033_00061;61;;Rue des Barres;16110;16280;Rivières;;La Coutière;0.393266;45.765756
+16280_0200_00043;43;;Rue de la Haute Bouège;16110;16280;Rivières;;;0.355033;45.758025
+16280_0182_00140;140;;Rue de la Fosse Pacaud;16110;16280;Rivières;;Péruzet;0.386475;45.750859
+16280_0080_00100;100;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.375953;45.756727
+16280_0080_00316;316;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.373122;45.758415
+16280_0189_00084;84;;Allée du Grand Bois;16110;16280;Rivières;;Monthézard;0.375103;45.760551
+16280_0130_00130;130;;Rue de Chez Pichou;16110;16280;Rivières;;;0.354228;45.757054
+16280_0219_00202;202;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.374551;45.783099
+16280_0130_00476;476;;Rue de Chez Pichou;16110;16280;Rivières;;;0.355566;45.759657
+16280_0180_00008;8;;Rue de la Fosse à Muguet;16110;16280;Rivières;;;0.362949;45.75065
+16280_0048_00248;248;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.35612;45.743031
+16280_0079_00025;25;;Rue du Logis de Caillère;16110;16280;Rivières;;Caillère;0.33851;45.753007
+16280_0074_00520;520;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.394803;45.763531
+16280_0205_00200;200;;Route des Landes;16110;16280;Rivières;;Monthézard;0.374986;45.764783
+16280_0160_00065;65;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.373823;45.745384
+16280_0280_00121;121;;Rue des Villars;16110;16280;Rivières;;La Villandière;0.382991;45.759463
+16280_0229_00130_d;130;d;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.361829;45.77175
+16280_0220_00218;218;;Route de Pelle Buze;16110;16280;Rivières;;;0.364191;45.749154
+16280_0219_00006;6;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.376094;45.781854
+16280_0050_00027;27;;Rue du Bourg;16110;16280;Rivières;;;0.360684;45.752949
+16280_0067_00064;64;;Rue de Chez Merlet;16110;16280;Rivières;;Monthézard;0.365612;45.758857
+16280_0229_00394;394;;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.364534;45.772935
+16280_0040_00056;56;;Rue de la Borderie;16110;16280;Rivières;;Monthézard;0.373468;45.761738
+16280_0048_00110;110;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.357161;45.744007
+16280_0211_00277;277;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.381935;45.749575
+16280_0280_00020;20;;Rue des Villars;16110;16280;Rivières;;La Villandière;0.383557;45.758782
+16280_0105_00120;120;;Rue de la Charbonnière;16110;16280;Rivières;;;0.353277;45.750498
+16280_0270_00070;70;;Route des Vieilles Vaures;16110;16280;Rivières;;;0.352284;45.752743
+16280_0160_00152;152;;Route de la Duchesse;16110;16280;Rivières;;;0.374185;45.744317
+16280_0195_00590;590;;Rue du Gros Roc;16110;16280;Rivières;;;0.343757;45.749433
+16280_0105_00332;332;;Rue de la Charbonnière;16110;16280;Rivières;;;0.351887;45.7489
+16280_0030_00035;35;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.369361;45.780038
+16280_0130_00111;111;;Rue de Chez Pichou;16110;16280;Rivières;;;0.353898;45.756593
+16280_b171_00331;331;;Le Puy Lavaud;16110;16280;Rivières;;Le Puy de Lavaud;0.364628;45.778762
+16280_0263_00135;135;;Rue de la Terre de Lavaud;16110;16280;Rivières;;Lavaud;0.360255;45.773646
+16280_0095_00106;106;;Rue du Champ des Pommiers;16110;16280;Rivières;;;0.351812;45.750187
+16280_0130_00326;326;;Rue de Chez Pichou;16110;16280;Rivières;;;0.354719;45.758545
+16280_0066_00152;152;;Rue des Châtaigniers;16110;16280;Rivières;;Chez La Serre;0.356285;45.745145
+16280_0048_00331;331;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.355226;45.742448
+16280_0077_00199;199;;Rue de la Garenne;16110;16280;Rivières;;La Villandière;0.381036;45.759791
+16280_0081_00028;28;;Rue des Gavareaux;16110;16280;Rivières;;La Maladrie;0.382529;45.743836
+16280_e9590a_00238;238;;les Sablons;16110;16280;Rivières;;Les Sablons;0.348426;45.759088
+16280_b171_00406;406;;Le Puy Lavaud;16110;16280;Rivières;;Le Puy de Lavaud;0.364581;45.779205
+16280_0130_00049;49;;Rue de Chez Pichou;16110;16280;Rivières;;;0.353749;45.756166
+16280_0160_00362;362;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.377029;45.743983
+16280_0219_00100;100;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.375253;45.782403
+16280_0229_00070;70;;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.360789;45.771995
+16280_0076_00085;85;;Rue des Fours à Pain;16110;16280;Rivières;;La Villandière;0.382708;45.758713
+16280_0261_00018;18;;Rue de la Tardoire;16110;16280;Rivières;;;0.342366;45.77145
+16280_0224_00139;139;;Sentier du Petit Bois;16110;16280;Rivières;;Monthézard;0.371756;45.762337
+16280_0160_00260;260;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.375888;45.744399
+16280_0263_00124;124;;Rue de la Terre de Lavaud;16110;16280;Rivières;;Lavaud;0.360519;45.773234
+16280_0190_00125_f;125;f;Rue du Grand Plantier;16110;16280;Rivières;;;0.351282;45.75387
+16280_0083_00714;714;;Rue des Flots;16110;16280;Rivières;;La Maladrie;0.380935;45.744932
+16280_0066_00063;63;;Rue des Châtaigniers;16110;16280;Rivières;;Chez La Serre;0.356763;45.744356
+16280_0130_00410;410;;Rue de Chez Pichou;16110;16280;Rivières;;;0.355068;45.759285
+16280_0105_00281;281;;Rue de la Charbonnière;16110;16280;Rivières;;;0.352585;45.74913
+16280_0190_00313_a;313;a;Rue du Grand Plantier;16110;16280;Rivières;;;0.352414;45.755311
+16280_0064_00023;23;;Rue du Champ de l'Amour;16110;16280;Rivières;;Chez Lambert;0.352754;45.76314
+16280_b171_00417;417;;Le Puy Lavaud;16110;16280;Rivières;;Le Puy de Lavaud;0.364482;45.779216
+16280_0195_00395;395;;Rue du Gros Roc;16110;16280;Rivières;;;0.345938;45.749652
+16280_0195_00535;535;;Rue du Gros Roc;16110;16280;Rivières;;;0.344248;45.749352
+16280_0192_00003;3;;Chemin de la Grave;16110;16280;Rivières;;Monthézard;0.376312;45.754149
+16280_0084_00158;158;;Rue du Champ des Fliers;16110;16280;Rivières;;La Maladrie;0.382847;45.745825
+16280_0050_00394_e;394;e;Rue du Bourg;16110;16280;Rivières;;;0.356338;45.752407
+16280_0066_00073;73;;Rue des Châtaigniers;16110;16280;Rivières;;Chez La Serre;0.356621;45.744471
+16280_0190_00313_i;313;i;Rue du Grand Plantier;16110;16280;Rivières;;;0.352164;45.755628
+16280_0050_00222;222;;Rue du Bourg;16110;16280;Rivières;;;0.358291;45.752414
+16280_0084_00224;224;;Rue du Champ des Fliers;16110;16280;Rivières;;La Maladrie;0.382916;45.745315
+16280_0263_00422;422;;Rue de la Terre de Lavaud;16110;16280;Rivières;;Lavaud;0.363516;45.774593
+16280_0067_00158;158;;Rue de Chez Merlet;16110;16280;Rivières;;Monthézard;0.364887;45.759496
+16280_0195_00725;725;;Rue du Gros Roc;16110;16280;Rivières;;;0.342199;45.749443
+16280_0176_00172;172;;Rue des Fonds de Bellone;16110;16280;Rivières;;Les Houillères;0.377603;45.78276
+16280_0221_00127;127;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.365921;45.760452
+16280_a300_00020;20;;ZAC de la Fosse Pacaud;16110;16280;Rivières;;;0.383369;45.75189
+16280_9j68vj_00460;460;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.340414;45.747001
+16280_0105_00292;292;;Rue de la Charbonnière;16110;16280;Rivières;;;0.352392;45.749106
+16280_0130_00340;340;;Rue de Chez Pichou;16110;16280;Rivières;;;0.354706;45.758621
+16280_0095_00016;16;;Rue du Champ des Pommiers;16110;16280;Rivières;;;0.352883;45.749828
+16280_0189_00054;54;;Allée du Grand Bois;16110;16280;Rivières;;Monthézard;0.375554;45.760501
+16280_b171_00015;15;;Le Puy Lavaud;16110;16280;Rivières;;Le Puy de Lavaud;0.365662;45.776743
+16280_e9590a_00340;340;;les Sablons;16110;16280;Rivières;;Les Sablons;0.347728;45.758361
+16280_0207_00075;75;;Impasse de la Ramisse;16110;16280;Rivières;;La Croix de l'Orme;0.377095;45.744563
+16280_0195_00355;355;;Rue du Gros Roc;16110;16280;Rivières;;;0.346533;45.749888
+16280_0081_00030;30;;Rue des Gavareaux;16110;16280;Rivières;;La Maladrie;0.382444;45.743742
+16280_0182_00050;50;;Rue de la Fosse Pacaud;16110;16280;Rivières;;Péruzet;0.384953;45.750634
+16280_0270_00111;111;;Route des Vieilles Vaures;16110;16280;Rivières;;;0.351809;45.752742
+16280_0080_00059;59;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.374822;45.755952
+16280_0074_00340;340;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.394197;45.765154
+16280_0200_00180;180;;Rue de la Haute Bouège;16110;16280;Rivières;;;0.35582;45.756912
+16280_0221_00342;342;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.36801;45.761591
+16280_0229_00294;294;;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.363537;45.772696
+16280_0050_00294;294;;Rue du Bourg;16110;16280;Rivières;;;0.357359;45.752269
+16280_0e80ki_00073;73;;Le Petit Passage;16110;16280;Rivières;;;0.353657;45.751727
+16280_0080_00771;771;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.370152;45.761522
+16280_9j68vj_00405;405;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.341142;45.746559
+16280_0182_00196;196;;Rue de la Fosse Pacaud;16110;16280;Rivières;;Péruzet;0.386841;45.75057
+16280_0064_00127;127;;Rue du Champ de l'Amour;16110;16280;Rivières;;Chez Lambert;0.353858;45.763715
+16280_0180_00053;53;;Rue de la Fosse à Muguet;16110;16280;Rivières;;;0.36272;45.750269
+16280_0048_00276;276;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.355615;45.744153
+16280_0235_00090;90;;Chemin des Rocailles;16110;16280;Rivières;;;0.351077;45.748628
+16280_0030_00089;89;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.3698;45.78035
+16280_a300_00030;30;;ZAC de la Fosse Pacaud;16110;16280;Rivières;;;0.38341;45.752373
+16280_0130_00251;251;;Rue de Chez Pichou;16110;16280;Rivières;;;0.354404;45.758033
+16280_0250_00065;65;;Rue du Stade;16110;16280;Rivières;;;0.359351;45.754915
+16280_0229_00041;41;;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.360435;45.771918
+16280_0221_00158;158;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.366199;45.760558
+16280_0084_00220;220;;Rue du Champ des Fliers;16110;16280;Rivières;;La Maladrie;0.383486;45.745684
+16280_0195_00745;745;;Rue du Gros Roc;16110;16280;Rivières;;;0.341449;45.749107
+16280_0027_00150;150;;Rue des Amettes;16110;16280;Rivières;;Le Mainebeau;0.342525;45.746599
+16280_0073_00145;145;;Rue des Courades;16110;16280;Rivières;;Chaufourgne;0.346116;45.762682
+16280_0190_00230;230;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353409;45.754438
+16280_0090_00104;104;;Impasse Champ du Chapitre;16110;16280;Rivières;;;0.361631;45.751087
+16280_0076_00214;214;;Rue des Fours à Pain;16110;16280;Rivières;;La Villandière;0.383179;45.758157
+16280_0221_00233;233;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.366981;45.76106
+16280_0195_00477;477;;Rue du Gros Roc;16110;16280;Rivières;;;0.346521;45.749092
+16280_0190_00071;71;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353019;45.753069
+16280_0077_00337;337;;Rue de la Garenne;16110;16280;Rivières;;La Villandière;0.382005;45.760788
+16280_0160_00242;242;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.375683;45.744472
+16280_0209_00050_a;50;a;Rue de la Machère;16110;16280;Rivières;;La Croix de l'Orme;0.374767;45.742756
+16280_0219_00157;157;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.374722;45.782704
+16280_0035_00195;195;;Impasse du Bois de Péruzet;16110;16280;Rivières;;Péruzet;0.387765;45.754087
+16280_0200_00067;67;;Rue de la Haute Bouège;16110;16280;Rivières;;;0.355037;45.757839
+16280_0050_00394_b;394;b;Rue du Bourg;16110;16280;Rivières;;;0.355899;45.752723
+16280_6a063b_00001;1;;Le Bouchet;16110;16280;Rivières;;;0.362833;45.745646
+16280_0080_00001;1;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.37516;45.755486
+16280_0034_00014;14;;Rue du Bois de Gendarme;16110;16280;Rivières;;La Coutière;0.393256;45.764058
+16280_0209_00036;36;;Rue de la Machère;16110;16280;Rivières;;La Croix de l'Orme;0.375308;45.742042
+16280_0180_00005;5;;Rue de la Fosse à Muguet;16110;16280;Rivières;;;0.363132;45.750555
+16280_0105_00249;249;;Rue de la Charbonnière;16110;16280;Rivières;;;0.352748;45.74937
+16280_0205_00131;131;;Route des Landes;16110;16280;Rivières;;Monthézard;0.374354;45.76496
+16280_0209_00142;142;;Rue de la Machère;16110;16280;Rivières;;La Croix de l'Orme;0.373948;45.741983
+16280_0221_00333;333;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.367981;45.761654
+16280_0130_00467;467;;Rue de Chez Pichou;16110;16280;Rivières;;;0.355418;45.759695
+16280_0050_00459;459;;Rue du Bourg;16110;16280;Rivières;;;0.355332;45.752162
+16280_0083_00235;235;;Rue des Flots;16110;16280;Rivières;;La Maladrie;0.380386;45.749209
+16280_0228_00714;714;;Route du Pont d'Agris;16110;16280;Rivières;;Lavaud;0.358327;45.773183
+16280_0095_00080;80;;Rue du Champ des Pommiers;16110;16280;Rivières;;;0.352115;45.75006
+16280_0090_00088;88;;Impasse Champ du Chapitre;16110;16280;Rivières;;;0.361504;45.751318
+16280_0065_00270;270;;Rue de la Charentaise;16110;16280;Rivières;;Monthézard;0.372877;45.761912
+16280_0195_00555;555;;Rue du Gros Roc;16110;16280;Rivières;;;0.343983;45.749354
+16280_0030_00268;268;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.371707;45.781366
+16280_0175_00054;54;;Allée de l'Église;16110;16280;Rivières;;;0.361704;45.753277
+16280_0228_00580;580;;Route du Pont d'Agris;16110;16280;Rivières;;Lavaud;0.35952;45.772297
+16280_0080_00739;739;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.369401;45.760743
+16280_0050_00464;464;;Rue du Bourg;16110;16280;Rivières;;;0.355375;45.752253
+16280_0190_00141;141;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353142;45.753664
+16280_b171_00385;385;;Le Puy Lavaud;16110;16280;Rivières;;Le Puy de Lavaud;0.364571;45.778987
+16280_0060_00035;35;;Rue de la Braconne;16110;16280;Rivières;;;0.353155;45.751463
+16280_0160_00147;147;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.374701;45.744976
+16280_0065_00367;367;;Rue de la Charentaise;16110;16280;Rivières;;Monthézard;0.3723;45.762685
+16280_0071_00075;75;;Passage du Cloutier;16110;16280;Rivières;;Caillère;0.33927;45.753288
+16280_9j68vj_00367;367;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.341517;45.7468
+16280_0084_00247;247;;Rue du Champ des Fliers;16110;16280;Rivières;;La Maladrie;0.383821;45.745613
+16280_0195_00752;752;;Rue du Gros Roc;16110;16280;Rivières;;;0.341587;45.749632
+16280_0221_00081;81;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.365432;45.76021
+16280_0190_00125;125;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353119;45.75354
+16280_0068_00031;31;;Rue du Château de la Ménardière;16110;16280;Rivières;;Lavaud;0.371305;45.772537
+16280_0110_00009;9;;Route de Chaufourgne;16110;16280;Rivières;;;0.35492;45.759515
+16280_0077_00187;187;;Rue de la Garenne;16110;16280;Rivières;;La Villandière;0.38091;45.759689
+16280_0e80ki_00044;44;;Le Petit Passage;16110;16280;Rivières;;;0.354153;45.752064
+16280_0228_00570;570;;Route du Pont d'Agris;16110;16280;Rivières;;Lavaud;0.359619;45.772203
+16280_0117_00044;44;;Impasse de Chez la Serre;16110;16280;Rivières;;Chez La Serre;0.356214;45.743665
+16280_0195_00735;735;;Rue du Gros Roc;16110;16280;Rivières;;;0.341493;45.749015
+16280_0221_00416;416;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.368783;45.762008
+16280_0217_00100;100;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.370622;45.762901
+16280_0272_00042;42;;Ruelle du Vieux Monthézard;16110;16280;Rivières;;Monthézard;0.372865;45.764029
+16280_0176_00179;179;;Rue des Fonds de Bellone;16110;16280;Rivières;;Les Houillères;0.377633;45.782838
+16280_0190_00150;150;;Rue du Grand Plantier;16110;16280;Rivières;;;0.35327;45.753737
+16280_0035_00091;91;;Impasse du Bois de Péruzet;16110;16280;Rivières;;Péruzet;0.388555;45.753333
+16280_0224_00046;46;;Sentier du Petit Bois;16110;16280;Rivières;;Monthézard;0.370868;45.761877
+16280_0190_00080;80;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353181;45.753116
+16280_0080_00942;942;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.369142;45.762842
+16280_0229_00088;88;;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.360957;45.772141
+16280_0195_00140;140;;Rue du Gros Roc;16110;16280;Rivières;;;0.349363;45.750786
+16280_0050_00496;496;;Rue du Bourg;16110;16280;Rivières;;;0.354899;45.752259
+16280_0115_00040;40;;Chemin de Chez Brouelle;16110;16280;Rivières;;;0.353411;45.756453
+16280_0105_00334;334;;Rue de la Charbonnière;16110;16280;Rivières;;;0.352127;45.748827
+16280_0050_00419;419;;Rue du Bourg;16110;16280;Rivières;;;0.355954;45.752156
+16280_b204_00074;74;;Les Hauts du Grand Bois;16110;16280;Rivières;;Monthézard;0.376394;45.76125
+16280_0240_00217;217;;Route de la Rochefoucauld;16110;16280;Rivières;;;0.355067;45.751007
+16280_0207_00350;350;;Impasse de la Ramisse;16110;16280;Rivières;;La Croix de l'Orme;0.37579;45.746831
+16280_0060_00065;65;;Rue de la Braconne;16110;16280;Rivières;;;0.352936;45.751303
+16280_0033_00245;245;;Rue des Barres;16110;16280;Rivières;;La Coutière;0.391691;45.766939
+16280_0115_00055;55;;Chemin de Chez Brouelle;16110;16280;Rivières;;;0.353081;45.756414
+16280_0062_00002;2;;Rue des Bréjasses;16110;16280;Rivières;;Monthézard;0.375529;45.755043
+16280_0076_00145;145;;Rue des Fours à Pain;16110;16280;Rivières;;La Villandière;0.383262;45.75855
+16280_0240_00230;230;;Route de la Rochefoucauld;16110;16280;Rivières;;;0.355255;45.750811
+16280_0068_00374;374;;Rue du Château de la Ménardière;16110;16280;Rivières;;Lavaud;0.367648;45.773804
+16280_0040_00160;160;;Rue de la Borderie;16110;16280;Rivières;;Monthézard;0.373736;45.762647
+16280_0067_00074;74;;Rue de Chez Merlet;16110;16280;Rivières;;Monthézard;0.365455;45.759056
+16280_0267_01001;1001;;Impasse de la Tuilerie;16110;16280;Rivières;;La Coutière;0.394602;45.760337
+16280_0160_00234;234;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.37557;45.744507
+16280_0272_00038;38;;Ruelle du Vieux Monthézard;16110;16280;Rivières;;Monthézard;0.372707;45.763956
+16280_0074_00024;24;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.391253;45.764056
+16280_0105_00151;151;;Rue de la Charbonnière;16110;16280;Rivières;;;0.353334;45.75018
+16280_0030_00104;104;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.370167;45.780502
+16280_0190_00125_a;125;a;Rue du Grand Plantier;16110;16280;Rivières;;;0.351683;45.753734
+16280_0040_00363;363;;Rue de la Borderie;16110;16280;Rivières;;Monthézard;0.374062;45.764708
+16280_0083_00847;847;;Rue des Flots;16110;16280;Rivières;;La Maladrie;0.38169;45.743962
+16280_0040_00030;30;;Rue de la Borderie;16110;16280;Rivières;;Monthézard;0.373724;45.761279
+16280_0074_00090;90;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.391901;45.76429
+16280_0221_00374;374;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.368359;45.76179
+16280_0105_00439;439;;Rue de la Charbonnière;16110;16280;Rivières;;;0.352381;45.747871
+16280_e9590a_00272;272;;les Sablons;16110;16280;Rivières;;Les Sablons;0.348138;45.758872
+16280_0030_00496;496;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.374049;45.781921
+16280_0227_00044;44;;Rue des Pinonnes;16110;16280;Rivières;;Chaufourgne;0.345761;45.763062
+16280_0064_00433;433;;Rue du Champ de l'Amour;16110;16280;Rivières;;Chez Lambert;0.35173;45.76392
+16280_0217_00040;40;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.369957;45.762645
+16280_0105_00021;21;;Rue de la Charbonnière;16110;16280;Rivières;;;0.353721;45.75132
+16280_0030_00377;377;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.372905;45.781802
+16280_0209_00050_b;50;b;Rue de la Machère;16110;16280;Rivières;;La Croix de l'Orme;0.375008;45.742804
+16280_0060_00155;155;;Rue de la Braconne;16110;16280;Rivières;;;0.3521;45.750722
+16280_b062_00181;181;;Chez Pouret;16110;16280;Rivières;;;0.36687;45.756728
+16280_0081_00016;16;;Rue des Gavareaux;16110;16280;Rivières;;La Maladrie;0.383232;45.74449
+16280_0030_00223;223;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.371001;45.78118
+16280_0270_00085;85;;Route des Vieilles Vaures;16110;16280;Rivières;;;0.352084;45.752655
+16280_0280_00067;67;;Rue des Villars;16110;16280;Rivières;;La Villandière;0.38326;45.759067
+16280_0275_00160;160;;Chemin des Vignes;16110;16280;Rivières;;;0.353959;45.749394
+16280_9j68vj_00329;329;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.341925;45.746996
+16280_0219_00127;127;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.37495;45.782505
+16280_0160_00163;163;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.374909;45.744902
+16280_0211_00310;310;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.381932;45.749232
+16280_0077_00111;111;;Rue de la Garenne;16110;16280;Rivières;;La Villandière;0.380139;45.759396
+16280_0160_00233;233;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.375883;45.744493
+16280_0025_00057;57;;Rue de l'Alambic;16110;16280;Rivières;;Les Houillères;0.371557;45.78179
+16280_0221_00318;318;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.36786;45.761514
+16280_0030_00366;366;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.372796;45.781655
+16280_0100_00040;40;;Impasse Champ de Vidaud;16110;16280;Rivières;;;0.351948;45.751365
+16280_0224_00140;140;;Sentier du Petit Bois;16110;16280;Rivières;;Monthézard;0.371828;45.762265
+16280_0190_00313_b;313;b;Rue du Grand Plantier;16110;16280;Rivières;;;0.352256;45.755118
+16280_0080_00090;90;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.374892;45.756299
+16280_b062_00010;10;;Chez Pouret;16110;16280;Rivières;;;0.367368;45.756273
+16280_0235_00308;308;;Chemin des Rocailles;16110;16280;Rivières;;;0.348363;45.749218
+16280_0077_00018;18;;Rue de la Garenne;16110;16280;Rivières;;La Villandière;0.378914;45.759058
+16280_0228_00051;51;;Route du Pont d'Agris;16110;16280;Rivières;;Lavaud;0.363087;45.768321
+16280_0064_00184;184;;Rue du Champ de l'Amour;16110;16280;Rivières;;Chez Lambert;0.353842;45.764046
+16280_0240_00248;248;;Route de la Rochefoucauld;16110;16280;Rivières;;;0.355345;45.750764
+16280_0190_00264;264;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353483;45.754756
+16280_0209_00050;50;;Rue de la Machère;16110;16280;Rivières;;La Croix de l'Orme;0.375083;45.741982
+16280_0130_00339;339;;Rue de Chez Pichou;16110;16280;Rivières;;;0.354611;45.758561
+16280_0050_00041;41;;Rue du Bourg;16110;16280;Rivières;;;0.36054;45.752907
+16280_b204_00058;58;;Les Hauts du Grand Bois;16110;16280;Rivières;;Monthézard;0.37662;45.761178
+16280_0189_00094;94;;Allée du Grand Bois;16110;16280;Rivières;;Monthézard;0.375261;45.760513
+16280_0062_00160;160;;Rue des Bréjasses;16110;16280;Rivières;;Monthézard;0.376674;45.753793
+16280_0189_00078;78;;Allée du Grand Bois;16110;16280;Rivières;;Monthézard;0.375143;45.760662
+16280_0082_00040;40;;Rue de Limoges;16110;16280;Rivières;;Péruzet;0.388905;45.752052
+16280_0272_00090;90;;Ruelle du Vieux Monthézard;16110;16280;Rivières;;Monthézard;0.372785;45.764473
+16280_0130_00315;315;;Rue de Chez Pichou;16110;16280;Rivières;;;0.354545;45.75843
+16280_0219_00204;204;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.374739;45.783221
+16280_0130_00032;32;;Rue de Chez Pichou;16110;16280;Rivières;;;0.353748;45.755933
+16280_0115_00031;31;;Chemin de Chez Brouelle;16110;16280;Rivières;;;0.353523;45.756314
+16280_0130_00217;217;;Rue de Chez Pichou;16110;16280;Rivières;;;0.354223;45.757554
+16280_0040_00284;284;;Rue de la Borderie;16110;16280;Rivières;;Monthézard;0.374118;45.763738
+16280_0062_00150;150;;Rue des Bréjasses;16110;16280;Rivières;;Monthézard;0.376539;45.753932
+16280_0074_00192;192;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.392987;45.764883
+16280_0030_00521;521;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.374583;45.782191
+16280_0048_00165;165;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.357012;45.743513
+16280_048ef8_00001;1;;Rochillard;16110;16280;Rivières;;;0.359831;45.747972
+16280_0066_00108;108;;Rue des Châtaigniers;16110;16280;Rivières;;Chez La Serre;0.356479;45.744713
+16280_0090_00160;160;;Impasse Champ du Chapitre;16110;16280;Rivières;;;0.362173;45.751179
+16280_0030_00153;153;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.37041;45.780795
+16280_0025_00250;250;;Rue de l'Alambic;16110;16280;Rivières;;Les Houillères;0.372933;45.783161
+16280_0077_00243;243;;Rue de la Garenne;16110;16280;Rivières;;La Villandière;0.381339;45.760107
+16280_b171_00439;439;;Le Puy Lavaud;16110;16280;Rivières;;Le Puy de Lavaud;0.364349;45.779615
+16280_0060_00190;190;;Rue de la Braconne;16110;16280;Rivières;;;0.351635;45.750774
+16280_0219_00186;186;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.374555;45.782949
+16280_b062_00036;36;;Chez Pouret;16110;16280;Rivières;;;0.368114;45.756385
+16280_0115_00020;20;;Chemin de Chez Brouelle;16110;16280;Rivières;;;0.353615;45.756391
+16280_0032_00146;146;;Chemin du Bandiat;16110;16280;Rivières;;Caillère;0.338637;45.753257
+16280_9j68vj_00254;254;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.342686;45.747325
+16280_9j68vj_00100;100;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.343594;45.748514
+16280_0030_00164;164;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.370822;45.780903
+16280_0050_00437;437;;Rue du Bourg;16110;16280;Rivières;;;0.355653;45.752152
+16280_0224_00071;71;;Sentier du Petit Bois;16110;16280;Rivières;;Monthézard;0.371062;45.762029
+16280_0074_00117;117;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.3922;45.764535
+16280_0130_00367;367;;Rue de Chez Pichou;16110;16280;Rivières;;;0.3547;45.758955
+16280_0035_00095;95;;Impasse du Bois de Péruzet;16110;16280;Rivières;;Péruzet;0.388403;45.753216
+16280_0048_00255;255;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.356082;45.742898
+16280_0180_00018;18;;Rue de la Fosse à Muguet;16110;16280;Rivières;;;0.362815;45.750459
+16280_0182_00236;236;;Rue de la Fosse Pacaud;16110;16280;Rivières;;Péruzet;0.387363;45.750279
+16280_0211_00269;269;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.381795;45.749712
+16280_9j68vj_00290;290;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.342339;45.747185
+16280_0216_00066;66;;Rue de la Noisetière;16110;16280;Rivières;;Lavaud;0.361437;45.773241
+16280_0100_00019;19;;Impasse Champ de Vidaud;16110;16280;Rivières;;;0.351896;45.751182
+16280_0266_00113;113;;Rue des Tremieres;16110;16280;Rivières;;La Coutière;0.39262;45.765166
+16280_0030_00436;436;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.373729;45.781859
+16280_0073_00058;58;;Rue des Courades;16110;16280;Rivières;;Chaufourgne;0.346611;45.763039
+16280_0280_00016;16;;Rue des Villars;16110;16280;Rivières;;La Villandière;0.383562;45.758678
+16280_0219_00015;15;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.375941;45.781853
+16280_0130_00317;317;;Rue de Chez Pichou;16110;16280;Rivières;;;0.354132;45.75867
+16280_0216_00020;20;;Rue de la Noisetière;16110;16280;Rivières;;Lavaud;0.360964;45.773271
+16280_0065_00320;320;;Rue de la Charentaise;16110;16280;Rivières;;Monthézard;0.372655;45.762353
+16280_0074_00377;377;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.39473;45.764669
+16280_0027_00193;193;;Rue des Amettes;16110;16280;Rivières;;Le Mainebeau;0.341748;45.746474
+16280_0195_00688;688;;Rue du Gros Roc;16110;16280;Rivières;;;0.342501;45.749499
+16280_0050_00229;229;;Rue du Bourg;16110;16280;Rivières;;;0.358205;45.752296
+16280_0081_00024;24;;Rue des Gavareaux;16110;16280;Rivières;;La Maladrie;0.382795;45.744104
+16280_0190_00121;121;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353094;45.753416
+16280_0195_00225;225;;Rue du Gros Roc;16110;16280;Rivières;;;0.348046;45.750421
+16280_0084_00283;283;;Rue du Champ des Fliers;16110;16280;Rivières;;La Maladrie;0.384118;45.745496
+16280_0090_00011;11;;Impasse Champ du Chapitre;16110;16280;Rivières;;;0.362319;45.751557
+16280_0275_00159;159;;Chemin des Vignes;16110;16280;Rivières;;;0.353901;45.749328
+16280_0079_00064;64;;Rue du Logis de Caillère;16110;16280;Rivières;;Caillère;0.338214;45.752742
+16280_0190_00345;345;;Rue du Grand Plantier;16110;16280;Rivières;;;0.35346;45.755435
+16280_0066_00049;49;;Rue des Châtaigniers;16110;16280;Rivières;;Chez La Serre;0.35668;45.744284
+16280_0077_00050;50;;Rue de la Garenne;16110;16280;Rivières;;La Villandière;0.379298;45.759132
+16280_0240_00054;54;;Route de la Rochefoucauld;16110;16280;Rivières;;;0.353281;45.751828
+16280_0040_00176;176;;Rue de la Borderie;16110;16280;Rivières;;Monthézard;0.373754;45.762808
+16280_0190_00216;216;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353401;45.754337
+16280_0069_00195;195;;Rue de la Clide;16110;16280;Rivières;;Caillère;0.340264;45.753066
+16280_0048_00195;195;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.356571;45.74332
+16280_0177_00008;8;;Allée des Fonds de Bellone;16110;16280;Rivières;;Les Houillères;0.377025;45.782854
+16280_0074_00490;490;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.394792;45.763774
+16280_0272_00040;40;;Ruelle du Vieux Monthézard;16110;16280;Rivières;;Monthézard;0.372725;45.76387
+16280_0066_00044;44;;Rue des Châtaigniers;16110;16280;Rivières;;Chez La Serre;0.356974;45.74445
+16280_0240_00243;243;;Route de la Rochefoucauld;16110;16280;Rivières;;;0.355326;45.750902
+16280_0228_00587;587;;Route du Pont d'Agris;16110;16280;Rivières;;Lavaud;0.35931;45.772272
+16280_0190_00271;271;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353327;45.754721
+16280_0140_00074;74;;Rue de Chez Salot;16110;16280;Rivières;;;0.353364;45.752308
+16280_0211_00339;339;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.382316;45.749105
+16280_a350_00001;1;;ZA de Péruzet;16110;16280;Rivières;;;0.392289;45.757841
+16280_0073_00057;57;;Rue des Courades;16110;16280;Rivières;;Chaufourgne;0.346996;45.763223
+16280_0176_00178;178;;Rue des Fonds de Bellone;16110;16280;Rivières;;Les Houillères;0.377625;45.78278
+16280_0240_00131;131;;Route de la Rochefoucauld;16110;16280;Rivières;;;0.354093;45.751389
+16280_0227_00066;66;;Rue des Pinonnes;16110;16280;Rivières;;Chaufourgne;0.346234;45.76339
+16280_0035_00110;110;;Impasse du Bois de Péruzet;16110;16280;Rivières;;Péruzet;0.38848;45.753558
+16280_e9590a_00305;305;;les Sablons;16110;16280;Rivières;;Les Sablons;0.348012;45.758578
+16280_0263_00225;225;;Rue de la Terre de Lavaud;16110;16280;Rivières;;Lavaud;0.361468;45.773708
+16280_9j68vj_00231;231;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.343533;45.747208
+16280_0272_00110;110;;Ruelle du Vieux Monthézard;16110;16280;Rivières;;Monthézard;0.37279;45.764631
+16280_0072_00178;178;;Chemin de Corbesain;16110;16280;Rivières;;Les Houillères;0.368596;45.780509
+16280_9j68vj_00026;26;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.343759;45.749148
+16280_0195_00640;640;;Rue du Gros Roc;16110;16280;Rivières;;;0.34313;45.749414
+16280_0030_00560;560;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.375102;45.782256
+16280_0025_00212;212;;Rue de l'Alambic;16110;16280;Rivières;;Les Houillères;0.372549;45.782786
+16280_0065_00380;380;;Rue de la Charentaise;16110;16280;Rivières;;Monthézard;0.372389;45.762842
+16280_0190_00097;97;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353069;45.753257
+16280_0190_00313_c;313;c;Rue du Grand Plantier;16110;16280;Rivières;;;0.352129;45.755059
+16280_0221_00172;172;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.366596;45.760751
+16280_0280_00075;75;;Rue des Villars;16110;16280;Rivières;;La Villandière;0.38318;45.759179
+16280_0082_00024;24;;Rue de Limoges;16110;16280;Rivières;;Péruzet;0.387098;45.74951
+16280_0160_00056;56;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.373623;45.745322
+16280_0229_00125;125;;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.361249;45.772395
+16280_0050_00115;115;;Rue du Bourg;16110;16280;Rivières;;;0.359629;45.752622
+16280_0211_00584;584;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.383266;45.746993
+16280_0229_00151;151;;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.361555;45.772486
+16280_0219_00042;42;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.37579;45.782093
+16280_0190_00174;174;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353356;45.753967
+16280_0240_00062;62;;Route de la Rochefoucauld;16110;16280;Rivières;;;0.353397;45.751734
+16280_0160_00335;335;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.376883;45.74418
+16280_0176_00036;36;;Rue des Fonds de Bellone;16110;16280;Rivières;;Les Houillères;0.376065;45.782268
+16280_9j68vj_00491;491;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.340056;45.746436
+16280_0190_00052;52;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353158;45.752871
+16280_0068_00334;334;;Rue du Château de la Ménardière;16110;16280;Rivières;;Lavaud;0.367726;45.773723
+16280_0035_00132;132;;Impasse du Bois de Péruzet;16110;16280;Rivières;;Péruzet;0.388261;45.753629
+16280_0160_00158;158;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.373477;45.744107
+16280_0105_00002;2;;Rue de la Charbonnière;16110;16280;Rivières;;;0.353622;45.751447
+16280_0221_00088;88;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.365624;45.760172
+16280_0035_00190;190;;Impasse du Bois de Péruzet;16110;16280;Rivières;;Péruzet;0.38797;45.754005
+16280_0190_00313_e;313;e;Rue du Grand Plantier;16110;16280;Rivières;;;0.351827;45.754937
+16280_0095_00170;170;;Rue du Champ des Pommiers;16110;16280;Rivières;;;0.351093;45.75053
+16280_0105_00150;150;;Rue de la Charbonnière;16110;16280;Rivières;;;0.353106;45.750169
+16280_0048_00129;129;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.357019;45.743732
+16280_0229_00120;120;;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.361163;45.772282
+16280_0077_00179;179;;Rue de la Garenne;16110;16280;Rivières;;La Villandière;0.380784;45.759585
+16280_0050_00394_c;394;c;Rue du Bourg;16110;16280;Rivières;;;0.355922;45.753126
+16280_0080_00098;98;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.375753;45.75669
+16280_0160_00330;330;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.376659;45.744115
+16280_0182_00121;121;;Rue de la Fosse Pacaud;16110;16280;Rivières;;Péruzet;0.386528;45.751313
+16280_0066_00204;204;;Rue des Châtaigniers;16110;16280;Rivières;;Chez La Serre;0.356116;45.74565
+16280_0050_00165;165;;Rue du Bourg;16110;16280;Rivières;;;0.359001;45.752476
+16280_0263_00133;133;;Rue de la Terre de Lavaud;16110;16280;Rivières;;Lavaud;0.360261;45.773529
+16280_0160_00164;164;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.374799;45.744757
+16280_0240_00130;130;;Route de la Rochefoucauld;16110;16280;Rivières;;;0.353979;45.751274
+16280_0227_00068;68;;Rue des Pinonnes;16110;16280;Rivières;;Chaufourgne;0.345529;45.763199
+16280_0177_00124;124;;Allée des Fonds de Bellone;16110;16280;Rivières;;Les Houillères;0.376056;45.783338
+16280_0190_00194;194;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353372;45.754119
+16280_0200_00099;99;;Rue de la Haute Bouège;16110;16280;Rivières;;;0.355304;45.757562
+16280_0207_00083;83;;Impasse de la Ramisse;16110;16280;Rivières;;La Croix de l'Orme;0.377075;45.744751
+16280_0065_00162;162;;Rue de la Charentaise;16110;16280;Rivières;;Monthézard;0.37342;45.761068
+16280_0050_00101;101;;Rue du Bourg;16110;16280;Rivières;;;0.359852;45.752693
+16280_0048_00125;125;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.357306;45.743719
+16280_0048_00290;290;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.355681;45.742816
+16280_0073_00014;14;;Rue des Courades;16110;16280;Rivières;;Chaufourgne;0.347005;45.763614
+16280_0190_00036;36;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353122;45.752682
+16280_0083_00275;275;;Rue des Flots;16110;16280;Rivières;;La Maladrie;0.380523;45.748841
+16280_0084_00050;50;;Rue du Champ des Fliers;16110;16280;Rivières;;La Maladrie;0.381602;45.746347
+16280_0048_00012;12;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.357869;45.744699
+16280_0072_00047;47;;Chemin de Corbesain;16110;16280;Rivières;;Les Houillères;0.369265;45.779501
+16280_0160_00150;150;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.374657;45.744849
+16280_0219_00172;172;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.374676;45.782862
+16280_0200_00242;242;;Rue de la Haute Bouège;16110;16280;Rivières;;;0.356309;45.756714
+16280_0105_00238;238;;Rue de la Charbonnière;16110;16280;Rivières;;;0.352699;45.749504
+16280_0076_00173;173;;Rue des Fours à Pain;16110;16280;Rivières;;La Villandière;0.383559;45.758517
+16280_0229_00099;99;;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.361003;45.77228
+16280_0076_00051;51;;Rue des Fours à Pain;16110;16280;Rivières;;La Villandière;0.382221;45.758684
+16280_0078_00042;42;;Impasse des Grands Forts;16110;16280;Rivières;;Le Mainebeau;0.341691;45.747267
+16280_0190_00313_j;313;j;Rue du Grand Plantier;16110;16280;Rivières;;;0.35228;45.755846
+16280_0160_00210;210;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.37533;45.744597
+16280_0219_00233;233;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.374168;45.783237
+16280_0215_00270;270;;Route de la Marie Jeanne;16110;16280;Rivières;;La Croix de l'Orme;0.370444;45.742653
+16280_0117_00045;45;;Impasse de Chez la Serre;16110;16280;Rivières;;Chez La Serre;0.356051;45.743627
+16280_0195_00765;765;;Rue du Gros Roc;16110;16280;Rivières;;;0.341511;45.749544
+16280_b171_00035;35;;Le Puy Lavaud;16110;16280;Rivières;;Le Puy de Lavaud;0.365465;45.776615
+16280_0267_00181;181;;Impasse de la Tuilerie;16110;16280;Rivières;;La Coutière;0.395144;45.761029
+16280_0067_00070;70;;Rue de Chez Merlet;16110;16280;Rivières;;Monthézard;0.36556;45.758965
+16280_0195_00505;505;;Rue du Gros Roc;16110;16280;Rivières;;;0.344815;45.749435
+16280_0082_00026;26;;Rue de Limoges;16110;16280;Rivières;;Péruzet;0.387135;45.749661
+16280_0195_00530;530;;Rue du Gros Roc;16110;16280;Rivières;;;0.344483;45.749504
+16280_0221_00355;355;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.368181;45.761753
+16280_0105_00360;360;;Rue de la Charbonnière;16110;16280;Rivières;;;0.35217;45.74851
+16280_0266_00090;90;;Rue des Tremieres;16110;16280;Rivières;;La Coutière;0.392877;45.764928
+16280_9j68vj_00434;434;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.3408;45.746558
+16280_0266_00103;103;;Rue des Tremieres;16110;16280;Rivières;;La Coutière;0.392641;45.765032
+16280_0030_00394;394;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.373191;45.781751
+16280_0035_00131;131;;Impasse du Bois de Péruzet;16110;16280;Rivières;;Péruzet;0.388205;45.753594
+16280_2pgsj2_00002;2;;Ribérolles;16110;16280;Rivières;;;0.357654;45.759487
+16280_0064_00057;57;;Rue du Champ de l'Amour;16110;16280;Rivières;;Chez Lambert;0.35307;45.763303
+16280_0074_00217;217;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.393154;45.765097
+16280_0074_00401;401;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.394789;45.764485
+16280_0074_00050;50;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.391433;45.764174
+16280_0050_00476;476;;Rue du Bourg;16110;16280;Rivières;;;0.355069;45.752275
+16280_0032_00256;256;;Chemin du Bandiat;16110;16280;Rivières;;Caillère;0.337201;45.75269
+16280_0273_00138;138;;Rue du Vieux Pigeonnier;16110;16280;Rivières;;La Villandière;0.381475;45.758382
+16280_0048_00127;127;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.357611;45.743472
+16280_0180_00048;48;;Rue de la Fosse à Muguet;16110;16280;Rivières;;;0.36269;45.750353
+16280_0040_00243;243;;Rue de la Borderie;16110;16280;Rivières;;Monthézard;0.373851;45.763409
+16280_0040_00050;50;;Rue de la Borderie;16110;16280;Rivières;;Monthézard;0.373437;45.761661
+16280_0190_00233;233;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353276;45.754458
+16280_0083_00733;733;;Rue des Flots;16110;16280;Rivières;;La Maladrie;0.381126;45.744803
+16280_0076_00191;191;;Rue des Fours à Pain;16110;16280;Rivières;;La Villandière;0.383478;45.758355
+16280_0195_00029;29;;Rue du Gros Roc;16110;16280;Rivières;;;0.350465;45.7507
+16280_0211_00111;111;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.380753;45.750791
+16280_0190_00125_c;125;c;Rue du Grand Plantier;16110;16280;Rivières;;;0.351338;45.754023
+16280_0078_00040;40;;Impasse des Grands Forts;16110;16280;Rivières;;Le Mainebeau;0.341654;45.747373
+16280_0025_00241;241;;Rue de l'Alambic;16110;16280;Rivières;;Les Houillères;0.372772;45.783153
+16280_0217_00103;103;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.370626;45.763002
+16280_0035_00097;97;;Impasse du Bois de Péruzet;16110;16280;Rivières;;Péruzet;0.388569;45.753273
+16280_0078_00060;60;;Impasse des Grands Forts;16110;16280;Rivières;;Le Mainebeau;0.341615;45.74753
+16280_0040_00032;32;;Rue de la Borderie;16110;16280;Rivières;;Monthézard;0.374136;45.761482
+16280_0082_00010;10;;Rue de Limoges;16110;16280;Rivières;;La Maladrie;0.384919;45.746506
+16280_0160_00302;302;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.376103;45.744279
+16280_0228_00560;560;;Route du Pont d'Agris;16110;16280;Rivières;;Lavaud;0.359696;45.772131
+16280_0273_00092;92;;Rue du Vieux Pigeonnier;16110;16280;Rivières;;La Villandière;0.381296;45.758745
+16280_0064_00046;46;;Rue du Champ de l'Amour;16110;16280;Rivières;;Chez Lambert;0.353092;45.763228
+16280_0065_00400;400;;Rue de la Charentaise;16110;16280;Rivières;;Monthézard;0.372318;45.762972
+16280_0240_00281;281;;Route de la Rochefoucauld;16110;16280;Rivières;;;0.355784;45.750724
+16280_0240_00111;111;;Route de la Rochefoucauld;16110;16280;Rivières;;;0.353839;45.751502
+16280_0180_00212;212;;Rue de la Fosse à Muguet;16110;16280;Rivières;;;0.361042;45.749497
+16280_0027_00008;8;;Rue des Amettes;16110;16280;Rivières;;Le Mainebeau;0.34432;45.746501
+16280_9j68vj_00111;111;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.343719;45.748399
+16280_0084_00222;222;;Rue du Champ des Fliers;16110;16280;Rivières;;La Maladrie;0.383076;45.745467
+16280_0050_00394_a;394;a;Rue du Bourg;16110;16280;Rivières;;;0.355946;45.752411
+16280_0105_00077;77;;Rue de la Charbonnière;16110;16280;Rivières;;;0.353599;45.750802
+16280_0048_00064;64;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.357551;45.744283
+16280_0110_00082;82;;Route de Chaufourgne;16110;16280;Rivières;;;0.354206;45.75982
+16280_0077_00134;134;;Rue de la Garenne;16110;16280;Rivières;;La Villandière;0.380294;45.759316
+16280_0229_00130_a;130;a;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.361455;45.772294
+16280_0050_00394_d;394;d;Rue du Bourg;16110;16280;Rivières;;;0.356224;45.752723
+16280_0084_00106;106;;Rue du Champ des Fliers;16110;16280;Rivières;;La Maladrie;0.38224;45.746188
+16280_0050_00507;507;;Rue du Bourg;16110;16280;Rivières;;;0.354627;45.752145
+16280_0071_00041;41;;Passage du Cloutier;16110;16280;Rivières;;Caillère;0.339725;45.753109
+16280_0229_00040;40;;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.360463;45.771855
+16280_e9590a_00165;165;;les Sablons;16110;16280;Rivières;;Les Sablons;0.349889;45.759422
+16280_0082_00034;34;;Rue de Limoges;16110;16280;Rivières;;Péruzet;0.38871;45.751756
+16280_0189_00060;60;;Allée du Grand Bois;16110;16280;Rivières;;Monthézard;0.375217;45.760714
+16280_0263_00047;47;;Rue de la Terre de Lavaud;16110;16280;Rivières;;Lavaud;0.359421;45.772929
+16280_0083_00865;865;;Rue des Flots;16110;16280;Rivières;;La Maladrie;0.381814;45.743856
+16280_9j68vj_00072;72;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.343681;45.748746
+16280_0082_00008;8;;Rue de Limoges;16110;16280;Rivières;;La Maladrie;0.384666;45.746195
+16280_0160_00140;140;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.373787;45.745179
+16280_0060_00018;18;;Rue de la Braconne;16110;16280;Rivières;;;0.353265;45.751594
+16280_0228_00444;444;;Route du Pont d'Agris;16110;16280;Rivières;;Lavaud;0.360383;45.77126
+16280_0117_00042;42;;Impasse de Chez la Serre;16110;16280;Rivières;;Chez La Serre;0.35605;45.743785
+16280_0273_00076;76;;Rue du Vieux Pigeonnier;16110;16280;Rivières;;La Villandière;0.381231;45.758896
+16280_0045_00008;8;;Chemin de la Borne;16110;16280;Rivières;;Les Houillères;0.378484;45.783272
+16280_0076_00270;270;;Rue des Fours à Pain;16110;16280;Rivières;;La Villandière;0.38262;45.758014
+16280_0082_00028;28;;Rue de Limoges;16110;16280;Rivières;;Péruzet;0.387173;45.749799
+16280_0050_00428;428;;Rue du Bourg;16110;16280;Rivières;;;0.35562;45.752262
+16280_0032_00043;43;;Chemin du Bandiat;16110;16280;Rivières;;Caillère;0.339669;45.753365
+16280_0082_00022;22;;Rue de Limoges;16110;16280;Rivières;;Péruzet;0.385852;45.747877
+16280_0160_00332;332;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.376812;45.744093
+16280_0215_00290;290;;Route de la Marie Jeanne;16110;16280;Rivières;;La Croix de l'Orme;0.370373;45.742297
+16280_0170_00011;11;;Rue de l'École;16110;16280;Rivières;;;0.36125;45.752769
+16280_0207_00460;460;;Impasse de la Ramisse;16110;16280;Rivières;;La Croix de l'Orme;0.374937;45.747723
+16280_0180_00259;259;;Rue de la Fosse à Muguet;16110;16280;Rivières;;;0.361728;45.748904
+16280_0047_00073;73;;Rue de la Bouffargne;16110;16280;Rivières;;Chez Lambert;0.351777;45.763453
+16280_0064_00223;223;;Rue du Champ de l'Amour;16110;16280;Rivières;;Chez Lambert;0.353747;45.764389
+16280_0066_00260;260;;Rue des Châtaigniers;16110;16280;Rivières;;Chez La Serre;0.355971;45.746104
+16280_0190_00125_d;125;d;Rue du Grand Plantier;16110;16280;Rivières;;;0.351888;45.75386
+16280_0221_00390;390;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.368617;45.761901
+16280_0030_00301;301;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.371927;45.781562
+16280_0190_00039;39;;Rue du Grand Plantier;16110;16280;Rivières;;;0.35286;45.75274
+16280_0211_00553;553;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.383352;45.747334
+16280_0160_00160_a;160;a;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.373106;45.744235
+16280_0175_00077;77;;Allée de l'Église;16110;16280;Rivières;;;0.36146;45.753131
+16280_0077_00291;291;;Rue de la Garenne;16110;16280;Rivières;;La Villandière;0.381682;45.760478
+16280_0090_00022;22;;Impasse Champ du Chapitre;16110;16280;Rivières;;;0.362012;45.751649
+16280_0075_00235;235;;Rue de la Déesse Damona;16110;16280;Rivières;;Lavaud;0.362602;45.771722
+16280_0027_00060;60;;Rue des Amettes;16110;16280;Rivières;;Le Mainebeau;0.343685;45.746561
+16280_0081_00008;8;;Rue des Gavareaux;16110;16280;Rivières;;La Maladrie;0.383626;45.744881
+16280_0040_00360;360;;Rue de la Borderie;16110;16280;Rivières;;Monthézard;0.374284;45.76439
+16280_0048_00075;75;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.35751;45.744158
+16280_0060_00095;95;;Rue de la Braconne;16110;16280;Rivières;;;0.352727;45.751126
+16280_0150_00099;99;;Chemin du Clos Redon;16110;16280;Rivières;;;0.356109;45.758904
+16280_0247_00062;62;;Allée des Sept Liasses;16110;16280;Rivières;;Chez La Serre;0.355713;45.744712
+16280_0090_00122;122;;Impasse Champ du Chapitre;16110;16280;Rivières;;;0.361818;45.751253
+16280_0048_00348;348;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.355074;45.742523
+16280_0081_00006;6;;Rue des Gavareaux;16110;16280;Rivières;;La Maladrie;0.383772;45.745012
+16280_0200_00125;125;;Rue de la Haute Bouège;16110;16280;Rivières;;;0.355513;45.757318
+16280_0219_00338;338;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.373012;45.783667
+16280_0105_00109;109;;Rue de la Charbonnière;16110;16280;Rivières;;;0.353474;45.750471
+16280_0048_00123;123;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.357388;45.7438
+16280_0180_00183;183;;Rue de la Fosse à Muguet;16110;16280;Rivières;;;0.361331;45.749653
+16280_0027_00095;95;;Rue des Amettes;16110;16280;Rivières;;Le Mainebeau;0.343241;45.746529
+16280_z2zdha_00001_b;1;b;Logis de Caillère;16110;16280;Rivières;;Logis de Caillère;0.337651;45.750769
+16280_0190_00313;313;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353416;45.755192
+16280_0192_00028;28;;Chemin de la Grave;16110;16280;Rivières;;Monthézard;0.376026;45.754177
+16280_0050_00254;254;;Rue du Bourg;16110;16280;Rivières;;;0.357799;45.752312
+16280_0217_00184;184;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.371584;45.763245
+16280_0072_00160;160;;Chemin de Corbesain;16110;16280;Rivières;;Les Houillères;0.368649;45.780353
+16280_0182_00218;218;;Rue de la Fosse Pacaud;16110;16280;Rivières;;Péruzet;0.38718;45.750417
+16280_0080_00789;789;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.370005;45.761669
+16280_0180_00257;257;;Rue de la Fosse à Muguet;16110;16280;Rivières;;;0.361882;45.749095
+16280_0081_00012;12;;Rue des Gavareaux;16110;16280;Rivières;;La Maladrie;0.383401;45.744649
+16280_0075_00288;288;;Rue de la Déesse Damona;16110;16280;Rivières;;Lavaud;0.362998;45.772032
+16280_0050_00501;501;;Rue du Bourg;16110;16280;Rivières;;;0.354765;45.752151
+16280_0080_00823;823;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.369863;45.761926
+16280_0048_00181;181;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.356706;45.743421
+16280_0224_00015;15;;Sentier du Petit Bois;16110;16280;Rivières;;Monthézard;0.370421;45.761792
+16280_0176_00114;114;;Rue des Fonds de Bellone;16110;16280;Rivières;;Les Houillères;0.376846;45.782633
+16280_0190_00240;240;;Rue du Grand Plantier;16110;16280;Rivières;;;0.353452;45.754519
+16280_0273_00020;20;;Rue du Vieux Pigeonnier;16110;16280;Rivières;;La Villandière;0.380992;45.759345
+16280_0180_00242;242;;Rue de la Fosse à Muguet;16110;16280;Rivières;;;0.360968;45.749334
+16280_0064_00315;315;;Rue du Champ de l'Amour;16110;16280;Rivières;;Chez Lambert;0.35284;45.764556
+16280_0105_00330;330;;Rue de la Charbonnière;16110;16280;Rivières;;;0.351621;45.748973
+16280_0034_00061;61;;Rue du Bois de Gendarme;16110;16280;Rivières;;La Coutière;0.393776;45.764369
+16280_0224_00064;64;;Sentier du Petit Bois;16110;16280;Rivières;;Monthézard;0.371053;45.761928
+16280_0228_00244;244;;Route du Pont d'Agris;16110;16280;Rivières;;Lavaud;0.361619;45.769686
+16280_0130_00266;266;;Rue de Chez Pichou;16110;16280;Rivières;;;0.354543;45.758035
+16280_0040_00185;185;;Rue de la Borderie;16110;16280;Rivières;;Monthézard;0.373632;45.762911
+16280_0180_00225;225;;Rue de la Fosse à Muguet;16110;16280;Rivières;;;0.36105;45.749252
+16280_0095_00041;41;;Rue du Champ des Pommiers;16110;16280;Rivières;;;0.352341;45.749945
+16280_0077_00276;276;;Rue de la Garenne;16110;16280;Rivières;;La Villandière;0.38171;45.760272
+16280_0130_00204;204;;Rue de Chez Pichou;16110;16280;Rivières;;;0.354347;45.757455
+16280_0200_00191;191;;Rue de la Haute Bouège;16110;16280;Rivières;;;0.356136;45.75684
+16280_0221_00430;430;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.368928;45.762093
+16280_0030_00318;318;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.372316;45.781557
+16280_0090_00098;98;;Impasse Champ du Chapitre;16110;16280;Rivières;;;0.361476;45.751169
+16280_0245_00013;13;;Route de Saint-Projet;16110;16280;Rivières;;La Croix de l'Orme;0.376364;45.742107
+16280_0228_00471;471;;Route du Pont d'Agris;16110;16280;Rivières;;Lavaud;0.360074;45.77136
+16280_0130_00364;364;;Rue de Chez Pichou;16110;16280;Rivières;;;0.354872;45.758881
+16280_0195_00630;630;;Rue du Gros Roc;16110;16280;Rivières;;;0.343335;45.749407
+16280_0030_00343;343;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.372402;45.781709
+16280_0074_00006;6;;Rue de la Croix de la Brunette;16110;16280;Rivières;;La Coutière;0.391016;45.764003
+16280_0247_00023;23;;Allée des Sept Liasses;16110;16280;Rivières;;Chez La Serre;0.356161;45.744518
+16280_0160_00156;156;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.373599;45.744011
+16280_0120_00207;207;;Rue de Chez Liot;16110;16280;Rivières;;;0.363098;45.751097
+16280_0080_00737;737;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.369792;45.76097
+16280_0219_00288;288;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.373379;45.783629
+16280_0211_00713;713;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.383984;45.746135
+16280_0050_00528;528;;Rue du Bourg;16110;16280;Rivières;;;0.354521;45.752227
+16280_0032_00310;310;;Chemin du Bandiat;16110;16280;Rivières;;Caillère;0.336703;45.752764
+16280_0211_00289;289;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.382069;45.749409
+16280_9j68vj_00360;360;;Rue du Maine Beau;16110;16280;Rivières;;Le Mainebeau;0.341537;45.746905
+16280_0211_00250;250;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.381447;45.749667
+16280_0217_00197;197;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.371688;45.763433
+16280_0077_00124;124;;Rue de la Garenne;16110;16280;Rivières;;La Villandière;0.379957;45.759261
+16280_0081_00014;14;;Rue des Gavareaux;16110;16280;Rivières;;La Maladrie;0.383321;45.744568
+16280_0105_00328;328;;Rue de la Charbonnière;16110;16280;Rivières;;;0.351703;45.748982
+16280_0076_00052;52;;Rue des Fours à Pain;16110;16280;Rivières;;La Villandière;0.382277;45.758623
+16280_0045_00050;50;;Chemin de la Borne;16110;16280;Rivières;;Les Houillères;0.378816;45.782983
+16280_0040_00336;336;;Rue de la Borderie;16110;16280;Rivières;;Monthézard;0.374237;45.764193
+16280_a350_00002;2;;ZA de Péruzet;16110;16280;Rivières;;;0.392039;45.757479
+16280_0050_00349;349;;Rue du Bourg;16110;16280;Rivières;;;0.35676;45.75216
+16280_0095_00165;165;;Rue du Champ des Pommiers;16110;16280;Rivières;;;0.351077;45.750472
+16280_0070_00056;56;;Chemin du Clos;16110;16280;Rivières;;Monthézard;0.371989;45.764431
+16280_0030_00132;132;;Rue de l'Ancienne Ecole;16110;16280;Rivières;;Les Houillères;0.370354;45.780588
+16280_0130_00300;300;;Rue de Chez Pichou;16110;16280;Rivières;;;0.354657;45.758295
+16280_b171_00074;74;;Le Puy Lavaud;16110;16280;Rivières;;Le Puy de Lavaud;0.365152;45.776647
+16280_0080_00165;165;;Route de Mansle;16110;16280;Rivières;;Monthézard;0.374224;45.756758
+16280_0076_00093;93;;Rue des Fours à Pain;16110;16280;Rivières;;;0.382787;45.758654
+16280_0025_00191;191;;Rue de l'Alambic;16110;16280;Rivières;;Les Houillères;0.371907;45.782169
+16280_0200_00064;64;;Rue de la Haute Bouège;16110;16280;Rivières;;;0.354939;45.757862
+16280_0219_00059;59;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.375547;45.782169
+16280_0208_00010;10;;Impasse du Logis de Peruzet;16110;16280;Rivières;;Péruzet;0.389129;45.752512
+16280_0213_00051;51;;Rue du Maziller;16110;16280;Rivières;;Chaufourgne;0.346711;45.762899
+16280_0266_00091;91;;Rue des Tremieres;16110;16280;Rivières;;La Coutière;0.392735;45.764914
+16280_0130_00397;397;;Rue de Chez Pichou;16110;16280;Rivières;;;0.354842;45.759159
+16280_0048_00233;233;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.356245;45.742977
+16280_0275_00061;61;;Chemin des Vignes;16110;16280;Rivières;;;0.354876;45.748742
+16280_0221_00429;429;;Rue des Palisses de Mazat;16110;16280;Rivières;;Monthézard;0.368898;45.762165
+16280_0068_00186;186;;Rue du Château de la Ménardière;16110;16280;Rivières;;Lavaud;0.368961;45.772621
+16280_0235_00330;330;;Chemin des Rocailles;16110;16280;Rivières;;;0.348691;45.749189
+16280_0050_00394;394;;Rue du Bourg;16110;16280;Rivières;;;0.356129;45.752258
+16280_b008_00001;1;;Le Bois du Châtelard;16110;16280;Rivières;;;0.340371;45.766682
+16280_0190_00313_f;313;f;Rue du Grand Plantier;16110;16280;Rivières;;;0.351898;45.755076
+16280_0250_00025;25;;Rue du Stade;16110;16280;Rivières;;;0.359914;45.754816
+16280_0229_00504;504;;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.365862;45.773295
+16280_0105_00315;315;;Rue de la Charbonnière;16110;16280;Rivières;;;0.352458;45.748841
+16280_0195_00250;250;;Rue du Gros Roc;16110;16280;Rivières;;;0.347622;45.750376
+16280_0160_00263;263;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.37621;45.744397
+16280_0211_00008;8;;Rue de la Maladrie;16110;16280;Rivières;;La Maladrie;0.379626;45.751327
+16280_0077_00271;271;;Rue de la Garenne;16110;16280;Rivières;;La Villandière;0.381501;45.76028
+16280_0195_00475;475;;Rue du Gros Roc;16110;16280;Rivières;;;0.345979;45.749075
+16280_0228_00019;19;;Route du Pont d'Agris;16110;16280;Rivières;;Lavaud;0.363391;45.768106
+16280_0068_00295;295;;Rue du Château de la Ménardière;16110;16280;Rivières;;Lavaud;0.367991;45.773321
+16280_0190_00125_b;125;b;Rue du Grand Plantier;16110;16280;Rivières;;;0.350905;45.753934
+16280_0081_00032;32;;Rue des Gavareaux;16110;16280;Rivières;;La Maladrie;0.382457;45.743685
+16280_0130_00346;346;;Rue de Chez Pichou;16110;16280;Rivières;;;0.354719;45.758659
+16280_0280_00088;88;;Rue des Villars;16110;16280;Rivières;;La Villandière;0.383226;45.759324
+16280_0082_00038;38;;Rue de Limoges;16110;16280;Rivières;;Péruzet;0.388808;45.751952
+16280_0071_00010;10;;Passage du Cloutier;16110;16280;Rivières;;Caillère;0.339903;45.75315
+16280_0048_00324;324;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.355327;45.742648
+16280_0040_00255;255;;Rue de la Borderie;16110;16280;Rivières;;Monthézard;0.373714;45.763675
+16280_0160_00306;306;;Route de la Duchesse;16110;16280;Rivières;;La Croix de l'Orme;0.37605;45.743957
+16280_0048_00163;163;;Rue des Bouquets;16110;16280;Rivières;;Chez La Serre;0.356864;45.743583
+16280_0100_00067;67;;Impasse Champ de Vidaud;16110;16280;Rivières;;;0.35155;45.751464
+16280_b204_00096;96;;Les Hauts du Grand Bois;16110;16280;Rivières;;Monthézard;0.376269;45.761072
+16280_0067_00079;79;;Rue de Chez Merlet;16110;16280;Rivières;;Monthézard;0.365398;45.758998
+16280_0263_00159;159;;Rue de la Terre de Lavaud;16110;16280;Rivières;;Lavaud;0.360707;45.773422
+16280_0229_00560;560;;Rue de la Pouyade;16110;16280;Rivières;;Lavaud;0.366456;45.77352
+16280_0217_00081;81;;Rue de Monthézard;16110;16280;Rivières;;Monthézard;0.370447;45.762919
+16280_0040_00131;131;;Rue de la Borderie;16110;16280;Rivières;;Monthézard;0.373552;45.762484
+16280_0219_00430;430;;Rue des Oulières;16110;16280;Rivières;;Les Houillères;0.372128;45.784104
+16280_0263_00137;137;;Rue de la Terre de Lavaud;16110;16280;Rivières;;Lavaud;0.360491;45.77368
+16280_0140_00059;59;;Rue de Chez Salot;16110;16280;Rivières;;;0.353604;45.7522

@@ -1,0 +1,914 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+12131_0567_00574;574;;Rue des Touroulis;12740;12131;La Loubière;;Ortholes;2.632773;44.386658
+12131_0050_00545;545;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.643448;44.410989
+12131_yz3m00_00044;44;;Impasse des Combettes;12740;12131;La Loubière;;Lioujas;2.633275;44.408814
+12131_0571_00090;90;;Rue du Poujet;12740;12131;La Loubière;;Campeyroux;2.659517;44.403484
+12131_0034_00030;30;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.637869;44.407453
+12131_smgu4b_00200;200;;impasse de Solilève;12740;12131;La Loubière;;Lioujas;2.640566;44.400533
+12131_0036_00412;412;;Chemin de Cayssac;12740;12131;La Loubière;;Campeyroux;2.661251;44.400997
+12131_0456_00001;1;;Impasse du Tioulas;12740;12131;La Loubière;;Lioujas;2.636121;44.407857
+12131_0536_00001;1;;Impasse des Noisetiers;12740;12131;La Loubière;;Lioujas;2.641211;44.406554
+12131_i5rdvo_00004;4;;Place de la Liberte;12740;12131;La Loubière;;Lioujas;2.63026;44.406471
+12131_0548_02818;2818;;Route de Gages;12740;12131;La Loubière;;Bedelle;2.67581;44.390435
+12131_0380_00007;7;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.634853;44.401519
+12131_0531_00089;89;;Impasse des Aumets;12740;12131;La Loubière;;Ortholes;2.637694;44.387024
+12131_pdp94z_00256;256;;Impasse du Pré Vert;12740;12131;La Loubière;;Campeyroux;2.656556;44.404743
+12131_0566_00019;19;;Rue des Marronniers;12740;12131;La Loubière;;Ortholes;2.63139;44.388251
+12131_0552_00703;703;;Route des Chenes;12740;12131;La Loubière;;Canabols;2.650153;44.380104
+12131_0115_00002;2;;Rue des Garennes;12740;12131;La Loubière;;Lioujas;2.637936;44.409151
+12131_0380_00019;19;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.633246;44.401418
+12131_0005_00019;19;;Rue des Abbesses;12740;12131;La Loubière;;Lioujas;2.6311;44.402607
+12131_0014_00228;228;;Rue des Baissassous;12740;12131;La Loubière;;Campeyroux;2.658469;44.403965
+12131_0567_00691;691;;Rue des Touroulis;12740;12131;La Loubière;;Ortholes;2.634161;44.386319
+12131_0029_00255;255;;Route de Campeyroux;12740;12131;La Loubière;;Campeyroux;2.650682;44.404425
+12131_0480_00009;9;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.630207;44.405567
+12131_0050_00499;499;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.643029;44.411353
+12131_0557_00043;43;;Ruelle du Berger;12740;12131;La Loubière;;Ortholes;2.633513;44.387216
+12131_0535_00048;48;;Impasse des Louves;12740;12131;La Loubière;;La Loubiere;2.665847;44.370524
+12131_0521_00165;165;;Impasse de Famejane;12740;12131;La Loubière;;Famejane;2.686125;44.37916
+12131_0559_00010;10;;Rue de l’Esperance;12740;12131;La Loubière;;Canabols;2.651711;44.377607
+12131_pdp94z_00008;8;;Impasse du Pré Vert;12740;12131;La Loubière;;Campeyroux;2.655684;44.405421
+12131_0554_01934;1934;;Route des Naucelats;12740;12131;La Loubière;;Les Cousteilles;2.659845;44.368296
+12131_0534_00005;5;;Impasse des Genevriers;12740;12131;La Loubière;;Lioujas;2.640614;44.406806
+12131_0034_00018;18;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.637719;44.405187
+12131_0005_00014;14;;Rue des Abbesses;12740;12131;La Loubière;;Lioujas;2.631294;44.402237
+12131_0040_00019;19;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.633345;44.403446
+12131_pdp94z_00029;29;;Impasse du Pré Vert;12740;12131;La Loubière;;Campeyroux;2.655815;44.40522
+12131_0565_00114;114;;Rue des Aubepines;12740;12131;La Loubière;;Campeyroux;2.658302;44.405622
+12131_0569_00057;57;;Rue du Coudercou;12740;12131;La Loubière;;Ortholes;2.634013;44.387185
+12131_0553_01041;1041;;Route des Deux Ponts;12740;12131;La Loubière;;La Prade;2.66863;44.375939
+12131_0508_00094;94;;Chemin du Roucassou Haut;12740;12131;La Loubière;;Campeyroux;2.650073;44.405219
+12131_0527_00104;104;;Impasse de la Fontaine;12740;12131;La Loubière;;Canabols;2.650813;44.381838
+12131_0501_00107;107;;Chemin de la Brave Haute;12740;12131;La Loubière;;Campeyroux;2.652845;44.401436
+12131_0067_00003;3;;Chemin de la Fontanelle;12740;12131;La Loubière;;Lioujas;2.630927;44.404396
+12131_0553_00657;657;;Route des Deux Ponts;12740;12131;La Loubière;;La Prade;2.667103;44.379093
+12131_0050_00337;337;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.641053;44.410988
+12131_0033_00018;18;;Rue des Cardabelles;12740;12131;La Loubière;;Campeyroux;2.654983;44.404301
+12131_0115_00006;6;;Rue des Garennes;12740;12131;La Loubière;;Lioujas;2.637485;44.408828
+12131_0562_00070;70;;Rue de la Pareau;12740;12131;La Loubière;;Ortholes;2.636849;44.385814
+12131_0420_00484;484;;Rue de la Ramade;12740;12131;La Loubière;;Pailhories;2.653459;44.400109
+12131_0535_00007;7;;Impasse des Louves;12740;12131;La Loubière;;La Loubiere;2.666302;44.370694
+12131_0558_00002;2;;Ruelle du Vieux Village;12740;12131;La Loubière;;Lioujas;2.630535;44.40567
+12131_0012_00210;210;;Rue des Babissous;12740;12131;La Loubière;;Lioujas;2.645652;44.411114
+12131_0506_00125;125;;Chemin du Plo;12740;12131;La Loubière;;Ortholes;2.634335;44.387221
+12131_0012_00067;67;;Rue des Babissous;12740;12131;La Loubière;;Lioujas;2.644855;44.412251
+12131_0017_00137;137;;Rue des Bergeries;12740;12131;La Loubière;;Campeyroux;2.65556;44.40325
+12131_0420_00343;343;;Rue de la Ramade;12740;12131;La Loubière;;Pailhories;2.654645;44.400903
+12131_0036_00622;622;;Chemin de Cayssac;12740;12131;La Loubière;;Cayssac;2.661868;44.400179
+12131_0044_00001;1;;Impasse de Combedarlenque;12740;12131;La Loubière;;Lioujas;2.636287;44.402481
+12131_0562_00145;145;;Rue de la Pareau;12740;12131;La Loubière;;Ortholes;2.63778;44.385634
+12131_0567_00471;471;;Rue des Touroulis;12740;12131;La Loubière;;Ortholes;2.63168;44.38715
+12131_0573_00401;401;;Chemin de Combes Crozes;12740;12131;La Loubière;;Lioujas;2.638729;44.402232
+12131_0569_00043;43;;Rue du Coudercou;12740;12131;La Loubière;;Ortholes;2.633715;44.387201
+12131_0554_00725;725;;Route des Naucelats;12740;12131;La Loubière;;Pessens;2.650831;44.364428
+12131_0513_00387;387;;Chemin des Cazalous;12740;12131;La Loubière;;Ortholes;2.62613;44.389603
+12131_0027_00058;58;;Rue des Cades;12740;12131;La Loubière;;Lioujas;2.644969;44.413086
+12131_0570_00027;27;;Rue du Haut Village;12740;12131;La Loubière;;Canabols;2.650528;44.380123
+12131_0555_00450;450;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.667772;44.371355
+12131_0043_00008;8;;Impasse du Combal;12740;12131;La Loubière;;Lioujas;2.639456;44.405585
+12131_0455_00005;5;;Place du Tioulas;12740;12131;La Loubière;;Lioujas;2.637106;44.407369
+12131_0503_00427;427;;Chemin de Pailhories;12740;12131;La Loubière;;Pailhories;2.655197;44.398543
+12131_0095_00005;5;;Rue de Fonteilles;12740;12131;La Loubière;;Lioujas;2.626953;44.404542
+12131_0567_00684;684;;Rue des Touroulis;12740;12131;La Loubière;;Ortholes;2.634015;44.386227
+12131_0095_00009;9;;Rue de Fonteilles;12740;12131;La Loubière;;Lioujas;2.627871;44.405594
+12131_0050_01113;1113;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.644267;44.407627
+12131_0555_00433;433;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.667518;44.371345
+12131_0036_00062;62;;Chemin de Cayssac;12740;12131;La Loubière;;Campeyroux;2.657265;44.402194
+12131_0036_00359;359;;Chemin de Cayssac;12740;12131;La Loubière;;Campeyroux;2.660769;44.401509
+12131_0040_00003;3;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.631105;44.406228
+12131_0539_00124;124;;Impasse des Roques Hautes;12740;12131;La Loubière;;Campeyroux;2.659432;44.401033
+12131_0031_00007;7;;Impasse de la Canal;12740;12131;La Loubière;;Lioujas;2.638843;44.40544
+12131_0563_00100;100;;Rue de la Source;12740;12131;La Loubière;;Pessens;2.649583;44.365532
+12131_0023_00006;6;;Chemin de la Bouyssonie;12740;12131;La Loubière;;Lioujas;2.628026;44.40406
+12131_0554_02048;2048;;Route des Naucelats;12740;12131;La Loubière;;Les Cousteilles;2.660973;44.367669
+12131_0527_00131;131;;Impasse de la Fontaine;12740;12131;La Loubière;;Canabols;2.650536;44.381943
+12131_0540_00045;45;;Impasse du Coustal;12740;12131;La Loubière;;Canabols;2.652705;44.378119
+12131_0095_00010;10;;Rue de Fonteilles;12740;12131;La Loubière;;Lioujas;2.627836;44.405847
+12131_0110_00008;8;;Rue de Garacel;12740;12131;La Loubière;;Lioujas;2.628952;44.406922
+12131_0525_00104;104;;Impasse de la Baryte;12740;12131;La Loubière;;Pessens;2.652952;44.363253
+12131_0554_00893;893;;Route des Naucelats;12740;12131;La Loubière;;Pessens;2.6527;44.363845
+12131_0005_00018;18;;Rue des Abbesses;12740;12131;La Loubière;;Lioujas;2.631758;44.401794
+12131_0465_00002;2;;Chemin du Trescual;12740;12131;La Loubière;;Lioujas;2.639966;44.404052
+12131_0554_02140;2140;;Route des Naucelats;12740;12131;La Loubière;;Les Cousteilles;2.661756;44.367096
+12131_0509_00281;281;;Chemin du Rougier;12740;12131;La Loubière;;Canabols;2.651637;44.376526
+12131_0553_00629;629;;Route des Deux Ponts;12740;12131;La Loubière;;La Prade;2.666797;44.379233
+12131_mi0ejd_00084;84;;rue de Cabassude;12740;12131;La Loubière;;Lioujas;2.638103;44.404094
+12131_0046_00004;4;;Rue du Comtal;12740;12131;La Loubière;;Lioujas;2.637208;44.409412
+12131_0541_00019;19;;Impasse du Devezou;12740;12131;La Loubière;;;2.648536;44.402357
+12131_0508_00065;65;;Chemin du Roucassou Haut;12740;12131;La Loubière;;Campeyroux;2.650321;44.405131
+12131_0450_00005;5;;Rue des Terres Rouges;12740;12131;La Loubière;;Lioujas;2.638328;44.405174
+12131_0040_00034;34;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.632455;44.401489
+12131_0514_00160;160;;Chemin des Crouzettes;12740;12131;La Loubière;;Ortholes;2.631544;44.385817
+12131_0034_00022;22;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.638008;44.405946
+12131_0050_00565;565;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.643565;44.41083
+12131_0110_00003;3;;Rue de Garacel;12740;12131;La Loubière;;Lioujas;2.629115;44.406952
+12131_0552_00789;789;;Route des Chenes;12740;12131;La Loubière;;Canabols;2.649111;44.380143
+12131_0501_00054;54;;Chemin de la Brave Haute;12740;12131;La Loubière;;Campeyroux;2.652085;44.401478
+12131_0480_00001;1;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.630719;44.406115
+12131_0571_00039;39;;Rue du Poujet;12740;12131;La Loubière;;Campeyroux;2.659152;44.403039
+12131_0455_00001;1;;Place du Tioulas;12740;12131;La Loubière;;Lioujas;2.637136;44.407768
+12131_0005_00024;24;;Rue des Abbesses;12740;12131;La Loubière;;Lioujas;2.632417;44.401316
+12131_0034_00038;38;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.639867;44.408311
+12131_0480_00021;21;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.630147;44.404556
+12131_0456_00006;6;;Impasse du Tioulas;12740;12131;La Loubière;;Lioujas;2.635256;44.408153
+12131_0037_00208;208;;Chemin de la Cazelle;12740;12131;La Loubière;;Campeyroux;2.66106;44.40269
+12131_0380_00003;3;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.63489;44.401997
+12131_0050_00955;955;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.645915;44.40801
+12131_0555_00367;367;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.666854;44.370986
+12131_0062_00203;203;;Chemin Ferre;12740;12131;La Loubière;;Ortholes;2.638489;44.386916
+12131_0567_00554;554;;Rue des Touroulis;12740;12131;La Loubière;;Ortholes;2.632553;44.386749
+12131_0037_00001;1;;Chemin de la Cazelle;12740;12131;La Loubière;;Campeyroux;2.658245;44.402468
+12131_0036_00322;322;;Chemin de Cayssac;12740;12131;La Loubière;;Campeyroux;2.66015;44.40169
+12131_0567_00857;857;;Rue des Touroulis;12740;12131;La Loubière;;Ortholes;2.635996;44.385843
+12131_0456_00003;3;;Impasse du Tioulas;12740;12131;La Loubière;;Lioujas;2.63572;44.407929
+12131_0050_00374;374;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.641508;44.411082
+12131_0538_00051;51;;Impasse des Panicauts;12740;12131;La Loubière;;Lioujas;2.63899;44.403853
+12131_0555_00451;451;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.66775;44.371427
+12131_0022_00016;16;;Chemin de la Bourgade;12740;12131;La Loubière;;Lioujas;2.629754;44.409144
+12131_pdp94z_00292;292;;Impasse du Pré Vert;12740;12131;La Loubière;;Campeyroux;2.656523;44.405046
+12131_0380_00015;15;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.634163;44.401394
+12131_0566_00162;162;;Rue des Marronniers;12740;12131;La Loubière;;Ortholes;2.63254;44.387361
+12131_0555_00581;581;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.669407;44.371447
+12131_0115_00005;5;;Rue des Garennes;12740;12131;La Loubière;;Lioujas;2.637617;44.408779
+12131_0565_00311;311;;Rue des Aubepines;12740;12131;La Loubière;;Campeyroux;2.656136;44.405561
+12131_0035_00065;65;;Rue du Causse;12740;12131;La Loubière;;Campeyroux;2.65355;44.403824
+12131_0062_00218;218;;Chemin Ferre;12740;12131;La Loubière;;Ortholes;2.638899;44.386983
+12131_0040_00011;11;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.632153;44.404565
+12131_0552_00265;265;;Route des Chenes;12740;12131;La Loubière;;Canabols;2.652417;44.379463
+12131_0535_00020;20;;Impasse des Louves;12740;12131;La Loubière;;La Loubiere;2.666117;44.370742
+12131_0572_00032;32;;Rue du Puits;12740;12131;La Loubière;;Ortholes;2.633799;44.387367
+12131_0115_00007;7;;Rue des Garennes;12740;12131;La Loubière;;Lioujas;2.63748;44.408668
+12131_0014_00128;128;;Rue des Baissassous;12740;12131;La Loubière;;Campeyroux;2.657703;44.40327
+12131_0570_00142;142;;Rue du Haut Village;12740;12131;La Loubière;;Canabols;2.651827;44.379666
+12131_0450_00003;3;;Rue des Terres Rouges;12740;12131;La Loubière;;Lioujas;2.638229;44.405086
+12131_0046_00003;3;;Rue du Comtal;12740;12131;La Loubière;;Lioujas;2.636675;44.409024
+12131_0040_00013;13;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.632165;44.40433
+12131_0060_00003;3;;Impasse des Epis;12740;12131;La Loubière;;Lioujas;2.641269;44.407965
+12131_0300_00001;1;;Impasse de la Laiterie;12740;12131;La Loubière;;Lioujas;2.628256;44.404333
+12131_0553_01095;1095;;Route des Deux Ponts;12740;12131;La Loubière;;La Prade;2.668315;44.375508
+12131_0509_00211;211;;Chemin du Rougier;12740;12131;La Loubière;;Canabols;2.652021;44.377061
+12131_0554_02223;2223;;Route des Naucelats;12740;12131;La Loubière;;Les Cousteilles;2.66247;44.366523
+12131_0062_00212;212;;Chemin Ferre;12740;12131;La Loubière;;Ortholes;2.638875;44.386942
+12131_0044_00004;4;;Impasse de Combedarlenque;12740;12131;La Loubière;;Lioujas;2.636122;44.402348
+12131_0558_00004;4;;Ruelle du Vieux Village;12740;12131;La Loubière;;Lioujas;2.630491;44.405556
+12131_0380_00001;1;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.634906;44.402293
+12131_0554_01942;1942;;Route des Naucelats;12740;12131;La Loubière;;Les Cousteilles;2.659926;44.368255
+12131_0556_00041;41;;Route du Stade;12740;12131;La Loubière;;Lioujas;2.63709;44.410001
+12131_pdp94z_00046;46;;Impasse du Pré Vert;12740;12131;La Loubière;;Campeyroux;2.655671;44.405081
+12131_18ydsy_00002;2;;impasse du berger;12740;12131;La Loubière;;Lioujas;2.631347;44.406305
+12131_0095_00003;3;;Rue de Fonteilles;12740;12131;La Loubière;;Lioujas;2.627015;44.404422
+12131_0542_00021;21;;Impasse du Four a Pain;12740;12131;La Loubière;;La Loubiere;2.666769;44.371094
+12131_0567_00748;748;;Rue des Touroulis;12740;12131;La Loubière;;Ortholes;2.634856;44.386045
+12131_0062_00284;284;;Chemin Ferre;12740;12131;La Loubière;;Ortholes;2.63935;44.38749
+12131_0050_00975;975;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.646257;44.407744
+12131_0565_00029;29;;Rue des Aubepines;12740;12131;La Loubière;;Campeyroux;2.658512;44.404829
+12131_0420_00801;801;;Rue de la Ramade;12740;12131;La Loubière;;Pailhories;2.654388;44.399278
+12131_0562_00119;119;;Rue de la Pareau;12740;12131;La Loubière;;Ortholes;2.637472;44.385718
+12131_0564_00147;147;;Rue de la Tour;12740;12131;La Loubière;;Ortholes;2.634028;44.388013
+12131_0510_00006;6;;Chemin du Rouve;12740;12131;La Loubière;;La Loubiere;2.669492;44.371311
+12131_0034_00024;24;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.638114;44.406298
+12131_0005_00009;9;;Rue des Abbesses;12740;12131;La Loubière;;Lioujas;2.629886;44.403767
+12131_0025_00158;158;;Cote de la Brave;12740;12131;La Loubière;;Campeyroux;2.652039;44.402189
+12131_0539_00143;143;;Impasse des Roques Hautes;12740;12131;La Loubière;;Campeyroux;2.659901;44.401031
+12131_0548_01473;1473;;Route de Gages;12740;12131;La Loubière;;Baraque de Turq;2.662673;44.383327
+12131_0562_00099;99;;Rue de la Pareau;12740;12131;La Loubière;;Ortholes;2.637229;44.385794
+12131_18ydsy_00008;8;;impasse du berger;12740;12131;La Loubière;;;2.63152;44.40637
+12131_0017_00026;26;;Rue des Bergeries;12740;12131;La Loubière;;Campeyroux;2.654424;44.403776
+12131_0531_00034;34;;Impasse des Aumets;12740;12131;La Loubière;;Ortholes;2.638376;44.387354
+12131_0110_00001;1;;Rue de Garacel;12740;12131;La Loubière;;Lioujas;2.630418;44.407033
+12131_0561_00087;87;;Rue de la Canibiere;12740;12131;La Loubière;;Ortholes;2.63776;44.386387
+12131_0528_00068;68;;Impasse de la Passerelle;12740;12131;La Loubière;;Pessens;2.65183;44.363376
+12131_0553_00843;843;;Route des Deux Ponts;12740;12131;La Loubière;;La Prade;2.668219;44.37769
+12131_0050_00935;935;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.646089;44.408261
+12131_pdp94z_00097;97;;Impasse du Pré Vert;12740;12131;La Loubière;;Campeyroux;2.655928;44.404606
+12131_0500_00042;42;;Chemin de l’Aveyron;12740;12131;La Loubière;;La Loubiere;2.668417;44.371578
+12131_0456_00005;5;;Impasse du Tioulas;12740;12131;La Loubière;;Lioujas;2.635323;44.408022
+12131_0511_00266;266;;Chemin des Aumets;12740;12131;La Loubière;;Ortholes;2.638083;44.386892
+12131_0554_00839;839;;Route des Naucelats;12740;12131;La Loubière;;Pessens;2.652081;44.364012
+12131_0501_00061;61;;Chemin de la Brave Haute;12740;12131;La Loubière;;Campeyroux;2.652207;44.401545
+12131_0524_00115;115;;Impasse de la Bartasse;12740;12131;La Loubière;;Lioujas;2.647442;44.413674
+12131_0035_00116;116;;Rue du Causse;12740;12131;La Loubière;;Campeyroux;2.654221;44.403998
+12131_0540_00056;56;;Impasse du Coustal;12740;12131;La Loubière;;Canabols;2.652635;44.378363
+12131_0060_00010;10;;Impasse des Epis;12740;12131;La Loubière;;Lioujas;2.641661;44.407746
+12131_pdp94z_00309;309;;Impasse du Pré Vert;12740;12131;La Loubière;;Campeyroux;2.656396;44.405247
+12131_0005_00013;13;;Rue des Abbesses;12740;12131;La Loubière;;Lioujas;2.630766;44.402936
+12131_0034_00023;23;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.637929;44.406193
+12131_0048_00479;479;;Chemin des Crozes;12740;12131;La Loubière;;Campeyroux;2.649288;44.402272
+12131_0523_00061;61;;Impasse de l’Eglise;12740;12131;La Loubière;;Cayssac;2.663717;44.400035
+12131_0050_00723;723;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.64458;44.409657
+12131_0014_00180;180;;Rue des Baissassous;12740;12131;La Loubière;;Campeyroux;2.658155;44.403579
+12131_0034_00016;16;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.637652;44.404943
+12131_0480_00010;10;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.629697;44.404688
+12131_0534_00007;7;;Impasse des Genevriers;12740;12131;La Loubière;;Lioujas;2.640114;44.406192
+12131_0553_01231;1231;;Route des Deux Ponts;12740;12131;La Loubière;;La Prade;2.6671;44.374642
+12131_0036_00117;117;;Chemin de Cayssac;12740;12131;La Loubière;;Campeyroux;2.65788;44.40239
+12131_0037_00165;165;;Chemin de la Cazelle;12740;12131;La Loubière;;Campeyroux;2.660598;44.402859
+12131_0539_00058;58;;Impasse des Roques Hautes;12740;12131;La Loubière;;Campeyroux;2.659261;44.401308
+12131_0031_00002;2;;Impasse de la Canal;12740;12131;La Loubière;;Lioujas;2.638496;44.405804
+12131_0022_00050;50;;Chemin de la Bourgade;12740;12131;La Loubière;;Lioujas;2.630778;44.411993
+12131_0553_01049;1049;;Route des Deux Ponts;12740;12131;La Loubière;;La Prade;2.668605;44.375863
+12131_0552_00277;277;;Route des Chenes;12740;12131;La Loubière;;Canabols;2.652214;44.379513
+12131_0050_00851;851;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.645872;44.409022
+12131_0568_00062;62;;Rue du Couderc;12740;12131;La Loubière;;Campeyroux;2.65624;44.402922
+12131_0554_02419;2419;;Route des Naucelats;12740;12131;La Loubière;;Les Cousteilles;2.664476;44.365925
+12131_0041_00001;1;;Impasse du Chateau d’Eau;12740;12131;La Loubière;;Lioujas;2.633856;44.402161
+12131_0556_00056;56;;Route du Stade;12740;12131;La Loubière;;Lioujas;2.63714;44.409821
+12131_0517_00059;59;;Chemin Noir;12740;12131;La Loubière;;Canabols;2.65235;44.380726
+12131_mi0ejd_00139;139;;rue de Cabassude;12740;12131;La Loubière;;Lioujas;2.637566;44.404201
+12131_mvook0_00082;82;;Rue des Garrigues;12740;12131;La Loubière;;Lioujas;2.646782;44.411375
+12131_0537_00075;75;;Impasse des Perdrix;12740;12131;La Loubière;;Lioujas;2.636424;44.401219
+12131_0506_00090;90;;Chemin du Plo;12740;12131;La Loubière;;Ortholes;2.634406;44.38692
+12131_0050_00870;870;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.645833;44.408909
+12131_0050_00298;298;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.640745;44.410678
+12131_0005_00022;22;;Rue des Abbesses;12740;12131;La Loubière;;Lioujas;2.63226;44.401416
+12131_0533_00005;5;;Impasse des Eglantiers;12740;12131;La Loubière;;Lioujas;2.640951;44.405676
+12131_0040_00018;18;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.632019;44.404471
+12131_0554_02056;2056;;Route des Naucelats;12740;12131;La Loubière;;Les Cousteilles;2.661066;44.367629
+12131_0525_00106;106;;Impasse de la Baryte;12740;12131;La Loubière;;Pessens;2.652721;44.363247
+12131_0555_00230;230;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.666978;44.370238
+12131_0015_00076;76;;Impasse des Baissassous;12740;12131;La Loubière;;Campeyroux;2.657536;44.404016
+12131_smgu4b_00222;222;;impasse de Solilève;12740;12131;La Loubière;;;2.64091;44.400447
+12131_0065_00006;6;;Place de la Fontaine;12740;12131;La Loubière;;Lioujas;2.628435;44.40499
+12131_0537_00078;78;;Impasse des Perdrix;12740;12131;La Loubière;;Lioujas;2.636301;44.401218
+12131_0573_00353;353;;Chemin de Combes Crozes;12740;12131;La Loubière;;Lioujas;2.638132;44.402343
+12131_0095_00011;11;;Rue de Fonteilles;12740;12131;La Loubière;;Lioujas;2.627892;44.405919
+12131_0570_00067;67;;Rue du Haut Village;12740;12131;La Loubière;;Canabols;2.650963;44.37994
+12131_0050_00257;257;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.640201;44.410605
+12131_0507_00022;22;;Chemin du Radaillou;12740;12131;La Loubière;;Baraque de Turq;2.661144;44.382912
+12131_0050_00079;79;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.639295;44.409253
+12131_0564_00119;119;;Rue de la Tour;12740;12131;La Loubière;;Ortholes;2.633626;44.387854
+12131_0014_00088;88;;Rue des Baissassous;12740;12131;La Loubière;;Campeyroux;2.657354;44.403018
+12131_0040_00030;30;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.633647;44.402727
+12131_0044_00003;3;;Impasse de Combedarlenque;12740;12131;La Loubière;;Lioujas;2.636299;44.40213
+12131_0350_00002;2;;Place de la Mairie;12740;12131;La Loubière;;Lioujas;2.631353;44.406856
+12131_0537_00025;25;;Impasse des Perdrix;12740;12131;La Loubière;;Lioujas;2.636368;44.401562
+12131_0014_00250;250;;Rue des Baissassous;12740;12131;La Loubière;;Campeyroux;2.658533;44.404165
+12131_0555_00748;748;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.671459;44.371239
+12131_0567_00668;668;;Rue des Touroulis;12740;12131;La Loubière;;Ortholes;2.633837;44.386279
+12131_0022_00007;7;;Chemin de la Bourgade;12740;12131;La Loubière;;Lioujas;2.629579;44.40876
+12131_0540_00068;68;;Impasse du Coustal;12740;12131;La Loubière;;Canabols;2.652382;44.378175
+12131_0507_00068;68;;Chemin du Radaillou;12740;12131;La Loubière;;Baraque de Turq;2.660691;44.383181
+12131_0012_00335;335;;Rue des Babissous;12740;12131;La Loubière;;Lioujas;2.64665;44.410297
+12131_0029_00779;779;;Route de Campeyroux;12740;12131;La Loubière;;Campeyroux;2.656476;44.402167
+12131_0562_00154;154;;Rue de la Pareau;12740;12131;La Loubière;;Ortholes;2.637839;44.385522
+12131_0005_00023;23;;Rue des Abbesses;12740;12131;La Loubière;;Lioujas;2.631515;44.402218
+12131_0570_00104;104;;Rue du Haut Village;12740;12131;La Loubière;;Canabols;2.651287;44.379686
+12131_0480_00017;17;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.630384;44.404823
+12131_0420_00070;70;;Rue de la Ramade;12740;12131;La Loubière;;Campeyroux;2.653519;44.402719
+12131_0547_00054;54;;Impasse Laumiere;12740;12131;La Loubière;;Canabols;2.65378;44.379848
+12131_mi0ejd_00089;89;;rue de Cabassude;12740;12131;La Loubière;;Lioujas;2.638077;44.403972
+12131_0480_00005;5;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.630394;44.405761
+12131_0563_00380;380;;Rue de la Source;12740;12131;La Loubière;;Pessens;2.651059;44.363736
+12131_0562_00043;43;;Rue de la Pareau;12740;12131;La Loubière;;Ortholes;2.636609;44.385964
+12131_0048_00298;298;;Chemin des Crozes;12740;12131;La Loubière;;Campeyroux;2.647999;44.403471
+12131_0519_00070;70;;Cote du Chemin Vert;12740;12131;La Loubière;;Canabols;2.650366;44.379469
+12131_0043_00004;4;;Impasse du Combal;12740;12131;La Loubière;;Lioujas;2.639715;44.40701
+12131_0552_00345;345;;Route des Chenes;12740;12131;La Loubière;;Canabols;2.651882;44.380125
+12131_0527_00081;81;;Impasse de la Fontaine;12740;12131;La Loubière;;Canabols;2.650701;44.381632
+12131_0048_00266;266;;Chemin des Crozes;12740;12131;La Loubière;;Campeyroux;2.648267;44.403602
+12131_0050_00162;162;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.63955;44.410008
+12131_0518_00011;11;;Chemin des Pruniers;12740;12131;La Loubière;;Campeyroux;2.651528;44.402022
+12131_0522_00002;2;;Impasse de l’Aven;12740;12131;La Loubière;;Lioujas;2.639645;44.40453
+12131_0035_00022;22;;Rue du Causse;12740;12131;La Loubière;;Campeyroux;2.653287;44.403467
+12131_0505_00146;146;;Chemin du Piboul;12740;12131;La Loubière;;Les Cousteilles;2.657368;44.369841
+12131_0420_00016;16;;Rue de la Ramade;12740;12131;La Loubière;;Campeyroux;2.652898;44.403168
+12131_0528_00162;162;;Impasse de la Passerelle;12740;12131;La Loubière;;Pessens;2.652283;44.362633
+12131_0555_00501;501;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.668386;44.371429
+12131_0480_00016;16;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.629563;44.404724
+12131_0095_00007;7;;Rue de Fonteilles;12740;12131;La Loubière;;Lioujas;2.627561;44.404944
+12131_0516_00088;88;;Chemin du Passage a Niveau;12740;12131;La Loubière;;Canabols;2.655237;44.378724
+12131_0067_00002;2;;Chemin de la Fontanelle;12740;12131;La Loubière;;Lioujas;2.630976;44.404325
+12131_0529_00249;249;;Impasse de la Vayssiere;12740;12131;La Loubière;;La Vayssiere;2.677007;44.376574
+12131_0554_00972;972;;Route des Naucelats;12740;12131;La Loubière;;Pessens;2.653526;44.364185
+12131_0017_00105;105;;Rue des Bergeries;12740;12131;La Loubière;;Campeyroux;2.655348;44.403534
+12131_0567_00780;780;;Rue des Touroulis;12740;12131;La Loubière;;Ortholes;2.635107;44.3861
+12131_0537_00054;54;;Impasse des Perdrix;12740;12131;La Loubière;;Lioujas;2.636199;44.401521
+12131_0541_00011;11;;Impasse du Devezou;12740;12131;La Loubière;;;2.648595;44.402329
+12131_0095_00012;12;;Rue de Fonteilles;12740;12131;La Loubière;;Lioujas;2.627999;44.405938
+12131_0561_00052;52;;Rue de la Canibiere;12740;12131;La Loubière;;Ortholes;2.637443;44.386205
+12131_0507_00117;117;;Chemin du Radaillou;12740;12131;La Loubière;;Baraque de Turq;2.660134;44.383406
+12131_0562_00108;108;;Rue de la Pareau;12740;12131;La Loubière;;Ortholes;2.637298;44.385677
+12131_0040_00009;9;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.631448;44.405416
+12131_0555_00783;783;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.671875;44.371377
+12131_0035_00082;82;;Rue du Causse;12740;12131;La Loubière;;Campeyroux;2.653768;44.403687
+12131_0027_00038;38;;Rue des Cades;12740;12131;La Loubière;;Lioujas;2.644805;44.412931
+12131_0380_00010;10;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.634727;44.401811
+12131_0538_00080;80;;Impasse des Panicauts;12740;12131;La Loubière;;Lioujas;2.638671;44.403687
+12131_0350_00001;1;;Place de la Mairie;12740;12131;La Loubière;;Lioujas;2.631134;44.406738
+12131_0115_00011;11;;Rue des Garennes;12740;12131;La Loubière;;Lioujas;2.637007;44.408231
+12131_0043_00004_bis;4;bis;Impasse du Combal;12740;12131;La Loubière;;Lioujas;2.639696;44.406817
+12131_0037_00027;27;;Chemin de la Cazelle;12740;12131;La Loubière;;Campeyroux;2.658574;44.402523
+12131_0550_01665;1665;;Route d’Argent;12740;12131;La Loubière;;Lioujas;2.633549;44.408592
+12131_0507_00059;59;;Chemin du Radaillou;12740;12131;La Loubière;;Baraque de Turq;2.660677;44.383042
+12131_0541_00001;1;;Impasse du Devezou;12740;12131;La Loubière;;Campeyroux;2.648746;44.402296
+12131_0531_00088;88;;Impasse des Aumets;12740;12131;La Loubière;;Ortholes;2.637601;44.387176
+12131_0010_00163;163;;Rue de l’Aubrac;12740;12131;La Loubière;;Lioujas;2.643689;44.412545
+12131_0022_00005;5;;Chemin de la Bourgade;12740;12131;La Loubière;;Lioujas;2.629846;44.408076
+12131_0034_00026;26;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.637982;44.406863
+12131_0543_00185;185;;Impasse du Pigeonnier;12740;12131;La Loubière;;Les Cousteilles;2.664237;44.364163
+12131_0532_00079;79;;Impasse des Bentouses;12740;12131;La Loubière;;Les Cousteilles;2.663909;44.366493
+12131_0568_00016;16;;Rue du Couderc;12740;12131;La Loubière;;Campeyroux;2.656787;44.402866
+12131_0541_00059;59;;Impasse du Devezou;12740;12131;La Loubière;;Campeyroux;2.64814;44.402568
+12131_0060_00005;5;;Impasse des Epis;12740;12131;La Loubière;;Lioujas;2.641588;44.407936
+12131_0555_01027;1027;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.674717;44.372022
+12131_0029_00065;65;;Route de Campeyroux;12740;12131;La Loubière;;Campeyroux;2.64864;44.405273
+12131_0046_00006;6;;Rue du Comtal;12740;12131;La Loubière;;Lioujas;2.636975;44.40934
+12131_0050_00171;171;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.639323;44.410112
+12131_0561_00066;66;;Rue de la Canibiere;12740;12131;La Loubière;;Ortholes;2.637767;44.386146
+12131_0040_00027;27;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.633335;44.402184
+12131_0005_00007;7;;Rue des Abbesses;12740;12131;La Loubière;;Lioujas;2.629793;44.404329
+12131_0522_00004;4;;Impasse de l’Aven;12740;12131;La Loubière;;Lioujas;2.639583;44.404675
+12131_0040_00007;7;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.631338;44.405896
+12131_0031_00004;4;;Impasse de la Canal;12740;12131;La Loubière;;Lioujas;2.638599;44.405498
+12131_0518_00041;41;;Chemin des Pruniers;12740;12131;La Loubière;;Campeyroux;2.65162;44.40215
+12131_0528_00046;46;;Impasse de la Passerelle;12740;12131;La Loubière;;Pessens;2.65173;44.363568
+12131_0504_00002;2;;Chemin du Pesquier;12740;12131;La Loubière;;Lioujas;2.633203;44.400947
+12131_0046_00002;2;;Rue du Comtal;12740;12131;La Loubière;;Lioujas;2.637507;44.409267
+12131_0456_00004;4;;Impasse du Tioulas;12740;12131;La Loubière;;Lioujas;2.635375;44.4081
+12131_0569_00034;34;;Rue du Coudercou;12740;12131;La Loubière;;Ortholes;2.633724;44.387043
+12131_pdp94z_00315;315;;Impasse du Pré Vert;12740;12131;La Loubière;;Campeyroux;2.656492;44.405291
+12131_0555_00654;654;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.670275;44.371239
+12131_0097_00004;4;;Rue des Frenes;12740;12131;La Loubière;;Lioujas;2.636015;44.408705
+12131_0564_00171;171;;Rue de la Tour;12740;12131;La Loubière;;Ortholes;2.634307;44.387902
+12131_0110_00002;2;;Rue de Garacel;12740;12131;La Loubière;;Lioujas;2.630525;44.407123
+12131_0380_00011;11;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.634639;44.401384
+12131_0509_00245;245;;Chemin du Rougier;12740;12131;La Loubière;;Canabols;2.651772;44.376827
+12131_0544_00028;28;;Impasse du Puech;12740;12131;La Loubière;;La Prade;2.66751;44.37774
+12131_0573_00425;425;;Chemin de Combes Crozes;12740;12131;La Loubière;;Lioujas;2.639002;44.402159
+12131_0552_00529;529;;Route des Chenes;12740;12131;La Loubière;;Canabols;2.650409;44.381207
+12131_pdp94z_00061;61;;Impasse du Pré Vert;12740;12131;La Loubière;;Campeyroux;2.655833;44.40493
+12131_0036_00032;32;;Chemin de Cayssac;12740;12131;La Loubière;;Campeyroux;2.656869;44.402186
+12131_0036_00698;698;;Chemin de Cayssac;12740;12131;La Loubière;;Cayssac;2.662581;44.399976
+12131_0537_00071;71;;Impasse des Perdrix;12740;12131;La Loubière;;Lioujas;2.636402;44.401348
+12131_0036_00849;849;;Chemin de Cayssac;12740;12131;La Loubière;;Cayssac;2.663903;44.399149
+12131_0507_00326;326;;Chemin du Radaillou;12740;12131;La Loubière;;Baraque de Turq;2.658335;44.384553
+12131_0568_00021;21;;Rue du Couderc;12740;12131;La Loubière;;Campeyroux;2.656633;44.402722
+12131_0420_00038;38;;Rue de la Ramade;12740;12131;La Loubière;;Campeyroux;2.653143;44.402972
+12131_nb4qx7_00052;52;;Chemin des Baumes;12740;12131;La Loubière;;Lioujas;2.628713;44.407312
+12131_0531_00106;106;;Impasse des Aumets;12740;12131;La Loubière;;Ortholes;2.637382;44.387029
+12131_0050_00897;897;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.646313;44.408658
+12131_mi0ejd_00127;127;;rue de Cabassude;12740;12131;La Loubière;;Lioujas;2.63752;44.404002
+12131_0537_00042;42;;Impasse des Perdrix;12740;12131;La Loubière;;Lioujas;2.636209;44.401595
+12131_0115_00004;4;;Rue des Garennes;12740;12131;La Loubière;;Lioujas;2.63763;44.408932
+12131_0567_00472;472;;Rue des Touroulis;12740;12131;La Loubière;;Ortholes;2.631633;44.387061
+12131_0509_00218;218;;Chemin du Rougier;12740;12131;La Loubière;;Canabols;2.651883;44.377054
+12131_0544_00072;72;;Impasse du Puech;12740;12131;La Loubière;;La Prade;2.667539;44.37735
+12131_0029_00371;371;;Route de Campeyroux;12740;12131;La Loubière;;Campeyroux;2.652006;44.403888
+12131_0553_01292;1292;;Route des Deux Ponts;12740;12131;La Loubière;;La Prade;2.66633;44.374439
+12131_0567_00638;638;;Rue des Touroulis;12740;12131;La Loubière;;Ortholes;2.633491;44.386364
+12131_0034_00015;15;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.637491;44.405091
+12131_0020_00106;106;;Rue du Bon Pain;12740;12131;La Loubière;;Lioujas;2.644011;44.408578
+12131_0095_00006;6;;Rue de Fonteilles;12740;12131;La Loubière;;Lioujas;2.627265;44.404725
+12131_0540_00036;36;;Impasse du Coustal;12740;12131;La Loubière;;Canabols;2.652899;44.378176
+12131_0043_00006;6;;Impasse du Combal;12740;12131;La Loubière;;Lioujas;2.639612;44.40655
+12131_0563_00261;261;;Rue de la Source;12740;12131;La Loubière;;Pessens;2.649846;44.36431
+12131_0535_00105;105;;Impasse des Louves;12740;12131;La Loubière;;La Loubiere;2.665678;44.37008
+12131_0509_00127;127;;Chemin du Rougier;12740;12131;La Loubière;;Canabols;2.652696;44.377608
+12131_0020_00125;125;;Rue du Bon Pain;12740;12131;La Loubière;;Lioujas;2.643709;44.408673
+12131_0555_00295;295;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.666578;44.370612
+12131_0554_00678;678;;Route des Naucelats;12740;12131;La Loubière;;Pessens;2.650233;44.364589
+12131_0095_00001;1;;Rue de Fonteilles;12740;12131;La Loubière;;Lioujas;2.627602;44.404761
+12131_0023_00010;10;;Chemin de la Bouyssonie;12740;12131;La Loubière;;Lioujas;2.627679;44.403696
+12131_0535_00088;88;;Impasse des Louves;12740;12131;La Loubière;;La Loubiere;2.665778;44.370216
+12131_0568_00074;74;;Rue du Couderc;12740;12131;La Loubière;;Campeyroux;2.655983;44.402796
+12131_0553_01015;1015;;Route des Deux Ponts;12740;12131;La Loubière;;La Prade;2.668631;44.376181
+12131_0480_00006;6;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.630122;44.405609
+12131_0045_00047;47;;Impasse Combe de Lauze;12740;12131;La Loubière;;Ortholes;2.635957;44.385353
+12131_0038_00001;1;;Impasse des Cazelles;12740;12131;La Loubière;;Lioujas;2.639206;44.407778
+12131_0552_00404;404;;Route des Chenes;12740;12131;La Loubière;;Canabols;2.651577;44.380544
+12131_0519_00158;158;;Cote du Chemin Vert;12740;12131;La Loubière;;Canabols;2.650508;44.378556
+12131_0567_00724;724;;Rue des Touroulis;12740;12131;La Loubière;;Ortholes;2.634515;44.386094
+12131_0380_00005;5;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.634884;44.401832
+12131_0040_00032;32;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.63309;44.402129
+12131_0508_00038;38;;Chemin du Roucassou Haut;12740;12131;La Loubière;;Campeyroux;2.649661;44.405305
+12131_0507_00218;218;;Chemin du Radaillou;12740;12131;La Loubière;;Baraque de Turq;2.659155;44.383919
+12131_0023_00001;1;;Chemin de la Bouyssonie;12740;12131;La Loubière;;Lioujas;2.628279;44.404197
+12131_0552_01105;1105;;Route des Chenes;12740;12131;La Loubière;;Canabols;2.645553;44.381259
+12131_mi0ejd_00144;144;;rue de Cabassude;12740;12131;La Loubière;;Lioujas;2.637653;44.404302
+12131_0005_00004;4;;Rue des Abbesses;12740;12131;La Loubière;;Lioujas;2.629749;44.403727
+12131_0029_00282;282;;Route de Campeyroux;12740;12131;La Loubière;;Campeyroux;2.650881;44.40419
+12131_0552_00208;208;;Route des Chenes;12740;12131;La Loubière;;Canabols;2.653099;44.379234
+12131_0037_00164;164;;Chemin de la Cazelle;12740;12131;La Loubière;;Campeyroux;2.660654;44.402715
+12131_0027_00051;51;;Rue des Cades;12740;12131;La Loubière;;Lioujas;2.644742;44.413162
+12131_0115_00012;12;;Rue des Garennes;12740;12131;La Loubière;;Lioujas;2.636846;44.408328
+12131_0531_00042;42;;Impasse des Aumets;12740;12131;La Loubière;;Ortholes;2.638166;44.387308
+12131_0565_00111;111;;Rue des Aubepines;12740;12131;La Loubière;;Campeyroux;2.658103;44.4054
+12131_0036_00164;164;;Chemin de Cayssac;12740;12131;La Loubière;;Campeyroux;2.658537;44.40207
+12131_0553_01295;1295;;Route des Deux Ponts;12740;12131;La Loubière;;La Prade;2.666433;44.374352
+12131_0017_00179;179;;Rue des Bergeries;12740;12131;La Loubière;;Campeyroux;2.655355;44.403021
+12131_0522_00006;6;;Impasse de l’Aven;12740;12131;La Loubière;;Lioujas;2.639221;44.404791
+12131_0566_00068;68;;Rue des Marronniers;12740;12131;La Loubière;;Ortholes;2.63152;44.387758
+12131_0034_00032;32;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.637964;44.407747
+12131_0509_00040;40;;Chemin du Rougier;12740;12131;La Loubière;;Canabols;2.653517;44.378141
+12131_0562_00114;114;;Rue de la Pareau;12740;12131;La Loubière;;Ortholes;2.637364;44.385656
+12131_0034_00003;3;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.635164;44.404678
+12131_0065_00003;3;;Place de la Fontaine;12740;12131;La Loubière;;Lioujas;2.628308;44.404578
+12131_0025_00233;233;;Cote de la Brave;12740;12131;La Loubière;;Campeyroux;2.651247;44.40168
+12131_0050_00072;72;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.639464;44.409199
+12131_0029_00557;557;;Route de Campeyroux;12740;12131;La Loubière;;Campeyroux;2.653993;44.402974
+12131_0555_00047;47;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.666131;44.368755
+12131_0023_00004;4;;Chemin de la Bouyssonie;12740;12131;La Loubière;;Lioujas;2.628063;44.404122
+12131_0565_00062;62;;Rue des Aubepines;12740;12131;La Loubière;;Campeyroux;2.658393;44.405092
+12131_0506_00326;326;;Chemin du Plo;12740;12131;La Loubière;;Ortholes;2.636077;44.388465
+12131_0525_00114;114;;Impasse de la Baryte;12740;12131;La Loubière;;Pessens;2.652862;44.363178
+12131_0573_00061;61;;Chemin de Combes Crozes;12740;12131;La Loubière;;Lioujas;2.634618;44.402967
+12131_0034_00028;28;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.63792;44.407208
+12131_0014_00010;10;;Rue des Baissassous;12740;12131;La Loubière;;Campeyroux;2.656798;44.402531
+12131_0554_02042;2042;;Route des Naucelats;12740;12131;La Loubière;;Les Cousteilles;2.660916;44.367688
+12131_0523_00007;7;;Impasse de l’Eglise;12740;12131;La Loubière;;Cayssac;2.663005;44.40009
+12131_0022_00003;3;;Chemin de la Bourgade;12740;12131;La Loubière;;Lioujas;2.629443;44.407939
+12131_0115_00008;8;;Rue des Garennes;12740;12131;La Loubière;;Lioujas;2.637276;44.408684
+12131_0554_00827;827;;Route des Naucelats;12740;12131;La Loubière;;Pessens;2.651938;44.364032
+12131_0561_00080;80;;Rue de la Canibiere;12740;12131;La Loubière;;Ortholes;2.637761;44.386305
+12131_0025_00121;121;;Cote de la Brave;12740;12131;La Loubière;;Campeyroux;2.652288;44.402429
+12131_0507_00164;164;;Chemin du Radaillou;12740;12131;La Loubière;;Baraque de Turq;2.65982;44.383779
+12131_nb4qx7_00043;43;;Chemin des Baumes;12740;12131;La Loubière;;Lioujas;2.628866;44.407301
+12131_0508_00147;147;;Chemin du Roucassou Haut;12740;12131;La Loubière;;Campeyroux;2.651308;44.405166
+12131_0480_00011;11;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.630303;44.405375
+12131_0530_00057;57;;Impasse des Acacias;12740;12131;La Loubière;;Canabols;2.650961;44.377846
+12131_0012_00365;365;;Rue des Babissous;12740;12131;La Loubière;;Lioujas;2.647015;44.410091
+12131_0005_00025;25;;Rue des Abbesses;12740;12131;La Loubière;;Lioujas;2.631604;44.402114
+12131_0563_00364;364;;Rue de la Source;12740;12131;La Loubière;;Pessens;2.65081;44.363746
+12131_0504_00006;6;;Chemin du Pesquier;12740;12131;La Loubière;;Lioujas;2.634111;44.40042
+12131_0506_00359;359;;Chemin du Plo;12740;12131;La Loubière;;Ortholes;2.636434;44.388648
+12131_0040_00023;23;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.633898;44.40267
+12131_0566_00293;293;;Rue des Marronniers;12740;12131;La Loubière;;Ortholes;2.633677;44.386557
+12131_0535_00049;49;;Impasse des Louves;12740;12131;La Loubière;;La Loubiere;2.665986;44.370481
+12131_0380_00014;14;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.633638;44.401557
+12131_0570_00137;137;;Rue du Haut Village;12740;12131;La Loubière;;Canabols;2.651693;44.379712
+12131_0012_00041;41;;Rue des Babissous;12740;12131;La Loubière;;Lioujas;2.644684;44.412561
+12131_0560_00027;27;;Rue de l’Ortalet;12740;12131;La Loubière;;Ortholes;2.639318;44.387112
+12131_0564_00186;186;;Rue de la Tour;12740;12131;La Loubière;;Ortholes;2.6344;44.387732
+12131_0450_00002;2;;Rue des Terres Rouges;12740;12131;La Loubière;;Lioujas;2.638566;44.404672
+12131_0565_00086;86;;Rue des Aubepines;12740;12131;La Loubière;;Campeyroux;2.658312;44.40533
+12131_0014_00254;254;;Rue des Baissassous;12740;12131;La Loubière;;Campeyroux;2.658555;44.4042
+12131_0561_00024;24;;Rue de la Canibiere;12740;12131;La Loubière;;Ortholes;2.637034;44.386291
+12131_0110_00012;12;;Rue de Garacel;12740;12131;La Loubière;;Lioujas;2.628703;44.40624
+12131_0036_00116;116;;Chemin de Cayssac;12740;12131;La Loubière;;Campeyroux;2.657887;44.402178
+12131_0040_00008;8;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.631254;44.405473
+12131_0097_00006;6;;Rue des Frenes;12740;12131;La Loubière;;Lioujas;2.635612;44.408735
+12131_0043_00002;2;;Impasse du Combal;12740;12131;La Loubière;;Lioujas;2.639559;44.407746
+12131_mi0ejd_00022;22;;rue de Cabassude;12740;12131;La Loubière;;Lioujas;2.638957;44.404068
+12131_0045_00028;28;;Impasse Combe de Lauze;12740;12131;La Loubière;;Ortholes;2.635924;44.385559
+12131_i5rdvo_00002;2;;Place de la Liberte;12740;12131;La Loubière;;Lioujas;2.630452;44.406383
+12131_0508_00044;44;;Chemin du Roucassou Haut;12740;12131;La Loubière;;Campeyroux;2.650368;44.404948
+12131_0380_00017;17;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.633923;44.401407
+12131_0062_00281;281;;Chemin Ferre;12740;12131;La Loubière;;Ortholes;2.639063;44.387572
+12131_0095_00016;16;;Rue de Fonteilles;12740;12131;La Loubière;;Lioujas;2.627949;44.405116
+12131_18ydsy_00004;4;;impasse du berger;12740;12131;La Loubière;;;2.63144;44.406328
+12131_0539_00098;98;;Impasse des Roques Hautes;12740;12131;La Loubière;;Campeyroux;2.659067;44.40108
+12131_0036_00259;259;;Chemin de Cayssac;12740;12131;La Loubière;;Campeyroux;2.65973;44.401963
+12131_0300_00003;3;;Impasse de la Laiterie;12740;12131;La Loubière;;Lioujas;2.628075;44.404445
+12131_0547_00053;53;;Impasse Laumiere;12740;12131;La Loubière;;Canabols;2.653652;44.379829
+12131_0505_00705;705;;Chemin du Piboul;12740;12131;La Loubière;;Les Cousteilles;2.659934;44.374414
+12131_0048_00620;620;;Chemin des Crozes;12740;12131;La Loubière;;Campeyroux;2.64943;44.40171
+12131_0038_00003;3;;Impasse des Cazelles;12740;12131;La Loubière;;Lioujas;2.639031;44.407341
+12131_0420_00433;433;;Rue de la Ramade;12740;12131;La Loubière;;Pailhories;2.653967;44.400334
+12131_0029_00619;619;;Route de Campeyroux;12740;12131;La Loubière;;Campeyroux;2.654719;44.402786
+12131_0023_00012;12;;Chemin de la Bouyssonie;12740;12131;La Loubière;;Lioujas;2.627468;44.403558
+12131_0538_00110;110;;Impasse des Panicauts;12740;12131;La Loubière;;Lioujas;2.638462;44.403508
+12131_0480_00008;8;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.630242;44.40518
+12131_0556_00383;383;;Route du Stade;12740;12131;La Loubière;;Lioujas;2.640618;44.4085
+12131_0502_00072;72;;Chemin de la Combe;12740;12131;La Loubière;;Les Cousteilles;2.662324;44.366117
+12131_0480_00002;2;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.630283;44.405851
+12131_0100_00070;70;;Rue du Senecon;12740;12131;La Loubière;;Lioujas;2.645998;44.407239
+12131_0050_00638;638;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.643764;44.410176
+12131_0040_00012;12;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.631326;44.405242
+12131_0552_00055;55;;Route des Chenes;12740;12131;La Loubière;;Canabols;2.653778;44.378621
+12131_0534_00001;1;;Impasse des Genevriers;12740;12131;La Loubière;;Lioujas;2.640173;44.40687
+12131_smgu4b_00211;211;;impasse de Solilève;12740;12131;La Loubière;;Lioujas;2.640708;44.400644
+12131_0020_00140;140;;Rue du Bon Pain;12740;12131;La Loubière;;Lioujas;2.643532;44.408801
+12131_0500_00021;21;;Chemin de l’Aveyron;12740;12131;La Loubière;;La Loubiere;2.66808;44.371565
+12131_0050_00391;391;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.641622;44.411255
+12131_0029_00709;709;;Route de Campeyroux;12740;12131;La Loubière;;Campeyroux;2.655828;44.40257
+12131_0544_00110;110;;Impasse du Puech;12740;12131;La Loubière;;La Prade;2.667603;44.37701
+12131_0545_00088;88;;Impasse du Rouzies;12740;12131;La Loubière;;Baraque de Turq;2.664025;44.383841
+12131_0034_00014;14;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.637522;44.404739
+12131_0456_00002;2;;Impasse du Tioulas;12740;12131;La Loubière;;Lioujas;2.635945;44.407993
+12131_0573_00275;275;;Chemin de Combes Crozes;12740;12131;La Loubière;;Lioujas;2.637174;44.402499
+12131_0036_00150;150;;Chemin de Cayssac;12740;12131;La Loubière;;Campeyroux;2.658383;44.402111
+12131_0012_00096;96;;Rue des Babissous;12740;12131;La Loubière;;Lioujas;2.644992;44.41194
+12131_0017_00108;108;;Rue des Bergeries;12740;12131;La Loubière;;Campeyroux;2.655238;44.403472
+12131_0525_00081;81;;Impasse de la Baryte;12740;12131;La Loubière;;Pessens;2.652923;44.36347
+12131_0029_00054;54;;Route de Campeyroux;12740;12131;La Loubière;;Campeyroux;2.64841;44.405221
+12131_0040_00010;10;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.63122;44.4054
+12131_0542_00006;6;;Impasse du Four a Pain;12740;12131;La Loubière;;La Loubiere;2.667067;44.371122
+12131_0420_00092;92;;Rue de la Ramade;12740;12131;La Loubière;;Campeyroux;2.653737;44.402658
+12131_0554_00455;455;;Route des Naucelats;12740;12131;La Loubière;;Pessens;2.649409;44.366499
+12131_0036_00575;575;;Chemin de Cayssac;12740;12131;La Loubière;;Cayssac;2.661382;44.400451
+12131_0455_00007;7;;Place du Tioulas;12740;12131;La Loubière;;Lioujas;2.636791;44.407422
+12131_0565_00110;110;;Rue des Aubepines;12740;12131;La Loubière;;Campeyroux;2.658365;44.405538
+12131_0573_00317;317;;Chemin de Combes Crozes;12740;12131;La Loubière;;Lioujas;2.637641;44.40238
+12131_0005_00005;5;;Rue des Abbesses;12740;12131;La Loubière;;Lioujas;2.629738;44.404413
+12131_0050_00331;331;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.640979;44.410967
+12131_0550_02341;2341;;Route d’Argent;12740;12131;La Loubière;;Lioujas;2.640431;44.412185
+12131_0037_00111;111;;Chemin de la Cazelle;12740;12131;La Loubière;;Campeyroux;2.659893;44.402823
+12131_18ydsy_00006;6;;impasse du berger;12740;12131;La Loubière;;;2.631501;44.406351
+12131_pdp94z_00080;80;;Impasse du Pré Vert;12740;12131;La Loubière;;Campeyroux;2.655737;44.404764
+12131_0010_00194;194;;Rue de l’Aubrac;12740;12131;La Loubière;;Lioujas;2.644154;44.412469
+12131_0456_00008;8;;Impasse du Tioulas;12740;12131;La Loubière;;Lioujas;2.634561;44.408522
+12131_0040_00014;14;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.631119;44.404965
+12131_0538_00113;113;;Impasse des Panicauts;12740;12131;La Loubière;;Lioujas;2.638473;44.403414
+12131_0012_00451;451;;Rue des Babissous;12740;12131;La Loubière;;Lioujas;2.647829;44.409752
+12131_0526_00020;20;;Impasse de la Croix;12740;12131;La Loubière;;La Loubiere;2.665691;44.370508
+12131_0555_00421;421;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.6674;44.37127
+12131_0540_00090;90;;Impasse du Coustal;12740;12131;La Loubière;;Canabols;2.652493;44.377948
+12131_0562_00148;148;;Rue de la Pareau;12740;12131;La Loubière;;Ortholes;2.637769;44.385547
+12131_0548_01990;1990;;Route de Gages;12740;12131;La Loubière;;Baraque de Turq;2.668623;44.385146
+12131_0115_00013;13;;Rue des Garennes;12740;12131;La Loubière;;Lioujas;2.637058;44.408115
+12131_0038_00004;4;;Impasse des Cazelles;12740;12131;La Loubière;;Lioujas;2.638613;44.406874
+12131_0050_00465;465;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.642567;44.411376
+12131_0015_00122;122;;Impasse des Baissassous;12740;12131;La Loubière;;Campeyroux;2.657376;44.404576
+12131_0050_00651;651;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.644078;44.410132
+12131_0552_00310;310;;Route des Chenes;12740;12131;La Loubière;;Canabols;2.652353;44.379904
+12131_0485_00004;4;;Impasse des Visigoths;12740;12131;La Loubière;;Lioujas;2.632855;44.406842
+12131_0115_00009;9;;Rue des Garennes;12740;12131;La Loubière;;Lioujas;2.637187;44.408481
+12131_0065_00001;1;;Place de la Fontaine;12740;12131;La Loubière;;Lioujas;2.628543;44.404191
+12131_0036_00769;769;;Chemin de Cayssac;12740;12131;La Loubière;;Cayssac;2.663603;44.399819
+12131_0380_00020;20;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.63297;44.401322
+12131_0561_00040;40;;Rue de la Canibiere;12740;12131;La Loubière;;Ortholes;2.637285;44.386222
+12131_0552_00757;757;;Route des Chenes;12740;12131;La Loubière;;Canabols;2.649514;44.380202
+12131_0552_00132;132;;Route des Chenes;12740;12131;La Loubière;;Canabols;2.653956;44.379322
+12131_0544_00027;27;;Impasse du Puech;12740;12131;La Loubière;;La Prade;2.667663;44.377743
+12131_0031_00001;1;;Impasse de la Canal;12740;12131;La Loubière;;Lioujas;2.638551;44.406065
+12131_0455_00009;9;;Place du Tioulas;12740;12131;La Loubière;;Lioujas;2.636705;44.407566
+12131_0020_00146;146;;Rue du Bon Pain;12740;12131;La Loubière;;Lioujas;2.643785;44.408954
+12131_0527_00124;124;;Impasse de la Fontaine;12740;12131;La Loubière;;Canabols;2.650643;44.382056
+12131_0511_00222;222;;Chemin des Aumets;12740;12131;La Loubière;;Ortholes;2.637645;44.386671
+12131_0570_00116;116;;Rue du Haut Village;12740;12131;La Loubière;;Canabols;2.651425;44.379626
+12131_0508_00115;115;;Chemin du Roucassou Haut;12740;12131;La Loubière;;Campeyroux;2.650905;44.405369
+12131_0553_00709;709;;Route des Deux Ponts;12740;12131;La Loubière;;La Prade;2.667473;44.378693
+12131_0560_00005;5;;Rue de l’Ortalet;12740;12131;La Loubière;;Ortholes;2.639134;44.387258
+12131_mvook0_00058;58;;Rue des Garrigues;12740;12131;La Loubière;;Lioujas;2.646401;44.411204
+12131_0552_00489;489;;Route des Chenes;12740;12131;La Loubière;;Canabols;2.650611;44.380906
+12131_0559_00042;42;;Rue de l’Esperance;12740;12131;La Loubière;;Canabols;2.651555;44.377871
+12131_0050_00754;754;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.644708;44.409331
+12131_0050_00049;49;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.639227;44.409028
+12131_0031_00003;3;;Impasse de la Canal;12740;12131;La Loubière;;Lioujas;2.638707;44.405986
+12131_0524_00116;116;;Impasse de la Bartasse;12740;12131;La Loubière;;Lioujas;2.647211;44.413598
+12131_0038_00007;7;;Impasse des Cazelles;12740;12131;La Loubière;;Lioujas;2.63878;44.40682
+12131_0033_00192;192;;Rue des Cardabelles;12740;12131;La Loubière;;Campeyroux;2.656363;44.403346
+12131_0520_00079;79;;Chemin des Roques;12740;12131;La Loubière;;Campeyroux;2.656418;44.40172
+12131_0573_00511;511;;Chemin de Combes Crozes;12740;12131;La Loubière;;Lioujas;2.639953;44.40177
+12131_0541_00071;71;;Impasse du Devezou;12740;12131;La Loubière;;Campeyroux;2.647798;44.40263
+12131_0552_00272;272;;Route des Chenes;12740;12131;La Loubière;;Canabols;2.652535;44.379607
+12131_0522_00001;1;;Impasse de l’Aven;12740;12131;La Loubière;;Lioujas;2.639321;44.404633
+12131_0045_00035;35;;Impasse Combe de Lauze;12740;12131;La Loubière;;Ortholes;2.636052;44.385454
+12131_0521_00056;56;;Impasse de Famejane;12740;12131;La Loubière;;Famejane;2.686401;44.378589
+12131_0525_00148;148;;Impasse de la Baryte;12740;12131;La Loubière;;Pessens;2.652902;44.362859
+12131_0022_00004;4;;Chemin de la Bourgade;12740;12131;La Loubière;;Lioujas;2.630034;44.408204
+12131_0518_00051;51;;Chemin des Pruniers;12740;12131;La Loubière;;Campeyroux;2.651797;44.402391
+12131_0050_00450;450;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.642394;44.411244
+12131_0502_00088;88;;Chemin de la Combe;12740;12131;La Loubière;;Les Cousteilles;2.662121;44.366109
+12131_0554_00880;880;;Route des Naucelats;12740;12131;La Loubière;;Pessens;2.652494;44.363802
+12131_0548_01387;1387;;Route de Gages;12740;12131;La Loubière;;Baraque de Turq;2.661691;44.382947
+12131_0100_00083;83;;Rue du Senecon;12740;12131;La Loubière;;Lioujas;2.645761;44.407512
+12131_0044_00002;2;;Impasse de Combedarlenque;12740;12131;La Loubière;;Lioujas;2.636132;44.402458
+12131_smgu4b_00065;65;;impasse de Solilève;12740;12131;La Loubière;;;2.639488;44.401264
+12131_0556_00469;469;;Route du Stade;12740;12131;La Loubière;;Lioujas;2.641674;44.408328
+12131_0036_00086;86;;Chemin de Cayssac;12740;12131;La Loubière;;Campeyroux;2.657597;44.402211
+12131_0507_00085;85;;Chemin du Radaillou;12740;12131;La Loubière;;Baraque de Turq;2.660411;44.383192
+12131_0115_00010;10;;Rue des Garennes;12740;12131;La Loubière;;Lioujas;2.636987;44.408477
+12131_0012_00052;52;;Rue des Babissous;12740;12131;La Loubière;;Lioujas;2.644653;44.412234
+12131_0037_00171;171;;Chemin de la Cazelle;12740;12131;La Loubière;;Campeyroux;2.660658;44.40287
+12131_0510_00238;238;;Chemin du Rouve;12740;12131;La Loubière;;La Loubiere;2.671091;44.369527
+12131_0043_00001;1;;Impasse du Combal;12740;12131;La Loubière;;Lioujas;2.640031;44.407647
+12131_0556_00204;204;;Route du Stade;12740;12131;La Loubière;;Lioujas;2.63847;44.408896
+12131_0535_00032;32;;Impasse des Louves;12740;12131;La Loubière;;La Loubiere;2.66599;44.370654
+12131_0573_00597;597;;Chemin de Combes Crozes;12740;12131;La Loubière;;Lioujas;2.640861;44.401368
+12131_0480_00003;3;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.630657;44.406056
+12131_0553_01252;1252;;Route des Deux Ponts;12740;12131;La Loubière;;La Prade;2.666788;44.374641
+12131_0065_00004;4;;Place de la Fontaine;12740;12131;La Loubière;;Lioujas;2.62844;44.404981
+12131_0022_00015;15;;Chemin de la Bourgade;12740;12131;La Loubière;;Lioujas;2.628685;44.405484
+12131_0029_00523;523;;Route de Campeyroux;12740;12131;La Loubière;;Campeyroux;2.653632;44.403132
+12131_0040_00029;29;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.6329;44.400977
+12131_0573_00120;120;;Chemin de Combes Crozes;12740;12131;La Loubière;;Lioujas;2.635282;44.40274
+12131_0036_00495;495;;Chemin de Cayssac;12740;12131;La Loubière;;Cayssac;2.661976;44.400497
+12131_0040_00016;16;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.631354;44.404937
+12131_0050_00579;579;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.643677;44.410751
+12131_0037_00095;95;;Chemin de la Cazelle;12740;12131;La Loubière;;Campeyroux;2.659562;44.402768
+12131_0554_02485;2485;;Route des Naucelats;12740;12131;La Loubière;;Les Cousteilles;2.665308;44.366012
+12131_0565_00059;59;;Rue des Aubepines;12740;12131;La Loubière;;Campeyroux;2.658178;44.405067
+12131_0017_00008;8;;Rue des Bergeries;12740;12131;La Loubière;;Campeyroux;2.654131;44.403781
+12131_0040_00001;1;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.631031;44.406398
+12131_0544_00018;18;;Impasse du Puech;12740;12131;La Loubière;;La Prade;2.667605;44.377874
+12131_0528_00020;20;;Impasse de la Passerelle;12740;12131;La Loubière;;Pessens;2.651834;44.363827
+12131_0570_00091;91;;Rue du Haut Village;12740;12131;La Loubière;;Canabols;2.651215;44.379808
+12131_0036_00275;275;;Chemin de Cayssac;12740;12131;La Loubière;;Campeyroux;2.659806;44.401956
+12131_0502_00020;20;;Chemin de la Combe;12740;12131;La Loubière;;Les Cousteilles;2.662987;44.366003
+12131_pdp94z_00186;186;;Impasse du Pré Vert;12740;12131;La Loubière;;Campeyroux;2.656311;44.404082
+12131_0534_00002;2;;Impasse des Genevriers;12740;12131;La Loubière;;Lioujas;2.640107;44.40676
+12131_0571_00083;83;;Rue du Poujet;12740;12131;La Loubière;;Campeyroux;2.659346;44.403441
+12131_0509_00057;57;;Chemin du Rougier;12740;12131;La Loubière;;Canabols;2.653418;44.377954
+12131_b8mr84_00035;35;;Rue du Puech;12740;12131;La Loubière;;Lioujas;2.644036;44.413111
+12131_0562_00064;64;;Rue de la Pareau;12740;12131;La Loubière;;Ortholes;2.636688;44.385835
+12131_0536_00003;3;;Impasse des Noisetiers;12740;12131;La Loubière;;Lioujas;2.641367;44.406478
+12131_0531_00101;101;;Impasse des Aumets;12740;12131;La Loubière;;Ortholes;2.637562;44.38698
+12131_0048_00651;651;;Chemin des Crozes;12740;12131;La Loubière;;Campeyroux;2.649079;44.401527
+12131_0025_00302;302;;Cote de la Brave;12740;12131;La Loubière;;Campeyroux;2.65052;44.401801
+12131_0040_00005;5;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.631236;44.406059
+12131_mi0ejd_00111;111;;rue de Cabassude;12740;12131;La Loubière;;Lioujas;2.637808;44.403997
+12131_0563_00192;192;;Rue de la Source;12740;12131;La Loubière;;Pessens;2.649315;44.364789
+12131_0555_00470;470;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.668007;44.37138
+12131_0380_00012;12;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.634288;44.401526
+12131_0036_00319;319;;Chemin de Cayssac;12740;12131;La Loubière;;Campeyroux;2.660408;44.401786
+12131_0050_00917;917;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.646284;44.408389
+12131_0023_00002;2;;Chemin de la Bouyssonie;12740;12131;La Loubière;;Lioujas;2.628147;44.404245
+12131_0033_00133;133;;Rue des Cardabelles;12740;12131;La Loubière;;Campeyroux;2.655819;44.403646
+12131_0511_00022;22;;Chemin des Aumets;12740;12131;La Loubière;;Ortholes;2.63521;44.386272
+12131_0060_00002;2;;Impasse des Epis;12740;12131;La Loubière;;Lioujas;2.640436;44.408093
+12131_0512_00040;40;;Chemin des Cadenettes;12740;12131;La Loubière;;Canabols;2.649723;44.38059
+12131_0526_00043;43;;Impasse de la Croix;12740;12131;La Loubière;;La Loubiere;2.665413;44.370462
+12131_0033_00011;11;;Rue des Cardabelles;12740;12131;La Loubière;;Campeyroux;2.655159;44.404472
+12131_0095_00018;18;;Rue de Fonteilles;12740;12131;La Loubière;;Lioujas;2.628059;44.40509
+12131_0557_00047;47;;Ruelle du Berger;12740;12131;La Loubière;;Ortholes;2.633563;44.387209
+12131_0385_00002;2;;Cote du Paradis;12740;12131;La Loubière;;Lioujas;2.630719;44.405088
+12131_0480_00014;14;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.629605;44.404707
+12131_0527_00094;94;;Impasse de la Fontaine;12740;12131;La Loubière;;Canabols;2.650875;44.381764
+12131_0506_00060;60;;Chemin du Plo;12740;12131;La Loubière;;Ortholes;2.634621;44.386704
+12131_mi0ejd_00048;48;;rue de Cabassude;12740;12131;La Loubière;;Lioujas;2.638521;44.404
+12131_0038_00005;5;;Impasse des Cazelles;12740;12131;La Loubière;;Lioujas;2.638739;44.407052
+12131_0565_00113;113;;Rue des Aubepines;12740;12131;La Loubière;;Campeyroux;2.658068;44.405615
+12131_0034_00021;21;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.637801;44.405957
+12131_0014_00148;148;;Rue des Baissassous;12740;12131;La Loubière;;Campeyroux;2.657829;44.403361
+12131_0553_00743;743;;Route des Deux Ponts;12740;12131;La Loubière;;La Prade;2.667522;44.378411
+12131_0517_00033;33;;Chemin Noir;12740;12131;La Loubière;;Canabols;2.652042;44.380592
+12131_0037_00229;229;;Chemin de la Cazelle;12740;12131;La Loubière;;Campeyroux;2.661386;44.402847
+12131_0046_00010;10;;Rue du Comtal;12740;12131;La Loubière;;Lioujas;2.636526;44.409033
+12131_0040_00020;20;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.632193;44.404186
+12131_0551_00115;115;;Route de Concoures;12740;12131;La Loubière;;Lioujas;2.643529;44.414899
+12131_0097_00003;3;;Rue des Frenes;12740;12131;La Loubière;;Lioujas;2.635656;44.408592
+12131_0562_00125;125;;Rue de la Pareau;12740;12131;La Loubière;;Ortholes;2.637534;44.385692
+12131_0020_00055;55;;Rue du Bon Pain;12740;12131;La Loubière;;Lioujas;2.64436;44.408211
+12131_0014_00306;306;;Rue des Baissassous;12740;12131;La Loubière;;Campeyroux;2.658775;44.404637
+12131_0529_00240;240;;Impasse de la Vayssiere;12740;12131;La Loubière;;La Vayssiere;2.677131;44.376644
+12131_0545_00059;59;;Impasse du Rouzies;12740;12131;La Loubière;;Baraque de Turq;2.663594;44.383794
+12131_0515_00338;338;;Chemin des Douzes;12740;12131;La Loubière;;Ortholes;2.627365;44.387345
+12131_0110_00005;5;;Rue de Garacel;12740;12131;La Loubière;;Lioujas;2.629062;44.406875
+12131_0520_00156;156;;Chemin des Roques;12740;12131;La Loubière;;Campeyroux;2.656415;44.401378
+12131_0541_00007;7;;Impasse du Devezou;12740;12131;La Loubière;;Campeyroux;2.648644;44.402309
+12131_0005_00002;2;;Rue des Abbesses;12740;12131;La Loubière;;Lioujas;2.629673;44.404161
+12131_0556_00046;46;;Route du Stade;12740;12131;La Loubière;;Lioujas;2.637032;44.409882
+12131_0420_00062;62;;Rue de la Ramade;12740;12131;La Loubière;;Campeyroux;2.653304;44.402839
+12131_0040_00004;4;;rue du Chateau d'Eau;12740;12131;La Loubière;;;2.631115;44.405872
+12131_0563_00417;417;;Rue de la Source;12740;12131;La Loubière;;Pessens;2.651353;44.364019
+12131_0033_00083;83;;Rue des Cardabelles;12740;12131;La Loubière;;Campeyroux;2.655376;44.403888
+12131_0545_00015;15;;Impasse du Rouzies;12740;12131;La Loubière;;Baraque de Turq;2.663105;44.383577
+12131_0554_02112;2112;;Route des Naucelats;12740;12131;La Loubière;;Les Cousteilles;2.661537;44.367295
+12131_smgu4b_00217;217;;impasse de Solilève;12740;12131;La Loubière;;Lioujas;2.640905;44.400572
+12131_0514_00058;58;;Chemin des Crouzettes;12740;12131;La Loubière;;Ortholes;2.632654;44.386274
+12131_0501_00100;100;;Chemin de la Brave Haute;12740;12131;La Loubière;;Campeyroux;2.652719;44.401318
+12131_0110_00007;7;;Rue de Garacel;12740;12131;La Loubière;;Lioujas;2.628907;44.406536
+12131_0036_00288;288;;Chemin de Cayssac;12740;12131;La Loubière;;Campeyroux;2.659988;44.401731
+12131_0550_01254;1254;;Route d’Argent;12740;12131;La Loubière;;Lioujas;2.629734;44.406227
+12131_0509_00097;97;;Chemin du Rougier;12740;12131;La Loubière;;Canabols;2.652984;44.377799
+12131_0022_00001;1;;Chemin de la Bourgade;12740;12131;La Loubière;;Lioujas;2.630018;44.407717
+12131_pdp94z_00273;273;;Impasse du Pré Vert;12740;12131;La Loubière;;Campeyroux;2.656414;44.404954
+12131_0533_00003;3;;Impasse des Eglantiers;12740;12131;La Loubière;;Lioujas;2.640998;44.406025
+12131_0017_00056;56;;Rue des Bergeries;12740;12131;La Loubière;;Campeyroux;2.65471;44.403668
+12131_0380_00006;6;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.634753;44.402182
+12131_0014_00112;112;;Rue des Baissassous;12740;12131;La Loubière;;Campeyroux;2.657504;44.403148
+12131_0048_00001;1;;Chemin des Crozes;12740;12131;La Loubière;;Campeyroux;2.650382;44.404395
+12131_0554_01984;1984;;Route des Naucelats;12740;12131;La Loubière;;Les Cousteilles;2.660334;44.368028
+12131_0022_00014;14;;Chemin de la Bourgade;12740;12131;La Loubière;;Lioujas;2.628693;44.406176
+12131_0503_00276;276;;Chemin de Pailhories;12740;12131;La Loubière;;Pailhories;2.654867;44.399776
+12131_0532_00118;118;;Impasse des Bentouses;12740;12131;La Loubière;;Les Cousteilles;2.663674;44.366767
+12131_0480_00013;13;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.630347;44.405299
+12131_0038_00006;6;;Impasse des Cazelles;12740;12131;La Loubière;;Lioujas;2.638541;44.406651
+12131_0552_00854;854;;Route des Chenes;12740;12131;La Loubière;;Canabols;2.648252;44.380319
+12131_0048_00355;355;;Chemin des Crozes;12740;12131;La Loubière;;Campeyroux;2.648288;44.402945
+12131_0516_00171;171;;Chemin du Passage a Niveau;12740;12131;La Loubière;;Canabols;2.655702;44.37932
+12131_0564_00110;110;;Rue de la Tour;12740;12131;La Loubière;;Ortholes;2.633522;44.387793
+12131_0010_00024;24;;Rue de l’Aubrac;12740;12131;La Loubière;;Lioujas;2.642912;44.411538
+12131_0036_00179;179;;Chemin de Cayssac;12740;12131;La Loubière;;Campeyroux;2.658766;44.402212
+12131_0050_00090;90;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.63949;44.409364
+12131_0555_00338;338;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.666591;44.370832
+12131_0510_00198;198;;Chemin du Rouve;12740;12131;La Loubière;;La Loubiere;2.670717;44.369829
+12131_0563_00168;168;;Rue de la Source;12740;12131;La Loubière;;Pessens;2.649273;44.365016
+12131_0095_00002;2;;Rue de Fonteilles;12740;12131;La Loubière;;Lioujas;2.627125;44.404443
+12131_0556_00684;684;;Route du Stade;12740;12131;La Loubière;;Lioujas;2.64387;44.407425
+12131_0050_00252;252;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.640256;44.410455
+12131_0380_00016;16;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.633305;44.401572
+12131_0480_00004;4;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.630133;44.405663
+12131_0573_00495;495;;Chemin de Combes Crozes;12740;12131;La Loubière;;Lioujas;2.639795;44.401853
+12131_0571_00141;141;;Rue du Poujet;12740;12131;La Loubière;;Campeyroux;2.659859;44.403525
+12131_0508_00071;71;;Chemin du Roucassou Haut;12740;12131;La Loubière;;Campeyroux;2.649762;44.405622
+12131_0556_00535;535;;Route du Stade;12740;12131;La Loubière;;Lioujas;2.642471;44.40823
+12131_0025_00072;72;;Cote de la Brave;12740;12131;La Loubière;;Campeyroux;2.652274;44.402866
+12131_0565_00051;51;;Rue des Aubepines;12740;12131;La Loubière;;Campeyroux;2.658238;44.404957
+12131_0559_00052;52;;Rue de l’Esperance;12740;12131;La Loubière;;Canabols;2.651466;44.377951
+12131_0023_00008;8;;Chemin de la Bouyssonie;12740;12131;La Loubière;;Lioujas;2.627983;44.403996
+12131_0528_00140;140;;Impasse de la Passerelle;12740;12131;La Loubière;;Pessens;2.651962;44.362697
+12131_0503_00429;429;;Chemin de Pailhories;12740;12131;La Loubière;;Pailhories;2.655211;44.398524
+12131_0380_00009;9;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.63485;44.401425
+12131_0065_00002;2;;Place de la Fontaine;12740;12131;La Loubière;;Lioujas;2.628442;44.404972
+12131_0573_00628;628;;Chemin de Combes Crozes;12740;12131;La Loubière;;Lioujas;2.641133;44.401131
+12131_0036_00717;717;;Chemin de Cayssac;12740;12131;La Loubière;;Cayssac;2.663022;44.400014
+12131_0507_00276;276;;Chemin du Radaillou;12740;12131;La Loubière;;Baraque de Turq;2.658561;44.384158
+12131_0450_00004;4;;Rue des Terres Rouges;12740;12131;La Loubière;;Lioujas;2.638446;44.405127
+12131_0555_00254;254;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.667117;44.370484
+12131_0509_00153;153;;Chemin du Rougier;12740;12131;La Loubière;;Canabols;2.65249;44.377457
+12131_0115_00016;16;;Rue des Garennes;12740;12131;La Loubière;;Lioujas;2.636803;44.40814
+12131_0031_00005;5;;Impasse de la Canal;12740;12131;La Loubière;;Lioujas;2.638711;44.405787
+12131_0561_00110;110;;Rue de la Canibiere;12740;12131;La Loubière;;Ortholes;2.638087;44.386378
+12131_0510_00105;105;;Chemin du Rouve;12740;12131;La Loubière;;La Loubiere;2.670339;44.370618
+12131_0506_00033;33;;Chemin du Plo;12740;12131;La Loubière;;Ortholes;2.634723;44.386459
+12131_0568_00064;64;;Rue du Couderc;12740;12131;La Loubière;;Campeyroux;2.656171;44.402889
+12131_0062_00179;179;;Chemin Ferre;12740;12131;La Loubière;;Ortholes;2.638574;44.386706
+12131_0048_00491;491;;Chemin des Crozes;12740;12131;La Loubière;;Campeyroux;2.649471;44.402173
+12131_0548_01469;1469;;Route de Gages;12740;12131;La Loubière;;Baraque de Turq;2.662613;44.383303
+12131_0037_00096;96;;Chemin de la Cazelle;12740;12131;La Loubière;;Campeyroux;2.659613;44.402627
+12131_0519_00334;334;;Cote du Chemin Vert;12740;12131;La Loubière;;Canabols;2.651893;44.377389
+12131_0005_00003;3;;Rue des Abbesses;12740;12131;La Loubière;;Lioujas;2.629386;44.404645
+12131_0564_00091;91;;Rue de la Tour;12740;12131;La Loubière;;Ortholes;2.633277;44.387853
+12131_0456_00007;7;;Impasse du Tioulas;12740;12131;La Loubière;;Lioujas;2.635276;44.408041
+12131_0532_00137;137;;Impasse des Bentouses;12740;12131;La Loubière;;Les Cousteilles;2.663449;44.366605
+12131_0560_00042;42;;Rue de l’Ortalet;12740;12131;La Loubière;;Ortholes;2.639227;44.386963
+12131_0420_00680;680;;Rue de la Ramade;12740;12131;La Loubière;;Pailhories;2.653049;44.399296
+12131_0553_00883;883;;Route des Deux Ponts;12740;12131;La Loubière;;La Prade;2.6684;44.377341
+12131_0008_00015;15;;Chemin de l’Arjalette;12740;12131;La Loubière;;Campeyroux;2.650322;44.401456
+12131_0380_00008;8;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.634627;44.402063
+12131_0022_00008;8;;Chemin de la Bourgade;12740;12131;La Loubière;;Lioujas;2.630403;44.409031
+12131_0005_00001;1;;Rue des Abbesses;12740;12131;La Loubière;;Lioujas;2.629376;44.404638
+12131_0036_00781;781;;Chemin de Cayssac;12740;12131;La Loubière;;Cayssac;2.663715;44.399748
+12131_0517_00018;18;;Chemin Noir;12740;12131;La Loubière;;Canabols;2.652157;44.380411
+12131_pdp94z_00116;116;;Impasse du Pré Vert;12740;12131;La Loubière;;Campeyroux;2.655864;44.404453
+12131_0014_00302;302;;Rue des Baissassous;12740;12131;La Loubière;;Campeyroux;2.658765;44.404608
+12131_0062_00301;301;;Chemin Ferre;12740;12131;La Loubière;;Ortholes;2.639112;44.387704
+12131_0046_00001;1;;Rue du Comtal;12740;12131;La Loubière;;Lioujas;2.636909;44.409184
+12131_0525_00073;73;;Impasse de la Baryte;12740;12131;La Loubière;;Pessens;2.652858;44.363541
+12131_0048_00242;242;;Chemin des Crozes;12740;12131;La Loubière;;Campeyroux;2.648419;44.403821
+12131_0060_00004;4;;Impasse des Epis;12740;12131;La Loubière;;Lioujas;2.640628;44.407931
+12131_0036_00222;222;;Chemin de Cayssac;12740;12131;La Loubière;;Campeyroux;2.659195;44.401926
+12131_0530_00112;112;;Impasse des Acacias;12740;12131;La Loubière;;Canabols;2.65062;44.377414
+12131_0480_00007;7;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.630283;44.405728
+12131_0565_00317;317;;Rue des Aubepines;12740;12131;La Loubière;;Campeyroux;2.65593;44.40555
+12131_0095_00014;14;;Rue de Fonteilles;12740;12131;La Loubière;;Lioujas;2.628151;44.405852
+12131_0060_00008;8;;Impasse des Epis;12740;12131;La Loubière;;Lioujas;2.641374;44.40784
+12131_0561_00122;122;;Rue de la Canibiere;12740;12131;La Loubière;;Ortholes;2.638166;44.386562
+12131_0562_00035;35;;Rue de la Pareau;12740;12131;La Loubière;;Ortholes;2.636479;44.385967
+12131_0528_00034;34;;Impasse de la Passerelle;12740;12131;La Loubière;;Pessens;2.651776;44.363681
+12131_0518_00053;53;;Chemin des Pruniers;12740;12131;La Loubière;;Campeyroux;2.6518;44.402416
+12131_0038_00002;2;;Impasse des Cazelles;12740;12131;La Loubière;;Lioujas;2.638613;44.407205
+12131_0034_00019;19;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.637648;44.405713
+12131_0506_00188;188;;Chemin du Plo;12740;12131;La Loubière;;Ortholes;2.634792;44.387663
+12131_0511_00196;196;;Chemin des Aumets;12740;12131;La Loubière;;Ortholes;2.637259;44.38651
+12131_0465_00004;4;;Chemin du Trescual;12740;12131;La Loubière;;Lioujas;2.640303;44.40411
+12131_0567_00460;460;;Rue des Touroulis;12740;12131;La Loubière;;Ortholes;2.631498;44.38712
+12131_0480_00012;12;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.629655;44.404697
+12131_0510_00220;220;;Chemin du Rouve;12740;12131;La Loubière;;La Loubiere;2.670795;44.369645
+12131_0572_00053;53;;Rue du Puits;12740;12131;La Loubière;;Ortholes;2.63357;44.387552
+12131_0510_00007;7;;Chemin du Rouve;12740;12131;La Loubière;;La Loubiere;2.669611;44.371296
+12131_0095_00015;15;;Rue de Fonteilles;12740;12131;La Loubière;;Lioujas;2.628047;44.40564
+12131_pdp94z_00350;350;;Impasse du Pré Vert;12740;12131;La Loubière;;Campeyroux;2.656464;44.405599
+12131_0380_00018;18;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.633168;44.401518
+12131_0546_00041;41;;Impasse du Tilleuil;12740;12131;La Loubière;;Pailhories;2.654498;44.398844
+12131_0036_00791;791;;Chemin de Cayssac;12740;12131;La Loubière;;Cayssac;2.663847;44.399732
+12131_0509_00025;25;;Chemin du Rougier;12740;12131;La Loubière;;Canabols;2.653757;44.378099
+12131_0550_01733;1733;;Route d’Argent;12740;12131;La Loubière;;Lioujas;2.63426;44.408942
+12131_0450_00001;1;;Rue des Terres Rouges;12740;12131;La Loubière;;Lioujas;2.638416;44.404619
+12131_0567_00733;733;;Rue des Touroulis;12740;12131;La Loubière;;Ortholes;2.634612;44.386234
+12131_0110_00006;6;;Rue de Garacel;12740;12131;La Loubière;;Lioujas;2.629647;44.407379
+12131_0553_00869;869;;Route des Deux Ponts;12740;12131;La Loubière;;La Prade;2.668431;44.377471
+12131_0506_00201;201;;Chemin du Plo;12740;12131;La Loubière;;Ortholes;2.634775;44.387844
+12131_0508_00031;31;;Chemin du Roucassou Haut;12740;12131;La Loubière;;Campeyroux;2.649503;44.405251
+12131_0573_00027;27;;Chemin de Combes Crozes;12740;12131;La Loubière;;Lioujas;2.634208;44.40304
+12131_0506_00118;118;;Chemin du Plo;12740;12131;La Loubière;;Ortholes;2.634439;44.387131
+12131_0034_00001;1;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.633982;44.404761
+12131_0040_00036;36;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.632649;44.400432
+12131_0385_00005;5;;Cote du Paradis;12740;12131;La Loubière;;Lioujas;2.630676;44.404991
+12131_0563_00382;382;;Rue de la Source;12740;12131;La Loubière;;Pessens;2.651099;44.363751
+12131_0553_00716;716;;Route des Deux Ponts;12740;12131;La Loubière;;La Prade;2.667292;44.378627
+12131_0380_00002;2;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.634787;44.402693
+12131_0548_00428;428;;Route de Gages;12740;12131;La Loubière;;Canabols;2.653889;44.377462
+12131_0040_00025;25;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.633428;44.402302
+12131_0569_00017;17;;Rue du Coudercou;12740;12131;La Loubière;;Ortholes;2.633477;44.387017
+12131_0060_00001;1;;Impasse des Epis;12740;12131;La Loubière;;Lioujas;2.640836;44.408024
+12131_0548_01965;1965;;Route de Gages;12740;12131;La Loubière;;Baraque de Turq;2.668254;44.385128
+12131_0014_00271;271;;Rue des Baissassous;12740;12131;La Loubière;;Campeyroux;2.65844;44.404327
+12131_0010_00158;158;;Rue de l’Aubrac;12740;12131;La Loubière;;Lioujas;2.643592;44.412379
+12131_0034_00017;17;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.637529;44.405462
+12131_0534_00003;3;;Impasse des Genevriers;12740;12131;La Loubière;;Lioujas;2.640513;44.406818
+12131_0040_00021;21;;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.633864;44.403145
+12131_0512_00108;108;;Chemin des Cadenettes;12740;12131;La Loubière;;Canabols;2.649006;44.380952
+12131_0050_00871;871;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.646134;44.4089
+12131_0553_01159;1159;;Route des Deux Ponts;12740;12131;La Loubière;;La Prade;2.667809;44.375067
+12131_0525_00111;111;;Impasse de la Baryte;12740;12131;La Loubière;;Pessens;2.653014;44.363195
+12131_0552_00203;203;;Route des Chenes;12740;12131;La Loubière;;Canabols;2.653068;44.379027
+12131_0100_00044;44;;Rue du Senecon;12740;12131;La Loubière;;Lioujas;2.645445;44.407379
+12131_0571_00127;127;;Rue du Poujet;12740;12131;La Loubière;;Campeyroux;2.659738;44.403666
+12131_0540_00060;60;;Impasse du Coustal;12740;12131;La Loubière;;Canabols;2.652438;44.378342
+12131_0553_01379;1379;;Route des Deux Ponts;12740;12131;La Loubière;;La Prade;2.665622;44.373888
+12131_0034_00025;25;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.637833;44.406783
+12131_0567_00920;920;;Rue des Touroulis;12740;12131;La Loubière;;Ortholes;2.636678;44.385529
+12131_0557_00033;33;;Ruelle du Berger;12740;12131;La Loubière;;Ortholes;2.633397;44.387256
+12131_0022_00011;11;;Chemin de la Bourgade;12740;12131;La Loubière;;Lioujas;2.628801;44.406031
+12131_pdp94z_00125;125;;Impasse du Pré Vert;12740;12131;La Loubière;;Campeyroux;2.65599;44.404396
+12131_0115_00003;3;;Rue des Garennes;12740;12131;La Loubière;;Lioujas;2.637793;44.408904
+12131_pdp94z_00220;220;;Impasse du Pré Vert;12740;12131;La Loubière;;Campeyroux;2.656538;44.404424
+12131_0535_00027;27;;Impasse des Louves;12740;12131;La Loubière;;La Loubiere;2.666116;44.370641
+12131_0046_00008;8;;Rue du Comtal;12740;12131;La Loubière;;Lioujas;2.636571;44.409139
+12131_0015_00051;51;;Impasse des Baissassous;12740;12131;La Loubière;;Campeyroux;2.657491;44.403666
+12131_0455_00003;3;;Place du Tioulas;12740;12131;La Loubière;;Lioujas;2.637074;44.407636
+12131_0037_00046;46;;Chemin de la Cazelle;12740;12131;La Loubière;;Campeyroux;2.659034;44.402482
+12131_0525_00024;24;;Impasse de la Baryte;12740;12131;La Loubière;;Pessens;2.652325;44.363749
+12131_0050_00639;639;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.643991;44.410238
+12131_0022_00006;6;;Chemin de la Bourgade;12740;12131;La Loubière;;Lioujas;2.630532;44.408748
+12131_0015_00077;77;;Impasse des Baissassous;12740;12131;La Loubière;;Campeyroux;2.657337;44.404131
+12131_0036_00242;242;;Chemin de Cayssac;12740;12131;La Loubière;;Campeyroux;2.659471;44.401848
+12131_0045_00050;50;;Impasse Combe de Lauze;12740;12131;La Loubière;;Ortholes;2.63584;44.385382
+12131_0044_00006;6;;Impasse de Combedarlenque;12740;12131;La Loubière;;Lioujas;2.636143;44.402113
+12131_0033_00165;165;;Rue des Cardabelles;12740;12131;La Loubière;;Campeyroux;2.656176;44.403545
+12131_0573_00285;285;;Chemin de Combes Crozes;12740;12131;La Loubière;;Lioujas;2.637301;44.402477
+12131_0029_00350;350;;Route de Campeyroux;12740;12131;La Loubière;;Campeyroux;2.651568;44.403913
+12131_0034_00027;27;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.637871;44.407913
+12131_0573_00544;544;;Chemin de Combes Crozes;12740;12131;La Loubière;;Lioujas;2.640181;44.401539
+12131_0023_00016;16;;Chemin de la Bouyssonie;12740;12131;La Loubière;;Lioujas;2.62713;44.403049
+12131_0567_00954;954;;Rue des Touroulis;12740;12131;La Loubière;;Ortholes;2.637062;44.385401
+12131_0555_00571;571;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.669281;44.371457
+12131_0060_00006;6;;Impasse des Epis;12740;12131;La Loubière;;Lioujas;2.6409;44.407909
+12131_0548_00879;879;;Route de Gages;12740;12131;La Loubière;;Canabols;2.655735;44.381295
+12131_0550_01723;1723;;Route d’Argent;12740;12131;La Loubière;;Lioujas;2.634149;44.408884
+12131_0005_00020;20;;Rue des Abbesses;12740;12131;La Loubière;;Lioujas;2.631943;44.401612
+12131_0571_00115;115;;Rue du Poujet;12740;12131;La Loubière;;Campeyroux;2.659594;44.403737
+12131_0048_00561;561;;Chemin des Crozes;12740;12131;La Loubière;;Campeyroux;2.650092;44.401751
+12131_0095_00004;4;;Rue de Fonteilles;12740;12131;La Loubière;;Lioujas;2.626599;44.404354
+12131_0515_00127;127;;Chemin des Douzes;12740;12131;La Loubière;;Ortholes;2.630022;44.386783
+12131_0513_00033;33;;Chemin des Cazalous;12740;12131;La Loubière;;Ortholes;2.630243;44.389028
+12131_0532_00035;35;;Impasse des Bentouses;12740;12131;La Loubière;;Les Cousteilles;2.66415;44.366146
+12131_0573_00522;522;;Chemin de Combes Crozes;12740;12131;La Loubière;;Lioujas;2.640014;44.401633
+12131_0565_00087;87;;Rue des Aubepines;12740;12131;La Loubière;;Campeyroux;2.658139;44.405142
+12131_0097_00005;5;;Rue des Frenes;12740;12131;La Loubière;;Lioujas;2.635471;44.408593
+12131_0040_00021_bis;21;bis;rue du Chateau d'Eau;12740;12131;La Loubière;;Lioujas;2.633953;44.402856
+12131_0110_00009;9;;Rue de Garacel;12740;12131;La Loubière;;Lioujas;2.628871;44.406339
+12131_0532_00051;51;;Impasse des Bentouses;12740;12131;La Loubière;;Les Cousteilles;2.664081;44.366275
+12131_0029_00695;695;;Route de Campeyroux;12740;12131;La Loubière;;Campeyroux;2.65557;44.402625
+12131_0565_00047;47;;Rue des Aubepines;12740;12131;La Loubière;;Campeyroux;2.658295;44.40493
+12131_0507_00154;154;;Chemin du Radaillou;12740;12131;La Loubière;;Baraque de Turq;2.659914;44.383713
+12131_0020_00016;16;;Rue du Bon Pain;12740;12131;La Loubière;;Lioujas;2.644799;44.408011
+12131_0509_00141;141;;Chemin du Rougier;12740;12131;La Loubière;;Canabols;2.652588;44.377534
+12131_0501_00134;134;;Chemin de la Brave Haute;12740;12131;La Loubière;;Campeyroux;2.653014;44.401352
+12131_0034_00020;20;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.637791;44.405607
+12131_0537_00024;24;;Impasse des Perdrix;12740;12131;La Loubière;;Lioujas;2.636304;44.401628
+12131_0534_00004;4;;Impasse des Genevriers;12740;12131;La Loubière;;Lioujas;2.640144;44.406379
+12131_0005_00016;16;;Rue des Abbesses;12740;12131;La Loubière;;Lioujas;2.631588;44.401971
+12131_0528_00030;30;;Impasse de la Passerelle;12740;12131;La Loubière;;Pessens;2.651796;44.363735
+12131_0038_00009;9;;Impasse des Cazelles;12740;12131;La Loubière;;Lioujas;2.638749;44.406569
+12131_0566_00220;220;;Rue des Marronniers;12740;12131;La Loubière;;Ortholes;2.633036;44.386957
+12131_0566_00277;277;;Rue des Marronniers;12740;12131;La Loubière;;Ortholes;2.633546;44.386678
+12131_0535_00102;102;;Impasse des Louves;12740;12131;La Loubière;;La Loubiere;2.665622;44.370132
+12131_0012_00107;107;;Rue des Babissous;12740;12131;La Loubière;;Lioujas;2.64517;44.411996
+12131_0017_00170;170;;Rue des Bergeries;12740;12131;La Loubière;;Campeyroux;2.655274;44.403083
+12131_0535_00107;107;;Impasse des Louves;12740;12131;La Loubière;;La Loubiere;2.665646;44.370015
+12131_0566_00271;271;;Rue des Marronniers;12740;12131;La Loubière;;Ortholes;2.633518;44.38671
+12131_mffw6f_00086;86;;Chemin du Touret;12740;12131;La Loubière;;Lioujas;2.630697;44.414045
+12131_0511_00142;142;;Chemin des Aumets;12740;12131;La Loubière;;Ortholes;2.636738;44.386328
+12131_0537_00076;76;;Impasse des Perdrix;12740;12131;La Loubière;;Lioujas;2.636239;44.401271
+12131_0554_01149;1149;;Route des Naucelats;12740;12131;La Loubière;;Pessens;2.654281;44.365709
+12131_0036_00677;677;;Chemin de Cayssac;12740;12131;La Loubière;;Cayssac;2.662557;44.400152
+12131_0567_00710;710;;Rue des Touroulis;12740;12131;La Loubière;;Ortholes;2.6343;44.386093
+12131_0480_00015;15;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.630356;44.405016
+12131_0380_00013;13;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.634496;44.401391
+12131_0095_00013;13;;Rue de Fonteilles;12740;12131;La Loubière;;Lioujas;2.628085;44.405917
+12131_0062_00099;99;;Chemin Ferre;12740;12131;La Loubière;;Ortholes;2.638214;44.38604
+12131_0067_00001;1;;Chemin de la Fontanelle;12740;12131;La Loubière;;Lioujas;2.631084;44.404334
+12131_0115_00001;1;;Rue des Garennes;12740;12131;La Loubière;;Lioujas;2.638018;44.409068
+12131_0547_00063;63;;Impasse Laumiere;12740;12131;La Loubière;;Canabols;2.653755;44.379939
+12131_0552_00033;33;;Route des Chenes;12740;12131;La Loubière;;Canabols;2.653785;44.378415
+12131_0100_00086;86;;Rue du Senecon;12740;12131;La Loubière;;Lioujas;2.64603;44.407475
+12131_0573_00123;123;;Chemin de Combes Crozes;12740;12131;La Loubière;;Lioujas;2.635341;44.402873
+12131_0034_00034;34;;Allees des Castelets;12740;12131;La Loubière;;Lioujas;2.63856;44.40786
+12131_0095_00008;8;;Rue de Fonteilles;12740;12131;La Loubière;;Lioujas;2.627703;44.405277
+12131_0571_00079;79;;Rue du Poujet;12740;12131;La Loubière;;Campeyroux;2.65932;44.403383
+12131_0573_00590;590;;Chemin de Combes Crozes;12740;12131;La Loubière;;Lioujas;2.640711;44.401253
+12131_0380_00004;4;;Rue des Pallies;12740;12131;La Loubière;;Lioujas;2.634763;44.402491
+12131_mi0ejd_00125;125;;rue de Cabassude;12740;12131;La Loubière;;Lioujas;2.637565;44.403851
+12131_0023_00014;14;;Chemin de la Bouyssonie;12740;12131;La Loubière;;Lioujas;2.626976;44.403138
+12131_0012_00397;397;;Rue des Babissous;12740;12131;La Loubière;;Lioujas;2.647455;44.409898
+12131_0555_00095;95;;Route du Rieutord;12740;12131;La Loubière;;La Loubiere;2.666015;44.369218
+12131_0514_00296;296;;Chemin des Crouzettes;12740;12131;La Loubière;;Ortholes;2.631148;44.384653
+12131_0014_00209;209;;Rue des Baissassous;12740;12131;La Loubière;;Campeyroux;2.658208;44.403793
+12131_0546_00054;54;;Impasse du Tilleuil;12740;12131;La Loubière;;Pailhories;2.654229;44.398898
+12131_0531_00032;32;;Impasse des Aumets;12740;12131;La Loubière;;Ortholes;2.638428;44.387319
+12131_0554_00330;330;;Route des Naucelats;12740;12131;La Loubière;;Pessens;2.648811;44.36752
+12131_0543_00231;231;;Impasse du Pigeonnier;12740;12131;La Loubière;;Les Cousteilles;2.664517;44.363812
+12131_0535_00083;83;;Impasse des Louves;12740;12131;La Loubière;;La Loubiere;2.665882;44.370173
+12131_0097_00001;1;;Rue des Frenes;12740;12131;La Loubière;;Lioujas;2.636229;44.40852
+12131_0522_00003;3;;Impasse de l’Aven;12740;12131;La Loubière;;Lioujas;2.639089;44.404664
+12131_0005_00021;21;;Rue des Abbesses;12740;12131;La Loubière;;Lioujas;2.631426;44.402278
+12131_0522_00008;8;;Impasse de l’Aven;12740;12131;La Loubière;;Lioujas;2.639099;44.40476
+12131_0060_00012;12;;Impasse des Epis;12740;12131;La Loubière;;Lioujas;2.641956;44.407777
+12131_0022_00013;13;;Chemin de la Bourgade;12740;12131;La Loubière;;Lioujas;2.628785;44.405906
+12131_0115_00014;14;;Rue des Garennes;12740;12131;La Loubière;;Lioujas;2.636674;44.408198
+12131_0060_00007;7;;Impasse des Epis;12740;12131;La Loubière;;Lioujas;2.641895;44.407923
+12131_0570_00066;66;;Rue du Haut Village;12740;12131;La Loubière;;Canabols;2.650862;44.379873
+12131_0501_00092;92;;Chemin de la Brave Haute;12740;12131;La Loubière;;Campeyroux;2.652483;44.40133
+12131_0014_00200;200;;Rue des Baissassous;12740;12131;La Loubière;;Campeyroux;2.658328;44.403725
+12131_0050_00078;78;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.639472;44.409249
+12131_0017_00153;153;;Rue des Bergeries;12740;12131;La Loubière;;Campeyroux;2.655568;44.403166
+12131_0507_00062;62;;Chemin du Radaillou;12740;12131;La Loubière;;Baraque de Turq;2.66075;44.38314
+12131_0010_00130;130;;Rue de l’Aubrac;12740;12131;La Loubière;;Lioujas;2.643302;44.412212
+12131_0480_00019;19;;Rue du Vieux Village;12740;12131;La Loubière;;Lioujas;2.630238;44.404676
+12131_0050_00258;258;;Rue de la Deveze Grande;12740;12131;La Loubière;;Lioujas;2.64032;44.410492
+12131_0097_00002;2;;Rue des Frenes;12740;12131;La Loubière;;Lioujas;2.636292;44.40864
+12131_0564_00075;75;;Rue de la Tour;12740;12131;La Loubière;;Ortholes;2.633077;44.387773

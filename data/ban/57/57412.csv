@@ -1,0 +1,847 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+57412_pbd80b_00001;1;;Rue Sous Les Chenêts;57050;57412;Longeville-lès-Metz;;;6.136016;49.11496
+57412_pbd80b_00002;2;;Rue Sous Les Chenêts;57050;57412;Longeville-lès-Metz;;;6.135943;49.115097
+57412_0010_00001;1;;Rue du Beau Rivage;57050;57412;Longeville-lès-Metz;;;6.153225;49.116217
+57412_0010_00002;2;;Rue du Beau Rivage;57050;57412;Longeville-lès-Metz;;;6.151066;49.117283
+57412_0010_00003;3;;Rue du Beau Rivage;57050;57412;Longeville-lès-Metz;;;6.153004;49.116311
+57412_0010_00007;7;;Rue du Beau Rivage;57050;57412;Longeville-lès-Metz;;;6.152818;49.116403
+57412_0010_00009;9;;Rue du Beau Rivage;57050;57412;Longeville-lès-Metz;;;6.152622;49.116497
+57412_0010_00011;11;;Rue du Beau Rivage;57050;57412;Longeville-lès-Metz;;;6.152393;49.116596
+57412_0010_00013;13;;Rue du Beau Rivage;57050;57412;Longeville-lès-Metz;;;6.152129;49.116718
+57412_0010_00015;15;;Rue du Beau Rivage;57050;57412;Longeville-lès-Metz;;;6.151926;49.116809
+57412_0010_00017;17;;Rue du Beau Rivage;57050;57412;Longeville-lès-Metz;;;6.151729;49.116902
+57412_0010_00019;19;;Rue du Beau Rivage;57050;57412;Longeville-lès-Metz;;;6.151344;49.117079
+57412_0010_00021;21;;Rue du Beau Rivage;57050;57412;Longeville-lès-Metz;;;6.150702;49.117372
+57412_0017_00074;74;;Rue du Chanve;57050;57412;Longeville-lès-Metz;;;6.154774;49.115559
+57412_0017_00075;75;;Rue du Chanve;57050;57412;Longeville-lès-Metz;;;6.154826;49.115615
+57412_0017_00094;94;;Rue du Chanve;57050;57412;Longeville-lès-Metz;;;6.155011;49.115464
+57412_0017_00099;99;;Rue du Chanve;57050;57412;Longeville-lès-Metz;;;6.155124;49.1155
+57412_0017_00112;112;;Rue du Chanve;57050;57412;Longeville-lès-Metz;;;6.155221;49.115379
+57412_0017_00144;144;;Rue du Chanve;57050;57412;Longeville-lès-Metz;;;6.1556;49.115233
+57412_0020_00002;2;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.141109;49.117761
+57412_0020_00003;3;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.141138;49.117705
+57412_0020_00004;4;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.140862;49.117666
+57412_0020_00005;5;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.140872;49.11759
+57412_0020_00006;6;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.140475;49.117479
+57412_0020_00007;7;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.140703;49.117507
+57412_0020_00008;8;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.140157;49.117385
+57412_0020_00010;10;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.14;49.11735
+57412_0020_00011;11;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.139935;49.117221
+57412_0020_00012;12;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.139872;49.117317
+57412_0020_00014;14;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.139697;49.117254
+57412_0020_00016;16;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.13955;49.117182
+57412_0020_00017;17;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.139548;49.117029
+57412_0020_00018;18;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.139448;49.11712
+57412_0020_00019;19;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.139394;49.116952
+57412_0020_00020;20;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.139314;49.116997
+57412_0020_00021;21;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.139251;49.116885
+57412_0020_00023;23;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.139123;49.116822
+57412_0020_00024;24;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.138899;49.11678
+57412_0020_00025;25;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.138984;49.116757
+57412_0020_00026;26;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.138726;49.116697
+57412_0020_00027;27;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.138865;49.116699
+57412_0020_00028;28;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.13856;49.116617
+57412_0020_00029;29;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.138732;49.116635
+57412_0020_00030;30;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.138273;49.116476
+57412_0020_00031;31;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.138587;49.116564
+57412_0020_00032;32;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.138056;49.116347
+57412_0020_00034;34;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.137854;49.116209
+57412_0020_00035;35;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.138093;49.11629
+57412_0020_00036;36;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.137681;49.116095
+57412_0020_00037;37;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.137908;49.116165
+57412_0020_00038;38;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.137493;49.115971
+57412_0020_00039;39;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.13765;49.116001
+57412_0020_00040;40;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.137166;49.115783
+57412_0020_00041;41;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.137517;49.11592
+57412_0020_00042;42;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.136915;49.115705
+57412_0020_00044;44;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.136708;49.115646
+57412_0020_00046;46;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.136484;49.115582
+57412_0020_00047;47;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.137054;49.115671
+57412_0020_00048;48;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.136323;49.115534
+57412_0020_00049;49;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.1367;49.115568
+57412_0020_00050;50;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.13543;49.115617
+57412_0020_00051;51;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.136356;49.115465
+57412_0020_00054;54;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.13594;49.115397
+57412_0020_00056;56;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.135597;49.115177
+57412_0020_00058;58;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.135409;49.11506
+57412_0020_00059;59;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.135479;49.115022
+57412_0020_00060;60;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.135275;49.114975
+57412_0020_00062;62;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.135153;49.114898
+57412_0020_00064;64;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.13503;49.114831
+57412_0020_00066;66;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.134835;49.114748
+57412_0020_00068;68;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.13466;49.114674
+57412_0020_00070;70;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.134521;49.114609
+57412_0020_00072;72;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.134317;49.114533
+57412_0020_00073;73;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.134299;49.114457
+57412_0020_00074;74;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.134079;49.11446
+57412_0020_00075;75;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.134078;49.114389
+57412_0020_00076;76;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.133954;49.114428
+57412_0020_00077;77;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.133904;49.114345
+57412_0020_00078;78;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.133731;49.114373
+57412_0020_00079;79;;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.133795;49.114316
+57412_0020_00004_a;4;a;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.140707;49.117591
+57412_0020_00005_a;5;a;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.140796;49.117553
+57412_0020_00022_a;22;a;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.139096;49.116882
+57412_0020_00022_b;22;b;Rue des Chenets;57050;57412;Longeville-lès-Metz;;;6.139014;49.116845
+57412_0024_00002;2;;Rue des Coteaux;57050;57412;Longeville-lès-Metz;;;6.139998;49.118989
+57412_0024_00004;4;;Rue des Coteaux;57050;57412;Longeville-lès-Metz;;;6.13977;49.11881
+57412_0024_00005;5;;Rue des Coteaux;57050;57412;Longeville-lès-Metz;;;6.139775;49.118723
+57412_0024_00006;6;;Rue des Coteaux;57050;57412;Longeville-lès-Metz;;;6.139514;49.118611
+57412_0024_00007;7;;Rue des Coteaux;57050;57412;Longeville-lès-Metz;;;6.139535;49.118544
+57412_0024_00008;8;;Rue des Coteaux;57050;57412;Longeville-lès-Metz;;;6.138988;49.118319
+57412_0024_00010;10;;Rue des Coteaux;57050;57412;Longeville-lès-Metz;;;6.137717;49.118771
+57412_0024_00011;11;;Rue des Coteaux;57050;57412;Longeville-lès-Metz;;;6.139002;49.118246
+57412_0024_00012;12;;Rue des Coteaux;57050;57412;Longeville-lès-Metz;;;6.138098;49.117924
+57412_0024_00013;13;;Rue des Coteaux;57050;57412;Longeville-lès-Metz;;;6.138533;49.118025
+57412_0024_00014;14;;Rue des Coteaux;57050;57412;Longeville-lès-Metz;;;6.13758;49.117665
+57412_0024_00015;15;;Rue des Coteaux;57050;57412;Longeville-lès-Metz;;;6.138232;49.117905
+57412_0024_00017;17;;Rue des Coteaux;57050;57412;Longeville-lès-Metz;;;6.137881;49.117756
+57412_0030_00001;1;;Rue Docteur Barthelemy;57050;57412;Longeville-lès-Metz;;;6.140639;49.117074
+57412_0030_00003;3;;Rue Docteur Barthelemy;57050;57412;Longeville-lès-Metz;;;6.140464;49.117241
+57412_0030_00008;8;;Rue Docteur Barthelemy;57050;57412;Longeville-lès-Metz;;;6.140386;49.117207
+57412_0030_00001_b;1;b;Rue Docteur Barthelemy;57050;57412;Longeville-lès-Metz;;;6.140719;49.116997
+57412_0050_00001;1;;Place de l'Eglise;57050;57412;Longeville-lès-Metz;;;6.155419;49.113458
+57412_0050_00003;3;;Place de l'Eglise;57050;57412;Longeville-lès-Metz;;;6.155252;49.113304
+57412_0050_00005;5;;Place de l'Eglise;57050;57412;Longeville-lès-Metz;;;6.155076;49.113145
+57412_0050_00007;7;;Place de l'Eglise;57050;57412;Longeville-lès-Metz;;;6.154906;49.112993
+57412_0050_00013;13;;Place de l'Eglise;57050;57412;Longeville-lès-Metz;;;6.153901;49.113218
+57412_0060_00001;1;;Rue de l'Eglise;57050;57412;Longeville-lès-Metz;;;6.134164;49.112694
+57412_0060_00002;2;;Rue de l'Eglise;57050;57412;Longeville-lès-Metz;;;6.134156;49.113139
+57412_0060_00003;3;;Rue de l'Eglise;57050;57412;Longeville-lès-Metz;;;6.134138;49.112758
+57412_0060_00004;4;;Rue de l'Eglise;57050;57412;Longeville-lès-Metz;;;6.134119;49.113319
+57412_0060_00005;5;;Rue de l'Eglise;57050;57412;Longeville-lès-Metz;;;6.13412;49.112841
+57412_0060_00009;9;;Rue de l'Eglise;57050;57412;Longeville-lès-Metz;;;6.134056;49.113124
+57412_0060_00011;11;;Rue de l'Eglise;57050;57412;Longeville-lès-Metz;;;6.13402;49.11325
+57412_0060_00013;13;;Rue de l'Eglise;57050;57412;Longeville-lès-Metz;;;6.133993;49.113357
+57412_0066_00056_a;56;a;Impasse des Feslaines;57050;57412;Longeville-lès-Metz;;;6.13531;49.115623
+57412_0070_00002;2;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.142073;49.121269
+57412_0070_00004;4;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.142038;49.121196
+57412_0070_00006;6;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.141736;49.120758
+57412_0070_00007;7;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.140542;49.119423
+57412_0070_00008;8;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.141546;49.120608
+57412_0070_00010;10;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.141369;49.120481
+57412_0070_00011;11;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.139635;49.120329
+57412_0070_00012;12;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.141263;49.120397
+57412_0070_00013;13;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.138495;49.11976
+57412_0070_00014;14;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.141202;49.120337
+57412_0070_00015;15;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.138063;49.119625
+57412_0070_00017;17;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.137676;49.119429
+57412_0070_00019;19;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.137519;49.119316
+57412_0070_00020;20;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.140813;49.119972
+57412_0070_00021;21;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.137352;49.119197
+57412_0070_00022;22;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.140693;49.119866
+57412_0070_00023;23;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.137186;49.119067
+57412_0070_00024;24;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.140613;49.11979
+57412_0070_00025;25;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.136987;49.119031
+57412_0070_00026;26;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.140572;49.121061
+57412_0070_00027;27;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.136681;49.119113
+57412_0070_00030;30;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.137545;49.12005
+57412_0070_00031;31;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.136538;49.119265
+57412_0070_00032;32;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.137733;49.120218
+57412_0070_00033;33;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.136795;49.119472
+57412_0070_00034;34;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.138359;49.120502
+57412_0070_00035;35;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.13743;49.120053
+57412_0070_00037;37;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.137738;49.120338
+57412_0070_00039;39;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.131074;49.118417
+57412_0070_00040;40;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.135617;49.120106
+57412_0070_00041;41;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.134551;49.119808
+57412_0070_00042;42;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.135382;49.119913
+57412_0070_00043;43;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.133164;49.12043
+57412_0070_00045;45;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.132389;49.119866
+57412_0070_00047;47;;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.131516;49.119773
+57412_0070_00001_b;1;b;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.138781;49.121751
+57412_0070_00004_b;4;b;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.141984;49.121066
+57412_0070_00011_b;11;b;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.139115;49.120004
+57412_0070_00041_b;41;b;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.134875;49.120495
+57412_0070_00043_b;43;b;Rue du Fort;57050;57412;Longeville-lès-Metz;;;6.132813;49.120268
+57412_0080_00001;1;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.139797;49.114439
+57412_0080_00003;3;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.138823;49.113974
+57412_0080_00005;5;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.138588;49.113878
+57412_0080_00006;6;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.141469;49.116766
+57412_0080_00007;7;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.138397;49.11381
+57412_0080_00008;8;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.136997;49.112466
+57412_0080_00009;9;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.138242;49.113757
+57412_0080_00010;10;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.141325;49.116652
+57412_0080_00011;11;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.138134;49.113717
+57412_0080_00012;12;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.141254;49.116588
+57412_0080_00013;13;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.137724;49.113562
+57412_0080_00014;14;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.141199;49.116524
+57412_0080_00015;15;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.137484;49.113478
+57412_0080_00016;16;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.14117;49.116476
+57412_0080_00017;17;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.137181;49.113372
+57412_0080_00018;18;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.141139;49.116431
+57412_0080_00019;19;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.137003;49.113308
+57412_0080_00020;20;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.141107;49.116385
+57412_0080_00021;21;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.136883;49.113261
+57412_0080_00022;22;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.141068;49.116325
+57412_0080_00023;23;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.136756;49.113213
+57412_0080_00024;24;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.141014;49.116247
+57412_0080_00025;25;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.136597;49.113154
+57412_0080_00026;26;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.140948;49.116148
+57412_0080_00027;27;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.136415;49.113094
+57412_0080_00028;28;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.140864;49.116025
+57412_0080_00029;29;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.136285;49.113047
+57412_0080_00030;30;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.140741;49.115831
+57412_0080_00031;31;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.136084;49.112974
+57412_0080_00032;32;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.140645;49.11572
+57412_0080_00033;33;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.13584;49.112893
+57412_0080_00034;34;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.140532;49.115602
+57412_0080_00035;35;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.135685;49.112832
+57412_0080_00036;36;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.140394;49.115468
+57412_0080_00037;37;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.135599;49.112798
+57412_0080_00038;38;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.140467;49.115302
+57412_0080_00039;39;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.135459;49.112749
+57412_0080_00040;40;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.140425;49.115228
+57412_0080_00041;41;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.135156;49.112644
+57412_0080_00042;42;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.140381;49.115164
+57412_0080_00043;43;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.134987;49.112587
+57412_0080_00044;44;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.140206;49.114903
+57412_0080_00045;45;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.134833;49.112537
+57412_0080_00046;46;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.140041;49.114758
+57412_0080_00047;47;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.134663;49.112482
+57412_0080_00048;48;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.139953;49.114696
+57412_0080_00049;49;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.133704;49.112144
+57412_0080_00050;50;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.139787;49.11459
+57412_0080_00051;51;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.13338;49.112043
+57412_0080_00052;52;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.139599;49.114465
+57412_0080_00053;53;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.133057;49.111943
+57412_0080_00054;54;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.139356;49.114325
+57412_0080_00055;55;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.132842;49.11186
+57412_0080_00057;57;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.132413;49.1117
+57412_0080_00058;58;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.139159;49.114255
+57412_0080_00059;59;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.132032;49.111563
+57412_0080_00060;60;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.139082;49.114224
+57412_0080_00061;61;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.131836;49.111496
+57412_0080_00062;62;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.138943;49.114164
+57412_0080_00063;63;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.131623;49.111414
+57412_0080_00064;64;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.138778;49.114105
+57412_0080_00065;65;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.131274;49.111273
+57412_0080_00066;66;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.138666;49.114063
+57412_0080_00067;67;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.130917;49.11113
+57412_0080_00068;68;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.138392;49.113954
+57412_0080_00069;69;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.130706;49.111032
+57412_0080_00070;70;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.138278;49.11391
+57412_0080_00071;71;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.130532;49.110972
+57412_0080_00072;72;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.138149;49.113859
+57412_0080_00073;73;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.130403;49.110907
+57412_0080_00074;74;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.137971;49.113788
+57412_0080_00075;75;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.130268;49.110864
+57412_0080_00076;76;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.13769;49.113682
+57412_0080_00077;77;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.130128;49.110815
+57412_0080_00078;78;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.137224;49.11348
+57412_0080_00079;79;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.129965;49.110783
+57412_0080_00080;80;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.13701;49.113406
+57412_0080_00081;81;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.129839;49.110743
+57412_0080_00082;82;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.136828;49.113357
+57412_0080_00083;83;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.129704;49.110697
+57412_0080_00084;84;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.136698;49.11331
+57412_0080_00085;85;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.129416;49.110603
+57412_0080_00086;86;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.136595;49.113273
+57412_0080_00087;87;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.129187;49.110527
+57412_0080_00088;88;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.136509;49.113242
+57412_0080_00089;89;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.129077;49.110485
+57412_0080_00090;90;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.136438;49.113218
+57412_0080_00091;91;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.128806;49.110399
+57412_0080_00092;92;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.136348;49.113186
+57412_0080_00096;96;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.136243;49.113145
+57412_0080_00098;98;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.13617;49.113119
+57412_0080_00100;100;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.136093;49.113093
+57412_0080_00102;102;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.135972;49.113048
+57412_0080_00104;104;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.135867;49.11301
+57412_0080_00106;106;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.135783;49.11298
+57412_0080_00108;108;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.135685;49.112945
+57412_0080_00110;110;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.135564;49.112901
+57412_0080_00120;120;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.134951;49.112681
+57412_0080_00122;122;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.134856;49.112651
+57412_0080_00124;124;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.134764;49.112621
+57412_0080_00126;126;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.134649;49.112585
+57412_0080_00128;128;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.134496;49.112533
+57412_0080_00130;130;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.133634;49.112954
+57412_0080_00132;132;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.133439;49.112974
+57412_0080_00134;134;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.133767;49.112558
+57412_0080_00136;136;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.134071;49.112365
+57412_0080_00138;138;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.133777;49.112262
+57412_0080_00140;140;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.133498;49.112181
+57412_0080_00142;142;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.133347;49.112153
+57412_0080_00144;144;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.13321;49.112091
+57412_0080_00146;146;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.133058;49.112043
+57412_0080_00148;148;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.132876;49.111987
+57412_0080_00150;150;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.132496;49.111872
+57412_0080_00152;152;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.132322;49.111814
+57412_0080_00154;154;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.132207;49.111781
+57412_0080_00156;156;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.131866;49.111655
+57412_0080_00158;158;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.131283;49.111437
+57412_0080_00160;160;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.131014;49.111346
+57412_0080_00162;162;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.130796;49.111268
+57412_0080_00164;164;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.13063;49.111209
+57412_0080_00166;166;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.130543;49.111177
+57412_0080_00168;168;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.13036;49.111116
+57412_0080_00170;170;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.130164;49.111044
+57412_0080_00172;172;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.129996;49.11099
+57412_0080_00174;174;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.129844;49.110937
+57412_0080_00176;176;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.12968;49.110877
+57412_0080_00178;178;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.129522;49.110824
+57412_0080_00180;180;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.12939;49.110778
+57412_0080_00182;182;;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.129212;49.11072
+57412_0080_00002_bis;2;bis;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.141781;49.117061
+57412_0080_00011_b;11;b;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.138006;49.113672
+57412_0080_00068_a;68;a;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.138521;49.114004
+57412_0080_00083_a;83;a;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.129566;49.110656
+57412_0080_00085_a;85;a;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.129301;49.110563
+57412_0080_00132_bis;132;bis;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.133483;49.112911
+57412_0080_00166_b;166;b;Rue du Général de Gaulle;57050;57412;Longeville-lès-Metz;;;6.130483;49.111156
+57412_0090_00001;1;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.132727;49.113399
+57412_0090_00003;3;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.132519;49.113351
+57412_0090_00004;4;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.1319;49.113326
+57412_0090_00005;5;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.13238;49.113318
+57412_0090_00006;6;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.131599;49.113248
+57412_0090_00007;7;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.132298;49.113294
+57412_0090_00008;8;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.131406;49.113188
+57412_0090_00009;9;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.13211;49.113249
+57412_0090_00013;13;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.131546;49.113139
+57412_0090_00014;14;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.131064;49.113072
+57412_0090_00015;15;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.131137;49.112997
+57412_0090_00016;16;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.130743;49.112909
+57412_0090_00018;18;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.1306;49.112834
+57412_0090_00019;19;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.130789;49.112823
+57412_0090_00020;20;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.130486;49.112775
+57412_0090_00021;21;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.130551;49.112698
+57412_0090_00022;22;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.130344;49.112697
+57412_0090_00023;23;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.130423;49.11263
+57412_0090_00024;24;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.130037;49.112552
+57412_0090_00025;25;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.130281;49.112557
+57412_0090_00027;27;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.130099;49.11246
+57412_0090_00028;28;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.129767;49.112451
+57412_0090_00029;29;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.129771;49.112339
+57412_0090_00030;30;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.129538;49.112375
+57412_0090_00032;32;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.129214;49.112267
+57412_0090_00033;33;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.129551;49.112264
+57412_0090_00034;34;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.129071;49.112233
+57412_0090_00035;35;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.129424;49.112221
+57412_0090_00036;36;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.128915;49.1122
+57412_0090_00037;37;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.129269;49.112173
+57412_0090_00038;38;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.12874;49.112158
+57412_0090_00039;39;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.129277;49.11187
+57412_0090_00040;40;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.128517;49.11211
+57412_0090_00042;42;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.128262;49.112065
+57412_0090_00044;44;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.128097;49.11202
+57412_0090_00046;46;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.127947;49.111996
+57412_0090_00048;48;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.12776;49.111969
+57412_0090_00050;50;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.127617;49.11195
+57412_0090_00052;52;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.127224;49.111921
+57412_0090_00055;55;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.128985;49.112105
+57412_0090_00056;56;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.126931;49.111932
+57412_0090_00057;57;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.128803;49.112064
+57412_0090_00059;59;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.128591;49.112016
+57412_0090_00061;61;;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.1285;49.111999
+57412_0090_00030_b;30;b;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.129381;49.112318
+57412_0090_00050_b;50;b;Rue du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.127448;49.11194
+57412_0091_00031;31;;Impasse du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.129566;49.111458
+57412_0091_00041;41;;Impasse du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.12931;49.111815
+57412_0091_00043;43;;Impasse du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.129344;49.111756
+57412_0091_00045;45;;Impasse du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.129378;49.111696
+57412_0091_00047;47;;Impasse du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.129356;49.111628
+57412_0091_00049;49;;Impasse du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.129395;49.111568
+57412_0091_00051;51;;Impasse du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.129429;49.111517
+57412_0091_00053;53;;Impasse du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.129464;49.111464
+57412_0091_00037_a;37;a;Impasse du Général Hirschauer;57050;57412;Longeville-lès-Metz;;;6.129559;49.111517
+57412_0100_00002;2;;Rue du Général Leclerc;57050;57412;Longeville-lès-Metz;;;6.128797;49.110729
+57412_0100_00004;4;;Rue du Général Leclerc;57050;57412;Longeville-lès-Metz;;;6.128614;49.110989
+57412_0100_00006;6;;Rue du Général Leclerc;57050;57412;Longeville-lès-Metz;;;6.128541;49.111096
+57412_0100_00008;8;;Rue du Général Leclerc;57050;57412;Longeville-lès-Metz;;;6.128476;49.111171
+57412_0100_00010;10;;Rue du Général Leclerc;57050;57412;Longeville-lès-Metz;;;6.128405;49.111269
+57412_0100_00012;12;;Rue du Général Leclerc;57050;57412;Longeville-lès-Metz;;;6.128335;49.111368
+57412_0100_00014;14;;Rue du Général Leclerc;57050;57412;Longeville-lès-Metz;;;6.128275;49.111469
+57412_0100_00016;16;;Rue du Général Leclerc;57050;57412;Longeville-lès-Metz;;;6.128206;49.111551
+57412_0100_00018;18;;Rue du Général Leclerc;57050;57412;Longeville-lès-Metz;;;6.128136;49.111642
+57412_0100_00020;20;;Rue du Général Leclerc;57050;57412;Longeville-lès-Metz;;;6.128084;49.111719
+57412_0102_00512;512;;Promenade de la Goulotte;57050;57412;Longeville-lès-Metz;;;6.14369;49.114513
+57412_0102_00513;513;;Promenade de la Goulotte;57050;57412;Longeville-lès-Metz;;;6.143773;49.114549
+57412_0102_00700;700;;Promenade de la Goulotte;57050;57412;Longeville-lès-Metz;;;6.143655;49.112593
+57412_0110_00001;1;;Place Hennocque;57050;57412;Longeville-lès-Metz;;;6.134645;49.112304
+57412_0110_00002;2;;Place Hennocque;57050;57412;Longeville-lès-Metz;;;6.134717;49.111863
+57412_0110_00003;3;;Place Hennocque;57050;57412;Longeville-lès-Metz;;;6.134739;49.112175
+57412_0110_00005;5;;Place Hennocque;57050;57412;Longeville-lès-Metz;;;6.134906;49.111932
+57412_0110_00007;7;;Place Hennocque;57050;57412;Longeville-lès-Metz;;;6.135059;49.111738
+57412_0110_00003_bis;3;bis;Place Hennocque;57050;57412;Longeville-lès-Metz;;;6.134805;49.112091
+57412_0110_00003_ter;3;ter;Place Hennocque;57050;57412;Longeville-lès-Metz;;;6.134837;49.112051
+57412_0120_00001;1;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.15519;49.114239
+57412_0120_00003;3;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.15556;49.114272
+57412_0120_00005;5;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.156266;49.114333
+57412_0120_00006;6;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.156094;49.114238
+57412_0120_00007;7;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.156424;49.114348
+57412_0120_00008;8;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.156224;49.114254
+57412_0120_00009;9;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.156598;49.114358
+57412_0120_00010;10;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.156355;49.114269
+57412_0120_00011;11;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.156739;49.114361
+57412_0120_00012;12;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.156504;49.114283
+57412_0120_00013;13;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.156883;49.114357
+57412_0120_00014;14;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.156684;49.11429
+57412_0120_00015;15;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.157041;49.114363
+57412_0120_00016;16;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.156845;49.114292
+57412_0120_00017;17;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.157209;49.114364
+57412_0120_00018;18;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.157069;49.114297
+57412_0120_00019;19;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.15741;49.114365
+57412_0120_00020;20;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.157278;49.114305
+57412_0120_00021;21;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.157658;49.11436
+57412_0120_00022;22;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.158411;49.114245
+57412_0120_00023;23;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.157782;49.11435
+57412_0120_00024;24;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.158616;49.114265
+57412_0120_00025;25;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.157958;49.11434
+57412_0120_00027;27;;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.158101;49.114333
+57412_0120_00020_b;20;b;Rue de l'Horticulture;57050;57412;Longeville-lès-Metz;;;6.158039;49.114269
+57412_0130_00001;1;;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.153288;49.115497
+57412_0130_00002;2;;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.153336;49.115433
+57412_0130_00003;3;;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.153643;49.115821
+57412_0130_00004;4;;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.15346;49.115547
+57412_0130_00005;5;;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.153982;49.116361
+57412_0130_00006;6;;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.153557;49.115635
+57412_0130_00007;7;;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.154374;49.117255
+57412_0130_00008;8;;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.153747;49.115805
+57412_0130_00010;10;;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.153979;49.116053
+57412_0130_00012;12;;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.154038;49.116203
+57412_0130_00014;14;;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.154086;49.116304
+57412_0130_00016;16;;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.15412;49.116424
+57412_0130_00018;18;;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.154177;49.116553
+57412_0130_00020;20;;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.154243;49.116686
+57412_0130_00022;22;;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.154283;49.116804
+57412_0130_00024;24;;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.15434;49.116936
+57412_0130_00026;26;;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.154393;49.117058
+57412_0130_00028;28;;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.154457;49.117204
+57412_0130_00001_b;1;b;Rue de la Jeunesse;57050;57412;Longeville-lès-Metz;;;6.153419;49.115623
+57412_0140_00001;1;;Rue du Lavoir;57050;57412;Longeville-lès-Metz;;;6.136622;49.113043
+57412_0140_00002;2;;Rue du Lavoir;57050;57412;Longeville-lès-Metz;;;6.13661;49.112973
+57412_0140_00003;3;;Rue du Lavoir;57050;57412;Longeville-lès-Metz;;;6.136705;49.112931
+57412_0140_00004;4;;Rue du Lavoir;57050;57412;Longeville-lès-Metz;;;6.136659;49.112908
+57412_0140_00005;5;;Rue du Lavoir;57050;57412;Longeville-lès-Metz;;;6.13679;49.112816
+57412_0140_00008;8;;Rue du Lavoir;57050;57412;Longeville-lès-Metz;;;6.137057;49.112392
+57412_0140_00009;9;;Rue du Lavoir;57050;57412;Longeville-lès-Metz;;;6.136987;49.112542
+57412_0140_00248;248;;Rue du Lavoir;57050;57412;Longeville-lès-Metz;;;6.137371;49.112673
+57412_0150_00001;1;;Rue des Mésanges;57050;57412;Longeville-lès-Metz;;;6.155954;49.114519
+57412_0150_00002;2;;Rue des Mésanges;57050;57412;Longeville-lès-Metz;;;6.156048;49.114676
+57412_0150_00003;3;;Rue des Mésanges;57050;57412;Longeville-lès-Metz;;;6.155923;49.114709
+57412_0150_00004;4;;Rue des Mésanges;57050;57412;Longeville-lès-Metz;;;6.156022;49.114782
+57412_0150_00005;5;;Rue des Mésanges;57050;57412;Longeville-lès-Metz;;;6.155903;49.114794
+57412_0150_00006;6;;Rue des Mésanges;57050;57412;Longeville-lès-Metz;;;6.155994;49.114888
+57412_0150_00007;7;;Rue des Mésanges;57050;57412;Longeville-lès-Metz;;;6.155845;49.115029
+57412_0150_00008;8;;Rue des Mésanges;57050;57412;Longeville-lès-Metz;;;6.15596;49.114984
+57412_0150_00010;10;;Rue des Mésanges;57050;57412;Longeville-lès-Metz;;;6.155947;49.11508
+57412_0150_00012;12;;Rue des Mésanges;57050;57412;Longeville-lès-Metz;;;6.156351;49.115289
+57412_0150_00013;13;;Rue des Mésanges;57050;57412;Longeville-lès-Metz;;;6.156407;49.115384
+57412_0150_00014;14;;Rue des Mésanges;57050;57412;Longeville-lès-Metz;;;6.156618;49.115355
+57412_0150_00016;16;;Rue des Mésanges;57050;57412;Longeville-lès-Metz;;;6.156977;49.115446
+57412_0150_00017;17;;Rue des Mésanges;57050;57412;Longeville-lès-Metz;;;6.157274;49.115601
+57412_0150_00018;18;;Rue des Mésanges;57050;57412;Longeville-lès-Metz;;;6.15741;49.115551
+57412_0160_00009;9;;Rue Migette;57050;57412;Longeville-lès-Metz;;;6.137311;49.113667
+57412_0160_00036;36;;Rue Migette;57050;57412;Longeville-lès-Metz;;;6.137247;49.113891
+57412_0160_00043;43;;Rue Migette;57050;57412;Longeville-lès-Metz;;;6.137097;49.113937
+57412_0160_00054;54;;Rue Migette;57050;57412;Longeville-lès-Metz;;;6.137138;49.114033
+57412_0160_00057;57;;Rue Migette;57050;57412;Longeville-lès-Metz;;;6.137051;49.113997
+57412_0160_00063;63;;Rue Migette;57050;57412;Longeville-lès-Metz;;;6.136957;49.114107
+57412_0160_00079;79;;Rue Migette;57050;57412;Longeville-lès-Metz;;;6.136916;49.114158
+57412_0160_00085;85;;Rue Migette;57050;57412;Longeville-lès-Metz;;;6.136823;49.114272
+57412_0160_00099;99;;Rue Migette;57050;57412;Longeville-lès-Metz;;;6.136775;49.114325
+57412_0160_00105;105;;Rue Migette;57050;57412;Longeville-lès-Metz;;;6.136689;49.114439
+57412_0160_00110;110;;Rue Migette;57050;57412;Longeville-lès-Metz;;;6.136792;49.114438
+57412_0160_00121;121;;Rue Migette;57050;57412;Longeville-lès-Metz;;;6.136638;49.114496
+57412_0170_00001;1;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.154099;49.114007
+57412_0170_00002;2;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.1537;49.114096
+57412_0170_00004;4;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.153598;49.114087
+57412_0170_00005;5;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.154032;49.113654
+57412_0170_00006;6;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.153496;49.114075
+57412_0170_00008;8;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.15335;49.114062
+57412_0170_00009;9;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.153921;49.113339
+57412_0170_00010;10;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.153244;49.114056
+57412_0170_00011;11;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.153917;49.113398
+57412_0170_00012;12;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.153142;49.11405
+57412_0170_00014;14;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.153014;49.114043
+57412_0170_00016;16;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.152863;49.114034
+57412_0170_00018;18;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.152758;49.114029
+57412_0170_00019;19;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.153454;49.114011
+57412_0170_00020;20;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.152676;49.114027
+57412_0170_00021;21;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.152877;49.113973
+57412_0170_00022;22;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.152521;49.114018
+57412_0170_00023;23;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.152524;49.113951
+57412_0170_00024;24;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.152401;49.114015
+57412_0170_00025;25;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.151897;49.113915
+57412_0170_00026;26;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.152295;49.11401
+57412_0170_00027;27;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.151642;49.113892
+57412_0170_00028;28;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.152102;49.114003
+57412_0170_00029;29;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.15151;49.113876
+57412_0170_00030;30;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.151855;49.113981
+57412_0170_00031;31;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.151375;49.113855
+57412_0170_00032;32;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.151599;49.113962
+57412_0170_00033;33;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.151236;49.113825
+57412_0170_00034;34;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.151451;49.11395
+57412_0170_00035;35;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.151138;49.113804
+57412_0170_00036;36;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.151268;49.113918
+57412_0170_00037;37;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.151053;49.113785
+57412_0170_00038;38;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.151127;49.113881
+57412_0170_00040;40;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.150972;49.113849
+57412_0170_00041;41;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.150816;49.113732
+57412_0170_00042;42;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.150856;49.113826
+57412_0170_00043;43;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.150702;49.113708
+57412_0170_00044;44;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.150687;49.113789
+57412_0170_00045;45;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.15061;49.113688
+57412_0170_00046;46;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.150511;49.113747
+57412_0170_00047;47;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.150497;49.113663
+57412_0170_00048;48;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.150353;49.113713
+57412_0170_00049;49;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.150381;49.113634
+57412_0170_00050;50;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.150196;49.113675
+57412_0170_00051;51;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.150267;49.113607
+57412_0170_00052;52;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.149906;49.113611
+57412_0170_00053;53;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.15016;49.113587
+57412_0170_00054;54;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.149655;49.113549
+57412_0170_00055;55;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.150072;49.113568
+57412_0170_00056;56;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.149522;49.113522
+57412_0170_00057;57;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.149948;49.11354
+57412_0170_00058;58;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.14938;49.113488
+57412_0170_00059;59;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.149675;49.11348
+57412_0170_00060;60;;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.149167;49.113439
+57412_0170_00002_a;2;a;Rue des Pépinières;57050;57412;Longeville-lès-Metz;;;6.154163;49.114156
+57412_0173_00001;1;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.141206;49.116832
+57412_0173_00002;2;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.142349;49.117608
+57412_0173_00003;3;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.140438;49.116362
+57412_0173_00004;4;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.141786;49.117326
+57412_0173_00005;5;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.140221;49.116245
+57412_0173_00006;6;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.141639;49.117244
+57412_0173_00007;7;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.139978;49.116148
+57412_0173_00008;8;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.141514;49.117168
+57412_0173_00009;9;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.139815;49.116075
+57412_0173_00010;10;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.141398;49.117098
+57412_0173_00011;11;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.13965;49.116003
+57412_0173_00012;12;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.141287;49.117026
+57412_0173_00013;13;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.139177;49.115795
+57412_0173_00014;14;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.141169;49.116932
+57412_0173_00015;15;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.139106;49.11577
+57412_0173_00016;16;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.14107;49.116857
+57412_0173_00017;17;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.138578;49.115588
+57412_0173_00018;18;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.140822;49.116673
+57412_0173_00020;20;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.140645;49.116569
+57412_0173_00022;22;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.140516;49.116488
+57412_0173_00023;23;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.137976;49.115368
+57412_0173_00024;24;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.140356;49.116397
+57412_0173_00025;25;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.137719;49.11527
+57412_0173_00027;27;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.137499;49.11513
+57412_0173_00029;29;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.13736;49.115071
+57412_0173_00031;31;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.13725;49.115027
+57412_0173_00033;33;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.137156;49.114983
+57412_0173_00035;35;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.136988;49.114907
+57412_0173_00036;36;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.139076;49.115829
+57412_0173_00037;37;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.136767;49.11481
+57412_0173_00038;38;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.138766;49.11573
+57412_0173_00040;40;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.138624;49.115678
+57412_0173_00041;41;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.136174;49.114485
+57412_0173_00042;42;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.138306;49.115559
+57412_0173_00043;43;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.135879;49.114341
+57412_0173_00044;44;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.138158;49.115502
+57412_0173_00046;46;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.137987;49.115439
+57412_0173_00048;48;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.137723;49.115351
+57412_0173_00050;50;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.137414;49.11524
+57412_0173_00052;52;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.137302;49.115184
+57412_0173_00054;54;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.13697;49.115014
+57412_0173_00056;56;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.136647;49.114845
+57412_0173_00058;58;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.136504;49.114773
+57412_0173_00060;60;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.13631;49.114685
+57412_0173_00061;61;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.134936;49.113851
+57412_0173_00062;62;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.135941;49.114523
+57412_0173_00063;63;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.134577;49.113662
+57412_0173_00064;64;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.134716;49.113899
+57412_0173_00066;66;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.134504;49.113814
+57412_0173_00067;67;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.134489;49.113617
+57412_0173_00068;68;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.134322;49.113731
+57412_0173_00069;69;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.134283;49.113538
+57412_0173_00070;70;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.134187;49.113689
+57412_0173_00071;71;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.133493;49.113476
+57412_0173_00072;72;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.134036;49.11366
+57412_0173_00073;73;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.133285;49.113457
+57412_0173_00074;74;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.133728;49.113615
+57412_0173_00075;75;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.132947;49.113431
+57412_0173_00076;76;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.133466;49.113597
+57412_0173_00078;78;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.133099;49.113589
+57412_0173_00080;80;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.132906;49.113601
+57412_0173_00112;112;;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.135427;49.112851
+57412_0173_00001_bis;1;bis;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.140573;49.11644
+57412_0173_00002_a;2;a;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.142207;49.117582
+57412_0173_00050_a;50;a;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.137558;49.115293
+57412_0173_00052_b;52;b;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.137188;49.115131
+57412_0173_00060_a;60;a;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.136213;49.11464
+57412_0173_00062_a;62;a;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.134853;49.113966
+57412_0173_00062_b;62;b;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.13527;49.11419
+57412_0173_00067_b;67;b;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.134408;49.113581
+57412_0173_00069_b;69;b;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.133866;49.113483
+57412_0173_00073_bis;73;bis;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.133115;49.113443
+57412_0173_00076_b;76;b;Rue Robert Schuman;57050;57412;Longeville-lès-Metz;;;6.133283;49.113585
+57412_0174_00003;3;;Rue du Pré-Vassieux;57050;57412;Longeville-lès-Metz;;;6.1505;49.116853
+57412_0176_00039;39;;Rue du Pré-Gourna;57050;57412;Longeville-lès-Metz;;;6.155483;49.116292
+57412_0176_00050;50;;Rue du Pré-Gourna;57050;57412;Longeville-lès-Metz;;;6.155393;49.116473
+57412_0176_00076;76;;Rue du Pré-Gourna;57050;57412;Longeville-lès-Metz;;;6.155443;49.116147
+57412_0176_00109;109;;Rue du Pré-Gourna;57050;57412;Longeville-lès-Metz;;;6.155717;49.116123
+57412_0176_00126;126;;Rue du Pré-Gourna;57050;57412;Longeville-lès-Metz;;;6.155692;49.115879
+57412_0176_00131;131;;Rue du Pré-Gourna;57050;57412;Longeville-lès-Metz;;;6.155761;49.11593
+57412_0176_00148;148;;Rue du Pré-Gourna;57050;57412;Longeville-lès-Metz;;;6.15573;49.115702
+57412_0176_00149;149;;Rue du Pré-Gourna;57050;57412;Longeville-lès-Metz;;;6.1558;49.115744
+57412_0176_00170;170;;Rue du Pré-Gourna;57050;57412;Longeville-lès-Metz;;;6.155766;49.115497
+57412_0176_00173;173;;Rue du Pré-Gourna;57050;57412;Longeville-lès-Metz;;;6.155856;49.115496
+57412_0180_00001;1;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.161533;49.111024
+57412_0180_00003;3;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.161339;49.111099
+57412_0180_00004;4;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.160775;49.111474
+57412_0180_00007;7;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.161138;49.11118
+57412_0180_00008;8;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.16002;49.111786
+57412_0180_00009;9;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.161061;49.11121
+57412_0180_00010;10;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.159105;49.112167
+57412_0180_00011;11;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.160939;49.111264
+57412_0180_00012;12;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.159013;49.112211
+57412_0180_00013;13;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.160853;49.111293
+57412_0180_00014;14;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.158877;49.112277
+57412_0180_00015;15;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.160712;49.111349
+57412_0180_00016;16;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.158738;49.112336
+57412_0180_00017;17;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.160535;49.111414
+57412_0180_00018;18;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.158522;49.112567
+57412_0180_00019;19;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.160347;49.111493
+57412_0180_00020;20;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.157987;49.112684
+57412_0180_00022;22;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.157477;49.112961
+57412_0180_00024;24;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.157099;49.11314
+57412_0180_00026;26;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.156838;49.113268
+57412_0180_00028;28;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.156557;49.1134
+57412_0180_00029;29;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.158315;49.112355
+57412_0180_00030;30;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.156297;49.113575
+57412_0180_00031;31;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.157482;49.112756
+57412_0180_00032;32;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.155826;49.113787
+57412_0180_00034;34;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.155712;49.113843
+57412_0180_00036;36;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.154491;49.114411
+57412_0180_00044;44;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.154058;49.114621
+57412_0180_00046;46;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.153716;49.114776
+57412_0180_00047;47;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.157062;49.112961
+57412_0180_00048;48;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.153522;49.114871
+57412_0180_00049;49;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.156942;49.113012
+57412_0180_00050;50;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.153285;49.114985
+57412_0180_00051;51;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.156861;49.113055
+57412_0180_00052;52;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152776;49.115224
+57412_0180_00053;53;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.156742;49.113102
+57412_0180_00054;54;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152608;49.115301
+57412_0180_00055;55;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.156561;49.113187
+57412_0180_00056;56;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152442;49.11537
+57412_0180_00058;58;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152344;49.115418
+57412_0180_00061;61;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.154163;49.114335
+57412_0180_00063;63;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.154013;49.114401
+57412_0180_00065;65;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.153881;49.114461
+57412_0180_00067;67;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.153772;49.114512
+57412_0180_00069;69;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.153613;49.11459
+57412_0180_00071;71;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.153474;49.114653
+57412_0180_00073;73;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.153377;49.114708
+57412_0180_00075;75;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.153279;49.114757
+57412_0180_00079;79;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.153187;49.114795
+57412_0180_00081;81;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.153081;49.114836
+57412_0180_00083;83;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152964;49.114901
+57412_0180_00085;85;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152824;49.114968
+57412_0180_00087;87;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152678;49.115039
+57412_0180_00089;89;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152375;49.115174
+57412_0180_00091;91;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152261;49.11523
+57412_0180_00093;93;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152113;49.115297
+57412_0180_00095;95;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.151923;49.11539
+57412_0180_00097;97;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.151823;49.115427
+57412_0180_00099;99;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.151503;49.115586
+57412_0180_00103;103;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.151181;49.11573
+57412_0180_00105;105;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.151068;49.115785
+57412_0180_00107;107;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.150976;49.115823
+57412_0180_00108;108;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.150448;49.116318
+57412_0180_00109;109;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.15089;49.115865
+57412_0180_00110;110;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.149879;49.11658
+57412_0180_00111;111;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.150797;49.115906
+57412_0180_00112;112;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.149788;49.116623
+57412_0180_00113;113;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.150507;49.11604
+57412_0180_00114;114;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.149693;49.116669
+57412_0180_00115;115;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.150401;49.116095
+57412_0180_00116;116;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.149577;49.116715
+57412_0180_00118;118;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.149458;49.116772
+57412_0180_00120;120;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.149064;49.118163
+57412_0180_00123;123;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.149613;49.116464
+57412_0180_00129;129;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.149468;49.116525
+57412_0180_00131;131;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.149363;49.116576
+57412_0180_00133;133;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.149223;49.116642
+57412_0180_00135;135;;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.149065;49.116717
+57412_0180_00002_a;2;a;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.161473;49.111201
+57412_0180_00002_b;2;b;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.161223;49.111291
+57412_0180_00004_b;4;b;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.162097;49.112844
+57412_0180_00016_b;16;b;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.158553;49.112418
+57412_0180_00018_b;18;b;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.158719;49.112602
+57412_0180_00032_a;32;a;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.15592;49.113739
+57412_0180_00032_b;32;b;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.156005;49.113694
+57412_0180_00032_c;32;c;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.156102;49.113651
+57412_0180_00055_a;55;a;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.156085;49.113422
+57412_0180_00056_a;56;a;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152741;49.115594
+57412_0180_00056_b;56;b;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152767;49.115618
+57412_0180_00056_c;56;c;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152784;49.115637
+57412_0180_00056_d;56;d;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152811;49.115661
+57412_0180_00056_e;56;e;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152831;49.115679
+57412_0180_00056_f;56;f;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.15285;49.115698
+57412_0180_00056_g;56;g;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152873;49.115719
+57412_0180_00056_h;56;h;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152898;49.115742
+57412_0180_00056_i;56;i;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152831;49.115751
+57412_0180_00056_j;56;j;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152801;49.115764
+57412_0180_00087_a;87;a;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152568;49.114821
+57412_0180_00087_b;87;b;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152597;49.114797
+57412_0180_00087_c;87;c;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152629;49.114777
+57412_0180_00087_d;87;d;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152658;49.114759
+57412_0180_00087_e;87;e;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152688;49.114742
+57412_0180_00087_f;87;f;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152717;49.114726
+57412_0180_00087_g;87;g;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152751;49.114708
+57412_0180_00087_h;87;h;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152796;49.114689
+57412_0180_00087_i;87;i;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152701;49.11464
+57412_0180_00087_j;87;j;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152667;49.114663
+57412_0180_00087_k;87;k;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152639;49.114682
+57412_0180_00087_l;87;l;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152612;49.114699
+57412_0180_00087_m;87;m;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152579;49.114721
+57412_0180_00087_n;87;n;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152545;49.114744
+57412_0180_00087_o;87;o;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152517;49.114762
+57412_0180_00087_p;87;p;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152495;49.11478
+57412_0180_00087_q;87;q;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152461;49.114802
+57412_0180_00087_r;87;r;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152433;49.114822
+57412_0180_00087_s;87;s;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152404;49.114841
+57412_0180_00087_t;87;t;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152377;49.114944
+57412_0180_00087_u;87;u;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152404;49.114931
+57412_0180_00087_v;87;v;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.15244;49.114915
+57412_0180_00087_w;87;w;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152494;49.114865
+57412_0180_00087_x;87;x;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152533;49.114844
+57412_0180_00089_a;89;a;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152361;49.114878
+57412_0180_00089_b;89;b;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.152195;49.114841
+57412_0180_00095_a;95;a;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.151742;49.115135
+57412_0180_00111_b;111;b;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.150667;49.115969
+57412_0180_00123_a;123;a;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.14958;49.115992
+57412_0180_00123_b;123;b;Boulevard Saint-Symphorien;57050;57412;Longeville-lès-Metz;;;6.149671;49.115899
+57412_0190_00001;1;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.132254;49.113607
+57412_0190_00002;2;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.132711;49.11362
+57412_0190_00005;5;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.131463;49.113638
+57412_0190_00006;6;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.132246;49.113666
+57412_0190_00007;7;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.131189;49.113631
+57412_0190_00009;9;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.130866;49.113709
+57412_0190_00010;10;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.131949;49.113706
+57412_0190_00011;11;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.130582;49.113748
+57412_0190_00012;12;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.131634;49.11373
+57412_0190_00013;13;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.13039;49.113774
+57412_0190_00014;14;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.131335;49.113771
+57412_0190_00015;15;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.13014;49.11381
+57412_0190_00016;16;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.130991;49.113806
+57412_0190_00018;18;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.1307;49.113846
+57412_0190_00020;20;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.130428;49.11388
+57412_0190_00022;22;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.130149;49.113912
+57412_0190_00024;24;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.12988;49.113967
+57412_0190_00026;26;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.129557;49.113978
+57412_0190_00030;30;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.129255;49.11401
+57412_0190_00031;31;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.127732;49.114147
+57412_0190_00032;32;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.129018;49.11404
+57412_0190_00033;33;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.127367;49.114236
+57412_0190_00034;34;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.128738;49.114074
+57412_0190_00035;35;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.12713;49.114305
+57412_0190_00036;36;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.128528;49.114101
+57412_0190_00037;37;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.126943;49.114366
+57412_0190_00038;38;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.128313;49.11413
+57412_0190_00039;39;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.126681;49.114437
+57412_0190_00041;41;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.126445;49.114507
+57412_0190_00042;42;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.127703;49.114266
+57412_0190_00043;43;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.126203;49.114554
+57412_0190_00044;44;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.12733;49.114378
+57412_0190_00045;45;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.127012;49.114969
+57412_0190_00046;46;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.127018;49.114449
+57412_0190_00048;48;;Route de Scy;57050;57412;Longeville-lès-Metz;;;6.126726;49.114528
+57412_0200_00003;3;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.158591;49.114475
+57412_0200_00005;5;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.1585;49.114859
+57412_0200_00007;7;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.158372;49.115005
+57412_0200_00009;9;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.158244;49.115131
+57412_0200_00011;11;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.158153;49.115215
+57412_0200_00013;13;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.158041;49.115321
+57412_0200_00015;15;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.157942;49.115408
+57412_0200_00017;17;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.15783;49.115496
+57412_0200_00021;21;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.157146;49.115993
+57412_0200_00023;23;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.156951;49.116133
+57412_0200_00025;25;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.156772;49.116253
+57412_0200_00027;27;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.156604;49.116365
+57412_0200_00029;29;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.156436;49.116475
+57412_0200_00031;31;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.156225;49.116609
+57412_0200_00033;33;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.155962;49.116738
+57412_0200_00035;35;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.155633;49.116907
+57412_0200_00037;37;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.155441;49.117007
+57412_0200_00041;41;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.153888;49.117496
+57412_0200_00043;43;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.153345;49.117573
+57412_0200_00045;45;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.153101;49.117609
+57412_0200_00047;47;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.152783;49.117647
+57412_0200_00049;49;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.152575;49.117676
+57412_0200_00051;51;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.152316;49.11771
+57412_0200_00053;53;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.15205;49.117739
+57412_0200_00055;55;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.151682;49.117756
+57412_0200_00057;57;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.151349;49.117731
+57412_0200_00059;59;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.150779;49.117656
+57412_0200_00063;63;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.150133;49.117521
+57412_0200_00065;65;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.149811;49.117453
+57412_0200_00067;67;;Promenade du Site;57050;57412;Longeville-lès-Metz;;;6.149629;49.117418
+57412_0220_00002;2;;Rue Sous Les Pettants;57050;57412;Longeville-lès-Metz;;;6.138714;49.116028
+57412_0220_00004;4;;Rue Sous Les Pettants;57050;57412;Longeville-lès-Metz;;;6.13842;49.11633
+57412_0221_00023;23;;Allée du Souvenir Français;57050;57412;Longeville-lès-Metz;;;6.129892;49.112743
+57412_0221_00035;35;;Allée du Souvenir Français;57050;57412;Longeville-lès-Metz;;;6.129688;49.11285
+57412_0221_00062;62;;Allée du Souvenir Français;57050;57412;Longeville-lès-Metz;;;6.129514;49.112996
+57412_0221_00082;82;;Allée du Souvenir Français;57050;57412;Longeville-lès-Metz;;;6.129369;49.113131
+57412_0221_00098;98;;Allée du Souvenir Français;57050;57412;Longeville-lès-Metz;;;6.129283;49.113276
+57412_0221_00114;114;;Allée du Souvenir Français;57050;57412;Longeville-lès-Metz;;;6.129222;49.113431
+57412_0230_00002;2;;Rue du Stade;57050;57412;Longeville-lès-Metz;;;6.161565;49.110531
+57412_0230_00003;3;;Rue du Stade;57050;57412;Longeville-lès-Metz;;;6.16145;49.110369
+57412_0230_00004;4;;Rue du Stade;57050;57412;Longeville-lès-Metz;;;6.161403;49.110303
+57412_0230_00005;5;;Rue du Stade;57050;57412;Longeville-lès-Metz;;;6.161349;49.110226
+57412_0230_00006;6;;Rue du Stade;57050;57412;Longeville-lès-Metz;;;6.161296;49.110168
+57412_0230_00007;7;;Rue du Stade;57050;57412;Longeville-lès-Metz;;;6.161181;49.11005
+57412_0240_00001;1;;Rue du Tramway;57050;57412;Longeville-lès-Metz;;;6.140076;49.115105
+57412_0240_00003;3;;Rue du Tramway;57050;57412;Longeville-lès-Metz;;;6.139944;49.115211
+57412_0240_00005;5;;Rue du Tramway;57050;57412;Longeville-lès-Metz;;;6.139758;49.115412
+57412_0240_00006;6;;Rue du Tramway;57050;57412;Longeville-lès-Metz;;;6.139892;49.115404
+57412_0240_00007;7;;Rue du Tramway;57050;57412;Longeville-lès-Metz;;;6.139556;49.115648
+57412_0240_00008;8;;Rue du Tramway;57050;57412;Longeville-lès-Metz;;;6.139758;49.115539
+57412_0240_00009;9;;Rue du Tramway;57050;57412;Longeville-lès-Metz;;;6.13949;49.115712
+57412_0240_00010;10;;Rue du Tramway;57050;57412;Longeville-lès-Metz;;;6.139667;49.115659
+57412_0240_00012;12;;Rue du Tramway;57050;57412;Longeville-lès-Metz;;;6.139477;49.115809
+57412_0250_00001;1;;Rue de la Tuilerie;57050;57412;Longeville-lès-Metz;;;6.142065;49.118005
+57412_0250_00002;2;;Rue de la Tuilerie;57050;57412;Longeville-lès-Metz;;;6.142272;49.117909
+57412_0250_00004;4;;Rue de la Tuilerie;57050;57412;Longeville-lès-Metz;;;6.141572;49.118335
+57412_0250_00005;5;;Rue de la Tuilerie;57050;57412;Longeville-lès-Metz;;;6.141288;49.119346
+57412_0250_00004_b;4;b;Rue de la Tuilerie;57050;57412;Longeville-lès-Metz;;;6.141328;49.119104
+57412_0260_00004;4;;Rue des Vignes;57050;57412;Longeville-lès-Metz;;;6.133378;49.114657
+57412_0260_00005;5;;Rue des Vignes;57050;57412;Longeville-lès-Metz;;;6.133561;49.114221
+57412_0260_00006;6;;Rue des Vignes;57050;57412;Longeville-lès-Metz;;;6.133229;49.114833
+57412_0260_00008;8;;Rue des Vignes;57050;57412;Longeville-lès-Metz;;;6.133043;49.115014
+57412_0260_00009;9;;Rue des Vignes;57050;57412;Longeville-lès-Metz;;;6.13293;49.114616
+57412_0260_00010;10;;Rue des Vignes;57050;57412;Longeville-lès-Metz;;;6.132859;49.115167
+57412_0260_00011;11;;Rue des Vignes;57050;57412;Longeville-lès-Metz;;;6.132551;49.114585
+57412_0260_00012;12;;Rue des Vignes;57050;57412;Longeville-lès-Metz;;;6.132645;49.11541
+57412_0260_00013;13;;Rue des Vignes;57050;57412;Longeville-lès-Metz;;;6.132192;49.11447
+57412_0260_00015;15;;Rue des Vignes;57050;57412;Longeville-lès-Metz;;;6.132185;49.114542
+57412_0260_00017;17;;Rue des Vignes;57050;57412;Longeville-lès-Metz;;;6.132611;49.114629
+57412_0260_00019;19;;Rue des Vignes;57050;57412;Longeville-lès-Metz;;;6.133016;49.11493
+57412_0260_00021;21;;Rue des Vignes;57050;57412;Longeville-lès-Metz;;;6.132838;49.115092
+57412_0260_00023;23;;Rue des Vignes;57050;57412;Longeville-lès-Metz;;;6.132693;49.115224
+57412_0260_00003_b;3;b;Rue des Vignes;57050;57412;Longeville-lès-Metz;;;6.133714;49.113931
+57412_0260_00005_b;5;b;Rue des Vignes;57050;57412;Longeville-lès-Metz;;;6.133094;49.114673
+57412_0270_00001;1;;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.157699;49.113276
+57412_0270_00002;2;;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.157808;49.112978
+57412_0270_00003;3;;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.157701;49.113403
+57412_0270_00004;4;;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.157802;49.113342
+57412_0270_00005;5;;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.157696;49.113552
+57412_0270_00006;6;;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.157799;49.113406
+57412_0270_00008;8;;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.157802;49.113499
+57412_0270_00009;9;;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.157697;49.113689
+57412_0270_00010;10;;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.157795;49.113582
+57412_0270_00011;11;;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.157697;49.113779
+57412_0270_00012;12;;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.157793;49.113685
+57412_0270_00013;13;;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.157693;49.113847
+57412_0270_00014;14;;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.157794;49.113767
+57412_0270_00015;15;;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.157691;49.113956
+57412_0270_00016;16;;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.157798;49.113939
+57412_0270_00017;17;;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.15769;49.114221
+57412_0270_00018;18;;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.15779;49.11402
+57412_0270_00002_a;2;a;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.157809;49.113134
+57412_0270_00002_bis;2;bis;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.157812;49.113252
+57412_0270_00015_b;15;b;Rue des Villas;57050;57412;Longeville-lès-Metz;;;6.157691;49.114073
+57412_b042_00007;7;;Residence Saint-Quentin;57050;57412;Longeville-lès-Metz;;;6.142824;49.120185
+57412_b042_00008;8;;Residence Saint-Quentin;57050;57412;Longeville-lès-Metz;;;6.14265;49.119941
+57412_b042_00009;9;;Residence Saint-Quentin;57050;57412;Longeville-lès-Metz;;;6.142388;49.119756
+57412_b042_00010;10;;Residence Saint-Quentin;57050;57412;Longeville-lès-Metz;;;6.142154;49.11957
+57412_b042_00011;11;;Residence Saint-Quentin;57050;57412;Longeville-lès-Metz;;;6.141991;49.119339
+57412_b042_00012;12;;Residence Saint-Quentin;57050;57412;Longeville-lès-Metz;;;6.141706;49.119156

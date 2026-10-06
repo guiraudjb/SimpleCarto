@@ -1,0 +1,923 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+18206_0023_00014;14;;Rue de la Forêt;18110;18206;Saint-Éloy-de-Gy;;;2.334527;47.180347
+18206_0029_00002;2;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.341982;47.15599
+18206_0010_00016;16;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.344064;47.15515
+18206_u4wqzd_00034;34;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.31256;47.188541
+18206_0025_00012;12;;Rue de la Fontaine;18110;18206;Saint-Éloy-de-Gy;;;2.334198;47.176994
+18206_0010_00035;35;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.347065;47.155581
+18206_u4wqzd_00015;15;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.312706;47.188025
+18206_u4wqzd_00020;20;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.312921;47.188202
+18206_0013_00004;4;;Rue de la Chapelle;18110;18206;Saint-Éloy-de-Gy;;;2.33702;47.18195
+18206_0041_00055;55;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.343926;47.177868
+18206_0033_00027;27;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.335213;47.161389
+18206_0041_00020;20;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.339897;47.176519
+18206_0087_00004;4;;Allee des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.345739;47.154437
+18206_0033_00021;21;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.338331;47.158475
+18206_0058_00023;23;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.343178;47.151659
+18206_0058_00029;29;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.343492;47.151096
+18206_0es1lg_00013;13;;Chemin de Chapelutte;18110;18206;Saint-Éloy-de-Gy;;;2.349185;47.137832
+18206_0049_00013_bis;13;bis;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.339668;47.156086
+18206_0014_00005;5;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.337857;47.178551
+18206_0062_00007;7;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.339058;47.17989
+18206_0014_00017;17;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.335994;47.177943
+18206_0020_00041;41;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.322182;47.181909
+18206_0070_00016;16;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.341938;47.157268
+18206_0043_00012;12;;Rue du Puits;18110;18206;Saint-Éloy-de-Gy;;;2.345959;47.156435
+18206_xydyms_00026;26;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.29797;47.171316
+18206_0012_00015;15;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.349544;47.15439
+18206_rm77k9_00002;2;;Route de Vasselay;18110;18206;Saint-Éloy-de-Gy;;;2.361293;47.147794
+18206_0010_00012;12;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.343433;47.155328
+18206_0013_00009;9;;Rue de la Chapelle;18110;18206;Saint-Éloy-de-Gy;;;2.336337;47.181881
+18206_0023_00006;6;;Rue de la Forêt;18110;18206;Saint-Éloy-de-Gy;;;2.334859;47.178808
+18206_0038_00019_bis;19;bis;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.334931;47.177719
+18206_0059_00009;9;;Rue des Trembles;18110;18206;Saint-Éloy-de-Gy;;;2.354208;47.158668
+18206_0018_00005;5;;Rue de la Citrouille;18110;18206;Saint-Éloy-de-Gy;;;2.333137;47.180124
+18206_0038_00055;55;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.333111;47.179353
+18206_0008_00028;28;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.349099;47.157807
+18206_0033_00031;31;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.33494;47.161607
+18206_0029_00012;12;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.342648;47.156541
+18206_0033_00010;10;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.339472;47.157742
+18206_0014_00020;20;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.336795;47.178582
+18206_0041_00048;48;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.343629;47.177814
+18206_2u8302_00002;2;;Route de Saint Doulchard;18110;18206;Saint-Éloy-de-Gy;;Le Vernay;2.338746;47.143771
+18206_0070_00003;3;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.340667;47.157358
+18206_0051_00002;2;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.330894;47.180557
+18206_0062_00012_bis;12;bis;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.337881;47.179958
+18206_zbphn4_00002;2;;Impasse de Vendegond;18110;18206;Saint-Éloy-de-Gy;;;2.31621;47.167992
+18206_xydyms_00022;22;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.297739;47.171244
+18206_0041_00059;59;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.344557;47.178186
+18206_sze1n1_00008;8;;Chemin de l'Ouche Millard;18110;18206;Saint-Éloy-de-Gy;;;2.343947;47.17681
+18206_0059_00011;11;;Rue des Trembles;18110;18206;Saint-Éloy-de-Gy;;;2.354555;47.158988
+18206_0062_00005;5;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.338963;47.180196
+18206_0039_00018;18;;Rue des Ouches;18110;18206;Saint-Éloy-de-Gy;;;2.336536;47.18067
+18206_0041_00045;45;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.343021;47.178013
+18206_0038_00027;27;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.334726;47.177977
+18206_0029_00016;16;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.344077;47.157093
+18206_ivekef_00044;44;;Allee de Vendegond;18110;18206;Saint-Éloy-de-Gy;;;2.314788;47.168312
+18206_0008_00022;22;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.350064;47.157295
+18206_0038_00056;56;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.331138;47.180304
+18206_0033_00011;11;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.339377;47.157508
+18206_0010_00008;8;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.342889;47.155329
+18206_0051_00003;3;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.330828;47.180722
+18206_0031_00060;60;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.314206;47.167923
+18206_0018_00011;11;;Rue de la Citrouille;18110;18206;Saint-Éloy-de-Gy;;;2.334044;47.180124
+18206_u4wqzd_00023;23;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.310995;47.188593
+18206_0051_00015;15;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.332933;47.181497
+18206_0033_00006;6;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.339863;47.157394
+18206_0010_00009;9;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.343386;47.1555
+18206_0028_00009;9;;Chemin du Lavoir;18110;18206;Saint-Éloy-de-Gy;;;2.326534;47.180369
+18206_0041_00063;63;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.348555;47.176744
+18206_0058_00016;16;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.342715;47.152049
+18206_0095_00011;11;;Allee des Eglantines;18110;18206;Saint-Éloy-de-Gy;;;2.346969;47.152958
+18206_0062_00008;8;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.338626;47.180721
+18206_zbphn4_00001;1;;Impasse de Vendegond;18110;18206;Saint-Éloy-de-Gy;;;2.315956;47.167852
+18206_0006_00016;16;;Route de Berry-Bouy;18110;18206;Saint-Éloy-de-Gy;;;2.341116;47.154084
+18206_5wgeh6_00003;3;;Route des Chardons;18110;18206;Saint-Éloy-de-Gy;;;2.372;47.141215
+18206_0049_00010;10;;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.340472;47.156318
+18206_0043_00019;19;;Rue du Puits;18110;18206;Saint-Éloy-de-Gy;;;2.348397;47.156293
+18206_u4wqzd_00033;33;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.309669;47.188906
+18206_0040_00006;6;;Rue des Peupliers;18110;18206;Saint-Éloy-de-Gy;;;2.344309;47.154451
+18206_0006_00003;3;;Route de Berry-Bouy;18110;18206;Saint-Éloy-de-Gy;;;2.341602;47.15452
+18206_0062_00030;30;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.339465;47.178077
+18206_0031_00101;101;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.31301;47.167105
+18206_0070_00007;7;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.341421;47.157544
+18206_du8eq2_00010;10;;Chemin du Perron;18110;18206;Saint-Éloy-de-Gy;;;2.362863;47.144702
+18206_0095_00008;8;;Allee des Eglantines;18110;18206;Saint-Éloy-de-Gy;;;2.347001;47.153239
+18206_0010_00037;37;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.347266;47.155599
+18206_0019_00006;6;;Rue du Bois à la Dame;18110;18206;Saint-Éloy-de-Gy;;;2.34072;47.158293
+18206_1um0ep_00002_bis;2;bis;chemin de la Goutelle;18110;18206;Saint-Éloy-de-Gy;;;2.360219;47.172255
+18206_0030_00004;4;;Rue de la Mare des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.347362;47.154166
+18206_0070_00013;13;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.342131;47.157643
+18206_0097_00009_bis;9;bis;Place de l’Eglise;18110;18206;Saint-Éloy-de-Gy;;;2.342026;47.155533
+18206_0031_00064;64;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.313308;47.167502
+18206_0011_00007;7;;Rue du Champ du Lac;18110;18206;Saint-Éloy-de-Gy;;;2.33291;47.18241
+18206_0097_00002;2;;Place de l’Eglise;18110;18206;Saint-Éloy-de-Gy;;;2.341659;47.155614
+18206_0059_00019;19;;Rue des Trembles;18110;18206;Saint-Éloy-de-Gy;;;2.359661;47.164596
+18206_0014_00015;15;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.336333;47.17803
+18206_0041_00016;16;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.339696;47.17626
+18206_0059_00005;5;;Rue des Trembles;18110;18206;Saint-Éloy-de-Gy;;;2.353706;47.158164
+18206_0es1lg_00005;5;;Chemin de Chapelutte;18110;18206;Saint-Éloy-de-Gy;;;2.348629;47.138109
+18206_0001_00004;4;;Allee des Ajoncs;18110;18206;Saint-Éloy-de-Gy;;;2.347597;47.153957
+18206_0041_00002;2;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.338076;47.176129
+18206_0012_00021;21;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.348691;47.15391
+18206_0026_00002;2;;Allee des Genets;18110;18206;Saint-Éloy-de-Gy;;;2.345679;47.153072
+18206_0012_00006;6;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.34953;47.154719
+18206_xydyms_00016;16;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.2981;47.171097
+18206_0059_00015;15;;Rue des Trembles;18110;18206;Saint-Éloy-de-Gy;;;2.355209;47.159775
+18206_0023_00008;8;;Rue de la Forêt;18110;18206;Saint-Éloy-de-Gy;;;2.334869;47.1789
+18206_0041_00010;10;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.339245;47.176027
+18206_0058_00015;15;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.342633;47.152557
+18206_xydyms_00008;8;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.298462;47.17055
+18206_sze1n1_00016;16;;Chemin de l'Ouche Millard;18110;18206;Saint-Éloy-de-Gy;;;2.342582;47.176364
+18206_0058_00007;7;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.342056;47.153428
+18206_0008_00044;44;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.348797;47.159558
+18206_0065_00005;5;;Espace Artisanal du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.353562;47.155896
+18206_0087_00002;2;;Allee des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.345706;47.154697
+18206_0097_00023;23;;Place de l’Eglise;18110;18206;Saint-Éloy-de-Gy;;;2.342097;47.155011
+18206_0095_00003;3;;Allee des Eglantines;18110;18206;Saint-Éloy-de-Gy;;;2.346842;47.153603
+18206_2u8302_00016;16;;Route de Saint Doulchard;18110;18206;Saint-Éloy-de-Gy;;Le Vernay;2.340121;47.142546
+18206_0020_00013;13;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.325796;47.181329
+18206_rm77k9_00006;6;;Route de Vasselay;18110;18206;Saint-Éloy-de-Gy;;;2.363981;47.148404
+18206_0058_00014;14;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.342574;47.15222
+18206_0043_00012_ter;12;ter;Rue du Puits;18110;18206;Saint-Éloy-de-Gy;;;2.346668;47.156365
+18206_0030_00016;16;;Rue de la Mare des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.345691;47.153589
+18206_0031_00048;48;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.322774;47.177638
+18206_0020_00048;48;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.321296;47.18212
+18206_u4wqzd_00038;38;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.310666;47.188834
+18206_0020_00036;36;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.323171;47.182117
+18206_0008_00030;30;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.349561;47.157883
+18206_0029_00001;1;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.341792;47.15607
+18206_0029_00009;9;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.342489;47.156647
+18206_0040_00003;3;;Rue des Peupliers;18110;18206;Saint-Éloy-de-Gy;;;2.34462;47.154403
+18206_0038_00066;66;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.329828;47.180703
+18206_0030_00010;10;;Rue de la Mare des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.346627;47.153897
+18206_0008_00004;4;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.348896;47.155983
+18206_0020_00019;19;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.324956;47.181861
+18206_0062_00022;22;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.338941;47.178927
+18206_0020_00014;14;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.326536;47.18126
+18206_0087_00006;6;;Allee des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.345791;47.154254
+18206_0039_00016;16;;Rue des Ouches;18110;18206;Saint-Éloy-de-Gy;;;2.336295;47.180468
+18206_0058_00037;37;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.343959;47.150248
+18206_0051_00001;1;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.330497;47.180607
+18206_0023_00023;23;;Rue de la Forêt;18110;18206;Saint-Éloy-de-Gy;;;2.33426;47.181175
+18206_0095_00009;9;;Allee des Eglantines;18110;18206;Saint-Éloy-de-Gy;;;2.347092;47.153023
+18206_0058_00040;40;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.343848;47.149827
+18206_l9r39m_00003;3;;chemin de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.343992;47.178631
+18206_0058_00018;18;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.342798;47.151921
+18206_0038_00033;33;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.334138;47.178625
+18206_0065_00002;2;;Espace Artisanal du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.353064;47.156204
+18206_0058_00033;33;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.34376;47.150718
+18206_0039_00010;10;;Rue des Ouches;18110;18206;Saint-Éloy-de-Gy;;;2.335967;47.180231
+18206_sze1n1_00010;10;;Chemin de l'Ouche Millard;18110;18206;Saint-Éloy-de-Gy;;;2.343602;47.176594
+18206_0043_00006;6;;Rue du Puits;18110;18206;Saint-Éloy-de-Gy;;;2.344944;47.157028
+18206_0012_00011;11;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.349731;47.15466
+18206_0013_00007;7;;Rue de la Chapelle;18110;18206;Saint-Éloy-de-Gy;;;2.336438;47.181802
+18206_0020_00015;15;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.325679;47.181458
+18206_0051_00016;16;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.332536;47.181156
+18206_0038_00016;16;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.335396;47.177777
+18206_u4wqzd_00012;12;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.313562;47.187189
+18206_0058_00012;12;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.342307;47.152389
+18206_0001_00008;8;;Allee des Ajoncs;18110;18206;Saint-Éloy-de-Gy;;;2.347752;47.153764
+18206_0041_00036;36;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.341899;47.177231
+18206_0001_00003;3;;Allee des Ajoncs;18110;18206;Saint-Éloy-de-Gy;;;2.347842;47.153856
+18206_0030_00015;15;;Rue de la Mare des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.346123;47.153579
+18206_0029_00024;24;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.344511;47.158322
+18206_0020_00034;34;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.32353;47.182117
+18206_0006_00001;1;;Route de Berry-Bouy;18110;18206;Saint-Éloy-de-Gy;;;2.341723;47.154663
+18206_0042_00027;27;;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.325496;47.179095
+18206_0095_00002;2;;Allee des Eglantines;18110;18206;Saint-Éloy-de-Gy;;;2.346686;47.153615
+18206_0058_00009;9;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.342216;47.153244
+18206_v8ehy9_00005;5;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.319221;47.154514
+18206_0038_00048;48;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.332118;47.180148
+18206_0065_00019;19;;Espace Artisanal du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.354729;47.154276
+18206_0vi0e1_00004;4;;route de la Rose;18110;18206;Saint-Éloy-de-Gy;;;2.35494;47.169127
+18206_0018_00009;9;;Rue de la Citrouille;18110;18206;Saint-Éloy-de-Gy;;;2.333636;47.180157
+18206_0010_00004;4;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.342273;47.155171
+18206_0060_00006;6;;Rue des Varennes;18110;18206;Saint-Éloy-de-Gy;;;2.346272;47.154884
+18206_isdws1_00002;2;;route de la Mouline;18110;18206;Saint-Éloy-de-Gy;;;2.310499;47.1792
+18206_0038_00025;25;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.334763;47.177914
+18206_wk22bt_00001;1;;Route des Beaumonts;18110;18206;Saint-Éloy-de-Gy;;;2.353905;47.16873
+18206_0051_00044;44;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.337223;47.182867
+18206_0006_00005;5;;Route de Berry-Bouy;18110;18206;Saint-Éloy-de-Gy;;;2.341559;47.154377
+18206_v8ehy9_00033;33;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.301116;47.174232
+18206_v8ehy9_00023;23;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.305302;47.166418
+18206_0042_00012;12;;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.323837;47.180033
+18206_xydyms_00042;42;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.293362;47.166548
+18206_0033_00002;2;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.340861;47.156486
+18206_0051_00020;20;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.333017;47.18135
+18206_0062_00032;32;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.33962;47.177883
+18206_0es1lg_00011;11;;Chemin de Chapelutte;18110;18206;Saint-Éloy-de-Gy;;;2.349069;47.138011
+18206_0041_00058;58;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.344695;47.177481
+18206_0095_00007;7;;Allee des Eglantines;18110;18206;Saint-Éloy-de-Gy;;;2.347057;47.153447
+18206_0018_00017;17;;Rue de la Citrouille;18110;18206;Saint-Éloy-de-Gy;;;2.33493;47.179941
+18206_0041_00030;30;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.340724;47.177037
+18206_u4wqzd_00018;18;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.31305;47.187954
+18206_0070_00004;4;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.340678;47.157066
+18206_0041_00035;35;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.341545;47.177379
+18206_0038_00044;44;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.332287;47.18018
+18206_0042_00007;7;;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.323415;47.180867
+18206_u4wqzd_00014;14;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.313347;47.187453
+18206_xydyms_00004;4;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.301458;47.172134
+18206_isdws1_00001;1;;route de la Mouline;18110;18206;Saint-Éloy-de-Gy;;;2.312055;47.17968
+18206_0vi0e1_00012;12;;route de la Rose;18110;18206;Saint-Éloy-de-Gy;;;2.360135;47.173006
+18206_0008_00002_bis;2;bis;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.349648;47.155951
+18206_xydyms_00034;34;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.293009;47.166664
+18206_0013_00019;19;;Rue de la Chapelle;18110;18206;Saint-Éloy-de-Gy;;;2.335289;47.181995
+18206_0062_00010;10;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.338708;47.180391
+18206_2u8302_00010;10;;Route de Saint Doulchard;18110;18206;Saint-Éloy-de-Gy;;Le Vernay;2.33919;47.143398
+18206_0014_00003;3;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.338279;47.178635
+18206_0008_00026;26;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.349078;47.157574
+18206_0010_00028;28;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.34893;47.155495
+18206_ivekef_00038;38;;Allee de Vendegond;18110;18206;Saint-Éloy-de-Gy;;;2.314478;47.168867
+18206_2u8302_00004;4;;Route de Saint Doulchard;18110;18206;Saint-Éloy-de-Gy;;Le Vernay;2.33829;47.143634
+18206_0031_00058;58;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.315473;47.169085
+18206_0062_00013_ter;13;ter;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.33956;47.178733
+18206_0058_00011;11;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.342314;47.153057
+18206_0058_00044;44;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.344026;47.149489
+18206_0023_00022;22;;Rue de la Forêt;18110;18206;Saint-Éloy-de-Gy;;;2.334477;47.18106
+18206_0020_00046;46;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.321537;47.182085
+18206_0049_00011;11;;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.340216;47.15613
+18206_0051_00007;7;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.331365;47.180924
+18206_0095_00006;6;;Allee des Eglantines;18110;18206;Saint-Éloy-de-Gy;;;2.346862;47.153417
+18206_0041_00037;37;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.341947;47.177434
+18206_0059_00004;4;;Rue des Trembles;18110;18206;Saint-Éloy-de-Gy;;;2.353713;47.157746
+18206_0vi0e1_00014;14;;route de la Rose;18110;18206;Saint-Éloy-de-Gy;;;2.359921;47.173326
+18206_0020_00055;55;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.320048;47.181868
+18206_0063_00008_bis;8;bis;Rue de la Voinerie;18110;18206;Saint-Éloy-de-Gy;;;2.339967;47.182031
+18206_0041_00034;34;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.341483;47.177182
+18206_0042_00005;5;;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.323495;47.181041
+18206_0025_00004;4;;Rue de la Fontaine;18110;18206;Saint-Éloy-de-Gy;;;2.334686;47.177405
+18206_0062_00015;15;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.339795;47.178411
+18206_0065_00006;6;;Espace Artisanal du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.353472;47.155479
+18206_0020_00017;17;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.32517;47.181755
+18206_0020_00026;26;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.324856;47.182089
+18206_0008_00008;8;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.349161;47.156283
+18206_0030_00008;8;;Rue de la Mare des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.346763;47.153954
+18206_u4wqzd_00003;3;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.312845;47.187194
+18206_0038_00023;23;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.334824;47.177851
+18206_0026_00001;1;;Allee des Genets;18110;18206;Saint-Éloy-de-Gy;;;2.345923;47.153173
+18206_0097_00027;27;;Place de l’Eglise;18110;18206;Saint-Éloy-de-Gy;;;2.341657;47.154809
+18206_0038_00007;7;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.336033;47.176734
+18206_0010_00024;24;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.347113;47.155432
+18206_du8eq2_00002;2;;Chemin du Perron;18110;18206;Saint-Éloy-de-Gy;;;2.361703;47.14122
+18206_0060_00010;10;;Rue des Varennes;18110;18206;Saint-Éloy-de-Gy;;;2.346447;47.154604
+18206_0097_00002_a;2;a;Place de l’Eglise;18110;18206;Saint-Éloy-de-Gy;;;2.341309;47.155828
+18206_0023_00027;27;;Rue de la Forêt;18110;18206;Saint-Éloy-de-Gy;;;2.334547;47.181766
+18206_u4wqzd_00004;4;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.313528;47.186152
+18206_0009_00019;19;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;;2.352161;47.1563
+18206_0012_00008;8;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.349375;47.154538
+18206_0039_00001;1;;Rue des Ouches;18110;18206;Saint-Éloy-de-Gy;;;2.334972;47.179698
+18206_0es1lg_00001;1;;Chemin de Chapelutte;18110;18206;Saint-Éloy-de-Gy;;;2.348247;47.137439
+18206_0020_00040;40;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.322516;47.182126
+18206_0es1lg_00009;9;;Chemin de Chapelutte;18110;18206;Saint-Éloy-de-Gy;;;2.348956;47.138129
+18206_0002_00003;3;;Rue aux Maçons;18110;18206;Saint-Éloy-de-Gy;;;2.335286;47.181044
+18206_0028_00005;5;;Chemin du Lavoir;18110;18206;Saint-Éloy-de-Gy;;;2.326461;47.180699
+18206_0031_00093;93;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.314403;47.167043
+18206_v8ehy9_00004;4;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.317526;47.15647
+18206_5wgeh6_00005;5;;Route des Chardons;18110;18206;Saint-Éloy-de-Gy;;;2.371791;47.140972
+18206_0049_00012;12;;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.340161;47.156302
+18206_0029_00003;3;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.341998;47.156305
+18206_0059_00017;17;;Rue des Trembles;18110;18206;Saint-Éloy-de-Gy;;;2.35513;47.160129
+18206_0014_00008;8;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.337696;47.179391
+18206_0023_00024;24;;Rue de la Forêt;18110;18206;Saint-Éloy-de-Gy;;;2.334486;47.18119
+18206_0014_00022;22;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.336511;47.178487
+18206_0049_00014;14;;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.339452;47.156245
+18206_0062_00014;14;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.338796;47.180059
+18206_0001_00006;6;;Allee des Ajoncs;18110;18206;Saint-Éloy-de-Gy;;;2.347706;47.153819
+18206_0043_00005;5;;Rue du Puits;18110;18206;Saint-Éloy-de-Gy;;;2.344455;47.15776
+18206_0010_00005_bis;5;bis;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.343085;47.155496
+18206_0097_00011;11;;Place de l’Eglise;18110;18206;Saint-Éloy-de-Gy;;;2.34204;47.15548
+18206_0020_00011;11;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.326002;47.18126
+18206_dxi32b_00008;8;;Impasse de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.348198;47.157217
+18206_0051_00011;11;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.332325;47.181281
+18206_0010_00020;20;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.344793;47.155143
+18206_0014_00012;12;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.33744;47.179141
+18206_0014_00007;7;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.337651;47.178434
+18206_v8ehy9_00007;7;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.315983;47.155835
+18206_0vi0e1_00006_bis;6;bis;route de la Rose;18110;18206;Saint-Éloy-de-Gy;;;2.355445;47.169723
+18206_0030_00021;21;;Rue de la Mare des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.345136;47.15317
+18206_0006_00014;14;;Route de Berry-Bouy;18110;18206;Saint-Éloy-de-Gy;;;2.341321;47.154417
+18206_0039_00003;3;;Rue des Ouches;18110;18206;Saint-Éloy-de-Gy;;;2.335276;47.179962
+18206_0018_00021;21;;Rue de la Citrouille;18110;18206;Saint-Éloy-de-Gy;;;2.335182;47.17998
+18206_0058_00013;13;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.342583;47.152647
+18206_0042_00003;3;;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.323426;47.181283
+18206_0029_00020;20;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.343719;47.15754
+18206_0060_00002;2;;Rue des Varennes;18110;18206;Saint-Éloy-de-Gy;;;2.346105;47.155159
+18206_0051_00009;9;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.331881;47.181108
+18206_0049_00005;5;;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.34122;47.156044
+18206_0038_00003;3;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.336431;47.176425
+18206_0059_00012;12;;Rue des Trembles;18110;18206;Saint-Éloy-de-Gy;;;2.35543;47.159425
+18206_0065_00021;21;;Espace Artisanal du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.354885;47.153869
+18206_0062_00002;2;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.338446;47.18111
+18206_v8ehy9_00014;14;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.305849;47.174615
+18206_0vi0e1_00005;5;;route de la Rose;18110;18206;Saint-Éloy-de-Gy;;;2.359007;47.173203
+18206_u4wqzd_00001;1;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.313193;47.187399
+18206_0008_00042;42;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.349145;47.159547
+18206_0020_00032;32;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.324044;47.18212
+18206_0033_00020;20;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.33871;47.158709
+18206_0038_00057;57;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.332855;47.179524
+18206_xydyms_00006;6;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.297285;47.170608
+18206_0010_00026;26;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.34751;47.15547
+18206_0062_00028;28;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.339376;47.17831
+18206_5wgeh6_00009;9;;Route des Chardons;18110;18206;Saint-Éloy-de-Gy;;;2.370937;47.140703
+18206_v8ehy9_00009;9;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.316249;47.156172
+18206_0031_00054;54;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.317532;47.170364
+18206_0031_00099;99;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.313644;47.167217
+18206_xydyms_00001;1;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.299482;47.169287
+18206_0029_00022;22;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.343892;47.157779
+18206_0062_00006;6;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.338551;47.180949
+18206_0051_00054;54;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.338699;47.183364
+18206_0025_00010;10;;Rue de la Fontaine;18110;18206;Saint-Éloy-de-Gy;;;2.334249;47.177119
+18206_0051_00024;24;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.333582;47.181551
+18206_0042_00017;17;;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.324929;47.180231
+18206_0062_00013_bis;13;bis;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.339636;47.178672
+18206_1um0ep_00002;2;;chemin de la Goutelle;18110;18206;Saint-Éloy-de-Gy;;;2.360129;47.172343
+18206_0006_00012;12;;Route de Berry-Bouy;18110;18206;Saint-Éloy-de-Gy;;;2.341415;47.154546
+18206_0070_00026;26;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.342863;47.157257
+18206_0033_00016;16;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.338965;47.158328
+18206_0012_00005;5;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.350266;47.155274
+18206_0070_00023;23;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.342811;47.157405
+18206_0049_00019;19;;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.338025;47.156002
+18206_0070_00019;19;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.342391;47.157701
+18206_0030_00020;20;;Rue de la Mare des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.344995;47.153303
+18206_0090_00001;1;;Chemin du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.355324;47.152734
+18206_0012_00025;25;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.348284;47.153736
+18206_0009_00025;25;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;;2.348313;47.160722
+18206_0031_00079;79;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.317914;47.170777
+18206_0051_00005;5;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.330965;47.180778
+18206_0031_00087;87;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.315399;47.168506
+18206_v8ehy9_00003;3;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.321184;47.153633
+18206_du8eq2_00004;4;;Chemin du Perron;18110;18206;Saint-Éloy-de-Gy;;;2.360872;47.142679
+18206_0014_00001;1;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.338596;47.17874
+18206_0041_00006;6;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.338472;47.176118
+18206_u4wqzd_00037;37;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.308945;47.189144
+18206_0039_00022;22;;Rue des Ouches;18110;18206;Saint-Éloy-de-Gy;;;2.337047;47.181318
+18206_dxi32b_00004;4;;Impasse de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.348374;47.157297
+18206_0042_00019;19;;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.324879;47.179624
+18206_0010_00015;15;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.344169;47.155331
+18206_0041_00051;51;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.343578;47.178013
+18206_0038_00031_bis;31;bis;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.334501;47.178269
+18206_0039_00013;13;;Rue des Ouches;18110;18206;Saint-Éloy-de-Gy;;;2.336643;47.181163
+18206_2u8302_00003;3;;Route de Saint Doulchard;18110;18206;Saint-Éloy-de-Gy;;Chapelutte;2.347996;47.138151
+18206_0041_00043;43;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.342654;47.177932
+18206_0010_00002;2;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.34216;47.15524
+18206_0063_00001;1;;Rue de la Voinerie;18110;18206;Saint-Éloy-de-Gy;;;2.338716;47.181526
+18206_0029_00041;41;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.344606;47.159105
+18206_0038_00050;50;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.33181;47.180191
+18206_0051_00032;32;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.335855;47.182381
+18206_rm77k9_00008;8;;Route de Vasselay;18110;18206;Saint-Éloy-de-Gy;;;2.363698;47.147915
+18206_u4wqzd_00041;41;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.308377;47.189346
+18206_0058_00038;38;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.34377;47.150041
+18206_0041_00054;54;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.344378;47.177603
+18206_0023_00030;30;;Rue de la Forêt;18110;18206;Saint-Éloy-de-Gy;;;2.335507;47.18289
+18206_v8ehy9_00001;1;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.326211;47.150974
+18206_0009_00002;2;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;;2.360634;47.140729
+18206_0011_00005;5;;Rue du Champ du Lac;18110;18206;Saint-Éloy-de-Gy;;;2.333077;47.182212
+18206_0025_00008;8;;Rue de la Fontaine;18110;18206;Saint-Éloy-de-Gy;;;2.334374;47.177185
+18206_0058_00005;5;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.341963;47.153535
+18206_0013_00006;6;;Rue de la Chapelle;18110;18206;Saint-Éloy-de-Gy;;;2.336806;47.18197
+18206_0031_00085;85;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.315867;47.168879
+18206_zbphn4_00003;3;;Impasse de Vendegond;18110;18206;Saint-Éloy-de-Gy;;;2.315362;47.167974
+18206_0026_00003;3;;Allee des Genets;18110;18206;Saint-Éloy-de-Gy;;;2.346489;47.152981
+18206_0038_00013_bis;13;bis;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.335577;47.177129
+18206_xydyms_00012;12;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.298335;47.170928
+18206_0038_00043;43;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.333441;47.178706
+18206_0029_00021;21;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.343293;47.157365
+18206_0029_00006;6;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.342084;47.156092
+18206_0051_00021;21;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.334029;47.181892
+18206_0085_00003;3;;Chemin du Chansi;18110;18206;Saint-Éloy-de-Gy;;;2.32896;47.179546
+18206_xydyms_00003;3;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.297008;47.165111
+18206_0014_00002;2;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.338496;47.179122
+18206_0020_00035;35;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.323028;47.181941
+18206_0065_00004;4;;Espace Artisanal du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.353228;47.155941
+18206_0023_00011;11;;Rue de la Forêt;18110;18206;Saint-Éloy-de-Gy;;;2.334448;47.179708
+18206_0002_00006;6;;Rue aux Maçons;18110;18206;Saint-Éloy-de-Gy;;;2.335468;47.18105
+18206_u4wqzd_00005;5;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.313147;47.187475
+18206_0041_00022;22;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.340303;47.176651
+18206_du8eq2_00008;8;;Chemin du Perron;18110;18206;Saint-Éloy-de-Gy;;;2.362239;47.143575
+18206_0038_00045;45;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.333853;47.178805
+18206_0043_00017;17;;Rue du Puits;18110;18206;Saint-Éloy-de-Gy;;;2.348189;47.156248
+18206_0051_00012;12;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.332168;47.181037
+18206_0026_00007;7;;Allee des Genets;18110;18206;Saint-Éloy-de-Gy;;;2.346309;47.152686
+18206_0029_00017;17;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.34297;47.157018
+18206_0010_00002_bis;2;bis;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.342107;47.155211
+18206_0020_00038;38;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.322781;47.182102
+18206_0043_00013;13;;Rue du Puits;18110;18206;Saint-Éloy-de-Gy;;;2.34777;47.156238
+18206_0039_00017;17;;Rue des Ouches;18110;18206;Saint-Éloy-de-Gy;;;2.337094;47.181563
+18206_isdws1_00004;4;;route de la Mouline;18110;18206;Saint-Éloy-de-Gy;;;2.308778;47.177417
+18206_0070_00010;10;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.341427;47.157405
+18206_0023_00004;4;;Rue de la Forêt;18110;18206;Saint-Éloy-de-Gy;;;2.334887;47.178518
+18206_0029_00013;13;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.342795;47.156885
+18206_0042_00001;1;;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.323475;47.181825
+18206_0130_00001;1;;Chemin des Vallées;18110;18206;Saint-Éloy-de-Gy;;;2.324623;47.182313
+18206_0013_00005;5;;Rue de la Chapelle;18110;18206;Saint-Éloy-de-Gy;;;2.336551;47.181862
+18206_0014_00013;13;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.336706;47.178128
+18206_0028_00001;1;;Chemin du Lavoir;18110;18206;Saint-Éloy-de-Gy;;;2.326701;47.181039
+18206_0030_00002;2;;Rue de la Mare des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.347585;47.154248
+18206_0051_00036;36;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.336581;47.182626
+18206_0001_00001;1;;Allee des Ajoncs;18110;18206;Saint-Éloy-de-Gy;;;2.347716;47.154017
+18206_0009_00007;7;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;;2.353755;47.153344
+18206_v8ehy9_00013;13;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.315316;47.157156
+18206_0012_00001;1;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.350865;47.155489
+18206_0010_00027;27;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.346253;47.155491
+18206_0020_00027;27;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.323835;47.181965
+18206_0es1lg_00015;15;;Chemin de Chapelutte;18110;18206;Saint-Éloy-de-Gy;;;2.3496;47.13763
+18206_0010_00006;6;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.342494;47.15521
+18206_0013_00003;3;;Rue de la Chapelle;18110;18206;Saint-Éloy-de-Gy;;;2.336891;47.181831
+18206_0010_00003;3;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.342577;47.155412
+18206_0010_00053;53;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.350127;47.155736
+18206_0095_00005;5;;Allee des Eglantines;18110;18206;Saint-Éloy-de-Gy;;;2.346943;47.153497
+18206_l9r39m_00004;4;;chemin de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.344452;47.178593
+18206_0031_00089;89;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.314509;47.167869
+18206_isdws1_00003;3;;route de la Mouline;18110;18206;Saint-Éloy-de-Gy;;;2.310162;47.178395
+18206_0023_00031;31;;Rue de la Forêt;18110;18206;Saint-Éloy-de-Gy;;;2.335174;47.182807
+18206_0038_00059;59;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.332552;47.179812
+18206_0058_00021;21;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.343065;47.151817
+18206_0031_00083;83;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.317616;47.169786
+18206_0063_00006;6;;Rue de la Voinerie;18110;18206;Saint-Éloy-de-Gy;;;2.339494;47.18169
+18206_0041_00026;26;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.340607;47.176929
+18206_0013_00017;17;;Rue de la Chapelle;18110;18206;Saint-Éloy-de-Gy;;;2.335719;47.181896
+18206_0058_00041;41;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.34416;47.149867
+18206_0011_00006;6;;Rue du Champ du Lac;18110;18206;Saint-Éloy-de-Gy;;;2.334158;47.182383
+18206_u4wqzd_00016;16;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.313101;47.187851
+18206_0010_00016_bis;16;bis;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.344224;47.155165
+18206_v8ehy9_00035;35;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.301365;47.174297
+18206_dxi32b_00002;2;;Impasse de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.348696;47.157172
+18206_0040_00008;8;;Rue des Peupliers;18110;18206;Saint-Éloy-de-Gy;;;2.344441;47.154287
+18206_0019_00004;4;;Rue du Bois à la Dame;18110;18206;Saint-Éloy-de-Gy;;;2.340748;47.158022
+18206_0038_00062;62;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.330104;47.180606
+18206_0029_00039;39;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.344506;47.158915
+18206_0033_00014;14;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.339124;47.158149
+18206_0058_00022;22;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.343068;47.151389
+18206_0010_00049;49;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.348969;47.15567
+18206_0019_00005;5;;Rue du Bois à la Dame;18110;18206;Saint-Éloy-de-Gy;;;2.340423;47.158293
+18206_0020_00029;29;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.323648;47.181965
+18206_0043_00020;20;;Rue du Puits;18110;18206;Saint-Éloy-de-Gy;;;2.348354;47.156144
+18206_0062_00009;9;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.339118;47.179676
+18206_0010_00001_bis;1;bis;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.342443;47.155452
+18206_0051_00031;31;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.336255;47.182706
+18206_0023_00015;15;;Rue de la Forêt;18110;18206;Saint-Éloy-de-Gy;;;2.334267;47.180131
+18206_0009_00009;9;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;;2.353426;47.153758
+18206_0030_00003;3;;Rue de la Mare des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.348576;47.154838
+18206_0043_00009;9;;Rue du Puits;18110;18206;Saint-Éloy-de-Gy;;;2.346549;47.156506
+18206_dg80gr_00004;4;;route du vernay;18110;18206;Saint-Éloy-de-Gy;;;2.34901;47.145169
+18206_0058_00034;34;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.343573;47.150407
+18206_xydyms_00032;32;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.293179;47.166756
+18206_0018_00003;3;;Rue de la Citrouille;18110;18206;Saint-Éloy-de-Gy;;;2.332788;47.180075
+18206_0059_00013;13;;Rue des Trembles;18110;18206;Saint-Éloy-de-Gy;;;2.354764;47.159302
+18206_2u8302_00014;14;;Route de Saint Doulchard;18110;18206;Saint-Éloy-de-Gy;;Le Vernay;2.338364;47.143123
+18206_0030_00019;19;;Rue de la Mare des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.345311;47.153261
+18206_0059_00007;7;;Rue des Trembles;18110;18206;Saint-Éloy-de-Gy;;;2.35383;47.158259
+18206_u4wqzd_00039;39;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.308817;47.189185
+18206_0009_00027;27;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;;2.349049;47.161806
+18206_0043_00008;8;;Rue du Puits;18110;18206;Saint-Éloy-de-Gy;;;2.345286;47.156818
+18206_0042_00023;23;;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.325367;47.179319
+18206_0018_00015;15;;Rue de la Citrouille;18110;18206;Saint-Éloy-de-Gy;;;2.334581;47.179947
+18206_0025_00006;6;;Rue de la Fontaine;18110;18206;Saint-Éloy-de-Gy;;;2.334536;47.177241
+18206_0008_00018;18;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.349028;47.156949
+18206_0130_00012;12;;Chemin des Vallées;18110;18206;Saint-Éloy-de-Gy;;Champ Devant;2.325738;47.18356
+18206_0058_00030;30;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.343432;47.150673
+18206_0038_00013;13;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.3354;47.177163
+18206_0043_00001;1;;Rue du Puits;18110;18206;Saint-Éloy-de-Gy;;;2.344183;47.157972
+18206_0033_00025;25;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.337833;47.158924
+18206_0041_00014;14;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.339369;47.176294
+18206_0010_00023;23;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.345683;47.155397
+18206_0033_00007;7;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.33968;47.157253
+18206_0es1lg_00007;7;;Chemin de Chapelutte;18110;18206;Saint-Éloy-de-Gy;;;2.34888;47.13829
+18206_v8ehy9_00029;29;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.301335;47.173955
+18206_u4wqzd_00044;44;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.309732;47.189042
+18206_0058_00024;24;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.343139;47.151265
+18206_0043_00018;18;;Rue du Puits;18110;18206;Saint-Éloy-de-Gy;;;2.347963;47.156143
+18206_0012_00010;10;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.349174;47.154318
+18206_0012_00019;19;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.348897;47.154064
+18206_0041_00057;57;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.344993;47.177548
+18206_0049_00015_bis;15;bis;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.338929;47.156016
+18206_0010_00031;31;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.346741;47.155562
+18206_0062_00021;21;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.340297;47.177684
+18206_0070_00012;12;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.341829;47.1573
+18206_0013_00001;1;;Rue de la Chapelle;18110;18206;Saint-Éloy-de-Gy;;;2.337148;47.181664
+18206_0020_00042;42;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.322213;47.182093
+18206_0090_00006;6;;Chemin du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.355486;47.15412
+18206_0065_00017;17;;Espace Artisanal du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.354747;47.154553
+18206_0041_00039;39;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.342186;47.17768
+18206_0038_00037;37;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.334014;47.178713
+18206_xydyms_00036;36;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.292588;47.166499
+18206_0040_00001;1;;Rue des Peupliers;18110;18206;Saint-Éloy-de-Gy;;;2.344584;47.154575
+18206_0051_00046;46;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.337556;47.182963
+18206_0010_00041;41;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.347812;47.155629
+18206_0043_00012_bis;12;bis;Rue du Puits;18110;18206;Saint-Éloy-de-Gy;;;2.346289;47.156406
+18206_sze1n1_00004;4;;Chemin de l'Ouche Millard;18110;18206;Saint-Éloy-de-Gy;;;2.344587;47.177085
+18206_0038_00035;35;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.334074;47.178665
+18206_0001_00002;2;;Allee des Ajoncs;18110;18206;Saint-Éloy-de-Gy;;;2.347531;47.154011
+18206_0033_00008;8;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.339725;47.157601
+18206_0009_00029;29;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;;2.348976;47.161577
+18206_0010_00030;30;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.349496;47.155576
+18206_2u8302_00006;6;;Route de Saint Doulchard;18110;18206;Saint-Éloy-de-Gy;;Le Vernay;2.338833;47.143527
+18206_0020_00003;3;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.327957;47.180821
+18206_0063_00015;15;;Rue de la Voinerie;18110;18206;Saint-Éloy-de-Gy;;;2.340398;47.182646
+18206_0060_00004;4;;Rue des Varennes;18110;18206;Saint-Éloy-de-Gy;;;2.346195;47.155102
+18206_0041_00038;38;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.342134;47.177409
+18206_xydyms_00020;20;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.297833;47.171202
+18206_0014_00028;28;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.336133;47.178385
+18206_0097_00025;25;;Place de l’Eglise;18110;18206;Saint-Éloy-de-Gy;;;2.341758;47.154931
+18206_0008_00003;3;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.348766;47.157041
+18206_0012_00017;17;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.349323;47.154227
+18206_xydyms_00040;40;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.293165;47.166266
+18206_0063_00007;7;;Rue de la Voinerie;18110;18206;Saint-Éloy-de-Gy;;;2.339913;47.182281
+18206_0008_00024;24;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.349233;47.15729
+18206_0049_00016;16;;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.339015;47.156212
+18206_0029_00018;18;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.343569;47.157397
+18206_0es1lg_00003;3;;Chemin de Chapelutte;18110;18206;Saint-Éloy-de-Gy;;;2.348589;47.137778
+18206_0020_00025;25;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.324019;47.181978
+18206_0008_00011;11;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.348813;47.157522
+18206_dxi32b_00010;10;;Impasse de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.347972;47.157205
+18206_0014_00014;14;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.33759;47.178854
+18206_0029_00007;7;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.342358;47.156548
+18206_0012_00012;12;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.348548;47.154076
+18206_0014_00004;4;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.338085;47.179625
+18206_0039_00004;4;;Rue des Ouches;18110;18206;Saint-Éloy-de-Gy;;;2.335317;47.17984
+18206_0009_00022;22;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;;2.344645;47.171734
+18206_0019_00008;8;;Rue du Bois à la Dame;18110;18206;Saint-Éloy-de-Gy;;;2.34106;47.158665
+18206_0043_00014;14;;Rue du Puits;18110;18206;Saint-Éloy-de-Gy;;;2.347281;47.156274
+18206_0014_00019;19;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.335655;47.177867
+18206_0008_00038;38;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.349301;47.158373
+18206_ivekef_00034;34;;Allee de Vendegond;18110;18206;Saint-Éloy-de-Gy;;;2.314948;47.168989
+18206_0029_00011;11;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.342638;47.156749
+18206_0043_00016;16;;Rue du Puits;18110;18206;Saint-Éloy-de-Gy;;;2.347479;47.156203
+18206_0033_00003;3;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.339898;47.156981
+18206_xydyms_00005;5;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.295921;47.16586
+18206_xydyms_00030;30;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.293782;47.166676
+18206_0062_00016;16;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.338827;47.179864
+18206_0120_00001;1;;Chemin des Puets;18110;18206;Saint-Éloy-de-Gy;;;2.322619;47.178157
+18206_0041_00008;8;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.338757;47.176128
+18206_xydyms_00038;38;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.293033;47.166388
+18206_0070_00021;21;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.342493;47.157565
+18206_0010_00043;43;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.348125;47.155646
+18206_0019_00002;2;;Rue du Bois à la Dame;18110;18206;Saint-Éloy-de-Gy;;;2.340797;47.157712
+18206_0038_00029;29;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.334661;47.178066
+18206_xydyms_00014;14;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.298204;47.171006
+18206_2u8302_00008;8;;Route de Saint Doulchard;18110;18206;Saint-Éloy-de-Gy;;Le Vernay;2.339274;47.143519
+18206_0023_00019;19;;Rue de la Forêt;18110;18206;Saint-Éloy-de-Gy;;;2.334315;47.180953
+18206_0010_00047;47;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.348519;47.155662
+18206_0031_00014;14;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.32683;47.179313
+18206_0013_00011;11;;Rue de la Chapelle;18110;18206;Saint-Éloy-de-Gy;;;2.336401;47.181984
+18206_0039_00006;6;;Rue des Ouches;18110;18206;Saint-Éloy-de-Gy;;;2.335483;47.179933
+18206_0033_00022;22;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.338525;47.158972
+18206_0010_00007;7;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.343284;47.155586
+18206_dxi32b_00006;6;;Impasse de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.348283;47.157208
+18206_0049_00007;7;;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.341034;47.156107
+18206_0058_00032;32;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.34349;47.150558
+18206_u4wqzd_00043;43;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.308161;47.189417
+18206_4kfjbf_00004;4;;Chemin du Claudy;18110;18206;Saint-Éloy-de-Gy;;;2.331249;47.159024
+18206_0031_00049;49;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.325522;47.172341
+18206_0049_00013;13;;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.339942;47.156112
+18206_0039_00012;12;;Rue des Ouches;18110;18206;Saint-Éloy-de-Gy;;;2.336099;47.180257
+18206_2u8302_00012;12;;Route de Saint Doulchard;18110;18206;Saint-Éloy-de-Gy;;Le Vernay;2.338779;47.143348
+18206_0014_00011;11;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.337028;47.178226
+18206_0062_00040;40;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.340149;47.177044
+18206_0063_00008;8;;Rue de la Voinerie;18110;18206;Saint-Éloy-de-Gy;;;2.339856;47.181977
+18206_0009_00037;37;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;La Croix Loiseau;2.343611;47.171922
+18206_0058_00042;42;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.343942;47.149677
+18206_0033_00012;12;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.339296;47.157933
+18206_0041_00047;47;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.343275;47.178109
+18206_0020_00043;43;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.321634;47.181893
+18206_0070_00017;17;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.342204;47.157471
+18206_0062_00011;11;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.339344;47.179276
+18206_0010_00022;22;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.345331;47.155201
+18206_0026_00006;6;;Allee des Genets;18110;18206;Saint-Éloy-de-Gy;;;2.345699;47.152431
+18206_0060_00005;5;;Rue des Varennes;18110;18206;Saint-Éloy-de-Gy;;;2.346418;47.154957
+18206_0026_00005;5;;Allee des Genets;18110;18206;Saint-Éloy-de-Gy;;;2.346499;47.152727
+18206_0019_00003;3;;Rue du Bois à la Dame;18110;18206;Saint-Éloy-de-Gy;;;2.340489;47.158069
+18206_0094_00001;1;;Chemin des Ecoliers;18110;18206;Saint-Éloy-de-Gy;;;2.347559;47.154713
+18206_1um0ep_00004;4;;chemin de la Goutelle;18110;18206;Saint-Éloy-de-Gy;;;2.359898;47.172673
+18206_0065_00007;7;;Espace Artisanal du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.353682;47.155671
+18206_0020_00057;57;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.319724;47.181849
+18206_0029_00020_bis;20;bis;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.343821;47.157578
+18206_0011_00003;3;;Rue du Champ du Lac;18110;18206;Saint-Éloy-de-Gy;;;2.333424;47.18199
+18206_0vi0e1_00008;8;;route de la Rose;18110;18206;Saint-Éloy-de-Gy;;;2.355787;47.170023
+18206_1um0ep_00010;10;;chemin de la Goutelle;18110;18206;Saint-Éloy-de-Gy;;;2.359039;47.172629
+18206_0042_00015;15;;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.324206;47.180013
+18206_v8ehy9_00031;31;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.301093;47.174063
+18206_0vi0e1_00001;1;;route de la Rose;18110;18206;Saint-Éloy-de-Gy;;;2.358759;47.173019
+18206_0038_00001;1;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.336551;47.176358
+18206_0018_00007;7;;Rue de la Citrouille;18110;18206;Saint-Éloy-de-Gy;;;2.333483;47.180168
+18206_0010_00011;11;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.343724;47.155424
+18206_6jjwkz_00001;1;;Chemin de la bruille;18110;18206;Saint-Éloy-de-Gy;;;2.352363;47.152285
+18206_0120_00004;4;;Chemin des Puets;18110;18206;Saint-Éloy-de-Gy;;;2.32003;47.177683
+18206_0038_00017;17;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.335285;47.177391
+18206_0008_00016;16;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.348987;47.156606
+18206_u4wqzd_00007;7;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.313058;47.187576
+18206_0029_00005;5;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.34219;47.156426
+18206_0013_00002;2;;Rue de la Chapelle;18110;18206;Saint-Éloy-de-Gy;;;2.33723;47.181745
+18206_uq144n_00001;1;;chemin de la Ruesse;18110;18206;Saint-Éloy-de-Gy;;;2.325604;47.155522
+18206_0038_00060;60;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.330268;47.180558
+18206_0vi0e1_00002;2;;route de la Rose;18110;18206;Saint-Éloy-de-Gy;;;2.354321;47.169062
+18206_0026_00008;8;;Allee des Genets;18110;18206;Saint-Éloy-de-Gy;;;2.345883;47.152518
+18206_0062_00034;34;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.339729;47.1777
+18206_0120_00002;2;;Chemin des Puets;18110;18206;Saint-Éloy-de-Gy;;;2.321701;47.177899
+18206_0063_00002;2;;Rue de la Voinerie;18110;18206;Saint-Éloy-de-Gy;;;2.338853;47.181443
+18206_xydyms_00044;44;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.293518;47.166401
+18206_zbphn4_00004;4;;Impasse de Vendegond;18110;18206;Saint-Éloy-de-Gy;;;2.315745;47.168026
+18206_0070_00002;2;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.340603;47.156959
+18206_0009_00031;31;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;;2.348544;47.161514
+18206_0059_00021;21;;Rue des Trembles;18110;18206;Saint-Éloy-de-Gy;;;2.359995;47.165533
+18206_0010_00055;55;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.350257;47.155749
+18206_0063_00005;5;;Rue de la Voinerie;18110;18206;Saint-Éloy-de-Gy;;;2.339336;47.181797
+18206_0049_00001;1;;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.341456;47.155967
+18206_0033_00017;17;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.338639;47.158023
+18206_0014_00016;16;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.337345;47.178767
+18206_0008_00020;20;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.349312;47.157083
+18206_0065_00011;11;;Espace Artisanal du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.354406;47.155254
+18206_0063_00012;12;;Rue de la Voinerie;18110;18206;Saint-Éloy-de-Gy;;;2.340263;47.182283
+18206_0063_00003;3;;Rue de la Voinerie;18110;18206;Saint-Éloy-de-Gy;;;2.33885;47.181558
+18206_0020_00039;39;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.322347;47.181918
+18206_0031_00095;95;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.314094;47.167577
+18206_dg80gr_00012;12;;route du vernay;18110;18206;Saint-Éloy-de-Gy;;;2.347657;47.145056
+18206_0062_00024;24;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.339128;47.17868
+18206_0009_00005;5;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;;2.354071;47.152989
+18206_0062_00026;26;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.33921;47.178504
+18206_0062_00018;18;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.338927;47.17963
+18206_0013_00015;15;;Rue de la Chapelle;18110;18206;Saint-Éloy-de-Gy;;;2.335736;47.182033
+18206_v8ehy9_00019;19;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.305743;47.166212
+18206_0049_00020;20;;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.338227;47.156147
+18206_0025_00002;2;;Rue de la Fontaine;18110;18206;Saint-Éloy-de-Gy;;;2.334762;47.177535
+18206_0038_00011;11;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.335689;47.177032
+18206_0023_00028;28;;Rue de la Forêt;18110;18206;Saint-Éloy-de-Gy;;;2.335409;47.18272
+18206_0042_00009;9;;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.323547;47.180593
+18206_0097_00016;16;;Place de l’Eglise;18110;18206;Saint-Éloy-de-Gy;;;2.341469;47.154709
+18206_0051_00014;14;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.332291;47.181074
+18206_0012_00007;7;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.35003;47.154997
+18206_0065_00008;8;;Espace Artisanal du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.353685;47.155033
+18206_0031_00062;62;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.31391;47.16778
+18206_4kfjbf_00003;3;;Chemin du Claudy;18110;18206;Saint-Éloy-de-Gy;;;2.330346;47.159034
+18206_u4wqzd_00035;35;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.309327;47.189002
+18206_0038_00021;21;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.334902;47.177781
+18206_0vi0e1_00006;6;;route de la Rose;18110;18206;Saint-Éloy-de-Gy;;;2.355078;47.169467
+18206_u4wqzd_00040;40;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.31018;47.188931
+18206_sze1n1_00014;14;;Chemin de l'Ouche Millard;18110;18206;Saint-Éloy-de-Gy;;;2.342562;47.176852
+18206_0063_00010;10;;Rue de la Voinerie;18110;18206;Saint-Éloy-de-Gy;;;2.340075;47.182158
+18206_sze1n1_00012;12;;Chemin de l'Ouche Millard;18110;18206;Saint-Éloy-de-Gy;;;2.343296;47.176478
+18206_v8ehy9_00011;11;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.316211;47.156781
+18206_5wgeh6_00007;7;;Route des Chardons;18110;18206;Saint-Éloy-de-Gy;;;2.371324;47.140813
+18206_0095_00004;4;;Allee des Eglantines;18110;18206;Saint-Éloy-de-Gy;;;2.34676;47.15353
+18206_0012_00013;13;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.349665;47.154589
+18206_u4wqzd_00042;42;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.30993;47.188978
+18206_v8ehy9_00015;15;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.315166;47.156432
+18206_0020_00021;21;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.324306;47.181982
+18206_0038_00068;68;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.329434;47.18085
+18206_0058_00015_bis;15;bis;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.342892;47.152306
+18206_0058_00019;19;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.343067;47.151933
+18206_0065_00013;13;;Espace Artisanal du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.354292;47.154834
+18206_0062_00036;36;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.339952;47.17745
+18206_0043_00011;11;;Rue du Puits;18110;18206;Saint-Éloy-de-Gy;;;2.347203;47.156424
+18206_0060_00008;8;;Rue des Varennes;18110;18206;Saint-Éloy-de-Gy;;;2.346317;47.15469
+18206_0031_00002;2;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.328754;47.179917
+18206_dg80gr_00002;2;;route du vernay;18110;18206;Saint-Éloy-de-Gy;;;2.353777;47.148074
+18206_v8ehy9_00006;6;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.317012;47.156897
+18206_0031_00066;66;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.313151;47.167434
+18206_0031_00010;10;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.327314;47.179427
+18206_xydyms_00028;28;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.297955;47.171352
+18206_0029_00035;35;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.344222;47.158527
+18206_0038_00052;52;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.331586;47.180231
+18206_0014_00024;24;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.336261;47.178816
+18206_0041_00062;62;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.345236;47.177383
+18206_0041_00031;31;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.341061;47.177281
+18206_0070_00015;15;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.342118;47.157682
+18206_0054_00007;7;;Rue du Stade;18110;18206;Saint-Éloy-de-Gy;;;2.343353;47.154624
+18206_0030_00017;17;;Rue de la Mare des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.34603;47.153525
+18206_0097_00010;10;;Place de l’Eglise;18110;18206;Saint-Éloy-de-Gy;;;2.341389;47.155192
+18206_0070_00006;6;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.340805;47.157199
+18206_du8eq2_00006;6;;Chemin du Perron;18110;18206;Saint-Éloy-de-Gy;;;2.361419;47.143122
+18206_0010_00019;19;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.345077;47.155321
+18206_0060_00001;1;;Rue des Varennes;18110;18206;Saint-Éloy-de-Gy;;;2.346307;47.15529
+18206_0042_00013;13;;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.324023;47.180132
+18206_0008_00013;13;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.348848;47.157731
+18206_0039_00007;7;;Rue des Ouches;18110;18206;Saint-Éloy-de-Gy;;;2.336079;47.18049
+18206_0010_00014;14;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.343792;47.155257
+18206_0051_00019;19;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.333479;47.181691
+18206_dg80gr_00008;8;;route du vernay;18110;18206;Saint-Éloy-de-Gy;;;2.34803;47.147723
+18206_0031_00006;6;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.328085;47.179674
+18206_0042_00011;11;;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.32379;47.180298
+18206_rm77k9_00004;4;;Route de Vasselay;18110;18206;Saint-Éloy-de-Gy;;;2.362657;47.148123
+18206_0062_00020;20;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.339023;47.17937
+18206_0042_00021;21;;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.325295;47.179429
+18206_0vi0e1_00016;16;;route de la Rose;18110;18206;Saint-Éloy-de-Gy;;;2.360302;47.173537
+18206_v8ehy9_00025;25;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.30474;47.167837
+18206_0014_00026;26;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.336061;47.178982
+18206_0062_00038;38;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.340066;47.177231
+18206_0038_00065;65;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.33138;47.180055
+18206_0120_00003;3;;Chemin des Puets;18110;18206;Saint-Éloy-de-Gy;;;2.321667;47.179362
+18206_0062_00012;12;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.338359;47.180092
+18206_0012_00014;14;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.348359;47.154014
+18206_0031_00001;1;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.329966;47.179953
+18206_0058_00026;26;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.343289;47.151002
+18206_0042_00017_ter;17;ter;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.325058;47.180041
+18206_0060_00007;7;;Rue des Varennes;18110;18206;Saint-Éloy-de-Gy;;;2.34661;47.154789
+18206_0010_00021;21;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.345431;47.155359
+18206_0009_00003;3;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;;2.354464;47.152526
+18206_v8ehy9_00001_bis;1;bis;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.324442;47.151657
+18206_0051_00018;18;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.332767;47.181246
+18206_0031_00012;12;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.326791;47.17976
+18206_0010_00005;5;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.342846;47.155459
+18206_0009_00039;39;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;;2.343282;47.17194
+18206_0070_00005;5;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.341151;47.157514
+18206_0008_00012;12;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.349593;47.156297
+18206_0097_00009;9;;Place de l’Eglise;18110;18206;Saint-Éloy-de-Gy;;;2.341997;47.155577
+18206_0059_00008;8;;Rue des Trembles;18110;18206;Saint-Éloy-de-Gy;;;2.354181;47.158268
+18206_0020_00052;52;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.320917;47.182586
+18206_0063_00014;14;;Rue de la Voinerie;18110;18206;Saint-Éloy-de-Gy;;;2.340464;47.182423
+18206_0030_00005;5;;Rue de la Mare des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.348419;47.154671
+18206_0097_00013;13;;Place de l’Eglise;18110;18206;Saint-Éloy-de-Gy;;;2.342087;47.15542
+18206_0051_00010;10;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.33178;47.180893
+18206_0014_00009;9;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.33734;47.178328
+18206_0030_00018;18;;Rue de la Mare des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.345201;47.153397
+18206_l9r39m_00005;5;;chemin de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.344283;47.178822
+18206_0029_00025;25;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.343597;47.157813
+18206_0062_00013;13;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.339356;47.179083
+18206_0040_00005;5;;Rue des Peupliers;18110;18206;Saint-Éloy-de-Gy;;;2.344964;47.154178
+18206_0019_00001;1;;Rue du Bois à la Dame;18110;18206;Saint-Éloy-de-Gy;;;2.340538;47.157902
+18206_0058_00017;17;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.342895;47.152129
+18206_0011_00004;4;;Rue du Champ du Lac;18110;18206;Saint-Éloy-de-Gy;;;2.333948;47.182332
+18206_0062_00004;4;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.338458;47.181059
+18206_0097_00014;14;;Place de l’Eglise;18110;18206;Saint-Éloy-de-Gy;;;2.341191;47.154627
+18206_xydyms_00024;24;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.297599;47.171324
+18206_2u8302_00001;1;;Route de Saint Doulchard;18110;18206;Saint-Éloy-de-Gy;;Chapelutte;2.347556;47.138405
+18206_0049_00018;18;;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.338685;47.15619
+18206_0065_00010;10;;Espace Artisanal du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.353914;47.154644
+18206_0070_00022;22;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.342488;47.157284
+18206_v8ehy9_00017;17;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.31491;47.156234
+18206_u4wqzd_00009;9;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.312886;47.187708
+18206_0095_00001;1;;Allee des Eglantines;18110;18206;Saint-Éloy-de-Gy;;;2.3468;47.153651
+18206_0097_00003;3;;Place de l’Eglise;18110;18206;Saint-Éloy-de-Gy;;;2.341874;47.15577
+18206_0043_00004;4;;Rue du Puits;18110;18206;Saint-Éloy-de-Gy;;;2.344583;47.157503
+18206_wk22bt_00003;3;;Route des Beaumonts;18110;18206;Saint-Éloy-de-Gy;;;2.35455;47.16844
+18206_0014_00010;10;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.337979;47.178971
+18206_0031_00075;75;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.320423;47.175723
+18206_0065_00001;1;;Espace Artisanal du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.353116;47.156486
+18206_xydyms_00010;10;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.298612;47.170812
+18206_0063_00004;4;;Rue de la Voinerie;18110;18206;Saint-Éloy-de-Gy;;;2.339299;47.181592
+18206_xydyms_00002;2;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.301654;47.172185
+18206_0054_00004;4;;Rue du Stade;18110;18206;Saint-Éloy-de-Gy;;;2.342534;47.155002
+18206_0029_00027;27;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.343749;47.157946
+18206_0041_00061;61;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.345604;47.177672
+18206_u4wqzd_00010;10;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.313514;47.18709
+18206_dg80gr_00006;6;;route du vernay;18110;18206;Saint-Éloy-de-Gy;;;2.347638;47.147571
+18206_0009_00023;23;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;;2.35151;47.157341
+18206_0033_00013;13;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.339023;47.15767
+18206_0008_00032;32;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.3497;47.157978
+18206_0042_00025;25;;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.325615;47.179333
+18206_0012_00003;3;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.350539;47.155415
+18206_0058_00036;36;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.34369;47.150122
+18206_0041_00064;64;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.345387;47.177399
+18206_0041_00044;44;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.343159;47.177877
+18206_sze1n1_00006;6;;Chemin de l'Ouche Millard;18110;18206;Saint-Éloy-de-Gy;;;2.344301;47.177007
+18206_0065_00015;15;;Espace Artisanal du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.354693;47.15494
+18206_0043_00003;3;;Rue du Puits;18110;18206;Saint-Éloy-de-Gy;;;2.344438;47.157918
+18206_0058_00001;1;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.341649;47.153938
+18206_0031_00068;68;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;Bressemenault;2.307802;47.16265
+18206_dg80gr_00010;10;;route du vernay;18110;18206;Saint-Éloy-de-Gy;;;2.347721;47.14792
+18206_0062_00017;17;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.339936;47.178217
+18206_0039_00012_bis;12;bis;Rue des Ouches;18110;18206;Saint-Éloy-de-Gy;;;2.33632;47.179744
+18206_0040_00002;2;;Rue des Peupliers;18110;18206;Saint-Éloy-de-Gy;;;2.344423;47.155105
+18206_0030_00014;14;;Rue de la Mare des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.345987;47.153703
+18206_0031_00020;20;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.326215;47.178905
+18206_0058_00046;46;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.344279;47.149042
+18206_0010_00001;1;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.342396;47.155365
+18206_v8ehy9_00002;2;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.318155;47.1559
+18206_0010_00039;39;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.347528;47.155613
+18206_0051_00004;4;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.331257;47.180711
+18206_0049_00015;15;;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.339263;47.156069
+18206_0031_00077;77;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.318063;47.173198
+18206_0033_00015;15;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.338868;47.157816
+18206_0097_00017;17;;Place de l’Eglise;18110;18206;Saint-Éloy-de-Gy;;;2.342002;47.155205
+18206_0029_00015;15;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.342613;47.157056
+18206_0090_00004;4;;Chemin du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.355547;47.15278
+18206_0009_00033;33;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;;2.348236;47.162042
+18206_0090_00002;2;;Chemin du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.35564;47.152183
+18206_0019_00007;7;;Rue du Bois à la Dame;18110;18206;Saint-Éloy-de-Gy;;;2.340357;47.158533
+18206_u4wqzd_00031;31;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.30975;47.187746
+18206_sze1n1_00018;18;;Chemin de l'Ouche Millard;18110;18206;Saint-Éloy-de-Gy;;;2.342165;47.176237
+18206_0042_00029;29;;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.325496;47.178958
+18206_0038_00051;51;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.333438;47.179115
+18206_4kfjbf_00002;2;;Chemin du Claudy;18110;18206;Saint-Éloy-de-Gy;;;2.331035;47.158837
+18206_0008_00014;14;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.34984;47.156314
+18206_0060_00009;9;;Rue des Varennes;18110;18206;Saint-Éloy-de-Gy;;;2.346569;47.154641
+18206_u4wqzd_00036;36;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.311714;47.18863
+18206_0029_00019;19;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.343147;47.157161
+18206_v8ehy9_00010;10;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.302117;47.174678
+18206_0010_00002_ter;2;ter;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.342152;47.155177
+18206_0012_00023;23;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.348671;47.153664
+18206_0006_00007;7;;Route de Berry-Bouy;18110;18206;Saint-Éloy-de-Gy;;;2.341578;47.15428
+18206_0058_00028;28;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.343333;47.150927
+18206_0097_00007;7;;Place de l’Eglise;18110;18206;Saint-Éloy-de-Gy;;;2.341948;47.155634
+18206_0039_00020;20;;Rue des Ouches;18110;18206;Saint-Éloy-de-Gy;;;2.33686;47.181178
+18206_0020_00051;51;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.320835;47.181882
+18206_0065_00009;9;;Espace Artisanal du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.354046;47.155098
+18206_0023_00029;29;;Rue de la Forêt;18110;18206;Saint-Éloy-de-Gy;;;2.334968;47.182385
+18206_0033_00019;19;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.338485;47.158242
+18206_0059_00010;10;;Rue des Trembles;18110;18206;Saint-Éloy-de-Gy;;;2.354788;47.158876
+18206_0010_00025;25;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.345891;47.155419
+18206_0070_00011;11;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.342034;47.157539
+18206_0031_00081;81;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.318633;47.168816
+18206_0006_00012_bis;12;bis;Route de Berry-Bouy;18110;18206;Saint-Éloy-de-Gy;;;2.341362;47.154477
+18206_u4wqzd_00050;50;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.307258;47.19059
+18206_0008_00002;2;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.348942;47.155893
+18206_0049_00009;9;;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.340631;47.156169
+18206_0013_00008;8;;Rue de la Chapelle;18110;18206;Saint-Éloy-de-Gy;;;2.336535;47.18198
+18206_0031_00056;56;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.316945;47.16978
+18206_0041_00024;24;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.340401;47.176736
+18206_0020_00044;44;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.321878;47.182141
+18206_0051_00042;42;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.336953;47.182767
+18206_0038_00015;15;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.335162;47.177516
+18206_0029_00004;4;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.342095;47.156031
+18206_0008_00036;36;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.349471;47.158128
+18206_1um0ep_00008;8;;chemin de la Goutelle;18110;18206;Saint-Éloy-de-Gy;;;2.359241;47.17276
+18206_0097_00002_b;2;b;Place de l’Eglise;18110;18206;Saint-Éloy-de-Gy;;;2.34127;47.155765
+18206_0040_00009;9;;Rue des Peupliers;18110;18206;Saint-Éloy-de-Gy;;;2.34456;47.154105
+18206_0012_00004;4;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.349657;47.154952
+18206_0033_00029;29;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.33475;47.16107
+18206_0012_00002;2;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.349771;47.155087
+18206_0097_00004;4;;Place de l’Eglise;18110;18206;Saint-Éloy-de-Gy;;;2.34128;47.155412
+18206_0029_00014;14;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.343389;47.157163
+18206_0038_00063;63;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.331486;47.180055
+18206_0041_00052;52;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.343977;47.177734
+18206_0063_00005_bis;5;bis;Rue de la Voinerie;18110;18206;Saint-Éloy-de-Gy;;;2.33956;47.181962
+18206_0097_00012;12;;Place de l’Eglise;18110;18206;Saint-Éloy-de-Gy;;;2.341445;47.155098
+18206_0029_00037;37;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.344312;47.158723
+18206_0058_00003;3;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.341668;47.15387
+18206_99ux35_00002;2;;impasse des Trembles;18110;18206;Saint-Éloy-de-Gy;;;2.355388;47.157792
+18206_0038_00047;47;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.33373;47.178895
+18206_0038_00072;72;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.329176;47.181149
+18206_0070_00009;9;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.341717;47.157462
+18206_0002_00001;1;;Rue aux Maçons;18110;18206;Saint-Éloy-de-Gy;;;2.335808;47.180618
+18206_0059_00002;2;;Rue des Trembles;18110;18206;Saint-Éloy-de-Gy;;;2.353594;47.157678
+18206_0049_00017;17;;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.338554;47.156036
+18206_0010_00013;13;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.343893;47.155399
+18206_ivekef_00040;40;;Allee de Vendegond;18110;18206;Saint-Éloy-de-Gy;;;2.314305;47.168746
+18206_0038_00019;19;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.334961;47.177687
+18206_0090_00005;5;;Chemin du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.355357;47.153324
+18206_0031_00052;52;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.317986;47.171577
+18206_0031_00091;91;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.314726;47.167382
+18206_0058_00035;35;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.343821;47.150511
+18206_4kfjbf_00005;5;;Chemin du Claudy;18110;18206;Saint-Éloy-de-Gy;;;2.33006;47.158816
+18206_0058_00020;20;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.342926;47.151708
+18206_0008_00010;10;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.349371;47.156274
+18206_0060_00003;3;;Rue des Varennes;18110;18206;Saint-Éloy-de-Gy;;;2.34638;47.155065
+18206_0008_00006;6;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.348945;47.156288
+18206_0030_00012;12;;Rue de la Mare des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.34645;47.153818
+18206_v8ehy9_00027;27;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.301574;47.173999
+18206_v8ehy9_00012;12;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.30188;47.17482
+18206_0033_00009;9;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.339516;47.157407
+18206_0042_00006;6;;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.323266;47.181366
+18206_0059_00003;3;;Rue des Trembles;18110;18206;Saint-Éloy-de-Gy;;;2.353507;47.158007
+18206_0033_00024;24;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.338305;47.159125
+18206_0090_00003;3;;Chemin du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.355339;47.153006
+18206_0038_00041;41;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.333742;47.178557
+18206_u4wqzd_00022;22;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.313248;47.188371
+18206_0065_00003;3;;Espace Artisanal du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.353491;47.156131
+18206_0008_00034;34;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.350116;47.157965
+18206_0029_00026;26;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.34451;47.158482
+18206_u4wqzd_00002;2;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.314518;47.185116
+18206_0058_00027;27;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.343403;47.151304
+18206_0065_00012;12;;Espace Artisanal du Danjon;18110;18206;Saint-Éloy-de-Gy;;;2.354302;47.154249
+18206_0041_00032;32;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.341123;47.177169
+18206_0008_00015;15;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.34892;47.157951
+18206_0009_00001;1;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;La Croix Blanche;2.354953;47.148127
+18206_0020_00045;45;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.32129;47.181892
+18206_0002_00008;8;;Rue aux Maçons;18110;18206;Saint-Éloy-de-Gy;;;2.335191;47.181342
+18206_v8ehy9_00021;21;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.305808;47.166486
+18206_0038_00031;31;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.334508;47.17822
+18206_0049_00006;6;;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.341058;47.15629
+18206_ivekef_00036;36;;Allee de Vendegond;18110;18206;Saint-Éloy-de-Gy;;;2.31459;47.168886
+18206_0009_00035;35;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;;2.348653;47.161955
+18206_0042_00004;4;;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.323233;47.181527
+18206_0029_00031;31;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.34392;47.15817
+18206_0014_00018;18;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.337073;47.178657
+18206_0026_00004;4;;Allee des Genets;18110;18206;Saint-Éloy-de-Gy;;;2.345549;47.152545
+18206_0018_00019;19;;Rue de la Citrouille;18110;18206;Saint-Éloy-de-Gy;;;2.33508;47.179931
+18206_0031_00004;4;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.328388;47.179766
+18206_0023_00016;16;;Rue de la Forêt;18110;18206;Saint-Éloy-de-Gy;;;2.334508;47.180751
+18206_0031_00097;97;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.314;47.167024
+18206_0008_00040;40;;Rue de Breuilly;18110;18206;Saint-Éloy-de-Gy;;;2.348913;47.159309
+18206_0029_00023;23;;Rue de la Mairie;18110;18206;Saint-Éloy-de-Gy;;;2.343386;47.157479
+18206_0033_00023;23;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.338208;47.15864
+18206_0070_00018;18;;Rue de la Berthauderie;18110;18206;Saint-Éloy-de-Gy;;;2.342119;47.157244
+18206_u4wqzd_00045;45;;route des Moreaux;18110;18206;Saint-Éloy-de-Gy;;;2.300624;47.190404
+18206_0038_00014;14;;Route d’Orléans;18110;18206;Saint-Éloy-de-Gy;;;2.335569;47.177449
+18206_0041_00042;42;;Rue de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.342564;47.177698
+18206_0039_00021;21;;Rue des Ouches;18110;18206;Saint-Éloy-de-Gy;;;2.337406;47.181654
+18206_l9r39m_00001;1;;chemin de la Pommeraye;18110;18206;Saint-Éloy-de-Gy;;;2.343732;47.178465
+18206_0012_00009;9;;Rue du Chene;18110;18206;Saint-Éloy-de-Gy;;;2.349825;47.154862
+18206_0033_00018;18;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.339014;47.158664
+18206_0049_00002;2;;Rue de la Rongere;18110;18206;Saint-Éloy-de-Gy;;;2.341665;47.156129
+18206_0062_00019;19;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.34021;47.177846
+18206_0028_00003;3;;Chemin du Lavoir;18110;18206;Saint-Éloy-de-Gy;;;2.32659;47.180924
+18206_0059_00006;6;;Rue des Trembles;18110;18206;Saint-Éloy-de-Gy;;;2.35396;47.158068
+18206_0vi0e1_00007;7;;route de la Rose;18110;18206;Saint-Éloy-de-Gy;;;2.359345;47.173563
+18206_0030_00006;6;;Rue de la Mare des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.347222;47.154111
+18206_0019_00010;10;;Rue du Bois à la Dame;18110;18206;Saint-Éloy-de-Gy;;;2.340609;47.158673
+18206_0009_00020;20;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;;2.351297;47.15947
+18206_0042_00017_bis;17;bis;Rue des Plantes;18110;18206;Saint-Éloy-de-Gy;;;2.325188;47.179867
+18206_0051_00048;48;;Route de Saint Martin;18110;18206;Saint-Éloy-de-Gy;;;2.338028;47.183143
+18206_v8ehy9_00008;8;;Route de Vouzeron;18110;18206;Saint-Éloy-de-Gy;;;2.309249;47.170163
+18206_0002_00010;10;;Rue aux Maçons;18110;18206;Saint-Éloy-de-Gy;;;2.334932;47.181635
+18206_sze1n1_00001;1;;Chemin de l'Ouche Millard;18110;18206;Saint-Éloy-de-Gy;;;2.343642;47.17618
+18206_4kfjbf_00001;1;;Chemin du Claudy;18110;18206;Saint-Éloy-de-Gy;;;2.330662;47.158854
+18206_0020_00008;8;;Rue du Cretet;18110;18206;Saint-Éloy-de-Gy;;;2.327263;47.181189
+18206_0062_00031;31;;Rue du Vignoux;18110;18206;Saint-Éloy-de-Gy;;;2.340493;47.177412
+18206_0058_00025;25;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.343305;47.151479
+18206_0058_00039;39;;Rue des Terres Rouges;18110;18206;Saint-Éloy-de-Gy;;;2.344031;47.150127
+18206_0014_00006;6;;Rue du Chailloux;18110;18206;Saint-Éloy-de-Gy;;;2.337556;47.179636
+18206_0009_00004;4;;Route de Bourges;18110;18206;Saint-Éloy-de-Gy;;;2.356138;47.150194
+18206_0033_00004;4;;Rue du Montet;18110;18206;Saint-Éloy-de-Gy;;;2.340125;47.157163
+18206_0039_00025;25;;Rue des Ouches;18110;18206;Saint-Éloy-de-Gy;;;2.338369;47.181527
+18206_xydyms_00018;18;;Route de Dame;18110;18206;Saint-Éloy-de-Gy;;;2.298244;47.171195
+18206_0vi0e1_00010;10;;route de la Rose;18110;18206;Saint-Éloy-de-Gy;;;2.35975;47.173166
+18206_0120_00006;6;;Chemin des Puets;18110;18206;Saint-Éloy-de-Gy;;;2.321873;47.178689
+18206_0031_00050;50;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.317884;47.172353
+18206_0085_00007;7;;Chemin du Chansi;18110;18206;Saint-Éloy-de-Gy;;;2.329376;47.179036
+18206_0039_00009;9;;Rue des Ouches;18110;18206;Saint-Éloy-de-Gy;;;2.336261;47.180576
+18206_0010_00029;29;;Rue des Chaumes;18110;18206;Saint-Éloy-de-Gy;;;2.346397;47.155508
+18206_0031_00008;8;;Route de Mehun;18110;18206;Saint-Éloy-de-Gy;;;2.327775;47.179543
+18206_0040_00007;7;;Rue des Peupliers;18110;18206;Saint-Éloy-de-Gy;;;2.344751;47.154122
+18206_0040_00004;4;;Rue des Peupliers;18110;18206;Saint-Éloy-de-Gy;;;2.344395;47.154628

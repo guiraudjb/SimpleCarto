@@ -1,0 +1,717 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+52265_0190_00008;8;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075191;48.551008
+52265_0190_00011;11;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074468;48.547992
+52265_0190_00025;25;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073676;48.55112
+52265_0190_00033;33;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073661;48.550992
+52265_0235_00002;2;;Avenue Pierre Clement Grignon;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.078557;48.55346
+52265_0235_00003;3;;Avenue Pierre Clement Grignon;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.077916;48.553442
+52265_0080_00005;5;;Rue de la Californie;52170;52265;Bayard-sur-Marne;Gourzon;;5.082716;48.545469
+52265_0090_00002;2;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073027;48.556124
+52265_0090_00003;3;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073086;48.556115
+52265_0090_00014;14;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071883;48.556864
+52265_0090_00017;17;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071824;48.556912
+52265_7abbls_00002;2;;Rue sous Mareille;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.04887;48.563126
+52265_7abbls_00004;4;;Rue sous Mareille;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049029;48.563044
+52265_7abbls_00007;7;;Rue sous Mareille;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.048752;48.563098
+52265_8d38fp_00001;1;;Rue Pierre Maillot;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07604;48.554661
+52265_8d38fp_00002;2;;Rue Pierre Maillot;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07582;48.554881
+52265_8d38fp_00005;5;;Rue Pierre Maillot;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07632;48.554782
+52265_0190_00004;4;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074468;48.547992
+52265_0190_00015;15;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075326;48.551328
+52265_0190_00017;17;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074865;48.55081
+52265_0190_00023;23;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07331;48.551829
+52265_0235_00007;7;;Avenue Pierre Clement Grignon;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.079039;48.553804
+52265_0080_00004;4;;Rue de la Californie;52170;52265;Bayard-sur-Marne;Gourzon;;5.082795;48.545699
+52265_0080_00009;9;;Rue de la Californie;52170;52265;Bayard-sur-Marne;Gourzon;;5.082629;48.545224
+52265_0090_00007;7;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072622;48.556378
+52265_0090_00013;13;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072231;48.556761
+52265_7abbls_00013;13;;Rue sous Mareille;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049056;48.562931
+52265_8d38fp_00006;6;;Rue Pierre Maillot;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07609;48.555002
+52265_0190_00007;7;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074468;48.547992
+52265_0190_00021_c;21;c;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07368;48.550999
+52265_0190_00021_b;21;b;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07358;48.551059
+52265_0190_00021_a;21;a;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.0735;48.551119
+52265_0235_00006;6;;Avenue Pierre Clement Grignon;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.078832;48.553734
+52265_0235_00012;12;;Avenue Pierre Clement Grignon;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07929;48.553906
+52265_0080_00012;12;;Rue de la Californie;52170;52265;Bayard-sur-Marne;Gourzon;;5.082625;48.54521
+52265_0080_00014;14;;Rue de la Californie;52170;52265;Bayard-sur-Marne;Gourzon;;5.082575;48.545066
+52265_0090_00006;6;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072607;48.556276
+52265_0090_00010;10;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072254;48.556525
+52265_7abbls_00009;9;;Rue sous Mareille;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.048837;48.56305
+52265_0190_00003;3;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074468;48.547992
+52265_0190_00012;12;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074915;48.550715
+52265_0235_00014;14;;Avenue Pierre Clement Grignon;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.079387;48.553931
+52265_0080_00002;2;;Rue de la Californie;52170;52265;Bayard-sur-Marne;Gourzon;;5.082829;48.545791
+52265_0080_00008;8;;Rue de la Californie;52170;52265;Bayard-sur-Marne;Gourzon;;5.082711;48.545456
+52265_7abbls_00005;5;;Rue sous Mareille;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.048717;48.563127
+52265_7abbls_00011;11;;Rue sous Mareille;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.048951;48.562987
+52265_0190_00005;5;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076927;48.553093
+52265_0190_00010;10;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075076;48.550885
+52265_0190_00019;19;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075083;48.551043
+52265_0190_00029;29;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07379;48.551029
+52265_7abbls_00003;3;;Rue sous Mareille;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.048717;48.563127
+52265_gu934e_00052;52;;Rue de l’Ecluse;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075428;48.55148
+52265_8d38fp_00007;7;;Rue Pierre Maillot;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07621;48.554892
+52265_8d38fp_00004;4;;Rue Pierre Maillot;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07593;48.554928
+52265_0190_00002;2;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07747;48.553318
+52265_0190_00009;9;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075385;48.55123
+52265_0190_00013;13;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075387;48.551408
+52265_0190_00014;14;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075297;48.551292
+52265_0190_00021;21;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073625;48.55116
+52265_0190_00021_f;21;f;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.0739;48.550811
+52265_7abbls_00006;6;;Rue sous Mareille;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049131;48.562992
+52265_8d38fp_00003;3;;Rue Pierre Maillot;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07614;48.5547
+52265_0190_00006;6;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075865;48.551748
+52265_0190_00027;27;;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073734;48.551073
+52265_0190_00021_d;21;d;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07375;48.550939
+52265_0190_00021_e;21;e;Rue de la Gare;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07382;48.550871
+52265_0235_00008;8;;Avenue Pierre Clement Grignon;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07897;48.553779
+52265_0235_00010;10;;Avenue Pierre Clement Grignon;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.079133;48.553837
+52265_0080_00003;3;;Rue de la Californie;52170;52265;Bayard-sur-Marne;Gourzon;;5.082797;48.545702
+52265_0090_00001;1;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073402;48.556148
+52265_0090_00012;12;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072052;48.556683
+52265_0090_00019;19;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071628;48.557059
+52265_0090_00023;23;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071744;48.557095
+52265_0090_00025;25;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07151;48.557263
+52265_0200_00009;9;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.086207;48.544961
+52265_0200_00013;13;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.086032;48.544715
+52265_0200_00021;21;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.0859;48.544506
+52265_0200_00026;26;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085934;48.543415
+52265_0200_00030;30;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.087702;48.542624
+52265_0200_00031;31;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085763;48.544272
+52265_0240_00009;9;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.089816;48.543235
+52265_0235_00001;1;;Avenue Pierre Clement Grignon;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.078632;48.553393
+52265_0080_00006;6;;Rue de la Californie;52170;52265;Bayard-sur-Marne;Gourzon;;5.082749;48.545564
+52265_0080_00007;7;;Rue de la Californie;52170;52265;Bayard-sur-Marne;Gourzon;;5.082674;48.545348
+52265_0080_00010;10;;Rue de la Californie;52170;52265;Bayard-sur-Marne;Gourzon;;5.08266;48.545309
+52265_0090_00004;4;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072747;48.55619
+52265_0090_00009;9;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072619;48.556379
+52265_0090_00011;11;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072328;48.556592
+52265_0090_00030;30;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071265;48.558097
+52265_0200_00005;5;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.086251;48.545217
+52265_0200_00020;20;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085792;48.543901
+52265_0200_00039;39;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085698;48.544059
+52265_0240_00015;15;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.090562;48.543245
+52265_0235_00004;4;;Avenue Pierre Clement Grignon;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.078765;48.553711
+52265_0235_00005;5;;Avenue Pierre Clement Grignon;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.079232;48.553593
+52265_0235_00016;16;;Avenue Pierre Clement Grignon;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.079542;48.553954
+52265_0080_00001;1;;Rue de la Californie;52170;52265;Bayard-sur-Marne;Gourzon;;5.082836;48.545814
+52265_0090_00008;8;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072519;48.556447
+52265_0090_00015;15;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071953;48.556807
+52265_0090_00016;16;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071707;48.557002
+52265_0200_00012;12;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085848;48.544163
+52265_0200_00016;16;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085807;48.544006
+52265_0200_00017;17;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.08593;48.544555
+52265_0200_00023;23;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085899;48.544505
+52265_0200_00027;27;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085836;48.5444
+52265_0200_00047;47;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085669;48.543732
+52265_0200_00053;53;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.087117;48.542647
+52265_0200_00051_b;51;b;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.086087;48.543108
+52265_0240_00005;5;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.090387;48.543113
+52265_0240_00013;13;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.090541;48.543379
+52265_0080_00011;11;;Rue de la Californie;52170;52265;Bayard-sur-Marne;Gourzon;;5.082396;48.544891
+52265_0080_00016;16;;Rue de la Californie;52170;52265;Bayard-sur-Marne;Gourzon;;5.08251;48.544861
+52265_0090_00005;5;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072474;48.556481
+52265_0090_00020;20;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07138;48.557239
+52265_0090_00026;26;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071185;48.557749
+52265_0090_00029;29;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071167;48.557659
+52265_0090_00033;33;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071334;48.557861
+52265_0090_00035;35;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071386;48.55809
+52265_0200_00004;4;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.086071;48.544571
+52265_0200_00008;8;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.086023;48.544494
+52265_0200_00037;37;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085701;48.544074
+52265_0200_00045;45;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085666;48.54375
+52265_0200_00009_a;9;a;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.08623;48.545038
+52265_0200_00002_a;2;a;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.08628;48.54475
+52265_0240_00002;2;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.090163;48.542856
+52265_0240_00004;4;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.089887;48.543062
+52265_0240_00008;8;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.089555;48.543538
+52265_0240_00012;12;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.08996;48.544049
+52265_0090_00022;22;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071252;48.557361
+52265_0090_00018;18;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071534;48.557126
+52265_0090_00024;24;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07117;48.557518
+52265_0090_00028;28;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071225;48.557926
+52265_0090_00032;32;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071307;48.558276
+52265_0200_00011;11;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.08599;48.544849
+52265_0200_00019;19;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085929;48.544551
+52265_0200_00022;22;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085933;48.543414
+52265_0200_00049;49;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085851;48.543349
+52265_0240_00001;1;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.090568;48.542673
+52265_0240_00010;10;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.089617;48.543737
+52265_0240_00026;26;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.091167;48.543317
+52265_0240_00030;30;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.090169;48.54285
+52265_0040_00011;11;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075394;48.555116
+52265_0040_00012;12;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075645;48.554704
+52265_0040_00015;15;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075151;48.555374
+52265_0040_00022;22;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075143;48.55523
+52265_0040_00034;34;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074578;48.555821
+52265_0040_00039;39;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072158;48.557907
+52265_0090_00027;27;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071504;48.557267
+52265_0200_00002;2;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.086149;48.544693
+52265_0200_00010;10;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085942;48.544358
+52265_0200_00014;14;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085859;48.544195
+52265_0200_00025;25;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085838;48.544402
+52265_0200_00041;41;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085685;48.543995
+52265_0200_00051;51;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085853;48.543348
+52265_0200_00002_b;2;b;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.086311;48.544916
+52265_0200_00051_a;51;a;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.08548;48.543148
+52265_0240_00007;7;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.090276;48.543155
+52265_0240_00014;14;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.089979;48.544081
+52265_0240_00017;17;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.091104;48.543249
+52265_0040_00002;2;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076138;48.554208
+52265_0040_00009;9;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075779;48.554716
+52265_0040_00016;16;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07542;48.554938
+52265_0040_00020;20;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075235;48.555131
+52265_0040_00030;30;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074773;48.555619
+52265_0040_00036;36;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074473;48.555919
+52265_0200_00007;7;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.086252;48.5452
+52265_0090_00021;21;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071922;48.556958
+52265_0200_00018;18;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085791;48.543888
+52265_0200_00028;28;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.086102;48.543237
+52265_0200_00029;29;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085842;48.544411
+52265_0200_00033;33;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085751;48.54424
+52265_0200_00035;35;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085731;48.544184
+52265_0200_00025_bis;25;bis;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.08571;48.544431
+52265_0240_00003;3;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.090414;48.542787
+52265_0240_00016;16;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.090057;48.543995
+52265_0240_00022;22;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.090763;48.543485
+52265_0040_00006;6;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075968;48.554372
+52265_0040_00019;19;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074584;48.555953
+52265_0040_00026;26;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074962;48.555422
+52265_0040_00031;31;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072879;48.557354
+52265_0090_00031;31;;Rue sous la Chatelaine;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07121;48.557858
+52265_0200_00001;1;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.086275;48.545339
+52265_0200_00006;6;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.086049;48.544535
+52265_0200_00015;15;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085975;48.544627
+52265_0200_00024;24;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085828;48.543576
+52265_0200_00043;43;;Rue Haute;52170;52265;Bayard-sur-Marne;Gourzon;;5.085676;48.543939
+52265_0240_00006;6;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.089712;48.543194
+52265_0240_00011;11;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.089702;48.543642
+52265_0040_00001;1;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076743;48.553898
+52265_0040_00005;5;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.0764;48.554108
+52265_0040_00027;27;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073829;48.556589
+52265_0040_00038;38;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074359;48.556026
+52265_0040_00045;45;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071557;48.558377
+52265_0195_00011;11;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071733;48.549392
+52265_0195_00018;18;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073196;48.548303
+52265_0215_00007;7;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.08181;48.544984
+52265_0215_00019;19;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.08306;48.544545
+52265_0215_00026;26;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.084276;48.544795
+52265_0215_00031;31;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.084418;48.544375
+52265_0180_00007;7;;Rue des Friands;52170;52265;Bayard-sur-Marne;Gourzon;;5.079924;48.545924
+52265_0085_00012;12;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.082542;48.545995
+52265_0085_00013;13;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.082051;48.545972
+52265_0085_00017;17;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.08363;48.545791
+52265_0085_00032;32;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.086014;48.545591
+52265_0085_00033;33;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.085348;48.545596
+52265_0085_00036;36;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.087162;48.545353
+52265_0085_00056;56;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.091102;48.543964
+52265_0085_00067;67;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.088632;48.544809
+52265_0198_00014;14;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.051331;48.561743
+52265_0198_00001_bis;1;bis;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049945;48.562913
+52265_0150_00001;1;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.087965;48.544873
+52265_0150_00004;4;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.087878;48.544636
+52265_0150_00022;22;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.087022;48.543594
+52265_0120_00016;16;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050425;48.560831
+52265_0120_00017;17;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049135;48.560869
+52265_0120_00025;25;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050114;48.55972
+52265_0120_00030;30;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050188;48.559445
+52265_0120_00032;32;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050074;48.559268
+52265_0250_00016;16;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076319;48.55576
+52265_0250_00024;24;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076119;48.555972
+52265_0290_00011_bis;11;bis;Impasse de Troisfontaines;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.052006;48.560304
+52265_0300_00004;4;;Impasse des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073698;48.554993
+52265_0199_00001;1;;Impasse des Grandes Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07365;48.554532
+52265_0199_00004;4;;Impasse des Grandes Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073409;48.554604
+52265_0275_00002;2;;Rue du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.047744;48.562976
+52265_0275_00009;9;;Rue du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.047191;48.562436
+52265_0275_00010;10;;Rue du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.046927;48.562119
+52265_0170_00006;6;;Rue du Four;52170;52265;Bayard-sur-Marne;Gourzon;;5.083348;48.54511
+52265_0070_00010;10;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073449;48.557879
+52265_0070_00011;11;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074314;48.55746
+52265_0070_00015;15;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074284;48.557677
+52265_0070_00022;22;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072272;48.558623
+52265_0070_00023;23;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073388;48.558124
+52265_0070_00027;27;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073125;48.558448
+52265_0070_00029;29;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073013;48.558586
+52265_0060_00002;2;;Impasse du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07778;48.554181
+52265_0060_00005;5;;Impasse du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.078551;48.554277
+52265_0301_00014;14;;Rue des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07531;48.55409
+52265_0301_00020;20;;Rue des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073703;48.555736
+52265_0010_00011;11;;Rue des Acacias;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075775;48.555742
+52265_0030_00002;2;;Route d’Avrainville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071663;48.546118
+52265_0030_00005;5;;Route d’Avrainville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071973;48.548688
+52265_0195_00020;20;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072924;48.548456
+52265_0195_00036;36;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072356;48.548762
+52265_0195_00044;44;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071284;48.549696
+52265_0215_00002;2;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.081115;48.545417
+52265_0215_00003;3;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.081316;48.545275
+52265_0215_00010;10;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.081942;48.545177
+52265_0215_00011;11;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.08211;48.544769
+52265_0180_00009;9;;Rue des Friands;52170;52265;Bayard-sur-Marne;Gourzon;;5.079869;48.545935
+52265_0085_00005;5;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.079414;48.546274
+52265_0085_00008;8;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.081701;48.5461
+52265_0085_00027;27;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.085193;48.545615
+52265_0085_00037;37;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.085603;48.545564
+52265_0085_00042;42;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.088747;48.54486
+52265_0085_00047;47;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.08665;48.5454
+52265_0085_00065;65;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.088625;48.544812
+52265_0198_00002;2;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.053632;48.561285
+52265_0198_00007;7;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.052411;48.561607
+52265_0198_00008;8;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.05204;48.561658
+52265_0198_00018;18;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050977;48.561986
+52265_0198_00031;31;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050074;48.562813
+52265_0198_00037;37;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049783;48.563039
+52265_0150_00008;8;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.087901;48.544654
+52265_0150_00013;13;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.086953;48.543698
+52265_0150_00017;17;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.086782;48.543369
+52265_0150_00028;28;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.086709;48.543074
+52265_0120_00001;1;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.051293;48.561571
+52265_0120_00009;9;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050361;48.560907
+52265_0120_00020;20;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049994;48.560447
+52265_0120_00026_bis;26;bis;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050142;48.559677
+52265_0250_00030;30;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07605;48.556046
+52265_0250_00032;32;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07595;48.556151
+52265_0250_00042;42;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075591;48.556517
+52265_0300_00005;5;;Impasse des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073581;48.555189
+52265_0300_00013;13;;Impasse des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074039;48.555406
+52265_0199_00003;3;;Impasse des Grandes Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07365;48.554532
+52265_0275_00005;5;;Rue du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.047524;48.562843
+52265_0070_00014;14;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073193;48.558195
+52265_0070_00019;19;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073651;48.5578
+52265_0070_00037;37;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07278;48.559035
+52265_0070_00043;43;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072219;48.558701
+52265_0301_00019;19;;Rue des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073593;48.556247
+52265_0083_00002;2;;Impasse des Chanvriers;52170;52265;Bayard-sur-Marne;Gourzon;;5.083912;48.545331
+52265_0030_00001;1;;Route d’Avrainville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071981;48.548896
+52265_0040_00043;43;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071745;48.558229
+52265_0195_00001;1;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073875;48.548008
+52265_0195_00002;2;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074176;48.547751
+52265_0195_00006;6;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074136;48.547771
+52265_0195_00007;7;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072115;48.549034
+52265_0195_00010;10;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07402;48.547829
+52265_0195_00040;40;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072172;48.548869
+52265_0215_00022;22;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.084175;48.544856
+52265_0215_00037;37;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.084626;48.544518
+52265_0215_00039;39;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.08466;48.544682
+52265_0180_00004;4;;Rue des Friands;52170;52265;Bayard-sur-Marne;Gourzon;;5.080259;48.54578
+52265_0085_00010;10;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.082034;48.546056
+52265_0085_00016;16;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.08308;48.545969
+52265_0085_00020;20;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.083799;48.545854
+52265_0085_00028;28;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.085251;48.54569
+52265_0085_00043;43;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.086189;48.545487
+52265_0085_00055;55;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.087956;48.545029
+52265_0085_00061;61;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.088695;48.544787
+52265_0085_00031_bis;31;bis;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.085348;48.545596
+52265_0198_00011;11;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.051969;48.561668
+52265_0198_00025;25;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050606;48.562394
+52265_0198_00039;39;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049653;48.56314
+52265_0150_00014;14;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.08751;48.544337
+52265_0150_00021;21;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.086523;48.543073
+52265_0120_00002;2;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.051294;48.561442
+52265_0120_00022;22;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049888;48.560087
+52265_0250_00006;6;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076587;48.555482
+52265_0250_00014;14;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07642;48.555653
+52265_0290_00011;11;;Impasse de Troisfontaines;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.052146;48.56054
+52265_0290_00011_ter;11;ter;Impasse de Troisfontaines;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.051805;48.559958
+52265_0275_00001;1;;Rue du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.047912;48.563246
+52265_0170_00001;1;;Rue du Four;52170;52265;Bayard-sur-Marne;Gourzon;;5.083369;48.545645
+52265_0170_00011;11;;Rue du Four;52170;52265;Bayard-sur-Marne;Gourzon;;5.083123;48.544704
+52265_0070_00002;2;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073411;48.557156
+52265_0070_00003;3;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07369;48.557206
+52265_0070_00006;6;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073765;48.557521
+52265_0070_00007;7;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073987;48.557417
+52265_0070_00018;18;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072913;48.55854
+52265_0060_00006;6;;Impasse du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.078416;48.554259
+52265_0301_00006;6;;Rue des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075361;48.554035
+52265_0301_00008;8;;Rue des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075349;48.554048
+52265_0301_00015;15;;Rue des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073973;48.555474
+52265_0083_00004;4;;Impasse des Chanvriers;52170;52265;Bayard-sur-Marne;Gourzon;;5.08414;48.545161
+52265_0010_00005;5;;Rue des Acacias;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076038;48.555468
+52265_0010_00013;13;;Rue des Acacias;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075655;48.555875
+52265_0195_00014;14;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073504;48.548114
+52265_0195_00026;26;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073002;48.548412
+52265_0195_00028;28;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072734;48.548561
+52265_0195_00034;34;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072477;48.548698
+52265_0215_00006;6;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.081559;48.545293
+52265_0215_00014;14;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.083292;48.54459
+52265_0215_00015;15;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.082561;48.544639
+52265_0215_00018;18;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.083737;48.544537
+52265_0215_00025;25;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.083773;48.544452
+52265_0215_00029;29;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.084192;48.544404
+52265_0085_00004;4;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.087162;48.545353
+52265_0085_00022;22;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.0842;48.545812
+52265_0085_00025;25;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.085052;48.545634
+52265_0085_00039;39;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.085884;48.545527
+52265_0085_00048;48;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.089185;48.544699
+52265_0085_00051;51;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.087573;48.545105
+52265_0085_00052;52;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.089896;48.544424
+52265_0085_00036_bis;36;bis;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.087162;48.545353
+52265_0198_00003;3;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.053399;48.561441
+52265_0198_00015;15;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.051475;48.561771
+52265_0198_00019;19;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.051338;48.561842
+52265_0198_00022;22;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050476;48.56237
+52265_0198_00023;23;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050686;48.562331
+52265_0198_00029;29;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050381;48.562572
+52265_0198_00024_bis;24;bis;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050133;48.562641
+52265_0198_00002_b;2;b;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.05467;48.560499
+52265_0150_00005;5;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.087877;48.544774
+52265_0150_00009;9;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.087833;48.544725
+52265_0150_00018;18;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.087312;48.544169
+52265_0120_00005;5;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.05072;48.561141
+52265_0120_00008;8;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050898;48.56114
+52265_0120_00012;12;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050747;48.561048
+52265_0120_00013;13;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050592;48.56095
+52265_0250_00008;8;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076505;48.555565
+52265_0250_00022;22;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076231;48.555853
+52265_0250_00038;38;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075725;48.556386
+52265_0290_00001;1;;Impasse de Troisfontaines;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.05228;48.561384
+52265_0290_00002;2;;Impasse de Troisfontaines;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.052552;48.561081
+52265_0290_00005;5;;Impasse de Troisfontaines;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.052361;48.561211
+52265_0290_00006;6;;Impasse de Troisfontaines;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.052522;48.560856
+52265_0290_00010;10;;Impasse de Troisfontaines;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.052083;48.560215
+52265_0300_00011;11;;Impasse des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073699;48.554993
+52265_0199_00007;7;;Impasse des Grandes Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073299;48.554485
+52265_0199_00008;8;;Impasse des Grandes Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073292;48.554521
+52265_0275_00006;6;;Rue du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.047286;48.562385
+52265_0170_00002;2;;Rue du Four;52170;52265;Bayard-sur-Marne;Gourzon;;5.083432;48.545429
+52265_0170_00005;5;;Rue du Four;52170;52265;Bayard-sur-Marne;Gourzon;;5.083253;48.545216
+52265_0170_00009;9;;Rue du Four;52170;52265;Bayard-sur-Marne;Gourzon;;5.083155;48.544835
+52265_0070_00035;35;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072899;48.558967
+52265_0070_00045;45;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07256;48.558911
+52265_0010_00003;3;;Rue des Acacias;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076118;48.555386
+52265_0010_00019;19;;Rue des Acacias;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075386;48.55617
+52265_0030_00006;6;;Route d’Avrainville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071993;48.547191
+52265_0030_00010;10;;Route d’Avrainville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07001;48.544332
+52265_0270_00007;7;;Rue Robert Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.088339;48.543706
+52265_0270_00013;13;;Rue Robert Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.089388;48.543362
+52265_0260_00007;7;;Rue du Port;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076379;48.550716
+52265_0110_00010;10;;Rue du Couvent;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.078064;48.553556
+52265_0110_00012;12;;Rue du Couvent;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.077956;48.553572
+52265_0110_00018;18;;Rue du Couvent;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.077672;48.553616
+52265_0110_00020;20;;Rue du Couvent;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.077604;48.55363
+52265_0050_00001;1;;Rue du Bois Jete;52170;52265;Bayard-sur-Marne;Gourzon;;5.080978;48.545575
+52265_0050_00017;17;;Rue du Bois Jete;52170;52265;Bayard-sur-Marne;Gourzon;;5.081322;48.544891
+52265_0140_00002;2;;Rue de l’Eglise;52170;52265;Bayard-sur-Marne;Gourzon;;5.086464;48.54511
+52265_0160_00004;4;;Rue de la Fontaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.086512;48.54572
+52265_0210_00002;2;;Rue sous Marielle;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.048958;48.563299
+52265_0210_00005;5;;Rue sous Marielle;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.048649;48.563179
+52265_0210_00013;13;;Rue sous Marielle;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049082;48.562909
+52265_0212_00004;4;;Rue Maurice Quinet;52170;52265;Bayard-sur-Marne;Gourzon;;5.085138;48.545121
+52265_0212_00006;6;;Rue Maurice Quinet;52170;52265;Bayard-sur-Marne;Gourzon;;5.084962;48.545154
+52265_0271_00015;15;;Rue des Sapins;52170;52265;Bayard-sur-Marne;;;5.072418;48.559498
+52265_0240_00020;20;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.090519;48.543586
+52265_0240_00024;24;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.091001;48.543385
+52265_0240_00002_bis;2;bis;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.090478;48.54262
+52265_0240_00002_ter;2;ter;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.08972;48.542651
+52265_0040_00003;3;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.0764;48.554108
+52265_0040_00014;14;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075528;48.554825
+52265_0040_00021;21;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074587;48.555951
+52265_0040_00024;24;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075046;48.555332
+52265_0040_00028;28;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074855;48.555535
+52265_0040_00032;32;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074687;48.555709
+52265_0040_00033;33;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072683;48.557507
+52265_0040_00040;40;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074202;48.556159
+52265_0040_00001_bis;1;bis;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.077104;48.553724
+52265_0195_00004;4;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07433;48.547649
+52265_0195_00008;8;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07402;48.547829
+52265_0195_00012;12;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073761;48.547967
+52265_0195_00026_bis;26;bis;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07261;48.548372
+52265_0215_00004;4;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.081349;48.545352
+52265_0215_00028;28;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.084193;48.544586
+52265_0180_00001;1;;Rue des Friands;52170;52265;Bayard-sur-Marne;Gourzon;;5.080641;48.545794
+52265_0180_00005;5;;Rue des Friands;52170;52265;Bayard-sur-Marne;Gourzon;;5.080168;48.54588
+52265_0085_00007;7;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.080988;48.546098
+52265_0085_00011;11;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.081846;48.545999
+52265_0085_00023;23;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.084296;48.54572
+52265_0085_00024;24;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.085085;48.545711
+52265_0085_00040;40;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.088547;48.544928
+52265_0085_00049;49;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.087128;48.54523
+52265_0198_00006;6;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.053196;48.561396
+52265_0198_00020;20;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050699;48.562195
+52265_0198_00026;26;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049665;48.563006
+52265_0198_00033;33;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049981;48.562885
+52265_0198_00035;35;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049863;48.562975
+52265_0198_00043;43;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049103;48.563567
+52265_0150_00002;2;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.088038;48.544797
+52265_0150_00011;11;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.087061;48.54391
+52265_0150_00012;12;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.087663;48.544463
+52265_0150_00026;26;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.08683;48.543223
+52265_0250_00002;2;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076728;48.555335
+52265_0250_00012;12;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076467;48.555605
+52265_0250_00034;34;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075862;48.556242
+52265_0250_00036_bis;36;bis;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07574;48.556331
+52265_0290_00008;8;;Impasse de Troisfontaines;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.052381;48.560674
+52265_0300_00007;7;;Impasse des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073585;48.555198
+52265_0300_00009;9;;Impasse des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073585;48.555198
+52265_0300_00018;18;;Impasse des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074039;48.555406
+52265_0199_00006;6;;Impasse des Grandes Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073409;48.554604
+52265_0030_00005_bis;5;bis;Route d’Avrainville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071663;48.546118
+52265_0260_00001;1;;Rue du Port;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076864;48.550495
+52265_0110_00004;4;;Rue du Couvent;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.078291;48.553517
+52265_b110_00001;1;;Petite Varenne;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074514;48.550689
+52265_0050_00007;7;;Rue du Bois Jete;52170;52265;Bayard-sur-Marne;Gourzon;;5.080793;48.545183
+52265_0280_00006;6;;Rue des Tilleuls;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075177;48.556553
+52265_0280_00008;8;;Rue des Tilleuls;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075405;48.556661
+52265_0276_00005;5;;Impasse du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.048637;48.562092
+52265_0140_00004;4;;Rue de l’Eglise;52170;52265;Bayard-sur-Marne;Gourzon;;5.086516;48.545094
+52265_0140_00005;5;;Rue de l’Eglise;52170;52265;Bayard-sur-Marne;Gourzon;;5.08693;48.544582
+52265_0130_00003;3;;Rue de l’Ecole;52170;52265;Bayard-sur-Marne;Gourzon;;5.084993;48.545641
+52265_0130_00004_a;4;a;Rue de l’Ecole;52170;52265;Bayard-sur-Marne;Gourzon;;5.08509;48.54509
+52265_0212_00003;3;;Rue Maurice Quinet;52170;52265;Bayard-sur-Marne;Gourzon;;5.084593;48.545087
+52265_0271_00009;9;;Rue des Sapins;52170;52265;Bayard-sur-Marne;;;5.071869;48.559156
+52265_0240_00018;18;;Rue des Plates Herbues;52170;52265;Bayard-sur-Marne;Gourzon;;5.090313;48.543658
+52265_0040_00007;7;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075779;48.554716
+52265_0040_00008;8;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075856;48.554488
+52265_0040_00010;10;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075757;48.554589
+52265_0040_00013;13;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075364;48.555148
+52265_0040_00023;23;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074511;48.556023
+52265_0040_00041;41;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07197;48.558053
+52265_0195_00005;5;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073453;48.54826
+52265_0195_00015;15;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071248;48.549878
+52265_0195_00030;30;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072734;48.548561
+52265_0195_00038;38;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072387;48.548745
+52265_0215_00013;13;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.082327;48.544719
+52265_0215_00017;17;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.082813;48.544575
+52265_0215_00023;23;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.083538;48.544478
+52265_0180_00003;3;;Rue des Friands;52170;52265;Bayard-sur-Marne;Gourzon;;5.080403;48.545837
+52265_0085_00003;3;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.078993;48.546322
+52265_0085_00006;6;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.081136;48.546164
+52265_0085_00038;38;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.088189;48.54505
+52265_0085_00041;41;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.086102;48.545498
+52265_0085_00045;45;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.086197;48.545485
+52265_0085_00073;73;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.086189;48.545487
+52265_0198_00009;9;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.052302;48.561624
+52265_0198_00016;16;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.051181;48.561833
+52265_0198_00017;17;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.051406;48.561805
+52265_0198_00024;24;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049856;48.562857
+52265_0150_00007;7;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.087839;48.544732
+52265_0150_00019;19;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.086738;48.543284
+52265_0150_00020;20;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.087143;48.543822
+52265_0120_00004;4;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.051139;48.56131
+52265_0120_00007;7;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050525;48.561019
+52265_0120_00011;11;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050243;48.560811
+52265_0120_00014;14;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050514;48.560899
+52265_0120_00023;23;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.048471;48.560178
+52265_0120_00026;26;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050088;48.559753
+52265_0120_00034;34;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050142;48.559677
+52265_0250_00018;18;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076319;48.55576
+52265_0250_00020;20;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076283;48.555797
+52265_0250_00026;26;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076184;48.555903
+52265_0290_00009;9;;Impasse de Troisfontaines;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.052248;48.560675
+52265_0290_00012;12;;Impasse de Troisfontaines;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.051994;48.560067
+52265_0290_00013;13;;Impasse de Troisfontaines;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.051805;48.559958
+52265_0300_00015;15;;Impasse des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074039;48.555406
+52265_0170_00003;3;;Rue du Four;52170;52265;Bayard-sur-Marne;Gourzon;;5.083302;48.545402
+52265_0070_00012;12;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073319;48.558039
+52265_0070_00024;24;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072068;48.558496
+52265_0070_00031;31;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073129;48.558783
+52265_0070_00033;33;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073031;48.558862
+52265_0301_00002;2;;Rue des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075387;48.554007
+52265_0301_00004;4;;Rue des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075374;48.554021
+52265_0275_00003;3;;Rue du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.047643;48.563022
+52265_0275_00007;7;;Rue du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.04738;48.562585
+52265_0275_00011;11;;Rue du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.047007;48.5623
+52265_0170_00008;8;;Rue du Four;52170;52265;Bayard-sur-Marne;Gourzon;;5.083301;48.544933
+52265_0070_00017;17;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074067;48.55764
+52265_0070_00021;21;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073508;48.557976
+52265_0070_00041;41;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072424;48.558827
+52265_0060_00001;1;;Impasse du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.077902;48.554115
+52265_0301_00010;10;;Rue des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075336;48.554062
+52265_0301_00016;16;;Rue des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07398;48.55525
+52265_0010_00009;9;;Rue des Acacias;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07585;48.555664
+52265_0010_00021;21;;Rue des Acacias;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075308;48.55625
+52265_0030_00003;3;;Route d’Avrainville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071912;48.548818
+52265_0260_00005;5;;Rue du Port;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076261;48.550803
+52265_0260_00013;13;;Rue du Port;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076631;48.550534
+52265_0110_00022;22;;Rue du Couvent;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.077515;48.553656
+52265_0110_00026;26;;Rue du Couvent;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.077323;48.553722
+52265_0050_00003;3;;Rue du Bois Jete;52170;52265;Bayard-sur-Marne;Gourzon;;5.080927;48.545466
+52265_0050_00005;5;;Rue du Bois Jete;52170;52265;Bayard-sur-Marne;Gourzon;;5.080848;48.545299
+52265_0050_00013;13;;Rue du Bois Jete;52170;52265;Bayard-sur-Marne;Gourzon;;5.080888;48.545007
+52265_0280_00004;4;;Rue des Tilleuls;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074724;48.556326
+52265_0276_00003;3;;Impasse du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.048307;48.562278
+52265_0140_00007;7;;Rue de l’Eglise;52170;52265;Bayard-sur-Marne;Gourzon;;5.087123;48.544417
+52265_0212_00002;2;;Rue Maurice Quinet;52170;52265;Bayard-sur-Marne;Gourzon;;5.084913;48.545107
+52265_0301_00018;18;;Rue des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073889;48.555555
+52265_0301_00022;22;;Rue des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073544;48.555894
+52265_0083_00001;1;;Impasse des Chanvriers;52170;52265;Bayard-sur-Marne;Gourzon;;5.083899;48.54525
+52265_0010_00007;7;;Rue des Acacias;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075934;48.555576
+52265_0010_00017;17;;Rue des Acacias;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075507;48.556038
+52265_0270_00001;1;;Rue Robert Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.087702;48.543776
+52265_0270_00009;9;;Rue Robert Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.088706;48.543532
+52265_0110_00008;8;;Rue du Couvent;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.078173;48.55354
+52265_0050_00019;19;;Rue du Bois Jete;52170;52265;Bayard-sur-Marne;Gourzon;;5.081474;48.544858
+52265_0280_00003;3;;Rue des Tilleuls;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074793;48.556262
+52265_0091_00003;3;;Chemin de Narcy;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.077251;48.554536
+52265_0091_00006;6;;Chemin de Narcy;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.077163;48.556739
+52265_0091_00009;9;;Chemin de Narcy;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.0769;48.55551
+52265_0276_00008;8;;Impasse du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.048663;48.562199
+52265_0140_00001;1;;Rue de l’Eglise;52170;52265;Bayard-sur-Marne;Gourzon;;5.086724;48.544937
+52265_0140_00003;3;;Rue de l’Eglise;52170;52265;Bayard-sur-Marne;Gourzon;;5.086962;48.544731
+52265_0140_00006;6;;Rue de l’Eglise;52170;52265;Bayard-sur-Marne;Gourzon;;5.086618;48.545065
+52265_0130_00001;1;;Rue de l’Ecole;52170;52265;Bayard-sur-Marne;Gourzon;;5.084833;48.545523
+52265_0130_00002;2;;Rue de l’Ecole;52170;52265;Bayard-sur-Marne;Gourzon;;5.084993;48.545641
+52265_0130_00004_c;4;c;Rue de l’Ecole;52170;52265;Bayard-sur-Marne;Gourzon;;5.08492;48.54512
+52265_0160_00008;8;;Rue de la Fontaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.086937;48.54632
+52265_0210_00007;7;;Rue sous Marielle;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.048738;48.563115
+52265_0110_00024;24;;Rue du Couvent;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.077362;48.553707
+52265_0050_00015;15;;Rue du Bois Jete;52170;52265;Bayard-sur-Marne;Gourzon;;5.081098;48.544945
+52265_0050_00021;21;;Rue du Bois Jete;52170;52265;Bayard-sur-Marne;Gourzon;;5.081625;48.544827
+52265_0280_00001;1;;Rue des Tilleuls;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07475;48.55624
+52265_0280_00002;2;;Rue des Tilleuls;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074501;48.556221
+52265_0091_00004;4;;Chemin de Narcy;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.077274;48.553898
+52265_0091_00007;7;;Chemin de Narcy;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076919;48.555055
+52265_0140_00008;8;;Rue de l’Eglise;52170;52265;Bayard-sur-Marne;Gourzon;;5.086798;48.545
+52265_0140_00009;9;;Rue de l’Eglise;52170;52265;Bayard-sur-Marne;Gourzon;;5.087272;48.544335
+52265_0130_00004;4;;Rue de l’Ecole;52170;52265;Bayard-sur-Marne;Gourzon;;5.084872;48.545305
+52265_0160_00002;2;;Rue de la Fontaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.086432;48.545615
+52265_0160_00010;10;;Rue de la Fontaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.086974;48.546275
+52265_0210_00011;11;;Rue sous Marielle;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.048966;48.562977
+52265_0271_00007;7;;Rue des Sapins;52170;52265;Bayard-sur-Marne;;;5.07172;48.559064
+52265_0040_00004;4;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076062;48.554277
+52265_0040_00018;18;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075329;48.555032
+52265_0040_00029;29;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074319;48.556066
+52265_0040_00035;35;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072511;48.55764
+52265_0040_00001_ter;1;ter;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076736;48.553904
+52265_0195_00009;9;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07171;48.549415
+52265_0195_00016;16;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073316;48.548234
+52265_0195_00022;22;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072794;48.548528
+52265_0195_00032;32;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072506;48.548683
+52265_0215_00005;5;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.08158;48.545199
+52265_0215_00008;8;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.081869;48.545199
+52265_0215_00012;12;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.081974;48.545063
+52265_0215_00021;21;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.083333;48.544501
+52265_0215_00027;27;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.083963;48.54443
+52265_0085_00009;9;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.081388;48.546062
+52265_0085_00015;15;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.082545;48.545913
+52265_0085_00018;18;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.083483;48.54589
+52265_0085_00031;31;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.085432;48.545586
+52265_0085_00046;46;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.089042;48.544751
+52265_0085_00050;50;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.089495;48.544582
+52265_0085_00054;54;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.090471;48.544193
+52265_0085_00059;59;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.088439;48.544875
+52265_0085_00071;71;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.089482;48.544494
+52265_0198_00001;1;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.053328;48.561455
+52265_0198_00005;5;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.052972;48.561521
+52265_0198_00012;12;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.051421;48.5617
+52265_0198_00013;13;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.051792;48.561689
+52265_0198_00021;21;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.051184;48.561953
+52265_0198_00041;41;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.0494;48.563335
+52265_0150_00003;3;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.087918;48.544821
+52265_0150_00006;6;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.087866;48.544626
+52265_0150_00015;15;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.086904;48.543607
+52265_0120_00006;6;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.051016;48.561222
+52265_0120_00019;19;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049489;48.560251
+52265_0250_00004;4;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076689;48.555376
+52265_0250_00028;28;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076099;48.555993
+52265_0290_00003;3;;Impasse de Troisfontaines;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.052282;48.561354
+52265_0300_00002;2;;Impasse des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073796;48.55504
+52265_0300_00003;3;;Impasse des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073707;48.555331
+52265_0199_00005;5;;Impasse des Grandes Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073409;48.554604
+52265_0199_00009;9;;Impasse des Grandes Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073292;48.554521
+52265_0199_00010;10;;Impasse des Grandes Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073292;48.554521
+52265_0275_00013;13;;Rue du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.046824;48.562165
+52265_0170_00007;7;;Rue du Four;52170;52265;Bayard-sur-Marne;Gourzon;;5.083207;48.54504
+52265_0170_00017;17;;Rue du Four;52170;52265;Bayard-sur-Marne;Gourzon;;5.083113;48.54466
+52265_0070_00004;4;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073653;48.557289
+52265_0070_00008;8;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073595;48.557697
+52265_0070_00013;13;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07442;48.557517
+52265_0070_00025;25;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073262;48.558279
+52265_0070_00039;39;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072636;48.558957
+52265_0270_00005;5;;Rue Robert Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.088192;48.543658
+52265_0260_00009;9;;Rue du Port;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.0765;48.550627
+52265_0110_00002;2;;Rue du Couvent;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.078358;48.553454
+52265_0050_00009;9;;Rue du Bois Jete;52170;52265;Bayard-sur-Marne;Gourzon;;5.080796;48.545189
+52265_0091_00005;5;;Chemin de Narcy;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.077071;48.554744
+52265_0276_00001;1;;Impasse du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.048046;48.562416
+52265_0276_00002;2;;Impasse du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.04788;48.562604
+52265_0276_00006;6;;Impasse du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.048356;48.562356
+52265_0130_00004_b;4;b;Rue de l’Ecole;52170;52265;Bayard-sur-Marne;Gourzon;;5.08472;48.54506
+52265_0210_00006;6;;Rue sous Marielle;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049095;48.562965
+52265_0271_00002;2;;Rue des Sapins;52170;52265;Bayard-sur-Marne;;;5.071709;48.559221
+52265_0271_00003;3;;Rue des Sapins;52170;52265;Bayard-sur-Marne;;;5.07134;48.558909
+52265_0040_00017;17;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074915;48.55562
+52265_0040_00037;37;;Route de Bienville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07233;48.557777
+52265_0195_00013;13;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071561;48.549563
+52265_0195_00024;24;;avenue des généraux pierre et jean marchand;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.072734;48.548561
+52265_0215_00001;1;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.081111;48.545331
+52265_0215_00009;9;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.081907;48.54481
+52265_0215_00016;16;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.08352;48.544561
+52265_0215_00020;20;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.084097;48.544663
+52265_0215_00024;24;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.084214;48.544953
+52265_0215_00033;33;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.084642;48.544349
+52265_0215_00035;35;;Rue de Muzelaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.084862;48.544325
+52265_0085_00001;1;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.07874;48.546078
+52265_0085_00014;14;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.082589;48.54599
+52265_0085_00019;19;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.083912;48.545761
+52265_0085_00026;26;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.085144;48.545704
+52265_0085_00030;30;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.085657;48.54564
+52265_0085_00034;34;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.086268;48.545556
+52265_0085_00035;35;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.085504;48.545577
+52265_0085_00053;53;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.087684;48.545106
+52265_0085_00057;57;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.088439;48.544875
+52265_0085_00063;63;;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.088752;48.544766
+52265_0085_00003_a;3;a;Avenue Charles Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.07899;48.54607
+52265_0198_00010;10;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.051731;48.561616
+52265_0198_00027;27;;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050519;48.562461
+52265_0198_00022_bis;22;bis;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050031;48.562721
+52265_0198_00002_a;2;a;Avenue Georges Chatelain;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.05455;48.56051
+52265_0150_00016;16;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.087421;48.544265
+52265_0150_00024;24;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.086952;48.543459
+52265_0150_00030;30;;Rue le Fauteuil;52170;52265;Bayard-sur-Marne;Gourzon;;5.086627;48.543027
+52265_0120_00010;10;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050996;48.56121
+52265_0120_00015;15;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049097;48.560994
+52265_0120_00018;18;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050331;48.560754
+52265_0120_00024;24;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050009;48.560461
+52265_0120_00028;28;;Rue Davis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.050196;48.559528
+52265_0250_00010;10;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076497;48.555574
+52265_0250_00036;36;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075764;48.556345
+52265_0250_00044;44;;Rue des Polonais;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075532;48.556571
+52265_0290_00004;4;;Impasse de Troisfontaines;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.052577;48.560955
+52265_0199_00002;2;;Impasse des Grandes Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07365;48.554532
+52265_0275_00004;4;;Rue du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.047469;48.562529
+52265_0275_00008;8;;Rue du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.047108;48.562253
+52265_0170_00004;4;;Rue du Four;52170;52265;Bayard-sur-Marne;Gourzon;;5.083385;48.545245
+52265_0070_00001;1;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073486;48.557092
+52265_0070_00005;5;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.074027;48.557303
+52265_0070_00009;9;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073987;48.557417
+52265_0070_00016;16;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.073056;48.558365
+52265_0070_00020;20;;Rue du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07248;48.558751
+52265_0060_00003;3;;Impasse du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.078341;48.554167
+52265_0010_00001;1;;Rue des Acacias;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076207;48.555278
+52265_0010_00015;15;;Rue des Acacias;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075575;48.555962
+52265_0030_00004;4;;Route d’Avrainville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071949;48.547727
+52265_0060_00004;4;;Impasse du Bois Plante;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.078281;48.554242
+52265_0301_00012;12;;Rue des Varennes;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075323;48.554076
+52265_0010_00002;2;;Rue des Acacias;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075197;48.556219
+52265_0010_00023;23;;Rue des Acacias;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.075215;48.556347
+52265_0030_00007;7;;Route d’Avrainville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071793;48.548073
+52265_0270_00003;3;;Rue Robert Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.087942;48.543718
+52265_0260_00003;3;;Rue du Port;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076103;48.550924
+52265_0260_00011;11;;Rue du Port;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076629;48.550535
+52265_0110_00006;6;;Rue du Couvent;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.078232;48.553529
+52265_0110_00014;14;;Rue du Couvent;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.077848;48.553587
+52265_0050_00023;23;;Rue du Bois Jete;52170;52265;Bayard-sur-Marne;Gourzon;;5.081811;48.544827
+52265_0091_00002;2;;Chemin de Narcy;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.077163;48.556739
+52265_0276_00004;4;;Impasse du Tennis;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.048116;48.562481
+52265_0130_00002_bis;2;bis;Rue de l’Ecole;52170;52265;Bayard-sur-Marne;Gourzon;;5.084867;48.545288
+52265_0155_00003;3;;Route de Fontaines;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.078872;48.552205
+52265_0160_00006;6;;Rue de la Fontaine;52170;52265;Bayard-sur-Marne;Gourzon;;5.086899;48.546339
+52265_0210_00009;9;;Rue sous Marielle;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.048816;48.563069
+52265_0212_00001;1;;Rue Maurice Quinet;52170;52265;Bayard-sur-Marne;Gourzon;;5.084645;48.545212
+52265_0212_00005;5;;Rue Maurice Quinet;52170;52265;Bayard-sur-Marne;Gourzon;;5.084549;48.544978
+52265_0271_00005;5;;Rue des Sapins;52170;52265;Bayard-sur-Marne;;;5.071501;48.559044
+52265_0271_00013;13;;Rue des Sapins;52170;52265;Bayard-sur-Marne;;;5.072182;48.559503
+52265_0030_00008;8;;Route d’Avrainville;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.071663;48.546118
+52265_0270_00011;11;;Rue Robert Burgeat;52170;52265;Bayard-sur-Marne;Gourzon;;5.089066;48.543443
+52265_0110_00016;16;;Rue du Couvent;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.07774;48.553603
+52265_0050_00011;11;;Rue du Bois Jete;52170;52265;Bayard-sur-Marne;Gourzon;;5.080795;48.545049
+52265_0091_00007_bis;7;bis;Chemin de Narcy;52170;52265;Bayard-sur-Marne;Bayard-sur-Marne;;5.076884;48.555199
+52265_0130_00005;5;;Rue de l’Ecole;52170;52265;Bayard-sur-Marne;Gourzon;;5.084993;48.545641
+52265_0210_00003;3;;Rue sous Marielle;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.048579;48.563226
+52265_0210_00004;4;;Rue sous Marielle;52170;52265;Bayard-sur-Marne;Prez-sur-Marne;;5.049019;48.563012
+52265_0212_00008;8;;Rue Maurice Quinet;52170;52265;Bayard-sur-Marne;Gourzon;;5.084784;48.545188
+52265_0271_00001;1;;Rue des Sapins;52170;52265;Bayard-sur-Marne;;;5.07122;48.558898
+52265_0271_00006;6;;Rue des Sapins;52170;52265;Bayard-sur-Marne;;;5.071465;48.559098
+52265_0271_00011;11;;Rue des Sapins;52170;52265;Bayard-sur-Marne;;;5.07204;48.559392

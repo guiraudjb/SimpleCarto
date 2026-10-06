@@ -1,0 +1,706 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+91568_0030_00007;7;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124007;48.581463
+91568_0030_00011;11;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.12418;48.582164
+91568_0030_00012;12;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124177;48.582841
+91568_0030_00013;13;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124199;48.582337
+91568_2o9lyd_00002;2;;La Justice;91530;91568;Saint-Maurice-Montcouronne;;;2.116109;48.568455
+91568_0030_00001;1;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.123987;48.58091
+91568_0030_00002;2;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.12401;48.580712
+91568_0030_00003;3;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.123902;48.581121
+91568_0030_00005;5;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.123892;48.581361
+91568_0030_00010;10;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124167;48.58283
+91568_0030_00015;15;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.12424;48.58255
+91568_0030_00004;4;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.123973;48.580785
+91568_0030_00008;8;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.123724;48.58099
+91568_0030_00009;9;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124135;48.58195
+91568_0030_00014;14;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124065;48.581968
+91568_0030_00006;6;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.123834;48.580899
+91568_0030_00017;17;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124275;48.582748
+91568_0030_00022;22;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.123926;48.582357
+91568_0030_00020;20;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.123971;48.582351
+91568_0030_00028;28;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124326;48.583789
+91568_0030_00036;36;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.12209;48.58331
+91568_0030_00038;38;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.121907;48.583247
+91568_0030_00040;40;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.122147;48.582947
+91568_0030_00044;44;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.121675;48.583169
+91568_0030_00049;49;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.121983;48.583389
+91568_0030_00051;51;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.121878;48.583353
+91568_0030_00007_bis;7;bis;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124583;48.581735
+91568_0030_00019_bis;19;bis;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124565;48.5834
+91568_0030_00039_bis;39;bis;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.12271;48.583849
+91568_0030_00010_z;10;z;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.123728;48.581506
+91568_0040_00001;1;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.124364;48.580739
+91568_0040_00002;2;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.124293;48.580675
+91568_0040_00005;5;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.124771;48.580733
+91568_0040_00009;9;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.125633;48.580942
+91568_0040_00015;15;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126165;48.581688
+91568_0030_00023;23;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124552;48.583692
+91568_0030_00025;25;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124443;48.583953
+91568_0030_00027;27;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124414;48.584078
+91568_0030_00033;33;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.12328;48.584179
+91568_0030_00034;34;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.122282;48.583383
+91568_0030_00035;35;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.123084;48.584292
+91568_0030_00043;43;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.122422;48.583583
+91568_0030_00046;46;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.1215;48.583111
+91568_0030_00047;47;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.12203;48.583411
+91568_0030_00053;53;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.121637;48.583269
+91568_0030_00055;55;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.121409;48.583197
+91568_0030_00011_bis;11;bis;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124606;48.582165
+91568_0030_00009_bis;9;bis;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.125076;48.582081
+91568_0030_00028_z;28;z;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.123585;48.583916
+91568_0040_00004;4;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.12435;48.580678
+91568_0040_00010;10;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126175;48.581098
+91568_0040_00014;14;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126457;48.581773
+91568_0030_00021;21;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124591;48.583523
+91568_0030_00019;19;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124575;48.583213
+91568_0030_00026;26;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124457;48.583401
+91568_0030_00048;48;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.121329;48.583053
+91568_0030_00006_bis;6;bis;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.123614;48.580766
+91568_0030_00011_ter;11;ter;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.125046;48.5822
+91568_0030_00026_bis;26;bis;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124466;48.583291
+91568_0030_00008_bis;8;bis;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.123797;48.580993
+91568_0030_00042_z;42;z;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.121929;48.582784
+91568_0030_00023_z;23;z;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.124711;48.58365
+91568_0040_00003;3;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.124457;48.580732
+91568_0040_00011;11;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.12588;48.581096
+91568_0040_00016;16;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126714;48.581785
+91568_0040_00017;17;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126149;48.581975
+91568_0030_00030;30;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.122926;48.583915
+91568_0030_00032;32;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.122615;48.583616
+91568_0030_00039;39;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.122813;48.583949
+91568_0030_00041;41;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.122562;48.583706
+91568_0030_00042;42;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.122063;48.582938
+91568_0030_00045;45;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.122133;48.583453
+91568_0030_00057;57;;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.121226;48.583136
+91568_0030_00030_bis;30;bis;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.122774;48.583769
+91568_0030_00009_ter;9;ter;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.125262;48.582169
+91568_0030_00001_bis;1;bis;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.12401;48.580892
+91568_0030_00003_z;3;z;Rue de Bourguignette;91530;91568;Saint-Maurice-Montcouronne;;;2.12396;48.581148
+91568_0040_00007;7;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.125404;48.580858
+91568_0040_00012;12;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126272;48.581415
+91568_0040_00013;13;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126068;48.581156
+91568_0040_00018;18;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126704;48.581839
+91568_0040_00024;24;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126411;48.58243
+91568_0040_00022;22;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126339;48.582159
+91568_0040_00027;27;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126354;48.582615
+91568_0040_00030;30;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126809;48.583211
+91568_0040_00038;38;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.127428;48.584134
+91568_0040_00039;39;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.127016;48.583878
+91568_0040_00040;40;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.127553;48.584361
+91568_0040_00047;47;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.127788;48.585073
+91568_0015_00002;2;;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.115639;48.5874
+91568_0015_00004;4;;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.114759;48.587752
+91568_0015_00009;9;;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.113844;48.587631
+91568_0015_00012;12;;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.112772;48.588029
+91568_0015_00014;14;;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.112588;48.588173
+91568_0040_00023;23;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126005;48.582154
+91568_0040_00028;28;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126537;48.582871
+91568_0040_00031;31;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126606;48.583301
+91568_0040_00033;33;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126728;48.583468
+91568_0040_00035;35;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126814;48.583594
+91568_0040_00036;36;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.127191;48.583785
+91568_0040_00045;45;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.127362;48.58434
+91568_0040_00005_b;5;b;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.125468;48.580917
+91568_0015_00003;3;;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.115071;48.587433
+91568_0015_00013;13;;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.113193;48.587748
+91568_0015_00015;15;;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.112975;48.587809
+91568_0040_00020;20;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126267;48.581869
+91568_0040_00025;25;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126289;48.582389
+91568_0040_00026;26;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.12647;48.582635
+91568_0040_00029;29;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.12641;48.582802
+91568_0040_00032;32;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126943;48.583405
+91568_0040_00037;37;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126914;48.583736
+91568_0040_00041;41;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.127177;48.584062
+91568_0040_00043;43;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.12723;48.58414
+91568_0040_00049;49;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.127925;48.585251
+91568_0040_00022_bis;22;bis;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.126382;48.582323
+91568_0015_00007;7;;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.114077;48.587579
+91568_0015_00008;8;;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.114079;48.587832
+91568_0015_00011;11;;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.113408;48.587205
+91568_0015_00017;17;;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.112434;48.587495
+91568_0040_00034;34;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.127072;48.583604
+91568_0040_00042;42;;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.127744;48.584637
+91568_0040_00005_a;5;a;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.124772;48.580733
+91568_0040_00002_a;2;a;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.12435;48.580678
+91568_0040_00005_t;5;t;Rue de Courson;91530;91568;Saint-Maurice-Montcouronne;;;2.125143;48.580873
+91568_0015_00001;1;;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.115315;48.587403
+91568_0015_00005;5;;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.114424;48.587565
+91568_0015_00006;6;;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.114661;48.587706
+91568_0015_00019;19;;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.112667;48.58799
+91568_0015_00023;23;;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.112306;48.588276
+91568_0015_00002_ter;2;ter;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.115685;48.587372
+91568_0097_00001;1;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.138566;48.581352
+91568_0097_00002;2;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.139353;48.581398
+91568_0097_00003;3;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.137248;48.582864
+91568_0097_00009;9;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.139853;48.58163
+91568_0097_00010;10;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.139528;48.581446
+91568_0015_00006_ter;6;ter;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.114143;48.588087
+91568_0015_00002_bis;2;bis;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.115639;48.5874
+91568_0097_00006;6;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.139031;48.581337
+91568_0097_00008;8;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.139268;48.581382
+91568_0015_00006_bis;6;bis;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.114185;48.588095
+91568_0015_00019_a;19;a;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.112709;48.587937
+91568_0015_00008_bis;8;bis;Rue de Berchevilliers;91530;91568;Saint-Maurice-Montcouronne;;;2.113913;48.587733
+91568_0097_00004;4;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.138564;48.581271
+91568_0097_00005;5;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.139256;48.581455
+91568_0097_00007;7;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.139488;48.581517
+91568_0097_00012;12;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.139902;48.581538
+91568_0097_00018;18;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.140806;48.581783
+91568_0097_00019;19;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.142296;48.582473
+91568_0097_00032;32;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.144065;48.582717
+91568_0097_00035;35;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.144336;48.582876
+91568_0097_00018_bis;18;bis;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.141066;48.581861
+91568_0097_00014_bis;14;bis;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.140124;48.581607
+91568_0097_00006_ter;6;ter;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.139113;48.581209
+91568_0107_00003;3;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.122125;48.581282
+91568_0107_00005;5;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.121081;48.582561
+91568_0107_00007;7;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.120963;48.582772
+91568_0107_00009;9;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.120718;48.583077
+91568_0097_00021;21;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.142462;48.582493
+91568_0097_00022;22;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.141937;48.582081
+91568_0097_00030;30;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.143678;48.582587
+91568_0097_00043;43;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.146349;48.5836
+91568_0097_00045;45;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.146605;48.583697
+91568_0097_00001_b;1;b;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.137977;48.581916
+91568_0097_00015_a;15;a;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.1416;48.58227
+91568_0097_00006_bis;6;bis;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.138896;48.581176
+91568_0107_00006;6;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.12118;48.582678
+91568_0107_00008;8;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.121088;48.582839
+91568_0097_00015;15;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.141567;48.582112
+91568_0097_00014;14;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.140178;48.581601
+91568_0097_00017;17;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.142163;48.582339
+91568_0097_00036;36;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.14489;48.58301
+91568_0097_00041;41;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.146064;48.583493
+91568_0107_00002;2;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.121816;48.581701
+91568_0107_00004;4;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.121285;48.582528
+91568_0097_00016;16;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.140513;48.58169
+91568_0097_00020;20;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.141243;48.581899
+91568_0097_00023;23;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.142637;48.58246
+91568_0097_00024;24;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.142501;48.582196
+91568_0097_00025;25;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.143351;48.582622
+91568_0097_00026;26;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.142788;48.582312
+91568_0097_00027;27;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.14378;48.582748
+91568_0097_00028;28;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.143218;48.582444
+91568_0097_00034;34;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.144486;48.582854
+91568_0097_00038;38;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.145531;48.583216
+91568_0097_00039;39;;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.145802;48.583398
+91568_0097_00001_t;1;t;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.138487;48.581343
+91568_0097_00001_a;1;a;Rue des Ormes;91530;91568;Saint-Maurice-Montcouronne;;;2.138327;48.582184
+91568_0107_00001;1;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.12067;48.581997
+91568_0107_00010;10;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.120768;48.583324
+91568_0107_00011;11;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.120228;48.583289
+91568_0107_00023;23;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.118776;48.58415
+91568_0120_00001;1;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.140941;48.578403
+91568_0120_00015;15;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.141245;48.578638
+91568_0120_00018;18;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.143505;48.579628
+91568_0120_00026;26;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.144289;48.58047
+91568_0120_00009_a;9;a;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.14066;48.578206
+91568_0020_00005;5;;Rue du Bois Bourdon;91530;91568;Saint-Maurice-Montcouronne;;;2.140566;48.59143
+91568_0020_00015;15;;Rue du Bois Bourdon;91530;91568;Saint-Maurice-Montcouronne;;;2.138972;48.591261
+91568_0020_00009_ter;9;ter;Rue du Bois Bourdon;91530;91568;Saint-Maurice-Montcouronne;;;2.139985;48.591412
+91568_0037_00008;8;;Allée de la Butte Blanche;91530;91568;Saint-Maurice-Montcouronne;;;2.129125;48.583042
+91568_0037_00011;11;;Allée de la Butte Blanche;91530;91568;Saint-Maurice-Montcouronne;;;2.130946;48.582793
+91568_0037_00006_z;6;z;Allée de la Butte Blanche;91530;91568;Saint-Maurice-Montcouronne;;;2.128879;48.583203
+91568_0118_00007;7;;Chemin de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.148078;48.583536
+91568_0130_00009;9;;Rue de Vaugirard;91530;91568;Saint-Maurice-Montcouronne;;;2.114734;48.567173
+91568_0107_00021_z;21;z;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.118459;48.583806
+91568_0120_00036;36;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.145086;48.583015
+91568_0020_00002;2;;Rue du Bois Bourdon;91530;91568;Saint-Maurice-Montcouronne;;;2.140225;48.591489
+91568_0130_00001;1;;Rue de Vaugirard;91530;91568;Saint-Maurice-Montcouronne;;;2.114662;48.567139
+91568_0104_00006;6;;Allée de la Poterie;91530;91568;Saint-Maurice-Montcouronne;;;2.117096;48.584412
+91568_0107_00043;43;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.116383;48.586306
+91568_0120_00007;7;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.1405;48.578108
+91568_0120_00010;10;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.141568;48.578701
+91568_0120_00041;41;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.145831;48.581815
+91568_0120_00023_c;23;c;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.142676;48.579557
+91568_0120_00049_a;49;a;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.146708;48.583571
+91568_0120_00016_z;16;z;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.143101;48.579573
+91568_0037_00004;4;;Allée de la Butte Blanche;91530;91568;Saint-Maurice-Montcouronne;;;2.128502;48.583314
+91568_0103_00008;8;;Rue du Petit Mermet;91530;91568;Saint-Maurice-Montcouronne;;;2.139474;48.578576
+91568_0107_00033;33;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.117755;48.585269
+91568_0120_00023;23;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.145204;48.581385
+91568_0120_00031;31;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.143698;48.5802
+91568_0120_00051;51;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.147039;48.583871
+91568_0104_00016;16;;Allée de la Poterie;91530;91568;Saint-Maurice-Montcouronne;;;2.117489;48.584176
+91568_0070_00002;2;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.126698;48.581224
+91568_0070_00014;14;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.130907;48.581486
+91568_0094_00002;2;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.144086;48.578017
+91568_0094_00010;10;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.144044;48.578363
+91568_0070_00011;11;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.127931;48.581732
+91568_0072_00017;17;;Impasse des Fraisiers;91530;91568;Saint-Maurice-Montcouronne;;;2.144599;48.579373
+91568_0092_00003;3;;Imp de la Mare de Villebrosse;91530;91568;Saint-Maurice-Montcouronne;;;2.127963;48.583423
+91568_0047_00007;7;;Chemin des Ecoles;91530;91568;Saint-Maurice-Montcouronne;;;2.129355;48.582577
+91568_0070_00014_bis;14;bis;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.140303;48.581195
+91568_0092_00006;6;;Imp de la Mare de Villebrosse;91530;91568;Saint-Maurice-Montcouronne;;;2.128628;48.584146
+91568_0070_00006;6;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.127279;48.581262
+91568_0070_00019;19;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.129814;48.581749
+91568_0070_00023;23;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.131217;48.58148
+91568_0070_00008_bis;8;bis;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.127869;48.581319
+91568_0072_00007;7;;Impasse des Fraisiers;91530;91568;Saint-Maurice-Montcouronne;;;2.145075;48.579061
+91568_0047_00004;4;;Chemin des Ecoles;91530;91568;Saint-Maurice-Montcouronne;;;2.127359;48.582994
+91568_0094_00007;7;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.14372;48.578658
+91568_0035_00004;4;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.141484;48.577198
+91568_0035_00020;20;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.143647;48.577585
+91568_0035_00029;29;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.145967;48.578346
+91568_0035_00042;42;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.146292;48.578323
+91568_0035_00045_a;45;a;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.148209;48.579457
+91568_0102_00007;7;;Chemin de la Pierre aux Chiens;91530;91568;Saint-Maurice-Montcouronne;;;2.140266;48.582373
+91568_0078_00013;13;;Chemin des Graviers;91530;91568;Saint-Maurice-Montcouronne;;;2.145051;48.583307
+91568_0105_00008;8;;Chemin de Predecelle;91530;91568;Saint-Maurice-Montcouronne;;;2.111993;48.588292
+91568_0105_00011;11;;Chemin de Predecelle;91530;91568;Saint-Maurice-Montcouronne;;;2.11378;48.588897
+91568_0057_00001;1;;Allée des Erables;91530;91568;Saint-Maurice-Montcouronne;;;2.116443;48.585551
+91568_0057_00012;12;;Allée des Erables;91530;91568;Saint-Maurice-Montcouronne;;;2.115645;48.584419
+91568_0050_00001_z;1;z;Rue de l'Egalité;91530;91568;Saint-Maurice-Montcouronne;;;2.125797;48.580518
+91568_0018_00007;7;;Impasse du Bois;91530;91568;Saint-Maurice-Montcouronne;;;2.147664;48.582477
+91568_0120_00016;16;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.143345;48.579709
+91568_0120_00024;24;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.143952;48.580232
+91568_0120_00047;47;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.146723;48.583052
+91568_0020_00003;3;;Rue du Bois Bourdon;91530;91568;Saint-Maurice-Montcouronne;;;2.140936;48.59145
+91568_0037_00014;14;;Allée de la Butte Blanche;91530;91568;Saint-Maurice-Montcouronne;;;2.130026;48.582898
+91568_0070_00020;20;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.13154;48.581388
+91568_0072_00003;3;;Impasse des Fraisiers;91530;91568;Saint-Maurice-Montcouronne;;;2.145075;48.579061
+91568_0092_00004;4;;Imp de la Mare de Villebrosse;91530;91568;Saint-Maurice-Montcouronne;;;2.1285;48.583999
+91568_0035_00032;32;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.144908;48.577645
+91568_0035_00047;47;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.148599;48.579379
+91568_0101_00002;2;;Chemin de Picot;91530;91568;Saint-Maurice-Montcouronne;;;2.114037;48.569034
+91568_0078_00007;7;;Chemin des Graviers;91530;91568;Saint-Maurice-Montcouronne;;;2.145146;48.582421
+91568_0140_00001;1;;Rue des Vignes;91530;91568;Saint-Maurice-Montcouronne;;;2.14178;48.577387
+91568_0065_00004;4;;Rue de la Folleville;91530;91568;Saint-Maurice-Montcouronne;;;2.139545;48.576734
+91568_0065_00006_a;6;a;Rue de la Folleville;91530;91568;Saint-Maurice-Montcouronne;;;2.139918;48.576748
+91568_0105_00003;3;;Chemin de Predecelle;91530;91568;Saint-Maurice-Montcouronne;;;2.113282;48.588654
+91568_0057_00009;9;;Allée des Erables;91530;91568;Saint-Maurice-Montcouronne;;;2.115868;48.584445
+91568_0075_00002;2;;Chemin de Gloriette;91530;91568;Saint-Maurice-Montcouronne;;;2.124056;48.584246
+91568_0018_00004;4;;Impasse du Bois;91530;91568;Saint-Maurice-Montcouronne;;;2.147052;48.582263
+91568_0018_00003_d;3;d;Impasse du Bois;91530;91568;Saint-Maurice-Montcouronne;;;2.146836;48.582421
+91568_0110_00004;4;;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.124284;48.580052
+91568_0110_00012;12;;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.125104;48.578071
+91568_0110_00008_a;8;a;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.124468;48.579041
+91568_0110_00004_z;4;z;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.124172;48.580155
+91568_0100_00003;3;;Rue de la Plaine;91530;91568;Saint-Maurice-Montcouronne;;;2.125408;48.584267
+91568_0107_00027;27;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.118329;48.584698
+91568_0120_00013;13;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.141392;48.578702
+91568_0120_00029;29;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.143454;48.580059
+91568_0120_00033;33;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.144236;48.580546
+91568_0120_00023_a;23;a;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.143019;48.579775
+91568_0037_00018_z;18;z;Allée de la Butte Blanche;91530;91568;Saint-Maurice-Montcouronne;;;2.130831;48.582727
+91568_0130_00002;2;;Rue de Vaugirard;91530;91568;Saint-Maurice-Montcouronne;;;2.113778;48.567283
+91568_0104_00002;2;;Allée de la Poterie;91530;91568;Saint-Maurice-Montcouronne;;;2.117379;48.584684
+91568_0070_00001;1;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.126762;48.58126
+91568_0070_00017;17;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.129425;48.581737
+91568_0070_00008_ter;8;ter;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.128944;48.581519
+91568_0072_00009;9;;Impasse des Fraisiers;91530;91568;Saint-Maurice-Montcouronne;;;2.146135;48.579208
+91568_0092_00001;1;;Imp de la Mare de Villebrosse;91530;91568;Saint-Maurice-Montcouronne;;;2.127831;48.583223
+91568_0047_00009;9;;Chemin des Ecoles;91530;91568;Saint-Maurice-Montcouronne;;;2.129908;48.582511
+91568_0094_00023;23;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.144481;48.579826
+91568_0094_00028;28;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.144823;48.580117
+91568_0102_00002;2;;Chemin de la Pierre aux Chiens;91530;91568;Saint-Maurice-Montcouronne;;;2.140684;48.582084
+91568_0078_00002;2;;Chemin des Graviers;91530;91568;Saint-Maurice-Montcouronne;;;2.145808;48.582324
+91568_0140_00006;6;;Rue des Vignes;91530;91568;Saint-Maurice-Montcouronne;;;2.142231;48.578191
+91568_0105_00016;16;;Chemin de Predecelle;91530;91568;Saint-Maurice-Montcouronne;;;2.111353;48.587653
+91568_0079_00007;7;;Impasse aux Grenouilles;91530;91568;Saint-Maurice-Montcouronne;;;2.141875;48.590278
+91568_0050_00003;3;;Rue de l'Egalité;91530;91568;Saint-Maurice-Montcouronne;;;2.126128;48.580175
+91568_0076_00017_bis;17;bis;Allée des Goëlands;91530;91568;Saint-Maurice-Montcouronne;;;2.127708;48.584937
+91568_0099_00001_ter;1;ter;Impasse du Parc;91530;91568;Saint-Maurice-Montcouronne;;;2.123597;48.579316
+91568_0099_00005_bis;5;bis;Impasse du Parc;91530;91568;Saint-Maurice-Montcouronne;;;2.122803;48.57931
+91568_0018_00001_z;1;z;Impasse du Bois;91530;91568;Saint-Maurice-Montcouronne;;;2.146468;48.582287
+91568_0110_00008;8;;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.124833;48.578536
+91568_0110_00022;22;;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.1256;48.576834
+91568_0091_00010;10;;rue de la mare aux chanvres;91530;91568;Saint-Maurice-Montcouronne;;;2.142853;48.590769
+91568_0107_00021;21;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.118935;48.583956
+91568_0107_00037;37;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.116853;48.585942
+91568_0107_00017_bis;17;bis;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.119003;48.583874
+91568_0120_00014_a;14;a;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.142877;48.579252
+91568_0120_00016_a;16;a;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.143369;48.579571
+91568_0020_00011;11;;Rue du Bois Bourdon;91530;91568;Saint-Maurice-Montcouronne;;;2.139365;48.591331
+91568_0103_00004;4;;Rue du Petit Mermet;91530;91568;Saint-Maurice-Montcouronne;;;2.139388;48.578142
+91568_0070_00012;12;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.129562;48.581639
+91568_0094_00015;15;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.144673;48.579007
+91568_0094_00018;18;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.145179;48.578835
+91568_0082_00005;5;;Rue de la Justice;91530;91568;Saint-Maurice-Montcouronne;;;2.115638;48.568762
+91568_0035_00001;1;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.140728;48.577372
+91568_0035_00012;12;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.142458;48.577331
+91568_0035_00024;24;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.144134;48.57768
+91568_0057_00004;4;;Allée des Erables;91530;91568;Saint-Maurice-Montcouronne;;;2.116146;48.585255
+91568_0110_00001_bis;1;bis;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.124578;48.580415
+91568_0107_00001_e;1;e;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.121102;48.581914
+91568_0120_00005;5;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.140941;48.578403
+91568_0120_00008;8;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.141238;48.578508
+91568_0120_00021;21;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.142301;48.579302
+91568_0120_00039;39;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.145308;48.581284
+91568_0120_00022_a;22;a;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.143571;48.579988
+91568_0020_00017;17;;Rue du Bois Bourdon;91530;91568;Saint-Maurice-Montcouronne;;;2.138783;48.591178
+91568_0037_00002;2;;Allée de la Butte Blanche;91530;91568;Saint-Maurice-Montcouronne;;;2.128194;48.583397
+91568_0037_00005;5;;Allée de la Butte Blanche;91530;91568;Saint-Maurice-Montcouronne;;;2.130349;48.583151
+91568_0037_00010;10;;Allée de la Butte Blanche;91530;91568;Saint-Maurice-Montcouronne;;;2.129414;48.582954
+91568_0118_00006;6;;Chemin de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.148144;48.58254
+91568_0130_00008;8;;Rue de Vaugirard;91530;91568;Saint-Maurice-Montcouronne;;;2.114772;48.567083
+91568_0104_00010;10;;Allée de la Poterie;91530;91568;Saint-Maurice-Montcouronne;;;2.117109;48.584281
+91568_0070_00004;4;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.126871;48.581223
+91568_0070_00009;9;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.127856;48.581502
+91568_0070_00012_bis;12;bis;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.130493;48.581313
+91568_0092_00011;11;;Imp de la Mare de Villebrosse;91530;91568;Saint-Maurice-Montcouronne;;;2.12845;48.584188
+91568_0047_00006;6;;Chemin des Ecoles;91530;91568;Saint-Maurice-Montcouronne;;;2.127879;48.58289
+91568_0094_00017;17;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.144866;48.579341
+91568_0082_00011;11;;Rue de la Justice;91530;91568;Saint-Maurice-Montcouronne;;;2.116991;48.568859
+91568_0035_00034;34;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.145252;48.577728
+91568_0102_00005;5;;Chemin de la Pierre aux Chiens;91530;91568;Saint-Maurice-Montcouronne;;;2.14022;48.582305
+91568_0102_00008;8;;Chemin de la Pierre aux Chiens;91530;91568;Saint-Maurice-Montcouronne;;;2.140428;48.582435
+91568_0078_00007_ter;7;ter;Chemin des Graviers;91530;91568;Saint-Maurice-Montcouronne;;;2.145562;48.582528
+91568_0107_00010_z;10;z;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.121081;48.58351
+91568_0120_00006;6;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.140983;48.578335
+91568_0120_00022;22;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.143678;48.580088
+91568_0120_00037;37;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.144853;48.580971
+91568_0020_00001;1;;Rue du Bois Bourdon;91530;91568;Saint-Maurice-Montcouronne;;;2.141542;48.591495
+91568_0020_00009_bis;9;bis;Rue du Bois Bourdon;91530;91568;Saint-Maurice-Montcouronne;;;2.140123;48.591203
+91568_0118_00002;2;;Chemin de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.147783;48.583257
+91568_0103_00002;2;;Rue du Petit Mermet;91530;91568;Saint-Maurice-Montcouronne;;;2.139359;48.577837
+91568_0070_00005;5;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.127238;48.581298
+91568_0070_00016;16;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.131359;48.581438
+91568_0047_00011_bis;11;bis;Chemin des Ecoles;91530;91568;Saint-Maurice-Montcouronne;;;2.130719;48.582433
+91568_0094_00006;6;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.144663;48.578288
+91568_0094_00019;19;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.144799;48.579551
+91568_0035_00049;49;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.148327;48.579897
+91568_0035_00026_a;26;a;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.144806;48.577301
+91568_0102_00003;3;;Chemin de la Pierre aux Chiens;91530;91568;Saint-Maurice-Montcouronne;;;2.140255;48.582231
+91568_0140_00005;5;;Rue des Vignes;91530;91568;Saint-Maurice-Montcouronne;;;2.141913;48.578192
+91568_0065_00006;6;;Rue de la Folleville;91530;91568;Saint-Maurice-Montcouronne;;;2.139612;48.57663
+91568_0105_00012;12;;Chemin de Predecelle;91530;91568;Saint-Maurice-Montcouronne;;;2.111596;48.587933
+91568_0120_00003;3;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.140239;48.577922
+91568_0120_00035;35;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.144437;48.580681
+91568_0047_00015;15;;Chemin des Ecoles;91530;91568;Saint-Maurice-Montcouronne;;;2.131429;48.582577
+91568_0094_00012;12;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.144014;48.578621
+91568_0094_00020;20;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.145235;48.57892
+91568_0094_00026;26;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.145006;48.579799
+91568_0035_00011;11;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.142936;48.577551
+91568_0035_00031;31;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.146323;48.578461
+91568_0035_00037;37;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.147288;48.578699
+91568_0101_00004;4;;Chemin de Picot;91530;91568;Saint-Maurice-Montcouronne;;;2.11427;48.569725
+91568_0078_00010;10;;Chemin des Graviers;91530;91568;Saint-Maurice-Montcouronne;;;2.14518;48.583345
+91568_0065_00002;2;;Rue de la Folleville;91530;91568;Saint-Maurice-Montcouronne;;;2.139454;48.576931
+91568_0065_00008;8;;Rue de la Folleville;91530;91568;Saint-Maurice-Montcouronne;;;2.139808;48.57643
+91568_0105_00006;6;;Chemin de Predecelle;91530;91568;Saint-Maurice-Montcouronne;;;2.112501;48.588453
+91568_0120_00002;2;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.140143;48.57776
+91568_0120_00039_a;39;a;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.145313;48.581317
+91568_0020_00007;7;;Rue du Bois Bourdon;91530;91568;Saint-Maurice-Montcouronne;;;2.140248;48.591407
+91568_0037_00003;3;;Allée de la Butte Blanche;91530;91568;Saint-Maurice-Montcouronne;;;2.129962;48.583085
+91568_0037_00018;18;;Allée de la Butte Blanche;91530;91568;Saint-Maurice-Montcouronne;;;2.130798;48.582799
+91568_0118_00010;10;;Chemin de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.148218;48.582125
+91568_0104_00004;4;;Allée de la Poterie;91530;91568;Saint-Maurice-Montcouronne;;;2.117212;48.584597
+91568_0104_00012;12;;Allée de la Poterie;91530;91568;Saint-Maurice-Montcouronne;;;2.117239;48.584128
+91568_0070_00013;13;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.128523;48.581732
+91568_0070_00013_z;13;z;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.128708;48.581592
+91568_0072_00002;2;;Impasse des Fraisiers;91530;91568;Saint-Maurice-Montcouronne;;;2.146046;48.579225
+91568_0092_00009;9;;Imp de la Mare de Villebrosse;91530;91568;Saint-Maurice-Montcouronne;;;2.128356;48.584007
+91568_0047_00005;5;;Chemin des Ecoles;91530;91568;Saint-Maurice-Montcouronne;;;2.12899;48.582628
+91568_0094_00011;11;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.1438;48.578844
+91568_0094_00022;22;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.145104;48.579206
+91568_0035_00005;5;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.141401;48.577301
+91568_0035_00028;28;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.144504;48.577766
+91568_0035_00011_bis;11;bis;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.143255;48.577608
+91568_0078_00012;12;;Chemin des Graviers;91530;91568;Saint-Maurice-Montcouronne;;;2.145002;48.583689
+91568_0105_00004;4;;Chemin de Predecelle;91530;91568;Saint-Maurice-Montcouronne;;;2.11279;48.588553
+91568_0105_00015;15;;Chemin de Predecelle;91530;91568;Saint-Maurice-Montcouronne;;;2.111421;48.587624
+91568_0115_00002;2;;Allée des Sarcelles;91530;91568;Saint-Maurice-Montcouronne;;;2.126757;48.58485
+91568_0057_00008;8;;Allée des Erables;91530;91568;Saint-Maurice-Montcouronne;;;2.115853;48.584706
+91568_0107_00003_a;3;a;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.121409;48.58217
+91568_0120_00012;12;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.141924;48.578936
+91568_0120_00017;17;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.141526;48.578817
+91568_0120_00028;28;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.144639;48.580535
+91568_0057_00004_bis;4;bis;Allée des Erables;91530;91568;Saint-Maurice-Montcouronne;;;2.11603;48.585076
+91568_0076_00017;17;;Allée des Goëlands;91530;91568;Saint-Maurice-Montcouronne;;;2.127708;48.584937
+91568_0018_00003;3;;Impasse du Bois;91530;91568;Saint-Maurice-Montcouronne;;;2.146964;48.582288
+91568_0018_00003_a;3;a;Impasse du Bois;91530;91568;Saint-Maurice-Montcouronne;;;2.146706;48.582406
+91568_0018_00006_bis;6;bis;Impasse du Bois;91530;91568;Saint-Maurice-Montcouronne;;;2.147912;48.582514
+91568_0110_00016;16;;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.125232;48.577566
+91568_0060_00004;4;;Rue de l'Etang;91530;91568;Saint-Maurice-Montcouronne;;;2.126118;48.583096
+91568_0060_00005_bis;5;bis;Rue de l'Etang;91530;91568;Saint-Maurice-Montcouronne;;;2.125489;48.582716
+91568_0085_00009;9;;Impasse Heurte Bise;91530;91568;Saint-Maurice-Montcouronne;;;2.142369;48.583141
+91568_0037_00006;6;;Allée de la Butte Blanche;91530;91568;Saint-Maurice-Montcouronne;;;2.128836;48.583218
+91568_0118_00008;8;;Chemin de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.148184;48.582282
+91568_0130_00006;6;;Rue de Vaugirard;91530;91568;Saint-Maurice-Montcouronne;;;2.114702;48.567101
+91568_0070_00015;15;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.129077;48.581858
+91568_0070_00025;25;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.131521;48.581446
+91568_0072_00001;1;;Impasse des Fraisiers;91530;91568;Saint-Maurice-Montcouronne;;;2.145075;48.579061
+91568_0079_00005;5;;Impasse aux Grenouilles;91530;91568;Saint-Maurice-Montcouronne;;;2.14196;48.590191
+91568_0075_00003;3;;Chemin de Gloriette;91530;91568;Saint-Maurice-Montcouronne;;;2.123721;48.584547
+91568_0110_00002;2;;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.12406;48.580719
+91568_0110_00020_b;20;b;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.125429;48.577056
+91568_0110_00001_ter;1;ter;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.124395;48.580121
+91568_0100_00002;2;;Rue de la Plaine;91530;91568;Saint-Maurice-Montcouronne;;;2.124994;48.583815
+91568_0085_00005;5;;Impasse Heurte Bise;91530;91568;Saint-Maurice-Montcouronne;;;2.143404;48.583365
+91568_0041_00005;5;;Allée de la Colombe;91530;91568;Saint-Maurice-Montcouronne;;;2.125831;48.584561
+91568_0054_00003;3;;Impasse de l'Eglise;91530;91568;Saint-Maurice-Montcouronne;;;2.12321;48.581548
+91568_0022_00001;1;;Impasse du Bois Gui;91530;91568;Saint-Maurice-Montcouronne;;;2.129114;48.583541
+91568_0022_00004;4;;Impasse du Bois Gui;91530;91568;Saint-Maurice-Montcouronne;;;2.12931;48.583591
+91568_0039_00001;1;;Clos de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.127246;48.582719
+91568_0039_00004;4;;Clos de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.12735;48.582493
+91568_0080_00001;1;;Place Bourge;91530;91568;Saint-Maurice-Montcouronne;;;2.125418;48.583378
+91568_0106_00013;13;;Chemin des Pres;91530;91568;Saint-Maurice-Montcouronne;;;2.141018;48.590217
+91568_0120_00011_a;11;a;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.140912;48.578432
+91568_0120_00025_a;25;a;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.142776;48.57994
+91568_0120_00022_z;22;z;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.14377;48.579929
+91568_0020_00004;4;;Rue du Bois Bourdon;91530;91568;Saint-Maurice-Montcouronne;;;2.139935;48.59147
+91568_0037_00009;9;;Allée de la Butte Blanche;91530;91568;Saint-Maurice-Montcouronne;;;2.130653;48.583032
+91568_0092_00002;2;;Imp de la Mare de Villebrosse;91530;91568;Saint-Maurice-Montcouronne;;;2.128397;48.58384
+91568_0092_00007;7;;Imp de la Mare de Villebrosse;91530;91568;Saint-Maurice-Montcouronne;;;2.128284;48.583897
+91568_0047_00003;3;;Chemin des Ecoles;91530;91568;Saint-Maurice-Montcouronne;;;2.128432;48.582713
+91568_0047_00008;8;;Chemin des Ecoles;91530;91568;Saint-Maurice-Montcouronne;;;2.128254;48.582818
+91568_0082_00003;3;;Rue de la Justice;91530;91568;Saint-Maurice-Montcouronne;;;2.115477;48.568684
+91568_0082_00009;9;;Rue de la Justice;91530;91568;Saint-Maurice-Montcouronne;;;2.11632;48.568502
+91568_0035_00006;6;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.141739;48.577229
+91568_0035_00023_a;23;a;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.145274;48.578159
+91568_0078_00005;5;;Chemin des Graviers;91530;91568;Saint-Maurice-Montcouronne;;;2.14565;48.58244
+91568_0078_00007_bis;7;bis;Chemin des Graviers;91530;91568;Saint-Maurice-Montcouronne;;;2.145682;48.582387
+91568_0140_00008;8;;Rue des Vignes;91530;91568;Saint-Maurice-Montcouronne;;;2.14209;48.578302
+91568_0105_00002;2;;Chemin de Predecelle;91530;91568;Saint-Maurice-Montcouronne;;;2.113274;48.588739
+91568_0105_00010;10;;Chemin de Predecelle;91530;91568;Saint-Maurice-Montcouronne;;;2.111694;48.588093
+91568_0057_00010;10;;Allée des Erables;91530;91568;Saint-Maurice-Montcouronne;;;2.115631;48.584469
+91568_0075_00001;1;;Chemin de Gloriette;91530;91568;Saint-Maurice-Montcouronne;;;2.123782;48.584368
+91568_0075_00004;4;;Chemin de Gloriette;91530;91568;Saint-Maurice-Montcouronne;;;2.123926;48.584434
+91568_0018_00001;1;;Impasse du Bois;91530;91568;Saint-Maurice-Montcouronne;;;2.146508;48.582242
+91568_0018_00002_t;2;t;Impasse du Bois;91530;91568;Saint-Maurice-Montcouronne;;;2.146705;48.582194
+91568_0110_00001;1;;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.124313;48.58029
+91568_0091_00006;6;;rue de la mare aux chanvres;91530;91568;Saint-Maurice-Montcouronne;;;2.142727;48.590926
+91568_0100_00006;6;;Rue de la Plaine;91530;91568;Saint-Maurice-Montcouronne;;;2.125483;48.583947
+91568_0085_00001;1;;Impasse Heurte Bise;91530;91568;Saint-Maurice-Montcouronne;;;2.144498;48.5836
+91568_0062_00003;3;;Impasse des Fleurs;91530;91568;Saint-Maurice-Montcouronne;;;2.123781;48.583001
+91568_0062_00003_z;3;z;Impasse des Fleurs;91530;91568;Saint-Maurice-Montcouronne;;;2.123508;48.582984
+91568_0039_00005_z;5;z;Clos de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.126843;48.582262
+91568_0055_00004;4;;Place de l'Eglise;91530;91568;Saint-Maurice-Montcouronne;;;2.122892;48.580701
+91568_0003_00014;14;;Rue d'Ardenelle;91530;91568;Saint-Maurice-Montcouronne;;;2.11577;48.568344
+91568_0047_00011;11;;Chemin des Ecoles;91530;91568;Saint-Maurice-Montcouronne;;;2.130398;48.582124
+91568_0094_00013;13;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.144134;48.578899
+91568_0094_00016;16;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.145082;48.578808
+91568_0094_00021;21;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.144723;48.579777
+91568_0035_00030;30;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.145724;48.578162
+91568_0035_00035;35;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.146908;48.578631
+91568_0035_00039;39;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.146917;48.578624
+91568_0035_00043;43;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.147728;48.578911
+91568_0035_00003_bis;3;bis;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.1402;48.577406
+91568_0102_00004;4;;Chemin de la Pierre aux Chiens;91530;91568;Saint-Maurice-Montcouronne;;;2.140579;48.58225
+91568_0078_00011;11;;Chemin des Graviers;91530;91568;Saint-Maurice-Montcouronne;;;2.145227;48.583112
+91568_0065_00010;10;;Rue de la Folleville;91530;91568;Saint-Maurice-Montcouronne;;;2.140026;48.57625
+91568_0105_00013;13;;Chemin de Predecelle;91530;91568;Saint-Maurice-Montcouronne;;;2.111613;48.58789
+91568_0115_00001;1;;Allée des Sarcelles;91530;91568;Saint-Maurice-Montcouronne;;;2.126331;48.584713
+91568_0057_00007;7;;Allée des Erables;91530;91568;Saint-Maurice-Montcouronne;;;2.115932;48.584695
+91568_0076_00001;1;;Allée des Goëlands;91530;91568;Saint-Maurice-Montcouronne;;;2.127149;48.585111
+91568_0099_00001_bis;1;bis;Impasse du Parc;91530;91568;Saint-Maurice-Montcouronne;;;2.123703;48.579317
+91568_0018_00006;6;;Impasse du Bois;91530;91568;Saint-Maurice-Montcouronne;;;2.147448;48.582387
+91568_0110_00006;6;;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.124377;48.579392
+91568_0110_00009;9;;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.124456;48.579435
+91568_0110_00006_bis;6;bis;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.124562;48.578888
+91568_0100_00009;9;;Rue de la Plaine;91530;91568;Saint-Maurice-Montcouronne;;;2.126374;48.58432
+91568_0060_00008;8;;Rue de l'Etang;91530;91568;Saint-Maurice-Montcouronne;;;2.12568;48.583104
+91568_0085_00011;11;;Impasse Heurte Bise;91530;91568;Saint-Maurice-Montcouronne;;;2.142021;48.583082
+91568_0041_00003;3;;Allée de la Colombe;91530;91568;Saint-Maurice-Montcouronne;;;2.125697;48.584517
+91568_0054_00005;5;;Impasse de l'Eglise;91530;91568;Saint-Maurice-Montcouronne;;;2.123427;48.581531
+91568_0022_00005;5;;Impasse du Bois Gui;91530;91568;Saint-Maurice-Montcouronne;;;2.129246;48.583691
+91568_0039_00005;5;;Clos de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.127253;48.58222
+91568_0106_00007;7;;Chemin des Pres;91530;91568;Saint-Maurice-Montcouronne;;;2.140819;48.59047
+91568_0100_00016;16;;Rue de la Plaine;91530;91568;Saint-Maurice-Montcouronne;;;2.126482;48.584216
+91568_0041_00005_bis;5;bis;Allée de la Colombe;91530;91568;Saint-Maurice-Montcouronne;;;2.125912;48.584334
+91568_0054_00005_z;5;z;Impasse de l'Eglise;91530;91568;Saint-Maurice-Montcouronne;;;2.123411;48.581567
+91568_0062_00005;5;;Impasse des Fleurs;91530;91568;Saint-Maurice-Montcouronne;;;2.122987;48.582934
+91568_0077_00001;1;;Chemin des Granges;91530;91568;Saint-Maurice-Montcouronne;;;2.120146;48.582811
+91568_0060_00002;2;;Rue de l'Etang;91530;91568;Saint-Maurice-Montcouronne;;;2.126342;48.58307
+91568_0085_00006;6;;Impasse Heurte Bise;91530;91568;Saint-Maurice-Montcouronne;;;2.141084;48.582883
+91568_0022_00002;2;;Impasse du Bois Gui;91530;91568;Saint-Maurice-Montcouronne;;;2.129237;48.583548
+91568_0039_00002;2;;Clos de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.127339;48.582662
+91568_0039_00008;8;;Clos de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.127361;48.582222
+91568_0080_00004;4;;Place Bourge;91530;91568;Saint-Maurice-Montcouronne;;;2.126021;48.583691
+91568_0082_00002;2;;Rue de la Justice;91530;91568;Saint-Maurice-Montcouronne;;;2.116177;48.568434
+91568_0035_00014;14;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.142758;48.577389
+91568_0035_00023;23;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.142936;48.577551
+91568_0035_00026;26;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.144359;48.577727
+91568_0035_00045;45;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.148072;48.579105
+91568_0035_00025_a;25;a;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.145405;48.578146
+91568_0035_00030_a;30;a;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.145175;48.577839
+91568_0078_00006;6;;Chemin des Graviers;91530;91568;Saint-Maurice-Montcouronne;;;2.145542;48.582776
+91568_0105_00001;1;;Chemin de Predecelle;91530;91568;Saint-Maurice-Montcouronne;;;2.113804;48.588948
+91568_0105_00009;9;;Chemin de Predecelle;91530;91568;Saint-Maurice-Montcouronne;;;2.111796;48.58809
+91568_0105_00014;14;;Chemin de Predecelle;91530;91568;Saint-Maurice-Montcouronne;;;2.111483;48.587791
+91568_0105_00008_bis;8;bis;Chemin de Predecelle;91530;91568;Saint-Maurice-Montcouronne;;;2.111824;48.588198
+91568_0057_00011;11;;Allée des Erables;91530;91568;Saint-Maurice-Montcouronne;;;2.115765;48.584388
+91568_0079_00003;3;;Impasse aux Grenouilles;91530;91568;Saint-Maurice-Montcouronne;;;2.142067;48.590313
+91568_0107_00015;15;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.119438;48.583359
+91568_0107_00025;25;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.118569;48.584382
+91568_0107_00031;31;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.117903;48.585094
+91568_0107_00027_a;27;a;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.118386;48.58458
+91568_0120_00011;11;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.141099;48.578508
+91568_0120_00019;19;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.141989;48.5791
+91568_0120_00019_bis;19;bis;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.141842;48.579014
+91568_0120_00031_a;31;a;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.143769;48.580392
+91568_0120_00023_b;23;b;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.141909;48.580235
+91568_0037_00007;7;;Allée de la Butte Blanche;91530;91568;Saint-Maurice-Montcouronne;;;2.130469;48.583129
+91568_0130_00003;3;;Rue de Vaugirard;91530;91568;Saint-Maurice-Montcouronne;;;2.115124;48.567121
+91568_0070_00008;8;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.128809;48.581488
+91568_0070_00021;21;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.130539;48.581601
+91568_0070_00027;27;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.130097;48.581747
+91568_0072_00028;28;;Impasse des Fraisiers;91530;91568;Saint-Maurice-Montcouronne;;;2.144977;48.580127
+91568_0092_00005;5;;Imp de la Mare de Villebrosse;91530;91568;Saint-Maurice-Montcouronne;;;2.128057;48.583562
+91568_0047_00010;10;;Chemin des Ecoles;91530;91568;Saint-Maurice-Montcouronne;;;2.128653;48.582747
+91568_0094_00014;14;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.144504;48.578808
+91568_0082_00001;1;;Rue de la Justice;91530;91568;Saint-Maurice-Montcouronne;;;2.115431;48.56898
+91568_0035_00013;13;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.14317;48.577593
+91568_0035_00018;18;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.14322;48.577496
+91568_0035_00033;33;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.146692;48.578612
+91568_0035_00041;41;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.147316;48.578734
+91568_0094_00004;4;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.144505;48.578205
+91568_0094_00009;9;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.143699;48.578792
+91568_0035_00002;2;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.140808;48.577263
+91568_0140_00003;3;;Rue des Vignes;91530;91568;Saint-Maurice-Montcouronne;;;2.141991;48.577861
+91568_0057_00003;3;;Allée des Erables;91530;91568;Saint-Maurice-Montcouronne;;;2.116281;48.585274
+91568_0057_00006;6;;Allée des Erables;91530;91568;Saint-Maurice-Montcouronne;;;2.115959;48.584936
+91568_0120_00014;14;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.142644;48.579422
+91568_0120_00027;27;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.143142;48.579857
+91568_0120_00030;30;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.144851;48.580824
+91568_0120_00042;42;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.146606;48.58277
+91568_0120_00049;49;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.146882;48.583463
+91568_0020_00013;13;;Rue du Bois Bourdon;91530;91568;Saint-Maurice-Montcouronne;;;2.139134;48.591283
+91568_0037_00012;12;;Allée de la Butte Blanche;91530;91568;Saint-Maurice-Montcouronne;;;2.129717;48.582922
+91568_0104_00018;18;;Allée de la Poterie;91530;91568;Saint-Maurice-Montcouronne;;;2.11741;48.584284
+91568_0072_00015;15;;Impasse des Fraisiers;91530;91568;Saint-Maurice-Montcouronne;;;2.144517;48.579156
+91568_0094_00003;3;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.143778;48.578143
+91568_0082_00007;7;;Rue de la Justice;91530;91568;Saint-Maurice-Montcouronne;;;2.115674;48.568623
+91568_0082_00013;13;;Rue de la Justice;91530;91568;Saint-Maurice-Montcouronne;;;2.117744;48.56949
+91568_0035_00025;25;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.14539;48.578151
+91568_0035_00036;36;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.145402;48.578034
+91568_0078_00004;4;;Chemin des Graviers;91530;91568;Saint-Maurice-Montcouronne;;;2.145653;48.582618
+91568_0078_00009;9;;Chemin des Graviers;91530;91568;Saint-Maurice-Montcouronne;;;2.145525;48.582643
+91568_0105_00007;7;;Chemin de Predecelle;91530;91568;Saint-Maurice-Montcouronne;;;2.112462;48.588366
+91568_0057_00005;5;;Allée des Erables;91530;91568;Saint-Maurice-Montcouronne;;;2.116141;48.585045
+91568_0102_00006;6;;Chemin de la Pierre aux Chiens;91530;91568;Saint-Maurice-Montcouronne;;;2.140503;48.582415
+91568_0140_00002;2;;Rue des Vignes;91530;91568;Saint-Maurice-Montcouronne;;;2.1422;48.577637
+91568_0065_00012;12;;Rue de la Folleville;91530;91568;Saint-Maurice-Montcouronne;;;2.140261;48.57609
+91568_0107_00013;13;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.119822;48.583341
+91568_0107_00017;17;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.118935;48.583418
+91568_0107_00035;35;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.117405;48.585638
+91568_0120_00009;9;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.140941;48.578403
+91568_0120_00020;20;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.143586;48.57968
+91568_0120_00045;45;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.146646;48.582935
+91568_0120_00013_a;13;a;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.141048;48.578512
+91568_0099_00005;5;;Impasse du Parc;91530;91568;Saint-Maurice-Montcouronne;;;2.12269;48.579309
+91568_0110_00003_bis;3;bis;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.124278;48.580378
+91568_0091_00004;4;;rue de la mare aux chanvres;91530;91568;Saint-Maurice-Montcouronne;;;2.142595;48.591083
+91568_0100_00005;5;;Rue de la Plaine;91530;91568;Saint-Maurice-Montcouronne;;;2.125706;48.58414
+91568_0100_00010;10;;Rue de la Plaine;91530;91568;Saint-Maurice-Montcouronne;;;2.125877;48.584053
+91568_0100_00013;13;;Rue de la Plaine;91530;91568;Saint-Maurice-Montcouronne;;;2.127024;48.584539
+91568_0100_00018;18;;Rue de la Plaine;91530;91568;Saint-Maurice-Montcouronne;;;2.126738;48.584294
+91568_0060_00009;9;;Rue de l'Etang;91530;91568;Saint-Maurice-Montcouronne;;;2.124787;48.582931
+91568_0054_00005_r;5;r;Impasse de l'Eglise;91530;91568;Saint-Maurice-Montcouronne;;;2.12337;48.581418
+91568_0062_00002;2;;Impasse des Fleurs;91530;91568;Saint-Maurice-Montcouronne;;;2.123995;48.582868
+91568_0106_00002;2;;Chemin des Pres;91530;91568;Saint-Maurice-Montcouronne;;;2.140268;48.591071
+91568_0020_00009;9;;Rue du Bois Bourdon;91530;91568;Saint-Maurice-Montcouronne;;;2.13979;48.5914
+91568_0037_00001;1;;Allée de la Butte Blanche;91530;91568;Saint-Maurice-Montcouronne;;;2.129567;48.583192
+91568_0037_00016;16;;Allée de la Butte Blanche;91530;91568;Saint-Maurice-Montcouronne;;;2.130359;48.582858
+91568_0118_00004;4;;Chemin de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.148084;48.582799
+91568_0130_00011;11;;Rue de Vaugirard;91530;91568;Saint-Maurice-Montcouronne;;;2.115955;48.567086
+91568_0104_00008;8;;Allée de la Poterie;91530;91568;Saint-Maurice-Montcouronne;;;2.117059;48.584343
+91568_0072_00005;5;;Impasse des Fraisiers;91530;91568;Saint-Maurice-Montcouronne;;;2.145075;48.579061
+91568_0107_00029;29;;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.11816;48.584801
+91568_0107_00001_z;1;z;Rue du Pressoir;91530;91568;Saint-Maurice-Montcouronne;;;2.122249;48.581787
+91568_0120_00025;25;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.142973;48.579756
+91568_0120_00040;40;;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.145845;48.581878
+91568_0050_00002;2;;Rue de l'Egalité;91530;91568;Saint-Maurice-Montcouronne;;;2.125014;48.580556
+91568_0050_00007_z;7;z;Rue de l'Egalité;91530;91568;Saint-Maurice-Montcouronne;;;2.126506;48.580101
+91568_0099_00005_ter;5;ter;Impasse du Parc;91530;91568;Saint-Maurice-Montcouronne;;;2.123081;48.579312
+91568_0018_00002_b;2;b;Impasse du Bois;91530;91568;Saint-Maurice-Montcouronne;;;2.146367;48.582134
+91568_0110_00005;5;;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.124462;48.579739
+91568_0110_00010;10;;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.124978;48.578316
+91568_0039_00002_bis;2;bis;Clos de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.127659;48.582614
+91568_0055_00003;3;;Place de l'Eglise;91530;91568;Saint-Maurice-Montcouronne;;;2.12344;48.581154
+91568_0003_00004;4;;Rue d'Ardenelle;91530;91568;Saint-Maurice-Montcouronne;;;2.114947;48.567556
+91568_0120_00023_t;23;t;Route de la Touche;91530;91568;Saint-Maurice-Montcouronne;;;2.142422;48.580216
+91568_0020_00019;19;;Rue du Bois Bourdon;91530;91568;Saint-Maurice-Montcouronne;;;2.138626;48.591114
+91568_0103_00006;6;;Rue du Petit Mermet;91530;91568;Saint-Maurice-Montcouronne;;;2.139412;48.578307
+91568_0104_00014;14;;Allée de la Poterie;91530;91568;Saint-Maurice-Montcouronne;;;2.117402;48.584126
+91568_0070_00003;3;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.126974;48.581277
+91568_0070_00007;7;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.127451;48.581315
+91568_0070_00010;10;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.129194;48.581571
+91568_0070_00018;18;;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.131654;48.581413
+91568_0070_00010_bis;10;bis;Rue de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.129193;48.581574
+91568_0072_00026;26;;Impasse des Fraisiers;91530;91568;Saint-Maurice-Montcouronne;;;2.145156;48.579885
+91568_0094_00005;5;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.143755;48.578366
+91568_0094_00008;8;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.14463;48.578352
+91568_0094_00024;24;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.145018;48.579511
+91568_0035_00003;3;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.140828;48.577379
+91568_0078_00001;1;;Chemin des Graviers;91530;91568;Saint-Maurice-Montcouronne;;;2.14582;48.582085
+91568_0140_00004;4;;Rue des Vignes;91530;91568;Saint-Maurice-Montcouronne;;;2.142174;48.577956
+91568_0105_00005;5;;Chemin de Predecelle;91530;91568;Saint-Maurice-Montcouronne;;;2.112992;48.588542
+91568_0079_00001;1;;Impasse aux Grenouilles;91530;91568;Saint-Maurice-Montcouronne;;;2.142446;48.590422
+91568_0110_00018;18;;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.125312;48.577321
+91568_0110_00020_a;20;a;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.125366;48.577197
+91568_0110_00006_ter;6;ter;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.124301;48.578753
+91568_0100_00014;14;;Rue de la Plaine;91530;91568;Saint-Maurice-Montcouronne;;;2.126313;48.58417
+91568_0060_00007_bis;7;bis;Rue de l'Etang;91530;91568;Saint-Maurice-Montcouronne;;;2.125386;48.582713
+91568_0077_00002;2;;Chemin des Granges;91530;91568;Saint-Maurice-Montcouronne;;;2.120106;48.582874
+91568_0080_00003;3;;Place Bourge;91530;91568;Saint-Maurice-Montcouronne;;;2.125408;48.583541
+91568_0047_00013;13;;Chemin des Ecoles;91530;91568;Saint-Maurice-Montcouronne;;;2.130736;48.582415
+91568_0094_00001;1;;Rue de Moque Bouteille;91530;91568;Saint-Maurice-Montcouronne;;;2.143808;48.577876
+91568_0035_00016;16;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.142938;48.577447
+91568_0035_00022;22;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.143896;48.577636
+91568_0035_00027;27;;Route de Bruyères;91530;91568;Saint-Maurice-Montcouronne;;;2.145709;48.57826
+91568_0102_00001;1;;Chemin de la Pierre aux Chiens;91530;91568;Saint-Maurice-Montcouronne;;;2.140441;48.582127
+91568_0057_00002;2;;Allée des Erables;91530;91568;Saint-Maurice-Montcouronne;;;2.116342;48.585522
+91568_0050_00001_b;1;b;Rue de l'Egalité;91530;91568;Saint-Maurice-Montcouronne;;;2.125979;48.580726
+91568_0099_00003;3;;Impasse du Parc;91530;91568;Saint-Maurice-Montcouronne;;;2.123539;48.579315
+91568_0018_00003_c;3;c;Impasse du Bois;91530;91568;Saint-Maurice-Montcouronne;;;2.146758;48.582433
+91568_0091_00014;14;;rue de la mare aux chanvres;91530;91568;Saint-Maurice-Montcouronne;;;2.143149;48.590476
+91568_0100_00017;17;;Rue de la Plaine;91530;91568;Saint-Maurice-Montcouronne;;;2.127491;48.584777
+91568_0060_00005;5;;Rue de l'Etang;91530;91568;Saint-Maurice-Montcouronne;;;2.125478;48.583021
+91568_0054_00005_e;5;e;Impasse de l'Eglise;91530;91568;Saint-Maurice-Montcouronne;;;2.123588;48.581568
+91568_0055_00003_bis;3;bis;Place de l'Eglise;91530;91568;Saint-Maurice-Montcouronne;;;2.123452;48.581153
+91568_0100_00008;8;;Rue de la Plaine;91530;91568;Saint-Maurice-Montcouronne;;;2.125684;48.584003
+91568_0060_00010;10;;Rue de l'Etang;91530;91568;Saint-Maurice-Montcouronne;;;2.125275;48.583104
+91568_0041_00001;1;;Allée de la Colombe;91530;91568;Saint-Maurice-Montcouronne;;;2.125534;48.584477
+91568_0055_00001;1;;Place de l'Eglise;91530;91568;Saint-Maurice-Montcouronne;;;2.123452;48.581153
+91568_0003_00010;10;;Rue d'Ardenelle;91530;91568;Saint-Maurice-Montcouronne;;;2.115419;48.568005
+91568_0106_00011;11;;Chemin des Pres;91530;91568;Saint-Maurice-Montcouronne;;;2.140944;48.590312
+91568_0100_00011;11;;Rue de la Plaine;91530;91568;Saint-Maurice-Montcouronne;;;2.126655;48.584405
+91568_0060_00007;7;;Rue de l'Etang;91530;91568;Saint-Maurice-Montcouronne;;;2.125224;48.582995
+91568_0025_00052;52;;Rue de la Boissière;91530;91568;Saint-Maurice-Montcouronne;;;2.148851;48.579439
+91568_0054_00007_z;7;z;Impasse de l'Eglise;91530;91568;Saint-Maurice-Montcouronne;;;2.123016;48.581402
+91568_0055_00009;9;;Place de l'Eglise;91530;91568;Saint-Maurice-Montcouronne;;;2.122565;48.581359
+91568_0093_00131;131;;Route du Marais;91530;91568;Saint-Maurice-Montcouronne;;;2.109445;48.589258
+91568_0099_00003_bis;3;bis;Impasse du Parc;91530;91568;Saint-Maurice-Montcouronne;;;2.123227;48.579313
+91568_0110_00003;3;;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.124453;48.579946
+91568_0110_00020;20;;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.125511;48.57701
+91568_0110_00018_bis;18;bis;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.125346;48.577324
+91568_0100_00004;4;;Rue de la Plaine;91530;91568;Saint-Maurice-Montcouronne;;;2.125239;48.58387
+91568_0100_00012;12;;Rue de la Plaine;91530;91568;Saint-Maurice-Montcouronne;;;2.126097;48.58411
+91568_0060_00003;3;;Rue de l'Etang;91530;91568;Saint-Maurice-Montcouronne;;;2.125809;48.582988
+91568_0025_00032;32;;Rue de la Boissière;91530;91568;Saint-Maurice-Montcouronne;;;2.148851;48.579439
+91568_0085_00013;13;;Impasse Heurte Bise;91530;91568;Saint-Maurice-Montcouronne;;;2.141994;48.583139
+91568_0054_00001;1;;Impasse de l'Eglise;91530;91568;Saint-Maurice-Montcouronne;;;2.123105;48.581559
+91568_0054_00007;7;;Impasse de l'Eglise;91530;91568;Saint-Maurice-Montcouronne;;;2.122894;48.581495
+91568_0062_00004;4;;Impasse des Fleurs;91530;91568;Saint-Maurice-Montcouronne;;;2.123742;48.583079
+91568_0022_00003;3;;Impasse du Bois Gui;91530;91568;Saint-Maurice-Montcouronne;;;2.12913;48.583659
+91568_0022_00006;6;;Impasse du Bois Gui;91530;91568;Saint-Maurice-Montcouronne;;;2.129338;48.583625
+91568_0039_00006;6;;Clos de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.127417;48.582273
+91568_0055_00002;2;;Place de l'Eglise;91530;91568;Saint-Maurice-Montcouronne;;;2.123599;48.581039
+91568_0055_00007;7;;Place de l'Eglise;91530;91568;Saint-Maurice-Montcouronne;;;2.122967;48.58132
+91568_0003_00002;2;;Rue d'Ardenelle;91530;91568;Saint-Maurice-Montcouronne;;;2.114885;48.567461
+91568_0079_00009;9;;Impasse aux Grenouilles;91530;91568;Saint-Maurice-Montcouronne;;;2.141856;48.590378
+91568_0076_00002;2;;Allée des Goëlands;91530;91568;Saint-Maurice-Montcouronne;;;2.127339;48.585106
+91568_0018_00002;2;;Impasse du Bois;91530;91568;Saint-Maurice-Montcouronne;;;2.14611;48.582089
+91568_0018_00005;5;;Impasse du Bois;91530;91568;Saint-Maurice-Montcouronne;;;2.14728;48.582446
+91568_0110_00014;14;;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.125176;48.577808
+91568_0100_00007;7;;Rue de la Plaine;91530;91568;Saint-Maurice-Montcouronne;;;2.126095;48.584246
+91568_0060_00006;6;;Rue de l'Etang;91530;91568;Saint-Maurice-Montcouronne;;;2.125896;48.583106
+91568_0050_00007;7;;Rue de l'Egalité;91530;91568;Saint-Maurice-Montcouronne;;;2.126527;48.580031
+91568_0099_00001;1;;Impasse du Parc;91530;91568;Saint-Maurice-Montcouronne;;;2.12381;48.57932
+91568_0018_00002_a;2;a;Impasse du Bois;91530;91568;Saint-Maurice-Montcouronne;;;2.146476;48.581982
+91568_0018_00003_b;3;b;Impasse du Bois;91530;91568;Saint-Maurice-Montcouronne;;;2.146877;48.582416
+91568_0110_00002_b;2;b;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.124136;48.580416
+91568_0100_00015;15;;Rue de la Plaine;91530;91568;Saint-Maurice-Montcouronne;;;2.12725;48.584643
+91568_0060_00012;12;;Rue de l'Etang;91530;91568;Saint-Maurice-Montcouronne;;;2.125083;48.583081
+91568_0062_00001;1;;Impasse des Fleurs;91530;91568;Saint-Maurice-Montcouronne;;;2.123332;48.583134
+91568_0106_00005;5;;Chemin des Pres;91530;91568;Saint-Maurice-Montcouronne;;;2.140751;48.590554
+91568_0106_00012;12;;Chemin des Pres;91530;91568;Saint-Maurice-Montcouronne;;;2.140703;48.590505
+91568_0050_00001;1;;Rue de l'Egalité;91530;91568;Saint-Maurice-Montcouronne;;;2.125588;48.580408
+91568_0110_00007;7;;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.124475;48.579602
+91568_0110_00002_z;2;z;Rue de la Remarde;91530;91568;Saint-Maurice-Montcouronne;;;2.123966;48.580644
+91568_0091_00008;8;;rue de la mare aux chanvres;91530;91568;Saint-Maurice-Montcouronne;;;2.142737;48.590872
+91568_0085_00007;7;;Impasse Heurte Bise;91530;91568;Saint-Maurice-Montcouronne;;;2.142863;48.583247
+91568_0039_00003;3;;Clos de la Fontaine du Saule;91530;91568;Saint-Maurice-Montcouronne;;;2.12726;48.582522
+91568_0080_00002;2;;Place Bourge;91530;91568;Saint-Maurice-Montcouronne;;;2.125696;48.583449

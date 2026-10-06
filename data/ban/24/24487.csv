@@ -1,0 +1,961 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+24487_0490_00095;95;;Route de la Raufie;24130;24487;Saint-Pierre-d'Eyraud;;;0.303272;44.872952
+24487_0210_00064;64;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.352733;44.858451
+24487_0025_00017;17;;Chemin du Barrage;24130;24487;Saint-Pierre-d'Eyraud;;;0.296538;44.865892
+24487_c47cn6_00013;13;;Rue des Gabarres;24130;24487;Saint-Pierre-d'Eyraud;;;0.320861;44.845939
+24487_0600_00920;920;;Route du Vignaud Vieux;24130;24487;Saint-Pierre-d'Eyraud;;;0.323684;44.875091
+24487_0220_00029;29;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.309547;44.864254
+24487_0290_00325;325;;Route de Larbogne;24130;24487;Saint-Pierre-d'Eyraud;;;0.313605;44.86596
+24487_0340_00042;42;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.311579;44.85962
+24487_0030_00034;34;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.336967;44.842574
+24487_0470_00002;2;;Rue du Port de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.310072;44.855677
+24487_0380_01600;1600;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.339229;44.85626
+24487_0110_00008;8;;Chemin de Chabrouty;24130;24487;Saint-Pierre-d'Eyraud;;;0.298859;44.863504
+24487_0540_00027;27;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.322228;44.846654
+24487_0020_00008;8;;Chemin du Barailler;24130;24487;Saint-Pierre-d'Eyraud;;;0.29949;44.866035
+24487_0065_00009;9;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.345763;44.86023
+24487_0600_01665;1665;;Route du Vignaud Vieux;24130;24487;Saint-Pierre-d'Eyraud;;;0.315938;44.876212
+24487_0065_00024;24;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.347317;44.860814
+24487_0210_00420;420;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.348508;44.859092
+24487_0520_00031;31;;Route du Rimbet;24130;24487;Saint-Pierre-d'Eyraud;;;0.307255;44.853637
+24487_0490_00093;93;;Route de la Raufie;24130;24487;Saint-Pierre-d'Eyraud;;;0.303454;44.8728
+24487_0510_00024;24;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.317488;44.847833
+24487_0240_00002;2;;Chemin des Gaillardoux;24130;24487;Saint-Pierre-d'Eyraud;;;0.314031;44.866773
+24487_0290_01520;1520;;Route de Larbogne;24130;24487;Saint-Pierre-d'Eyraud;;;0.314401;44.876505
+24487_0540_00005_b;5;b;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.320382;44.848098
+24487_0395_00024;24;;Chemin du Moulin;24130;24487;Saint-Pierre-d'Eyraud;;;0.34511;44.846411
+24487_0540_00091;91;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.328166;44.84236
+24487_p4e34i_00012;12;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.339137;44.855189
+24487_0345_00008;8;;Rue du Lotissement de Mauriac;24130;24487;Saint-Pierre-d'Eyraud;;;0.320956;44.848529
+24487_0335_00019;19;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.317964;44.849744
+24487_0340_00044;44;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.311613;44.859733
+24487_0200_00015;15;;Route des Feroux;24130;24487;Saint-Pierre-d'Eyraud;;;0.324993;44.863758
+24487_0360_00004;4;;Route des Meuniers;24130;24487;Saint-Pierre-d'Eyraud;;;0.342196;44.845139
+24487_0435_00003;3;;Rue du Parc;24130;24487;Saint-Pierre-d'Eyraud;;;0.316429;44.849766
+24487_0540_00102_a;102;a;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.328198;44.841141
+24487_0540_00128;128;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.332323;44.841676
+24487_0340_00008;8;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.310502;44.855736
+24487_0480_01200_a;1200;a;Chemin du Rastelet;24130;24487;Saint-Pierre-d'Eyraud;;;0.3498;44.857811
+24487_0240_00030;30;;Chemin des Gaillardoux;24130;24487;Saint-Pierre-d'Eyraud;;;0.317103;44.866781
+24487_0240_00020;20;;Chemin des Gaillardoux;24130;24487;Saint-Pierre-d'Eyraud;;;0.316448;44.866292
+24487_0160_00007;7;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.320364;44.84908
+24487_0320_00090;90;;Chemin de Malacart;24130;24487;Saint-Pierre-d'Eyraud;;;0.340816;44.84593
+24487_0040_00025;25;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.318386;44.845952
+24487_0210_01570;1570;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.334261;44.860742
+24487_0290_00300;300;;Route de Larbogne;24130;24487;Saint-Pierre-d'Eyraud;;;0.313778;44.866235
+24487_0065_00031;31;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.348092;44.861344
+24487_0510_00041;41;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.31644;44.84831
+24487_0220_00015;15;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.311159;44.864088
+24487_0520_00033;33;;Route du Rimbet;24130;24487;Saint-Pierre-d'Eyraud;;;0.306747;44.853894
+24487_0250_00011;11;;Chemin des Graves;24130;24487;Saint-Pierre-d'Eyraud;;;0.326657;44.862707
+24487_0395_00008;8;;Chemin du Moulin;24130;24487;Saint-Pierre-d'Eyraud;;;0.34299;44.846178
+24487_0360_00017;17;;Route des Meuniers;24130;24487;Saint-Pierre-d'Eyraud;;;0.343307;44.844361
+24487_0065_00063;63;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.351295;44.863039
+24487_0030_00007;7;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.333638;44.84185
+24487_0030_00033;33;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.336811;44.842718
+24487_0095_00007;7;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.341193;44.86109
+24487_0510_00097;97;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.311283;44.853543
+24487_0170_00089_a;89;a;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.301883;44.871198
+24487_0540_00038;38;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.323018;44.845792
+24487_0170_00087;87;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.301794;44.870546
+24487_0190_03105;3105;;Route des Eymaries;24130;24487;Saint-Pierre-d'Eyraud;;;0.319484;44.910799
+24487_0005_00025;25;;Route de l'Abeille;24130;24487;Saint-Pierre-d'Eyraud;;;0.308571;44.86728
+24487_0160_00018_b;18;b;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.321346;44.849878
+24487_0330_00019;19;;Route du Marais;24130;24487;Saint-Pierre-d'Eyraud;;;0.314595;44.85801
+24487_0030_00045;45;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.33813;44.843168
+24487_0085_00200;200;;Route de la Capelle;24130;24487;Saint-Pierre-d'Eyraud;;;0.323625;44.867075
+24487_0010_00004;4;;Passage des Acacias;24130;24487;Saint-Pierre-d'Eyraud;;;0.323439;44.846497
+24487_0510_00069;69;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.312798;44.851033
+24487_0330_00009;9;;Route du Marais;24130;24487;Saint-Pierre-d'Eyraud;;;0.312923;44.85824
+24487_0170_00083;83;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.301142;44.869975
+24487_0030_00023_a;23;a;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.335487;44.842273
+24487_0230_01165;1165;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.302841;44.877551
+24487_0390_00012;12;;Chemin de Moulas;24130;24487;Saint-Pierre-d'Eyraud;;;0.338516;44.854212
+24487_0490_00087;87;;Route de la Raufie;24130;24487;Saint-Pierre-d'Eyraud;;;0.303968;44.872305
+24487_0095_00090;90;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.341684;44.867808
+24487_0330_00045;45;;Route du Marais;24130;24487;Saint-Pierre-d'Eyraud;;;0.318371;44.857248
+24487_0460_00001;1;;Impasse des Pins Ronds;24130;24487;Saint-Pierre-d'Eyraud;;;0.34624;44.860827
+24487_0240_00023;23;;Chemin des Gaillardoux;24130;24487;Saint-Pierre-d'Eyraud;;;0.317199;44.866955
+24487_0510_00042;42;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.316309;44.848603
+24487_0345_00012;12;;Rue du Lotissement de Mauriac;24130;24487;Saint-Pierre-d'Eyraud;;;0.320936;44.848265
+24487_0415_00245;245;;Chemin des Nauzes;24130;24487;Saint-Pierre-d'Eyraud;;;0.325029;44.893395
+24487_0040_00047;47;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.319254;44.845944
+24487_0230_00145;145;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.312108;44.876317
+24487_0575_00001;1;;Chemin des Tisserands;24130;24487;Saint-Pierre-d'Eyraud;;;0.339371;44.863051
+24487_0210_03555;3555;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.309587;44.863149
+24487_0600_01560;1560;;Route du Vignaud Vieux;24130;24487;Saint-Pierre-d'Eyraud;;;0.316943;44.875845
+24487_0135_00002;2;;Route du Courtaudou;24130;24487;Saint-Pierre-d'Eyraud;;;0.321492;44.861593
+24487_0220_00023;23;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.310159;44.86421
+24487_0435_00010;10;;Rue du Parc;24130;24487;Saint-Pierre-d'Eyraud;;;0.316292;44.849794
+24487_0355_02440;2440;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.34189;44.877167
+24487_0065_00005;5;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.345342;44.859993
+24487_0360_00017_a;17;a;Route des Meuniers;24130;24487;Saint-Pierre-d'Eyraud;;;0.343362;44.8443
+24487_0335_00015;15;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.318309;44.849487
+24487_0600_00440;440;;Route du Vignaud Vieux;24130;24487;Saint-Pierre-d'Eyraud;;;0.328699;44.875993
+24487_p4e34i_00002;2;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.339662;44.854954
+24487_0510_00018;18;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.318559;44.847791
+24487_0210_01155;1155;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.339569;44.859999
+24487_0095_00004;4;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.341712;44.860235
+24487_0065_00003;3;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.344995;44.859778
+24487_0230_01045;1045;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.303221;44.878489
+24487_0040_00033;33;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.318942;44.845437
+24487_p4e34i_00003;3;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.339466;44.854811
+24487_0160_00034;34;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.32325;44.852041
+24487_0290_00225;225;;Route de Larbogne;24130;24487;Saint-Pierre-d'Eyraud;;;0.313571;44.865171
+24487_0440_00054;54;;Chemin du Parneuf;24130;24487;Saint-Pierre-d'Eyraud;;;0.347484;44.849153
+24487_0160_00002;2;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.32008;44.848754
+24487_0460_00003;3;;Impasse des Pins Ronds;24130;24487;Saint-Pierre-d'Eyraud;;;0.346012;44.86113
+24487_0380_00001;1;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.322244;44.850457
+24487_0435_00001;1;;Rue du Parc;24130;24487;Saint-Pierre-d'Eyraud;;;0.316997;44.85011
+24487_p4e34i_00004;4;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.339599;44.854988
+24487_0540_00018;18;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.321359;44.847169
+24487_0250_00004;4;;Chemin des Graves;24130;24487;Saint-Pierre-d'Eyraud;;;0.32573;44.863116
+24487_0030_00050;50;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.339003;44.843302
+24487_0540_00133;133;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.332896;44.841837
+24487_0310_00071_a;71;a;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.34008;44.852382
+24487_0135_00011;11;;Route du Courtaudou;24130;24487;Saint-Pierre-d'Eyraud;;;0.320848;44.860316
+24487_0160_00005;5;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.320127;44.848872
+24487_0600_00925;925;;Route du Vignaud Vieux;24130;24487;Saint-Pierre-d'Eyraud;;;0.323995;44.874917
+24487_0520_00006;6;;Route du Rimbet;24130;24487;Saint-Pierre-d'Eyraud;;;0.310491;44.851383
+24487_0510_00051;51;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.315593;44.84918
+24487_0015_00021;21;;Chemin de la Balastière;24130;24487;Saint-Pierre-d'Eyraud;;;0.326036;44.841108
+24487_0380_00009;9;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.323445;44.850908
+24487_0330_00047;47;;Route du Marais;24130;24487;Saint-Pierre-d'Eyraud;;;0.31929;44.857006
+24487_0460_00005;5;;Impasse des Pins Ronds;24130;24487;Saint-Pierre-d'Eyraud;;;0.345706;44.861461
+24487_0065_00019;19;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.346607;44.860628
+24487_0075_00003;3;;Chemin des Cabanes;24130;24487;Saint-Pierre-d'Eyraud;;;0.339918;44.848616
+24487_0210_03385;3385;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.311644;44.863046
+24487_0160_00013;13;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.320758;44.849425
+24487_0575_00003;3;;Chemin des Tisserands;24130;24487;Saint-Pierre-d'Eyraud;;;0.339038;44.864017
+24487_0310_00010;10;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.341617;44.84688
+24487_0050_00007;7;;Impasse Biraud;24130;24487;Saint-Pierre-d'Eyraud;;;0.31834;44.848493
+24487_0540_00127;127;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.332245;44.842967
+24487_0200_00915;915;;Route des Feroux;24130;24487;Saint-Pierre-d'Eyraud;;;0.318467;44.867221
+24487_0360_00029;29;;Route des Meuniers;24130;24487;Saint-Pierre-d'Eyraud;;;0.344654;44.843411
+24487_0030_00017;17;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.334807;44.842099
+24487_0095_00066;66;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.340107;44.865326
+24487_0540_00104_a;104;a;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.329452;44.841932
+24487_p4e34i_00011;11;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.338896;44.855039
+24487_p4e34i_00001;1;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.339554;44.854775
+24487_0210_00940;940;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.341953;44.859832
+24487_0210_04100;4100;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.302714;44.863833
+24487_0190_01825;1825;;Route des Eymaries;24130;24487;Saint-Pierre-d'Eyraud;;;0.31638;44.901124
+24487_0310_00100;100;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340275;44.855525
+24487_0095_00009;9;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.341029;44.861429
+24487_0170_00061;61;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.297842;44.869039
+24487_0094_00008;8;;Impasse des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.342162;44.859117
+24487_0480_00002;2;;Chemin du Rastelet;24130;24487;Saint-Pierre-d'Eyraud;;;0.340195;44.854262
+24487_0285_01720;1720;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.327519;44.884016
+24487_0520_00004;4;;Route du Rimbet;24130;24487;Saint-Pierre-d'Eyraud;;;0.310739;44.851273
+24487_0220_00002;2;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.313127;44.863722
+24487_0310_00008;8;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.341732;44.846687
+24487_0005_00027;27;;Route de l'Abeille;24130;24487;Saint-Pierre-d'Eyraud;;;0.308627;44.867507
+24487_0540_00009;9;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.32085;44.847735
+24487_0065_00042;42;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.349278;44.861842
+24487_0095_00204;204;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.342844;44.877191
+24487_0010_00001;1;;Passage des Acacias;24130;24487;Saint-Pierre-d'Eyraud;;;0.322967;44.846742
+24487_0255_00001;1;;Chemin des Gravières;24130;24487;Saint-Pierre-d'Eyraud;;;0.318899;44.861832
+24487_0355_00955;955;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.330526;44.86893
+24487_0160_00036;36;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.323473;44.852226
+24487_0040_00049;49;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.319189;44.84614
+24487_0540_00006;6;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.320174;44.848089
+24487_0540_00072;72;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.326062;44.843501
+24487_0200_00230;230;;Route des Feroux;24130;24487;Saint-Pierre-d'Eyraud;;;0.325059;44.864066
+24487_0230_00095;95;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.313124;44.877025
+24487_0425_00014;14;;Chemin de la Noire;24130;24487;Saint-Pierre-d'Eyraud;;;0.331433;44.866949
+24487_0010_00007;7;;Passage des Acacias;24130;24487;Saint-Pierre-d'Eyraud;;;0.323608;44.847339
+24487_0425_00002;2;;Chemin de la Noire;24130;24487;Saint-Pierre-d'Eyraud;;;0.330059;44.866535
+24487_0140_00040;40;;Route de Coutou;24130;24487;Saint-Pierre-d'Eyraud;;;0.30589;44.858223
+24487_0510_00022;22;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.317614;44.847767
+24487_0030_00002;2;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.333154;44.841693
+24487_0030_00024;24;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.335911;44.842215
+24487_0355_00004;4;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.325605;44.862085
+24487_0310_00147;147;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.343359;44.859045
+24487_0220_00013;13;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.311352;44.864057
+24487_0540_00016;16;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.321125;44.847352
+24487_0080_00840;840;;Route du Café Rouge;24130;24487;Saint-Pierre-d'Eyraud;;;0.314188;44.884056
+24487_0005_00026;26;;Route de l'Abeille;24130;24487;Saint-Pierre-d'Eyraud;;;0.308668;44.867079
+24487_0540_00064;64;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.325256;44.844093
+24487_0440_00055;55;;Chemin du Parneuf;24130;24487;Saint-Pierre-d'Eyraud;;;0.347955;44.849783
+24487_0540_00110;110;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.329862;44.841858
+24487_0170_00051;51;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.29734;44.868822
+24487_ma85dj_00208;208;;Latogne;24130;24487;Saint-Pierre-d'Eyraud;;;0.350059;44.867473
+24487_0065_00045;45;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.349893;44.862303
+24487_0380_01570;1570;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.338411;44.855798
+24487_0310_00029;29;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340628;44.848627
+24487_0210_01565;1565;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.334273;44.860583
+24487_0390_00005;5;;Chemin de Moulas;24130;24487;Saint-Pierre-d'Eyraud;;;0.338361;44.854334
+24487_0340_00067;67;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.312539;44.862221
+24487_0310_00118;118;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.341081;44.856685
+24487_0310_00090;90;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340139;44.854525
+24487_0510_00066;66;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.313394;44.850879
+24487_0395_00005;5;;Chemin du Moulin;24130;24487;Saint-Pierre-d'Eyraud;;;0.342894;44.846264
+24487_0110_00009;9;;Chemin de Chabrouty;24130;24487;Saint-Pierre-d'Eyraud;;;0.298794;44.863666
+24487_0040_00022;22;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.318171;44.846033
+24487_0010_00002;2;;Passage des Acacias;24130;24487;Saint-Pierre-d'Eyraud;;;0.323146;44.846645
+24487_0030_00031;31;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.336384;44.842564
+24487_0470_00010;10;;Rue du Port de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.30906;44.854487
+24487_0390_00004;4;;Chemin de Moulas;24130;24487;Saint-Pierre-d'Eyraud;;;0.33747;44.85458
+24487_0510_00049;49;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.315879;44.84891
+24487_0210_03885;3885;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.304949;44.863502
+24487_0005_00005_a;5;a;Route de l'Abeille;24130;24487;Saint-Pierre-d'Eyraud;;;0.307651;44.863471
+24487_0540_00012;12;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.320647;44.847603
+24487_0140_00077;77;;Route de Coutou;24130;24487;Saint-Pierre-d'Eyraud;;;0.302606;44.859127
+24487_0540_00131;131;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.332645;44.841775
+24487_0170_00064;64;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.299522;44.869451
+24487_0210_03820;3820;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.306193;44.863519
+24487_0220_00022;22;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.309693;44.864313
+24487_0170_00024;24;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.294646;44.867371
+24487_0210_04170;4170;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.301843;44.863917
+24487_0190_03045;3045;;Route des Eymaries;24130;24487;Saint-Pierre-d'Eyraud;;;0.319233;44.909909
+24487_0380_00015;15;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.324175;44.851254
+24487_0285_01585;1585;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.329135;44.883052
+24487_0540_00039;39;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.32314;44.845876
+24487_0060_00013;13;;Rue du Bost;24130;24487;Saint-Pierre-d'Eyraud;;;0.313229;44.85134
+24487_p4e34i_00009;9;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.338972;44.855005
+24487_0040_00039;39;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.319301;44.84551
+24487_0030_00061;61;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.340868;44.844483
+24487_0140_00041;41;;Route de Coutou;24130;24487;Saint-Pierre-d'Eyraud;;;0.30565;44.858172
+24487_0460_00010;10;;Impasse des Pins Ronds;24130;24487;Saint-Pierre-d'Eyraud;;;0.345804;44.861537
+24487_c47cn6_00003;3;;Rue des Gabarres;24130;24487;Saint-Pierre-d'Eyraud;;;0.321567;44.846573
+24487_0335_00018;18;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.318227;44.849655
+24487_0360_00011;11;;Route des Meuniers;24130;24487;Saint-Pierre-d'Eyraud;;;0.342921;44.844703
+24487_0540_00066;66;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.325429;44.843945
+24487_0140_00113;113;;Route de Coutou;24130;24487;Saint-Pierre-d'Eyraud;;;0.298496;44.862407
+24487_0360_00016;16;;Route des Meuniers;24130;24487;Saint-Pierre-d'Eyraud;;;0.343032;44.84446
+24487_0470_00023;23;;Rue du Port de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.308544;44.853735
+24487_0210_02060;2060;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.328661;44.861386
+24487_0355_02465;2465;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.342113;44.877352
+24487_0015_00008;8;;Chemin de la Balastière;24130;24487;Saint-Pierre-d'Eyraud;;;0.326878;44.841796
+24487_0335_00002;2;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.319542;44.848677
+24487_0005_00039;39;;Route de l'Abeille;24130;24487;Saint-Pierre-d'Eyraud;;;0.309142;44.868204
+24487_0210_04160;4160;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.302233;44.863882
+24487_0390_00016;16;;Chemin de Moulas;24130;24487;Saint-Pierre-d'Eyraud;;;0.339265;44.854055
+24487_0095_00055;55;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.339728;44.864464
+24487_0540_00127_c;127;c;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.331742;44.842798
+24487_0110_00006;6;;Chemin de Chabrouty;24130;24487;Saint-Pierre-d'Eyraud;;;0.298819;44.863098
+24487_0425_00008;8;;Chemin de la Noire;24130;24487;Saint-Pierre-d'Eyraud;;;0.330535;44.866657
+24487_0230_00485;485;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.308724;44.878418
+24487_0540_00129;129;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.332122;44.841802
+24487_0230_00165_a;165;a;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.311856;44.875319
+24487_0220_00019;19;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.310861;44.864129
+24487_0310_00036;36;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340559;44.849335
+24487_0330_00037;37;;Route du Marais;24130;24487;Saint-Pierre-d'Eyraud;;;0.316354;44.857515
+24487_0510_00040;40;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.316486;44.848412
+24487_0210_00130;130;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.352032;44.858576
+24487_0395_00003;3;;Chemin du Moulin;24130;24487;Saint-Pierre-d'Eyraud;;;0.342424;44.84616
+24487_0210_03180;3180;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.314149;44.862986
+24487_0460_00006;6;;Impasse des Pins Ronds;24130;24487;Saint-Pierre-d'Eyraud;;;0.345921;44.861378
+24487_0540_00044;44;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.323475;44.845447
+24487_0140_00115;115;;Route de Coutou;24130;24487;Saint-Pierre-d'Eyraud;;;0.298263;44.86263
+24487_0065_00014;14;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.346247;44.860346
+24487_0575_00008;8;;Chemin des Tisserands;24130;24487;Saint-Pierre-d'Eyraud;;;0.339238;44.863695
+24487_0330_00041;41;;Route du Marais;24130;24487;Saint-Pierre-d'Eyraud;;;0.317253;44.857259
+24487_0330_00023;23;;Route du Marais;24130;24487;Saint-Pierre-d'Eyraud;;;0.314967;44.857894
+24487_0510_00086;86;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.311723;44.852565
+24487_c47cn6_00001;1;;Rue des Gabarres;24130;24487;Saint-Pierre-d'Eyraud;;;0.321731;44.846711
+24487_0285_00645;645;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.339679;44.881536
+24487_0040_00052;52;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.319301;44.846227
+24487_0040_00030;30;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.318642;44.845512
+24487_0220_00009;9;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.31193;44.863959
+24487_0030_00051;51;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.339581;44.843736
+24487_0005_00028_a;28;a;Route de l'Abeille;24130;24487;Saint-Pierre-d'Eyraud;;;0.309145;44.867295
+24487_0520_00018;18;;Route du Rimbet;24130;24487;Saint-Pierre-d'Eyraud;;;0.308659;44.852538
+24487_0170_00085;85;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.301532;44.870126
+24487_0395_00011;11;;Chemin du Moulin;24130;24487;Saint-Pierre-d'Eyraud;;;0.343729;44.846433
+24487_0340_00038;38;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.311502;44.859422
+24487_0210_01720;1720;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.332486;44.860932
+24487_0335_00049;49;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.315268;44.85171
+24487_0355_01305;1305;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.331407;44.871624
+24487_0065_00034;34;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.348402;44.861373
+24487_0335_00019_a;19;a;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.318039;44.849683
+24487_0160_00028;28;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.322671;44.851581
+24487_0160_00002_a;2;a;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.319885;44.848596
+24487_p4e34i_00016;16;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.338853;44.855317
+24487_0040_00021;21;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.318107;44.846247
+24487_0290_01525;1525;;Route de Larbogne;24130;24487;Saint-Pierre-d'Eyraud;;;0.314328;44.875996
+24487_0094_00011;11;;Impasse des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.341993;44.859297
+24487_0600_00760;760;;Route du Vignaud Vieux;24130;24487;Saint-Pierre-d'Eyraud;;;0.325165;44.875018
+24487_0510_00046;46;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.315809;44.849141
+24487_0170_00081;81;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.300726;44.869862
+24487_0220_00007;7;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.312262;44.863897
+24487_0065_00076;76;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.352772;44.863396
+24487_0340_00054;54;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.31205;44.860769
+24487_0510_00014;14;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.318767;44.847914
+24487_0030_00038;38;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.337449;44.842775
+24487_0290_01515;1515;;Route de Larbogne;24130;24487;Saint-Pierre-d'Eyraud;;;0.314243;44.875417
+24487_0210_01140;1140;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.339498;44.860119
+24487_0440_00068;68;;Chemin du Parneuf;24130;24487;Saint-Pierre-d'Eyraud;;;0.347384;44.847979
+24487_0310_00062;62;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340938;44.851543
+24487_0170_00050;50;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.29809;44.869059
+24487_0005_00028;28;;Route de l'Abeille;24130;24487;Saint-Pierre-d'Eyraud;;;0.308723;44.867431
+24487_0540_00005_a;5;a;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.320331;44.848131
+24487_0030_00028;28;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.336191;44.84231
+24487_0310_00003;3;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.341639;44.846383
+24487_0390_00014;14;;Chemin de Moulas;24130;24487;Saint-Pierre-d'Eyraud;;;0.338903;44.854101
+24487_0170_00089;89;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.301879;44.871155
+24487_0230_00900;900;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.30478;44.879751
+24487_0210_03415;3415;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.311142;44.863089
+24487_p4e34i_00017;17;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.338486;44.855173
+24487_0480_00020;20;;Chemin du Rastelet;24130;24487;Saint-Pierre-d'Eyraud;;;0.342262;44.854839
+24487_0395_00040;40;;Chemin du Moulin;24130;24487;Saint-Pierre-d'Eyraud;;;0.345481;44.845493
+24487_0510_00095;95;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.311383;44.853357
+24487_0005_00003;3;;Route de l'Abeille;24130;24487;Saint-Pierre-d'Eyraud;;;0.307226;44.863513
+24487_0065_00052;52;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.350166;44.862308
+24487_0510_00087;87;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.311579;44.852485
+24487_0030_00020;20;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.335352;44.842058
+24487_0015_00010;10;;Chemin de la Balastière;24130;24487;Saint-Pierre-d'Eyraud;;;0.326681;44.841478
+24487_0510_00012;12;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.318866;44.847957
+24487_0345_00006;6;;Rue du Lotissement de Mauriac;24130;24487;Saint-Pierre-d'Eyraud;;;0.321126;44.848528
+24487_0310_00065;65;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340051;44.851712
+24487_0540_00010;10;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.320482;44.84775
+24487_0065_00013;13;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.346313;44.860491
+24487_0345_00004;4;;Rue du Lotissement de Mauriac;24130;24487;Saint-Pierre-d'Eyraud;;;0.321231;44.848413
+24487_0320_00045;45;;Chemin de Malacart;24130;24487;Saint-Pierre-d'Eyraud;;;0.329271;44.845083
+24487_0065_00037;37;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.348734;44.861681
+24487_0065_00018;18;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.346952;44.860664
+24487_0510_00030;30;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.317236;44.847978
+24487_0540_00060;60;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.324877;44.844406
+24487_hvvnat_00007;7;;Chemin des Châtaigniers;24130;24487;Saint-Pierre-d'Eyraud;;;0.325647;44.842414
+24487_0340_00052;52;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.31194;44.860519
+24487_0480_00022;22;;Chemin du Rastelet;24130;24487;Saint-Pierre-d'Eyraud;;;0.342528;44.854856
+24487_0380_01640;1640;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.339742;44.856465
+24487_0310_00087;87;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.339907;44.854158
+24487_0250_00019;19;;Chemin des Graves;24130;24487;Saint-Pierre-d'Eyraud;;;0.328144;44.862428
+24487_0330_00017;17;;Route du Marais;24130;24487;Saint-Pierre-d'Eyraud;;;0.314092;44.858127
+24487_0020_00001_b;1;b;Chemin du Barailler;24130;24487;Saint-Pierre-d'Eyraud;;;0.300324;44.864399
+24487_0200_00007;7;;Route des Feroux;24130;24487;Saint-Pierre-d'Eyraud;;;0.324993;44.862969
+24487_0355_02460;2460;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.34247;44.877355
+24487_0240_00016;16;;Chemin des Gaillardoux;24130;24487;Saint-Pierre-d'Eyraud;;;0.316045;44.866065
+24487_0310_00074;74;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340189;44.852747
+24487_0230_00165;165;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.311818;44.875482
+24487_0390_00020;20;;Chemin de Moulas;24130;24487;Saint-Pierre-d'Eyraud;;;0.339816;44.853234
+24487_0220_00025;25;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.30993;44.864232
+24487_0540_00103;103;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.329318;44.842049
+24487_0335_00052;52;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.31519;44.851891
+24487_0480_01200;1200;;Chemin du Rastelet;24130;24487;Saint-Pierre-d'Eyraud;;;0.350134;44.857346
+24487_0065_00025;25;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.347611;44.861087
+24487_0600_00420;420;;Route du Vignaud Vieux;24130;24487;Saint-Pierre-d'Eyraud;;;0.328966;44.87606
+24487_0200_00003;3;;Route des Feroux;24130;24487;Saint-Pierre-d'Eyraud;;;0.324959;44.862551
+24487_0240_00014;14;;Chemin des Gaillardoux;24130;24487;Saint-Pierre-d'Eyraud;;;0.315684;44.865893
+24487_0395_00007;7;;Chemin du Moulin;24130;24487;Saint-Pierre-d'Eyraud;;;0.3432;44.846321
+24487_0020_00002;2;;Chemin du Barailler;24130;24487;Saint-Pierre-d'Eyraud;;;0.300446;44.864202
+24487_0540_00114;114;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.330449;44.841802
+24487_0310_00080;80;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340168;44.853441
+24487_0355_01705;1705;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.333632;44.874737
+24487_0210_01115;1115;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.340051;44.859931
+24487_0290_00006;6;;Route de Larbogne;24130;24487;Saint-Pierre-d'Eyraud;;;0.313417;44.86388
+24487_0540_00068;68;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.325619;44.843806
+24487_0030_00015;15;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.334667;44.842066
+24487_0490_00083;83;;Route de la Raufie;24130;24487;Saint-Pierre-d'Eyraud;;;0.304388;44.871803
+24487_0135_00035;35;;Route du Courtaudou;24130;24487;Saint-Pierre-d'Eyraud;;;0.321137;44.859272
+24487_0480_00900;900;;Chemin du Rastelet;24130;24487;Saint-Pierre-d'Eyraud;;;0.351012;44.855479
+24487_0520_00010;10;;Route du Rimbet;24130;24487;Saint-Pierre-d'Eyraud;;;0.309775;44.851797
+24487_0170_00093;93;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.301961;44.871667
+24487_c47cn6_00015;15;;Rue des Gabarres;24130;24487;Saint-Pierre-d'Eyraud;;;0.320717;44.845808
+24487_hvvnat_00001;1;;Chemin des Châtaigniers;24130;24487;Saint-Pierre-d'Eyraud;;;0.326123;44.843183
+24487_0540_00037;37;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.322941;44.846046
+24487_0335_00038;38;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.316287;44.851007
+24487_0390_00011;11;;Chemin de Moulas;24130;24487;Saint-Pierre-d'Eyraud;;;0.339675;44.854403
+24487_0255_00012;12;;Chemin des Gravières;24130;24487;Saint-Pierre-d'Eyraud;;;0.318454;44.861263
+24487_0310_00028;28;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340904;44.848513
+24487_0160_00020;20;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.321718;44.850475
+24487_0310_00058;58;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340286;44.85131
+24487_0310_00015;15;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.341241;44.847291
+24487_0040_00027;27;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.318638;44.845848
+24487_0190_03025;3025;;Route des Eymaries;24130;24487;Saint-Pierre-d'Eyraud;;;0.319175;44.909864
+24487_0020_00001_a;1;a;Chemin du Barailler;24130;24487;Saint-Pierre-d'Eyraud;;;0.300329;44.864328
+24487_0355_01265;1265;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.330888;44.871255
+24487_0030_00003;3;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.333228;44.841805
+24487_0540_00041;41;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.323386;44.845676
+24487_0220_00021;21;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.310483;44.864169
+24487_0540_00087;87;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.327238;44.842853
+24487_0540_00111;111;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.330102;44.841958
+24487_0470_00021;21;;Rue du Port de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.308763;44.85402
+24487_0285_00840;840;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.337574;44.882468
+24487_0390_00006;6;;Chemin de Moulas;24130;24487;Saint-Pierre-d'Eyraud;;;0.337768;44.854462
+24487_0510_00043;43;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.316379;44.848376
+24487_0290_00290;290;;Route de Larbogne;24130;24487;Saint-Pierre-d'Eyraud;;;0.313749;44.865796
+24487_0380_01620;1620;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.339459;44.85636
+24487_0230_00940;940;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.304013;44.879088
+24487_0450_00005;5;;Chemin de Picherie;24130;24487;Saint-Pierre-d'Eyraud;;;0.333834;44.877617
+24487_0600_00395;395;;Route du Vignaud Vieux;24130;24487;Saint-Pierre-d'Eyraud;;;0.330145;44.875676
+24487_0030_00041;41;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.337566;44.843001
+24487_0310_00107;107;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340222;44.855821
+24487_0095_00114;114;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.342334;44.869222
+24487_0310_00006;6;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.341786;44.846577
+24487_0040_00034;34;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.318841;44.84526
+24487_0575_00004;4;;Chemin des Tisserands;24130;24487;Saint-Pierre-d'Eyraud;;;0.338402;44.863257
+24487_0160_00016;16;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.321202;44.849739
+24487_0540_00106_b;106;b;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.330012;44.841058
+24487_0510_00028;28;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.317321;44.847924
+24487_0250_00012;12;;Chemin des Graves;24130;24487;Saint-Pierre-d'Eyraud;;;0.32703;44.862561
+24487_0510_00038;38;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.316786;44.848222
+24487_0345_00010;10;;Rue du Lotissement de Mauriac;24130;24487;Saint-Pierre-d'Eyraud;;;0.320888;44.848406
+24487_0510_00021;21;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.317723;44.84759
+24487_0170_00077;77;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.300055;44.869652
+24487_0065_00028;28;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.347824;44.861091
+24487_0540_00094_a;94;a;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.327919;44.841849
+24487_0310_00072;72;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340203;44.852439
+24487_0040_00015;15;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.318348;44.846899
+24487_0310_00075;75;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.339983;44.852849
+24487_0140_00038;38;;Route de Coutou;24130;24487;Saint-Pierre-d'Eyraud;;;0.306907;44.858012
+24487_0425_00016;16;;Chemin de la Noire;24130;24487;Saint-Pierre-d'Eyraud;;;0.331451;44.866966
+24487_0110_00002;2;;Chemin de Chabrouty;24130;24487;Saint-Pierre-d'Eyraud;;;0.298765;44.86258
+24487_0250_00015;15;;Chemin des Graves;24130;24487;Saint-Pierre-d'Eyraud;;;0.327241;44.862557
+24487_p4e34i_00024;24;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.338338;44.855564
+24487_0360_00022;22;;Route des Meuniers;24130;24487;Saint-Pierre-d'Eyraud;;;0.34381;44.843883
+24487_0310_00071;71;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340064;44.852267
+24487_0210_01120;1120;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.339867;44.860068
+24487_0355_00001;1;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.325465;44.862166
+24487_0030_00030;30;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.336471;44.842405
+24487_0460_00008;8;;Impasse des Pins Ronds;24130;24487;Saint-Pierre-d'Eyraud;;;0.345839;44.861492
+24487_0335_00016;16;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.3184;44.849532
+24487_0285_00940;940;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.337039;44.882648
+24487_0355_02390;2390;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.341524;44.877033
+24487_0135_00001;1;;Route du Courtaudou;24130;24487;Saint-Pierre-d'Eyraud;;;0.321751;44.861888
+24487_0285_00215;215;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.343049;44.879332
+24487_p4e34i_00005;5;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.339229;44.854898
+24487_0510_00085;85;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.311669;44.85216
+24487_0595_00240;240;;Chemin du Vignaud;24130;24487;Saint-Pierre-d'Eyraud;;;0.297274;44.859628
+24487_0015_00009;9;;Chemin de la Balastière;24130;24487;Saint-Pierre-d'Eyraud;;;0.326944;44.841733
+24487_0335_00013;13;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.318513;44.849347
+24487_0290_00445;445;;Route de Larbogne;24130;24487;Saint-Pierre-d'Eyraud;;;0.313785;44.866949
+24487_0540_00054;54;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.324655;44.844555
+24487_0310_00054;54;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340318;44.850693
+24487_0005_00026_a;26;a;Route de l'Abeille;24130;24487;Saint-Pierre-d'Eyraud;;;0.309107;44.867162
+24487_0540_00007;7;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.320628;44.84789
+24487_0040_00041;41;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.3195;44.845593
+24487_0160_00010;10;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.320763;44.84933
+24487_0065_00069;69;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.352335;44.863418
+24487_0540_00046;46;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.323708;44.845289
+24487_0380_01485;1485;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.337389;44.855258
+24487_0210_03920;3920;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.304433;44.86378
+24487_0355_00009;9;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.326556;44.862948
+24487_0380_01350;1350;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.336621;44.854729
+24487_0095_00013;13;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.340845;44.861654
+24487_p4e34i_00007;7;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.339171;44.854927
+24487_0005_00003_a;3;a;Route de l'Abeille;24130;24487;Saint-Pierre-d'Eyraud;;;0.306886;44.863465
+24487_c47cn6_00007;7;;Rue des Gabarres;24130;24487;Saint-Pierre-d'Eyraud;;;0.321253;44.846271
+24487_0380_00015_a;15;a;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.324241;44.851322
+24487_0540_00025;25;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.322043;44.846806
+24487_0290_00015;15;;Route de Larbogne;24130;24487;Saint-Pierre-d'Eyraud;;;0.313035;44.86321
+24487_0015_00017;17;;Chemin de la Balastière;24130;24487;Saint-Pierre-d'Eyraud;;;0.326628;44.841078
+24487_0540_00129_b;129;b;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.332126;44.84234
+24487_0040_00020;20;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.318037;44.846156
+24487_0490_00027;27;;Route de la Raufie;24130;24487;Saint-Pierre-d'Eyraud;;;0.309914;44.868687
+24487_0075_00007;7;;Chemin des Cabanes;24130;24487;Saint-Pierre-d'Eyraud;;;0.339662;44.848604
+24487_0040_00035;35;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.319142;44.845204
+24487_0520_00030;30;;Route du Rimbet;24130;24487;Saint-Pierre-d'Eyraud;;;0.307277;44.853712
+24487_0490_00112;112;;Route de la Raufie;24130;24487;Saint-Pierre-d'Eyraud;;;0.301334;44.874836
+24487_0170_00067;67;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.299052;44.869388
+24487_0065_00003_a;3;a;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.344571;44.860344
+24487_0460_00003_a;3;a;Impasse des Pins Ronds;24130;24487;Saint-Pierre-d'Eyraud;;;0.345881;44.861292
+24487_0355_00670;670;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.329514;44.866303
+24487_0460_00007;7;;Impasse des Pins Ronds;24130;24487;Saint-Pierre-d'Eyraud;;;0.345697;44.861536
+24487_0355_01715;1715;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.333759;44.874954
+24487_0030_00032;32;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.336693;44.842472
+24487_0160_00011;11;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.320632;44.849312
+24487_0065_00078;78;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.352971;44.863438
+24487_0200_00005;5;;Route des Feroux;24130;24487;Saint-Pierre-d'Eyraud;;;0.324981;44.862759
+24487_p4e34i_00013;13;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.338704;44.855092
+24487_0510_00045;45;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.316282;44.848486
+24487_p4e34i_00021;21;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.338174;44.85528
+24487_0355_00011;11;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.326795;44.8634
+24487_0480_00016;16;;Chemin du Rastelet;24130;24487;Saint-Pierre-d'Eyraud;;;0.341838;44.854768
+24487_0600_00940;940;;Route du Vignaud Vieux;24130;24487;Saint-Pierre-d'Eyraud;;;0.323;44.875018
+24487_0040_00042;42;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.319457;44.845404
+24487_0510_00004;4;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.319475;44.848306
+24487_0340_00040;40;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.31156;44.859572
+24487_0210_02380;2380;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.324112;44.861834
+24487_0030_00063;63;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.341254;44.844841
+24487_0310_00150;150;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.341946;44.857825
+24487_0040_00046;46;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.31983;44.84553
+24487_0240_00040;40;;Chemin des Gaillardoux;24130;24487;Saint-Pierre-d'Eyraud;;;0.317721;44.867207
+24487_0510_00047;47;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.316031;44.848737
+24487_0290_00004;4;;Route de Larbogne;24130;24487;Saint-Pierre-d'Eyraud;;;0.313336;44.863551
+24487_0360_00003;3;;Route des Meuniers;24130;24487;Saint-Pierre-d'Eyraud;;;0.342157;44.84554
+24487_0140_00112;112;;Route de Coutou;24130;24487;Saint-Pierre-d'Eyraud;;;0.298828;44.862187
+24487_0310_00086;86;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340151;44.853814
+24487_0040_00026;26;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.318374;44.845766
+24487_0095_00005;5;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.341357;44.860706
+24487_0470_00018;18;;Rue du Port de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.30828;44.853622
+24487_0520_00002;2;;Route du Rimbet;24130;24487;Saint-Pierre-d'Eyraud;;;0.311477;44.851335
+24487_0065_00023;23;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.347333;44.860951
+24487_0335_00001;1;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.31897;44.849074
+24487_0290_00375;375;;Route de Larbogne;24130;24487;Saint-Pierre-d'Eyraud;;;0.313623;44.866184
+24487_0320_00011;11;;Chemin de Malacart;24130;24487;Saint-Pierre-d'Eyraud;;;0.324798;44.845455
+24487_0390_00010;10;;Chemin de Moulas;24130;24487;Saint-Pierre-d'Eyraud;;;0.33817;44.854319
+24487_0310_00013;13;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.341311;44.847145
+24487_0170_00063;63;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.298145;44.86915
+24487_0510_00055;55;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.314705;44.84995
+24487_0380_00013;13;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.32391;44.851078
+24487_0510_00019;19;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.318405;44.84759
+24487_p4e34i_00022;22;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.3383;44.855499
+24487_0040_00024;24;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.318301;44.845866
+24487_0540_00096_a;96;a;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.328013;44.841812
+24487_0200_00930_a;930;a;Route des Feroux;24130;24487;Saint-Pierre-d'Eyraud;;;0.318072;44.867444
+24487_0510_00060_a;60;a;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.314041;44.850517
+24487_0440_00071;71;;Chemin du Parneuf;24130;24487;Saint-Pierre-d'Eyraud;;;0.348223;44.850529
+24487_0490_00089;89;;Route de la Raufie;24130;24487;Saint-Pierre-d'Eyraud;;;0.303848;44.872418
+24487_0040_00048_a;48;a;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.319808;44.845847
+24487_0230_00740;740;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.306025;44.879641
+24487_0094_00007;7;;Impasse des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.342094;44.858975
+24487_0335_00036;36;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.316489;44.850863
+24487_0380_00002;2;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.321795;44.850195
+24487_0015_00007;7;;Chemin de la Balastière;24130;24487;Saint-Pierre-d'Eyraud;;;0.327083;44.841954
+24487_0240_00015;15;;Chemin des Gaillardoux;24130;24487;Saint-Pierre-d'Eyraud;;;0.316232;44.866278
+24487_0360_00021;21;;Route des Meuniers;24130;24487;Saint-Pierre-d'Eyraud;;;0.343777;44.843996
+24487_0285_00523;523;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.341205;44.881156
+24487_0310_00145;145;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.343616;44.85914
+24487_0335_00009;9;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.318775;44.849161
+24487_0435_00008;8;;Rue du Parc;24130;24487;Saint-Pierre-d'Eyraud;;;0.316494;44.849917
+24487_0355_00630;630;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.329208;44.866136
+24487_0040_00048;48;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.319913;44.845788
+24487_0520_00039;39;;Route du Rimbet;24130;24487;Saint-Pierre-d'Eyraud;;;0.305839;44.854127
+24487_0030_00006;6;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.333694;44.84176
+24487_0170_00065;65;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.298541;44.869268
+24487_0210_03875;3875;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.305607;44.86344
+24487_0065_00054;54;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.350346;44.862415
+24487_0470_00004;4;;Rue du Port de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.30973;44.855296
+24487_p4e34i_00025;25;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.337972;44.855359
+24487_0110_00010;10;;Chemin de Chabrouty;24130;24487;Saint-Pierre-d'Eyraud;;;0.298883;44.863902
+24487_0380_01575;1575;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.338204;44.855841
+24487_0595_00280;280;;Chemin du Vignaud;24130;24487;Saint-Pierre-d'Eyraud;;;0.297162;44.859504
+24487_0310_00069;69;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340054;44.852052
+24487_0540_00113;113;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.330432;44.84191
+24487_0540_00096;96;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.328325;44.84217
+24487_0210_01035;1035;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.341234;44.859808
+24487_0230_01445;1445;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.302613;44.875196
+24487_0230_00175;175;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.312155;44.877122
+24487_0030_00059;59;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.340548;44.844265
+24487_0355_01550;1550;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.333395;44.87381
+24487_0390_00009;9;;Chemin de Moulas;24130;24487;Saint-Pierre-d'Eyraud;;;0.339089;44.85416
+24487_0170_00042;42;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.296553;44.868389
+24487_0030_00011;11;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.334095;44.841952
+24487_0170_00047;47;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.296765;44.868565
+24487_0540_00106_a;106;a;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.329147;44.841106
+24487_0095_00001;1;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.34172;44.859952
+24487_0170_00095;95;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.301886;44.872108
+24487_0490_00085;85;;Route de la Raufie;24130;24487;Saint-Pierre-d'Eyraud;;;0.304241;44.872033
+24487_0030_00008;8;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.333812;44.841762
+24487_0380_00017;17;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.324368;44.851457
+24487_0335_00053;53;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.314745;44.852071
+24487_p4e34i_00010;10;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.339216;44.855147
+24487_0540_00120;120;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.331132;44.841739
+24487_0460_00004;4;;Impasse des Pins Ronds;24130;24487;Saint-Pierre-d'Eyraud;;;0.346048;44.861209
+24487_0065_00050;50;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.349958;44.862211
+24487_0520_00012;12;;Route du Rimbet;24130;24487;Saint-Pierre-d'Eyraud;;;0.309533;44.851944
+24487_0380_01410;1410;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.337455;44.85511
+24487_0210_03940;3940;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.304009;44.863732
+24487_0510_00023;23;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.317481;44.847479
+24487_0030_00040;40;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.337605;44.842823
+24487_0200_00006;6;;Route des Feroux;24130;24487;Saint-Pierre-d'Eyraud;;;0.32504;44.862792
+24487_0425_00010;10;;Chemin de la Noire;24130;24487;Saint-Pierre-d'Eyraud;;;0.330768;44.866736
+24487_0380_00005;5;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.322768;44.850646
+24487_0230_00135;135;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.312139;44.876574
+24487_0600_00400;400;;Route du Vignaud Vieux;24130;24487;Saint-Pierre-d'Eyraud;;;0.329472;44.875876
+24487_0380_01330;1330;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.336247;44.854727
+24487_0170_00045;45;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.296659;44.868521
+24487_0220_00020;20;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.309994;44.864283
+24487_0005_00009;9;;Route de l'Abeille;24130;24487;Saint-Pierre-d'Eyraud;;;0.308538;44.864422
+24487_0170_00060;60;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.299215;44.869371
+24487_0140_00137;137;;Route de Coutou;24130;24487;Saint-Pierre-d'Eyraud;;;0.295655;44.863841
+24487_0510_00061;61;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.314009;44.850402
+24487_0520_00035;35;;Route du Rimbet;24130;24487;Saint-Pierre-d'Eyraud;;;0.306518;44.854024
+24487_0080_01005;1005;;Route du Café Rouge;24130;24487;Saint-Pierre-d'Eyraud;;;0.31584;44.885663
+24487_0030_00044;44;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.338007;44.84296
+24487_0210_01955;1955;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.329816;44.861123
+24487_0140_00048;48;;Route de Coutou;24130;24487;Saint-Pierre-d'Eyraud;;;0.304964;44.858404
+24487_0200_00930;930;;Route des Feroux;24130;24487;Saint-Pierre-d'Eyraud;;;0.318289;44.867378
+24487_0230_00640;640;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.307242;44.879422
+24487_0220_00004;4;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.312772;44.863844
+24487_0390_00007;7;;Chemin de Moulas;24130;24487;Saint-Pierre-d'Eyraud;;;0.338631;44.854254
+24487_0065_00036;36;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.348728;44.861544
+24487_0160_00006;6;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.320411;44.849036
+24487_0490_00079;79;;Route de la Raufie;24130;24487;Saint-Pierre-d'Eyraud;;;0.30471;44.871625
+24487_0190_00915;915;;Route des Eymaries;24130;24487;Saint-Pierre-d'Eyraud;;;0.32249;44.893427
+24487_0030_00042;42;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.337691;44.842862
+24487_p4e34i_00018;18;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.338439;44.855445
+24487_0380_00935;935;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.331517;44.854099
+24487_0380_01580;1580;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.338896;44.856081
+24487_p4e34i_00014;14;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.338936;44.855275
+24487_0540_00092;92;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.327522;44.842521
+24487_0160_00042;42;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.32357;44.852716
+24487_0540_00130;130;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.332619;44.841677
+24487_0345_00002;2;;Rue du Lotissement de Mauriac;24130;24487;Saint-Pierre-d'Eyraud;;;0.321185;44.84828
+24487_0170_00055;55;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.297606;44.868942
+24487_0510_00071;71;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.312603;44.851133
+24487_0065_00043;43;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.349508;44.862086
+24487_0540_00042;42;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.323299;44.845591
+24487_0360_00030;30;;Route des Meuniers;24130;24487;Saint-Pierre-d'Eyraud;;;0.344697;44.843344
+24487_0435_00003_a;3;a;Rue du Parc;24130;24487;Saint-Pierre-d'Eyraud;;;0.316765;44.84997
+24487_0510_00065;65;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.313344;44.850768
+24487_0600_00480;480;;Route du Vignaud Vieux;24130;24487;Saint-Pierre-d'Eyraud;;;0.328226;44.875772
+24487_0190_01780;1780;;Route des Eymaries;24130;24487;Saint-Pierre-d'Eyraud;;;0.316432;44.90084
+24487_0510_00010;10;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.318958;44.84803
+24487_0335_00030;30;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.31696;44.850556
+24487_0220_00024;24;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.30941;44.864352
+24487_0005_00005;5;;Route de l'Abeille;24130;24487;Saint-Pierre-d'Eyraud;;;0.308156;44.863699
+24487_0355_01905;1905;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.335716;44.875606
+24487_0200_00011;11;;Route des Feroux;24130;24487;Saint-Pierre-d'Eyraud;;;0.325004;44.863206
+24487_0030_00029;29;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.336087;44.842429
+24487_0040_00037;37;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.319268;44.84506
+24487_0030_00021;21;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.335225;44.842206
+24487_0290_00265;265;;Route de Larbogne;24130;24487;Saint-Pierre-d'Eyraud;;;0.313576;44.865575
+24487_0340_00066;66;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.31234;44.861519
+24487_0040_00029;29;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.31875;44.84571
+24487_0030_00009;9;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.333625;44.841903
+24487_0040_00019_a;19;a;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.319036;44.846473
+24487_0510_00006;6;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.319274;44.848216
+24487_0540_00008;8;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.320336;44.847943
+24487_0460_00002;2;;Impasse des Pins Ronds;24130;24487;Saint-Pierre-d'Eyraud;;;0.346248;44.860934
+24487_0095_00144;144;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.342717;44.872022
+24487_0135_00009;9;;Route du Courtaudou;24130;24487;Saint-Pierre-d'Eyraud;;;0.321127;44.860762
+24487_0230_00185;185;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.311944;44.877151
+24487_0405_00240;240;;Chemin de la Mouthe;24130;24487;Saint-Pierre-d'Eyraud;;;0.292418;44.862633
+24487_0380_01340;1340;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.336477;44.854731
+24487_0220_00021_a;21;a;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.310276;44.864197
+24487_0310_00050;50;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340346;44.850348
+24487_0040_00050;50;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.319587;44.845985
+24487_0285_00123;123;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.342627;44.878026
+24487_0005_00007;7;;Route de l'Abeille;24130;24487;Saint-Pierre-d'Eyraud;;;0.308345;44.864204
+24487_0380_01020;1020;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.332614;44.854293
+24487_0210_01760;1760;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.332032;44.860987
+24487_0285_00520;520;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.341381;44.881268
+24487_0040_00045;45;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.319395;44.845854
+24487_0220_00018;18;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.310226;44.864259
+24487_p4e34i_00023;23;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.338106;44.855303
+24487_0335_00011;11;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.318684;44.849229
+24487_0065_00056;56;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.351015;44.862749
+24487_0220_00009_a;9;a;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.311761;44.863999
+24487_0285_00765;765;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.338119;44.882302
+24487_0120_00003;3;;Rue Christian Aubertie;24130;24487;Saint-Pierre-d'Eyraud;;;0.32019;44.847406
+24487_0310_00026;26;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.341142;44.847944
+24487_0030_00046;46;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.338377;44.843086
+24487_0540_00052;52;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.323513;44.844495
+24487_0285_00305;305;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.342953;44.879865
+24487_0510_00011;11;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.318905;44.847854
+24487_0094_00009;9;;Impasse des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.342018;44.859163
+24487_c47cn6_00011;11;;Rue des Gabarres;24130;24487;Saint-Pierre-d'Eyraud;;;0.320973;44.846055
+24487_0240_00004;4;;Chemin des Gaillardoux;24130;24487;Saint-Pierre-d'Eyraud;;;0.314635;44.866464
+24487_0510_00062;62;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.313936;44.850589
+24487_0360_00007;7;;Route des Meuniers;24130;24487;Saint-Pierre-d'Eyraud;;;0.342513;44.845065
+24487_0250_00003;3;;Chemin des Graves;24130;24487;Saint-Pierre-d'Eyraud;;;0.325962;44.863058
+24487_0470_00025;25;;Rue du Port de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.308385;44.853571
+24487_0210_01170;1170;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.339102;44.860167
+24487_0170_00088;88;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.302308;44.869585
+24487_0030_00023;23;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.335608;44.842314
+24487_0480_00006;6;;Chemin du Rastelet;24130;24487;Saint-Pierre-d'Eyraud;;;0.340454;44.854429
+24487_0435_00007;7;;Rue du Parc;24130;24487;Saint-Pierre-d'Eyraud;;;0.315914;44.849471
+24487_0230_00700;700;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.306574;44.879526
+24487_0355_00003;3;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.326072;44.862427
+24487_0094_00006;6;;Impasse des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.342244;44.85889
+24487_0190_00605;605;;Route des Eymaries;24130;24487;Saint-Pierre-d'Eyraud;;;0.321874;44.892345
+24487_p4e34i_00015;15;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.338636;44.855122
+24487_0015_00004;4;;Chemin de la Balastière;24130;24487;Saint-Pierre-d'Eyraud;;;0.327162;44.842259
+24487_0030_00057;57;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.340197;44.844061
+24487_0065_00021;21;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.347001;44.860803
+24487_0210_00975;975;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.341805;44.859717
+24487_0340_00018;18;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.31043;44.856818
+24487_0340_00020;20;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.31048;44.857114
+24487_0600_00185;185;;Route du Vignaud Vieux;24130;24487;Saint-Pierre-d'Eyraud;;;0.331854;44.874797
+24487_0290_00280;280;;Route de Larbogne;24130;24487;Saint-Pierre-d'Eyraud;;;0.313722;44.865452
+24487_0470_00014;14;;Rue du Port de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.308726;44.854108
+24487_0220_00027;27;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.309779;44.864248
+24487_0340_00029;29;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.311044;44.858626
+24487_0380_00011;11;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.323656;44.850979
+24487_0200_00911;911;;Route des Feroux;24130;24487;Saint-Pierre-d'Eyraud;;;0.318702;44.867113
+24487_0160_00022;22;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.322044;44.850948
+24487_0230_01265;1265;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.302616;44.876758
+24487_0160_00015;15;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.320922;44.849577
+24487_0220_00008;8;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.31199;44.864013
+24487_0030_00048;48;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.338721;44.843227
+24487_0140_00034;34;;Route de Coutou;24130;24487;Saint-Pierre-d'Eyraud;;;0.307874;44.857297
+24487_0160_00032;32;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.323058;44.851913
+24487_0095_00021;21;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.340096;44.862383
+24487_0160_00018_a;18;a;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.321323;44.849856
+24487_0355_01915;1915;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.335906;44.875664
+24487_0310_00108;108;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340584;44.855962
+24487_0160_00004;4;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.320299;44.848932
+24487_0040_00019;19;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.318587;44.846329
+24487_0040_00040;40;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.31925;44.84487
+24487_0380_00905;905;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.331088;44.853997
+24487_0190_02415;2415;;Route des Eymaries;24130;24487;Saint-Pierre-d'Eyraud;;;0.314425;44.90596
+24487_0275_01200;1200;;Route de la Joubine;24130;24487;Saint-Pierre-d'Eyraud;;;0.309461;44.895222
+24487_0200_00002;2;;Route des Feroux;24130;24487;Saint-Pierre-d'Eyraud;;;0.325041;44.862092
+24487_0335_00015_a;15;a;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.317671;44.848899
+24487_0005_00034;34;;Route de l'Abeille;24130;24487;Saint-Pierre-d'Eyraud;;;0.30906;44.868016
+24487_0490_00124;124;;Route de la Raufie;24130;24487;Saint-Pierre-d'Eyraud;;;0.299969;44.875294
+24487_0330_00001;1;;Route du Marais;24130;24487;Saint-Pierre-d'Eyraud;;;0.31128;44.858414
+24487_0040_00044;44;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.319656;44.845466
+24487_0095_00023;23;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.339962;44.862506
+24487_0340_00025;25;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.31083;44.858171
+24487_0355_00015;15;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.327227;44.864265
+24487_0030_00025;25;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.335796;44.842343
+24487_0030_00013;13;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.334475;44.842002
+24487_0310_00111;111;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340407;44.856111
+24487_0355_01185;1185;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.330255;44.870737
+24487_0575_00005;5;;Chemin des Tisserands;24130;24487;Saint-Pierre-d'Eyraud;;;0.338315;44.863061
+24487_0160_00009;9;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.320496;44.849194
+24487_0310_00051;51;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340128;44.850452
+24487_0540_00004;4;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.320012;44.848217
+24487_0335_00070;70;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.31362;44.853047
+24487_0210_03900;3900;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.3048;44.863776
+24487_0490_00126;126;;Route de la Raufie;24130;24487;Saint-Pierre-d'Eyraud;;;0.298925;44.875577
+24487_0190_03285;3285;;Route des Eymaries;24130;24487;Saint-Pierre-d'Eyraud;;;0.321722;44.911394
+24487_0160_00038;38;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.323557;44.852384
+24487_0600_00670;670;;Route du Vignaud Vieux;24130;24487;Saint-Pierre-d'Eyraud;;;0.326182;44.875187
+24487_0510_00034;34;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.317042;44.848065
+24487_0030_00001;1;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.332981;44.841789
+24487_0160_00014;14;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.321086;44.849626
+24487_0210_01135;1135;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.339753;44.859976
+24487_0360_00019;19;;Route des Meuniers;24130;24487;Saint-Pierre-d'Eyraud;;;0.343495;44.844179
+24487_0355_00600;600;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.328769;44.865906
+24487_0540_00020;20;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.321613;44.846978
+24487_0220_00006;6;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.312533;44.863902
+24487_0255_00003;3;;Chemin des Gravières;24130;24487;Saint-Pierre-d'Eyraud;;;0.31875;44.861601
+24487_0380_01055;1055;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.332981;44.854514
+24487_0600_01390;1390;;Route du Vignaud Vieux;24130;24487;Saint-Pierre-d'Eyraud;;;0.318255;44.875329
+24487_0310_00039;39;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340412;44.849227
+24487_0510_00067;67;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.313303;44.850803
+24487_0355_01205;1205;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.330556;44.871045
+24487_0340_00022;22;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.310649;44.857548
+24487_0210_04520;4520;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.297397;44.864429
+24487_0190_01605;1605;;Route des Eymaries;24130;24487;Saint-Pierre-d'Eyraud;;;0.317755;44.900116
+24487_0380_00019;19;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.324518;44.851664
+24487_0230_00450;450;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.309826;44.878001
+24487_0540_00094;94;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.328118;44.842233
+24487_0310_00019;19;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.341039;44.847699
+24487_0210_03960;3960;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.303519;44.863772
+24487_0595_00260;260;;Chemin du Vignaud;24130;24487;Saint-Pierre-d'Eyraud;;;0.296909;44.859611
+24487_0160_00026;26;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.322461;44.851365
+24487_0450_00001;1;;Chemin de Picherie;24130;24487;Saint-Pierre-d'Eyraud;;;0.334578;44.875666
+24487_0065_00066;66;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.351653;44.863078
+24487_0210_02300;2300;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.326721;44.861584
+24487_0510_00017;17;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.318578;44.847687
+24487_0040_00028;28;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.318486;44.845612
+24487_0010_00003;3;;Passage des Acacias;24130;24487;Saint-Pierre-d'Eyraud;;;0.323152;44.846962
+24487_0230_00125;125;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.31256;44.877077
+24487_0510_00073;73;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.312449;44.85122
+24487_0210_01085;1085;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.34047;44.859887
+24487_0285_00175;175;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.343063;44.878906
+24487_c47cn6_00018;18;;Rue des Gabarres;24130;24487;Saint-Pierre-d'Eyraud;;;0.32041;44.84575
+24487_hvvnat_00005;5;;Chemin des Châtaigniers;24130;24487;Saint-Pierre-d'Eyraud;;;0.325806;44.842664
+24487_0065_00026;26;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.34766;44.860986
+24487_0335_00017;17;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.318173;44.849598
+24487_0355_01525;1525;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.333045;44.873279
+24487_0510_00016;16;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.318662;44.847858
+24487_0340_00048;48;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.31181;44.860179
+24487_0090_00725;725;;Chemin des Casseyroux;24130;24487;Saint-Pierre-d'Eyraud;;;0.324991;44.899955
+24487_0085_00060;60;;Route de la Capelle;24130;24487;Saint-Pierre-d'Eyraud;;;0.323036;44.865977
+24487_0065_00041;41;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.349293;44.861979
+24487_0285_00605;605;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.340033;44.881391
+24487_0160_00012;12;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.320919;44.849476
+24487_0510_00020;20;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.318324;44.847662
+24487_0015_00023;23;;Chemin de la Balastière;24130;24487;Saint-Pierre-d'Eyraud;;;0.325837;44.841189
+24487_0470_00027;27;;Rue du Port de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.308095;44.85319
+24487_0110_00007;7;;Chemin de Chabrouty;24130;24487;Saint-Pierre-d'Eyraud;;;0.298759;44.863241
+24487_0210_01300;1300;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.33773;44.86032
+24487_hvvnat_00009;9;;Chemin des Châtaigniers;24130;24487;Saint-Pierre-d'Eyraud;;;0.325476;44.842162
+24487_0160_00018;18;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.321457;44.849993
+24487_0540_00104;104;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.3292;44.841982
+24487_0210_01040;1040;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.340991;44.859956
+24487_0030_00047;47;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.338639;44.843365
+24487_0435_00012;12;;Rue du Parc;24130;24487;Saint-Pierre-d'Eyraud;;;0.316105;44.849676
+24487_0140_00135;135;;Route de Coutou;24130;24487;Saint-Pierre-d'Eyraud;;;0.29595;44.863727
+24487_0540_00034;34;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.322591;44.846181
+24487_0510_00002;2;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.319622;44.848452
+24487_0005_00017;17;;Route de l'Abeille;24130;24487;Saint-Pierre-d'Eyraud;;;0.308621;44.866327
+24487_0015_00002;2;;Chemin de la Balastière;24130;24487;Saint-Pierre-d'Eyraud;;;0.327305;44.842494
+24487_0390_00003;3;;Chemin de Moulas;24130;24487;Saint-Pierre-d'Eyraud;;;0.338067;44.854426
+24487_0355_00695;695;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.32986;44.866716
+24487_0340_00014;14;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.310408;44.856357
+24487_0285_01610;1610;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.328484;44.883539
+24487_0510_00044;44;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.316109;44.848827
+24487_0340_00036;36;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.311314;44.858954
+24487_0110_00004;4;;Chemin de Chabrouty;24130;24487;Saint-Pierre-d'Eyraud;;;0.298792;44.862846
+24487_0390_00002;2;;Chemin de Moulas;24130;24487;Saint-Pierre-d'Eyraud;;;0.337128;44.854679
+24487_0030_00004;4;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.333485;44.841758
+24487_0210_00090;90;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.35239;44.858505
+24487_0600_01140;1140;;Route du Vignaud Vieux;24130;24487;Saint-Pierre-d'Eyraud;;;0.320416;44.874945
+24487_0440_00081;81;;Chemin du Parneuf;24130;24487;Saint-Pierre-d'Eyraud;;;0.348631;44.851204
+24487_0040_00032;32;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.318736;44.845407
+24487_0060_00009;9;;Rue du Bost;24130;24487;Saint-Pierre-d'Eyraud;;;0.31378;44.851623
+24487_0510_00037;37;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.316675;44.848153
+24487_0540_00102_b;102;b;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.328388;44.841062
+24487_0085_01000;1000;;Route de la Capelle;24130;24487;Saint-Pierre-d'Eyraud;;;0.322573;44.873135
+24487_0210_00505;505;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.347253;44.859091
+24487_0355_01405;1405;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.332071;44.872152
+24487_0095_00105;105;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.34094;44.866678
+24487_0540_00005;5;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.32027;44.848175
+24487_0210_00350;350;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.349292;44.85899
+24487_0160_00008;8;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.32062;44.849206
+24487_0380_00855;855;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.330209;44.853813
+24487_0355_00605;605;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.328846;44.866097
+24487_0395_00048;48;;Chemin du Moulin;24130;24487;Saint-Pierre-d'Eyraud;;;0.345616;44.844768
+24487_0240_00014_a;14;a;Chemin des Gaillardoux;24130;24487;Saint-Pierre-d'Eyraud;;;0.315788;44.865868
+24487_0540_00070;70;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.32579;44.843698
+24487_0010_00006;6;;Passage des Acacias;24130;24487;Saint-Pierre-d'Eyraud;;;0.323584;44.846988
+24487_0540_00106;106;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.329376;44.841216
+24487_0540_00048;48;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.323904;44.845135
+24487_0200_00001;1;;Route des Feroux;24130;24487;Saint-Pierre-d'Eyraud;;;0.32496;44.862133
+24487_0230_00455;455;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.309157;44.878022
+24487_0360_00018;18;;Route des Meuniers;24130;24487;Saint-Pierre-d'Eyraud;;;0.343407;44.844134
+24487_0220_00017;17;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.311006;44.86411
+24487_0520_00032;32;;Route du Rimbet;24130;24487;Saint-Pierre-d'Eyraud;;;0.307131;44.853791
+24487_0470_00022;22;;Rue du Port de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.308109;44.853408
+24487_0210_03890;3890;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.305303;44.86361
+24487_0575_00002;2;;Chemin des Tisserands;24130;24487;Saint-Pierre-d'Eyraud;;;0.33911;44.86359
+24487_0285_00760;760;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.338737;44.882211
+24487_0030_00022;22;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.335641;44.842137
+24487_0510_00026;26;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.317413;44.847881
+24487_0520_00016;16;;Route du Rimbet;24130;24487;Saint-Pierre-d'Eyraud;;;0.308898;44.852355
+24487_0190_00350;350;;Route des Eymaries;24130;24487;Saint-Pierre-d'Eyraud;;;0.320449;44.890501
+24487_0250_00013;13;;Chemin des Graves;24130;24487;Saint-Pierre-d'Eyraud;;;0.326902;44.862631
+24487_0595_00241;241;;Chemin du Vignaud;24130;24487;Saint-Pierre-d'Eyraud;;;0.297493;44.85938
+24487_0340_00034;34;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.311386;44.859166
+24487_0510_00036;36;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.316943;44.848123
+24487_0040_00017;17;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.318268;44.846609
+24487_0095_00018;18;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.34097;44.861701
+24487_0540_00102;102;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.328955;44.841117
+24487_0340_00070;70;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.312616;44.862071
+24487_0230_00085;85;;Route de Fuma;24130;24487;Saint-Pierre-d'Eyraud;;;0.313256;44.877011
+24487_0510_00060;60;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.314276;44.850369
+24487_0040_00036;36;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.318953;44.845096
+24487_0520_00033_a;33;a;Route du Rimbet;24130;24487;Saint-Pierre-d'Eyraud;;;0.307106;44.853701
+24487_0040_00006;6;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.31814;44.847188
+24487_0210_02400;2400;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.323679;44.861933
+24487_0285_00685;685;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.33938;44.881724
+24487_0310_00064;64;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340243;44.851523
+24487_0480_00012;12;;Chemin du Rastelet;24130;24487;Saint-Pierre-d'Eyraud;;;0.341589;44.85472
+24487_0310_00016;16;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.341421;44.847337
+24487_0540_00050;50;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.323594;44.844665
+24487_0310_00020;20;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.34125;44.847707
+24487_0480_01300;1300;;Chemin du Rastelet;24130;24487;Saint-Pierre-d'Eyraud;;;0.349734;44.858347
+24487_0340_00046;46;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.311738;44.86003
+24487_p4e34i_00027;27;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.337889;44.855395
+24487_0520_00034;34;;Route du Rimbet;24130;24487;Saint-Pierre-d'Eyraud;;;0.306225;44.854089
+24487_0310_00073;73;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.339962;44.852693
+24487_0540_00089;89;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.327571;44.842637
+24487_0540_00003;3;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.320096;44.848288
+24487_0335_00046;46;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.315745;44.851443
+24487_0240_00011;11;;Chemin des Gaillardoux;24130;24487;Saint-Pierre-d'Eyraud;;;0.315802;44.866034
+24487_0510_00053;53;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.314977;44.849752
+24487_p4e34i_00020;20;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.338482;44.855505
+24487_0435_00005;5;;Rue du Parc;24130;24487;Saint-Pierre-d'Eyraud;;;0.316227;44.849644
+24487_0335_00051;51;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.315006;44.851893
+24487_0285_00920;920;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.336741;44.882872
+24487_0440_00051;51;;Chemin du Parneuf;24130;24487;Saint-Pierre-d'Eyraud;;;0.347238;44.849291
+24487_0390_00001;1;;Chemin de Moulas;24130;24487;Saint-Pierre-d'Eyraud;;;0.337636;44.854604
+24487_0520_00041;41;;Route du Rimbet;24130;24487;Saint-Pierre-d'Eyraud;;;0.305535;44.854323
+24487_0405_00241;241;;Chemin de la Mouthe;24130;24487;Saint-Pierre-d'Eyraud;;;0.292584;44.862532
+24487_0380_01360;1360;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.336744;44.854719
+24487_0160_00017;17;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.321411;44.850107
+24487_0065_00033;33;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.348396;44.861505
+24487_0540_00127_a;127;a;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.332019;44.842838
+24487_0040_00031;31;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.318834;44.845571
+24487_0340_00068;68;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.312482;44.861818
+24487_0605_00011;11;;Impasse de Villatte;24130;24487;Saint-Pierre-d'Eyraud;;;0.329635;44.865286
+24487_0340_00024;24;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.31074;44.857798
+24487_0540_00056;56;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.324435;44.844328
+24487_c47cn6_00009;9;;Rue des Gabarres;24130;24487;Saint-Pierre-d'Eyraud;;;0.321103;44.846157
+24487_0285_00945;945;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.336309;44.882821
+24487_0380_00003;3;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.322477;44.850544
+24487_hvvnat_00003;3;;Chemin des Châtaigniers;24130;24487;Saint-Pierre-d'Eyraud;;;0.325978;44.842914
+24487_0340_00027;27;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.310937;44.858376
+24487_0540_00127_b;127;b;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.331866;44.842735
+24487_0210_03215;3215;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.31379;44.862883
+24487_p4e34i_00006;6;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.339448;44.855045
+24487_p4e34i_00019;19;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.338414;44.855196
+24487_0094_00010;10;;Impasse des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.342054;44.85942
+24487_0335_00071;71;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.313004;44.853334
+24487_0040_00043;43;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.319692;44.845654
+24487_0510_00035;35;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.316876;44.848049
+24487_0540_00124;124;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.331693;44.841701
+24487_0190_02405;2405;;Route des Eymaries;24130;24487;Saint-Pierre-d'Eyraud;;;0.314339;44.905879
+24487_0310_00011;11;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.341396;44.846972
+24487_0395_00036;36;;Chemin du Moulin;24130;24487;Saint-Pierre-d'Eyraud;;;0.345418;44.845754
+24487_0285_00710;710;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.339257;44.881941
+24487_0170_00099;99;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.301625;44.872843
+24487_0355_00005;5;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.326322;44.862588
+24487_0510_00032;32;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.317134;44.848026
+24487_0285_00125;125;;Route du Landet;24130;24487;Saint-Pierre-d'Eyraud;;;0.342914;44.878615
+24487_0210_01880;1880;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.330662;44.861157
+24487_p4e34i_00008;8;;Chemin de Monsac;24130;24487;Saint-Pierre-d'Eyraud;;;0.339384;44.855081
+24487_0040_00038;38;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.319055;44.844991
+24487_0220_00010;10;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.311475;44.864097
+24487_0210_00400;400;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.348679;44.859067
+24487_0030_00049;49;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.338994;44.843492
+24487_0575_00006;6;;Chemin des Tisserands;24130;24487;Saint-Pierre-d'Eyraud;;;0.338187;44.863071
+24487_0490_00097;97;;Route de la Raufie;24130;24487;Saint-Pierre-d'Eyraud;;;0.302735;44.873432
+24487_0005_00036;36;;Route de l'Abeille;24130;24487;Saint-Pierre-d'Eyraud;;;0.30933;44.868259
+24487_0540_00005_c;5;c;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.320422;44.848052
+24487_0355_00815;815;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.330056;44.867646
+24487_0030_00023_b;23;b;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.335531;44.842289
+24487_0140_00037;37;;Route de Coutou;24130;24487;Saint-Pierre-d'Eyraud;;;0.306873;44.85771
+24487_0065_00007;7;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.345595;44.860138
+24487_0010_00005;5;;Passage des Acacias;24130;24487;Saint-Pierre-d'Eyraud;;;0.323327;44.847167
+24487_0380_01255;1255;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.335275;44.854781
+24487_0220_00011;11;;Rue des Forgerons;24130;24487;Saint-Pierre-d'Eyraud;;;0.311553;44.86403
+24487_0065_00003_b;3;b;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.344767;44.860149
+24487_0355_02445;2445;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.341877;44.877279
+24487_0330_00003;3;;Route du Marais;24130;24487;Saint-Pierre-d'Eyraud;;;0.311757;44.858359
+24487_0065_00039;39;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.349056;44.861858
+24487_0490_00099;99;;Route de la Raufie;24130;24487;Saint-Pierre-d'Eyraud;;;0.302253;44.87392
+24487_0160_00030;30;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.322815;44.851707
+24487_0170_00091;91;;Route du Dry;24130;24487;Saint-Pierre-d'Eyraud;;;0.301914;44.871368
+24487_0210_02040;2040;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.32872;44.861377
+24487_0015_00006;6;;Chemin de la Balastière;24130;24487;Saint-Pierre-d'Eyraud;;;0.327003;44.84202
+24487_0540_00129_c;129;c;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.332156;44.842587
+24487_0030_00035;35;;Route des Barreaux;24130;24487;Saint-Pierre-d'Eyraud;;;0.337188;44.842861
+24487_0005_00002;2;;Route de l'Abeille;24130;24487;Saint-Pierre-d'Eyraud;;;0.308163;44.86337
+24487_0190_04005;4005;;Route des Eymaries;24130;24487;Saint-Pierre-d'Eyraud;;;0.323908;44.912555
+24487_0250_00017;17;;Chemin des Graves;24130;24487;Saint-Pierre-d'Eyraud;;;0.327782;44.862445
+24487_0095_00008;8;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.341508;44.860686
+24487_0140_00134;134;;Route de Coutou;24130;24487;Saint-Pierre-d'Eyraud;;;0.296309;44.863715
+24487_0520_00037;37;;Route du Rimbet;24130;24487;Saint-Pierre-d'Eyraud;;;0.305983;44.854001
+24487_0190_03000;3000;;Route des Eymaries;24130;24487;Saint-Pierre-d'Eyraud;;;0.319324;44.909847
+24487_0335_00014;14;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.318613;44.849391
+24487_0320_00090_a;90;a;Chemin de Malacart;24130;24487;Saint-Pierre-d'Eyraud;;;0.340455;44.845845
+24487_0355_02395;2395;;Route du Métadier;24130;24487;Saint-Pierre-d'Eyraud;;;0.341301;44.877096
+24487_0210_03980;3980;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.303034;44.863808
+24487_0405_00230;230;;Chemin de la Mouthe;24130;24487;Saint-Pierre-d'Eyraud;;;0.293127;44.863204
+24487_0540_00031;31;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.322495;44.846441
+24487_0510_00083;83;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.31188;44.851727
+24487_0380_00885;885;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.330741;44.853921
+24487_0095_00135;135;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.342732;44.871082
+24487_0310_00076;76;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340183;44.852938
+24487_0060_00005;5;;Rue du Bost;24130;24487;Saint-Pierre-d'Eyraud;;;0.314212;44.851851
+24487_0575_00010;10;;Chemin des Tisserands;24130;24487;Saint-Pierre-d'Eyraud;;;0.339198;44.864076
+24487_0310_00017;17;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.341167;44.847476
+24487_0190_03075;3075;;Route des Eymaries;24130;24487;Saint-Pierre-d'Eyraud;;;0.319693;44.910334
+24487_0540_00102_c;102;c;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.32856;44.841108
+24487_0095_00159;159;;Route des Catherines;24130;24487;Saint-Pierre-d'Eyraud;;;0.342493;44.87316
+24487_0065_00070;70;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.35219;44.863259
+24487_0190_02965;2965;;Route des Eymaries;24130;24487;Saint-Pierre-d'Eyraud;;;0.318835;44.909479
+24487_0310_00034;34;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.340615;44.849152
+24487_0190_01345;1345;;Route des Eymaries;24130;24487;Saint-Pierre-d'Eyraud;;;0.318957;44.898029
+24487_0210_02030;2030;;Route du Fleix;24130;24487;Saint-Pierre-d'Eyraud;;;0.328836;44.861352
+24487_0540_00115;115;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.330791;44.841876
+24487_0510_00067_a;67;a;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.313056;44.850911
+24487_0160_00137;137;;Rue des Déportés;24130;24487;Saint-Pierre-d'Eyraud;;;0.325091;44.859846
+24487_c47cn6_00005;5;;Rue des Gabarres;24130;24487;Saint-Pierre-d'Eyraud;;;0.321407;44.846423
+24487_0040_00023;23;;Chemin des Bateliers;24130;24487;Saint-Pierre-d'Eyraud;;;0.31827;44.846111
+24487_0490_00091;91;;Route de la Raufie;24130;24487;Saint-Pierre-d'Eyraud;;;0.30367;44.872607
+24487_0335_00042;42;;Route de la Marchande;24130;24487;Saint-Pierre-d'Eyraud;;;0.315927;44.851278
+24487_0510_00063;63;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.313637;44.850625
+24487_0540_00126;126;;Route du Sablier;24130;24487;Saint-Pierre-d'Eyraud;;;0.332069;44.841683
+24487_0510_00064;64;;Rue de la Résistance;24130;24487;Saint-Pierre-d'Eyraud;;;0.313748;44.850688
+24487_0310_00149;149;;route de Maduran;24130;24487;Saint-Pierre-d'Eyraud;;;0.343271;44.858963
+24487_0065_00029;29;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.347848;44.861217
+24487_0065_00064;64;;Route du Bourg d'Abren;24130;24487;Saint-Pierre-d'Eyraud;;;0.351413;44.862975
+24487_0075_00006;6;;Chemin des Cabanes;24130;24487;Saint-Pierre-d'Eyraud;;;0.339338;44.848716
+24487_0250_00020;20;;Chemin des Graves;24130;24487;Saint-Pierre-d'Eyraud;;;0.328164;44.862268
+24487_0340_00050;50;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.311846;44.860302
+24487_0340_00069;69;;Route des Masseries;24130;24487;Saint-Pierre-d'Eyraud;;;0.312772;44.86263
+24487_0380_00007;7;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.323159;44.850805
+24487_0440_00068_a;68;a;Chemin du Parneuf;24130;24487;Saint-Pierre-d'Eyraud;;;0.347259;44.847776
+24487_0190_00905;905;;Route des Eymaries;24130;24487;Saint-Pierre-d'Eyraud;;;0.322469;44.893403
+24487_0250_00002;2;;Chemin des Graves;24130;24487;Saint-Pierre-d'Eyraud;;;0.32534;44.863318
+24487_0380_01710;1710;;Rue de Monsempey;24130;24487;Saint-Pierre-d'Eyraud;;;0.340504;44.856772

@@ -1,0 +1,511 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+70414_0140_00003;3;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.740771;47.759051
+70414_0140_00005;5;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.74091;47.759161
+70414_0140_00010;10;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.741285;47.759419
+70414_0140_00013;13;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.741351;47.759832
+70414_0140_00020;20;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.742138;47.760057
+70414_0140_00022;22;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.742383;47.760206
+70414_0140_00023;23;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.742519;47.760745
+70414_0140_00025;25;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.742346;47.760968
+70414_0060_00003;3;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.738318;47.757938
+70414_0060_00005;5;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.737923;47.757506
+70414_0060_00011;11;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.737818;47.758067
+70414_0060_00016;16;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.735871;47.758672
+70414_0140_00001;1;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.740601;47.758916
+70414_0140_00004;4;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.740441;47.758743
+70414_0140_00014;14;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.741462;47.759513
+70414_0140_00015;15;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.741899;47.759944
+70414_0140_00024;24;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.742456;47.760283
+70414_0140_00036;36;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.742599;47.76117
+70414_0140_00044;44;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.742529;47.761543
+70414_0140_00006_bis;6;bis;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.741104;47.759036
+70414_0060_00004;4;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.738635;47.757914
+70414_0060_00009;9;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.73807;47.757981
+70414_0060_00013;13;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.737029;47.757515
+70414_5t22ps_00001;1;;le Kramillot;70290;70414;Plancher-les-Mines;;;6.755981;47.774292
+70414_0140_00002;2;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.740116;47.758478
+70414_0140_00006;6;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.740589;47.75885
+70414_0140_00007;7;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.741114;47.759328
+70414_0140_00008;8;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.74109;47.759258
+70414_0140_00009;9;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.741431;47.759573
+70414_0140_00011;11;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.741587;47.759712
+70414_0140_00016;16;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.741609;47.759659
+70414_0140_00019;19;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.742194;47.760127
+70414_0140_00021;21;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.742393;47.760513
+70414_0140_00026;26;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.742523;47.760356
+70414_0140_00040;40;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.742607;47.761282
+70414_0140_00042;42;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.742946;47.76141
+70414_0140_00017_bis;17;bis;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.742076;47.760059
+70414_0060_00007;7;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.737981;47.757626
+70414_0060_00008;8;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.738371;47.758299
+70414_0060_00010;10;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.737974;47.758081
+70414_0060_00014;14;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.737155;47.758495
+70414_0060_00017;17;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.737451;47.757815
+70414_0060_00019;19;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.737604;47.758153
+70414_0140_00012;12;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.741391;47.759501
+70414_0140_00017;17;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.741962;47.759965
+70414_0140_00030;30;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.742897;47.760344
+70414_0140_00032;32;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.743064;47.760428
+70414_0140_00034;34;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.742591;47.760799
+70414_0140_00038;38;;Rue Neuve;70290;70414;Plancher-les-Mines;;;6.742606;47.761242
+70414_0060_00001;1;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.738489;47.757909
+70414_0060_00002;2;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.738791;47.757858
+70414_0060_00006;6;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.738386;47.758031
+70414_0060_00015;15;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.736763;47.757703
+70414_0060_00018;18;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.735758;47.759057
+70414_0060_00023;23;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.736851;47.758522
+70414_0060_00027;27;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.734472;47.758457
+70414_0060_00013_bis;13;bis;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.736742;47.757147
+70414_0155_00001;1;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.743776;47.760132
+70414_0155_00002;2;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.743764;47.760107
+70414_0155_00008;8;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.746073;47.76085
+70414_0155_00011;11;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.74606;47.761324
+70414_0155_00005_bis;5;bis;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.745436;47.760916
+70414_0155_00016_bis;16;bis;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.746872;47.761305
+70414_0070_00013;13;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.740941;47.759848
+70414_0070_00017;17;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.741214;47.760388
+70414_0070_00021;21;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.741258;47.760591
+70414_0070_00022;22;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.741459;47.760658
+70414_0070_00013_bis;13;bis;Grande Rue;70290;70414;Plancher-les-Mines;;;6.740657;47.759973
+70414_0060_00023_t;23;t;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.735368;47.758675
+70414_0155_00005;5;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.745222;47.760733
+70414_0155_00009;9;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.746102;47.761031
+70414_0155_00010;10;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.74629;47.760915
+70414_0155_00014;14;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.746862;47.761154
+70414_0155_00024;24;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.74653;47.76145
+70414_0155_00026;26;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.746358;47.761499
+70414_0155_00028;28;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.746074;47.761615
+70414_0155_00030;30;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.745907;47.7619
+70414_0155_00004_bis;4;bis;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.745182;47.76025
+70414_0155_00012_bis;12;bis;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.746935;47.760689
+70414_0070_00008;8;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.740199;47.75912
+70414_0070_00011;11;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.740711;47.759658
+70414_0070_00020;20;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.741281;47.760302
+70414_0070_00022_a;22;a;Grande Rue;70290;70414;Plancher-les-Mines;;;6.741726;47.760741
+70414_0060_00021;21;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.737441;47.758368
+70414_0060_00025;25;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.734405;47.758436
+70414_0060_00011_bis;11;bis;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.737444;47.757761
+70414_0155_00004;4;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.744862;47.760395
+70414_0155_00006;6;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.745218;47.760566
+70414_0155_00007;7;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.745861;47.760947
+70414_0155_00016;16;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.747095;47.761245
+70414_0070_00001;1;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.739843;47.75887
+70414_0070_00002;2;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.739832;47.75869
+70414_0070_00003;3;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.73996;47.758994
+70414_0070_00004;4;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.739917;47.758833
+70414_0070_00005;5;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.739985;47.759369
+70414_0070_00006;6;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.74006;47.758949
+70414_0070_00007;7;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.740483;47.75947
+70414_0070_00009;9;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.740551;47.759525
+70414_0060_00020;20;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.735337;47.758923
+70414_0060_00022;22;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.73483;47.758643
+70414_0060_00029;29;;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.734521;47.758473
+70414_0060_00023_b;23;b;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.735368;47.758675
+70414_0060_00023_c;23;c;Rue de Fresse;70290;70414;Plancher-les-Mines;;;6.735368;47.758675
+70414_0155_00003;3;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.744264;47.760219
+70414_0155_00012;12;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.746505;47.760996
+70414_0155_00018;18;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.747006;47.761493
+70414_0155_00020;20;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.747168;47.761688
+70414_0155_00022;22;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.746817;47.761642
+70414_0155_00032;32;;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.745601;47.761987
+70414_0155_00006_bis;6;bis;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.746341;47.760384
+70414_0155_00011_bis;11;bis;Rue du Quartier Piron;70290;70414;Plancher-les-Mines;;;6.746421;47.761235
+70414_0070_00010;10;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.740348;47.759262
+70414_0070_00012;12;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.740573;47.759459
+70414_0070_00014;14;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.740885;47.759714
+70414_0070_00015;15;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.741079;47.760084
+70414_0070_00016;16;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.741124;47.759774
+70414_0070_00018;18;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.741204;47.760073
+70414_0070_00019;19;;Grande Rue;70290;70414;Plancher-les-Mines;;;6.741251;47.760464
+70414_0068_00001;1;;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.743773;47.763345
+70414_0068_00003;3;;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.744209;47.76317
+70414_0068_00006;6;;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.743837;47.763095
+70414_0068_00012;12;;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.745122;47.762429
+70414_0068_00013;13;;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.74455;47.76307
+70414_0068_00021;21;;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.745019;47.762784
+70414_0068_00023;23;;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.745239;47.762586
+70414_0068_00025;25;;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.745171;47.762438
+70414_0200_00001;1;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742196;47.761698
+70414_0200_00003;3;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742246;47.76176
+70414_0200_00004;4;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742194;47.762785
+70414_0200_00010;10;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742076;47.763542
+70414_0200_00015;15;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742128;47.762781
+70414_0200_00016;16;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741861;47.764046
+70414_0200_00020;20;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741711;47.764433
+70414_0200_00023;23;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741871;47.763862
+70414_0200_00024;24;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741534;47.765225
+70414_0200_00031;31;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741101;47.7646
+70414_0200_00041;41;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.740645;47.766223
+70414_0200_00042;42;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741858;47.76666
+70414_0200_00043;43;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741421;47.766237
+70414_0068_00005;5;;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.744403;47.763149
+70414_0068_00009;9;;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.744885;47.763165
+70414_0068_00015;15;;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.744652;47.762969
+70414_0068_00017;17;;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.744755;47.762929
+70414_0068_00019;19;;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.74497;47.762835
+70414_0068_00025_bis;25;bis;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.745209;47.762389
+70414_0200_00007;7;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742259;47.762111
+70414_0200_00008;8;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742202;47.763078
+70414_0200_00012;12;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742045;47.763726
+70414_0200_00014;14;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741966;47.763917
+70414_0200_00018;18;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.74176;47.764413
+70414_0200_00034;34;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741434;47.765951
+70414_0200_00040;40;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.74171;47.766512
+70414_0068_00008;8;;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.74411;47.763157
+70414_0068_00011;11;;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.744658;47.763152
+70414_0068_00027;27;;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.745197;47.762281
+70414_0200_00002;2;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742272;47.762353
+70414_0200_00005;5;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742343;47.761942
+70414_0200_00006;6;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742219;47.762954
+70414_0200_00019;19;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742082;47.763235
+70414_0200_00029;29;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741239;47.76453
+70414_0200_00039;39;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741353;47.766007
+70414_0200_00044;44;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742071;47.766829
+70414_0200_00045;45;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741521;47.766439
+70414_0068_00007;7;;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.744881;47.763215
+70414_0068_00010;10;;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.744857;47.762859
+70414_0068_00019_bis;19;bis;Rue de la Goutte;70290;70414;Plancher-les-Mines;;;6.744911;47.762865
+70414_0200_00009;9;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.74206;47.762257
+70414_0200_00011;11;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742136;47.762576
+70414_0200_00021;21;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741998;47.763616
+70414_0200_00022;22;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741628;47.76495
+70414_0200_00025;25;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741661;47.764276
+70414_0200_00027;27;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741595;47.764584
+70414_0200_00028;28;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741365;47.765639
+70414_0200_00030;30;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741745;47.765741
+70414_0200_00032;32;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741437;47.765702
+70414_0200_00033;33;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.740896;47.764802
+70414_0200_00035;35;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741283;47.76562
+70414_0200_00036;36;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741541;47.766325
+70414_0200_00037;37;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741299;47.76582
+70414_0200_00038;38;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741632;47.76644
+70414_0200_00046;46;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742441;47.767129
+70414_0200_00047;47;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741632;47.766535
+70414_0200_00050;50;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742928;47.76806
+70414_0200_00002_a;2;a;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742746;47.76206
+70414_0200_00051;51;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742115;47.76885
+70414_0200_00059;59;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742134;47.768812
+70414_0200_00063;63;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742134;47.768812
+70414_0200_00010_bis;10;bis;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742069;47.763632
+70414_0200_00049_bis;49;bis;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741604;47.767174
+70414_0025_00005;5;;Chemin du Gros Chene;70290;70414;Plancher-les-Mines;;;6.746613;47.773209
+70414_0025_00007;7;;Chemin du Gros Chene;70290;70414;Plancher-les-Mines;;;6.74709;47.773599
+70414_0025_00009;9;;Chemin du Gros Chene;70290;70414;Plancher-les-Mines;;;6.747369;47.773216
+70414_0025_00013;13;;Chemin du Gros Chene;70290;70414;Plancher-les-Mines;;;6.748279;47.7737
+70414_0025_00011_t;11;t;Chemin du Gros Chene;70290;70414;Plancher-les-Mines;;;6.74733;47.772771
+70414_0160_00005;5;;Rue du Pont-du-var;70290;70414;Plancher-les-Mines;;;6.740818;47.758074
+70414_0160_00005_d;5;d;Rue du Pont-du-var;70290;70414;Plancher-les-Mines;;;6.740019;47.756389
+70414_0050_00008;8;;Rue des Fougères;70290;70414;Plancher-les-Mines;;;6.738536;47.759649
+70414_0010_00002;2;;Rue d'Alsace;70290;70414;Plancher-les-Mines;;;6.743503;47.763253
+70414_0010_00003;3;;Rue d'Alsace;70290;70414;Plancher-les-Mines;;;6.743947;47.762815
+70414_0010_00004;4;;Rue d'Alsace;70290;70414;Plancher-les-Mines;;;6.744307;47.762553
+70414_0110_00004;4;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.74359;47.763577
+70414_0110_00005;5;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.742538;47.766116
+70414_0110_00008;8;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.743534;47.763891
+70414_0025_00001;1;;Chemin du Gros Chene;70290;70414;Plancher-les-Mines;;;6.744943;47.772345
+70414_0025_00002;2;;Chemin du Gros Chene;70290;70414;Plancher-les-Mines;;;6.747136;47.772662
+70414_0025_00004;4;;Chemin du Gros Chene;70290;70414;Plancher-les-Mines;;;6.747691;47.772776
+70414_0025_00015;15;;Chemin du Gros Chene;70290;70414;Plancher-les-Mines;;;6.751142;47.773931
+70414_0160_00004;4;;Rue du Pont-du-var;70290;70414;Plancher-les-Mines;;;6.740175;47.758366
+70414_0160_00006;6;;Rue du Pont-du-var;70290;70414;Plancher-les-Mines;;;6.740242;47.758324
+70414_0050_00001;1;;Rue des Fougères;70290;70414;Plancher-les-Mines;;;6.738818;47.75944
+70414_0050_00006;6;;Rue des Fougères;70290;70414;Plancher-les-Mines;;;6.739195;47.759528
+70414_0010_00006;6;;Rue d'Alsace;70290;70414;Plancher-les-Mines;;;6.744307;47.762553
+70414_0110_00002;2;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.743584;47.76347
+70414_0110_00011;11;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.74304;47.76934
+70414_0110_00014;14;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.74311;47.764696
+70414_0200_00048;48;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742831;47.767935
+70414_0200_00049;49;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741654;47.766741
+70414_0200_00055;55;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742179;47.767002
+70414_0200_00061;61;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742115;47.76885
+70414_0200_00034_bis;34;bis;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741593;47.766062
+70414_0025_00006;6;;Chemin du Gros Chene;70290;70414;Plancher-les-Mines;;;6.74709;47.773599
+70414_0025_00011_b;11;b;Chemin du Gros Chene;70290;70414;Plancher-les-Mines;;;6.747541;47.773288
+70414_0025_00011_c;11;c;Chemin du Gros Chene;70290;70414;Plancher-les-Mines;;;6.747578;47.773079
+70414_0160_00003;3;;Rue du Pont-du-var;70290;70414;Plancher-les-Mines;;;6.740658;47.758177
+70414_0050_00002;2;;Rue des Fougères;70290;70414;Plancher-les-Mines;;;6.739895;47.759515
+70414_0010_00005;5;;Rue d'Alsace;70290;70414;Plancher-les-Mines;;;6.744631;47.762579
+70414_0010_00002_bis;2;bis;Rue d'Alsace;70290;70414;Plancher-les-Mines;;;6.743651;47.763036
+70414_0110_00001;1;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.743025;47.764771
+70414_0110_00003;3;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.742749;47.765115
+70414_0110_00010;10;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.743602;47.763938
+70414_0110_00013;13;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.743452;47.769572
+70414_0110_00015;15;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.743821;47.769622
+70414_0200_00053;53;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.741754;47.766748
+70414_0200_00057;57;;Rue des Vosges;70290;70414;Plancher-les-Mines;;;6.742401;47.767198
+70414_0025_00003;3;;Chemin du Gros Chene;70290;70414;Plancher-les-Mines;;;6.745474;47.772747
+70414_0025_00011;11;;Chemin du Gros Chene;70290;70414;Plancher-les-Mines;;;6.747611;47.773038
+70414_0160_00001;1;;Rue du Pont-du-var;70290;70414;Plancher-les-Mines;;;6.740377;47.758482
+70414_0160_00002;2;;Rue du Pont-du-var;70290;70414;Plancher-les-Mines;;;6.740051;47.758446
+70414_0160_00007;7;;Rue du Pont-du-var;70290;70414;Plancher-les-Mines;;;6.741779;47.758165
+70414_0160_00008;8;;Rue du Pont-du-var;70290;70414;Plancher-les-Mines;;;6.741491;47.757827
+70414_0160_00005_c;5;c;Rue du Pont-du-var;70290;70414;Plancher-les-Mines;;;6.741448;47.758259
+70414_0050_00004;4;;Rue des Fougères;70290;70414;Plancher-les-Mines;;;6.739528;47.75955
+70414_0110_00006;6;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.743578;47.763748
+70414_0110_00007;7;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.742628;47.766481
+70414_0110_00009;9;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.743761;47.769202
+70414_0110_00012;12;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.743311;47.764397
+70414_0110_00018;18;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.742737;47.765156
+70414_0110_00008_bis;8;bis;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.7436;47.763943
+70414_0110_00010_a;10;a;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.743559;47.764269
+70414_0130_00006;6;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.742423;47.758195
+70414_0130_00018;18;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.743982;47.76057
+70414_0130_00019;19;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.744644;47.761182
+70414_0130_00020;20;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.74433;47.760853
+70414_0130_00024;24;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.744935;47.761423
+70414_0130_00030;30;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.745473;47.761811
+70414_0130_00032;32;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.745078;47.761797
+70414_0130_00022_bis;22;bis;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.744998;47.761062
+70414_0130_00017_bis;17;bis;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.743186;47.759786
+70414_0120_00001;1;;Rue de la Mairie;70290;70414;Plancher-les-Mines;;;6.740223;47.760471
+70414_0120_00003;3;;Rue de la Mairie;70290;70414;Plancher-les-Mines;;;6.740393;47.760489
+70414_0120_00008;8;;Rue de la Mairie;70290;70414;Plancher-les-Mines;;;6.740017;47.760565
+70414_a015_00002;2;;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.742203;47.76941
+70414_a015_00005;5;;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.7424;47.770213
+70414_a015_00008;8;;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.742851;47.770528
+70414_a015_00019;19;;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.743439;47.770941
+70414_0001_00005;5;;Rue de France;70290;70414;Plancher-les-Mines;;;6.737565;47.755771
+70414_0001_00012;12;;Rue de France;70290;70414;Plancher-les-Mines;;;6.737866;47.755966
+70414_0001_00014;14;;Rue de France;70290;70414;Plancher-les-Mines;;;6.737999;47.756164
+70414_0001_00015;15;;Rue de France;70290;70414;Plancher-les-Mines;;;6.738119;47.757208
+70414_0001_00018;18;;Rue de France;70290;70414;Plancher-les-Mines;;;6.738757;47.757643
+70414_0001_00019;19;;Rue de France;70290;70414;Plancher-les-Mines;;;6.738093;47.757635
+70414_0001_00021;21;;Rue de France;70290;70414;Plancher-les-Mines;;;6.738478;47.757508
+70414_0001_00023;23;;Rue de France;70290;70414;Plancher-les-Mines;;;6.738903;47.757833
+70414_0001_00024;24;;Rue de France;70290;70414;Plancher-les-Mines;;;6.739437;47.758193
+70414_0001_00031;31;;Rue de France;70290;70414;Plancher-les-Mines;;;6.739636;47.758473
+70414_0001_00033;33;;Rue de France;70290;70414;Plancher-les-Mines;;;6.739689;47.758583
+70414_0001_00027_bis;27;bis;Rue de France;70290;70414;Plancher-les-Mines;;;6.739302;47.758302
+70414_0001_00001_bis;1;bis;Rue de France;70290;70414;Plancher-les-Mines;;;6.735166;47.756293
+70414_0090_00001;1;;Place de l'Hotel de Ville;70290;70414;Plancher-les-Mines;;;6.741173;47.760813
+70414_0090_00002;2;;Place de l'Hotel de Ville;70290;70414;Plancher-les-Mines;;;6.742201;47.760877
+70414_0090_00003;3;;Place de l'Hotel de Ville;70290;70414;Plancher-les-Mines;;;6.741506;47.761085
+70414_0090_00007;7;;Place de l'Hotel de Ville;70290;70414;Plancher-les-Mines;;;6.741888;47.761269
+70414_0022_00004;4;;Impasse du Canal;70290;70414;Plancher-les-Mines;;;6.741955;47.758883
+70414_0110_00001_bis;1;bis;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.742767;47.764949
+70414_0110_00016;16;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.743033;47.76482
+70414_0110_00014_bis;14;bis;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.743278;47.764715
+70414_0130_00003;3;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.742395;47.758222
+70414_0130_00004;4;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.74214;47.758083
+70414_0130_00005;5;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.742557;47.758339
+70414_0130_00007;7;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.742644;47.758412
+70414_0130_00008;8;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.742616;47.758333
+70414_0130_00009;9;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.742762;47.758591
+70414_0130_00010;10;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.742884;47.758654
+70414_0130_00013;13;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.742943;47.759232
+70414_0130_00016;16;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.743057;47.759435
+70414_0130_00017;17;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.743035;47.759621
+70414_0130_00022;22;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.744677;47.760876
+70414_0130_00032_bis;32;bis;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.745078;47.761797
+70414_a015_00006;6;;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.742463;47.770025
+70414_a015_00007;7;;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.742286;47.770519
+70414_a015_00010;10;;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.743165;47.77061
+70414_a015_00011;11;;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.742957;47.771446
+70414_a015_00015;15;;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.743034;47.770763
+70414_a015_00001_bis;1;bis;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.742207;47.769702
+70414_a015_00010_bis;10;bis;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.743828;47.770715
+70414_0001_00002;2;;Rue de France;70290;70414;Plancher-les-Mines;;;6.735561;47.755383
+70414_0001_00003;3;;Rue de France;70290;70414;Plancher-les-Mines;;;6.73641;47.755554
+70414_0001_00007;7;;Rue de France;70290;70414;Plancher-les-Mines;;;6.737881;47.756128
+70414_0001_00011;11;;Rue de France;70290;70414;Plancher-les-Mines;;;6.737974;47.756969
+70414_0001_00013;13;;Rue de France;70290;70414;Plancher-les-Mines;;;6.73801;47.75707
+70414_0001_00016;16;;Rue de France;70290;70414;Plancher-les-Mines;;;6.738051;47.756401
+70414_0001_00017;17;;Rue de France;70290;70414;Plancher-les-Mines;;;6.738315;47.75738
+70414_0001_00008_bis;8;bis;Rue de France;70290;70414;Plancher-les-Mines;;;6.737876;47.75564
+70414_0001_00010_bis;10;bis;Rue de France;70290;70414;Plancher-les-Mines;;;6.738062;47.756264
+70414_0090_00005_a;5;a;Place de l'Hotel de Ville;70290;70414;Plancher-les-Mines;;;6.742034;47.761633
+70414_0022_00005;5;;Impasse du Canal;70290;70414;Plancher-les-Mines;;;6.742208;47.759287
+70414_0110_00022;22;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.742399;47.765535
+70414_0110_00024;24;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.74237;47.765676
+70414_0110_00028;28;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.742512;47.766012
+70414_0130_00001;1;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.742178;47.758127
+70414_0130_00014;14;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.743019;47.759236
+70414_0130_00015;15;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.742985;47.759515
+70414_0130_00028;28;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.745112;47.761662
+70414_0130_00028_bis;28;bis;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.745625;47.761504
+70414_0120_00002;2;;Rue de la Mairie;70290;70414;Plancher-les-Mines;;;6.741039;47.760962
+70414_0120_00006;6;;Rue de la Mairie;70290;70414;Plancher-les-Mines;;;6.740489;47.760699
+70414_a015_00004;4;;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.742262;47.769529
+70414_a015_00009;9;;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.742332;47.770735
+70414_a015_00013;13;;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.742633;47.770476
+70414_a015_00021;21;;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.745481;47.771209
+70414_a015_00019_a;19;a;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.743928;47.771042
+70414_0001_00001;1;;Rue de France;70290;70414;Plancher-les-Mines;;;6.735166;47.756342
+70414_0001_00006;6;;Rue de France;70290;70414;Plancher-les-Mines;;;6.736409;47.755469
+70414_0001_00009;9;;Rue de France;70290;70414;Plancher-les-Mines;;;6.737976;47.756713
+70414_0001_00010;10;;Rue de France;70290;70414;Plancher-les-Mines;;;6.737821;47.755844
+70414_0001_00022;22;;Rue de France;70290;70414;Plancher-les-Mines;;;6.739109;47.757914
+70414_0001_00026;26;;Rue de France;70290;70414;Plancher-les-Mines;;;6.739738;47.758414
+70414_0001_00029;29;;Rue de France;70290;70414;Plancher-les-Mines;;;6.739509;47.758355
+70414_0001_00025_bis;25;bis;Rue de France;70290;70414;Plancher-les-Mines;;;6.738903;47.757833
+70414_0090_00004;4;;Place de l'Hotel de Ville;70290;70414;Plancher-les-Mines;;;6.742261;47.760949
+70414_0090_00009;9;;Place de l'Hotel de Ville;70290;70414;Plancher-les-Mines;;;6.742008;47.761212
+70414_0022_00006;6;;Impasse du Canal;70290;70414;Plancher-les-Mines;;;6.742122;47.759091
+70414_0022_00008;8;;Impasse du Canal;70290;70414;Plancher-les-Mines;;;6.742313;47.759247
+70414_0022_00010;10;;Impasse du Canal;70290;70414;Plancher-les-Mines;;;6.742411;47.759323
+70414_0135_00001;1;;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.74191;47.757358
+70414_0135_00002;2;;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.741949;47.757733
+70414_0135_00004;4;;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.741917;47.757404
+70414_0135_00006;6;;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.741487;47.757032
+70414_0110_00020;20;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.742465;47.765405
+70414_0110_00026;26;;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.742394;47.765838
+70414_0110_00003_bis;3;bis;Rue du Laurier;70290;70414;Plancher-les-Mines;;;6.742316;47.765896
+70414_0130_00002;2;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.74186;47.758038
+70414_0130_00011;11;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.742907;47.758842
+70414_0130_00012;12;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.742987;47.758922
+70414_0130_00026;26;;Rue des Martenots;70290;70414;Plancher-les-Mines;;;6.745336;47.761317
+70414_a015_00001;1;;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.741992;47.768883
+70414_a015_00012;12;;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.744489;47.770727
+70414_a015_00014;14;;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.744475;47.77049
+70414_a015_00017;17;;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.743235;47.770861
+70414_a015_00023;23;;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.741992;47.768883
+70414_a015_00021_bis;21;bis;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.74563;47.771162
+70414_a015_00014_bis;14;bis;Quartier Saint Antoine;70290;70414;Plancher-les-Mines;;;6.744664;47.770996
+70414_0001_00004;4;;Rue de France;70290;70414;Plancher-les-Mines;;;6.735862;47.755414
+70414_0001_00008;8;;Rue de France;70290;70414;Plancher-les-Mines;;;6.736872;47.755513
+70414_0001_00020;20;;Rue de France;70290;70414;Plancher-les-Mines;;;6.738938;47.757781
+70414_0001_00025;25;;Rue de France;70290;70414;Plancher-les-Mines;;;6.739128;47.758016
+70414_0001_00027;27;;Rue de France;70290;70414;Plancher-les-Mines;;;6.739115;47.758
+70414_0001_00009_bis;9;bis;Rue de France;70290;70414;Plancher-les-Mines;;;6.738903;47.757833
+70414_0090_00005;5;;Place de l'Hotel de Ville;70290;70414;Plancher-les-Mines;;;6.741715;47.761278
+70414_0022_00001;1;;Impasse du Canal;70290;70414;Plancher-les-Mines;;;6.741818;47.75887
+70414_0022_00002;2;;Impasse du Canal;70290;70414;Plancher-les-Mines;;;6.741778;47.758712
+70414_0022_00003;3;;Impasse du Canal;70290;70414;Plancher-les-Mines;;;6.741495;47.758754
+70414_0135_00003;3;;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.741609;47.757091
+70414_0135_00005;5;;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.741533;47.756995
+70414_0135_00011;11;;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.744129;47.755497
+70414_0135_00009;9;;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.741618;47.75621
+70414_0135_00014;14;;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.740491;47.755784
+70414_0135_00020;20;;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.742156;47.755274
+70414_0135_00014_bis;14;bis;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.740417;47.755719
+70414_0135_00006_bis;6;bis;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.741296;47.756714
+70414_0135_00010_c;10;c;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.740413;47.756212
+70414_0135_00008_c;8;c;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.740614;47.756371
+70414_0135_00008_b;8;b;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.740659;47.756347
+70414_0135_00018_c;18;c;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.741066;47.756136
+70414_a020_00002;2;;Quartier des Roches;70290;70414;Plancher-les-Mines;;;6.745454;47.762961
+70414_a020_00011;11;;Quartier des Roches;70290;70414;Plancher-les-Mines;;;6.749184;47.762849
+70414_a020_00016;16;;Quartier des Roches;70290;70414;Plancher-les-Mines;;;6.746217;47.763572
+70414_a020_00011_bis;11;bis;Quartier des Roches;70290;70414;Plancher-les-Mines;;;6.750267;47.763294
+70414_0180_00001;1;;Rue des Sapins;70290;70414;Plancher-les-Mines;;;6.738976;47.758459
+70414_0180_00003;3;;Rue des Sapins;70290;70414;Plancher-les-Mines;;;6.739102;47.758594
+70414_x005_00001;1;;Quartier des Epines;70290;70414;Plancher-les-Mines;;;6.741675;47.770113
+70414_x005_00007;7;;Quartier des Epines;70290;70414;Plancher-les-Mines;;;6.739893;47.769805
+70414_0135_00012;12;;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.740229;47.755865
+70414_0135_00014_ter;14;ter;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.740376;47.755685
+70414_0135_00016_b;16;b;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.740777;47.755956
+70414_0135_00018_a;18;a;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.740966;47.756184
+70414_a020_00003;3;;Quartier des Roches;70290;70414;Plancher-les-Mines;;;6.745568;47.763142
+70414_a020_00004;4;;Quartier des Roches;70290;70414;Plancher-les-Mines;;;6.745558;47.763117
+70414_a020_00005;5;;Quartier des Roches;70290;70414;Plancher-les-Mines;;;6.745585;47.763315
+70414_a020_00008;8;;Quartier des Roches;70290;70414;Plancher-les-Mines;;;6.746557;47.76294
+70414_a020_00009;9;;Quartier des Roches;70290;70414;Plancher-les-Mines;;;6.749184;47.762849
+70414_a020_00013;13;;Quartier des Roches;70290;70414;Plancher-les-Mines;;;6.747379;47.762879
+70414_a020_00015;15;;Quartier des Roches;70290;70414;Plancher-les-Mines;;;6.746701;47.763425
+70414_a020_00017;17;;Quartier des Roches;70290;70414;Plancher-les-Mines;;;6.745722;47.763627
+70414_0180_00005_bis;5;bis;Rue des Sapins;70290;70414;Plancher-les-Mines;;;6.739171;47.759081
+70414_x005_00003;3;;Quartier des Epines;70290;70414;Plancher-les-Mines;;;6.741103;47.769837
+70414_x005_00005;5;;Quartier des Epines;70290;70414;Plancher-les-Mines;;;6.740251;47.770225
+70414_0030_00001;1;;Rue de la Cressotte;70290;70414;Plancher-les-Mines;;;6.738224;47.758837
+70414_0135_00008;8;;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.740794;47.756275
+70414_0135_00016;16;;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.740659;47.756035
+70414_0135_00018;18;;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.740901;47.75624
+70414_0135_00022;22;;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.742539;47.75553
+70414_0135_00012_b;12;b;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.739805;47.755424
+70414_0135_00016_a;16;a;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.740726;47.755984
+70414_0135_00012_a;12;a;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.740155;47.755926
+70414_a020_00007;7;;Quartier des Roches;70290;70414;Plancher-les-Mines;;;6.74636;47.763211
+70414_a020_00010;10;;Quartier des Roches;70290;70414;Plancher-les-Mines;;;6.747123;47.762314
+70414_a020_00018;18;;Quartier des Roches;70290;70414;Plancher-les-Mines;;;6.745844;47.763604
+70414_0180_00002;2;;Rue des Sapins;70290;70414;Plancher-les-Mines;;;6.73948;47.758831
+70414_0180_00005;5;;Rue des Sapins;70290;70414;Plancher-les-Mines;;;6.739241;47.758743
+70414_x005_00002;2;;Quartier des Epines;70290;70414;Plancher-les-Mines;;;6.741262;47.76991
+70414_x005_00004;4;;Quartier des Epines;70290;70414;Plancher-les-Mines;;;6.740344;47.770174
+70414_x005_00003_bis;3;bis;Quartier des Epines;70290;70414;Plancher-les-Mines;;;6.741325;47.76984
+70414_0135_00007;7;;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.741461;47.756796
+70414_0135_00010;10;;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.740557;47.756066
+70414_0135_00024;24;;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.742699;47.755563
+70414_0135_00010_b;10;b;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.74046;47.756188
+70414_0135_00006_ter;6;ter;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.741167;47.756549
+70414_0135_00010_a;10;a;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.740504;47.756164
+70414_0135_00018_b;18;b;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.741485;47.756226
+70414_0135_00012_c;12;c;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.74008;47.755856
+70414_0135_00016_c;16;c;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.740826;47.755932
+70414_0135_00008_a;8;a;Rue du Mont Menard;70290;70414;Plancher-les-Mines;;;6.740709;47.756323
+70414_a020_00006;6;;Quartier des Roches;70290;70414;Plancher-les-Mines;;;6.745778;47.763352
+70414_a020_00012;12;;Quartier des Roches;70290;70414;Plancher-les-Mines;;;6.747122;47.762615
+70414_a020_00019;19;;Quartier des Roches;70290;70414;Plancher-les-Mines;;;6.74558;47.763586
+70414_0180_00004;4;;Rue des Sapins;70290;70414;Plancher-les-Mines;;;6.739928;47.759451
+70414_0180_00007;7;;Rue des Sapins;70290;70414;Plancher-les-Mines;;;6.739741;47.759331
+70414_0030_00003;3;;Rue de la Cressotte;70290;70414;Plancher-les-Mines;;;6.738213;47.758886
+70414_0030_00004;4;;Rue de la Cressotte;70290;70414;Plancher-les-Mines;;;6.737965;47.75834
+70414_0040_00003;3;;Rue des Ecoles;70290;70414;Plancher-les-Mines;;;6.743061;47.763009
+70414_0040_00004;4;;Rue des Ecoles;70290;70414;Plancher-les-Mines;;;6.742994;47.76274
+70414_a025_00008;8;;Quartier des Plateaux;70290;70414;Plancher-les-Mines;;;6.749513;47.754194
+70414_0100_00006;6;;Rue des Jonquilles;70290;70414;Plancher-les-Mines;;;6.738839;47.755025
+70414_0100_00011;11;;Rue des Jonquilles;70290;70414;Plancher-les-Mines;;;6.740424;47.755388
+70414_0065_00001;1;;Rue des Glycines;70290;70414;Plancher-les-Mines;;;6.740782;47.76019
+70414_0170_00002;2;;Rue Rizotte;70290;70414;Plancher-les-Mines;;;6.743783;47.764448
+70414_0170_00004;4;;Rue Rizotte;70290;70414;Plancher-les-Mines;;;6.744457;47.764884
+70414_0170_00011;11;;Rue Rizotte;70290;70414;Plancher-les-Mines;;;6.745155;47.765173
+70414_0030_00005;5;;Rue de la Cressotte;70290;70414;Plancher-les-Mines;;;6.738381;47.759573
+70414_0040_00002;2;;Rue des Ecoles;70290;70414;Plancher-les-Mines;;;6.742923;47.761911
+70414_0040_00007;7;;Rue des Ecoles;70290;70414;Plancher-les-Mines;;;6.743206;47.764046
+70414_0040_00008;8;;Rue des Ecoles;70290;70414;Plancher-les-Mines;;;6.743232;47.763221
+70414_0150_00002;2;;Rue Louis Pasteur;70290;70414;Plancher-les-Mines;;;6.744178;47.761609
+70414_0150_00004;4;;Rue Louis Pasteur;70290;70414;Plancher-les-Mines;;;6.7441;47.761906
+70414_0150_00006;6;;Rue Louis Pasteur;70290;70414;Plancher-les-Mines;;;6.744333;47.762123
+70414_a025_00001;1;;Quartier des Plateaux;70290;70414;Plancher-les-Mines;;;6.746595;47.756643
+70414_a025_00003;3;;Quartier des Plateaux;70290;70414;Plancher-les-Mines;;;6.748097;47.756175
+70414_a025_00007;7;;Quartier des Plateaux;70290;70414;Plancher-les-Mines;;;6.749144;47.754788
+70414_0100_00001;1;;Rue des Jonquilles;70290;70414;Plancher-les-Mines;;;6.741674;47.755812
+70414_0100_00005;5;;Rue des Jonquilles;70290;70414;Plancher-les-Mines;;;6.74121;47.755554
+70414_0170_00007;7;;Rue Rizotte;70290;70414;Plancher-les-Mines;;;6.744323;47.764935
+70414_0170_00013;13;;Rue Rizotte;70290;70414;Plancher-les-Mines;;;6.745341;47.764358
+70414_0170_00007_bis;7;bis;Rue Rizotte;70290;70414;Plancher-les-Mines;;;6.744667;47.765067
+70414_0030_00006;6;;Rue de la Cressotte;70290;70414;Plancher-les-Mines;;;6.738045;47.758439
+70414_0030_00007;7;;Rue de la Cressotte;70290;70414;Plancher-les-Mines;;;6.739007;47.760362
+70414_0030_00010;10;;Rue de la Cressotte;70290;70414;Plancher-les-Mines;;;6.738314;47.759113
+70414_0030_00014;14;;Rue de la Cressotte;70290;70414;Plancher-les-Mines;;;6.73954;47.76022
+70414_0030_00005_bis;5;bis;Rue de la Cressotte;70290;70414;Plancher-les-Mines;;;6.738355;47.75956
+70414_0040_00001;1;;Rue des Ecoles;70290;70414;Plancher-les-Mines;;;6.74295;47.762823
+70414_0040_00006;6;;Rue des Ecoles;70290;70414;Plancher-les-Mines;;;6.743062;47.762928
+70414_0040_00003_bis;3;bis;Rue des Ecoles;70290;70414;Plancher-les-Mines;;;6.742968;47.763337
+70414_0040_00005_ter;5;ter;Rue des Ecoles;70290;70414;Plancher-les-Mines;;;6.74254;47.76354
+70414_0150_00002_a;2;a;Rue Louis Pasteur;70290;70414;Plancher-les-Mines;;;6.743799;47.761914
+70414_a025_00006;6;;Quartier des Plateaux;70290;70414;Plancher-les-Mines;;;6.749101;47.754703
+70414_a025_00009;9;;Quartier des Plateaux;70290;70414;Plancher-les-Mines;;;6.749698;47.754564
+70414_a025_00013;13;;Quartier des Plateaux;70290;70414;Plancher-les-Mines;;;6.751118;47.754849
+70414_0100_00002;2;;Rue des Jonquilles;70290;70414;Plancher-les-Mines;;;6.741474;47.755749
+70414_0100_00003;3;;Rue des Jonquilles;70290;70414;Plancher-les-Mines;;;6.741437;47.755666
+70414_0100_00009;9;;Rue des Jonquilles;70290;70414;Plancher-les-Mines;;;6.740683;47.755414
+70414_0100_00010;10;;Rue des Jonquilles;70290;70414;Plancher-les-Mines;;;6.738609;47.755527
+70414_0065_00003;3;;Rue des Glycines;70290;70414;Plancher-les-Mines;;;6.740393;47.760489
+70414_0170_00001;1;;Rue Rizotte;70290;70414;Plancher-les-Mines;;;6.743604;47.764589
+70414_0170_00003;3;;Rue Rizotte;70290;70414;Plancher-les-Mines;;;6.743745;47.764705
+70414_0030_00008;8;;Rue de la Cressotte;70290;70414;Plancher-les-Mines;;;6.738285;47.75897
+70414_0030_00009;9;;Rue de la Cressotte;70290;70414;Plancher-les-Mines;;;6.739247;47.760506
+70414_0030_00012;12;;Rue de la Cressotte;70290;70414;Plancher-les-Mines;;;6.738358;47.759416
+70414_0030_00007_bis;7;bis;Rue de la Cressotte;70290;70414;Plancher-les-Mines;;;6.738606;47.76007
+70414_0040_00005;5;;Rue des Ecoles;70290;70414;Plancher-les-Mines;;;6.743206;47.764046
+70414_0040_00009;9;;Rue des Ecoles;70290;70414;Plancher-les-Mines;;;6.742575;47.76364
+70414_0040_00007_bis;7;bis;Rue des Ecoles;70290;70414;Plancher-les-Mines;;;6.743463;47.763539
+70414_0150_00001;1;;Rue Louis Pasteur;70290;70414;Plancher-les-Mines;;;6.743348;47.762377
+70414_0150_00003;3;;Rue Louis Pasteur;70290;70414;Plancher-les-Mines;;;6.743713;47.762367
+70414_a025_00002;2;;Quartier des Plateaux;70290;70414;Plancher-les-Mines;;;6.7495;47.754194
+70414_a025_00004;4;;Quartier des Plateaux;70290;70414;Plancher-les-Mines;;;6.748383;47.754426
+70414_a025_00005;5;;Quartier des Plateaux;70290;70414;Plancher-les-Mines;;;6.748593;47.755476
+70414_a025_00011;11;;Quartier des Plateaux;70290;70414;Plancher-les-Mines;;;6.751118;47.754849
+70414_0100_00004;4;;Rue des Jonquilles;70290;70414;Plancher-les-Mines;;;6.74067;47.755563
+70414_0100_00007;7;;Rue des Jonquilles;70290;70414;Plancher-les-Mines;;;6.740962;47.755474
+70414_0100_00010_bis;10;bis;Rue des Jonquilles;70290;70414;Plancher-les-Mines;;;6.738427;47.755391
+70414_0170_00005;5;;Rue Rizotte;70290;70414;Plancher-les-Mines;;;6.744288;47.764927
+70414_0170_00009;9;;Rue Rizotte;70290;70414;Plancher-les-Mines;;;6.744828;47.764954
+70414_b023_00005;5;;Patachee Graine;70290;70414;Plancher-les-Mines;;;6.76823;47.782827
+70414_b030_00004;4;;La Planche des Belles Filles;70290;70414;Plancher-les-Mines;;;6.777735;47.772645
+70414_b030_00002;2;;La Planche des Belles Filles;70290;70414;Plancher-les-Mines;;;6.778864;47.77506
+70414_b023_00003;3;;Patachee Graine;70290;70414;Plancher-les-Mines;;;6.764976;47.781324
+70414_b043_00001;1;;Pré Lechaise;70290;70414;Plancher-les-Mines;;;6.757365;47.774882
+70414_b043_00002;2;;Pré Lechaise;70290;70414;Plancher-les-Mines;;;6.762185;47.776534
+70414_b030_00001;1;;La Planche des Belles Filles;70290;70414;Plancher-les-Mines;;;6.779597;47.77581
+70414_0020_00050;50;;Route de Belfahy;70290;70414;Plancher-les-Mines;;;6.730496;47.769061

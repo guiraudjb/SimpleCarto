@@ -1,0 +1,781 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+69219_0640_00743_c;743;c;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.675422;45.643544
+69219_0087_00084;84;;Montée de la Chapelle;69440;69219;Saint-Laurent-d'Agny;;;4.675065;45.64601
+69219_0115_00120;120;;Rue du Jonan;69440;69219;Saint-Laurent-d'Agny;;;4.686683;45.639606
+69219_0520_00561_b;561;b;Chemin des Prés;69440;69219;Saint-Laurent-d'Agny;;;4.685565;45.643906
+69219_0010_00045;45;;Rue du Bas Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690207;45.636221
+69219_0490_00269;269;;Rue du Planil;69440;69219;Saint-Laurent-d'Agny;;;4.691482;45.644556
+69219_0640_00653;653;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.677485;45.643116
+69219_0370_00010;10;;Impasse de la Matazine;69440;69219;Saint-Laurent-d'Agny;;;4.683307;45.641521
+69219_0110_00181;181;;Chemin du Clos Bourbon;69440;69219;Saint-Laurent-d'Agny;;;4.681166;45.643973
+69219_0400_00572_i;572;i;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.681377;45.636694
+69219_0570_00448;448;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.705804;45.622514
+69219_0570_00412;412;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.689062;45.636153
+69219_0400_00549_a;549;a;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682493;45.636215
+69219_0520_00561_a;561;a;Chemin des Prés;69440;69219;Saint-Laurent-d'Agny;;;4.685031;45.643839
+69219_0550_00500;500;;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.679898;45.647207
+69219_0400_00436_d;436;d;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682718;45.637873
+69219_0110_00412;412;;Chemin du Clos Bourbon;69440;69219;Saint-Laurent-d'Agny;;;4.681887;45.644514
+69219_0580_00150;150;;Chemin du Réservoir;69440;69219;Saint-Laurent-d'Agny;;;4.672902;45.645621
+69219_0100_00263;263;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.688919;45.639115
+69219_0550_00544;544;;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.679924;45.647641
+69219_0270_00057;57;;Chemin du Gorget;69440;69219;Saint-Laurent-d'Agny;;;4.683287;45.642125
+69219_0210_00031;31;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.686221;45.641072
+69219_0570_00161;161;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.687508;45.638919
+69219_0497_00023;23;;Allee des Platanes;69440;69219;Saint-Laurent-d'Agny;;;4.684998;45.639257
+69219_0490_00217;217;;Rue du Planil;69440;69219;Saint-Laurent-d'Agny;;;4.69102;45.644951
+69219_0100_00080;80;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.687473;45.640337
+69219_0630_00181;181;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686141;45.642696
+69219_0320_00235;235;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.672578;45.643864
+69219_0010_00073_c;73;c;Rue du Bas Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690267;45.636551
+69219_0110_00203;203;;Chemin du Clos Bourbon;69440;69219;Saint-Laurent-d'Agny;;;4.681409;45.643895
+69219_0130_00102;102;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.691339;45.643411
+69219_0400_00103;103;;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.685147;45.638605
+69219_0150_00106_c;106;c;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.691556;45.645652
+69219_v13cl0_00255_c;255;c;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.688461;45.645004
+69219_0370_00052_b;52;b;Impasse de la Matazine;69440;69219;Saint-Laurent-d'Agny;;;4.683122;45.641249
+69219_0550_00305;305;;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.678685;45.645738
+69219_0390_00189;189;;Chemin du Moncey;69440;69219;Saint-Laurent-d'Agny;;;4.676128;45.642112
+69219_0070_00043;43;;Chemin du Cadix;69440;69219;Saint-Laurent-d'Agny;;;4.68683;45.642637
+69219_0120_00060_b;60;b;Rue du Clos de Cibeins;69440;69219;Saint-Laurent-d'Agny;;;4.687406;45.643279
+69219_0100_00030;30;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.687354;45.640717
+69219_0257_00160_q;160;q;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.684939;45.637978
+69219_0340_00082;82;;Chemin de la Lorende;69440;69219;Saint-Laurent-d'Agny;;;4.692795;45.637512
+69219_0400_00028;28;;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.68568;45.63957
+69219_0390_00125;125;;Chemin du Moncey;69440;69219;Saint-Laurent-d'Agny;;;4.67714;45.641569
+69219_0400_00436_a;436;a;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.683333;45.637149
+69219_0550_00460;460;;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.680131;45.646913
+69219_0100_00235;235;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.688535;45.639203
+69219_0510_00027;27;;Rue du Pre Lacour;69440;69219;Saint-Laurent-d'Agny;;;4.688236;45.638522
+69219_0280_00110;110;;Chemin du Grand Prost;69440;69219;Saint-Laurent-d'Agny;;;4.668229;45.645854
+69219_0150_00340;340;;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.687894;45.645992
+69219_0740_00078;78;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.678016;45.641902
+69219_0370_00052_e;52;e;Impasse de la Matazine;69440;69219;Saint-Laurent-d'Agny;;;4.683202;45.640991
+69219_0570_00128;128;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.687292;45.638149
+69219_0600_00069;69;;Chemin des Roches;69440;69219;Saint-Laurent-d'Agny;;;4.693689;45.641906
+69219_0010_00143;143;;Rue du Bas Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690877;45.636922
+69219_0110_00127;127;;Chemin du Clos Bourbon;69440;69219;Saint-Laurent-d'Agny;;;4.680392;45.644335
+69219_0380_00043;43;;Impasse du Molard;69440;69219;Saint-Laurent-d'Agny;;;4.69131;45.636308
+69219_0420_00030;30;;Place Neuve;69440;69219;Saint-Laurent-d'Agny;;;4.686073;45.64076
+69219_0257_00160_d;160;d;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.684456;45.637636
+69219_0360_00356;356;;Route de Marcellat;69440;69219;Saint-Laurent-d'Agny;;;4.666158;45.645638
+69219_0190_00044;44;;Rue de l'Eglise;69440;69219;Saint-Laurent-d'Agny;;;4.687195;45.640908
+69219_0150_00106_e;106;e;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.690592;45.645757
+69219_0257_00160_o;160;o;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.684835;45.638086
+69219_0100_00372;372;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.689535;45.638455
+69219_0100_00060;60;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.687454;45.641147
+69219_0015_00028_a;28;a;Chemin des Crozes;69440;69219;Saint-Laurent-d'Agny;;;4.674371;45.644035
+69219_0030_00885;885;;Route de Bouchat;69440;69219;Saint-Laurent-d'Agny;;;4.660012;45.649919
+69219_0640_00185;185;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.682752;45.641591
+69219_0150_00379;379;;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.687143;45.646002
+69219_0210_00023_b;23;b;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.685991;45.641197
+69219_0640_00054;54;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.684497;45.641563
+69219_x9tvqn_00140_c;140;c;Chemin des Vignes;69440;69219;Saint-Laurent-d'Agny;;;4.692394;45.637234
+69219_0550_00105;105;;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.678158;45.644008
+69219_0550_00234_b;234;b;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.678403;45.64554
+69219_0630_00027;27;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686233;45.641347
+69219_0690_00013;13;;Place de Souvigny;69440;69219;Saint-Laurent-d'Agny;;;4.684365;45.64119
+69219_0280_00135;135;;Chemin du Grand Prost;69440;69219;Saint-Laurent-d'Agny;;;4.668217;45.646479
+69219_o389xu_00033;33;;Chemin des Basses Crozes;69440;69219;Saint-Laurent-d'Agny;;;4.675379;45.643778
+69219_0150_00106_d;106;d;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.691169;45.645744
+69219_0570_00332;332;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.688358;45.636909
+69219_0020_00073;73;;Chemin de la Blancherie;69440;69219;Saint-Laurent-d'Agny;;;4.684042;45.638653
+69219_0010_00119;119;;Rue du Bas Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690806;45.636676
+69219_0400_00436_q;436;q;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.68285;45.636763
+69219_0400_00436_g;436;g;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682401;45.638316
+69219_0130_00252;252;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.692309;45.645014
+69219_0640_00074;74;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.675334;45.645396
+69219_0370_00067;67;;Impasse de la Matazine;69440;69219;Saint-Laurent-d'Agny;;;4.683806;45.640981
+69219_0400_00436_r;436;r;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.683178;45.636871
+69219_0070_00150;150;;Chemin du Cadix;69440;69219;Saint-Laurent-d'Agny;;;4.687845;45.642629
+69219_0640_00665;665;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.677216;45.643229
+69219_0400_00051;51;;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.685803;45.639803
+69219_0550_00325;325;;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.678871;45.645931
+69219_q5ad2q_00036;36;;Rue du Fornaire;69440;69219;Saint-Laurent-d'Agny;;;4.68794;45.644951
+69219_0100_00449_a;449;a;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690664;45.638238
+69219_0150_00015;15;;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.691793;45.645155
+69219_0510_00056;56;;Rue du Pre Lacour;69440;69219;Saint-Laurent-d'Agny;;;4.689262;45.638013
+69219_v13cl0_00255_g;255;g;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.688197;45.644322
+69219_0400_00426_j;426;j;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682873;45.638445
+69219_0400_00426_a;426;a;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.684064;45.63706
+69219_v13cl0_00255_a;255;a;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.688494;45.645441
+69219_0120_00045;45;;Rue du Clos de Cibeins;69440;69219;Saint-Laurent-d'Agny;;;4.687201;45.64369
+69219_0680_00134_b;134;b;Rue des Sources;69440;69219;Saint-Laurent-d'Agny;;;4.672981;45.645283
+69219_0710_00042;42;;Rue Traversière;69440;69219;Saint-Laurent-d'Agny;;;4.684894;45.640969
+69219_0360_00580;580;;Route de Marcellat;69440;69219;Saint-Laurent-d'Agny;;;4.663405;45.644982
+69219_0130_00265;265;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.691576;45.644892
+69219_0670_00699;699;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.686662;45.646144
+69219_0015_00054;54;;Chemin des Crozes;69440;69219;Saint-Laurent-d'Agny;;;4.674421;45.643792
+69219_0100_00248;248;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.688337;45.638863
+69219_0280_00040;40;;Chemin du Grand Prost;69440;69219;Saint-Laurent-d'Agny;;;4.667787;45.645638
+69219_0680_00058;58;;Rue des Sources;69440;69219;Saint-Laurent-d'Agny;;;4.674022;45.645399
+69219_0570_00075_b;75;b;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.687009;45.638756
+69219_v13cl0_00255_d;255;d;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.68837;45.644761
+69219_0130_00214;214;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.692606;45.644153
+69219_0570_00075_c;75;c;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.686788;45.639253
+69219_0670_00009;9;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.685546;45.641784
+69219_v13cl0_00255_p;255;p;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.689604;45.644382
+69219_0570_00160;160;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.704833;45.62396
+69219_0570_00358;358;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.688599;45.636735
+69219_0100_00194;194;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.687647;45.639216
+69219_0570_00351_c;351;c;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.689793;45.63699
+69219_0630_00072;72;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686556;45.64168
+69219_0620_00090;90;;Route des Ronzières;69440;69219;Saint-Laurent-d'Agny;;;4.678347;45.646942
+69219_0130_00214;214;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.696083;45.645817
+69219_0270_00138;138;;Chemin du Gorget;69440;69219;Saint-Laurent-d'Agny;;;4.684124;45.642505
+69219_0670_00026;26;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.685497;45.641313
+69219_0550_00046;46;;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.678735;45.643283
+69219_0670_00039;39;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.685308;45.641299
+69219_0210_00239;239;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.688921;45.641732
+69219_0460_00015;15;;Chemin des Perrichonnes;69440;69219;Saint-Laurent-d'Agny;;;4.693548;45.645202
+69219_0670_00133;133;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.684745;45.642039
+69219_0610_00200;200;;Chemin des Ronzes;69440;69219;Saint-Laurent-d'Agny;;;4.676477;45.645355
+69219_0087_00066;66;;Montée de la Chapelle;69440;69219;Saint-Laurent-d'Agny;;;4.67508;45.645683
+69219_0115_00170_a;170;a;Rue du Jonan;69440;69219;Saint-Laurent-d'Agny;;;4.68703;45.639453
+69219_0210_00268;268;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.689091;45.641497
+69219_0680_00105;105;;Rue des Sources;69440;69219;Saint-Laurent-d'Agny;;;4.673776;45.644907
+69219_0390_00160;160;;Chemin du Moncey;69440;69219;Saint-Laurent-d'Agny;;;4.676721;45.642391
+69219_0390_00081;81;;Chemin du Moncey;69440;69219;Saint-Laurent-d'Agny;;;4.677605;45.642457
+69219_0130_00394;394;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.693264;45.644823
+69219_0210_00105;105;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.687105;45.641236
+69219_0570_00218;218;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.687645;45.637771
+69219_0257_00160_p;160;p;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.684887;45.638022
+69219_0480_00878;878;;Route des Pierres Blanches;69440;69219;Saint-Laurent-d'Agny;;;4.686491;45.658711
+69219_0670_00226;226;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.685612;45.642896
+69219_0120_00029;29;;Rue du Clos de Cibeins;69440;69219;Saint-Laurent-d'Agny;;;4.687299;45.64397
+69219_0100_00084;84;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.687308;45.640139
+69219_0360_00073;73;;Route de Marcellat;69440;69219;Saint-Laurent-d'Agny;;;4.662707;45.643136
+69219_0570_00511;511;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.689779;45.63547
+69219_0490_00035;35;;Rue du Planil;69440;69219;Saint-Laurent-d'Agny;;;4.689348;45.643383
+69219_0450_00439;439;;Impasse de la Pérouse;69440;69219;Saint-Laurent-d'Agny;;;4.686546;45.643854
+69219_0740_00540;540;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.675582;45.638965
+69219_0670_00067;67;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.685088;45.641563
+69219_0680_00037;37;;Rue des Sources;69440;69219;Saint-Laurent-d'Agny;;;4.674089;45.645091
+69219_0400_00311;311;;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.685255;45.63741
+69219_0320_00012;12;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.674175;45.644357
+69219_0510_00017;17;;Rue du Pre Lacour;69440;69219;Saint-Laurent-d'Agny;;;4.688049;45.638871
+69219_0570_00090;90;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.704655;45.625081
+69219_0390_00015;15;;Chemin du Moncey;69440;69219;Saint-Laurent-d'Agny;;;4.677805;45.642858
+69219_0130_00130_b;130;b;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.692083;45.643634
+69219_0710_00039;39;;Rue Traversière;69440;69219;Saint-Laurent-d'Agny;;;4.684767;45.641316
+69219_0630_00042;42;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686363;45.641385
+69219_0015_00022;22;;Chemin des Crozes;69440;69219;Saint-Laurent-d'Agny;;;4.674258;45.643984
+69219_0490_00245;245;;Rue du Planil;69440;69219;Saint-Laurent-d'Agny;;;4.691166;45.644635
+69219_0210_00246_c;246;c;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.689023;45.641286
+69219_0210_00129;129;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.687143;45.641336
+69219_0100_00515_c;515;c;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.691648;45.638307
+69219_0570_00551;551;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.690534;45.635409
+69219_x9tvqn_00140_a;140;a;Chemin des Vignes;69440;69219;Saint-Laurent-d'Agny;;;4.691065;45.636564
+69219_0180_00002;2;;Rue des Ecoles;69440;69219;Saint-Laurent-d'Agny;;;4.684804;45.640511
+69219_0100_00402;402;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.68993;45.637988
+69219_0370_00052_d;52;d;Impasse de la Matazine;69440;69219;Saint-Laurent-d'Agny;;;4.682805;45.640944
+69219_0400_00025;25;;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.685578;45.640869
+69219_0030_00702;702;;Route de Bouchat;69440;69219;Saint-Laurent-d'Agny;;;4.662589;45.649505
+69219_0740_00596;596;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.675545;45.639164
+69219_0130_00315_b;315;b;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.692603;45.645967
+69219_0520_00003;3;;Chemin des Prés;69440;69219;Saint-Laurent-d'Agny;;;4.680137;45.646671
+69219_0670_00493;493;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.686756;45.644265
+69219_0400_00105;105;;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.685488;45.63934
+69219_0400_00549_b;549;b;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682626;45.636095
+69219_0087_00992;992;;Montée de la Chapelle;69440;69219;Saint-Laurent-d'Agny;;;4.675694;45.645993
+69219_0340_00060;60;;Chemin de la Lorende;69440;69219;Saint-Laurent-d'Agny;;;4.692321;45.637449
+69219_0630_00146;146;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686382;45.642456
+69219_0130_00088;88;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.691511;45.64337
+69219_0570_00226;226;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.687979;45.63764
+69219_0740_00061;61;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.678669;45.641985
+69219_0670_00070;70;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.685302;45.641687
+69219_0100_00492;492;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690841;45.63769
+69219_0570_02865;2865;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.707617;45.620673
+69219_0130_00250;250;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.692189;45.644741
+69219_0400_00436_c;436;c;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682919;45.637596
+69219_0020_00110;110;;Chemin de la Blancherie;69440;69219;Saint-Laurent-d'Agny;;;4.684115;45.639238
+69219_0015_00045;45;;Chemin des Crozes;69440;69219;Saint-Laurent-d'Agny;;;4.674544;45.644404
+69219_0570_00075_d;75;d;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.686487;45.639219
+69219_0640_00491_b;491;b;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.679143;45.641032
+69219_q5ad2q_00055;55;;Rue du Fornaire;69440;69219;Saint-Laurent-d'Agny;;;4.687375;45.645228
+69219_0210_00060;60;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.686983;45.641211
+69219_0620_00214;214;;Route des Ronzières;69440;69219;Saint-Laurent-d'Agny;;;4.677044;45.647546
+69219_0640_00836;836;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.676077;45.644761
+69219_0115_00170_b;170;b;Rue du Jonan;69440;69219;Saint-Laurent-d'Agny;;;4.687114;45.639191
+69219_0570_00290;290;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.687942;45.637166
+69219_0640_00113;113;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.683898;45.641479
+69219_0520_00099;99;;Chemin des Prés;69440;69219;Saint-Laurent-d'Agny;;;4.680803;45.64638
+69219_0120_00294;294;;Rue du Clos de Cibeins;69440;69219;Saint-Laurent-d'Agny;;;4.689916;45.64279
+69219_0087_00575;575;;Montée de la Chapelle;69440;69219;Saint-Laurent-d'Agny;;;4.671166;45.646617
+69219_0570_00291;291;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.706504;45.623407
+69219_0360_00474;474;;Route de Marcellat;69440;69219;Saint-Laurent-d'Agny;;;4.664379;45.645374
+69219_0590_00063;63;;Chemin des Rivières;69440;69219;Saint-Laurent-d'Agny;;;4.669964;45.643138
+69219_0280_00201;201;;Chemin du Grand Prost;69440;69219;Saint-Laurent-d'Agny;;;4.668796;45.646546
+69219_0087_00230;230;;Montée de la Chapelle;69440;69219;Saint-Laurent-d'Agny;;;4.675482;45.647279
+69219_0100_00220;220;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.688201;45.639023
+69219_0070_00010;10;;Chemin du Cadix;69440;69219;Saint-Laurent-d'Agny;;;4.686538;45.642408
+69219_0530_00048;48;;Chemin du Puits;69440;69219;Saint-Laurent-d'Agny;;;4.675483;45.64497
+69219_0570_00010;10;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.685853;45.638084
+69219_0740_00524;524;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.675793;45.638932
+69219_0670_00040;40;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.685422;45.641366
+69219_0210_00276;276;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.68938;45.641479
+69219_0630_00167;167;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686189;45.64254
+69219_0140_00347;347;;Chemin de la Croisette;69440;69219;Saint-Laurent-d'Agny;;;4.694609;45.644774
+69219_0570_02949;2949;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.708308;45.620135
+69219_0050_00053;53;;Place du By;69440;69219;Saint-Laurent-d'Agny;;;4.685275;45.640652
+69219_0210_00141;141;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.687412;45.641322
+69219_0400_00426_f;426;f;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.68361;45.638171
+69219_0150_00386;386;;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.687051;45.646348
+69219_0570_00285;285;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.688801;45.637392
+69219_v13cl0_00255_l;255;l;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.689199;45.644576
+69219_0670_00045;45;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.685153;45.641266
+69219_0360_00936;936;;Route de Marcellat;69440;69219;Saint-Laurent-d'Agny;;;4.66056;45.642661
+69219_0010_00073_d;73;d;Rue du Bas Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690485;45.636724
+69219_0670_00073;73;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.685061;45.641606
+69219_0099_00006;6;;Impasse du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.689413;45.638388
+69219_0590_00230;230;;Chemin des Rivières;69440;69219;Saint-Laurent-d'Agny;;;4.667989;45.642299
+69219_0087_00047;47;;Montée de la Chapelle;69440;69219;Saint-Laurent-d'Agny;;;4.675461;45.645799
+69219_0360_00196;196;;Route de Marcellat;69440;69219;Saint-Laurent-d'Agny;;;4.668029;45.645289
+69219_0510_00072;72;;Rue du Pre Lacour;69440;69219;Saint-Laurent-d'Agny;;;4.688997;45.638183
+69219_0305_00171;171;;Rue du Haut Planil;69440;69219;Saint-Laurent-d'Agny;;;4.690202;45.644303
+69219_0099_00031;31;;Impasse du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.689429;45.6386
+69219_0340_00335;335;;Chemin de la Lorende;69440;69219;Saint-Laurent-d'Agny;;;4.695239;45.639346
+69219_0680_00134_i;134;i;Rue des Sources;69440;69219;Saint-Laurent-d'Agny;;;4.6728;45.644399
+69219_0257_00160_m;160;m;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.684795;45.637752
+69219_0490_00083;83;;Rue du Planil;69440;69219;Saint-Laurent-d'Agny;;;4.689453;45.643815
+69219_v13cl0_00255_q;255;q;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.689661;45.64458
+69219_0130_00220;220;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.69228;45.644536
+69219_0520_00051;51;;Chemin des Prés;69440;69219;Saint-Laurent-d'Agny;;;4.680467;45.646592
+69219_0210_00042;42;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.686332;45.641009
+69219_0570_00351_b;351;b;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.689932;45.636789
+69219_0320_00320;320;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.671025;45.644116
+69219_0360_00706;706;;Route de Marcellat;69440;69219;Saint-Laurent-d'Agny;;;4.661944;45.643677
+69219_0130_00701;701;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.696225;45.645907
+69219_0150_00016;16;;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.69192;45.645606
+69219_0680_00134_e;134;e;Rue des Sources;69440;69219;Saint-Laurent-d'Agny;;;4.672273;45.644893
+69219_0570_00351_d;351;d;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.689661;45.637178
+69219_0570_00502;502;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.689543;45.635591
+69219_0510_00050;50;;Rue du Pre Lacour;69440;69219;Saint-Laurent-d'Agny;;;4.68851;45.638123
+69219_0130_00060;60;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.691157;45.64302
+69219_0740_00440;440;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.676823;45.639315
+69219_0510_00001;1;;Rue du Pre Lacour;69440;69219;Saint-Laurent-d'Agny;;;4.687858;45.638526
+69219_0320_00355;355;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.670661;45.643746
+69219_0150_00226_a;226;a;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.689485;45.645657
+69219_0130_00080;80;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.691175;45.643259
+69219_0257_00051;51;;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.684937;45.639106
+69219_0590_00033;33;;Chemin des Rivières;69440;69219;Saint-Laurent-d'Agny;;;4.670167;45.643539
+69219_0020_00085;85;;Chemin de la Blancherie;69440;69219;Saint-Laurent-d'Agny;;;4.683878;45.638909
+69219_0400_00436_p;436;p;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682562;45.637008
+69219_0400_00595;595;;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682183;45.636151
+69219_0430_00260_b;260;b;Chemin de la Noyeraie;69440;69219;Saint-Laurent-d'Agny;;;4.683007;45.633237
+69219_0670_00339;339;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.685768;45.643463
+69219_0630_00013;13;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686239;45.641194
+69219_0610_00068_c;68;c;Chemin des Ronzes;69440;69219;Saint-Laurent-d'Agny;;;4.677649;45.645581
+69219_0640_00491_f;491;f;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.679848;45.64206
+69219_0740_00231;231;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.678344;45.640755
+69219_0460_00051;51;;Chemin des Perrichonnes;69440;69219;Saint-Laurent-d'Agny;;;4.693555;45.64557
+69219_0420_00024;24;;Place Neuve;69440;69219;Saint-Laurent-d'Agny;;;4.685803;45.64067
+69219_0400_00426_e;426;e;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.683811;45.637881
+69219_0150_00350;350;;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.687803;45.646025
+69219_0570_00231;231;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.688525;45.637723
+69219_0500_00607;607;;Route de Prapin;69440;69219;Saint-Laurent-d'Agny;;;4.697414;45.643042
+69219_0490_00258;258;;Rue du Planil;69440;69219;Saint-Laurent-d'Agny;;;4.691378;45.644148
+69219_0360_00666;666;;Route de Marcellat;69440;69219;Saint-Laurent-d'Agny;;;4.662449;45.644151
+69219_0050_00071;71;;Place du By;69440;69219;Saint-Laurent-d'Agny;;;4.685456;45.640731
+69219_0180_00026;26;;Rue des Ecoles;69440;69219;Saint-Laurent-d'Agny;;;4.684967;45.6402
+69219_0680_00134_h;134;h;Rue des Sources;69440;69219;Saint-Laurent-d'Agny;;;4.67267;45.64459
+69219_0610_00068_a;68;a;Chemin des Ronzes;69440;69219;Saint-Laurent-d'Agny;;;4.678154;45.64526
+69219_0630_00149;149;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686211;45.642435
+69219_0740_00068;68;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.678148;45.642271
+69219_0640_00491_g;491;g;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.679447;45.642201
+69219_0360_00882;882;;Route de Marcellat;69440;69219;Saint-Laurent-d'Agny;;;4.660856;45.643072
+69219_0670_00099;99;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.684972;45.641747
+69219_0030_00331;331;;Route de Bouchat;69440;69219;Saint-Laurent-d'Agny;;;4.666366;45.647447
+69219_0400_00426_d;426;d;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.683978;45.637612
+69219_0190_00024;24;;Rue de l'Eglise;69440;69219;Saint-Laurent-d'Agny;;;4.686917;45.640834
+69219_0570_00351_e;351;e;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.689496;45.637366
+69219_0400_00117;117;;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.685766;45.639212
+69219_0480_01200;1200;;Route des Pierres Blanches;69440;69219;Saint-Laurent-d'Agny;;;4.684848;45.658678
+69219_0010_00152;152;;Rue du Bas Clair;69440;69219;Saint-Laurent-d'Agny;;;4.691318;45.63698
+69219_0550_00347;347;;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.678936;45.646139
+69219_0087_00004;4;;Montée de la Chapelle;69440;69219;Saint-Laurent-d'Agny;;;4.674798;45.645585
+69219_0210_00161;161;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.688;45.641388
+69219_0210_00036;36;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.686276;45.641
+69219_0570_00266;266;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.705256;45.623235
+69219_0400_00572_g;572;g;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.680997;45.63727
+69219_8gcjsy_00444;444;;Le Petit Sentier;69440;69219;Saint-Laurent-d'Agny;;;4.685987;45.641939
+69219_0010_00181;181;;Rue du Bas Clair;69440;69219;Saint-Laurent-d'Agny;;;4.691302;45.637429
+69219_0570_00100;100;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.68704;45.638124
+69219_0087_00071;71;;Montée de la Chapelle;69440;69219;Saint-Laurent-d'Agny;;;4.674853;45.645898
+69219_0320_00284;284;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.671325;45.644343
+69219_0270_00041;41;;Chemin du Gorget;69440;69219;Saint-Laurent-d'Agny;;;4.683395;45.641754
+69219_0680_00134_j;134;j;Rue des Sources;69440;69219;Saint-Laurent-d'Agny;;;4.673052;45.644455
+69219_0670_00387;387;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.685997;45.643687
+69219_0400_00436_b;436;b;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.683144;45.637386
+69219_0320_00278;278;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.672375;45.644338
+69219_0257_00160_e;160;e;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.684502;45.637592
+69219_0740_00524;524;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.676042;45.638813
+69219_0120_00032;32;;Rue du Clos de Cibeins;69440;69219;Saint-Laurent-d'Agny;;;4.686988;45.643129
+69219_0400_00436_f;436;f;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682516;45.638066
+69219_0550_00266_b;266;b;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.679551;45.64538
+69219_0010_00070;70;;Rue du Bas Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690665;45.636331
+69219_0320_00120;120;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.673779;45.644255
+69219_0120_00120;120;;Rue du Clos de Cibeins;69440;69219;Saint-Laurent-d'Agny;;;4.688156;45.64314
+69219_0210_00155_c;155;c;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.687218;45.641554
+69219_0080_00119;119;;Route de la Carat;69440;69219;Saint-Laurent-d'Agny;;;4.685103;45.646597
+69219_0140_00285;285;;Chemin de la Croisette;69440;69219;Saint-Laurent-d'Agny;;;4.693797;45.644399
+69219_0520_00041;41;;Chemin des Prés;69440;69219;Saint-Laurent-d'Agny;;;4.680292;45.646567
+69219_0380_00007;7;;Impasse du Molard;69440;69219;Saint-Laurent-d'Agny;;;4.691582;45.636063
+69219_0670_00008;8;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.685759;45.641223
+69219_0050_00028;28;;Place du By;69440;69219;Saint-Laurent-d'Agny;;;4.685668;45.640438
+69219_0640_00096;96;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.68408;45.641637
+69219_0130_00162;162;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.691826;45.643903
+69219_v13cl0_00255_m;255;m;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.689353;45.644103
+69219_0500_00086_b;86;b;Route de Prapin;69440;69219;Saint-Laurent-d'Agny;;;4.691494;45.643191
+69219_0740_00201;201;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.678252;45.640737
+69219_0710_00003;3;;Rue Traversière;69440;69219;Saint-Laurent-d'Agny;;;4.684742;45.640963
+69219_0570_00551_b;551;b;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.691008;45.635461
+69219_0070_00073;73;;Chemin du Cadix;69440;69219;Saint-Laurent-d'Agny;;;4.68716;45.64271
+69219_0670_00549;549;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.686658;45.644835
+69219_0640_00658;658;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.67742;45.643273
+69219_0090_00047;47;;Rue du Château;69440;69219;Saint-Laurent-d'Agny;;;4.684749;45.640859
+69219_0640_00333;333;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.680602;45.641788
+69219_0400_00572_j;572;j;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.681751;45.636352
+69219_0210_00048;48;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.686372;45.641009
+69219_0600_00444;444;;Chemin des Roches;69440;69219;Saint-Laurent-d'Agny;;;4.69089;45.639169
+69219_0570_00256;256;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.688094;45.637423
+69219_0130_00356;356;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.69262;45.644929
+69219_0100_00265;265;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.688983;45.638922
+69219_0340_00036;36;;Chemin de la Lorende;69440;69219;Saint-Laurent-d'Agny;;;4.692164;45.637422
+69219_0570_00372;372;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.688743;45.63653
+69219_0680_00034;34;;Rue des Sources;69440;69219;Saint-Laurent-d'Agny;;;4.674264;45.645588
+69219_0530_01079;1079;;Chemin du Puits;69440;69219;Saint-Laurent-d'Agny;;;4.675492;45.644338
+69219_0490_00041;41;;Rue du Planil;69440;69219;Saint-Laurent-d'Agny;;;4.69025;45.644856
+69219_0640_00491_d;491;d;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.679774;45.641343
+69219_0320_00070;70;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.673995;45.644579
+69219_0257_00160_b;160;b;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.684335;45.637752
+69219_0150_00355;355;;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.687512;45.645754
+69219_0630_00007;7;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686236;45.641145
+69219_0400_00436_j;436;j;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.681682;45.637917
+69219_0570_00390;390;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.706982;45.621877
+69219_0150_00106_f;106;f;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.690101;45.645815
+69219_0550_00265;265;;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.678654;45.645362
+69219_0257_00160_n;160;n;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.684853;45.637712
+69219_0100_00275;275;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.688966;45.638702
+69219_0680_00134_c;134;c;Rue des Sources;69440;69219;Saint-Laurent-d'Agny;;;4.672633;45.645366
+69219_0640_00050;50;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.684573;45.641546
+69219_0430_00260_a;260;a;Chemin de la Noyeraie;69440;69219;Saint-Laurent-d'Agny;;;4.68263;45.633185
+69219_0320_00118;118;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.673928;45.644415
+69219_0740_00026;26;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.678204;45.642596
+69219_0400_00436_l;436;l;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682085;45.637507
+69219_0210_00071;71;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.686714;45.641256
+69219_0610_00068_b;68;b;Chemin des Ronzes;69440;69219;Saint-Laurent-d'Agny;;;4.677832;45.645293
+69219_0320_00374;374;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.670364;45.6441
+69219_0099_00071;71;;Impasse du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.68981;45.638869
+69219_0130_00545;545;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.695524;45.645447
+69219_0640_00650;650;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.677524;45.643245
+69219_q5ad2q_00016;16;;Rue du Fornaire;69440;69219;Saint-Laurent-d'Agny;;;4.687496;45.644711
+69219_0020_00104;104;;Chemin de la Blancherie;69440;69219;Saint-Laurent-d'Agny;;;4.684298;45.63917
+69219_0600_00071;71;;Chemin des Roches;69440;69219;Saint-Laurent-d'Agny;;;4.693468;45.641801
+69219_0550_00266_a;266;a;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.679184;45.645553
+69219_0600_00157;157;;Chemin des Roches;69440;69219;Saint-Laurent-d'Agny;;;4.693341;45.641674
+69219_0210_00061;61;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.686556;45.64111
+69219_0550_00266_c;266;c;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.679524;45.645145
+69219_0210_00069;69;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.686602;45.641196
+69219_0370_00090;90;;Impasse de la Matazine;69440;69219;Saint-Laurent-d'Agny;;;4.683527;45.640857
+69219_0100_00018;18;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.687265;45.640837
+69219_q5ad2q_00096;96;;Rue du Fornaire;69440;69219;Saint-Laurent-d'Agny;;;4.687994;45.645565
+69219_0630_00134;134;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686417;45.642193
+69219_0570_00038;38;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.6864;45.637986
+69219_0150_00226_b;226;b;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.689577;45.645909
+69219_0670_00760;760;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.687207;45.646488
+69219_0010_00154;154;;Rue du Bas Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690872;45.636484
+69219_0400_00426_k;426;k;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682959;45.638135
+69219_0400_00383;383;;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.684709;45.636759
+69219_0390_00098;98;;Chemin du Moncey;69440;69219;Saint-Laurent-d'Agny;;;4.677067;45.642212
+69219_0210_00205;205;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.688166;45.641411
+69219_0257_00160_h;160;h;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.684692;45.637374
+69219_0099_00011;11;;Impasse du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.689223;45.638472
+69219_v13cl0_00255_n;255;n;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.689666;45.644122
+69219_0570_00042;42;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.704042;45.624007
+69219_0550_00141;141;;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.678246;45.644367
+69219_0620_00258;258;;Route des Ronzières;69440;69219;Saint-Laurent-d'Agny;;;4.677067;45.64781
+69219_0320_01091;1091;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.674811;45.645004
+69219_0640_00025;25;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.684952;45.641435
+69219_0320_00139;139;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.673673;45.644251
+69219_0100_00373;373;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.689707;45.638415
+69219_0400_00426_m;426;m;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.683374;45.637761
+69219_0570_00351;351;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.688928;45.636809
+69219_0100_00524;524;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.691133;45.637629
+69219_0640_00010;10;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.675202;45.645281
+69219_0710_00031;31;;Rue Traversière;69440;69219;Saint-Laurent-d'Agny;;;4.684746;45.641218
+69219_0740_00163;163;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.678542;45.641069
+69219_0360_00339;339;;Route de Marcellat;69440;69219;Saint-Laurent-d'Agny;;;4.666661;45.645094
+69219_0100_00389;389;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.68988;45.638298
+69219_0340_00033;33;;Chemin de la Lorende;69440;69219;Saint-Laurent-d'Agny;;;4.691998;45.637613
+69219_0570_00269;269;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.706114;45.624131
+69219_0270_00012;12;;Chemin du Gorget;69440;69219;Saint-Laurent-d'Agny;;;4.683899;45.641838
+69219_0280_00148;148;;Chemin du Grand Prost;69440;69219;Saint-Laurent-d'Agny;;;4.669143;45.645763
+69219_0570_00351_f;351;f;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.68926;45.637579
+69219_0100_00449_c;449;c;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.691503;45.638597
+69219_0130_00367;367;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.69297;45.645383
+69219_0190_00016;16;;Rue de l'Eglise;69440;69219;Saint-Laurent-d'Agny;;;4.686776;45.64084
+69219_0070_00175;175;;Chemin du Cadix;69440;69219;Saint-Laurent-d'Agny;;;4.688123;45.642888
+69219_0320_00142;142;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.673482;45.644645
+69219_0680_00134_g;134;g;Rue des Sources;69440;69219;Saint-Laurent-d'Agny;;;4.672713;45.644893
+69219_0150_00147;147;;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.689964;45.645251
+69219_0130_00661;661;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.695987;45.645627
+69219_0210_00159;159;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.687843;45.641712
+69219_0320_00141;141;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.673346;45.644181
+69219_0570_00456;456;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.689349;45.636062
+69219_0570_00351_a;351;a;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.689204;45.636757
+69219_0640_00624;624;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.677734;45.643188
+69219_0400_00436_h;436;h;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682217;45.638481
+69219_0740_00139;139;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.678617;45.641462
+69219_0400_00572_c;572;c;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.681745;45.636944
+69219_0550_00499;499;;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.679184;45.647324
+69219_0110_00175;175;;Chemin du Clos Bourbon;69440;69219;Saint-Laurent-d'Agny;;;4.681091;45.64427
+69219_0550_00416;416;;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.679723;45.646511
+69219_0257_00047;47;;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.68494;45.639191
+69219_0480_01250;1250;;Route des Pierres Blanches;69440;69219;Saint-Laurent-d'Agny;;;4.686208;45.658982
+69219_0610_00068_i;68;i;Chemin des Ronzes;69440;69219;Saint-Laurent-d'Agny;;;4.677329;45.64508
+69219_0490_00082;82;;Rue du Planil;69440;69219;Saint-Laurent-d'Agny;;;4.690832;45.645139
+69219_0390_00095;95;;Chemin du Moncey;69440;69219;Saint-Laurent-d'Agny;;;4.677356;45.642062
+69219_0210_00246_b;246;b;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.688961;45.641362
+69219_0570_00530;530;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.690021;45.635592
+69219_0610_00060;60;;Chemin des Ronzes;69440;69219;Saint-Laurent-d'Agny;;;4.678142;45.645026
+69219_0510_00016;16;;Rue du Pre Lacour;69440;69219;Saint-Laurent-d'Agny;;;4.68825;45.638032
+69219_o389xu_00021;21;;Chemin des Basses Crozes;69440;69219;Saint-Laurent-d'Agny;;;4.676028;45.643693
+69219_0130_00192;192;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.691782;45.644232
+69219_0690_00049;49;;Place de Souvigny;69440;69219;Saint-Laurent-d'Agny;;;4.684612;45.641431
+69219_0087_00028;28;;Montée de la Chapelle;69440;69219;Saint-Laurent-d'Agny;;;4.674881;45.645357
+69219_0305_00176;176;;Rue du Haut Planil;69440;69219;Saint-Laurent-d'Agny;;;4.690667;45.644247
+69219_0570_00576;576;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.690482;45.63525
+69219_0570_00075_f;75;f;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.686408;45.638776
+69219_0570_00075_g;75;g;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.686418;45.638545
+69219_v13cl0_00255_i;255;i;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.688931;45.644595
+69219_0100_00515_a;515;a;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.691244;45.63793
+69219_0390_00129;129;;Chemin du Moncey;69440;69219;Saint-Laurent-d'Agny;;;4.67655;45.642038
+69219_0087_00182;182;;Montée de la Chapelle;69440;69219;Saint-Laurent-d'Agny;;;4.675215;45.646721
+69219_0100_00515;515;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.691251;45.637699
+69219_0010_00153;153;;Rue du Bas Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690968;45.637048
+69219_0690_00040;40;;Place de Souvigny;69440;69219;Saint-Laurent-d'Agny;;;4.684619;45.641368
+69219_0257_00160_k;160;k;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.68464;45.637841
+69219_0670_00516;516;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.687102;45.64442
+69219_0210_00051;51;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.686505;45.641311
+69219_0400_00572_e;572;e;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.681532;45.637583
+69219_q5ad2q_00070;70;;Rue du Fornaire;69440;69219;Saint-Laurent-d'Agny;;;4.687958;45.645295
+69219_0120_00112;112;;Rue du Clos de Cibeins;69440;69219;Saint-Laurent-d'Agny;;;4.687661;45.643182
+69219_0020_00116;116;;Chemin de la Blancherie;69440;69219;Saint-Laurent-d'Agny;;;4.683905;45.639172
+69219_0210_00155_a;155;a;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.687582;45.641393
+69219_0630_00069;69;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.68622;45.641743
+69219_0280_00186;186;;Chemin du Grand Prost;69440;69219;Saint-Laurent-d'Agny;;;4.669519;45.64611
+69219_0570_00551_a;551;a;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.690677;45.635449
+69219_0100_00447;447;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690427;45.638169
+69219_0630_00032;32;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686358;45.641314
+69219_0550_00014;14;;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.678999;45.643987
+69219_v13cl0_00255_r;255;r;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.689741;45.644823
+69219_0390_00060;60;;Chemin du Moncey;69440;69219;Saint-Laurent-d'Agny;;;4.67695;45.64266
+69219_0400_00429_a;429;a;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.68411;45.636553
+69219_0400_00572_b;572;b;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.681998;45.636743
+69219_0740_00560;560;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.675527;45.638869
+69219_0010_00073_e;73;e;Rue du Bas Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690517;45.636852
+69219_q5ad2q_00075;75;;Rue du Fornaire;69440;69219;Saint-Laurent-d'Agny;;;4.687356;45.645423
+69219_0400_00436_e;436;e;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682424;45.637748
+69219_0630_00041;41;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686252;45.641423
+69219_0630_00078;78;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686866;45.642174
+69219_0150_00027;27;;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.691571;45.645175
+69219_0630_00175;175;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.685707;45.642584
+69219_0130_00393;393;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.693351;45.645297
+69219_0010_00073_a;73;a;Rue du Bas Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690647;45.636502
+69219_v13cl0_00255_h;255;h;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.688464;45.644259
+69219_0100_00372;372;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.689658;45.638047
+69219_0640_00013;13;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.685092;45.641406
+69219_0100_00515_b;515;b;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.691439;45.638086
+69219_0120_00029_b;29;b;Rue du Clos de Cibeins;69440;69219;Saint-Laurent-d'Agny;;;4.687343;45.644198
+69219_0257_00160_f;160;f;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.684571;45.637519
+69219_0100_00458;458;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690554;45.637752
+69219_0570_01960;1960;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.700792;45.626058
+69219_0640_00491_c;491;c;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.679664;45.640873
+69219_0080_00117;117;;Route de la Carat;69440;69219;Saint-Laurent-d'Agny;;;4.685598;45.646499
+69219_0110_00043;43;;Chemin du Clos Bourbon;69440;69219;Saint-Laurent-d'Agny;;;4.679755;45.644789
+69219_0400_00436_n;436;n;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682499;45.637334
+69219_0340_00033_b;33;b;Chemin de la Lorende;69440;69219;Saint-Laurent-d'Agny;;;4.691935;45.637865
+69219_0130_00460;460;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.693826;45.644815
+69219_0390_00096;96;;Chemin du Moncey;69440;69219;Saint-Laurent-d'Agny;;;4.6771;45.642359
+69219_0230_00009;9;;Place de la Fontaine;69440;69219;Saint-Laurent-d'Agny;;;4.684794;45.641601
+69219_0610_00068_j;68;j;Chemin des Ronzes;69440;69219;Saint-Laurent-d'Agny;;;4.677596;45.645076
+69219_0070_00113;113;;Chemin du Cadix;69440;69219;Saint-Laurent-d'Agny;;;4.687596;45.642794
+69219_0120_00060_a;60;a;Rue du Clos de Cibeins;69440;69219;Saint-Laurent-d'Agny;;;4.687287;45.643068
+69219_0630_00266;266;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686671;45.643324
+69219_0400_00429_b;429;b;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.684036;45.636525
+69219_0400_00426_l;426;l;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.683224;45.637974
+69219_0360_00319;319;;Route de Marcellat;69440;69219;Saint-Laurent-d'Agny;;;4.666661;45.645427
+69219_0680_00122;122;;Rue des Sources;69440;69219;Saint-Laurent-d'Agny;;;4.673373;45.644927
+69219_0600_00330;330;;Chemin des Roches;69440;69219;Saint-Laurent-d'Agny;;;4.692147;45.639894
+69219_x9tvqn_00140_b;140;b;Chemin des Vignes;69440;69219;Saint-Laurent-d'Agny;;;4.69166;45.637053
+69219_0610_00068_d;68;d;Chemin des Ronzes;69440;69219;Saint-Laurent-d'Agny;;;4.677658;45.645809
+69219_0210_00246_a;246;a;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.688937;45.641428
+69219_0640_00488;488;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.678999;45.642985
+69219_0640_00100;100;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.683962;45.641679
+69219_0740_00182;182;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.677876;45.64125
+69219_0710_00049;49;;Rue Traversière;69440;69219;Saint-Laurent-d'Agny;;;4.684772;45.641398
+69219_0030_00019;19;;Route de Bouchat;69440;69219;Saint-Laurent-d'Agny;;;4.669616;45.647109
+69219_0070_00068;68;;Chemin du Cadix;69440;69219;Saint-Laurent-d'Agny;;;4.687177;45.642542
+69219_0640_00986;986;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.676509;45.646049
+69219_0640_00734;734;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.676596;45.643741
+69219_0380_00031;31;;Impasse du Molard;69440;69219;Saint-Laurent-d'Agny;;;4.690983;45.636362
+69219_0150_00770;770;;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.687674;45.646617
+69219_0360_00085;85;;Route de Marcellat;69440;69219;Saint-Laurent-d'Agny;;;4.668973;45.644123
+69219_0070_00090;90;;Chemin du Cadix;69440;69219;Saint-Laurent-d'Agny;;;4.687342;45.642578
+69219_0390_00032;32;;Chemin du Moncey;69440;69219;Saint-Laurent-d'Agny;;;4.677535;45.642921
+69219_0620_00459;459;;Route des Ronzières;69440;69219;Saint-Laurent-d'Agny;;;4.677755;45.647275
+69219_0340_00033_a;33;a;Chemin de la Lorende;69440;69219;Saint-Laurent-d'Agny;;;4.692094;45.63774
+69219_0370_00052_a;52;a;Impasse de la Matazine;69440;69219;Saint-Laurent-d'Agny;;;4.683486;45.641274
+69219_0400_00549_d;549;d;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682862;45.636364
+69219_0400_00572_h;572;h;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.681193;45.637024
+69219_0150_00240;240;;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.688856;45.645869
+69219_0640_00719_b;719;b;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.676844;45.643133
+69219_0640_01086;1086;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.676085;45.645125
+69219_0320_00124;124;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.673732;45.64448
+69219_0630_00141;141;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686215;45.642356
+69219_0250_00090;90;;Chemin de la Garde;69440;69219;Saint-Laurent-d'Agny;;;4.671955;45.647656
+69219_0550_00234;234;;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.679232;45.645037
+69219_0360_00426;426;;Route de Marcellat;69440;69219;Saint-Laurent-d'Agny;;;4.665033;45.645627
+69219_0570_00351_g;351;g;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.688871;45.63701
+69219_0360_00340;340;;Route de Marcellat;69440;69219;Saint-Laurent-d'Agny;;;4.669572;45.644965
+69219_0670_00425;425;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.686442;45.643768
+69219_0370_00039;39;;Impasse de la Matazine;69440;69219;Saint-Laurent-d'Agny;;;4.683883;45.641278
+69219_0190_00010;10;;Rue de l'Eglise;69440;69219;Saint-Laurent-d'Agny;;;4.68667;45.64084
+69219_0150_00106_g;106;g;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.690022;45.645563
+69219_0680_00086;86;;Rue des Sources;69440;69219;Saint-Laurent-d'Agny;;;4.673568;45.645409
+69219_0120_00089;89;;Rue du Clos de Cibeins;69440;69219;Saint-Laurent-d'Agny;;;4.68795;45.643877
+69219_0130_00116;116;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.691516;45.643535
+69219_0100_00432;432;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690176;45.637919
+69219_0090_00014;14;;Rue du Château;69440;69219;Saint-Laurent-d'Agny;;;4.685075;45.640799
+69219_0640_00491_a;491;a;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.679143;45.641623
+69219_0390_00253;253;;Chemin du Moncey;69440;69219;Saint-Laurent-d'Agny;;;4.676244;45.642406
+69219_0680_00134_a;134;a;Rue des Sources;69440;69219;Saint-Laurent-d'Agny;;;4.673367;45.645167
+69219_0115_00135;135;;Rue du Jonan;69440;69219;Saint-Laurent-d'Agny;;;4.687088;45.640057
+69219_0087_00058;58;;Montée de la Chapelle;69440;69219;Saint-Laurent-d'Agny;;;4.674936;45.645587
+69219_0150_00106_a;106;a;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.690961;45.645468
+69219_0257_00160_a;160;a;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.68426;45.637837
+69219_0570_00206;206;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.704844;45.623399
+69219_0520_00547_c;547;c;Chemin des Prés;69440;69219;Saint-Laurent-d'Agny;;;4.68497;45.644167
+69219_0230_00013;13;;Place de la Fontaine;69440;69219;Saint-Laurent-d'Agny;;;4.684651;45.641735
+69219_0380_00034;34;;Impasse du Molard;69440;69219;Saint-Laurent-d'Agny;;;4.691195;45.636044
+69219_0450_00030;30;;Impasse de la Pérouse;69440;69219;Saint-Laurent-d'Agny;;;4.686201;45.643726
+69219_0257_00160_i;160;i;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.684599;45.637986
+69219_0340_00077;77;;Chemin de la Lorende;69440;69219;Saint-Laurent-d'Agny;;;4.692486;45.637879
+69219_0100_00036;36;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.68734;45.640581
+69219_0680_00134_d;134;d;Rue des Sources;69440;69219;Saint-Laurent-d'Agny;;;4.672284;45.645085
+69219_0497_00019;19;;Allee des Platanes;69440;69219;Saint-Laurent-d'Agny;;;4.685109;45.639257
+69219_0360_00598;598;;Route de Marcellat;69440;69219;Saint-Laurent-d'Agny;;;4.662248;45.64508
+69219_0740_00128;128;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.67786;45.641597
+69219_0570_00478;478;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.689796;45.635938
+69219_0340_00004;4;;Chemin de la Lorende;69440;69219;Saint-Laurent-d'Agny;;;4.691958;45.63741
+69219_0630_00217;217;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686072;45.642983
+69219_0670_00459;459;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.686033;45.644147
+69219_0120_00034;34;;Rue du Clos de Cibeins;69440;69219;Saint-Laurent-d'Agny;;;4.687038;45.643302
+69219_0340_00027;27;;Chemin de la Lorende;69440;69219;Saint-Laurent-d'Agny;;;4.69168;45.637755
+69219_0110_00041;41;;Chemin du Clos Bourbon;69440;69219;Saint-Laurent-d'Agny;;;4.679303;45.644771
+69219_0010_00073_g;73;g;Rue du Bas Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690168;45.637091
+69219_0590_00280;280;;Chemin des Rivières;69440;69219;Saint-Laurent-d'Agny;;;4.667923;45.64189
+69219_0270_00017;17;;Chemin du Gorget;69440;69219;Saint-Laurent-d'Agny;;;4.683641;45.641827
+69219_0670_00003;3;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.685077;45.641106
+69219_0180_00069;69;;Rue des Ecoles;69440;69219;Saint-Laurent-d'Agny;;;4.684529;45.640805
+69219_0630_00012;12;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686352;45.641208
+69219_8gcjsy_00004;4;;Le Petit Sentier;69440;69219;Saint-Laurent-d'Agny;;;4.686224;45.642016
+69219_0180_00041;41;;Rue des Ecoles;69440;69219;Saint-Laurent-d'Agny;;;4.684251;45.640049
+69219_0400_00426_p;426;p;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.683604;45.637322
+69219_0015_00059;59;;Chemin des Crozes;69440;69219;Saint-Laurent-d'Agny;;;4.67498;45.644249
+69219_0340_00002;2;;Chemin de la Lorende;69440;69219;Saint-Laurent-d'Agny;;;4.691944;45.637234
+69219_0710_00044;44;;Rue Traversière;69440;69219;Saint-Laurent-d'Agny;;;4.684919;45.641419
+69219_0270_00123;123;;Chemin du Gorget;69440;69219;Saint-Laurent-d'Agny;;;4.683668;45.642534
+69219_0400_00407;407;;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.684346;45.63667
+69219_0640_00692;692;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.677058;45.643473
+69219_v13cl0_00255_t;255;t;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.689507;45.645238
+69219_0115_00053;53;;Rue du Jonan;69440;69219;Saint-Laurent-d'Agny;;;4.686508;45.640012
+69219_0400_00572_f;572;f;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.681089;45.637559
+69219_0620_00032;32;;Route des Ronzières;69440;69219;Saint-Laurent-d'Agny;;;4.679045;45.646843
+69219_0670_00621;621;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.686737;45.645314
+69219_0550_00510;510;;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.680525;45.647144
+69219_0010_00169;169;;Rue du Bas Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690983;45.637276
+69219_0570_02830;2830;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.707348;45.621123
+69219_0590_00410;410;;Chemin des Rivières;69440;69219;Saint-Laurent-d'Agny;;;4.668334;45.640759
+69219_0130_00335;335;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.692636;45.645437
+69219_0257_00160_g;160;g;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.684611;45.637471
+69219_0670_00589;589;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.686912;45.645015
+69219_v13cl0_00255_b;255;b;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.688447;45.64526
+69219_0640_00233;233;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.679248;45.640565
+69219_0670_00605;605;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.686864;45.645172
+69219_v13cl0_00255_u;255;u;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.689165;45.645262
+69219_0100_00142;142;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.687548;45.639552
+69219_0320_00259;259;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.672323;45.64395
+69219_0130_00315_a;315;a;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.692376;45.645553
+69219_q5ad2q_00004;4;;Rue du Fornaire;69440;69219;Saint-Laurent-d'Agny;;;4.68781;45.644691
+69219_0150_00328;328;;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.688261;45.645947
+69219_0320_00051;51;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.674674;45.644603
+69219_0250_00105;105;;Chemin de la Garde;69440;69219;Saint-Laurent-d'Agny;;;4.671054;45.64798
+69219_0400_00426_i;426;i;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682614;45.638718
+69219_0015_00070;70;;Chemin des Crozes;69440;69219;Saint-Laurent-d'Agny;;;4.674791;45.643719
+69219_0400_00143;143;;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.685647;45.638988
+69219_0360_00464;464;;Route de Marcellat;69440;69219;Saint-Laurent-d'Agny;;;4.663996;45.646029
+69219_0680_00031;31;;Rue des Sources;69440;69219;Saint-Laurent-d'Agny;;;4.674433;45.645045
+69219_0100_00280;280;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.688551;45.638598
+69219_0640_00178;178;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.68304;45.641832
+69219_0400_00475;475;;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682442;45.635539
+69219_0320_00280;280;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.671925;45.644702
+69219_v13cl0_00255_v;255;v;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.68893;45.64535
+69219_0210_00003;3;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.685926;45.641076
+69219_0340_00415;415;;Chemin de la Lorende;69440;69219;Saint-Laurent-d'Agny;;;4.695643;45.639518
+69219_0400_00023;23;;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.685586;45.640914
+69219_0610_00068_e;68;e;Chemin des Ronzes;69440;69219;Saint-Laurent-d'Agny;;;4.677292;45.645935
+69219_0630_00091;91;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686247;45.641858
+69219_0150_00069;69;;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.691185;45.645201
+69219_0490_00065;65;;Rue du Planil;69440;69219;Saint-Laurent-d'Agny;;;4.690294;45.645212
+69219_0400_00436_k;436;k;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.681906;45.637712
+69219_0100_00463;463;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.691029;45.638069
+69219_0690_00045;45;;Place de Souvigny;69440;69219;Saint-Laurent-d'Agny;;;4.684391;45.641391
+69219_0180_00153;153;;Rue des Ecoles;69440;69219;Saint-Laurent-d'Agny;;;4.683993;45.640794
+69219_0070_00125;125;;Chemin du Cadix;69440;69219;Saint-Laurent-d'Agny;;;4.687758;45.642778
+69219_0130_00030;30;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.691135;45.642776
+69219_0400_00572_d;572;d;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.681739;45.637209
+69219_0099_00070;70;;Impasse du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690089;45.638724
+69219_0460_00031;31;;Chemin des Perrichonnes;69440;69219;Saint-Laurent-d'Agny;;;4.693596;45.645373
+69219_0400_00349;349;;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.685112;45.637028
+69219_0210_00235;235;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.688718;45.641982
+69219_0630_00114;114;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.68633;45.642115
+69219_0570_00178;178;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.687569;45.638086
+69219_0630_00199;199;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.685817;45.64277
+69219_0305_00151;151;;Rue du Haut Planil;69440;69219;Saint-Laurent-d'Agny;;;4.690078;45.644117
+69219_0630_00064;64;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686448;45.641579
+69219_0100_00018;18;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.687176;45.641036
+69219_0070_00064;64;;Chemin du Cadix;69440;69219;Saint-Laurent-d'Agny;;;4.687047;45.64243
+69219_0257_00160_j;160;j;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.684646;45.637925
+69219_0640_00719_a;719;a;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.676616;45.642808
+69219_0570_00419;419;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.689893;45.636322
+69219_0400_00436_m;436;m;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682206;45.637201
+69219_0390_00191;191;;Chemin du Moncey;69440;69219;Saint-Laurent-d'Agny;;;4.675967;45.642271
+69219_0110_00087;87;;Chemin du Clos Bourbon;69440;69219;Saint-Laurent-d'Agny;;;4.679962;45.644585
+69219_0570_00413;413;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.689667;45.636533
+69219_0400_00426_n;426;n;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.683523;45.637555
+69219_0550_00382;382;;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.679575;45.646161
+69219_0570_00075_e;75;e;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.68625;45.639013
+69219_0320_00066;66;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.673933;45.644836
+69219_0740_00255;255;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.678223;45.640435
+69219_0130_00150;150;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.691773;45.643758
+69219_0115_00140;140;;Rue du Jonan;69440;69219;Saint-Laurent-d'Agny;;;4.687054;45.639686
+69219_0430_00001;1;;Chemin de la Noyeraie;69440;69219;Saint-Laurent-d'Agny;;;4.685797;45.637786
+69219_0090_00015;15;;Rue du Château;69440;69219;Saint-Laurent-d'Agny;;;4.684692;45.640708
+69219_0640_00491_e;491;e;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.679771;45.641618
+69219_0610_00068_f;68;f;Chemin des Ronzes;69440;69219;Saint-Laurent-d'Agny;;;4.677217;45.64572
+69219_v13cl0_00255_k;255;k;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.689262;45.644905
+69219_0210_00155_d;155;d;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.687205;45.641651
+69219_0630_00049;49;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686255;45.641489
+69219_0257_00160_l;160;l;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.684686;45.637789
+69219_0490_00057;57;;Rue du Planil;69440;69219;Saint-Laurent-d'Agny;;;4.689389;45.643611
+69219_0210_00246_d;246;d;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.688936;45.641263
+69219_0610_00068_g;68;g;Chemin des Ronzes;69440;69219;Saint-Laurent-d'Agny;;;4.677242;45.645434
+69219_0380_00029;29;;Impasse du Molard;69440;69219;Saint-Laurent-d'Agny;;;4.69089;45.636319
+69219_0570_00107;107;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.705546;45.624591
+69219_0710_00009;9;;Rue Traversière;69440;69219;Saint-Laurent-d'Agny;;;4.684753;45.641019
+69219_0190_00034;34;;Rue de l'Eglise;69440;69219;Saint-Laurent-d'Agny;;;4.687042;45.640847
+69219_0100_00449_b;449;b;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.691121;45.6385
+69219_0570_00549;549;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.690528;45.635624
+69219_0640_00847;847;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.675812;45.6442
+69219_0257_00160_c;160;c;Rue de la Gloriette;69440;69219;Saint-Laurent-d'Agny;;;4.684375;45.637716
+69219_0270_00105;105;;Chemin du Gorget;69440;69219;Saint-Laurent-d'Agny;;;4.683545;45.642507
+69219_0740_00479;479;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.676331;45.63886
+69219_0740_00204;204;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.677128;45.641088
+69219_0400_00426_c;426;c;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.684145;45.637398
+69219_0087_01086;1086;;Montée de la Chapelle;69440;69219;Saint-Laurent-d'Agny;;;4.675237;45.645581
+69219_0630_00064;64;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686283;45.6416
+69219_0210_00023_a;23;a;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.686085;45.641078
+69219_0590_00012;12;;Chemin des Rivières;69440;69219;Saint-Laurent-d'Agny;;;4.669488;45.643872
+69219_8gcjsy_00010;10;;Le Petit Sentier;69440;69219;Saint-Laurent-d'Agny;;;4.686103;45.641974
+69219_0100_00438;438;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690369;45.637862
+69219_0640_00192;192;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.682819;45.641771
+69219_0100_00343;343;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.689199;45.638392
+69219_0490_00044;44;;Rue du Planil;69440;69219;Saint-Laurent-d'Agny;;;4.690738;45.6448
+69219_0670_00675;675;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.686338;45.646144
+69219_0570_00180;180;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.704399;45.623586
+69219_0210_00095;95;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.686901;45.641193
+69219_0050_00055;55;;Place du By;69440;69219;Saint-Laurent-d'Agny;;;4.685349;45.640678
+69219_0630_00234;234;;Grande Rue;69440;69219;Saint-Laurent-d'Agny;;;4.686559;45.642985
+69219_0070_00071;71;;Chemin du Cadix;69440;69219;Saint-Laurent-d'Agny;;;4.68706;45.642654
+69219_0640_00633;633;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.677619;45.643057
+69219_0520_00064;64;;Chemin des Prés;69440;69219;Saint-Laurent-d'Agny;;;4.680347;45.646655
+69219_0570_00075_a;75;a;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.68683;45.638516
+69219_0670_00549;549;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.686718;45.644527
+69219_0400_00436_i;436;i;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.681837;45.638207
+69219_0210_00230;230;;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.68876;45.64122
+69219_0670_00735;735;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.686259;45.646461
+69219_0740_00460;460;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.676606;45.639197
+69219_0670_00020;20;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.686043;45.641352
+69219_0690_00001;1;;Place de Souvigny;69440;69219;Saint-Laurent-d'Agny;;;4.684049;45.641238
+69219_0270_00091;91;;Chemin du Gorget;69440;69219;Saint-Laurent-d'Agny;;;4.68342;45.642461
+69219_0280_00079;79;;Chemin du Grand Prost;69440;69219;Saint-Laurent-d'Agny;;;4.667663;45.64625
+69219_0670_00365;365;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.685845;45.643628
+69219_0210_00155_b;155;b;Rue de l'Etang;69440;69219;Saint-Laurent-d'Agny;;;4.687244;45.641504
+69219_0020_00170;170;;Chemin de la Blancherie;69440;69219;Saint-Laurent-d'Agny;;;4.683403;45.639247
+69219_0670_00647;647;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.686283;45.645636
+69219_0110_00089;89;;Chemin du Clos Bourbon;69440;69219;Saint-Laurent-d'Agny;;;4.680312;45.644545
+69219_0740_00037;37;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.678772;45.642381
+69219_q5ad2q_00367;367;;Rue du Fornaire;69440;69219;Saint-Laurent-d'Agny;;;4.687205;45.64576
+69219_0570_00349;349;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.707171;45.62291
+69219_0680_00134_f;134;f;Rue des Sources;69440;69219;Saint-Laurent-d'Agny;;;4.67252;45.644826
+69219_0370_00052_c;52;c;Impasse de la Matazine;69440;69219;Saint-Laurent-d'Agny;;;4.682818;45.641066
+69219_0520_00039;39;;Chemin des Prés;69440;69219;Saint-Laurent-d'Agny;;;4.680147;45.646574
+69219_0020_00042;42;;Chemin de la Blancherie;69440;69219;Saint-Laurent-d'Agny;;;4.684511;45.638962
+69219_0710_00013;13;;Rue Traversière;69440;69219;Saint-Laurent-d'Agny;;;4.68476;45.64106
+69219_0500_00096;96;;Route de Prapin;69440;69219;Saint-Laurent-d'Agny;;;4.691628;45.64237
+69219_v13cl0_00255_f;255;f;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.687791;45.644369
+69219_0710_00021;21;;Rue Traversière;69440;69219;Saint-Laurent-d'Agny;;;4.68474;45.641147
+69219_0130_00384;384;;Route de Cremiere;69440;69219;Saint-Laurent-d'Agny;;;4.692952;45.644892
+69219_0087_00037;37;;Montée de la Chapelle;69440;69219;Saint-Laurent-d'Agny;;;4.674561;45.645376
+69219_v13cl0_00255_s;255;s;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.689846;45.645045
+69219_0497_00018;18;;Allee des Platanes;69440;69219;Saint-Laurent-d'Agny;;;4.685048;45.639487
+69219_0740_00201;201;;Chemin du Vernay;69440;69219;Saint-Laurent-d'Agny;;;4.675335;45.639193
+69219_0005_00068;68;;Rue de l'Ancienne Gare;69440;69219;Saint-Laurent-d'Agny;;;4.691878;45.641934
+69219_v13cl0_00255_j;255;j;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.688969;45.644926
+69219_0040_00022;22;;Impasse de la Boulangerie;69440;69219;Saint-Laurent-d'Agny;;;4.686032;45.641439
+69219_0670_00673;673;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.686401;45.645838
+69219_0087_00216;216;;Montée de la Chapelle;69440;69219;Saint-Laurent-d'Agny;;;4.675407;45.64704
+69219_0400_00426_g;426;g;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.683523;45.638887
+69219_0087_00638;638;;Montée de la Chapelle;69440;69219;Saint-Laurent-d'Agny;;;4.671463;45.647092
+69219_0400_00426_b;426;b;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.684312;45.637205
+69219_0305_00187;187;;Rue du Haut Planil;69440;69219;Saint-Laurent-d'Agny;;;4.690254;45.64451
+69219_0640_00743_a;743;a;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.676436;45.643148
+69219_0640_00743_b;743;b;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.675946;45.643303
+69219_0570_00321;321;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.688868;45.637188
+69219_0600_00201;201;;Chemin des Roches;69440;69219;Saint-Laurent-d'Agny;;;4.693333;45.640552
+69219_0690_00038;38;;Place de Souvigny;69440;69219;Saint-Laurent-d'Agny;;;4.68461;45.64128
+69219_0640_00788;788;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.676541;45.643944
+69219_0400_00426_h;426;h;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.683098;45.638787
+69219_0620_00015;15;;Route des Ronzières;69440;69219;Saint-Laurent-d'Agny;;;4.678906;45.646372
+69219_0190_00072;72;;Rue de l'Eglise;69440;69219;Saint-Laurent-d'Agny;;;4.687008;45.64071
+69219_0360_00936;936;;Route de Marcellat;69440;69219;Saint-Laurent-d'Agny;;;4.660535;45.641849
+69219_0640_00044;44;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.684696;45.641545
+69219_0140_00135;135;;Chemin de la Croisette;69440;69219;Saint-Laurent-d'Agny;;;4.692531;45.643578
+69219_0400_00572_a;572;a;Route de Mornant;69440;69219;Saint-Laurent-d'Agny;;;4.682286;45.636533
+69219_0610_00068_h;68;h;Chemin des Ronzes;69440;69219;Saint-Laurent-d'Agny;;;4.677193;45.645265
+69219_0010_00073_f;73;f;Rue du Bas Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690368;45.637323
+69219_0150_00106_b;106;b;Chemin de la Croix des Rameaux;69440;69219;Saint-Laurent-d'Agny;;;4.691652;45.645438
+69219_0010_00073_b;73;b;Rue du Bas Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690558;45.636578
+69219_0070_00099;99;;Chemin du Cadix;69440;69219;Saint-Laurent-d'Agny;;;4.687407;45.642727
+69219_0550_00075;75;;Route du Ranfray;69440;69219;Saint-Laurent-d'Agny;;;4.678221;45.643818
+69219_v13cl0_00255_e;255;e;Rue du Clos Decibens;69440;69219;Saint-Laurent-d'Agny;;;4.688414;45.644597
+69219_0710_00010;10;;Rue Traversière;69440;69219;Saint-Laurent-d'Agny;;;4.684844;45.641026
+69219_0580_00097;97;;Chemin du Réservoir;69440;69219;Saint-Laurent-d'Agny;;;4.673695;45.645681
+69219_0087_00114;114;;Montée de la Chapelle;69440;69219;Saint-Laurent-d'Agny;;;4.675183;45.646283
+69219_0570_00134;134;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.704532;45.62417
+69219_0570_00041;41;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.685987;45.638683
+69219_0100_00427;427;;Rue du Clair;69440;69219;Saint-Laurent-d'Agny;;;4.690206;45.638142
+69219_0110_00131;131;;Chemin du Clos Bourbon;69440;69219;Saint-Laurent-d'Agny;;;4.680657;45.644313
+69219_0570_00304;304;;Route de Ravel;69440;69219;Saint-Laurent-d'Agny;;;4.688305;45.637126
+69219_0640_00003;3;;Route de Saint-vincent;69440;69219;Saint-Laurent-d'Agny;;;4.68517;45.641375
+69219_0140_00075;75;;Chemin de la Croisette;69440;69219;Saint-Laurent-d'Agny;;;4.691866;45.642692
+69219_0390_00267;267;;Chemin du Moncey;69440;69219;Saint-Laurent-d'Agny;;;4.676012;45.642401
+69219_0590_00159;159;;Chemin des Rivières;69440;69219;Saint-Laurent-d'Agny;;;4.66918;45.642684
+69219_0320_00297;297;;Route du Large;69440;69219;Saint-Laurent-d'Agny;;;4.671456;45.643743
+69219_0680_00168;168;;Rue des Sources;69440;69219;Saint-Laurent-d'Agny;;;4.673143;45.644668
+69219_0670_00050;50;;Route de Soucieu;69440;69219;Saint-Laurent-d'Agny;;;4.685377;45.641442
+69219_0500_00086_a;86;a;Route de Prapin;69440;69219;Saint-Laurent-d'Agny;;;4.691631;45.6432
+69219_0490_00248;248;;Rue du Planil;69440;69219;Saint-Laurent-d'Agny;;;4.691039;45.64424
+69219_0590_00050;50;;Chemin des Rivières;69440;69219;Saint-Laurent-d'Agny;;;4.669481;45.643523

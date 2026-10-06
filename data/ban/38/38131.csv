@@ -1,0 +1,925 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+38131_0130_00124_c;124;c;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.870168;45.456422
+38131_0185_00199;199;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.867917;45.452904
+38131_0055_00403;403;;Chemin du Bois Rondet;38138;38131;Les Côtes-d'Arey;;;4.885453;45.441405
+38131_0240_00101;101;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.882812;45.447634
+38131_0080_00680;680;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.871329;45.461174
+38131_0250_00246;246;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.865226;45.455489
+38131_0130_00244;244;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.871684;45.456805
+38131_0220_00180;180;;Chemin des Rivoires;38138;38131;Les Côtes-d'Arey;;;4.855762;45.458982
+38131_heedkv_00003;3;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.873994;45.457695
+38131_0045_00952;952;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.854172;45.461462
+38131_0082_00206;206;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.856981;45.460537
+38131_0020_00009;9;;Place Alexandre Dorzat;38138;38131;Les Côtes-d'Arey;;;4.867505;45.456282
+38131_0135_00049;49;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.868213;45.454661
+38131_0240_01522;1522;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.897004;45.448678
+38131_0220_00049;49;;Chemin des Rivoires;38138;38131;Les Côtes-d'Arey;;;4.857266;45.458835
+38131_ahhctx_00055;55;;Impasse des Marquises;38138;38131;Les Côtes-d'Arey;;;4.879483;45.447202
+38131_0250_00047;47;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.867231;45.455987
+38131_0060_00139;139;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.862698;45.452547
+38131_0240_01599;1599;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.897801;45.449114
+38131_zkca02_00260;260;;Route de la France;38138;38131;Les Côtes-d'Arey;;;4.893798;45.467433
+38131_0127_00082;82;;Impasse de la Gloriette;38138;38131;Les Côtes-d'Arey;;;4.860702;45.453753
+38131_0250_00127;127;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.866292;45.456012
+38131_0140_00283;283;;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.864746;45.465385
+38131_0210_00165;165;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.86743;45.454599
+38131_0230_00494;494;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.858983;45.458686
+38131_0285_00138;138;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.868837;45.455313
+38131_0160_00184;184;;Impasse de la Lune;38138;38131;Les Côtes-d'Arey;;;4.85275;45.462339
+38131_0225_00008;8;;Impasse des Roses;38138;38131;Les Côtes-d'Arey;;;4.864515;45.454531
+38131_0270_00177;177;;Chemin de la Tuillière;38138;38131;Les Côtes-d'Arey;;;4.881369;45.449178
+38131_0120_00162_a;162;a;Chemin de Girard;38138;38131;Les Côtes-d'Arey;;;4.880732;45.461404
+38131_0190_00824;824;;Chemin de Petit Cour;38138;38131;Les Côtes-d'Arey;;;4.881121;45.439851
+38131_0060_00004;4;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.863681;45.454505
+38131_0230_00573;573;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.860193;45.458812
+38131_0210_00074;74;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.86773;45.455492
+38131_0140_00300_e;300;e;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.86569;45.465217
+38131_0185_00173;173;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.867982;45.453131
+38131_0035_00079;79;;Rue de la Bascule;38138;38131;Les Côtes-d'Arey;;;4.866875;45.455342
+38131_tegibv_00012;12;;Impasse des Orchis;38138;38131;Les Côtes-d'Arey;;;4.869905;45.456566
+38131_0095_00037;37;;Impasse des Cyprès;38138;38131;Les Côtes-d'Arey;;;4.87189;45.45454
+38131_0065_00029;29;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.872762;45.454538
+38131_0220_00092;92;;Chemin des Rivoires;38138;38131;Les Côtes-d'Arey;;;4.856932;45.459038
+38131_0230_00053;53;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.858984;45.455993
+38131_0190_00890;890;;Chemin de Petit Cour;38138;38131;Les Côtes-d'Arey;;;4.881943;45.439623
+38131_0096_00159;159;;Impasse des Dauphinieres;38138;38131;Les Côtes-d'Arey;;;4.846629;45.457527
+38131_0082_00192;192;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.856836;45.460156
+38131_0082_00138;138;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.856044;45.460799
+38131_0115_00428;428;;Chemin du Gay;38138;38131;Les Côtes-d'Arey;;;4.866133;45.450899
+38131_0210_00402;402;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.864469;45.454691
+38131_0285_00151;151;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.869076;45.455142
+38131_0220_00080;80;;Chemin des Rivoires;38138;38131;Les Côtes-d'Arey;;;4.856976;45.459052
+38131_0035_00104;104;;Rue de la Bascule;38138;38131;Les Côtes-d'Arey;;;4.866831;45.455095
+38131_0065_00484;484;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.874161;45.454604
+38131_0082_00241;241;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.857229;45.460837
+38131_0285_00094;94;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.868756;45.455512
+38131_0165_00014;14;;Impasse des Lys;38138;38131;Les Côtes-d'Arey;;;4.864216;45.454543
+38131_0185_00308;308;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.867715;45.452141
+38131_0175_00166;166;;Rue Chez Michard;38138;38131;Les Côtes-d'Arey;;;4.877486;45.45702
+38131_0075_00137;137;;Impasse du Château;38138;38131;Les Côtes-d'Arey;;;4.85904;45.457231
+38131_0230_00420;420;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.858056;45.458618
+38131_0240_00099;99;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.882767;45.447668
+38131_0250_00181;181;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.865704;45.455809
+38131_0155_00021;21;;Chemin des Lauriers;38138;38131;Les Côtes-d'Arey;;;4.866784;45.452491
+38131_0140_00188;188;;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.864703;45.464552
+38131_565yte_00034;34;;rue du Clos du Centre;38138;38131;Les Côtes-d'Arey;;;4.871513;45.457171
+38131_0049_00380;380;;Impasse du Bois de l’Ille;38138;38131;Les Côtes-d'Arey;;;4.90319;45.470433
+38131_0290_00315;315;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.879576;45.458841
+38131_0115_00175;175;;Chemin du Gay;38138;38131;Les Côtes-d'Arey;;;4.866657;45.453154
+38131_0085_00431;431;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.864299;45.458917
+38131_heedkv_00019;19;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.871978;45.458446
+38131_0130_00084;84;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.869651;45.456674
+38131_0030_00713;713;;Montée de la Barbelière;38138;38131;Les Côtes-d'Arey;;;4.877574;45.445247
+38131_0130_00539;539;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.874632;45.458442
+38131_accu8b_00111;111;;mérariés;38138;38131;Les Côtes-d'Arey;;;4.86416;45.456969
+38131_0045_00712;712;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.856387;45.462674
+38131_heedkv_00004;4;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.874099;45.457732
+38131_0185_00323;323;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.868207;45.452128
+38131_0080_00172;172;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.869235;45.458152
+38131_0130_00497;497;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.874756;45.45745
+38131_0085_00507;507;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.86448;45.459618
+38131_0067_00165;165;;Chemin de Chaillit;38138;38131;Les Côtes-d'Arey;;;4.883222;45.445441
+38131_0160_00074;74;;Impasse de la Lune;38138;38131;Les Côtes-d'Arey;;;4.852895;45.461623
+38131_0290_00419;419;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.880917;45.458882
+38131_0210_00513;513;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.862596;45.45471
+38131_0225_00011;11;;Impasse des Roses;38138;38131;Les Côtes-d'Arey;;;4.864643;45.454457
+38131_0285_00446;446;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.869963;45.452614
+38131_0010_00047;47;;Impasse des Acacias;38138;38131;Les Côtes-d'Arey;;;4.877123;45.455674
+38131_0098_01105;1105;;Impasse des Durantonnes;38138;38131;Les Côtes-d'Arey;;;4.891088;45.476748
+38131_ekdiuf_00100;100;;Impasse du Siffet;38138;38131;Les Côtes-d'Arey;;;4.864261;45.45574
+38131_0125_00053;53;;Impasse des Glaieuls;38138;38131;Les Côtes-d'Arey;;;4.866494;45.454189
+38131_0080_00558;558;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.869917;45.461147
+38131_0045_00532;532;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.858411;45.461893
+38131_0120_00162_b;162;b;Chemin de Girard;38138;38131;Les Côtes-d'Arey;;;4.880743;45.461382
+38131_0130_00138;138;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.870316;45.456429
+38131_0130_00124_a;124;a;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.87011;45.456662
+38131_0140_00037;37;;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.864748;45.463195
+38131_0159_00124;124;;Chemin des Lunaires;38138;38131;Les Côtes-d'Arey;;;4.865454;45.456629
+38131_0250_00062;62;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.867131;45.456213
+38131_0270_00095;95;;Chemin de la Tuillière;38138;38131;Les Côtes-d'Arey;;;4.881687;45.448681
+38131_0085_01223;1223;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.866701;45.465489
+38131_0030_00779;779;;Montée de la Barbelière;38138;38131;Les Côtes-d'Arey;;;4.876391;45.44439
+38131_0035_00083;83;;Rue de la Bascule;38138;38131;Les Côtes-d'Arey;;;4.866881;45.45532
+38131_heedkv_00002;2;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.87418;45.457581
+38131_ahhctx_00031;31;;Impasse des Marquises;38138;38131;Les Côtes-d'Arey;;;4.879274;45.447015
+38131_0185_00160;160;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.867848;45.453279
+38131_0242_00047;47;;Impasse Saint Martin;38138;38131;Les Côtes-d'Arey;;;4.869848;45.457128
+38131_0140_00105;105;;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.864704;45.463799
+38131_0145_00062;62;;Impasse Jocteur;38138;38131;Les Côtes-d'Arey;;;4.870782;45.456168
+38131_0240_00261;261;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.883987;45.446427
+38131_0210_00572;572;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.862511;45.455198
+38131_0080_00299;299;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.869063;45.459148
+38131_0230_00574;574;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.860779;45.458452
+38131_0065_00135;135;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.872354;45.455414
+38131_0075_00028;28;;Impasse du Château;38138;38131;Les Côtes-d'Arey;;;4.857714;45.457802
+38131_9n22eo_00116;116;;Impasse de l’Épi;38138;38131;Les Côtes-d'Arey;;;4.87111;45.455747
+38131_0080_00058;58;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.868733;45.457099
+38131_0245_00101;101;;Impasse des Saules;38138;38131;Les Côtes-d'Arey;;;4.874782;45.455549
+38131_0035_00020;20;;Rue de la Bascule;38138;38131;Les Côtes-d'Arey;;;4.866576;45.455801
+38131_llbupl_00100;100;;Impasse Séléné;38138;38131;Les Côtes-d'Arey;;;4.856278;45.461413
+38131_0140_00061;61;;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.864703;45.463422
+38131_0068_00046;46;;Impasse de la Chapelle;38138;38131;Les Côtes-d'Arey;;;4.875373;45.446547
+38131_0285_00403;403;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.870204;45.452982
+38131_0285_00544;544;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.870518;45.45182
+38131_0085_01238;1238;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.866795;45.465624
+38131_0170_00692;692;;Chemin Chez Maurice;38138;38131;Les Côtes-d'Arey;;;4.902004;45.462236
+38131_0075_00125_e;125;e;Impasse du Château;38138;38131;Les Côtes-d'Arey;;;4.859213;45.457945
+38131_0130_00054;54;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.869163;45.456595
+38131_0135_00267;267;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.870694;45.454115
+38131_0240_00064;64;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.88242;45.447806
+38131_0235_00586;586;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.878046;45.449279
+38131_9n22eo_00041;41;;Impasse de l’Épi;38138;38131;Les Côtes-d'Arey;;;4.870943;45.456393
+38131_0285_00081;81;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.869185;45.455689
+38131_0130_00047;47;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.869213;45.456669
+38131_0060_00137;137;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.862524;45.453763
+38131_0065_00289;289;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.873253;45.455641
+38131_zkca02_00540;540;;Route de la France;38138;38131;Les Côtes-d'Arey;;;4.894834;45.465807
+38131_0130_00056;56;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.869294;45.456621
+38131_0255_00138;138;;Impasse des Sources;38138;38131;Les Côtes-d'Arey;;;4.870935;45.460039
+38131_0050_00371;371;;Chemin du Bois Marquis;38138;38131;Les Côtes-d'Arey;;;4.885617;45.437914
+38131_0096_00181;181;;Impasse des Dauphinieres;38138;38131;Les Côtes-d'Arey;;;4.846737;45.457236
+38131_0285_00311;311;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.869716;45.453687
+38131_0060_00133;133;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.862733;45.453611
+38131_0140_00158;158;;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.864767;45.464275
+38131_0185_00105;105;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.867949;45.453713
+38131_tegibv_00006;6;;Impasse des Orchis;38138;38131;Les Côtes-d'Arey;;;4.869908;45.456607
+38131_9n22eo_00146;146;;Impasse de l’Épi;38138;38131;Les Côtes-d'Arey;;;4.871444;45.455692
+38131_0065_00180;180;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.871972;45.455537
+38131_0182_00097;97;;Impasse Morin;38138;38131;Les Côtes-d'Arey;;;4.867585;45.457161
+38131_0065_00154;154;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.872285;45.455571
+38131_heedkv_00022;22;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.871771;45.458791
+38131_0140_00300_f;300;f;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.86495;45.46524
+38131_0270_00188;188;;Chemin de la Tuillière;38138;38131;Les Côtes-d'Arey;;;4.881287;45.449256
+38131_0060_00322;322;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.860609;45.452967
+38131_0145_00042;42;;Impasse Jocteur;38138;38131;Les Côtes-d'Arey;;;4.870767;45.456498
+38131_0115_00390;390;;Chemin du Gay;38138;38131;Les Côtes-d'Arey;;;4.866151;45.451244
+38131_0175_00109;109;;Rue Chez Michard;38138;38131;Les Côtes-d'Arey;;;4.877791;45.457242
+38131_0250_00019;19;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.867568;45.456094
+38131_0230_00259;259;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.857291;45.457319
+38131_0085_00723;723;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.865132;45.46135
+38131_0080_00800;800;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.87181;45.461998
+38131_0055_00120;120;;Chemin du Bois Rondet;38138;38131;Les Côtes-d'Arey;;;4.883828;45.439888
+38131_0250_00045;45;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.867327;45.456011
+38131_0182_00085;85;;Impasse Morin;38138;38131;Les Côtes-d'Arey;;;4.867631;45.457122
+38131_0135_00252;252;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.870492;45.453848
+38131_0175_00181;181;;Rue Chez Michard;38138;38131;Les Côtes-d'Arey;;;4.877617;45.45672
+38131_0285_00401;401;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.869984;45.45307
+38131_heedkv_00013;13;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.872998;45.458775
+38131_0vwrmb_00207;207;;Montée de Montarnaud;38138;38131;Les Côtes-d'Arey;;;4.858805;45.460467
+38131_0285_00575;575;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.870905;45.451615
+38131_0115_00431;431;;Chemin du Gay;38138;38131;Les Côtes-d'Arey;;;4.866245;45.450881
+38131_0250_00042;42;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.867189;45.456089
+38131_0080_00284;284;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.868969;45.458978
+38131_0135_02265;2265;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.892868;45.46166
+38131_0168_00031;31;;Impasse du Magnolia;38138;38131;Les Côtes-d'Arey;;;4.866013;45.454982
+38131_0168_00036;36;;Impasse du Magnolia;38138;38131;Les Côtes-d'Arey;;;4.866064;45.455071
+38131_0vwrmb_00319;319;;Montée de Montarnaud;38138;38131;Les Côtes-d'Arey;;;4.858705;45.461511
+38131_0085_01268;1268;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.86675;45.465918
+38131_0250_00155;155;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.866047;45.455951
+38131_0175_00182;182;;Rue Chez Michard;38138;38131;Les Côtes-d'Arey;;;4.877457;45.456701
+38131_accu8b_00105;105;;mérariés;38138;38131;Les Côtes-d'Arey;;;4.864176;45.456889
+38131_9n22eo_00152;152;;Impasse de l’Épi;38138;38131;Les Côtes-d'Arey;;;4.871522;45.455684
+38131_0235_00474;474;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.8778;45.44871
+38131_565yte_00100;100;;rue du Clos du Centre;38138;38131;Les Côtes-d'Arey;;;4.871187;45.457658
+38131_0265_00112;112;;Impasse des Tournesols;38138;38131;Les Côtes-d'Arey;;;4.874031;45.456196
+38131_0082_00204;204;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.856966;45.46053
+38131_0235_00677;677;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.878842;45.449032
+38131_0185_00187;187;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.868042;45.452929
+38131_0285_00063;63;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.868785;45.455921
+38131_0130_00514;514;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.874996;45.457418
+38131_0130_00299;299;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.872275;45.456968
+38131_0080_00828;828;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.871862;45.462274
+38131_0185_00155;155;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.868019;45.453271
+38131_0255_00179;179;;Impasse des Sources;38138;38131;Les Côtes-d'Arey;;;4.87072;45.459597
+38131_0170_01220;1220;;Chemin Chez Maurice;38138;38131;Les Côtes-d'Arey;;;4.907429;45.463922
+38131_0060_00097;97;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.863085;45.453885
+38131_ahhctx_00071;71;;Impasse des Marquises;38138;38131;Les Côtes-d'Arey;;;4.879825;45.446804
+38131_9n22eo_00137;137;;Impasse de l’Épi;38138;38131;Les Côtes-d'Arey;;;4.871371;45.455758
+38131_0250_00136;136;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.866172;45.456097
+38131_0177_00009;9;;Impasse des Mimosas;38138;38131;Les Côtes-d'Arey;;;4.872219;45.456824
+38131_0185_00069;69;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.867847;45.45404
+38131_0035_00096;96;;Rue de la Bascule;38138;38131;Les Côtes-d'Arey;;;4.866819;45.455158
+38131_0230_00456;456;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.858597;45.458618
+38131_0085_00611;611;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.86516;45.46038
+38131_0285_00137;137;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.869056;45.4553
+38131_0290_00086;86;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.876973;45.45798
+38131_0115_00127;127;;Chemin du Gay;38138;38131;Les Côtes-d'Arey;;;4.866766;45.453522
+38131_0140_00300_j;300;j;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.865672;45.465515
+38131_0250_00284;284;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.865266;45.455108
+38131_0265_00001;1;;Impasse des Tournesols;38138;38131;Les Côtes-d'Arey;;;4.874435;45.45721
+38131_0225_00023;23;;Impasse des Roses;38138;38131;Les Côtes-d'Arey;;;4.864583;45.454184
+38131_0270_00260;260;;Chemin de la Tuillière;38138;38131;Les Côtes-d'Arey;;;4.880917;45.449697
+38131_llbupl_00135;135;;Impasse Séléné;38138;38131;Les Côtes-d'Arey;;;4.855448;45.461885
+38131_tegibv_00020;20;;Impasse des Orchis;38138;38131;Les Côtes-d'Arey;;;4.869905;45.456485
+38131_0140_00104;104;;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.864772;45.463791
+38131_0055_00208;208;;Chemin du Bois Rondet;38138;38131;Les Côtes-d'Arey;;;4.884375;45.440503
+38131_heedkv_00017;17;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.872438;45.458817
+38131_llbupl_00124;124;;Impasse Séléné;38138;38131;Les Côtes-d'Arey;;;4.856591;45.461423
+38131_0096_00200;200;;Impasse des Dauphinieres;38138;38131;Les Côtes-d'Arey;;;4.84632;45.457204
+38131_0210_00567;567;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.862581;45.455075
+38131_0085_01185;1185;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.866572;45.465191
+38131_0140_00267;267;;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.864714;45.46525
+38131_heedkv_00011;11;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.872786;45.458688
+38131_0240_00418;418;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.885074;45.445256
+38131_0045_01106;1106;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.85234;45.460895
+38131_0080_00506;506;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.869441;45.460861
+38131_0080_00912;912;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.871904;45.46299
+38131_0082_00275;275;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.857451;45.461045
+38131_0129_00079;79;;Impasse Gontel;38138;38131;Les Côtes-d'Arey;;;4.899633;45.449802
+38131_0280_01080;1080;;Montée de la Vermillère;38138;38131;Les Côtes-d'Arey;;;4.900013;45.454211
+38131_0220_00157;157;;Chemin des Rivoires;38138;38131;Les Côtes-d'Arey;;;4.855813;45.458792
+38131_0265_00084;84;;Impasse des Tournesols;38138;38131;Les Côtes-d'Arey;;;4.874524;45.456554
+38131_0220_00056;56;;Chemin des Rivoires;38138;38131;Les Côtes-d'Arey;;;4.857331;45.458939
+38131_0130_00307;307;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.872407;45.45703
+38131_0098_01050;1050;;Impasse des Durantonnes;38138;38131;Les Côtes-d'Arey;;;4.890788;45.477343
+38131_0190_00721;721;;Chemin de Petit Cour;38138;38131;Les Côtes-d'Arey;;;4.880157;45.440523
+38131_0235_00687;687;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.87894;45.448935
+38131_0210_00497;497;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.863335;45.454716
+38131_llbupl_00033;33;;Impasse Séléné;38138;38131;Les Côtes-d'Arey;;;4.85572;45.461865
+38131_0085_00437;437;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.864343;45.458982
+38131_accu8b_00121;121;;mérariés;38138;38131;Les Côtes-d'Arey;;;4.864123;45.457025
+38131_0096_00141;141;;Impasse des Dauphinieres;38138;38131;Les Côtes-d'Arey;;;4.846552;45.457717
+38131_0230_00333;333;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.857532;45.457884
+38131_0085_01178;1178;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.866708;45.465196
+38131_0240_00181;181;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.883383;45.446989
+38131_lib6pg_00910;910;;Route des Barres;38138;38131;Les Côtes-d'Arey;;;4.869827;45.465768
+38131_0vwrmb_00006;6;;Montée de Montarnaud;38138;38131;Les Côtes-d'Arey;;;4.858924;45.458817
+38131_0082_00046;46;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.855112;45.46137
+38131_0290_00364;364;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.880572;45.45877
+38131_0160_00103;103;;Impasse de la Lune;38138;38131;Les Côtes-d'Arey;;;4.852658;45.461634
+38131_0165_00094;94;;Impasse des Lys;38138;38131;Les Côtes-d'Arey;;;4.864173;45.453796
+38131_0250_00085;85;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.866795;45.455864
+38131_0127_00094;94;;Impasse de la Gloriette;38138;38131;Les Côtes-d'Arey;;;4.860711;45.453861
+38131_0vwrmb_00077;77;;Montée de Montarnaud;38138;38131;Les Côtes-d'Arey;;;4.859151;45.459393
+38131_0175_00034;34;;Rue Chez Michard;38138;38131;Les Côtes-d'Arey;;;4.877618;45.45774
+38131_0135_00235;235;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.870325;45.454131
+38131_4h1inv_00917;917;;Impasse du Bisset;38138;38131;Les Côtes-d'Arey;;;4.880185;45.47323
+38131_0270_00074;74;;Chemin de la Tuillière;38138;38131;Les Côtes-d'Arey;;;4.881985;45.448911
+38131_tegibv_00024;24;;Impasse des Orchis;38138;38131;Les Côtes-d'Arey;;;4.869905;45.456455
+38131_0085_00207;207;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.865475;45.457244
+38131_heedkv_00015;15;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.872564;45.458802
+38131_0175_00177;177;;Rue Chez Michard;38138;38131;Les Côtes-d'Arey;;;4.877606;45.456752
+38131_0290_00302;302;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.879376;45.458765
+38131_0080_00813;813;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.871735;45.462164
+38131_heedkv_00010;10;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.873677;45.458541
+38131_0vwrmb_00161;161;;Montée de Montarnaud;38138;38131;Les Côtes-d'Arey;;;4.858981;45.460073
+38131_ar877t_00059;59;;Impasse des Capucines;38138;38131;Les Côtes-d'Arey;;;4.872951;45.456422
+38131_0205_00094;94;;Impasse du Puits;38138;38131;Les Côtes-d'Arey;;;4.866479;45.460267
+38131_1h8kz8_00467;467;;Chemin de la Renardière;38138;38131;Les Côtes-d'Arey;;;4.908374;45.472093
+38131_0155_00035;35;;Chemin des Lauriers;38138;38131;Les Côtes-d'Arey;;;4.866925;45.452434
+38131_0285_00601;601;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.871644;45.451115
+38131_0020_00011;11;;Place Alexandre Dorzat;38138;38131;Les Côtes-d'Arey;;;4.867552;45.456389
+38131_0240_00157;157;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.88317;45.447239
+38131_heedkv_00008;8;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.873798;45.458326
+38131_0137_00523;523;;Chemin de Jean Long;38138;38131;Les Côtes-d'Arey;;;4.883644;45.464094
+38131_0285_00039;39;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.86871;45.456128
+38131_ar877t_00037;37;;Impasse des Capucines;38138;38131;Les Côtes-d'Arey;;;4.872882;45.456658
+38131_0130_00010;10;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.868823;45.45653
+38131_0235_00326;326;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.878535;45.447715
+38131_0285_00548;548;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.870563;45.451737
+38131_tegibv_00038;38;;Impasse des Orchis;38138;38131;Les Côtes-d'Arey;;;4.869975;45.456253
+38131_0035_00103;103;;Rue de la Bascule;38138;38131;Les Côtes-d'Arey;;;4.866956;45.455003
+38131_0290_00140;140;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.877708;45.458211
+38131_zw7c39_00022;22;;Impasse Les Barlettes;38138;38131;Les Côtes-d'Arey;;;4.862301;45.453493
+38131_0275_00074;74;;Chemin de Vaujean;38138;38131;Les Côtes-d'Arey;;;4.884296;45.459235
+38131_0177_00052;52;;Impasse des Mimosas;38138;38131;Les Côtes-d'Arey;;;4.872307;45.456443
+38131_0050_00254;254;;Chemin du Bois Marquis;38138;38131;Les Côtes-d'Arey;;;4.883394;45.437105
+38131_0185_00470;470;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.870096;45.452312
+38131_0185_00021;21;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.867755;45.454455
+38131_zw7c39_00092;92;;Impasse Les Barlettes;38138;38131;Les Côtes-d'Arey;;;4.862396;45.452899
+38131_0035_00047;47;;Rue de la Bascule;38138;38131;Les Côtes-d'Arey;;;4.866822;45.455568
+38131_0080_00923;923;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.87186;45.463148
+38131_0055_00093;93;;Chemin du Bois Rondet;38138;38131;Les Côtes-d'Arey;;;4.88363;45.43971
+38131_0250_00260;260;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.865266;45.455306
+38131_0080_01159;1159;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.873528;45.464821
+38131_zw7c39_00050;50;;Impasse Les Barlettes;38138;38131;Les Côtes-d'Arey;;;4.862343;45.453258
+38131_0185_00319;319;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.868141;45.452134
+38131_0202_00200;200;;Impasse du Pin Rond;38138;38131;Les Côtes-d'Arey;;;4.897083;45.467763
+38131_0135_00397_c;397;c;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.872157;45.454608
+38131_0160_00093;93;;Impasse de la Lune;38138;38131;Les Côtes-d'Arey;;;4.852729;45.461624
+38131_ekdiuf_00118;118;;Impasse du Siffet;38138;38131;Les Côtes-d'Arey;;;4.864259;45.45558
+38131_0235_00400;400;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.877988;45.448128
+38131_0080_00580;580;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.870104;45.461235
+38131_0096_00108;108;;Impasse des Dauphinieres;38138;38131;Les Côtes-d'Arey;;;4.846245;45.457869
+38131_0055_00157;157;;Chemin du Bois Rondet;38138;38131;Les Côtes-d'Arey;;;4.88395;45.440176
+38131_0240_00242;242;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.88369;45.44657
+38131_0082_00062;62;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.855673;45.461028
+38131_0130_00376;376;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.873317;45.457012
+38131_0185_00386;386;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.869131;45.452171
+38131_0205_00175;175;;Impasse du Puits;38138;38131;Les Côtes-d'Arey;;;4.866528;45.460978
+38131_0055_00299;299;;Chemin du Bois Rondet;38138;38131;Les Côtes-d'Arey;;;4.885068;45.441143
+38131_0085_01107;1107;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.8662;45.464665
+38131_lib6pg_00665;665;;Route des Barres;38138;38131;Les Côtes-d'Arey;;;4.866809;45.466282
+38131_0210_00125;125;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.867788;45.455092
+38131_0130_00368;368;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.873188;45.457031
+38131_0130_00115;115;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.8699;45.456747
+38131_0230_00145;145;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.858387;45.456512
+38131_0235_00660;660;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.878563;45.449081
+38131_0030_00715;715;;Montée de la Barbelière;38138;38131;Les Côtes-d'Arey;;;4.876628;45.444766
+38131_0250_00147;147;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.86609;45.455971
+38131_0100_00670;670;;Chemin du Flachet;38138;38131;Les Côtes-d'Arey;;;4.871115;45.471262
+38131_0280_00986;986;;Montée de la Vermillère;38138;38131;Les Côtes-d'Arey;;;4.899792;45.45503
+38131_0080_00637;637;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.870854;45.461362
+38131_0255_00095;95;;Impasse des Sources;38138;38131;Les Côtes-d'Arey;;;4.871229;45.460305
+38131_0080_00523;523;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.869533;45.461044
+38131_0065_00339;339;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.873469;45.454815
+38131_0080_01207;1207;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.873972;45.465191
+38131_0290_00362;362;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.880572;45.45877
+38131_0030_01027;1027;;Montée de la Barbelière;38138;38131;Les Côtes-d'Arey;;;4.877645;45.442369
+38131_0085_00279;279;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.864635;45.457545
+38131_0230_00363;363;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.857696;45.458259
+38131_0055_00172;172;;Chemin du Bois Rondet;38138;38131;Les Côtes-d'Arey;;;4.884082;45.440208
+38131_0285_00257;257;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.869547;45.454286
+38131_llbupl_00094;94;;Impasse Séléné;38138;38131;Les Côtes-d'Arey;;;4.856185;45.461419
+38131_0210_00163;163;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.867544;45.454645
+38131_0140_00300_g;300;g;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.865859;45.465543
+38131_0065_00304;304;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.873301;45.455122
+38131_0060_00069;69;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.863455;45.453973
+38131_4h1inv_00529;529;;Impasse du Bisset;38138;38131;Les Côtes-d'Arey;;;4.883172;45.471456
+38131_0080_00066;66;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.86876;45.457206
+38131_0140_00222;222;;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.864729;45.46487
+38131_0185_00152;152;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.867584;45.453237
+38131_0075_00125_c;125;c;Impasse du Château;38138;38131;Les Côtes-d'Arey;;;4.859121;45.457981
+38131_0035_00080;80;;Rue de la Bascule;38138;38131;Les Côtes-d'Arey;;;4.866799;45.455315
+38131_0270_00046;46;;Chemin de la Tuillière;38138;38131;Les Côtes-d'Arey;;;4.882562;45.448414
+38131_ar877t_00001;1;;Impasse des Capucines;38138;38131;Les Côtes-d'Arey;;;4.872751;45.456944
+38131_0030_00074;74;;Montée de la Barbelière;38138;38131;Les Côtes-d'Arey;;;4.873751;45.449548
+38131_0vwrmb_00027;27;;Montée de Montarnaud;38138;38131;Les Côtes-d'Arey;;;4.858833;45.458935
+38131_0083_00900;900;;Chemin du Coint;38138;38131;Les Côtes-d'Arey;;;4.908577;45.456278
+38131_0240_00203;203;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.884034;45.447387
+38131_0200_00079;79;;Impasse des Peupliers;38138;38131;Les Côtes-d'Arey;;;4.875862;45.455437
+38131_0067_00246;246;;Chemin de Chaillit;38138;38131;Les Côtes-d'Arey;;;4.883112;45.444742
+38131_lib6pg_00719;719;;Route des Barres;38138;38131;Les Côtes-d'Arey;;;4.867524;45.466304
+38131_0130_00091;91;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.869663;45.456759
+38131_0285_00209;209;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.869397;45.454674
+38131_0255_00163;163;;Impasse des Sources;38138;38131;Les Côtes-d'Arey;;;4.870804;45.459728
+38131_0055_00153;153;;Chemin du Bois Rondet;38138;38131;Les Côtes-d'Arey;;;4.883886;45.440102
+38131_0210_00112;112;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.867648;45.455201
+38131_0120_00167;167;;Chemin de Girard;38138;38131;Les Côtes-d'Arey;;;4.880792;45.461384
+38131_heedkv_00012;12;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.873462;45.458734
+38131_0068_00037;37;;Impasse de la Chapelle;38138;38131;Les Côtes-d'Arey;;;4.875494;45.446532
+38131_0080_00513;513;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.869405;45.460966
+38131_0085_00149;149;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.866203;45.457095
+38131_0145_00080;80;;Impasse Jocteur;38138;38131;Les Côtes-d'Arey;;;4.870828;45.455966
+38131_0210_00664;664;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.861444;45.455451
+38131_0210_00657;657;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.861458;45.455342
+38131_0096_00125;125;;Impasse des Dauphinieres;38138;38131;Les Côtes-d'Arey;;;4.846417;45.457834
+38131_0080_00831;831;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.871758;45.462317
+38131_zkca02_00829;829;;Route de la France;38138;38131;Les Côtes-d'Arey;;;4.896847;45.463787
+38131_0060_00190;190;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.861987;45.453695
+38131_0210_00282;282;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.865997;45.454745
+38131_0082_00194;194;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.856971;45.460184
+38131_0240_00149;149;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.883132;45.447265
+38131_0185_00113;113;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.867982;45.453639
+38131_0085_00417;417;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.864392;45.458785
+38131_0135_00237;237;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.87034;45.45416
+38131_heedkv_00005;5;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.873884;45.457865
+38131_0285_00182;182;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.869069;45.454889
+38131_0175_00122;122;;Rue Chez Michard;38138;38131;Les Côtes-d'Arey;;;4.877884;45.457403
+38131_0130_00127;127;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.870092;45.456739
+38131_0170_00493;493;;Chemin Chez Maurice;38138;38131;Les Côtes-d'Arey;;;4.899993;45.46136
+38131_0127_00118;118;;Impasse de la Gloriette;38138;38131;Les Côtes-d'Arey;;;4.860753;45.454115
+38131_0255_00135;135;;Impasse des Sources;38138;38131;Les Côtes-d'Arey;;;4.871086;45.46008
+38131_ekdiuf_00035;35;;Impasse du Siffet;38138;38131;Les Côtes-d'Arey;;;4.864903;45.455947
+38131_0085_00847;847;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.864839;45.46241
+38131_0115_00486;486;;Chemin du Gay;38138;38131;Les Côtes-d'Arey;;;4.866147;45.450405
+38131_0065_00045;45;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.872704;45.45462
+38131_0185_00226;226;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.867776;45.4527
+38131_0030_00723;723;;Montée de la Barbelière;38138;38131;Les Côtes-d'Arey;;;4.87664;45.444832
+38131_ekdiuf_00145;145;;Impasse du Siffet;38138;38131;Les Côtes-d'Arey;;;4.864295;45.455326
+38131_0265_00027_a;27;a;Impasse des Tournesols;38138;38131;Les Côtes-d'Arey;;;4.874331;45.456915
+38131_0255_00110;110;;Impasse des Sources;38138;38131;Les Côtes-d'Arey;;;4.871094;45.460248
+38131_0085_01259;1259;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.866652;45.465871
+38131_0065_00293;293;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.873316;45.455702
+38131_0115_00095;95;;Chemin du Gay;38138;38131;Les Côtes-d'Arey;;;4.866837;45.453881
+38131_0210_00226;226;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.866667;45.454735
+38131_0135_00397_a;397;a;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.872279;45.454302
+38131_0085_00885;885;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.864826;45.462778
+38131_0290_00148;148;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.877775;45.458265
+38131_0130_00537;537;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.874678;45.45824
+38131_0160_00188;188;;Impasse de la Lune;38138;38131;Les Côtes-d'Arey;;;4.852784;45.462455
+38131_0082_00196;196;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.856897;45.460059
+38131_0129_00647;647;;Impasse Gontel;38138;38131;Les Côtes-d'Arey;;;4.904445;45.448203
+38131_ahhctx_00057;57;;Impasse des Marquises;38138;38131;Les Côtes-d'Arey;;;4.879545;45.447079
+38131_0235_00345;345;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.878253;45.447639
+38131_0096_00016;16;;Impasse des Dauphinieres;38138;38131;Les Côtes-d'Arey;;;4.845551;45.4586
+38131_lib6pg_04287;4287;;Route des Barres;38138;38131;Les Côtes-d'Arey;;;4.899988;45.476572
+38131_accu8b_00013;13;;mérariés;38138;38131;Les Côtes-d'Arey;;;4.86537;45.457188
+38131_0080_00550;550;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.869817;45.461092
+38131_0235_00779;779;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.879976;45.44852
+38131_0065_00336;336;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.873408;45.454806
+38131_0220_00075;75;;Chemin des Rivoires;38138;38131;Les Côtes-d'Arey;;;4.857058;45.458954
+38131_0035_00040;40;;Rue de la Bascule;38138;38131;Les Côtes-d'Arey;;;4.866672;45.455485
+38131_zw7c39_00178;178;;Impasse Les Barlettes;38138;38131;Les Côtes-d'Arey;;;4.862528;45.452181
+38131_0060_00114;114;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.862958;45.453946
+38131_0103_00283;283;;Impasse de la Forêt;38138;38131;Les Côtes-d'Arey;;;4.897616;45.451937
+38131_0240_00132;132;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.882828;45.447413
+38131_0225_00009;9;;Impasse des Roses;38138;38131;Les Côtes-d'Arey;;;4.864654;45.454525
+38131_0080_01083;1083;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.872773;45.46443
+38131_0035_00041;41;;Rue de la Bascule;38138;38131;Les Côtes-d'Arey;;;4.866767;45.455638
+38131_0073_00096;96;;Impasse des Châtaigniers;38138;38131;Les Côtes-d'Arey;;;4.863449;45.455912
+38131_0060_00041;41;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.863705;45.45417
+38131_0085_00775;775;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.865008;45.461814
+38131_0275_00013;13;;Chemin de Vaujean;38138;38131;Les Côtes-d'Arey;;;4.883558;45.459436
+38131_0080_00338;338;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.869375;45.45938
+38131_0270_00211;211;;Chemin de la Tuillière;38138;38131;Les Côtes-d'Arey;;;4.880951;45.449283
+38131_0096_00201;201;;Impasse des Dauphinieres;38138;38131;Les Côtes-d'Arey;;;4.846774;45.457148
+38131_0265_00027_c;27;c;Impasse des Tournesols;38138;38131;Les Côtes-d'Arey;;;4.874476;45.456942
+38131_0185_00221;221;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.867843;45.452754
+38131_0080_00630;630;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.870922;45.461258
+38131_0080_00012;12;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.868599;45.456582
+38131_0130_00545;545;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.875218;45.457608
+38131_0177_00089;89;;Impasse des Mimosas;38138;38131;Les Côtes-d'Arey;;;4.872476;45.456112
+38131_zkca02_00217;217;;Route de la France;38138;38131;Les Côtes-d'Arey;;;4.894278;45.467631
+38131_0285_00400;400;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.869772;45.453078
+38131_heedkv_00021;21;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.871828;45.458642
+38131_0210_00511;511;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.862888;45.454743
+38131_0130_00306;306;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.872449;45.45692
+38131_0085_00650;650;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.865269;45.460831
+38131_0065_00097;97;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.872431;45.455083
+38131_0030_00681;681;;Montée de la Barbelière;38138;38131;Les Côtes-d'Arey;;;4.877081;45.445216
+38131_0130_00041;41;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.869083;45.456679
+38131_0235_00581;581;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.877577;45.449239
+38131_0127_00124;124;;Impasse de la Gloriette;38138;38131;Les Côtes-d'Arey;;;4.860722;45.454153
+38131_0085_00735;735;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.8651;45.461477
+38131_0135_00220;220;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.87018;45.453967
+38131_0240_00280;280;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.883986;45.446306
+38131_0095_00067;67;;Impasse des Cyprès;38138;38131;Les Côtes-d'Arey;;;4.871805;45.45482
+38131_0082_00180;180;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.856593;45.460577
+38131_0080_00859;859;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.871686;45.462547
+38131_0290_00366;366;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.880542;45.45882
+38131_0vwrmb_00267;267;;Montée de Montarnaud;38138;38131;Les Côtes-d'Arey;;;4.85868;45.46079
+38131_0235_00200;200;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.879185;45.446523
+38131_0205_00047;47;;Impasse du Puits;38138;38131;Les Côtes-d'Arey;;;4.8659;45.46037
+38131_0159_00094;94;;Chemin des Lunaires;38138;38131;Les Côtes-d'Arey;;;4.865368;45.45629
+38131_0240_00180;180;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.883253;45.446995
+38131_0242_00090;90;;Impasse Saint Martin;38138;38131;Les Côtes-d'Arey;;;4.870117;45.457621
+38131_0055_00517;517;;Chemin du Bois Rondet;38138;38131;Les Côtes-d'Arey;;;4.886413;45.442167
+38131_0185_00251;251;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.867781;45.452402
+38131_tegibv_00004;4;;Impasse des Orchis;38138;38131;Les Côtes-d'Arey;;;4.869909;45.456654
+38131_0175_00124;124;;Rue Chez Michard;38138;38131;Les Côtes-d'Arey;;;4.877632;45.457274
+38131_0285_00153;153;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.869102;45.455105
+38131_0075_00125_b;125;b;Impasse du Château;38138;38131;Les Côtes-d'Arey;;;4.859068;45.457801
+38131_0098_01100;1100;;Impasse des Durantonnes;38138;38131;Les Côtes-d'Arey;;;4.890997;45.476726
+38131_0095_00091;91;;Impasse des Cyprès;38138;38131;Les Côtes-d'Arey;;;4.871785;45.455008
+38131_0045_00593;593;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.857869;45.462109
+38131_0060_00135;135;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.862768;45.453213
+38131_0140_00009;9;;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.864797;45.462961
+38131_0065_00211;211;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.872907;45.455263
+38131_0220_00155;155;;Chemin des Rivoires;38138;38131;Les Côtes-d'Arey;;;4.855826;45.458715
+38131_zkca02_00215;215;;Route de la France;38138;38131;Les Côtes-d'Arey;;;4.894307;45.467675
+38131_0130_00359;359;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.872941;45.457068
+38131_0220_00047;47;;Chemin des Rivoires;38138;38131;Les Côtes-d'Arey;;;4.857344;45.458803
+38131_0165_00124;124;;Impasse des Lys;38138;38131;Les Côtes-d'Arey;;;4.864081;45.453491
+38131_0270_00052;52;;Chemin de la Tuillière;38138;38131;Les Côtes-d'Arey;;;4.882377;45.448432
+38131_565yte_00065;65;;rue du Clos du Centre;38138;38131;Les Côtes-d'Arey;;;4.871362;45.457409
+38131_0160_00183;183;;Impasse de la Lune;38138;38131;Les Côtes-d'Arey;;;4.852663;45.462325
+38131_0080_00723;723;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.871615;45.461357
+38131_0210_00595;595;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.862259;45.455198
+38131_0067_00726;726;;Chemin de Chaillit;38138;38131;Les Côtes-d'Arey;;;4.884455;45.44117
+38131_llbupl_00077;77;;Impasse Séléné;38138;38131;Les Côtes-d'Arey;;;4.85613;45.4616
+38131_0085_00640;640;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.86528;45.460735
+38131_0070_01550;1550;;Chemin du Chapotier;38138;38131;Les Côtes-d'Arey;;;4.895778;45.448892
+38131_0225_00143;143;;Impasse des Roses;38138;38131;Les Côtes-d'Arey;;;4.864176;45.453176
+38131_0080_00026;26;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.868723;45.456765
+38131_0250_00197;197;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.865485;45.455745
+38131_0vwrmb_00091;91;;Montée de Montarnaud;38138;38131;Les Côtes-d'Arey;;;4.859198;45.459537
+38131_0135_00397_d;397;d;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.872138;45.454749
+38131_4u1abs_00793;793;;route de Chalon;38138;38131;Les Côtes-d'Arey;;;4.89932;45.480572
+38131_0185_00194;194;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.867839;45.452891
+38131_0100_00870;870;;Chemin du Flachet;38138;38131;Les Côtes-d'Arey;;;4.871928;45.472879
+38131_0177_00092;92;;Impasse des Mimosas;38138;38131;Les Côtes-d'Arey;;;4.872468;45.456077
+38131_0082_00054;54;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.855418;45.461167
+38131_0210_00273;273;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.866037;45.454637
+38131_0130_00535;535;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.874995;45.457841
+38131_0235_00347;347;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.878211;45.447669
+38131_0240_00266;266;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.883905;45.446393
+38131_0030_00702;702;;Montée de la Barbelière;38138;38131;Les Côtes-d'Arey;;;4.876576;45.445026
+38131_0vwrmb_00303;303;;Montée de Montarnaud;38138;38131;Les Côtes-d'Arey;;;4.85874;45.461291
+38131_0055_00328;328;;Chemin du Bois Rondet;38138;38131;Les Côtes-d'Arey;;;4.885302;45.441216
+38131_0135_00229;229;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.8703;45.454106
+38131_0065_00052;52;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.872732;45.454729
+38131_0130_00140;140;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.870272;45.456286
+38131_0165_00140;140;;Impasse des Lys;38138;38131;Les Côtes-d'Arey;;;4.864086;45.453178
+38131_0235_00202;202;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.879246;45.446485
+38131_0290_00360;360;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.880518;45.458802
+38131_0160_00127;127;;Impasse de la Lune;38138;38131;Les Côtes-d'Arey;;;4.852378;45.461722
+38131_0035_00093;93;;Rue de la Bascule;38138;38131;Les Côtes-d'Arey;;;4.866905;45.455186
+38131_0075_00125_a;125;a;Impasse du Château;38138;38131;Les Côtes-d'Arey;;;4.859055;45.45759
+38131_0050_00354;354;;Chemin du Bois Marquis;38138;38131;Les Côtes-d'Arey;;;4.885053;45.438494
+38131_0080_01033;1033;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.87262;45.463936
+38131_0070_00941;941;;Chemin du Chapotier;38138;38131;Les Côtes-d'Arey;;;4.890141;45.45335
+38131_tegibv_00050;50;;Impasse des Orchis;38138;38131;Les Côtes-d'Arey;;;4.870002;45.456231
+38131_0235_00324;324;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.878636;45.447774
+38131_0235_00343;343;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.878278;45.447625
+38131_0230_00407;407;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.857832;45.45862
+38131_0175_00105;105;;Rue Chez Michard;38138;38131;Les Côtes-d'Arey;;;4.877845;45.457262
+38131_0130_00089;89;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.869638;45.45674
+38131_zkca02_00246;246;;Route de la France;38138;38131;Les Côtes-d'Arey;;;4.893925;45.467464
+38131_0135_00290;290;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.871531;45.454078
+38131_accu8b_00015;15;;mérariés;38138;38131;Les Côtes-d'Arey;;;4.86534;45.457183
+38131_0285_00237;237;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.86946;45.454451
+38131_0080_00301;301;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.869069;45.459155
+38131_0096_00011;11;;Impasse des Dauphinieres;38138;38131;Les Côtes-d'Arey;;;4.845784;45.458662
+38131_0010_00075;75;;Impasse des Acacias;38138;38131;Les Côtes-d'Arey;;;4.877166;45.456076
+38131_0285_00546;546;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.870296;45.451631
+38131_0225_00013;13;;Impasse des Roses;38138;38131;Les Côtes-d'Arey;;;4.864645;45.454371
+38131_0210_00600;600;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.86224;45.455293
+38131_0290_00229;229;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.87848;45.45882
+38131_0140_00300_d;300;d;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.865641;45.465182
+38131_565yte_00060;60;;rue du Clos du Centre;38138;38131;Les Côtes-d'Arey;;;4.871452;45.457389
+38131_0060_00156;156;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.86235;45.453809
+38131_0140_00300_a;300;a;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.865094;45.465214
+38131_0220_00008;8;;Chemin des Rivoires;38138;38131;Les Côtes-d'Arey;;;4.857837;45.458737
+38131_0200_00080;80;;Impasse des Peupliers;38138;38131;Les Côtes-d'Arey;;;4.875879;45.455475
+38131_0060_00031;31;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.863736;45.454308
+38131_0130_00061;61;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.869307;45.456683
+38131_0235_00302;302;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.878759;45.447428
+38131_0242_00065;65;;Impasse Saint Martin;38138;38131;Les Côtes-d'Arey;;;4.86991;45.457283
+38131_0240_00319;319;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.884392;45.446104
+38131_accu8b_00071;71;;mérariés;38138;38131;Les Côtes-d'Arey;;;4.864606;45.45709
+38131_0085_00849;849;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.864386;45.46247
+38131_0285_00015;15;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.868624;45.456347
+38131_0285_00079;79;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.868813;45.455747
+38131_0045_00765;765;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.85594;45.462454
+38131_0235_00776;776;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.879847;45.448495
+38131_0082_00170;170;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.856492;45.460603
+38131_0235_00138;138;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.878057;45.446245
+38131_0035_00081;81;;Rue de la Bascule;38138;38131;Les Côtes-d'Arey;;;4.866874;45.455332
+38131_4h1inv_00595;595;;Impasse du Bisset;38138;38131;Les Côtes-d'Arey;;;4.883102;45.472554
+38131_0135_00264;264;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.870769;45.45401
+38131_0085_00305;305;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.86455;45.457782
+38131_0265_00038;38;;Impasse des Tournesols;38138;38131;Les Côtes-d'Arey;;;4.874169;45.456923
+38131_0035_00075;75;;Rue de la Bascule;38138;38131;Les Côtes-d'Arey;;;4.86686;45.455441
+38131_0242_00042;42;;Impasse Saint Martin;38138;38131;Les Côtes-d'Arey;;;4.869923;45.45708
+38131_0030_00866;866;;Montée de la Barbelière;38138;38131;Les Côtes-d'Arey;;;4.876826;45.443618
+38131_0205_00153;153;;Impasse du Puits;38138;38131;Les Côtes-d'Arey;;;4.866555;45.460747
+38131_0085_00618;618;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.865323;45.460433
+38131_0070_00570;570;;Chemin du Chapotier;38138;38131;Les Côtes-d'Arey;;;4.888305;45.454066
+38131_9n22eo_00011;11;;Impasse de l’Épi;38138;38131;Les Côtes-d'Arey;;;4.87138;45.456564
+38131_0235_00048;48;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.87712;45.445842
+38131_0085_00844;844;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.864918;45.462661
+38131_0130_00030;30;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.868958;45.456559
+38131_0250_00220;220;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.865254;45.455657
+38131_0270_00219;219;;Chemin de la Tuillière;38138;38131;Les Côtes-d'Arey;;;4.880804;45.449496
+38131_0230_00540;540;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.859667;45.458712
+38131_0140_00215;215;;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.864631;45.46482
+38131_0080_00753;753;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.871641;45.461606
+38131_0085_00277;277;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.864725;45.457554
+38131_0080_01085;1085;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.872778;45.464475
+38131_0185_00429;429;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.869509;45.452303
+38131_0165_00074;74;;Impasse des Lys;38138;38131;Les Côtes-d'Arey;;;4.864214;45.454041
+38131_0098_01165;1165;;Impasse des Durantonnes;38138;38131;Les Côtes-d'Arey;;;4.891157;45.476424
+38131_0245_00108;108;;Impasse des Saules;38138;38131;Les Côtes-d'Arey;;;4.874785;45.455659
+38131_0290_00683;683;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.883341;45.4597
+38131_0065_00311;311;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.873398;45.455072
+38131_0250_00241;241;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.865319;45.455484
+38131_0020_00001;1;;Place Alexandre Dorzat;38138;38131;Les Côtes-d'Arey;;;4.867403;45.456127
+38131_0103_00281;281;;Impasse de la Forêt;38138;38131;Les Côtes-d'Arey;;;4.897839;45.451876
+38131_0210_00229;229;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.866589;45.454655
+38131_0055_00035;35;;Chemin du Bois Rondet;38138;38131;Les Côtes-d'Arey;;;4.883419;45.439173
+38131_0115_00475;475;;Chemin du Gay;38138;38131;Les Côtes-d'Arey;;;4.866241;45.450513
+38131_0130_00137;137;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.870202;45.456751
+38131_0270_00044;44;;Chemin de la Tuillière;38138;38131;Les Côtes-d'Arey;;;4.88259;45.448357
+38131_0035_00082;82;;Rue de la Bascule;38138;38131;Les Côtes-d'Arey;;;4.866799;45.455299
+38131_llbupl_00116;116;;Impasse Séléné;38138;38131;Les Côtes-d'Arey;;;4.856497;45.461391
+38131_0080_00267;267;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.868795;45.458922
+38131_0082_00098;98;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.855805;45.460942
+38131_0290_00571;571;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.882631;45.45919
+38131_0270_00126;126;;Chemin de la Tuillière;38138;38131;Les Côtes-d'Arey;;;4.881667;45.448837
+38131_0030_00887;887;;Montée de la Barbelière;38138;38131;Les Côtes-d'Arey;;;4.876957;45.443533
+38131_0140_00300_h;300;h;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.865709;45.465584
+38131_0049_00378;378;;Impasse du Bois de l’Ille;38138;38131;Les Côtes-d'Arey;;;4.903178;45.470421
+38131_0045_00864;864;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.855046;45.461837
+38131_0230_00450;450;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.858576;45.458615
+38131_0210_00496;496;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.863351;45.45481
+38131_0055_00300;300;;Chemin du Bois Rondet;38138;38131;Les Côtes-d'Arey;;;4.885252;45.441196
+38131_0290_00317;317;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.879604;45.458844
+38131_0262_00155;155;;Chemin du Telegraphe;38138;38131;Les Côtes-d'Arey;;;4.892743;45.486755
+38131_0185_00341;341;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.868404;45.45214
+38131_0080_01114;1114;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.87326;45.464464
+38131_accu8b_00087;87;;mérariés;38138;38131;Les Côtes-d'Arey;;;4.864375;45.457033
+38131_0085_00471;471;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.86438;45.459289
+38131_0030_00857;857;;Montée de la Barbelière;38138;38131;Les Côtes-d'Arey;;;4.876777;45.443741
+38131_0250_00081;81;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.86689;45.455952
+38131_0103_00229;229;;Impasse de la Forêt;38138;38131;Les Côtes-d'Arey;;;4.898256;45.451661
+38131_0290_00602;602;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.883046;45.459249
+38131_0210_00610;610;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.861987;45.455378
+38131_0185_00104;104;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.86782;45.453717
+38131_0230_00150;150;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.858174;45.456822
+38131_0210_00443;443;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.863949;45.454561
+38131_0060_00226;226;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.861639;45.453618
+38131_0085_00792;792;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.865093;45.461853
+38131_llbupl_00148;148;;Impasse Séléné;38138;38131;Les Côtes-d'Arey;;;4.856835;45.461585
+38131_0185_00460;460;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.87001;45.452297
+38131_0275_00072;72;;Chemin de Vaujean;38138;38131;Les Côtes-d'Arey;;;4.884266;45.459235
+38131_0173_00112;112;;Chemin du Mézelier;38138;38131;Les Côtes-d'Arey;;;4.908742;45.469695
+38131_heedkv_00001;1;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.874112;45.457473
+38131_0240_00117;117;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.882874;45.447474
+38131_0115_00278;278;;Chemin du Gay;38138;38131;Les Côtes-d'Arey;;;4.86628;45.452243
+38131_0096_00064;64;;Impasse des Dauphinieres;38138;38131;Les Côtes-d'Arey;;;4.845881;45.458194
+38131_0250_00056;56;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.867177;45.456154
+38131_0030_00675;675;;Montée de la Barbelière;38138;38131;Les Côtes-d'Arey;;;4.877613;45.445313
+38131_0135_01390;1390;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.884315;45.456327
+38131_0055_00217;217;;Chemin du Bois Rondet;38138;38131;Les Côtes-d'Arey;;;4.884335;45.440575
+38131_0235_00279;279;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.878764;45.447243
+38131_0235_00673;673;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.878754;45.449075
+38131_heedkv_00016;16;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.872272;45.458731
+38131_0vwrmb_00080;80;;Montée de Montarnaud;38138;38131;Les Côtes-d'Arey;;;4.859392;45.4594
+38131_0205_00075;75;;Impasse du Puits;38138;38131;Les Côtes-d'Arey;;;4.866215;45.460303
+38131_0125_00030;30;;Impasse des Glaieuls;38138;38131;Les Côtes-d'Arey;;;4.866346;45.454341
+38131_0185_00385;385;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.868998;45.452219
+38131_0115_00192;192;;Chemin du Gay;38138;38131;Les Côtes-d'Arey;;;4.866508;45.452987
+38131_0240_00333;333;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.884522;45.445954
+38131_0080_00758;758;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.871733;45.461639
+38131_0250_00058;58;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.867066;45.456059
+38131_0285_00123;123;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.868923;45.455478
+38131_0129_00589;589;;Impasse Gontel;38138;38131;Les Côtes-d'Arey;;;4.904525;45.448225
+38131_0145_00076;76;;Impasse Jocteur;38138;38131;Les Côtes-d'Arey;;;4.870763;45.455987
+38131_0240_00330;330;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.884395;45.445928
+38131_0185_00318;318;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.868159;45.452082
+38131_0115_00334;334;;Chemin du Gay;38138;38131;Les Côtes-d'Arey;;;4.866175;45.451692
+38131_0117_00429;429;;Impasse Gerbole;38138;38131;Les Côtes-d'Arey;;;4.896793;45.474066
+38131_0240_00208;208;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.883441;45.446846
+38131_565yte_00027;27;;rue du Clos du Centre;38138;38131;Les Côtes-d'Arey;;;4.871444;45.457079
+38131_0140_00300_c;300;c;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.865591;45.465168
+38131_0080_01081;1081;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.872894;45.464297
+38131_0080_00785;785;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.871679;45.4619
+38131_0065_00279;279;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.873247;45.455527
+38131_0175_00191;191;;Rue Chez Michard;38138;38131;Les Côtes-d'Arey;;;4.877585;45.456659
+38131_0255_00144;144;;Impasse des Sources;38138;38131;Les Côtes-d'Arey;;;4.870762;45.459837
+38131_0065_00389;389;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.873884;45.455477
+38131_zkca02_00883;883;;Route de la France;38138;38131;Les Côtes-d'Arey;;;4.897438;45.463731
+38131_0095_00080;80;;Impasse des Cyprès;38138;38131;Les Côtes-d'Arey;;;4.871878;45.454907
+38131_0265_00002;2;;Impasse des Tournesols;38138;38131;Les Côtes-d'Arey;;;4.874075;45.457122
+38131_x0fe2a_00009;9;;Chemin du Savel;38138;38131;Les Côtes-d'Arey;;;4.858378;45.456351
+38131_0045_00530;530;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.858486;45.461887
+38131_0055_00151;151;;Chemin du Bois Rondet;38138;38131;Les Côtes-d'Arey;;;4.883875;45.440084
+38131_0235_00331;331;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.878358;45.447587
+38131_0030_00641;641;;Montée de la Barbelière;38138;38131;Les Côtes-d'Arey;;;4.876623;45.445521
+38131_0080_00589;589;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.870209;45.461355
+38131_0130_00070;70;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.869438;45.456646
+38131_0250_00117;117;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.866404;45.456032
+38131_0130_00611;611;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.875865;45.458246
+38131_zkca02_00160;160;;Route de la France;38138;38131;Les Côtes-d'Arey;;;4.894626;45.468015
+38131_0065_00094;94;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.872566;45.455071
+38131_0135_04353;4353;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.906527;45.473918
+38131_0285_00061;61;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.868733;45.456006
+38131_0290_00572;572;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.882609;45.459069
+38131_0235_00820;820;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.879992;45.448486
+38131_0073_00106;106;;Impasse des Châtaigniers;38138;38131;Les Côtes-d'Arey;;;4.863439;45.456067
+38131_0130_00370;370;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.873215;45.457038
+38131_0285_00210;210;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.869195;45.454656
+38131_0290_00324;324;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.879619;45.458761
+38131_0085_00565;565;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.86481;45.46005
+38131_0275_00042;42;;Chemin de Vaujean;38138;38131;Les Côtes-d'Arey;;;4.883983;45.459227
+38131_tegibv_00052;52;;Impasse des Orchis;38138;38131;Les Côtes-d'Arey;;;4.870057;45.456238
+38131_zw7c39_00210;210;;Impasse Les Barlettes;38138;38131;Les Côtes-d'Arey;;;4.862584;45.451914
+38131_0045_00822;822;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.855354;45.462119
+38131_0115_00251;251;;Chemin du Gay;38138;38131;Les Côtes-d'Arey;;;4.866457;45.452424
+38131_0260_00047;47;;Square du Souvenir;38138;38131;Les Côtes-d'Arey;;;4.868506;45.456366
+38131_0170_00480;480;;Chemin Chez Maurice;38138;38131;Les Côtes-d'Arey;;;4.899696;45.461195
+38131_0185_00360;360;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.868876;45.452145
+38131_0290_00519;519;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.881974;45.459161
+38131_0060_00055;55;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.863666;45.454113
+38131_heedkv_00020;20;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.871749;45.458834
+38131_0159_00020;20;;Chemin des Lunaires;38138;38131;Les Côtes-d'Arey;;;4.865397;45.456023
+38131_0085_00319;319;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.864471;45.45792
+38131_0285_00001;1;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.868581;45.456472
+38131_p5y1pb_00101;101;;Chemin du Périat;38138;38131;Les Côtes-d'Arey;;;4.856555;45.456265
+38131_0285_00453;453;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.870162;45.452614
+38131_0130_00024;24;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.868868;45.456537
+38131_0242_00039;39;;Impasse Saint Martin;38138;38131;Les Côtes-d'Arey;;;4.869859;45.457037
+38131_0140_00227;227;;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.86463;45.464877
+38131_0073_00092;92;;Impasse des Châtaigniers;38138;38131;Les Côtes-d'Arey;;;4.86342;45.455681
+38131_0265_00027_b;27;b;Impasse des Tournesols;38138;38131;Les Côtes-d'Arey;;;4.874409;45.456933
+38131_0045_00605;605;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.857499;45.462236
+38131_0210_00816;816;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.859643;45.455729
+38131_0030_00847;847;;Montée de la Barbelière;38138;38131;Les Côtes-d'Arey;;;4.876629;45.444014
+38131_0235_00653;653;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.878713;45.449082
+38131_0159_00021;21;;Chemin des Lunaires;38138;38131;Les Côtes-d'Arey;;;4.8653;45.45602
+38131_0265_00098;98;;Impasse des Tournesols;38138;38131;Les Côtes-d'Arey;;;4.874579;45.456298
+38131_565yte_00069;69;;rue du Clos du Centre;38138;38131;Les Côtes-d'Arey;;;4.871336;45.457445
+38131_0080_00977;977;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.87201;45.463615
+38131_0085_00363;363;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.864376;45.458317
+38131_0240_00360;360;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.884578;45.445735
+38131_0255_00366;366;;Impasse des Sources;38138;38131;Les Côtes-d'Arey;;;4.870686;45.458065
+38131_0025_00001;1;;Place Arélis;38138;38131;Les Côtes-d'Arey;;;4.868223;45.456719
+38131_0242_00008;8;;Impasse Saint Martin;38138;38131;Les Côtes-d'Arey;;;4.869919;45.456851
+38131_0250_00083;83;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.866794;45.455937
+38131_llbupl_00038;38;;Impasse Séléné;38138;38131;Les Côtes-d'Arey;;;4.855621;45.461725
+38131_zkca02_00918;918;;Route de la France;38138;38131;Les Côtes-d'Arey;;;4.897658;45.463445
+38131_0230_00572;572;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.860566;45.458505
+38131_0230_00434;434;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.858193;45.458619
+38131_565yte_00096;96;;rue du Clos du Centre;38138;38131;Les Côtes-d'Arey;;;4.87125;45.457665
+38131_0vwrmb_00037;37;;Montée de Montarnaud;38138;38131;Les Côtes-d'Arey;;;4.85892;45.459108
+38131_0085_00543;543;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.864674;45.45989
+38131_0190_00901;901;;Chemin de Petit Cour;38138;38131;Les Côtes-d'Arey;;;4.881978;45.439671
+38131_0190_00946;946;;Chemin de Petit Cour;38138;38131;Les Côtes-d'Arey;;;4.882354;45.43932
+38131_0130_00124_b;124;b;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.870106;45.456588
+38131_0260_00059;59;;Square du Souvenir;38138;38131;Les Côtes-d'Arey;;;4.868434;45.456222
+38131_0vwrmb_00201;201;;Montée de Montarnaud;38138;38131;Les Côtes-d'Arey;;;4.858749;45.460421
+38131_0175_00041;41;;Rue Chez Michard;38138;38131;Les Côtes-d'Arey;;;4.877675;45.457791
+38131_0050_00143;143;;Chemin du Bois Marquis;38138;38131;Les Côtes-d'Arey;;;4.883829;45.43794
+38131_0080_00138;138;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.868917;45.457977
+38131_0135_00329;329;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.871448;45.454262
+38131_0085_00817;817;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.864917;45.462171
+38131_heedkv_00018;18;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.872048;45.458835
+38131_0065_00395;395;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.87404;45.455442
+38131_0210_00550;550;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.862772;45.455086
+38131_0135_00250;250;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.870349;45.453846
+38131_ahhctx_00059;59;;Impasse des Marquises;38138;38131;Les Côtes-d'Arey;;;4.879568;45.447031
+38131_0235_00627;627;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.878245;45.449288
+38131_0240_00002;2;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.881824;45.448202
+38131_0045_00424;424;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.858952;45.462656
+38131_0242_00028;28;;Impasse Saint Martin;38138;38131;Les Côtes-d'Arey;;;4.869915;45.456953
+38131_heedkv_00009;9;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.873574;45.458508
+38131_0140_00300_l;300;l;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.865159;45.465299
+38131_0117_00622;622;;Impasse Gerbole;38138;38131;Les Côtes-d'Arey;;;4.896253;45.474995
+38131_heedkv_00014;14;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.872448;45.458721
+38131_0250_00031;31;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.867453;45.456047
+38131_0135_00729;729;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.876485;45.454905
+38131_0140_00140;140;;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.864768;45.464108
+38131_0080_00864;864;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.871854;45.462433
+38131_0115_00248;248;;Chemin du Gay;38138;38131;Les Côtes-d'Arey;;;4.866395;45.452515
+38131_0235_00686;686;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.878811;45.448961
+38131_0285_00706;706;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.87147;45.450545
+38131_0100_00965;965;;Chemin du Flachet;38138;38131;Les Côtes-d'Arey;;;4.872167;45.473441
+38131_0030_00692;692;;Montée de la Barbelière;38138;38131;Les Côtes-d'Arey;;;4.876566;45.445078
+38131_0235_00700;700;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.878993;45.448837
+38131_0200_00002;2;;Impasse des Peupliers;38138;38131;Les Côtes-d'Arey;;;4.876194;45.454852
+38131_0082_00271;271;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.857387;45.461036
+38131_lib6pg_00409;409;;Route des Barres;38138;38131;Les Côtes-d'Arey;;;4.8638;45.465775
+38131_0140_00300_k;300;k;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.865637;45.465485
+38131_9n22eo_00119;119;;Impasse de l’Épi;38138;38131;Les Côtes-d'Arey;;;4.87117;45.455801
+38131_0135_00397_b;397;b;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.872188;45.454474
+38131_0135_00245;245;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.87054;45.454107
+38131_0240_00225;225;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.883652;45.446742
+38131_0060_00122;122;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.862845;45.453927
+38131_0085_00679;679;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.865191;45.460939
+38131_heedkv_00006;6;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.87393;45.458065
+38131_0173_00110;110;;Chemin du Mézelier;38138;38131;Les Côtes-d'Arey;;;4.908472;45.469787
+38131_0240_00205;205;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.883524;45.446841
+38131_0060_00272;272;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.861147;45.453294
+38131_0080_01087;1087;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.873211;45.464531
+38131_0140_00167;167;;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.864668;45.464379
+38131_0135_00331;331;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.871426;45.454456
+38131_0020_00031;31;;Place Alexandre Dorzat;38138;38131;Les Côtes-d'Arey;;;4.867672;45.456524
+38131_0096_00174;174;;Impasse des Dauphinieres;38138;38131;Les Côtes-d'Arey;;;4.846495;45.457517
+38131_0255_00057;57;;Impasse des Sources;38138;38131;Les Côtes-d'Arey;;;4.871576;45.460811
+38131_0250_00039;39;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.867421;45.456036
+38131_565yte_00087;87;;rue du Clos du Centre;38138;38131;Les Côtes-d'Arey;;;4.871127;45.457566
+38131_0080_00997;997;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.872209;45.463745
+38131_0250_00107;107;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.866545;45.456015
+38131_0082_00264;264;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.857409;45.460903
+38131_0045_00905;905;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.854726;45.461516
+38131_0vwrmb_00265;265;;Montée de Montarnaud;38138;38131;Les Côtes-d'Arey;;;4.858689;45.460733
+38131_0185_00130;130;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.867874;45.453423
+38131_0055_00149;149;;Chemin du Bois Rondet;38138;38131;Les Côtes-d'Arey;;;4.883861;45.440067
+38131_0285_00007;7;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.868602;45.456403
+38131_9n22eo_00143;143;;Impasse de l’Épi;38138;38131;Les Côtes-d'Arey;;;4.871465;45.455748
+38131_0225_00131;131;;Impasse des Roses;38138;38131;Les Côtes-d'Arey;;;4.864265;45.453578
+38131_0170_00820;820;;Chemin Chez Maurice;38138;38131;Les Côtes-d'Arey;;;4.903512;45.462346
+38131_0115_00366;366;;Chemin du Gay;38138;38131;Les Côtes-d'Arey;;;4.866151;45.451395
+38131_0285_00136;136;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.868799;45.455388
+38131_0220_00030;30;;Chemin des Rivoires;38138;38131;Les Côtes-d'Arey;;;4.85761;45.45882
+38131_0270_00072;72;;Chemin de la Tuillière;38138;38131;Les Côtes-d'Arey;;;4.88196;45.448866
+38131_0265_00075;75;;Impasse des Tournesols;38138;38131;Les Côtes-d'Arey;;;4.874604;45.456612
+38131_ekdiuf_00144;144;;Impasse du Siffet;38138;38131;Les Côtes-d'Arey;;;4.864201;45.455374
+38131_0135_00080;80;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.868601;45.454413
+38131_accu8b_00085;85;;mérariés;38138;38131;Les Côtes-d'Arey;;;4.864434;45.457037
+38131_0060_00162;162;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.862293;45.453796
+38131_0127_00050;50;;Impasse de la Gloriette;38138;38131;Les Côtes-d'Arey;;;4.860721;45.453522
+38131_0255_00090;90;;Impasse des Sources;38138;38131;Les Côtes-d'Arey;;;4.871112;45.460375
+38131_0135_00054;54;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.868289;45.454544
+38131_0085_00896;896;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.865016;45.462954
+38131_0262_00105;105;;Chemin du Telegraphe;38138;38131;Les Côtes-d'Arey;;;4.893342;45.486779
+38131_0130_00480;480;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.874578;45.457303
+38131_0220_00070;70;;Chemin des Rivoires;38138;38131;Les Côtes-d'Arey;;;4.857174;45.459002
+38131_0135_04430;4430;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.90648;45.474609
+38131_0140_00300_b;300;b;Chemin En Jeunet;38138;38131;Les Côtes-d'Arey;;;4.865154;45.465212
+38131_565yte_00023;23;;rue du Clos du Centre;38138;38131;Les Côtes-d'Arey;;;4.871452;45.457035
+38131_0265_00136;136;;Impasse des Tournesols;38138;38131;Les Côtes-d'Arey;;;4.874613;45.456079
+38131_0082_00061;61;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.855479;45.46123
+38131_ahhctx_00073;73;;Impasse des Marquises;38138;38131;Les Côtes-d'Arey;;;4.87987;45.446783
+38131_0045_00996;996;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.853106;45.461094
+38131_0245_00075;75;;Impasse des Saules;38138;38131;Les Côtes-d'Arey;;;4.874935;45.45509
+38131_0220_00153;153;;Chemin des Rivoires;38138;38131;Les Côtes-d'Arey;;;4.856116;45.458695
+38131_0185_00245;245;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.867856;45.452499
+38131_0285_00067;67;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.868802;45.45588
+38131_0285_00283;283;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.869634;45.454065
+38131_0190_00629;629;;Chemin de Petit Cour;38138;38131;Les Côtes-d'Arey;;;4.87897;45.440324
+38131_p5y1pb_00192;192;;Chemin du Périat;38138;38131;Les Côtes-d'Arey;;;4.855283;45.45621
+38131_0083_00418;418;;Chemin du Coint;38138;38131;Les Côtes-d'Arey;;;4.904418;45.454794
+38131_0170_01222;1222;;Chemin Chez Maurice;38138;38131;Les Côtes-d'Arey;;;4.907424;45.463959
+38131_0045_00552;552;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.858198;45.46199
+38131_0223_00816;816;;Impasse de la Ronze;38138;38131;Les Côtes-d'Arey;;;4.891272;45.479737
+38131_ekdiuf_00078;78;;Impasse du Siffet;38138;38131;Les Côtes-d'Arey;;;4.864316;45.455936
+38131_ahhctx_00074;74;;Impasse des Marquises;38138;38131;Les Côtes-d'Arey;;;4.879833;45.446748
+38131_0210_00636;636;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.861814;45.455418
+38131_0065_00441;441;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.874159;45.45505
+38131_0230_00116;116;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.858534;45.456491
+38131_0223_00854;854;;Impasse de la Ronze;38138;38131;Les Côtes-d'Arey;;;4.891162;45.479458
+38131_0vwrmb_00084;84;;Montée de Montarnaud;38138;38131;Les Côtes-d'Arey;;;4.85938;45.459474
+38131_0210_00422;422;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.864196;45.454668
+38131_0210_00703;703;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.860857;45.455353
+38131_zw7c39_00152;152;;Impasse Les Barlettes;38138;38131;Les Côtes-d'Arey;;;4.862493;45.452397
+38131_0130_00313;313;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.872574;45.457007
+38131_0045_00667;667;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.856906;45.462554
+38131_0185_00400;400;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.869273;45.451919
+38131_0135_00292;292;;Route de Jardin;38138;38131;Les Côtes-d'Arey;;;4.871611;45.453992
+38131_9n22eo_00009;9;;Impasse de l’Épi;38138;38131;Les Côtes-d'Arey;;;4.871038;45.456724
+38131_0185_00090;90;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.867792;45.45387
+38131_0vwrmb_00313;313;;Montée de Montarnaud;38138;38131;Les Côtes-d'Arey;;;4.858743;45.461361
+38131_0085_00956;956;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.865212;45.463416
+38131_9n22eo_00113;113;;Impasse de l’Épi;38138;38131;Les Côtes-d'Arey;;;4.871097;45.455797
+38131_0080_00432;432;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.869364;45.460229
+38131_0240_00320;320;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.884344;45.445969
+38131_0010_00061;61;;Impasse des Acacias;38138;38131;Les Côtes-d'Arey;;;4.877129;45.455755
+38131_0070_00740;740;;Chemin du Chapotier;38138;38131;Les Côtes-d'Arey;;;4.888404;45.453773
+38131_0085_00291;291;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.864614;45.457567
+38131_0080_00086;86;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.868873;45.457372
+38131_0115_00205;205;;Chemin du Gay;38138;38131;Les Côtes-d'Arey;;;4.866572;45.452889
+38131_0210_00135;135;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.867735;45.454987
+38131_0085_00762;762;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.865128;45.461724
+38131_0045_00402;402;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.859055;45.462815
+38131_0vwrmb_00181;181;;Montée de Montarnaud;38138;38131;Les Côtes-d'Arey;;;4.858744;45.460138
+38131_0085_00083;83;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.866875;45.456997
+38131_0290_00361;361;;Rue de Verpreux;38138;38131;Les Côtes-d'Arey;;;4.8801;45.458863
+38131_0240_00361;361;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.884713;45.445709
+38131_0245_00083;83;;Impasse des Saules;38138;38131;Les Côtes-d'Arey;;;4.874823;45.455375
+38131_0225_00119;119;;Impasse des Roses;38138;38131;Les Côtes-d'Arey;;;4.864516;45.453944
+38131_0127_00070;70;;Impasse de la Gloriette;38138;38131;Les Côtes-d'Arey;;;4.860745;45.453706
+38131_0130_00543;543;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.875121;45.457784
+38131_0240_00374;374;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.884704;45.445606
+38131_0185_00048;48;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.867696;45.454198
+38131_ekdiuf_00028;28;;Impasse du Siffet;38138;38131;Les Côtes-d'Arey;;;4.864875;45.456048
+38131_0065_00406;406;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.873975;45.455321
+38131_0220_00247;247;;Chemin des Rivoires;38138;38131;Les Côtes-d'Arey;;;4.854858;45.458943
+38131_0082_00190;190;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.857036;45.46034
+38131_0210_00253;253;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.866395;45.454649
+38131_0230_00181;181;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.85777;45.456753
+38131_0235_00531;531;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.877568;45.449203
+38131_0240_00383;383;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.884924;45.44554
+38131_0262_00235;235;;Chemin du Telegraphe;38138;38131;Les Côtes-d'Arey;;;4.891867;45.486916
+38131_565yte_00025;25;;rue du Clos du Centre;38138;38131;Les Côtes-d'Arey;;;4.87145;45.457056
+38131_0080_00620;620;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.87066;45.461316
+38131_0235_00688;688;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.878914;45.448907
+38131_0245_00112;112;;Impasse des Saules;38138;38131;Les Côtes-d'Arey;;;4.874746;45.455704
+38131_0vwrmb_00082;82;;Montée de Montarnaud;38138;38131;Les Côtes-d'Arey;;;4.859484;45.459433
+38131_0220_00151;151;;Chemin des Rivoires;38138;38131;Les Côtes-d'Arey;;;4.856144;45.458747
+38131_0045_00601;601;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.857645;45.462175
+38131_0117_00427;427;;Impasse Gerbole;38138;38131;Les Côtes-d'Arey;;;4.896948;45.474038
+38131_0220_00024;24;;Chemin des Rivoires;38138;38131;Les Côtes-d'Arey;;;4.857684;45.458786
+38131_0045_00671;671;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.856996;45.462497
+38131_0285_01260;1260;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.869844;45.447138
+38131_0185_00347;347;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.868529;45.452152
+38131_0285_00056;56;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.868642;45.455992
+38131_heedkv_00007;7;;Impasse Chante Grillet;38138;38131;Les Côtes-d'Arey;;;4.873763;45.458088
+38131_0210_00191;191;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.867115;45.454668
+38131_0130_00399;399;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.873578;45.457161
+38131_0080_00595;595;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.870296;45.461391
+38131_llbupl_00032;32;;Impasse Séléné;38138;38131;Les Côtes-d'Arey;;;4.855559;45.461764
+38131_0210_00336;336;;Route de Reventin-Vaugris;38138;38131;Les Côtes-d'Arey;;;4.865675;45.454711
+38131_x0fe2a_00008;8;;Chemin du Savel;38138;38131;Les Côtes-d'Arey;;;4.858389;45.456424
+38131_0130_00149;149;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.870486;45.456753
+38131_0130_00542;542;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.875312;45.457462
+38131_0200_00053;53;;Impasse des Peupliers;38138;38131;Les Côtes-d'Arey;;;4.875881;45.455338
+38131_0240_00340;340;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.884469;45.445824
+38131_0262_00053;53;;Chemin du Telegraphe;38138;38131;Les Côtes-d'Arey;;;4.893939;45.486857
+38131_0205_00143;143;;Impasse du Puits;38138;38131;Les Côtes-d'Arey;;;4.86658;45.460706
+38131_0245_00012;12;;Impasse des Saules;38138;38131;Les Côtes-d'Arey;;;4.875128;45.454816
+38131_0075_00125_d;125;d;Impasse du Château;38138;38131;Les Côtes-d'Arey;;;4.859176;45.457921
+38131_0130_00063;63;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.869379;45.456697
+38131_0082_00276;276;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.857509;45.461024
+38131_0030_00845;845;;Montée de la Barbelière;38138;38131;Les Côtes-d'Arey;;;4.876902;45.444207
+38131_0230_00516;516;;Rue Saint - Jean;38138;38131;Les Côtes-d'Arey;;;4.85932;45.458687
+38131_0250_00034;34;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.867325;45.456079
+38131_0065_00132;132;;Rue des Bouleaux;38138;38131;Les Côtes-d'Arey;;;4.872415;45.455469
+38131_0127_00103;103;;Impasse de la Gloriette;38138;38131;Les Côtes-d'Arey;;;4.860609;45.453998
+38131_0125_00107;107;;Impasse des Glaieuls;38138;38131;Les Côtes-d'Arey;;;4.866321;45.453722
+38131_0080_00274;274;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.868898;45.458911
+38131_0285_00099;99;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.869272;45.455693
+38131_0080_00300;300;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.869106;45.459089
+38131_0190_00906;906;;Chemin de Petit Cour;38138;38131;Les Côtes-d'Arey;;;4.88211;45.439527
+38131_9n22eo_00122;122;;Impasse de l’Épi;38138;38131;Les Côtes-d'Arey;;;4.871176;45.455741
+38131_0130_00039;39;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.868942;45.456658
+38131_0045_00364;364;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.859328;45.463147
+38131_0082_00109;109;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.855935;45.460945
+38131_0235_00511;511;;Montée de Saint Mamert-le-Bas;38138;38131;Les Côtes-d'Arey;;;4.877629;45.449056
+38131_0060_00039;39;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.863732;45.45428
+38131_565yte_00097;97;;rue du Clos du Centre;38138;38131;Les Côtes-d'Arey;;;4.871146;45.457628
+38131_0285_00021;21;;Route de Vernioz;38138;38131;Les Côtes-d'Arey;;;4.868644;45.45629
+38131_0060_00216;216;;Chemin du Bouchet;38138;38131;Les Côtes-d'Arey;;;4.861711;45.453589
+38131_0130_00240;240;;Grand'Rue;38138;38131;Les Côtes-d'Arey;;;4.871444;45.456774
+38131_0085_00678;678;;Montée de la Cotillonne;38138;38131;Les Côtes-d'Arey;;;4.86532;45.460965
+38131_0045_00602;602;;Montée Bellevue;38138;38131;Les Côtes-d'Arey;;;4.857634;45.462232
+38131_0250_00060;60;;Rue du Siffet;38138;38131;Les Côtes-d'Arey;;;4.867054;45.456118
+38131_zkca02_00213;213;;Route de la France;38138;38131;Les Côtes-d'Arey;;;4.894597;45.467936
+38131_0185_00403;403;;Rue de la Mulatière;38138;38131;Les Côtes-d'Arey;;;4.869156;45.45224
+38131_0159_00045;45;;Chemin des Lunaires;38138;38131;Les Côtes-d'Arey;;;4.865286;45.456274
+38131_0240_00079;79;;Montée de Saint Mamert-le-Haut;38138;38131;Les Côtes-d'Arey;;;4.88255;45.44775
+38131_0080_00010;10;;Montée Château Grillet;38138;38131;Les Côtes-d'Arey;;;4.868587;45.456666
+38131_0082_00188;188;;Impasse du Clos de Lune;38138;38131;Les Côtes-d'Arey;;;4.856783;45.460217
+38131_0083_00420;420;;Chemin du Coint;38138;38131;Les Côtes-d'Arey;;;4.904438;45.45482
+38131_llbupl_00041;41;;Impasse Séléné;38138;38131;Les Côtes-d'Arey;;;4.855786;45.461817

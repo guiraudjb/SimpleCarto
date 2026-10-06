@@ -1,0 +1,961 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+79031_0404_00136;136;;Rue de la Tour Basse;79360;79031;Beauvoir-sur-Niort;;;-0.477056;46.181175
+79031_0161_00025;25;;Rue du Commandant Caud;79360;79031;Beauvoir-sur-Niort;;;-0.473159;46.180388
+79031_0236_00040;40;;Rue du 8 Mai 1945;79360;79031;Beauvoir-sur-Niort;;;-0.470696;46.177909
+79031_0096_00015;15;;Place des Alouettes;79360;79031;Beauvoir-sur-Niort;;;-0.472896;46.188022
+79031_0245_00225;225;;Rue Jean Baptiste Clement;79360;79031;Beauvoir-sur-Niort;;;-0.479627;46.187365
+79031_0118_00255;255;;Route de la Blottière;79360;79031;Beauvoir-sur-Niort;;;-0.469609;46.182094
+79031_0134_00075;75;;Impasse Chaix du Pas David;79360;79031;Beauvoir-sur-Niort;;;-0.477391;46.180541
+79031_0201_00025;25;;Chemin des Garennes;79360;79031;Beauvoir-sur-Niort;;;-0.47723;46.188067
+79031_0381_00064;64;;Rue Saint-jacques;79360;79031;Beauvoir-sur-Niort;;;-0.474501;46.176553
+79031_0359_00050;50;;Rue du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.473929;46.179266
+79031_0301_00460;460;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472451;46.191549
+79031_0404_00141;141;;Rue de la Tour Basse;79360;79031;Beauvoir-sur-Niort;;;-0.477244;46.181428
+79031_0306_00079;79;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474154;46.181247
+79031_0370_00088;88;;Chemin du Rule;79360;79031;Beauvoir-sur-Niort;;;-0.472294;46.187498
+79031_0333_00110;110;;Rue du Pigeonnier;79360;79031;Beauvoir-sur-Niort;;;-0.501326;46.168542
+79031_0146_00055;55;;Rue du Château;79360;79031;Beauvoir-sur-Niort;;;-0.454293;46.175564
+79031_0383_00163;163;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474801;46.178267
+79031_0174_00274;274;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477503;46.186258
+79031_0368_00105;105;;Rue des Rosiers;79360;79031;Beauvoir-sur-Niort;;;-0.470694;46.182093
+79031_0291_00053;53;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.471906;46.192007
+79031_0159_00067;67;;Impasse du Commandant Caud;79360;79031;Beauvoir-sur-Niort;;;-0.472775;46.18078
+79031_0196_00389;389;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.469559;46.178012
+79031_0075_00375;375;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.469425;46.180558
+79031_0105_00073;73;;Impasse de l'Autoroute;79360;79031;Beauvoir-sur-Niort;;;-0.50186;46.167428
+79031_0306_00088;88;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473985;46.181327
+79031_0163_00033;33;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.47;46.189892
+79031_0206_00092;92;;Rue Gaston Métayer;79360;79031;Beauvoir-sur-Niort;;;-0.472171;46.190273
+79031_0236_00120;120;;Rue du 8 Mai 1945;79360;79031;Beauvoir-sur-Niort;;;-0.471274;46.177249
+79031_0075_00550;550;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.468298;46.179407
+79031_0196_00320;320;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.470139;46.178205
+79031_0318_00130;130;;Chemin du Parc;79360;79031;Beauvoir-sur-Niort;;;-0.47482;46.190787
+79031_0255_00232;232;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.477528;46.179925
+79031_0255_00201;201;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.477184;46.179667
+79031_0196_00029;29;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.47356;46.17945
+79031_0363_00051;51;;Rue René Bernard;79360;79031;Beauvoir-sur-Niort;;;-0.49964;46.170138
+79031_b793a3_00206;206;;Impasse des grands ormeaux;79360;79031;Beauvoir-sur-Niort;;;-0.467126;46.179918
+79031_0166_00040;40;;Rue de la Croix Blanche;79360;79031;Beauvoir-sur-Niort;;;-0.475104;46.180199
+79031_0163_00379;379;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.466701;46.188946
+79031_0301_00458;458;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472612;46.19154
+79031_0306_00121;121;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474119;46.181637
+79031_0174_00132;132;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477629;46.187585
+79031_0368_00145;145;;Rue des Rosiers;79360;79031;Beauvoir-sur-Niort;;;-0.470242;46.181855
+79031_0301_00490;490;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472423;46.191697
+79031_0152_00270;270;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.46589;46.177699
+79031_0404_00090;90;;Rue de la Tour Basse;79360;79031;Beauvoir-sur-Niort;;;-0.476864;46.180681
+79031_0226_00175;175;;Impasse de la Guillotine;79360;79031;Beauvoir-sur-Niort;;;-0.473653;46.175628
+79031_0141_00174;174;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.476199;46.178267
+79031_0359_00020;20;;Rue du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.474205;46.179442
+79031_0301_00010;10;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.473448;46.187722
+79031_0196_00110;110;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.47265;46.179073
+79031_0152_00130;130;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.467963;46.177658
+79031_0383_00135;135;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474724;46.178522
+79031_0306_00054;54;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474048;46.18099
+79031_0113_00020;20;;Rue de la Bigotterie;79360;79031;Beauvoir-sur-Niort;;;-0.458067;46.172927
+79031_0141_00259;259;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.476149;46.179155
+79031_0306_00126;126;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.47395;46.181632
+79031_0306_00455;455;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473923;46.184595
+79031_0301_00757;757;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.471971;46.194109
+79031_0087_00150;150;;Impasse des Acacias;79360;79031;Beauvoir-sur-Niort;;;-0.471814;46.184111
+79031_0306_00429;429;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473949;46.184362
+79031_0170_00064;64;;Rue des Cytises;79360;79031;Beauvoir-sur-Niort;;;-0.464396;46.178016
+79031_0301_00461;461;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472712;46.191634
+79031_0231_00013;13;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.474629;46.179854
+79031_0152_01320;1320;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.452433;46.175681
+79031_0146_00500;500;;Rue du Château;79360;79031;Beauvoir-sur-Niort;;;-0.456112;46.172126
+79031_0271_00001;1;;Allée du Logis;79360;79031;Beauvoir-sur-Niort;;;-0.456923;46.173555
+79031_0105_00039;39;;Impasse de l'Autoroute;79360;79031;Beauvoir-sur-Niort;;;-0.501546;46.167456
+79031_0231_00078;78;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473676;46.179929
+79031_0141_00179;179;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.47627;46.178362
+79031_0193_00089;89;;Rue des Frênes;79360;79031;Beauvoir-sur-Niort;;;-0.470538;46.183301
+79031_0174_00370;370;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477374;46.185506
+79031_0383_00109;109;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474653;46.178757
+79031_0357_00014;14;;Impasse du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.472938;46.178022
+79031_0219_00281;281;;Rue des Grands Champs;79360;79031;Beauvoir-sur-Niort;;;-0.477245;46.17483
+79031_0193_00024;24;;Rue des Frênes;79360;79031;Beauvoir-sur-Niort;;;-0.470738;46.182707
+79031_7ahll4_00087;87;;Lieu Dit le Quereu;79360;79031;Beauvoir-sur-Niort;;;-0.476299;46.186528
+79031_0206_00086;86;;Rue Gaston Métayer;79360;79031;Beauvoir-sur-Niort;;;-0.472314;46.190343
+79031_0172_00031;31;;Impasse des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.469831;46.180338
+79031_0141_00421;421;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.475622;46.180511
+79031_0291_00179;179;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.471204;46.190992
+79031_0306_00179;179;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474092;46.182095
+79031_0129_00500;500;;Rue des Carrières;79360;79031;Beauvoir-sur-Niort;;;-0.457244;46.172495
+79031_0421_00220;220;;Rue du Vieux Puits;79360;79031;Beauvoir-sur-Niort;;;-0.498568;46.168588
+79031_0301_00294;294;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.473176;46.19022
+79031_0087_00120;120;;Impasse des Acacias;79360;79031;Beauvoir-sur-Niort;;;-0.472188;46.184179
+79031_0170_00094;94;;Rue des Cytises;79360;79031;Beauvoir-sur-Niort;;;-0.464017;46.178288
+79031_0306_00116;116;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473957;46.181538
+79031_0075_00560;560;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.467906;46.178655
+79031_0286_00030;30;;Route de Marigny;79360;79031;Beauvoir-sur-Niort;;;-0.469472;46.18082
+79031_0383_00044;44;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474625;46.179296
+79031_0255_00340;340;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.47919;46.179424
+79031_0196_00177;177;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.471845;46.178881
+79031_0113_00120;120;;Rue de la Bigotterie;79360;79031;Beauvoir-sur-Niort;;;-0.458459;46.173048
+79031_0313_00075;75;;Rue de la Paix;79360;79031;Beauvoir-sur-Niort;;;-0.478136;46.186678
+79031_0174_00156;156;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477604;46.187339
+79031_0383_00090;90;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474733;46.178894
+79031_0349_00360;360;;Rue du Plantis;79360;79031;Beauvoir-sur-Niort;;;-0.471498;46.180669
+79031_0349_00150;150;;Rue du Plantis;79360;79031;Beauvoir-sur-Niort;;;-0.472512;46.178858
+79031_0141_00520;520;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.475223;46.181319
+79031_0231_00081;81;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.474309;46.180421
+79031_0196_00350;350;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.469867;46.178137
+79031_0163_00057;57;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.469782;46.189982
+79031_0383_00035;35;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474472;46.179403
+79031_0226_00104;104;;Impasse de la Guillotine;79360;79031;Beauvoir-sur-Niort;;;-0.473553;46.176376
+79031_0318_00128;128;;Chemin du Parc;79360;79031;Beauvoir-sur-Niort;;;-0.474793;46.190777
+79031_0301_00440;440;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472707;46.191395
+79031_0368_00100;100;;Rue des Rosiers;79360;79031;Beauvoir-sur-Niort;;;-0.470806;46.182067
+79031_0359_00053;53;;Rue du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.473896;46.179293
+79031_0404_00156;156;;Rue de la Tour Basse;79360;79031;Beauvoir-sur-Niort;;;-0.477202;46.181562
+79031_0384_00019;19;;Petite Rue Saint-jean;79360;79031;Beauvoir-sur-Niort;;;-0.474873;46.179182
+79031_0309_00011;11;;Impasse des Noisetiers;79360;79031;Beauvoir-sur-Niort;;;-0.471575;46.179668
+79031_0075_00540;540;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.468855;46.179984
+79031_0390_00025;25;;Impasse de la Scierie;79360;79031;Beauvoir-sur-Niort;;;-0.473106;46.176355
+79031_0306_00311;311;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474015;46.183227
+79031_0152_00390;390;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.464433;46.177467
+79031_0141_00203;203;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.47623;46.178474
+79031_0141_00170;170;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.476219;46.178228
+79031_0283_00075;75;;Rue Marcel Re;79360;79031;Beauvoir-sur-Niort;;;-0.467785;46.179465
+79031_0399_00016;16;;Impasse du Tilleul;79360;79031;Beauvoir-sur-Niort;;;-0.47802;46.187968
+79031_0186_00087;87;;Rue des Fauvettes;79360;79031;Beauvoir-sur-Niort;;;-0.472011;46.188511
+79031_0161_00009;9;;Rue du Commandant Caud;79360;79031;Beauvoir-sur-Niort;;;-0.473323;46.180477
+79031_0100_00461;461;;Rue André Papot;79360;79031;Beauvoir-sur-Niort;;;-0.469459;46.177059
+79031_0152_00140;140;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.452351;46.175828
+79031_0255_00004;4;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.474836;46.179765
+79031_0343_00021;21;;Impasse de la Plaine;79360;79031;Beauvoir-sur-Niort;;;-0.497895;46.169594
+79031_0291_00450;450;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.469045;46.189058
+79031_0301_00160;160;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.473592;46.188916
+79031_0231_00007;7;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.474631;46.179808
+79031_0075_00310;310;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.470428;46.180858
+79031_0129_00250;250;;Rue des Carrières;79360;79031;Beauvoir-sur-Niort;;;-0.457944;46.174527
+79031_0266_00025;25;;Rue de Limailles;79360;79031;Beauvoir-sur-Niort;;;-0.496051;46.199511
+79031_0368_00110;110;;Rue des Rosiers;79360;79031;Beauvoir-sur-Niort;;;-0.470661;46.181976
+79031_0338_00270;270;;Rue Piot;79360;79031;Beauvoir-sur-Niort;;;-0.454654;46.175664
+79031_0338_00210;210;;Rue Piot;79360;79031;Beauvoir-sur-Niort;;;-0.45539;46.175195
+79031_0390_00051;51;;Impasse de la Scierie;79360;79031;Beauvoir-sur-Niort;;;-0.472847;46.17634
+79031_0410_00100;100;;Chemin de la Vallée;79360;79031;Beauvoir-sur-Niort;;;-0.479725;46.185528
+79031_0357_00037;37;;Impasse du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.472573;46.177952
+79031_0161_00005;5;;Rue du Commandant Caud;79360;79031;Beauvoir-sur-Niort;;;-0.473455;46.18038
+79031_0152_00550;550;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.463112;46.17724
+79031_0226_00025;25;;Impasse de la Guillotine;79360;79031;Beauvoir-sur-Niort;;;-0.473152;46.176988
+79031_0226_00061;61;;Impasse de la Guillotine;79360;79031;Beauvoir-sur-Niort;;;-0.473345;46.176439
+79031_0152_00219;219;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.466547;46.177999
+79031_0152_01221;1221;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.453827;46.176207
+79031_0368_00025;25;;Rue des Rosiers;79360;79031;Beauvoir-sur-Niort;;;-0.471382;46.181755
+79031_0141_00119;119;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.476299;46.177684
+79031_0193_00068;68;;Rue des Frênes;79360;79031;Beauvoir-sur-Niort;;;-0.470539;46.183056
+79031_0146_00299;299;;Rue du Château;79360;79031;Beauvoir-sur-Niort;;;-0.455191;46.174453
+79031_0306_00096;96;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.47398;46.181357
+79031_0231_00106;106;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473555;46.180181
+79031_0357_00035;35;;Impasse du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.472632;46.177984
+79031_0231_00122;122;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.47351;46.180301
+79031_0236_00131;131;;Rue du 8 Mai 1945;79360;79031;Beauvoir-sur-Niort;;;-0.470855;46.177171
+79031_0363_00110;110;;Rue René Bernard;79360;79031;Beauvoir-sur-Niort;;;-0.498637;46.170108
+79031_0304_00136;136;;Chemin Neuf;79360;79031;Beauvoir-sur-Niort;;;-0.474729;46.184955
+79031_0161_00105;105;;Rue du Commandant Caud;79360;79031;Beauvoir-sur-Niort;;;-0.47217;46.180564
+79031_0141_00372;372;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.475756;46.179997
+79031_0143_00047;47;;Rue des Charmes;79360;79031;Beauvoir-sur-Niort;;;-0.472555;46.182254
+79031_0383_00660;660;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.476495;46.173977
+79031_0260_00013;13;;Impasse de la Liberté;79360;79031;Beauvoir-sur-Niort;;;-0.471895;46.192423
+79031_0100_00315;315;;Rue André Papot;79360;79031;Beauvoir-sur-Niort;;;-0.471386;46.176679
+79031_0152_00116;116;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.468506;46.178038
+79031_0096_00027;27;;Place des Alouettes;79360;79031;Beauvoir-sur-Niort;;;-0.473019;46.188053
+79031_0363_00061;61;;Rue René Bernard;79360;79031;Beauvoir-sur-Niort;;;-0.499429;46.170278
+79031_0296_00030;30;;Chemin du Moulin;79360;79031;Beauvoir-sur-Niort;;;-0.466027;46.177389
+79031_0143_00188;188;;Rue des Charmes;79360;79031;Beauvoir-sur-Niort;;;-0.471153;46.183022
+79031_0421_00059;59;;Rue du Vieux Puits;79360;79031;Beauvoir-sur-Niort;;;-0.500014;46.167784
+79031_0306_00140;140;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473754;46.181807
+79031_0231_00075;75;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.474331;46.180372
+79031_0286_01120;1120;;Route de Marigny;79360;79031;Beauvoir-sur-Niort;;;-0.456277;46.183374
+79031_0335_00013;13;;Rue des Pinsons;79360;79031;Beauvoir-sur-Niort;;;-0.472975;46.188541
+79031_0236_00010;10;;Rue du 8 Mai 1945;79360;79031;Beauvoir-sur-Niort;;;-0.470599;46.178182
+79031_0100_00220;220;;Rue André Papot;79360;79031;Beauvoir-sur-Niort;;;-0.47273;46.176947
+79031_0271_00025;25;;Allée du Logis;79360;79031;Beauvoir-sur-Niort;;;-0.456497;46.173619
+79031_0231_00100;100;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473591;46.180114
+79031_0357_00052;52;;Impasse du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.472529;46.177845
+79031_0174_00135;135;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477535;46.18752
+79031_0100_00064;64;;Rue André Papot;79360;79031;Beauvoir-sur-Niort;;;-0.474065;46.17769
+79031_0410_00055;55;;Chemin de la Vallée;79360;79031;Beauvoir-sur-Niort;;;-0.481117;46.186345
+79031_0152_01300;1300;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.452941;46.175622
+79031_0301_00386;386;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472951;46.191037
+79031_0266_00033;33;;Rue de Limailles;79360;79031;Beauvoir-sur-Niort;;;-0.496046;46.200466
+79031_0296_00007;7;;Chemin du Moulin;79360;79031;Beauvoir-sur-Niort;;;-0.466004;46.177122
+79031_0152_00350;350;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.464835;46.177535
+79031_0301_00399;399;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.473056;46.191115
+79031_0357_00004;4;;Impasse du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.472982;46.178042
+79031_0100_00169;169;;Rue André Papot;79360;79031;Beauvoir-sur-Niort;;;-0.473125;46.177258
+79031_0092_00062;62;;Impasse de l'Alezan;79360;79031;Beauvoir-sur-Niort;;;-0.476785;46.187462
+79031_0231_00095;95;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.474231;46.180553
+79031_0075_00525;525;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.468312;46.179625
+79031_0383_00515;515;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.475761;46.175162
+79031_0291_00300;300;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.470661;46.189917
+79031_0102_00072;72;;rue de l'ancien stade;79360;79031;Beauvoir-sur-Niort;;;-0.474105;46.185197
+79031_0421_00345;345;;Rue du Vieux Puits;79360;79031;Beauvoir-sur-Niort;;;-0.498241;46.169678
+79031_0193_00127;127;;Rue des Frênes;79360;79031;Beauvoir-sur-Niort;;;-0.470405;46.183681
+79031_0368_00085;85;;Rue des Rosiers;79360;79031;Beauvoir-sur-Niort;;;-0.47096;46.182231
+79031_0357_00074;74;;Impasse du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.472183;46.177729
+79031_0404_00151;151;;Rue de la Tour Basse;79360;79031;Beauvoir-sur-Niort;;;-0.477263;46.181493
+79031_0333_00160;160;;Rue du Pigeonnier;79360;79031;Beauvoir-sur-Niort;;;-0.501572;46.168958
+79031_0291_00070;70;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.471716;46.191815
+79031_0196_00038;38;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.473561;46.17937
+79031_0141_00350;350;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.475837;46.179772
+79031_0231_00016;16;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.47414;46.179639
+79031_0075_00542;542;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.468353;46.179548
+79031_0291_00221;221;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.471005;46.190526
+79031_0196_00321;321;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.470264;46.178443
+79031_0349_00010;10;;Rue du Plantis;79360;79031;Beauvoir-sur-Niort;;;-0.473408;46.177769
+79031_0196_00190;190;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.471737;46.178713
+79031_0383_00415;415;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.47547;46.175937
+79031_0196_00205;205;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.471653;46.178804
+79031_0236_00110;110;;Rue du 8 Mai 1945;79360;79031;Beauvoir-sur-Niort;;;-0.471249;46.177345
+79031_0231_00060;60;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473734;46.17979
+79031_0255_00140;140;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.476635;46.179892
+79031_0301_00443;443;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472806;46.191483
+79031_0186_00015;15;;Rue des Fauvettes;79360;79031;Beauvoir-sur-Niort;;;-0.471647;46.187946
+79031_0100_00038;38;;Rue André Papot;79360;79031;Beauvoir-sur-Niort;;;-0.474366;46.177734
+79031_0313_00029;29;;Rue de la Paix;79360;79031;Beauvoir-sur-Niort;;;-0.478808;46.18684
+79031_0424_00040;40;;Rue de la Vigne;79360;79031;Beauvoir-sur-Niort;;;-0.474606;46.182964
+79031_0296_00091;91;;Chemin du Moulin;79360;79031;Beauvoir-sur-Niort;;;-0.46507;46.176803
+79031_0152_00330;330;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.465227;46.177606
+79031_0150_00027;27;;Rue du Chene Vert;79360;79031;Beauvoir-sur-Niort;;;-0.472997;46.186852
+79031_0223_00062;62;;Chemin de la Gravette;79360;79031;Beauvoir-sur-Niort;;;-0.473142;46.193457
+79031_0193_00150;150;;Rue des Frênes;79360;79031;Beauvoir-sur-Niort;;;-0.470036;46.183611
+79031_0225_00090;90;;Rue de la Guilloterie;79360;79031;Beauvoir-sur-Niort;;;-0.476;46.183091
+79031_0357_00065;65;;Impasse du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.472208;46.177861
+79031_0141_00601;601;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.475179;46.181996
+79031_0291_00480;480;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.468737;46.188936
+79031_0383_00061;61;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474537;46.179187
+79031_0383_00230;230;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.47512;46.177681
+79031_0313_00055;55;;Rue de la Paix;79360;79031;Beauvoir-sur-Niort;;;-0.478368;46.1867
+79031_0315_00011;11;;Impasse des Palmiers;79360;79031;Beauvoir-sur-Niort;;;-0.472206;46.1794
+79031_0278_00036;36;;Impasse de la Mairie;79360;79031;Beauvoir-sur-Niort;;;-0.472008;46.191561
+79031_0424_00129;129;;Rue de la Vigne;79360;79031;Beauvoir-sur-Niort;;;-0.474901;46.183828
+79031_0349_00300;300;;Rue du Plantis;79360;79031;Beauvoir-sur-Niort;;;-0.471473;46.180044
+79031_0383_00525;525;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.475826;46.175046
+79031_0295_00094;94;;Rue des Mésanges;79360;79031;Beauvoir-sur-Niort;;;-0.472789;46.188388
+79031_0245_00430;430;;Rue Jean Baptiste Clement;79360;79031;Beauvoir-sur-Niort;;;-0.480625;46.188352
+79031_0255_00126;126;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.47619;46.179813
+79031_0255_00230;230;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.477665;46.179656
+79031_0255_00185;185;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.477012;46.17972
+79031_7ahll4_00021;21;;Lieu Dit le Quereu;79360;79031;Beauvoir-sur-Niort;;;-0.477166;46.186587
+79031_0294_00034;34;;Rue des Merisiers;79360;79031;Beauvoir-sur-Niort;;;-0.471203;46.183442
+79031_0161_00095;95;;Rue du Commandant Caud;79360;79031;Beauvoir-sur-Niort;;;-0.472274;46.180541
+79031_0075_00073;73;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.473268;46.182215
+79031_0304_00062;62;;Chemin Neuf;79360;79031;Beauvoir-sur-Niort;;;-0.47645;46.185209
+79031_0410_00089;89;;Chemin de la Vallée;79360;79031;Beauvoir-sur-Niort;;;-0.480622;46.186067
+79031_0359_00012;12;;Rue du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.474294;46.179459
+79031_0306_00057;57;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474264;46.181094
+79031_0146_00297;297;;Rue du Château;79360;79031;Beauvoir-sur-Niort;;;-0.455909;46.173857
+79031_0306_00239;239;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474041;46.182645
+79031_0359_00030;30;;Rue du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.474097;46.179416
+79031_0100_00251;251;;Rue André Papot;79360;79031;Beauvoir-sur-Niort;;;-0.472182;46.176902
+79031_0245_00220;220;;Rue Jean Baptiste Clement;79360;79031;Beauvoir-sur-Niort;;;-0.479312;46.18687
+79031_0260_00031;31;;Impasse de la Liberté;79360;79031;Beauvoir-sur-Niort;;;-0.471502;46.192283
+79031_0301_00370;370;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.473045;46.190831
+79031_0404_00130;130;;Rue de la Tour Basse;79360;79031;Beauvoir-sur-Niort;;;-0.477032;46.18113
+79031_0141_00453;453;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.475485;46.180696
+79031_0306_00007;7;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474234;46.180617
+79031_0306_00083;83;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474138;46.181345
+79031_0225_00080;80;;Rue de la Guilloterie;79360;79031;Beauvoir-sur-Niort;;;-0.475927;46.183097
+79031_0129_00141;141;;Rue des Carrières;79360;79031;Beauvoir-sur-Niort;;;-0.458109;46.175522
+79031_0143_00064;64;;Rue des Charmes;79360;79031;Beauvoir-sur-Niort;;;-0.47229;46.182355
+79031_0223_00060;60;;Chemin de la Gravette;79360;79031;Beauvoir-sur-Niort;;;-0.472966;46.193383
+79031_0163_00265;265;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.46725;46.189274
+79031_0306_00064;64;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474027;46.181106
+79031_0306_00051;51;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474289;46.181015
+79031_0363_00107;107;;Rue René Bernard;79360;79031;Beauvoir-sur-Niort;;;-0.498821;46.170191
+79031_0306_00255;255;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474046;46.182787
+79031_0301_00225;225;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.473509;46.189458
+79031_0118_00100;100;;Route de la Blottière;79360;79031;Beauvoir-sur-Niort;;;-0.470069;46.181766
+79031_0383_00470;470;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.475896;46.175496
+79031_0174_00056;56;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.47761;46.188281
+79031_0152_00410;410;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.464198;46.177427
+79031_0255_00114;114;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.479669;46.180334
+79031_0383_00270;270;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.475244;46.177296
+79031_0087_00171;171;;Impasse des Acacias;79360;79031;Beauvoir-sur-Niort;;;-0.47147;46.18421
+79031_0255_00092;92;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.479425;46.180187
+79031_0301_00590;590;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.471923;46.192708
+79031_0357_00070;70;;Impasse du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.472232;46.177707
+79031_0383_00081;81;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.4746;46.178966
+79031_0306_00350;350;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473738;46.183674
+79031_0432_00010;10;;Rue Virecourt;79360;79031;Beauvoir-sur-Niort;;;-0.456272;46.172762
+79031_0384_00045;45;;Petite Rue Saint-jean;79360;79031;Beauvoir-sur-Niort;;;-0.475276;46.179145
+79031_0182_00035;35;;Impasse des Erables;79360;79031;Beauvoir-sur-Niort;;;-0.468857;46.183611
+79031_0102_00137;137;;rue de l'ancien stade;79360;79031;Beauvoir-sur-Niort;;;-0.474067;46.185777
+79031_0146_00140;140;;Rue du Château;79360;79031;Beauvoir-sur-Niort;;;-0.454862;46.174912
+79031_0196_00255;255;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.47105;46.178564
+79031_0129_00370;370;;Rue des Carrières;79360;79031;Beauvoir-sur-Niort;;;-0.45704;46.173521
+79031_0306_00040;40;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474005;46.180818
+79031_0278_00027;27;;Impasse de la Mairie;79360;79031;Beauvoir-sur-Niort;;;-0.472012;46.191586
+79031_0231_00182;182;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.474096;46.18053
+79031_0383_00096;96;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474751;46.178828
+79031_b793a3_00380;380;;Impasse des grands ormeaux;79360;79031;Beauvoir-sur-Niort;;;-0.464952;46.179103
+79031_0102_00095;95;;rue de l'ancien stade;79360;79031;Beauvoir-sur-Niort;;;-0.474506;46.185807
+79031_0245_00264;264;;Rue Jean Baptiste Clement;79360;79031;Beauvoir-sur-Niort;;;-0.479461;46.187413
+79031_0424_00039;39;;Rue de la Vigne;79360;79031;Beauvoir-sur-Niort;;;-0.474746;46.182637
+79031_0146_00250;250;;Rue du Château;79360;79031;Beauvoir-sur-Niort;;;-0.455927;46.174234
+79031_0278_00030;30;;Impasse de la Mairie;79360;79031;Beauvoir-sur-Niort;;;-0.472059;46.191596
+79031_0226_00084;84;;Impasse de la Guillotine;79360;79031;Beauvoir-sur-Niort;;;-0.473457;46.17659
+79031_0226_00105;105;;Impasse de la Guillotine;79360;79031;Beauvoir-sur-Niort;;;-0.473534;46.176089
+79031_0421_00235;235;;Rue du Vieux Puits;79360;79031;Beauvoir-sur-Niort;;;-0.498505;46.168723
+79031_0196_00151;151;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.472144;46.178997
+79031_0141_00100;100;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.476178;46.1776
+79031_0306_00650;650;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473546;46.186354
+79031_0179_00075;75;;Impasse des Eglantines;79360;79031;Beauvoir-sur-Niort;;;-0.471453;46.182176
+79031_0196_00037;37;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.473497;46.179425
+79031_0219_00311;311;;Rue des Grands Champs;79360;79031;Beauvoir-sur-Niort;;;-0.477329;46.174695
+79031_0141_00456;456;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.475491;46.180588
+79031_0245_00030;30;;Rue Jean Baptiste Clement;79360;79031;Beauvoir-sur-Niort;;;-0.477839;46.185787
+79031_7ahll4_00047;47;;Lieu Dit le Quereu;79360;79031;Beauvoir-sur-Niort;;;-0.476827;46.186589
+79031_0368_00065;65;;Rue des Rosiers;79360;79031;Beauvoir-sur-Niort;;;-0.471207;46.182001
+79031_0100_00221;221;;Rue André Papot;79360;79031;Beauvoir-sur-Niort;;;-0.472434;46.17697
+79031_0134_00079;79;;Impasse Chaix du Pas David;79360;79031;Beauvoir-sur-Niort;;;-0.47778;46.180611
+79031_0129_00191;191;;Rue des Carrières;79360;79031;Beauvoir-sur-Niort;;;-0.458168;46.175151
+79031_0424_00203;203;;Rue de la Vigne;79360;79031;Beauvoir-sur-Niort;;;-0.475216;46.184505
+79031_0236_00151;151;;Rue du 8 Mai 1945;79360;79031;Beauvoir-sur-Niort;;;-0.471037;46.177192
+79031_0134_00040;40;;Impasse Chaix du Pas David;79360;79031;Beauvoir-sur-Niort;;;-0.477523;46.181006
+79031_0102_00025;25;;rue de l'ancien stade;79360;79031;Beauvoir-sur-Niort;;;-0.474777;46.185213
+79031_0306_00260;260;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473831;46.182716
+79031_0087_00001;1;;Impasse des Acacias;79360;79031;Beauvoir-sur-Niort;;;-0.473472;46.184513
+79031_0231_00082;82;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473651;46.17997
+79031_0306_00139;139;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474109;46.181813
+79031_0179_00045;45;;Impasse des Eglantines;79360;79031;Beauvoir-sur-Niort;;;-0.471646;46.181954
+79031_0129_00319;319;;Rue des Carrières;79360;79031;Beauvoir-sur-Niort;;;-0.457316;46.174031
+79031_0301_00539;539;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472344;46.192276
+79031_0184_00099;99;;Rue de l’Esperance;79360;79031;Beauvoir-sur-Niort;;;-0.500131;46.168856
+79031_0143_00067;67;;Rue des Charmes;79360;79031;Beauvoir-sur-Niort;;;-0.472233;46.182632
+79031_0301_00233;233;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.473484;46.1896
+79031_0291_00245;245;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.47091;46.19037
+79031_0080_00070;70;;Rue de l'Abreuvoir;79360;79031;Beauvoir-sur-Niort;;;-0.499929;46.168262
+79031_0383_00025;25;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.47446;46.179448
+79031_0306_00069;69;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474158;46.181159
+79031_7ahll4_00070;70;;Lieu Dit le Quereu;79360;79031;Beauvoir-sur-Niort;;;-0.476649;46.186424
+79031_0075_00350;350;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.470102;46.18064
+79031_0383_00191;191;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474911;46.177913
+79031_0193_00162;162;;Rue des Frênes;79360;79031;Beauvoir-sur-Niort;;;-0.470141;46.183692
+79031_0381_00080;80;;Rue Saint-jacques;79360;79031;Beauvoir-sur-Niort;;;-0.474189;46.176987
+79031_0075_00308;308;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.470503;46.180882
+79031_0301_00231;231;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.47349;46.189566
+79031_0100_00053;53;;Rue André Papot;79360;79031;Beauvoir-sur-Niort;;;-0.474265;46.177757
+79031_0296_00151;151;;Chemin du Moulin;79360;79031;Beauvoir-sur-Niort;;;-0.464132;46.176523
+79031_0315_00031;31;;Impasse des Palmiers;79360;79031;Beauvoir-sur-Niort;;;-0.472332;46.17943
+79031_0245_00007;7;;Rue Jean Baptiste Clement;79360;79031;Beauvoir-sur-Niort;;;-0.477574;46.185635
+79031_0166_00025;25;;Rue de la Croix Blanche;79360;79031;Beauvoir-sur-Niort;;;-0.474967;46.179945
+79031_0170_00055;55;;Rue des Cytises;79360;79031;Beauvoir-sur-Niort;;;-0.464593;46.178092
+79031_0231_00158;158;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473785;46.180452
+79031_0338_00277;277;;Rue Piot;79360;79031;Beauvoir-sur-Niort;;;-0.455593;46.175884
+79031_0281_00009;9;;Place de la Mairie;79360;79031;Beauvoir-sur-Niort;;;-0.477278;46.185608
+79031_0296_00199;199;;Chemin du Moulin;79360;79031;Beauvoir-sur-Niort;;;-0.463621;46.176326
+79031_0260_00019;19;;Impasse de la Liberté;79360;79031;Beauvoir-sur-Niort;;;-0.471794;46.192382
+79031_0102_00089;89;;rue de l'ancien stade;79360;79031;Beauvoir-sur-Niort;;;-0.474794;46.185816
+79031_0306_00185;185;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474078;46.182274
+79031_0092_00064;64;;Impasse de l'Alezan;79360;79031;Beauvoir-sur-Niort;;;-0.476763;46.187492
+79031_0163_00095;95;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.469233;46.190173
+79031_0141_00180;180;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.476169;46.178334
+79031_0196_00080;80;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.473028;46.17919
+79031_0075_00695;695;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.467381;46.178309
+79031_0424_00220;220;;Rue de la Vigne;79360;79031;Beauvoir-sur-Niort;;;-0.475122;46.184627
+79031_0196_00461;461;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.468768;46.177039
+79031_0359_00035;35;;Rue du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.474002;46.179401
+79031_0255_00142;142;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.476413;46.179887
+79031_0075_00108;108;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.472501;46.181796
+79031_0201_00081;81;;Chemin des Garennes;79360;79031;Beauvoir-sur-Niort;;;-0.476602;46.188019
+79031_0306_00049;49;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474237;46.181003
+79031_0306_00445;445;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473934;46.184462
+79031_0211_00013;13;;Rue des Glycines;79360;79031;Beauvoir-sur-Niort;;;-0.500603;46.168936
+79031_0338_00155;155;;Rue Piot;79360;79031;Beauvoir-sur-Niort;;;-0.455765;46.174959
+79031_0291_00075;75;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.471708;46.191897
+79031_0383_00246;246;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.475158;46.177541
+79031_0146_00355;355;;Rue du Château;79360;79031;Beauvoir-sur-Niort;;;-0.455932;46.173271
+79031_0174_00265;265;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477415;46.186196
+79031_0196_00221;221;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.471508;46.178738
+79031_0134_00011;11;;Impasse Chaix du Pas David;79360;79031;Beauvoir-sur-Niort;;;-0.477281;46.18105
+79031_7ahll4_00041;41;;Lieu Dit le Quereu;79360;79031;Beauvoir-sur-Niort;;;-0.476983;46.18661
+79031_0301_00235;235;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.473619;46.189734
+79031_0196_00421;421;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.469264;46.177665
+79031_0236_00091;91;;Rue du 8 Mai 1945;79360;79031;Beauvoir-sur-Niort;;;-0.470678;46.177513
+79031_0152_00149;149;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.46754;46.178077
+79031_0338_00279;279;;Rue Piot;79360;79031;Beauvoir-sur-Niort;;;-0.455383;46.175819
+79031_0174_00026;26;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477616;46.188517
+79031_0424_00161;161;;Rue de la Vigne;79360;79031;Beauvoir-sur-Niort;;;-0.47506;46.184139
+79031_0291_00159;159;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.471341;46.191244
+79031_0357_00001;1;;Impasse du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.472918;46.1782
+79031_0291_00273;273;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.469851;46.1905
+79031_0129_00039;39;;Rue des Carrières;79360;79031;Beauvoir-sur-Niort;;;-0.45797;46.1761
+79031_0196_00100;100;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.472812;46.179117
+79031_0189_00027;27;;Impasse du Fournil;79360;79031;Beauvoir-sur-Niort;;;-0.474457;46.180821
+79031_0359_00021;21;;Rue du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.474166;46.179499
+79031_0196_00002;2;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.473856;46.179543
+79031_0075_00128;128;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.472374;46.181746
+79031_0306_00610;610;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473549;46.186298
+79031_0301_00781;781;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.471932;46.194475
+79031_0333_00040;40;;Rue du Pigeonnier;79360;79031;Beauvoir-sur-Niort;;;-0.500919;46.167797
+79031_0163_00147;147;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.468513;46.189843
+79031_0255_00311;311;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.480576;46.179505
+79031_0306_00158;158;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473767;46.181832
+79031_0102_00065;65;;rue de l'ancien stade;79360;79031;Beauvoir-sur-Niort;;;-0.474247;46.185264
+79031_0143_00197;197;;Rue des Charmes;79360;79031;Beauvoir-sur-Niort;;;-0.470952;46.183064
+79031_0141_00390;390;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.475714;46.18019
+79031_0141_00659;659;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.474873;46.182391
+79031_0384_00002;2;;Petite Rue Saint-jean;79360;79031;Beauvoir-sur-Niort;;;-0.474778;46.179231
+79031_0295_00092;92;;Rue des Mésanges;79360;79031;Beauvoir-sur-Niort;;;-0.472694;46.188296
+79031_0226_00085;85;;Impasse de la Guillotine;79360;79031;Beauvoir-sur-Niort;;;-0.473475;46.176303
+79031_0383_00171;171;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474838;46.178161
+79031_0286_00025;25;;Route de Marigny;79360;79031;Beauvoir-sur-Niort;;;-0.469961;46.180855
+79031_0193_00038;38;;Rue des Frênes;79360;79031;Beauvoir-sur-Niort;;;-0.47071;46.182751
+79031_0421_00022;22;;Rue du Vieux Puits;79360;79031;Beauvoir-sur-Niort;;;-0.500466;46.167613
+79031_0225_00051;51;;Rue de la Guilloterie;79360;79031;Beauvoir-sur-Niort;;;-0.475382;46.18288
+79031_0172_00067;67;;Impasse des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.469998;46.179946
+79031_0161_00040;40;;Rue du Commandant Caud;79360;79031;Beauvoir-sur-Niort;;;-0.472905;46.180376
+79031_0163_00264;264;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.467334;46.189111
+79031_0291_00195;195;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.471118;46.190803
+79031_0196_00169;169;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.471946;46.178919
+79031_0134_00072;72;;Impasse Chaix du Pas David;79360;79031;Beauvoir-sur-Niort;;;-0.47792;46.180652
+79031_0075_00106_a;106;a;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.472638;46.181854
+79031_0381_00050;50;;Rue Saint-jacques;79360;79031;Beauvoir-sur-Niort;;;-0.474515;46.176718
+79031_0118_00060;60;;Route de la Blottière;79360;79031;Beauvoir-sur-Niort;;;-0.470468;46.18159
+79031_0338_00018;18;;Rue Piot;79360;79031;Beauvoir-sur-Niort;;;-0.456562;46.173917
+79031_0146_00210;210;;Rue du Château;79360;79031;Beauvoir-sur-Niort;;;-0.455429;46.174373
+79031_0291_00200;200;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.471197;46.190779
+79031_0189_00029;29;;Impasse du Fournil;79360;79031;Beauvoir-sur-Niort;;;-0.474288;46.180797
+79031_0134_00058;58;;Impasse Chaix du Pas David;79360;79031;Beauvoir-sur-Niort;;;-0.477837;46.18087
+79031_0255_00233;233;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.480427;46.179954
+79031_0291_00600;600;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.467358;46.188485
+79031_0306_00059;59;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474228;46.181081
+79031_0118_00301;301;;Route de la Blottière;79360;79031;Beauvoir-sur-Niort;;;-0.468316;46.18329
+79031_0170_00006;6;;Rue des Cytises;79360;79031;Beauvoir-sur-Niort;;;-0.464384;46.177675
+79031_0283_00070;70;;Rue Marcel Re;79360;79031;Beauvoir-sur-Niort;;;-0.467863;46.179586
+79031_0296_00470;470;;Chemin du Moulin;79360;79031;Beauvoir-sur-Niort;;;-0.460425;46.175194
+79031_0075_00315;315;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.47033;46.180919
+79031_0118_00345;345;;Route de la Blottière;79360;79031;Beauvoir-sur-Niort;;;-0.468193;46.183424
+79031_0226_00116;116;;Impasse de la Guillotine;79360;79031;Beauvoir-sur-Niort;;;-0.473612;46.176155
+79031_0291_00215;215;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.470641;46.190782
+79031_0141_00501;501;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.475324;46.181615
+79031_0087_00185;185;;Impasse des Acacias;79360;79031;Beauvoir-sur-Niort;;;-0.471671;46.184421
+79031_0225_00214;214;;Rue de la Guilloterie;79360;79031;Beauvoir-sur-Niort;;;-0.477188;46.183641
+79031_0306_00400;400;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473705;46.184137
+79031_0075_00106_b;106;b;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.47268;46.181866
+79031_0196_00315;315;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.4701;46.178756
+79031_0432_00069;69;;Rue Virecourt;79360;79031;Beauvoir-sur-Niort;;;-0.456886;46.172785
+79031_0105_00083;83;;Impasse de l'Autoroute;79360;79031;Beauvoir-sur-Niort;;;-0.502102;46.167395
+79031_0226_00215;215;;Impasse de la Guillotine;79360;79031;Beauvoir-sur-Niort;;;-0.47364;46.175018
+79031_0196_00241;241;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.471226;46.178629
+79031_0295_00029;29;;Rue des Mésanges;79360;79031;Beauvoir-sur-Niort;;;-0.472096;46.188061
+79031_0231_00144;144;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473656;46.18041
+79031_0141_00239;239;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.476154;46.178927
+79031_0206_00075;75;;Rue Gaston Métayer;79360;79031;Beauvoir-sur-Niort;;;-0.472479;46.190514
+79031_0291_00045;45;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.472146;46.192096
+79031_0255_00051;51;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.475094;46.179695
+79031_0291_00269;269;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.469903;46.190517
+79031_0174_00255;255;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477419;46.186244
+79031_0184_00060;60;;Rue de l’Esperance;79360;79031;Beauvoir-sur-Niort;;;-0.500752;46.168765
+79031_0129_00275;275;;Rue des Carrières;79360;79031;Beauvoir-sur-Niort;;;-0.457608;46.174311
+79031_0163_00100;100;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.469074;46.189915
+79031_0129_00425;425;;Rue des Carrières;79360;79031;Beauvoir-sur-Niort;;;-0.456959;46.173121
+79031_0245_00324;324;;Rue Jean Baptiste Clement;79360;79031;Beauvoir-sur-Niort;;;-0.480101;46.187858
+79031_0283_00035;35;;Rue Marcel Re;79360;79031;Beauvoir-sur-Niort;;;-0.467675;46.179775
+79031_0174_00020;20;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477612;46.188607
+79031_0219_00365;365;;Rue des Grands Champs;79360;79031;Beauvoir-sur-Niort;;;-0.477588;46.174331
+79031_0163_00205;205;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.467996;46.189531
+79031_0221_00031;31;;Rue des Grands Ormeaux;79360;79031;Beauvoir-sur-Niort;;;-0.468764;46.180821
+79031_0255_00085;85;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.475639;46.179685
+79031_0184_00070;70;;Rue de l’Esperance;79360;79031;Beauvoir-sur-Niort;;;-0.500545;46.168796
+79031_0384_00080;80;;Petite Rue Saint-jean;79360;79031;Beauvoir-sur-Niort;;;-0.47565;46.179263
+79031_0368_00140;140;;Rue des Rosiers;79360;79031;Beauvoir-sur-Niort;;;-0.470436;46.18177
+79031_0150_00173;173;;Rue du Chene Vert;79360;79031;Beauvoir-sur-Niort;;;-0.47131;46.186648
+79031_0368_00010;10;;Rue des Rosiers;79360;79031;Beauvoir-sur-Niort;;;-0.471367;46.181596
+79031_0236_00071;71;;Rue du 8 Mai 1945;79360;79031;Beauvoir-sur-Niort;;;-0.470626;46.177625
+79031_0193_00107;107;;Rue des Frênes;79360;79031;Beauvoir-sur-Niort;;;-0.470437;46.183476
+79031_0266_00029;29;;Rue de Limailles;79360;79031;Beauvoir-sur-Niort;;;-0.495807;46.199855
+79031_0421_00190;190;;Rue du Vieux Puits;79360;79031;Beauvoir-sur-Niort;;;-0.498827;46.168386
+79031_0357_00068;68;;Impasse du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.472262;46.177705
+79031_0174_00215;215;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477468;46.186695
+79031_0201_00053;53;;Chemin des Garennes;79360;79031;Beauvoir-sur-Niort;;;-0.476858;46.188049
+79031_0306_00017;17;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.47425;46.180745
+79031_0338_00230;230;;Rue Piot;79360;79031;Beauvoir-sur-Niort;;;-0.455305;46.175285
+79031_0286_00120;120;;Route de Marigny;79360;79031;Beauvoir-sur-Niort;;;-0.468426;46.18112
+79031_0410_00080;80;;Chemin de la Vallée;79360;79031;Beauvoir-sur-Niort;;;-0.478846;46.185114
+79031_0163_00068;68;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.469491;46.189966
+79031_0245_00276;276;;Rue Jean Baptiste Clement;79360;79031;Beauvoir-sur-Niort;;;-0.479556;46.187455
+79031_0306_00135;135;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474114;46.181733
+79031_0152_00311;311;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.465589;46.177784
+79031_0291_00571;571;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.467718;46.1887
+79031_0129_00043;43;;Rue des Carrières;79360;79031;Beauvoir-sur-Niort;;;-0.457977;46.17603
+79031_0333_00060;60;;Rue du Pigeonnier;79360;79031;Beauvoir-sur-Niort;;;-0.500993;46.168063
+79031_0100_00350;350;;Rue André Papot;79360;79031;Beauvoir-sur-Niort;;;-0.47098;46.176503
+79031_0384_00011;11;;Petite Rue Saint-jean;79360;79031;Beauvoir-sur-Niort;;;-0.474797;46.179177
+79031_0193_00287;287;;Rue des Frênes;79360;79031;Beauvoir-sur-Niort;;;-0.471454;46.184077
+79031_0368_00135;135;;Rue des Rosiers;79360;79031;Beauvoir-sur-Niort;;;-0.470428;46.18196
+79031_0236_00078;78;;Rue du 8 Mai 1945;79360;79031;Beauvoir-sur-Niort;;;-0.470803;46.177649
+79031_0216_00040;40;;Impasse de la Grande Ecole;79360;79031;Beauvoir-sur-Niort;;;-0.474181;46.178477
+79031_0357_00034;34;;Impasse du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.472593;46.17787
+79031_0291_00509;509;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.46819;46.188862
+79031_0315_00041;41;;Impasse des Palmiers;79360;79031;Beauvoir-sur-Niort;;;-0.472638;46.179519
+79031_0141_00329;329;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.476023;46.179548
+79031_0102_00064;64;;rue de l'ancien stade;79360;79031;Beauvoir-sur-Niort;;;-0.474213;46.185207
+79031_0141_00117;117;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.476292;46.177656
+79031_0196_00287;287;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.47053;46.178685
+79031_0196_00323;323;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.470225;46.178562
+79031_0306_00076;76;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474013;46.181163
+79031_0163_00174;174;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.468449;46.18965
+79031_0291_00295;295;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.470745;46.19013
+79031_0080_00150;150;;Rue de l'Abreuvoir;79360;79031;Beauvoir-sur-Niort;;;-0.499001;46.168458
+79031_0368_00045;45;;Rue des Rosiers;79360;79031;Beauvoir-sur-Niort;;;-0.471345;46.181803
+79031_0080_00029;29;;Rue de l'Abreuvoir;79360;79031;Beauvoir-sur-Niort;;;-0.50021;46.168012
+79031_0357_00007;7;;Impasse du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.472918;46.178141
+79031_0291_00271;271;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.469975;46.190457
+79031_0306_00420;420;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473692;46.1842
+79031_0221_00101;101;;Rue des Grands Ormeaux;79360;79031;Beauvoir-sur-Niort;;;-0.467963;46.180334
+79031_0129_00255;255;;Rue des Carrières;79360;79031;Beauvoir-sur-Niort;;;-0.457805;46.174384
+79031_0231_00108;108;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473547;46.180194
+79031_0163_00175;175;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.468356;46.189738
+79031_0255_00190;190;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.476992;46.179829
+79031_0291_00435;435;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.46916;46.189193
+79031_0075_00025;25;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.473441;46.182285
+79031_0161_00017;17;;Rue du Commandant Caud;79360;79031;Beauvoir-sur-Niort;;;-0.473274;46.180377
+79031_0301_00099;99;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.473624;46.188506
+79031_0236_00100;100;;Rue du 8 Mai 1945;79360;79031;Beauvoir-sur-Niort;;;-0.470865;46.17745
+79031_0174_00400;400;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477509;46.185013
+79031_0291_00267;267;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.470046;46.190497
+79031_0231_00116;116;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473532;46.180241
+79031_0146_00235;235;;Rue du Château;79360;79031;Beauvoir-sur-Niort;;;-0.455545;46.174229
+79031_0075_00085;85;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.472793;46.182006
+79031_0295_00090;90;;Rue des Mésanges;79360;79031;Beauvoir-sur-Niort;;;-0.472594;46.188192
+79031_0363_00060;60;;Rue René Bernard;79360;79031;Beauvoir-sur-Niort;;;-0.499368;46.170138
+79031_0152_00189;189;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.467068;46.178087
+79031_0174_00038;38;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477614;46.188358
+79031_0390_00065;65;;Impasse de la Scierie;79360;79031;Beauvoir-sur-Niort;;;-0.472676;46.176258
+79031_0255_00037;37;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.479646;46.179734
+79031_0432_00020;20;;Rue Virecourt;79360;79031;Beauvoir-sur-Niort;;;-0.456559;46.172741
+79031_0338_00221;221;;Rue Piot;79360;79031;Beauvoir-sur-Niort;;;-0.455114;46.175538
+79031_0142_00020;20;;Impasse des Charmes;79360;79031;Beauvoir-sur-Niort;;;-0.471692;46.183266
+79031_0381_00094;94;;Rue Saint-jacques;79360;79031;Beauvoir-sur-Niort;;;-0.473942;46.176988
+79031_0404_00110;110;;Rue de la Tour Basse;79360;79031;Beauvoir-sur-Niort;;;-0.476952;46.180919
+79031_0291_00570;570;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.467723;46.188615
+79031_0152_00132;132;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.467752;46.177897
+79031_0255_00002;2;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.474774;46.179777
+79031_0142_00046;46;;Impasse des Charmes;79360;79031;Beauvoir-sur-Niort;;;-0.472078;46.183374
+79031_0080_00135;135;;Rue de l'Abreuvoir;79360;79031;Beauvoir-sur-Niort;;;-0.499169;46.168582
+79031_0427_00080;80;;Rue des Violettes;79360;79031;Beauvoir-sur-Niort;;;-0.50002;46.169474
+79031_0368_00095;95;;Rue des Rosiers;79360;79031;Beauvoir-sur-Niort;;;-0.470748;46.182119
+79031_0294_00056;56;;Rue des Merisiers;79360;79031;Beauvoir-sur-Niort;;;-0.471064;46.183684
+79031_0295_00109;109;;Rue des Mésanges;79360;79031;Beauvoir-sur-Niort;;;-0.472989;46.188396
+79031_0383_00615;615;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.476095;46.174332
+79031_0306_00469;469;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473909;46.18476
+79031_0170_00095;95;;Rue des Cytises;79360;79031;Beauvoir-sur-Niort;;;-0.464274;46.178368
+79031_0172_00055;55;;Impasse des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.469977;46.180161
+79031_0186_00072;72;;Rue des Fauvettes;79360;79031;Beauvoir-sur-Niort;;;-0.471827;46.188426
+79031_0231_00059;59;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.474458;46.180254
+79031_0146_00300;300;;Rue du Château;79360;79031;Beauvoir-sur-Niort;;;-0.456008;46.17373
+79031_0111_00028;28;;Chemin de Bel Air;79360;79031;Beauvoir-sur-Niort;;;-0.471557;46.193175
+79031_0333_00225;225;;Rue du Pigeonnier;79360;79031;Beauvoir-sur-Niort;;;-0.502094;46.16958
+79031_0146_00240;240;;Rue du Château;79360;79031;Beauvoir-sur-Niort;;;-0.455754;46.174287
+79031_0410_00150;150;;Chemin de la Vallée;79360;79031;Beauvoir-sur-Niort;;;-0.480204;46.185787
+79031_0152_00339;339;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.465079;46.17769
+79031_0294_00077;77;;Rue des Merisiers;79360;79031;Beauvoir-sur-Niort;;;-0.471095;46.183888
+79031_0291_00365;365;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.469656;46.189392
+79031_0301_00415;415;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472993;46.191223
+79031_0383_00070;70;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474679;46.179096
+79031_0384_00031;31;;Petite Rue Saint-jean;79360;79031;Beauvoir-sur-Niort;;;-0.475125;46.179144
+79031_0291_00265;265;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.470813;46.190256
+79031_0349_00275;275;;Rue du Plantis;79360;79031;Beauvoir-sur-Niort;;;-0.471594;46.180003
+79031_0231_00066;66;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473719;46.179829
+79031_0283_00018;18;;Rue Marcel Re;79360;79031;Beauvoir-sur-Niort;;;-0.467731;46.180035
+79031_0266_00044;44;;Rue de Limailles;79360;79031;Beauvoir-sur-Niort;;;-0.495036;46.201192
+79031_0295_00043;43;;Rue des Mésanges;79360;79031;Beauvoir-sur-Niort;;;-0.472299;46.187981
+79031_0174_00167;167;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477503;46.187287
+79031_0404_00150;150;;Rue de la Tour Basse;79360;79031;Beauvoir-sur-Niort;;;-0.477077;46.18124
+79031_0152_00369;369;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.464733;46.177635
+79031_0381_00060;60;;Rue Saint-jacques;79360;79031;Beauvoir-sur-Niort;;;-0.474666;46.176524
+79031_0102_00126;126;;rue de l'ancien stade;79360;79031;Beauvoir-sur-Niort;;;-0.474162;46.185729
+79031_0146_00380;380;;Rue du Château;79360;79031;Beauvoir-sur-Niort;;;-0.456021;46.17314
+79031_0206_00036;36;;Rue Gaston Métayer;79360;79031;Beauvoir-sur-Niort;;;-0.472808;46.19062
+79031_0143_00097;97;;Rue des Charmes;79360;79031;Beauvoir-sur-Niort;;;-0.472036;46.182862
+79031_0421_00170;170;;Rue du Vieux Puits;79360;79031;Beauvoir-sur-Niort;;;-0.499016;46.168212
+79031_0333_00140;140;;Rue du Pigeonnier;79360;79031;Beauvoir-sur-Niort;;;-0.501469;46.168762
+79031_0182_00061;61;;Impasse des Erables;79360;79031;Beauvoir-sur-Niort;;;-0.4693;46.18386
+79031_0152_01025;1025;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.456367;46.176394
+79031_0184_00079;79;;Rue de l’Esperance;79360;79031;Beauvoir-sur-Niort;;;-0.500373;46.168883
+79031_0281_00005;5;;Place de la Mairie;79360;79031;Beauvoir-sur-Niort;;;-0.477311;46.185602
+79031_0226_00130;130;;Impasse de la Guillotine;79360;79031;Beauvoir-sur-Niort;;;-0.47368;46.175887
+79031_0142_00026;26;;Impasse des Charmes;79360;79031;Beauvoir-sur-Niort;;;-0.471824;46.183306
+79031_0143_00080;80;;Rue des Charmes;79360;79031;Beauvoir-sur-Niort;;;-0.472143;46.182533
+79031_0211_00029;29;;Rue des Glycines;79360;79031;Beauvoir-sur-Niort;;;-0.500569;46.169164
+79031_0196_00359;359;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.469891;46.178259
+79031_0383_00437;437;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.47559;46.175604
+79031_0383_00180;180;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474983;46.178109
+79031_0291_00240;240;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.471017;46.190368
+79031_0141_00230;230;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.476072;46.179018
+79031_0075_00300;300;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.470756;46.180972
+79031_0432_00015;15;;Rue Virecourt;79360;79031;Beauvoir-sur-Niort;;;-0.456275;46.172712
+79031_0221_00012;12;;Rue des Grands Ormeaux;79360;79031;Beauvoir-sur-Niort;;;-0.468944;46.18088
+79031_0295_00055;55;;Rue des Mésanges;79360;79031;Beauvoir-sur-Niort;;;-0.472478;46.187945
+79031_0231_00086;86;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473644;46.179992
+79031_0295_00013;13;;Rue des Mésanges;79360;79031;Beauvoir-sur-Niort;;;-0.471961;46.188122
+79031_0231_00065;65;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.474377;46.180301
+79031_0186_00067;67;;Rue des Fauvettes;79360;79031;Beauvoir-sur-Niort;;;-0.471911;46.188362
+79031_0231_00104;104;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473566;46.180168
+79031_0143_00185;185;;Rue des Charmes;79360;79031;Beauvoir-sur-Niort;;;-0.471104;46.183114
+79031_0141_00420;420;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.475527;46.180326
+79031_0075_00335;335;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.470223;46.180886
+79031_0306_00750;750;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473258;46.187429
+79031_0281_00008;8;;Place de la Mairie;79360;79031;Beauvoir-sur-Niort;;;-0.477208;46.185522
+79031_0206_00077;77;;Rue Gaston Métayer;79360;79031;Beauvoir-sur-Niort;;;-0.47229;46.190414
+79031_0196_00022;22;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.473737;46.179475
+79031_0349_00171;171;;Rue du Plantis;79360;79031;Beauvoir-sur-Niort;;;-0.472494;46.17896
+79031_0295_00060;60;;Rue des Mésanges;79360;79031;Beauvoir-sur-Niort;;;-0.472495;46.188101
+79031_0216_00069;69;;Impasse de la Grande Ecole;79360;79031;Beauvoir-sur-Niort;;;-0.47404;46.178359
+79031_0249_00062;62;;Chemin des Laix;79360;79031;Beauvoir-sur-Niort;;;-0.471248;46.191911
+79031_0163_00146;146;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.468531;46.18969
+79031_0075_00330;330;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.470315;46.180811
+79031_0383_00022;22;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474575;46.179468
+79031_0163_00347;347;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.466568;46.189171
+79031_0143_00094;94;;Rue des Charmes;79360;79031;Beauvoir-sur-Niort;;;-0.472006;46.182698
+79031_0427_00020;20;;Rue des Violettes;79360;79031;Beauvoir-sur-Niort;;;-0.499823;46.168834
+79031_0338_00121;121;;Rue Piot;79360;79031;Beauvoir-sur-Niort;;;-0.456198;46.174648
+79031_0315_00061;61;;Impasse des Palmiers;79360;79031;Beauvoir-sur-Niort;;;-0.472765;46.179543
+79031_0142_00055;55;;Impasse des Charmes;79360;79031;Beauvoir-sur-Niort;;;-0.472261;46.183366
+79031_0141_00121;121;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.476317;46.177714
+79031_0383_00102;102;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474762;46.178789
+79031_0196_00030;30;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.473614;46.179417
+79031_0196_00260;260;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.471108;46.17846
+79031_0231_00029;29;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.474587;46.180011
+79031_0301_00453;453;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472767;46.191545
+79031_0075_00265;265;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.470871;46.181097
+79031_0170_00105;105;;Rue des Cytises;79360;79031;Beauvoir-sur-Niort;;;-0.464059;46.178483
+79031_0283_00021;21;;Rue Marcel Re;79360;79031;Beauvoir-sur-Niort;;;-0.467643;46.179897
+79031_0343_00055;55;;Impasse de la Plaine;79360;79031;Beauvoir-sur-Niort;;;-0.497574;46.169589
+79031_0146_00194;194;;Rue du Château;79360;79031;Beauvoir-sur-Niort;;;-0.455275;46.174492
+79031_0206_00064;64;;Rue Gaston Métayer;79360;79031;Beauvoir-sur-Niort;;;-0.472433;46.190417
+79031_0383_00260;260;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.475198;46.177435
+79031_0306_00285;285;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474024;46.183113
+79031_0245_00320;320;;Rue Jean Baptiste Clement;79360;79031;Beauvoir-sur-Niort;;;-0.480053;46.187838
+79031_0182_00070;70;;Impasse des Erables;79360;79031;Beauvoir-sur-Niort;;;-0.469216;46.183985
+79031_0152_00128;128;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.467991;46.177985
+79031_0231_00048;48;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473833;46.179632
+79031_0301_00559;559;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472287;46.192386
+79031_0383_00080;80;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474712;46.178985
+79031_0291_00217;217;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.470601;46.190767
+79031_0399_00011;11;;Impasse du Tilleul;79360;79031;Beauvoir-sur-Niort;;;-0.47782;46.187929
+79031_0349_00330;330;;Rue du Plantis;79360;79031;Beauvoir-sur-Niort;;;-0.471477;46.180266
+79031_0186_00108;108;;Rue des Fauvettes;79360;79031;Beauvoir-sur-Niort;;;-0.471881;46.188724
+79031_0100_00199;199;;Rue André Papot;79360;79031;Beauvoir-sur-Niort;;;-0.472884;46.17708
+79031_0143_00030;30;;Rue des Charmes;79360;79031;Beauvoir-sur-Niort;;;-0.472414;46.182188
+79031_0304_00010;10;;Chemin Neuf;79360;79031;Beauvoir-sur-Niort;;;-0.476987;46.185291
+79031_0291_00415;415;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.469495;46.189329
+79031_0421_00145;145;;Rue du Vieux Puits;79360;79031;Beauvoir-sur-Niort;;;-0.499213;46.168173
+79031_0152_00505;505;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.463045;46.178848
+79031_0226_00140;140;;Impasse de la Guillotine;79360;79031;Beauvoir-sur-Niort;;;-0.473758;46.175698
+79031_0102_00083;83;;rue de l'ancien stade;79360;79031;Beauvoir-sur-Niort;;;-0.474726;46.185715
+79031_0266_00031;31;;Rue de Limailles;79360;79031;Beauvoir-sur-Niort;;;-0.495817;46.200014
+79031_0281_00010;10;;Place de la Mairie;79360;79031;Beauvoir-sur-Niort;;;-0.477195;46.185564
+79031_0291_00129;129;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.471434;46.191464
+79031_0146_00334;334;;Rue du Château;79360;79031;Beauvoir-sur-Niort;;;-0.456015;46.173523
+79031_0421_00079;79;;Rue du Vieux Puits;79360;79031;Beauvoir-sur-Niort;;;-0.499869;46.167844
+79031_0150_00052;52;;Rue du Chene Vert;79360;79031;Beauvoir-sur-Niort;;;-0.472684;46.18668
+79031_0226_00150;150;;Impasse de la Guillotine;79360;79031;Beauvoir-sur-Niort;;;-0.473799;46.175433
+79031_0152_01085;1085;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.455545;46.176406
+79031_0338_00285;285;;Rue Piot;79360;79031;Beauvoir-sur-Niort;;;-0.454658;46.175746
+79031_0216_00055;55;;Impasse de la Grande Ecole;79360;79031;Beauvoir-sur-Niort;;;-0.474062;46.178472
+79031_0161_00174;174;;Rue du Commandant Caud;79360;79031;Beauvoir-sur-Niort;;;-0.471288;46.180932
+79031_0301_00476;476;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472217;46.191584
+79031_0291_00406;406;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.469616;46.189281
+79031_0102_00042;42;;rue de l'ancien stade;79360;79031;Beauvoir-sur-Niort;;;-0.474496;46.185222
+79031_0266_00035;35;;Rue de Limailles;79360;79031;Beauvoir-sur-Niort;;;-0.496251;46.200513
+79031_0424_00210;210;;Rue de la Vigne;79360;79031;Beauvoir-sur-Niort;;;-0.475103;46.184561
+79031_0301_00239;239;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.473492;46.189621
+79031_0193_00094;94;;Rue des Frênes;79360;79031;Beauvoir-sur-Niort;;;-0.470398;46.183298
+79031_0410_00020;20;;Chemin de la Vallée;79360;79031;Beauvoir-sur-Niort;;;-0.481515;46.187376
+79031_0075_00430;430;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.469053;46.180332
+79031_0291_00520;520;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.468334;46.188827
+79031_0141_00209;209;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.476209;46.178618
+79031_0421_00035;35;;Rue du Vieux Puits;79360;79031;Beauvoir-sur-Niort;;;-0.500449;46.167683
+79031_0271_00060;60;;Allée du Logis;79360;79031;Beauvoir-sur-Niort;;;-0.4561;46.173309
+79031_0359_00024;24;;Rue du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.474142;46.179429
+79031_0159_00080;80;;Impasse du Commandant Caud;79360;79031;Beauvoir-sur-Niort;;;-0.472954;46.181056
+79031_0291_00260;260;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.470942;46.190228
+79031_0383_00064;64;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474671;46.179115
+79031_0105_00129;129;;Impasse de l'Autoroute;79360;79031;Beauvoir-sur-Niort;;;-0.502369;46.167363
+79031_0161_00135;135;;Rue du Commandant Caud;79360;79031;Beauvoir-sur-Niort;;;-0.471873;46.180631
+79031_0383_00221;221;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474965;46.177727
+79031_0096_00023;23;;Place des Alouettes;79360;79031;Beauvoir-sur-Niort;;;-0.472982;46.188027
+79031_0141_00701;701;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.474293;46.182487
+79031_0143_00182;182;;Rue des Charmes;79360;79031;Beauvoir-sur-Niort;;;-0.471197;46.183038
+79031_0201_00070;70;;Chemin des Garennes;79360;79031;Beauvoir-sur-Niort;;;-0.476616;46.187954
+79031_0304_00027;27;;Chemin Neuf;79360;79031;Beauvoir-sur-Niort;;;-0.476902;46.185283
+79031_0075_00725;725;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.467261;46.178173
+79031_0306_00600;600;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.47357;46.186047
+79031_0174_00463;463;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477743;46.184631
+79031_0306_00219;219;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.47407;46.182466
+79031_0372_00054;54;;Chemin de Saint-eutrope;79360;79031;Beauvoir-sur-Niort;;;-0.479062;46.185851
+79031_0100_00250;250;;Rue André Papot;79360;79031;Beauvoir-sur-Niort;;;-0.472163;46.176798
+79031_0075_00400;400;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.469512;46.180512
+79031_0383_00200;200;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.475029;46.177969
+79031_0206_00038;38;;Rue Gaston Métayer;79360;79031;Beauvoir-sur-Niort;;;-0.472728;46.190552
+79031_0186_00101;101;;Rue des Fauvettes;79360;79031;Beauvoir-sur-Niort;;;-0.472065;46.188641
+79031_0142_00047;47;;Impasse des Charmes;79360;79031;Beauvoir-sur-Niort;;;-0.472221;46.183312
+79031_0231_00052;52;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473792;46.179712
+79031_0245_00260;260;;Rue Jean Baptiste Clement;79360;79031;Beauvoir-sur-Niort;;;-0.479435;46.187373
+79031_0236_00060;60;;Rue du 8 Mai 1945;79360;79031;Beauvoir-sur-Niort;;;-0.471264;46.177801
+79031_0294_00033;33;;Rue des Merisiers;79360;79031;Beauvoir-sur-Niort;;;-0.47134;46.183459
+79031_0134_00059;59;;Impasse Chaix du Pas David;79360;79031;Beauvoir-sur-Niort;;;-0.477565;46.180684
+79031_0301_00320;320;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.473148;46.190432
+79031_0368_00050;50;;Rue des Rosiers;79360;79031;Beauvoir-sur-Niort;;;-0.471152;46.181883
+79031_0196_00049;49;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.473379;46.179363
+79031_0075_00106;106;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.472653;46.181864
+79031_0286_00075;75;;Route de Marigny;79360;79031;Beauvoir-sur-Niort;;;-0.46913;46.181004
+79031_0291_00116;116;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.471515;46.191437
+79031_0196_00090;90;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.472906;46.179151
+79031_0304_00050;50;;Chemin Neuf;79360;79031;Beauvoir-sur-Niort;;;-0.476555;46.185206
+79031_0363_00077;77;;Rue René Bernard;79360;79031;Beauvoir-sur-Niort;;;-0.499199;46.170208
+79031_0075_00090;90;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.472808;46.181933
+79031_0291_00509_bis;509;bis;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.468051;46.188831
+79031_0378_00070;70;;Chemin de Saint Gilles;79360;79031;Beauvoir-sur-Niort;;;-0.476621;46.188381
+79031_0124_00015;15;;Rue du Cabaret;79360;79031;Beauvoir-sur-Niort;;;-0.456289;46.174136
+79031_0102_00041;41;;rue de l'ancien stade;79360;79031;Beauvoir-sur-Niort;;;-0.474504;46.185277
+79031_0294_00080;80;;Rue des Merisiers;79360;79031;Beauvoir-sur-Niort;;;-0.470948;46.183895
+79031_0196_00460;460;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.469147;46.177221
+79031_0152_01240;1240;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.453828;46.175622
+79031_0193_00004;4;;Rue des Frênes;79360;79031;Beauvoir-sur-Niort;;;-0.470933;46.182679
+79031_0231_00130;130;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473532;46.180397
+79031_0338_00051;51;;Rue Piot;79360;79031;Beauvoir-sur-Niort;;;-0.456591;46.174149
+79031_0301_00340;340;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.473119;46.190562
+79031_0174_00184;184;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477584;46.187092
+79031_0301_00483;483;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472569;46.191889
+79031_0087_00195;195;;Impasse des Acacias;79360;79031;Beauvoir-sur-Niort;;;-0.471159;46.18454
+79031_0245_00240;240;;Rue Jean Baptiste Clement;79360;79031;Beauvoir-sur-Niort;;;-0.479395;46.187146
+79031_0349_00101;101;;Rue du Plantis;79360;79031;Beauvoir-sur-Niort;;;-0.472744;46.178705
+79031_0255_00106;106;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.475949;46.179772
+79031_0193_00214;214;;Rue des Frênes;79360;79031;Beauvoir-sur-Niort;;;-0.470763;46.183976
+79031_0306_00330;330;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473753;46.183522
+79031_0146_00301;301;;Rue du Château;79360;79031;Beauvoir-sur-Niort;;;-0.455902;46.173828
+79031_0102_00136;136;;rue de l'ancien stade;79360;79031;Beauvoir-sur-Niort;;;-0.474065;46.185741
+79031_0384_00030;30;;Petite Rue Saint-jean;79360;79031;Beauvoir-sur-Niort;;;-0.475073;46.179267
+79031_0161_00079;79;;Rue du Commandant Caud;79360;79031;Beauvoir-sur-Niort;;;-0.472444;46.180507
+79031_0129_00409;409;;Rue des Carrières;79360;79031;Beauvoir-sur-Niort;;;-0.45693;46.173263
+79031_0231_00074;74;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473693;46.179886
+79031_0368_00075;75;;Rue des Rosiers;79360;79031;Beauvoir-sur-Niort;;;-0.47109;46.182118
+79031_0357_00072;72;;Impasse du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.472196;46.177719
+79031_0255_00195;195;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.477084;46.179684
+79031_0301_00472;472;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472197;46.191533
+79031_0306_00050;50;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474058;46.18097
+79031_0359_00031;31;;Rue du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.473785;46.179285
+79031_0370_00055;55;;Chemin du Rule;79360;79031;Beauvoir-sur-Niort;;;-0.472708;46.187511
+79031_0141_00370;370;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.475753;46.179976
+79031_0102_00073;73;;rue de l'ancien stade;79360;79031;Beauvoir-sur-Niort;;;-0.474111;46.185261
+79031_0163_00135;135;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.46884;46.189981
+79031_0309_00021;21;;Impasse des Noisetiers;79360;79031;Beauvoir-sur-Niort;;;-0.471344;46.179575
+79031_0338_00137;137;;Rue Piot;79360;79031;Beauvoir-sur-Niort;;;-0.456038;46.174769
+79031_0075_00295;295;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.470558;46.181
+79031_0163_00403;403;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.466849;46.188779
+79031_0231_00090;90;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473633;46.180015
+79031_0286_00079;79;;Route de Marigny;79360;79031;Beauvoir-sur-Niort;;;-0.469015;46.181045
+79031_0291_00340;340;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.470314;46.189638
+79031_0283_00121;121;;Rue Marcel Re;79360;79031;Beauvoir-sur-Niort;;;-0.467535;46.179249
+79031_0383_00016;16;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474571;46.17959
+79031_0201_00030;30;;Chemin des Garennes;79360;79031;Beauvoir-sur-Niort;;;-0.477184;46.188012
+79031_0163_00127;127;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.469059;46.190088
+79031_0383_00145;145;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474755;46.178397
+79031_0225_00050;50;;Rue de la Guilloterie;79360;79031;Beauvoir-sur-Niort;;;-0.475337;46.182961
+79031_0221_00024;24;;Rue des Grands Ormeaux;79360;79031;Beauvoir-sur-Niort;;;-0.468858;46.180823
+79031_0161_00115;115;;Rue du Commandant Caud;79360;79031;Beauvoir-sur-Niort;;;-0.471934;46.18061
+79031_0283_00038;38;;Rue Marcel Re;79360;79031;Beauvoir-sur-Niort;;;-0.467786;46.179822
+79031_0150_00111;111;;Rue du Chene Vert;79360;79031;Beauvoir-sur-Niort;;;-0.471909;46.186651
+79031_0189_00035;35;;Impasse du Fournil;79360;79031;Beauvoir-sur-Niort;;;-0.474364;46.180811
+79031_0424_00079;79;;Rue de la Vigne;79360;79031;Beauvoir-sur-Niort;;;-0.474726;46.183387
+79031_0383_00280;280;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.475255;46.177234
+79031_0231_00164;164;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.47387;46.180469
+79031_0427_00040;40;;Rue des Violettes;79360;79031;Beauvoir-sur-Niort;;;-0.500029;46.169123
+79031_0245_00067;67;;Rue Jean Baptiste Clement;79360;79031;Beauvoir-sur-Niort;;;-0.47821;46.185898
+79031_0231_00174;174;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.474013;46.180503
+79031_0383_00140;140;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474841;46.178557
+79031_0301_00875;875;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.471787;46.195303
+79031_0291_00095;95;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.471493;46.191669
+79031_0129_00031;31;;Rue des Carrières;79360;79031;Beauvoir-sur-Niort;;;-0.457907;46.17639
+79031_0359_00051;51;;Rue du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.473977;46.179319
+79031_0306_00361;361;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473968;46.183836
+79031_0096_00028;28;;Place des Alouettes;79360;79031;Beauvoir-sur-Niort;;;-0.473016;46.18812
+79031_0152_00500;500;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.463408;46.1773
+79031_0245_00160;160;;Rue Jean Baptiste Clement;79360;79031;Beauvoir-sur-Niort;;;-0.479141;46.186559
+79031_0174_00292;292;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477494;46.186098
+79031_0163_00234;234;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.467892;46.189332
+79031_0338_00297;297;;Rue Piot;79360;79031;Beauvoir-sur-Niort;;;-0.45518;46.175712
+79031_0236_00051;51;;Rue du 8 Mai 1945;79360;79031;Beauvoir-sur-Niort;;;-0.470564;46.177833
+79031_0383_00054;54;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474642;46.179223
+79031_0163_00235;235;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.467808;46.189429
+79031_0301_00651;651;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.47213;46.193307
+79031_0141_00115;115;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.476289;46.177635
+79031_0124_00026;26;;Rue du Cabaret;79360;79031;Beauvoir-sur-Niort;;;-0.456176;46.174038
+79031_0306_00100;100;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473973;46.181413
+79031_0201_00035;35;;Chemin des Garennes;79360;79031;Beauvoir-sur-Niort;;;-0.47709;46.188063
+79031_0092_00060;60;;Impasse de l'Alezan;79360;79031;Beauvoir-sur-Niort;;;-0.476759;46.187369
+79031_0363_00050;50;;Rue René Bernard;79360;79031;Beauvoir-sur-Niort;;;-0.499598;46.170062
+79031_0399_00035;35;;Impasse du Tilleul;79360;79031;Beauvoir-sur-Niort;;;-0.478206;46.1879
+79031_0226_00010;10;;Impasse de la Guillotine;79360;79031;Beauvoir-sur-Niort;;;-0.473275;46.176934
+79031_0118_00053;53;;Route de la Blottière;79360;79031;Beauvoir-sur-Niort;;;-0.470737;46.181493
+79031_0163_00323;323;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.466861;46.18922
+79031_0231_00089;89;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.474278;46.180495
+79031_0301_00530;530;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472196;46.192282
+79031_0196_00230;230;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.471463;46.178603
+79031_0296_00181;181;;Chemin du Moulin;79360;79031;Beauvoir-sur-Niort;;;-0.463897;46.176419
+79031_0301_00759;759;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.471964;46.194178
+79031_0129_00270;270;;Rue des Carrières;79360;79031;Beauvoir-sur-Niort;;;-0.457675;46.174257
+79031_0306_00089;89;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474141;46.181423
+79031_0193_00012;12;;Rue des Frênes;79360;79031;Beauvoir-sur-Niort;;;-0.470855;46.182601
+79031_0304_00114;114;;Chemin Neuf;79360;79031;Beauvoir-sur-Niort;;;-0.475735;46.185115
+79031_0193_00116;116;;Rue des Frênes;79360;79031;Beauvoir-sur-Niort;;;-0.470293;46.183471
+79031_0100_00351;351;;Rue André Papot;79360;79031;Beauvoir-sur-Niort;;;-0.470882;46.176567
+79031_0141_00551;551;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.475227;46.181879
+79031_0295_00059;59;;Rue des Mésanges;79360;79031;Beauvoir-sur-Niort;;;-0.472597;46.188007
+79031_0100_00061;61;;Rue André Papot;79360;79031;Beauvoir-sur-Niort;;;-0.474223;46.177751
+79031_0301_00243;243;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.473514;46.189758
+79031_0383_00110;110;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474805;46.178661
+79031_0163_00026;26;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.46991;46.18981
+79031_0283_00055;55;;Rue Marcel Re;79360;79031;Beauvoir-sur-Niort;;;-0.467702;46.179713
+79031_0075_00360;360;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.469993;46.180646
+79031_0146_00219;219;;Rue du Château;79360;79031;Beauvoir-sur-Niort;;;-0.45543;46.174261
+79031_0184_00135;135;;Rue de l’Esperance;79360;79031;Beauvoir-sur-Niort;;;-0.499803;46.168673
+79031_0301_00345;345;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.473317;46.190635
+79031_0349_00110;110;;Rue du Plantis;79360;79031;Beauvoir-sur-Niort;;;-0.472722;46.178533
+79031_7ahll4_00059;59;;Lieu Dit le Quereu;79360;79031;Beauvoir-sur-Niort;;;-0.476703;46.186612
+79031_0427_00171;171;;Rue des Violettes;79360;79031;Beauvoir-sur-Niort;;;-0.500212;46.170476
+79031_0301_00469;469;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472655;46.191719
+79031_0291_00477;477;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.468653;46.189023
+79031_0196_00441;441;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.469112;46.177449
+79031_0080_00075;75;;Rue de l'Abreuvoir;79360;79031;Beauvoir-sur-Niort;;;-0.500145;46.168219
+79031_0075_00305;305;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.470419;46.180947
+79031_0182_00050;50;;Impasse des Erables;79360;79031;Beauvoir-sur-Niort;;;-0.468893;46.183791
+79031_0291_00156;156;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.471353;46.1911
+79031_0231_00150;150;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473729;46.180434
+79031_0174_00454;454;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477881;46.184785
+79031_0309_00041;41;;Impasse des Noisetiers;79360;79031;Beauvoir-sur-Niort;;;-0.471026;46.179521
+79031_0343_00165;165;;Impasse de la Plaine;79360;79031;Beauvoir-sur-Niort;;;-0.495931;46.169392
+79031_0189_00031;31;;Impasse du Fournil;79360;79031;Beauvoir-sur-Niort;;;-0.474323;46.180804
+79031_0311_00037;37;;Rue de l'Olivier;79360;79031;Beauvoir-sur-Niort;;;-0.495884;46.20065
+79031_0245_00209;209;;Rue Jean Baptiste Clement;79360;79031;Beauvoir-sur-Niort;;;-0.479458;46.187109
+79031_0152_00111;111;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.467998;46.178102
+79031_0266_00039;39;;Rue de Limailles;79360;79031;Beauvoir-sur-Niort;;;-0.495568;46.200679
+79031_7ahll4_00071;71;;Lieu Dit le Quereu;79360;79031;Beauvoir-sur-Niort;;;-0.476544;46.186625
+79031_0163_00204;204;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.467988;46.189368
+79031_0075_00435;435;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.468474;46.180062
+79031_0174_00104;104;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477631;46.1879
+79031_0318_00038;38;;Chemin du Parc;79360;79031;Beauvoir-sur-Niort;;;-0.473798;46.190284
+79031_0301_00195;195;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.473535;46.189363
+79031_0187_00012;12;;Impasse du Figuier;79360;79031;Beauvoir-sur-Niort;;;-0.45677;46.172886
+79031_0301_00505;505;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472514;46.191973
+79031_0338_00016;16;;Rue Piot;79360;79031;Beauvoir-sur-Niort;;;-0.456895;46.173871
+79031_0201_00001;1;;Chemin des Garennes;79360;79031;Beauvoir-sur-Niort;;;-0.477353;46.188068
+79031_0129_00290;290;;Rue des Carrières;79360;79031;Beauvoir-sur-Niort;;;-0.457461;46.174051
+79031_7ahll4_00035;35;;Lieu Dit le Quereu;79360;79031;Beauvoir-sur-Niort;;;-0.476936;46.186823
+79031_0211_00017;17;;Rue des Glycines;79360;79031;Beauvoir-sur-Niort;;;-0.500599;46.169005
+79031_0291_00162;162;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.471334;46.19106
+79031_0424_00230;230;;Rue de la Vigne;79360;79031;Beauvoir-sur-Niort;;;-0.47512;46.18472
+79031_0271_00067;67;;Allée du Logis;79360;79031;Beauvoir-sur-Niort;;;-0.456128;46.173391
+79031_0102_00053;53;;rue de l'ancien stade;79360;79031;Beauvoir-sur-Niort;;;-0.47476;46.185445
+79031_0231_00032;32;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.47399;46.179613
+79031_0349_00039;39;;Rue du Plantis;79360;79031;Beauvoir-sur-Niort;;;-0.473358;46.177938
+79031_0141_00562;562;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.475219;46.18168
+79031_0231_00094;94;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.473622;46.18004
+79031_0075_00470;470;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.468776;46.179917
+79031_0306_00203;203;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474076;46.182365
+79031_0170_00075;75;;Rue des Cytises;79360;79031;Beauvoir-sur-Niort;;;-0.464419;46.178285
+79031_0372_00090;90;;Chemin de Saint-eutrope;79360;79031;Beauvoir-sur-Niort;;;-0.478751;46.185961
+79031_0301_00430;430;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472762;46.191327
+79031_0152_01290;1290;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.453206;46.175577
+79031_0245_00287;287;;Rue Jean Baptiste Clement;79360;79031;Beauvoir-sur-Niort;;;-0.479882;46.187627
+79031_0383_00021;21;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474446;46.179485
+79031_0301_00229;229;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.473505;46.189536
+79031_0231_00026;26;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.474082;46.179583
+79031_0196_00115;115;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.472544;46.179113
+79031_0211_00007;7;;Rue des Glycines;79360;79031;Beauvoir-sur-Niort;;;-0.500602;46.168852
+79031_0196_00440;440;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.469393;46.177604
+79031_0370_00054;54;;Chemin du Rule;79360;79031;Beauvoir-sur-Niort;;;-0.47277;46.187411
+79031_0163_00288;288;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.467244;46.189073
+79031_0306_00411;411;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.473952;46.184226
+79031_0421_00240;240;;Rue du Vieux Puits;79360;79031;Beauvoir-sur-Niort;;;-0.498415;46.168769
+79031_0357_00067;67;;Impasse du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.472158;46.177815
+79031_0255_00234;234;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.477591;46.179854
+79031_0219_00265;265;;Rue des Grands Champs;79360;79031;Beauvoir-sur-Niort;;;-0.477051;46.175105
+79031_0193_00234;234;;Rue des Frênes;79360;79031;Beauvoir-sur-Niort;;;-0.470922;46.184027
+79031_0105_00021;21;;Impasse de l'Autoroute;79360;79031;Beauvoir-sur-Niort;;;-0.501438;46.16746
+79031_0291_00386;386;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.469738;46.189337
+79031_0333_00100;100;;Rue du Pigeonnier;79360;79031;Beauvoir-sur-Niort;;;-0.501239;46.16842
+79031_0146_00279;279;;Rue du Château;79360;79031;Beauvoir-sur-Niort;;;-0.455944;46.174038
+79031_0163_00077;77;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.469335;46.190171
+79031_0102_00127;127;;rue de l'ancien stade;79360;79031;Beauvoir-sur-Niort;;;-0.474171;46.185789
+79031_0278_00048;48;;Impasse de la Mairie;79360;79031;Beauvoir-sur-Niort;;;-0.471878;46.191489
+79031_0174_00260;260;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477513;46.186386
+79031_0152_00300;300;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.46562;46.17767
+79031_0255_00006;6;;Rue de la Rochelle;79360;79031;Beauvoir-sur-Niort;;;-0.474889;46.179766
+79031_0301_00640;640;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.471909;46.193188
+79031_0172_00081;81;;Impasse des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.470876;46.178538
+79031_0301_00671;671;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472091;46.193515
+79031_0166_00060;60;;Rue de la Croix Blanche;79360;79031;Beauvoir-sur-Niort;;;-0.475262;46.180249
+79031_0186_00094;94;;Rue des Fauvettes;79360;79031;Beauvoir-sur-Niort;;;-0.471853;46.188605
+79031_0226_00206;206;;Impasse de la Guillotine;79360;79031;Beauvoir-sur-Niort;;;-0.473929;46.175126
+79031_0381_00068;68;;Rue Saint-jacques;79360;79031;Beauvoir-sur-Niort;;;-0.474514;46.176779
+79031_0143_00200;200;;Rue des Charmes;79360;79031;Beauvoir-sur-Niort;;;-0.470963;46.182975
+79031_0296_00060;60;;Chemin du Moulin;79360;79031;Beauvoir-sur-Niort;;;-0.466177;46.177049
+79031_0141_00135;135;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.476354;46.177925
+79031_0343_00070;70;;Impasse de la Plaine;79360;79031;Beauvoir-sur-Niort;;;-0.497244;46.169532
+79031_0163_00357;357;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.466594;46.189091
+79031_0383_00179;179;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474844;46.178111
+79031_0100_00275;275;;Rue André Papot;79360;79031;Beauvoir-sur-Niort;;;-0.471924;46.176809
+79031_0170_00034;34;;Rue des Cytises;79360;79031;Beauvoir-sur-Niort;;;-0.46439;46.177885
+79031_0146_00090;90;;Rue du Château;79360;79031;Beauvoir-sur-Niort;;;-0.454577;46.175297
+79031_0424_00233;233;;Rue de la Vigne;79360;79031;Beauvoir-sur-Niort;;;-0.475226;46.184752
+79031_0129_00491;491;;Rue des Carrières;79360;79031;Beauvoir-sur-Niort;;;-0.457166;46.172551
+79031_0129_00175;175;;Rue des Carrières;79360;79031;Beauvoir-sur-Niort;;;-0.458168;46.17521
+79031_0304_00126;126;;Chemin Neuf;79360;79031;Beauvoir-sur-Niort;;;-0.475615;46.185095
+79031_0383_00535;535;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.475847;46.174967
+79031_0223_00002;2;;Chemin de la Gravette;79360;79031;Beauvoir-sur-Niort;;;-0.48573;46.20101
+79031_0383_00585;585;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.475966;46.174646
+79031_0291_00002;2;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.472155;46.191861
+79031_0100_00295;295;;Rue André Papot;79360;79031;Beauvoir-sur-Niort;;;-0.471699;46.176759
+79031_0087_00070;70;;Impasse des Acacias;79360;79031;Beauvoir-sur-Niort;;;-0.472987;46.184377
+79031_0226_00145;145;;Impasse de la Guillotine;79360;79031;Beauvoir-sur-Niort;;;-0.473612;46.175808
+79031_0291_00540;540;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.46804;46.188722
+79031_0271_00026;26;;Allée du Logis;79360;79031;Beauvoir-sur-Niort;;;-0.456602;46.173371
+79031_0306_00099;99;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474129;46.18151
+79031_7ahll4_00075;75;;Lieu Dit le Quereu;79360;79031;Beauvoir-sur-Niort;;;-0.476476;46.186539
+79031_0185_00095;95;;Chemin du Fief Pairault;79360;79031;Beauvoir-sur-Niort;;;-0.481962;46.189079
+79031_0193_00184;184;;Rue des Frênes;79360;79031;Beauvoir-sur-Niort;;;-0.470338;46.183797
+79031_0301_00227;227;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.473507;46.1895
+79031_0368_00030;30;;Rue des Rosiers;79360;79031;Beauvoir-sur-Niort;;;-0.471271;46.181732
+79031_0143_00138;138;;Rue des Charmes;79360;79031;Beauvoir-sur-Niort;;;-0.471584;46.18286
+79031_0141_00447;447;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.475575;46.180609
+79031_0421_00234;234;;Rue du Vieux Puits;79360;79031;Beauvoir-sur-Niort;;;-0.498432;46.168718
+79031_0383_00010;10;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.474572;46.179651
+79031_0333_00150;150;;Rue du Pigeonnier;79360;79031;Beauvoir-sur-Niort;;;-0.501506;46.168849
+79031_7ahll4_00072;72;;Lieu Dit le Quereu;79360;79031;Beauvoir-sur-Niort;;;-0.476501;46.186409
+79031_0231_00004;4;;Place de l’Hotel de Ville;79360;79031;Beauvoir-sur-Niort;;;-0.474356;46.179674
+79031_0306_00035;35;;Avenue de Niort;79360;79031;Beauvoir-sur-Niort;;;-0.474176;46.180878
+79031_0179_00015;15;;Impasse des Eglantines;79360;79031;Beauvoir-sur-Niort;;;-0.471802;46.181747
+79031_0301_00500;500;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472278;46.191954
+79031_0100_00240;240;;Rue André Papot;79360;79031;Beauvoir-sur-Niort;;;-0.472594;46.176888
+79031_0296_00263;263;;Chemin du Moulin;79360;79031;Beauvoir-sur-Niort;;;-0.46295;46.176082
+79031_0236_00111;111;;Rue du 8 Mai 1945;79360;79031;Beauvoir-sur-Niort;;;-0.470753;46.177338
+79031_0372_00095;95;;Chemin de Saint-eutrope;79360;79031;Beauvoir-sur-Niort;;;-0.479236;46.186257
+79031_0383_00190;190;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.475008;46.178036
+79031_0179_00100;100;;Impasse des Eglantines;79360;79031;Beauvoir-sur-Niort;;;-0.47123;46.182401
+79031_0309_00031;31;;Impasse des Noisetiers;79360;79031;Beauvoir-sur-Niort;;;-0.471069;46.179445
+79031_0291_00100;100;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.471562;46.191562
+79031_0075_00675;675;;Rue Abel Brillault;79360;79031;Beauvoir-sur-Niort;;;-0.467624;46.178513
+79031_0427_00091;91;;Rue des Violettes;79360;79031;Beauvoir-sur-Niort;;;-0.500145;46.169875
+79031_0174_00230;230;;Rue des Ecoles;79360;79031;Beauvoir-sur-Niort;;;-0.477566;46.186655
+79031_0311_00051;51;;Rue de l'Olivier;79360;79031;Beauvoir-sur-Niort;;;-0.496732;46.200761
+79031_0291_00455;455;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.468774;46.18906
+79031_0359_00015;15;;Rue du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.474243;46.179508
+79031_0333_00225_bis;225;bis;Rue du Pigeonnier;79360;79031;Beauvoir-sur-Niort;;;-0.501998;46.169442
+79031_0152_01095;1095;;Route de Chizé;79360;79031;Beauvoir-sur-Niort;;;-0.455388;46.176397
+79031_0196_00481;481;;Rue de la Gare;79360;79031;Beauvoir-sur-Niort;;;-0.468788;46.176956
+79031_0163_00291;291;;Rue des Coquelicots;79360;79031;Beauvoir-sur-Niort;;;-0.467134;46.18922
+79031_0080_00030;30;;Rue de l'Abreuvoir;79360;79031;Beauvoir-sur-Niort;;;-0.500138;46.168001
+79031_0291_00587;587;;Rue Maurice Ferroux;79360;79031;Beauvoir-sur-Niort;;;-0.467586;46.188657
+79031_0301_00691;691;;Route Nationale;79360;79031;Beauvoir-sur-Niort;;;-0.472059;46.193709
+79031_0383_00210;210;;Avenue Saint Jean;79360;79031;Beauvoir-sur-Niort;;;-0.475048;46.177893
+79031_0141_00532;532;;Rue Charles Tillé;79360;79031;Beauvoir-sur-Niort;;;-0.475235;46.181472
+79031_0359_00025;25;;Rue du Renclos;79360;79031;Beauvoir-sur-Niort;;;-0.474107;46.179485
+79031_0432_00035;35;;Rue Virecourt;79360;79031;Beauvoir-sur-Niort;;;-0.456476;46.172676
+79031_0100_00320;320;;Rue André Papot;79360;79031;Beauvoir-sur-Niort;;;-0.471429;46.17661

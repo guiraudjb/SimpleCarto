@@ -1,0 +1,518 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+21332_0060_00049;49;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.110002;47.004284
+21332_0085_00025;25;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.087172;46.994546
+21332_0165_00018;18;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.082684;46.994322
+21332_0195_00011;11;;Rue de la Loire;21820;21332;Labergement-lès-Seurre;;;5.094394;46.991574
+21332_0095_00011;11;;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.078737;46.996995
+21332_0095_00008;8;;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.081902;46.996802
+21332_0125_00026;26;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092981;46.996837
+21332_0060_00020;20;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.099016;47.004537
+21332_0041_00007;7;;Petite Rue d’Auprot;21820;21332;Labergement-lès-Seurre;;;5.088776;47.000438
+21332_0195_00012;12;;Rue de la Loire;21820;21332;Labergement-lès-Seurre;;;5.09219;46.991194
+21332_0165_00026;26;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.085336;46.993798
+21332_0060_00037;37;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.103685;47.003827
+21332_0050_00006;6;;Impasse des Baraques;21820;21332;Labergement-lès-Seurre;;;5.078761;46.994059
+21332_0125_00046;46;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.09264;46.99818
+21332_0081_00003;3;;Rue Chapot;21820;21332;Labergement-lès-Seurre;;;5.097178;46.996223
+21332_0040_00016;16;;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085572;47.003529
+21332_0083_00011;11;;Rue du Champ Boulet;21820;21332;Labergement-lès-Seurre;;;5.084351;46.998071
+21332_0085_00005;5;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.085064;46.996006
+21332_0050_00004_bis;4;bis;Impasse des Baraques;21820;21332;Labergement-lès-Seurre;;;5.079758;46.994431
+21332_0239_00043_bis;43;bis;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.105672;47.002476
+21332_0125_00035;35;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092529;46.997841
+21332_0125_00048;48;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092609;46.998315
+21332_0125_00045;45;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092457;46.998759
+21332_0060_00044;44;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.108554;47.003549
+21332_0165_00001;1;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.073712;46.997158
+21332_0041_00014;14;;Petite Rue d’Auprot;21820;21332;Labergement-lès-Seurre;;;5.087734;47.000316
+21332_0170_00003;3;;Rue de l'Homme Bret;21820;21332;Labergement-lès-Seurre;;;5.090719;47.000367
+21332_0085_00011;11;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.086179;46.995948
+21332_0255_00011;11;;Rue de la Verderie;21820;21332;Labergement-lès-Seurre;;;5.094666;46.991106
+21332_0198_00001;1;;Impasse du Mont du Chat;21820;21332;Labergement-lès-Seurre;;;5.110496;47.004563
+21332_0090_00005;5;;Rue de la Croix Charnot;21820;21332;Labergement-lès-Seurre;;;5.084948;47.004093
+21332_0125_00037;37;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092488;46.997999
+21332_0090_00003;3;;Rue de la Croix Charnot;21820;21332;Labergement-lès-Seurre;;;5.081036;47.005851
+21332_0020_00013;13;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089757;47.002388
+21332_0090_00007;7;;Rue de la Croix Charnot;21820;21332;Labergement-lès-Seurre;;;5.089301;47.003977
+21332_0125_00021_a;21;a;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092781;46.996464
+21332_0165_00025;25;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.084432;46.994119
+21332_0125_00029;29;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092601;46.997433
+21332_0210_00010;10;;Petite Rue de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.076372;46.996007
+21332_0239_00045_bis;45;bis;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.104753;47.00318
+21332_0041_00010;10;;Petite Rue d’Auprot;21820;21332;Labergement-lès-Seurre;;;5.087477;47.000322
+21332_0040_00012;12;;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085261;47.002877
+21332_0085_00013;13;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.087141;46.996131
+21332_0239_00017;17;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.099194;46.998033
+21332_0197_00005;5;;Rue du Meix Pichot;21820;21332;Labergement-lès-Seurre;;;5.092014;47.003927
+21332_0165_00029;29;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.08569;46.993849
+21332_0125_00022;22;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.093137;46.996243
+21332_0195_00014;14;;Rue de la Loire;21820;21332;Labergement-lès-Seurre;;;5.092492;46.991254
+21332_0085_00014;14;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.087053;46.994444
+21332_0084_00005;5;;Route de Chivres;21820;21332;Labergement-lès-Seurre;;;5.095279;46.98607
+21332_0165_00023_d;23;d;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.083534;46.994265
+21332_0125_00071;71;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.094307;47.001677
+21332_0095_00019_bis;19;bis;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.081956;46.996873
+21332_0085_00007;7;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.085439;46.996014
+21332_0239_00019;19;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.099698;46.998774
+21332_0195_00009;9;;Rue de la Loire;21820;21332;Labergement-lès-Seurre;;;5.093993;46.991693
+21332_0056_00001;1;;Chemin des Bas;21820;21332;Labergement-lès-Seurre;;;5.085451;46.998237
+21332_0125_00006;6;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.094054;46.993972
+21332_0095_00019;19;;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.081629;46.996995
+21332_0125_00041;41;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092441;46.998367
+21332_0060_00033;33;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.100031;47.00425
+21332_0060_00045;45;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.107346;47.003389
+21332_0239_00041_bis;41;bis;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.105535;47.002401
+21332_0020_00020;20;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089646;47.004757
+21332_0257_00002;2;;Rue du Vernecros;21820;21332;Labergement-lès-Seurre;;;5.080084;46.99321
+21332_0125_00077;77;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.09477;47.003229
+21332_0165_00032;32;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.087378;46.993116
+21332_0060_00013;13;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.088744;47.006715
+21332_0260_00004;4;;Rue des Voitures;21820;21332;Labergement-lès-Seurre;;;5.087079;47.005069
+21332_0135_00006;6;;Rue de la Forte Terre;21820;21332;Labergement-lès-Seurre;;;5.08442;47.003719
+21332_0195_00002;2;;Rue de la Loire;21820;21332;Labergement-lès-Seurre;;;5.090946;46.988769
+21332_0050_00005;5;;Impasse des Baraques;21820;21332;Labergement-lès-Seurre;;;5.079648;46.994314
+21332_0020_00009;9;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089444;47.001926
+21332_b166_00001;1;;Rue du Bas;21820;21332;Labergement-lès-Seurre;;;5.085327;46.99841
+21332_0095_00003;3;;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.077677;46.996778
+21332_0060_00022_bis;22;bis;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.099587;47.004295
+21332_0125_00060;60;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092613;46.999597
+21332_0060_00030;30;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.10136;47.003832
+21332_0260_00002;2;;Rue des Voitures;21820;21332;Labergement-lès-Seurre;;;5.08708;47.004957
+21332_0130_00008;8;;Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.100838;47.000199
+21332_0210_00009;9;;Petite Rue de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.073347;46.99632
+21332_0260_00005;5;;Rue des Voitures;21820;21332;Labergement-lès-Seurre;;;5.089218;47.006338
+21332_0125_00056;56;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092607;46.999324
+21332_0125_00060_bis;60;bis;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092682;46.999751
+21332_0125_00008;8;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.094282;46.99474
+21332_0165_00027;27;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.085398;46.993927
+21332_0245_00004;4;;Chemin du Tertre;21820;21332;Labergement-lès-Seurre;;;5.103245;47.004413
+21332_0095_00010;10;;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.082432;46.996482
+21332_0165_00016;16;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.082077;46.99464
+21332_0155_00007;7;;Impasse Gravaloux;21820;21332;Labergement-lès-Seurre;;;5.075663;46.996961
+21332_0060_00023;23;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.093487;47.006076
+21332_0165_00021;21;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.081434;46.994828
+21332_0095_00012;12;;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.082761;46.996289
+21332_0165_00008;8;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.08159;46.994719
+21332_0040_00003_bis;3;bis;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.084667;46.998891
+21332_0085_00016;16;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.087033;46.995357
+21332_0260_00003_b;3;b;Rue des Voitures;21820;21332;Labergement-lès-Seurre;;;5.088092;47.006124
+21332_0195_00010;10;;Rue de la Loire;21820;21332;Labergement-lès-Seurre;;;5.091991;46.991156
+21332_0041_00012;12;;Petite Rue d’Auprot;21820;21332;Labergement-lès-Seurre;;;5.087579;47.000319
+21332_0130_00021;21;;Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.100562;47.000502
+21332_0020_00002_b;2;b;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089944;47.000764
+21332_0255_00006;6;;Rue de la Verderie;21820;21332;Labergement-lès-Seurre;;;5.09483;46.991015
+21332_0125_00052_bis;52;bis;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092571;46.998808
+21332_0125_00005;5;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.093915;46.993708
+21332_0195_00004;4;;Rue de la Loire;21820;21332;Labergement-lès-Seurre;;;5.090717;46.990853
+21332_0040_00002_b;2;b;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085478;47.000992
+21332_0060_00002;2;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.058319;47.005177
+21332_0040_00017_bis;17;bis;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085158;47.002624
+21332_0125_00035_a;35;a;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.09191;46.997732
+21332_0245_00001;1;;Chemin du Tertre;21820;21332;Labergement-lès-Seurre;;;5.102081;47.003946
+21332_0020_00021;21;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089348;47.005679
+21332_0060_00018;18;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.092265;47.006213
+21332_0060_00014;14;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.088647;47.00655
+21332_0125_00044;44;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092664;46.997886
+21332_0080_00008;8;;Rue Blanchot;21820;21332;Labergement-lès-Seurre;;;5.095824;46.9973
+21332_0080_00004;4;;Rue Blanchot;21820;21332;Labergement-lès-Seurre;;;5.095203;46.996417
+21332_0081_00001_bis;1;bis;Rue Chapot;21820;21332;Labergement-lès-Seurre;;;5.097049;46.99565
+21332_0210_00003;3;;Petite Rue de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.072448;46.997086
+21332_0125_00083;83;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.095623;47.003981
+21332_0165_00010;10;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.079398;46.995387
+21332_0165_00002;2;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.073921;46.996946
+21332_0050_00002;2;;Impasse des Baraques;21820;21332;Labergement-lès-Seurre;;;5.080339;46.994871
+21332_0060_00029;29;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.096652;47.005501
+21332_0255_00008;8;;Rue de la Verderie;21820;21332;Labergement-lès-Seurre;;;5.09353;46.98327
+21332_0125_00014;14;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.094234;46.995965
+21332_0125_00017;17;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092922;46.996252
+21332_0040_00003_ter;3;ter;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085266;47.000454
+21332_0060_00038;38;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.105161;47.003407
+21332_0085_00003;3;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.084735;46.996
+21332_0060_00003;3;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.080225;47.005891
+21332_0125_00008_bis;8;bis;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.094422;46.995177
+21332_0165_00037;37;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.088049;46.992931
+21332_0050_00003;3;;Impasse des Baraques;21820;21332;Labergement-lès-Seurre;;;5.080156;46.994567
+21332_0239_00021;21;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.100122;46.999318
+21332_0060_00015;15;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.089116;47.006725
+21332_0125_00030;30;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.093185;46.996883
+21332_0041_00005;5;;Petite Rue d’Auprot;21820;21332;Labergement-lès-Seurre;;;5.087889;47.000423
+21332_0125_00085;85;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.095943;47.004442
+21332_0041_00008;8;;Petite Rue d’Auprot;21820;21332;Labergement-lès-Seurre;;;5.087323;47.000325
+21332_0257_00005;5;;Rue du Vernecros;21820;21332;Labergement-lès-Seurre;;;5.080953;46.993514
+21332_0040_00015;15;;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085369;47.002078
+21332_0239_00001_bis;1;bis;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.094809;46.99186
+21332_0210_00011;11;;Petite Rue de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.073831;46.996173
+21332_0060_00039;39;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.103972;47.003802
+21332_0210_00013;13;;Petite Rue de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.075435;46.996121
+21332_0125_00023;23;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092688;46.996865
+21332_0245_00007;7;;Chemin du Tertre;21820;21332;Labergement-lès-Seurre;;;5.10345;47.004539
+21332_0125_00031;31;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092564;46.997579
+21332_0125_00027;27;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092584;46.997406
+21332_0239_00001;1;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.095299;46.991698
+21332_0196_00008;8;;Sentier du Meix;21820;21332;Labergement-lès-Seurre;;;5.097351;47.00181
+21332_0060_00025_bis;25;bis;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.095504;47.005735
+21332_0165_00022;22;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.083758;46.994117
+21332_0135_00001;1;;Rue de la Forte Terre;21820;21332;Labergement-lès-Seurre;;;5.082853;46.999667
+21332_0125_00031_a;31;a;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.09258;46.997522
+21332_0085_00008;8;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.086976;46.995444
+21332_0125_00073;73;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.09415;47.002019
+21332_0135_00004;4;;Rue de la Forte Terre;21820;21332;Labergement-lès-Seurre;;;5.082903;47.001032
+21332_0125_00018;18;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.093509;46.996109
+21332_0130_00005;5;;Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.095154;47.000807
+21332_0085_00009;9;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.084884;46.995952
+21332_0165_00020;20;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.083349;46.994203
+21332_0130_00003;3;;Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.096167;47.00141
+21332_0055_00005;5;;Rue du Pont Barnier;21820;21332;Labergement-lès-Seurre;;;5.092851;46.992584
+21332_0125_00053;53;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092649;46.999879
+21332_0125_00070;70;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.094199;47.000498
+21332_0060_00009;9;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.088084;47.006631
+21332_0125_00052;52;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092607;46.998624
+21332_0165_00036;36;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.087956;46.99285
+21332_0060_00031;31;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.093487;47.006076
+21332_0197_00003;3;;Rue du Meix Pichot;21820;21332;Labergement-lès-Seurre;;;5.091157;47.004295
+21332_0165_00012;12;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.079775;46.995241
+21332_0125_00036;36;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.093307;46.997202
+21332_0020_00034;34;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089442;47.006474
+21332_0084_00015;15;;Route de Chivres;21820;21332;Labergement-lès-Seurre;;;5.095209;46.991239
+21332_0125_00039;39;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.09246;46.998158
+21332_0040_00001;1;;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085014;46.999651
+21332_0125_00013;13;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.094306;46.995298
+21332_0260_00003;3;;Rue des Voitures;21820;21332;Labergement-lès-Seurre;;;5.08715;47.00576
+21332_0080_00012;12;;Rue Blanchot;21820;21332;Labergement-lès-Seurre;;;5.096578;46.998294
+21332_0165_00017;17;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.080552;46.995059
+21332_0083_00004;4;;Rue du Champ Boulet;21820;21332;Labergement-lès-Seurre;;;5.083355;46.99657
+21332_0040_00002;2;;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085433;47.000623
+21332_0125_00029_a;29;a;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092575;46.997551
+21332_0195_00002_bis;2;bis;Rue de la Loire;21820;21332;Labergement-lès-Seurre;;;5.093344;46.988433
+21332_0050_00002_bis;2;bis;Impasse des Baraques;21820;21332;Labergement-lès-Seurre;;;5.080139;46.99462
+21332_0135_00007;7;;Rue de la Forte Terre;21820;21332;Labergement-lès-Seurre;;;5.082676;47.000742
+21332_0125_00067;67;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.094574;47.000914
+21332_0020_00011;11;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089574;47.002148
+21332_0083_00011_bis;11;bis;Rue du Champ Boulet;21820;21332;Labergement-lès-Seurre;;;5.084547;46.998338
+21332_0083_00007;7;;Rue du Champ Boulet;21820;21332;Labergement-lès-Seurre;;;5.083622;46.997139
+21332_0125_00078;78;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.095957;47.004147
+21332_0020_00006;6;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089186;47.001133
+21332_0130_00025;25;;Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.095154;47.000807
+21332_0125_00066;66;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.093295;47.000014
+21332_0060_00001;1;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.079594;47.005834
+21332_0060_00027;27;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.096114;47.005618
+21332_0195_00001;1;;Rue de la Loire;21820;21332;Labergement-lès-Seurre;;;5.089753;46.990883
+21332_0020_00026;26;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089486;47.005611
+21332_0050_00001_bis;1;bis;Impasse des Baraques;21820;21332;Labergement-lès-Seurre;;;5.080607;46.994956
+21332_0060_00012;12;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.087788;47.00646
+21332_0020_00022;22;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089658;47.004702
+21332_0020_00017;17;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089605;47.003544
+21332_0085_00008_bis;8;bis;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.086005;46.995654
+21332_0020_00024;24;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089511;47.005466
+21332_0257_00001;1;;Rue du Vernecros;21820;21332;Labergement-lès-Seurre;;;5.081025;46.994555
+21332_0080_00001;1;;Rue Blanchot;21820;21332;Labergement-lès-Seurre;;;5.094837;46.996214
+21332_0135_00009;9;;Rue de la Forte Terre;21820;21332;Labergement-lès-Seurre;;;5.084421;47.003783
+21332_0060_00034;34;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.102596;47.003767
+21332_0060_00035;35;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.093487;47.006076
+21332_0082_00001;1;;Rue de la Boutonnière;21820;21332;Labergement-lès-Seurre;;;5.093294;47.003843
+21332_0040_00008;8;;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085455;47.00224
+21332_0135_00002;2;;Rue de la Forte Terre;21820;21332;Labergement-lès-Seurre;;;5.082835;47.000364
+21332_0081_00005;5;;Rue Chapot;21820;21332;Labergement-lès-Seurre;;;5.09751;46.996371
+21332_0020_00001;1;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.08906;47.000529
+21332_0020_00010;10;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089482;47.001752
+21332_0170_00004;4;;Rue de l'Homme Bret;21820;21332;Labergement-lès-Seurre;;;5.093355;47.003291
+21332_0060_00005;5;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.080626;47.005928
+21332_0055_00013;13;;Rue du Pont Barnier;21820;21332;Labergement-lès-Seurre;;;5.09041;46.995111
+21332_0082_00020;20;;Rue de la Boutonnière;21820;21332;Labergement-lès-Seurre;;;5.09283;47.005398
+21332_0255_00005;5;;Rue de la Verderie;21820;21332;Labergement-lès-Seurre;;;5.094816;46.990573
+21332_0165_00003_bis;3;bis;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.074374;46.996896
+21332_0125_00034;34;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092793;46.997059
+21332_0085_00015;15;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.086572;46.995784
+21332_0125_00087;87;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.09613;47.004653
+21332_0239_00041;41;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.104825;47.002098
+21332_0020_00007;7;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089296;47.001652
+21332_0130_00009_bis;9;bis;Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.09792;47.00128
+21332_0125_00069;69;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.094424;47.001417
+21332_0135_00003;3;;Rue de la Forte Terre;21820;21332;Labergement-lès-Seurre;;;5.08274;47.0004
+21332_0040_00001_ter;1;ter;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.084667;46.998891
+21332_0085_00017;17;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.086806;46.995873
+21332_0165_00005;5;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.075698;46.996565
+21332_0210_00004_bis;4;bis;Petite Rue de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.074182;46.995963
+21332_b194_00002;2;;Vie de Maronde;21820;21332;Labergement-lès-Seurre;;;5.096063;46.991709
+21332_0205_00004;4;;Petite Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.097729;46.999861
+21332_0255_00003;3;;Rue de la Verderie;21820;21332;Labergement-lès-Seurre;;;5.094991;46.990149
+21332_0239_00027;27;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.10139;47.000293
+21332_0080_00007_bis;7;bis;Rue Blanchot;21820;21332;Labergement-lès-Seurre;;;5.09613;46.997894
+21332_0084_00003;3;;Route de Chivres;21820;21332;Labergement-lès-Seurre;;;5.095071;46.985076
+21332_0085_00001;1;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.084371;46.995997
+21332_0197_00002_b;2;b;Rue du Meix Pichot;21820;21332;Labergement-lès-Seurre;;;5.091721;47.003982
+21332_0082_00003;3;;Rue de la Boutonnière;21820;21332;Labergement-lès-Seurre;;;5.093367;47.004027
+21332_0020_00019;19;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089499;47.004915
+21332_0239_00049;49;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.106907;47.003072
+21332_0210_00001;1;;Petite Rue de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.072296;46.997104
+21332_0085_00012;12;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.087065;46.995157
+21332_0239_00033;33;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.103491;47.001447
+21332_0239_00003;3;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.095402;46.991765
+21332_0085_00019;19;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.086572;46.995784
+21332_0197_00004_b;4;b;Rue du Meix Pichot;21820;21332;Labergement-lès-Seurre;;;5.092365;47.003694
+21332_0130_00027;27;;Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.095154;47.000807
+21332_0095_00006_bis;6;bis;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.081;46.996821
+21332_0130_00011;11;;Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.098512;47.000988
+21332_0205_00005;5;;Petite Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.097968;47.000293
+21332_0080_00009;9;;Rue Blanchot;21820;21332;Labergement-lès-Seurre;;;5.09659;46.998781
+21332_0239_00005;5;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.095594;46.991954
+21332_0239_00007;7;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.095964;46.992474
+21332_0125_00058;58;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.09259;46.999464
+21332_0085_00023;23;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.087194;46.994751
+21332_0125_00072;72;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.095737;47.003909
+21332_0165_00034;34;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.087759;46.992952
+21332_0020_00008;8;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089335;47.001511
+21332_0020_00014;14;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.090053;47.002751
+21332_0165_00033;33;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.087062;46.993381
+21332_0040_00021;21;;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085233;47.003195
+21332_0055_00004;4;;Rue du Pont Barnier;21820;21332;Labergement-lès-Seurre;;;5.092952;46.992578
+21332_0255_00002;2;;Rue de la Verderie;21820;21332;Labergement-lès-Seurre;;;5.09515;46.989942
+21332_0083_00013;13;;Rue du Champ Boulet;21820;21332;Labergement-lès-Seurre;;;5.084075;46.998896
+21332_0165_00019;19;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.081013;46.994932
+21332_0125_00015;15;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.093023;46.996117
+21332_0195_00001_bis;1;bis;Rue de la Loire;21820;21332;Labergement-lès-Seurre;;;5.090607;46.991282
+21332_0165_00011;11;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.078009;46.996806
+21332_0020_00001_bis;1;bis;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089683;47.000329
+21332_0080_00017;17;;Rue Blanchot;21820;21332;Labergement-lès-Seurre;;;5.094824;47.000068
+21332_0155_00007_bis;7;bis;Impasse Gravaloux;21820;21332;Labergement-lès-Seurre;;;5.076046;46.996818
+21332_0090_00005_c;5;c;Rue de la Croix Charnot;21820;21332;Labergement-lès-Seurre;;;5.088925;47.00394
+21332_0055_00001;1;;Rue du Pont Barnier;21820;21332;Labergement-lès-Seurre;;;5.093166;46.992125
+21332_0125_00091;91;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.096458;47.005089
+21332_0125_00011;11;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.094218;46.995013
+21332_0060_00032;32;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.101591;47.003817
+21332_0165_00023_f;23;f;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.084142;46.99416
+21332_0090_00005_bis;5;bis;Rue de la Croix Charnot;21820;21332;Labergement-lès-Seurre;;;5.088349;47.004015
+21332_0040_00014;14;;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085336;47.003062
+21332_0040_00006;6;;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085514;47.001941
+21332_0095_00001;1;;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.077313;46.996484
+21332_0165_00028;28;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.086229;46.993577
+21332_0060_00019;19;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.091392;47.006495
+21332_0084_00011;11;;Route de Chivres;21820;21332;Labergement-lès-Seurre;;;5.095239;46.988126
+21332_0255_00009;9;;Rue de la Verderie;21820;21332;Labergement-lès-Seurre;;;5.094722;46.990983
+21332_0125_00064;64;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.093081;46.999952
+21332_0165_00023_e;23;e;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.083842;46.994206
+21332_0195_00008;8;;Rue de la Loire;21820;21332;Labergement-lès-Seurre;;;5.091511;46.990814
+21332_0095_00002;2;;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.078668;46.996903
+21332_0090_00001;1;;Rue de la Croix Charnot;21820;21332;Labergement-lès-Seurre;;;5.082075;47.005152
+21332_0125_00044_bis;44;bis;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092623;46.998022
+21332_0125_00055;55;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092773;46.999951
+21332_0125_00054;54;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092623;46.999086
+21332_0055_00003;3;;Rue du Pont Barnier;21820;21332;Labergement-lès-Seurre;;;5.092972;46.992394
+21332_0125_00082;82;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.095754;47.004105
+21332_0083_00002;2;;Rue du Champ Boulet;21820;21332;Labergement-lès-Seurre;;;5.08326;46.995322
+21332_0041_00002_bis;2;bis;Petite Rue d’Auprot;21820;21332;Labergement-lès-Seurre;;;5.085876;47.000363
+21332_0130_00017;17;;Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.099544;47.001013
+21332_0125_00078_bis;78;bis;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.095737;47.003909
+21332_0060_00028;28;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.100894;47.003859
+21332_0239_00011;11;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.097508;46.995615
+21332_0080_00019;19;;Rue Blanchot;21820;21332;Labergement-lès-Seurre;;;5.094741;47.000356
+21332_0020_00030;30;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089433;47.006021
+21332_0085_00006;6;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.084898;46.996011
+21332_0084_00002;2;;Route de Chivres;21820;21332;Labergement-lès-Seurre;;;5.095828;46.990499
+21332_0125_00010;10;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.09446;46.995345
+21332_0165_00014_bis;14;bis;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.081826;46.994658
+21332_0195_00016;16;;Rue de la Loire;21820;21332;Labergement-lès-Seurre;;;5.093422;46.991321
+21332_0060_00011;11;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.088435;47.006694
+21332_0239_00011_b;11;b;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.09821;46.996743
+21332_0020_00018;18;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089724;47.004436
+21332_0020_00028;28;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089453;47.005835
+21332_0095_00015;15;;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.080773;46.997205
+21332_0080_00006;6;;Rue Blanchot;21820;21332;Labergement-lès-Seurre;;;5.095509;46.996817
+21332_0130_00001;1;;Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.094969;47.001558
+21332_0040_00005;5;;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085347;47.000739
+21332_0125_00056_bis;56;bis;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092601;46.999349
+21332_0125_00016;16;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.093754;46.996062
+21332_0020_00005;5;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089072;47.001187
+21332_0125_00065;65;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.094208;47.000635
+21332_0060_00025;25;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.093487;47.006076
+21332_0125_00089;89;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.096271;47.004827
+21332_0260_00001;1;;Rue des Voitures;21820;21332;Labergement-lès-Seurre;;;5.086955;47.004425
+21332_0020_00004;4;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089119;47.001036
+21332_0020_00002_c;2;c;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089855;47.000552
+21332_0165_00003;3;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.074843;46.99675
+21332_0095_00023;23;;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.08282;46.99659
+21332_0239_00045;45;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.106265;47.002684
+21332_0090_00002;2;;Rue de la Croix Charnot;21820;21332;Labergement-lès-Seurre;;;5.081036;47.005851
+21332_0239_00009;9;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.097179;46.995096
+21332_0020_00002_a;2;a;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089992;47.00072
+21332_0210_00004;4;;Petite Rue de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.073231;46.996287
+21332_0125_00026_bis;26;bis;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092901;46.996586
+21332_0125_00029_b;29;b;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.09263;46.997465
+21332_0040_00001_bis;1;bis;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.084904;46.999296
+21332_0165_00035;35;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.08768;46.993066
+21332_0060_00051;51;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.110761;47.004597
+21332_0210_00008;8;;Petite Rue de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.075711;46.995934
+21332_0060_00007_bis;7;bis;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.086689;47.00653
+21332_0095_00007;7;;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.077882;46.996832
+21332_0040_00002_c;2;c;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085166;46.999535
+21332_0040_00017;17;;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085222;47.002501
+21332_0125_00025;25;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092639;46.997205
+21332_0083_00001;1;;Rue du Champ Boulet;21820;21332;Labergement-lès-Seurre;;;5.082343;46.994874
+21332_0165_00016_bis;16;bis;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.082446;46.994454
+21332_0258_00002;2;;Rue Vie de Maronde;21820;21332;Labergement-lès-Seurre;;;5.096063;46.991709
+21332_0255_00004;4;;Rue de la Verderie;21820;21332;Labergement-lès-Seurre;;;5.095025;46.990381
+21332_0239_00047;47;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.106235;47.003212
+21332_0197_00001;1;;Rue du Meix Pichot;21820;21332;Labergement-lès-Seurre;;;5.09081;47.004365
+21332_0083_00005;5;;Rue du Champ Boulet;21820;21332;Labergement-lès-Seurre;;;5.082879;46.995489
+21332_0125_00074;74;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.094785;47.001236
+21332_0165_00015;15;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.080256;46.99515
+21332_0125_00075;75;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.094184;47.002159
+21332_0095_00017;17;;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.08122;46.997088
+21332_0165_00024;24;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.084949;46.993888
+21332_0083_00001_bis;1;bis;Rue du Champ Boulet;21820;21332;Labergement-lès-Seurre;;;5.082611;46.995181
+21332_0255_00011_bis;11;bis;Rue de la Verderie;21820;21332;Labergement-lès-Seurre;;;5.094763;46.991308
+21332_0245_00005;5;;Chemin du Tertre;21820;21332;Labergement-lès-Seurre;;;5.102843;47.004328
+21332_0020_00008_bis;8;bis;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089389;47.001617
+21332_0170_00005;5;;Rue de l'Homme Bret;21820;21332;Labergement-lès-Seurre;;;5.090851;47.000507
+21332_0210_00006;6;;Petite Rue de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.074988;46.996031
+21332_0195_00005_bis;5;bis;Rue de la Loire;21820;21332;Labergement-lès-Seurre;;;5.092417;46.991357
+21332_0125_00020;20;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.093306;46.996161
+21332_0080_00007;7;;Rue Blanchot;21820;21332;Labergement-lès-Seurre;;;5.095871;46.997539
+21332_0165_00030;30;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.086828;46.993387
+21332_0125_00028;28;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.093027;46.996869
+21332_0239_00040;40;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.10516;47.00294
+21332_0085_00010;10;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.087024;46.995396
+21332_0060_00021;21;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.092301;47.006377
+21332_0084_00006;6;;Route de Chivres;21820;21332;Labergement-lès-Seurre;;;5.095277;46.991476
+21332_0125_00009;9;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.094023;46.994451
+21332_0165_00009;9;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.077511;46.996179
+21332_0125_00051;51;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092545;46.999784
+21332_0095_00011_bis;11;bis;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.07928;46.99731
+21332_0082_00007;7;;Rue de la Boutonnière;21820;21332;Labergement-lès-Seurre;;;5.093198;47.005543
+21332_0239_00025;25;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.10117;47.000157
+21332_0125_00059;59;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.09336;47.000153
+21332_0095_00006;6;;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.081007;46.997041
+21332_0239_00029;29;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.101709;47.000472
+21332_0125_00024;24;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092971;46.996424
+21332_0060_00042;42;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.108375;47.003479
+21332_0060_00007;7;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.087391;47.006604
+21332_0130_00013;13;;Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.098758;47.00102
+21332_0125_00080;80;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.096084;47.004376
+21332_0125_00021;21;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.09278;46.996438
+21332_0083_00009;9;;Rue du Champ Boulet;21820;21332;Labergement-lès-Seurre;;;5.084102;46.997777
+21332_0165_00023_c;23;c;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.083213;46.99434
+21332_0239_00038;38;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.10354;47.00297
+21332_0197_00002;2;;Rue du Meix Pichot;21820;21332;Labergement-lès-Seurre;;;5.091449;47.004088
+21332_0056_00003;3;;Chemin des Bas;21820;21332;Labergement-lès-Seurre;;;5.088521;46.998273
+21332_0060_00041;41;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.106027;47.003487
+21332_0125_00050;50;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092595;46.9984
+21332_0165_00013;13;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.080024;46.995233
+21332_0020_00015;15;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089878;47.002946
+21332_0195_00005;5;;Rue de la Loire;21820;21332;Labergement-lès-Seurre;;;5.091961;46.991255
+21332_0197_00004;4;;Rue du Meix Pichot;21820;21332;Labergement-lès-Seurre;;;5.092951;47.003465
+21332_ee2ks0_00025;25;;Place Pierre Vaux;21820;21332;Labergement-lès-Seurre;;;5.092225;46.997187
+21332_0239_00023;23;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.100804;46.999959
+21332_0210_00007;7;;Petite Rue de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.073188;46.996406
+21332_0125_00002;2;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.093756;46.992193
+21332_0060_00036;36;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.104713;47.003571
+21332_0125_00004_bis;4;bis;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.093957;46.992509
+21332_0083_00002_bis;2;bis;Rue du Champ Boulet;21820;21332;Labergement-lès-Seurre;;;5.083557;46.995754
+21332_0195_00006;6;;Rue de la Loire;21820;21332;Labergement-lès-Seurre;;;5.087703;46.990632
+21332_0170_00001;1;;Rue de l'Homme Bret;21820;21332;Labergement-lès-Seurre;;;5.090013;46.999727
+21332_0239_00011_a;11;a;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.09447;46.991849
+21332_0125_00063;63;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.093908;47.000443
+21332_0041_00004;4;;Petite Rue d’Auprot;21820;21332;Labergement-lès-Seurre;;;5.086632;47.000331
+21332_0165_00023;23;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.081817;46.994767
+21332_0080_00016;16;;Rue Blanchot;21820;21332;Labergement-lès-Seurre;;;5.096599;46.998959
+21332_0095_00014;14;;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.083026;46.996129
+21332_0239_00037;37;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.104397;47.001892
+21332_0040_00004;4;;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085469;47.000781
+21332_0260_00008;8;;Rue des Voitures;21820;21332;Labergement-lès-Seurre;;;5.088357;47.006094
+21332_0081_00001;1;;Rue Chapot;21820;21332;Labergement-lès-Seurre;;;5.096957;46.995677
+21332_0130_00009;9;;Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.098041;47.000932
+21332_0260_00006;6;;Rue des Voitures;21820;21332;Labergement-lès-Seurre;;;5.087104;47.005303
+21332_0080_00002;2;;Rue Blanchot;21820;21332;Labergement-lès-Seurre;;;5.094775;46.995945
+21332_0060_00004;4;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.078348;47.005621
+21332_0210_00017;17;;Petite Rue de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.07609;46.996067
+21332_0245_00003;3;;Chemin du Tertre;21820;21332;Labergement-lès-Seurre;;;5.102511;47.004191
+21332_0165_00001_bis;1;bis;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.073785;46.997438
+21332_0020_00003;3;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.088995;47.000627
+21332_0195_00003;3;;Rue de la Loire;21820;21332;Labergement-lès-Seurre;;;5.093565;46.991926
+21332_0041_00002;2;;Petite Rue d’Auprot;21820;21332;Labergement-lès-Seurre;;;5.0856;47.000417
+21332_0040_00013;13;;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085379;47.001671
+21332_0095_00004;4;;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.079335;46.99699
+21332_0257_00003;3;;Rue du Vernecros;21820;21332;Labergement-lès-Seurre;;;5.081103;46.993824
+21332_0020_00012;12;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089808;47.002184
+21332_0170_00002;2;;Rue de l'Homme Bret;21820;21332;Labergement-lès-Seurre;;;5.090918;47.000461
+21332_0125_00068;68;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.093513;47.000108
+21332_0040_00011;11;;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085364;47.001453
+21332_0125_00081;81;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.095244;47.003586
+21332_0040_00010;10;;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085359;47.002483
+21332_0055_00011;11;;Rue du Pont Barnier;21820;21332;Labergement-lès-Seurre;;;5.092178;46.993191
+21332_0125_00062;62;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092837;46.99988
+21332_0130_00023;23;;Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.100722;47.000371
+21332_0060_00043;43;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.107176;47.003417
+21332_0060_00024;24;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.099984;47.004134
+21332_0165_00039;39;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.088722;46.992706
+21332_0125_00076;76;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.094799;47.002989
+21332_0085_00002;2;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.08345;46.996046
+21332_0060_00022;22;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.099448;47.004339
+21332_0130_00011_bis;11;bis;Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.098321;47.00098
+21332_0060_00026;26;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.100577;47.003912
+21332_0125_00079;79;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.095051;47.003435
+21332_0239_00015;15;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.098568;46.997237
+21332_0239_00039;39;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.104575;47.001964
+21332_0210_00005;5;;Petite Rue de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.072964;46.997017
+21332_0165_00031;31;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.086241;46.993672
+21332_0060_00040;40;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.105475;47.00329
+21332_0255_00013;13;;Rue de la Verderie;21820;21332;Labergement-lès-Seurre;;;5.094763;46.991308
+21332_0050_00001;1;;Impasse des Baraques;21820;21332;Labergement-lès-Seurre;;;5.080358;46.994817
+21332_0125_00049;49;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092408;46.999603
+21332_0239_00004;4;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.096313;46.992696
+21332_0165_00006;6;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.075485;46.99652
+21332_0095_00005;5;;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.077815;46.997087
+21332_0055_00009;9;;Rue du Pont Barnier;21820;21332;Labergement-lès-Seurre;;;5.092254;46.992769
+21332_0040_00003;3;;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085194;47.000173
+21332_0055_00007;7;;Rue du Pont Barnier;21820;21332;Labergement-lès-Seurre;;;5.092699;46.992844
+21332_0040_00019;19;;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085136;47.002794
+21332_0125_00007;7;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.09389;46.994132
+21332_0125_00061;61;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.093667;47.0003
+21332_0205_00001;1;;Petite Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.097199;46.999415
+21332_0040_00014_bis;14;bis;Rue d'Auprot;21820;21332;Labergement-lès-Seurre;;;5.085418;47.003205
+21332_0135_00005;5;;Rue de la Forte Terre;21820;21332;Labergement-lès-Seurre;;;5.08271;47.000788
+21332_0020_00032;32;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.08943;47.006216
+21332_0260_00010;10;;Rue des Voitures;21820;21332;Labergement-lès-Seurre;;;5.088922;47.006182
+21332_0165_00014;14;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.081496;46.99466
+21332_0125_00012;12;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.094561;46.995627
+21332_0125_00032;32;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.093274;46.996912
+21332_0239_00043;43;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.105173;47.002291
+21332_0095_00021;21;;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.082217;46.996723
+21332_0080_00014;14;;Rue Blanchot;21820;21332;Labergement-lès-Seurre;;;5.096789;46.99871
+21332_0084_00007;7;;Route de Chivres;21820;21332;Labergement-lès-Seurre;;;5.095293;46.984957
+21332_0020_00002;2;;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089721;47.000502
+21332_0125_00033;33;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092544;46.997693
+21332_0041_00001;1;;Petite Rue d’Auprot;21820;21332;Labergement-lès-Seurre;;;5.087821;47.000371
+21332_0050_00004;4;;Impasse des Baraques;21820;21332;Labergement-lès-Seurre;;;5.07988;46.994494
+21332_0125_00019;19;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092839;46.996385
+21332_0130_00015;15;;Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.098977;47.001027
+21332_0239_00035;35;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.1038;47.001551
+21332_0195_00007;7;;Rue de la Loire;21820;21332;Labergement-lès-Seurre;;;5.092804;46.99149
+21332_0085_00004;4;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.084458;46.995818
+21332_0095_00015_bis;15;bis;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.08105;46.997442
+21332_0125_00042;42;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092694;46.997702
+21332_0210_00002;2;;Petite Rue de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.072971;46.99668
+21332_0197_00002_a;2;a;Rue du Meix Pichot;21820;21332;Labergement-lès-Seurre;;;5.091968;47.00388
+21332_0095_00002_bis;2;bis;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.078082;46.996812
+21332_0205_00003;3;;Petite Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.097601;46.99991
+21332_0197_00002_t;2;t;Rue du Meix Pichot;21820;21332;Labergement-lès-Seurre;;;5.089899;47.004116
+21332_0125_00004;4;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.093903;46.992423
+21332_0020_00002_d;2;d;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089173;47.000628
+21332_0255_00007;7;;Rue de la Verderie;21820;21332;Labergement-lès-Seurre;;;5.094754;46.990824
+21332_0041_00003;3;;Petite Rue d’Auprot;21820;21332;Labergement-lès-Seurre;;;5.087263;47.000443
+21332_0060_00017;17;;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.089605;47.006807
+21332_0125_00038;38;;Rue de l'Eglise;21820;21332;Labergement-lès-Seurre;;;5.092752;46.997332
+21332_0020_00006_bis;6;bis;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089279;47.00137
+21332_0165_00004;4;;Route de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.074502;46.996775
+21332_0210_00012;12;;Petite Rue de Jossigny;21820;21332;Labergement-lès-Seurre;;;5.076786;46.996066
+21332_0083_00003;3;;Rue du Champ Boulet;21820;21332;Labergement-lès-Seurre;;;5.082712;46.995307
+21332_0095_00009;9;;Rue de la Déchante;21820;21332;Labergement-lès-Seurre;;;5.078173;46.996912
+21332_0060_00028_bis;28;bis;Route de Beaune;21820;21332;Labergement-lès-Seurre;;;5.100744;47.003885
+21332_0239_00002;2;;Route de Pouilly;21820;21332;Labergement-lès-Seurre;;;5.096125;46.992441
+21332_0195_00007_c;7;c;Rue de la Loire;21820;21332;Labergement-lès-Seurre;;;5.093109;46.991581
+21332_0130_00007;7;;Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.097601;47.000844
+21332_0020_00005_b;5;b;Rue d'Archère;21820;21332;Labergement-lès-Seurre;;;5.089147;47.001334
+21332_0083_00006;6;;Rue du Champ Boulet;21820;21332;Labergement-lès-Seurre;;;5.084469;46.99808
+21332_0085_00021;21;;Rue du Cornot;21820;21332;Labergement-lès-Seurre;;;5.087214;46.995069
+21332_0205_00007;7;;Petite Rue d'Enfer;21820;21332;Labergement-lès-Seurre;;;5.098371;47.000642
+21332_0245_00002;2;;Chemin du Tertre;21820;21332;Labergement-lès-Seurre;;;5.10221;47.003979
+21332_0083_00007_bis;7;bis;Rue du Champ Boulet;21820;21332;Labergement-lès-Seurre;;;5.083326;46.996712

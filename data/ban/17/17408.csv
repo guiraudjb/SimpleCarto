@@ -1,0 +1,481 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+17408_0272_00009;9;;Rue des Poiriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837335;45.806326
+17408_0165_00001;1;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83829;45.808953
+17408_0165_00024;24;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.836225;45.806023
+17408_0165_00028;28;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835911;45.805621
+17408_0165_00029;29;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83611;45.806024
+17408_0165_00032;32;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835658;45.805345
+17408_0065_00005;5;;Rue des Cerisiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.840959;45.808442
+17408_0272_00007;7;;Rue des Poiriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83729;45.806345
+17408_0272_00013;13;;Rue des Poiriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837623;45.806305
+17408_0272_00014;14;;Rue des Poiriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83836;45.806251
+17408_0165_00002;2;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838408;45.809076
+17408_0165_00006;6;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838187;45.808433
+17408_0165_00007;7;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838;45.808152
+17408_0165_00013;13;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837583;45.807246
+17408_0165_00019;19;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.836869;45.806746
+17408_0165_00033;33;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835785;45.805631
+17408_0065_00008;8;;Rue des Cerisiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.8405;45.808086
+17408_h48x0i_00004;4;;Impasse du Buchit;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.820862;45.810603
+17408_0065_00013;13;;Rue des Cerisiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838841;45.807247
+17408_0270_00034;34;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.819611;45.810775
+17408_0270_00047;47;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.819774;45.812255
+17408_0291_00003;3;;Rue du Puits;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83843;45.808271
+17408_0291_00008;8;;Rue du Puits;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839222;45.80785
+17408_0255_00013;13;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835819;45.803395
+17408_0065_00012;12;;Rue des Cerisiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839802;45.807522
+17408_0065_00024;24;;Rue des Cerisiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837857;45.807193
+17408_0270_00016;16;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.819604;45.811373
+17408_0270_00022;22;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.820918;45.810472
+17408_0270_00023;23;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.821099;45.809967
+17408_0270_00037;37;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.819424;45.811324
+17408_0291_00004;4;;Rue du Puits;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838775;45.80804
+17408_0291_00010;10;;Rue du Puits;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839371;45.8078
+17408_0255_00001;1;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838976;45.806938
+17408_0255_00002;2;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839199;45.807058
+17408_0255_00005;5;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839261;45.805966
+17408_0255_00017;17;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838705;45.805279
+17408_0255_00021;21;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838442;45.805243
+17408_0255_00030;30;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837069;45.804208
+17408_0265_00016;16;;Rue du Planty;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.810946;45.833514
+17408_0265_00002_bis;2;bis;Rue du Planty;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.816285;45.836281
+17408_0345_00001;1;;Rue des Vergers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.795763;45.813207
+17408_0345_00013;13;;Rue des Vergers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.796456;45.815111
+17408_0140_01043_f;1043;f;Rue du Four Banal;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.812722;45.830831
+17408_0225_00003;3;;Rue de la Minoterie;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835428;45.801249
+17408_0225_00007;7;;Rue de la Minoterie;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835148;45.800819
+17408_0280_00003;3;;Allée du Pré Long;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.854107;45.80896
+17408_0160_00001;1;;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.848852;45.805083
+17408_0255_00034;34;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837376;45.804427
+17408_0220_00003;3;;Rue de la Metairie de l’Isleau;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839578;45.793948
+17408_0265_00002;2;;Rue du Planty;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.809455;45.832855
+17408_0265_00006;6;;Rue du Planty;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.810378;45.833159
+17408_0265_00014;14;;Rue du Planty;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.810704;45.833405
+17408_0140_00006;6;;Rue du Four Banal;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.812699;45.830811
+17408_0225_00009;9;;Rue de la Minoterie;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835042;45.800869
+17408_0280_00001;1;;Allée du Pré Long;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.854549;45.808615
+17408_0160_00010;10;;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.849728;45.805398
+17408_0160_00013;13;;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.855264;45.808394
+17408_0160_00017;17;;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.855622;45.809397
+17408_0160_00012;12;;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.850046;45.805551
+17408_0160_00018;18;;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.851086;45.806047
+17408_6by8op_00002;2;;La Treuillère;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.80902;45.832881
+17408_0272_00003;3;;Rue des Poiriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837686;45.806658
+17408_0272_00010;10;;Rue des Poiriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838282;45.806309
+17408_0272_00016;16;;Rue des Poiriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838468;45.805839
+17408_0165_00011;11;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837784;45.807611
+17408_0165_00018;18;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.836383;45.806364
+17408_0165_00023;23;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.836266;45.806192
+17408_0165_00037;37;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835647;45.80548
+17408_0165_00002_bis;2;bis;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838338;45.808921
+17408_0065_00009;9;;Rue des Cerisiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839799;45.807626
+17408_cmra6h_00001;1;;la Tonnelle;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.836382;45.793348
+17408_0270_00027;27;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.820521;45.810562
+17408_0270_00033;33;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.819425;45.810738
+17408_0270_00039;39;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.819543;45.811402
+17408_0270_00049;49;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.8196;45.81256
+17408_0255_00020;20;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838867;45.805268
+17408_0255_00031;31;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835819;45.803395
+17408_0255_00039;39;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837276;45.80447
+17408_0294_00001;1;;Impasse les Raisiniers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839387;45.809544
+17408_0294_00007;7;;Impasse les Raisiniers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838982;45.80969
+17408_75ye9h_00001;1;;Rue des Fragnauds;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835352;45.802585
+17408_75ye9h_00005;5;;Rue des Fragnauds;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835119;45.802383
+17408_0272_00004;4;;Rue des Poiriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837923;45.806808
+17408_0065_00004;4;;Rue des Cerisiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.841002;45.808443
+17408_0175_00001;1;;Impasse du Jasmin;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.819821;45.811069
+17408_0265_00001;1;;Rue du Planty;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.809881;45.832972
+17408_0345_00003;3;;Rue des Vergers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.795843;45.813847
+17408_0345_00003_bis;3;bis;Rue des Vergers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.795874;45.813909
+17408_0140_00002;2;;Rue du Four Banal;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.813267;45.830712
+17408_0140_00010;10;;Rue du Four Banal;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.812389;45.830735
+17408_0140_01043;1043;;Rue du Four Banal;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.813084;45.830978
+17408_0225_00005;5;;Rue de la Minoterie;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835258;45.801106
+17408_0160_00011;11;;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.854616;45.807949
+17408_0160_00014;14;;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.85043;45.805731
+17408_0160_00015;15;;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.855456;45.808635
+17408_0160_00016;16;;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.854289;45.807679
+17408_0065_00018;18;;Rue des Cerisiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838399;45.807216
+17408_0270_00018;18;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.821094;45.810167
+17408_0270_00028;28;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.820403;45.810623
+17408_0255_00008;8;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839625;45.806466
+17408_0255_00012;12;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839592;45.80579
+17408_0255_00016;16;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839209;45.805428
+17408_0255_00024;24;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838254;45.80514
+17408_0255_00027;27;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837663;45.804644
+17408_0265_00007;7;;Rue du Planty;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.810848;45.833175
+17408_0265_00012;12;;Rue du Planty;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.810465;45.833346
+17408_0345_00005;5;;Rue des Vergers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.795875;45.814012
+17408_0345_00015;15;;Rue des Vergers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.795862;45.813998
+17408_0140_00008;8;;Rue du Four Banal;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.812602;45.830833
+17408_0225_00001;1;;Rue de la Minoterie;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83557;45.80137
+17408_0160_00002;2;;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.849012;45.805094
+17408_0160_00003;3;;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.849312;45.805289
+17408_0160_00006;6;;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.849324;45.805231
+17408_0160_00007;7;;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.852112;45.806584
+17408_0160_00008;8;;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.849459;45.805291
+17408_0160_00009;9;;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.853847;45.807514
+17408_0160_00011_bis;11;bis;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.855715;45.809516
+17408_0160_00007_bis;7;bis;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.854166;45.807709
+17408_0215_00002;2;;Rue du Marronnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.847527;45.804694
+17408_0215_00006;6;;Rue du Marronnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.846778;45.804611
+17408_0296_00001;1;;Impasse Remy Daniel;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.823734;45.80391
+17408_0105_00001;1;;Rue de la Croix;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.845768;45.808874
+17408_0105_00005;5;;Rue de la Croix;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.845682;45.80864
+17408_0105_00006;6;;Rue de la Croix;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.84712;45.809537
+17408_0105_00008;8;;Rue de la Croix;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.847218;45.809628
+17408_0160_00024;24;;Route des Grands Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.855858;45.809537
+17408_0215_00001;1;;Rue du Marronnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.847277;45.804618
+17408_0215_00004;4;;Rue du Marronnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.847242;45.80459
+17408_0296_00005;5;;Impasse Remy Daniel;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.824573;45.804168
+17408_0105_00003;3;;Rue de la Croix;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.846463;45.809479
+17408_0105_00004;4;;Rue de la Croix;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.846645;45.809565
+17408_0180_00002;2;;Route de Jeuzet;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.829176;45.796264
+17408_0180_00014;14;;Route de Jeuzet;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.829706;45.799132
+17408_0215_00003;3;;Rue du Marronnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.847487;45.804606
+17408_0296_00002;2;;Impasse Remy Daniel;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.823068;45.803917
+17408_0105_00002;2;;Rue de la Croix;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.845974;45.809052
+17408_0105_00012;12;;Rue de la Croix;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.847378;45.810127
+17408_0180_00012;12;;Route de Jeuzet;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.830037;45.798809
+17408_0180_00016;16;;Route de Jeuzet;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.829736;45.799624
+17408_75ye9h_00003;3;;Rue des Fragnauds;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835151;45.802458
+17408_0272_00018;18;;Rue des Poiriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839007;45.805584
+17408_0165_00008;8;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837731;45.807331
+17408_0165_00010;10;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837568;45.807076
+17408_0165_00020;20;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83634;45.806165
+17408_0165_00022;22;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.836256;45.806058
+17408_0165_00030;30;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835851;45.805555
+17408_0165_00034;34;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835711;45.80542
+17408_0065_00010;10;;Rue des Cerisiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.840229;45.807895
+17408_0270_00025;25;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.821001;45.810144
+17408_0270_00043;43;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.819701;45.811759
+17408_0291_00012;12;;Rue du Puits;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839543;45.807761
+17408_0291_00015;15;;Rue du Puits;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839719;45.807522
+17408_0255_00022;22;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838721;45.805209
+17408_0255_00028;28;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837979;45.804844
+17408_0294_00003;3;;Impasse les Raisiniers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83944;45.809951
+17408_0105_00007;7;;Rue de la Croix;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.847102;45.809962
+17408_0105_00009;9;;Rue de la Croix;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.847152;45.810178
+17408_0180_00006;6;;Route de Jeuzet;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.829439;45.796841
+17408_0180_00010;10;;Route de Jeuzet;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.830364;45.798489
+17408_cmra6h_00003;3;;la Tonnelle;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.836964;45.792942
+17408_0165_00016;16;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.836726;45.806557
+17408_0165_00026;26;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.836132;45.805912
+17408_0165_00027;27;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.836036;45.806192
+17408_0165_00031;31;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835987;45.805867
+17408_0165_00035;35;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838335;45.809162
+17408_0065_00003;3;;Rue des Cerisiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838729;45.807256
+17408_0065_00006;6;;Rue des Cerisiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.840794;45.808278
+17408_0065_00007;7;;Rue des Cerisiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839915;45.807694
+17408_0065_00015;15;;Rue des Cerisiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838296;45.807275
+17408_0270_00020;20;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.821051;45.810285
+17408_0270_00021;21;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.82116;45.80987
+17408_0270_00024;24;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.818369;45.814523
+17408_0270_00031;31;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.82005;45.810652
+17408_0270_00035;35;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.819309;45.811213
+17408_0270_00036;36;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.819474;45.810804
+17408_0270_00058;58;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.818369;45.814523
+17408_0270_01194;1194;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.819531;45.811328
+17408_0255_00003;3;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839089;45.8066
+17408_0255_00010;10;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839393;45.806004
+17408_0255_00011;11;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.836457;45.803711
+17408_0255_00014;14;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839253;45.805684
+17408_0255_00018;18;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838984;45.80535
+17408_0294_00002;2;;Impasse les Raisiniers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83919;45.809599
+17408_0175_00001_ter;1;ter;Impasse du Jasmin;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.820195;45.811424
+17408_0265_00004;4;;Rue du Planty;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.809697;45.832941
+17408_0265_00008;8;;Rue du Planty;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.810039;45.833044
+17408_0215_00005;5;;Rue du Marronnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.847295;45.804549
+17408_0296_00003;3;;Impasse Remy Daniel;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.824257;45.804092
+17408_0296_00007;7;;Impasse Remy Daniel;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.825045;45.804352
+17408_0105_00010;10;;Rue de la Croix;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.847163;45.809932
+17408_75ye9h_00002;2;;Rue des Fragnauds;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.8356;45.802673
+17408_0272_00001;1;;Rue des Poiriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838399;45.807216
+17408_0272_00006;6;;Rue des Poiriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83787;45.806504
+17408_0272_00008;8;;Rue des Poiriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83803;45.806142
+17408_0272_00015;15;;Rue des Poiriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838081;45.806044
+17408_0272_00017;17;;Rue des Poiriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83842;45.805811
+17408_0165_00003;3;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838233;45.808875
+17408_0065_00002;2;;Rue des Cerisiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838503;45.807289
+17408_0065_00014;14;;Rue des Cerisiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839563;45.807355
+17408_0065_00005_bis;5;bis;Rue des Cerisiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838782;45.807252
+17408_0270_00046;46;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.818369;45.814523
+17408_0291_00006;6;;Rue du Puits;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838941;45.807924
+17408_0255_00019;19;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.8385;45.80525
+17408_0255_00023;23;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83823;45.805198
+17408_0272_00002;2;;Rue des Poiriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838213;45.806958
+17408_0272_00005;5;;Rue des Poiriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837414;45.8064
+17408_0272_00011;11;;Rue des Poiriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837444;45.806275
+17408_0272_00012;12;;Rue des Poiriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838312;45.806251
+17408_0165_00005;5;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837641;45.808675
+17408_0165_00017;17;;Rue des Guillons;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837122;45.806893
+17408_0065_00011;11;;Rue des Cerisiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839328;45.807383
+17408_0270_00014;14;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.819604;45.811373
+17408_0270_00029;29;;Rue du Plat d'Etain;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.82019;45.810627
+17408_0291_00005;5;;Rue du Puits;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838719;45.808038
+17408_0255_00004;4;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837069;45.804208
+17408_0255_00015;15;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839299;45.80589
+17408_0255_00029;29;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837541;45.804572
+17408_0255_00032;32;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837677;45.804603
+17408_0255_00033;33;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835819;45.803395
+17408_0255_00041;41;;Rue du Pigeonnier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837211;45.804429
+17408_0220_00001;1;;Rue de la Metairie de l’Isleau;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839402;45.794011
+17408_0175_00001_bis;1;bis;Impasse du Jasmin;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.819821;45.811069
+17408_0265_00003;3;;Rue du Planty;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.810335;45.833068
+17408_0180_00022;22;;Route de Jeuzet;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.828732;45.800088
+17408_0180_00018_bis;18;bis;Route de Jeuzet;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.829166;45.799648
+17408_0010_00002;2;;Route de l'Arnoult;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.84838;45.805415
+17408_0010_00006;6;;Route de l'Arnoult;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.846972;45.80746
+17408_0010_00014;14;;Route de l'Arnoult;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.843869;45.808651
+17408_0010_00028;28;;Route de l'Arnoult;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.840653;45.809163
+17408_0010_00012_bis;12;bis;Route de l'Arnoult;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.843517;45.808292
+17408_0080_00001;1;;Rue des Chênes Verts;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.804597;45.834241
+17408_0045_00004;4;;Rue des Brossards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.822894;45.804125
+17408_0180_00018;18;;Route de Jeuzet;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.829166;45.799648
+17408_0170_00001;1;;Impasse des Jardins;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.848566;45.805398
+17408_0155_00005;5;;Rue de la Gare;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.830303;45.8279
+17408_0010_00009;9;;Route de l'Arnoult;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.841282;45.808924
+17408_0010_00020;20;;Route de l'Arnoult;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.840112;45.809234
+17408_0010_00101;101;;Route de l'Arnoult;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.845024;45.808254
+17408_0080_00002;2;;Rue des Chênes Verts;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.809948;45.832562
+17408_0080_00009;9;;Rue des Chênes Verts;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.810318;45.832442
+17408_0080_00011;11;;Rue des Chênes Verts;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.809983;45.832477
+17408_0080_00002_a;2;a;Rue des Chênes Verts;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.804597;45.834241
+17408_0045_00006;6;;Rue des Brossards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.823866;45.803199
+17408_0180_00014_bis;14;bis;Route de Jeuzet;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.829174;45.799724
+17408_0155_00001;1;;Rue de la Gare;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.830874;45.826641
+17408_0155_00003;3;;Rue de la Gare;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.830468;45.827439
+17408_0155_00006;6;;Rue de la Gare;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.833987;45.818006
+17408_0155_00014;14;;Rue de la Gare;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.833358;45.818691
+17408_0155_00001_bis;1;bis;Rue de la Gare;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.830082;45.828039
+17408_0010_00003;3;;Route de l'Arnoult;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.84467;45.808244
+17408_0010_00004;4;;Route de l'Arnoult;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.843517;45.808292
+17408_0080_00003;3;;Rue des Chênes Verts;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.808997;45.83258
+17408_0080_00006;6;;Rue des Chênes Verts;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.808975;45.832628
+17408_0080_00007;7;;Rue des Chênes Verts;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.810284;45.832446
+17408_0155_00004;4;;Rue de la Gare;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835889;45.816958
+17408_0155_00008;8;;Rue de la Gare;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.833779;45.818192
+17408_0155_00010;10;;Rue de la Gare;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.833603;45.818344
+17408_0155_00012;12;;Rue de la Gare;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.833497;45.818438
+17408_0155_00001_ter;1;ter;Rue de la Gare;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.830082;45.828039
+17408_0010_00001;1;;Route de l'Arnoult;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.834497;45.810586
+17408_0010_00008;8;;Route de l'Arnoult;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.846778;45.80775
+17408_0010_00012;12;;Route de l'Arnoult;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.844758;45.80831
+17408_0010_00024;24;;Route de l'Arnoult;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838361;45.809225
+17408_0010_00026;26;;Route de l'Arnoult;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838853;45.809202
+17408_0080_00004;4;;Rue des Chênes Verts;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.809459;45.832606
+17408_0045_00026;26;;Rue des Brossards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.82318;45.803632
+17408_0045_00008;8;;Rue des Brossards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.825107;45.802603
+17408_0045_00004_bis;4;bis;Rue des Brossards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.823075;45.804403
+17408_0020_00006;6;;Rue des Bernards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.844174;45.803109
+17408_0020_00007;7;;Rue des Bernards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.843746;45.802844
+17408_0070_00002;2;;Rue des Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.819048;45.811215
+17408_0070_00012;12;;Rue des Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.817965;45.811224
+17408_0120_00003;3;;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.848021;45.80465
+17408_0120_00011;11;;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.846251;45.803833
+17408_0120_00016;16;;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.845045;45.803226
+17408_0120_00006_bis;6;bis;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.846311;45.803939
+17408_0015_00006;6;;Rue de l'Auberge;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.818744;45.811009
+17408_0300_00002;2;;Impasse du Renclaud;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.844629;45.809543
+17408_0030_00002;2;;Rue de la Blanchardiere;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.822923;45.803812
+17408_0030_00004;4;;Rue de la Blanchardiere;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.822686;45.804032
+17408_0030_00014;14;;Rue de la Blanchardiere;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.815641;45.806541
+17408_0045_00016;16;;Rue des Brossards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.824173;45.803022
+17408_0045_00018;18;;Rue des Brossards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.824044;45.803074
+17408_0045_00022;22;;Rue des Brossards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.823826;45.803724
+17408_0045_00024;24;;Rue des Brossards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.823438;45.803442
+17408_0045_00016_a;16;a;Rue des Brossards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.823866;45.803199
+17408_0020_00003;3;;Rue des Bernards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.843882;45.802938
+17408_0020_00004;4;;Rue des Bernards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.844048;45.802974
+17408_0070_00004;4;;Rue des Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.818798;45.811161
+17408_0070_00006;6;;Rue des Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.818613;45.811175
+17408_0120_00002;2;;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.848634;45.804989
+17408_0120_00004;4;;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.848441;45.804909
+17408_0120_00006;6;;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.847237;45.804364
+17408_0120_00007;7;;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.846163;45.803774
+17408_0120_00012;12;;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.845917;45.803735
+17408_0120_00015;15;;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.845782;45.803608
+17408_0015_00001;1;;Rue de l'Auberge;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.818835;45.810918
+17408_0015_00004;4;;Rue de l'Auberge;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.818859;45.810943
+17408_0300_00006;6;;Impasse du Renclaud;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.84505;45.809833
+17408_0030_00008;8;;Rue de la Blanchardiere;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.816634;45.806278
+17408_0030_00012;12;;Rue de la Blanchardiere;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.815898;45.806485
+17408_0045_00010;10;;Rue des Brossards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.824795;45.802733
+17408_0045_00020;20;;Rue des Brossards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.823788;45.803237
+17408_0020_00005;5;;Rue des Bernards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.844073;45.803049
+17408_0070_00009;9;;Rue des Champs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.818382;45.810982
+17408_0120_00005;5;;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.847774;45.804525
+17408_0120_00008;8;;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.846488;45.804011
+17408_0120_00010;10;;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.846139;45.803859
+17408_0120_00018;18;;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.844706;45.802911
+17408_0120_00006_ter;6;ter;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.846767;45.804149
+17408_0015_00002;2;;Rue de l'Auberge;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.819101;45.810772
+17408_0300_00008;8;;Impasse du Renclaud;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.844611;45.809391
+17408_0045_00012;12;;Rue des Brossards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.824487;45.802868
+17408_0045_00014;14;;Rue des Brossards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.824303;45.802945
+17408_0045_00012_bis;12;bis;Rue des Brossards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.824488;45.802869
+17408_0045_00016_b;16;b;Rue des Brossards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.824074;45.803102
+17408_0020_00002;2;;Rue des Bernards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.843928;45.802771
+17408_0020_00010;10;;Rue des Bernards;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.844903;45.803807
+17408_0090_00001;1;;Rue du Clone;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.796316;45.814773
+17408_0090_00003;3;;Rue du Clone;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.796429;45.814756
+17408_0195_00001;1;;Rue du Lavoir;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.847147;45.805077
+17408_0120_00001;1;;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.848726;45.804961
+17408_0120_00009;9;;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.84597;45.803685
+17408_0120_00013;13;;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.846043;45.803733
+17408_0120_00014;14;;Route de l'Ecole;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.845617;45.803603
+17408_0300_00001;1;;Impasse du Renclaud;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.845325;45.809639
+17408_0300_00004;4;;Impasse du Renclaud;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.844831;45.809682
+17408_0030_00006;6;;Rue de la Blanchardiere;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.817215;45.806177
+17408_0030_00010;10;;Rue de la Blanchardiere;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.815871;45.806486
+17408_0030_00004_bis;4;bis;Rue de la Blanchardiere;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.822472;45.804191
+17408_0025_00003;3;;Rue des Biches;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.822782;45.827119
+17408_0025_00005;5;;Rue des Biches;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.822981;45.827183
+17408_0320_00003;3;;Rue du Tilleul;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.812749;45.830536
+17408_0145_00009;9;;Rue du Freuche;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837516;45.820099
+17408_0055_00003;3;;Rue du Camelia;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.833239;45.818584
+17408_0055_00004;4;;Rue du Camelia;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.832568;45.818102
+17408_0290_00008;8;;Impasse du Puits;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.829058;45.827232
+17408_0098_00021;21;;Route de Corme Royal;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.832525;45.792373
+17408_0098_00023;23;;Route de Corme Royal;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.831336;45.79188
+17408_0040_00006;6;;Rue du Bois de l’Enclouse;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.849137;45.803774
+17408_0005_00004;4;;Impasse de l’Ancienne Mairie;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.822973;45.826831
+17408_0023_00007;7;;Route de Beurlay;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.817919;45.846175
+17408_0023_00005_a;5;a;Route de Beurlay;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.817501;45.845827
+17408_0001_00001;1;;Rue des Abricotiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838516;45.807828
+17408_0205_00007;7;;Rue du Logis de Montfabien;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.84567;45.812391
+17408_0205_00009;9;;Rue du Logis de Montfabien;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.846564;45.813295
+17408_0205_00005_bis;5;bis;Rue du Logis de Montfabien;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.840985;45.810013
+17408_0332_00004;4;;Rue des Tournesols;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837434;45.8052
+17408_0075_00002;2;;Impasse du Chataignier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83626;45.793569
+17408_0235_00004;4;;Impasse des Mottes de Jeuzet;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.831542;45.799454
+17408_0292_00025;25;;Rue du Puits Commun;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.81123;45.831005
+17408_0335_00004;4;;Impasse du Vieux Four;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.848441;45.804909
+17408_0185_00001;1;;Rue de Laurière;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.825143;45.815219
+17408_0030_00018;18;;Rue de la Blanchardiere;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.815196;45.807009
+17408_0320_00002;2;;Rue du Tilleul;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.812932;45.830688
+17408_0320_00006;6;;Rue du Tilleul;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.812609;45.830246
+17408_0145_00001;1;;Rue du Freuche;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837784;45.818335
+17408_0145_00003;3;;Rue du Freuche;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.833962;45.82218
+17408_0145_00004;4;;Rue du Freuche;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838599;45.819097
+17408_0145_00007;7;;Rue du Freuche;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838301;45.819531
+17408_0290_00006;6;;Impasse du Puits;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.829455;45.827213
+17408_0098_00025;25;;Route de Corme Royal;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.831003;45.791595
+17408_0035_00001;1;;Rue du Bois Clair;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.797451;45.811123
+17408_0150_00003;3;;Rue de Galant;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835632;45.801364
+17408_0150_00005;5;;Rue de Galant;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835632;45.801364
+17408_0040_00002;2;;Rue du Bois de l’Enclouse;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.84689;45.803981
+17408_0005_00002;2;;Impasse de l’Ancienne Mairie;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.822591;45.826665
+17408_0205_00001;1;;Rue du Logis de Montfabien;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.840677;45.809291
+17408_0205_00002;2;;Rue du Logis de Montfabien;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.840845;45.809814
+17408_0205_00003;3;;Rue du Logis de Montfabien;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.840701;45.809675
+17408_0205_00005;5;;Rue du Logis de Montfabien;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.840765;45.80987
+17408_0200_00003;3;;Impasse du Levis;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.810135;45.833907
+17408_0332_00007;7;;Rue des Tournesols;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.836959;45.805039
+17408_0332_00009;9;;Rue des Tournesols;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83673;45.805213
+17408_0332_00011;11;;Rue des Tournesols;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837534;45.804625
+17408_0135_00004;4;;Rue de la Fontaine;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.819072;45.81104
+17408_0315_00001;1;;Route de Royan;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.848907;45.804861
+17408_0095_00003;3;;Impasse des Combes;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.823963;45.803153
+17408_0095_00004;4;;Impasse des Combes;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.824937;45.803871
+17408_0095_00015;15;;Impasse des Combes;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.824658;45.803461
+17408_0355_00003;3;;Rue du Village;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.830154;45.827162
+17408_0145_00005;5;;Rue du Freuche;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.833962;45.82218
+17408_0055_00001;1;;Rue du Camelia;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.833576;45.818295
+17408_0055_00002;2;;Rue du Camelia;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.832829;45.818263
+17408_0290_00004;4;;Impasse du Puits;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.829635;45.827283
+17408_0098_00022;22;;Route de Corme Royal;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.831298;45.791899
+17408_0035_00003;3;;Rue du Bois Clair;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.797319;45.811362
+17408_0150_00001;1;;Rue de Galant;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835632;45.801364
+17408_0150_00007;7;;Rue de Galant;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83526;45.800974
+17408_0150_00009;9;;Rue de Galant;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835106;45.800921
+17408_0040_00004;4;;Rue du Bois de l’Enclouse;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.847383;45.803556
+17408_0040_00002_bis;2;bis;Rue du Bois de l’Enclouse;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.847201;45.803753
+17408_0305_00003;3;;Impasse du Rocher;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.813093;45.830471
+17408_0023_00001;1;;Route de Beurlay;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.811132;45.840078
+17408_0023_00003;3;;Route de Beurlay;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.817099;45.845517
+17408_0001_00005;5;;Rue des Abricotiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838115;45.807375
+17408_0075_00001;1;;Impasse du Chataignier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.834172;45.795961
+17408_0075_00003;3;;Impasse du Chataignier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.834629;45.796195
+17408_0075_00005;5;;Impasse du Chataignier;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.834917;45.796472
+17408_0235_00002;2;;Impasse des Mottes de Jeuzet;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.831439;45.799553
+17408_0315_00002;2;;Route de Royan;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.8491;45.80444
+17408_0315_00004;4;;Route de Royan;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.8492;45.804202
+17408_0315_00006;6;;Route de Royan;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.849324;45.803882
+17408_0292_00004;4;;Rue du Puits Commun;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.812293;45.830514
+17408_0292_00023;23;;Rue du Puits Commun;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.81128;45.830947
+17408_0095_00002;2;;Impasse des Combes;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.824478;45.803575
+17408_0095_00006;6;;Impasse des Combes;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.82517;45.804017
+17408_0185_00005;5;;Rue de Laurière;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.825844;45.815622
+17408_0355_00001;1;;Rue du Village;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.830402;45.827155
+17408_0320_00004;4;;Rue du Tilleul;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.812728;45.830467
+17408_0320_00005;5;;Rue du Tilleul;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.812662;45.830451
+17408_0145_00006;6;;Rue du Freuche;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838386;45.819491
+17408_0145_00004_bis;4;bis;Rue du Freuche;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837422;45.818186
+17408_0290_00001;1;;Impasse du Puits;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.829816;45.827197
+17408_0098_00003;3;;Route de Corme Royal;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.836702;45.793559
+17408_0098_00024;24;;Route de Corme Royal;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.831243;45.791833
+17408_0098_00026;26;;Route de Corme Royal;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.831025;45.791715
+17408_0035_00003_bis;3;bis;Rue du Bois Clair;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.795726;45.81293
+17408_0005_00006;6;;Impasse de l’Ancienne Mairie;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.823394;45.826572
+17408_0023_00005;5;;Route de Beurlay;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.817426;45.845892
+17408_0001_00003;3;;Rue des Abricotiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838278;45.807649
+17408_0001_00004;4;;Rue des Abricotiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83841;45.807659
+17408_0200_00001;1;;Impasse du Levis;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.809932;45.833642
+17408_0332_00002;2;;Rue des Tournesols;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.837293;45.804924
+17408_0332_00005;5;;Rue des Tournesols;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.836983;45.805021
+17408_0332_00006;6;;Rue des Tournesols;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83685;45.805241
+17408_0332_00008;8;;Rue des Tournesols;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.836711;45.805349
+17408_0292_00011;11;;Rue du Puits Commun;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.812221;45.830169
+17408_0292_00021;21;;Rue du Puits Commun;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.811329;45.830896
+17408_0095_00001;1;;Impasse des Combes;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.824967;45.803831
+17408_0095_00005;5;;Impasse des Combes;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.825378;45.804083
+17408_0095_00011;11;;Impasse des Combes;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.825278;45.803454
+17408_0335_00001;1;;Impasse du Vieux Four;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.84847;45.805065
+17408_0185_00007;7;;Rue de Laurière;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.826019;45.815834
+17408_0185_00009;9;;Rue de Laurière;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.830637;45.818578
+17408_0096_00002;2;;Rue des Combes;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.812889;45.830813
+17408_0060_00001;1;;Route des Carrieres;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.80803;45.840502
+17408_0060_00005;5;;Route des Carrieres;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.807267;45.840068
+17408_0240_00002;2;;Rue du Moulin;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.844789;45.809158
+17408_0240_00001_bis;1;bis;Rue du Moulin;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.844961;45.809108
+17408_0130_00001;1;;Rue de la Folie;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.850298;45.808963
+17408_0100_00006;6;;Rue de la Coudraie;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.849382;45.803659
+17408_0310_00001;1;;Rue de la Rousselie;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.845516;45.803233
+17408_0310_00003;3;;Rue de la Rousselie;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.845797;45.803033
+17408_0210_00001;1;;Rue de la Mare;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.810409;45.832651
+17408_0125_00003;3;;Rue des Figuiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839278;45.807535
+17408_0330_00001;1;;Chemin de la Tour de l'Isleau;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.831511;45.791557
+17408_0330_00002;2;;Chemin de la Tour de l'Isleau;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.831367;45.791559
+17408_0330_00004;4;;Chemin de la Tour de l'Isleau;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.836683;45.78623
+17408_0325_00003;3;;Impasse de la Tonnelle;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.836438;45.793414
+17408_0110_00002;2;;Route de la Croix Geoffroy;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.816205;45.807151
+17408_0060_00007;7;;Route des Carrieres;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.80684;45.840323
+17408_0096_00001;1;;Rue des Combes;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.81278;45.831131
+17408_0240_00001;1;;Rue du Moulin;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.845768;45.808874
+17408_0240_00003;3;;Rue du Moulin;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.844714;45.809283
+17408_0240_00004;4;;Rue du Moulin;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.844296;45.809505
+17408_0230_00003;3;;Rue des Mojhettes;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.847341;45.80457
+17408_0125_00015;15;;Rue des Figuiers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.83942;45.807617
+17408_0085_00001;1;;Rue de Chez Fragnau;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835343;45.802613
+17408_0162_00001;1;;Impasse des Grands Joncs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.823981;45.804679
+17408_0285_00003;3;;Rue des Pruniers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.838866;45.807533
+17408_0285_00004;4;;Rue des Pruniers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839054;45.807819
+17408_0110_00001;1;;Route de la Croix Geoffroy;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.814366;45.80722
+17408_0085_00002;2;;Rue de Chez Fragnau;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835593;45.802696
+17408_0085_00003;3;;Rue de Chez Fragnau;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835141;45.802488
+17408_0096_00003;3;;Rue des Combes;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.813202;45.831897
+17408_0310_00005;5;;Rue de la Rousselie;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.846203;45.802792
+17408_0310_00003_bis;3;bis;Rue de la Rousselie;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.846024;45.802874
+17408_0230_00001;1;;Rue des Mojhettes;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.847209;45.804527
+17408_0190_00008;8;;Allée des Lauriers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839609;45.808199
+17408_0285_00002;2;;Rue des Pruniers;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.839068;45.807714
+17408_0210_00003;3;;Rue de la Mare;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.81037;45.832776
+17408_0275_00001;1;;Impasse du Pre du Bourg;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.849484;45.804882
+17408_0245_00002;2;;Rue des Moulins de Jeuzet;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.830927;45.801344
+17408_0245_00004;4;;Rue des Moulins de Jeuzet;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.830977;45.801365
+17408_0245_00004_bis;4;bis;Rue des Moulins de Jeuzet;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.829797;45.799415
+17408_0325_00001;1;;Impasse de la Tonnelle;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.836418;45.793353
+17408_0115_00001;1;;Rue de la Cure;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.848166;45.805154
+17408_0085_00005;5;;Rue de Chez Fragnau;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.835108;45.802413
+17408_0162_00002;2;;Impasse des Grands Joncs;17250;17408;Saint-Sulpice-d'Arnoult;;;-0.823955;45.804882

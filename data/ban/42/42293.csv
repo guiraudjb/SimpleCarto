@@ -1,0 +1,588 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+42293_0012_00044;44;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.28087;46.004516
+42293_0012_00062;62;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.28064;46.004598
+42293_0012_00070;70;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.280528;46.004599
+42293_0012_00082;82;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.28037;46.004605
+42293_0012_00187;187;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.279004;46.00463
+42293_0143_00205;205;;Impasse Gouttamond;42630;42293;Saint-Victor-sur-Rhins;;;4.27484;46.005677
+42293_0107_01528;1528;;Chemin de Pericard;42630;42293;Saint-Victor-sur-Rhins;;;4.301843;45.997596
+42293_0107_01948;1948;;Chemin de Pericard;42630;42293;Saint-Victor-sur-Rhins;;;4.301669;46.001123
+42293_0107_02692;2692;;Chemin de Pericard;42630;42293;Saint-Victor-sur-Rhins;;;4.309707;46.002811
+42293_0010_00478;478;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.286195;46.002628
+42293_0010_00780;780;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.28818;46.000621
+42293_0007_00084;84;;Rue de la Gare;42630;42293;Saint-Victor-sur-Rhins;;;4.280657;46.003656
+42293_0007_00122;122;;Rue de la Gare;42630;42293;Saint-Victor-sur-Rhins;;;4.280479;46.003313
+42293_0007_00453;453;;Rue de la Gare;42630;42293;Saint-Victor-sur-Rhins;;;4.281165;46.002602
+42293_0156_00281;281;;Chemin du Tacot;42630;42293;Saint-Victor-sur-Rhins;;;4.266888;46.007981
+42293_0156_00361;361;;Chemin du Tacot;42630;42293;Saint-Victor-sur-Rhins;;;4.266411;46.008642
+42293_0004_00064;64;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.282968;46.004736
+42293_0004_00090;90;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.283288;46.004799
+42293_0004_00110;110;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.28354;46.004864
+42293_0117_00090;90;;Chemin du Maillet;42630;42293;Saint-Victor-sur-Rhins;;;4.276951;46.002724
+42293_0117_00133;133;;Chemin du Maillet;42630;42293;Saint-Victor-sur-Rhins;;;4.276909;46.00246
+42293_0117_00196;196;;Chemin du Maillet;42630;42293;Saint-Victor-sur-Rhins;;;4.277229;46.002508
+42293_0009_00015;15;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.281517;46.004359
+42293_0009_00029;29;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.281658;46.004446
+42293_0009_00057;57;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.281954;46.004586
+42293_0009_00083;83;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.282191;46.004743
+42293_0009_00121;121;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.282488;46.005017
+42293_0009_00290;290;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.283422;46.006385
+42293_0142_00050;50;;Impasse du Gonin;42630;42293;Saint-Victor-sur-Rhins;;;4.280357;46.001494
+42293_0142_00137_bis;137;bis;Impasse du Gonin;42630;42293;Saint-Victor-sur-Rhins;;;4.27935;46.00114
+42293_0017_00645;645;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.286695;45.999958
+42293_0012_00012;12;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.281111;46.0044
+42293_0012_00045;45;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.28077;46.004413
+42293_0012_00048;48;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.280825;46.004536
+42293_0012_00238;238;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.278359;46.00478
+42293_0012_00450;450;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.27562;46.004692
+42293_0143_00152;152;;Impasse Gouttamond;42630;42293;Saint-Victor-sur-Rhins;;;4.274151;46.005667
+42293_0010_00107;107;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.283782;46.005439
+42293_0010_00150;150;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.283826;46.005037
+42293_0010_00247;247;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.284445;46.004283
+42293_0010_00596;596;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.287014;46.002062
+42293_0010_00747;747;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.288015;46.000907
+42293_0010_00892;892;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.28895;45.999775
+42293_0156_00123;123;;Chemin du Tacot;42630;42293;Saint-Victor-sur-Rhins;;;4.268428;46.007046
+42293_0004_00042;42;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.282681;46.004702
+42293_0004_00146;146;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.283888;46.0047
+42293_0009_00063;63;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.282023;46.004609
+42293_0009_00099;99;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.282313;46.004857
+42293_0009_00109;109;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.282386;46.004926
+42293_0009_00217;217;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.282914;46.005819
+42293_0142_00015;15;;Impasse du Gonin;42630;42293;Saint-Victor-sur-Rhins;;;4.280798;46.001612
+42293_0142_00172;172;;Impasse du Gonin;42630;42293;Saint-Victor-sur-Rhins;;;4.279249;46.001581
+42293_0013_00036;36;;Chemin des Goines;42630;42293;Saint-Victor-sur-Rhins;;;4.279066;46.004756
+42293_0013_00070;70;;Chemin des Goines;42630;42293;Saint-Victor-sur-Rhins;;;4.278523;46.004931
+42293_0013_00260;260;;Chemin des Goines;42630;42293;Saint-Victor-sur-Rhins;;;4.276878;46.005936
+42293_0126_00044;44;;Route de Bourg de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.271559;46.006107
+42293_0116_00281;281;;Chemin des Martines;42630;42293;Saint-Victor-sur-Rhins;;;4.277647;46.002051
+42293_0116_00327;327;;Chemin des Martines;42630;42293;Saint-Victor-sur-Rhins;;;4.277521;46.001653
+42293_0116_01154;1154;;Chemin des Martines;42630;42293;Saint-Victor-sur-Rhins;;;4.276449;45.994457
+42293_0095_00091;91;;Chemin du Signard;42630;42293;Saint-Victor-sur-Rhins;;;4.309996;46.003627
+42293_0161_00125;125;;Rue du Moulin Blanc;42630;42293;Saint-Victor-sur-Rhins;;;4.293707;45.992156
+42293_0161_00262;262;;Rue du Moulin Blanc;42630;42293;Saint-Victor-sur-Rhins;;;4.294698;45.991035
+42293_0114_00273;273;;Chemin de la Sarre;42630;42293;Saint-Victor-sur-Rhins;;;4.282675;46.010501
+42293_0006_00027;27;;Rue de l'Eglise;42630;42293;Saint-Victor-sur-Rhins;;;4.283243;46.005113
+42293_0075_00188;188;;Impasse du Lavoir;42630;42293;Saint-Victor-sur-Rhins;;;4.282191;46.005996
+42293_0144_00082;82;;Impasse des Jardins;42630;42293;Saint-Victor-sur-Rhins;;;4.266627;46.005706
+42293_0011_00069;69;;Rue de la République;42630;42293;Saint-Victor-sur-Rhins;;;4.282561;46.004117
+42293_0115_00129;129;;Chemin de Cherbut;42630;42293;Saint-Victor-sur-Rhins;;;4.281041;46.001533
+42293_0115_00850;850;;Chemin de Cherbut;42630;42293;Saint-Victor-sur-Rhins;;;4.286383;45.997719
+42293_0147_00083;83;;Impasse des Mesanges;42630;42293;Saint-Victor-sur-Rhins;;;4.28999;45.999507
+42293_0136_00051;51;;Chemin du Domaine;42630;42293;Saint-Victor-sur-Rhins;;;4.260155;46.003857
+42293_0112_00428;428;;Chemin de Montmartin;42630;42293;Saint-Victor-sur-Rhins;;;4.292196;46.01391
+42293_0160_00519;519;;Chemin des Viers;42630;42293;Saint-Victor-sur-Rhins;;;4.264147;46.004565
+42293_0160_02255;2255;;Chemin des Viers;42630;42293;Saint-Victor-sur-Rhins;;;4.243612;45.999575
+42293_0014_00125;125;;Impasse du Rhins;42630;42293;Saint-Victor-sur-Rhins;;;4.281645;46.003835
+42293_0150_00051;51;;Impasse des Prairies;42630;42293;Saint-Victor-sur-Rhins;;;4.28013;46.001874
+42293_0138_00021;21;;Impasse des Ecureuils;42630;42293;Saint-Victor-sur-Rhins;;;4.291909;45.997671
+42293_0138_00041;41;;Impasse des Ecureuils;42630;42293;Saint-Victor-sur-Rhins;;;4.292074;45.997814
+42293_0134_00055;55;;Impasse Clair Matin;42630;42293;Saint-Victor-sur-Rhins;;;4.276445;46.004874
+42293_0076_00030;30;;Impasse du Viaduc;42630;42293;Saint-Victor-sur-Rhins;;;4.279752;46.003681
+42293_0149_00147;147;;Chemin Pierre de Charlemagne;42630;42293;Saint-Victor-sur-Rhins;;;4.293042;46.008487
+42293_0155_00045;45;;Impasse des Residences;42630;42293;Saint-Victor-sur-Rhins;;;4.290432;45.998634
+42293_0155_00017_ter;17;ter;Impasse des Residences;42630;42293;Saint-Victor-sur-Rhins;;;4.290344;45.998962
+42293_0155_00039_ter;39;ter;Impasse des Residences;42630;42293;Saint-Victor-sur-Rhins;;;4.290511;45.998883
+42293_0125_00165;165;;Impasse du Bois Dieu;42630;42293;Saint-Victor-sur-Rhins;;;4.284623;46.005542
+42293_0141_00080;80;;Impasse Gai Sejour;42630;42293;Saint-Victor-sur-Rhins;;;4.288722;45.999333
+42293_0121_00003;3;;Impasse Bellevue;42630;42293;Saint-Victor-sur-Rhins;;;4.287552;46.001562
+42293_0121_00166;166;;Impasse Bellevue;42630;42293;Saint-Victor-sur-Rhins;;;4.289514;46.001239
+42293_0132_00064;64;;Impasse des Cheminots;42630;42293;Saint-Victor-sur-Rhins;;;4.283292;46.001941
+42293_0001_02203;2203;;Route d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.299171;45.989768
+42293_0124_00065;65;;Route de la Blancherie;42630;42293;Saint-Victor-sur-Rhins;;;4.271026;46.00548
+42293_0124_03188;3188;;Route de la Blancherie;42630;42293;Saint-Victor-sur-Rhins;;;4.242914;45.999572
+42293_0126_01463;1463;;Route de Bourg de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.271556;46.016724
+42293_0116_00131;131;;Chemin des Martines;42630;42293;Saint-Victor-sur-Rhins;;;4.278812;46.003066
+42293_0161_00144;144;;Rue du Moulin Blanc;42630;42293;Saint-Victor-sur-Rhins;;;4.293718;45.991862
+42293_0161_00280;280;;Rue du Moulin Blanc;42630;42293;Saint-Victor-sur-Rhins;;;4.294905;45.990948
+42293_0130_00014;14;;Impasse Chancey;42630;42293;Saint-Victor-sur-Rhins;;;4.267528;46.005356
+42293_0114_00085;85;;Chemin de la Sarre;42630;42293;Saint-Victor-sur-Rhins;;;4.284121;46.009304
+42293_0114_00197;197;;Chemin de la Sarre;42630;42293;Saint-Victor-sur-Rhins;;;4.283497;46.010149
+42293_0100_00056;56;;Impasse Eugene Fouilland;42630;42293;Saint-Victor-sur-Rhins;;;4.28133;46.002129
+42293_0100_00080;80;;Impasse Eugene Fouilland;42630;42293;Saint-Victor-sur-Rhins;;;4.28159;46.002021
+42293_0100_00156;156;;Impasse Eugene Fouilland;42630;42293;Saint-Victor-sur-Rhins;;;4.282054;46.001603
+42293_0006_00017;17;;Rue de l'Eglise;42630;42293;Saint-Victor-sur-Rhins;;;4.283239;46.005025
+42293_0006_00087;87;;Rue de l'Eglise;42630;42293;Saint-Victor-sur-Rhins;;;4.28347;46.005634
+42293_0077_00670;670;;Rue du Moulin;42630;42293;Saint-Victor-sur-Rhins;;;4.272345;46.003376
+42293_0152_00089;89;;Impasse des 4 Vents;42630;42293;Saint-Victor-sur-Rhins;;;4.277948;46.005944
+42293_0145_00094;94;;Chemin des Lauriers;42630;42293;Saint-Victor-sur-Rhins;;;4.291517;45.998558
+42293_0135_00270;270;;Impasse Desvernay;42630;42293;Saint-Victor-sur-Rhins;;;4.280743;46.018114
+42293_0135_00326;326;;Impasse Desvernay;42630;42293;Saint-Victor-sur-Rhins;;;4.281433;46.017957
+42293_0127_00002;2;;Impasse du Breteau;42630;42293;Saint-Victor-sur-Rhins;;;4.281289;46.009627
+42293_0127_00083;83;;Impasse du Breteau;42630;42293;Saint-Victor-sur-Rhins;;;4.28222;46.009372
+42293_0011_00024;24;;Rue de la République;42630;42293;Saint-Victor-sur-Rhins;;;4.282159;46.004398
+42293_0115_00252;252;;Chemin de Cherbut;42630;42293;Saint-Victor-sur-Rhins;;;4.281281;46.000436
+42293_0115_00638;638;;Chemin de Cherbut;42630;42293;Saint-Victor-sur-Rhins;;;4.285042;45.999339
+42293_0084_00056;56;;Rue des Coteaux du Soleil;42630;42293;Saint-Victor-sur-Rhins;;;4.288472;46.000951
+42293_0147_00115;115;;Impasse des Mesanges;42630;42293;Saint-Victor-sur-Rhins;;;4.290388;45.999443
+42293_0112_00664;664;;Chemin de Montmartin;42630;42293;Saint-Victor-sur-Rhins;;;4.293967;46.015583
+42293_0157_00050;50;;Impasse du Treuil;42630;42293;Saint-Victor-sur-Rhins;;;4.268768;46.005465
+42293_0157_00059;59;;Impasse du Treuil;42630;42293;Saint-Victor-sur-Rhins;;;4.268882;46.005502
+42293_0160_00051;51;;Chemin des Viers;42630;42293;Saint-Victor-sur-Rhins;;;4.269807;46.005579
+42293_0160_00140;140;;Chemin des Viers;42630;42293;Saint-Victor-sur-Rhins;;;4.268685;46.005698
+42293_0160_00320;320;;Chemin des Viers;42630;42293;Saint-Victor-sur-Rhins;;;4.266599;46.005051
+42293_0106_00556;556;;Chemin des Oliviers;42630;42293;Saint-Victor-sur-Rhins;;;4.289424;46.006518
+42293_0153_00089;89;;Chemin des Randonneurs;42630;42293;Saint-Victor-sur-Rhins;;;4.273283;46.005401
+42293_0153_00148;148;;Chemin des Randonneurs;42630;42293;Saint-Victor-sur-Rhins;;;4.274016;46.005224
+42293_0150_00082;82;;Impasse des Prairies;42630;42293;Saint-Victor-sur-Rhins;;;4.280006;46.002147
+42293_0159_00127;127;;Impasse du Val;42630;42293;Saint-Victor-sur-Rhins;;;4.281111;46.00544
+42293_0159_00148;148;;Impasse du Val;42630;42293;Saint-Victor-sur-Rhins;;;4.281267;46.005604
+42293_0133_00036;36;;Impasse des Chenes;42630;42293;Saint-Victor-sur-Rhins;;;4.267631;46.006182
+42293_0134_00027;27;;Impasse Clair Matin;42630;42293;Saint-Victor-sur-Rhins;;;4.276089;46.004807
+42293_0155_00017_bis;17;bis;Impasse des Residences;42630;42293;Saint-Victor-sur-Rhins;;;4.290297;45.998917
+42293_0155_00011_bis;11;bis;Impasse des Residences;42630;42293;Saint-Victor-sur-Rhins;;;4.290073;45.998987
+42293_0125_00233;233;;Impasse du Bois Dieu;42630;42293;Saint-Victor-sur-Rhins;;;4.284691;46.006152
+42293_0137_00022;22;;Impasse de l’Ecluse;42630;42293;Saint-Victor-sur-Rhins;;;4.280712;46.004729
+42293_0141_00222;222;;Impasse Gai Sejour;42630;42293;Saint-Victor-sur-Rhins;;;4.287014;45.999795
+42293_0121_00222;222;;Impasse Bellevue;42630;42293;Saint-Victor-sur-Rhins;;;4.290208;46.00117
+42293_0121_00279;279;;Impasse Bellevue;42630;42293;Saint-Victor-sur-Rhins;;;4.290688;46.000837
+42293_0016_00150;150;;Chemin de la Tronchee;42630;42293;Saint-Victor-sur-Rhins;;;4.291766;45.99748
+42293_0132_00184;184;;Impasse des Cheminots;42630;42293;Saint-Victor-sur-Rhins;;;4.284493;46.001284
+42293_0102_00684;684;;Chemin de la Bachasse;42630;42293;Saint-Victor-sur-Rhins;;;4.287516;46.015158
+42293_0124_00175;175;;Route de la Blancherie;42630;42293;Saint-Victor-sur-Rhins;;;4.269418;46.004878
+42293_0124_00683;683;;Route de la Blancherie;42630;42293;Saint-Victor-sur-Rhins;;;4.266676;46.001627
+42293_0124_02588;2588;;Route de la Blancherie;42630;42293;Saint-Victor-sur-Rhins;;;4.249867;45.997574
+42293_0017_00877;877;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.289076;45.998756
+42293_0012_00002;2;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.28131;46.004285
+42293_0012_00106;106;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.280054;46.00463
+42293_0012_00132;132;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.279721;46.004657
+42293_0143_00263;263;;Impasse Gouttamond;42630;42293;Saint-Victor-sur-Rhins;;;4.275575;46.005545
+42293_0107_01416;1416;;Chemin de Pericard;42630;42293;Saint-Victor-sur-Rhins;;;4.301208;45.996685
+42293_0107_01976;1976;;Chemin de Pericard;42630;42293;Saint-Victor-sur-Rhins;;;4.301831;46.00135
+42293_0010_00036;36;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.283404;46.006015
+42293_0010_00096;96;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.283646;46.005506
+42293_0010_00698;698;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.2876;46.001244
+42293_0010_00824;824;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.288477;46.000282
+42293_0120_02247;2247;;Chemin de Beau Cote;42630;42293;Saint-Victor-sur-Rhins;;;4.307478;46.00934
+42293_0120_02316;2316;;Chemin de Beau Cote;42630;42293;Saint-Victor-sur-Rhins;;;4.308208;46.009702
+42293_0007_00075;75;;Rue de la Gare;42630;42293;Saint-Victor-sur-Rhins;;;4.28083;46.003678
+42293_0007_00153;153;;Rue de la Gare;42630;42293;Saint-Victor-sur-Rhins;;;4.280819;46.003115
+42293_0004_00014;14;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.282327;46.004656
+42293_0004_00032;32;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.282558;46.004685
+42293_0117_00044;44;;Chemin du Maillet;42630;42293;Saint-Victor-sur-Rhins;;;4.277668;46.002845
+42293_0117_00156;156;;Chemin du Maillet;42630;42293;Saint-Victor-sur-Rhins;;;4.276993;46.002239
+42293_0009_00134;134;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.282609;46.005101
+42293_0009_00163;163;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.282696;46.005357
+42293_0009_00297;297;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.283356;46.006446
+42293_0009_00328;328;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.283414;46.006729
+42293_0142_00026;26;;Impasse du Gonin;42630;42293;Saint-Victor-sur-Rhins;;;4.280533;46.001593
+42293_0142_00077;77;;Impasse du Gonin;42630;42293;Saint-Victor-sur-Rhins;;;4.280148;46.001262
+42293_0013_00156;156;;Chemin des Goines;42630;42293;Saint-Victor-sur-Rhins;;;4.277754;46.005288
+42293_0116_00239;239;;Chemin des Martines;42630;42293;Saint-Victor-sur-Rhins;;;4.277873;46.002377
+42293_0116_00412;412;;Chemin des Martines;42630;42293;Saint-Victor-sur-Rhins;;;4.277286;46.000902
+42293_0161_00118;118;;Rue du Moulin Blanc;42630;42293;Saint-Victor-sur-Rhins;;;4.293616;45.992073
+42293_0161_00131;131;;Rue du Moulin Blanc;42630;42293;Saint-Victor-sur-Rhins;;;4.29375;45.992
+42293_0012_00010;10;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.281111;46.0044
+42293_0012_00084;84;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.280348;46.004607
+42293_0012_00105;105;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.280063;46.004543
+42293_0012_00120;120;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.27988;46.004642
+42293_0012_00141;141;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.279599;46.004602
+42293_0012_00230;230;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.278639;46.004763
+42293_0012_00234;234;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.27851;46.00478
+42293_0012_01651;1651;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.27674;46.0125
+42293_0143_00059;59;;Impasse Gouttamond;42630;42293;Saint-Victor-sur-Rhins;;;4.273273;46.006145
+42293_0143_00267;267;;Impasse Gouttamond;42630;42293;Saint-Victor-sur-Rhins;;;4.275647;46.005512
+42293_0107_00873;873;;Chemin de Pericard;42630;42293;Saint-Victor-sur-Rhins;;;4.298295;45.992356
+42293_0107_02010;2010;;Chemin de Pericard;42630;42293;Saint-Victor-sur-Rhins;;;4.301944;46.001648
+42293_0107_02142;2142;;Chemin de Pericard;42630;42293;Saint-Victor-sur-Rhins;;;4.302927;46.002561
+42293_0010_00054;54;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.283442;46.005855
+42293_0010_00162;162;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.283871;46.004932
+42293_0010_00400;400;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.285368;46.003068
+42293_0010_00512;512;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.286639;46.002626
+42293_0010_00646;646;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.287251;46.001642
+42293_0010_01062;1062;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.290055;45.998453
+42293_0120_01451;1451;;Chemin de Beau Cote;42630;42293;Saint-Victor-sur-Rhins;;;4.299563;46.012358
+42293_0007_00099;99;;Rue de la Gare;42630;42293;Saint-Victor-sur-Rhins;;;4.280636;46.003507
+42293_0156_00203;203;;Chemin du Tacot;42630;42293;Saint-Victor-sur-Rhins;;;4.267558;46.007445
+42293_0004_00010;10;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.28227;46.004654
+42293_0004_00023;23;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.282431;46.004708
+42293_0004_00058;58;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.282886;46.004727
+42293_0117_00173;173;;Chemin du Maillet;42630;42293;Saint-Victor-sur-Rhins;;;4.277137;46.002515
+42293_0117_00209;209;;Chemin du Maillet;42630;42293;Saint-Victor-sur-Rhins;;;4.277204;46.002619
+42293_0009_00277;277;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.283307;46.006277
+42293_0009_00286;286;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.283412;46.006346
+42293_0142_00097;97;;Impasse du Gonin;42630;42293;Saint-Victor-sur-Rhins;;;4.279908;46.001179
+42293_0142_00117;117;;Impasse du Gonin;42630;42293;Saint-Victor-sur-Rhins;;;4.279745;46.001136
+42293_0142_00153;153;;Impasse du Gonin;42630;42293;Saint-Victor-sur-Rhins;;;4.279322;46.00135
+42293_0013_00052;52;;Chemin des Goines;42630;42293;Saint-Victor-sur-Rhins;;;4.278882;46.004815
+42293_0126_00593;593;;Route de Bourg de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.267023;46.009623
+42293_0116_00175;175;;Chemin des Martines;42630;42293;Saint-Victor-sur-Rhins;;;4.2784;46.002812
+42293_0161_00207;207;;Rue du Moulin Blanc;42630;42293;Saint-Victor-sur-Rhins;;;4.294295;45.991462
+42293_0123_00010;10;;Impasse du Bief;42630;42293;Saint-Victor-sur-Rhins;;;4.288787;45.998965
+42293_0123_00050;50;;Impasse du Bief;42630;42293;Saint-Victor-sur-Rhins;;;4.289185;45.998888
+42293_0077_00254;254;;Rue du Moulin;42630;42293;Saint-Victor-sur-Rhins;;;4.277627;46.003975
+42293_0077_00274;274;;Rue du Moulin;42630;42293;Saint-Victor-sur-Rhins;;;4.277373;46.003939
+42293_0096_00249;249;;Chemin du Moulin du Vierre;42630;42293;Saint-Victor-sur-Rhins;;;4.265017;46.011064
+42293_0145_00011;11;;Chemin des Lauriers;42630;42293;Saint-Victor-sur-Rhins;;;4.29138;45.997839
+42293_0075_00312;312;;Impasse du Lavoir;42630;42293;Saint-Victor-sur-Rhins;;;4.282728;46.007053
+42293_0075_00388;388;;Impasse du Lavoir;42630;42293;Saint-Victor-sur-Rhins;;;4.283158;46.007659
+42293_0127_00041;41;;Impasse du Breteau;42630;42293;Saint-Victor-sur-Rhins;;;4.281754;46.009488
+42293_0115_00097;97;;Chemin de Cherbut;42630;42293;Saint-Victor-sur-Rhins;;;4.280894;46.001805
+42293_0115_00710;710;;Chemin de Cherbut;42630;42293;Saint-Victor-sur-Rhins;;;4.285633;45.998859
+42293_0084_00110;110;;Rue des Coteaux du Soleil;42630;42293;Saint-Victor-sur-Rhins;;;4.289076;46.000703
+42293_0084_00246;246;;Rue des Coteaux du Soleil;42630;42293;Saint-Victor-sur-Rhins;;;4.289061;45.999906
+42293_0147_00245;245;;Impasse des Mesanges;42630;42293;Saint-Victor-sur-Rhins;;;4.290713;45.999411
+42293_0160_00205;205;;Chemin des Viers;42630;42293;Saint-Victor-sur-Rhins;;;4.268033;46.005337
+42293_0106_00408;408;;Chemin des Oliviers;42630;42293;Saint-Victor-sur-Rhins;;;4.288249;46.005493
+42293_0129_00116;116;;Impasse des Champs;42630;42293;Saint-Victor-sur-Rhins;;;4.283392;45.998937
+42293_0158_00049;49;;Chemin de la Tuilerie;42630;42293;Saint-Victor-sur-Rhins;;;4.281707;46.010172
+42293_0158_00154;154;;Chemin de la Tuilerie;42630;42293;Saint-Victor-sur-Rhins;;;4.280919;46.009411
+42293_0159_00121;121;;Impasse du Val;42630;42293;Saint-Victor-sur-Rhins;;;4.281083;46.005392
+42293_0133_00054;54;;Impasse des Chenes;42630;42293;Saint-Victor-sur-Rhins;;;4.267429;46.006079
+42293_0151_00012;12;;Impasse des Pres;42630;42293;Saint-Victor-sur-Rhins;;;4.279671;46.002756
+42293_0076_00072;72;;Impasse du Viaduc;42630;42293;Saint-Victor-sur-Rhins;;;4.279328;46.003446
+42293_0155_00017;17;;Impasse des Residences;42630;42293;Saint-Victor-sur-Rhins;;;4.290154;45.998796
+42293_0141_00134;134;;Impasse Gai Sejour;42630;42293;Saint-Victor-sur-Rhins;;;4.288097;45.999517
+42293_0141_00186;186;;Impasse Gai Sejour;42630;42293;Saint-Victor-sur-Rhins;;;4.287455;45.999683
+42293_0161_00320;320;;Rue du Moulin Blanc;42630;42293;Saint-Victor-sur-Rhins;;;4.295278;45.990707
+42293_0161_00342;342;;Rue du Moulin Blanc;42630;42293;Saint-Victor-sur-Rhins;;;4.29558;45.990646
+42293_0130_00109;109;;Impasse Chancey;42630;42293;Saint-Victor-sur-Rhins;;;4.268105;46.006105
+42293_0122_00114;114;;Chemin des Berthieres;42630;42293;Saint-Victor-sur-Rhins;;;4.275778;46.014446
+42293_0122_00215;215;;Chemin des Berthieres;42630;42293;Saint-Victor-sur-Rhins;;;4.274715;46.01455
+42293_0123_00036;36;;Impasse du Bief;42630;42293;Saint-Victor-sur-Rhins;;;4.289035;45.998963
+42293_0100_00026;26;;Impasse Eugene Fouilland;42630;42293;Saint-Victor-sur-Rhins;;;4.280982;46.002244
+42293_0100_00198;198;;Impasse Eugene Fouilland;42630;42293;Saint-Victor-sur-Rhins;;;4.282215;46.001313
+42293_0077_00071;71;;Rue du Moulin;42630;42293;Saint-Victor-sur-Rhins;;;4.279913;46.003902
+42293_0077_00138;138;;Rue du Moulin;42630;42293;Saint-Victor-sur-Rhins;;;4.279109;46.004126
+42293_0096_00207;207;;Chemin du Moulin du Vierre;42630;42293;Saint-Victor-sur-Rhins;;;4.264958;46.011393
+42293_0075_00142;142;;Impasse du Lavoir;42630;42293;Saint-Victor-sur-Rhins;;;4.281985;46.005609
+42293_0075_00240;240;;Impasse du Lavoir;42630;42293;Saint-Victor-sur-Rhins;;;4.282424;46.006443
+42293_0075_00364;364;;Impasse du Lavoir;42630;42293;Saint-Victor-sur-Rhins;;;4.283033;46.007463
+42293_0115_00163;163;;Chemin de Cherbut;42630;42293;Saint-Victor-sur-Rhins;;;4.281167;46.001236
+42293_0084_00144;144;;Rue des Coteaux du Soleil;42630;42293;Saint-Victor-sur-Rhins;;;4.289463;46.00057
+42293_0084_00156;156;;Rue des Coteaux du Soleil;42630;42293;Saint-Victor-sur-Rhins;;;4.28955;46.000502
+42293_0084_00199;199;;Rue des Coteaux du Soleil;42630;42293;Saint-Victor-sur-Rhins;;;4.289586;46.000136
+42293_0157_00037;37;;Impasse du Treuil;42630;42293;Saint-Victor-sur-Rhins;;;4.268603;46.005452
+42293_0160_00267;267;;Chemin des Viers;42630;42293;Saint-Victor-sur-Rhins;;;4.267267;46.005178
+42293_0106_00096;96;;Chemin des Oliviers;42630;42293;Saint-Victor-sur-Rhins;;;4.285932;46.003317
+42293_0106_00749;749;;Chemin des Oliviers;42630;42293;Saint-Victor-sur-Rhins;;;4.291289;46.007677
+42293_0106_01804;1804;;Chemin des Oliviers;42630;42293;Saint-Victor-sur-Rhins;;;4.300988;46.002758
+42293_0129_00046;46;;Impasse des Champs;42630;42293;Saint-Victor-sur-Rhins;;;4.284003;45.999228
+42293_0008_01545;1545;;Chemin des Gris;42630;42293;Saint-Victor-sur-Rhins;;;4.266746;45.991132
+42293_0158_00190;190;;Chemin de la Tuilerie;42630;42293;Saint-Victor-sur-Rhins;;;4.28057;46.009197
+42293_0153_00032;32;;Chemin des Randonneurs;42630;42293;Saint-Victor-sur-Rhins;;;4.272554;46.005504
+42293_0159_00110;110;;Impasse du Val;42630;42293;Saint-Victor-sur-Rhins;;;4.281129;46.005281
+42293_0128_00022;22;;Impasse du Buffet;42630;42293;Saint-Victor-sur-Rhins;;;4.280002;46.003538
+42293_0128_00041;41;;Impasse du Buffet;42630;42293;Saint-Victor-sur-Rhins;;;4.28002;46.003414
+42293_0134_00077;77;;Impasse Clair Matin;42630;42293;Saint-Victor-sur-Rhins;;;4.276734;46.004889
+42293_0151_00044;44;;Impasse des Pres;42630;42293;Saint-Victor-sur-Rhins;;;4.279387;46.00254
+42293_0149_00200;200;;Chemin Pierre de Charlemagne;42630;42293;Saint-Victor-sur-Rhins;;;4.293666;46.008395
+42293_0125_00087;87;;Impasse du Bois Dieu;42630;42293;Saint-Victor-sur-Rhins;;;4.284782;46.004846
+42293_0016_00029;29;;Chemin de la Tronchee;42630;42293;Saint-Victor-sur-Rhins;;;4.29057;45.998177
+42293_0148_00296;296;;Impasse de Monturger;42630;42293;Saint-Victor-sur-Rhins;;;4.273626;45.998222
+42293_0121_00379;379;;Impasse Bellevue;42630;42293;Saint-Victor-sur-Rhins;;;4.290268;46.000007
+42293_0118_00286;286;;Chemin du Saunier;42630;42293;Saint-Victor-sur-Rhins;;;4.281535;45.996943
+42293_0146_00040;40;;Impasse des Maisons Vieilles;42630;42293;Saint-Victor-sur-Rhins;;;4.271177;46.003021
+42293_0139_00209;209;;Impasse de l’Etang;42630;42293;Saint-Victor-sur-Rhins;;;4.266969;46.004001
+42293_0017_00018;18;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.281544;46.004136
+42293_0017_00090;90;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.282348;46.003808
+42293_0017_00093;93;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.282418;46.003841
+42293_0017_00355;355;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.284904;46.002236
+42293_0017_00437;437;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.285508;46.001633
+42293_0017_00459;459;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.285687;46.00146
+42293_0017_00591;591;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.286312;46.000363
+42293_0017_00603;603;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.286392;46.000271
+42293_0017_00623;623;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.286518;46.000112
+42293_0012_00136;136;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.27968;46.004664
+42293_0012_02658;2658;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.282625;46.019849
+42293_0143_00108;108;;Impasse Gouttamond;42630;42293;Saint-Victor-sur-Rhins;;;4.273579;46.005734
+42293_0107_02462;2462;;Chemin de Pericard;42630;42293;Saint-Victor-sur-Rhins;;;4.306762;46.003074
+42293_0010_00627;627;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.287191;46.001817
+42293_0010_00794;794;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.288271;46.000514
+42293_0010_00940;940;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.289295;45.999411
+42293_0007_00011;11;;Rue de la Gare;42630;42293;Saint-Victor-sur-Rhins;;;4.281275;46.004167
+42293_0004_00060;60;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.282918;46.004731
+42293_0017_00036;36;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.281743;46.004045
+42293_0017_00058;58;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.28199;46.003951
+42293_0017_00150;150;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.282996;46.00352
+42293_0017_00152;152;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.283025;46.003511
+42293_0017_00185;185;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.283439;46.003398
+42293_0017_00235;235;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.283924;46.003078
+42293_0017_00457;457;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.285661;46.001484
+42293_0017_00555;555;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.286117;46.000653
+42293_0012_00076;76;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.280447;46.004613
+42293_0012_00089;89;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.280264;46.004535
+42293_0012_00116;116;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.279934;46.004638
+42293_0012_00228;228;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.278695;46.004763
+42293_0107_02007;2007;;Chemin de Pericard;42630;42293;Saint-Victor-sur-Rhins;;;4.301685;46.001629
+42293_0010_00053;53;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.283487;46.005867
+42293_0010_00506;506;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.286565;46.002637
+42293_0120_01750;1750;;Chemin de Beau Cote;42630;42293;Saint-Victor-sur-Rhins;;;4.302312;46.010638
+42293_0007_00095;95;;Rue de la Gare;42630;42293;Saint-Victor-sur-Rhins;;;4.280669;46.003539
+42293_0004_00096;96;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.283365;46.004817
+42293_0117_00002;2;;Chemin du Maillet;42630;42293;Saint-Victor-sur-Rhins;;;4.278206;46.002826
+42293_0013_00068;68;;Chemin des Goines;42630;42293;Saint-Victor-sur-Rhins;;;4.278581;46.004924
+42293_0114_00235;235;;Chemin de la Sarre;42630;42293;Saint-Victor-sur-Rhins;;;4.283089;46.010337
+42293_0100_00204;204;;Impasse Eugene Fouilland;42630;42293;Saint-Victor-sur-Rhins;;;4.28221;46.001257
+42293_0077_00256;256;;Rue du Moulin;42630;42293;Saint-Victor-sur-Rhins;;;4.277605;46.003971
+42293_0096_00233;233;;Chemin du Moulin du Vierre;42630;42293;Saint-Victor-sur-Rhins;;;4.265132;46.011187
+42293_0117_00123;123;;Chemin du Maillet;42630;42293;Saint-Victor-sur-Rhins;;;4.27688;46.002548
+42293_0117_00202;202;;Chemin du Maillet;42630;42293;Saint-Victor-sur-Rhins;;;4.277282;46.002572
+42293_0009_00141;141;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.282579;46.005175
+42293_0142_00098;98;;Impasse du Gonin;42630;42293;Saint-Victor-sur-Rhins;;;4.279703;46.001219
+42293_0116_00322;322;;Chemin des Martines;42630;42293;Saint-Victor-sur-Rhins;;;4.277386;46.00171
+42293_0161_00168;168;;Rue du Moulin Blanc;42630;42293;Saint-Victor-sur-Rhins;;;4.293911;45.991686
+42293_0130_00077;77;;Impasse Chancey;42630;42293;Saint-Victor-sur-Rhins;;;4.267856;46.00587
+42293_0123_00026;26;;Impasse du Bief;42630;42293;Saint-Victor-sur-Rhins;;;4.288931;45.999011
+42293_0114_00045;45;;Chemin de la Sarre;42630;42293;Saint-Victor-sur-Rhins;;;4.284036;46.00887
+42293_0100_00036;36;;Impasse Eugene Fouilland;42630;42293;Saint-Victor-sur-Rhins;;;4.2811;46.00221
+42293_0100_00150;150;;Impasse Eugene Fouilland;42630;42293;Saint-Victor-sur-Rhins;;;4.282151;46.001696
+42293_0006_00078;78;;Rue de l'Eglise;42630;42293;Saint-Victor-sur-Rhins;;;4.283486;46.005543
+42293_0152_00061;61;;Impasse des 4 Vents;42630;42293;Saint-Victor-sur-Rhins;;;4.277573;46.006047
+42293_0145_00051;51;;Chemin des Lauriers;42630;42293;Saint-Victor-sur-Rhins;;;4.291354;45.998196
+42293_0135_00274;274;;Impasse Desvernay;42630;42293;Saint-Victor-sur-Rhins;;;4.280789;46.018077
+42293_0075_00164;164;;Impasse du Lavoir;42630;42293;Saint-Victor-sur-Rhins;;;4.282145;46.005776
+42293_0075_00370;370;;Impasse du Lavoir;42630;42293;Saint-Victor-sur-Rhins;;;4.283056;46.007509
+42293_0127_00003;3;;Impasse du Breteau;42630;42293;Saint-Victor-sur-Rhins;;;4.281329;46.009659
+42293_0017_00010;10;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.281461;46.004173
+42293_0017_00046;46;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.281856;46.004006
+42293_0017_00048;48;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.281882;46.003995
+42293_0017_00123;123;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.28276;46.003715
+42293_0017_00240;240;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.283973;46.002887
+42293_0017_00489;489;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.285795;46.001201
+42293_0017_00549;549;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.286079;46.000702
+42293_0017_00551;551;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.286198;46.000542
+42293_0012_00075;75;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.280431;46.004486
+42293_0012_00104;104;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.28009;46.004628
+42293_0012_00236;236;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.278421;46.004774
+42293_0012_00299;299;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.277566;46.004688
+42293_0143_00177;177;;Impasse Gouttamond;42630;42293;Saint-Victor-sur-Rhins;;;4.27448;46.0057
+42293_0143_00225;225;;Impasse Gouttamond;42630;42293;Saint-Victor-sur-Rhins;;;4.2751;46.005615
+42293_0107_00945;945;;Chemin de Pericard;42630;42293;Saint-Victor-sur-Rhins;;;4.298831;45.992805
+42293_0107_01644;1644;;Chemin de Pericard;42630;42293;Saint-Victor-sur-Rhins;;;4.302318;45.998567
+42293_0010_00160;160;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.283854;46.004947
+42293_0010_00746;746;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.287925;46.000877
+42293_0007_00127;127;;Rue de la Gare;42630;42293;Saint-Victor-sur-Rhins;;;4.280607;46.00328
+42293_0007_00489;489;;Rue de la Gare;42630;42293;Saint-Victor-sur-Rhins;;;4.280766;46.002761
+42293_0156_00251;251;;Chemin du Tacot;42630;42293;Saint-Victor-sur-Rhins;;;4.267124;46.007754
+42293_0004_00033;33;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.282563;46.00473
+42293_0117_00170;170;;Chemin du Maillet;42630;42293;Saint-Victor-sur-Rhins;;;4.277167;46.002298
+42293_0009_00023;23;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.281601;46.004403
+42293_0142_00154;154;;Impasse du Gonin;42630;42293;Saint-Victor-sur-Rhins;;;4.279596;46.001528
+42293_0116_01114;1114;;Chemin des Martines;42630;42293;Saint-Victor-sur-Rhins;;;4.276497;45.994816
+42293_0161_00130;130;;Rue du Moulin Blanc;42630;42293;Saint-Victor-sur-Rhins;;;4.293657;45.991996
+42293_0077_00134;134;;Rue du Moulin;42630;42293;Saint-Victor-sur-Rhins;;;4.27916;46.004126
+42293_0017_00054;54;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.281949;46.003969
+42293_0017_00068;68;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.282105;46.003905
+42293_0017_00076;76;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.282197;46.003873
+42293_0017_00086;86;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.282309;46.003823
+42293_0017_00156;156;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.283069;46.003489
+42293_0017_00236;236;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.283795;46.002994
+42293_0017_00539;539;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.286022;46.000781
+42293_0017_00589;589;;Rue d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.286298;46.000385
+42293_0012_00119;119;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.279881;46.004579
+42293_0012_00567;567;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.274116;46.004527
+42293_0143_00266;266;;Impasse Gouttamond;42630;42293;Saint-Victor-sur-Rhins;;;4.275593;46.005481
+42293_0010_00097;97;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.283705;46.005511
+42293_0010_00360;360;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.285137;46.003392
+42293_0004_00008;8;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.282249;46.004658
+42293_0004_00016;16;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.282355;46.004654
+42293_0009_00061;61;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.281997;46.004604
+42293_0009_00086;86;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.28224;46.004748
+42293_0009_00115;115;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.282438;46.004969
+42293_0009_00253;253;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.283138;46.006111
+42293_0009_00288;288;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.283406;46.006366
+42293_0009_00316;316;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.283408;46.006621
+42293_0142_00016;16;;Impasse du Gonin;42630;42293;Saint-Victor-sur-Rhins;;;4.280716;46.001676
+42293_0142_00057;57;;Impasse du Gonin;42630;42293;Saint-Victor-sur-Rhins;;;4.280372;46.001382
+42293_0013_00034;34;;Chemin des Goines;42630;42293;Saint-Victor-sur-Rhins;;;4.279093;46.004757
+42293_0013_00211;211;;Chemin des Goines;42630;42293;Saint-Victor-sur-Rhins;;;4.277142;46.005543
+42293_0126_00108;108;;Route de Bourg de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.270893;46.006404
+42293_0126_01535;1535;;Route de Bourg de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.272284;46.017202
+42293_0116_00201;201;;Chemin des Martines;42630;42293;Saint-Victor-sur-Rhins;;;4.278146;46.002667
+42293_0095_00164;164;;Chemin du Signard;42630;42293;Saint-Victor-sur-Rhins;;;4.310364;46.004237
+42293_0161_00278;278;;Rue du Moulin Blanc;42630;42293;Saint-Victor-sur-Rhins;;;4.294875;45.990958
+42293_0161_00332;332;;Rue du Moulin Blanc;42630;42293;Saint-Victor-sur-Rhins;;;4.295411;45.990607
+42293_0122_00198;198;;Chemin des Berthieres;42630;42293;Saint-Victor-sur-Rhins;;;4.274908;46.014446
+42293_0075_00276;276;;Impasse du Lavoir;42630;42293;Saint-Victor-sur-Rhins;;;4.28254;46.006756
+42293_0143_00080;80;;Impasse Gouttamond;42630;42293;Saint-Victor-sur-Rhins;;;4.273084;46.005719
+42293_0143_00242;242;;Impasse Gouttamond;42630;42293;Saint-Victor-sur-Rhins;;;4.275294;46.005493
+42293_0010_00450;450;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.285845;46.002748
+42293_0010_00748;748;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.287941;46.000859
+42293_0120_02257;2257;;Chemin de Beau Cote;42630;42293;Saint-Victor-sur-Rhins;;;4.307585;46.009389
+42293_0156_00315;315;;Chemin du Tacot;42630;42293;Saint-Victor-sur-Rhins;;;4.266668;46.008246
+42293_0117_00184;184;;Chemin du Maillet;42630;42293;Saint-Victor-sur-Rhins;;;4.277243;46.00243
+42293_0009_00030;30;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.2817;46.004412
+42293_0009_00285;285;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.283334;46.006345
+42293_0142_00137;137;;Impasse du Gonin;42630;42293;Saint-Victor-sur-Rhins;;;4.279472;46.001071
+42293_0126_00623;623;;Route de Bourg de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.267163;46.00988
+42293_0161_00136;136;;Rue du Moulin Blanc;42630;42293;Saint-Victor-sur-Rhins;;;4.293685;45.99193
+42293_0161_00296;296;;Rue du Moulin Blanc;42630;42293;Saint-Victor-sur-Rhins;;;4.295058;45.990857
+42293_0100_00184;184;;Impasse Eugene Fouilland;42630;42293;Saint-Victor-sur-Rhins;;;4.282242;46.001439
+42293_0006_00021;21;;Rue de l'Eglise;42630;42293;Saint-Victor-sur-Rhins;;;4.283238;46.005059
+42293_0077_00017;17;;Rue du Moulin;42630;42293;Saint-Victor-sur-Rhins;;;4.280563;46.003735
+42293_0145_00095;95;;Chemin des Lauriers;42630;42293;Saint-Victor-sur-Rhins;;;4.291479;45.998586
+42293_0135_00330;330;;Impasse Desvernay;42630;42293;Saint-Victor-sur-Rhins;;;4.281488;46.017947
+42293_0127_00066;66;;Impasse du Breteau;42630;42293;Saint-Victor-sur-Rhins;;;4.282007;46.009341
+42293_0144_00257;257;;Impasse des Jardins;42630;42293;Saint-Victor-sur-Rhins;;;4.264415;46.006015
+42293_0136_00049;49;;Chemin du Domaine;42630;42293;Saint-Victor-sur-Rhins;;;4.260158;46.003833
+42293_0112_00657;657;;Chemin de Montmartin;42630;42293;Saint-Victor-sur-Rhins;;;4.293865;46.015563
+42293_0153_00224;224;;Chemin des Randonneurs;42630;42293;Saint-Victor-sur-Rhins;;;4.274987;46.005151
+42293_0151_00043;43;;Impasse des Pres;42630;42293;Saint-Victor-sur-Rhins;;;4.279465;46.002515
+42293_0076_00041;41;;Impasse du Viaduc;42630;42293;Saint-Victor-sur-Rhins;;;4.279688;46.003587
+42293_0155_00039;39;;Impasse des Residences;42630;42293;Saint-Victor-sur-Rhins;;;4.290376;45.998674
+42293_0012_00127;127;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.279775;46.004589
+42293_0012_00169;169;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.279235;46.004617
+42293_0012_00273;273;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.277905;46.004696
+42293_0012_00324;324;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.277243;46.004777
+42293_0012_00557;557;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.274246;46.004525
+42293_0012_00607;607;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.273607;46.004613
+42293_0143_00052;52;;Impasse Gouttamond;42630;42293;Saint-Victor-sur-Rhins;;;4.273032;46.00622
+42293_0143_00123;123;;Impasse Gouttamond;42630;42293;Saint-Victor-sur-Rhins;;;4.2738;46.005775
+42293_0143_00186;186;;Impasse Gouttamond;42630;42293;Saint-Victor-sur-Rhins;;;4.274572;46.00557
+42293_0143_00222;222;;Impasse Gouttamond;42630;42293;Saint-Victor-sur-Rhins;;;4.275036;46.005545
+42293_0143_00264;264;;Impasse Gouttamond;42630;42293;Saint-Victor-sur-Rhins;;;4.27557;46.005464
+42293_0107_00676;676;;Chemin de Pericard;42630;42293;Saint-Victor-sur-Rhins;;;4.299566;45.991807
+42293_0107_01968;1968;;Chemin de Pericard;42630;42293;Saint-Victor-sur-Rhins;;;4.301793;46.001282
+42293_0010_00018;18;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.283368;46.006175
+42293_0007_00081;81;;Rue de la Gare;42630;42293;Saint-Victor-sur-Rhins;;;4.280792;46.003635
+42293_0007_00101;101;;Rue de la Gare;42630;42293;Saint-Victor-sur-Rhins;;;4.280617;46.003494
+42293_0007_00338;338;;Rue de la Gare;42630;42293;Saint-Victor-sur-Rhins;;;4.282456;46.002149
+42293_0004_00138;138;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.283809;46.004744
+42293_0117_00070;70;;Chemin du Maillet;42630;42293;Saint-Victor-sur-Rhins;;;4.277225;46.002814
+42293_0142_00080;80;;Impasse du Gonin;42630;42293;Saint-Victor-sur-Rhins;;;4.28007;46.001341
+42293_0142_00173;173;;Impasse du Gonin;42630;42293;Saint-Victor-sur-Rhins;;;4.279181;46.001506
+42293_0013_00150;150;;Chemin des Goines;42630;42293;Saint-Victor-sur-Rhins;;;4.27782;46.005267
+42293_0161_00241;241;;Rue du Moulin Blanc;42630;42293;Saint-Victor-sur-Rhins;;;4.294619;45.991252
+42293_0130_00122;122;;Impasse Chancey;42630;42293;Saint-Victor-sur-Rhins;;;4.268275;46.006163
+42293_0123_00008;8;;Impasse du Bief;42630;42293;Saint-Victor-sur-Rhins;;;4.288766;45.998953
+42293_0123_00048;48;;Impasse du Bief;42630;42293;Saint-Victor-sur-Rhins;;;4.289159;45.998899
+42293_0114_00161;161;;Chemin de la Sarre;42630;42293;Saint-Victor-sur-Rhins;;;4.283759;46.009888
+42293_0100_00066;66;;Impasse Eugene Fouilland;42630;42293;Saint-Victor-sur-Rhins;;;4.281437;46.002082
+42293_0077_00330;330;;Rue du Moulin;42630;42293;Saint-Victor-sur-Rhins;;;4.276664;46.003902
+42293_0075_00202;202;;Impasse du Lavoir;42630;42293;Saint-Victor-sur-Rhins;;;4.282265;46.006117
+42293_0075_00320;320;;Impasse du Lavoir;42630;42293;Saint-Victor-sur-Rhins;;;4.282883;46.007065
+42293_0075_00390;390;;Impasse du Lavoir;42630;42293;Saint-Victor-sur-Rhins;;;4.283103;46.007693
+42293_0115_00271;271;;Chemin de Cherbut;42630;42293;Saint-Victor-sur-Rhins;;;4.281451;46.000297
+42293_0084_00089;89;;Rue des Coteaux du Soleil;42630;42293;Saint-Victor-sur-Rhins;;;4.288839;46.000804
+42293_0084_00223;223;;Rue des Coteaux du Soleil;42630;42293;Saint-Victor-sur-Rhins;;;4.289335;45.999996
+42293_0147_00110;110;;Impasse des Mesanges;42630;42293;Saint-Victor-sur-Rhins;;;4.290309;45.999395
+42293_0157_00039;39;;Impasse du Treuil;42630;42293;Saint-Victor-sur-Rhins;;;4.268629;46.005455
+42293_0107_02021;2021;;Chemin de Pericard;42630;42293;Saint-Victor-sur-Rhins;;;4.301449;46.001764
+42293_0010_00073;73;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.283553;46.005698
+42293_0010_00148;148;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.283815;46.005059
+42293_0010_00241;241;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.284402;46.004321
+42293_0010_00651;651;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.287414;46.001651
+42293_0004_00078;78;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.283144;46.004763
+42293_0117_00143;143;;Chemin du Maillet;42630;42293;Saint-Victor-sur-Rhins;;;4.276952;46.002373
+42293_0009_00183;183;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.282785;46.00553
+42293_0009_00291;291;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.283355;46.006399
+42293_0142_00027;27;;Impasse du Gonin;42630;42293;Saint-Victor-sur-Rhins;;;4.280683;46.001539
+42293_0013_00040;40;;Chemin des Goines;42630;42293;Saint-Victor-sur-Rhins;;;4.279021;46.0048
+42293_0116_00155;155;;Chemin des Martines;42630;42293;Saint-Victor-sur-Rhins;;;4.278602;46.002925
+42293_0116_00362;362;;Chemin des Martines;42630;42293;Saint-Victor-sur-Rhins;;;4.277303;46.001362
+42293_0161_00121;121;;Rue du Moulin Blanc;42630;42293;Saint-Victor-sur-Rhins;;;4.293702;45.992087
+42293_0130_00009;9;;Impasse Chancey;42630;42293;Saint-Victor-sur-Rhins;;;4.267449;46.005325
+42293_0114_00372;372;;Chemin de la Sarre;42630;42293;Saint-Victor-sur-Rhins;;;4.28154;46.010838
+42293_0152_00109;109;;Impasse des 4 Vents;42630;42293;Saint-Victor-sur-Rhins;;;4.278129;46.005828
+42293_0115_00133;133;;Chemin de Cherbut;42630;42293;Saint-Victor-sur-Rhins;;;4.281059;46.001495
+42293_0160_00311;311;;Chemin des Viers;42630;42293;Saint-Victor-sur-Rhins;;;4.266736;46.005022
+42293_0160_01331;1331;;Chemin des Viers;42630;42293;Saint-Victor-sur-Rhins;;;4.255275;46.000883
+42293_0106_00310;310;;Chemin des Oliviers;42630;42293;Saint-Victor-sur-Rhins;;;4.287721;46.004696
+42293_0106_00747;747;;Chemin des Oliviers;42630;42293;Saint-Victor-sur-Rhins;;;4.291261;46.007661
+42293_0159_00122;122;;Impasse du Val;42630;42293;Saint-Victor-sur-Rhins;;;4.281177;46.00538
+42293_0012_00232;232;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.278574;46.004769
+42293_0012_02270;2270;;Rue de Thizy;42630;42293;Saint-Victor-sur-Rhins;;;4.279052;46.017769
+42293_0143_00163;163;;Impasse Gouttamond;42630;42293;Saint-Victor-sur-Rhins;;;4.274309;46.005719
+42293_0107_01520;1520;;Chemin de Pericard;42630;42293;Saint-Victor-sur-Rhins;;;4.301792;45.997531
+42293_0010_00572;572;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.286973;46.002276
+42293_0010_00834;834;;Rue Pasteur;42630;42293;Saint-Victor-sur-Rhins;;;4.288546;46.000208
+42293_0120_01325;1325;;Chemin de Beau Cote;42630;42293;Saint-Victor-sur-Rhins;;;4.298464;46.013143
+42293_0156_00167;167;;Chemin du Tacot;42630;42293;Saint-Victor-sur-Rhins;;;4.26795;46.007255
+42293_0004_00012;12;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.282294;46.004652
+42293_0004_00028;28;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.282502;46.004681
+42293_0004_00044;44;;Rue des Ecoles;42630;42293;Saint-Victor-sur-Rhins;;;4.282704;46.004703
+42293_0009_00009;9;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.281453;46.004326
+42293_0009_00077;77;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.282143;46.004699
+42293_0009_00108;108;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.282433;46.004897
+42293_0009_00127;127;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.282526;46.005059
+42293_0009_00535;535;;Rue du Marnanton;42630;42293;Saint-Victor-sur-Rhins;;;4.283856;46.008497
+42293_0013_00291;291;;Chemin des Goines;42630;42293;Saint-Victor-sur-Rhins;;;4.276604;46.006155
+42293_0116_00262;262;;Chemin des Martines;42630;42293;Saint-Victor-sur-Rhins;;;4.277666;46.00223
+42293_0116_01237;1237;;Chemin des Martines;42630;42293;Saint-Victor-sur-Rhins;;;4.27657;45.993709
+42293_0077_00160;160;;Rue du Moulin;42630;42293;Saint-Victor-sur-Rhins;;;4.278569;46.004135
+42293_0096_00674;674;;Chemin du Moulin du Vierre;42630;42293;Saint-Victor-sur-Rhins;;;4.261203;46.008588
+42293_0011_00103;103;;Rue de la République;42630;42293;Saint-Victor-sur-Rhins;;;4.282881;46.003903
+42293_0115_00800;800;;Chemin de Cherbut;42630;42293;Saint-Victor-sur-Rhins;;;4.286073;45.998115
+42293_0084_00155;155;;Rue des Coteaux du Soleil;42630;42293;Saint-Victor-sur-Rhins;;;4.289632;46.00054
+42293_0008_01307;1307;;Chemin des Gris;42630;42293;Saint-Victor-sur-Rhins;;;4.265983;45.993161
+42293_0150_00083;83;;Impasse des Prairies;42630;42293;Saint-Victor-sur-Rhins;;;4.279879;46.002115
+42293_0133_00055;55;;Impasse des Chenes;42630;42293;Saint-Victor-sur-Rhins;;;4.26744;46.006074
+42293_0134_00073;73;;Impasse Clair Matin;42630;42293;Saint-Victor-sur-Rhins;;;4.27668;46.00488
+42293_0125_00106;106;;Impasse du Bois Dieu;42630;42293;Saint-Victor-sur-Rhins;;;4.284772;46.00502
+42293_0137_00017;17;;Impasse de l’Ecluse;42630;42293;Saint-Victor-sur-Rhins;;;4.280677;46.004803
+42293_0141_00208;208;;Impasse Gai Sejour;42630;42293;Saint-Victor-sur-Rhins;;;4.287178;45.999728
+42293_0121_00061;61;;Impasse Bellevue;42630;42293;Saint-Victor-sur-Rhins;;;4.28815;46.001326
+42293_0016_00202;202;;Chemin de la Tronchee;42630;42293;Saint-Victor-sur-Rhins;;;4.292081;45.997081
+42293_0102_00321;321;;Chemin de la Bachasse;42630;42293;Saint-Victor-sur-Rhins;;;4.285746;46.011946
+42293_0139_00040;40;;Impasse de l’Etang;42630;42293;Saint-Victor-sur-Rhins;;;4.266684;46.004679
+42293_0124_02793;2793;;Route de la Blancherie;42630;42293;Saint-Victor-sur-Rhins;;;4.247466;45.998016
+42293_0141_00114;114;;Impasse Gai Sejour;42630;42293;Saint-Victor-sur-Rhins;;;4.288302;45.999436
+42293_0121_00231;231;;Impasse Bellevue;42630;42293;Saint-Victor-sur-Rhins;;;4.290341;46.001204
+42293_0146_00334;334;;Impasse des Maisons Vieilles;42630;42293;Saint-Victor-sur-Rhins;;;4.268957;46.001168
+42293_0154_00340;340;;Chemin des Renards;42630;42293;Saint-Victor-sur-Rhins;;;4.274603;45.995352
+42293_0160_00164;164;;Chemin des Viers;42630;42293;Saint-Victor-sur-Rhins;;;4.268398;46.005622
+42293_0129_00037;37;;Impasse des Champs;42630;42293;Saint-Victor-sur-Rhins;;;4.28409;45.999292
+42293_0158_00112;112;;Chemin de la Tuilerie;42630;42293;Saint-Victor-sur-Rhins;;;4.281259;46.009692
+42293_0158_00195;195;;Chemin de la Tuilerie;42630;42293;Saint-Victor-sur-Rhins;;;4.280559;46.009139
+42293_0153_00088;88;;Chemin des Randonneurs;42630;42293;Saint-Victor-sur-Rhins;;;4.273252;46.005336
+42293_0133_00034;34;;Impasse des Chenes;42630;42293;Saint-Victor-sur-Rhins;;;4.267646;46.006162
+42293_0128_00019;19;;Impasse du Buffet;42630;42293;Saint-Victor-sur-Rhins;;;4.280004;46.003581
+42293_0134_00019;19;;Impasse Clair Matin;42630;42293;Saint-Victor-sur-Rhins;;;4.275981;46.004804
+42293_0149_00161;161;;Chemin Pierre de Charlemagne;42630;42293;Saint-Victor-sur-Rhins;;;4.293209;46.008549
+42293_0155_00045_ter;45;ter;Impasse des Residences;42630;42293;Saint-Victor-sur-Rhins;;;4.290679;45.998733
+42293_0155_00045_bis;45;bis;Impasse des Residences;42630;42293;Saint-Victor-sur-Rhins;;;4.290615;45.998702
+42293_0118_00282;282;;Chemin du Saunier;42630;42293;Saint-Victor-sur-Rhins;;;4.281537;45.99698
+42293_0001_02227;2227;;Route d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.299398;45.989611
+42293_0124_00478;478;;Route de la Blancherie;42630;42293;Saint-Victor-sur-Rhins;;;4.268019;46.003004
+42293_0115_00676;676;;Chemin de Cherbut;42630;42293;Saint-Victor-sur-Rhins;;;4.285402;45.999105
+42293_0084_00142;142;;Rue des Coteaux du Soleil;42630;42293;Saint-Victor-sur-Rhins;;;4.289443;46.000583
+42293_0136_00053;53;;Chemin du Domaine;42630;42293;Saint-Victor-sur-Rhins;;;4.260147;46.00387
+42293_0160_00068;68;;Chemin des Viers;42630;42293;Saint-Victor-sur-Rhins;;;4.269625;46.005688
+42293_0160_00263;263;;Chemin des Viers;42630;42293;Saint-Victor-sur-Rhins;;;4.267767;46.00509
+42293_0106_00071;71;;Chemin des Oliviers;42630;42293;Saint-Victor-sur-Rhins;;;4.285614;46.00331
+42293_0014_00152;152;;Impasse du Rhins;42630;42293;Saint-Victor-sur-Rhins;;;4.281333;46.003953
+42293_0159_00135;135;;Impasse du Val;42630;42293;Saint-Victor-sur-Rhins;;;4.281138;46.00551
+42293_0141_00154;154;;Impasse Gai Sejour;42630;42293;Saint-Victor-sur-Rhins;;;4.287859;45.999589
+42293_0121_00190;190;;Impasse Bellevue;42630;42293;Saint-Victor-sur-Rhins;;;4.289822;46.001244
+42293_0146_00030;30;;Impasse des Maisons Vieilles;42630;42293;Saint-Victor-sur-Rhins;;;4.271311;46.003041
+42293_0132_00170;170;;Impasse des Cheminots;42630;42293;Saint-Victor-sur-Rhins;;;4.284349;46.001363
+42293_0124_00148;148;;Route de la Blancherie;42630;42293;Saint-Victor-sur-Rhins;;;4.269717;46.005262
+42293_0147_00162;162;;Impasse des Mesanges;42630;42293;Saint-Victor-sur-Rhins;;;4.29093;45.999251
+42293_0157_00016;16;;Impasse du Treuil;42630;42293;Saint-Victor-sur-Rhins;;;4.268337;46.005372
+42293_0157_00055;55;;Impasse du Treuil;42630;42293;Saint-Victor-sur-Rhins;;;4.26882;46.005501
+42293_0138_00031;31;;Impasse des Ecureuils;42630;42293;Saint-Victor-sur-Rhins;;;4.291988;45.997749
+42293_0134_00047;47;;Impasse Clair Matin;42630;42293;Saint-Victor-sur-Rhins;;;4.27633;46.004867
+42293_0151_00011;11;;Impasse des Pres;42630;42293;Saint-Victor-sur-Rhins;;;4.27975;46.002722
+42293_0155_00011;11;;Impasse des Residences;42630;42293;Saint-Victor-sur-Rhins;;;4.290045;45.998802
+42293_0137_00073;73;;Impasse de l’Ecluse;42630;42293;Saint-Victor-sur-Rhins;;;4.281281;46.004969
+42293_0121_00378;378;;Impasse Bellevue;42630;42293;Saint-Victor-sur-Rhins;;;4.290236;46.000008
+42293_0102_01851;1851;;Chemin de la Bachasse;42630;42293;Saint-Victor-sur-Rhins;;;4.297416;46.021007
+42293_0124_00707;707;;Route de la Blancherie;42630;42293;Saint-Victor-sur-Rhins;;;4.265911;46.001643
+42293_0144_00021;21;;Impasse des Jardins;42630;42293;Saint-Victor-sur-Rhins;;;4.267196;46.005326
+42293_0147_00023;23;;Impasse des Mesanges;42630;42293;Saint-Victor-sur-Rhins;;;4.289579;45.9999
+42293_0160_00473;473;;Chemin des Viers;42630;42293;Saint-Victor-sur-Rhins;;;4.2647;46.00471
+42293_0158_00179;179;;Chemin de la Tuilerie;42630;42293;Saint-Victor-sur-Rhins;;;4.280721;46.009237
+42293_0153_00132;132;;Chemin des Randonneurs;42630;42293;Saint-Victor-sur-Rhins;;;4.273802;46.005249
+42293_0150_00054;54;;Impasse des Prairies;42630;42293;Saint-Victor-sur-Rhins;;;4.280192;46.001926
+42293_0140_00257;257;;Chemin du Four Cabin;42630;42293;Saint-Victor-sur-Rhins;;;4.275933;46.007332
+42293_0155_00011_ter;11;ter;Impasse des Residences;42630;42293;Saint-Victor-sur-Rhins;;;4.290118;45.999045
+42293_0125_00198;198;;Impasse du Bois Dieu;42630;42293;Saint-Victor-sur-Rhins;;;4.284653;46.005831
+42293_0131_00192;192;;Impasse du Chatelard;42630;42293;Saint-Victor-sur-Rhins;;;4.253486;46.002608
+42293_0016_00074;74;;Chemin de la Tronchee;42630;42293;Saint-Victor-sur-Rhins;;;4.291015;45.997912
+42293_0011_00041;41;;Rue de la République;42630;42293;Saint-Victor-sur-Rhins;;;4.282325;46.004303
+42293_0115_00101;101;;Chemin de Cherbut;42630;42293;Saint-Victor-sur-Rhins;;;4.280912;46.001769
+42293_0115_00207;207;;Chemin de Cherbut;42630;42293;Saint-Victor-sur-Rhins;;;4.281244;46.000846
+42293_0084_00015;15;;Rue des Coteaux du Soleil;42630;42293;Saint-Victor-sur-Rhins;;;4.288076;46.001206
+42293_0084_00165;165;;Rue des Coteaux du Soleil;42630;42293;Saint-Victor-sur-Rhins;;;4.289675;46.000451
+42293_0106_00410;410;;Chemin des Oliviers;42630;42293;Saint-Victor-sur-Rhins;;;4.288257;46.00551
+42293_0106_01750;1750;;Chemin des Oliviers;42630;42293;Saint-Victor-sur-Rhins;;;4.300644;46.00279
+42293_0129_00061;61;;Impasse des Champs;42630;42293;Saint-Victor-sur-Rhins;;;4.284012;45.999091
+42293_0158_00019;19;;Chemin de la Tuilerie;42630;42293;Saint-Victor-sur-Rhins;;;4.281883;46.010411
+42293_0159_00111;111;;Impasse du Val;42630;42293;Saint-Victor-sur-Rhins;;;4.281047;46.005305
+42293_0133_00040;40;;Impasse des Chenes;42630;42293;Saint-Victor-sur-Rhins;;;4.267537;46.006185
+42293_0128_00029;29;;Impasse du Buffet;42630;42293;Saint-Victor-sur-Rhins;;;4.280101;46.003517
+42293_0076_00145;145;;Impasse du Viaduc;42630;42293;Saint-Victor-sur-Rhins;;;4.279935;46.003012
+42293_0155_00039_bis;39;bis;Impasse des Residences;42630;42293;Saint-Victor-sur-Rhins;;;4.290445;45.998821
+42293_0125_00070;70;;Impasse du Bois Dieu;42630;42293;Saint-Victor-sur-Rhins;;;4.284817;46.004692
+42293_0001_01996;1996;;Route d'Amplepuis;42630;42293;Saint-Victor-sur-Rhins;;;4.296527;45.990523

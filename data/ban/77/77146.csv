@@ -1,0 +1,981 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+77146_0272_00003;3;;Rond Point du Relais;77183;77146;Croissy-Beaubourg;;;2.649981;48.829993
+77146_0151_00006;6;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.649551;48.827446
+77146_0220_00018;18;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659236;48.828512
+77146_0079_00056;56;;Boulevard de Courcerin;77183;77146;Croissy-Beaubourg;;;2.631212;48.824696
+77146_0323_00025;25;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.639566;48.813435
+77146_0272_00017;17;;Rond Point du Relais;77183;77146;Croissy-Beaubourg;;;2.65091;48.830126
+77146_0105_00018;18;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654291;48.822693
+77146_0032_00006;6;;Chemin Célestin Leyet;77183;77146;Croissy-Beaubourg;;;2.64915;48.827796
+77146_0287_00001;1;;Cour Simon des Essarts;77183;77146;Croissy-Beaubourg;;;2.648197;48.829093
+77146_0210_00013;13;;Rue des Mésanges;77183;77146;Croissy-Beaubourg;;;2.651193;48.823999
+77146_0005_00021;21;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.652862;48.820618
+77146_0287_00003;3;;Cour Simon des Essarts;77183;77146;Croissy-Beaubourg;;;2.64827;48.829139
+77146_0114_00003;3;;Rue de la Garenne;77183;77146;Croissy-Beaubourg;;;2.650895;48.826401
+77146_0105_00010;10;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.653666;48.823829
+77146_0105_00011;11;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.651628;48.825216
+77146_0153_00008;8;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.649626;48.828257
+77146_0300_00007;7;;Rue des Tilleuls;77183;77146;Croissy-Beaubourg;;;2.662462;48.827654
+77146_0015_00001;1;;Rue des Alouettes;77183;77146;Croissy-Beaubourg;;;2.652736;48.824426
+77146_0142_00014;14;;Allee Henri Aubry;77183;77146;Croissy-Beaubourg;;;2.643962;48.826313
+77146_0005_00012;12;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.65426;48.82072
+77146_0326_00011;11;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.64407;48.821703
+77146_0099_00039;39;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.645503;48.827773
+77146_0017_00024;24;;Boulevard de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.630117;48.818131
+77146_0017_00026;26;;Boulevard de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.628442;48.816935
+77146_0099_00023;23;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.646427;48.828184
+77146_0023_00016;16;;Rue du Baron d’Ivry;77183;77146;Croissy-Beaubourg;;;2.649829;48.829604
+77146_0218_00004;4;;Rue du Parc;77183;77146;Croissy-Beaubourg;;;2.652171;48.826502
+77146_0220_00021;21;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659145;48.829005
+77146_0153_00021;21;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.647381;48.82774
+77146_0218_00001;1;;Rue du Parc;77183;77146;Croissy-Beaubourg;;;2.651252;48.826197
+77146_0026_00004_b;4;b;Allee du Bois Michel Diefenthal;77183;77146;Croissy-Beaubourg;;;2.648264;48.826416
+77146_0243_00001;1;;Rue Pelloutier;77183;77146;Croissy-Beaubourg;;;2.631579;48.825429
+77146_0023_00005;5;;Rue du Baron d’Ivry;77183;77146;Croissy-Beaubourg;;;2.648837;48.829548
+77146_0073_00002;2;;Rue des Colibris;77183;77146;Croissy-Beaubourg;;;2.654526;48.82121
+77146_0097_00002;2;;place de l'Eglantier;77183;77146;Croissy-Beaubourg;;;2.674915;48.824127
+77146_0263_00001_a;1;a;Allée des Platanes;77183;77146;Croissy-Beaubourg;;;2.649304;48.829483
+77146_0017_00020;20;;Boulevard de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.631124;48.818681
+77146_0041_00008;8;;Rue du Chenil;77183;77146;Croissy-Beaubourg;;;2.646197;48.827009
+77146_0101_00001;1;;Cour Erard de Montmorency;77183;77146;Croissy-Beaubourg;;;2.647126;48.827637
+77146_0010_00017;17;;Rue des Albatros;77183;77146;Croissy-Beaubourg;;;2.656078;48.821342
+77146_0151_00011;11;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.650326;48.827938
+77146_0017_00009;9;;Boulevard de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.634114;48.819936
+77146_0153_00007;7;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.649176;48.828171
+77146_0220_00013;13;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659033;48.829823
+77146_0283_00002;2;;Place Saint Marcellin;77183;77146;Croissy-Beaubourg;;;2.649325;48.828945
+77146_0115_00009;9;;Rue des Geais;77183;77146;Croissy-Beaubourg;;;2.650751;48.824941
+77146_0285_00005;5;;Allee des Sarments;77183;77146;Croissy-Beaubourg;;;2.637141;48.813486
+77146_0217_00014;14;;Rue des Palombes;77183;77146;Croissy-Beaubourg;;;2.652648;48.821016
+77146_0105_00057;57;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654779;48.82166
+77146_0080_00003;3;;Chemin de la Cour des Suisses;77183;77146;Croissy-Beaubourg;;;2.647467;48.828936
+77146_0101_00009;9;;Cour Erard de Montmorency;77183;77146;Croissy-Beaubourg;;;2.647038;48.827102
+77146_0202_00006;6;;Chemin des Marcanets;77183;77146;Croissy-Beaubourg;;;2.647068;48.828299
+77146_0005_00006;6;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.654138;48.820868
+77146_0133_00004;4;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.649784;48.829357
+77146_0250_00006;6;;Rue des Pinsons;77183;77146;Croissy-Beaubourg;;;2.655471;48.822292
+77146_0320_00034;34;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.662292;48.831577
+77146_0073_00004;4;;Rue des Colibris;77183;77146;Croissy-Beaubourg;;;2.654719;48.821098
+77146_0326_00027;27;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.64217;48.818118
+77146_0005_00028;28;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653342;48.820623
+77146_0260_00001;1;;Rue de la Plaine;77183;77146;Croissy-Beaubourg;;;2.661969;48.829805
+77146_0105_00064;64;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.65503;48.822584
+77146_0120_00007;7;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.662508;48.828211
+77146_0105_00031;31;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654222;48.822577
+77146_0260_00008;8;;Rue de la Plaine;77183;77146;Croissy-Beaubourg;;;2.662296;48.829192
+77146_0220_00029_b;29;b;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.66031;48.828549
+77146_0212_00010;10;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.650997;48.827117
+77146_0133_00010;10;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650034;48.828995
+77146_0326_00007;7;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.64298;48.822416
+77146_0076_00001;1;;Rue des Colombes;77183;77146;Croissy-Beaubourg;;;2.652233;48.82476
+77146_0020_00005;5;;Impasse des Bleuets;77183;77146;Croissy-Beaubourg;;;2.662897;48.829512
+77146_0120_00010;10;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.66223;48.828232
+77146_0005_00022;22;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653708;48.820707
+77146_0016_00007;7;;Rue Ambroise Croizat;77183;77146;Croissy-Beaubourg;;;2.634872;48.817481
+77146_0275_00001;1;;Rue des Roitelets;77183;77146;Croissy-Beaubourg;;;2.654893;48.821465
+77146_0101_00005;5;;Cour Erard de Montmorency;77183;77146;Croissy-Beaubourg;;;2.647139;48.827378
+77146_0017_00015;15;;Boulevard de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.627705;48.816274
+77146_0210_00014;14;;Rue des Mésanges;77183;77146;Croissy-Beaubourg;;;2.651279;48.824013
+77146_0021_00002;2;;Rue Alix de Chatillon;77183;77146;Croissy-Beaubourg;;;2.649562;48.828573
+77146_0264_00025;25;;Allée du 1er Mai;77183;77146;Croissy-Beaubourg;;;2.637742;48.828849
+77146_0005_00024;24;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653643;48.820694
+77146_0272_00016;16;;Rond Point du Relais;77183;77146;Croissy-Beaubourg;;;2.650692;48.830075
+77146_0245_00001;1;;Rue de la Perdrix;77183;77146;Croissy-Beaubourg;;;2.651923;48.825475
+77146_0151_00005;5;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.650744;48.828052
+77146_0120_00014;14;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.661858;48.828111
+77146_0142_00020;20;;Allee Henri Aubry;77183;77146;Croissy-Beaubourg;;;2.643562;48.825997
+77146_0310_00008;8;;Allée Tissard de Rouvres;77183;77146;Croissy-Beaubourg;;;2.64822;48.827405
+77146_0005_00034;34;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653344;48.820517
+77146_0010_00002;2;;Rue des Albatros;77183;77146;Croissy-Beaubourg;;;2.655806;48.821616
+77146_0220_00034;34;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659686;48.827429
+77146_0016_00013;13;;Rue Ambroise Croizat;77183;77146;Croissy-Beaubourg;;;2.636201;48.816455
+77146_0114_00007;7;;Rue de la Garenne;77183;77146;Croissy-Beaubourg;;;2.651002;48.826541
+77146_0005_00050;50;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.652526;48.820474
+77146_0076_00007;7;;Rue des Colombes;77183;77146;Croissy-Beaubourg;;;2.652715;48.825361
+77146_0097_00001;1;;place de l'Eglantier;77183;77146;Croissy-Beaubourg;;;2.674056;48.823993
+77146_0280_00003;3;;Impasse des Roses;77183;77146;Croissy-Beaubourg;;;2.661818;48.829278
+77146_0153_00043;43;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.645517;48.827096
+77146_0243_00004;4;;Rue Pelloutier;77183;77146;Croissy-Beaubourg;;;2.631972;48.825907
+77146_0120_00024;24;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.661684;48.827497
+77146_0220_00025;25;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659264;48.828673
+77146_0099_00005;5;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.648305;48.829493
+77146_0115_00010;10;;Rue des Geais;77183;77146;Croissy-Beaubourg;;;2.651007;48.824812
+77146_0076_00008;8;;Rue des Colombes;77183;77146;Croissy-Beaubourg;;;2.652612;48.825342
+77146_0105_00078;78;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654085;48.823211
+77146_0120_00008;8;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.662416;48.828243
+77146_0218_00009;9;;Rue du Parc;77183;77146;Croissy-Beaubourg;;;2.651866;48.826368
+77146_0018_00005;5;;Rue des Biches;77183;77146;Croissy-Beaubourg;;;2.649839;48.826024
+77146_0022_00005;5;;Cour Aubert de Longueval;77183;77146;Croissy-Beaubourg;;;2.649221;48.829291
+77146_0023_00020;20;;Rue du Baron d’Ivry;77183;77146;Croissy-Beaubourg;;;2.650038;48.829671
+77146_0210_00005;5;;Rue des Mésanges;77183;77146;Croissy-Beaubourg;;;2.651174;48.824513
+77146_0017_00028;28;;Boulevard de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.628491;48.816993
+77146_0020_00012;12;;Impasse des Bleuets;77183;77146;Croissy-Beaubourg;;;2.662952;48.829609
+77146_0023_00014;14;;Rue du Baron d’Ivry;77183;77146;Croissy-Beaubourg;;;2.649562;48.829579
+77146_0310_00001;1;;Allée Tissard de Rouvres;77183;77146;Croissy-Beaubourg;;;2.648214;48.8276
+77146_0208_00008;8;;Rue des Merles;77183;77146;Croissy-Beaubourg;;;2.654579;48.823567
+77146_0212_00036;36;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.650526;48.827606
+77146_0246_00003;3;;Passage Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.648717;48.827775
+77146_0105_00023;23;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.653784;48.823164
+77146_0099_00027;27;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.646158;48.82833
+77146_0272_00011;11;;Rond Point du Relais;77183;77146;Croissy-Beaubourg;;;2.650371;48.830051
+77146_0202_00007;7;;Chemin des Marcanets;77183;77146;Croissy-Beaubourg;;;2.647473;48.828004
+77146_0114_00010;10;;Rue de la Garenne;77183;77146;Croissy-Beaubourg;;;2.651023;48.826721
+77146_0260_00013;13;;Rue de la Plaine;77183;77146;Croissy-Beaubourg;;;2.663296;48.82885
+77146_0320_00021;21;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.661717;48.829951
+77146_0105_00071;71;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.655113;48.822816
+77146_0323_00016;16;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.638205;48.813663
+77146_0115_00005;5;;Rue des Geais;77183;77146;Croissy-Beaubourg;;;2.650821;48.825117
+77146_0217_00004;4;;Rue des Palombes;77183;77146;Croissy-Beaubourg;;;2.653139;48.821423
+77146_0328_00002;2;;Cours des Vignes;77183;77146;Croissy-Beaubourg;;;2.638707;48.814258
+77146_0097_00004;4;;place de l'Eglantier;77183;77146;Croissy-Beaubourg;;;2.67435;48.82348
+77146_0212_00011;11;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.651372;48.827219
+77146_0112_00004;4;;Allée des Frères Montgolfier;77183;77146;Croissy-Beaubourg;;;2.634986;48.816099
+77146_0145_00005;5;;Rue des Hirondelles;77183;77146;Croissy-Beaubourg;;;2.653728;48.824461
+77146_0032_00002;2;;Chemin Célestin Leyet;77183;77146;Croissy-Beaubourg;;;2.649056;48.827886
+77146_0151_00015;15;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.649984;48.827812
+77146_0141_00003;3;;rue Henry Delbast;77183;77146;Croissy-Beaubourg;;;2.670398;48.826148
+77146_0119_00008;8;;Rue du Grand Cerf;77183;77146;Croissy-Beaubourg;;;2.650152;48.826695
+77146_0204_00001;1;;Impasse de la Mare à Blondeau;77183;77146;Croissy-Beaubourg;;;2.644232;48.826957
+77146_0073_00006;6;;Rue des Colibris;77183;77146;Croissy-Beaubourg;;;2.654921;48.820976
+77146_0220_00037;37;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659678;48.828049
+77146_0202_00005;5;;Chemin des Marcanets;77183;77146;Croissy-Beaubourg;;;2.647375;48.82811
+77146_0245_00003;3;;Rue de la Perdrix;77183;77146;Croissy-Beaubourg;;;2.651974;48.825643
+77146_0005_00008;8;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.654214;48.82081
+77146_0105_00028;28;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654327;48.822134
+77146_0247_00003;3;;Place Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.649056;48.827374
+77146_b751c9_00001;1;;Lamirault;77183;77146;Croissy-Beaubourg;;;2.678067;48.818098
+77146_0133_00006;6;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.649886;48.829214
+77146_0326_00028;28;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.641978;48.818231
+77146_0220_00045_bis;45;bis;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.660903;48.826989
+77146_0112_00009;9;;Allée des Frères Montgolfier;77183;77146;Croissy-Beaubourg;;;2.634014;48.815407
+77146_0250_00004;4;;Rue des Pinsons;77183;77146;Croissy-Beaubourg;;;2.655385;48.822334
+77146_0260_00011;11;;Rue de la Plaine;77183;77146;Croissy-Beaubourg;;;2.663052;48.828892
+77146_0105_00036;36;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.653782;48.821767
+77146_0153_00040;40;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.645749;48.827353
+77146_0210_00011;11;;Rue des Mésanges;77183;77146;Croissy-Beaubourg;;;2.651135;48.824113
+77146_0041_00006;6;;Rue du Chenil;77183;77146;Croissy-Beaubourg;;;2.646016;48.826962
+77146_0080_00008;8;;Chemin de la Cour des Suisses;77183;77146;Croissy-Beaubourg;;;2.647819;48.828482
+77146_0005_00038;38;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653297;48.820616
+77146_0023_00010;10;;Rue du Baron d’Ivry;77183;77146;Croissy-Beaubourg;;;2.649372;48.829574
+77146_0020_00007;7;;Impasse des Bleuets;77183;77146;Croissy-Beaubourg;;;2.662888;48.829601
+77146_0260_00007;7;;Rue de la Plaine;77183;77146;Croissy-Beaubourg;;;2.662421;48.829239
+77146_0076_00011;11;;Rue des Colombes;77183;77146;Croissy-Beaubourg;;;2.652937;48.825509
+77146_0260_00003;3;;Rue de la Plaine;77183;77146;Croissy-Beaubourg;;;2.66216;48.82961
+77146_0114_00009;9;;Rue de la Garenne;77183;77146;Croissy-Beaubourg;;;2.651085;48.82669
+77146_0285_00001;1;;Allee des Sarments;77183;77146;Croissy-Beaubourg;;;2.636847;48.813654
+77146_0247_00005;5;;Place Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.649092;48.827334
+77146_0151_00002;2;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.650379;48.828195
+77146_0243_00007_bis;7;bis;Rue Pelloutier;77183;77146;Croissy-Beaubourg;;;2.633065;48.826776
+77146_0105_00003;3;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.651243;48.825829
+77146_0010_00009;9;;Rue des Albatros;77183;77146;Croissy-Beaubourg;;;2.655555;48.821656
+77146_0200_00004;4;;Impasse des Lys;77183;77146;Croissy-Beaubourg;;;2.661993;48.828858
+77146_0323_00017;17;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.639207;48.813833
+77146_0142_00004;4;;Allee Henri Aubry;77183;77146;Croissy-Beaubourg;;;2.644563;48.826715
+77146_0250_00001;1;;Rue des Pinsons;77183;77146;Croissy-Beaubourg;;;2.655354;48.822273
+77146_0153_00027;27;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.646155;48.827462
+77146_0323_00008;8;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.63792;48.813807
+77146_0120_00001;1;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.663339;48.82805
+77146_0220_00027;27;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659327;48.82859
+77146_0018_00003;3;;Rue des Biches;77183;77146;Croissy-Beaubourg;;;2.649865;48.826093
+77146_0105_00072;72;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654787;48.823013
+77146_0077_00003;3;;Rue des Cols Verts;77183;77146;Croissy-Beaubourg;;;2.651767;48.826679
+77146_0105_00020;20;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654379;48.822569
+77146_0105_00005;5;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.651283;48.825758
+77146_0112_00002;2;;Allée des Frères Montgolfier;77183;77146;Croissy-Beaubourg;;;2.635376;48.816356
+77146_0275_00007;7;;Rue des Roitelets;77183;77146;Croissy-Beaubourg;;;2.655277;48.821104
+77146_0077_00006;6;;Rue des Cols Verts;77183;77146;Croissy-Beaubourg;;;2.651614;48.826588
+77146_0212_00015;15;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.650925;48.827579
+77146_0108_00001;1;;rue de la Ferme;77183;77146;Croissy-Beaubourg;;;2.674548;48.820493
+77146_0310_00002;2;;Allée Tissard de Rouvres;77183;77146;Croissy-Beaubourg;;;2.648117;48.827542
+77146_0005_00036;36;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653315;48.820574
+77146_0099_00019;19;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.646337;48.828443
+77146_0220_00038;38;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659674;48.827017
+77146_0220_00029_c;29;c;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.660752;48.828583
+77146_0326_00034;34;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.640536;48.816992
+77146_0015_00004;4;;Rue des Alouettes;77183;77146;Croissy-Beaubourg;;;2.652751;48.824591
+77146_tfc4ne_00022;22;;Allée Léon Jouhaux;77183;77146;Croissy-Beaubourg;;;2.640808;48.827915
+77146_0133_00024;24;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650538;48.828319
+77146_0016_00018;18;;Rue Ambroise Croizat;77183;77146;Croissy-Beaubourg;;;2.637075;48.815374
+77146_0099_00017_bis;17;bis;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.646556;48.828558
+77146_0212_00028;28;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.651217;48.827681
+77146_0285_00002;2;;Allee des Sarments;77183;77146;Croissy-Beaubourg;;;2.635748;48.814335
+77146_0275_00005;5;;Rue des Roitelets;77183;77146;Croissy-Beaubourg;;;2.655238;48.821295
+77146_0275_00009;9;;Rue des Roitelets;77183;77146;Croissy-Beaubourg;;;2.655381;48.82106
+77146_0212_00026;26;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.651321;48.827593
+77146_0133_00016;16;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650271;48.82874
+77146_0217_00010;10;;Rue des Palombes;77183;77146;Croissy-Beaubourg;;;2.652775;48.821229
+77146_0246_00011;11;;Passage Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.648912;48.827528
+77146_0105_00026;26;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654368;48.822207
+77146_0116_00019;19;;Boulevard Georges Bidault;77183;77146;Croissy-Beaubourg;;;2.649484;48.830746
+77146_0020_00004;4;;Impasse des Bleuets;77183;77146;Croissy-Beaubourg;;;2.662982;48.829206
+77146_0326_00018;18;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.643051;48.819699
+77146_0210_00006;6;;Rue des Mésanges;77183;77146;Croissy-Beaubourg;;;2.651319;48.824636
+77146_0220_00022;22;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659271;48.828409
+77146_0099_00014;14;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.648457;48.8297
+77146_0133_00013;13;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650337;48.828892
+77146_0133_00015;15;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650391;48.828824
+77146_0272_00014;14;;Rond Point du Relais;77183;77146;Croissy-Beaubourg;;;2.65055;48.829999
+77146_0208_00003;3;;Rue des Merles;77183;77146;Croissy-Beaubourg;;;2.654698;48.823529
+77146_0105_00024;24;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654434;48.822334
+77146_0220_00010_bis;10;bis;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659016;48.829098
+77146_0153_00026;26;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.646884;48.827866
+77146_0085_00004;4;;Rue des Cygnes;77183;77146;Croissy-Beaubourg;;;2.652083;48.824146
+77146_0017_00007;7;;Boulevard de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.63454;48.820231
+77146_0099_00033;33;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.645918;48.82796
+77146_0097_00003;3;;place de l'Eglantier;77183;77146;Croissy-Beaubourg;;;2.675028;48.823688
+77146_0105_00051;51;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654295;48.821412
+77146_0202_00001;1;;Chemin des Marcanets;77183;77146;Croissy-Beaubourg;;;2.647036;48.828584
+77146_0310_00006;6;;Allée Tissard de Rouvres;77183;77146;Croissy-Beaubourg;;;2.648176;48.827445
+77146_0077_00001;1;;Rue des Cols Verts;77183;77146;Croissy-Beaubourg;;;2.651697;48.82657
+77146_0245_00007;7;;Rue de la Perdrix;77183;77146;Croissy-Beaubourg;;;2.652018;48.826016
+77146_0105_00050;50;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654797;48.821871
+77146_0153_00010;10;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.649703;48.827869
+77146_0220_00036;36;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659688;48.827183
+77146_0041_00010;10;;Rue du Chenil;77183;77146;Croissy-Beaubourg;;;2.646217;48.826891
+77146_0099_00045;45;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.64504;48.82772
+77146_0010_00004;4;;Rue des Albatros;77183;77146;Croissy-Beaubourg;;;2.655941;48.821574
+77146_0220_00007;7;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.658791;48.829939
+77146_0326_00033;33;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.641363;48.817333
+77146_0142_00024;24;;Allee Henri Aubry;77183;77146;Croissy-Beaubourg;;;2.643366;48.82576
+77146_0142_00018;18;;Allee Henri Aubry;77183;77146;Croissy-Beaubourg;;;2.643657;48.826091
+77146_0320_00030;30;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.66353;48.830543
+77146_0153_00039;39;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.645719;48.827241
+77146_0145_00014;14;;Rue des Hirondelles;77183;77146;Croissy-Beaubourg;;;2.65292;48.825206
+77146_0220_00001;1;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.658089;48.830155
+77146_0220_00045;45;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.660717;48.826918
+77146_0073_00003;3;;Rue des Colibris;77183;77146;Croissy-Beaubourg;;;2.654596;48.821085
+77146_0010_00010;10;;Rue des Albatros;77183;77146;Croissy-Beaubourg;;;2.656243;48.821404
+77146_0220_00012_bis;12;bis;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659015;48.829053
+77146_0220_00039;39;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659701;48.827995
+77146_0038_00002;2;;Cour Chantepie;77183;77146;Croissy-Beaubourg;;;2.648712;48.828447
+77146_0153_00001;1;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.649625;48.827973
+77146_0320_00016_bis;16;bis;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.660629;48.829414
+77146_0105_00042;42;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.653818;48.821347
+77146_0283_00004;4;;Place Saint Marcellin;77183;77146;Croissy-Beaubourg;;;2.64911;48.828876
+77146_0220_00020;20;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659256;48.828483
+77146_0320_00012;12;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.660147;48.829471
+77146_0010_00013;13;;Rue des Albatros;77183;77146;Croissy-Beaubourg;;;2.655782;48.821547
+77146_0151_00021;21;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.649793;48.827529
+77146_0220_00042;42;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659789;48.826582
+77146_0005_00009;9;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653393;48.820843
+77146_0320_00017;17;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.661421;48.829829
+77146_0141_00005;5;;rue Henry Delbast;77183;77146;Croissy-Beaubourg;;;2.671267;48.82627
+77146_0018_00002;2;;Rue des Biches;77183;77146;Croissy-Beaubourg;;;2.650043;48.826265
+77146_0119_00004;4;;Rue du Grand Cerf;77183;77146;Croissy-Beaubourg;;;2.649898;48.826645
+77146_0105_00004;4;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.651552;48.825605
+77146_0016_00004;4;;Rue Ambroise Croizat;77183;77146;Croissy-Beaubourg;;;2.633142;48.818278
+77146_0215_00003;3;;Rue des Mouettes;77183;77146;Croissy-Beaubourg;;;2.655762;48.821848
+77146_0212_00014;14;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.651521;48.827038
+77146_0213_00003;3;;rue Nikola Tesla;77183;77146;Croissy-Beaubourg;;;2.674202;48.825226
+77146_0320_00024;24;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.661374;48.829682
+77146_0005_00044;44;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.652814;48.820517
+77146_0208_00010;10;;Rue des Merles;77183;77146;Croissy-Beaubourg;;;2.654692;48.823596
+77146_0032_00008;8;;Chemin Célestin Leyet;77183;77146;Croissy-Beaubourg;;;2.649183;48.827753
+77146_0114_00006;6;;Rue de la Garenne;77183;77146;Croissy-Beaubourg;;;2.65086;48.826498
+77146_0105_00074;74;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654655;48.82314
+77146_0266_00002;2;;place du Pré des Loriots;77183;77146;Croissy-Beaubourg;;;2.675369;48.822246
+77146_0217_00006;6;;Rue des Palombes;77183;77146;Croissy-Beaubourg;;;2.652959;48.821338
+77146_0283_00005;5;;Place Saint Marcellin;77183;77146;Croissy-Beaubourg;;;2.649046;48.828752
+77146_0212_00008;8;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.650822;48.82707
+77146_0076_00012;12;;Rue des Colombes;77183;77146;Croissy-Beaubourg;;;2.652599;48.825733
+77146_0005_00007;7;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653666;48.820793
+77146_0142_00006;6;;Allee Henri Aubry;77183;77146;Croissy-Beaubourg;;;2.644438;48.826626
+77146_tfc4ne_00028;28;;Allée Léon Jouhaux;77183;77146;Croissy-Beaubourg;;;2.63905;48.827869
+77146_0153_00028;28;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.646572;48.827775
+77146_0032_00004;4;;Chemin Célestin Leyet;77183;77146;Croissy-Beaubourg;;;2.649109;48.827846
+77146_0038_00003;3;;Cour Chantepie;77183;77146;Croissy-Beaubourg;;;2.648855;48.828346
+77146_0105_00063;63;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.655199;48.822061
+77146_0245_00002;2;;Rue de la Perdrix;77183;77146;Croissy-Beaubourg;;;2.651886;48.825779
+77146_0038_00004;4;;Cour Chantepie;77183;77146;Croissy-Beaubourg;;;2.648697;48.828377
+77146_0142_00002_bis;2;bis;Allee Henri Aubry;77183;77146;Croissy-Beaubourg;;;2.644836;48.826906
+77146_0217_00016;16;;Rue des Palombes;77183;77146;Croissy-Beaubourg;;;2.652565;48.820964
+77146_0112_00007_bis;7;bis;Allée des Frères Montgolfier;77183;77146;Croissy-Beaubourg;;;2.635176;48.815195
+77146_0260_00002;2;;Rue de la Plaine;77183;77146;Croissy-Beaubourg;;;2.661823;48.829787
+77146_0218_00005;5;;Rue du Parc;77183;77146;Croissy-Beaubourg;;;2.651659;48.826319
+77146_0272_00001_a;1;a;Rond Point du Relais;77183;77146;Croissy-Beaubourg;;;2.650261;48.830407
+77146_0115_00001;1;;Rue des Geais;77183;77146;Croissy-Beaubourg;;;2.651096;48.825396
+77146_0220_00009;9;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.658849;48.82992
+77146_0220_00035;35;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659642;48.828106
+77146_0120_00026;26;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.661697;48.827445
+77146_0326_00021;21;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.642984;48.818812
+77146_0099_00017;17;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.64678;48.828671
+77146_0323_00021;21;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.639676;48.813629
+77146_0085_00002;2;;Rue des Cygnes;77183;77146;Croissy-Beaubourg;;;2.652045;48.824325
+77146_0320_00006;6;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.659856;48.829488
+77146_0220_00031;31;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659538;48.82828
+77146_0142_00008;8;;Allee Henri Aubry;77183;77146;Croissy-Beaubourg;;;2.644279;48.826512
+77146_0116_00001;1;;Boulevard Georges Bidault;77183;77146;Croissy-Beaubourg;;;2.649266;48.830395
+77146_0151_00004;4;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.650424;48.828135
+77146_0145_00015;15;;Rue des Hirondelles;77183;77146;Croissy-Beaubourg;;;2.653482;48.825015
+77146_0272_00001;1;;Rond Point du Relais;77183;77146;Croissy-Beaubourg;;;2.650104;48.83025
+77146_0142_00022;22;;Allee Henri Aubry;77183;77146;Croissy-Beaubourg;;;2.643443;48.825856
+77146_0114_00004;4;;Rue de la Garenne;77183;77146;Croissy-Beaubourg;;;2.650811;48.826424
+77146_0018_00001;1;;Rue des Biches;77183;77146;Croissy-Beaubourg;;;2.649929;48.82624
+77146_0120_00004;4;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.662909;48.828229
+77146_0077_00002;2;;Rue des Cols Verts;77183;77146;Croissy-Beaubourg;;;2.651463;48.826371
+77146_0265_00004;4;;Rue du Prieuré;77183;77146;Croissy-Beaubourg;;;2.660869;48.827338
+77146_0005_00032;32;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653391;48.820523
+77146_0153_00038;38;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.645873;48.827445
+77146_0105_00060;60;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.655054;48.822421
+77146_0014_00005;5;;Rue Anne de Meulan;77183;77146;Croissy-Beaubourg;;;2.649443;48.827662
+77146_0300_00001;1;;Rue des Tilleuls;77183;77146;Croissy-Beaubourg;;;2.662902;48.827915
+77146_0140_00000;0;;Chemin du Haha;77183;77146;Croissy-Beaubourg;;;2.663501;48.828956
+77146_0120_00022;22;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.661655;48.827624
+77146_0215_00006;6;;Rue des Mouettes;77183;77146;Croissy-Beaubourg;;;2.655679;48.821969
+77146_0018_00011;11;;Rue des Biches;77183;77146;Croissy-Beaubourg;;;2.649848;48.825847
+77146_0246_00004;4;;Passage Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.648597;48.827714
+77146_0248_00006;6;;Rue Pierre de Pallas;77183;77146;Croissy-Beaubourg;;;2.648511;48.828045
+77146_0203_00003;3;;Rue des Marcassins;77183;77146;Croissy-Beaubourg;;;2.650478;48.826006
+77146_0133_00022;22;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650492;48.828384
+77146_0153_00002;2;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.649788;48.828004
+77146_0021_00008;8;;Rue Alix de Chatillon;77183;77146;Croissy-Beaubourg;;;2.649403;48.828271
+77146_0275_00012;12;;Rue des Roitelets;77183;77146;Croissy-Beaubourg;;;2.655638;48.821234
+77146_0142_00002;2;;Allee Henri Aubry;77183;77146;Croissy-Beaubourg;;;2.644973;48.82701
+77146_0105_00052;52;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654819;48.821898
+77146_0017_00006;6;;Boulevard de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.636049;48.821545
+77146_0264_00023;23;;Allée du 1er Mai;77183;77146;Croissy-Beaubourg;;;2.637662;48.828408
+77146_0041_00016;16;;Rue du Chenil;77183;77146;Croissy-Beaubourg;;;2.646522;48.826799
+77146_0323_00005;5;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.638032;48.813902
+77146_0153_00023;23;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.646613;48.827712
+77146_0140_00005;5;;Chemin du Haha;77183;77146;Croissy-Beaubourg;;;2.663388;48.828253
+77146_0145_00007;7;;Rue des Hirondelles;77183;77146;Croissy-Beaubourg;;;2.653889;48.824441
+77146_0016_00009;9;;Rue Ambroise Croizat;77183;77146;Croissy-Beaubourg;;;2.635725;48.816775
+77146_0310_00003;3;;Allée Tissard de Rouvres;77183;77146;Croissy-Beaubourg;;;2.648249;48.827554
+77146_0243_00007;7;;Rue Pelloutier;77183;77146;Croissy-Beaubourg;;;2.632156;48.82663
+77146_0120_00006;6;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.662635;48.828254
+77146_0151_00003;3;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.650977;48.828153
+77146_0326_00001;1;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.641692;48.822763
+77146_0105_00058;58;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.65506;48.822231
+77146_0264_00012;12;;Allée du 1er Mai;77183;77146;Croissy-Beaubourg;;;2.636927;48.826309
+77146_0010_00001;1;;Rue des Albatros;77183;77146;Croissy-Beaubourg;;;2.655109;48.82187
+77146_0114_00008;8;;Rue de la Garenne;77183;77146;Croissy-Beaubourg;;;2.650905;48.826566
+77146_0060_00001;1;;Allee Clotomont;77183;77146;Croissy-Beaubourg;;;2.666304;48.822211
+77146_0217_00001;1;;Rue des Palombes;77183;77146;Croissy-Beaubourg;;;2.653127;48.821498
+77146_0085_00001;1;;Rue des Cygnes;77183;77146;Croissy-Beaubourg;;;2.651964;48.824346
+77146_0153_00034;34;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.646111;48.827641
+77146_0266_00003;3;;place du Pré des Loriots;77183;77146;Croissy-Beaubourg;;;2.675499;48.821921
+77146_0210_00009;9;;Rue des Mésanges;77183;77146;Croissy-Beaubourg;;;2.651104;48.824239
+77146_0275_00006;6;;Rue des Roitelets;77183;77146;Croissy-Beaubourg;;;2.655224;48.821385
+77146_0026_00003;3;;Allee du Bois Michel Diefenthal;77183;77146;Croissy-Beaubourg;;;2.649228;48.825545
+77146_0220_00026;26;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659449;48.828202
+77146_0021_00001;1;;Rue Alix de Chatillon;77183;77146;Croissy-Beaubourg;;;2.649541;48.828778
+77146_0023_00003;3;;Rue du Baron d’Ivry;77183;77146;Croissy-Beaubourg;;;2.64876;48.829607
+77146_0133_00002;2;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.649737;48.829425
+77146_0260_00012;12;;Rue de la Plaine;77183;77146;Croissy-Beaubourg;;;2.662625;48.828908
+77146_0105_00030_bis;30;bis;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654345;48.82192
+77146_0115_00004;4;;Rue des Geais;77183;77146;Croissy-Beaubourg;;;2.651255;48.825401
+77146_0203_00004;4;;Rue des Marcassins;77183;77146;Croissy-Beaubourg;;;2.650585;48.825985
+77146_0119_00002;2;;Rue du Grand Cerf;77183;77146;Croissy-Beaubourg;;;2.649823;48.826614
+77146_0010_00019;19;;Rue des Albatros;77183;77146;Croissy-Beaubourg;;;2.656173;48.821339
+77146_0099_00021;21;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.64636;48.828287
+77146_0272_00005;5;;Rond Point du Relais;77183;77146;Croissy-Beaubourg;;;2.65007;48.829872
+77146_0145_00001;1;;Rue des Hirondelles;77183;77146;Croissy-Beaubourg;;;2.65329;48.824188
+77146_0133_00001;1;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.649882;48.829444
+77146_0145_00019;19;;Rue des Hirondelles;77183;77146;Croissy-Beaubourg;;;2.653235;48.825262
+77146_0285_00007;7;;Allee des Sarments;77183;77146;Croissy-Beaubourg;;;2.637253;48.813406
+77146_0021_00006;6;;Rue Alix de Chatillon;77183;77146;Croissy-Beaubourg;;;2.649449;48.828314
+77146_0264_00003;3;;Allée du 1er Mai;77183;77146;Croissy-Beaubourg;;;2.636319;48.825564
+77146_0101_00007;7;;Cour Erard de Montmorency;77183;77146;Croissy-Beaubourg;;;2.647103;48.827213
+77146_0041_00002;2;;Rue du Chenil;77183;77146;Croissy-Beaubourg;;;2.64502;48.827257
+77146_0200_00007;7;;Impasse des Lys;77183;77146;Croissy-Beaubourg;;;2.661929;48.828712
+77146_0203_00002;2;;Rue des Marcassins;77183;77146;Croissy-Beaubourg;;;2.650626;48.826126
+77146_0142_00012;12;;Allee Henri Aubry;77183;77146;Croissy-Beaubourg;;;2.644075;48.826394
+77146_0105_00066;66;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.655027;48.822611
+77146_0200_00002;2;;Impasse des Lys;77183;77146;Croissy-Beaubourg;;;2.662297;48.828924
+77146_0275_00004;4;;Rue des Roitelets;77183;77146;Croissy-Beaubourg;;;2.655116;48.821434
+77146_0105_00021;21;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.653706;48.823419
+77146_0095_00008;8;;Rue des Ecureuils;77183;77146;Croissy-Beaubourg;;;2.650558;48.825613
+77146_0105_00015;15;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.65206;48.824591
+77146_0105_00044;44;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.65412;48.821443
+77146_0310_00011;11;;Allée Tissard de Rouvres;77183;77146;Croissy-Beaubourg;;;2.648393;48.827335
+77146_0200_00006;6;;Impasse des Lys;77183;77146;Croissy-Beaubourg;;;2.661862;48.828807
+77146_0220_00043_ter;43;ter;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.65994;48.826879
+77146_0120_00015;15;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.661845;48.827711
+77146_0018_00004;4;;Rue des Biches;77183;77146;Croissy-Beaubourg;;;2.650017;48.826188
+77146_0153_00029;29;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.646356;48.827452
+77146_0080_00004;4;;Chemin de la Cour des Suisses;77183;77146;Croissy-Beaubourg;;;2.64762;48.828673
+77146_0105_00006;6;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.65159;48.825537
+77146_0323_00009;9;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.638357;48.81384
+77146_0085_00003;3;;Rue des Cygnes;77183;77146;Croissy-Beaubourg;;;2.651932;48.824143
+77146_0005_00004;4;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.654049;48.820887
+77146_0005_00058;58;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.652503;48.82069
+77146_0005_00048;48;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.652594;48.820479
+77146_0105_00037;37;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.65392;48.821982
+77146_0210_00007;7;;Rue des Mésanges;77183;77146;Croissy-Beaubourg;;;2.65113;48.824376
+77146_0217_00011;11;;Rue des Palombes;77183;77146;Croissy-Beaubourg;;;2.65234;48.820926
+77146_0323_00004;4;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.637539;48.814055
+77146_0320_00022;22;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.661256;48.829609
+77146_0105_00055;55;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654576;48.821554
+77146_tfc4ne_00008;8;;Allée Léon Jouhaux;77183;77146;Croissy-Beaubourg;;;2.63903;48.825418
+77146_0320_00015_ter;15;ter;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.661105;48.829672
+77146_0218_00015;15;;Rue du Parc;77183;77146;Croissy-Beaubourg;;;2.652598;48.82633
+77146_0099_00043;43;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.645174;48.827799
+77146_0119_00003;3;;Rue du Grand Cerf;77183;77146;Croissy-Beaubourg;;;2.65013;48.826533
+77146_0142_00003;3;;Allee Henri Aubry;77183;77146;Croissy-Beaubourg;;;2.644102;48.826266
+77146_0145_00010;10;;Rue des Hirondelles;77183;77146;Croissy-Beaubourg;;;2.653394;48.824978
+77146_0105_00056;56;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654938;48.822031
+77146_0151_00009;9;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.650428;48.827969
+77146_0220_00008;8;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659014;48.829427
+77146_0133_00023;23;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650774;48.828346
+77146_0320_00018;18;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.660672;48.829421
+77146_0108_00004;4;;rue de la Ferme;77183;77146;Croissy-Beaubourg;;;2.676082;48.821171
+77146_0022_00001;1;;Cour Aubert de Longueval;77183;77146;Croissy-Beaubourg;;;2.649173;48.829232
+77146_0120_00003;3;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.662988;48.828061
+77146_0264_00002;2;;Allée du 1er Mai;77183;77146;Croissy-Beaubourg;;;2.636335;48.82488
+77146_0320_00028;28;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.662995;48.830105
+77146_0323_00002;2;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.637323;48.814186
+77146_0141_00001;1;;rue Henry Delbast;77183;77146;Croissy-Beaubourg;;;2.669863;48.826099
+77146_0015_00002;2;;Rue des Alouettes;77183;77146;Croissy-Beaubourg;;;2.652636;48.82447
+77146_0142_00001;1;;Allee Henri Aubry;77183;77146;Croissy-Beaubourg;;;2.64487;48.82681
+77146_0151_00029;29;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.649742;48.827071
+77146_0105_00048;48;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654574;48.821701
+77146_0220_00033;33;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.65957;48.828234
+77146_0250_00008;8;;Rue des Pinsons;77183;77146;Croissy-Beaubourg;;;2.655561;48.822251
+77146_0323_00010;10;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.63804;48.813746
+77146_0112_00007;7;;Allée des Frères Montgolfier;77183;77146;Croissy-Beaubourg;;;2.634525;48.815554
+77146_0014_00001;1;;Rue Anne de Meulan;77183;77146;Croissy-Beaubourg;;;2.649307;48.827617
+77146_0120_00018;18;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.661774;48.827903
+77146_0133_00017;17;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650557;48.828648
+77146_0264_00067;67;;Allée du 1er Mai;77183;77146;Croissy-Beaubourg;;;2.635642;48.824158
+77146_0248_00012;12;;Rue Pierre de Pallas;77183;77146;Croissy-Beaubourg;;;2.649288;48.827852
+77146_0105_00008;8;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.65174;48.82529
+77146_0145_00004;4;;Rue des Hirondelles;77183;77146;Croissy-Beaubourg;;;2.653386;48.824397
+77146_0120_00005;5;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.66274;48.828215
+77146_0145_00006;6;;Rue des Hirondelles;77183;77146;Croissy-Beaubourg;;;2.653538;48.824547
+77146_0243_00003;3;;Rue Pelloutier;77183;77146;Croissy-Beaubourg;;;2.631643;48.82559
+77146_0287_00004;4;;Cour Simon des Essarts;77183;77146;Croissy-Beaubourg;;;2.648362;48.828929
+77146_0018_00008;8;;Rue des Biches;77183;77146;Croissy-Beaubourg;;;2.649953;48.826046
+77146_0300_00008;8;;Rue des Tilleuls;77183;77146;Croissy-Beaubourg;;;2.662398;48.827694
+77146_0041_00001;1;;Rue du Chenil;77183;77146;Croissy-Beaubourg;;;2.645248;48.827011
+77146_0220_00040;40;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659678;48.826685
+77146_0153_00017;17;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.647702;48.827846
+77146_0220_00005_bis;5;bis;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.65871;48.829965
+77146_0243_00013;13;;Rue Pelloutier;77183;77146;Croissy-Beaubourg;;;2.634923;48.826385
+77146_0005_00060;60;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.652491;48.820736
+77146_0141_00012;12;;rue Henry Delbast;77183;77146;Croissy-Beaubourg;;;2.673359;48.822223
+77146_0095_00003;3;;Rue des Ecureuils;77183;77146;Croissy-Beaubourg;;;2.650588;48.825658
+77146_0320_00023;23;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.662199;48.830067
+77146_0018_00009;9;;Rue des Biches;77183;77146;Croissy-Beaubourg;;;2.649776;48.825879
+77146_0188_00024_bis;24;bis;allée léon jouhaux;77183;77146;Croissy-Beaubourg;;;2.641499;48.828415
+77146_0265_00007;7;;Rue du Prieuré;77183;77146;Croissy-Beaubourg;;;2.660699;48.827497
+77146_0133_00005;5;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650068;48.829264
+77146_0285_00011;11;;Allee des Sarments;77183;77146;Croissy-Beaubourg;;;2.637907;48.812922
+77146_0300_00004;4;;Rue des Tilleuls;77183;77146;Croissy-Beaubourg;;;2.662747;48.827851
+77146_0016_00002;2;;Rue Ambroise Croizat;77183;77146;Croissy-Beaubourg;;;2.632505;48.819053
+77146_0116_00003;3;;Boulevard Georges Bidault;77183;77146;Croissy-Beaubourg;;;2.645272;48.828433
+77146_0101_00010;10;;Cour Erard de Montmorency;77183;77146;Croissy-Beaubourg;;;2.646804;48.827145
+77146_0212_00024;24;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.651412;48.827441
+77146_0202_00010;10;;Chemin des Marcanets;77183;77146;Croissy-Beaubourg;;;2.647464;48.82786
+77146_0010_00005;5;;Rue des Albatros;77183;77146;Croissy-Beaubourg;;;2.655366;48.821748
+77146_0105_00033;33;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654257;48.822282
+77146_0153_00032;32;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.646229;48.827715
+77146_0210_00002;2;;Rue des Mésanges;77183;77146;Croissy-Beaubourg;;;2.651549;48.824898
+77146_0246_00010;10;;Passage Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.648724;48.827533
+77146_0220_00007_bis;7;bis;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.658978;48.830226
+77146_0153_00020;20;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.647066;48.827966
+77146_0203_00001;1;;Rue des Marcassins;77183;77146;Croissy-Beaubourg;;;2.650546;48.82614
+77146_0095_00010;10;;Rue des Ecureuils;77183;77146;Croissy-Beaubourg;;;2.650521;48.825688
+77146_0010_00006;6;;Rue des Albatros;77183;77146;Croissy-Beaubourg;;;2.656039;48.821517
+77146_0320_00005;5;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.659366;48.82967
+77146_0323_00020;20;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.639161;48.813387
+77146_0265_00011;11;;Rue du Prieuré;77183;77146;Croissy-Beaubourg;;;2.6609;48.827499
+77146_0248_00014;14;;Rue Pierre de Pallas;77183;77146;Croissy-Beaubourg;;;2.64936;48.827875
+77146_0151_00027;27;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.649745;48.827095
+77146_0326_00003;3;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.642202;48.822646
+77146_0145_00013;13;;Rue des Hirondelles;77183;77146;Croissy-Beaubourg;;;2.653578;48.824866
+77146_0017_00003;3;;Boulevard de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.636921;48.821834
+77146_0041_00004;4;;Rue du Chenil;77183;77146;Croissy-Beaubourg;;;2.645937;48.826899
+77146_0112_00001;1;;Allée des Frères Montgolfier;77183;77146;Croissy-Beaubourg;;;2.63538;48.815976
+77146_0038_00001;1;;Cour Chantepie;77183;77146;Croissy-Beaubourg;;;2.648884;48.828419
+77146_0248_00005;5;;Rue Pierre de Pallas;77183;77146;Croissy-Beaubourg;;;2.648762;48.828026
+77146_0153_00022;22;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.646948;48.828057
+77146_0016_00010;10;;Rue Ambroise Croizat;77183;77146;Croissy-Beaubourg;;;2.635144;48.8168
+77146_0099_00025;25;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.646281;48.828262
+77146_0120_00017;17;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.661903;48.827522
+77146_0105_00032;32;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654059;48.821931
+77146_0105_00062;62;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.655043;48.822477
+77146_0213_00002;2;;rue Nikola Tesla;77183;77146;Croissy-Beaubourg;;;2.673785;48.825435
+77146_0212_00001;1;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.650232;48.827283
+77146_0120_00020;20;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.661703;48.827763
+77146_0208_00001;1;;Rue des Merles;77183;77146;Croissy-Beaubourg;;;2.654539;48.823487
+77146_0133_00014;14;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650228;48.828798
+77146_0160_00009;9;;Impasse Jean Louis;77183;77146;Croissy-Beaubourg;;;2.644707;48.825155
+77146_0010_00008;8;;Rue des Albatros;77183;77146;Croissy-Beaubourg;;;2.65613;48.821464
+77146_0105_00017;17;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.652553;48.824208
+77146_0300_00005;5;;Rue des Tilleuls;77183;77146;Croissy-Beaubourg;;;2.662544;48.827649
+77146_6jipr6_00001;1;;Chemin de la Ferme de Lamirault;77183;77146;Croissy-Beaubourg;;;2.677449;48.818599
+77146_0010_00015;15;;Rue des Albatros;77183;77146;Croissy-Beaubourg;;;2.655975;48.821389
+77146_0005_00019;19;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653076;48.820661
+77146_0017_00002;2;;Boulevard de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.63684;48.822459
+77146_0220_00012;12;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659027;48.828893
+77146_0105_00001;1;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.651084;48.825999
+77146_0323_00012;12;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.638064;48.813486
+77146_0220_00027_bis;27;bis;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.660817;48.828644
+77146_0022_00006;6;;Cour Aubert de Longueval;77183;77146;Croissy-Beaubourg;;;2.649182;48.829307
+77146_0220_00023_bis;23;bis;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659223;48.828791
+77146_0326_00046;46;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.637262;48.814766
+77146_0151_00017;17;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.649936;48.827797
+77146_0076_00013;13;;Rue des Colombes;77183;77146;Croissy-Beaubourg;;;2.652827;48.825507
+77146_0145_00017;17;;Rue des Hirondelles;77183;77146;Croissy-Beaubourg;;;2.653381;48.825147
+77146_0099_00037;37;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.645429;48.827857
+77146_0115_00006;6;;Rue des Geais;77183;77146;Croissy-Beaubourg;;;2.65105;48.825232
+77146_0215_00005;5;;Rue des Mouettes;77183;77146;Croissy-Beaubourg;;;2.655778;48.821922
+77146_0212_00013;13;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.651143;48.827572
+77146_0016_00006;6;;Rue Ambroise Croizat;77183;77146;Croissy-Beaubourg;;;2.633708;48.818108
+77146_0208_00006;6;;Rue des Merles;77183;77146;Croissy-Beaubourg;;;2.654484;48.82353
+77146_0015_00006;6;;Rue des Alouettes;77183;77146;Croissy-Beaubourg;;;2.652859;48.824708
+77146_0015_00003;3;;Rue des Alouettes;77183;77146;Croissy-Beaubourg;;;2.652865;48.824544
+77146_0105_00019;19;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.652832;48.824073
+77146_0243_00009;9;;Rue Pelloutier;77183;77146;Croissy-Beaubourg;;;2.632846;48.82699
+77146_0101_00008;8;;Cour Erard de Montmorency;77183;77146;Croissy-Beaubourg;;;2.646847;48.827227
+77146_0153_00005;5;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.649216;48.828166
+77146_0264_00001_bis;1;bis;Allée du 1er Mai;77183;77146;Croissy-Beaubourg;;;2.635795;48.824502
+77146_0099_00047;47;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.644868;48.827619
+77146_0210_00003;3;;Rue des Mésanges;77183;77146;Croissy-Beaubourg;;;2.651193;48.824591
+77146_0023_00012;12;;Rue du Baron d’Ivry;77183;77146;Croissy-Beaubourg;;;2.64946;48.829575
+77146_0265_00003;3;;Rue du Prieuré;77183;77146;Croissy-Beaubourg;;;2.660175;48.82748
+77146_0220_00038_t;38;t;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659391;48.826634
+77146_0210_00001;1;;Rue des Mésanges;77183;77146;Croissy-Beaubourg;;;2.651454;48.824901
+77146_0112_00006;6;;Allée des Frères Montgolfier;77183;77146;Croissy-Beaubourg;;;2.634853;48.816056
+77146_0005_00011;11;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.65333;48.82081
+77146_0272_00001_b;1;b;Rond Point du Relais;77183;77146;Croissy-Beaubourg;;;2.650182;48.830205
+77146_0114_00005;5;;Rue de la Garenne;77183;77146;Croissy-Beaubourg;;;2.650948;48.826471
+77146_0153_00014_bis;14;bis;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.647437;48.827804
+77146_0018_00007;7;;Rue des Biches;77183;77146;Croissy-Beaubourg;;;2.649805;48.82595
+77146_0323_00003;3;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.63762;48.814404
+77146_0145_00002;2;;Rue des Hirondelles;77183;77146;Croissy-Beaubourg;;;2.653227;48.82425
+77146_0016_00014;14;;Rue Ambroise Croizat;77183;77146;Croissy-Beaubourg;;;2.636224;48.816128
+77146_0105_00027;27;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.653972;48.822849
+77146_0323_00023;23;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.639826;48.813511
+77146_0213_00001;1;;rue Nikola Tesla;77183;77146;Croissy-Beaubourg;;;2.67351;48.82514
+77146_0320_00002;2;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.659433;48.829518
+77146_0220_00015;15;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659149;48.829693
+77146_0283_00003;3;;Place Saint Marcellin;77183;77146;Croissy-Beaubourg;;;2.649106;48.828689
+77146_0120_00012;12;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.661968;48.828204
+77146_0320_00009;9;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.659438;48.829609
+77146_0320_00003_bis;3;bis;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.65915;48.829621
+77146_0041_00018;18;;Rue du Chenil;77183;77146;Croissy-Beaubourg;;;2.646618;48.826871
+77146_0153_00042;42;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.645631;48.827269
+77146_0119_00006;6;;Rue du Grand Cerf;77183;77146;Croissy-Beaubourg;;;2.650027;48.826668
+77146_0212_00016;16;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.651753;48.827017
+77146_0275_00011;11;;Rue des Roitelets;77183;77146;Croissy-Beaubourg;;;2.655506;48.821136
+77146_0212_00009;9;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.65081;48.827216
+77146_0280_00006;6;;Impasse des Roses;77183;77146;Croissy-Beaubourg;;;2.661668;48.829399
+77146_0323_00019;19;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.639466;48.813744
+77146_0099_00001;1;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.648546;48.829726
+77146_0202_00003;3;;Chemin des Marcanets;77183;77146;Croissy-Beaubourg;;;2.647134;48.828448
+77146_0105_00079;79;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654841;48.823153
+77146_0326_00002;2;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.641794;48.822358
+77146_0210_00010;10;;Rue des Mésanges;77183;77146;Croissy-Beaubourg;;;2.651225;48.824332
+77146_0246_00006;6;;Passage Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.64863;48.827658
+77146_0260_00004;4;;Rue de la Plaine;77183;77146;Croissy-Beaubourg;;;2.662013;48.829587
+77146_0020_00006;6;;Impasse des Bleuets;77183;77146;Croissy-Beaubourg;;;2.663061;48.829378
+77146_0099_00031;31;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.645983;48.827982
+77146_0220_00005;5;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.658633;48.829983
+77146_0266_00004;4;;place du Pré des Loriots;77183;77146;Croissy-Beaubourg;;;2.675059;48.821907
+77146_0099_00015;15;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.647753;48.829182
+77146_0105_00045;45;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.653546;48.821321
+77146_0095_00005;5;;Rue des Ecureuils;77183;77146;Croissy-Beaubourg;;;2.650562;48.825718
+77146_0140_00007;7;;Chemin du Haha;77183;77146;Croissy-Beaubourg;;;2.663383;48.82836
+77146_0153_00014;14;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.647461;48.827853
+77146_0275_00008;8;;Rue des Roitelets;77183;77146;Croissy-Beaubourg;;;2.655278;48.821362
+77146_0250_00007;7;;Rue des Pinsons;77183;77146;Croissy-Beaubourg;;;2.655584;48.822163
+77146_0264_00014;14;;Allée du 1er Mai;77183;77146;Croissy-Beaubourg;;;2.637033;48.826529
+77146_0320_00011;11;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.659814;48.829578
+77146_0140_00001;1;;Chemin du Haha;77183;77146;Croissy-Beaubourg;;;2.663346;48.827766
+77146_0017_00004;4;;Boulevard de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.636049;48.821596
+77146_0212_00012;12;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.651299;48.82705
+77146_0323_00006;6;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.637598;48.813976
+77146_0105_00047;47;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.65393;48.821231
+77146_0105_00041;41;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.65357;48.821778
+77146_0005_00046;46;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.65273;48.820505
+77146_0265_00005;5;;Rue du Prieuré;77183;77146;Croissy-Beaubourg;;;2.660451;48.827489
+77146_0151_00007;7;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.650663;48.828028
+77146_0265_00015;15;;Rue du Prieuré;77183;77146;Croissy-Beaubourg;;;2.660961;48.827253
+77146_0230_00003;3;;Chemin du Pas de la Mule;77183;77146;Croissy-Beaubourg;;;2.648203;48.827268
+77146_0264_00004;4;;Allée du 1er Mai;77183;77146;Croissy-Beaubourg;;;2.637174;48.826711
+77146_7j2du7_00001;1;;Chemin du Pavillon;77183;77146;Croissy-Beaubourg;;;2.665066;48.825137
+77146_0153_00044;44;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.645505;48.827179
+77146_0105_00009;9;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.651393;48.825552
+77146_0120_00013;13;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.661854;48.82791
+77146_0153_00015;15;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.647759;48.827929
+77146_0220_00029_t;29;t;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659973;48.828559
+77146_0120_00002;2;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.66324;48.828119
+77146_0099_00041;41;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.645476;48.82768
+77146_0153_00018;18;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.647066;48.827852
+77146_0220_00040_b;40;b;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659192;48.826569
+77146_0151_00013;13;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.650179;48.827854
+77146_0287_00002;2;;Cour Simon des Essarts;77183;77146;Croissy-Beaubourg;;;2.648179;48.829001
+77146_0264_00001;1;;Allée du 1er Mai;77183;77146;Croissy-Beaubourg;;;2.636301;48.824845
+77146_0260_00006;6;;Rue de la Plaine;77183;77146;Croissy-Beaubourg;;;2.662166;48.829386
+77146_0212_00018;18;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.651971;48.827002
+77146_0204_00003;3;;Impasse de la Mare à Blondeau;77183;77146;Croissy-Beaubourg;;;2.644343;48.827104
+77146_0323_00018;18;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.638287;48.81366
+77146_0018_00010;10;;Rue des Biches;77183;77146;Croissy-Beaubourg;;;2.649966;48.825956
+77146_0101_00003;3;;Cour Erard de Montmorency;77183;77146;Croissy-Beaubourg;;;2.647135;48.827536
+77146_0212_00004;4;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.650288;48.827125
+77146_0115_00011;11;;Rue des Geais;77183;77146;Croissy-Beaubourg;;;2.650775;48.824868
+77146_0005_00010;10;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.654246;48.820759
+77146_0076_00006;6;;Rue des Colombes;77183;77146;Croissy-Beaubourg;;;2.652498;48.825111
+77146_0022_00004;4;;Cour Aubert de Longueval;77183;77146;Croissy-Beaubourg;;;2.649316;48.829192
+77146_0080_00007;7;;Chemin de la Cour des Suisses;77183;77146;Croissy-Beaubourg;;;2.647837;48.828488
+77146_0105_00001_a;1;a;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.648581;48.826807
+77146_0153_00035;35;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.646168;48.827427
+77146_0105_00083;83;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654733;48.823311
+77146_0017_00013;13;;Boulevard de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.630503;48.817826
+77146_0220_00041;41;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659712;48.827968
+77146_0153_00003;3;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.649609;48.828005
+77146_0248_00004;4;;Rue Pierre de Pallas;77183;77146;Croissy-Beaubourg;;;2.648558;48.828134
+77146_0099_00009;9;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.64806;48.829348
+77146_0245_00004;4;;Rue de la Perdrix;77183;77146;Croissy-Beaubourg;;;2.651891;48.825964
+77146_0021_00004;4;;Rue Alix de Chatillon;77183;77146;Croissy-Beaubourg;;;2.649615;48.8285
+77146_0210_00004;4;;Rue des Mésanges;77183;77146;Croissy-Beaubourg;;;2.651443;48.824777
+77146_0218_00008;8;;Rue du Parc;77183;77146;Croissy-Beaubourg;;;2.652514;48.826368
+77146_0153_00025;25;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.646386;48.827693
+77146_0079_00056_bis;56;bis;Boulevard de Courcerin;77183;77146;Croissy-Beaubourg;;;2.631192;48.824711
+77146_0246_00001;1;;Passage Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.648689;48.827796
+77146_0260_00018;18;;Rue de la Plaine;77183;77146;Croissy-Beaubourg;;;2.663172;48.828783
+77146_0200_00005;5;;Impasse des Lys;77183;77146;Croissy-Beaubourg;;;2.662164;48.828702
+77146_0005_00015;15;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653209;48.820736
+77146_0133_00011;11;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650257;48.82904
+77146_0017_00017;17;;Boulevard de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.627329;48.815848
+77146_0275_00010;10;;Rue des Roitelets;77183;77146;Croissy-Beaubourg;;;2.65546;48.821269
+77146_0260_00016;16;;Rue de la Plaine;77183;77146;Croissy-Beaubourg;;;2.663059;48.828798
+77146_0105_00039;39;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.653747;48.821875
+77146_0105_00067;67;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.655184;48.822639
+77146_0220_00038_bis;38;bis;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659652;48.826833
+77146_0105_00022;22;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654422;48.822456
+77146_0151_00001;1;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.651064;48.828179
+77146_0133_00012;12;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650083;48.828932
+77146_0247_00007;7;;Place Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.649055;48.827269
+77146_0022_00002;2;;Cour Aubert de Longueval;77183;77146;Croissy-Beaubourg;;;2.649424;48.829038
+77146_0323_00011;11;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.638587;48.813838
+77146_0133_00019;19;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650606;48.828583
+77146_0265_00013;13;;Rue du Prieuré;77183;77146;Croissy-Beaubourg;;;2.661016;48.827392
+77146_0099_00063;63;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.642352;48.82512
+77146_0320_00032;32;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.663245;48.83091
+77146_0141_00008;8;;rue Henry Delbast;77183;77146;Croissy-Beaubourg;;;2.672536;48.825042
+77146_0153_00033;33;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.646238;48.827384
+77146_0272_00009;9;;Rond Point du Relais;77183;77146;Croissy-Beaubourg;;;2.650273;48.829939
+77146_0220_00010;10;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659006;48.829213
+77146_0099_00049;49;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.644816;48.827552
+77146_0153_00004;4;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.649749;48.828069
+77146_0041_00022;22;;Rue du Chenil;77183;77146;Croissy-Beaubourg;;;2.647057;48.826762
+77146_0076_00005;5;;Rue des Colombes;77183;77146;Croissy-Beaubourg;;;2.65254;48.825037
+77146_0016_00008;8;;Rue Ambroise Croizat;77183;77146;Croissy-Beaubourg;;;2.634577;48.817236
+77146_0018_00006;6;;Rue des Biches;77183;77146;Croissy-Beaubourg;;;2.649985;48.826117
+77146_0220_00027_ter;27;ter;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.661391;48.82874
+77146_0105_00077;77;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654892;48.823092
+77146_0202_00008;8;;Chemin des Marcanets;77183;77146;Croissy-Beaubourg;;;2.647279;48.828172
+77146_0153_00041;41;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.645624;48.827173
+77146_0283_00001;1;;Place Saint Marcellin;77183;77146;Croissy-Beaubourg;;;2.649326;48.828753
+77146_0014_00003;3;;Rue Anne de Meulan;77183;77146;Croissy-Beaubourg;;;2.649374;48.827642
+77146_0005_00002;2;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653968;48.820904
+77146_0246_00009;9;;Passage Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.648867;48.827576
+77146_0005_00005;5;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653699;48.820818
+77146_0320_00015_bis;15;bis;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.660987;48.829628
+77146_0005_00026;26;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653319;48.820669
+77146_0095_00006;6;;Rue des Ecureuils;77183;77146;Croissy-Beaubourg;;;2.650596;48.825506
+77146_0105_00070;70;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654842;48.822945
+77146_0116_00001_bis;1;bis;Boulevard Georges Bidault;77183;77146;Croissy-Beaubourg;;;2.630921;48.825486
+77146_0243_00014;14;;Rue Pelloutier;77183;77146;Croissy-Beaubourg;;;2.634255;48.826414
+77146_0220_00024;24;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659312;48.828293
+77146_0076_00004;4;;Rue des Colombes;77183;77146;Croissy-Beaubourg;;;2.652358;48.824988
+77146_0141_00004;4;;rue Henry Delbast;77183;77146;Croissy-Beaubourg;;;2.670486;48.825958
+77146_0264_00018;18;;Allée du 1er Mai;77183;77146;Croissy-Beaubourg;;;2.637482;48.827469
+77146_0218_00003;3;;Rue du Parc;77183;77146;Croissy-Beaubourg;;;2.651551;48.826288
+77146_0247_00010;10;;Place Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.64881;48.826967
+77146_0115_00003;3;;Rue des Geais;77183;77146;Croissy-Beaubourg;;;2.651045;48.825338
+77146_0320_00013;13;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.660071;48.829551
+77146_0005_00040;40;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.652961;48.820548
+77146_0133_00025;25;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650814;48.828289
+77146_0115_00012;12;;Rue des Geais;77183;77146;Croissy-Beaubourg;;;2.651102;48.82477
+77146_0005_00054;54;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.652548;48.82059
+77146_0212_00034;34;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.650803;48.827651
+77146_0099_00052;52;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.643716;48.827384
+77146_0005_00003;3;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653784;48.820865
+77146_0010_00003;3;;Rue des Albatros;77183;77146;Croissy-Beaubourg;;;2.655203;48.821825
+77146_0032_00005;5;;Chemin Célestin Leyet;77183;77146;Croissy-Beaubourg;;;2.649208;48.827883
+77146_0120_00019;19;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.661799;48.827452
+77146_0217_00005;5;;Rue des Palombes;77183;77146;Croissy-Beaubourg;;;2.652789;48.821335
+77146_0016_00003;3;;Rue Ambroise Croizat;77183;77146;Croissy-Beaubourg;;;2.633628;48.81835
+77146_0320_00007;7;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.659413;48.829745
+77146_0105_00035;35;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654133;48.822119
+77146_0115_00008;8;;Rue des Geais;77183;77146;Croissy-Beaubourg;;;2.650934;48.825111
+77146_0101_00011;11;;Cour Erard de Montmorency;77183;77146;Croissy-Beaubourg;;;2.64691;48.827118
+77146_0005_00030;30;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653368;48.820572
+77146_0217_00002;2;;Rue des Palombes;77183;77146;Croissy-Beaubourg;;;2.65326;48.821452
+77146_0246_00008;8;;Passage Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.648651;48.827634
+77146_0108_00003;3;;rue de la Ferme;77183;77146;Croissy-Beaubourg;;;2.676059;48.820699
+77146_0213_00004;4;;rue Nikola Tesla;77183;77146;Croissy-Beaubourg;;;2.674163;48.825475
+77146_0220_00040_c;40;c;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.658957;48.826993
+77146_0310_00007;7;;Allée Tissard de Rouvres;77183;77146;Croissy-Beaubourg;;;2.648328;48.827427
+77146_0105_00059;59;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654841;48.821719
+77146_0077_00004;4;;Rue des Cols Verts;77183;77146;Croissy-Beaubourg;;;2.651556;48.826514
+77146_0015_00005;5;;Rue des Alouettes;77183;77146;Croissy-Beaubourg;;;2.652994;48.824651
+77146_0133_00007;7;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650127;48.829209
+77146_0248_00001;1;;Rue Pierre de Pallas;77183;77146;Croissy-Beaubourg;;;2.648804;48.828171
+77146_0323_00013;13;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.638817;48.813836
+77146_0250_00005;5;;Rue des Pinsons;77183;77146;Croissy-Beaubourg;;;2.655509;48.822194
+77146_0217_00003;3;;Rue des Palombes;77183;77146;Croissy-Beaubourg;;;2.652954;48.82144
+77146_0105_00002;2;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.651355;48.825935
+77146_0213_00005;5;;rue Nikola Tesla;77183;77146;Croissy-Beaubourg;;;2.674534;48.825257
+77146_0105_00075;75;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.655009;48.82296
+77146_0217_00007;7;;Rue des Palombes;77183;77146;Croissy-Beaubourg;;;2.652622;48.821232
+77146_tfc4ne_00019;19;;Allée Léon Jouhaux;77183;77146;Croissy-Beaubourg;;;2.640086;48.826913
+77146_0247_00011;11;;Place Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.649058;48.827028
+77146_0005_00016;16;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653994;48.820787
+77146_0142_00010;10;;Allee Henri Aubry;77183;77146;Croissy-Beaubourg;;;2.644181;48.826442
+77146_0141_00002;2;;rue Henry Delbast;77183;77146;Croissy-Beaubourg;;;2.66902;48.825713
+77146_0243_00011;11;;Rue Pelloutier;77183;77146;Croissy-Beaubourg;;;2.634828;48.826406
+77146_0141_00014;14;;rue Henry Delbast;77183;77146;Croissy-Beaubourg;;;2.674024;48.82058
+77146_0323_00007;7;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.638127;48.813843
+77146_0320_00016;16;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.66046;48.829419
+77146_0212_00007;7;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.650722;48.827301
+77146_0020_00003;3;;Impasse des Bleuets;77183;77146;Croissy-Beaubourg;;;2.662965;48.829293
+77146_0287_00005;5;;Cour Simon des Essarts;77183;77146;Croissy-Beaubourg;;;2.648424;48.829015
+77146_0142_00016;16;;Allee Henri Aubry;77183;77146;Croissy-Beaubourg;;;2.643758;48.826167
+77146_0120_00011;11;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.661939;48.828123
+77146_tfc4ne_00006;6;;Allée Léon Jouhaux;77183;77146;Croissy-Beaubourg;;;2.638814;48.825461
+77146_0208_00004;4;;Rue des Merles;77183;77146;Croissy-Beaubourg;;;2.654375;48.823497
+77146_0005_00020;20;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653816;48.820732
+77146_0263_00001;1;;Allée des Platanes;77183;77146;Croissy-Beaubourg;;;2.649354;48.829482
+77146_0323_00001;1;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.63726;48.81438
+77146_0246_00002;2;;Passage Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.64855;48.827768
+77146_tfc4ne_00001;1;;Allée Léon Jouhaux;77183;77146;Croissy-Beaubourg;;;2.636844;48.825935
+77146_0212_00022;22;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.651465;48.8273
+77146_0248_00010;10;;Rue Pierre de Pallas;77183;77146;Croissy-Beaubourg;;;2.648462;48.827955
+77146_0200_00003;3;;Impasse des Lys;77183;77146;Croissy-Beaubourg;;;2.662213;48.828759
+77146_0217_00009;9;;Rue des Palombes;77183;77146;Croissy-Beaubourg;;;2.652396;48.821094
+77146_0208_00002;2;;Rue des Merles;77183;77146;Croissy-Beaubourg;;;2.65433;48.823382
+77146_0153_00024;24;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.646866;48.827956
+77146_0005_00001;1;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.65382;48.820891
+77146_0105_00012;12;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.653866;48.823345
+77146_0248_00002;2;;Rue Pierre de Pallas;77183;77146;Croissy-Beaubourg;;;2.648586;48.8282
+77146_0153_00011;11;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.647816;48.82808
+77146_0073_00005;5;;Rue des Colibris;77183;77146;Croissy-Beaubourg;;;2.654762;48.820934
+77146_0245_00005;5;;Rue de la Perdrix;77183;77146;Croissy-Beaubourg;;;2.651984;48.825811
+77146_0280_00005;5;;Impasse des Roses;77183;77146;Croissy-Beaubourg;;;2.661737;48.829318
+77146_0220_00014;14;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659053;48.828789
+77146_0204_00002;2;;Impasse de la Mare à Blondeau;77183;77146;Croissy-Beaubourg;;;2.64445;48.827118
+77146_0326_00015;15;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.644282;48.82098
+77146_0280_00004;4;;Impasse des Roses;77183;77146;Croissy-Beaubourg;;;2.661678;48.829492
+77146_0220_00003;3;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.658418;48.830066
+77146_0017_00005;5;;Boulevard de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.639743;48.820753
+77146_0153_00006;6;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.649673;48.828197
+77146_0005_00014;14;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.654101;48.820809
+77146_0310_00004;4;;Allée Tissard de Rouvres;77183;77146;Croissy-Beaubourg;;;2.648148;48.827496
+77146_0220_00029_a;29;a;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659927;48.828527
+77146_0220_00012_ter;12;ter;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659019;48.829043
+77146_0215_00004;4;;Rue des Mouettes;77183;77146;Croissy-Beaubourg;;;2.655584;48.821871
+77146_0099_00029;29;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.645861;48.828205
+77146_0212_00005;5;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.650593;48.827451
+77146_0101_00004;4;;Cour Erard de Montmorency;77183;77146;Croissy-Beaubourg;;;2.647037;48.82756
+77146_0105_00049;49;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654063;48.821293
+77146_0105_00013;13;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.651677;48.825121
+77146_0105_00040;40;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.653699;48.821362
+77146_0141_00002_bis;2;bis;rue Henry Delbast;77183;77146;Croissy-Beaubourg;;;2.669591;48.825787
+77146_0112_00010;10;;Allée des Frères Montgolfier;77183;77146;Croissy-Beaubourg;;;2.633912;48.81564
+77146_tfc4ne_00025;25;;Allée Léon Jouhaux;77183;77146;Croissy-Beaubourg;;;2.638694;48.82769
+77146_0220_00043;43;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659909;48.827142
+77146_0010_00007;7;;Rue des Albatros;77183;77146;Croissy-Beaubourg;;;2.655464;48.821702
+77146_0099_00035;35;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.645591;48.828045
+77146_0215_00002;2;;Rue des Mouettes;77183;77146;Croissy-Beaubourg;;;2.655517;48.821808
+77146_0220_00069;69;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.664019;48.827803
+77146_0153_00037;37;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.645812;48.82731
+77146_0095_00004;4;;Rue des Ecureuils;77183;77146;Croissy-Beaubourg;;;2.650629;48.825426
+77146_0005_00013;13;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.65325;48.820759
+77146_0099_00003;3;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.648432;48.829552
+77146_0323_00014;14;;Allée des Vendanges;77183;77146;Croissy-Beaubourg;;;2.638171;48.81367
+77146_0105_00068;68;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654953;48.822804
+77146_0218_00007;7;;Rue du Parc;77183;77146;Croissy-Beaubourg;;;2.651762;48.826342
+77146_0101_00002;2;;Cour Erard de Montmorency;77183;77146;Croissy-Beaubourg;;;2.647033;48.827635
+77146_0310_00005;5;;Allée Tissard de Rouvres;77183;77146;Croissy-Beaubourg;;;2.648293;48.827481
+77146_0076_00009;9;;Rue des Colombes;77183;77146;Croissy-Beaubourg;;;2.653079;48.825494
+77146_0151_00019;19;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.649807;48.827588
+77146_tfc4ne_00020;20;;Allée Léon Jouhaux;77183;77146;Croissy-Beaubourg;;;2.640705;48.827271
+77146_0246_00012;12;;Passage Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.648786;48.827485
+77146_0153_00036;36;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.646015;48.827573
+77146_0246_00007;7;;Passage Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.648828;48.827629
+77146_0105_00043;43;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.653441;48.821642
+77146_0021_00005;5;;Rue Alix de Chatillon;77183;77146;Croissy-Beaubourg;;;2.64976;48.828548
+77146_0077_00008;8;;Rue des Cols Verts;77183;77146;Croissy-Beaubourg;;;2.65166;48.826659
+77146_0115_00002;2;;Rue des Geais;77183;77146;Croissy-Beaubourg;;;2.651361;48.825428
+77146_0153_00019;19;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.647664;48.827793
+77146_0119_00005;5;;Rue du Grand Cerf;77183;77146;Croissy-Beaubourg;;;2.650245;48.826698
+77146_0153_00031;31;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.646307;48.827399
+77146_0112_00005;5;;Allée des Frères Montgolfier;77183;77146;Croissy-Beaubourg;;;2.634802;48.815726
+77146_0005_00056;56;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.652524;48.820639
+77146_0141_00010;10;;rue Henry Delbast;77183;77146;Croissy-Beaubourg;;;2.672946;48.823578
+77146_0105_00007;7;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.651357;48.82562
+77146_0320_00026_bis;26;bis;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.662726;48.830034
+77146_0272_00018;18;;Rond Point du Relais;77183;77146;Croissy-Beaubourg;;;2.650883;48.830047
+77146_0326_00016;16;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.643432;48.820185
+77146_0105_00054;54;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654913;48.821996
+77146_0005_00023;23;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.652775;48.820597
+77146_0021_00007;7;;Rue Alix de Chatillon;77183;77146;Croissy-Beaubourg;;;2.649855;48.828421
+77146_0243_00005;5;;Rue Pelloutier;77183;77146;Croissy-Beaubourg;;;2.631842;48.826141
+77146_0247_00009;9;;Place Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.649187;48.827174
+77146_0247_00001;1;;Place Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.649015;48.827422
+77146_0248_00003;3;;Rue Pierre de Pallas;77183;77146;Croissy-Beaubourg;;;2.648782;48.828096
+77146_0283_00006;6;;Place Saint Marcellin;77183;77146;Croissy-Beaubourg;;;2.648976;48.828842
+77146_0218_00013;13;;Rue du Parc;77183;77146;Croissy-Beaubourg;;;2.652452;48.82632
+77146_0220_00040_t;40;t;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659053;48.826785
+77146_0005_00025;25;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.652691;48.820583
+77146_0076_00002;2;;Rue des Colombes;77183;77146;Croissy-Beaubourg;;;2.652197;48.824833
+77146_0220_00043_bis;43;bis;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659938;48.82703
+77146_0272_00015;15;;Rond Point du Relais;77183;77146;Croissy-Beaubourg;;;2.650712;48.830155
+77146_0119_00001;1;;Rue du Grand Cerf;77183;77146;Croissy-Beaubourg;;;2.64998;48.826599
+77146_0133_00020;20;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650384;48.828525
+77146_0145_00012;12;;Rue des Hirondelles;77183;77146;Croissy-Beaubourg;;;2.653295;48.825122
+77146_0016_00001;1;;Rue Ambroise Croizat;77183;77146;Croissy-Beaubourg;;;2.633399;48.818503
+77146_0133_00018;18;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650337;48.828591
+77146_0105_00069;69;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.655136;48.822788
+77146_0215_00001;1;;Rue des Mouettes;77183;77146;Croissy-Beaubourg;;;2.65566;48.821781
+77146_0010_00011;11;;Rue des Albatros;77183;77146;Croissy-Beaubourg;;;2.655651;48.821611
+77146_0105_00030;30;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654252;48.822052
+77146_0145_00008;8;;Rue des Hirondelles;77183;77146;Croissy-Beaubourg;;;2.653517;48.824826
+77146_0105_00029;29;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654112;48.822712
+77146_0105_00046;46;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654335;48.821568
+77146_0076_00010;10;;Rue des Colombes;77183;77146;Croissy-Beaubourg;;;2.6526;48.825552
+77146_0320_00026;26;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.662345;48.829976
+77146_0212_00006;6;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.650551;48.827158
+77146_0326_00004;4;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.64228;48.822319
+77146_0310_00009;9;;Allée Tissard de Rouvres;77183;77146;Croissy-Beaubourg;;;2.648364;48.827385
+77146_0145_00021;21;;Rue des Hirondelles;77183;77146;Croissy-Beaubourg;;;2.653125;48.825263
+77146_0080_00005;5;;Chemin de la Cour des Suisses;77183;77146;Croissy-Beaubourg;;;2.647749;48.828613
+77146_0277_00001;1;;Rond Point de Roccasecca;77183;77146;Croissy-Beaubourg;;;2.644213;48.828179
+77146_0212_00038;38;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.650382;48.827515
+77146_0320_00014;14;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.660371;48.829432
+77146_0099_00026;26;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.648457;48.8297
+77146_0153_00013;13;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.647771;48.828014
+77146_0217_00012;12;;Rue des Palombes;77183;77146;Croissy-Beaubourg;;;2.652677;48.821178
+77146_0265_00001;1;;Rue du Prieuré;77183;77146;Croissy-Beaubourg;;;2.659956;48.827469
+77146_0133_00021;21;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650699;48.828417
+77146_0218_00006;6;;Rue du Parc;77183;77146;Croissy-Beaubourg;;;2.652421;48.82641
+77146_0326_00005;5;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.64268;48.822484
+77146_0005_00042;42;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.652879;48.820533
+77146_0076_00014;14;;Rue des Colombes;77183;77146;Croissy-Beaubourg;;;2.652609;48.825888
+77146_0220_00027_quater;27;quater;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.661441;48.82867
+77146_0105_00065;65;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.655229;48.822557
+77146_0076_00003;3;;Rue des Colombes;77183;77146;Croissy-Beaubourg;;;2.652393;48.824899
+77146_0248_00008;8;;Rue Pierre de Pallas;77183;77146;Croissy-Beaubourg;;;2.648486;48.828012
+77146_0220_00029;29;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659432;48.828428
+77146_0005_00052;52;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.652425;48.820465
+77146_0218_00002;2;;Rue du Parc;77183;77146;Croissy-Beaubourg;;;2.652054;48.826527
+77146_0005_00018;18;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653944;48.820777
+77146_0212_00030;30;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.651116;48.827788
+77146_0095_00002;2;;Rue des Ecureuils;77183;77146;Croissy-Beaubourg;;;2.650701;48.825323
+77146_0300_00006;6;;Rue des Tilleuls;77183;77146;Croissy-Beaubourg;;;2.662465;48.827798
+77146_0220_00011;11;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.658915;48.829881
+77146_0114_00002;2;;Rue de la Garenne;77183;77146;Croissy-Beaubourg;;;2.650764;48.826361
+77146_0105_00025;25;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.653854;48.823003
+77146_0020_00010;10;;Impasse des Bleuets;77183;77146;Croissy-Beaubourg;;;2.663043;48.829619
+77146_0247_00004;4;;Place Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.648695;48.8273
+77146_0260_00014;14;;Rue de la Plaine;77183;77146;Croissy-Beaubourg;;;2.662751;48.828859
+77146_0020_00008;8;;Impasse des Bleuets;77183;77146;Croissy-Beaubourg;;;2.663085;48.829536
+77146_0212_00032;32;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.650957;48.82775
+77146_0141_00006;6;;rue Henry Delbast;77183;77146;Croissy-Beaubourg;;;2.671492;48.826032
+77146_0041_00012;12;;Rue du Chenil;77183;77146;Croissy-Beaubourg;;;2.646094;48.826834
+77146_0105_00034;34;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.65395;48.821858
+77146_0105_00076;76;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654358;48.82324
+77146_0023_00021;21;;Rue du Baron d’Ivry;77183;77146;Croissy-Beaubourg;;;2.649688;48.829505
+77146_0105_00073;73;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.655031;48.822931
+77146_0275_00002;2;;Rue des Roitelets;77183;77146;Croissy-Beaubourg;;;2.65503;48.821478
+77146_0151_00008;8;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.649541;48.827371
+77146_0326_00009;9;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.643467;48.822155
+77146_0218_00011;11;;Rue du Parc;77183;77146;Croissy-Beaubourg;;;2.652193;48.826384
+77146_0263_00007;7;;Allée des Platanes;77183;77146;Croissy-Beaubourg;;;2.648118;48.828716
+77146_0114_00001;1;;Rue de la Garenne;77183;77146;Croissy-Beaubourg;;;2.650855;48.82634
+77146_0105_00053;53;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654508;48.821484
+77146_0151_00025;25;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.64979;48.827336
+77146_0145_00003;3;;Rue des Hirondelles;77183;77146;Croissy-Beaubourg;;;2.653426;48.824318
+77146_0326_00024;24;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.642708;48.820916
+77146_0115_00013;13;;Rue des Geais;77183;77146;Croissy-Beaubourg;;;2.650929;48.824745
+77146_0095_00001;1;;Rue des Ecureuils;77183;77146;Croissy-Beaubourg;;;2.6507;48.825473
+77146_0076_00015;15;;Rue des Colombes;77183;77146;Croissy-Beaubourg;;;2.652709;48.825745
+77146_0077_00010;10;;Rue des Cols Verts;77183;77146;Croissy-Beaubourg;;;2.651702;48.826726
+77146_0212_00003;3;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.650416;48.827345
+77146_0133_00003;3;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.649935;48.829396
+77146_0250_00002;2;;Rue des Pinsons;77183;77146;Croissy-Beaubourg;;;2.655276;48.822381
+77146_0023_00001;1;;Rue du Baron d’Ivry;77183;77146;Croissy-Beaubourg;;;2.648734;48.829634
+77146_0099_00061;61;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.64238;48.825199
+77146_0145_00011;11;;Rue des Hirondelles;77183;77146;Croissy-Beaubourg;;;2.653718;48.824709
+77146_0079_00084;84;;Boulevard de Courcerin;77183;77146;Croissy-Beaubourg;;;2.639747;48.822863
+77146_tfc4ne_00015;15;;Allée Léon Jouhaux;77183;77146;Croissy-Beaubourg;;;2.639797;48.826305
+77146_0320_00015;15;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.660686;48.829523
+77146_0285_00009;9;;Allee des Sarments;77183;77146;Croissy-Beaubourg;;;2.637749;48.813035
+77146_0105_00081;81;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654784;48.823226
+77146_0275_00003;3;;Rue des Roitelets;77183;77146;Croissy-Beaubourg;;;2.655062;48.821384
+77146_0005_00017;17;;Allée des Aigrettes;77183;77146;Croissy-Beaubourg;;;2.653134;48.820696
+77146_0021_00003;3;;Rue Alix de Chatillon;77183;77146;Croissy-Beaubourg;;;2.649631;48.82867
+77146_0101_00006;6;;Cour Erard de Montmorency;77183;77146;Croissy-Beaubourg;;;2.646897;48.827313
+77146_0272_00013;13;;Rond Point du Relais;77183;77146;Croissy-Beaubourg;;;2.650551;48.830102
+77146_0099_00065;65;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.642236;48.824533
+77146_0060_00003;3;;Allee Clotomont;77183;77146;Croissy-Beaubourg;;;2.662985;48.820413
+77146_0017_00026_bis;26;bis;Boulevard de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.62817;48.817851
+77146_0099_00007;7;;Rue d’Emerainville;77183;77146;Croissy-Beaubourg;;;2.648187;48.829405
+77146_0041_00020;20;;Rue du Chenil;77183;77146;Croissy-Beaubourg;;;2.646697;48.826761
+77146_0041_00014;14;;Rue du Chenil;77183;77146;Croissy-Beaubourg;;;2.646542;48.826732
+77146_0247_00002;2;;Place Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.64866;48.827343
+77146_0326_00017;17;;Rue des Vieilles Vignes;77183;77146;Croissy-Beaubourg;;;2.644086;48.820453
+77146_0021_00009;9;;Rue Alix de Chatillon;77183;77146;Croissy-Beaubourg;;;2.64996;48.828307
+77146_0120_00009;9;;Rue des Grands Chênes;77183;77146;Croissy-Beaubourg;;;2.662313;48.828199
+77146_0133_00008;8;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.649904;48.829184
+77146_0204_00004;4;;Impasse de la Mare à Blondeau;77183;77146;Croissy-Beaubourg;;;2.644401;48.827146
+77146_0153_00030;30;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.646334;48.827763
+77146_0105_00038;38;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.65363;48.821638
+77146_0265_00002;2;;Rue du Prieuré;77183;77146;Croissy-Beaubourg;;;2.659902;48.827389
+77146_0085_00005;5;;Rue des Cygnes;77183;77146;Croissy-Beaubourg;;;2.651986;48.823975
+77146_0220_00028;28;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659484;48.828089
+77146_0105_00014;14;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654053;48.822955
+77146_0260_00005;5;;Rue de la Plaine;77183;77146;Croissy-Beaubourg;;;2.662222;48.82952
+77146_0085_00006;6;;Rue des Cygnes;77183;77146;Croissy-Beaubourg;;;2.652105;48.824036
+77146_tfc4ne_00026;26;;Allée Léon Jouhaux;77183;77146;Croissy-Beaubourg;;;2.640482;48.8278
+77146_tfc4ne_00024;24;;Allée Léon Jouhaux;77183;77146;Croissy-Beaubourg;;;2.64081;48.828287
+77146_0023_00008;8;;Rue du Baron d’Ivry;77183;77146;Croissy-Beaubourg;;;2.649269;48.829576
+77146_0105_00061;61;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.655124;48.821995
+77146_0133_00009;9;;Rue Guillaume de Garlande;77183;77146;Croissy-Beaubourg;;;2.650235;48.829066
+77146_0272_00007;7;;Rond Point du Relais;77183;77146;Croissy-Beaubourg;;;2.650221;48.82981
+77146_0220_00006;6;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.658838;48.829801
+77146_0017_00001;1;;Boulevard de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.637223;48.822436
+77146_0115_00007;7;;Rue des Geais;77183;77146;Croissy-Beaubourg;;;2.650768;48.825058
+77146_tfc4ne_00030;30;;Allée Léon Jouhaux;77183;77146;Croissy-Beaubourg;;;2.638365;48.827961
+77146_0210_00012;12;;Rue des Mésanges;77183;77146;Croissy-Beaubourg;;;2.651239;48.824132
+77146_0073_00001;1;;Rue des Colibris;77183;77146;Croissy-Beaubourg;;;2.654372;48.821193
+77146_0151_00023;23;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.649787;48.827368
+77146_0108_00002;2;;rue de la Ferme;77183;77146;Croissy-Beaubourg;;;2.674649;48.821009
+77146_0220_00016;16;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.65913;48.828662
+77146_0202_00004_bis;4;bis;Chemin des Marcanets;77183;77146;Croissy-Beaubourg;;;2.647165;48.828344
+77146_0023_00018;18;;Rue du Baron d’Ivry;77183;77146;Croissy-Beaubourg;;;2.649914;48.829628
+77146_0153_00009;9;;Rue Jean de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.647892;48.828165
+77146_0017_00018;18;;Boulevard de Beaubourg;77183;77146;Croissy-Beaubourg;;;2.632708;48.81949
+77146_0264_00022;22;;Allée du 1er Mai;77183;77146;Croissy-Beaubourg;;;2.637747;48.828097
+77146_0266_00001;1;;place du Pré des Loriots;77183;77146;Croissy-Beaubourg;;;2.674853;48.822246
+77146_0220_00023;23;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.659259;48.828721
+77146_0250_00003;3;;Rue des Pinsons;77183;77146;Croissy-Beaubourg;;;2.655405;48.822247
+77146_0076_00017;17;;Rue des Colombes;77183;77146;Croissy-Beaubourg;;;2.652728;48.825877
+77146_0080_00002;2;;Chemin de la Cour des Suisses;77183;77146;Croissy-Beaubourg;;;2.647402;48.828905
+77146_0020_00001;1;;Impasse des Bleuets;77183;77146;Croissy-Beaubourg;;;2.662822;48.829059
+77146_0265_00009;9;;Rue du Prieuré;77183;77146;Croissy-Beaubourg;;;2.660907;48.82756
+77146_0230_00001;1;;Chemin du Pas de la Mule;77183;77146;Croissy-Beaubourg;;;2.648267;48.82729
+77146_0112_00008;8;;Allée des Frères Montgolfier;77183;77146;Croissy-Beaubourg;;;2.63447;48.815835
+77146_0230_00005;5;;Chemin du Pas de la Mule;77183;77146;Croissy-Beaubourg;;;2.648129;48.827246
+77146_0145_00009;9;;Rue des Hirondelles;77183;77146;Croissy-Beaubourg;;;2.653691;48.824556
+77146_0032_00010;10;;Chemin Célestin Leyet;77183;77146;Croissy-Beaubourg;;;2.649225;48.827704
+77146_0141_00007;7;;rue Henry Delbast;77183;77146;Croissy-Beaubourg;;;2.672547;48.826123
+77146_0220_00030;30;;Rue de Paris;77183;77146;Croissy-Beaubourg;;;2.65954;48.828013
+77146_0210_00008;8;;Rue des Mésanges;77183;77146;Croissy-Beaubourg;;;2.651266;48.824475
+77146_0105_00016;16;;Avenue de l’Etang;77183;77146;Croissy-Beaubourg;;;2.654182;48.822822
+77146_0264_00024;24;;Allée du 1er Mai;77183;77146;Croissy-Beaubourg;;;2.63812;48.828751
+77146_0243_00001_bis;1;bis;Rue Pelloutier;77183;77146;Croissy-Beaubourg;;;2.630716;48.825135
+77146_tfc4ne_00010;10;;Allée Léon Jouhaux;77183;77146;Croissy-Beaubourg;;;2.639641;48.82532
+77146_0246_00005;5;;Passage Pierre de Cléry;77183;77146;Croissy-Beaubourg;;;2.648794;48.827674
+77146_0212_00020;20;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.651648;48.827164
+77146_0016_00021;21;;Rue Ambroise Croizat;77183;77146;Croissy-Beaubourg;;;2.635272;48.814171
+77146_0217_00008;8;;Rue des Palombes;77183;77146;Croissy-Beaubourg;;;2.652859;48.821279
+77146_0151_00010;10;;Rue Jean Baptiste Colbert;77183;77146;Croissy-Beaubourg;;;2.649533;48.827302
+77146_0202_00004;4;;Chemin des Marcanets;77183;77146;Croissy-Beaubourg;;;2.647071;48.828481
+77146_0212_00002;2;;Rue Michel de Champrond;77183;77146;Croissy-Beaubourg;;;2.650109;48.827155
+77146_0300_00003;3;;Rue des Tilleuls;77183;77146;Croissy-Beaubourg;;;2.662771;48.827796
+77146_0320_00003;3;;Rue de Torcy;77183;77146;Croissy-Beaubourg;;;2.659225;48.829686

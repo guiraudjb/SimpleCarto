@@ -1,0 +1,783 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+66096_zkc62u_00012;12;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.654375;42.76845
+66096_zkc62u_00015;15;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.653554;42.767797
+66096_zkc62u_00500_f;500;f;Avenue Guy Male;66720;66096;Latour-de-France;;;2.653365;42.767792
+66096_b9s61p_00004;4;;Lieu Dit Roubials;66720;66096;Latour-de-France;;;2.66678;42.777816
+66096_gbuaxj_00010;10;;Chemin du Mietx Del Pla;66720;66096;Latour-de-France;;;2.664521;42.766032
+66096_gbuaxj_00037_f;37;f;Chemin du Mietx Del Pla;66720;66096;Latour-de-France;;;2.6599;42.765752
+66096_ofqlqa_00001;1;;Route Montner;66720;66096;Latour-de-France;;;2.671582;42.756338
+66096_w331n4_00412;412;;La Capeillette;66720;66096;Latour-de-France;;;2.657484;42.768935
+66096_bwre53_00501;501;;Las Feiches;66720;66096;Latour-de-France;;;2.656381;42.770367
+66096_4nhtrn_00029;29;;La Ville;66720;66096;Latour-de-France;;;2.652859;42.769169
+66096_0222_00001_bis;1;bis;Rue du Presbytere;66720;66096;Latour-de-France;;;2.65218;42.768451
+66096_0170_00003;3;;Rue Jean Jaurès;66720;66096;Latour-de-France;;;2.65368;42.769279
+66096_0170_00010;10;;Rue Jean Jaurès;66720;66096;Latour-de-France;;;2.654266;42.768928
+66096_0135_00010;10;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.661071;42.76738
+66096_0135_00018;18;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.662126;42.767088
+66096_0135_00031;31;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.661125;42.767445
+66096_0135_00010_bis;10;bis;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.661384;42.767317
+66096_0010_00007;7;;Rue Anatole France;66720;66096;Latour-de-France;;;2.654113;42.768712
+66096_0010_00008;8;;Rue Anatole France;66720;66096;Latour-de-France;;;2.653566;42.768797
+66096_0048_00001;1;;Rue du Carignan;66720;66096;Latour-de-France;;;2.663141;42.766333
+66096_0048_00009;9;;Rue du Carignan;66720;66096;Latour-de-France;;;2.663734;42.766004
+66096_0048_00013;13;;Rue du Carignan;66720;66096;Latour-de-France;;;2.663803;42.76549
+66096_0050_00019;19;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.65456;42.769733
+66096_0050_00027;27;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.654544;42.769812
+66096_0050_00014;14;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.654529;42.769783
+66096_0050_00031;31;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.654274;42.769941
+66096_0260_00008;8;;Rue Saint Martin;66720;66096;Latour-de-France;;;2.653811;42.768279
+66096_0260_00012_bis;12;bis;Rue Saint Martin;66720;66096;Latour-de-France;;;2.653668;42.768125
+66096_0025_00003;3;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.65268;42.768487
+66096_0025_00015;15;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652616;42.768492
+66096_0025_00018;18;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652719;42.768662
+66096_0140_00001;1;;Rue Gilbert Brutus;66720;66096;Latour-de-France;;;2.653002;42.769191
+66096_0140_00013;13;;Rue Gilbert Brutus;66720;66096;Latour-de-France;;;2.652645;42.769583
+66096_0165_00001;1;;Impasse Jean Jaures;66720;66096;Latour-de-France;;;2.653718;42.769241
+66096_0246_00004;4;;Allee Roger Salvat;66720;66096;Latour-de-France;;;2.660721;42.767651
+66096_0225_00003;3;;Boulevard de la Rèpublique;66720;66096;Latour-de-France;;;2.652182;42.767435
+66096_0055_00008;8;;Route de Cassagnes;66720;66096;Latour-de-France;;;2.650734;42.764616
+66096_0173_00010;10;;Rue Joseph Mouné;66720;66096;Latour-de-France;;;2.651825;42.765953
+66096_0035_00005;5;;Rue du Bac;66720;66096;Latour-de-France;;;2.655098;42.769854
+66096_0260_00004;4;;Rue Saint Martin;66720;66096;Latour-de-France;;;2.65401;42.768518
+66096_0149_00004;4;;Rue du Grenache;66720;66096;Latour-de-France;;;2.662342;42.766599
+66096_0025_00004;4;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652333;42.768084
+66096_0025_00012;12;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652563;42.768411
+66096_0025_00017;17;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652652;42.768557
+66096_0025_00028;28;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.65313;42.769151
+66096_0140_00007;7;;Rue Gilbert Brutus;66720;66096;Latour-de-France;;;2.652767;42.769525
+66096_0140_00017;17;;Rue Gilbert Brutus;66720;66096;Latour-de-France;;;2.65246;42.769717
+66096_0240_00005;5;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.653421;42.769209
+66096_0048_00007;7;;Rue du Carignan;66720;66096;Latour-de-France;;;2.663575;42.766073
+66096_0048_00016;16;;Rue du Carignan;66720;66096;Latour-de-France;;;2.663687;42.765435
+66096_0050_00017;17;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.65519;42.769534
+66096_0050_00035;35;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.653191;42.770363
+66096_0241_00003;3;;Rue de la Syrah;66720;66096;Latour-de-France;;;2.662834;42.766085
+66096_0055_00001;1;;Route de Cassagnes;66720;66096;Latour-de-France;;;2.651585;42.766544
+66096_0020_00002;2;;Rue de l'Arc;66720;66096;Latour-de-France;;;2.653232;42.768785
+66096_0035_00009;9;;Rue du Bac;66720;66096;Latour-de-France;;;2.654833;42.769954
+66096_0260_00002;2;;Rue Saint Martin;66720;66096;Latour-de-France;;;2.654052;42.768569
+66096_0260_00010;10;;Rue Saint Martin;66720;66096;Latour-de-France;;;2.653776;42.768238
+66096_0003_00004;4;;Boulevard de l'Agly;66720;66096;Latour-de-France;;;2.658037;42.769097
+66096_0003_00010;10;;Boulevard de l'Agly;66720;66096;Latour-de-France;;;2.659512;42.768156
+66096_0140_00015;15;;Rue Gilbert Brutus;66720;66096;Latour-de-France;;;2.652535;42.769619
+66096_0140_00021;21;;Rue Gilbert Brutus;66720;66096;Latour-de-France;;;2.652425;42.769636
+66096_0240_00028;28;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.652519;42.770286
+66096_0125_00002;2;;Boulevard Gambetta;66720;66096;Latour-de-France;;;2.651482;42.76716
+66096_0125_00007;7;;Boulevard Gambetta;66720;66096;Latour-de-France;;;2.652895;42.767066
+66096_0125_00003_bis;3;bis;Boulevard Gambetta;66720;66096;Latour-de-France;;;2.652584;42.767074
+66096_0200_00003;3;;Rue de l’Ancien Marche;66720;66096;Latour-de-France;;;2.652847;42.76764
+66096_0195_00007;7;;Place de l’Ancien Marche;66720;66096;Latour-de-France;;;2.652964;42.767611
+66096_0195_00010;10;;Place de l’Ancien Marche;66720;66096;Latour-de-France;;;2.653092;42.767409
+66096_0150_00012;12;;Rue Hippolyte Marty;66720;66096;Latour-de-France;;;2.653337;42.768168
+66096_0172_00002;2;;Rue de la Justice de Paix;66720;66096;Latour-de-France;;;2.652301;42.768363
+66096_0280_00004;4;;Impasse Victor Hugo;66720;66096;Latour-de-France;;;2.652811;42.767881
+66096_0120_00014;14;;Rue Gabriel Péri;66720;66096;Latour-de-France;;;2.652609;42.768072
+66096_0240_00026;26;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.652554;42.770261
+66096_0155_00003;3;;Rue de l’Hopital;66720;66096;Latour-de-France;;;2.652437;42.769038
+66096_0125_00003;3;;Boulevard Gambetta;66720;66096;Latour-de-France;;;2.652401;42.767071
+66096_0195_00006;6;;Place de l’Ancien Marche;66720;66096;Latour-de-France;;;2.653136;42.767679
+66096_0150_00010;10;;Rue Hippolyte Marty;66720;66096;Latour-de-France;;;2.653302;42.76805
+66096_0210_00001;1;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.654688;42.769003
+66096_0210_00006;6;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.654272;42.768946
+66096_0210_00001_bis;1;bis;Rue Notre Dame;66720;66096;Latour-de-France;;;2.654763;42.769019
+66096_0047_00005;5;;Rue des Capeillettes;66720;66096;Latour-de-France;;;2.657604;42.769478
+66096_0193_00001;1;;Place Marcel Vié;66720;66096;Latour-de-France;;;2.654898;42.768803
+66096_0120_00012;12;;Rue Gabriel Péri;66720;66096;Latour-de-France;;;2.652721;42.768118
+66096_0240_00021;21;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.652875;42.770055
+66096_0240_00024;24;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.652744;42.770106
+66096_0240_00050;50;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.65329;42.769608
+66096_0125_00001;1;;Boulevard Gambetta;66720;66096;Latour-de-France;;;2.652317;42.767072
+66096_0150_00003;3;;Rue Hippolyte Marty;66720;66096;Latour-de-France;;;2.653539;42.767844
+66096_0150_00001_bis;1;bis;Rue Hippolyte Marty;66720;66096;Latour-de-France;;;2.653307;42.767803
+66096_0210_00007;7;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.65433;42.769171
+66096_0210_00012;12;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.654154;42.769211
+66096_0210_00002_bis;2;bis;Rue Notre Dame;66720;66096;Latour-de-France;;;2.65454;42.769013
+66096_0193_00006;6;;Place Marcel Vié;66720;66096;Latour-de-France;;;2.654966;42.768925
+66096_0250_00001;1;;Rue Saint Antoine;66720;66096;Latour-de-France;;;2.653306;42.767105
+66096_0045_00004;4;;Rue Beranger;66720;66096;Latour-de-France;;;2.653872;42.769005
+66096_0097_00005;5;;Rue des Feiches;66720;66096;Latour-de-France;;;2.654366;42.770736
+66096_0265_00001;1;;Rue de la Seillere;66720;66096;Latour-de-France;;;2.652281;42.768162
+66096_0265_00006;6;;Rue de la Seillere;66720;66096;Latour-de-France;;;2.652097;42.768204
+66096_0115_00009;9;;Rue du Four;66720;66096;Latour-de-France;;;2.653117;42.769426
+66096_0280_00002;2;;Impasse Victor Hugo;66720;66096;Latour-de-France;;;2.653053;42.767852
+66096_0180_00002_bis;2;bis;Boulevard Lieutenant Pruneta;66720;66096;Latour-de-France;;;2.65203;42.76685
+66096_0255_00006;6;;Rue Saint Joseph;66720;66096;Latour-de-France;;;2.654493;42.768852
+66096_0080_00002;2;;Impasse Danton;66720;66096;Latour-de-France;;;2.653306;42.770066
+66096_0074_00003;3;;Boulevard Coronnat;66720;66096;Latour-de-France;;;2.651845;42.767992
+66096_0245_00003;3;;Place Rosette Blanc;66720;66096;Latour-de-France;;;2.651941;42.767974
+66096_0160_00009;9;;Place du 8 Mai 1945;66720;66096;Latour-de-France;;;2.65326;42.768546
+66096_0264_00002;2;;Avenue du Souvenir Francais;66720;66096;Latour-de-France;;;2.656325;42.76837
+66096_0226_00002;2;;Place de la République;66720;66096;Latour-de-France;;;2.653503;42.768951
+66096_0226_00021;21;;Place de la République;66720;66096;Latour-de-France;;;2.653229;42.769126
+66096_0205_00005;5;;Rue du Moulin à Vent;66720;66096;Latour-de-France;;;2.65178;42.767725
+66096_0204_00003;3;;Chemin du Moulin;66720;66096;Latour-de-France;;;2.659288;42.767118
+66096_0268_00009;9;;Rue de la Tramontane;66720;66096;Latour-de-France;;;2.652349;42.769867
+66096_0030_00002;2;;Place d’Armes;66720;66096;Latour-de-France;;;2.65276;42.7692
+66096_0030_00005;5;;Place d’Armes;66720;66096;Latour-de-France;;;2.652457;42.769051
+66096_enmcwn_00003;3;;Route de Planezes;66720;66096;Latour-de-France;;;2.650626;42.769358
+66096_enmcwn_00005;5;;Route de Planezes;66720;66096;Latour-de-France;;;2.650626;42.769358
+66096_zkc62u_00003;3;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.655212;42.768397
+66096_zkc62u_00008;8;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.654508;42.768512
+66096_zkc62u_00011;11;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.653814;42.768009
+66096_zkc62u_00016;16;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.654155;42.76831
+66096_zkc62u_00018;18;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.654118;42.768278
+66096_zkc62u_00022;22;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.653766;42.76802
+66096_gbuaxj_00006;6;;Chemin du Mietx Del Pla;66720;66096;Latour-de-France;;;2.665342;42.765653
+66096_gbuaxj_00009;9;;Chemin du Mietx Del Pla;66720;66096;Latour-de-France;;;2.664738;42.765934
+66096_gbuaxj_00014;14;;Chemin du Mietx Del Pla;66720;66096;Latour-de-France;;;2.664526;42.766028
+66096_gbuaxj_00033_f;33;f;Chemin du Mietx Del Pla;66720;66096;Latour-de-France;;;2.66013;42.765492
+66096_sz6qly_00005;5;;Avenue de la Fontaine;66720;66096;Latour-de-France;;;2.653597;42.766631
+66096_sz6qly_00002_bis;2;bis;Avenue de la Fontaine;66720;66096;Latour-de-France;;;2.653286;42.767043
+66096_uyjuj9_00001;1;;le Mouli;66720;66096;Latour-de-France;;;2.658604;42.764832
+66096_i9slw7_00003;3;;Rampe Del Serrat;66720;66096;Latour-de-France;;;2.656395;42.768308
+66096_bq8utq_00010;10;;Chemin des Feiches;66720;66096;Latour-de-France;;;2.652253;42.77131
+66096_bq8utq_00031;31;;Chemin des Feiches;66720;66096;Latour-de-France;;;2.656582;42.769835
+66096_43zktw_00003;3;;Chemin Sainte Eulalie;66720;66096;Latour-de-France;;;2.649578;42.766679
+66096_4nhtrn_00040;40;;La Ville;66720;66096;Latour-de-France;;;2.65265;42.76977
+66096_0002_00001;1;;Rue de l'Abreuvoir;66720;66096;Latour-de-France;;;2.653727;42.767728
+66096_0170_00004;4;;Rue Jean Jaurès;66720;66096;Latour-de-France;;;2.653745;42.769072
+66096_0170_00006;6;;Rue Jean Jaurès;66720;66096;Latour-de-France;;;2.654002;42.769001
+66096_0170_00015;15;;Rue Jean Jaurès;66720;66096;Latour-de-France;;;2.654342;42.768925
+66096_0185_00002;2;;Rue Longue;66720;66096;Latour-de-France;;;2.652926;42.769596
+66096_0185_00009;9;;Rue Longue;66720;66096;Latour-de-France;;;2.653159;42.769412
+66096_0185_00017;17;;Rue Longue;66720;66096;Latour-de-France;;;2.652459;42.770023
+66096_0135_00001;1;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.656771;42.768353
+66096_0135_00005;5;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.656942;42.768314
+66096_0135_00012;12;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.661764;42.767232
+66096_0135_00019;19;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.657575;42.768183
+66096_0135_00023;23;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.657735;42.76815
+66096_0135_00012_bis;12;bis;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.661828;42.767215
+66096_0135_00003_bis;3;bis;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.657779;42.768168
+66096_0010_00016;16;;Rue Anatole France;66720;66096;Latour-de-France;;;2.653937;42.768679
+66096_0048_00002;2;;Rue du Carignan;66720;66096;Latour-de-France;;;2.663001;42.766384
+66096_0050_00012;12;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.6546;42.769755
+66096_0050_00022;22;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.654132;42.769945
+66096_0050_00029_bis;29;bis;Boulevard Carnot;66720;66096;Latour-de-France;;;2.654136;42.77
+66096_0050_00018;18;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.654341;42.769861
+66096_0050_00026;26;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.655348;42.769074
+66096_0055_00002;2;;Route de Cassagnes;66720;66096;Latour-de-France;;;2.651353;42.766844
+66096_0173_00004;4;;Rue Joseph Mouné;66720;66096;Latour-de-France;;;2.652263;42.76638
+66096_0173_00007;7;;Rue Joseph Mouné;66720;66096;Latour-de-France;;;2.651999;42.766171
+66096_0260_00003;3;;Rue Saint Martin;66720;66096;Latour-de-France;;;2.653959;42.768447
+66096_0003_00008;8;;Boulevard de l'Agly;66720;66096;Latour-de-France;;;2.658607;42.768737
+66096_0003_00013;13;;Boulevard de l'Agly;66720;66096;Latour-de-France;;;2.659039;42.768504
+66096_0149_00007;7;;Rue du Grenache;66720;66096;Latour-de-France;;;2.662041;42.766226
+66096_0025_00010;10;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652541;42.768368
+66096_0025_00026;26;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.653074;42.768973
+66096_0140_00010;10;;Rue Gilbert Brutus;66720;66096;Latour-de-France;;;2.652336;42.769628
+66096_0100_00003;3;;Rue des Ferratjals;66720;66096;Latour-de-France;;;2.654074;42.769556
+66096_0120_00004;4;;Rue Gabriel Péri;66720;66096;Latour-de-France;;;2.653163;42.768306
+66096_0120_00008;8;;Rue Gabriel Péri;66720;66096;Latour-de-France;;;2.652969;42.768198
+66096_0173_00005;5;;Rue Joseph Mouné;66720;66096;Latour-de-France;;;2.652264;42.766368
+66096_0140_00003;3;;Rue Gilbert Brutus;66720;66096;Latour-de-France;;;2.652863;42.76926
+66096_0120_00001;1;;Rue Gabriel Péri;66720;66096;Latour-de-France;;;2.653263;42.768426
+66096_0120_00016;16;;Rue Gabriel Péri;66720;66096;Latour-de-France;;;2.652358;42.767961
+66096_0120_00008_bis;8;bis;Rue Gabriel Péri;66720;66096;Latour-de-France;;;2.652899;42.768175
+66096_0050_00006;6;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.655343;42.769053
+66096_0050_00010;10;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.65535;42.769216
+66096_0050_00025;25;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.654683;42.769759
+66096_0050_00028;28;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.655348;42.769074
+66096_0050_00500_f;500;f;Boulevard Carnot;66720;66096;Latour-de-France;;;2.654618;42.770069
+66096_0225_00006;6;;Boulevard de la Rèpublique;66720;66096;Latour-de-France;;;2.65221;42.767716
+66096_0055_00006;6;;Route de Cassagnes;66720;66096;Latour-de-France;;;2.650734;42.764616
+66096_0173_00011;11;;Rue Joseph Mouné;66720;66096;Latour-de-France;;;2.651711;42.765916
+66096_0260_00016;16;;Rue Saint Martin;66720;66096;Latour-de-France;;;2.653583;42.767944
+66096_0003_00019;19;;Boulevard de l'Agly;66720;66096;Latour-de-France;;;2.659648;42.768135
+66096_0149_00008;8;;Rue du Grenache;66720;66096;Latour-de-France;;;2.662428;42.766061
+66096_0025_00001;1;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652455;42.768108
+66096_0025_00013;13;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652596;42.768443
+66096_0025_00016;16;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652659;42.768578
+66096_0025_00024;24;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.65301;42.76893
+66096_0140_00002;2;;Rue Gilbert Brutus;66720;66096;Latour-de-France;;;2.652783;42.769329
+66096_0140_00009;9;;Rue Gilbert Brutus;66720;66096;Latour-de-France;;;2.652782;42.7695
+66096_0100_00004;4;;Rue des Ferratjals;66720;66096;Latour-de-France;;;2.653464;42.770272
+66096_0100_00007_f;7;f;Rue des Ferratjals;66720;66096;Latour-de-France;;;2.6535;42.76998
+66096_0165_00003;3;;Impasse Jean Jaures;66720;66096;Latour-de-France;;;2.653673;42.769256
+66096_0240_00012;12;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.653091;42.769827
+66096_0150_00005;5;;Rue Hippolyte Marty;66720;66096;Latour-de-France;;;2.653367;42.767994
+66096_0210_00003;3;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.654619;42.769037
+66096_0210_00023;23;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.653815;42.769399
+66096_0047_00003;3;;Rue des Capeillettes;66720;66096;Latour-de-France;;;2.657478;42.769366
+66096_0047_00007;7;;Rue des Capeillettes;66720;66096;Latour-de-France;;;2.657755;42.769628
+66096_0047_00412;412;;Rue des Capeillettes;66720;66096;Latour-de-France;;;2.657282;42.769003
+66096_0193_00010;10;;Place Marcel Vié;66720;66096;Latour-de-France;;;2.655196;42.768828
+66096_0120_00017;17;;Rue Gabriel Péri;66720;66096;Latour-de-France;;;2.652649;42.768116
+66096_0070_00001;1;;Traverse Colbert;66720;66096;Latour-de-France;;;2.653186;42.769545
+66096_0240_00008;8;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.65322;42.769714
+66096_0240_00013;13;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.653289;42.769665
+66096_0240_00023;23;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.65275;42.770137
+66096_0240_00004_bis;4;bis;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.653413;42.769331
+66096_0125_00007_bis;7;bis;Boulevard Gambetta;66720;66096;Latour-de-France;;;2.652842;42.766857
+66096_0145_00002;2;;Rue de la Glaciére;66720;66096;Latour-de-France;;;2.653271;42.769803
+66096_0130_00004;4;;Rue de la Gendarmerie;66720;66096;Latour-de-France;;;2.651229;42.766524
+66096_0200_00002;2;;Rue de l’Ancien Marche;66720;66096;Latour-de-France;;;2.652625;42.767657
+66096_0195_00003;3;;Place de l’Ancien Marche;66720;66096;Latour-de-France;;;2.653183;42.76738
+66096_0193_00009;9;;Place Marcel Vié;66720;66096;Latour-de-France;;;2.655222;42.768833
+66096_0246_00003;3;;Allee Roger Salvat;66720;66096;Latour-de-France;;;2.660721;42.767651
+66096_0120_00005;5;;Rue Gabriel Péri;66720;66096;Latour-de-France;;;2.653218;42.768364
+66096_0120_00009;9;;Rue Gabriel Péri;66720;66096;Latour-de-France;;;2.653013;42.768244
+66096_0120_00019;19;;Rue Gabriel Péri;66720;66096;Latour-de-France;;;2.652666;42.768135
+66096_0240_00014;14;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.65305;42.769856
+66096_0145_00001;1;;Rue de la Glaciére;66720;66096;Latour-de-France;;;2.653369;42.769777
+66096_0195_00008;8;;Place de l’Ancien Marche;66720;66096;Latour-de-France;;;2.653097;42.76758
+66096_0150_00013;13;;Rue Hippolyte Marty;66720;66096;Latour-de-France;;;2.653669;42.768137
+66096_0047_00002;2;;Rue des Capeillettes;66720;66096;Latour-de-France;;;2.65693;42.76853
+66096_0047_00009;9;;Rue des Capeillettes;66720;66096;Latour-de-France;;;2.657958;42.769833
+66096_0193_00011;11;;Place Marcel Vié;66720;66096;Latour-de-France;;;2.655174;42.768859
+66096_0180_00007;7;;Boulevard Lieutenant Pruneta;66720;66096;Latour-de-France;;;2.653039;42.766583
+66096_a200_00005;5;;Lotissement le Cros;66720;66096;Latour-de-France;;;2.649838;42.766113
+66096_a200_00014;14;;Lotissement le Cros;66720;66096;Latour-de-France;;;2.649733;42.76608
+66096_a200_00170_d;170;d;Lotissement le Cros;66720;66096;Latour-de-France;;;2.650025;42.766141
+66096_0097_00001;1;;Rue des Feiches;66720;66096;Latour-de-France;;;2.65342;42.770254
+66096_0115_00006;6;;Rue du Four;66720;66096;Latour-de-France;;;2.653021;42.76936
+66096_0040_00001;1;;Place Bellevue;66720;66096;Latour-de-France;;;2.652138;42.770254
+66096_0180_00002;2;;Boulevard Lieutenant Pruneta;66720;66096;Latour-de-France;;;2.652493;42.766705
+66096_0045_00003;3;;Rue Beranger;66720;66096;Latour-de-France;;;2.653821;42.768896
+66096_a200_00004;4;;Lotissement le Cros;66720;66096;Latour-de-France;;;2.650018;42.766138
+66096_a200_00012;12;;Lotissement le Cros;66720;66096;Latour-de-France;;;2.649576;42.765871
+66096_0265_00002;2;;Rue de la Seillere;66720;66096;Latour-de-France;;;2.652268;42.768112
+66096_0115_00004;4;;Rue du Four;66720;66096;Latour-de-France;;;2.653082;42.769213
+66096_0115_00008;8;;Rue du Four;66720;66096;Latour-de-France;;;2.653102;42.769431
+66096_0215_00006;6;;Rue de l'Orphéon;66720;66096;Latour-de-France;;;2.653712;42.768781
+66096_0215_00009;9;;Rue de l'Orphéon;66720;66096;Latour-de-France;;;2.65321;42.768572
+66096_0205_00002;2;;Rue du Moulin à Vent;66720;66096;Latour-de-France;;;2.651973;42.767784
+66096_0270_00001;1;;Place Valmanya;66720;66096;Latour-de-France;;;2.652299;42.769967
+66096_0060_00001;1;;Rue du Chateau;66720;66096;Latour-de-France;;;2.652877;42.768949
+66096_0065_00001;1;;Impasse du Clocher;66720;66096;Latour-de-France;;;2.652578;42.768911
+66096_0095_00006;6;;Rue du Faubourg;66720;66096;Latour-de-France;;;2.654729;42.76862
+66096_0270_00016;16;;Place Valmanya;66720;66096;Latour-de-France;;;2.652417;42.769974
+66096_0074_00001;1;;Boulevard Coronnat;66720;66096;Latour-de-France;;;2.652034;42.7679
+66096_0083_00001;1;;Rue de l'Eglise;66720;66096;Latour-de-France;;;2.652745;42.768838
+66096_0015_00500;500;;Rue de l'Ancien Hopital;66720;66096;Latour-de-France;;;2.65254;42.769126
+66096_0095_00008;8;;Rue du Faubourg;66720;66096;Latour-de-France;;;2.65456;42.76854
+66096_0095_00014;14;;Rue du Faubourg;66720;66096;Latour-de-France;;;2.654295;42.76839
+66096_b072_00001;1;;Rech de Montner;66720;66096;Latour-de-France;;;2.672253;42.758384
+66096_zkc62u_00004;4;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.654809;42.768678
+66096_zkc62u_00007;7;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.653985;42.768156
+66096_b9s61p_00003;3;;Lieu Dit Roubials;66720;66096;Latour-de-France;;;2.66678;42.777816
+66096_gbuaxj_00001;1;;Chemin du Mietx Del Pla;66720;66096;Latour-de-France;;;2.665144;42.76575
+66096_gbuaxj_00002;2;;Chemin du Mietx Del Pla;66720;66096;Latour-de-France;;;2.665049;42.765642
+66096_sz6qly_00003;3;;Avenue de la Fontaine;66720;66096;Latour-de-France;;;2.653538;42.767197
+66096_bq8utq_00004;4;;Chemin des Feiches;66720;66096;Latour-de-France;;;2.654303;42.771884
+66096_o3bhh5_00014;14;;Rue du Danger;66720;66096;Latour-de-France;;;2.653987;42.768214
+66096_a0gre8_00003;3;;Les Roucatilles;66720;66096;Latour-de-France;;;2.660132;42.762877
+66096_a0gre8_00005;5;;Les Roucatilles;66720;66096;Latour-de-France;;;2.660132;42.762877
+66096_g29bm4_00170;170;;Le Cros;66720;66096;Latour-de-France;;;2.6522;42.766132
+66096_0269_00001;1;;Place du Torrent;66720;66096;Latour-de-France;;;2.65296;42.766294
+66096_0222_00002;2;;Rue du Presbytere;66720;66096;Latour-de-France;;;2.652419;42.768548
+66096_0222_00007;7;;Rue du Presbytere;66720;66096;Latour-de-France;;;2.652154;42.768609
+66096_0170_00014;14;;Rue Jean Jaurès;66720;66096;Latour-de-France;;;2.654413;42.768889
+66096_0185_00004;4;;Rue Longue;66720;66096;Latour-de-France;;;2.65287;42.769665
+66096_0185_00005;5;;Rue Longue;66720;66096;Latour-de-France;;;2.652864;42.769743
+66096_0185_00008;8;;Rue Longue;66720;66096;Latour-de-France;;;2.652757;42.769763
+66096_0185_00013;13;;Rue Longue;66720;66096;Latour-de-France;;;2.652561;42.76997
+66096_0185_00016;16;;Rue Longue;66720;66096;Latour-de-France;;;2.652479;42.769969
+66096_0135_00007;7;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.657033;42.768296
+66096_0135_00022;22;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.66231;42.767016
+66096_0135_00039;39;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.66331;42.766828
+66096_0135_00014_ter;14;ter;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.661811;42.766543
+66096_0135_00016_bis;16;bis;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.65797;42.768127
+66096_0010_00003;3;;Rue Anatole France;66720;66096;Latour-de-France;;;2.653583;42.768817
+66096_0048_00005;5;;Rue du Carignan;66720;66096;Latour-de-France;;;2.66296;42.766078
+66096_0050_00002;2;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.655387;42.769181
+66096_0050_00030;30;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.652857;42.770463
+66096_0050_00003;3;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.655371;42.768961
+66096_0050_00007;7;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.655466;42.769114
+66096_0050_00500;500;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.654613;42.770053
+66096_0050_00020_bis;20;bis;Boulevard Carnot;66720;66096;Latour-de-France;;;2.654204;42.769915
+66096_0225_00001;1;;Boulevard de la Rèpublique;66720;66096;Latour-de-France;;;2.652151;42.767539
+66096_0055_00005;5;;Route de Cassagnes;66720;66096;Latour-de-France;;;2.65087;42.765718
+66096_0020_00004;4;;Rue de l'Arc;66720;66096;Latour-de-France;;;2.653039;42.768701
+66096_0003_00023;23;;Boulevard de l'Agly;66720;66096;Latour-de-France;;;2.659738;42.767767
+66096_0025_00023;23;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652971;42.768655
+66096_0266_00001;1;;Traverse du Serradet;66720;66096;Latour-de-France;;;2.651656;42.767618
+66096_0055_00004;4;;Route de Cassagnes;66720;66096;Latour-de-France;;;2.650614;42.765139
+66096_0173_00001;1;;Rue Joseph Mouné;66720;66096;Latour-de-France;;;2.652381;42.766642
+66096_0260_00014;14;;Rue Saint Martin;66720;66096;Latour-de-France;;;2.65365;42.768079
+66096_0003_00006;6;;Boulevard de l'Agly;66720;66096;Latour-de-France;;;2.658373;42.768867
+66096_0149_00009;9;;Rue du Grenache;66720;66096;Latour-de-France;;;2.662363;42.766248
+66096_0025_00009;9;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652539;42.768304
+66096_0025_00025;25;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.65291;42.768794
+66096_0100_00002;2;;Rue des Ferratjals;66720;66096;Latour-de-France;;;2.653464;42.770272
+66096_0246_00001;1;;Allee Roger Salvat;66720;66096;Latour-de-France;;;2.660375;42.767713
+66096_0120_00006;6;;Rue Gabriel Péri;66720;66096;Latour-de-France;;;2.653085;42.768264
+66096_0048_00011;11;;Rue du Carignan;66720;66096;Latour-de-France;;;2.663899;42.765931
+66096_0050_00031_f;31;f;Boulevard Carnot;66720;66096;Latour-de-France;;;2.65426;42.770131
+66096_0003_00003_bis;3;bis;Boulevard de l'Agly;66720;66096;Latour-de-France;;;2.657834;42.769276
+66096_0149_00005;5;;Rue du Grenache;66720;66096;Latour-de-France;;;2.662325;42.766358
+66096_0025_00021;21;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652967;42.768506
+66096_0025_00001_bis;1;bis;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.65268;42.768487
+66096_0240_00018;18;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.652918;42.769965
+66096_0240_00022;22;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.652817;42.770054
+66096_0155_00004;4;;Rue de l’Hopital;66720;66096;Latour-de-France;;;2.652332;42.769149
+66096_0145_00003;3;;Rue de la Glaciére;66720;66096;Latour-de-France;;;2.653372;42.769815
+66096_0145_00006;6;;Rue de la Glaciére;66720;66096;Latour-de-France;;;2.653344;42.770011
+66096_0195_00001;1;;Place de l’Ancien Marche;66720;66096;Latour-de-France;;;2.65312;42.767272
+66096_0150_00009_bis;9;bis;Rue Hippolyte Marty;66720;66096;Latour-de-France;;;2.65339;42.76797
+66096_0210_00031;31;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.653452;42.769599
+66096_0193_00002;2;;Place Marcel Vié;66720;66096;Latour-de-France;;;2.654804;42.768818
+66096_0240_00002;2;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.65341;42.76937
+66096_0210_00014;14;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.65409;42.769208
+66096_0193_00004;4;;Place Marcel Vié;66720;66096;Latour-de-France;;;2.654718;42.768896
+66096_0172_00004;4;;Rue de la Justice de Paix;66720;66096;Latour-de-France;;;2.65218;42.768371
+66096_0120_00006_bis;6;bis;Rue Gabriel Péri;66720;66096;Latour-de-France;;;2.65316;42.768221
+66096_0240_00007;7;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.653419;42.76939
+66096_0240_00011;11;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.653326;42.769599
+66096_0155_00001;1;;Rue de l’Hopital;66720;66096;Latour-de-France;;;2.652688;42.769052
+66096_0145_00004;4;;Rue de la Glaciére;66720;66096;Latour-de-France;;;2.653346;42.769927
+66096_0200_00005;5;;Rue de l’Ancien Marche;66720;66096;Latour-de-France;;;2.652626;42.767693
+66096_0195_00005;5;;Place de l’Ancien Marche;66720;66096;Latour-de-France;;;2.653359;42.767686
+66096_0150_00008;8;;Rue Hippolyte Marty;66720;66096;Latour-de-France;;;2.653179;42.768071
+66096_0210_00021;21;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.653876;42.769372
+66096_0280_00001;1;;Impasse Victor Hugo;66720;66096;Latour-de-France;;;2.653243;42.767867
+66096_0280_00001_bis;1;bis;Impasse Victor Hugo;66720;66096;Latour-de-France;;;2.653006;42.767915
+66096_0180_00001;1;;Boulevard Lieutenant Pruneta;66720;66096;Latour-de-France;;;2.652651;42.766682
+66096_0180_00013;13;;Boulevard Lieutenant Pruneta;66720;66096;Latour-de-France;;;2.65353;42.766444
+66096_0255_00002;2;;Rue Saint Joseph;66720;66096;Latour-de-France;;;2.654663;42.768819
+66096_0255_00008;8;;Rue Saint Joseph;66720;66096;Latour-de-France;;;2.654496;42.768811
+66096_a200_00008;8;;Lotissement le Cros;66720;66096;Latour-de-France;;;2.649614;42.765786
+66096_0040_00017;17;;Place Bellevue;66720;66096;Latour-de-France;;;2.652248;42.769991
+66096_0255_00003;3;;Rue Saint Joseph;66720;66096;Latour-de-France;;;2.654351;42.76884
+66096_a200_00001;1;;Lotissement le Cros;66720;66096;Latour-de-France;;;2.649908;42.766311
+66096_a200_00009;9;;Lotissement le Cros;66720;66096;Latour-de-France;;;2.649513;42.765817
+66096_0265_00005;5;;Rue de la Seillere;66720;66096;Latour-de-France;;;2.652076;42.768218
+66096_0040_00003;3;;Place Bellevue;66720;66096;Latour-de-France;;;2.65226;42.77007
+66096_0215_00004;4;;Rue de l'Orphéon;66720;66096;Latour-de-France;;;2.653524;42.768566
+66096_0215_00008;8;;Rue de l'Orphéon;66720;66096;Latour-de-France;;;2.653487;42.768484
+66096_0090_00001;1;;Rue Etroite;66720;66096;Latour-de-France;;;2.65244;42.769882
+66096_0030_00007;7;;Place d’Armes;66720;66096;Latour-de-France;;;2.652688;42.769342
+66096_0006_00031;31;;Du Mietx Del Pla;66720;66096;Latour-de-France;;;2.660362;42.765752
+66096_0095_00001;1;;Rue du Faubourg;66720;66096;Latour-de-France;;;2.655371;42.768444
+66096_0095_00024;24;;Rue du Faubourg;66720;66096;Latour-de-France;;;2.653639;42.768033
+66096_0205_00009;9;;Rue du Moulin à Vent;66720;66096;Latour-de-France;;;2.651609;42.767661
+66096_0245_00001;1;;Place Rosette Blanc;66720;66096;Latour-de-France;;;2.652119;42.767873
+66096_0160_00007;7;;Place du 8 Mai 1945;66720;66096;Latour-de-France;;;2.653396;42.768403
+66096_0006_00004;4;;Du Mietx Del Pla;66720;66096;Latour-de-France;;;2.664897;42.765329
+66096_0095_00005;5;;Rue du Faubourg;66720;66096;Latour-de-France;;;2.65511;42.76834
+66096_zkc62u_00019;19;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.653433;42.767615
+66096_zkc62u_00024;24;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.653629;42.768035
+66096_zkc62u_00015_bis;15;bis;Avenue Guy Male;66720;66096;Latour-de-France;;;2.653628;42.767803
+66096_zkc62u_00018_bis;18;bis;Avenue Guy Male;66720;66096;Latour-de-France;;;2.653894;42.768198
+66096_zkc62u_00016_bis;16;bis;Avenue Guy Male;66720;66096;Latour-de-France;;;2.654195;42.768355
+66096_b9s61p_00001;1;;Lieu Dit Roubials;66720;66096;Latour-de-France;;;2.66678;42.777816
+66096_gbuaxj_00005;5;;Chemin du Mietx Del Pla;66720;66096;Latour-de-France;;;2.665144;42.76575
+66096_gbuaxj_00013;13;;Chemin du Mietx Del Pla;66720;66096;Latour-de-France;;;2.663968;42.766276
+66096_uyjuj9_00004;4;;le Mouli;66720;66096;Latour-de-France;;;2.658755;42.765299
+66096_uyjuj9_00005;5;;le Mouli;66720;66096;Latour-de-France;;;2.65921;42.765198
+66096_bq8utq_00005;5;;Chemin des Feiches;66720;66096;Latour-de-France;;;2.654362;42.771883
+66096_7pgqiu_00001;1;;Lieu Dit le Bosc;66720;66096;Latour-de-France;;;2.675083;42.770233
+66096_g29bm4_00012;12;;Le Cros;66720;66096;Latour-de-France;;;2.649709;42.76621
+66096_0222_00001;1;;Rue du Presbytere;66720;66096;Latour-de-France;;;2.652428;42.768554
+66096_0222_00005;5;;Rue du Presbytere;66720;66096;Latour-de-France;;;2.65205;42.768607
+66096_0222_00002_ter;2;ter;Rue du Presbytere;66720;66096;Latour-de-France;;;2.652484;42.768493
+66096_0242_00001_bis;1;bis;Place Roger Salengro;66720;66096;Latour-de-France;;;2.654826;42.769514
+66096_0170_00007;7;;Rue Jean Jaurès;66720;66096;Latour-de-France;;;2.65373;42.76918
+66096_0170_00011;11;;Rue Jean Jaurès;66720;66096;Latour-de-France;;;2.653914;42.769036
+66096_0185_00001;1;;Rue Longue;66720;66096;Latour-de-France;;;2.653017;42.769588
+66096_0185_00012;12;;Rue Longue;66720;66096;Latour-de-France;;;2.65261;42.769936
+66096_0185_00017_bis;17;bis;Rue Longue;66720;66096;Latour-de-France;;;2.652424;42.770012
+66096_0135_00004;4;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.658727;42.767874
+66096_0135_00014;14;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.661811;42.767219
+66096_0135_00015;15;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.657376;42.768225
+66096_0135_00029;29;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.658856;42.767902
+66096_0135_00037;37;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.663125;42.766751
+66096_0135_00025_bis;25;bis;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.657967;42.768092
+66096_0135_00014_bis;14;bis;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.661886;42.766722
+66096_0135_00031_bis;31;bis;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.661125;42.767445
+66096_0010_00004;4;;Rue Anatole France;66720;66096;Latour-de-France;;;2.65336;42.768855
+66096_0010_00014;14;;Rue Anatole France;66720;66096;Latour-de-France;;;2.653912;42.768654
+66096_0050_00009;9;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.655434;42.769174
+66096_0050_00031_b;31;b;Boulevard Carnot;66720;66096;Latour-de-France;;;2.654136;42.77
+66096_0050_00023;23;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.654752;42.769732
+66096_0225_00005;5;;Boulevard de la Rèpublique;66720;66096;Latour-de-France;;;2.65221;42.767716
+66096_0020_00015;15;;Rue de l'Arc;66720;66096;Latour-de-France;;;2.652702;42.768174
+66096_0035_00001;1;;Rue du Bac;66720;66096;Latour-de-France;;;2.655187;42.769749
+66096_0035_00007;7;;Rue du Bac;66720;66096;Latour-de-France;;;2.654956;42.77
+66096_0003_00003;3;;Boulevard de l'Agly;66720;66096;Latour-de-France;;;2.658444;42.768844
+66096_0149_00002;2;;Rue du Grenache;66720;66096;Latour-de-France;;;2.662727;42.766612
+66096_0149_00010;10;;Rue du Grenache;66720;66096;Latour-de-France;;;2.662365;42.766376
+66096_0025_00007;7;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652521;42.768268
+66096_0025_00018_bis;18;bis;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.65268;42.768487
+66096_0140_00005;5;;Rue Gilbert Brutus;66720;66096;Latour-de-France;;;2.652861;42.769368
+66096_0140_00002_bis;2;bis;Rue Gilbert Brutus;66720;66096;Latour-de-France;;;2.65287;42.769371
+66096_0241_00001;1;;Rue de la Syrah;66720;66096;Latour-de-France;;;2.663097;42.765996
+66096_0225_00007;7;;Boulevard de la Rèpublique;66720;66096;Latour-de-France;;;2.65209;42.767318
+66096_0020_00007;7;;Rue de l'Arc;66720;66096;Latour-de-France;;;2.653018;42.768606
+66096_0260_00001;1;;Rue Saint Martin;66720;66096;Latour-de-France;;;2.653996;42.768503
+66096_0260_00004_bis;4;bis;Rue Saint Martin;66720;66096;Latour-de-France;;;2.653976;42.768468
+66096_0003_00011;11;;Boulevard de l'Agly;66720;66096;Latour-de-France;;;2.658803;42.768747
+66096_0003_00017;17;;Boulevard de l'Agly;66720;66096;Latour-de-France;;;2.659455;42.768395
+66096_0149_00001;1;;Rue du Grenache;66720;66096;Latour-de-France;;;2.662635;42.766557
+66096_0149_00014;14;;Rue du Grenache;66720;66096;Latour-de-France;;;2.662166;42.76616
+66096_0025_00020;20;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652781;42.768708
+66096_0025_00027_bis;27;bis;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.65308;42.768841
+66096_0140_00012;12;;Rue Gilbert Brutus;66720;66096;Latour-de-France;;;2.652252;42.769609
+66096_0100_00005;5;;Rue des Ferratjals;66720;66096;Latour-de-France;;;2.65352;42.769939
+66096_0266_00002_bis;2;bis;Traverse du Serradet;66720;66096;Latour-de-France;;;2.651725;42.767655
+66096_0120_00011;11;;Rue Gabriel Péri;66720;66096;Latour-de-France;;;2.652958;42.768214
+66096_0070_00003;3;;Traverse Colbert;66720;66096;Latour-de-France;;;2.653151;42.769525
+66096_0050_00020;20;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.654274;42.76989
+66096_0020_00002_bis;2;bis;Rue de l'Arc;66720;66096;Latour-de-France;;;2.653097;42.768799
+66096_0173_00003;3;;Rue Joseph Mouné;66720;66096;Latour-de-France;;;2.652335;42.766545
+66096_0173_00008;8;;Rue Joseph Mouné;66720;66096;Latour-de-France;;;2.652065;42.766174
+66096_0003_00007;7;;Boulevard de l'Agly;66720;66096;Latour-de-France;;;2.658345;42.769007
+66096_0025_00005;5;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652507;42.768232
+66096_0025_00008;8;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652525;42.768333
+66096_0140_00006;6;;Rue Gilbert Brutus;66720;66096;Latour-de-France;;;2.652507;42.769594
+66096_0240_00023_bis;23;bis;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.652716;42.770184
+66096_0150_00009;9;;Rue Hippolyte Marty;66720;66096;Latour-de-France;;;2.653305;42.76797
+66096_0210_00008;8;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.654342;42.769126
+66096_0210_00011;11;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.654149;42.769247
+66096_0210_00015;15;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.654026;42.769304
+66096_0193_00007;7;;Place Marcel Vié;66720;66096;Latour-de-France;;;2.655046;42.768919
+66096_0075_00021;21;;Place du General Coronnat;66720;66096;Latour-de-France;;;2.65339;42.767464
+66096_0250_00002;2;;Rue Saint Antoine;66720;66096;Latour-de-France;;;2.653431;42.767118
+66096_0240_00016;16;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.652996;42.769892
+66096_0125_00006;6;;Boulevard Gambetta;66720;66096;Latour-de-France;;;2.651853;42.767131
+66096_0195_00013;13;;Place de l’Ancien Marche;66720;66096;Latour-de-France;;;2.653026;42.767278
+66096_0150_00007;7;;Rue Hippolyte Marty;66720;66096;Latour-de-France;;;2.653554;42.767897
+66096_0150_00012_bis;12;bis;Rue Hippolyte Marty;66720;66096;Latour-de-France;;;2.653376;42.768264
+66096_0210_00009;9;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.654232;42.769212
+66096_0210_00017;17;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.65398;42.769331
+66096_0210_00029;29;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.653487;42.769536
+66096_0047_00010;10;;Rue des Capeillettes;66720;66096;Latour-de-France;;;2.65755;42.768918
+66096_0240_00004;4;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.653383;42.769446
+66096_0125_00004;4;;Boulevard Gambetta;66720;66096;Latour-de-France;;;2.65183;42.767178
+66096_0125_00011;11;;Boulevard Gambetta;66720;66096;Latour-de-France;;;2.653095;42.767137
+66096_0200_00001;1;;Rue de l’Ancien Marche;66720;66096;Latour-de-France;;;2.653181;42.767553
+66096_0210_00004;4;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.65451;42.769021
+66096_0210_00016;16;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.654026;42.769277
+66096_0047_00012;12;;Rue des Capeillettes;66720;66096;Latour-de-France;;;2.657476;42.769227
+66096_0193_00003;3;;Place Marcel Vié;66720;66096;Latour-de-France;;;2.654875;42.768894
+66096_0172_00002_bis;2;bis;Rue de la Justice de Paix;66720;66096;Latour-de-France;;;2.652245;42.768348
+66096_0255_00016;16;;Rue Saint Joseph;66720;66096;Latour-de-France;;;2.654159;42.76868
+66096_0097_00501_f;501;f;Rue des Feiches;66720;66096;Latour-de-France;;;2.654544;42.770624
+66096_0080_00003;3;;Impasse Danton;66720;66096;Latour-de-France;;;2.653171;42.770086
+66096_0075_00162;162;;Place du General Coronnat;66720;66096;Latour-de-France;;;2.653539;42.767447
+66096_0280_00002_bis;2;bis;Impasse Victor Hugo;66720;66096;Latour-de-France;;;2.65295;42.767882
+66096_0180_00005;5;;Boulevard Lieutenant Pruneta;66720;66096;Latour-de-France;;;2.652909;42.766618
+66096_a200_00172;172;;Lotissement le Cros;66720;66096;Latour-de-France;;;2.64948;42.766341
+66096_a200_00004_d;4;d;Lotissement le Cros;66720;66096;Latour-de-France;;;2.65014;42.76608
+66096_0097_00004;4;;Rue des Feiches;66720;66096;Latour-de-France;;;2.654575;42.770642
+66096_0097_00003_bis;3;bis;Rue des Feiches;66720;66096;Latour-de-France;;;2.65395;42.77057
+66096_0187_00001;1;;Rue Madeleine Bres;66720;66096;Latour-de-France;;;2.657986;42.76804
+66096_0215_00001;1;;Rue de l'Orphéon;66720;66096;Latour-de-France;;;2.65359;42.768714
+66096_0215_00002_bis;2;bis;Rue de l'Orphéon;66720;66096;Latour-de-France;;;2.653712;42.768781
+66096_0226_00008;8;;Place de la République;66720;66096;Latour-de-France;;;2.653393;42.769052
+66096_0205_00007;7;;Rue du Moulin à Vent;66720;66096;Latour-de-France;;;2.651656;42.767676
+66096_0204_00001;1;;Chemin du Moulin;66720;66096;Latour-de-France;;;2.659321;42.767166
+66096_b067_00037;37;;Pountet de l'Henrich;66720;66096;Latour-de-France;;;2.662897;42.76704
+66096_0270_00017_bis;17;bis;Place Valmanya;66720;66096;Latour-de-France;;;2.652457;42.770057
+66096_0268_00001;1;;Rue de la Tramontane;66720;66096;Latour-de-France;;;2.65226;42.769958
+66096_0030_00004;4;;Place d’Armes;66720;66096;Latour-de-France;;;2.65267;42.769225
+66096_0160_00001;1;;Place du 8 Mai 1945;66720;66096;Latour-de-France;;;2.653396;42.768403
+66096_0006_00037;37;;Du Mietx Del Pla;66720;66096;Latour-de-France;;;2.660259;42.766028
+66096_0095_00013;13;;Rue du Faubourg;66720;66096;Latour-de-France;;;2.653716;42.767917
+66096_0230_00001;1;;Rue de la Revolution;66720;66096;Latour-de-France;;;2.651835;42.767529
+66096_0245_00002_bis;2;bis;Place Rosette Blanc;66720;66096;Latour-de-France;;;2.652157;42.767824
+66096_0090_00012;12;;Rue Etroite;66720;66096;Latour-de-France;;;2.65261;42.76982
+66096_0174_00002;2;;Impasse de la Liberte;66720;66096;Latour-de-France;;;2.652753;42.769754
+66096_0065_00002;2;;Impasse du Clocher;66720;66096;Latour-de-France;;;2.652575;42.769046
+66096_0006_00033;33;;Du Mietx Del Pla;66720;66096;Latour-de-France;;;2.660073;42.765305
+66096_0105_00001;1;;Rue du Figuier;66720;66096;Latour-de-France;;;2.653848;42.769344
+66096_0180_00009;9;;Boulevard Lieutenant Pruneta;66720;66096;Latour-de-France;;;2.653255;42.766533
+66096_0255_00005;5;;Rue Saint Joseph;66720;66096;Latour-de-France;;;2.654305;42.768781
+66096_a200_00007;7;;Lotissement le Cros;66720;66096;Latour-de-France;;;2.65047;42.766499
+66096_a200_00010;10;;Lotissement le Cros;66720;66096;Latour-de-France;;;2.649642;42.765915
+66096_0097_00002;2;;Rue des Feiches;66720;66096;Latour-de-France;;;2.653658;42.770156
+66096_0080_00001;1;;Impasse Danton;66720;66096;Latour-de-France;;;2.653057;42.770227
+66096_0265_00003;3;;Rue de la Seillere;66720;66096;Latour-de-France;;;2.652183;42.768192
+66096_0215_00005;5;;Rue de l'Orphéon;66720;66096;Latour-de-France;;;2.65351;42.768584
+66096_0205_00002_bis;2;bis;Rue du Moulin à Vent;66720;66096;Latour-de-France;;;2.651991;42.767754
+66096_0074_00002;2;;Boulevard Coronnat;66720;66096;Latour-de-France;;;2.651614;42.768085
+66096_0245_00001_bis;1;bis;Place Rosette Blanc;66720;66096;Latour-de-France;;;2.652153;42.767884
+66096_0060_00004;4;;Rue du Chateau;66720;66096;Latour-de-France;;;2.652888;42.769011
+66096_0006_00035;35;;Du Mietx Del Pla;66720;66096;Latour-de-France;;;2.660155;42.766076
+66096_0095_00002;2;;Rue du Faubourg;66720;66096;Latour-de-France;;;2.654896;42.768731
+66096_0045_00002;2;;Rue Beranger;66720;66096;Latour-de-France;;;2.653872;42.769005
+66096_0045_00007;7;;Rue Beranger;66720;66096;Latour-de-France;;;2.653852;42.769001
+66096_a200_00015;15;;Lotissement le Cros;66720;66096;Latour-de-France;;;2.649642;42.765915
+66096_0115_00003;3;;Rue du Four;66720;66096;Latour-de-France;;;2.65295;42.76907
+66096_0115_00007;7;;Rue du Four;66720;66096;Latour-de-France;;;2.653133;42.76934
+66096_0226_00001;1;;Place de la République;66720;66096;Latour-de-France;;;2.6534;42.76897
+66096_0074_00007;7;;Boulevard Coronnat;66720;66096;Latour-de-France;;;2.651845;42.767992
+66096_0090_00010;10;;Rue Etroite;66720;66096;Latour-de-France;;;2.652562;42.769705
+66096_0030_00006;6;;Place d’Armes;66720;66096;Latour-de-France;;;2.652599;42.769388
+66096_0160_00008;8;;Place du 8 Mai 1945;66720;66096;Latour-de-France;;;2.653489;42.768484
+66096_0174_00001;1;;Impasse de la Liberte;66720;66096;Latour-de-France;;;2.652753;42.769754
+66096_0264_00001;1;;Avenue du Souvenir Francais;66720;66096;Latour-de-France;;;2.656325;42.76837
+66096_0180_00004;4;;Boulevard Lieutenant Pruneta;66720;66096;Latour-de-France;;;2.652377;42.766901
+66096_a200_00001_bis;1;bis;Lotissement le Cros;66720;66096;Latour-de-France;;;2.649977;42.76636
+66096_0097_00006;6;;Rue des Feiches;66720;66096;Latour-de-France;;;2.65437;42.770512
+66096_0080_00004;4;;Impasse Danton;66720;66096;Latour-de-France;;;2.653227;42.770123
+66096_0187_00003;3;;Rue Madeleine Bres;66720;66096;Latour-de-France;;;2.65777;42.767922
+66096_0040_00002;2;;Place Bellevue;66720;66096;Latour-de-France;;;2.65226;42.770012
+66096_0215_00008_bis;8;bis;Rue de l'Orphéon;66720;66096;Latour-de-France;;;2.653541;42.768579
+66096_0205_00001;1;;Rue du Moulin à Vent;66720;66096;Latour-de-France;;;2.651906;42.767781
+66096_0205_00004;4;;Rue du Moulin à Vent;66720;66096;Latour-de-France;;;2.651754;42.76769
+66096_0204_00005;5;;Chemin du Moulin;66720;66096;Latour-de-France;;;2.659204;42.766997
+66096_0270_00003;3;;Place Valmanya;66720;66096;Latour-de-France;;;2.652313;42.770052
+66096_0175_00027;27;;Place de la Liberte;66720;66096;Latour-de-France;;;2.65254;42.769766
+66096_0006_00002;2;;Du Mietx Del Pla;66720;66096;Latour-de-France;;;2.665054;42.765662
+66096_0255_00012;12;;Rue Saint Joseph;66720;66096;Latour-de-France;;;2.654301;42.768698
+66096_a200_00002;2;;Lotissement le Cros;66720;66096;Latour-de-France;;;2.649992;42.766288
+66096_0097_00008;8;;Rue des Feiches;66720;66096;Latour-de-France;;;2.65453;42.770532
+66096_0215_00002;2;;Rue de l'Orphéon;66720;66096;Latour-de-France;;;2.653684;42.768719
+66096_0230_00005;5;;Rue de la Revolution;66720;66096;Latour-de-France;;;2.651673;42.767359
+66096_0268_00012;12;;Rue de la Tramontane;66720;66096;Latour-de-France;;;2.652236;42.769876
+66096_0082_00001;1;;Rue des Ecoles;66720;66096;Latour-de-France;;;2.65541;42.768851
+66096_0095_00010;10;;Rue du Faubourg;66720;66096;Latour-de-France;;;2.654478;42.768502
+66096_0190_00004;4;;Rue de la Mairie;66720;66096;Latour-de-France;;;2.652416;42.768485
+66096_zkc62u_00006;6;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.654684;42.768599
+66096_zkc62u_00010;10;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.654428;42.768477
+66096_zkc62u_00003_f;3;f;Avenue Guy Male;66720;66096;Latour-de-France;;;2.65334;42.767839
+66096_b9s61p_00002;2;;Lieu Dit Roubials;66720;66096;Latour-de-France;;;2.66678;42.777816
+66096_b9s61p_00006;6;;Lieu Dit Roubials;66720;66096;Latour-de-France;;;2.66678;42.777816
+66096_sz6qly_00001;1;;Avenue de la Fontaine;66720;66096;Latour-de-France;;;2.653702;42.767296
+66096_bq8utq_00006;6;;Chemin des Feiches;66720;66096;Latour-de-France;;;2.655328;42.771682
+66096_bq8utq_00031_bis;31;bis;Chemin des Feiches;66720;66096;Latour-de-France;;;2.656582;42.769835
+66096_g29bm4_00407;407;;Le Cros;66720;66096;Latour-de-France;;;2.650424;42.766622
+66096_zkc62u_00002;2;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.654864;42.768718
+66096_zkc62u_00005;5;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.655086;42.768332
+66096_zkc62u_00009;9;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.65387;42.768059
+66096_zkc62u_00020;20;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.65385;42.768081
+66096_zkc62u_00500;500;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.65338;42.767792
+66096_zkc62u_00019_bis;19;bis;Avenue Guy Male;66720;66096;Latour-de-France;;;2.653532;42.767725
+66096_gbuaxj_00007;7;;Chemin du Mietx Del Pla;66720;66096;Latour-de-France;;;2.665144;42.76575
+66096_gbuaxj_00008;8;;Chemin du Mietx Del Pla;66720;66096;Latour-de-France;;;2.664941;42.765842
+66096_bq8utq_00002;2;;Chemin des Feiches;66720;66096;Latour-de-France;;;2.651855;42.770001
+66096_43zktw_00001;1;;Chemin Sainte Eulalie;66720;66096;Latour-de-France;;;2.649578;42.766679
+66096_a0gre8_00001;1;;Les Roucatilles;66720;66096;Latour-de-France;;;2.660132;42.762877
+66096_g29bm4_00172;172;;Le Cros;66720;66096;Latour-de-France;;;2.653351;42.766869
+66096_enmcwn_00001;1;;Route de Planezes;66720;66096;Latour-de-France;;;2.650626;42.769358
+66096_zkc62u_00001;1;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.655356;42.768444
+66096_zkc62u_00013;13;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.653702;42.767916
+66096_zkc62u_00014;14;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.654255;42.76837
+66096_zkc62u_00005_ter;5;ter;Avenue Guy Male;66720;66096;Latour-de-France;;;2.65435;42.768189
+66096_gbuaxj_00003;3;;Chemin du Mietx Del Pla;66720;66096;Latour-de-France;;;2.665144;42.76575
+66096_gbuaxj_00004;4;;Chemin du Mietx Del Pla;66720;66096;Latour-de-France;;;2.665115;42.765302
+66096_gbuaxj_00035;35;;Chemin du Mietx Del Pla;66720;66096;Latour-de-France;;;2.66002;42.765968
+66096_gbuaxj_00039;39;;Chemin du Mietx Del Pla;66720;66096;Latour-de-France;;;2.65971;42.76603
+66096_sz6qly_00006;6;;Avenue de la Fontaine;66720;66096;Latour-de-France;;;2.653548;42.766761
+66096_uyjuj9_00003;3;;le Mouli;66720;66096;Latour-de-France;;;2.658371;42.765416
+66096_i9slw7_00001;1;;Rampe Del Serrat;66720;66096;Latour-de-France;;;2.656395;42.768308
+66096_bq8utq_00003;3;;Chemin des Feiches;66720;66096;Latour-de-France;;;2.654035;42.771898
+66096_bq8utq_00008;8;;Chemin des Feiches;66720;66096;Latour-de-France;;;2.655398;42.771654
+66096_g29bm4_00002;2;;Le Cros;66720;66096;Latour-de-France;;;2.650094;42.766409
+66096_0242_00001;1;;Place Roger Salengro;66720;66096;Latour-de-France;;;2.654887;42.769503
+66096_0170_00001;1;;Rue Jean Jaurès;66720;66096;Latour-de-France;;;2.653487;42.769152
+66096_0185_00003;3;;Rue Longue;66720;66096;Latour-de-France;;;2.652898;42.76971
+66096_0185_00010;10;;Rue Longue;66720;66096;Latour-de-France;;;2.652675;42.769905
+66096_0135_00011;11;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.657209;42.768261
+66096_0135_00013;13;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.6573;42.76824
+66096_0135_00027;27;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.658581;42.767959
+66096_0135_00035;35;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.661803;42.767307
+66096_0135_00006_bis;6;bis;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.660575;42.767487
+66096_0135_00029_bis;29;bis;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.659298;42.767795
+66096_0010_00010;10;;Rue Anatole France;66720;66096;Latour-de-France;;;2.653719;42.768779
+66096_0010_00012;12;;Rue Anatole France;66720;66096;Latour-de-France;;;2.653908;42.768767
+66096_0050_00011;11;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.655439;42.7693
+66096_0050_00021;21;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.654998;42.769646
+66096_0050_00029;29;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.653927;42.770067
+66096_0050_00033;33;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.65342;42.770364
+66096_0241_00002;2;;Rue de la Syrah;66720;66096;Latour-de-France;;;2.663012;42.766013
+66096_0225_00002_bis;2;bis;Boulevard de la Rèpublique;66720;66096;Latour-de-France;;;2.65228;42.767638
+66096_0020_00001;1;;Rue de l'Arc;66720;66096;Latour-de-France;;;2.653207;42.76883
+66096_0020_00005;5;;Rue de l'Arc;66720;66096;Latour-de-France;;;2.652932;42.768664
+66096_0173_00006;6;;Rue Joseph Mouné;66720;66096;Latour-de-France;;;2.652194;42.766382
+66096_0003_00009;9;;Boulevard de l'Agly;66720;66096;Latour-de-France;;;2.658686;42.768715
+66096_0025_00014;14;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652624;42.768527
+66096_0025_00022;22;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652854;42.768767
+66096_0025_00027;27;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.653026;42.768882
+66096_0100_00009;9;;Rue des Ferratjals;66720;66096;Latour-de-France;;;2.65347;42.77002
+66096_0120_00015;15;;Rue Gabriel Péri;66720;66096;Latour-de-France;;;2.652793;42.76819
+66096_0120_00004_bis;4;bis;Rue Gabriel Péri;66720;66096;Latour-de-France;;;2.653163;42.768305
+66096_0240_00009;9;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.653416;42.769433
+66096_0240_00015;15;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.652978;42.769939
+66096_0125_00005_bis;5;bis;Boulevard Gambetta;66720;66096;Latour-de-France;;;2.65271;42.767019
+66096_0195_00009;9;;Place de l’Ancien Marche;66720;66096;Latour-de-France;;;2.653098;42.767445
+66096_0210_00005;5;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.654459;42.769128
+66096_0210_00019;19;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.653944;42.769349
+66096_0047_00001;1;;Rue des Capeillettes;66720;66096;Latour-de-France;;;2.656708;42.768444
+66096_0047_00004;4;;Rue des Capeillettes;66720;66096;Latour-de-France;;;2.6573;42.76867
+66096_4nhtrn_00041;41;;La Ville;66720;66096;Latour-de-France;;;2.6527;42.769811
+66096_4nhtrn_00270;270;;La Ville;66720;66096;Latour-de-France;;;2.654745;42.768838
+66096_0222_00003;3;;Rue du Presbytere;66720;66096;Latour-de-France;;;2.652359;42.768572
+66096_0222_00009;9;;Rue du Presbytere;66720;66096;Latour-de-France;;;2.652106;42.768627
+66096_0222_00002_bis;2;bis;Rue du Presbytere;66720;66096;Latour-de-France;;;2.652443;42.768504
+66096_0242_00002;2;;Place Roger Salengro;66720;66096;Latour-de-France;;;2.65463;42.76966
+66096_0170_00005;5;;Rue Jean Jaurès;66720;66096;Latour-de-France;;;2.653681;42.769116
+66096_0170_00008;8;;Rue Jean Jaurès;66720;66096;Latour-de-France;;;2.654008;42.768972
+66096_0170_00012;12;;Rue Jean Jaurès;66720;66096;Latour-de-France;;;2.654298;42.768919
+66096_0170_00013;13;;Rue Jean Jaurès;66720;66096;Latour-de-France;;;2.654075;42.768994
+66096_0170_00006_bis;6;bis;Rue Jean Jaurès;66720;66096;Latour-de-France;;;2.654002;42.769001
+66096_0185_00006;6;;Rue Longue;66720;66096;Latour-de-France;;;2.65278;42.769679
+66096_0135_00002;2;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.657986;42.76804
+66096_0135_00003;3;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.656852;42.768332
+66096_0135_00008;8;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.660834;42.767433
+66096_0135_00009;9;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.657121;42.768279
+66096_0135_00016;16;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.661484;42.766469
+66096_0135_00020;20;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.65797;42.768127
+66096_0135_00025;25;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.657868;42.768114
+66096_0135_00037_bis;37;bis;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.662937;42.766786
+66096_0135_00004_bis;4;bis;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.659661;42.767698
+66096_0010_00007_bis;7;bis;Rue Anatole France;66720;66096;Latour-de-France;;;2.654016;42.768721
+66096_0048_00003;3;;Rue du Carignan;66720;66096;Latour-de-France;;;2.663202;42.766238
+66096_0048_00010;10;;Rue du Carignan;66720;66096;Latour-de-France;;;2.663821;42.765966
+66096_0050_00001;1;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.654136;42.77
+66096_0050_00016;16;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.654408;42.769834
+66096_0050_00024;24;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.653974;42.770008
+66096_0055_00003;3;;Route de Cassagnes;66720;66096;Latour-de-France;;;2.65103;42.766182
+66096_0035_00006;6;;Rue du Bac;66720;66096;Latour-de-France;;;2.654948;42.769919
+66096_0260_00012;12;;Rue Saint Martin;66720;66096;Latour-de-France;;;2.653697;42.768179
+66096_0149_00006;6;;Rue du Grenache;66720;66096;Latour-de-France;;;2.662325;42.766358
+66096_0149_00012;12;;Rue du Grenache;66720;66096;Latour-de-France;;;2.662262;42.76628
+66096_0025_00019;19;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652692;42.768596
+66096_0025_00004_bis;4;bis;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.65268;42.768487
+66096_0140_00011;11;;Rue Gilbert Brutus;66720;66096;Latour-de-France;;;2.652694;42.769561
+66096_0246_00005;5;;Allee Roger Salvat;66720;66096;Latour-de-France;;;2.660776;42.767528
+66096_0240_00020;20;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.652866;42.770015
+66096_0200_00001_bis;1;bis;Rue de l’Ancien Marche;66720;66096;Latour-de-France;;;2.652913;42.767622
+66096_0150_00011;11;;Rue Hippolyte Marty;66720;66096;Latour-de-France;;;2.653346;42.768102
+66096_0210_00002;2;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.65454;42.769012
+66096_0193_00005;5;;Place Marcel Vié;66720;66096;Latour-de-France;;;2.654855;42.768937
+66096_0193_00008;8;;Place Marcel Vié;66720;66096;Latour-de-France;;;2.655201;42.768897
+66096_0269_00002;2;;Place du Torrent;66720;66096;Latour-de-France;;;2.652835;42.766312
+66096_0269_00003;3;;Place du Torrent;66720;66096;Latour-de-France;;;2.653221;42.766507
+66096_0170_00002;2;;Rue Jean Jaurès;66720;66096;Latour-de-France;;;2.653632;42.769033
+66096_0185_00007;7;;Rue Longue;66720;66096;Latour-de-France;;;2.652732;42.769854
+66096_0185_00011;11;;Rue Longue;66720;66096;Latour-de-France;;;2.652643;42.769928
+66096_0185_00015;15;;Rue Longue;66720;66096;Latour-de-France;;;2.652506;42.769995
+66096_0185_00019;19;;Rue Longue;66720;66096;Latour-de-France;;;2.652362;42.770081
+66096_0135_00002_ter;2;ter;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.659103;42.767813
+66096_0135_00025_ter;25;ter;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.658153;42.768054
+66096_0048_00006;6;;Rue du Carignan;66720;66096;Latour-de-France;;;2.663386;42.766157
+66096_0048_00008;8;;Rue du Carignan;66720;66096;Latour-de-France;;;2.663587;42.766068
+66096_0048_00012;12;;Rue du Carignan;66720;66096;Latour-de-France;;;2.663768;42.76571
+66096_0050_00005;5;;Boulevard Carnot;66720;66096;Latour-de-France;;;2.655404;42.769035
+66096_0050_00014_bis;14;bis;Boulevard Carnot;66720;66096;Latour-de-France;;;2.654484;42.769805
+66096_0225_00002;2;;Boulevard de la Rèpublique;66720;66096;Latour-de-France;;;2.65219;42.767649
+66096_0173_00009;9;;Rue Joseph Mouné;66720;66096;Latour-de-France;;;2.651748;42.766115
+66096_0035_00011;11;;Rue du Bac;66720;66096;Latour-de-France;;;2.654816;42.769944
+66096_0260_00006;6;;Rue Saint Martin;66720;66096;Latour-de-France;;;2.653911;42.768392
+66096_0260_00006_bis;6;bis;Rue Saint Martin;66720;66096;Latour-de-France;;;2.65403;42.768421
+66096_0003_00005;5;;Boulevard de l'Agly;66720;66096;Latour-de-France;;;2.658557;42.769382
+66096_0003_00015;15;;Boulevard de l'Agly;66720;66096;Latour-de-France;;;2.65927;42.768495
+66096_0149_00003;3;;Rue du Grenache;66720;66096;Latour-de-France;;;2.662411;42.766701
+66096_0025_00002;2;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652288;42.768
+66096_0025_00006;6;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652438;42.768327
+66096_0140_00019;19;;Rue Gilbert Brutus;66720;66096;Latour-de-France;;;2.652438;42.76968
+66096_0246_00002;2;;Allee Roger Salvat;66720;66096;Latour-de-France;;;2.660372;42.768016
+66096_0240_00025;25;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.653434;42.769239
+66096_0240_00030;30;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.652416;42.77034
+66096_0155_00002;2;;Rue de l’Hopital;66720;66096;Latour-de-France;;;2.652615;42.769018
+66096_0125_00005;5;;Boulevard Gambetta;66720;66096;Latour-de-France;;;2.652694;42.767071
+66096_0145_00005;5;;Rue de la Glaciére;66720;66096;Latour-de-France;;;2.653372;42.769892
+66096_0150_00001;1;;Rue Hippolyte Marty;66720;66096;Latour-de-France;;;2.653352;42.767792
+66096_0150_00006;6;;Rue Hippolyte Marty;66720;66096;Latour-de-France;;;2.653264;42.767951
+66096_0150_00015;15;;Rue Hippolyte Marty;66720;66096;Latour-de-France;;;2.653689;42.76823
+66096_0210_00010;10;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.654272;42.769144
+66096_0047_00005_f;5;f;Rue des Capeillettes;66720;66096;Latour-de-France;;;2.65751;42.76966
+66096_0172_00001;1;;Rue de la Justice de Paix;66720;66096;Latour-de-France;;;2.652475;42.768282
+66096_0172_00005;5;;Rue de la Justice de Paix;66720;66096;Latour-de-France;;;2.652181;42.768367
+66096_0180_00003;3;;Boulevard Lieutenant Pruneta;66720;66096;Latour-de-France;;;2.652798;42.766645
+66096_0255_00001;1;;Rue Saint Joseph;66720;66096;Latour-de-France;;;2.654593;42.768918
+66096_a200_00011;11;;Lotissement le Cros;66720;66096;Latour-de-France;;;2.64952;42.765824
+66096_0115_00005;5;;Rue du Four;66720;66096;Latour-de-France;;;2.653143;42.769284
+66096_0215_00003;3;;Rue de l'Orphéon;66720;66096;Latour-de-France;;;2.653543;42.768636
+66096_0205_00006;6;;Rue du Moulin à Vent;66720;66096;Latour-de-France;;;2.65179;42.767659
+66096_0204_00002;2;;Chemin du Moulin;66720;66096;Latour-de-France;;;2.6587;42.76622
+66096_0250_00006;6;;Rue Saint Antoine;66720;66096;Latour-de-France;;;2.653138;42.767251
+66096_a200_00006;6;;Lotissement le Cros;66720;66096;Latour-de-France;;;2.649775;42.765893
+66096_0115_00010;10;;Rue du Four;66720;66096;Latour-de-France;;;2.653073;42.769491
+66096_0270_00017;17;;Place Valmanya;66720;66096;Latour-de-France;;;2.652442;42.770039
+66096_0090_00008;8;;Rue Etroite;66720;66096;Latour-de-France;;;2.6526;42.769808
+66096_0060_00003;3;;Rue du Chateau;66720;66096;Latour-de-France;;;2.652888;42.769011
+66096_0174_00003;3;;Impasse de la Liberte;66720;66096;Latour-de-France;;;2.652584;42.769718
+66096_0084_00001;1;;Place Gabriel Deville;66720;66096;Latour-de-France;;;2.652306;42.768929
+66096_b012_00406;406;;Bila Naut;66720;66096;Latour-de-France;;;2.669478;42.772545
+66096_0280_00003;3;;Impasse Victor Hugo;66720;66096;Latour-de-France;;;2.652832;42.767949
+66096_0105_00002;2;;Rue du Figuier;66720;66096;Latour-de-France;;;2.65381;42.769232
+66096_0045_00001;1;;Rue Beranger;66720;66096;Latour-de-France;;;2.653841;42.768888
+66096_0255_00004;4;;Rue Saint Joseph;66720;66096;Latour-de-France;;;2.654643;42.768842
+66096_a200_00003;3;;Lotissement le Cros;66720;66096;Latour-de-France;;;2.650183;42.766245
+66096_a200_00407;407;;Lotissement le Cros;66720;66096;Latour-de-France;;;2.649207;42.766151
+66096_0097_00010;10;;Rue des Feiches;66720;66096;Latour-de-France;;;2.653103;42.770709
+66096_0265_00004;4;;Rue de la Seillere;66720;66096;Latour-de-France;;;2.652249;42.768159
+66096_0270_00002;2;;Place Valmanya;66720;66096;Latour-de-France;;;2.652304;42.770006
+66096_0074_00006;6;;Boulevard Coronnat;66720;66096;Latour-de-France;;;2.65167;42.768041
+66096_0004_00001;1;;Rue de l’Aire;66720;66096;Latour-de-France;;;2.655218;42.769285
+66096_0232_00002;2;;Place Roger Pech;66720;66096;Latour-de-France;;;2.655993;42.768336
+66096_0095_00007;7;;Rue du Faubourg;66720;66096;Latour-de-France;;;2.654012;42.768167
+66096_0245_00002;2;;Place Rosette Blanc;66720;66096;Latour-de-France;;;2.651971;42.767945
+66096_0030_00003;3;;Place d’Armes;66720;66096;Latour-de-France;;;2.652763;42.769171
+66096_0006_00014;14;;Du Mietx Del Pla;66720;66096;Latour-de-France;;;2.663756;42.765002
+66096_0006_00039;39;;Du Mietx Del Pla;66720;66096;Latour-de-France;;;2.659633;42.765824
+66096_0095_00022;22;;Rue du Faubourg;66720;66096;Latour-de-France;;;2.653784;42.768023
+66096_zkc62u_00017;17;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.653563;42.767696
+66096_zkc62u_00021;21;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.653519;42.767542
+66096_zkc62u_00026;26;;Avenue Guy Male;66720;66096;Latour-de-France;;;2.65363;42.767948
+66096_zkc62u_00005_bis;5;bis;Avenue Guy Male;66720;66096;Latour-de-France;;;2.654201;42.768283
+66096_b9s61p_00005;5;;Lieu Dit Roubials;66720;66096;Latour-de-France;;;2.66678;42.777816
+66096_gbuaxj_00011;11;;Chemin du Mietx Del Pla;66720;66096;Latour-de-France;;;2.664356;42.766105
+66096_gbuaxj_00012;12;;Chemin du Mietx Del Pla;66720;66096;Latour-de-France;;;2.664125;42.766206
+66096_sz6qly_00002;2;;Avenue de la Fontaine;66720;66096;Latour-de-France;;;2.65314;42.767015
+66096_sz6qly_00007;7;;Avenue de la Fontaine;66720;66096;Latour-de-France;;;2.653638;42.766482
+66096_uyjuj9_00002;2;;le Mouli;66720;66096;Latour-de-France;;;2.658654;42.76514
+66096_o3bhh5_00016;16;;Rue du Danger;66720;66096;Latour-de-France;;;2.653987;42.768214
+66096_opq3d0_00001;1;;Avenue des Ecoles;66720;66096;Latour-de-France;;;2.655394;42.76885
+66096_g29bm4_00009;9;;Le Cros;66720;66096;Latour-de-France;;;2.649364;42.765785
+66096_0222_00004;4;;Rue du Presbytere;66720;66096;Latour-de-France;;;2.652015;42.768445
+66096_0170_00009;9;;Rue Jean Jaurès;66720;66096;Latour-de-France;;;2.653828;42.769063
+66096_0170_00017;17;;Rue Jean Jaurès;66720;66096;Latour-de-France;;;2.654415;42.768902
+66096_0185_00014;14;;Rue Longue;66720;66096;Latour-de-France;;;2.652556;42.769959
+66096_0185_00003_bis;3;bis;Rue Longue;66720;66096;Latour-de-France;;;2.65295;42.769704
+66096_0135_00006;6;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.660386;42.767525
+66096_0135_00017;17;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.657475;42.768203
+66096_0135_00021;21;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.657657;42.768167
+66096_0135_00033;33;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.661752;42.767279
+66096_0135_00043;43;;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.663125;42.766751
+66096_0135_00002_bis;2;bis;Avenue General de Gaulle;66720;66096;Latour-de-France;;;2.658545;42.767928
+66096_0010_00001;1;;Rue Anatole France;66720;66096;Latour-de-France;;;2.653203;42.768957
+66096_0010_00002;2;;Rue Anatole France;66720;66096;Latour-de-France;;;2.653285;42.768879
+66096_0010_00005;5;;Rue Anatole France;66720;66096;Latour-de-France;;;2.654127;42.768754
+66096_0010_00006;6;;Rue Anatole France;66720;66096;Latour-de-France;;;2.653433;42.768836
+66096_0010_00018;18;;Rue Anatole France;66720;66096;Latour-de-France;;;2.654006;42.768698
+66096_0048_00004;4;;Rue du Carignan;66720;66096;Latour-de-France;;;2.66338;42.766158
+66096_0048_00014;14;;Rue du Carignan;66720;66096;Latour-de-France;;;2.663692;42.765665
+66096_0173_00002;2;;Rue Joseph Mouné;66720;66096;Latour-de-France;;;2.652332;42.766461
+66096_0003_00021;21;;Boulevard de l'Agly;66720;66096;Latour-de-France;;;2.659739;42.767972
+66096_0025_00011;11;;Rue Aristide Briand;66720;66096;Latour-de-France;;;2.652575;42.768389
+66096_0140_00004;4;;Rue Gilbert Brutus;66720;66096;Latour-de-France;;;2.652622;42.769553
+66096_0140_00008;8;;Rue Gilbert Brutus;66720;66096;Latour-de-France;;;2.652395;42.769568
+66096_0100_00001;1;;Rue des Ferratjals;66720;66096;Latour-de-France;;;2.654487;42.769283
+66096_0266_00002;2;;Traverse du Serradet;66720;66096;Latour-de-France;;;2.651704;42.767571
+66096_0120_00007;7;;Rue Gabriel Péri;66720;66096;Latour-de-France;;;2.653062;42.768266
+66096_0120_00010;10;;Rue Gabriel Péri;66720;66096;Latour-de-France;;;2.652819;42.768149
+66096_0070_00002;2;;Traverse Colbert;66720;66096;Latour-de-France;;;2.653148;42.76948
+66096_0240_00006;6;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.653259;42.769516
+66096_0240_00010;10;;Rue Roger Salengro;66720;66096;Latour-de-France;;;2.653161;42.769776
+66096_0155_00004_f;4;f;Rue de l’Hopital;66720;66096;Latour-de-France;;;2.65252;42.769109
+66096_0125_00009;9;;Boulevard Gambetta;66720;66096;Latour-de-France;;;2.652987;42.767084
+66096_0130_00006;6;;Rue de la Gendarmerie;66720;66096;Latour-de-France;;;2.651229;42.766524
+66096_0195_00004;4;;Place de l’Ancien Marche;66720;66096;Latour-de-France;;;2.653208;42.767414
+66096_0210_00013;13;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.654077;42.769278
+66096_0210_00027;27;;Rue Notre Dame;66720;66096;Latour-de-France;;;2.653626;42.769477
+66096_0047_00011;11;;Rue des Capeillettes;66720;66096;Latour-de-France;;;2.658166;42.770018
+66096_0180_00011;11;;Boulevard Lieutenant Pruneta;66720;66096;Latour-de-France;;;2.653362;42.766466
+66096_0255_00014;14;;Rue Saint Joseph;66720;66096;Latour-de-France;;;2.654199;42.76871
+66096_a200_00012_bis;12;bis;Lotissement le Cros;66720;66096;Latour-de-France;;;2.649704;42.766204
+66096_0097_00003;3;;Rue des Feiches;66720;66096;Latour-de-France;;;2.653969;42.770516
+66096_0097_00005_bis;5;bis;Rue des Feiches;66720;66096;Latour-de-France;;;2.6542;42.770728
+66096_0080_00006;6;;Impasse Danton;66720;66096;Latour-de-France;;;2.65306;42.770212
+66096_0115_00002;2;;Rue du Four;66720;66096;Latour-de-France;;;2.653169;42.769275
+66096_0187_00005;5;;Rue Madeleine Bres;66720;66096;Latour-de-France;;;2.657986;42.76804
+66096_0040_00030;30;;Place Bellevue;66720;66096;Latour-de-France;;;2.65236;42.770219
+66096_0215_00007;7;;Rue de l'Orphéon;66720;66096;Latour-de-France;;;2.653296;42.768615
+66096_0215_00002_ter;2;ter;Rue de l'Orphéon;66720;66096;Latour-de-France;;;2.653711;42.768781
+66096_0226_00003;3;;Place de la République;66720;66096;Latour-de-France;;;2.653524;42.768994
+66096_0205_00003;3;;Rue du Moulin à Vent;66720;66096;Latour-de-France;;;2.651841;42.767751
+66096_0204_00007;7;;Chemin du Moulin;66720;66096;Latour-de-France;;;2.658975;42.766682
+66096_0175_00024;24;;Place de la Liberte;66720;66096;Latour-de-France;;;2.65254;42.769766
+66096_0083_00003;3;;Rue de l'Eglise;66720;66096;Latour-de-France;;;2.652733;42.768866
+66096_b011_00001;1;;Lieu Dit Bila Bas;66720;66096;Latour-de-France;;;2.666401;42.768698

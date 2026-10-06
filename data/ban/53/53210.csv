@@ -1,0 +1,832 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+53210_0460_00026;26;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.436562;47.796584
+53210_7ck3d8_00003;3;;Denais;53290;53210;Saint-Denis-d'Anjou;;;-0.455405;47.788282
+53210_0019_00002;2;;Rue de Beaumont;53290;53210;Saint-Denis-d'Anjou;;;-0.436319;47.792814
+53210_0260_00009;9;;Rue des Halles;53290;53210;Saint-Denis-d'Anjou;;;-0.443393;47.791873
+53210_0300_00017;17;;Rue des Jardins;53290;53210;Saint-Denis-d'Anjou;;;-0.440984;47.792308
+53210_0331_00002;2;;Rue du Maine;53290;53210;Saint-Denis-d'Anjou;;;-0.43628;47.793476
+53210_0340_00003;3;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.440393;47.787893
+53210_gab864_00001;1;;La Horgne;53290;53210;Saint-Denis-d'Anjou;;;-0.44776;47.788105
+53210_onp0a8_00002;2;;Les Reinieres;53290;53210;Saint-Denis-d'Anjou;;;-0.496301;47.810553
+53210_0245_00008;8;;Allée de la Grande Pierre;53290;53210;Saint-Denis-d'Anjou;;;-0.445058;47.789094
+53210_0060_00001;1;;Rue du Château;53290;53210;Saint-Denis-d'Anjou;;;-0.442425;47.79006
+53210_0490_00002;2;;Rue des Vignerons;53290;53210;Saint-Denis-d'Anjou;;;-0.444257;47.788617
+53210_0460_00043;43;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.436004;47.797105
+53210_0250_00036;36;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.439942;47.792051
+53210_0008_00006;6;;Place des Angevins;53290;53210;Saint-Denis-d'Anjou;;;-0.445682;47.788731
+53210_0418_00008;8;;rue du puits de la chapelle;53290;53210;Saint-Denis-d'Anjou;;;-0.472256;47.776131
+53210_0089_00006;6;;Rue du Clos de la Pierre;53290;53210;Saint-Denis-d'Anjou;;;-0.445669;47.787595
+53210_f4wc5r_00001;1;;La Gagnerie;53290;53210;Saint-Denis-d'Anjou;;;-0.4253;47.794103
+53210_0465_00003;3;;Rue Saint Vincent;53290;53210;Saint-Denis-d'Anjou;;;-0.437662;47.793019
+53210_0250_00010;10;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441636;47.791233
+53210_b215_00001;1;;Le Vieux Four;53290;53210;Saint-Denis-d'Anjou;;;-0.479158;47.813356
+53210_b082_00001;1;;La Grande Cordiniere;53290;53210;Saint-Denis-d'Anjou;;;-0.388004;47.796651
+53210_0440_00012;12;;Rue de la Roche;53290;53210;Saint-Denis-d'Anjou;;;-0.444557;47.79071
+53210_0340_00001_a;1;a;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.440371;47.788392
+53210_0200_00009;9;;Rue de l'Evêché;53290;53210;Saint-Denis-d'Anjou;;;-0.438892;47.792036
+53210_0250_00023;23;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.440585;47.791808
+53210_0100_00003;3;;Rue du Cohuau;53290;53210;Saint-Denis-d'Anjou;;;-0.441229;47.791801
+53210_0400_00011;11;;Route de la Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.444812;47.792729
+53210_0380_00003;3;;Rue du Pevignon;53290;53210;Saint-Denis-d'Anjou;;;-0.443284;47.789865
+53210_0005_00008_a;8;a;Route d'Angers;53290;53210;Saint-Denis-d'Anjou;;;-0.445777;47.789193
+53210_0460_00014;14;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.438925;47.792993
+53210_6ppt8p_00001;1;;Bellangeard;53290;53210;Saint-Denis-d'Anjou;;;-0.421509;47.79405
+53210_0250_00022;22;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441184;47.791474
+53210_5cp6yc_00001;1;;La Moriniere;53290;53210;Saint-Denis-d'Anjou;;;-0.460126;47.792965
+53210_b057_00003;3;;Les Croix Vertes;53290;53210;Saint-Denis-d'Anjou;;;-0.416975;47.777087
+53210_7tohtt_00001;1;;La Guimplerie;53290;53210;Saint-Denis-d'Anjou;;;-0.446512;47.765738
+53210_0019_00016;16;;Rue de Beaumont;53290;53210;Saint-Denis-d'Anjou;;;-0.435927;47.791322
+53210_0460_00030;30;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.43569;47.797129
+53210_0440_00005;5;;Rue de la Roche;53290;53210;Saint-Denis-d'Anjou;;;-0.446619;47.789729
+53210_0360_00011;11;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441966;47.790129
+53210_0300_00003;3;;Rue des Jardins;53290;53210;Saint-Denis-d'Anjou;;;-0.442078;47.791599
+53210_0435_00001;1;;Rue René Dubel;53290;53210;Saint-Denis-d'Anjou;;;-0.441459;47.788961
+53210_0360_00018;18;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441955;47.789916
+53210_0060_00010;10;;Rue du Château;53290;53210;Saint-Denis-d'Anjou;;;-0.44315;47.789768
+53210_0393_00002_c;2;c;Impasse de la Pieraie;53290;53210;Saint-Denis-d'Anjou;;;-0.443846;47.787138
+53210_0040_00001;1;;Rue du Chapitre;53290;53210;Saint-Denis-d'Anjou;;;-0.441894;47.78934
+53210_b31opl_00008;8;;Le Rossignol;53290;53210;Saint-Denis-d'Anjou;;;-0.449564;47.796744
+53210_b7m2pv_00001;1;;La Ruisselaie;53290;53210;Saint-Denis-d'Anjou;;;-0.440629;47.793599
+53210_0460_00029;29;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.438463;47.794402
+53210_0371_00012;12;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.436955;47.789549
+53210_t4dfc8_00001;1;;Beauchene;53290;53210;Saint-Denis-d'Anjou;;;-0.475601;47.802814
+53210_0335_00003;3;;rue de la mare;53290;53210;Saint-Denis-d'Anjou;;;-0.442249;47.774782
+53210_0368_00008;8;;Rue des Parentieres;53290;53210;Saint-Denis-d'Anjou;;;-0.436452;47.788999
+53210_0360_00003_a;3;a;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.442327;47.79066
+53210_0465_00009;9;;Rue Saint Vincent;53290;53210;Saint-Denis-d'Anjou;;;-0.436752;47.79305
+53210_0460_00047;47;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.435285;47.797584
+53210_c4v59h_00001;1;;Le Grimault;53290;53210;Saint-Denis-d'Anjou;;;-0.389011;47.774535
+53210_b134_00001;1;;Le Petit Beaumont;53290;53210;Saint-Denis-d'Anjou;;;-0.423793;47.788701
+53210_0371_00013;13;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.437086;47.789599
+53210_0259_00002;2;;Place des Halles;53290;53210;Saint-Denis-d'Anjou;;;-0.442917;47.792024
+53210_0380_00007;7;;Rue du Pevignon;53290;53210;Saint-Denis-d'Anjou;;;-0.442827;47.78823
+53210_0220_00001;1;;Rue de la Fosse Poirier;53290;53210;Saint-Denis-d'Anjou;;;-0.43927;47.790075
+53210_0011_00002;2;;Rue d’Anjou;53290;53210;Saint-Denis-d'Anjou;;;-0.437812;47.791527
+53210_ofsdon_00004;4;;L’Hommeliere;53290;53210;Saint-Denis-d'Anjou;;;-0.426847;47.802729
+53210_0089_00008;8;;Rue du Clos de la Pierre;53290;53210;Saint-Denis-d'Anjou;;;-0.444913;47.787327
+53210_zwe1s9_00001_c;1;c;Place Henri IV;53290;53210;Saint-Denis-d'Anjou;;;-0.440382;47.791695
+53210_0340_00009;9;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.44019;47.786315
+53210_0360_00019;19;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441306;47.789194
+53210_0360_00013;13;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441909;47.789977
+53210_pay34o_00001;1;;La Piqueraie;53290;53210;Saint-Denis-d'Anjou;;;-0.441156;47.782483
+53210_b159_00001;1;;Le Pre de l’Osier;53290;53210;Saint-Denis-d'Anjou;;;-0.461755;47.782728
+53210_b203_00004;4;;Saint Martin de Villenglose;53290;53210;Saint-Denis-d'Anjou;;;-0.471953;47.775825
+53210_0005_00002;2;;Route d'Angers;53290;53210;Saint-Denis-d'Anjou;;;-0.442799;47.790727
+53210_0250_00026;26;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441058;47.791538
+53210_0300_00004_a;4;a;Rue des Jardins;53290;53210;Saint-Denis-d'Anjou;;;-0.442165;47.791505
+53210_0360_00007;7;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.44216;47.790461
+53210_b086_00001;1;;Les Grandes Giraudieres;53290;53210;Saint-Denis-d'Anjou;;;-0.467125;47.818335
+53210_0005_00014;14;;Route d'Angers;53290;53210;Saint-Denis-d'Anjou;;;-0.44657;47.788811
+53210_0360_00017;17;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441638;47.78961
+53210_0220_00008;8;;Rue de la Fosse Poirier;53290;53210;Saint-Denis-d'Anjou;;;-0.438961;47.790195
+53210_1yq6h5_00001;1;;L’Aubriere;53290;53210;Saint-Denis-d'Anjou;;;-0.494097;47.783536
+53210_0360_00021;21;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441206;47.789124
+53210_820ddb_00001;1;;La Ricordelaie;53290;53210;Saint-Denis-d'Anjou;;;-0.435558;47.783003
+53210_b207_00001;1;;La Petite Bellangeraie;53290;53210;Saint-Denis-d'Anjou;;;-0.455727;47.773885
+53210_tdws63_00001;1;;La Malabriere;53290;53210;Saint-Denis-d'Anjou;;;-0.39387;47.801362
+53210_0200_00004;4;;Rue de l'Evêché;53290;53210;Saint-Denis-d'Anjou;;;-0.439453;47.792144
+53210_0240_00005;5;;Rue du Four à Ban;53290;53210;Saint-Denis-d'Anjou;;;-0.441803;47.790385
+53210_f4fqhg_00003;3;;La Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.450383;47.796682
+53210_0300_00003_a;3;a;Rue des Jardins;53290;53210;Saint-Denis-d'Anjou;;;-0.442017;47.791636
+53210_b081_00001;1;;La Grande Closerie;53290;53210;Saint-Denis-d'Anjou;;;-0.457902;47.764672
+53210_b229_00001;1;;La Maison Neuve aux Fées;53290;53210;Saint-Denis-d'Anjou;;;-0.478786;47.808117
+53210_0200_00003;3;;Rue de l'Evêché;53290;53210;Saint-Denis-d'Anjou;;;-0.439136;47.792098
+53210_zwe1s9_00002;2;;Place Henri IV;53290;53210;Saint-Denis-d'Anjou;;;-0.440667;47.791599
+53210_b007_00001;1;;Le Bas Marais;53290;53210;Saint-Denis-d'Anjou;;;-0.470702;47.792618
+53210_0340_00008;8;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.440505;47.787652
+53210_0019_00010;10;;Rue de Beaumont;53290;53210;Saint-Denis-d'Anjou;;;-0.435703;47.791978
+53210_0360_00004;4;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.442366;47.790587
+53210_0380_00002;2;;Rue du Pevignon;53290;53210;Saint-Denis-d'Anjou;;;-0.443176;47.789455
+53210_1eq52i_00001;1;;La Brancheraie;53290;53210;Saint-Denis-d'Anjou;;;-0.502162;47.819541
+53210_0250_00001;1;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.442019;47.791139
+53210_4cz55l_00001;1;;La Piverdiere;53290;53210;Saint-Denis-d'Anjou;;;-0.499536;47.788826
+53210_f80d8t_00002;2;;La Ricordelaie;53290;53210;Saint-Denis-d'Anjou;;;-0.435836;47.783073
+53210_cbxmsz_00001;1;;La Contrie;53290;53210;Saint-Denis-d'Anjou;;;-0.392649;47.78163
+53210_b046_00003;3;;le Clos des Halles;53290;53210;Saint-Denis-d'Anjou;;;-0.441233;47.79471
+53210_0460_00033;33;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.43827;47.794837
+53210_b057_00006;6;;Les Croix Vertes;53290;53210;Saint-Denis-d'Anjou;;;-0.416225;47.776779
+53210_0260_00005;5;;Rue des Halles;53290;53210;Saint-Denis-d'Anjou;;;-0.443198;47.791665
+53210_0089_00012;12;;Rue du Clos de la Pierre;53290;53210;Saint-Denis-d'Anjou;;;-0.444276;47.786957
+53210_0200_00011;11;;Rue de l'Evêché;53290;53210;Saint-Denis-d'Anjou;;;-0.438708;47.792006
+53210_0285_00003;3;;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.438317;47.789641
+53210_0020_00006;6;;Route de Bouere;53290;53210;Saint-Denis-d'Anjou;;;-0.440112;47.79241
+53210_0371_00008;8;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.437091;47.789356
+53210_b203_00002;2;;Saint Martin de Villenglose;53290;53210;Saint-Denis-d'Anjou;;;-0.471343;47.776291
+53210_0259_00006;6;;Place des Halles;53290;53210;Saint-Denis-d'Anjou;;;-0.4423;47.792218
+53210_0011_00016;16;;Rue d’Anjou;53290;53210;Saint-Denis-d'Anjou;;;-0.436964;47.791775
+53210_0371_00009;9;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.43721;47.789407
+53210_b203_00006;6;;Saint Martin de Villenglose;53290;53210;Saint-Denis-d'Anjou;;;-0.472253;47.77551
+53210_tyimsc_00002;2;;Les Barbottieres;53290;53210;Saint-Denis-d'Anjou;;;-0.43727;47.76481
+53210_b037_00001;1;;Chateau de la Cour;53290;53210;Saint-Denis-d'Anjou;;;-0.469109;47.776899
+53210_0285_00018_e;18;e;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.436582;47.790574
+53210_me0l3y_00001;1;;La Touche;53290;53210;Saint-Denis-d'Anjou;;;-0.493639;47.799754
+53210_0360_00016;16;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441971;47.789982
+53210_0289_00001;1;;Rue du 8 Mai 1945;53290;53210;Saint-Denis-d'Anjou;;;-0.439496;47.791725
+53210_fe2oab_00001;1;;La Trietterie;53290;53210;Saint-Denis-d'Anjou;;;-0.417502;47.774233
+53210_b138_00001;1;;le Petit Ray;53290;53210;Saint-Denis-d'Anjou;;;-0.434278;47.796502
+53210_0250_00038;38;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.439865;47.792089
+53210_b024_00001;1;;Le Bois Mizan;53290;53210;Saint-Denis-d'Anjou;;;-0.477452;47.783643
+53210_0300_00004;4;;Rue des Jardins;53290;53210;Saint-Denis-d'Anjou;;;-0.442075;47.791544
+53210_pyd3uc_00001;1;;Le Pin;53290;53210;Saint-Denis-d'Anjou;;;-0.449868;47.765309
+53210_rh9xfz_00001;1;;Martigne;53290;53210;Saint-Denis-d'Anjou;;;-0.419766;47.776464
+53210_uwyntf_00001;1;;La Moinerie;53290;53210;Saint-Denis-d'Anjou;;;-0.39806;47.782671
+53210_0340_00010;10;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.440244;47.785859
+53210_0288_00003;3;;Place du 8 Mai 1945;53290;53210;Saint-Denis-d'Anjou;;;-0.438534;47.791413
+53210_0335_00002;2;;rue de la mare;53290;53210;Saint-Denis-d'Anjou;;;-0.442747;47.775081
+53210_xky32c_00003;3;;Rue de l’Eglise;53290;53210;Saint-Denis-d'Anjou;;;-0.44281;47.791221
+53210_0016_00001;1;;Chemin de Baltazar;53290;53210;Saint-Denis-d'Anjou;;;-0.437645;47.791133
+53210_0080_00017;17;;Rue du Cimetière;53290;53210;Saint-Denis-d'Anjou;;;-0.442698;47.785865
+53210_0463_00004;4;;Impasse Saint Martin;53290;53210;Saint-Denis-d'Anjou;;;-0.446528;47.788055
+53210_0371_00015;15;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.437106;47.789765
+53210_0320_00009;9;;Rue des Juifs;53290;53210;Saint-Denis-d'Anjou;;;-0.440194;47.790427
+53210_0300_00015;15;;Rue des Jardins;53290;53210;Saint-Denis-d'Anjou;;;-0.441178;47.792217
+53210_18a95p_00002;2;;Les Reharies;53290;53210;Saint-Denis-d'Anjou;;;-0.461959;47.785285
+53210_0360_00046;46;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441169;47.788896
+53210_0019_00001;1;;Rue de Beaumont;53290;53210;Saint-Denis-d'Anjou;;;-0.436209;47.793047
+53210_il8aud_00001;1;;La Roussiere;53290;53210;Saint-Denis-d'Anjou;;;-0.494566;47.782938
+53210_0465_00008;8;;Rue Saint Vincent;53290;53210;Saint-Denis-d'Anjou;;;-0.436837;47.792974
+53210_0288_00007;7;;Place du 8 Mai 1945;53290;53210;Saint-Denis-d'Anjou;;;-0.438477;47.791215
+53210_0380_00008_b;8;b;Rue du Pevignon;53290;53210;Saint-Denis-d'Anjou;;;-0.44357;47.787939
+53210_0020_00004;4;;Route de Bouere;53290;53210;Saint-Denis-d'Anjou;;;-0.439974;47.792336
+53210_xky32c_00005;5;;Rue de l’Eglise;53290;53210;Saint-Denis-d'Anjou;;;-0.44279;47.791257
+53210_0250_00030;30;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.440798;47.791658
+53210_b158_00001;1;;Le Pot Vin;53290;53210;Saint-Denis-d'Anjou;;;-0.442306;47.797391
+53210_0198_00001;1;;Place de l'Europe;53290;53210;Saint-Denis-d'Anjou;;;-0.44171;47.790651
+53210_682lyc_00001;1;;La Domblancherie;53290;53210;Saint-Denis-d'Anjou;;;-0.456014;47.765315
+53210_0005_00001;1;;Route d'Angers;53290;53210;Saint-Denis-d'Anjou;;;-0.443058;47.790517
+53210_xcw58m_00001;1;;La Binetiere;53290;53210;Saint-Denis-d'Anjou;;;-0.416796;47.783804
+53210_1x10gl_00001;1;;Les Iffrieres;53290;53210;Saint-Denis-d'Anjou;;;-0.398488;47.802691
+53210_0393_00002_a;2;a;Impasse de la Pieraie;53290;53210;Saint-Denis-d'Anjou;;;-0.443988;47.787038
+53210_0068_00003;3;;Place du Chenin;53290;53210;Saint-Denis-d'Anjou;;;-0.445368;47.788308
+53210_b078_00001;1;;Le Grand Coulon;53290;53210;Saint-Denis-d'Anjou;;;-0.458742;47.802554
+53210_0460_00023;23;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.438758;47.793751
+53210_0490_00008;8;;Rue des Vignerons;53290;53210;Saint-Denis-d'Anjou;;;-0.44545;47.788649
+53210_0056_00003;3;;Place du Château;53290;53210;Saint-Denis-d'Anjou;;;-0.442307;47.790333
+53210_0480_00009;9;;Route de Varennes;53290;53210;Saint-Denis-d'Anjou;;;-0.438809;47.789236
+53210_b162_00001;1;;Le Pressoir Billon;53290;53210;Saint-Denis-d'Anjou;;;-0.469115;47.79037
+53210_0100_00005;5;;Rue du Cohuau;53290;53210;Saint-Denis-d'Anjou;;;-0.441266;47.791831
+53210_0300_00001;1;;Rue des Jardins;53290;53210;Saint-Denis-d'Anjou;;;-0.442625;47.79138
+53210_0254_00003;3;;Rue de la Grèleraie;53290;53210;Saint-Denis-d'Anjou;;;-0.444175;47.789215
+53210_0300_00013;13;;Rue des Jardins;53290;53210;Saint-Denis-d'Anjou;;;-0.441361;47.792087
+53210_0320_00003;3;;Rue des Juifs;53290;53210;Saint-Denis-d'Anjou;;;-0.440739;47.791017
+53210_0005_00010;10;;Route d'Angers;53290;53210;Saint-Denis-d'Anjou;;;-0.446096;47.789038
+53210_0463_00007;7;;Impasse Saint Martin;53290;53210;Saint-Denis-d'Anjou;;;-0.446678;47.788144
+53210_0005_00003_a;3;a;Route d'Angers;53290;53210;Saint-Denis-d'Anjou;;;-0.443466;47.790251
+53210_b203_00005;5;;Saint Martin de Villenglose;53290;53210;Saint-Denis-d'Anjou;;;-0.472085;47.775496
+53210_0005_00016;16;;Route d'Angers;53290;53210;Saint-Denis-d'Anjou;;;-0.446967;47.788626
+53210_0250_00021;21;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.440665;47.791766
+53210_0371_00014;14;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.436791;47.789688
+53210_pdnu67_00001_a;1;a;La Morliere;53290;53210;Saint-Denis-d'Anjou;;;-0.384774;47.786807
+53210_a8r6gw_00001;1;;le Baltazar;53290;53210;Saint-Denis-d'Anjou;;;-0.432218;47.791639
+53210_b080_00002;2;;La Grande Charbonnerie;53290;53210;Saint-Denis-d'Anjou;;;-0.436582;47.777906
+53210_0080_00001;1;;Rue du Cimetière;53290;53210;Saint-Denis-d'Anjou;;;-0.441026;47.788761
+53210_b123_00004;4;;Le Mortier Neuf;53290;53210;Saint-Denis-d'Anjou;;;-0.480613;47.812315
+53210_0465_00006;6;;Rue Saint Vincent;53290;53210;Saint-Denis-d'Anjou;;;-0.437161;47.792964
+53210_tgv8y3_00003;3;;le Ray;53290;53210;Saint-Denis-d'Anjou;;;-0.433931;47.796086
+53210_xky32c_00002_a;2;a;Rue de l’Eglise;53290;53210;Saint-Denis-d'Anjou;;;-0.442264;47.791109
+53210_0288_00005;5;;Place du 8 Mai 1945;53290;53210;Saint-Denis-d'Anjou;;;-0.43842;47.791326
+53210_b074_00002;2;;Le Grand Beaumont;53290;53210;Saint-Denis-d'Anjou;;;-0.42439;47.790022
+53210_b158_00002;2;;Le Pot Vin;53290;53210;Saint-Denis-d'Anjou;;;-0.442162;47.797443
+53210_b079_00002;2;;Le Grand Saultray;53290;53210;Saint-Denis-d'Anjou;;;-0.437074;47.801369
+53210_0250_00024;24;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441132;47.791498
+53210_0016_00005;5;;Chemin de Baltazar;53290;53210;Saint-Denis-d'Anjou;;;-0.43701;47.791136
+53210_0400_00004;4;;Route de la Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.444222;47.792369
+53210_2dbchb_00001;1;;La Mercerie;53290;53210;Saint-Denis-d'Anjou;;;-0.453918;47.811174
+53210_0250_00034;34;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.440054;47.79199
+53210_0011_00008;8;;Rue d’Anjou;53290;53210;Saint-Denis-d'Anjou;;;-0.437539;47.79169
+53210_b057_00002;2;;Les Croix Vertes;53290;53210;Saint-Denis-d'Anjou;;;-0.415637;47.778869
+53210_b009_00001;1;;Les Basses Croix Vertes;53290;53210;Saint-Denis-d'Anjou;;;-0.419611;47.774457
+53210_0060_00004;4;;Rue du Château;53290;53210;Saint-Denis-d'Anjou;;;-0.442444;47.790124
+53210_0011_00014;14;;Rue d’Anjou;53290;53210;Saint-Denis-d'Anjou;;;-0.437119;47.791772
+53210_0360_00026;26;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441812;47.789651
+53210_0005_00005;5;;Route d'Angers;53290;53210;Saint-Denis-d'Anjou;;;-0.443773;47.790067
+53210_0289_00003;3;;Rue du 8 Mai 1945;53290;53210;Saint-Denis-d'Anjou;;;-0.439416;47.791634
+53210_zwe1s9_00009;9;;Place Henri IV;53290;53210;Saint-Denis-d'Anjou;;;-0.439365;47.79105
+53210_vsewva_00001;1;;Les Foresteries;53290;53210;Saint-Denis-d'Anjou;;;-0.419327;47.78656
+53210_0205_00001;1;;Impasse de la Fiarie;53290;53210;Saint-Denis-d'Anjou;;;-0.440962;47.793065
+53210_0380_00004_a;4;a;Rue du Pevignon;53290;53210;Saint-Denis-d'Anjou;;;-0.443577;47.788979
+53210_0020_00001;1;;Route de Bouere;53290;53210;Saint-Denis-d'Anjou;;;-0.440352;47.792585
+53210_0360_00048;48;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441138;47.788942
+53210_0260_00006;6;;Rue des Halles;53290;53210;Saint-Denis-d'Anjou;;;-0.443466;47.791976
+53210_hvsn1r_00001;1;;Les Vaux;53290;53210;Saint-Denis-d'Anjou;;;-0.455895;47.799939
+53210_0368_00012;12;;Rue des Parentieres;53290;53210;Saint-Denis-d'Anjou;;;-0.436455;47.789185
+53210_0360_00008;8;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.442201;47.790393
+53210_zwe1s9_00006;6;;Place Henri IV;53290;53210;Saint-Denis-d'Anjou;;;-0.439629;47.79099
+53210_0460_00016;16;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.438197;47.794387
+53210_0480_00001;1;;Route de Varennes;53290;53210;Saint-Denis-d'Anjou;;;-0.440754;47.789082
+53210_zwe1s9_00007;7;;Place Henri IV;53290;53210;Saint-Denis-d'Anjou;;;-0.439521;47.791275
+53210_0016_00002;2;;Chemin de Baltazar;53290;53210;Saint-Denis-d'Anjou;;;-0.43729;47.791018
+53210_b225_00001;1;;Le Clair Sejour;53290;53210;Saint-Denis-d'Anjou;;;-0.442287;47.796917
+53210_7hujv3_00001;1;;La Grangere;53290;53210;Saint-Denis-d'Anjou;;;-0.450819;47.796906
+53210_0393_00004;4;;Impasse de la Pieraie;53290;53210;Saint-Denis-d'Anjou;;;-0.443504;47.78727
+53210_0340_00019;19;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.439245;47.785453
+53210_0444_00006;6;;Square des Rougeries;53290;53210;Saint-Denis-d'Anjou;;;-0.436618;47.792046
+53210_0008_00003;3;;Place des Angevins;53290;53210;Saint-Denis-d'Anjou;;;-0.445851;47.78845
+53210_b143_00001;1;;La Petite Gredouillere;53290;53210;Saint-Denis-d'Anjou;;;-0.472087;47.777101
+53210_0490_00001;1;;Rue des Vignerons;53290;53210;Saint-Denis-d'Anjou;;;-0.444118;47.78862
+53210_yg12nq_00001;1;;Quifeu;53290;53210;Saint-Denis-d'Anjou;;;-0.466746;47.787199
+53210_0360_00038;38;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441333;47.789137
+53210_18a95p_00001;1;;Les Reharies;53290;53210;Saint-Denis-d'Anjou;;;-0.461839;47.785275
+53210_0019_00004;4;;Rue de Beaumont;53290;53210;Saint-Denis-d'Anjou;;;-0.436128;47.792711
+53210_f88pks_00001;1;;Les Beaudieres;53290;53210;Saint-Denis-d'Anjou;;;-0.428305;47.771902
+53210_0180_00004;4;;Rue d'Espagne;53290;53210;Saint-Denis-d'Anjou;;;-0.44269;47.79037
+53210_0250_00007;7;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441635;47.791299
+53210_b137_00001;1;;Le Petit Coulon;53290;53210;Saint-Denis-d'Anjou;;;-0.459837;47.801973
+53210_0200_00002;2;;Rue de l'Evêché;53290;53210;Saint-Denis-d'Anjou;;;-0.439613;47.792189
+53210_0368_00004;4;;Rue des Parentieres;53290;53210;Saint-Denis-d'Anjou;;;-0.43672;47.788926
+53210_0008_00004;4;;Place des Angevins;53290;53210;Saint-Denis-d'Anjou;;;-0.445599;47.788732
+53210_b006_00001;1;;Le Bas Glandelle;53290;53210;Saint-Denis-d'Anjou;;;-0.484165;47.799828
+53210_b079_00001;1;;Le Grand Saultray;53290;53210;Saint-Denis-d'Anjou;;;-0.436864;47.801333
+53210_0250_00006;6;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441929;47.791104
+53210_0005_00006;6;;Route d'Angers;53290;53210;Saint-Denis-d'Anjou;;;-0.44331;47.790434
+53210_eb47rr_00001;1;;la Brosse;53290;53210;Saint-Denis-d'Anjou;;;-0.498455;47.783069
+53210_b084_00001;1;;La Grande Maison;53290;53210;Saint-Denis-d'Anjou;;;-0.391231;47.771059
+53210_0016_00010;10;;Chemin de Baltazar;53290;53210;Saint-Denis-d'Anjou;;;-0.435091;47.790917
+53210_b31opl_00010;10;;Le Rossignol;53290;53210;Saint-Denis-d'Anjou;;;-0.449454;47.797037
+53210_3buwpt_00004;4;;Beffes;53290;53210;Saint-Denis-d'Anjou;;;-0.386211;47.798489
+53210_zwe1s9_00013;13;;Place Henri IV;53290;53210;Saint-Denis-d'Anjou;;;-0.438893;47.790785
+53210_0086_00002;2;;Rue du Clos de la Horgne;53290;53210;Saint-Denis-d'Anjou;;;-0.447176;47.787767
+53210_0444_00010;10;;Square des Rougeries;53290;53210;Saint-Denis-d'Anjou;;;-0.436781;47.792308
+53210_0460_00017;17;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.438918;47.79338
+53210_0360_00040;40;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441207;47.789031
+53210_0016_00008;8;;Chemin de Baltazar;53290;53210;Saint-Denis-d'Anjou;;;-0.436501;47.791149
+53210_0400_00003;3;;Route de la Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.44373;47.791714
+53210_b074_00001;1;;Le Grand Beaumont;53290;53210;Saint-Denis-d'Anjou;;;-0.424533;47.78998
+53210_0289_00005;5;;Rue du 8 Mai 1945;53290;53210;Saint-Denis-d'Anjou;;;-0.439209;47.791514
+53210_ma97y0_00001;1;;La Fontenelle;53290;53210;Saint-Denis-d'Anjou;;;-0.414609;47.798415
+53210_nt3t1p_00001;1;;Le Clouai;53290;53210;Saint-Denis-d'Anjou;;;-0.454182;47.767764
+53210_0285_00012;12;;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.438001;47.789806
+53210_60crnm_00002;2;;La Retaudiere;53290;53210;Saint-Denis-d'Anjou;;;-0.404055;47.775606
+53210_0380_00005;5;;Rue du Pevignon;53290;53210;Saint-Denis-d'Anjou;;;-0.443096;47.789318
+53210_zwe1s9_00005;5;;Place Henri IV;53290;53210;Saint-Denis-d'Anjou;;;-0.43972;47.791383
+53210_ozycvp_00001;1;;L’Hommee;53290;53210;Saint-Denis-d'Anjou;;;-0.482666;47.79505
+53210_y1hfs6_00002;2;;les Ormeaux;53290;53210;Saint-Denis-d'Anjou;;;-0.42987;47.796809
+53210_0360_00042;42;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441347;47.789001
+53210_b211_00001;1;;la Grange aux Fées;53290;53210;Saint-Denis-d'Anjou;;;-0.478875;47.815932
+53210_2ua9nb_00003;3;;Les Molanceries;53290;53210;Saint-Denis-d'Anjou;;;-0.417701;47.780493
+53210_0250_00016;16;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441436;47.791338
+53210_ofsdon_00001;1;;L’Hommeliere;53290;53210;Saint-Denis-d'Anjou;;;-0.426638;47.803011
+53210_0285_00005;5;;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.438191;47.789802
+53210_0060_00003;3;;Rue du Château;53290;53210;Saint-Denis-d'Anjou;;;-0.442544;47.789981
+53210_pdnu67_00001;1;;La Morliere;53290;53210;Saint-Denis-d'Anjou;;;-0.384759;47.786883
+53210_0440_00013;13;;Rue de la Roche;53290;53210;Saint-Denis-d'Anjou;;;-0.447806;47.789317
+53210_0250_00029;29;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.440231;47.79197
+53210_0380_00004;4;;Rue du Pevignon;53290;53210;Saint-Denis-d'Anjou;;;-0.44323;47.789235
+53210_2z601k_00001;1;;la Perrière;53290;53210;Saint-Denis-d'Anjou;;;-0.439896;47.793881
+53210_0320_00007;7;;Rue des Juifs;53290;53210;Saint-Denis-d'Anjou;;;-0.440475;47.790745
+53210_0340_00008_a;8;a;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.440406;47.787019
+53210_0250_00025;25;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.440484;47.791836
+53210_lp2m5c_00001;1;;Le Chene;53290;53210;Saint-Denis-d'Anjou;;;-0.487239;47.781434
+53210_ddp52i_00001;1;;La Bouquetiere;53290;53210;Saint-Denis-d'Anjou;;;-0.460351;47.809017
+53210_0400_00006;6;;Route de la Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.444461;47.792549
+53210_0460_00020;20;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.43793;47.795267
+53210_b017_00001;1;;Belle Vue;53290;53210;Saint-Denis-d'Anjou;;;-0.433239;47.798831
+53210_0340_00005;5;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.440355;47.78772
+53210_0460_00001;1;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.439556;47.792372
+53210_0420_00001;1;;Rue du Puits Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.442181;47.792093
+53210_0480_00012;12;;Route de Varennes;53290;53210;Saint-Denis-d'Anjou;;;-0.438288;47.788988
+53210_0460_00013;13;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.438998;47.793144
+53210_kha963_00001;1;;L’Esperance;53290;53210;Saint-Denis-d'Anjou;;;-0.457655;47.782665
+53210_0020_00003_a;3;a;Route de Bouere;53290;53210;Saint-Denis-d'Anjou;;;-0.441583;47.793858
+53210_0360_00005;5;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.442302;47.790574
+53210_0200_00008;8;;Rue de l'Evêché;53290;53210;Saint-Denis-d'Anjou;;;-0.438881;47.79198
+53210_0460_00011;11;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.439052;47.793019
+53210_puwxep_00001;1;;La Vitrie;53290;53210;Saint-Denis-d'Anjou;;;-0.390782;47.778747
+53210_0260_00007;7;;Rue des Halles;53290;53210;Saint-Denis-d'Anjou;;;-0.443174;47.791749
+53210_0254_00005;5;;Rue de la Grèleraie;53290;53210;Saint-Denis-d'Anjou;;;-0.444007;47.789058
+53210_b057_00005;5;;Les Croix Vertes;53290;53210;Saint-Denis-d'Anjou;;;-0.416624;47.777019
+53210_0393_00002_b;2;b;Impasse de la Pieraie;53290;53210;Saint-Denis-d'Anjou;;;-0.443927;47.787084
+53210_0435_00003;3;;Rue René Dubel;53290;53210;Saint-Denis-d'Anjou;;;-0.441374;47.788674
+53210_b31opl_00002;2;;Le Rossignol;53290;53210;Saint-Denis-d'Anjou;;;-0.448609;47.795723
+53210_0360_00009;9;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.442074;47.79029
+53210_f88pks_00002;2;;Les Beaudieres;53290;53210;Saint-Denis-d'Anjou;;;-0.428597;47.772349
+53210_0250_00018;18;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441386;47.791359
+53210_0005_00009;9;;Route d'Angers;53290;53210;Saint-Denis-d'Anjou;;;-0.444403;47.789739
+53210_0089_00007;7;;Rue du Clos de la Pierre;53290;53210;Saint-Denis-d'Anjou;;;-0.444533;47.787418
+53210_b094_00001;1;;La Haltiere du Pin;53290;53210;Saint-Denis-d'Anjou;;;-0.473139;47.807066
+53210_0360_00022;22;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441907;47.789796
+53210_0200_00001;1;;Rue de l'Evêché;53290;53210;Saint-Denis-d'Anjou;;;-0.439316;47.792149
+53210_b057_00004;4;;Les Croix Vertes;53290;53210;Saint-Denis-d'Anjou;;;-0.415586;47.776839
+53210_0368_00010;10;;Rue des Parentieres;53290;53210;Saint-Denis-d'Anjou;;;-0.436627;47.789192
+53210_b009_00003;3;;Les Basses Croix Vertes;53290;53210;Saint-Denis-d'Anjou;;;-0.419947;47.774168
+53210_0440_00011;11;;Rue de la Roche;53290;53210;Saint-Denis-d'Anjou;;;-0.447482;47.789486
+53210_0490_00005;5;;Rue des Vignerons;53290;53210;Saint-Denis-d'Anjou;;;-0.44465;47.788189
+53210_0340_00013;13;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.440103;47.785677
+53210_0480_00005;5;;Route de Varennes;53290;53210;Saint-Denis-d'Anjou;;;-0.439512;47.789418
+53210_7q1r42_00003;3;;Les Ruaux;53290;53210;Saint-Denis-d'Anjou;;;-0.418405;47.80014
+53210_0480_00007;7;;Route de Varennes;53290;53210;Saint-Denis-d'Anjou;;;-0.439125;47.789327
+53210_b097_00001;1;;Le Haut Glandelle;53290;53210;Saint-Denis-d'Anjou;;;-0.47853;47.801014
+53210_zwe1s9_00011;11;;Place Henri IV;53290;53210;Saint-Denis-d'Anjou;;;-0.43914;47.790924
+53210_et2rg8_00001;1;;L’Oriere;53290;53210;Saint-Denis-d'Anjou;;;-0.394648;47.797762
+53210_0418_00010;10;;rue du puits de la chapelle;53290;53210;Saint-Denis-d'Anjou;;;-0.472074;47.776126
+53210_eb47rr_00002;2;;la Brosse;53290;53210;Saint-Denis-d'Anjou;;;-0.498562;47.783107
+53210_0393_00001;1;;Impasse de la Pieraie;53290;53210;Saint-Denis-d'Anjou;;;-0.444087;47.787162
+53210_f4fqhg_00005;5;;La Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.450059;47.796696
+53210_0419_00001;1;;rue du puits;53290;53210;Saint-Denis-d'Anjou;;;-0.442206;47.774998
+53210_b056_00003;3;;La Croix Moisie;53290;53210;Saint-Denis-d'Anjou;;;-0.456576;47.783763
+53210_0240_00013;13;;Rue du Four à Ban;53290;53210;Saint-Denis-d'Anjou;;;-0.442146;47.790799
+53210_0340_00004_b;4;b;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.440593;47.78825
+53210_0435_00002;2;;Rue René Dubel;53290;53210;Saint-Denis-d'Anjou;;;-0.441547;47.789021
+53210_b142_00001;1;;La Petite Gaudriais;53290;53210;Saint-Denis-d'Anjou;;;-0.447529;47.8062
+53210_c8fdyg_00001;1;;La Cheulardiere;53290;53210;Saint-Denis-d'Anjou;;;-0.401113;47.778924
+53210_0340_00012;12;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.440197;47.78549
+53210_0460_00051;51;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.434661;47.797965
+53210_9uuvbi_00004;4;;Varennes;53290;53210;Saint-Denis-d'Anjou;;;-0.379492;47.775598
+53210_tik2ec_00001;1;;Les Chenaies;53290;53210;Saint-Denis-d'Anjou;;;-0.438427;47.773627
+53210_0380_00010;10;;Rue du Pevignon;53290;53210;Saint-Denis-d'Anjou;;;-0.442859;47.788145
+53210_0480_00011;11;;Route de Varennes;53290;53210;Saint-Denis-d'Anjou;;;-0.436387;47.788582
+53210_0340_00004;4;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.440589;47.788364
+53210_0368_00014;14;;Rue des Parentieres;53290;53210;Saint-Denis-d'Anjou;;;-0.43672;47.789389
+53210_0205_00003;3;;Impasse de la Fiarie;53290;53210;Saint-Denis-d'Anjou;;;-0.441388;47.793413
+53210_0245_00002;2;;Allée de la Grande Pierre;53290;53210;Saint-Denis-d'Anjou;;;-0.444595;47.789316
+53210_0011_00003;3;;Rue d’Anjou;53290;53210;Saint-Denis-d'Anjou;;;-0.437448;47.791919
+53210_vsewva_00002;2;;Les Foresteries;53290;53210;Saint-Denis-d'Anjou;;;-0.418893;47.786598
+53210_0019_00006;6;;Rue de Beaumont;53290;53210;Saint-Denis-d'Anjou;;;-0.43589;47.792512
+53210_0285_00018_a;18;a;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.436481;47.790766
+53210_0080_00025;25;;Rue du Cimetière;53290;53210;Saint-Denis-d'Anjou;;;-0.442999;47.785161
+53210_0460_00019;19;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.438878;47.793475
+53210_0120_00001;1;;Rue de la Croix;53290;53210;Saint-Denis-d'Anjou;;;-0.444245;47.790273
+53210_hcugml_00001;1;;L'Augebettiere;53290;53210;Saint-Denis-d'Anjou;;;-0.484109;47.789221
+53210_0340_00016;16;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.440122;47.78496
+53210_b185_00001;1;;Le Temps Perdu;53290;53210;Saint-Denis-d'Anjou;;;-0.441767;47.796067
+53210_0080_00007;7;;Rue du Cimetière;53290;53210;Saint-Denis-d'Anjou;;;-0.442204;47.787524
+53210_ljp5bg_00001;1;;La Charbonnerie;53290;53210;Saint-Denis-d'Anjou;;;-0.439108;47.776446
+53210_0250_00008;8;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441737;47.791163
+53210_0179_00003;3;;Rue des Echoliers;53290;53210;Saint-Denis-d'Anjou;;;-0.440229;47.788809
+53210_0340_00017;17;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.440024;47.785185
+53210_0435_00004;4;;Rue René Dubel;53290;53210;Saint-Denis-d'Anjou;;;-0.441511;47.788919
+53210_2exice_00001;1;;La Gredouillere;53290;53210;Saint-Denis-d'Anjou;;;-0.470685;47.77682
+53210_0490_00003;3;;Rue des Vignerons;53290;53210;Saint-Denis-d'Anjou;;;-0.444489;47.788377
+53210_0480_00008;8;;Route de Varennes;53290;53210;Saint-Denis-d'Anjou;;;-0.439072;47.789174
+53210_0380_00006;6;;Rue du Pevignon;53290;53210;Saint-Denis-d'Anjou;;;-0.443277;47.788511
+53210_0300_00005;5;;Rue des Jardins;53290;53210;Saint-Denis-d'Anjou;;;-0.44175;47.791758
+53210_0285_00016;16;;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.437309;47.790534
+53210_0080_00023;23;;Rue du Cimetière;53290;53210;Saint-Denis-d'Anjou;;;-0.442947;47.785326
+53210_0285_00006;6;;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.437952;47.789396
+53210_0368_00001;1;;Rue des Parentieres;53290;53210;Saint-Denis-d'Anjou;;;-0.436827;47.789135
+53210_eanmpz_00001;1;;Baraize;53290;53210;Saint-Denis-d'Anjou;;;-0.443812;47.76905
+53210_0300_00007;7;;Rue des Jardins;53290;53210;Saint-Denis-d'Anjou;;;-0.441597;47.791833
+53210_ojt67b_00001;1;;La Chartrie;53290;53210;Saint-Denis-d'Anjou;;;-0.399003;47.800201
+53210_0460_00015;15;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.438952;47.793299
+53210_0056_00001;1;;Place du Château;53290;53210;Saint-Denis-d'Anjou;;;-0.442485;47.790338
+53210_0060_00006_a;6;a;Rue du Château;53290;53210;Saint-Denis-d'Anjou;;;-0.442936;47.789849
+53210_0005_00001_a;1;a;Route d'Angers;53290;53210;Saint-Denis-d'Anjou;;;-0.442915;47.790598
+53210_0080_00003_b;3;b;Rue du Cimetière;53290;53210;Saint-Denis-d'Anjou;;;-0.441468;47.787788
+53210_0250_00006_b;6;b;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441741;47.791072
+53210_0016_00008_b;8;b;Chemin de Baltazar;53290;53210;Saint-Denis-d'Anjou;;;-0.435597;47.791056
+53210_3buwpt_00008;8;;Beffes;53290;53210;Saint-Denis-d'Anjou;;;-0.385501;47.798673
+53210_0080_00005;5;;Rue du Cimetière;53290;53210;Saint-Denis-d'Anjou;;;-0.441992;47.787893
+53210_0089_00004;4;;Rue du Clos de la Pierre;53290;53210;Saint-Denis-d'Anjou;;;-0.445932;47.787505
+53210_0100_00006;6;;Rue du Cohuau;53290;53210;Saint-Denis-d'Anjou;;;-0.441341;47.791962
+53210_0465_00002;2;;Rue Saint Vincent;53290;53210;Saint-Denis-d'Anjou;;;-0.437909;47.792852
+53210_b238_00001;1;;Le Logis du Plessis;53290;53210;Saint-Denis-d'Anjou;;;-0.471651;47.775567
+53210_b034_00001;1;;les Champs Huts;53290;53210;Saint-Denis-d'Anjou;;;-0.431077;47.79245
+53210_0020_00003;3;;Route de Bouere;53290;53210;Saint-Denis-d'Anjou;;;-0.440824;47.79382
+53210_0448_00008;8;;Rue des Ruettes;53290;53210;Saint-Denis-d'Anjou;;;-0.438169;47.793287
+53210_0460_00025;25;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.438696;47.79389
+53210_0440_00010;10;;Rue de la Roche;53290;53210;Saint-Denis-d'Anjou;;;-0.444227;47.790799
+53210_0320_00002;2;;Rue des Juifs;53290;53210;Saint-Denis-d'Anjou;;;-0.441011;47.791132
+53210_0400_00007_a;7;a;Route de la Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.444136;47.792258
+53210_0250_00004;4;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.442085;47.791013
+53210_0371_00001;1;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.437524;47.788964
+53210_0393_00003;3;;Impasse de la Pieraie;53290;53210;Saint-Denis-d'Anjou;;;-0.443834;47.787316
+53210_0285_00010;10;;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.438063;47.789702
+53210_5zk95o_00001;1;;Les Malonnieres;53290;53210;Saint-Denis-d'Anjou;;;-0.41998;47.782283
+53210_0220_00016;16;;Rue de la Fosse Poirier;53290;53210;Saint-Denis-d'Anjou;;;-0.43807;47.790864
+53210_0380_00008_c;8;c;Rue du Pevignon;53290;53210;Saint-Denis-d'Anjou;;;-0.443653;47.787882
+53210_jyrrnz_00001;1;;La Cruche;53290;53210;Saint-Denis-d'Anjou;;;-0.478007;47.789306
+53210_5as0pb_00001;1;;La Vizardiere;53290;53210;Saint-Denis-d'Anjou;;;-0.443058;47.80531
+53210_l8jud7_00001;1;;Rambouillet;53290;53210;Saint-Denis-d'Anjou;;;-0.425286;47.783658
+53210_b239_00001;1;;Lieu dit la Grange des Mottes;53290;53210;Saint-Denis-d'Anjou;;;-0.444563;47.777883
+53210_0250_00006_a;6;a;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441761;47.791103
+53210_0019_00012;12;;Rue de Beaumont;53290;53210;Saint-Denis-d'Anjou;;;-0.435725;47.791774
+53210_b140_00001;1;;La Petite Charbonnerie;53290;53210;Saint-Denis-d'Anjou;;;-0.438922;47.777295
+53210_7azfna_00001;1;;la Grange;53290;53210;Saint-Denis-d'Anjou;;;-0.456171;47.773004
+53210_0460_00039;39;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.436908;47.79653
+53210_8ro6wc_00001;1;;La Blottiere;53290;53210;Saint-Denis-d'Anjou;;;-0.492898;47.803527
+53210_b230_00001;1;;Château de Martigne;53290;53210;Saint-Denis-d'Anjou;;;-0.419111;47.775651
+53210_0080_00013;13;;Rue du Cimetière;53290;53210;Saint-Denis-d'Anjou;;;-0.441896;47.785771
+53210_b203_00003;3;;Saint Martin de Villenglose;53290;53210;Saint-Denis-d'Anjou;;;-0.471798;47.77577
+53210_vzomxa_00001;1;;le Goulvent;53290;53210;Saint-Denis-d'Anjou;;;-0.451306;47.795282
+53210_0200_00005;5;;Rue de l'Evêché;53290;53210;Saint-Denis-d'Anjou;;;-0.439034;47.792101
+53210_0460_00031;31;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.438384;47.794587
+53210_0005_00003;3;;Route d'Angers;53290;53210;Saint-Denis-d'Anjou;;;-0.44335;47.790321
+53210_0440_00016;16;;Rue de la Roche;53290;53210;Saint-Denis-d'Anjou;;;-0.445522;47.790378
+53210_0371_00020;20;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.437488;47.790169
+53210_b099_00001;1;;La Haute Pierre;53290;53210;Saint-Denis-d'Anjou;;;-0.471511;47.793511
+53210_0440_00008;8;;Rue de la Roche;53290;53210;Saint-Denis-d'Anjou;;;-0.444089;47.790841
+53210_0285_00018_f;18;f;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.436596;47.790465
+53210_0016_00009;9;;Chemin de Baltazar;53290;53210;Saint-Denis-d'Anjou;;;-0.436447;47.791246
+53210_0460_00028;28;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.436034;47.796798
+53210_b093_00001;1;;La Haltiere des Bois;53290;53210;Saint-Denis-d'Anjou;;;-0.453051;47.813568
+53210_b036_00001;1;;Chateau de Beaumont;53290;53210;Saint-Denis-d'Anjou;;;-0.425447;47.7905
+53210_0360_00032;32;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.44169;47.789453
+53210_b159_00003;3;;Le Pre de l’Osier;53290;53210;Saint-Denis-d'Anjou;;;-0.461861;47.782509
+53210_t14nqh_00001;1;;Les Fossettes;53290;53210;Saint-Denis-d'Anjou;;;-0.493715;47.815063
+53210_0340_00001;1;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.44053;47.788626
+53210_6u72xh_00001;1;;les Cormiers;53290;53210;Saint-Denis-d'Anjou;;;-0.492994;47.821101
+53210_0460_00027;27;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.43861;47.794121
+53210_ume2fu_00001;1;;La Tremoniere;53290;53210;Saint-Denis-d'Anjou;;;-0.416016;47.782357
+53210_0008_00001;1;;Place des Angevins;53290;53210;Saint-Denis-d'Anjou;;;-0.445692;47.788584
+53210_0380_00008_d;8;d;Rue du Pevignon;53290;53210;Saint-Denis-d'Anjou;;;-0.443793;47.787819
+53210_me0l3y_00002;2;;La Touche;53290;53210;Saint-Denis-d'Anjou;;;-0.49524;47.801246
+53210_0480_00002;2;;Route de Varennes;53290;53210;Saint-Denis-d'Anjou;;;-0.440696;47.789043
+53210_pxcc0b_00001;1;;La Triquetiere;53290;53210;Saint-Denis-d'Anjou;;;-0.472118;47.796693
+53210_b224_00001;1;;Les Basses Mottes;53290;53210;Saint-Denis-d'Anjou;;;-0.443309;47.777496
+53210_0220_00004;4;;Rue de la Fosse Poirier;53290;53210;Saint-Denis-d'Anjou;;;-0.4393;47.789912
+53210_0200_00006;6;;Rue de l'Evêché;53290;53210;Saint-Denis-d'Anjou;;;-0.439067;47.792035
+53210_0089_00001;1;;Rue du Clos de la Pierre;53290;53210;Saint-Denis-d'Anjou;;;-0.446152;47.787472
+53210_0360_00024;24;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441871;47.789736
+53210_0289_00007;7;;Rue du 8 Mai 1945;53290;53210;Saint-Denis-d'Anjou;;;-0.43901;47.791402
+53210_0060_00006;6;;Rue du Château;53290;53210;Saint-Denis-d'Anjou;;;-0.442684;47.78997
+53210_48ab37_00003;3;;La Butte;53290;53210;Saint-Denis-d'Anjou;;;-0.480455;47.814979
+53210_f4fqhg_00004;4;;La Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.45046;47.796238
+53210_0080_00003;3;;Rue du Cimetière;53290;53210;Saint-Denis-d'Anjou;;;-0.441813;47.788052
+53210_0285_00002;2;;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.438424;47.789238
+53210_0080_00019;19;;Rue du Cimetière;53290;53210;Saint-Denis-d'Anjou;;;-0.442713;47.785661
+53210_0468_00003;3;;Chemin de Saultray;53290;53210;Saint-Denis-d'Anjou;;;-0.437315;47.796978
+53210_0418_00002;2;;rue du puits de la chapelle;53290;53210;Saint-Denis-d'Anjou;;;-0.472129;47.776244
+53210_0089_00002;2;;Rue du Clos de la Pierre;53290;53210;Saint-Denis-d'Anjou;;;-0.446146;47.787348
+53210_svhknh_00001;1;;La Saulnerie;53290;53210;Saint-Denis-d'Anjou;;;-0.410152;47.766136
+53210_0250_00012;12;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441539;47.791279
+53210_0371_00011;11;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.437151;47.789509
+53210_b116_00001;1;;la Mer de Fer;53290;53210;Saint-Denis-d'Anjou;;;-0.4231;47.783309
+53210_b203_00007;7;;Saint Martin de Villenglose;53290;53210;Saint-Denis-d'Anjou;;;-0.472628;47.774977
+53210_0368_00006;6;;Rue des Parentieres;53290;53210;Saint-Denis-d'Anjou;;;-0.436516;47.78896
+53210_0250_00003;3;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441874;47.791195
+53210_b31opl_00004;4;;Le Rossignol;53290;53210;Saint-Denis-d'Anjou;;;-0.448803;47.795949
+53210_0200_00007;7;;Rue de l'Evêché;53290;53210;Saint-Denis-d'Anjou;;;-0.438953;47.792069
+53210_0220_00014_a;14;a;Rue de la Fosse Poirier;53290;53210;Saint-Denis-d'Anjou;;;-0.438156;47.79066
+53210_0011_00006;6;;Rue d’Anjou;53290;53210;Saint-Denis-d'Anjou;;;-0.43761;47.791635
+53210_0335_00004;4;;rue de la mare;53290;53210;Saint-Denis-d'Anjou;;;-0.442927;47.775006
+53210_0490_00006;6;;Rue des Vignerons;53290;53210;Saint-Denis-d'Anjou;;;-0.445174;47.788379
+53210_0418_00006;6;;rue du puits de la chapelle;53290;53210;Saint-Denis-d'Anjou;;;-0.472622;47.776084
+53210_0250_00028;28;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.440959;47.791595
+53210_5spcre_00001;1;;la Pierre;53290;53210;Saint-Denis-d'Anjou;;;-0.443548;47.78454
+53210_0250_00027;27;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.440344;47.7919
+53210_b241_00001;1;;Le Clos des Oliviers;53290;53210;Saint-Denis-d'Anjou;;;-0.453194;47.765534
+53210_2ua9nb_00002;2;;Les Molanceries;53290;53210;Saint-Denis-d'Anjou;;;-0.417461;47.780651
+53210_3pvuiw_00001;1;;La Salmaciere;53290;53210;Saint-Denis-d'Anjou;;;-0.424566;47.770794
+53210_0460_00053;53;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.434378;47.79816
+53210_0371_00003;3;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.437429;47.789103
+53210_0444_00016;16;;Square des Rougeries;53290;53210;Saint-Denis-d'Anjou;;;-0.437537;47.792322
+53210_dpe9mp_00001;1;;la Conrayère;53290;53210;Saint-Denis-d'Anjou;;;-0.423113;47.796033
+53210_0460_00002;2;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.439488;47.792343
+53210_0360_00036_a;36;a;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441469;47.789224
+53210_0371_00018;18;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.437192;47.789986
+53210_0020_00005;5;;Route de Bouere;53290;53210;Saint-Denis-d'Anjou;;;-0.441381;47.794902
+53210_b237_00001;1;;La Grande Salmaciere;53290;53210;Saint-Denis-d'Anjou;;;-0.428133;47.769981
+53210_b227_00001;1;;Ferme de la Cour;53290;53210;Saint-Denis-d'Anjou;;;-0.471104;47.775738
+53210_0460_00003;3;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.439438;47.792447
+53210_0100_00002;2;;Rue du Cohuau;53290;53210;Saint-Denis-d'Anjou;;;-0.441088;47.79175
+53210_0005_00007;7;;Route d'Angers;53290;53210;Saint-Denis-d'Anjou;;;-0.443926;47.789983
+53210_0250_00020;20;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441267;47.791429
+53210_0285_00018_d;18;d;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.436646;47.790688
+53210_0331_00004;4;;Rue du Maine;53290;53210;Saint-Denis-d'Anjou;;;-0.43641;47.793423
+53210_0220_00006;6;;Rue de la Fosse Poirier;53290;53210;Saint-Denis-d'Anjou;;;-0.439135;47.79005
+53210_0393_00005;5;;Impasse de la Pieraie;53290;53210;Saint-Denis-d'Anjou;;;-0.443594;47.787458
+53210_0465_00005;5;;Rue Saint Vincent;53290;53210;Saint-Denis-d'Anjou;;;-0.437322;47.793077
+53210_0285_00001;1;;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.43842;47.789434
+53210_0368_00002;2;;Rue des Parentieres;53290;53210;Saint-Denis-d'Anjou;;;-0.436974;47.788909
+53210_0440_00002;2;;Rue de la Roche;53290;53210;Saint-Denis-d'Anjou;;;-0.443091;47.791141
+53210_0016_00012;12;;Chemin de Baltazar;53290;53210;Saint-Denis-d'Anjou;;;-0.434542;47.790788
+53210_0089_00003;3;;Rue du Clos de la Pierre;53290;53210;Saint-Denis-d'Anjou;;;-0.445758;47.787687
+53210_0060_00002;2;;Rue du Château;53290;53210;Saint-Denis-d'Anjou;;;-0.442271;47.790184
+53210_0250_00017;17;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441073;47.791606
+53210_0463_00002;2;;Impasse Saint Martin;53290;53210;Saint-Denis-d'Anjou;;;-0.446708;47.787972
+53210_0380_00005_a;5;a;Rue du Pevignon;53290;53210;Saint-Denis-d'Anjou;;;-0.443232;47.78909
+53210_0005_00012;12;;Route d'Angers;53290;53210;Saint-Denis-d'Anjou;;;-0.44629;47.788935
+53210_b038_00001;1;;Château de la Morliere;53290;53210;Saint-Denis-d'Anjou;;;-0.383446;47.786792
+53210_9gvro7_00001;1;;les Perchettes;53290;53210;Saint-Denis-d'Anjou;;;-0.447987;47.776444
+53210_zwe1s9_00001;1;;Place Henri IV;53290;53210;Saint-Denis-d'Anjou;;;-0.440471;47.791697
+53210_0340_00005_a;5;a;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.44025;47.787246
+53210_y1hfs6_00001;1;;les Ormeaux;53290;53210;Saint-Denis-d'Anjou;;;-0.429613;47.796891
+53210_0444_00012;12;;Square des Rougeries;53290;53210;Saint-Denis-d'Anjou;;;-0.437053;47.792386
+53210_nsmt8o_00001;1;;Les Brosses;53290;53210;Saint-Denis-d'Anjou;;;-0.455009;47.809142
+53210_0008_00010;10;;Place des Angevins;53290;53210;Saint-Denis-d'Anjou;;;-0.445869;47.788623
+53210_0448_00004;4;;Rue des Ruettes;53290;53210;Saint-Denis-d'Anjou;;;-0.438056;47.793588
+53210_b223_00001;1;;Le Logis des Hautes Mottes;53290;53210;Saint-Denis-d'Anjou;;;-0.444721;47.777998
+53210_0480_00004;4;;Route de Varennes;53290;53210;Saint-Denis-d'Anjou;;;-0.440415;47.78913
+53210_c8he8e_00001;1;;Les Pres;53290;53210;Saint-Denis-d'Anjou;;;-0.465476;47.794681
+53210_0220_00018;18;;Rue de la Fosse Poirier;53290;53210;Saint-Denis-d'Anjou;;;-0.437894;47.791042
+53210_0289_00006;6;;Rue du 8 Mai 1945;53290;53210;Saint-Denis-d'Anjou;;;-0.438562;47.791055
+53210_0460_00037;37;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.437378;47.796483
+53210_0360_00003;3;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.442375;47.790671
+53210_mnotyl_00001;1;;La Tigerie;53290;53210;Saint-Denis-d'Anjou;;;-0.451881;47.759688
+53210_0300_00002_b;2;b;Rue des Jardins;53290;53210;Saint-Denis-d'Anjou;;;-0.441691;47.79162
+53210_0250_00011;11;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441419;47.79141
+53210_0463_00001;1;;Impasse Saint Martin;53290;53210;Saint-Denis-d'Anjou;;;-0.447018;47.787944
+53210_sdaqyv_00001;1;;La Turpiniere;53290;53210;Saint-Denis-d'Anjou;;;-0.388634;47.793335
+53210_b226_00001;1;;Closerie des Barbottieres;53290;53210;Saint-Denis-d'Anjou;;;-0.437706;47.76575
+53210_0089_00005;5;;Rue du Clos de la Pierre;53290;53210;Saint-Denis-d'Anjou;;;-0.444902;47.787579
+53210_owg4vi_00001;1;;Jambon;53290;53210;Saint-Denis-d'Anjou;;;-0.432181;47.774672
+53210_0460_00032;32;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.434587;47.797343
+53210_1x10gl_00002;2;;Les Iffrieres;53290;53210;Saint-Denis-d'Anjou;;;-0.398515;47.802818
+53210_0460_00021;21;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.43879;47.793678
+53210_0444_00008;8;;Square des Rougeries;53290;53210;Saint-Denis-d'Anjou;;;-0.436623;47.79214
+53210_0340_00002;2;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.440615;47.788465
+53210_b046_00001;1;;le Clos des Halles;53290;53210;Saint-Denis-d'Anjou;;;-0.441177;47.794604
+53210_0080_00021;21;;Rue du Cimetière;53290;53210;Saint-Denis-d'Anjou;;;-0.442821;47.785502
+53210_0080_00015;15;;Rue du Cimetière;53290;53210;Saint-Denis-d'Anjou;;;-0.442672;47.786037
+53210_0060_00008;8;;Rue du Château;53290;53210;Saint-Denis-d'Anjou;;;-0.443002;47.78981
+53210_0400_00013;13;;Route de la Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.44499;47.792855
+53210_0360_00006;6;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.442309;47.790495
+53210_ofsdon_00002;2;;L’Hommeliere;53290;53210;Saint-Denis-d'Anjou;;;-0.426653;47.80289
+53210_0460_00033_a;33;a;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.438085;47.795301
+53210_0019_00007;7;;Rue de Beaumont;53290;53210;Saint-Denis-d'Anjou;;;-0.435614;47.792277
+53210_803t09_00001;1;;Morton;53290;53210;Saint-Denis-d'Anjou;;;-0.488932;47.788439
+53210_0418_00012;12;;rue du puits de la chapelle;53290;53210;Saint-Denis-d'Anjou;;;-0.471973;47.776053
+53210_0340_00023;23;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.438591;47.785715
+53210_ojbw41_00001;1;;La Ronce;53290;53210;Saint-Denis-d'Anjou;;;-0.394073;47.779375
+53210_0250_00014;14;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441487;47.791308
+53210_0371_00010;10;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.436959;47.789376
+53210_0005_00008;8;;Route d'Angers;53290;53210;Saint-Denis-d'Anjou;;;-0.444259;47.789931
+53210_cb3hh2_00001;1;;La Pouliniere de la Bellangeraie;53290;53210;Saint-Denis-d'Anjou;;;-0.4563;47.773603
+53210_0254_00001;1;;Rue de la Grèleraie;53290;53210;Saint-Denis-d'Anjou;;;-0.444383;47.789413
+53210_tgv8y3_00001;1;;le Ray;53290;53210;Saint-Denis-d'Anjou;;;-0.433822;47.796276
+53210_b083_00001;1;;La Grande Gaudriais;53290;53210;Saint-Denis-d'Anjou;;;-0.442951;47.803491
+53210_b31opl_00006;6;;Le Rossignol;53290;53210;Saint-Denis-d'Anjou;;;-0.449196;47.796381
+53210_b134_00002;2;;Le Petit Beaumont;53290;53210;Saint-Denis-d'Anjou;;;-0.423737;47.788773
+53210_0400_00001;1;;Route de la Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.44363;47.791502
+53210_0285_00014;14;;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.437937;47.789884
+53210_0440_00004;4;;Rue de la Roche;53290;53210;Saint-Denis-d'Anjou;;;-0.443403;47.790991
+53210_b080_00001;1;;La Grande Charbonnerie;53290;53210;Saint-Denis-d'Anjou;;;-0.43668;47.778156
+53210_b077_00001;1;;Le Grand Cogreil;53290;53210;Saint-Denis-d'Anjou;;;-0.40589;47.794268
+53210_nark1t_00001;1;;La Jutonniere;53290;53210;Saint-Denis-d'Anjou;;;-0.470482;47.80647
+53210_7ck3d8_00001;1;;Denais;53290;53210;Saint-Denis-d'Anjou;;;-0.455532;47.788169
+53210_0460_00005;5;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.439303;47.792612
+53210_0418_00004;4;;rue du puits de la chapelle;53290;53210;Saint-Denis-d'Anjou;;;-0.472545;47.776249
+53210_pdnu67_00001_b;1;b;La Morliere;53290;53210;Saint-Denis-d'Anjou;;;-0.384762;47.786759
+53210_0360_00044;44;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441238;47.788917
+53210_0360_00002;2;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.442413;47.790656
+53210_0016_00004;4;;Chemin de Baltazar;53290;53210;Saint-Denis-d'Anjou;;;-0.437008;47.791053
+53210_0285_00018_b;18;b;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.43642;47.79063
+53210_b145_00001;1;;Les Petites Giraudieres;53290;53210;Saint-Denis-d'Anjou;;;-0.409087;47.789737
+53210_0393_00006;6;;Impasse de la Pieraie;53290;53210;Saint-Denis-d'Anjou;;;-0.443347;47.787376
+53210_8e9xce_00001;1;;Le Patis;53290;53210;Saint-Denis-d'Anjou;;;-0.476978;47.774676
+53210_erv0so_00001;1;;La Hamoniere;53290;53210;Saint-Denis-d'Anjou;;;-0.391644;47.777944
+53210_0250_00002;2;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.44243;47.790858
+53210_idrtbv_00001;1;;La Nouillere;53290;53210;Saint-Denis-d'Anjou;;;-0.444331;47.799051
+53210_0371_00005;5;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.437422;47.789131
+53210_0005_00018;18;;Route d'Angers;53290;53210;Saint-Denis-d'Anjou;;;-0.447295;47.788467
+53210_b022_00004;4;;Le Bois de Moulin;53290;53210;Saint-Denis-d'Anjou;;;-0.383633;47.782877
+53210_0400_00005;5;;Route de la Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.443862;47.791907
+53210_kuyuae_00001;1;;La Poissonniere;53290;53210;Saint-Denis-d'Anjou;;;-0.430759;47.781367
+53210_gufooa_00001;1;;la Quetterie;53290;53210;Saint-Denis-d'Anjou;;;-0.38478;47.771532
+53210_0400_00007;7;;Route de la Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.444056;47.79219
+53210_48ab37_00001;1;;La Butte;53290;53210;Saint-Denis-d'Anjou;;;-0.480452;47.814962
+53210_b136_00001;1;;Le Petit Cogreil;53290;53210;Saint-Denis-d'Anjou;;;-0.404491;47.792442
+53210_0444_00014;14;;Square des Rougeries;53290;53210;Saint-Denis-d'Anjou;;;-0.43729;47.792345
+53210_b047_00003;3;;La Closerie de Beffes;53290;53210;Saint-Denis-d'Anjou;;;-0.386906;47.800223
+53210_0259_00003;3;;Place des Halles;53290;53210;Saint-Denis-d'Anjou;;;-0.442834;47.792274
+53210_0005_00004;4;;Route d'Angers;53290;53210;Saint-Denis-d'Anjou;;;-0.443018;47.790607
+53210_q5bu08_00001;1;;La Ruaudiere;53290;53210;Saint-Denis-d'Anjou;;;-0.488844;47.804537
+53210_0435_00006;6;;Rue René Dubel;53290;53210;Saint-Denis-d'Anjou;;;-0.441467;47.788856
+53210_0360_00012;12;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.442033;47.790162
+53210_3buwpt_00002;2;;Beffes;53290;53210;Saint-Denis-d'Anjou;;;-0.386061;47.798145
+53210_0460_00010;10;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.438992;47.792887
+53210_0368_00016;16;;Rue des Parentieres;53290;53210;Saint-Denis-d'Anjou;;;-0.436582;47.789419
+53210_0460_00008;8;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.439108;47.792733
+53210_0435_00006_a;6;a;Rue René Dubel;53290;53210;Saint-Denis-d'Anjou;;;-0.441459;47.788819
+53210_b096_00001;1;;Le Haut des Bois;53290;53210;Saint-Denis-d'Anjou;;;-0.455487;47.766081
+53210_0245_00004;4;;Allée de la Grande Pierre;53290;53210;Saint-Denis-d'Anjou;;;-0.444778;47.789227
+53210_0250_00040;40;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.439795;47.792131
+53210_0250_00015;15;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.44118;47.791538
+53210_0490_00004;4;;Rue des Vignerons;53290;53210;Saint-Denis-d'Anjou;;;-0.444533;47.788422
+53210_0460_00007;7;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.439246;47.792702
+53210_tuxgbw_00001;1;;Les Renailleres;53290;53210;Saint-Denis-d'Anjou;;;-0.48994;47.797491
+53210_0016_00003;3;;Chemin de Baltazar;53290;53210;Saint-Denis-d'Anjou;;;-0.437289;47.791108
+53210_0371_00017;17;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.437556;47.790095
+53210_0371_00007;7;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.437268;47.789325
+53210_4rqiju_00001;1;;La Brochere;53290;53210;Saint-Denis-d'Anjou;;;-0.416028;47.767851
+53210_0254_00004;4;;Rue de la Grèleraie;53290;53210;Saint-Denis-d'Anjou;;;-0.444018;47.788988
+53210_0371_00004;4;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.437339;47.789119
+53210_0320_00005;5;;Rue des Juifs;53290;53210;Saint-Denis-d'Anjou;;;-0.440551;47.790818
+53210_0068_00001;1;;Place du Chenin;53290;53210;Saint-Denis-d'Anjou;;;-0.445258;47.788178
+53210_b079_00002_a;2;a;Le Grand Saultray;53290;53210;Saint-Denis-d'Anjou;;;-0.437077;47.801413
+53210_0360_00014;14;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.44202;47.790071
+53210_7cohl5_00001;1;;La Rousseliere;53290;53210;Saint-Denis-d'Anjou;;;-0.453734;47.757325
+53210_0285_00008;8;;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.437962;47.789543
+53210_0080_00011;11;;Rue du Cimetière;53290;53210;Saint-Denis-d'Anjou;;;-0.442549;47.786292
+53210_7q1r42_00001;1;;Les Ruaux;53290;53210;Saint-Denis-d'Anjou;;;-0.418913;47.800098
+53210_0220_00002;2;;Rue de la Fosse Poirier;53290;53210;Saint-Denis-d'Anjou;;;-0.439466;47.789763
+53210_0011_00005;5;;Rue d’Anjou;53290;53210;Saint-Denis-d'Anjou;;;-0.437408;47.792068
+53210_b135_00001;1;;Le Petit Bois Monnier;53290;53210;Saint-Denis-d'Anjou;;;-0.384249;47.770964
+53210_0380_00001;1;;Rue du Pevignon;53290;53210;Saint-Denis-d'Anjou;;;-0.443321;47.789993
+53210_0460_00041;41;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.43639;47.79686
+53210_b203_00001;1;;Saint Martin de Villenglose;53290;53210;Saint-Denis-d'Anjou;;;-0.471463;47.776063
+53210_0285_00007;7;;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.438097;47.789983
+53210_0335_00001;1;;rue de la mare;53290;53210;Saint-Denis-d'Anjou;;;-0.442163;47.774838
+53210_b057_00001;1;;Les Croix Vertes;53290;53210;Saint-Denis-d'Anjou;;;-0.416907;47.776777
+53210_0200_00010;10;;Rue de l'Evêché;53290;53210;Saint-Denis-d'Anjou;;;-0.43862;47.791897
+53210_0080_00027;27;;Rue du Cimetière;53290;53210;Saint-Denis-d'Anjou;;;-0.44306;47.785006
+53210_0360_00010;10;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.442159;47.790285
+53210_0240_00007;7;;Rue du Four à Ban;53290;53210;Saint-Denis-d'Anjou;;;-0.441878;47.790527
+53210_a0prph_00001;1;;Les Ruettes;53290;53210;Saint-Denis-d'Anjou;;;-0.435382;47.794614
+53210_0260_00001;1;;Rue des Halles;53290;53210;Saint-Denis-d'Anjou;;;-0.442996;47.791545
+53210_2vlh51_00001;1;;La Motte;53290;53210;Saint-Denis-d'Anjou;;;-0.447993;47.776607
+53210_0016_00007;7;;Chemin de Baltazar;53290;53210;Saint-Denis-d'Anjou;;;-0.436771;47.791182
+53210_0371_00002;2;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.437394;47.789037
+53210_0400_00008;8;;Route de la Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.444766;47.792764
+53210_zwe1s9_00001_a;1;a;Place Henri IV;53290;53210;Saint-Denis-d'Anjou;;;-0.440369;47.791708
+53210_0465_00001;1;;Rue Saint Vincent;53290;53210;Saint-Denis-d'Anjou;;;-0.437914;47.792938
+53210_0401_00001;1;;chemin de la pilardière;53290;53210;Saint-Denis-d'Anjou;;;-0.449533;47.79547
+53210_0086_00006;6;;Rue du Clos de la Horgne;53290;53210;Saint-Denis-d'Anjou;;;-0.446648;47.78741
+53210_0460_00022;22;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.437784;47.795496
+53210_0259_00001;1;;Place des Halles;53290;53210;Saint-Denis-d'Anjou;;;-0.443096;47.792166
+53210_0340_00014;14;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.440164;47.785239
+53210_0360_00036_b;36;b;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441436;47.789197
+53210_9uuvbi_00002;2;;Varennes;53290;53210;Saint-Denis-d'Anjou;;;-0.378835;47.77532
+53210_0180_00002;2;;Rue d'Espagne;53290;53210;Saint-Denis-d'Anjou;;;-0.44277;47.790646
+53210_0180_00002_a;2;a;Rue d'Espagne;53290;53210;Saint-Denis-d'Anjou;;;-0.442731;47.79061
+53210_b139_00001;1;;Le Petit Saultray;53290;53210;Saint-Denis-d'Anjou;;;-0.430836;47.804915
+53210_7ck3d8_00002;2;;Denais;53290;53210;Saint-Denis-d'Anjou;;;-0.455148;47.788226
+53210_0011_00001;1;;Rue d’Anjou;53290;53210;Saint-Denis-d'Anjou;;;-0.437558;47.791857
+53210_0460_00049;49;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.435004;47.797715
+53210_0220_00012;12;;Rue de la Fosse Poirier;53290;53210;Saint-Denis-d'Anjou;;;-0.438565;47.790432
+53210_0250_00005;5;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441751;47.791243
+53210_0340_00021;21;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.438876;47.785828
+53210_0320_00006;6;;Rue des Juifs;53290;53210;Saint-Denis-d'Anjou;;;-0.439743;47.789929
+53210_0260_00011;11;;Rue des Halles;53290;53210;Saint-Denis-d'Anjou;;;-0.44367;47.791938
+53210_0440_00007;7;;Rue de la Roche;53290;53210;Saint-Denis-d'Anjou;;;-0.447053;47.789695
+53210_zwe1s9_00003;3;;Place Henri IV;53290;53210;Saint-Denis-d'Anjou;;;-0.440464;47.791625
+53210_0494_00009;9;;Rue du Vivier Cherruault;53290;53210;Saint-Denis-d'Anjou;;;-0.442346;47.79228
+53210_0198_00002;2;;Place de l'Europe;53290;53210;Saint-Denis-d'Anjou;;;-0.441514;47.790466
+53210_0300_00019;19;;Rue des Jardins;53290;53210;Saint-Denis-d'Anjou;;;-0.44083;47.79238
+53210_0240_00009;9;;Rue du Four à Ban;53290;53210;Saint-Denis-d'Anjou;;;-0.442021;47.790638
+53210_3buwpt_00006;6;;Beffes;53290;53210;Saint-Denis-d'Anjou;;;-0.386585;47.799155
+53210_0465_00004;4;;Rue Saint Vincent;53290;53210;Saint-Denis-d'Anjou;;;-0.437666;47.792926
+53210_0300_00009;9;;Rue des Jardins;53290;53210;Saint-Denis-d'Anjou;;;-0.441479;47.791892
+53210_zwe1s9_00005_a;5;a;Place Henri IV;53290;53210;Saint-Denis-d'Anjou;;;-0.439646;47.79156
+53210_0285_00004;4;;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.438036;47.789315
+53210_0089_00014;14;;Rue du Clos de la Pierre;53290;53210;Saint-Denis-d'Anjou;;;-0.443956;47.786773
+53210_0011_00010;10;;Rue d’Anjou;53290;53210;Saint-Denis-d'Anjou;;;-0.43745;47.791749
+53210_6c6v9y_00001;1;;La Metairie;53290;53210;Saint-Denis-d'Anjou;;;-0.478902;47.815723
+53210_b047_00001;1;;La Closerie de Beffes;53290;53210;Saint-Denis-d'Anjou;;;-0.386876;47.799977
+53210_0440_00001;1;;Rue de la Roche;53290;53210;Saint-Denis-d'Anjou;;;-0.4437;47.790873
+53210_b212_00001;1;;Aux Lilas des Barbottieres;53290;53210;Saint-Denis-d'Anjou;;;-0.436838;47.764144
+53210_0288_00001;1;;Place du 8 Mai 1945;53290;53210;Saint-Denis-d'Anjou;;;-0.438675;47.791493
+53210_b198_00001;1;;Village des Mottes;53290;53210;Saint-Denis-d'Anjou;;;-0.442464;47.775681
+53210_0220_00014;14;;Rue de la Fosse Poirier;53290;53210;Saint-Denis-d'Anjou;;;-0.438399;47.790548
+53210_1fwuag_00001;1;;La Saulaie;53290;53210;Saint-Denis-d'Anjou;;;-0.459979;47.764935
+53210_0011_00004;4;;Rue d’Anjou;53290;53210;Saint-Denis-d'Anjou;;;-0.437685;47.7916
+53210_0460_00009;9;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.43918;47.792834
+53210_0220_00010;10;;Rue de la Fosse Poirier;53290;53210;Saint-Denis-d'Anjou;;;-0.438796;47.790334
+53210_0360_00023;23;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.44103;47.789038
+53210_0440_00014;14;;Rue de la Roche;53290;53210;Saint-Denis-d'Anjou;;;-0.444969;47.790618
+53210_9uuvbi_00006;6;;Varennes;53290;53210;Saint-Denis-d'Anjou;;;-0.379688;47.775914
+53210_49yhfc_00001;1;;Villenglose;53290;53210;Saint-Denis-d'Anjou;;;-0.473637;47.77512
+53210_0419_00003;3;;rue du puits;53290;53210;Saint-Denis-d'Anjou;;;-0.442078;47.774986
+53210_0400_00015;15;;Route de la Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.44542;47.793139
+53210_0420_00002;2;;Rue du Puits Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.441962;47.792023
+53210_9uuvbi_00001;1;;Varennes;53290;53210;Saint-Denis-d'Anjou;;;-0.380146;47.775352
+53210_0460_00004;4;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.439369;47.792438
+53210_0300_00002;2;;Rue des Jardins;53290;53210;Saint-Denis-d'Anjou;;;-0.441757;47.791714
+53210_qz5yfl_00001;1;;la Chevalerie;53290;53210;Saint-Denis-d'Anjou;;;-0.406384;47.795827
+53210_0250_00009;9;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441503;47.791366
+53210_uc146d_00001;1;;Les Fosses;53290;53210;Saint-Denis-d'Anjou;;;-0.412747;47.780313
+53210_p19is4_00001;1;;La Corbeliere;53290;53210;Saint-Denis-d'Anjou;;;-0.44413;47.801858
+53210_0371_00016;16;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.436954;47.78985
+53210_b157_00001;1;;Le Pont du Moulin;53290;53210;Saint-Denis-d'Anjou;;;-0.438656;47.769081
+53210_0089_00010;10;;Rue du Clos de la Pierre;53290;53210;Saint-Denis-d'Anjou;;;-0.444551;47.787092
+53210_0480_00006;6;;Route de Varennes;53290;53210;Saint-Denis-d'Anjou;;;-0.439722;47.789371
+53210_kbj71o_00001;1;;Le Perrin;53290;53210;Saint-Denis-d'Anjou;;;-0.388493;47.804638
+53210_9blz37_00001;1;;Le Plessis;53290;53210;Saint-Denis-d'Anjou;;;-0.40681;47.787636
+53210_0285_00009;9;;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.43799;47.79019
+53210_t14nqh_00002;2;;Les Fossettes;53290;53210;Saint-Denis-d'Anjou;;;-0.493172;47.814537
+53210_0340_00015;15;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.440088;47.785538
+53210_b228_00001;1;;La Haute Guérouillére;53290;53210;Saint-Denis-d'Anjou;;;-0.48171;47.815737
+53210_0254_00002;2;;Rue de la Grèleraie;53290;53210;Saint-Denis-d'Anjou;;;-0.444203;47.789168
+53210_9qclix_00001;1;;la Beccardière;53290;53210;Saint-Denis-d'Anjou;;;-0.448238;47.811863
+53210_0180_00002;2;;Rue d'Espagne;53290;53210;Saint-Denis-d'Anjou;;;-0.441933;47.790253
+53210_0260_00003;3;;Rue des Halles;53290;53210;Saint-Denis-d'Anjou;;;-0.443144;47.791634
+53210_f4fqhg_00008;8;;La Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.451273;47.795558
+53210_0008_00002;2;;Place des Angevins;53290;53210;Saint-Denis-d'Anjou;;;-0.445515;47.788738
+53210_wc63aq_00001;1;;la Véquerie;53290;53210;Saint-Denis-d'Anjou;;;-0.388262;47.793659
+53210_0380_00005_b;5;b;Rue du Pevignon;53290;53210;Saint-Denis-d'Anjou;;;-0.443187;47.78861
+53210_b075_00001;1;;Le Grand Bois Monnier;53290;53210;Saint-Denis-d'Anjou;;;-0.384651;47.769513
+53210_tyimsc_00006;6;;Les Barbottieres;53290;53210;Saint-Denis-d'Anjou;;;-0.439298;47.765277
+53210_yza2qf_00001;1;;Les Beillardieres;53290;53210;Saint-Denis-d'Anjou;;;-0.410001;47.800923
+53210_9ng4aw_00001;1;;La Clergerie;53290;53210;Saint-Denis-d'Anjou;;;-0.404434;47.798657
+53210_0008_00008;8;;Place des Angevins;53290;53210;Saint-Denis-d'Anjou;;;-0.445784;47.788725
+53210_0285_00018_c;18;c;Rue de l'Hommeau Théberge;53290;53210;Saint-Denis-d'Anjou;;;-0.436315;47.790523
+53210_b110_00001;1;;La Maison Neuve;53290;53210;Saint-Denis-d'Anjou;;;-0.485807;47.785126
+53210_fs90em_00001;1;;Les Giraudieres;53290;53210;Saint-Denis-d'Anjou;;;-0.413335;47.78913
+53210_0259_00004;4;;Place des Halles;53290;53210;Saint-Denis-d'Anjou;;;-0.442607;47.792159
+53210_f4fqhg_00001;1;;La Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.450361;47.796478
+53210_0490_00007;7;;Rue des Vignerons;53290;53210;Saint-Denis-d'Anjou;;;-0.444791;47.788275
+53210_0080_00001_c;1;c;Rue du Cimetière;53290;53210;Saint-Denis-d'Anjou;;;-0.441656;47.788207
+53210_de4fad_00001;1;;Le Carteau;53290;53210;Saint-Denis-d'Anjou;;;-0.44527;47.806145
+53210_f4fqhg_00002;2;;La Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.450192;47.796337
+53210_0480_00003;3;;Route de Varennes;53290;53210;Saint-Denis-d'Anjou;;;-0.440499;47.789175
+53210_f4fqhg_00006;6;;La Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.450601;47.795685
+53210_onp0a8_00001;1;;Les Reinieres;53290;53210;Saint-Denis-d'Anjou;;;-0.497295;47.810547
+53210_0040_00003;3;;Rue du Chapitre;53290;53210;Saint-Denis-d'Anjou;;;-0.442017;47.789394
+53210_0289_00004;4;;Rue du 8 Mai 1945;53290;53210;Saint-Denis-d'Anjou;;;-0.438825;47.791189
+53210_0400_00002;2;;Route de la Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.444083;47.792283
+53210_b203_00009;9;;Saint Martin de Villenglose;53290;53210;Saint-Denis-d'Anjou;;;-0.472883;47.774732
+53210_0011_00012;12;;Rue d’Anjou;53290;53210;Saint-Denis-d'Anjou;;;-0.437336;47.791833
+53210_zwe1s9_00002_a;2;a;Place Henri IV;53290;53210;Saint-Denis-d'Anjou;;;-0.440306;47.791242
+53210_b231_00001;1;;Château d'Eau;53290;53210;Saint-Denis-d'Anjou;;;-0.423525;47.789227
+53210_0240_00003;3;;Rue du Four à Ban;53290;53210;Saint-Denis-d'Anjou;;;-0.441923;47.790309
+53210_0460_00030_a;30;a;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.435199;47.796964
+53210_hsqysi_00001;1;;Le Clairet;53290;53210;Saint-Denis-d'Anjou;;;-0.452422;47.765579
+53210_0245_00006;6;;Allée de la Grande Pierre;53290;53210;Saint-Denis-d'Anjou;;;-0.444968;47.789156
+53210_0250_00032;32;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.440242;47.79189
+53210_0460_00024;24;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.437689;47.795626
+53210_0020_00002;2;;Route de Bouere;53290;53210;Saint-Denis-d'Anjou;;;-0.439839;47.792299
+53210_0086_00008;8;;Rue du Clos de la Horgne;53290;53210;Saint-Denis-d'Anjou;;;-0.446143;47.787097
+53210_xky32c_00007;7;;Rue de l’Eglise;53290;53210;Saint-Denis-d'Anjou;;;-0.442762;47.791312
+53210_zwe1s9_00004;4;;Place Henri IV;53290;53210;Saint-Denis-d'Anjou;;;-0.440166;47.791099
+53210_b127_00001;1;;Moulin de Beaumont;53290;53210;Saint-Denis-d'Anjou;;;-0.426677;47.790716
+53210_0371_00006;6;;Rue du Patis Morin;53290;53210;Saint-Denis-d'Anjou;;;-0.437272;47.78922
+53210_b056_00001;1;;La Croix Moisie;53290;53210;Saint-Denis-d'Anjou;;;-0.456223;47.783936
+53210_0360_00030;30;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441717;47.789507
+53210_0400_00009;9;;Route de la Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.444603;47.79258
+53210_b197_00001;1;;La Vieille Haie;53290;53210;Saint-Denis-d'Anjou;;;-0.457171;47.763221
+53210_dkjl30_00001;1;;La Blanchardiere;53290;53210;Saint-Denis-d'Anjou;;;-0.483305;47.782475
+53210_b123_00002;2;;Le Mortier Neuf;53290;53210;Saint-Denis-d'Anjou;;;-0.480283;47.812303
+53210_0300_00011;11;;Rue des Jardins;53290;53210;Saint-Denis-d'Anjou;;;-0.441456;47.792002
+53210_xky32c_00004;4;;Rue de l’Eglise;53290;53210;Saint-Denis-d'Anjou;;;-0.442387;47.79121
+53210_aub0nn_00001;1;;Le Cupron;53290;53210;Saint-Denis-d'Anjou;;;-0.445687;47.776555
+53210_0490_00005_a;5;a;Rue des Vignerons;53290;53210;Saint-Denis-d'Anjou;;;-0.444693;47.788127
+53210_0320_00001;1;;Rue des Juifs;53290;53210;Saint-Denis-d'Anjou;;;-0.440859;47.791105
+53210_nw53n7_00001;1;;La Loge;53290;53210;Saint-Denis-d'Anjou;;;-0.447482;47.7948
+53210_0100_00004;4;;Rue du Cohuau;53290;53210;Saint-Denis-d'Anjou;;;-0.441215;47.791835
+53210_0460_00035;35;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.437602;47.795933
+53210_4ni68k_00001;1;;Les Gelinieres;53290;53210;Saint-Denis-d'Anjou;;;-0.404364;47.795993
+53210_0460_00018;18;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.437994;47.795195
+53210_0440_00006;6;;Rue de la Roche;53290;53210;Saint-Denis-d'Anjou;;;-0.443937;47.790882
+53210_b098_00001;1;;Le Haut Tronchet;53290;53210;Saint-Denis-d'Anjou;;;-0.475385;47.79695
+53210_b203_00008;8;;Saint Martin de Villenglose;53290;53210;Saint-Denis-d'Anjou;;;-0.472518;47.775269
+53210_0016_00008_a;8;a;Chemin de Baltazar;53290;53210;Saint-Denis-d'Anjou;;;-0.436198;47.791186
+53210_b141_00001;1;;La Petite Cordiniere;53290;53210;Saint-Denis-d'Anjou;;;-0.388367;47.797044
+53210_0259_00007;7;;Place des Halles;53290;53210;Saint-Denis-d'Anjou;;;-0.442457;47.792246
+53210_rgtkrr_00001;1;;Glandelle;53290;53210;Saint-Denis-d'Anjou;;;-0.477738;47.799635
+53210_b143_00002;2;;La Petite Gredouillere;53290;53210;Saint-Denis-d'Anjou;;;-0.472639;47.777365
+53210_1rhfsg_00001;1;;les Mardelles;53290;53210;Saint-Denis-d'Anjou;;;-0.448221;47.776178
+53210_0019_00003;3;;Rue de Beaumont;53290;53210;Saint-Denis-d'Anjou;;;-0.436048;47.792844
+53210_w1joow_00001;1;;Rhimberge;53290;53210;Saint-Denis-d'Anjou;;;-0.500836;47.784803
+53210_cqov27_00001;1;;La Guerouillere;53290;53210;Saint-Denis-d'Anjou;;;-0.47902;47.81385
+53210_0250_00013;13;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.441313;47.791467
+53210_0360_00020;20;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441932;47.789858
+53210_0260_00002;2;;Rue des Halles;53290;53210;Saint-Denis-d'Anjou;;;-0.442806;47.791476
+53210_0060_00005;5;;Rue du Château;53290;53210;Saint-Denis-d'Anjou;;;-0.442724;47.789888
+53210_b057_00008;8;;Les Croix Vertes;53290;53210;Saint-Denis-d'Anjou;;;-0.416786;47.77678
+53210_3twy5g_00001;1;;La Presaie;53290;53210;Saint-Denis-d'Anjou;;;-0.448001;47.797046
+53210_b008_00001;1;;Le Bas Tronchet;53290;53210;Saint-Denis-d'Anjou;;;-0.468514;47.795832
+53210_0340_00011;11;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.440082;47.786037
+53210_0086_00004;4;;Rue du Clos de la Horgne;53290;53210;Saint-Denis-d'Anjou;;;-0.446947;47.787613
+53210_0448_00006;6;;Rue des Ruettes;53290;53210;Saint-Denis-d'Anjou;;;-0.438164;47.793411
+53210_0465_00007;7;;Rue Saint Vincent;53290;53210;Saint-Denis-d'Anjou;;;-0.437038;47.793081
+53210_0016_00006;6;;Chemin de Baltazar;53290;53210;Saint-Denis-d'Anjou;;;-0.436756;47.791096
+53210_0440_00003;3;;Rue de la Roche;53290;53210;Saint-Denis-d'Anjou;;;-0.446217;47.789663
+53210_0040_00002;2;;Rue du Chapitre;53290;53210;Saint-Denis-d'Anjou;;;-0.442117;47.78953
+53210_0250_00031;31;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.440108;47.792033
+53210_0440_00009;9;;Rue de la Roche;53290;53210;Saint-Denis-d'Anjou;;;-0.447208;47.789582
+53210_0360_00001;1;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.442447;47.790761
+53210_b111_00001;1;;La Maison Rouge;53290;53210;Saint-Denis-d'Anjou;;;-0.447294;47.777346
+53210_2ua9nb_00001;1;;Les Molanceries;53290;53210;Saint-Denis-d'Anjou;;;-0.417666;47.781719
+53210_0259_00005;5;;Place des Halles;53290;53210;Saint-Denis-d'Anjou;;;-0.442664;47.792334
+53210_b079_00003;3;;Le Grand Saultray;53290;53210;Saint-Denis-d'Anjou;;;-0.437237;47.801274
+53210_tyimsc_00004;4;;Les Barbottieres;53290;53210;Saint-Denis-d'Anjou;;;-0.437353;47.764599
+53210_zwe1s9_00001_b;1;b;Place Henri IV;53290;53210;Saint-Denis-d'Anjou;;;-0.440362;47.791723
+53210_0289_00002;2;;Rue du 8 Mai 1945;53290;53210;Saint-Denis-d'Anjou;;;-0.43906;47.791342
+53210_xfoh44_00001;1;;La Vallee;53290;53210;Saint-Denis-d'Anjou;;;-0.453231;47.785419
+53210_0360_00028;28;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441757;47.789565
+53210_0180_00002_b;2;b;Rue d'Espagne;53290;53210;Saint-Denis-d'Anjou;;;-0.442734;47.790578
+53210_g2wciz_00001;1;;Rondeau;53290;53210;Saint-Denis-d'Anjou;;;-0.490399;47.782999
+53210_0340_00007;7;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.440233;47.786615
+53210_0011_00007;7;;Rue d’Anjou;53290;53210;Saint-Denis-d'Anjou;;;-0.437401;47.79216
+53210_t14nqh_00004;4;;Les Fossettes;53290;53210;Saint-Denis-d'Anjou;;;-0.493253;47.815063
+53210_0008_00005;5;;Place des Angevins;53290;53210;Saint-Denis-d'Anjou;;;-0.446034;47.788502
+53210_0480_00013;13;;Route de Varennes;53290;53210;Saint-Denis-d'Anjou;;;-0.436217;47.788546
+53210_0460_00045;45;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.435762;47.797253
+53210_0250_00019;19;;Grande Rue;53290;53210;Saint-Denis-d'Anjou;;;-0.440804;47.7917
+53210_0440_00004_b;4;b;Rue de la Roche;53290;53210;Saint-Denis-d'Anjou;;;-0.44363;47.790942
+53210_0448_00002;2;;Rue des Ruettes;53290;53210;Saint-Denis-d'Anjou;;;-0.437976;47.793455
+53210_0400_00010;10;;Route de la Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.445272;47.793157
+53210_xky32c_00001;1;;Rue de l’Eglise;53290;53210;Saint-Denis-d'Anjou;;;-0.442908;47.791122
+53210_tnj2rr_00001;1;;Les Milites;53290;53210;Saint-Denis-d'Anjou;;;-0.406667;47.795686
+53210_0380_00008_a;8;a;Rue du Pevignon;53290;53210;Saint-Denis-d'Anjou;;;-0.443479;47.787989
+53210_56qmin_00001;1;;Les Landes;53290;53210;Saint-Denis-d'Anjou;;;-0.397299;47.789872
+53210_0200_00013;13;;Rue de l'Evêché;53290;53210;Saint-Denis-d'Anjou;;;-0.43834;47.791867
+53210_0260_00004;4;;Rue des Halles;53290;53210;Saint-Denis-d'Anjou;;;-0.442977;47.791611
+53210_0340_00006;6;;Route de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.440565;47.788049
+53210_b234_00001;1;;Haute Pilardiére;53290;53210;Saint-Denis-d'Anjou;;;-0.450433;47.797251
+53210_b023_00001;1;;Le Bois Helbert;53290;53210;Saint-Denis-d'Anjou;;;-0.477634;47.776838
+53210_kn1ri6_00001;1;;la Loutière;53290;53210;Saint-Denis-d'Anjou;;;-0.439433;47.780081
+53210_0240_00011;11;;Rue du Four à Ban;53290;53210;Saint-Denis-d'Anjou;;;-0.442141;47.790708
+53210_b233_00001;1;;Doux Vent;53290;53210;Saint-Denis-d'Anjou;;;-0.451665;47.796687
+53210_0360_00034;34;;Rue de Morannes;53290;53210;Saint-Denis-d'Anjou;;;-0.441898;47.789142
+53210_b123_00006;6;;Le Mortier Neuf;53290;53210;Saint-Denis-d'Anjou;;;-0.480975;47.812361
+53210_0320_00004;4;;Rue des Juifs;53290;53210;Saint-Denis-d'Anjou;;;-0.440816;47.790972
+53210_0460_00006;6;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.439273;47.792522
+53210_0463_00005;5;;Impasse Saint Martin;53290;53210;Saint-Denis-d'Anjou;;;-0.446837;47.788073
+53210_b022_00002;2;;Le Bois de Moulin;53290;53210;Saint-Denis-d'Anjou;;;-0.383898;47.782587
+53210_xky32c_00002;2;;Rue de l’Eglise;53290;53210;Saint-Denis-d'Anjou;;;-0.44224;47.791079
+53210_0460_00057;57;;Route de Sablé;53290;53210;Saint-Denis-d'Anjou;;;-0.433936;47.798395
+53210_0080_00029;29;;Rue du Cimetière;53290;53210;Saint-Denis-d'Anjou;;;-0.443204;47.784833
+53210_pdnu67_00001_c;1;c;La Morliere;53290;53210;Saint-Denis-d'Anjou;;;-0.384759;47.786677
+53210_gy3suk_00001;1;;La Bellangeraie;53290;53210;Saint-Denis-d'Anjou;;;-0.455636;47.773803
+53210_0335_00006;6;;rue de la mare;53290;53210;Saint-Denis-d'Anjou;;;-0.442767;47.774586

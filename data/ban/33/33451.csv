@@ -1,0 +1,424 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+33451_np5wtc_00010;10;;Chemin Tertre de Canon;33126;33451;Saint-Michel-de-Fronsac;;Vrai Canon Bodet Latour;-0.296945;44.926273
+33451_w5mjbk_00010;10;;Route de Grand Billac;33126;33451;Saint-Michel-de-Fronsac;;Grand Billac;-0.31372;44.926631
+33451_90ogkc_00008;8;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Barail du Bec;-0.310463;44.914556
+33451_90ogkc_00016;16;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Port de Perpignan;-0.31353;44.912658
+33451_eedrww_00008;8;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.301531;44.929645
+33451_jtijzb_00009;9;;Chemin de Rambaud;33126;33451;Saint-Michel-de-Fronsac;;;-0.298676;44.931019
+33451_sjr22q_00017;17;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.293654;44.937248
+33451_sjr22q_00029;29;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.293186;44.93803
+33451_e74m3i_00025;25;;Vincent;33126;33451;Saint-Michel-de-Fronsac;;;-0.286493;44.945432
+33451_91h9oj_00007;7;;Côte de Truite;33126;33451;Saint-Michel-de-Fronsac;;Nardon;-0.297785;44.928115
+33451_b025_00005;5;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;;-0.298919;44.931514
+33451_b031_00007;7;;Fond-Gazan;33126;33451;Saint-Michel-de-Fronsac;;;-0.285376;44.941511
+33451_b031_00015;15;;Fond-Gazan;33126;33451;Saint-Michel-de-Fronsac;;;-0.285599;44.941979
+33451_90ogkc_00020;20;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Port de Perpignan;-0.313525;44.912491
+33451_2eyl9r_00006;6;;Chemin des Joncs;33126;33451;Saint-Michel-de-Fronsac;;Grand Barail;-0.306122;44.923888
+33451_jtijzb_00001;1;;Chemin de Rambaud;33126;33451;Saint-Michel-de-Fronsac;;;-0.299064;44.930613
+33451_jtijzb_00005;5;;Chemin de Rambaud;33126;33451;Saint-Michel-de-Fronsac;;;-0.298894;44.930672
+33451_7vuknq_00002;2;;Passage de Belloy;33126;33451;Saint-Michel-de-Fronsac;;;-0.29084;44.929963
+33451_b025_00001;1;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;;-0.298301;44.931481
+33451_b025_00013;13;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;;-0.300638;44.931949
+33451_w5mjbk_00018;18;;Route de Grand Billac;33126;33451;Saint-Michel-de-Fronsac;;Grand Billac;-0.314309;44.926535
+33451_np5wtc_00002;2;;Chemin Tertre de Canon;33126;33451;Saint-Michel-de-Fronsac;;Truite;-0.295236;44.926424
+33451_90ogkc_00004;4;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301089;44.923251
+33451_90ogkc_00025;25;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Port de Perpignan;-0.313576;44.91229
+33451_pt2a94_00003;3;;Route des palus;33126;33451;Saint-Michel-de-Fronsac;;Pont des souches;-0.310631;44.912878
+33451_eedrww_00004;4;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.302441;44.929552
+33451_sjr22q_00001;1;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.29524;44.935674
+33451_sjr22q_00009;9;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.294331;44.936766
+33451_sjr22q_00013;13;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.293917;44.936802
+33451_sjr22q_00025;25;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.293491;44.937749
+33451_sjr22q_00033;33;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Haut-Mazeris;-0.289281;44.93934
+33451_sjr22q_00041;41;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Mazeris;-0.283512;44.939158
+33451_e74m3i_00021;21;;Vincent;33126;33451;Saint-Michel-de-Fronsac;;;-0.286073;44.944973
+33451_e74m3i_00029;29;;Vincent;33126;33451;Saint-Michel-de-Fronsac;;;-0.2862;44.945802
+33451_91h9oj_00015;15;;Côte de Truite;33126;33451;Saint-Michel-de-Fronsac;;Truite;-0.294482;44.926921
+33451_b025_00009;9;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;;-0.299901;44.931858
+33451_b025_00017;17;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;Balet;-0.301359;44.932395
+33451_b025_00021;21;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;Balet;-0.301926;44.93249
+33451_b025_00027;27;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;Balet;-0.303295;44.93285
+33451_w5mjbk_00002;2;;Route de Grand Billac;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.304435;44.929245
+33451_90ogkc_00012;12;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Port de Perpignan;-0.312645;44.912807
+33451_pt2a94_00007;7;;Route des palus;33126;33451;Saint-Michel-de-Fronsac;;Les souches;-0.308589;44.909021
+33451_eedrww_00013;13;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.301613;44.929808
+33451_eedrww_00021;21;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.300778;44.929862
+33451_sjr22q_00005;5;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.294453;44.936262
+33451_sjr22q_00021;21;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.293305;44.937577
+33451_iccf5p_00006;6;;Allée Petit-Saint-Michel;33126;33451;Saint-Michel-de-Fronsac;;Cassagne;-0.29342;44.93007
+33451_91h9oj_00003;3;;Côte de Truite;33126;33451;Saint-Michel-de-Fronsac;;Nardon;-0.29895;44.928042
+33451_khox6b_00001;1;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Le sable;-0.301507;44.926898
+33451_khox6b_00005;5;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Le sable;-0.301067;44.927524
+33451_khox6b_00008;8;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Moulin Haut;-0.301067;44.928815
+33451_khox6b_00015;15;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Rambaud;-0.300325;44.929848
+33451_aiiftx_00029;29;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.294586;44.932971
+33451_oazemb_00018;18;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301174;44.925801
+33451_oazemb_00026;26;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Château Canon;-0.300712;44.926784
+33451_oazemb_00038;38;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Au Moulin;-0.302971;44.928955
+33451_khox6b_00004;4;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Galafre;-0.300868;44.928229
+33451_khox6b_00011;11;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Rambaud;-0.300299;44.92968
+33451_khox6b_00021;21;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Rambaud;-0.299695;44.929872
+33451_khox6b_00028;28;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.296476;44.934061
+33451_khox6b_00029;29;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Rambaud;-0.298964;44.930205
+33451_khox6b_00032;32;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.296137;44.934615
+33451_khox6b_00037;37;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Rambaud;-0.298218;44.930784
+33451_aiiftx_00003;3;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.295708;44.933372
+33451_aiiftx_00011;11;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.294457;44.933989
+33451_aiiftx_00043;43;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Belloy;-0.290817;44.930163
+33451_oazemb_00004;4;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301059;44.924917
+33451_oazemb_00006;6;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.300977;44.925147
+33451_oazemb_00011;11;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301454;44.924628
+33451_oazemb_00014;14;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301171;44.925642
+33451_oazemb_00031;31;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Matheline;-0.302878;44.928073
+33451_oazemb_00039;39;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Bardineau;-0.303512;44.928377
+33451_oazemb_00052;52;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Croix Blanche;-0.304111;44.930131
+33451_oazemb_00082;82;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.305242;44.931043
+33451_oazemb_00049;49;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Au Moulin;-0.303647;44.929117
+33451_oazemb_00081;81;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.305532;44.93088
+33451_oazemb_00086;86;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.304921;44.931248
+33451_oazemb_00099;99;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.306825;44.931432
+33451_oazemb_00103;103;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.306648;44.931737
+33451_oazemb_00108;108;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.305793;44.93176
+33451_oazemb_00119;119;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.307524;44.932395
+33451_oazemb_00120;120;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.306331;44.931886
+33451_cmdlsi_00008;8;;Le Bourg;33126;33451;Saint-Michel-de-Fronsac;;;-0.302704;44.928897
+33451_jnb6ss_00008;8;;Côte de Jean Roux;33126;33451;Saint-Michel-de-Fronsac;;La Galocheyre;-0.301212;44.939978
+33451_jnb6ss_00014;14;;Côte de Jean Roux;33126;33451;Saint-Michel-de-Fronsac;;La Galocheyre;-0.29992;44.940449
+33451_hsza0t_00006;6;;Route des Barails;33126;33451;Saint-Michel-de-Fronsac;;Haut Barail;-0.31249;44.923425
+33451_frrkb9_00009;9;;Route de la crête;33126;33451;Saint-Michel-de-Fronsac;;Les Combes;-0.292511;44.927344
+33451_w5mjbk_00012;12;;Route de Grand Billac;33126;33451;Saint-Michel-de-Fronsac;;Grand Billac;-0.314153;44.92683
+33451_90ogkc_00009;9;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Plantes des Souches;-0.309297;44.915058
+33451_90ogkc_00015;15;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Port de Perpignan;-0.311954;44.912863
+33451_90ogkc_00021;21;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Port de Perpignan;-0.312699;44.912452
+33451_90ogkc_00023;23;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Port de Perpignan;-0.313051;44.912358
+33451_eedrww_00001;1;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.302764;44.92935
+33451_eedrww_00003;3;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.302709;44.929399
+33451_eedrww_00007;7;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.302641;44.929678
+33451_eedrww_00023;23;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.300561;44.92989
+33451_jtijzb_00006;6;;Chemin de Rambaud;33126;33451;Saint-Michel-de-Fronsac;;;-0.298534;44.930785
+33451_jtijzb_00008;8;;Chemin de Rambaud;33126;33451;Saint-Michel-de-Fronsac;;;-0.298434;44.930654
+33451_sjr22q_00002;2;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.296059;44.93494
+33451_sjr22q_00004;4;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.29505;44.935286
+33451_sjr22q_00010;10;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.293249;44.937342
+33451_sjr22q_00014;14;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.292853;44.937545
+33451_sjr22q_00020;20;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.292371;44.93801
+33451_e74m3i_00022;22;;Vincent;33126;33451;Saint-Michel-de-Fronsac;;;-0.287252;44.94589
+33451_b025_00004;4;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;;-0.300664;44.932327
+33451_b025_00012;12;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;;-0.301666;44.93264
+33451_b025_00014;14;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;La Rouillarde;-0.303059;44.934309
+33451_b025_00018;18;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;La Rouillarde;-0.303472;44.936885
+33451_b031_00009;9;;Fond-Gazan;33126;33451;Saint-Michel-de-Fronsac;;;-0.285517;44.941492
+33451_khox6b_00014;14;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Moulin Haut;-0.300791;44.929062
+33451_khox6b_00017;17;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Rambaud;-0.300007;44.929766
+33451_khox6b_00025;25;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Rambaud;-0.299414;44.930162
+33451_khox6b_00045;45;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;L'Escloupey;-0.299576;44.93888
+33451_khox6b_00047;47;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;La Galocheyre;-0.299965;44.939904
+33451_aiiftx_00005;5;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.295303;44.933274
+33451_aiiftx_00027;27;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.294724;44.932895
+33451_aiiftx_00044;44;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Belloy;-0.291499;44.929426
+33451_oazemb_00007;7;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301288;44.924493
+33451_oazemb_00022;22;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Château Canon;-0.300992;44.926181
+33451_oazemb_00027;27;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Matheline;-0.302633;44.927612
+33451_oazemb_00030;30;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Matheline;-0.302148;44.927632
+33451_oazemb_00034;34;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Matheline;-0.302415;44.928004
+33451_oazemb_00041;41;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Bardineau;-0.30343;44.928433
+33451_oazemb_00048;48;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Croix Blanche;-0.303897;44.930062
+33451_oazemb_00095;95;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;;-0.306726;44.93126
+33451_oazemb_00096;96;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.305269;44.931249
+33451_oazemb_00111;111;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.307001;44.931989
+33451_oazemb_00126;126;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.306943;44.932234
+33451_oazemb_00128;128;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.307046;44.932308
+33451_cmdlsi_00003;3;;Le Bourg;33126;33451;Saint-Michel-de-Fronsac;;;-0.303478;44.929623
+33451_np5wtc_00001;1;;Chemin Tertre de Canon;33126;33451;Saint-Michel-de-Fronsac;;Clos du Roc;-0.294808;44.926006
+33451_np5wtc_00004;4;;Chemin Tertre de Canon;33126;33451;Saint-Michel-de-Fronsac;;Truite;-0.295483;44.926545
+33451_90ogkc_00011;11;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Plantes des Souches;-0.309955;44.914398
+33451_90ogkc_00013;13;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Port de Perpignan;-0.311791;44.913005
+33451_oazemb_00085;85;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.305843;44.930984
+33451_oazemb_00091;91;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;;-0.306408;44.931177
+33451_oazemb_00092;92;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.305452;44.931105
+33451_cmdlsi_00004;4;;Le Bourg;33126;33451;Saint-Michel-de-Fronsac;;;-0.302823;44.929121
+33451_cmdlsi_00007;7;;Le Bourg;33126;33451;Saint-Michel-de-Fronsac;;;-0.303342;44.929718
+33451_cmdlsi_00011;11;;Le Bourg;33126;33451;Saint-Michel-de-Fronsac;;;-0.303204;44.929523
+33451_jnb6ss_00002;2;;Côte de Jean Roux;33126;33451;Saint-Michel-de-Fronsac;;;-0.304203;44.938671
+33451_frrkb9_00015;15;;Route de la crête;33126;33451;Saint-Michel-de-Fronsac;;Belloy;-0.288701;44.929996
+33451_w5mjbk_00008;8;;Route de Grand Billac;33126;33451;Saint-Michel-de-Fronsac;;Grand Billac;-0.312896;44.926731
+33451_w5mjbk_00016;16;;Route de Grand Billac;33126;33451;Saint-Michel-de-Fronsac;;Grand Billac;-0.314475;44.926329
+33451_90ogkc_00001;1;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Barail Neuf;-0.302122;44.921645
+33451_90ogkc_00003;3;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Barail Neuf;-0.305911;44.918349
+33451_eedrww_00027;27;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.300376;44.929743
+33451_jtijzb_00002;2;;Chemin de Rambaud;33126;33451;Saint-Michel-de-Fronsac;;;-0.298622;44.930474
+33451_jtijzb_00004;4;;Chemin de Rambaud;33126;33451;Saint-Michel-de-Fronsac;;;-0.298581;44.93074
+33451_7vuknq_00001;1;;Passage de Belloy;33126;33451;Saint-Michel-de-Fronsac;;;-0.290567;44.929856
+33451_7vuknq_00007;7;;Passage de Belloy;33126;33451;Saint-Michel-de-Fronsac;;;-0.289808;44.929417
+33451_sjr22q_00026;26;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Mazeris;-0.287462;44.938507
+33451_ajbc5p_00003;3;;Mazeris Bellevue;33126;33451;Saint-Michel-de-Fronsac;;;-0.288287;44.939412
+33451_e74m3i_00026;26;;Vincent;33126;33451;Saint-Michel-de-Fronsac;;;-0.286985;44.946256
+33451_e74m3i_00028;28;;Vincent;33126;33451;Saint-Michel-de-Fronsac;;;-0.286626;44.946502
+33451_91h9oj_00017;17;;Côte de Truite;33126;33451;Saint-Michel-de-Fronsac;;Truite;-0.294311;44.926903
+33451_91h9oj_00021;21;;Côte de Truite;33126;33451;Saint-Michel-de-Fronsac;;Les Combes;-0.29278;44.927135
+33451_b025_00008;8;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;;-0.301223;44.932564
+33451_b025_00010;10;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;;-0.301547;44.932537
+33451_b025_00016;16;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;La Rouillarde;-0.303474;44.936018
+33451_b025_00020;20;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;Les Bélines;-0.30469;44.93802
+33451_khox6b_00010;10;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Moulin Haut;-0.301066;44.928873
+33451_khox6b_00020;20;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Moulin Haut;-0.300954;44.929391
+33451_khox6b_00024;24;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Rambaud;-0.298049;44.930726
+33451_khox6b_00033;33;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Rambaud;-0.298665;44.930345
+33451_khox6b_00039;39;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Rambaud;-0.298226;44.930883
+33451_aiiftx_00013;13;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.294308;44.934002
+33451_aiiftx_00019;19;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.294506;44.93312
+33451_aiiftx_00021;21;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.294381;44.933312
+33451_aiiftx_00035;35;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Renouil;-0.29191;44.932475
+33451_aiiftx_00037;37;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Renouil;-0.292147;44.932267
+33451_aiiftx_00049;49;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Belloy;-0.290864;44.929487
+33451_oazemb_00001;1;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301135;44.923966
+33451_oazemb_00010;10;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301198;44.925258
+33451_oazemb_00015;15;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301521;44.925092
+33451_oazemb_00019;19;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301492;44.925423
+33451_oazemb_00023;23;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Bas Canon;-0.301646;44.926334
+33451_oazemb_00035;35;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Bardineau;-0.303362;44.928426
+33451_90ogkc_00019;19;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Campus;-0.312229;44.912651
+33451_pt2a94_00004;4;;Route des palus;33126;33451;Saint-Michel-de-Fronsac;;Grande Pièce;-0.307687;44.906979
+33451_pt2a94_00008;8;;Route des palus;33126;33451;Saint-Michel-de-Fronsac;;Grand Bardeau;-0.30685;44.904216
+33451_eedrww_00005;5;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.302523;44.92964
+33451_eedrww_00011;11;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.302472;44.929736
+33451_eedrww_00015;15;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.301495;44.929912
+33451_eedrww_00019;19;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.301194;44.929842
+33451_jtijzb_00011;11;;Chemin de Rambaud;33126;33451;Saint-Michel-de-Fronsac;;;-0.298463;44.930814
+33451_sjr22q_00016;16;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.292888;44.937769
+33451_sjr22q_00028;28;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Mazeris;-0.287381;44.938477
+33451_sjr22q_00035;35;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Haut-Mazeris;-0.289504;44.939353
+33451_sjr22q_00039;39;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Mazeris;-0.285647;44.938593
+33451_ajbc5p_00001;1;;Mazeris Bellevue;33126;33451;Saint-Michel-de-Fronsac;;;-0.288359;44.939509
+33451_iccf5p_00001;1;;Allée Petit-Saint-Michel;33126;33451;Saint-Michel-de-Fronsac;;;-0.29193;44.929467
+33451_iccf5p_00004;4;;Allée Petit-Saint-Michel;33126;33451;Saint-Michel-de-Fronsac;;Cassagne;-0.29292;44.929824
+33451_iccf5p_00008;8;;Allée Petit-Saint-Michel;33126;33451;Saint-Michel-de-Fronsac;;Cassagne;-0.293931;44.929957
+33451_91h9oj_00002;2;;Côte de Truite;33126;33451;Saint-Michel-de-Fronsac;;Truite;-0.294576;44.926771
+33451_91h9oj_00013;13;;Côte de Truite;33126;33451;Saint-Michel-de-Fronsac;;Nardon;-0.297505;44.927973
+33451_b025_00002;2;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;;-0.301232;44.932912
+33451_b025_00022;22;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;Les Bélines;-0.304812;44.938223
+33451_b031_00001;1;;Fond-Gazan;33126;33451;Saint-Michel-de-Fronsac;;;-0.284685;44.940651
+33451_oazemb_00044;44;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Croix Blanche;-0.303462;44.930094
+33451_oazemb_00045;45;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Au Moulin;-0.303527;44.928867
+33451_oazemb_00089;89;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;;-0.306214;44.931279
+33451_oazemb_00100;100;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.305747;44.931403
+33451_oazemb_00104;104;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.305727;44.931567
+33451_oazemb_00107;107;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.306814;44.931862
+33451_oazemb_00112;112;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.306063;44.931802
+33451_oazemb_00115;115;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.307332;44.932231
+33451_oazemb_00116;116;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.306189;44.931691
+33451_cmdlsi_00012;12;;Le Bourg;33126;33451;Saint-Michel-de-Fronsac;;;-0.302481;44.928784
+33451_2kokl3_00002;2;;Route de Pey Labrie;33126;33451;Saint-Michel-de-Fronsac;;La Loubeyre;-0.283093;44.938779
+33451_jnb6ss_00010;10;;Côte de Jean Roux;33126;33451;Saint-Michel-de-Fronsac;;La Galocheyre;-0.300753;44.939987
+33451_hjgem8_00002;2;;La Clie;33126;33451;Saint-Michel-de-Fronsac;;;-0.298354;44.922677
+33451_hsza0t_00001;1;;Route des Barails;33126;33451;Saint-Michel-de-Fronsac;;;-0.310658;44.925683
+33451_hsza0t_00002;2;;Route des Barails;33126;33451;Saint-Michel-de-Fronsac;;Haut Barail;-0.312055;44.923967
+33451_hsza0t_00008;8;;Route des Barails;33126;33451;Saint-Michel-de-Fronsac;;Haut Barail;-0.312481;44.922551
+33451_hsza0t_00014;14;;Route des Barails;33126;33451;Saint-Michel-de-Fronsac;;Haut Barail;-0.312262;44.92204
+33451_frrkb9_00017;17;;Route de la crête;33126;33451;Saint-Michel-de-Fronsac;;Mausse;-0.287025;44.931314
+33451_frrkb9_00023;23;;Route de la crête;33126;33451;Saint-Michel-de-Fronsac;;Margales;-0.286512;44.931689
+33451_w5mjbk_00004;4;;Route de Grand Billac;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.305068;44.929163
+33451_w5mjbk_00020;20;;Route de Grand Billac;33126;33451;Saint-Michel-de-Fronsac;;Grand Billac;-0.314268;44.926478
+33451_np5wtc_00008;8;;Chemin Tertre de Canon;33126;33451;Saint-Michel-de-Fronsac;;Vrai Canon Bodet Latour;-0.29658;44.926222
+33451_90ogkc_00005;5;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Barail Neuf;-0.30578;44.918298
+33451_90ogkc_00007;7;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Barail Neuf;-0.305594;44.918104
+33451_90ogkc_00017;17;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Port de Perpignan;-0.312068;44.912774
+33451_90ogkc_00002_b;2;b;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301522;44.92379
+33451_pt2a94_00002;2;;Route des palus;33126;33451;Saint-Michel-de-Fronsac;;Les vieilles souches;-0.308585;44.908555
+33451_pt2a94_00006;6;;Route des palus;33126;33451;Saint-Michel-de-Fronsac;;Grand Bardeau;-0.306706;44.904531
+33451_2eyl9r_00004;4;;Chemin des Joncs;33126;33451;Saint-Michel-de-Fronsac;;Maison Neuve;-0.307744;44.926127
+33451_eedrww_00009;9;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.302784;44.929728
+33451_7vuknq_00003;3;;Passage de Belloy;33126;33451;Saint-Michel-de-Fronsac;;;-0.290281;44.929791
+33451_sjr22q_00006;6;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.293772;44.936467
+33451_sjr22q_00008;8;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.293195;44.937048
+33451_sjr22q_00012;12;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.293072;44.937574
+33451_sjr22q_00018;18;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.292577;44.937902
+33451_sjr22q_00022;22;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.292263;44.938114
+33451_sjr22q_00024;24;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.292102;44.938177
+33451_sjr22q_00030;30;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Mazeris;-0.286035;44.938291
+33451_sjr22q_00032;32;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Mazeris;-0.283183;44.939168
+33451_e74m3i_00024;24;;Vincent;33126;33451;Saint-Michel-de-Fronsac;;;-0.287099;44.946067
+33451_91h9oj_00004;4;;Côte de Truite;33126;33451;Saint-Michel-de-Fronsac;;Truite;-0.294664;44.92681
+33451_91h9oj_00006;6;;Côte de Truite;33126;33451;Saint-Michel-de-Fronsac;;Truite;-0.293919;44.92664
+33451_91h9oj_00009;9;;Côte de Truite;33126;33451;Saint-Michel-de-Fronsac;;Nardon;-0.297688;44.928249
+33451_b025_00006;6;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;;-0.300851;44.932418
+33451_b025_00025;25;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;Balet;-0.303008;44.932786
+33451_b031_00005;5;;Fond-Gazan;33126;33451;Saint-Michel-de-Fronsac;;;-0.285001;44.941028
+33451_b031_00013;13;;Fond-Gazan;33126;33451;Saint-Michel-de-Fronsac;;;-0.285539;44.941776
+33451_khox6b_00007;7;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Le sable;-0.301347;44.927653
+33451_khox6b_00012;12;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Moulin Haut;-0.301014;44.929046
+33451_khox6b_00018;18;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Moulin Haut;-0.300527;44.928867
+33451_khox6b_00027;27;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Rambaud;-0.299204;44.930148
+33451_aiiftx_00007;7;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.294654;44.934063
+33451_aiiftx_00033;33;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Moulin à vent;-0.294119;44.932885
+33451_oazemb_00008;8;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301183;44.925183
+33451_oazemb_00013;13;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301676;44.92475
+33451_oazemb_00016;16;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301175;44.925718
+33451_oazemb_00024;24;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Château Canon;-0.300933;44.926615
+33451_oazemb_00028;28;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Le sable;-0.301734;44.926929
+33451_oazemb_00032;32;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Matheline;-0.302235;44.927828
+33451_khox6b_00009;9;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Moulin Haut;-0.301218;44.929013
+33451_khox6b_00016;16;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Moulin Haut;-0.300676;44.929008
+33451_khox6b_00019;19;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Rambaud;-0.299852;44.929815
+33451_khox6b_00023;23;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Rambaud;-0.299442;44.929943
+33451_khox6b_00030;30;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.296075;44.93427
+33451_khox6b_00034;34;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.296506;44.934906
+33451_khox6b_00035;35;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Rambaud;-0.298519;44.930437
+33451_khox6b_00043;43;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Gazin;-0.299102;44.937516
+33451_aiiftx_00001;1;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.296561;44.933437
+33451_aiiftx_00015;15;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.294955;44.93313
+33451_aiiftx_00039;39;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Belloy;-0.290312;44.930353
+33451_aiiftx_00041;41;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Belloy;-0.290365;44.930102
+33451_aiiftx_00045;45;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Belloy;-0.291057;44.929981
+33451_oazemb_00005;5;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.30126;44.924392
+33451_oazemb_00009;9;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301426;44.924547
+33451_oazemb_00012;12;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.300998;44.925232
+33451_oazemb_00017;17;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301678;44.925207
+33451_oazemb_00025;25;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Matheline;-0.30267;44.927429
+33451_khox6b_00013;13;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Rambaud;-0.300187;44.92977
+33451_khox6b_00022;22;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Moulin Haut;-0.300746;44.929375
+33451_khox6b_00041;41;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Gazin;-0.298904;44.937311
+33451_aiiftx_00017;17;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.294814;44.933061
+33451_aiiftx_00047;47;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Belloy;-0.291327;44.929772
+33451_oazemb_00020;20;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.30102;44.925731
+33451_oazemb_00029;29;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Matheline;-0.302897;44.927531
+33451_khox6b_00002;2;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Galafre;-0.300791;44.927904
+33451_khox6b_00003;3;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Le sable;-0.30137;44.926927
+33451_khox6b_00006;6;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Moulin Haut;-0.301049;44.928632
+33451_khox6b_00026;26;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.296489;44.933779
+33451_khox6b_00031;31;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;Rambaud;-0.29884;44.930263
+33451_khox6b_00049;49;;Route de Saint Aignan;33126;33451;Saint-Michel-de-Fronsac;;La Galocheyre;-0.299738;44.940372
+33451_aiiftx_00009;9;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.294637;44.933978
+33451_aiiftx_00023;23;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.294011;44.933911
+33451_aiiftx_00025;25;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.29424;44.933854
+33451_aiiftx_00031;31;;Côte de Renouil;33126;33451;Saint-Michel-de-Fronsac;;Trepesson;-0.294359;44.932805
+33451_oazemb_00002;2;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301183;44.924862
+33451_oazemb_00003;3;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301234;44.924254
+33451_oazemb_00021;21;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.301382;44.925757
+33451_oazemb_00033;33;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Matheline;-0.30372;44.927712
+33451_oazemb_00036;36;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Au Moulin;-0.302842;44.928762
+33451_oazemb_00042;42;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Croix Blanche;-0.303642;44.929645
+33451_oazemb_00055;55;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Au Moulin;-0.303796;44.929325
+33451_oazemb_00058;58;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Croix Blanche;-0.304298;44.930289
+33451_oazemb_00060;60;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Croix Blanche;-0.304326;44.930408
+33451_oazemb_00061;61;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.30427;44.929877
+33451_oazemb_00065;65;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.304452;44.930032
+33451_oazemb_00067;67;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.304841;44.930006
+33451_oazemb_00075;75;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.30507;44.930525
+33451_oazemb_00077;77;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.305209;44.93064
+33451_oazemb_00080;80;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.305105;44.931031
+33451_oazemb_00087;87;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.306354;44.930814
+33451_oazemb_00093;93;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.306427;44.931226
+33451_oazemb_00097;97;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.306552;44.931607
+33451_oazemb_00109;109;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.306935;44.931933
+33451_oazemb_00117;117;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.307692;44.932162
+33451_cmdlsi_00010;10;;Le Bourg;33126;33451;Saint-Michel-de-Fronsac;;;-0.302728;44.928827
+33451_cmdlsi_00013;13;;Le Bourg;33126;33451;Saint-Michel-de-Fronsac;;;-0.302125;44.929013
+33451_cmdlsi_00015;15;;Le Bourg;33126;33451;Saint-Michel-de-Fronsac;;;-0.301375;44.928827
+33451_jnb6ss_00006;6;;Côte de Jean Roux;33126;33451;Saint-Michel-de-Fronsac;;;-0.303089;44.938532
+33451_hsza0t_00010;10;;Route des Barails;33126;33451;Saint-Michel-de-Fronsac;;Haut Barail;-0.312444;44.922396
+33451_frrkb9_00011;11;;Route de la crête;33126;33451;Saint-Michel-de-Fronsac;;Belloy;-0.290302;44.929379
+33451_w5mjbk_00021;21;;Route de Grand Billac;33126;33451;Saint-Michel-de-Fronsac;;Barail Saint Martin;-0.313552;44.92609
+33451_90ogkc_00010;10;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Port de Perpignan;-0.31144;44.913672
+33451_90ogkc_00014;14;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Port de Perpignan;-0.313133;44.912481
+33451_pt2a94_00001;1;;Route des palus;33126;33451;Saint-Michel-de-Fronsac;;Pont des souches;-0.310723;44.913082
+33451_pt2a94_00005;5;;Route des palus;33126;33451;Saint-Michel-de-Fronsac;;Les souches;-0.309143;44.910097
+33451_eedrww_00002;2;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.302702;44.929244
+33451_eedrww_00006;6;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.302237;44.929752
+33451_oazemb_00051;51;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Au Moulin;-0.303739;44.929079
+33451_oazemb_00063;63;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.304339;44.929911
+33451_oazemb_00066;66;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Francarney;-0.305051;44.930759
+33451_oazemb_00071;71;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.304802;44.930328
+33451_oazemb_00076;76;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.304972;44.930983
+33451_oazemb_00078;78;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.304821;44.931062
+33451_oazemb_00084;84;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.305238;44.931084
+33451_oazemb_00088;88;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.305202;44.931193
+33451_oazemb_00094;94;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.30538;44.931199
+33451_oazemb_00098;98;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.305375;44.931473
+33451_oazemb_00102;102;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.30585;44.931476
+33451_oazemb_00118;118;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.306253;44.931767
+33451_oazemb_00122;122;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.306738;44.932111
+33451_oazemb_00124;124;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.306531;44.932215
+33451_cmdlsi_00009;9;;Le Bourg;33126;33451;Saint-Michel-de-Fronsac;;;-0.30318;44.929836
+33451_frrkb9_00013;13;;Route de la crête;33126;33451;Saint-Michel-de-Fronsac;;Belloy;-0.289657;44.929471
+33451_frrkb9_00019;19;;Route de la crête;33126;33451;Saint-Michel-de-Fronsac;;Mausse;-0.286776;44.931443
+33451_frrkb9_00021;21;;Route de la crête;33126;33451;Saint-Michel-de-Fronsac;;Mausse;-0.287009;44.931732
+33451_w5mjbk_00014;14;;Route de Grand Billac;33126;33451;Saint-Michel-de-Fronsac;;Grand Billac;-0.314082;44.926547
+33451_np5wtc_00006;6;;Chemin Tertre de Canon;33126;33451;Saint-Michel-de-Fronsac;;Truite;-0.2956;44.926616
+33451_90ogkc_00002;2;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Naudin;-0.300568;44.923426
+33451_90ogkc_00018;18;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Port de Perpignan;-0.313664;44.912605
+33451_90ogkc_00022;22;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Port de Perpignan;-0.313717;44.912442
+33451_eedrww_00017;17;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.301325;44.92979
+33451_jtijzb_00003;3;;Chemin de Rambaud;33126;33451;Saint-Michel-de-Fronsac;;;-0.299305;44.930715
+33451_sjr22q_00007;7;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.294176;44.936529
+33451_sjr22q_00011;11;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.294142;44.936748
+33451_sjr22q_00023;23;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.293325;44.937676
+33451_b025_00007;7;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;;-0.299158;44.931759
+33451_b025_00015;15;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;;-0.301027;44.932273
+33451_b031_00003;3;;Fond-Gazan;33126;33451;Saint-Michel-de-Fronsac;;;-0.284801;44.940806
+33451_eedrww_00010;10;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.300899;44.929691
+33451_jtijzb_00013;13;;Chemin de Rambaud;33126;33451;Saint-Michel-de-Fronsac;;;-0.298287;44.930719
+33451_sjr22q_00027;27;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.293278;44.937881
+33451_sjr22q_00037;37;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Mazeris;-0.286866;44.938699
+33451_iccf5p_00002;2;;Allée Petit-Saint-Michel;33126;33451;Saint-Michel-de-Fronsac;;;-0.291845;44.929667
+33451_91h9oj_00001;1;;Côte de Truite;33126;33451;Saint-Michel-de-Fronsac;;Galafre;-0.300632;44.927734
+33451_91h9oj_00019;19;;Côte de Truite;33126;33451;Saint-Michel-de-Fronsac;;Les Combes;-0.293066;44.927084
+33451_oazemb_00037;37;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Bardineau;-0.303433;44.928364
+33451_oazemb_00043;43;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Bardineau;-0.303683;44.928455
+33451_oazemb_00046;46;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Croix Blanche;-0.304002;44.929987
+33451_oazemb_00047;47;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Au Moulin;-0.303643;44.929019
+33451_oazemb_00056;56;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Croix Blanche;-0.304215;44.930236
+33451_oazemb_00057;57;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.303953;44.92957
+33451_oazemb_00059;59;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.30405;44.929635
+33451_oazemb_00064;64;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Francarney;-0.304973;44.930727
+33451_oazemb_00069;69;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.304739;44.930182
+33451_oazemb_00073;73;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.305248;44.930456
+33451_oazemb_00074;74;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.305114;44.930883
+33451_oazemb_00079;79;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.30532;44.930719
+33451_oazemb_00090;90;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.305313;44.931132
+33451_oazemb_00101;101;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.306589;44.931693
+33451_oazemb_00106;106;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.305853;44.93156
+33451_oazemb_00110;110;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.305907;44.931818
+33451_oazemb_00113;113;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.307076;44.932042
+33451_oazemb_00114;114;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Est;-0.306129;44.931777
+33451_cmdlsi_00005;5;;Le Bourg;33126;33451;Saint-Michel-de-Fronsac;;;-0.303425;44.929627
+33451_jnb6ss_00012;12;;Côte de Jean Roux;33126;33451;Saint-Michel-de-Fronsac;;La Galocheyre;-0.30025;44.940412
+33451_hjgem8_00004;4;;La Clie;33126;33451;Saint-Michel-de-Fronsac;;;-0.298382;44.922576
+33451_hsza0t_00003;3;;Route des Barails;33126;33451;Saint-Michel-de-Fronsac;;Barail;-0.311157;44.924852
+33451_90ogkc_00006;6;;Ancienne Voie Romaine;33126;33451;Saint-Michel-de-Fronsac;;Barail du Bec;-0.308626;44.916722
+33451_2eyl9r_00002;2;;Chemin des Joncs;33126;33451;Saint-Michel-de-Fronsac;;Maison Neuve;-0.308655;44.926924
+33451_eedrww_00025;25;;Rue de l'église;33126;33451;Saint-Michel-de-Fronsac;;;-0.300421;44.929856
+33451_7vuknq_00005;5;;Passage de Belloy;33126;33451;Saint-Michel-de-Fronsac;;;-0.289884;44.929518
+33451_sjr22q_00015;15;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.293628;44.937077
+33451_sjr22q_00031;31;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Haut-Mazeris;-0.288336;44.939288
+33451_ajbc5p_00002;2;;Mazeris Bellevue;33126;33451;Saint-Michel-de-Fronsac;;;-0.288371;44.939469
+33451_e74m3i_00027;27;;Vincent;33126;33451;Saint-Michel-de-Fronsac;;;-0.285885;44.945512
+33451_91h9oj_00005;5;;Côte de Truite;33126;33451;Saint-Michel-de-Fronsac;;Nardon;-0.298301;44.928118
+33451_91h9oj_00011;11;;Côte de Truite;33126;33451;Saint-Michel-de-Fronsac;;Nardon;-0.297483;44.928077
+33451_oazemb_00040;40;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Au Moulin;-0.30317;44.929172
+33451_oazemb_00050;50;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Croix Blanche;-0.304061;44.930099
+33451_oazemb_00053;53;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Au Moulin;-0.30376;44.929274
+33451_oazemb_00054;54;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Croix Blanche;-0.304183;44.930168
+33451_oazemb_00062;62;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;La Croix Blanche;-0.304583;44.93059
+33451_oazemb_00068;68;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Francarney;-0.30499;44.930792
+33451_oazemb_00070;70;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Francarney;-0.304918;44.930822
+33451_oazemb_00072;72;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Francarney;-0.30487;44.930852
+33451_oazemb_00083;83;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.30579;44.931028
+33451_oazemb_00105;105;;Avenue du Fronsadais;33126;33451;Saint-Michel-de-Fronsac;;Queyreau Ouest;-0.306748;44.931801
+33451_cmdlsi_00001;1;;Le Bourg;33126;33451;Saint-Michel-de-Fronsac;;;-0.303535;44.929657
+33451_cmdlsi_00002;2;;Le Bourg;33126;33451;Saint-Michel-de-Fronsac;;;-0.303371;44.929377
+33451_cmdlsi_00006;6;;Le Bourg;33126;33451;Saint-Michel-de-Fronsac;;;-0.302658;44.928974
+33451_jnb6ss_00004;4;;Côte de Jean Roux;33126;33451;Saint-Michel-de-Fronsac;;;-0.303332;44.938704
+33451_hjgem8_00006;6;;La Clie;33126;33451;Saint-Michel-de-Fronsac;;;-0.298721;44.922677
+33451_hsza0t_00004;4;;Route des Barails;33126;33451;Saint-Michel-de-Fronsac;;Haut Barail;-0.312639;44.923623
+33451_hsza0t_00012;12;;Route des Barails;33126;33451;Saint-Michel-de-Fronsac;;Haut Barail;-0.312319;44.922207
+33451_w5mjbk_00006;6;;Route de Grand Billac;33126;33451;Saint-Michel-de-Fronsac;;Grand Billac;-0.312443;44.926812
+33451_jtijzb_00007;7;;Chemin de Rambaud;33126;33451;Saint-Michel-de-Fronsac;;;-0.298839;44.93082
+33451_sjr22q_00003;3;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.294736;44.93598
+33451_sjr22q_00019;19;;Route de Gombaud;33126;33451;Saint-Michel-de-Fronsac;;Lariveau;-0.293416;44.937402
+33451_e74m3i_00023;23;;Vincent;33126;33451;Saint-Michel-de-Fronsac;;;-0.286032;44.945338
+33451_b025_00003;3;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;;-0.298646;44.931552
+33451_b025_00011;11;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;;-0.300398;44.931867
+33451_b025_00019;19;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;Balet;-0.301638;44.932417
+33451_b025_00023;23;;Côteau de Saint Michel;33126;33451;Saint-Michel-de-Fronsac;;Balet;-0.302076;44.932359
+33451_b031_00011;11;;Fond-Gazan;33126;33451;Saint-Michel-de-Fronsac;;;-0.285421;44.941158

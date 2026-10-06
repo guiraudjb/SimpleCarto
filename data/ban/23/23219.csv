@@ -1,0 +1,832 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+23219_e23dk6_00033;33;;La Saumagne;23300;23219;Saint-Maurice-la-Souterraine;;;1.406906;46.18927
+23219_b080_00009;9;;la Vallade de Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.4239;46.185029
+23219_mfze2w_00007;7;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.443002;46.231445
+23219_0sb2p7_00016_bis;16;bis;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.456185;46.189274
+23219_0srnmi_00026;26;;Le Verger;23300;23219;Saint-Maurice-la-Souterraine;;;1.429767;46.198342
+23219_0027_00001;1;;Rue Eugène Mourioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.42839;46.213259
+23219_r5f8ez_00006;6;;Le Chaussat;23300;23219;Saint-Maurice-la-Souterraine;;;1.448504;46.222236
+23219_b080_00004;4;;la Vallade de Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.423087;46.185146
+23219_0029_00014;14;;Rue des Gorces;23300;23219;Saint-Maurice-la-Souterraine;;;1.42581;46.21313
+23219_veenmn_00059;59;;Rue du Bas Village;23300;23219;Saint-Maurice-la-Souterraine;;;1.390783;46.216422
+23219_unryda_00023;23;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.390962;46.215256
+23219_0002_00038;38;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.426458;46.215527
+23219_9tl79l_00003;3;;Lascoux;23300;23219;Saint-Maurice-la-Souterraine;;;1.454523;46.204039
+23219_0016_00001;1;;Rue des Ribières;23300;23219;Saint-Maurice-la-Souterraine;;;1.423841;46.214761
+23219_unryda_00122;122;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391296;46.216565
+23219_0013_00016;16;;Rue du Bosquet;23300;23219;Saint-Maurice-la-Souterraine;;;1.433962;46.212665
+23219_qqv3dm_00002;2;;Le Queroy;23300;23219;Saint-Maurice-la-Souterraine;;;1.445954;46.206591
+23219_v71pj7_00063;63;;Rue du Pont;23300;23219;Saint-Maurice-la-Souterraine;;;1.390842;46.216923
+23219_0002_00024;24;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.429123;46.215001
+23219_v71pj7_00089;89;;Rue du Pont;23300;23219;Saint-Maurice-la-Souterraine;;;1.389422;46.217237
+23219_sdhne9_00006;6;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.388225;46.207835
+23219_e23dk6_00009;9;;La Saumagne;23300;23219;Saint-Maurice-la-Souterraine;;;1.406698;46.190423
+23219_kcijj9_00013_bis;13;bis;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.4365;46.241426
+23219_0sb2p7_00025;25;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.459195;46.193276
+23219_0srnmi_00008;8;;Le Verger;23300;23219;Saint-Maurice-la-Souterraine;;;1.428099;46.200819
+23219_veenmn_00071;71;;Rue du Bas Village;23300;23219;Saint-Maurice-la-Souterraine;;;1.390569;46.216483
+23219_0002_00004;4;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.432455;46.214905
+23219_unryda_00146;146;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391649;46.217728
+23219_0007_00006;6;;Rue du 19 Mars 1962;23300;23219;Saint-Maurice-la-Souterraine;;;1.432505;46.214163
+23219_e23dk6_00023;23;;La Saumagne;23300;23219;Saint-Maurice-la-Souterraine;;;1.406412;46.188634
+23219_cm1orj_00022;22;;Gacheny;23300;23219;Saint-Maurice-la-Souterraine;;;1.409583;46.195639
+23219_0002_00007;7;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.431434;46.214822
+23219_61b2dq_00007;7;;rue des aubepines;23300;23219;Saint-Maurice-la-Souterraine;;;1.427181;46.213918
+23219_sdhne9_00020;20;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.387137;46.205165
+23219_0010_00003;3;;Place du Vieux Puits;23300;23219;Saint-Maurice-la-Souterraine;;;1.43101;46.213874
+23219_b6ufo0_00002;2;;la Faye;23300;23219;Saint-Maurice-la-Souterraine;;;1.444837;46.186645
+23219_0019_00002;2;;Rue du Marronnier;23300;23219;Saint-Maurice-la-Souterraine;;;1.429777;46.212399
+23219_0005_00001;1;;Chemin du Bois de la Cure;23300;23219;Saint-Maurice-la-Souterraine;;;1.424575;46.215846
+23219_b094_00001;1;;Le Merle Blanc;23300;23219;Saint-Maurice-la-Souterraine;;;1.437165;46.236763
+23219_r5f8ez_00015;15;;Le Chaussat;23300;23219;Saint-Maurice-la-Souterraine;;;1.446685;46.221254
+23219_0sb2p7_00013;13;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.457561;46.191747
+23219_ub1kjw_00001;1;;la balatrade;23300;23219;Saint-Maurice-la-Souterraine;;;1.426341;46.219885
+23219_0009_00003;3;;Place de la Mairie;23300;23219;Saint-Maurice-la-Souterraine;;;1.4312;46.214308
+23219_26qw9a_00009;9;;Grand Bessac;23300;23219;Saint-Maurice-la-Souterraine;;;1.423313;46.241695
+23219_0028_00007;7;;Chemin de la Betoulle;23300;23219;Saint-Maurice-la-Souterraine;;;1.428512;46.216495
+23219_b0twlr_00060;60;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.392699;46.214039
+23219_26qw9a_00004;4;;Grand Bessac;23300;23219;Saint-Maurice-la-Souterraine;;;1.424068;46.239896
+23219_ssux3o_00001;1;;La Jarrige;23300;23219;Saint-Maurice-la-Souterraine;;;1.430733;46.223616
+23219_b0twlr_00032_bis;32;bis;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.393519;46.213798
+23219_cwgh58_00003;3;;les forges;23300;23219;Saint-Maurice-la-Souterraine;;;1.455104;46.209968
+23219_0002_00008;8;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.431993;46.214911
+23219_0002_00018;18;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.429475;46.214997
+23219_v71pj7_00109;109;;Rue du Pont;23300;23219;Saint-Maurice-la-Souterraine;;;1.39055;46.217339
+23219_hcu3xw_00004;4;;Fressanges;23300;23219;Saint-Maurice-la-Souterraine;;;1.446451;46.19145
+23219_0018_00014;14;;Rue des Sansonnets;23300;23219;Saint-Maurice-la-Souterraine;;;1.430209;46.213184
+23219_jc728x_00002;2;;La Bachellerie;23300;23219;Saint-Maurice-la-Souterraine;;;1.408648;46.206386
+23219_0002_00029;29;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.428711;46.214903
+23219_b001_00013;13;;L'Age Troinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.436558;46.240932
+23219_p2u7fk_00012;12;;Le Mont;23300;23219;Saint-Maurice-la-Souterraine;;;1.404519;46.194428
+23219_50itmq_00011_bis;11;bis;Rissac;23300;23219;Saint-Maurice-la-Souterraine;;;1.410037;46.224714
+23219_b041_00008;8;;La Grande Vallade;23300;23219;Saint-Maurice-la-Souterraine;;;1.40972;46.216069
+23219_b0twlr_00048;48;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.39525;46.214214
+23219_61b2dq_00006;6;;rue des aubepines;23300;23219;Saint-Maurice-la-Souterraine;;;1.427252;46.214375
+23219_0027_00012;12;;Rue Eugène Mourioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.429001;46.214017
+23219_unryda_00072;72;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391093;46.214195
+23219_0002_00034;34;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.42683;46.215136
+23219_5wfbmx_00008;8;;Balenton;23300;23219;Saint-Maurice-la-Souterraine;;;1.442798;46.189474
+23219_z21u0q_00001;1;;Le Puyrollet;23300;23219;Saint-Maurice-la-Souterraine;;;1.444151;46.221538
+23219_0002_00023;23;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.429658;46.214869
+23219_p2u7fk_00004;4;;Le Mont;23300;23219;Saint-Maurice-la-Souterraine;;;1.404384;46.19369
+23219_b041_00006;6;;La Grande Vallade;23300;23219;Saint-Maurice-la-Souterraine;;;1.410075;46.216447
+23219_b0twlr_00068;68;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.39148;46.213888
+23219_0010_00002;2;;Place du Vieux Puits;23300;23219;Saint-Maurice-la-Souterraine;;;1.43093;46.213994
+23219_0006_00006;6;;Chemin des Landes;23300;23219;Saint-Maurice-la-Souterraine;;;1.420229;46.216003
+23219_kcijj9_00001;1;;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.437276;46.238365
+23219_unryda_00078;78;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391036;46.214567
+23219_0016_00011;11;;Rue des Ribières;23300;23219;Saint-Maurice-la-Souterraine;;;1.427607;46.212771
+23219_b6ufo0_00005;5;;la Faye;23300;23219;Saint-Maurice-la-Souterraine;;;1.442241;46.186336
+23219_50itmq_00009;9;;Rissac;23300;23219;Saint-Maurice-la-Souterraine;;;1.409647;46.224303
+23219_5d6xby_00012;12;;La Cote;23300;23219;Saint-Maurice-la-Souterraine;;;1.431785;46.197171
+23219_0srnmi_00024;24;;Le Verger;23300;23219;Saint-Maurice-la-Souterraine;;;1.42885;46.199111
+23219_e23dk6_00020;20;;La Saumagne;23300;23219;Saint-Maurice-la-Souterraine;;;1.406575;46.189017
+23219_90nslv_00002;2;;La Bauche;23300;23219;Saint-Maurice-la-Souterraine;;;1.450994;46.184987
+23219_veenmn_00055;55;;Rue du Bas Village;23300;23219;Saint-Maurice-la-Souterraine;;;1.390682;46.216305
+23219_mfze2w_00017;17;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.447523;46.233327
+23219_b080_00001;1;;la Vallade de Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.422151;46.185341
+23219_b6ufo0_00006;6;;la Faye;23300;23219;Saint-Maurice-la-Souterraine;;;1.445293;46.186959
+23219_s07jrr_00002;2;;Puyresson;23300;23219;Saint-Maurice-la-Souterraine;;;1.448066;46.192606
+23219_mfze2w_00015;15;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.448741;46.234034
+23219_5wfbmx_00004;4;;Balenton;23300;23219;Saint-Maurice-la-Souterraine;;;1.443243;46.191921
+23219_0025_00133;133;;Rue des Quatre Chemins Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.391461;46.210494
+23219_0016_00005;5;;Rue des Ribières;23300;23219;Saint-Maurice-la-Souterraine;;;1.428599;46.212847
+23219_0016_00006;6;;Rue des Ribières;23300;23219;Saint-Maurice-la-Souterraine;;;1.428114;46.212772
+23219_kcijj9_00006_bis;6;bis;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.439289;46.240752
+23219_v71pj7_00081;81;;Rue du Pont;23300;23219;Saint-Maurice-la-Souterraine;;;1.389081;46.21696
+23219_b041_00001;1;;La Grande Vallade;23300;23219;Saint-Maurice-la-Souterraine;;;1.410208;46.215491
+23219_0sb2p7_00018;18;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.456119;46.188753
+23219_tqlotf_00021;21;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.443459;46.196364
+23219_0sb2p7_00029;29;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.459559;46.193128
+23219_5d6xby_00009;9;;La Cote;23300;23219;Saint-Maurice-la-Souterraine;;;1.432209;46.197415
+23219_kcijj9_00016;16;;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.435436;46.240276
+23219_0srnmi_00022;22;;Le Verger;23300;23219;Saint-Maurice-la-Souterraine;;;1.428978;46.199448
+23219_0002_00010;10;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.43167;46.214931
+23219_nyuzlo_00012_bis;12;bis;Rue des 4 Chemins;23300;23219;Saint-Maurice-la-Souterraine;;;1.39219;46.211231
+23219_0004_00004;4;;Rue des Commerces;23300;23219;Saint-Maurice-la-Souterraine;;;1.42905;46.215512
+23219_b6ufo0_00004;4;;la Faye;23300;23219;Saint-Maurice-la-Souterraine;;;1.445288;46.186495
+23219_0018_00004;4;;Rue des Sansonnets;23300;23219;Saint-Maurice-la-Souterraine;;;1.430463;46.213864
+23219_0018_00010;10;;Rue des Sansonnets;23300;23219;Saint-Maurice-la-Souterraine;;;1.430256;46.213903
+23219_mfze2w_00003;3;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.445032;46.231107
+23219_kcijj9_00018;18;;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.435025;46.240166
+23219_0018_00003;3;;Rue des Sansonnets;23300;23219;Saint-Maurice-la-Souterraine;;;1.430701;46.213779
+23219_0013_00004;4;;Rue du Bosquet;23300;23219;Saint-Maurice-la-Souterraine;;;1.431681;46.2135
+23219_v71pj7_00115;115;;Rue du Pont;23300;23219;Saint-Maurice-la-Souterraine;;;1.390813;46.217114
+23219_90nslv_00010;10;;La Bauche;23300;23219;Saint-Maurice-la-Souterraine;;;1.451481;46.183778
+23219_90nslv_00001;1;;La Bauche;23300;23219;Saint-Maurice-la-Souterraine;;;1.451141;46.184863
+23219_0025_00014;14;;Rue des Quatre Chemins Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.391682;46.21168
+23219_0002_00019;19;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.430097;46.214819
+23219_b039_00006;6;;Grand Beissat;23300;23219;Saint-Maurice-la-Souterraine;;;1.422903;46.239681
+23219_b080_00005;5;;la Vallade de Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.423406;46.185094
+23219_tqlotf_00017;17;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.446608;46.197401
+23219_v71pj7_00105;105;;Rue du Pont;23300;23219;Saint-Maurice-la-Souterraine;;;1.390371;46.217094
+23219_b039_00013;13;;Grand Beissat;23300;23219;Saint-Maurice-la-Souterraine;;;1.41927;46.239501
+23219_0018_00009;9;;Rue des Sansonnets;23300;23219;Saint-Maurice-la-Souterraine;;;1.430439;46.213251
+23219_v71pj7_00107;107;;Rue du Pont;23300;23219;Saint-Maurice-la-Souterraine;;;1.390225;46.217054
+23219_0002_00022;22;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.429262;46.215008
+23219_0002_00016;16;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.429608;46.21499
+23219_0007_00018;18;;Rue du 19 Mars 1962;23300;23219;Saint-Maurice-la-Souterraine;;;1.433361;46.213164
+23219_0014_00008;8;;Chemin du Coudert;23300;23219;Saint-Maurice-la-Souterraine;;;1.430987;46.211594
+23219_0007_00008;8;;Rue du 19 Mars 1962;23300;23219;Saint-Maurice-la-Souterraine;;;1.432565;46.213982
+23219_unryda_00088;88;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391671;46.21507
+23219_0022_00104;104;;Rue de la Croix le Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.394264;46.215963
+23219_6edzs1_00009;9;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.426395;46.183555
+23219_0013_00001;1;;Rue du Bosquet;23300;23219;Saint-Maurice-la-Souterraine;;;1.431613;46.213758
+23219_0002_00041;41;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.425713;46.215049
+23219_b086_00041;41;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.418593;46.203185
+23219_sdhne9_00014;14;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.386107;46.204445
+23219_9tl79l_00005;5;;Lascoux;23300;23219;Saint-Maurice-la-Souterraine;;;1.454034;46.204088
+23219_veenmn_00073;73;;Rue du Bas Village;23300;23219;Saint-Maurice-la-Souterraine;;;1.390489;46.216714
+23219_veenmn_00067;67;;Rue du Bas Village;23300;23219;Saint-Maurice-la-Souterraine;;;1.390323;46.216816
+23219_s07jrr_00007;7;;Puyresson;23300;23219;Saint-Maurice-la-Souterraine;;;1.448163;46.192039
+23219_0016_00001_b;1;b;Rue des Ribières;23300;23219;Saint-Maurice-la-Souterraine;;;1.423811;46.214614
+23219_0016_00004;4;;Rue des Ribières;23300;23219;Saint-Maurice-la-Souterraine;;;1.428687;46.212811
+23219_b080_00001_bis;1;bis;la Vallade de Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.421861;46.185442
+23219_0sb2p7_00019;19;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.457236;46.191208
+23219_0sb2p7_00032;32;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.459902;46.193152
+23219_unryda_00119;119;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391262;46.217389
+23219_0018_00005;5;;Rue des Sansonnets;23300;23219;Saint-Maurice-la-Souterraine;;;1.43068;46.213614
+23219_b001_00009;9;;L'Age Troinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.43843;46.240631
+23219_50itmq_00011;11;;Rissac;23300;23219;Saint-Maurice-la-Souterraine;;;1.409812;46.224277
+23219_z21u0q_00007;7;;Le Puyrollet;23300;23219;Saint-Maurice-la-Souterraine;;;1.444245;46.225137
+23219_b001_00016;16;;L'Age Troinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.435482;46.2402
+23219_0003_00001;1;;Chemin des Bruyeres;23300;23219;Saint-Maurice-la-Souterraine;;;1.42829;46.215351
+23219_5d6xby_00013;13;;La Cote;23300;23219;Saint-Maurice-la-Souterraine;;;1.432324;46.196805
+23219_e23dk6_00012;12;;La Saumagne;23300;23219;Saint-Maurice-la-Souterraine;;;1.406035;46.189714
+23219_unryda_00051;51;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.390719;46.215963
+23219_b086_00014;14;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.418244;46.205117
+23219_kcijj9_00005;5;;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.439053;46.240592
+23219_0002_00002;2;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.433081;46.214887
+23219_unryda_00092;92;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391589;46.215184
+23219_b055_00001;1;;Moulin des Fougeres;23300;23219;Saint-Maurice-la-Souterraine;;;1.467458;46.196858
+23219_0022_00108_bis;108;bis;Rue de la Croix le Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.39425;46.215834
+23219_0028_00005;5;;Chemin de la Betoulle;23300;23219;Saint-Maurice-la-Souterraine;;;1.429037;46.216274
+23219_b065_00002;2;;Puy Robin;23300;23219;Saint-Maurice-la-Souterraine;;;1.415196;46.186662
+23219_0008_00002;2;;Rue de l'Ancienne Poste;23300;23219;Saint-Maurice-la-Souterraine;;;1.431286;46.214459
+23219_z21u0q_00008;8;;Le Puyrollet;23300;23219;Saint-Maurice-la-Souterraine;;;1.444715;46.224611
+23219_sffs8e_00008;8;;Le Cerisier;23300;23219;Saint-Maurice-la-Souterraine;;;1.451188;46.204323
+23219_t0jrpb_00006;6;;Maffe;23300;23219;Saint-Maurice-la-Souterraine;;;1.442398;46.200755
+23219_nyuzlo_00014;14;;Rue des 4 Chemins;23300;23219;Saint-Maurice-la-Souterraine;;;1.39167;46.21171
+23219_r5f8ez_00001;1;;Le Chaussat;23300;23219;Saint-Maurice-la-Souterraine;;;1.448979;46.220874
+23219_b086_00001;1;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.420243;46.204068
+23219_b0twlr_00054;54;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.392902;46.214092
+23219_0006_00002;2;;Chemin des Landes;23300;23219;Saint-Maurice-la-Souterraine;;;1.42089;46.215677
+23219_veenmn_00069_bis;69;bis;Rue du Bas Village;23300;23219;Saint-Maurice-la-Souterraine;;;1.390521;46.216645
+23219_or2gmr_00001;1;;La Clairiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.464446;46.220535
+23219_0010_00001;1;;Place du Vieux Puits;23300;23219;Saint-Maurice-la-Souterraine;;;1.430968;46.214099
+23219_0002_00037;37;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.426979;46.214999
+23219_b001_00004;4;;L'Age Troinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.438871;46.240522
+23219_0002_00006;6;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.432183;46.21491
+23219_3828zd_00004;4;;Vitrat;23300;23219;Saint-Maurice-la-Souterraine;;;1.39822;46.235599
+23219_e23dk6_00041;41;;La Saumagne;23300;23219;Saint-Maurice-la-Souterraine;;;1.407504;46.189599
+23219_cm1orj_00007;7;;Gacheny;23300;23219;Saint-Maurice-la-Souterraine;;;1.412203;46.195713
+23219_0009_00006;6;;Place de la Mairie;23300;23219;Saint-Maurice-la-Souterraine;;;1.431053;46.214627
+23219_h7m1de_00009;9;;Bois;23300;23219;Saint-Maurice-la-Souterraine;;;1.436787;46.205103
+23219_kcijj9_00013;13;;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.436575;46.240925
+23219_90nslv_00006;6;;La Bauche;23300;23219;Saint-Maurice-la-Souterraine;;;1.450526;46.1848
+23219_kcijj9_00011;11;;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.437522;46.240709
+23219_ssux3o_00006;6;;La Jarrige;23300;23219;Saint-Maurice-la-Souterraine;;;1.429804;46.225626
+23219_unryda_00002;2;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.390649;46.211702
+23219_tqlotf_00002;2;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.44507;46.198175
+23219_c5i04w_00009;9;;La Ramade;23300;23219;Saint-Maurice-la-Souterraine;;;1.423908;46.193507
+23219_unryda_00084;84;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391112;46.215146
+23219_0025_00012_ter;12;ter;Rue des Quatre Chemins Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.392085;46.210966
+23219_5d6xby_00008;8;;La Cote;23300;23219;Saint-Maurice-la-Souterraine;;;1.432086;46.197568
+23219_z21u0q_00006;6;;Le Puyrollet;23300;23219;Saint-Maurice-la-Souterraine;;;1.443901;46.225303
+23219_0012_00002;2;;Impasse des Lilas;23300;23219;Saint-Maurice-la-Souterraine;;;1.43125;46.213767
+23219_0015_00002;2;;Rue de la Terrade;23300;23219;Saint-Maurice-la-Souterraine;;;1.429517;46.212722
+23219_3828zd_00011;11;;Vitrat;23300;23219;Saint-Maurice-la-Souterraine;;;1.399319;46.235496
+23219_unryda_00116;116;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.39124;46.216159
+23219_unryda_00130;130;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391358;46.216838
+23219_50itmq_00006;6;;Rissac;23300;23219;Saint-Maurice-la-Souterraine;;;1.409707;46.223749
+23219_5d2123_00001;1;;rue des aubépines;23300;23219;Saint-Maurice-la-Souterraine;;;1.427564;46.214888
+23219_tqlotf_00011;11;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.445009;46.197923
+23219_unryda_00080;80;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391143;46.214804
+23219_ssux3o_00007;7;;La Jarrige;23300;23219;Saint-Maurice-la-Souterraine;;;1.430224;46.225566
+23219_6edzs1_00001;1;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.430612;46.183752
+23219_0002_00009;9;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.431211;46.214821
+23219_veenmn_00075;75;;Rue du Bas Village;23300;23219;Saint-Maurice-la-Souterraine;;;1.389993;46.216773
+23219_0022_00112;112;;Rue de la Croix le Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.392574;46.215973
+23219_v71pj7_00103;103;;Rue du Pont;23300;23219;Saint-Maurice-la-Souterraine;;;1.39016;46.217345
+23219_kcijj9_00014;14;;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.435724;46.240605
+23219_0012_00006;6;;Impasse des Lilas;23300;23219;Saint-Maurice-la-Souterraine;;;1.431271;46.213508
+23219_b086_00011;11;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.418478;46.204206
+23219_5d6xby_00014;14;;La Cote;23300;23219;Saint-Maurice-la-Souterraine;;;1.431534;46.196981
+23219_v71pj7_00099;99;;Rue du Pont;23300;23219;Saint-Maurice-la-Souterraine;;;1.390061;46.217059
+23219_0028_00001;1;;Chemin de la Betoulle;23300;23219;Saint-Maurice-la-Souterraine;;;1.429268;46.216097
+23219_kcijj9_00004;4;;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.438883;46.240518
+23219_b086_00008;8;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.418933;46.2041
+23219_e23dk6_00014;14;;La Saumagne;23300;23219;Saint-Maurice-la-Souterraine;;;1.405893;46.18956
+23219_0022_00108;108;;Rue de la Croix le Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.394209;46.215527
+23219_0002_00030;30;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.428016;46.215057
+23219_kcijj9_00006;6;;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.439742;46.240923
+23219_167698_00001;1;;les forges;23300;23219;Saint-Maurice-la-Souterraine;;;1.449037;46.20979
+23219_0027_00008;8;;Rue Eugène Mourioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.429385;46.21378
+23219_b001_00006;6;;L'Age Troinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.439764;46.240886
+23219_unryda_00035;35;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.39108;46.216012
+23219_ssux3o_00008;8;;La Jarrige;23300;23219;Saint-Maurice-la-Souterraine;;;1.429864;46.225649
+23219_0027_00010;10;;Rue Eugène Mourioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.42939;46.213884
+23219_0015_00007;7;;Rue de la Terrade;23300;23219;Saint-Maurice-la-Souterraine;;;1.428883;46.211818
+23219_unryda_00033;33;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.390857;46.215974
+23219_0002_00050;50;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.423479;46.21533
+23219_b041_00003;3;;La Grande Vallade;23300;23219;Saint-Maurice-la-Souterraine;;;1.410124;46.215445
+23219_0sb2p7_00022;22;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.459068;46.193652
+23219_0005_00003;3;;Chemin du Bois de la Cure;23300;23219;Saint-Maurice-la-Souterraine;;;1.424259;46.215915
+23219_kcijj9_00008;8;;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.438524;46.240565
+23219_0029_00002;2;;Rue des Gorces;23300;23219;Saint-Maurice-la-Souterraine;;;1.426509;46.21287
+23219_5d6xby_00011;11;;La Cote;23300;23219;Saint-Maurice-la-Souterraine;;;1.432177;46.196957
+23219_unryda_00127;127;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391375;46.218419
+23219_veenmn_00049;49;;Rue du Bas Village;23300;23219;Saint-Maurice-la-Souterraine;;;1.390827;46.216279
+23219_0srnmi_00015;15;;Le Verger;23300;23219;Saint-Maurice-la-Souterraine;;;1.429138;46.199676
+23219_mfze2w_00010;10;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.44237;46.231468
+23219_unryda_00134;134;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391339;46.217047
+23219_0029_00010;10;;Rue des Gorces;23300;23219;Saint-Maurice-la-Souterraine;;;1.426566;46.213318
+23219_cm1orj_00008;8;;Gacheny;23300;23219;Saint-Maurice-la-Souterraine;;;1.412037;46.195654
+23219_unryda_00076;76;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391098;46.214362
+23219_0015_00010;10;;Rue de la Terrade;23300;23219;Saint-Maurice-la-Souterraine;;;1.42842;46.211302
+23219_0sb2p7_00009;9;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.458026;46.192842
+23219_5d6xby_00005;5;;La Cote;23300;23219;Saint-Maurice-la-Souterraine;;;1.431925;46.19838
+23219_v71pj7_00093;93;;Rue du Pont;23300;23219;Saint-Maurice-la-Souterraine;;;1.38987;46.216978
+23219_0015_00012;12;;Rue de la Terrade;23300;23219;Saint-Maurice-la-Souterraine;;;1.428222;46.210902
+23219_nyuzlo_00008;8;;Rue des 4 Chemins;23300;23219;Saint-Maurice-la-Souterraine;;;1.391445;46.211334
+23219_0004_00003;3;;Rue des Commerces;23300;23219;Saint-Maurice-la-Souterraine;;;1.429262;46.21565
+23219_unryda_00003;3;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.390492;46.212101
+23219_sdhne9_00001;1;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.389533;46.210148
+23219_sdhne9_00015;15;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.385782;46.203395
+23219_50itmq_00001;1;;Rissac;23300;23219;Saint-Maurice-la-Souterraine;;;1.411336;46.222185
+23219_tqlotf_00005;5;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.445387;46.198276
+23219_b039_00012;12;;Grand Beissat;23300;23219;Saint-Maurice-la-Souterraine;;;1.41962;46.239543
+23219_0015_00005;5;;Rue de la Terrade;23300;23219;Saint-Maurice-la-Souterraine;;;1.429005;46.212011
+23219_unryda_00118;118;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391294;46.216288
+23219_veenmn_00057;57;;Rue du Bas Village;23300;23219;Saint-Maurice-la-Souterraine;;;1.390707;46.216362
+23219_e23dk6_00025;25;;La Saumagne;23300;23219;Saint-Maurice-la-Souterraine;;;1.406365;46.188484
+23219_unryda_00025_bis;25;bis;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.390722;46.215631
+23219_0srnmi_00006;6;;Le Verger;23300;23219;Saint-Maurice-la-Souterraine;;;1.427723;46.200592
+23219_r5f8ez_00003;3;;Le Chaussat;23300;23219;Saint-Maurice-la-Souterraine;;;1.447711;46.221482
+23219_0007_00002;2;;Rue du 19 Mars 1962;23300;23219;Saint-Maurice-la-Souterraine;;;1.432471;46.214579
+23219_cm1orj_00020;20;;Gacheny;23300;23219;Saint-Maurice-la-Souterraine;;;1.409621;46.195823
+23219_sffs8e_00007_bis;7;bis;Le Cerisier;23300;23219;Saint-Maurice-la-Souterraine;;;1.451296;46.204473
+23219_3828zd_00007;7;;Vitrat;23300;23219;Saint-Maurice-la-Souterraine;;;1.398857;46.235919
+23219_b039_00007;7;;Grand Beissat;23300;23219;Saint-Maurice-la-Souterraine;;;1.422613;46.240109
+23219_c5i04w_00001;1;;La Ramade;23300;23219;Saint-Maurice-la-Souterraine;;;1.421676;46.193247
+23219_e23dk6_00046;46;;La Saumagne;23300;23219;Saint-Maurice-la-Souterraine;;;1.40698;46.189759
+23219_50itmq_00014;14;;Rissac;23300;23219;Saint-Maurice-la-Souterraine;;;1.408084;46.224102
+23219_b065_00005;5;;Puy Robin;23300;23219;Saint-Maurice-la-Souterraine;;;1.413699;46.186101
+23219_unryda_00041;41;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.39116;46.216611
+23219_tqlotf_00001;1;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.446823;46.19715
+23219_90nslv_00012;12;;La Bauche;23300;23219;Saint-Maurice-la-Souterraine;;;1.4514;46.183758
+23219_61b2dq_00010;10;;rue des aubepines;23300;23219;Saint-Maurice-la-Souterraine;;;1.427084;46.213869
+23219_b0twlr_00024;24;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.391631;46.213836
+23219_tqlotf_00013;13;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.444922;46.197828
+23219_0028_00003;3;;Chemin de la Betoulle;23300;23219;Saint-Maurice-la-Souterraine;;;1.429063;46.216199
+23219_0007_00016;16;;Rue du 19 Mars 1962;23300;23219;Saint-Maurice-la-Souterraine;;;1.433203;46.213353
+23219_0013_00005;5;;Rue du Bosquet;23300;23219;Saint-Maurice-la-Souterraine;;;1.431752;46.213585
+23219_b001_00007;7;;L'Age Troinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.438738;46.240542
+23219_b001_00010;10;;L'Age Troinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.438202;46.240695
+23219_26qw9a_00012;12;;Grand Bessac;23300;23219;Saint-Maurice-la-Souterraine;;;1.419631;46.239519
+23219_0025_00016;16;;Rue des Quatre Chemins Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.391649;46.211961
+23219_0018_00001;1;;Rue des Sansonnets;23300;23219;Saint-Maurice-la-Souterraine;;;1.430764;46.213856
+23219_z21u0q_00004;4;;Le Puyrollet;23300;23219;Saint-Maurice-la-Souterraine;;;1.442756;46.224219
+23219_0026_00002;2;;Route du Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.437838;46.212673
+23219_unryda_00096;96;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391191;46.215308
+23219_unryda_00031;31;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.390767;46.215934
+23219_mfze2w_00020;20;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.447932;46.233744
+23219_0002_00055;55;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.4222;46.214994
+23219_0019_00001_bis;1;bis;Rue du Marronnier;23300;23219;Saint-Maurice-la-Souterraine;;;1.42991;46.212553
+23219_b001_00005;5;;L'Age Troinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.439042;46.240596
+23219_0002_00012;12;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.431277;46.214914
+23219_0016_00038;38;;Rue des Ribières;23300;23219;Saint-Maurice-la-Souterraine;;;1.423269;46.214282
+23219_t0jrpb_00004;4;;Maffe;23300;23219;Saint-Maurice-la-Souterraine;;;1.442321;46.200872
+23219_0002_00045;45;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.424358;46.215169
+23219_b039_00005;5;;Grand Beissat;23300;23219;Saint-Maurice-la-Souterraine;;;1.423638;46.239751
+23219_p2u7fk_00008;8;;Le Mont;23300;23219;Saint-Maurice-la-Souterraine;;;1.404716;46.19416
+23219_c5i04w_00003;3;;La Ramade;23300;23219;Saint-Maurice-la-Souterraine;;;1.42134;46.19303
+23219_hcu3xw_00008;8;;Fressanges;23300;23219;Saint-Maurice-la-Souterraine;;;1.446851;46.19177
+23219_b080_00016;16;;la Vallade de Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.424393;46.184611
+23219_nyuzlo_00012_ter;12;ter;Rue des 4 Chemins;23300;23219;Saint-Maurice-la-Souterraine;;;1.392016;46.210994
+23219_3828zd_00002;2;;Vitrat;23300;23219;Saint-Maurice-la-Souterraine;;;1.39753;46.231501
+23219_mfze2w_00006;6;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.443993;46.231947
+23219_mfze2w_00024;24;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.446818;46.233574
+23219_6edzs1_00010;10;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.428564;46.183067
+23219_0013_00010;10;;Rue du Bosquet;23300;23219;Saint-Maurice-la-Souterraine;;;1.431987;46.212952
+23219_0030_00009;9;;Impasse des Ribieres;23300;23219;Saint-Maurice-la-Souterraine;;;1.421855;46.214163
+23219_unryda_00074;74;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391251;46.214281
+23219_sffs8e_00007;7;;Le Cerisier;23300;23219;Saint-Maurice-la-Souterraine;;;1.450604;46.2046
+23219_unryda_00001;1;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.390323;46.211542
+23219_0008_00004;4;;Rue de l'Ancienne Poste;23300;23219;Saint-Maurice-la-Souterraine;;;1.431362;46.214575
+23219_fv5803_00003;3;;Le Brajaud;23300;23219;Saint-Maurice-la-Souterraine;;;1.460628;46.211863
+23219_kcijj9_00003;3;;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.43808;46.240116
+23219_c5i04w_00005;5;;La Ramade;23300;23219;Saint-Maurice-la-Souterraine;;;1.423521;46.193439
+23219_sdhne9_00030;30;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.389631;46.209841
+23219_0014_00005;5;;Chemin du Coudert;23300;23219;Saint-Maurice-la-Souterraine;;;1.432481;46.21213
+23219_mfze2w_00023;23;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.446014;46.23499
+23219_0016_00048;48;;Rue des Ribières;23300;23219;Saint-Maurice-la-Souterraine;;;1.42388;46.215165
+23219_ssux3o_00002;2;;La Jarrige;23300;23219;Saint-Maurice-la-Souterraine;;;1.431143;46.223059
+23219_0013_00009;9;;Rue du Bosquet;23300;23219;Saint-Maurice-la-Souterraine;;;1.432567;46.21298
+23219_b040_00004;4;;Le Grand Couret;23300;23219;Saint-Maurice-la-Souterraine;;;1.454351;46.218728
+23219_0002_00003;3;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.432079;46.214826
+23219_cm1orj_00029;29;;Gacheny;23300;23219;Saint-Maurice-la-Souterraine;;;1.411449;46.193855
+23219_61b2dq_00009;9;;rue des aubepines;23300;23219;Saint-Maurice-la-Souterraine;;;1.427711;46.213895
+23219_0sb2p7_00027;27;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.459478;46.193123
+23219_b039_00011;11;;Grand Beissat;23300;23219;Saint-Maurice-la-Souterraine;;;1.423395;46.24188
+23219_0sb2p7_00018_ter;18;ter;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.456136;46.188426
+23219_b039_00008;8;;Grand Beissat;23300;23219;Saint-Maurice-la-Souterraine;;;1.423066;46.2415
+23219_b0twlr_00062;62;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.39231;46.214011
+23219_b0twlr_00054;54;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.398412;46.214673
+23219_0008_00006;6;;Rue de l'Ancienne Poste;23300;23219;Saint-Maurice-la-Souterraine;;;1.431374;46.214618
+23219_0002_00031;31;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.428231;46.214939
+23219_b0twlr_00052;52;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.396581;46.214344
+23219_b0twlr_00032;32;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.392831;46.213959
+23219_sdhne9_00007;7;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.387839;46.207351
+23219_0007_00003;3;;Rue du 19 Mars 1962;23300;23219;Saint-Maurice-la-Souterraine;;;1.432591;46.214187
+23219_tqlotf_00003;3;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.446866;46.197534
+23219_b058_00001;1;;Le Petit Beissat;23300;23219;Saint-Maurice-la-Souterraine;;;1.418292;46.226338
+23219_b086_00022;22;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.415828;46.204791
+23219_b086_00005;5;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.419115;46.203973
+23219_3828zd_00013;13;;Vitrat;23300;23219;Saint-Maurice-la-Souterraine;;;1.398484;46.235185
+23219_unryda_00039;39;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391172;46.216567
+23219_or2gmr_00002;2;;La Clairiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.463632;46.220423
+23219_nyuzlo_00129;129;;Rue des 4 Chemins;23300;23219;Saint-Maurice-la-Souterraine;;;1.391641;46.210648
+23219_b080_00007;7;;la Vallade de Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.423644;46.185045
+23219_0025_00012_bis;12;bis;Rue des Quatre Chemins Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.392229;46.211194
+23219_unryda_00086;86;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391589;46.214923
+23219_unryda_00136;136;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391344;46.217089
+23219_0002_00048;48;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.424017;46.215293
+23219_0002_00057;57;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.421759;46.215312
+23219_tqlotf_00008;8;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.444175;46.197308
+23219_unryda_00094;94;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391334;46.215187
+23219_0013_00003;3;;Rue du Bosquet;23300;23219;Saint-Maurice-la-Souterraine;;;1.431814;46.213772
+23219_6edzs1_00003;3;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.428424;46.183281
+23219_z21u0q_00010;10;;Le Puyrollet;23300;23219;Saint-Maurice-la-Souterraine;;;1.444331;46.227277
+23219_0sb2p7_00034;34;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.460113;46.193047
+23219_50itmq_00002;2;;Rissac;23300;23219;Saint-Maurice-la-Souterraine;;;1.410821;46.222845
+23219_0002_00013;13;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.4307;46.214748
+23219_b086_00033;33;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.418062;46.203697
+23219_0007_00005;5;;Rue du 19 Mars 1962;23300;23219;Saint-Maurice-la-Souterraine;;;1.432651;46.213992
+23219_61b2dq_00014;14;;rue des aubepines;23300;23219;Saint-Maurice-la-Souterraine;;;1.426779;46.213663
+23219_mfze2w_00002;2;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.444798;46.230243
+23219_0025_00008;8;;Rue des Quatre Chemins Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.391453;46.211295
+23219_mfze2w_00018;18;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.44215;46.231424
+23219_kcijj9_00012;12;;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.436902;46.24129
+23219_sdhne9_00012;12;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.386684;46.204826
+23219_mfze2w_00009;9;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.442816;46.231388
+23219_unryda_00047;47;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391223;46.216994
+23219_cm1orj_00014;14;;Gacheny;23300;23219;Saint-Maurice-la-Souterraine;;;1.411045;46.195103
+23219_61b2dq_00005;5;;rue des aubepines;23300;23219;Saint-Maurice-la-Souterraine;;;1.427319;46.214426
+23219_b086_00010;10;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.418616;46.204248
+23219_sdhne9_00021_bis;21;bis;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.387266;46.205405
+23219_6edzs1_00005;5;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.427731;46.183353
+23219_b0twlr_00038;38;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.393929;46.213987
+23219_0sb2p7_00020;20;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.459997;46.194937
+23219_b0twlr_00064_bis;64;bis;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.39174;46.213948
+23219_tqlotf_00025;25;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.442943;46.195488
+23219_veenmn_00061;61;;Rue du Bas Village;23300;23219;Saint-Maurice-la-Souterraine;;;1.390736;46.216544
+23219_0016_00013;13;;Rue des Ribières;23300;23219;Saint-Maurice-la-Souterraine;;;1.427041;46.212724
+23219_0018_00018;18;;Rue des Sansonnets;23300;23219;Saint-Maurice-la-Souterraine;;;1.429815;46.212884
+23219_5wfbmx_00003;3;;Balenton;23300;23219;Saint-Maurice-la-Souterraine;;;1.441208;46.190526
+23219_b065_00003;3;;Puy Robin;23300;23219;Saint-Maurice-la-Souterraine;;;1.414778;46.186359
+23219_unryda_00098;98;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.39125;46.215307
+23219_0029_00012;12;;Rue des Gorces;23300;23219;Saint-Maurice-la-Souterraine;;;1.426167;46.213181
+23219_0002_00001;1;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.432208;46.21481
+23219_b039_00001;1;;Grand Beissat;23300;23219;Saint-Maurice-la-Souterraine;;;1.425207;46.239589
+23219_e23dk6_00008;8;;La Saumagne;23300;23219;Saint-Maurice-la-Souterraine;;;1.406637;46.190331
+23219_cm1orj_00034;34;;Gacheny;23300;23219;Saint-Maurice-la-Souterraine;;;1.411423;46.193787
+23219_lkkic7_00009;9;;Les Tilleuls;23300;23219;Saint-Maurice-la-Souterraine;;;1.454159;46.203858
+23219_tqlotf_00002_bis;2;bis;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.445461;46.198524
+23219_b086_00032;32;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.417935;46.203717
+23219_6edzs1_00006;6;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.427556;46.1833
+23219_0005_00001_bis;1;bis;Chemin du Bois de la Cure;23300;23219;Saint-Maurice-la-Souterraine;;;1.425118;46.215609
+23219_0025_00010;10;;Rue des Quatre Chemins Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.391434;46.210856
+23219_unryda_00126;126;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391649;46.216624
+23219_sffs8e_00001;1;;Le Cerisier;23300;23219;Saint-Maurice-la-Souterraine;;;1.449612;46.205543
+23219_r6tpma_00001;1;;La Porte;23300;23219;Saint-Maurice-la-Souterraine;;;1.466671;46.222205
+23219_c5i04w_00002;2;;La Ramade;23300;23219;Saint-Maurice-la-Souterraine;;;1.42291;46.193222
+23219_sdhne9_00022;22;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.387331;46.205531
+23219_b086_00025;25;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.418083;46.204109
+23219_0sb2p7_00011;11;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.45767;46.19198
+23219_v71pj7_00079;79;;Rue du Pont;23300;23219;Saint-Maurice-la-Souterraine;;;1.389311;46.216857
+23219_0srnmi_00002;2;;Le Verger;23300;23219;Saint-Maurice-la-Souterraine;;;1.42752;46.200898
+23219_0srnmi_00005;5;;Le Verger;23300;23219;Saint-Maurice-la-Souterraine;;;1.4281;46.200911
+23219_mfze2w_00011;11;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.442422;46.231631
+23219_3828zd_00008;8;;Vitrat;23300;23219;Saint-Maurice-la-Souterraine;;;1.39857;46.236223
+23219_b0twlr_00040;40;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.394086;46.214004
+23219_0002_00040;40;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.426135;46.21518
+23219_v71pj7_00085;85;;Rue du Pont;23300;23219;Saint-Maurice-la-Souterraine;;;1.388942;46.217093
+23219_fv5803_00002;2;;Le Brajaud;23300;23219;Saint-Maurice-la-Souterraine;;;1.460994;46.216793
+23219_0sb2p7_00002;2;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.457344;46.196287
+23219_b0twlr_00028;28;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.392038;46.213871
+23219_0sb2p7_00001;1;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.45855;46.195025
+23219_0027_00002;2;;Rue Eugène Mourioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.428598;46.213256
+23219_t0jrpb_00002;2;;Maffe;23300;23219;Saint-Maurice-la-Souterraine;;;1.442472;46.201039
+23219_3828zd_00012;12;;Vitrat;23300;23219;Saint-Maurice-la-Souterraine;;;1.398727;46.235287
+23219_b001_00017;17;;L'Age Troinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.436494;46.240473
+23219_mfze2w_00013;13;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.445481;46.232171
+23219_nyuzlo_00016;16;;Rue des 4 Chemins;23300;23219;Saint-Maurice-la-Souterraine;;;1.391661;46.211978
+23219_ssux3o_00004;4;;La Jarrige;23300;23219;Saint-Maurice-la-Souterraine;;;1.429724;46.224469
+23219_4icli6_00002;2;;Les Fougeres;23300;23219;Saint-Maurice-la-Souterraine;;;1.465967;46.20302
+23219_v71pj7_00111;111;;Rue du Pont;23300;23219;Saint-Maurice-la-Souterraine;;;1.390613;46.21708
+23219_6edzs1_00018;18;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.427718;46.182911
+23219_0022_00100;100;;Rue de la Croix le Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.391519;46.216006
+23219_b086_00007;7;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.41902;46.204007
+23219_6edzs1_00017;17;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.427868;46.182927
+23219_0029_00006;6;;Rue des Gorces;23300;23219;Saint-Maurice-la-Souterraine;;;1.426636;46.213235
+23219_c5i04w_00004;4;;La Ramade;23300;23219;Saint-Maurice-la-Souterraine;;;1.423684;46.193378
+23219_t0jrpb_00008;8;;Maffe;23300;23219;Saint-Maurice-la-Souterraine;;;1.44271;46.200461
+23219_0014_00003;3;;Chemin du Coudert;23300;23219;Saint-Maurice-la-Souterraine;;;1.432545;46.212219
+23219_0sb2p7_00002_bis;2;bis;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.458614;46.195129
+23219_0sb2p7_00015;15;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.456965;46.191719
+23219_d3c150_00001;1;;les bordes;23300;23219;Saint-Maurice-la-Souterraine;;;1.42941;46.227143
+23219_5wfbmx_00010;10;;Balenton;23300;23219;Saint-Maurice-la-Souterraine;;;1.442712;46.189086
+23219_5d6xby_00003;3;;La Cote;23300;23219;Saint-Maurice-la-Souterraine;;;1.431999;46.198757
+23219_0007_00004;4;;Rue du 19 Mars 1962;23300;23219;Saint-Maurice-la-Souterraine;;;1.432483;46.214347
+23219_0013_00012;12;;Rue du Bosquet;23300;23219;Saint-Maurice-la-Souterraine;;;1.43211;46.213012
+23219_0sb2p7_00014;14;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.456594;46.189955
+23219_0007_00001;1;;Rue du 19 Mars 1962;23300;23219;Saint-Maurice-la-Souterraine;;;1.432571;46.214365
+23219_tqlotf_00016;16;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.44298;46.19616
+23219_sdhne9_00003;3;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.388831;46.208874
+23219_sdhne9_00019;19;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.386972;46.204924
+23219_unryda_00027;27;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391008;46.215661
+23219_0027_00011;11;;Rue Eugène Mourioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.428819;46.213951
+23219_50itmq_00010;10;;Rissac;23300;23219;Saint-Maurice-la-Souterraine;;;1.409681;46.224436
+23219_tqlotf_00023;23;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.442968;46.195795
+23219_r5f8ez_00014;14;;Le Chaussat;23300;23219;Saint-Maurice-la-Souterraine;;;1.447146;46.221291
+23219_sdhne9_00023;23;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.387367;46.205593
+23219_90nslv_00005;5;;La Bauche;23300;23219;Saint-Maurice-la-Souterraine;;;1.450826;46.184513
+23219_0022_00112_bis;112;bis;Rue de la Croix le Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.393227;46.215905
+23219_90nslv_00004;4;;La Bauche;23300;23219;Saint-Maurice-la-Souterraine;;;1.450723;46.184876
+23219_b001_00015;15;;L'Age Troinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.43566;46.240574
+23219_b086_00029;29;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.418096;46.203814
+23219_17f4b2_00001;1;;la tuilerie;23300;23219;Saint-Maurice-la-Souterraine;;;1.40611;46.238303
+23219_nyuzlo_00133;133;;Rue des 4 Chemins;23300;23219;Saint-Maurice-la-Souterraine;;;1.391465;46.210477
+23219_0002_00052;52;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.423386;46.215375
+23219_3828zd_00005;5;;Vitrat;23300;23219;Saint-Maurice-la-Souterraine;;;1.398719;46.235726
+23219_unryda_00138;138;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391344;46.217156
+23219_unryda_00142;142;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391445;46.217423
+23219_b080_00011;11;;la Vallade de Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.423875;46.185179
+23219_s07jrr_00005;5;;Puyresson;23300;23219;Saint-Maurice-la-Souterraine;;;1.447794;46.192221
+23219_b086_00012;12;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.418283;46.204935
+23219_mfze2w_00004;4;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.44507;46.231405
+23219_6edzs1_00014_bis;14;bis;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.42722;46.183011
+23219_0sb2p7_00018_bis;18;bis;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.456104;46.188571
+23219_0030_00001;1;;Impasse des Ribieres;23300;23219;Saint-Maurice-la-Souterraine;;;1.422928;46.214176
+23219_b6ufo0_00007;7;;la Faye;23300;23219;Saint-Maurice-la-Souterraine;;;1.442481;46.186692
+23219_sffs8e_00006;6;;Le Cerisier;23300;23219;Saint-Maurice-la-Souterraine;;;1.450642;46.204405
+23219_3828zd_00010;10;;Vitrat;23300;23219;Saint-Maurice-la-Souterraine;;;1.399123;46.235621
+23219_mfze2w_00016;16;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.449167;46.233893
+23219_r5f8ez_00004;4;;Le Chaussat;23300;23219;Saint-Maurice-la-Souterraine;;;1.448072;46.221777
+23219_6edzs1_00008;8;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.427009;46.183432
+23219_unryda_00140;140;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391391;46.217271
+23219_0014_00001;1;;Chemin du Coudert;23300;23219;Saint-Maurice-la-Souterraine;;;1.432914;46.212588
+23219_h7m1de_00002;2;;Bois;23300;23219;Saint-Maurice-la-Souterraine;;;1.437874;46.206152
+23219_hcu3xw_00006;6;;Fressanges;23300;23219;Saint-Maurice-la-Souterraine;;;1.446687;46.191755
+23219_b080_00002;2;;la Vallade de Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.422667;46.185223
+23219_0002_00011;11;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.430842;46.214704
+23219_unryda_00017;17;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.39084;46.214297
+23219_61b2dq_00020;20;;rue des aubepines;23300;23219;Saint-Maurice-la-Souterraine;;;1.42815;46.213861
+23219_r5f8ez_00010;10;;Le Chaussat;23300;23219;Saint-Maurice-la-Souterraine;;;1.447446;46.222513
+23219_6edzs1_00011;11;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.426107;46.183332
+23219_0007_00009;9;;Rue du 19 Mars 1962;23300;23219;Saint-Maurice-la-Souterraine;;;1.43292;46.213667
+23219_zm6glh_00002;2;;Les Combes;23300;23219;Saint-Maurice-la-Souterraine;;;1.436031;46.180971
+23219_b055_00002;2;;Moulin des Fougeres;23300;23219;Saint-Maurice-la-Souterraine;;;1.466966;46.197077
+23219_tqlotf_00019;19;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.443835;46.196795
+23219_unryda_00043;43;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391216;46.216938
+23219_0029_00004;4;;Rue des Gorces;23300;23219;Saint-Maurice-la-Souterraine;;;1.426529;46.212925
+23219_0010_00005;5;;Place du Vieux Puits;23300;23219;Saint-Maurice-la-Souterraine;;;1.431353;46.213978
+23219_b041_00004;4;;La Grande Vallade;23300;23219;Saint-Maurice-la-Souterraine;;;1.410252;46.2165
+23219_unryda_00020;20;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.390922;46.213275
+23219_0026_00004;4;;Route du Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.438328;46.212197
+23219_0sb2p7_00021;21;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.456969;46.190693
+23219_kcijj9_00017;17;;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.436513;46.240466
+23219_0016_00009;9;;Rue des Ribières;23300;23219;Saint-Maurice-la-Souterraine;;;1.428795;46.212845
+23219_fv5803_00007;7;;Le Brajaud;23300;23219;Saint-Maurice-la-Souterraine;;;1.462374;46.213744
+23219_b086_00037;37;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.418124;46.203394
+23219_lkkic7_00005;5;;Les Tilleuls;23300;23219;Saint-Maurice-la-Souterraine;;;1.453398;46.204848
+23219_61b2dq_00011;11;;rue des aubepines;23300;23219;Saint-Maurice-la-Souterraine;;;1.428221;46.213918
+23219_r6tpma_00002;2;;La Porte;23300;23219;Saint-Maurice-la-Souterraine;;;1.466787;46.222098
+23219_26qw9a_00007;7;;Grand Bessac;23300;23219;Saint-Maurice-la-Souterraine;;;1.422611;46.240065
+23219_b001_00001;1;;L'Age Troinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.437498;46.238404
+23219_61b2dq_00001;1;;rue des aubepines;23300;23219;Saint-Maurice-la-Souterraine;;;1.427558;46.214915
+23219_ssux3o_00010;10;;La Jarrige;23300;23219;Saint-Maurice-la-Souterraine;;;1.43028;46.226422
+23219_0004_00001;1;;Rue des Commerces;23300;23219;Saint-Maurice-la-Souterraine;;;1.429229;46.215501
+23219_sffs8e_00009;9;;Le Cerisier;23300;23219;Saint-Maurice-la-Souterraine;;;1.451565;46.204367
+23219_0022_00100_bis;100;bis;Rue de la Croix le Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.391519;46.216016
+23219_sffs8e_00010;10;;Le Cerisier;23300;23219;Saint-Maurice-la-Souterraine;;;1.451737;46.204246
+23219_0015_00004;4;;Rue de la Terrade;23300;23219;Saint-Maurice-la-Souterraine;;;1.429167;46.212252
+23219_0027_00003;3;;Rue Eugène Mourioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.428379;46.213326
+23219_sdhne9_00002;2;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.389127;46.20927
+23219_3828zd_00009;9;;Vitrat;23300;23219;Saint-Maurice-la-Souterraine;;;1.398806;46.236038
+23219_unryda_00015;15;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.39079;46.214107
+23219_0025_00012;12;;Rue des Quatre Chemins Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.392376;46.209631
+23219_p2u7fk_00009;9;;Le Mont;23300;23219;Saint-Maurice-la-Souterraine;;;1.404253;46.194345
+23219_0018_00016;16;;Rue des Sansonnets;23300;23219;Saint-Maurice-la-Souterraine;;;1.429966;46.212992
+23219_hcu3xw_00002;2;;Fressanges;23300;23219;Saint-Maurice-la-Souterraine;;;1.446097;46.191196
+23219_61b2dq_00004;4;;rue des aubepines;23300;23219;Saint-Maurice-la-Souterraine;;;1.427353;46.214697
+23219_0sb2p7_00009_bis;9;bis;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.457838;46.192505
+23219_b086_00018;18;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.418188;46.204946
+23219_e23dk6_00013;13;;La Saumagne;23300;23219;Saint-Maurice-la-Souterraine;;;1.40677;46.18965
+23219_0002_00027;27;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.42889;46.214878
+23219_tqlotf_00014;14;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.443232;46.196398
+23219_0016_00017;17;;Rue des Ribières;23300;23219;Saint-Maurice-la-Souterraine;;;1.425439;46.212928
+23219_unryda_00025;25;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391028;46.215561
+23219_b001_00011;11;;L'Age Troinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.437507;46.240715
+23219_tqlotf_00006;6;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.444373;46.197484
+23219_3828zd_00006;6;;Vitrat;23300;23219;Saint-Maurice-la-Souterraine;;;1.398814;46.235748
+23219_b086_00056;56;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.419426;46.203006
+23219_0010_00004;4;;Place du Vieux Puits;23300;23219;Saint-Maurice-la-Souterraine;;;1.431329;46.213853
+23219_unryda_00090;90;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391687;46.21512
+23219_0014_00004;4;;Chemin du Coudert;23300;23219;Saint-Maurice-la-Souterraine;;;1.432373;46.212187
+23219_0sb2p7_00003;3;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.458662;46.194146
+23219_0009_00005;5;;Place de la Mairie;23300;23219;Saint-Maurice-la-Souterraine;;;1.431051;46.214517
+23219_z21u0q_00005;5;;Le Puyrollet;23300;23219;Saint-Maurice-la-Souterraine;;;1.443431;46.225603
+23219_50itmq_00007;7;;Rissac;23300;23219;Saint-Maurice-la-Souterraine;;;1.409647;46.22391
+23219_0002_00039;39;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.42606;46.21507
+23219_b0twlr_00046;46;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.394885;46.214144
+23219_0sb2p7_00010;10;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.457362;46.191067
+23219_50itmq_00004;4;;Rissac;23300;23219;Saint-Maurice-la-Souterraine;;;1.409721;46.223406
+23219_0002_00054;54;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.422864;46.215373
+23219_r5f8ez_00001_bis;1;bis;Le Chaussat;23300;23219;Saint-Maurice-la-Souterraine;;;1.449951;46.220658
+23219_0014_00006;6;;Chemin du Coudert;23300;23219;Saint-Maurice-la-Souterraine;;;1.431428;46.211734
+23219_0027_00014;14;;Rue Eugène Mourioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.428781;46.214052
+23219_unryda_00009;9;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.390697;46.213115
+23219_cwgh58_00002;2;;les forges;23300;23219;Saint-Maurice-la-Souterraine;;;1.449084;46.209478
+23219_unryda_00022;22;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.39095;46.213566
+23219_61b2dq_00002;2;;rue des aubepines;23300;23219;Saint-Maurice-la-Souterraine;;;1.427353;46.214921
+23219_v71pj7_00087;87;;Rue du Pont;23300;23219;Saint-Maurice-la-Souterraine;;;1.389364;46.217163
+23219_b086_00020;20;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.416897;46.204864
+23219_0022_00114;114;;Rue de la Croix le Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.39215;46.215998
+23219_sdhne9_00010;10;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.387496;46.20618
+23219_0027_00004;4;;Rue Eugène Mourioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.428587;46.213306
+23219_0srnmi_00020;20;;Le Verger;23300;23219;Saint-Maurice-la-Souterraine;;;1.428951;46.199667
+23219_p2u7fk_00006;6;;Le Mont;23300;23219;Saint-Maurice-la-Souterraine;;;1.404367;46.194076
+23219_mfze2w_00005;5;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.445147;46.231757
+23219_b086_00016;16;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.418057;46.205209
+23219_0009_00001;1;;Place de la Mairie;23300;23219;Saint-Maurice-la-Souterraine;;;1.430907;46.214475
+23219_0002_00028;28;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.428591;46.215048
+23219_61b2dq_00003;3;;rue des aubepines;23300;23219;Saint-Maurice-la-Souterraine;;;1.427401;46.214627
+23219_0009_00003_b;3;b;Place de la Mairie;23300;23219;Saint-Maurice-la-Souterraine;;;1.431082;46.214204
+23219_mfze2w_00010_ter;10;ter;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.442085;46.231524
+23219_lkkic7_00002;2;;Les Tilleuls;23300;23219;Saint-Maurice-la-Souterraine;;;1.454079;46.204885
+23219_fv5803_00005;5;;Le Brajaud;23300;23219;Saint-Maurice-la-Souterraine;;;1.461891;46.212628
+23219_b001_00002;2;;L'Age Troinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.437609;46.24004
+23219_b0twlr_00070;70;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.391264;46.213868
+23219_ssux3o_00009;9;;La Jarrige;23300;23219;Saint-Maurice-la-Souterraine;;;1.429775;46.226049
+23219_0029_00008;8;;Rue des Gorces;23300;23219;Saint-Maurice-la-Souterraine;;;1.42666;46.213284
+23219_c5i04w_00008;8;;La Ramade;23300;23219;Saint-Maurice-la-Souterraine;;;1.423978;46.193398
+23219_0009_00002;2;;Place de la Mairie;23300;23219;Saint-Maurice-la-Souterraine;;;1.430872;46.214208
+23219_r5f8ez_00007;7;;Le Chaussat;23300;23219;Saint-Maurice-la-Souterraine;;;1.447642;46.222253
+23219_b094_00005;5;;Le Merle Blanc;23300;23219;Saint-Maurice-la-Souterraine;;;1.438125;46.236546
+23219_0004_00002;2;;Rue des Commerces;23300;23219;Saint-Maurice-la-Souterraine;;;1.429406;46.215558
+23219_sffs8e_00004;4;;Le Cerisier;23300;23219;Saint-Maurice-la-Souterraine;;;1.449902;46.204809
+23219_mfze2w_00014;14;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.447927;46.233623
+23219_c5i04w_00010;10;;La Ramade;23300;23219;Saint-Maurice-la-Souterraine;;;1.422561;46.192426
+23219_6edzs1_00004;4;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.427956;46.183307
+23219_0013_00002;2;;Rue du Bosquet;23300;23219;Saint-Maurice-la-Souterraine;;;1.431575;46.213659
+23219_6edzs1_00020;20;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.425725;46.183307
+23219_sdhne9_00008;8;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.387845;46.207046
+23219_fv5803_00001;1;;Le Brajaud;23300;23219;Saint-Maurice-la-Souterraine;;;1.460902;46.211737
+23219_sdhne9_00005;5;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.388406;46.208062
+23219_0002_00036;36;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.426504;46.215366
+23219_v71pj7_00077;77;;Rue du Pont;23300;23219;Saint-Maurice-la-Souterraine;;;1.389325;46.21677
+23219_0sb2p7_00038;38;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.460447;46.192846
+23219_b094_00004;4;;Le Merle Blanc;23300;23219;Saint-Maurice-la-Souterraine;;;1.437798;46.236519
+23219_0019_00001;1;;Rue du Marronnier;23300;23219;Saint-Maurice-la-Souterraine;;;1.429876;46.212664
+23219_0005_00004;4;;Chemin du Bois de la Cure;23300;23219;Saint-Maurice-la-Souterraine;;;1.425611;46.215898
+23219_0029_00001;1;;Rue des Gorces;23300;23219;Saint-Maurice-la-Souterraine;;;1.426055;46.213094
+23219_c5i04w_00007;7;;La Ramade;23300;23219;Saint-Maurice-la-Souterraine;;;1.423642;46.193455
+23219_sdhne9_00011;11;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.386807;46.204926
+23219_0016_00042;42;;Rue des Ribières;23300;23219;Saint-Maurice-la-Souterraine;;;1.423512;46.214508
+23219_b041_00002;2;;La Grande Vallade;23300;23219;Saint-Maurice-la-Souterraine;;;1.410414;46.215704
+23219_61b2dq_00012;12;;rue des aubepines;23300;23219;Saint-Maurice-la-Souterraine;;;1.42666;46.213562
+23219_6edzs1_00013;13;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.425978;46.183736
+23219_0sb2p7_00018_quater;18;quater;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.456165;46.188181
+23219_5wfbmx_00006;6;;Balenton;23300;23219;Saint-Maurice-la-Souterraine;;;1.44278;46.189782
+23219_r5f8ez_00018;18;;Le Chaussat;23300;23219;Saint-Maurice-la-Souterraine;;;1.448214;46.221105
+23219_26qw9a_00008;8;;Grand Bessac;23300;23219;Saint-Maurice-la-Souterraine;;;1.423081;46.241616
+23219_b001_00003;3;;L'Age Troinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.437938;46.240184
+23219_unryda_00124;124;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391468;46.216653
+23219_r5f8ez_00005;5;;Le Chaussat;23300;23219;Saint-Maurice-la-Souterraine;;;1.448144;46.221864
+23219_0025_00129;129;;Rue des Quatre Chemins Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.391636;46.210615
+23219_unryda_00121;121;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391266;46.217484
+23219_0002_00017;17;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.430339;46.214828
+23219_qqv3dm_00001;1;;Le Queroy;23300;23219;Saint-Maurice-la-Souterraine;;;1.445706;46.206943
+23219_0007_00014;14;;Rue du 19 Mars 1962;23300;23219;Saint-Maurice-la-Souterraine;;;1.432963;46.213521
+23219_50itmq_00015;15;;Rissac;23300;23219;Saint-Maurice-la-Souterraine;;;1.410159;46.225128
+23219_0srnmi_00012;12;;Le Verger;23300;23219;Saint-Maurice-la-Souterraine;;;1.428711;46.200639
+23219_sdhne9_00024;24;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.387824;46.206418
+23219_26qw9a_00003;3;;Grand Bessac;23300;23219;Saint-Maurice-la-Souterraine;;;1.424243;46.239042
+23219_6edzs1_00019;19;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.425572;46.183475
+23219_0sb2p7_00007;7;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.458437;46.19339
+23219_nyuzlo_00010;10;;Rue des 4 Chemins;23300;23219;Saint-Maurice-la-Souterraine;;;1.391433;46.210881
+23219_kcijj9_00002;2;;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.437627;46.2401
+23219_6edzs1_00012;12;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.425449;46.18394
+23219_v71pj7_00083;83;;Rue du Pont;23300;23219;Saint-Maurice-la-Souterraine;;;1.388679;46.217043
+23219_0018_00006;6;;Rue des Sansonnets;23300;23219;Saint-Maurice-la-Souterraine;;;1.430378;46.213886
+23219_unryda_00021;21;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.390786;46.21474
+23219_0005_00006;6;;Chemin du Bois de la Cure;23300;23219;Saint-Maurice-la-Souterraine;;;1.425853;46.216087
+23219_b080_00010;10;;la Vallade de Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.423553;46.184715
+23219_b001_00018;18;;L'Age Troinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.43465;46.240102
+23219_kcijj9_00007;7;;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.438704;46.240542
+23219_61b2dq_00018;18;;rue des aubepines;23300;23219;Saint-Maurice-la-Souterraine;;;1.427733;46.21382
+23219_sffs8e_00011;11;;Le Cerisier;23300;23219;Saint-Maurice-la-Souterraine;;;1.451944;46.204274
+23219_0025_00131;131;;Rue des Quatre Chemins Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.392215;46.209859
+23219_0013_00013;13;;Rue du Bosquet;23300;23219;Saint-Maurice-la-Souterraine;;;1.434523;46.212576
+23219_0022_00110;110;;Rue de la Croix le Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.393841;46.215826
+23219_b039_00009;9;;Grand Beissat;23300;23219;Saint-Maurice-la-Souterraine;;;1.423326;46.24169
+23219_lkkic7_00003;3;;Les Tilleuls;23300;23219;Saint-Maurice-la-Souterraine;;;1.453179;46.20459
+23219_26qw9a_00005;5;;Grand Bessac;23300;23219;Saint-Maurice-la-Souterraine;;;1.423662;46.239852
+23219_e23dk6_00024;24;;La Saumagne;23300;23219;Saint-Maurice-la-Souterraine;;;1.406292;46.188569
+23219_7522f8_00001;1;;la balatrade;23300;23219;Saint-Maurice-la-Souterraine;;;1.426088;46.219407
+23219_0sb2p7_00033;33;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.460806;46.192482
+23219_b001_00012;12;;L'Age Troinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.436736;46.241373
+23219_r5f8ez_00002;2;;Le Chaussat;23300;23219;Saint-Maurice-la-Souterraine;;;1.45737;46.220942
+23219_z21u0q_00003;3;;Le Puyrollet;23300;23219;Saint-Maurice-la-Souterraine;;;1.443724;46.221819
+23219_26qw9a_00001;1;;Grand Bessac;23300;23219;Saint-Maurice-la-Souterraine;;;1.425204;46.239608
+23219_26qw9a_00010;10;;Grand Bessac;23300;23219;Saint-Maurice-la-Souterraine;;;1.423514;46.241772
+23219_tqlotf_00007;7;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.445264;46.19816
+23219_b0twlr_00042;42;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.394278;46.214081
+23219_2t49xh_00001;1;;les bordes;23300;23219;Saint-Maurice-la-Souterraine;;;1.429419;46.227314
+23219_0sb2p7_00002_ter;2;ter;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.459454;46.19481
+23219_unryda_00007;7;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.39065;46.212842
+23219_b039_00003;3;;Grand Beissat;23300;23219;Saint-Maurice-la-Souterraine;;;1.424246;46.239022
+23219_b039_00004;4;;Grand Beissat;23300;23219;Saint-Maurice-la-Souterraine;;;1.424056;46.23987
+23219_0018_00011;11;;Rue des Sansonnets;23300;23219;Saint-Maurice-la-Souterraine;;;1.430278;46.213092
+23219_50itmq_00005;5;;Rissac;23300;23219;Saint-Maurice-la-Souterraine;;;1.409506;46.22363
+23219_tqlotf_00009;9;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.445691;46.198437
+23219_b080_00008;8;;la Vallade de Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.423232;46.184829
+23219_5wfbmx_00002;2;;Balenton;23300;23219;Saint-Maurice-la-Souterraine;;;1.443352;46.192322
+23219_b0twlr_00044;44;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.394516;46.214099
+23219_b0twlr_00034;34;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.393767;46.213941
+23219_mfze2w_00022;22;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.447481;46.233436
+23219_sdhne9_00017;17;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.386924;46.204609
+23219_s07jrr_00011;11;;Puyresson;23300;23219;Saint-Maurice-la-Souterraine;;;1.448873;46.192128
+23219_0016_00015;15;;Rue des Ribières;23300;23219;Saint-Maurice-la-Souterraine;;;1.426185;46.212626
+23219_b040_00006;6;;Le Grand Couret;23300;23219;Saint-Maurice-la-Souterraine;;;1.454484;46.2188
+23219_unryda_00148;148;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391444;46.217573
+23219_0006_00004;4;;Chemin des Landes;23300;23219;Saint-Maurice-la-Souterraine;;;1.420516;46.215864
+23219_sdhne9_00009;9;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.387734;46.206834
+23219_0015_00006_bis;6;bis;Rue de la Terrade;23300;23219;Saint-Maurice-la-Souterraine;;;1.428816;46.21197
+23219_tqlotf_00015;15;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.444128;46.197158
+23219_tqlotf_00012;12;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.443545;46.196734
+23219_0sb2p7_00016;16;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.456269;46.189563
+23219_b0twlr_00056;56;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.393645;46.214232
+23219_0srnmi_00010;10;;Le Verger;23300;23219;Saint-Maurice-la-Souterraine;;;1.428635;46.200784
+23219_6edzs1_00002;2;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.429042;46.183358
+23219_b039_00002;2;;Grand Beissat;23300;23219;Saint-Maurice-la-Souterraine;;;1.424616;46.239496
+23219_0018_00008;8;;Rue des Sansonnets;23300;23219;Saint-Maurice-la-Souterraine;;;1.430319;46.213895
+23219_0002_00025;25;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.429071;46.21488
+23219_5d6xby_00001;1;;La Cote;23300;23219;Saint-Maurice-la-Souterraine;;;1.434102;46.199287
+23219_26qw9a_00006;6;;Grand Bessac;23300;23219;Saint-Maurice-la-Souterraine;;;1.422574;46.239638
+23219_3828zd_00003;3;;Vitrat;23300;23219;Saint-Maurice-la-Souterraine;;;1.397842;46.235355
+23219_e23dk6_00001;1;;La Saumagne;23300;23219;Saint-Maurice-la-Souterraine;;;1.406987;46.191195
+23219_0sb2p7_00017;17;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.457295;46.191319
+23219_0sb2p7_00036;36;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.460191;46.192998
+23219_unryda_00004_b;4;b;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.390791;46.212392
+23219_0027_00006;6;;Rue Eugène Mourioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.429197;46.213472
+23219_0sb2p7_00024;24;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.459186;46.193475
+23219_0013_00008;8;;Rue du Bosquet;23300;23219;Saint-Maurice-la-Souterraine;;;1.43198;46.213114
+23219_b0twlr_00030;30;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.392609;46.213905
+23219_cm1orj_00005;5;;Gacheny;23300;23219;Saint-Maurice-la-Souterraine;;;1.412386;46.19591
+23219_61b2dq_00016;16;;rue des aubepines;23300;23219;Saint-Maurice-la-Souterraine;;;1.427286;46.213818
+23219_b001_00014;14;;L'Age Troinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.43593;46.240654
+23219_6edzs1_00016;16;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.427909;46.182972
+23219_0015_00006;6;;Rue de la Terrade;23300;23219;Saint-Maurice-la-Souterraine;;;1.428938;46.21212
+23219_jc728x_00001;1;;La Bachellerie;23300;23219;Saint-Maurice-la-Souterraine;;;1.408068;46.205446
+23219_zm6glh_00001;1;;Les Combes;23300;23219;Saint-Maurice-la-Souterraine;;;1.436294;46.180988
+23219_0sb2p7_00004;4;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.458275;46.19285
+23219_p2u7fk_00003;3;;Le Mont;23300;23219;Saint-Maurice-la-Souterraine;;;1.404252;46.194067
+23219_0sb2p7_00026;26;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.45931;46.193413
+23219_r5f8ez_00003_bis;3;bis;Le Chaussat;23300;23219;Saint-Maurice-la-Souterraine;;;1.448813;46.221178
+23219_sdhne9_00016;16;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.386769;46.20428
+23219_e23dk6_00015;15;;La Saumagne;23300;23219;Saint-Maurice-la-Souterraine;;;1.406798;46.189423
+23219_0007_00011;11;;Rue du 19 Mars 1962;23300;23219;Saint-Maurice-la-Souterraine;;;1.433115;46.213561
+23219_unryda_00120;120;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391298;46.216414
+23219_0011_00001;1;;Rue des Sabots;23300;23219;Saint-Maurice-la-Souterraine;;;1.430707;46.213748
+23219_sdhne9_00026;26;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.388529;46.207757
+23219_b086_00048;48;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.418373;46.203225
+23219_50itmq_00003;3;;Rissac;23300;23219;Saint-Maurice-la-Souterraine;;;1.410485;46.223014
+23219_6edzs1_00007;7;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.427294;46.183368
+23219_0002_00046;46;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.424502;46.215276
+23219_0007_00012;12;;Rue du 19 Mars 1962;23300;23219;Saint-Maurice-la-Souterraine;;;1.432825;46.21364
+23219_0sb2p7_00007_bis;7;bis;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.458473;46.193275
+23219_mfze2w_00001;1;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.444833;46.23058
+23219_0015_00006;6;;Rue de la Terrade;23300;23219;Saint-Maurice-la-Souterraine;;;1.428734;46.211869
+23219_3828zd_00014;14;;Vitrat;23300;23219;Saint-Maurice-la-Souterraine;;;1.405077;46.23613
+23219_e23dk6_00017;17;;La Saumagne;23300;23219;Saint-Maurice-la-Souterraine;;;1.406667;46.189032
+23219_nyuzlo_00131;131;;Rue des 4 Chemins;23300;23219;Saint-Maurice-la-Souterraine;;;1.392204;46.209876
+23219_s07jrr_00001;1;;Puyresson;23300;23219;Saint-Maurice-la-Souterraine;;;1.447966;46.192298
+23219_5wfbmx_00001;1;;Balenton;23300;23219;Saint-Maurice-la-Souterraine;;;1.441408;46.190754
+23219_v71pj7_00113;113;;Rue du Pont;23300;23219;Saint-Maurice-la-Souterraine;;;1.39071;46.217103
+23219_b0twlr_00050;50;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.395584;46.214153
+23219_lkkic7_00004;4;;Les Tilleuls;23300;23219;Saint-Maurice-la-Souterraine;;;1.453828;46.204562
+23219_0srnmi_00003;3;;Le Verger;23300;23219;Saint-Maurice-la-Souterraine;;;1.427951;46.201062
+23219_sffs8e_00003;3;;Le Cerisier;23300;23219;Saint-Maurice-la-Souterraine;;;1.449895;46.205138
+23219_unryda_00132;132;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391324;46.216973
+23219_b041_00005;5;;La Grande Vallade;23300;23219;Saint-Maurice-la-Souterraine;;;1.410333;46.216217
+23219_0016_00007;7;;Rue des Ribières;23300;23219;Saint-Maurice-la-Souterraine;;;1.428281;46.212835
+23219_0sb2p7_00031;31;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.45996;46.192909
+23219_lkkic7_00007;7;;Les Tilleuls;23300;23219;Saint-Maurice-la-Souterraine;;;1.453548;46.203887
+23219_veenmn_00069;69;;Rue du Bas Village;23300;23219;Saint-Maurice-la-Souterraine;;;1.390659;46.216606
+23219_0019_00003;3;;Rue du Marronnier;23300;23219;Saint-Maurice-la-Souterraine;;;1.42988;46.212434
+23219_b0twlr_00064;64;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.391956;46.213945
+23219_0027_00005;5;;Rue Eugène Mourioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.428476;46.213604
+23219_fv5803_00009;9;;Le Brajaud;23300;23219;Saint-Maurice-la-Souterraine;;;1.461626;46.214176
+23219_t6blzr_00001;1;;La tuilerie;23300;23219;Saint-Maurice-la-Souterraine;;;1.406343;46.237915
+23219_0016_00003;3;;Rue des Ribières;23300;23219;Saint-Maurice-la-Souterraine;;;1.42809;46.212818
+23219_0sb2p7_00012;12;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.457004;46.190487
+23219_z21u0q_00002;2;;Le Puyrollet;23300;23219;Saint-Maurice-la-Souterraine;;;1.44384;46.221746
+23219_tqlotf_00010;10;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.443839;46.19701
+23219_cm1orj_00026;26;;Gacheny;23300;23219;Saint-Maurice-la-Souterraine;;;1.407479;46.195467
+23219_50itmq_00012;12;;Rissac;23300;23219;Saint-Maurice-la-Souterraine;;;1.409987;46.224925
+23219_sdhne9_00025;25;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.38802;46.206677
+23219_0015_00003;3;;Rue de la Terrade;23300;23219;Saint-Maurice-la-Souterraine;;;1.4292;46.212185
+23219_b039_00010;10;;Grand Beissat;23300;23219;Saint-Maurice-la-Souterraine;;;1.423379;46.241824
+23219_61b2dq_00008;8;;rue des aubepines;23300;23219;Saint-Maurice-la-Souterraine;;;1.427192;46.214135
+23219_unryda_00128;128;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391469;46.21683
+23219_0srnmi_00016;16;;Le Verger;23300;23219;Saint-Maurice-la-Souterraine;;;1.42906;46.200375
+23219_tqlotf_00004;4;;Le Bost;23300;23219;Saint-Maurice-la-Souterraine;;;1.444832;46.197936
+23219_pg4isv_00001;1;;La Maisonnette;23300;23219;Saint-Maurice-la-Souterraine;;;1.448326;46.180338
+23219_0007_00010;10;;Rue du 19 Mars 1962;23300;23219;Saint-Maurice-la-Souterraine;;;1.432615;46.213826
+23219_0005_00002;2;;Chemin du Bois de la Cure;23300;23219;Saint-Maurice-la-Souterraine;;;1.425229;46.215491
+23219_fv5803_00004;4;;Le Brajaud;23300;23219;Saint-Maurice-la-Souterraine;;;1.46151;46.216061
+23219_b094_00002;2;;Le Merle Blanc;23300;23219;Saint-Maurice-la-Souterraine;;;1.437319;46.236786
+23219_b094_00003;3;;Le Merle Blanc;23300;23219;Saint-Maurice-la-Souterraine;;;1.437143;46.23705
+23219_0018_00012;12;;Rue des Sansonnets;23300;23219;Saint-Maurice-la-Souterraine;;;1.430449;46.213506
+23219_26qw9a_00002;2;;Grand Bessac;23300;23219;Saint-Maurice-la-Souterraine;;;1.424638;46.239442
+23219_0002_00021;21;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.429738;46.214828
+23219_0002_00005;5;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.431564;46.214819
+23219_0013_00007;7;;Rue du Bosquet;23300;23219;Saint-Maurice-la-Souterraine;;;1.432063;46.213301
+23219_0002_00014;14;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.429763;46.214978
+23219_sdhne9_00018;18;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.392999;46.202727
+23219_3828zd_00001;1;;Vitrat;23300;23219;Saint-Maurice-la-Souterraine;;;1.398089;46.230908
+23219_b058_00003;3;;Le Petit Beissat;23300;23219;Saint-Maurice-la-Souterraine;;;1.418677;46.227066
+23219_lkkic7_00001;1;;Les Tilleuls;23300;23219;Saint-Maurice-la-Souterraine;;;1.452872;46.204256
+23219_ssux3o_00003;3;;La Jarrige;23300;23219;Saint-Maurice-la-Souterraine;;;1.430299;46.223647
+23219_6edzs1_00014;14;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.42693;46.183282
+23219_0002_00053;53;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.422337;46.215246
+23219_0002_00020;20;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.429343;46.214994
+23219_b001_00008;8;;L'Age Troinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.438511;46.240569
+23219_90nslv_00003;3;;La Bauche;23300;23219;Saint-Maurice-la-Souterraine;;;1.451558;46.184554
+23219_0027_00009;9;;Rue Eugène Mourioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.429248;46.213792
+23219_0002_00044;44;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.425141;46.215229
+23219_50itmq_00008;8;;Rissac;23300;23219;Saint-Maurice-la-Souterraine;;;1.409387;46.224175
+23219_sdhne9_00024_bis;24;bis;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.388854;46.206041
+23219_kcijj9_00015;15;;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.435639;46.240591
+23219_0015_00008;8;;Rue de la Terrade;23300;23219;Saint-Maurice-la-Souterraine;;;1.428616;46.211604
+23219_3828zd_00004_bis;4;bis;Vitrat;23300;23219;Saint-Maurice-la-Souterraine;;;1.398625;46.235687
+23219_v71pj7_00091;91;;Rue du Pont;23300;23219;Saint-Maurice-la-Souterraine;;;1.38961;46.217291
+23219_9tl79l_00002;2;;Lascoux;23300;23219;Saint-Maurice-la-Souterraine;;;1.458439;46.201334
+23219_r5f8ez_00011;11;;Le Chaussat;23300;23219;Saint-Maurice-la-Souterraine;;;1.448007;46.222037
+23219_unryda_00019;19;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.390806;46.214533
+23219_50itmq_00017;17;;Rissac;23300;23219;Saint-Maurice-la-Souterraine;;;1.409886;46.225055
+23219_0sb2p7_00023;23;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.458991;46.1933
+23219_unryda_00082;82;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391152;46.214876
+23219_e23dk6_00011;11;;La Saumagne;23300;23219;Saint-Maurice-la-Souterraine;;;1.406616;46.18981
+23219_26qw9a_00013;13;;Grand Bessac;23300;23219;Saint-Maurice-la-Souterraine;;;1.419309;46.239459
+23219_0sb2p7_00006;6;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.457967;46.192448
+23219_s07jrr_00004;4;;Puyresson;23300;23219;Saint-Maurice-la-Souterraine;;;1.447747;46.192462
+23219_0009_00004;4;;Place de la Mairie;23300;23219;Saint-Maurice-la-Souterraine;;;1.431245;46.21434
+23219_0sb2p7_00005;5;;Le Pommier;23300;23219;Saint-Maurice-la-Souterraine;;;1.458258;46.19371
+23219_90nslv_00008;8;;La Bauche;23300;23219;Saint-Maurice-la-Souterraine;;;1.451192;46.184022
+23219_5wfbmx_00005;5;;Balenton;23300;23219;Saint-Maurice-la-Souterraine;;;1.441053;46.190869
+23219_0022_00106;106;;Rue de la Croix le Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.394886;46.215302
+23219_0007_00007;7;;Rue du 19 Mars 1962;23300;23219;Saint-Maurice-la-Souterraine;;;1.432811;46.213802
+23219_b0twlr_00036;36;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.393929;46.214018
+23219_9tl79l_00004;4;;Lascoux;23300;23219;Saint-Maurice-la-Souterraine;;;1.458568;46.201515
+23219_e23dk6_00056;56;;La Saumagne;23300;23219;Saint-Maurice-la-Souterraine;;;1.406997;46.189069
+23219_0022_00102;102;;Rue de la Croix le Dognon;23300;23219;Saint-Maurice-la-Souterraine;;;1.393037;46.215844
+23219_b086_00054;54;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.41884;46.203083
+23219_0027_00007;7;;Rue Eugène Mourioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.428553;46.21361
+23219_0srnmi_00007;7;;Le Verger;23300;23219;Saint-Maurice-la-Souterraine;;;1.428227;46.200878
+23219_6edzs1_00015;15;;Bordessoule;23300;23219;Saint-Maurice-la-Souterraine;;;1.427474;46.182982
+23219_b086_00031;31;;Couret Farioux;23300;23219;Saint-Maurice-la-Souterraine;;;1.418072;46.203756
+23219_0012_00004;4;;Impasse des Lilas;23300;23219;Saint-Maurice-la-Souterraine;;;1.431299;46.21366
+23219_26qw9a_00011;11;;Grand Bessac;23300;23219;Saint-Maurice-la-Souterraine;;;1.423395;46.241887
+23219_h7m1de_00004;4;;Bois;23300;23219;Saint-Maurice-la-Souterraine;;;1.437812;46.206067
+23219_sdhne9_00004;4;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.388599;46.208553
+23219_0017_00001;1;;Rue des Hortensias;23300;23219;Saint-Maurice-la-Souterraine;;;1.429438;46.212308
+23219_ssux3o_00011;11;;La Jarrige;23300;23219;Saint-Maurice-la-Souterraine;;;1.429826;46.226373
+23219_kcijj9_00009;9;;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.438443;46.240626
+23219_cwgh58_00001;1;;les forges;23300;23219;Saint-Maurice-la-Souterraine;;;1.448465;46.21047
+23219_unryda_00037;37;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391145;46.216494
+23219_mfze2w_00008;8;;Lerchy;23300;23219;Saint-Maurice-la-Souterraine;;;1.442821;46.231512
+23219_unryda_00125;125;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391293;46.217938
+23219_0008_00008;8;;Rue de l'Ancienne Poste;23300;23219;Saint-Maurice-la-Souterraine;;;1.431366;46.214723
+23219_sffs8e_00002;2;;Le Cerisier;23300;23219;Saint-Maurice-la-Souterraine;;;1.44968;46.204873
+23219_0002_00026;26;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.428413;46.215069
+23219_lkkic7_00006;6;;Les Tilleuls;23300;23219;Saint-Maurice-la-Souterraine;;;1.452843;46.204112
+23219_z21u0q_00011;11;;Le Puyrollet;23300;23219;Saint-Maurice-la-Souterraine;;;1.443907;46.221627
+23219_0018_00002;2;;Rue des Sansonnets;23300;23219;Saint-Maurice-la-Souterraine;;;1.430543;46.213854
+23219_0005_00008;8;;Chemin du Bois de la Cure;23300;23219;Saint-Maurice-la-Souterraine;;;1.425927;46.216189
+23219_unryda_00029;29;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391026;46.215858
+23219_0002_00015;15;;Grand'Rue;23300;23219;Saint-Maurice-la-Souterraine;;;1.430521;46.214787
+23219_kcijj9_00010;10;;Lagetroinet;23300;23219;Saint-Maurice-la-Souterraine;;;1.438282;46.240811
+23219_b0twlr_00026;26;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.391839;46.213831
+23219_r5f8ez_00016;16;;Le Chaussat;23300;23219;Saint-Maurice-la-Souterraine;;;1.447323;46.220966
+23219_b040_00002;2;;Le Grand Couret;23300;23219;Saint-Maurice-la-Souterraine;;;1.453549;46.218456
+23219_unryda_00045;45;;Rue Principale;23300;23219;Saint-Maurice-la-Souterraine;;;1.391206;46.216773
+23219_b040_00001;1;;Le Grand Couret;23300;23219;Saint-Maurice-la-Souterraine;;;1.456839;46.216675
+23219_50itmq_00013;13;;Rissac;23300;23219;Saint-Maurice-la-Souterraine;;;1.409214;46.225438
+23219_b0twlr_00066;66;;rue de la chapelle;23300;23219;Saint-Maurice-la-Souterraine;;;1.391623;46.213905
+23219_nyuzlo_00012;12;;Rue des 4 Chemins;23300;23219;Saint-Maurice-la-Souterraine;;;1.392389;46.209608
+23219_0013_00011;11;;Rue du Bosquet;23300;23219;Saint-Maurice-la-Souterraine;;;1.434059;46.212798
+23219_sdhne9_00021;21;;La Croisiere;23300;23219;Saint-Maurice-la-Souterraine;;;1.387266;46.205405

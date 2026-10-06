@@ -1,0 +1,631 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+60256_0010_00022;22;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003595;49.279287
+60256_0010_00058;58;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002355;49.276621
+60256_0010_00017_c;17;c;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.00394;49.279151
+60256_0041_00002;2;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002701;49.281279
+60256_0041_00010;10;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002033;49.281835
+60256_0041_00014;14;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001784;49.281999
+60256_0041_00035;35;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.999247;49.287972
+60256_2qq6db_00031;31;;Domaine de la Muette;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.012305;49.304991
+60256_0010_00002;2;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003691;49.280866
+60256_0010_00006;6;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00362;49.280589
+60256_0010_00010;10;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003639;49.28025
+60256_0010_00014;14;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003639;49.279949
+60256_0010_00018;18;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003603;49.279595
+60256_0010_00034;34;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00314;49.278483
+60256_0010_00038;38;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002974;49.278098
+60256_0010_00052;52;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002566;49.276897
+60256_0010_00031_bis;31;bis;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003088;49.278034
+60256_0010_00015_bis;15;bis;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.003646;49.27916
+60256_0010_00018_ter;18;ter;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003557;49.279281
+60256_0010_00008_b;8;b;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003652;49.280473
+60256_0010_00027_bis;27;bis;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003261;49.278454
+60256_0010_00008_c;8;c;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.003652;49.280473
+60256_0041_00018;18;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001097;49.282283
+60256_0041_00022;22;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.000277;49.282672
+60256_0041_00026;26;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.999195;49.283215
+60256_0041_00054;54;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.9992;49.286408
+60256_0052_00203;203;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.026287;49.295174
+60256_0052_00425;425;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.025389;49.293286
+60256_0052_00864;864;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.022178;49.289956
+60256_0073_00009;9;;Rue du Bois du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959318;49.287701
+60256_0018_00460;460;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.01374;49.301215
+60256_0018_00664;664;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.008464;49.29984
+60256_0018_00790;790;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00748;49.299529
+60256_0062_00005;5;;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962039;49.286607
+60256_0064_00007;7;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960708;49.287873
+60256_0064_00019;19;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958433;49.288545
+60256_0071_00007;7;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962542;49.289379
+60256_0071_00023;23;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961338;49.29042
+60256_0071_00027;27;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960966;49.290576
+60256_0071_00031;31;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960418;49.290804
+60256_0071_00037;37;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959653;49.291223
+60256_0072_00004;4;;Rue du Thel Vexin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962049;49.291119
+60256_0072_00008_bis;8;bis;Rue du Thel Vexin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959949;49.290265
+60256_0020_00005;5;;Impasse des Jardins;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00114;49.280351
+60256_0020_00009;9;;Impasse des Jardins;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001145;49.279991
+60256_0061_00003;3;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.965175;49.285946
+60256_0061_00007;7;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.96795;49.282874
+60256_0061_00018;18;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.96326;49.287477
+60256_0061_00026;26;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.964051;49.290466
+60256_0061_00028;28;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.964107;49.290672
+60256_0061_00032;32;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.964407;49.291713
+60256_0061_00022_quater;22;quater;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;;1.964551;49.288269
+60256_0074_00019;19;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958527;49.289419
+60256_0030_00006;6;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003781;49.281724
+60256_0030_00011;11;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003769;49.28104
+60256_0030_00015;15;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002886;49.283319
+60256_0030_00018;18;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002295;49.285692
+60256_0030_00020;20;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001365;49.289249
+60256_0069_00002;2;;Petite Rue;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.957487;49.292345
+60256_0069_00009;9;;Petite Rue;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.956768;49.292193
+60256_0050_00001;1;;Rue du Muguet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00267;49.278744
+60256_0013_00001;1;;rue de la bergerie;60240;60256;Montchevreuil;Bachivillers;;1.958966;49.289905
+60256_f3b1hw_00022_a;22;a;La Muette;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.010509;49.308187
+60256_0041_00042;42;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;1.99883;49.2851
+60256_0041_00044;44;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;1.998853;49.285352
+60256_0041_00050;50;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.999045;49.286068
+60256_0041_00058;58;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.999326;49.286781
+60256_0041_00005_b;5;b;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001238;49.282153
+60256_0052_00551;551;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.024485;49.292302
+60256_0052_00582;582;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.024148;49.292118
+60256_0052_00768;768;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.022833;49.290753
+60256_0066_00004;4;;Rue Froide Cuisse;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.964878;49.291591
+60256_0073_00007;7;;Rue du Bois du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960021;49.287743
+60256_0073_00011;11;;Rue du Bois du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958704;49.287579
+60256_0018_00407;407;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.014452;49.301087
+60256_0018_00640;640;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.011114;49.300412
+60256_0062_00001;1;;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962505;49.286992
+60256_0071_00019;19;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.96168;49.290285
+60256_0071_00008_bis;8;bis;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961225;49.291681
+60256_0071_00037_b;37;b;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959491;49.291367
+60256_0072_00001;1;;Rue du Thel Vexin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962964;49.291282
+60256_0061_00015;15;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963624;49.287097
+60256_0061_00020;20;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963186;49.287655
+60256_0061_00017_bis;17;bis;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963483;49.287183
+60256_0061_00029_bis;29;bis;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963886;49.290322
+60256_0074_00008;8;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959778;49.289056
+60256_0030_00007;7;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003728;49.281475
+60256_0030_00001_bis;1;bis;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.003769;49.28104
+60256_0069_00001;1;;Petite Rue;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958601;49.292281
+60256_w8mtzb_00229;229;;Fresneaux;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002877;49.280272
+60256_ka8bb7_00540;540;;Ferme des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.015446;49.281806
+60256_0010_00047;47;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.00256;49.276948
+60256_0010_00017_q;17;q;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.004039;49.279144
+60256_0041_00031;31;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;1.998915;49.288815
+60256_0041_00040;40;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;1.998828;49.284848
+60256_0041_00046;46;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.99888;49.285693
+60256_0041_00040_bis;40;bis;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;1.998829;49.284974
+60256_0052_00511;511;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.024786;49.292656
+60256_0052_00694;694;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.023174;49.291127
+60256_0052_00924;924;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.022047;49.289449
+60256_0066_00001;1;;Rue Froide Cuisse;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.964553;49.291002
+60256_0066_00008;8;;Rue Froide Cuisse;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.964835;49.291247
+60256_0073_00001;1;;Rue du Bois du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958469;49.287446
+60256_0073_00005;5;;Rue du Bois du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959506;49.287649
+60256_0018_00070;70;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.018979;49.301575
+60256_0018_00140;140;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.019232;49.301594
+60256_0018_00371;371;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.014772;49.301032
+60256_0018_00600;600;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.011868;49.300631
+60256_0018_00734;734;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00748;49.299529
+60256_0018_00755;755;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.021553;49.300605
+60256_0062_00009;9;;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961708;49.286212
+60256_0062_00011;11;;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961515;49.285957
+60256_0062_00015;15;;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961319;49.285643
+60256_0062_00006_bis;6;bis;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961631;49.286289
+60256_0071_00003;3;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962545;49.28906
+60256_0071_00045;45;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958781;49.292845
+60256_0071_00061;61;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958141;49.294822
+60256_0071_00037_t;37;t;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959459;49.291404
+60256_0020_00001;1;;Impasse des Jardins;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001175;49.280688
+60256_0061_00024;24;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963887;49.289871
+60256_0061_00038;38;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.965721;49.292797
+60256_0061_00027_bis;27;bis;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963778;49.289924
+60256_0074_00012;12;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959089;49.289196
+60256_0074_00016;16;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959945;49.288091
+60256_0030_00003;3;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003771;49.281182
+60256_0030_00014;14;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003379;49.282591
+60256_0030_00028;28;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001213;49.290087
+60256_0069_00004;4;;Petite Rue;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.957188;49.292316
+60256_0069_00006;6;;Petite Rue;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.956956;49.292293
+60256_w8mtzb_00134;134;;Fresneaux;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002982;49.280231
+60256_ka8bb7_00001;1;;Ferme des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.015446;49.281806
+60256_u1wrcn_00120;120;;Le Village;60240;60256;Montchevreuil;Bachivillers;;1.965508;49.29223
+60256_0010_00026;26;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00341;49.278987
+60256_0010_00030;30;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00323;49.278732
+60256_0010_00043;43;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002836;49.277293
+60256_0010_00062;62;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001974;49.276303
+60256_0010_00066;66;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002024;49.276617
+60256_0010_00452;452;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001827;49.276584
+60256_0041_00006;6;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002366;49.281673
+60256_0041_00038;38;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.998809;49.284425
+60256_0041_00001_bis;1;bis;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002658;49.281015
+60256_0041_00007_ter;7;ter;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.000783;49.282374
+60256_0052_00037;37;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.026739;49.296506
+60256_0052_00127;127;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.026528;49.295887
+60256_0052_00285;285;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.025851;49.294485
+60256_0052_00970;970;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.021892;49.2891
+60256_0073_00003;3;;Rue du Bois du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958971;49.287548
+60256_0018_00002;2;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.017824;49.301486
+60256_0018_00005;5;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.019831;49.301493
+60256_0018_00096;96;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.018641;49.301547
+60256_0018_00550;550;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.012456;49.300795
+60256_0018_00717;717;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.010607;49.300193
+60256_0062_00003;3;;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962248;49.286783
+60256_0062_00007;7;;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961839;49.286369
+60256_0062_00013;13;;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961488;49.285913
+60256_0064_00003;3;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;;1.962187;49.287673
+60256_0064_00011;11;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959374;49.288198
+60256_0064_00015;15;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958963;49.288355
+60256_0071_00011;11;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962541;49.289546
+60256_0071_00015;15;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962376;49.290065
+60256_0071_00053;53;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958627;49.293838
+60256_0072_00008;8;;Rue du Thel Vexin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960711;49.290486
+60256_0061_00011;11;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963948;49.286909
+60256_0061_00022;22;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963361;49.288295
+60256_0061_00030;30;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.964202;49.29102
+60256_0061_00034;34;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.965855;49.293033
+60256_0074_00004;4;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960156;49.288497
+60256_0074_00015;15;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959163;49.28927
+60256_0030_00002;2;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00393;49.281401
+60256_0030_00010;10;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003636;49.28204
+60256_0030_00026;26;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003743;49.28187
+60256_0030_00015_bis;15;bis;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002811;49.283497
+60256_0013_00002;2;;rue de la bergerie;60240;60256;Montchevreuil;Bachivillers;;1.959298;49.289774
+60256_0013_00004;4;;rue de la bergerie;60240;60256;Montchevreuil;Bachivillers;;1.960065;49.289512
+60256_0013_00007;7;;rue de la bergerie;60240;60256;Montchevreuil;Bachivillers;;1.96061;49.289418
+60256_0013_00008;8;;rue de la bergerie;60240;60256;Montchevreuil;Bachivillers;;1.959644;49.289746
+60256_0013_00011;11;;rue de la bergerie;60240;60256;Montchevreuil;Bachivillers;;1.960505;49.28967
+60256_w8mtzb_00075;75;;Fresneaux;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003596;49.280552
+60256_0010_00001;1;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003761;49.280377
+60256_0040_00004;4;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003998;49.28092
+60256_0040_00007;7;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.005552;49.281161
+60256_0040_00010;10;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.004773;49.280937
+60256_0045_00008;8;;Rue du Moulin;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003595;49.282861
+60256_0045_00012;12;;Rue du Moulin;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.003417;49.282989
+60256_0045_00014;14;;Rue du Moulin;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003226;49.283098
+60256_0067_00005;5;;Chemin des Harnoulds;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.965764;49.291145
+60256_0015_00004;4;;Rue du Calvaire;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001806;49.280951
+60256_0040_00001;1;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.004538;49.281025
+60256_0040_00011;11;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.006261;49.281258
+60256_0040_00018;18;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.006218;49.281132
+60256_0040_00028;28;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.007018;49.281626
+60256_0040_00013_bis;13;bis;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.006324;49.281383
+60256_0067_00003;3;;Chemin des Harnoulds;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.96535;49.291034
+60256_0055_00094;94;;Rue Robert Champagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.026534;49.295835
+60256_0015_00005;5;;Rue du Calvaire;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.998997;49.28061
+60256_0040_00007_bis;7;bis;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.005552;49.281161
+60256_0040_00008_ter;8;ter;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.004523;49.280941
+60256_0045_00004;4;;Rue du Moulin;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003132;49.281942
+60256_0045_00009;9;;Rue du Moulin;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003138;49.282353
+60256_0067_00005_bis;5;bis;Chemin des Harnoulds;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.966333;49.29119
+60256_0055_00018;18;;Rue Robert Champagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.026601;49.295707
+60256_0055_00046;46;;Rue Robert Champagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.027018;49.295661
+60256_0055_00062;62;;Rue Robert Champagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.027065;49.295755
+60256_0010_00016;16;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003643;49.279758
+60256_0010_00019;19;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003715;49.279071
+60256_0010_00021;21;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00411;49.279038
+60256_0010_00025;25;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003328;49.278614
+60256_0010_00048;48;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002702;49.277327
+60256_0010_00054;54;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002523;49.276827
+60256_0010_00008_t;8;t;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003652;49.280473
+60256_0010_00027_ter;27;ter;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.003644;49.278385
+60256_0041_00004;4;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002585;49.281515
+60256_0041_00012;12;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001875;49.281928
+60256_0041_00027;27;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.999236;49.28814
+60256_0041_00030;30;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.99871;49.28368
+60256_0041_00048;48;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.998913;49.285796
+60256_0041_00021_bis;21;bis;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.999092;49.286346
+60256_0052_00152;152;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.026329;49.295638
+60256_0066_00030;30;;Rue Froide Cuisse;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.964374;49.290954
+60256_0073_00004;4;;Rue du Bois du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959227;49.287601
+60256_0018_00476;476;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.010946;49.300351
+60256_0018_00588;588;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.011969;49.300659
+60256_0062_00002;2;;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962628;49.28709
+60256_0062_00002_bis;2;bis;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962791;49.287222
+60256_0062_00013_bis;13;bis;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961402;49.285775
+60256_0064_00016;16;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.95765;49.288807
+60256_0064_00018;18;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.957321;49.288916
+60256_0071_00002;2;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962384;49.290156
+60256_0071_00026;26;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959604;49.292622
+60256_0071_00035;35;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959827;49.291092
+60256_0071_00043;43;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.95865;49.292589
+60256_0071_00051;51;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958639;49.29377
+60256_0071_00055;55;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958417;49.294289
+60256_0071_00037_q;37;q;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;;1.958923;49.292156
+60256_0071_00041_ter;41;ter;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;;1.958232;49.292832
+60256_0071_00002_a;2;a;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;;1.962142;49.290415
+60256_0072_00006;6;;Rue du Thel Vexin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962049;49.291119
+60256_0072_00002_bis;2;bis;Rue du Thel Vexin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.964384;49.29186
+60256_0061_00025;25;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.966007;49.285023
+60256_0061_00029;29;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963853;49.2902
+60256_0074_00014;14;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958799;49.289253
+60256_0030_00001;1;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003686;49.28108
+60256_0030_00008;8;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.003743;49.28187
+60256_0030_00012;12;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003495;49.282343
+60256_0030_00013;13;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002995;49.283074
+60256_0030_00030;30;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001167;49.290337
+60256_0030_00032;32;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001124;49.290568
+60256_0030_00011_bis;11;bis;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.003477;49.282434
+60256_0069_00007;7;;Petite Rue;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.957277;49.292243
+60256_0050_00002;2;;Rue du Muguet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002332;49.278832
+60256_0013_00005;5;;rue de la bergerie;60240;60256;Montchevreuil;Bachivillers;;1.959643;49.289655
+60256_0013_00010;10;;rue de la bergerie;60240;60256;Montchevreuil;Bachivillers;;1.960418;49.289699
+60256_0013_00012;12;;rue de la bergerie;60240;60256;Montchevreuil;Bachivillers;;1.960822;49.28954
+60256_0040_00002;2;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.004523;49.280941
+60256_0040_00008;8;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.004521;49.280945
+60256_0040_00024;24;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.006234;49.281198
+60256_0040_00026_bis;26;bis;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.007187;49.281657
+60256_0045_00003;3;;Rue du Moulin;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002992;49.281807
+60256_0045_00010;10;;Rue du Moulin;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00367;49.28288
+60256_0045_00001_b;1;b;Rue du Moulin;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003681;49.282521
+60256_0055_00030;30;;Rue Robert Champagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.026794;49.295616
+60256_0055_00066;66;;Rue Robert Champagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.026534;49.295835
+60256_0010_00003;3;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003761;49.280265
+60256_0010_00012;12;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003382;49.280039
+60256_0010_00023;23;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003379;49.278695
+60256_0010_00027;27;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00327;49.278493
+60256_0010_00033;33;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00305;49.277918
+60256_0010_00035;35;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002998;49.277768
+60256_0010_00037;37;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002951;49.277631
+60256_0010_00042;42;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002885;49.277845
+60256_0010_00046;46;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002788;49.277575
+60256_0010_00050;50;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002551;49.277
+60256_0010_00179;179;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003325;49.278589
+60256_0010_00017_b;17;b;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.003842;49.279146
+60256_0010_00025_bis;25;bis;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.003339;49.278619
+60256_0041_00008;8;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002222;49.281742
+60256_0041_00024;24;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.999902;49.28288
+60256_0041_00032;32;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.998724;49.283845
+60256_0041_00039;39;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.999387;49.287073
+60256_0041_00005_t;5;t;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002074;49.28174
+60256_0052_00001;1;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.015145;49.282637
+60256_0052_00381;381;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.025855;49.293485
+60256_0052_00495;495;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.024921;49.292811
+60256_0052_00810;810;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.022472;49.290273
+60256_0073_00008;8;;Rue du Bois du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960259;49.287791
+60256_0073_00012;12;;Rue du Bois du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958446;49.287527
+60256_0018_00115;115;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.021553;49.300605
+60256_0018_00146;146;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.017917;49.301472
+60256_0018_00362;362;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.015218;49.30126
+60256_0018_00390;390;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.014612;49.301195
+60256_0018_00718;718;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.010501;49.300255
+60256_0062_00006;6;;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.96195;49.286669
+60256_0064_00004;4;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961345;49.287894
+60256_0064_00006;6;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960539;49.287972
+60256_0071_00004;4;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959003;49.292237
+60256_0071_00006;6;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960752;49.290757
+60256_0071_00008;8;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961327;49.291635
+60256_0071_00014;14;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.95977;49.291256
+60256_0071_00018;18;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959509;49.291515
+60256_0071_00020;20;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959247;49.291881
+60256_0071_00030;30;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958897;49.292883
+60256_0020_00003;3;;Impasse des Jardins;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001183;49.280531
+60256_0020_00011;11;;Impasse des Jardins;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001093;49.279919
+60256_0061_00021;21;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963155;49.287434
+60256_0061_00036_bis;36;bis;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.964428;49.286664
+60256_0074_00010;10;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.95946;49.289135
+60256_0074_00017;17;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958731;49.289361
+60256_0074_00018;18;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958527;49.289419
+60256_0030_00004;4;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003864;49.28154
+60256_0030_00005;5;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00375;49.281367
+60256_0030_00017;17;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002775;49.283614
+60256_0030_00024;24;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001286;49.289686
+60256_0069_00003;3;;Petite Rue;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958173;49.292301
+60256_0069_00008;8;;Petite Rue;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.956711;49.292269
+60256_0050_00003;3;;Rue du Muguet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00237;49.278696
+60256_0013_00006;6;;rue de la bergerie;60240;60256;Montchevreuil;Bachivillers;;1.960432;49.289479
+60256_0040_00012;12;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.005211;49.281013
+60256_0040_00015;15;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.006869;49.281843
+60256_0040_00016;16;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.005838;49.281158
+60256_0040_00022;22;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.006338;49.281029
+60256_0045_00006;6;;Rue du Moulin;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00392;49.282621
+60256_0045_00007;7;;Rue du Moulin;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003021;49.282294
+60256_0045_00006_bis;6;bis;Rue du Moulin;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.003886;49.282605
+60256_0055_00040;40;;Rue Robert Champagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.026918;49.295568
+60256_0065_00005;5;;Rue de Fresneaux Montchevreuil;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.967356;49.28596
+60256_w8mtzb_00008;8;;Fresneaux;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003596;49.280552
+60256_ka8bb7_00002;2;;Ferme des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.015446;49.281806
+60256_u1wrcn_00092;92;;Le Village;60240;60256;Montchevreuil;Bachivillers;;1.962497;49.288185
+60256_5h3w9f_00001;1;;Allee des Sapins;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.009703;49.285636
+60256_0010_00011;11;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003744;49.279799
+60256_0010_00013;13;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003719;49.27946
+60256_0010_00024;24;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003505;49.279143
+60256_0010_00040;40;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002917;49.277994
+60256_0010_00012_bis;12;bis;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.003652;49.280473
+60256_0041_00005;5;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001827;49.281865
+60256_0041_00011;11;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.999322;49.283089
+60256_0041_00017;17;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.998835;49.28575
+60256_0041_00033;33;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.999247;49.287817
+60256_0041_00041;41;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.99878;49.28867
+60256_0041_00052;52;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.999296;49.286226
+60256_0041_00005_a;5;a;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001691;49.281933
+60256_0052_00138;138;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.026403;49.29583
+60256_0052_00390;390;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.025295;49.293773
+60256_0052_00464;464;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.02493;49.293006
+60256_0052_00540;540;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.024464;49.292456
+60256_0052_00744;744;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.022928;49.290841
+60256_0052_00790;790;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.022682;49.290577
+60256_0073_00006;6;;Rue du Bois du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959774;49.287693
+60256_0073_00010;10;;Rue du Bois du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958973;49.287634
+60256_0018_00375;375;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.014791;49.301219
+60256_0018_00450;450;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.013476;49.301014
+60256_0064_00013;13;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959309;49.288223
+60256_0064_00017;17;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958691;49.288453
+60256_0071_00005;5;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962543;49.289281
+60256_0071_00033;33;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;;1.959896;49.290975
+60256_0071_00049;49;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958665;49.293545
+60256_0071_00037_a;37;a;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959341;49.291548
+60256_0072_00005;5;;Rue du Thel Vexin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961082;49.290625
+60256_0072_00010;10;;Rue du Thel Vexin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959047;49.290014
+60256_0072_00002_ter;2;ter;Rue du Thel Vexin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962681;49.291309
+60256_0072_00001_ter;1;ter;Rue du Thel Vexin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961082;49.290625
+60256_0020_00010;10;;Impasse des Jardins;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.000856;49.279959
+60256_0061_00019;19;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963271;49.287335
+60256_0015_00007;7;;Rue du Calvaire;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.996672;49.280596
+60256_0065_00008;8;;Rue de Fresneaux Montchevreuil;60240;60256;Montchevreuil;Bachivillers;;1.967386;49.28604
+60256_0063_00005;5;;Rue de Candy;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961517;49.28824
+60256_0061_00036;36;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.965855;49.293033
+60256_0074_00001;1;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960167;49.288267
+60256_0074_00009;9;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960343;49.28892
+60256_f55kiz_00031;31;;Route de Beauvais;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.015442;49.30365
+60256_0010_00004;4;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00363;49.280709
+60256_0010_00007;7;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003749;49.280021
+60256_0010_00015;15;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003677;49.279251
+60256_0010_00028;28;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003351;49.278898
+60256_0010_00056;56;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002024;49.276617
+60256_0010_00064;64;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002024;49.276617
+60256_0010_00004_bis;4;bis;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.003697;49.280757
+60256_0010_00017_t;17;t;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.004103;49.279103
+60256_0041_00009;9;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.000015;49.28275
+60256_0041_00021;21;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.999031;49.286193
+60256_0041_00028;28;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.998952;49.283346
+60256_0013_00013;13;;rue de la bergerie;60240;60256;Montchevreuil;Bachivillers;;1.960693;49.289345
+60256_0040_00005;5;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.005379;49.281123
+60256_0040_00014;14;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.005451;49.281073
+60256_0040_00020;20;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.006305;49.280958
+60256_0040_00026;26;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.007314;49.2817
+60256_0045_00005;5;;Rue du Moulin;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002996;49.282219
+60256_0067_00001;1;;Chemin des Harnoulds;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.965;49.291002
+60256_0015_00001;1;;Rue du Calvaire;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.000188;49.280741
+60256_0052_00335;335;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.025737;49.294298
+60256_0052_00520;520;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.024615;49.292621
+60256_0052_00672;672;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.023477;49.291457
+60256_0066_00006;6;;Rue Froide Cuisse;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.964854;49.2914
+60256_0018_00192_bis;192;bis;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.017162;49.301422
+60256_0062_00004;4;;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962083;49.286778
+60256_0062_00012;12;;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961094;49.285497
+60256_0062_00017;17;;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961218;49.285482
+60256_0071_00037_d;37;d;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959068;49.291945
+60256_0072_00003;3;;Rue du Thel Vexin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961082;49.290625
+60256_0020_00004;4;;Impasse des Jardins;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001055;49.280491
+60256_0020_00006;6;;Impasse des Jardins;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001006;49.280289
+60256_0061_00001;1;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.964921;49.286366
+60256_0061_00010;10;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963893;49.287042
+60256_0061_00016;16;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963362;49.28739
+60256_0065_00003;3;;Rue de Fresneaux Montchevreuil;60240;60256;Montchevreuil;Bachivillers;;1.967356;49.28596
+60256_0065_00004;4;;Rue de Fresneaux Montchevreuil;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.967386;49.28604
+60256_0063_00001;1;;Rue de Candy;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961919;49.288885
+60256_0061_00031;31;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963905;49.29039
+60256_0061_00003_bis;3;bis;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.968376;49.282394
+60256_0061_00022_bis;22;bis;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963491;49.288729
+60256_0074_00003;3;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960283;49.288489
+60256_0074_00011;11;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960063;49.28907
+60256_f55kiz_00033;33;;Route de Beauvais;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.015442;49.30365
+60256_2qq6db_00022_a;22;a;Domaine de la Muette;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.011905;49.305508
+60256_0010_00031;31;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003172;49.278282
+60256_0010_00044;44;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002743;49.277446
+60256_0041_00016;16;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001586;49.282141
+60256_0041_00056;56;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.999249;49.286522
+60256_0052_00237;237;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.026068;49.294896
+60256_0052_00661;661;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.023834;49.291284
+60256_0052_00712;712;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.022812;49.290727
+60256_0052_00932;932;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.021994;49.289374
+60256_0018_00030;30;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.019387;49.301607
+60256_0018_00437;437;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.019466;49.301567
+60256_0018_00453;453;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.013766;49.300972
+60256_0018_00570;570;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.012264;49.300748
+60256_0018_00610;610;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.011723;49.300589
+60256_0018_00657;657;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.010892;49.299924
+60256_0064_00008;8;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960817;49.287946
+60256_0064_00010;10;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958648;49.288468
+60256_0064_00012;12;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958328;49.288583
+60256_0064_00004_bis;4;bis;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960539;49.287972
+60256_0071_00012;12;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960876;49.291353
+60256_0071_00022;22;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959608;49.29251
+60256_0071_00024;24;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961086;49.290527
+60256_0071_00028;28;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958933;49.29273
+60256_0071_00032;32;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958876;49.292969
+60256_0071_00039;39;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958521;49.292555
+60256_0071_00047;47;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958695;49.293295
+60256_0071_00059;59;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958239;49.294625
+60256_0071_00037_p;37;p;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959258;49.291668
+60256_0072_00002;2;;Rue du Thel Vexin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962049;49.291119
+60256_0072_00012;12;;Rue du Thel Vexin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959576;49.290161
+60256_0061_00005;5;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;;1.968021;49.28263
+60256_0061_00034_bis;34;bis;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.965855;49.293033
+60256_0074_00002;2;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959943;49.288092
+60256_0074_00006;6;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960226;49.28889
+60256_0030_00022;22;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001321;49.289466
+60256_0013_00003;3;;rue de la bergerie;60240;60256;Montchevreuil;Bachivillers;;1.959643;49.289655
+60256_0013_00009;9;;rue de la bergerie;60240;60256;Montchevreuil;Bachivillers;;1.960051;49.289821
+60256_0040_00009;9;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.005879;49.281245
+60256_0040_00013;13;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.006744;49.281557
+60256_0040_00008_bis;8;bis;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.004847;49.280941
+60256_0045_00011;11;;Rue du Moulin;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00367;49.282699
+60256_0067_00002;2;;Chemin des Harnoulds;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.965655;49.291116
+60256_0067_00009;9;;Chemin des Harnoulds;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.966734;49.291104
+60256_0055_00075;75;;Rue Robert Champagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.026912;49.295818
+60256_0015_00002;2;;Rue du Calvaire;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001906;49.281233
+60256_0015_00003;3;;Rue du Calvaire;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.999961;49.280716
+60256_0065_00002;2;;Rue de Fresneaux Montchevreuil;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.966104;49.286238
+60256_w8mtzb_00196;196;;Fresneaux;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003019;49.280432
+60256_u1wrcn_00119;119;;Le Village;60240;60256;Montchevreuil;Bachivillers;;1.965309;49.292036
+60256_0010_00005;5;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003755;49.280142
+60256_0010_00008;8;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003652;49.280473
+60256_0010_00029;29;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003211;49.278355
+60256_0010_00039;39;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002914;49.277523
+60256_0010_00060;60;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002066;49.276396
+60256_0010_00058_bis;58;bis;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001861;49.276616
+60256_0041_00020;20;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.000658;49.282505
+60256_0041_00034;34;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.998746;49.283989
+60256_0041_00036;36;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.9988;49.28423
+60256_0041_00043;43;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.998996;49.288639
+60256_0052_00097;97;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.026644;49.296104
+60256_0052_00531;531;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.024623;49.292451
+60256_0052_00565;565;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.024371;49.292183
+60256_0052_00880;880;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.022103;49.289798
+60256_0066_00002;2;;Rue Froide Cuisse;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.964511;49.290971
+60256_0018_00095;95;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.01865;49.301568
+60256_0018_00135;135;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.021553;49.300605
+60256_0018_00374;374;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.014785;49.301032
+60256_0018_00530;530;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.012643;49.301132
+60256_0018_00780;780;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.0097;49.300092
+60256_0062_00010;10;;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961335;49.285881
+60256_0062_00014;14;;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961047;49.285426
+60256_0064_00002;2;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;;1.962563;49.287811
+60256_0064_00014;14;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958;49.288691
+60256_0071_00010;10;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960503;49.291002
+60256_0071_00016;16;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959693;49.291324
+60256_0071_00053_bis;53;bis;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958551;49.294036
+60256_0071_00017_bis;17;bis;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961847;49.290231
+60256_0071_00002_b;2;b;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962078;49.290251
+60256_0071_00041_bis;41;bis;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958008;49.292957
+60256_0020_00007;7;;Impasse des Jardins;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001088;49.280189
+60256_0061_00009;9;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.964161;49.2868
+60256_0061_00013;13;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963757;49.287015
+60256_0061_00017;17;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963364;49.287257
+60256_0061_00033;33;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.965145;49.285979
+60256_0061_00040;40;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.966052;49.293031
+60256_0030_00009;9;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003486;49.282039
+60256_0030_00016;16;;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003275;49.282769
+60256_0030_00007_bis;7;bis;Rue du Mesnil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003651;49.28159
+60256_0069_00005;5;;Petite Rue;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.957723;49.292287
+60256_0010_00017;17;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003629;49.279131
+60256_0010_00045;45;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002787;49.277151
+60256_0010_00018_bis;18;bis;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003576;49.279363
+60256_0041_00001;1;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002657;49.281065
+60256_0041_00007;7;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.000299;49.282613
+60256_0041_00019;19;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.998891;49.285903
+60256_0041_00023;23;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.999031;49.286641
+60256_0041_00025;25;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.999277;49.28693
+60256_0052_00193;193;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.026216;49.295125
+60256_0052_00255;255;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.025999;49.294773
+60256_0052_00498;498;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.024753;49.292807
+60256_0052_00564;564;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.02368;49.291663
+60256_0052_00611;611;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.024091;49.29192
+60256_0052_00705;705;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.021939;49.288986
+60256_0052_00832;832;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.022337;49.290195
+60256_0052_00890;890;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.022076;49.28962
+60256_0073_00002;2;;Rue du Bois du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958714;49.287496
+60256_0018_00075;75;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.021553;49.300605
+60256_0018_00122;122;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.018309;49.301515
+60256_0018_00192;192;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.017402;49.301444
+60256_0018_00481;481;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.013424;49.300911
+60256_0018_00702;702;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.007962;49.299689
+60256_0064_00001;1;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959344;49.288209
+60256_0064_00005;5;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;;1.961123;49.287834
+60256_0071_00025;25;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961165;49.290494
+60256_0071_00029;29;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960728;49.290672
+60256_0071_00041;41;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958334;49.292772
+60256_0071_00057;57;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958335;49.294443
+60256_0072_00014;14;;Rue du Thel Vexin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.958895;49.289973
+60256_0020_00002;2;;Impasse des Jardins;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.001055;49.280696
+60256_0061_00004;4;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.964891;49.286398
+60256_0061_00008;8;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963937;49.287017
+60256_0061_00012;12;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963738;49.287138
+60256_0061_00014;14;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963558;49.287248
+60256_0065_00001_bis;1;bis;Rue de Fresneaux Montchevreuil;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.967356;49.28596
+60256_0063_00002;2;;Rue de Candy;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961777;49.288744
+60256_0063_00003;3;;Rue de Candy;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961701;49.288606
+60256_0063_00011;11;;Rue de Candy;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961396;49.288014
+60256_0060_00003;3;;Rue de Villette;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003713;49.276809
+60256_0074_00005;5;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960389;49.288704
+60256_0074_00007;7;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960416;49.288812
+60256_0040_00003;3;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.005122;49.281067
+60256_0040_00006;6;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.004333;49.280945
+60256_0040_00030;30;;Rue de la Montagne;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.008167;49.281947
+60256_0045_00002;2;;Rue du Moulin;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003162;49.282305
+60256_0067_00007;7;;Chemin des Harnoulds;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.96632;49.291191
+60256_0065_00001;1;;Rue de Fresneaux Montchevreuil;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.965574;49.286337
+60256_0074_00013;13;;Rue Claude Lambert;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.959577;49.289193
+60256_0010_00009;9;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003619;49.279915
+60256_0010_00020;20;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003593;49.279408
+60256_0010_00032;32;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003205;49.278649
+60256_0010_00036;36;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003035;49.278256
+60256_0010_00049;49;;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003121;49.278129
+60256_0010_00012_ter;12;ter;Rue du Becquet;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.003652;49.280473
+60256_0041_00003;3;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.002654;49.281172
+60256_0041_00013;13;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.998703;49.283401
+60256_0041_00015;15;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.998618;49.283889
+60256_0041_00037;37;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.999387;49.287073
+60256_0041_00045;45;;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.999387;49.287073
+60256_0041_00022_bis;22;bis;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.99997;49.282847
+60256_0041_00005_q;5;q;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.002074;49.28174
+60256_0041_00009_bis;9;bis;Rue du Montcel;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;1.998703;49.283401
+60256_0052_00002;2;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.015543;49.282047
+60256_0052_00063;63;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.026667;49.296303
+60256_0052_00124;124;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.026388;49.295791
+60256_0052_00221;221;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.026236;49.295158
+60256_0052_00577;577;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.024297;49.292108
+60256_0052_00974;974;;Rue des Ormes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.021969;49.289158
+60256_0018_00004;4;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.017824;49.301486
+60256_0018_00581;581;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.012085;49.300462
+60256_0018_00617;617;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.011724;49.300496
+60256_0018_00750;750;;Rue de Gournay;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.010166;49.300187
+60256_0062_00008;8;;Rue Barrée;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961492;49.286118
+60256_0064_00009;9;;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960059;49.28798
+60256_0064_00005_bis;5;bis;Rue du Fayel;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961112;49.287837
+60256_0071_00009;9;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962542;49.289461
+60256_0071_00013;13;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962536;49.289895
+60256_0071_00017;17;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962079;49.290162
+60256_0071_00021;21;;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961549;49.290332
+60256_0071_00037_c;37;c;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.95917;49.291796
+60256_0071_00041_quater;41;quater;Rue du Moulin;60240;60256;Montchevreuil;Bachivillers;;1.957801;49.293064
+60256_0072_00007;7;;Rue du Thel Vexin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.960338;49.290285
+60256_0020_00008;8;;Impasse des Jardins;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.000921;49.280077
+60256_0061_00006;6;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.965855;49.293033
+60256_0065_00006;6;;Rue de Fresneaux Montchevreuil;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.964782;49.286706
+60256_0063_00004;4;;Rue de Candy;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961616;49.288426
+60256_0060_00001;1;;Rue de Villette;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003465;49.276863
+60256_0060_00002;2;;Rue de Villette;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.00426;49.276609
+60256_0061_00023;23;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.96307;49.28781
+60256_0061_00027;27;;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.963822;49.290087
+60256_0061_00022_ter;22;ter;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;;1.965855;49.293033
+60256_0061_00003_ter;3;ter;Rue André Rousselin;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.9648;49.286341
+60256_0060_00004;4;;Rue de Villette;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.004763;49.27648
+60256_b019_00037;37;;Lormeteau Hameau;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.008979;49.303944
+60256_b019_00664;664;;Lormeteau Hameau;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.010998;49.300896
+60256_0053_00059;59;;Rue de la Patte d'Oie;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.012618;49.300618
+60256_0053_00093;93;;Rue de la Patte d'Oie;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.012228;49.29998
+60256_0053_00104;104;;Rue de la Patte d'Oie;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.012485;49.300594
+60256_0053_00126;126;;Rue de la Patte d'Oie;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.011931;49.299704
+60256_0053_00059_bis;59;bis;Rue de la Patte d'Oie;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.012491;49.300263
+60256_0017_00001;1;;Rue de l'Eglise;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003523;49.281665
+60256_0017_00002;2;;Rue de l'Eglise;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.003368;49.281828
+60256_b008_00002;2;;Domaine de Montchevreuil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.015553;49.282107
+60256_b023_00234;234;;Le Parc de Montchevreuil;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.009047;49.284926
+60256_0005_00001;1;;Ruelle de l’Abreuvoir;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.000338;49.286503
+60256_0070_00003;3;;Rue de la Mairie;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962668;49.289243
+60256_0053_00029;29;;Rue de la Patte d'Oie;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.012614;49.300233
+60256_0053_00133;133;;Rue de la Patte d'Oie;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.011997;49.299633
+60256_0075_00001;1;;Rue Maurice Couve de Murville;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962782;49.287535
+60256_0075_00002;2;;Rue Maurice Couve de Murville;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962549;49.28769
+60256_0075_00001_bis;1;bis;Rue Maurice Couve de Murville;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.96246;49.287627
+60256_0070_00002;2;;Rue de la Mairie;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962842;49.289147
+60256_0058_00005;5;;Rue des Tuileries;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.998804;49.279926
+60256_0008_00033;33;;Chemin Departemental 35 Beauvais à Fresnes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.014424;49.302202
+60256_0053_00011;11;;Rue de la Patte d'Oie;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.012671;49.300659
+60256_0053_00113;113;;Rue de la Patte d'Oie;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.012123;49.299846
+60256_0053_00142;142;;Rue de la Patte d'Oie;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.011753;49.29937
+60256_0075_00003;3;;Rue Maurice Couve de Murville;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962192;49.287685
+60256_0075_00005;5;;Rue Maurice Couve de Murville;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.961461;49.287803
+60256_0070_00001;1;;Rue de la Mairie;60240;60256;Montchevreuil;Bachivillers;Bachivillers;1.962836;49.289229
+60256_0058_00001;1;;Rue des Tuileries;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.998743;49.280227
+60256_b068_00003;3;;Les Petits Carreaux;60240;60256;Montchevreuil;Bachivillers;;1.959796;49.288331
+60256_0053_00046;46;;Rue de la Patte d'Oie;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.0124;49.300315
+60256_0053_00094;94;;Rue de la Patte d'Oie;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.012501;49.30065
+60256_0057_00002;2;;Sente du Tour de Ville;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.001897;49.279588
+60256_0005_00003;3;;Ruelle de l’Abreuvoir;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;2.000262;49.285885
+60256_0058_00003;3;;Rue des Tuileries;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;Fresneaux-Montchevreuil;1.998783;49.280028
+60256_0008_00031;31;;Chemin Departemental 35 Beauvais à Fresnes;60240;60256;Montchevreuil;Fresneaux-Montchevreuil;;2.013336;49.30416

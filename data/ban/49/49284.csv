@@ -1,0 +1,716 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+49284_0076_00001;1;;Square du Pré Fleury;49170;49284;Saint-Germain-des-Prés;;;-0.839091;47.410221
+49284_0126_00420;420;;Chemin des Buttes;49170;49284;Saint-Germain-des-Prés;;;-0.836504;47.414017
+49284_0169_00028;28;;Route du Grand Moulin;49170;49284;Saint-Germain-des-Prés;;;-0.830011;47.4117
+49284_0110_00007;7;;Impasse de la Boire Boileau;49170;49284;Saint-Germain-des-Prés;;;-0.837738;47.392796
+49284_0173_00024;24;;Route de la Corvée;49170;49284;Saint-Germain-des-Prés;;;-0.821583;47.38901
+49284_0166_02401;2401;;Route d'Angers;49170;49284;Saint-Germain-des-Prés;;;-0.798947;47.409589
+49284_0037_00023;23;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.833265;47.409593
+49284_0146_00048;48;;Route des Rennes;49170;49284;Saint-Germain-des-Prés;;;-0.786026;47.418749
+49284_0101_00006;6;;Rue des Vignes;49170;49284;Saint-Germain-des-Prés;;;-0.840158;47.41019
+49284_0107_00143;143;;Route des Goganes;49170;49284;Saint-Germain-des-Prés;;;-0.838933;47.394906
+49284_0152_00066;66;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.794915;47.408774
+49284_0022_00005;5;;Rue de la Boulairie;49170;49284;Saint-Germain-des-Prés;;;-0.834062;47.410651
+49284_0166_02220;2220;;Route d'Angers;49170;49284;Saint-Germain-des-Prés;;;-0.801469;47.409448
+49284_0132_00220;220;;Chemin de la Pinaudière;49170;49284;Saint-Germain-des-Prés;;;-0.80762;47.411583
+49284_0028_00016;16;;Rue Constant Lebreton;49170;49284;Saint-Germain-des-Prés;;;-0.826434;47.410155
+49284_0033_00003;3;;Rue Saint-Joseph;49170;49284;Saint-Germain-des-Prés;;;-0.835346;47.410415
+49284_0174_00026;26;;Route du Coeur du Roy;49170;49284;Saint-Germain-des-Prés;;;-0.819268;47.388649
+49284_0134_00015;15;;Chemin du Migré;49170;49284;Saint-Germain-des-Prés;;;-0.816626;47.413349
+49284_0113_00018;18;;Route de la Boire Guyard;49170;49284;Saint-Germain-des-Prés;;;-0.826728;47.389569
+49284_0156_00105;105;;Route de la Crouas;49170;49284;Saint-Germain-des-Prés;;;-0.806964;47.408244
+49284_0129_00544;544;;Route de la Potherie;49170;49284;Saint-Germain-des-Prés;;;-0.832149;47.416213
+49284_0106_01781;1781;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.836307;47.392208
+49284_0180_00043;43;;Rue Salé;49170;49284;Saint-Germain-des-Prés;;;-0.80764;47.385576
+49284_0072_00008;8;;Rue des Peupliers;49170;49284;Saint-Germain-des-Prés;;;-0.830682;47.410785
+49284_0167_00320;320;;Route de la Chauffeterie;49170;49284;Saint-Germain-des-Prés;;;-0.809298;47.424132
+49284_0039_00002;2;;Rue de l'Hommet;49170;49284;Saint-Germain-des-Prés;;;-0.835284;47.410804
+49284_0169_00056;56;;Route du Grand Moulin;49170;49284;Saint-Germain-des-Prés;;;-0.829643;47.411585
+49284_0070_00014;14;;Rue aux Oies;49170;49284;Saint-Germain-des-Prés;;;-0.833649;47.408472
+49284_0106_02021;2021;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.833525;47.391134
+49284_0036_00005;5;;Rue Ferdinand Dubois;49170;49284;Saint-Germain-des-Prés;;;-0.827737;47.409799
+49284_0109_00025;25;;Chemin du Grand Ayrault;49170;49284;Saint-Germain-des-Prés;;;-0.831767;47.39092
+49284_0152_00090;90;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.794583;47.408545
+49284_0076_00009;9;;Square du Pré Fleury;49170;49284;Saint-Germain-des-Prés;;;-0.838525;47.410438
+49284_0149_00201;201;;Chemin de la Dioterie;49170;49284;Saint-Germain-des-Prés;;;-0.796042;47.399391
+49284_0071_00016;16;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.825129;47.409169
+49284_0180_00011;11;;Rue Salé;49170;49284;Saint-Germain-des-Prés;;;-0.807795;47.385353
+49284_0032_00013;13;;Rue de la Garenne;49170;49284;Saint-Germain-des-Prés;;;-0.839673;47.410282
+49284_0037_00025;25;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.833061;47.409759
+49284_0028_00006;6;;Rue Constant Lebreton;49170;49284;Saint-Germain-des-Prés;;;-0.826797;47.409125
+49284_0028_00008;8;;Rue Constant Lebreton;49170;49284;Saint-Germain-des-Prés;;;-0.82674;47.409314
+49284_0092_00007;7;;Rue Saint-René;49170;49284;Saint-Germain-des-Prés;;;-0.834505;47.409157
+49284_0037_00002;2;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.834381;47.408432
+49284_0010_00025_bis;25;Bis;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.826991;47.408438
+49284_0152_00035;35;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.794242;47.408966
+49284_0032_00006;6;;Rue de la Garenne;49170;49284;Saint-Germain-des-Prés;;;-0.83717;47.411064
+49284_0032_00003;3;;Rue de la Garenne;49170;49284;Saint-Germain-des-Prés;;;-0.838911;47.410904
+49284_0152_01349;1349;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.799954;47.398654
+49284_0166_02263;2263;;Route d'Angers;49170;49284;Saint-Germain-des-Prés;;;-0.800779;47.409639
+49284_0085_00319;319;;Route de Saint-Augustin;49170;49284;Saint-Germain-des-Prés;;;-0.829048;47.41408
+49284_0005_00012;12;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.840878;47.409825
+49284_0106_02525;2525;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.827299;47.389536
+49284_0042_00015;15;;Square les Jousselins;49170;49284;Saint-Germain-des-Prés;;;-0.832639;47.410973
+49284_0157_00002;2;;Route de la Missonnière;49170;49284;Saint-Germain-des-Prés;;;-0.8152;47.402504
+49284_0167_00317;317;;Route de la Chauffeterie;49170;49284;Saint-Germain-des-Prés;;;-0.809357;47.424071
+49284_0167_00370;370;;Route de la Chauffeterie;49170;49284;Saint-Germain-des-Prés;;;-0.809523;47.424468
+49284_0010_00003_bis;3;Bis;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.832273;47.409706
+49284_0127_00133;133;;Chemin des Frênes;49170;49284;Saint-Germain-des-Prés;;;-0.829059;47.412994
+49284_0124_00265;265;;Route de la Rue Courbée;49170;49284;Saint-Germain-des-Prés;;;-0.819443;47.4253
+49284_0173_00143;143;;Route de la Corvée;49170;49284;Saint-Germain-des-Prés;;;-0.821436;47.390042
+49284_0165_00015;15;;Impasse Saint-Germain;49170;49284;Saint-Germain-des-Prés;;;-0.833098;47.411307
+49284_0141_00190;190;;Route de Réveillon;49170;49284;Saint-Germain-des-Prés;;;-0.796855;47.422485
+49284_0010_00007;7;;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.83145;47.409483
+49284_0153_01187;1187;;Route de la Pierre Salée;49170;49284;Saint-Germain-des-Prés;;;-0.799044;47.40074
+49284_0022_00014;14;;Rue de la Boulairie;49170;49284;Saint-Germain-des-Prés;;;-0.833814;47.410839
+49284_0170_02190;2190;;Route du Milieu;49170;49284;Saint-Germain-des-Prés;;;-0.813307;47.389415
+49284_0130_00692;692;;Route des Breils;49170;49284;Saint-Germain-des-Prés;;;-0.820887;47.41758
+49284_b536_00006;6;;la Petite Maison Neuve;49170;49284;Saint-Germain-des-Prés;;;-0.815152;47.417532
+49284_0051_00003;3;;Impasse de la Mairie;49170;49284;Saint-Germain-des-Prés;;;-0.832715;47.408737
+49284_e4esz7_00001;1;;Rue de la Treille;49170;49284;Saint-Germain-des-Prés;;;-0.834129;47.408711
+49284_0041_00008;8;;Rue du Joulai;49170;49284;Saint-Germain-des-Prés;;;-0.841457;47.409333
+49284_0005_00006;6;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.839542;47.409522
+49284_0002_00002;2;;Rue des Acacias;49170;49284;Saint-Germain-des-Prés;;;-0.829555;47.410595
+49284_0144_00600;600;;Route de la Chauvière;49170;49284;Saint-Germain-des-Prés;;;-0.797453;47.41462
+49284_0032_00010;10;;Rue de la Garenne;49170;49284;Saint-Germain-des-Prés;;;-0.83911;47.410971
+49284_b536_00002;2;;la Petite Maison Neuve;49170;49284;Saint-Germain-des-Prés;;;-0.815304;47.417125
+49284_0159_00115;115;;Chemin de la Petite Touche;49170;49284;Saint-Germain-des-Prés;;;-0.827348;47.405875
+49284_0037_00016;16;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.833588;47.409344
+49284_0144_00122;122;;Route de la Chauvière;49170;49284;Saint-Germain-des-Prés;;;-0.79635;47.410652
+49284_0032_00009;9;;Rue de la Garenne;49170;49284;Saint-Germain-des-Prés;;;-0.839246;47.410553
+49284_0005_00021;21;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.84153;47.409914
+49284_0139_00105;105;;Chemin du Boulay;49170;49284;Saint-Germain-des-Prés;;;-0.778599;47.430473
+49284_0015_00020;20;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.829397;47.410075
+49284_0032_00005;5;;Rue de la Garenne;49170;49284;Saint-Germain-des-Prés;;;-0.838951;47.410858
+49284_0071_00024;24;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.824651;47.409777
+49284_0022_00012;12;;Rue de la Boulairie;49170;49284;Saint-Germain-des-Prés;;;-0.833849;47.410774
+49284_0090_00004;4;;Rue Saint-Charles;49170;49284;Saint-Germain-des-Prés;;;-0.834367;47.409871
+49284_0071_00010;10;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.825617;47.408886
+49284_0152_00470;470;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.794208;47.405313
+49284_0031_00016;16;;Rue de l'Eglise;49170;49284;Saint-Germain-des-Prés;;;-0.835409;47.409117
+49284_0169_00135;135;;Route du Grand Moulin;49170;49284;Saint-Germain-des-Prés;;;-0.828862;47.412002
+49284_0070_00011;11;;Rue aux Oies;49170;49284;Saint-Germain-des-Prés;;;-0.833554;47.40852
+49284_0129_00290;290;;Route de la Potherie;49170;49284;Saint-Germain-des-Prés;;;-0.83245;47.413954
+49284_0041_00012;12;;Rue du Joulai;49170;49284;Saint-Germain-des-Prés;;;-0.841806;47.409375
+49284_0071_00030;30;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.824866;47.410031
+49284_0050_00005;5;;Rue de la Mairie;49170;49284;Saint-Germain-des-Prés;;;-0.832194;47.408235
+49284_0037_00005;5;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.834616;47.408594
+49284_0070_00015;15;;Rue aux Oies;49170;49284;Saint-Germain-des-Prés;;;-0.833617;47.408217
+49284_0037_00001;1;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.834448;47.408442
+49284_0005_00013;13;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.840523;47.40964
+49284_0037_00024;24;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.831993;47.410451
+49284_0085_00182;182;;Route de Saint-Augustin;49170;49284;Saint-Germain-des-Prés;;;-0.829536;47.412921
+49284_0015_00006;6;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.831738;47.410349
+49284_0106_01999;1999;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.833897;47.39123
+49284_0131_00121;121;;Rue du Champ de la Plaine;49170;49284;Saint-Germain-des-Prés;;;-0.830987;47.414271
+49284_0133_00553;553;;Chemin des Noues Rondes;49170;49284;Saint-Germain-des-Prés;;;-0.811201;47.418174
+49284_0092_00005_ter;5;Ter;Rue Saint-René;49170;49284;Saint-Germain-des-Prés;;;-0.834503;47.409088
+49284_0037_00003;3;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.834582;47.408583
+49284_0037_00021;21;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.833484;47.409472
+49284_0032_00012;12;;Rue de la Garenne;49170;49284;Saint-Germain-des-Prés;;;-0.839354;47.410699
+49284_0180_00119;119;;Rue Salé;49170;49284;Saint-Germain-des-Prés;;;-0.808139;47.386413
+49284_0152_00464;464;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.794172;47.405414
+49284_0174_00096;96;;Route du Coeur du Roy;49170;49284;Saint-Germain-des-Prés;;;-0.819315;47.389251
+49284_0071_00003;3;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.825975;47.408529
+49284_0015_00013;13;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.828463;47.41061
+49284_0023_00003;3;;Rue de la Chapelle;49170;49284;Saint-Germain-des-Prés;;;-0.830527;47.40963
+49284_0074_00008;8;;Rue du Pontron;49170;49284;Saint-Germain-des-Prés;;;-0.836036;47.41099
+49284_0036_00006;6;;Rue Ferdinand Dubois;49170;49284;Saint-Germain-des-Prés;;;-0.827584;47.409818
+49284_0082_00004;4;;Square René Lacombe;49170;49284;Saint-Germain-des-Prés;;;-0.836314;47.410442
+49284_0174_00106;106;;Route du Coeur du Roy;49170;49284;Saint-Germain-des-Prés;;;-0.81927;47.389345
+49284_0121_00687;687;;Chemin de la Rebillarderie;49170;49284;Saint-Germain-des-Prés;;;-0.82779;47.425842
+49284_0114_00057;57;;Route de la Perchalerie;49170;49284;Saint-Germain-des-Prés;;;-0.830889;47.390993
+49284_0148_00155;155;;Chemin de la Derouetterie;49170;49284;Saint-Germain-des-Prés;;;-0.795595;47.406635
+49284_0136_00596;596;;Route de la Maison Neuve;49170;49284;Saint-Germain-des-Prés;;;-0.815438;47.415502
+49284_0110_00026;26;;Impasse de la Boire Boileau;49170;49284;Saint-Germain-des-Prés;;;-0.837551;47.392961
+49284_0156_00346;346;;Route de la Crouas;49170;49284;Saint-Germain-des-Prés;;;-0.805285;47.406767
+49284_0164_00664;664;;Route de la Touche;49170;49284;Saint-Germain-des-Prés;;;-0.826224;47.406513
+49284_0070_00007;7;;Rue aux Oies;49170;49284;Saint-Germain-des-Prés;;;-0.833495;47.408733
+49284_0041_00013;13;;Rue du Joulai;49170;49284;Saint-Germain-des-Prés;;;-0.841225;47.409193
+49284_0037_00018;18;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.83352;47.409384
+49284_0072_00006;6;;Rue des Peupliers;49170;49284;Saint-Germain-des-Prés;;;-0.830581;47.410757
+49284_0005_00004;4;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.839499;47.409503
+49284_0166_02555;2555;;Route d'Angers;49170;49284;Saint-Germain-des-Prés;;;-0.797077;47.409527
+49284_0173_00163;163;;Route de la Corvée;49170;49284;Saint-Germain-des-Prés;;;-0.821573;47.39027
+49284_0142_00700;700;;Route du Grand Soucy;49170;49284;Saint-Germain-des-Prés;;;-0.781119;47.424076
+49284_0106_01701;1701;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.837258;47.39255
+49284_0090_00005;5;;Rue Saint-Charles;49170;49284;Saint-Germain-des-Prés;;;-0.833912;47.409682
+49284_0099_00003;3;;Square des Frères Boumard;49170;49284;Saint-Germain-des-Prés;;;-0.838719;47.409612
+49284_0082_00002;2;;Square René Lacombe;49170;49284;Saint-Germain-des-Prés;;;-0.836108;47.41024
+49284_0165_00005;5;;Impasse Saint-Germain;49170;49284;Saint-Germain-des-Prés;;;-0.832066;47.410891
+49284_0145_00099;99;;Route de la Palâterie;49170;49284;Saint-Germain-des-Prés;;;-0.793632;47.41018
+49284_0028_00005;5;;Rue Constant Lebreton;49170;49284;Saint-Germain-des-Prés;;;-0.82702;47.409009
+49284_0022_00015;15;;Rue de la Boulairie;49170;49284;Saint-Germain-des-Prés;;;-0.834176;47.411242
+49284_0023_00002_bis;2;Bis;Rue de la Chapelle;49170;49284;Saint-Germain-des-Prés;;;-0.83055;47.409858
+49284_0154_00124;124;;Chemin de la Mare;49170;49284;Saint-Germain-des-Prés;;;-0.804232;47.407575
+49284_0147_00091;91;;Route du Boyau;49170;49284;Saint-Germain-des-Prés;;;-0.78987;47.40835
+49284_0082_00003;3;;Square René Lacombe;49170;49284;Saint-Germain-des-Prés;;;-0.83615;47.410254
+49284_0071_00006;6;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.825752;47.408665
+49284_0034_00007;7;;Rue Georges Bérault;49170;49284;Saint-Germain-des-Prés;;;-0.825961;47.409357
+49284_0037_00008;8;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.834358;47.408719
+49284_0141_00290;290;;Route de Réveillon;49170;49284;Saint-Germain-des-Prés;;;-0.796522;47.42344
+49284_0152_00060;60;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.79453;47.408822
+49284_wwd7uh_00001;1;;la Roincière;49170;49284;Saint-Germain-des-Prés;;;-0.811017;47.431736
+49284_0175_00061;61;;Rue de l'Ile Monsieur;49170;49284;Saint-Germain-des-Prés;;;-0.816927;47.38833
+49284_0074_00001;1;;Rue du Pontron;49170;49284;Saint-Germain-des-Prés;;;-0.835987;47.410899
+49284_0169_01680;1680;;Route du Grand Moulin;49170;49284;Saint-Germain-des-Prés;;;-0.814262;47.420714
+49284_0164_00184;184;;Route de la Touche;49170;49284;Saint-Germain-des-Prés;;;-0.831856;47.407773
+49284_0037_00020;20;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.832713;47.409863
+49284_0157_00004;4;;Route de la Missonnière;49170;49284;Saint-Germain-des-Prés;;;-0.81511;47.402519
+49284_0042_00003;3;;Square les Jousselins;49170;49284;Saint-Germain-des-Prés;;;-0.832817;47.410376
+49284_0031_00004;4;;Rue de l'Eglise;49170;49284;Saint-Germain-des-Prés;;;-0.834633;47.408893
+49284_0145_00745;745;;Route de la Palâterie;49170;49284;Saint-Germain-des-Prés;;;-0.789986;47.41459
+49284_0173_00029;29;;Route de la Corvée;49170;49284;Saint-Germain-des-Prés;;;-0.822066;47.389077
+49284_0144_00020;20;;Route de la Chauvière;49170;49284;Saint-Germain-des-Prés;;;-0.79759;47.40966
+49284_b536_00005;5;;la Petite Maison Neuve;49170;49284;Saint-Germain-des-Prés;;;-0.815492;47.417541
+49284_0071_00011;11;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.824847;47.40966
+49284_0132_00240;240;;Chemin de la Pinaudière;49170;49284;Saint-Germain-des-Prés;;;-0.807738;47.411782
+49284_0036_00009;9;;Rue Ferdinand Dubois;49170;49284;Saint-Germain-des-Prés;;;-0.827595;47.410141
+49284_0152_00062;62;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.79485;47.408836
+49284_0171_00022;22;;Impasse des Aigrettes;49170;49284;Saint-Germain-des-Prés;;;-0.820993;47.39011
+49284_0020_00249;249;;Chemin de la Blonnière;49170;49284;Saint-Germain-des-Prés;;;-0.818404;47.436881
+49284_0173_00088;88;;Route de la Corvée;49170;49284;Saint-Germain-des-Prés;;;-0.82141;47.389566
+49284_0070_00013;13;;Rue aux Oies;49170;49284;Saint-Germain-des-Prés;;;-0.833574;47.408385
+49284_0002_00007;7;;Rue des Acacias;49170;49284;Saint-Germain-des-Prés;;;-0.829515;47.410678
+49284_0085_02071;2071;;Route de Saint-Augustin;49170;49284;Saint-Germain-des-Prés;;;-0.820796;47.428875
+49284_0023_00001_ter;1;Ter;Rue de la Chapelle;49170;49284;Saint-Germain-des-Prés;;;-0.830489;47.409701
+49284_0130_00223;223;;Route des Breils;49170;49284;Saint-Germain-des-Prés;;;-0.824361;47.417514
+49284_0050_00001;1;;Rue de la Mairie;49170;49284;Saint-Germain-des-Prés;;;-0.833979;47.408212
+49284_0023_00004;4;;Rue de la Chapelle;49170;49284;Saint-Germain-des-Prés;;;-0.830685;47.409532
+49284_0162_00108;108;;Chemin du Moulin Gras;49170;49284;Saint-Germain-des-Prés;;;-0.820821;47.403856
+49284_0152_01138;1138;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.79843;47.400236
+49284_0037_00013;13;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.834113;47.409057
+49284_0149_00039;39;;Chemin de la Dioterie;49170;49284;Saint-Germain-des-Prés;;;-0.797534;47.400332
+49284_0034_00005;5;;Rue Georges Bérault;49170;49284;Saint-Germain-des-Prés;;;-0.825974;47.409287
+49284_0074_00007;7;;Rue du Pontron;49170;49284;Saint-Germain-des-Prés;;;-0.836126;47.411072
+49284_0167_00614;614;;Route de la Chauffeterie;49170;49284;Saint-Germain-des-Prés;;;-0.810288;47.426659
+49284_0143_00405;405;;Route de la Borderie;49170;49284;Saint-Germain-des-Prés;;;-0.795177;47.413807
+49284_0178_00209;209;;Rue de la Varenne;49170;49284;Saint-Germain-des-Prés;;;-0.812052;47.38795
+49284_0090_00007;7;;Rue Saint-Charles;49170;49284;Saint-Germain-des-Prés;;;-0.834323;47.409799
+49284_0168_00033;33;;Route de la Loge;49170;49284;Saint-Germain-des-Prés;;;-0.807863;47.388336
+49284_0128_00191;191;;Chemin du Vieux Breil;49170;49284;Saint-Germain-des-Prés;;;-0.823309;47.418515
+49284_0022_00019;19;;Rue de la Boulairie;49170;49284;Saint-Germain-des-Prés;;;-0.834367;47.41125
+49284_0005_00017;17;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.84113;47.409805
+49284_0071_00022;22;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.824712;47.409572
+49284_0164_00745;745;;Route de la Touche;49170;49284;Saint-Germain-des-Prés;;;-0.825633;47.4061
+49284_0039_00004;4;;Rue de l'Hommet;49170;49284;Saint-Germain-des-Prés;;;-0.835195;47.411105
+49284_0076_00005;5;;Square du Pré Fleury;49170;49284;Saint-Germain-des-Prés;;;-0.838691;47.410305
+49284_0033_00001;1;;Rue Saint-Joseph;49170;49284;Saint-Germain-des-Prés;;;-0.834869;47.41027
+49284_0034_00011;11;;Rue Georges Bérault;49170;49284;Saint-Germain-des-Prés;;;-0.8259;47.409714
+49284_0174_00148;148;;Route du Coeur du Roy;49170;49284;Saint-Germain-des-Prés;;;-0.819068;47.389689
+49284_0037_00022;22;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.832619;47.409995
+49284_0135_00050;50;;Impasse du Champ du Jardin;49170;49284;Saint-Germain-des-Prés;;;-0.79963;47.410011
+49284_0153_00645;645;;Route de la Pierre Salée;49170;49284;Saint-Germain-des-Prés;;;-0.801627;47.403856
+49284_0037_00018_bis;18;Bis;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.8333;47.409503
+49284_0028_00002;2;;Rue Constant Lebreton;49170;49284;Saint-Germain-des-Prés;;;-0.82701;47.408776
+49284_0028_00015;15;;Rue Constant Lebreton;49170;49284;Saint-Germain-des-Prés;;;-0.826782;47.409949
+49284_0036_00001;1;;Rue Ferdinand Dubois;49170;49284;Saint-Germain-des-Prés;;;-0.827309;47.409265
+49284_0169_02600;2600;;Route du Grand Moulin;49170;49284;Saint-Germain-des-Prés;;;-0.802967;47.421199
+49284_0071_00008;8;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.825636;47.408864
+49284_0152_01109;1109;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.798103;47.400397
+49284_0101_00002;2;;Rue des Vignes;49170;49284;Saint-Germain-des-Prés;;;-0.840086;47.409842
+49284_0150_00065;65;;Impasse de Foulitourne;49170;49284;Saint-Germain-des-Prés;;;-0.798414;47.401131
+49284_0010_00015;15;;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.829377;47.409298
+49284_0037_00011;11;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.834302;47.408926
+49284_0031_00010;10;;Rue de l'Eglise;49170;49284;Saint-Germain-des-Prés;;;-0.835164;47.409025
+49284_0130_00249;249;;Route des Breils;49170;49284;Saint-Germain-des-Prés;;;-0.824093;47.417414
+49284_0109_00016;16;;Chemin du Grand Ayrault;49170;49284;Saint-Germain-des-Prés;;;-0.831414;47.390832
+49284_0121_00013;13;;Chemin de la Rebillarderie;49170;49284;Saint-Germain-des-Prés;;;-0.824463;47.422469
+49284_0042_00008;8;;Square les Jousselins;49170;49284;Saint-Germain-des-Prés;;;-0.833121;47.410372
+49284_0145_01265;1265;;Route de la Palâterie;49170;49284;Saint-Germain-des-Prés;;;-0.786673;47.418555
+49284_0085_00457;457;;Route de Saint-Augustin;49170;49284;Saint-Germain-des-Prés;;;-0.82842;47.415294
+49284_0130_00125;125;;Route des Breils;49170;49284;Saint-Germain-des-Prés;;;-0.825063;47.418168
+49284_0071_00034;34;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.825531;47.41008
+49284_0165_00003;3;;Impasse Saint-Germain;49170;49284;Saint-Germain-des-Prés;;;-0.832061;47.410852
+49284_0174_00067;67;;Route du Coeur du Roy;49170;49284;Saint-Germain-des-Prés;;;-0.81942;47.389014
+49284_0092_00009;9;;Rue Saint-René;49170;49284;Saint-Germain-des-Prés;;;-0.834536;47.409227
+49284_0028_00013;13;;Rue Constant Lebreton;49170;49284;Saint-Germain-des-Prés;;;-0.826819;47.409747
+49284_0145_00700;700;;Route de la Palâterie;49170;49284;Saint-Germain-des-Prés;;;-0.790082;47.414165
+49284_0130_00562;562;;Route des Breils;49170;49284;Saint-Germain-des-Prés;;;-0.821546;47.416584
+49284_0074_00005;5;;Rue du Pontron;49170;49284;Saint-Germain-des-Prés;;;-0.836291;47.4111
+49284_0106_02665;2665;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.825437;47.389332
+49284_0173_00123;123;;Route de la Corvée;49170;49284;Saint-Germain-des-Prés;;;-0.821464;47.389925
+49284_0152_00064;64;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.794953;47.408847
+49284_0125_00068;68;;Chemin de la Grande Homelle;49170;49284;Saint-Germain-des-Prés;;;-0.836304;47.412247
+49284_0153_00074;74;;Route de la Pierre Salée;49170;49284;Saint-Germain-des-Prés;;;-0.799931;47.408797
+49284_0015_00005;5;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.829562;47.410177
+49284_0130_00190;190;;Route des Breils;49170;49284;Saint-Germain-des-Prés;;;-0.82548;47.417349
+49284_0125_00063;63;;Chemin de la Grande Homelle;49170;49284;Saint-Germain-des-Prés;;;-0.836396;47.412186
+49284_0156_00112;112;;Route de la Crouas;49170;49284;Saint-Germain-des-Prés;;;-0.807042;47.408185
+49284_0161_00065;65;;Chemin des Marais;49170;49284;Saint-Germain-des-Prés;;;-0.835494;47.407922
+49284_0036_00013;13;;Rue Ferdinand Dubois;49170;49284;Saint-Germain-des-Prés;;;-0.827479;47.410242
+49284_0107_00114;114;;Route des Goganes;49170;49284;Saint-Germain-des-Prés;;;-0.834839;47.406868
+49284_0041_00015;15;;Rue du Joulai;49170;49284;Saint-Germain-des-Prés;;;-0.84142;47.409215
+49284_0037_00006;6;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.834372;47.40863
+49284_0072_00002;2;;Rue des Peupliers;49170;49284;Saint-Germain-des-Prés;;;-0.83086;47.410468
+49284_0143_00014;14;;Route de la Borderie;49170;49284;Saint-Germain-des-Prés;;;-0.791851;47.411718
+49284_0032_00020;20;;Rue de la Garenne;49170;49284;Saint-Germain-des-Prés;;;-0.84025;47.410366
+49284_0165_00013;13;;Impasse Saint-Germain;49170;49284;Saint-Germain-des-Prés;;;-0.832716;47.411282
+49284_0015_00002;2;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.832056;47.410383
+49284_0127_00131;131;;Chemin des Frênes;49170;49284;Saint-Germain-des-Prés;;;-0.829174;47.412995
+49284_0033_00002;2;;Rue Saint-Joseph;49170;49284;Saint-Germain-des-Prés;;;-0.83491;47.410408
+49284_0071_00026;26;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.824637;47.409923
+49284_0082_00001;1;;Square René Lacombe;49170;49284;Saint-Germain-des-Prés;;;-0.836014;47.410383
+49284_0034_00002;2;;Rue Georges Bérault;49170;49284;Saint-Germain-des-Prés;;;-0.825828;47.409359
+49284_0035_00004;4;;Rue de l'Evêque;49170;49284;Saint-Germain-des-Prés;;;-0.833963;47.408878
+49284_0109_00007;7;;Chemin du Grand Ayrault;49170;49284;Saint-Germain-des-Prés;;;-0.831742;47.390777
+49284_0034_00009;9;;Rue Georges Bérault;49170;49284;Saint-Germain-des-Prés;;;-0.825912;47.409647
+49284_0152_01005;1005;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.797229;47.40109
+49284_0169_00265;265;;Route du Grand Moulin;49170;49284;Saint-Germain-des-Prés;;;-0.827352;47.412623
+49284_0156_00115;115;;Route de la Crouas;49170;49284;Saint-Germain-des-Prés;;;-0.806952;47.408123
+49284_0015_00024;24;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.828724;47.410038
+49284_0037_00007;7;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.834571;47.408687
+49284_0042_00007;7;;Square les Jousselins;49170;49284;Saint-Germain-des-Prés;;;-0.833114;47.41034
+49284_0145_00925;925;;Route de la Palâterie;49170;49284;Saint-Germain-des-Prés;;;-0.788115;47.415979
+49284_0022_00010;10;;Rue de la Boulairie;49170;49284;Saint-Germain-des-Prés;;;-0.833897;47.410697
+49284_0033_00004;4;;Rue Saint-Joseph;49170;49284;Saint-Germain-des-Prés;;;-0.835008;47.410454
+49284_0117_00056;56;;Impasse la Haie;49170;49284;Saint-Germain-des-Prés;;;-0.82141;47.428956
+49284_0041_00019;19;;Rue du Joulai;49170;49284;Saint-Germain-des-Prés;;;-0.841811;47.40924
+49284_0129_00229;229;;Route de la Potherie;49170;49284;Saint-Germain-des-Prés;;;-0.832813;47.413454
+49284_0131_00127;127;;Rue du Champ de la Plaine;49170;49284;Saint-Germain-des-Prés;;;-0.830963;47.414155
+49284_0002_00005;5;;Rue des Acacias;49170;49284;Saint-Germain-des-Prés;;;-0.829819;47.410665
+49284_0092_00002;2;;Rue Saint-René;49170;49284;Saint-Germain-des-Prés;;;-0.834455;47.409047
+49284_0076_00003;3;;Square du Pré Fleury;49170;49284;Saint-Germain-des-Prés;;;-0.838889;47.410262
+49284_0074_00003;3;;Rue du Pontron;49170;49284;Saint-Germain-des-Prés;;;-0.836164;47.410981
+49284_0153_00218;218;;Route de la Pierre Salée;49170;49284;Saint-Germain-des-Prés;;;-0.800199;47.407529
+49284_0041_00011;11;;Rue du Joulai;49170;49284;Saint-Germain-des-Prés;;;-0.841034;47.40918
+49284_0141_00571;571;;Route de Réveillon;49170;49284;Saint-Germain-des-Prés;;;-0.796017;47.42573
+49284_0157_00336;336;;Route de la Missonnière;49170;49284;Saint-Germain-des-Prés;;;-0.810896;47.401338
+49284_0015_00008;8;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.831543;47.41033
+49284_0175_00020;20;;Rue de l'Ile Monsieur;49170;49284;Saint-Germain-des-Prés;;;-0.816835;47.388004
+49284_0002_00004;4;;Rue des Acacias;49170;49284;Saint-Germain-des-Prés;;;-0.829219;47.4105
+49284_0113_00038;38;;Route de la Boire Guyard;49170;49284;Saint-Germain-des-Prés;;;-0.826638;47.389802
+49284_0050_00003;3;;Rue de la Mairie;49170;49284;Saint-Germain-des-Prés;;;-0.832625;47.408088
+49284_b536_00001;1;;la Petite Maison Neuve;49170;49284;Saint-Germain-des-Prés;;;-0.815184;47.417239
+49284_0106_01935;1935;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.834682;47.391558
+49284_0020_00331;331;;Chemin de la Blonnière;49170;49284;Saint-Germain-des-Prés;;;-0.819237;47.436461
+49284_0070_00001;1;;Rue aux Oies;49170;49284;Saint-Germain-des-Prés;;;-0.83363;47.409139
+49284_0037_00015;15;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.834073;47.409084
+49284_0023_00001_bis;1;Bis;Rue de la Chapelle;49170;49284;Saint-Germain-des-Prés;;;-0.830266;47.409737
+49284_0145_00765;765;;Route de la Palâterie;49170;49284;Saint-Germain-des-Prés;;;-0.789696;47.414922
+49284_0114_00362;362;;Route de la Perchalerie;49170;49284;Saint-Germain-des-Prés;;;-0.831163;47.393311
+49284_0041_00006;6;;Rue du Joulai;49170;49284;Saint-Germain-des-Prés;;;-0.841261;47.409317
+49284_0036_00008;8;;Rue Ferdinand Dubois;49170;49284;Saint-Germain-des-Prés;;;-0.827221;47.409985
+49284_0144_00120;120;;Route de la Chauvière;49170;49284;Saint-Germain-des-Prés;;;-0.795991;47.410547
+49284_0085_01160;1160;;Route de Saint-Augustin;49170;49284;Saint-Germain-des-Prés;;;-0.824952;47.421087
+49284_0022_00006;6;;Rue de la Boulairie;49170;49284;Saint-Germain-des-Prés;;;-0.834698;47.410072
+49284_0131_00022;22;;Rue du Champ de la Plaine;49170;49284;Saint-Germain-des-Prés;;;-0.831994;47.414705
+49284_0106_01591;1591;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.838411;47.393259
+49284_0156_00400;400;;Route de la Crouas;49170;49284;Saint-Germain-des-Prés;;;-0.80469;47.406499
+49284_0032_00014;14;;Rue de la Garenne;49170;49284;Saint-Germain-des-Prés;;;-0.83946;47.410609
+49284_0106_01887;1887;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.835034;47.391681
+49284_0039_00001;1;;Rue de l'Hommet;49170;49284;Saint-Germain-des-Prés;;;-0.835381;47.41066
+49284_0152_00105;105;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.794479;47.408418
+49284_0071_00036;36;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.826072;47.410122
+49284_0129_00443;443;;Route de la Potherie;49170;49284;Saint-Germain-des-Prés;;;-0.83232;47.415307
+49284_0092_00010;10;;Rue Saint-René;49170;49284;Saint-Germain-des-Prés;;;-0.834414;47.40925
+49284_0074_00006;6;;Rue du Pontron;49170;49284;Saint-Germain-des-Prés;;;-0.83625;47.411127
+49284_0130_00213;213;;Route des Breils;49170;49284;Saint-Germain-des-Prés;;;-0.824429;47.417604
+49284_0171_00052;52;;Impasse des Aigrettes;49170;49284;Saint-Germain-des-Prés;;;-0.820676;47.390134
+49284_0041_00007;7;;Rue du Joulai;49170;49284;Saint-Germain-des-Prés;;;-0.8405;47.409178
+49284_0142_00402;402;;Route du Grand Soucy;49170;49284;Saint-Germain-des-Prés;;;-0.78238;47.420299
+49284_0005_00018;18;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.841437;47.410002
+49284_0010_00021;21;;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.828389;47.408823
+49284_0174_00056;56;;Route du Coeur du Roy;49170;49284;Saint-Germain-des-Prés;;;-0.819319;47.38891
+49284_0106_03699;3699;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.812661;47.38634
+49284_0154_00108;108;;Chemin de la Mare;49170;49284;Saint-Germain-des-Prés;;;-0.804261;47.407445
+49284_0106_02669;2669;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.825338;47.389349
+49284_0074_00002;2;;Rue du Pontron;49170;49284;Saint-Germain-des-Prés;;;-0.836129;47.41096
+49284_0166_01820;1820;;Route d'Angers;49170;49284;Saint-Germain-des-Prés;;;-0.806734;47.409634
+49284_0152_01056;1056;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.797758;47.400805
+49284_0169_00303;303;;Route du Grand Moulin;49170;49284;Saint-Germain-des-Prés;;;-0.826921;47.412822
+49284_0122_00211;211;;Chemin des Landes;49170;49284;Saint-Germain-des-Prés;;;-0.82173;47.422371
+49284_0035_00002;2;;Rue de l'Evêque;49170;49284;Saint-Germain-des-Prés;;;-0.834091;47.408908
+49284_0142_01595;1595;;Route du Grand Soucy;49170;49284;Saint-Germain-des-Prés;;;-0.777223;47.430638
+49284_0112_00021;21;;Route de la Boire aux Jubins;49170;49284;Saint-Germain-des-Prés;;;-0.828267;47.389907
+49284_0085_01671;1671;;Route de Saint-Augustin;49170;49284;Saint-Germain-des-Prés;;;-0.822673;47.425508
+49284_0173_00035;35;;Route de la Corvée;49170;49284;Saint-Germain-des-Prés;;;-0.821842;47.389128
+49284_0164_00486;486;;Route de la Touche;49170;49284;Saint-Germain-des-Prés;;;-0.82823;47.407285
+49284_0166_02490;2490;;Route d'Angers;49170;49284;Saint-Germain-des-Prés;;;-0.797788;47.409338
+49284_0166_02525;2525;;Route d'Angers;49170;49284;Saint-Germain-des-Prés;;;-0.7973;47.409532
+49284_0115_00046;46;;Chemin de l'Espérance;49170;49284;Saint-Germain-des-Prés;;;-0.815273;47.436201
+49284_0156_00360;360;;Route de la Crouas;49170;49284;Saint-Germain-des-Prés;;;-0.805012;47.406759
+49284_0175_00079;79;;Rue de l'Ile Monsieur;49170;49284;Saint-Germain-des-Prés;;;-0.817086;47.388433
+49284_0051_00002;2;;Impasse de la Mairie;49170;49284;Saint-Germain-des-Prés;;;-0.833023;47.408746
+49284_0071_00004;4;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.825812;47.408525
+49284_0071_00009;9;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.824869;47.409582
+49284_0042_00002;2;;Square les Jousselins;49170;49284;Saint-Germain-des-Prés;;;-0.832842;47.41052
+49284_0071_00002;2;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.82587;47.408357
+49284_0085_01402;1402;;Route de Saint-Augustin;49170;49284;Saint-Germain-des-Prés;;;-0.823774;47.423145
+49284_0165_00002;2;;Impasse Saint-Germain;49170;49284;Saint-Germain-des-Prés;;;-0.831453;47.411202
+49284_0031_00008;8;;Rue de l'Eglise;49170;49284;Saint-Germain-des-Prés;;;-0.834764;47.408915
+49284_0036_00004;4;;Rue Ferdinand Dubois;49170;49284;Saint-Germain-des-Prés;;;-0.827453;47.409613
+49284_0071_00005;5;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.825915;47.408703
+49284_0101_00001;1;;Rue des Vignes;49170;49284;Saint-Germain-des-Prés;;;-0.839973;47.409869
+49284_0129_00964;964;;Route de la Potherie;49170;49284;Saint-Germain-des-Prés;;;-0.827169;47.417805
+49284_0037_00027_bis;27;Bis;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.833266;47.409798
+49284_0002_00009;9;;Rue des Acacias;49170;49284;Saint-Germain-des-Prés;;;-0.829279;47.410705
+49284_0140_00062;62;;Impasse de la Grande Morinière;49170;49284;Saint-Germain-des-Prés;;;-0.787671;47.420797
+49284_0070_00009;9;;Rue aux Oies;49170;49284;Saint-Germain-des-Prés;;;-0.833516;47.408661
+49284_0085_00493;493;;Route de Saint-Augustin;49170;49284;Saint-Germain-des-Prés;;;-0.828326;47.415842
+49284_0005_00002;2;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.839364;47.409439
+49284_0167_00294;294;;Route de la Chauffeterie;49170;49284;Saint-Germain-des-Prés;;;-0.809047;47.423916
+49284_0072_00004;4;;Rue des Peupliers;49170;49284;Saint-Germain-des-Prés;;;-0.830828;47.410612
+49284_0101_00005;5;;Rue des Vignes;49170;49284;Saint-Germain-des-Prés;;;-0.840041;47.410184
+49284_0145_00135;135;;Route de la Palâterie;49170;49284;Saint-Germain-des-Prés;;;-0.793142;47.410333
+49284_0005_00016;16;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.841259;47.409969
+49284_0144_01204;1204;;Route de la Chauvière;49170;49284;Saint-Germain-des-Prés;;;-0.798724;47.419743
+49284_0178_00053;53;;Rue de la Varenne;49170;49284;Saint-Germain-des-Prés;;;-0.810654;47.38831
+49284_0167_00532;532;;Route de la Chauffeterie;49170;49284;Saint-Germain-des-Prés;;;-0.810055;47.425974
+49284_0180_00095;95;;Rue Salé;49170;49284;Saint-Germain-des-Prés;;;-0.807459;47.386016
+49284_0145_00895;895;;Route de la Palâterie;49170;49284;Saint-Germain-des-Prés;;;-0.788536;47.415864
+49284_0085_00249;249;;Route de Saint-Augustin;49170;49284;Saint-Germain-des-Prés;;;-0.829364;47.413514
+49284_0005_00003;3;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.839798;47.409466
+49284_0032_00011;11;;Rue de la Garenne;49170;49284;Saint-Germain-des-Prés;;;-0.839569;47.410356
+49284_0112_00107;107;;Route de la Boire aux Jubins;49170;49284;Saint-Germain-des-Prés;;;-0.828072;47.390658
+49284_0028_00003;3;;Rue Constant Lebreton;49170;49284;Saint-Germain-des-Prés;;;-0.827097;47.408893
+49284_0085_03052;3052;;Route de Saint-Augustin;49170;49284;Saint-Germain-des-Prés;;;-0.815158;47.436785
+49284_0010_00023;23;;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.828042;47.408717
+49284_0138_00028;28;;Chemin de l'Enclose;49170;49284;Saint-Germain-des-Prés;;;-0.797924;47.421011
+49284_0032_00016;16;;Rue de la Garenne;49170;49284;Saint-Germain-des-Prés;;;-0.839601;47.410499
+49284_0051_00001;1;;Impasse de la Mairie;49170;49284;Saint-Germain-des-Prés;;;-0.833283;47.408828
+49284_0070_00016;16;;Rue aux Oies;49170;49284;Saint-Germain-des-Prés;;;-0.833733;47.408468
+49284_0106_01369;1369;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.840457;47.394393
+49284_0179_00040;40;;Rue de l'Ile aux Prunes;49170;49284;Saint-Germain-des-Prés;;;-0.81407;47.387305
+49284_wwd7uh_00004;4;;la Roincière;49170;49284;Saint-Germain-des-Prés;;;-0.810524;47.432041
+49284_0042_00005;5;;Square les Jousselins;49170;49284;Saint-Germain-des-Prés;;;-0.833026;47.410216
+49284_0130_00674;674;;Route des Breils;49170;49284;Saint-Germain-des-Prés;;;-0.821006;47.417438
+49284_0071_00020;20;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.824807;47.409391
+49284_0166_02200;2200;;Route d'Angers;49170;49284;Saint-Germain-des-Prés;;;-0.801719;47.409354
+49284_0092_00003;3;;Rue Saint-René;49170;49284;Saint-Germain-des-Prés;;;-0.834511;47.409034
+49284_0158_00084;84;;Route de la Pellerie;49170;49284;Saint-Germain-des-Prés;;;-0.80991;47.40885
+49284_0133_00573;573;;Chemin des Noues Rondes;49170;49284;Saint-Germain-des-Prés;;;-0.811194;47.418315
+49284_0074_00009;9;;Rue du Pontron;49170;49284;Saint-Germain-des-Prés;;;-0.835981;47.410961
+49284_0106_01825;1825;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.835908;47.392009
+49284_0140_00072;72;;Impasse de la Grande Morinière;49170;49284;Saint-Germain-des-Prés;;;-0.787784;47.420735
+49284_0070_00010;10;;Rue aux Oies;49170;49284;Saint-Germain-des-Prés;;;-0.83358;47.408656
+49284_0141_01000;1000;;Route de Réveillon;49170;49284;Saint-Germain-des-Prés;;;-0.795311;47.430321
+49284_0028_00011;11;;Rue Constant Lebreton;49170;49284;Saint-Germain-des-Prés;;;-0.826844;47.409593
+49284_0144_01206;1206;;Route de la Chauvière;49170;49284;Saint-Germain-des-Prés;;;-0.798705;47.419779
+49284_0167_00296;296;;Route de la Chauffeterie;49170;49284;Saint-Germain-des-Prés;;;-0.809092;47.423953
+49284_0036_00015;15;;Rue Ferdinand Dubois;49170;49284;Saint-Germain-des-Prés;;;-0.827057;47.410207
+49284_0032_00018;18;;Rue de la Garenne;49170;49284;Saint-Germain-des-Prés;;;-0.839757;47.410387
+49284_0005_00014;14;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.841084;47.409903
+49284_0071_00018;18;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.82494;47.409266
+49284_0005_00019;19;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.841312;47.409886
+49284_wwd7uh_00005;5;;la Roincière;49170;49284;Saint-Germain-des-Prés;;;-0.810961;47.431926
+49284_0071_00001;1;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.826017;47.408437
+49284_0034_00004;4;;Rue Georges Bérault;49170;49284;Saint-Germain-des-Prés;;;-0.825784;47.409612
+49284_0130_00529;529;;Route des Breils;49170;49284;Saint-Germain-des-Prés;;;-0.821965;47.416415
+49284_0152_00136;136;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.794586;47.408126
+49284_0015_00030;30;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.828174;47.410528
+49284_0090_00003;3;;Rue Saint-Charles;49170;49284;Saint-Germain-des-Prés;;;-0.833747;47.409627
+49284_0039_00007;7;;Rue de l'Hommet;49170;49284;Saint-Germain-des-Prés;;;-0.834945;47.410946
+49284_0022_00017;17;;Rue de la Boulairie;49170;49284;Saint-Germain-des-Prés;;;-0.8343;47.411247
+49284_0035_00001;1;;Rue de l'Evêque;49170;49284;Saint-Germain-des-Prés;;;-0.834004;47.408935
+49284_0106_02861;2861;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.82287;47.388939
+49284_0108_00034;34;;Chemin des Maisons Rouges;49170;49284;Saint-Germain-des-Prés;;;-0.833388;47.39139
+49284_0153_00557;557;;Route de la Pierre Salée;49170;49284;Saint-Germain-des-Prés;;;-0.801088;47.404563
+49284_0010_00005;5;;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.831751;47.409543
+49284_0128_00229;229;;Chemin du Vieux Breil;49170;49284;Saint-Germain-des-Prés;;;-0.82303;47.418311
+49284_0028_00001;1;;Rue Constant Lebreton;49170;49284;Saint-Germain-des-Prés;;;-0.827207;47.408721
+49284_0076_00007;7;;Square du Pré Fleury;49170;49284;Saint-Germain-des-Prés;;;-0.838546;47.410408
+49284_0031_00012;12;;Rue de l'Eglise;49170;49284;Saint-Germain-des-Prés;;;-0.835338;47.409083
+49284_0129_00419;419;;Route de la Potherie;49170;49284;Saint-Germain-des-Prés;;;-0.832326;47.415078
+49284_0177_00063;63;;Route des Marronniers;49170;49284;Saint-Germain-des-Prés;;;-0.813506;47.387303
+49284_0042_00016;16;;Square les Jousselins;49170;49284;Saint-Germain-des-Prés;;;-0.832576;47.410862
+49284_0042_00010;10;;Square les Jousselins;49170;49284;Saint-Germain-des-Prés;;;-0.832961;47.410734
+49284_0102_00002;2;;Rue Boris Vian;49170;49284;Saint-Germain-des-Prés;;;-0.833962;47.410463
+49284_0144_00059;59;;Route de la Chauvière;49170;49284;Saint-Germain-des-Prés;;;-0.797418;47.410026
+49284_0156_00207;207;;Route de la Crouas;49170;49284;Saint-Germain-des-Prés;;;-0.806139;47.407812
+49284_0156_00132;132;;Route de la Crouas;49170;49284;Saint-Germain-des-Prés;;;-0.807013;47.407964
+49284_0050_00007;7;;Rue de la Mairie;49170;49284;Saint-Germain-des-Prés;;;-0.830356;47.408224
+49284_0038_00129;129;;Rue du Lavoir;49170;49284;Saint-Germain-des-Prés;;;-0.835994;47.408774
+49284_0022_00007;7;;Rue de la Boulairie;49170;49284;Saint-Germain-des-Prés;;;-0.834361;47.410834
+49284_0114_00101;101;;Route de la Perchalerie;49170;49284;Saint-Germain-des-Prés;;;-0.831364;47.391313
+49284_0152_01332;1332;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.799902;47.398843
+49284_0127_00149;149;;Chemin des Frênes;49170;49284;Saint-Germain-des-Prés;;;-0.828342;47.413014
+49284_0133_00050;50;;Chemin des Noues Rondes;49170;49284;Saint-Germain-des-Prés;;;-0.815607;47.416898
+49284_0169_00197;197;;Route du Grand Moulin;49170;49284;Saint-Germain-des-Prés;;;-0.828097;47.412329
+49284_0002_00001;1;;Rue des Acacias;49170;49284;Saint-Germain-des-Prés;;;-0.829987;47.410545
+49284_0085_00001;1;;Route de Saint-Augustin;49170;49284;Saint-Germain-des-Prés;;;-0.831582;47.411561
+49284_0042_00006;6;;Square les Jousselins;49170;49284;Saint-Germain-des-Prés;;;-0.833059;47.410214
+49284_0172_00056;56;;Route de la Boire aux Dauneaux;49170;49284;Saint-Germain-des-Prés;;;-0.81603;47.387863
+49284_0010_00001;1;;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.832683;47.409796
+49284_0071_00014;14;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.825348;47.409082
+49284_0114_00068;68;;Route de la Perchalerie;49170;49284;Saint-Germain-des-Prés;;;-0.830869;47.391189
+49284_0151_00090;90;;Impasse de la Camuserie;49170;49284;Saint-Germain-des-Prés;;;-0.796694;47.407034
+49284_0036_00007;7;;Rue Ferdinand Dubois;49170;49284;Saint-Germain-des-Prés;;;-0.827682;47.409969
+49284_0150_00008;8;;Impasse de Foulitourne;49170;49284;Saint-Germain-des-Prés;;;-0.798743;47.400677
+49284_0104_00002;2;;Rue du Moulin Piau;49170;49284;Saint-Germain-des-Prés;;;-0.838878;47.411249
+49284_wwd7uh_00006;6;;la Roincière;49170;49284;Saint-Germain-des-Prés;;;-0.810904;47.431648
+49284_0176_00046;46;;Route des Closeaux;49170;49284;Saint-Germain-des-Prés;;;-0.809584;47.386226
+49284_0015_00022;22;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.828959;47.41003
+49284_0173_00100;100;;Route de la Corvée;49170;49284;Saint-Germain-des-Prés;;;-0.821382;47.389668
+49284_0005_00007;7;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.84021;47.409621
+49284_0028_00014;14;;Rue Constant Lebreton;49170;49284;Saint-Germain-des-Prés;;;-0.826664;47.409749
+49284_0152_00891;891;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.796412;47.401949
+49284_0173_00167;167;;Route de la Corvée;49170;49284;Saint-Germain-des-Prés;;;-0.821559;47.390304
+49284_0100_00001;1;;Impasse des Ceps;49170;49284;Saint-Germain-des-Prés;;;-0.839456;47.409891
+49284_0129_00057;57;;Route de la Potherie;49170;49284;Saint-Germain-des-Prés;;;-0.83344;47.411948
+49284_0163_00006;6;;Chemin du Ruisseau;49170;49284;Saint-Germain-des-Prés;;;-0.826037;47.406123
+49284_0165_00001;1;;Impasse Saint-Germain;49170;49284;Saint-Germain-des-Prés;;;-0.832042;47.410602
+49284_0039_00003;3;;Rue de l'Hommet;49170;49284;Saint-Germain-des-Prés;;;-0.835233;47.411006
+49284_0173_00103;103;;Route de la Corvée;49170;49284;Saint-Germain-des-Prés;;;-0.821517;47.389712
+49284_0010_00019_bis;19;Bis;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.828543;47.408879
+49284_0115_00015;15;;Chemin de l'Espérance;49170;49284;Saint-Germain-des-Prés;;;-0.81526;47.436496
+49284_0145_00750;750;;Route de la Palâterie;49170;49284;Saint-Germain-des-Prés;;;-0.789777;47.414654
+49284_0041_00002;2;;Rue du Joulai;49170;49284;Saint-Germain-des-Prés;;;-0.840878;47.409293
+49284_0101_00004;4;;Rue des Vignes;49170;49284;Saint-Germain-des-Prés;;;-0.840161;47.410032
+49284_0129_00884;884;;Route de la Potherie;49170;49284;Saint-Germain-des-Prés;;;-0.828098;47.417296
+49284_0166_01960;1960;;Route d'Angers;49170;49284;Saint-Germain-des-Prés;;;-0.804957;47.409562
+49284_0039_00006;6;;Rue de l'Hommet;49170;49284;Saint-Germain-des-Prés;;;-0.834934;47.411063
+49284_0107_00105;105;;Route des Goganes;49170;49284;Saint-Germain-des-Prés;;;-0.838965;47.394568
+49284_0166_02485;2485;;Route d'Angers;49170;49284;Saint-Germain-des-Prés;;;-0.797825;47.409561
+49284_0178_00177;177;;Rue de la Varenne;49170;49284;Saint-Germain-des-Prés;;;-0.811721;47.387839
+49284_0176_00183;183;;Route des Closeaux;49170;49284;Saint-Germain-des-Prés;;;-0.808751;47.387308
+49284_0010_00007_ter;7;Ter;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.83024;47.409216
+49284_b536_00003;3;;la Petite Maison Neuve;49170;49284;Saint-Germain-des-Prés;;;-0.815301;47.417195
+49284_0002_00003;3;;Rue des Acacias;49170;49284;Saint-Germain-des-Prés;;;-0.829909;47.410626
+49284_0166_00898;898;;Route d'Angers;49170;49284;Saint-Germain-des-Prés;;;-0.818949;47.410401
+49284_0099_00005;5;;Square des Frères Boumard;49170;49284;Saint-Germain-des-Prés;;;-0.838804;47.409718
+49284_0109_00056;56;;Chemin du Grand Ayrault;49170;49284;Saint-Germain-des-Prés;;;-0.831723;47.391084
+49284_0085_01111;1111;;Route de Saint-Augustin;49170;49284;Saint-Germain-des-Prés;;;-0.825302;47.420757
+49284_0176_00056;56;;Route des Closeaux;49170;49284;Saint-Germain-des-Prés;;;-0.809456;47.386388
+49284_0130_00201;201;;Route des Breils;49170;49284;Saint-Germain-des-Prés;;;-0.824678;47.417617
+49284_0010_00025;25;;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.827619;47.408604
+49284_0092_00005;5;;Rue Saint-René;49170;49284;Saint-Germain-des-Prés;;;-0.834501;47.40912
+49284_0162_00111;111;;Chemin du Moulin Gras;49170;49284;Saint-Germain-des-Prés;;;-0.820646;47.403776
+49284_0169_00482;482;;Route du Grand Moulin;49170;49284;Saint-Germain-des-Prés;;;-0.824779;47.413537
+49284_0022_00008;8;;Rue de la Boulairie;49170;49284;Saint-Germain-des-Prés;;;-0.833942;47.410624
+49284_0140_00034;34;;Impasse de la Grande Morinière;49170;49284;Saint-Germain-des-Prés;;;-0.787281;47.420837
+49284_0028_00012;12;;Rue Constant Lebreton;49170;49284;Saint-Germain-des-Prés;;;-0.826677;47.409693
+49284_0098_00001;1;;Ruelle Traversière;49170;49284;Saint-Germain-des-Prés;;;-0.834625;47.408479
+49284_0076_00013;13;;Square du Pré Fleury;49170;49284;Saint-Germain-des-Prés;;;-0.838525;47.410614
+49284_0174_00046;46;;Route du Coeur du Roy;49170;49284;Saint-Germain-des-Prés;;;-0.819289;47.388832
+49284_0005_00009;9;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.840258;47.409623
+49284_0090_00001;1;;Rue Saint-Charles;49170;49284;Saint-Germain-des-Prés;;;-0.833603;47.409593
+49284_0131_00044;44;;Rue du Champ de la Plaine;49170;49284;Saint-Germain-des-Prés;;;-0.831699;47.414707
+49284_0179_00079;79;;Rue de l'Ile aux Prunes;49170;49284;Saint-Germain-des-Prés;;;-0.813622;47.387416
+49284_0179_00010;10;;Rue de l'Ile aux Prunes;49170;49284;Saint-Germain-des-Prés;;;-0.81433;47.387083
+49284_0107_00076;76;;Route des Goganes;49170;49284;Saint-Germain-des-Prés;;;-0.83886;47.394303
+49284_0015_00012;12;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.830946;47.410232
+49284_0032_00007;7;;Rue de la Garenne;49170;49284;Saint-Germain-des-Prés;;;-0.839197;47.410598
+49284_0002_00011;11;;Rue des Acacias;49170;49284;Saint-Germain-des-Prés;;;-0.829141;47.410653
+49284_0172_00027;27;;Route de la Boire aux Dauneaux;49170;49284;Saint-Germain-des-Prés;;;-0.816079;47.387673
+49284_0071_00012;12;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.825383;47.409065
+49284_0169_01230;1230;;Route du Grand Moulin;49170;49284;Saint-Germain-des-Prés;;;-0.816177;47.416872
+49284_0039_00005;5;;Rue de l'Hommet;49170;49284;Saint-Germain-des-Prés;;;-0.835035;47.411099
+49284_0041_00004;4;;Rue du Joulai;49170;49284;Saint-Germain-des-Prés;;;-0.841058;47.409298
+49284_0159_00156;156;;Chemin de la Petite Touche;49170;49284;Saint-Germain-des-Prés;;;-0.82759;47.405552
+49284_0106_02645;2645;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.825658;47.389354
+49284_0031_00002;2;;Rue de l'Eglise;49170;49284;Saint-Germain-des-Prés;;;-0.834455;47.408879
+49284_0106_03631;3631;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.813423;47.386663
+49284_0173_00111;111;;Route de la Corvée;49170;49284;Saint-Germain-des-Prés;;;-0.821493;47.389773
+49284_0173_00180;180;;Route de la Corvée;49170;49284;Saint-Germain-des-Prés;;;-0.821234;47.390374
+49284_0032_00001;1;;Rue de la Garenne;49170;49284;Saint-Germain-des-Prés;;;-0.838665;47.411087
+49284_wwd7uh_00003;3;;la Roincière;49170;49284;Saint-Germain-des-Prés;;;-0.810687;47.431707
+49284_0037_00027;27;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.833162;47.409786
+49284_0159_00011;11;;Chemin de la Petite Touche;49170;49284;Saint-Germain-des-Prés;;;-0.827171;47.406806
+49284_0159_00151;151;;Chemin de la Petite Touche;49170;49284;Saint-Germain-des-Prés;;;-0.827493;47.405589
+49284_0164_00724;724;;Route de la Touche;49170;49284;Saint-Germain-des-Prés;;;-0.825833;47.406057
+49284_0129_00250;250;;Route de la Potherie;49170;49284;Saint-Germain-des-Prés;;;-0.83258;47.413615
+49284_0015_00007;7;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.82921;47.41014
+49284_0147_00371;371;;Route du Boyau;49170;49284;Saint-Germain-des-Prés;;;-0.789156;47.406632
+49284_0156_00085;85;;Route de la Crouas;49170;49284;Saint-Germain-des-Prés;;;-0.807143;47.408513
+49284_0176_00073;73;;Route des Closeaux;49170;49284;Saint-Germain-des-Prés;;;-0.809489;47.386453
+49284_0127_00089;89;;Chemin des Frênes;49170;49284;Saint-Germain-des-Prés;;;-0.828743;47.41252
+49284_0005_00010;10;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.840518;47.409742
+49284_0031_00014;14;;Rue de l'Eglise;49170;49284;Saint-Germain-des-Prés;;;-0.835373;47.409103
+49284_0169_00164;164;;Route du Grand Moulin;49170;49284;Saint-Germain-des-Prés;;;-0.828385;47.412078
+49284_0113_00054;54;;Route de la Boire Guyard;49170;49284;Saint-Germain-des-Prés;;;-0.826618;47.389864
+49284_0031_00006;6;;Rue de l'Eglise;49170;49284;Saint-Germain-des-Prés;;;-0.834659;47.408896
+49284_0085_00321;321;;Route de Saint-Augustin;49170;49284;Saint-Germain-des-Prés;;;-0.829023;47.414131
+49284_0020_00289;289;;Chemin de la Blonnière;49170;49284;Saint-Germain-des-Prés;;;-0.818707;47.436653
+49284_0147_00191;191;;Route du Boyau;49170;49284;Saint-Germain-des-Prés;;;-0.790114;47.407474
+49284_0135_00062;62;;Impasse du Champ du Jardin;49170;49284;Saint-Germain-des-Prés;;;-0.799892;47.410045
+49284_0037_00010;10;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.834267;47.408829
+49284_0176_00115;115;;Route des Closeaux;49170;49284;Saint-Germain-des-Prés;;;-0.80924;47.386823
+49284_0015_00009;9;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.828667;47.410193
+49284_0166_01800;1800;;Route d'Angers;49170;49284;Saint-Germain-des-Prés;;;-0.806892;47.409652
+49284_0165_00021;21;;Impasse Saint-Germain;49170;49284;Saint-Germain-des-Prés;;;-0.83346;47.411331
+49284_0092_00001;1;;Rue Saint-René;49170;49284;Saint-Germain-des-Prés;;;-0.834514;47.408982
+49284_0148_00244;244;;Chemin de la Derouetterie;49170;49284;Saint-Germain-des-Prés;;;-0.796343;47.406211
+49284_b536_00004;4;;la Petite Maison Neuve;49170;49284;Saint-Germain-des-Prés;;;-0.815542;47.417312
+49284_0010_00027;27;;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.826912;47.408417
+49284_0151_00062;62;;Impasse de la Camuserie;49170;49284;Saint-Germain-des-Prés;;;-0.796413;47.40692
+49284_0036_00011;11;;Rue Ferdinand Dubois;49170;49284;Saint-Germain-des-Prés;;;-0.827555;47.410218
+49284_0015_00018;18;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.829709;47.410105
+49284_0144_01202;1202;;Route de la Chauvière;49170;49284;Saint-Germain-des-Prés;;;-0.798756;47.419713
+49284_0022_00016;16;;Rue de la Boulairie;49170;49284;Saint-Germain-des-Prés;;;-0.833717;47.411048
+49284_0106_01611;1611;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.838153;47.39311
+49284_0005_00001;1;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.839266;47.409214
+49284_0117_00058;58;;Impasse la Haie;49170;49284;Saint-Germain-des-Prés;;;-0.821519;47.428989
+49284_0037_00014;14;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.834116;47.408991
+49284_0010_00009;9;;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.82981;47.409157
+49284_0020_00301;301;;Chemin de la Blonnière;49170;49284;Saint-Germain-des-Prés;;;-0.818955;47.43662
+49284_0172_00039;39;;Route de la Boire aux Dauneaux;49170;49284;Saint-Germain-des-Prés;;;-0.816092;47.387767
+49284_0153_01157;1157;;Route de la Pierre Salée;49170;49284;Saint-Germain-des-Prés;;;-0.799392;47.400928
+49284_0153_01087;1087;;Route de la Pierre Salée;49170;49284;Saint-Germain-des-Prés;;;-0.800216;47.401185
+49284_0156_00338;338;;Route de la Crouas;49170;49284;Saint-Germain-des-Prés;;;-0.805645;47.406752
+49284_0158_00190;190;;Route de la Pellerie;49170;49284;Saint-Germain-des-Prés;;;-0.810465;47.408213
+49284_0130_00198;198;;Route des Breils;49170;49284;Saint-Germain-des-Prés;;;-0.824779;47.417462
+49284_0153_00806;806;;Route de la Pierre Salée;49170;49284;Saint-Germain-des-Prés;;;-0.802919;47.402715
+49284_0098_00002;2;;Ruelle Traversière;49170;49284;Saint-Germain-des-Prés;;;-0.834664;47.408345
+49284_0022_00004;4;;Rue de la Boulairie;49170;49284;Saint-Germain-des-Prés;;;-0.835429;47.409318
+49284_0122_00119;119;;Chemin des Landes;49170;49284;Saint-Germain-des-Prés;;;-0.822792;47.422777
+49284_0041_00005;5;;Rue du Joulai;49170;49284;Saint-Germain-des-Prés;;;-0.840064;47.40915
+49284_0166_02809;2809;;Route d'Angers;49170;49284;Saint-Germain-des-Prés;;;-0.793488;47.409205
+49284_0042_00009;9;;Square les Jousselins;49170;49284;Saint-Germain-des-Prés;;;-0.832944;47.410554
+49284_0173_00027;27;;Route de la Corvée;49170;49284;Saint-Germain-des-Prés;;;-0.821773;47.38906
+49284_0034_00006;6;;Rue Georges Bérault;49170;49284;Saint-Germain-des-Prés;;;-0.825759;47.409721
+49284_0133_00563;563;;Chemin des Noues Rondes;49170;49284;Saint-Germain-des-Prés;;;-0.811209;47.418262
+49284_0106_01969;1969;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.834182;47.391356
+49284_0032_00008;8;;Rue de la Garenne;49170;49284;Saint-Germain-des-Prés;;;-0.839014;47.411081
+49284_0037_00031;31;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.832861;47.409852
+49284_0160_00714;714;;Chemin les Cornilleaux;49170;49284;Saint-Germain-des-Prés;;;-0.820243;47.406984
+49284_0164_00404;404;;Route de la Touche;49170;49284;Saint-Germain-des-Prés;;;-0.829298;47.407567
+49284_0111_00026;26;;Impasse de la Croix Verte;49170;49284;Saint-Germain-des-Prés;;;-0.825753;47.390303
+49284_0129_00618;618;;Route de la Potherie;49170;49284;Saint-Germain-des-Prés;;;-0.83151;47.416475
+49284_0041_00010;10;;Rue du Joulai;49170;49284;Saint-Germain-des-Prés;;;-0.841643;47.409363
+49284_0156_00124;124;;Route de la Crouas;49170;49284;Saint-Germain-des-Prés;;;-0.807066;47.408069
+49284_0169_00571;571;;Route du Grand Moulin;49170;49284;Saint-Germain-des-Prés;;;-0.823673;47.413851
+49284_0175_00075;75;;Rue de l'Ile Monsieur;49170;49284;Saint-Germain-des-Prés;;;-0.817053;47.3884
+49284_0071_00007;7;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.82553;47.409133
+49284_0178_00129;129;;Rue de la Varenne;49170;49284;Saint-Germain-des-Prés;;;-0.811036;47.387641
+49284_0070_00003;3;;Rue aux Oies;49170;49284;Saint-Germain-des-Prés;;;-0.833501;47.409043
+49284_0114_00082;82;;Route de la Perchalerie;49170;49284;Saint-Germain-des-Prés;;;-0.830966;47.391248
+49284_0095_00001;1;;Rue du Thoureil;49170;49284;Saint-Germain-des-Prés;;;-0.834218;47.409315
+49284_0106_02421;2421;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.828517;47.38986
+49284_0155_00055;55;;Chemin de la Roche;49170;49284;Saint-Germain-des-Prés;;;-0.800798;47.398994
+49284_0099_00001;1;;Square des Frères Boumard;49170;49284;Saint-Germain-des-Prés;;;-0.838835;47.409477
+49284_0034_00001;1;;Rue Georges Bérault;49170;49284;Saint-Germain-des-Prés;;;-0.825844;47.409073
+49284_0071_00032;32;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.825426;47.410072
+49284_0144_00950;950;;Route de la Chauvière;49170;49284;Saint-Germain-des-Prés;;;-0.798285;47.417782
+49284_0102_00004;4;;Rue Boris Vian;49170;49284;Saint-Germain-des-Prés;;;-0.833539;47.410438
+49284_0015_00011;11;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.828532;47.410422
+49284_0106_03255;3255;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.817853;47.388128
+49284_0122_00161;161;;Chemin des Landes;49170;49284;Saint-Germain-des-Prés;;;-0.822394;47.422481
+49284_0118_00101;101;;Rue des Crêtes;49170;49284;Saint-Germain-des-Prés;;;-0.820895;47.431625
+49284_0166_00900;900;;Route d'Angers;49170;49284;Saint-Germain-des-Prés;;;-0.818866;47.410397
+49284_0162_00135;135;;Chemin du Moulin Gras;49170;49284;Saint-Germain-des-Prés;;;-0.82079;47.403537
+49284_0010_00017;17;;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.829328;47.409066
+49284_0010_00019;19;;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.828785;47.408944
+49284_0110_00018;18;;Impasse de la Boire Boileau;49170;49284;Saint-Germain-des-Prés;;;-0.837585;47.392872
+49284_0142_00400;400;;Route du Grand Soucy;49170;49284;Saint-Germain-des-Prés;;;-0.782486;47.420298
+49284_0015_00004;4;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.83188;47.410365
+49284_0010_00003;3;;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.832582;47.409772
+49284_0042_00017;17;;Square les Jousselins;49170;49284;Saint-Germain-des-Prés;;;-0.832577;47.410771
+49284_0042_00004;4;;Square les Jousselins;49170;49284;Saint-Germain-des-Prés;;;-0.832829;47.410349
+49284_0015_00032;32;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.828229;47.41063
+49284_0071_00028;28;;Rue Perrine Perrotin;49170;49284;Saint-Germain-des-Prés;;;-0.824712;47.410023
+49284_0074_00004;4;;Rue du Pontron;49170;49284;Saint-Germain-des-Prés;;;-0.836377;47.410976
+49284_0143_00351;351;;Route de la Borderie;49170;49284;Saint-Germain-des-Prés;;;-0.794765;47.413754
+49284_0076_00011;11;;Square du Pré Fleury;49170;49284;Saint-Germain-des-Prés;;;-0.838508;47.410585
+49284_0106_01979;1979;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.834047;47.391291
+49284_0129_00446;446;;Route de la Potherie;49170;49284;Saint-Germain-des-Prés;;;-0.832152;47.415346
+49284_0153_00604;604;;Route de la Pierre Salée;49170;49284;Saint-Germain-des-Prés;;;-0.801449;47.404215
+49284_0166_02453;2453;;Route d'Angers;49170;49284;Saint-Germain-des-Prés;;;-0.798328;47.409574
+49284_0015_00026;26;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.828542;47.410174
+49284_0152_00460;460;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.794054;47.405658
+49284_0037_00019;19;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.833806;47.409275
+49284_0015_00010;10;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.831084;47.41025
+49284_0082_00006;6;;Square René Lacombe;49170;49284;Saint-Germain-des-Prés;;;-0.836074;47.410448
+49284_0121_00338;338;;Chemin de la Rebillarderie;49170;49284;Saint-Germain-des-Prés;;;-0.824843;47.42536
+49284_0102_00001;1;;Rue Boris Vian;49170;49284;Saint-Germain-des-Prés;;;-0.833467;47.410528
+49284_0024_00002;2;;Rue de la Charmille;49170;49284;Saint-Germain-des-Prés;;;-0.829345;47.40976
+49284_0119_00251;251;;Rue des Hunarderies;49170;49284;Saint-Germain-des-Prés;;;-0.824146;47.432053
+49284_0121_00448;448;;Chemin de la Rebillarderie;49170;49284;Saint-Germain-des-Prés;;;-0.825925;47.425822
+49284_wwd7uh_00002;2;;la Roincière;49170;49284;Saint-Germain-des-Prés;;;-0.810822;47.431723
+49284_0163_00057;57;;Chemin du Ruisseau;49170;49284;Saint-Germain-des-Prés;;;-0.826302;47.405717
+49284_0112_00057;57;;Route de la Boire aux Jubins;49170;49284;Saint-Germain-des-Prés;;;-0.828157;47.390205
+49284_0028_00004;4;;Rue Constant Lebreton;49170;49284;Saint-Germain-des-Prés;;;-0.826902;47.408939
+49284_0005_00011;11;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.840473;47.409636
+49284_0132_00054;54;;Chemin de la Pinaudière;49170;49284;Saint-Germain-des-Prés;;;-0.808053;47.410196
+49284_0166_02411;2411;;Route d'Angers;49170;49284;Saint-Germain-des-Prés;;;-0.798794;47.409586
+49284_0132_00070;70;;Chemin de la Pinaudière;49170;49284;Saint-Germain-des-Prés;;;-0.808003;47.410346
+49284_0113_00060;60;;Route de la Boire Guyard;49170;49284;Saint-Germain-des-Prés;;;-0.826577;47.389978
+49284_0070_00006;6;;Rue aux Oies;49170;49284;Saint-Germain-des-Prés;;;-0.83355;47.408802
+49284_0070_00002;2;;Rue aux Oies;49170;49284;Saint-Germain-des-Prés;;;-0.833763;47.409157
+49284_0010_00013;13;;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.829416;47.409301
+49284_0037_00004;4;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.834378;47.408591
+49284_0175_00022;22;;Rue de l'Ile Monsieur;49170;49284;Saint-Germain-des-Prés;;;-0.816824;47.388022
+49284_0162_00126;126;;Chemin du Moulin Gras;49170;49284;Saint-Germain-des-Prés;;;-0.820898;47.403694
+49284_0020_00302;302;;Chemin de la Blonnière;49170;49284;Saint-Germain-des-Prés;;;-0.818928;47.436729
+49284_0037_00035;35;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.831631;47.410786
+49284_0106_01641;1641;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.837971;47.392919
+49284_0113_00009;9;;Route de la Boire Guyard;49170;49284;Saint-Germain-des-Prés;;;-0.826831;47.389576
+49284_0022_00002;2;;Rue de la Boulairie;49170;49284;Saint-Germain-des-Prés;;;-0.835689;47.408934
+49284_0176_00096;96;;Route des Closeaux;49170;49284;Saint-Germain-des-Prés;;;-0.809305;47.386619
+49284_0142_00455;455;;Route du Grand Soucy;49170;49284;Saint-Germain-des-Prés;;;-0.781586;47.422009
+49284_0138_00506;506;;Chemin de l'Enclose;49170;49284;Saint-Germain-des-Prés;;;-0.791561;47.422002
+49284_0152_00846;846;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.796208;47.402307
+49284_0015_00028;28;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.828439;47.410336
+49284_0023_00002;2;;Rue de la Chapelle;49170;49284;Saint-Germain-des-Prés;;;-0.830648;47.409624
+49284_0015_00001;1;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.83017;47.410266
+49284_0137_00270;270;;Chemin de la Saboraye;49170;49284;Saint-Germain-des-Prés;;;-0.780589;47.432072
+49284_0175_00025;25;;Rue de l'Ile Monsieur;49170;49284;Saint-Germain-des-Prés;;;-0.816894;47.388062
+49284_0036_00002;2;;Rue Ferdinand Dubois;49170;49284;Saint-Germain-des-Prés;;;-0.827328;47.409467
+49284_0028_00010;10;;Rue Constant Lebreton;49170;49284;Saint-Germain-des-Prés;;;-0.826729;47.409382
+49284_0129_00248;248;;Route de la Potherie;49170;49284;Saint-Germain-des-Prés;;;-0.832682;47.413351
+49284_0042_00011;11;;Square les Jousselins;49170;49284;Saint-Germain-des-Prés;;;-0.83297;47.410769
+49284_0010_00007_bis;7;Bis;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.830349;47.409239
+49284_0129_00470;470;;Route de la Potherie;49170;49284;Saint-Germain-des-Prés;;;-0.832126;47.415659
+49284_0028_00018;18;;Rue Constant Lebreton;49170;49284;Saint-Germain-des-Prés;;;-0.826653;47.410172
+49284_0133_00372;372;;Chemin des Noues Rondes;49170;49284;Saint-Germain-des-Prés;;;-0.81127;47.416823
+49284_0113_00033;33;;Route de la Boire Guyard;49170;49284;Saint-Germain-des-Prés;;;-0.826757;47.389761
+49284_0041_00003;3;;Rue du Joulai;49170;49284;Saint-Germain-des-Prés;;;-0.839958;47.409146
+49284_0125_00054;54;;Chemin de la Grande Homelle;49170;49284;Saint-Germain-des-Prés;;;-0.836242;47.412144
+49284_0169_00394;394;;Route du Grand Moulin;49170;49284;Saint-Germain-des-Prés;;;-0.825835;47.413186
+49284_0041_00001;1;;Rue du Joulai;49170;49284;Saint-Germain-des-Prés;;;-0.839607;47.409293
+49284_0010_00011;11;;Rue de Bel-Air;49170;49284;Saint-Germain-des-Prés;;;-0.829603;47.409112
+49284_0120_00392;392;;Chemin de la Haute Touche;49170;49284;Saint-Germain-des-Prés;;;-0.828851;47.42211
+49284_0042_00001;1;;Square les Jousselins;49170;49284;Saint-Germain-des-Prés;;;-0.832848;47.410547
+49284_0015_00016;16;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.830066;47.410114
+49284_0165_00007;7;;Impasse Saint-Germain;49170;49284;Saint-Germain-des-Prés;;;-0.832014;47.411063
+49284_0022_00013;13;;Rue de la Boulairie;49170;49284;Saint-Germain-des-Prés;;;-0.83383;47.411101
+49284_0022_00009;9;;Rue de la Boulairie;49170;49284;Saint-Germain-des-Prés;;;-0.833959;47.410818
+49284_0130_00386;386;;Route des Breils;49170;49284;Saint-Germain-des-Prés;;;-0.82374;47.416239
+49284_0105_00001;1;;Chemin de la Mahotte;49170;49284;Saint-Germain-des-Prés;;;-0.839391;47.4001
+49284_0131_00049;49;;Rue du Champ de la Plaine;49170;49284;Saint-Germain-des-Prés;;;-0.831635;47.414804
+49284_0005_00005;5;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.839837;47.409485
+49284_0143_00015;15;;Route de la Borderie;49170;49284;Saint-Germain-des-Prés;;;-0.791986;47.411675
+49284_0166_02351;2351;;Route d'Angers;49170;49284;Saint-Germain-des-Prés;;;-0.79958;47.409601
+49284_0106_03763;3763;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.811898;47.386239
+49284_0101_00003;3;;Rue des Vignes;49170;49284;Saint-Germain-des-Prés;;;-0.840032;47.409995
+49284_0037_00017;17;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.833961;47.409158
+49284_0106_03663;3663;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.813072;47.386515
+49284_0134_00109;109;;Chemin du Migré;49170;49284;Saint-Germain-des-Prés;;;-0.815721;47.412602
+49284_0023_00001;1;;Rue de la Chapelle;49170;49284;Saint-Germain-des-Prés;;;-0.830425;47.409881
+49284_0116_00291;291;;Chemin du Bas Pruinas;49170;49284;Saint-Germain-des-Prés;;;-0.81754;47.428644
+49284_0028_00009;9;;Rue Constant Lebreton;49170;49284;Saint-Germain-des-Prés;;;-0.826876;47.409411
+49284_0024_00001;1;;Rue de la Charmille;49170;49284;Saint-Germain-des-Prés;;;-0.829144;47.409681
+49284_0041_00009;9;;Rue du Joulai;49170;49284;Saint-Germain-des-Prés;;;-0.840836;47.409179
+49284_0092_00005_bis;5;Bis;Rue Saint-René;49170;49284;Saint-Germain-des-Prés;;;-0.834503;47.409079
+49284_0113_00152;152;;Route de la Boire Guyard;49170;49284;Saint-Germain-des-Prés;;;-0.825843;47.390552
+49284_0042_00012;12;;Square les Jousselins;49170;49284;Saint-Germain-des-Prés;;;-0.832985;47.410907
+49284_0034_00003;3;;Rue Georges Bérault;49170;49284;Saint-Germain-des-Prés;;;-0.825924;47.40911
+49284_0111_00032;32;;Impasse de la Croix Verte;49170;49284;Saint-Germain-des-Prés;;;-0.825627;47.390311
+49284_0070_00012;12;;Rue aux Oies;49170;49284;Saint-Germain-des-Prés;;;-0.833609;47.408572
+49284_0152_01024;1024;;Route de Chantepie;49170;49284;Saint-Germain-des-Prés;;;-0.797483;47.401042
+49284_0005_00008;8;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.839666;47.40958
+49284_0082_00005;5;;Square René Lacombe;49170;49284;Saint-Germain-des-Prés;;;-0.836317;47.41047
+49284_0015_00003;3;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.82975;47.410195
+49284_0022_00011;11;;Rue de la Boulairie;49170;49284;Saint-Germain-des-Prés;;;-0.833912;47.410907
+49284_0123_00051;51;;Impasse du Haut Pruinas;49170;49284;Saint-Germain-des-Prés;;;-0.816535;47.42564
+49284_0022_00003;3;;Rue de la Boulairie;49170;49284;Saint-Germain-des-Prés;;;-0.834206;47.410548
+49284_0036_00003;3;;Rue Ferdinand Dubois;49170;49284;Saint-Germain-des-Prés;;;-0.827646;47.409639
+49284_0022_00001;1;;Rue de la Boulairie;49170;49284;Saint-Germain-des-Prés;;;-0.835225;47.40972
+49284_0041_00017;17;;Rue du Joulai;49170;49284;Saint-Germain-des-Prés;;;-0.841627;47.409239
+49284_0015_00015;15;;Rue de Bellevue;49170;49284;Saint-Germain-des-Prés;;;-0.828354;47.410643
+49284_0106_02887;2887;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.822535;47.38892
+49284_0109_00012;12;;Chemin du Grand Ayrault;49170;49284;Saint-Germain-des-Prés;;;-0.83169;47.390817
+49284_0106_02143;2143;;Route de la Levée;49170;49284;Saint-Germain-des-Prés;;;-0.832056;47.390813
+49284_0070_00004;4;;Rue aux Oies;49170;49284;Saint-Germain-des-Prés;;;-0.833565;47.40894
+49284_0042_00014;14;;Square les Jousselins;49170;49284;Saint-Germain-des-Prés;;;-0.832804;47.410927
+49284_0168_00149;149;;Route de la Loge;49170;49284;Saint-Germain-des-Prés;;;-0.807257;47.389361
+49284_0158_00391;391;;Route de la Pellerie;49170;49284;Saint-Germain-des-Prés;;;-0.811688;47.40666
+49284_0169_00349;349;;Route du Grand Moulin;49170;49284;Saint-Germain-des-Prés;;;-0.826388;47.413037
+49284_0028_00007;7;;Rue Constant Lebreton;49170;49284;Saint-Germain-des-Prés;;;-0.826952;47.409134
+49284_0172_00018;18;;Route de la Boire aux Dauneaux;49170;49284;Saint-Germain-des-Prés;;;-0.815828;47.387644
+49284_0042_00013;13;;Square les Jousselins;49170;49284;Saint-Germain-des-Prés;;;-0.832852;47.410922
+49284_0099_00007;7;;Square des Frères Boumard;49170;49284;Saint-Germain-des-Prés;;;-0.83896;47.409689
+49284_0037_00033;33;;Rue de la Loire;49170;49284;Saint-Germain-des-Prés;;;-0.832507;47.410194
+49284_0144_00124;124;;Route de la Chauvière;49170;49284;Saint-Germain-des-Prés;;;-0.796419;47.410651
+49284_0090_00002;2;;Rue Saint-Charles;49170;49284;Saint-Germain-des-Prés;;;-0.833921;47.409747
+49284_0005_00015;15;;Rue de Bataflème;49170;49284;Saint-Germain-des-Prés;;;-0.840912;47.409718

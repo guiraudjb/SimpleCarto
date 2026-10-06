@@ -1,0 +1,826 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+33434_c3tmoj_00054;54;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53948;44.942156
+33434_0047_00027;27;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.528429;44.96151
+33434_0788_00003;3;;Impasse Prévert;33440;33434;Saint-Louis-de-Montferrand;;;-0.534583;44.947431
+33434_0980_00030;30;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.52787;44.955472
+33434_0265_00011;11;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.535345;44.947467
+33434_0300_00024;24;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532725;44.94223
+33434_c3tmoj_00145;145;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533716;44.959379
+33434_0870_00037_ter;37;ter;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.532113;44.943936
+33434_0265_00006_a;6;A;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.535095;44.945904
+33434_0570_00008_ter;8;ter;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.527116;44.951851
+33434_0779_00003;3;;Impasse Pierre Pes;33440;33434;Saint-Louis-de-Montferrand;;;-0.534238;44.952485
+33434_0265_00028;28;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.535093;44.947512
+33434_0411_00001;1;;Rue Georges Brassens;33440;33434;Saint-Louis-de-Montferrand;;;-0.534804;44.944036
+33434_0480_00008;8;;Rue Jean Sabourain;33440;33434;Saint-Louis-de-Montferrand;;;-0.531963;44.959596
+33434_0330_00014;14;;Rue Gaston Bourceau;33440;33434;Saint-Louis-de-Montferrand;;;-0.526407;44.984835
+33434_c3tmoj_00057;57;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.536991;44.948518
+33434_0300_00021;21;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532206;44.94245
+33434_0047_00014;14;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.530509;44.961185
+33434_0052_00004;4;;Rue Boris Vian;33440;33434;Saint-Louis-de-Montferrand;;;-0.536396;44.944503
+33434_0870_00027_bis;27;bis;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.533367;44.94443
+33434_0980_00051;51;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.526138;44.955215
+33434_0480_00027;27;;Rue Jean Sabourain;33440;33434;Saint-Louis-de-Montferrand;;;-0.524765;44.959245
+33434_0492_00005;5;;Rue Joliot-Curie;33440;33434;Saint-Louis-de-Montferrand;;;-0.537913;44.943526
+33434_0620_00026;26;;Rue Marcel Paul;33440;33434;Saint-Louis-de-Montferrand;;;-0.531862;44.9553
+33434_0551_00003;3;;Rue des Lilas;33440;33434;Saint-Louis-de-Montferrand;;;-0.537252;44.942933
+33434_0620_00033;33;;Rue Marcel Paul;33440;33434;Saint-Louis-de-Montferrand;;;-0.532864;44.955828
+33434_0590_00034;34;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537696;44.945019
+33434_0870_00017;17;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.534955;44.945041
+33434_c3tmoj_00184;184;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537729;44.983902
+33434_0047_00021;21;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.529435;44.961541
+33434_0618_00013_bis;13;bis;Rue Marcel Boudy;33440;33434;Saint-Louis-de-Montferrand;;;-0.532047;44.953646
+33434_0551_00002;2;;Rue des Lilas;33440;33434;Saint-Louis-de-Montferrand;;;-0.537313;44.942668
+33434_c3tmoj_00040;40;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.542254;44.941472
+33434_0980_00059;59;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.524975;44.954981
+33434_0590_00029;29;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537955;44.945145
+33434_0590_00030;30;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537723;44.945112
+33434_0788_00002;2;;Impasse Prévert;33440;33434;Saint-Louis-de-Montferrand;;;-0.534844;44.947154
+33434_0955_00021;21;;Rue du Temps Passé;33440;33434;Saint-Louis-de-Montferrand;;;-0.531351;44.951926
+33434_0570_00011;11;;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.525367;44.953016
+33434_0981_00016;16;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.531094;44.954183
+33434_0785_00010;10;;Rue des Pres de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.534385;44.945651
+33434_0870_00070;70;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.52953;44.941916
+33434_0570_00001_bis;1;bis;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.524691;44.954056
+33434_0047_00020;20;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.529595;44.961045
+33434_c3tmoj_00061;61;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.536806;44.948808
+33434_c3tmoj_00055;55;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537108;44.948368
+33434_c3tmoj_00101;101;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.534804;44.95198
+33434_c3tmoj_00098;98;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.535715;44.950211
+33434_0433_00007;7;;Avenue Jacques Brel;33440;33434;Saint-Louis-de-Montferrand;;;-0.535881;44.943033
+33434_c3tmoj_00035;35;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.538064;44.946771
+33434_c3tmoj_00092_ter;92;ter;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.536444;44.949138
+33434_0330_00003;3;;Rue Gaston Bourceau;33440;33434;Saint-Louis-de-Montferrand;;;-0.530936;44.984349
+33434_0943_00002;2;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.539558;44.943673
+33434_0981_00004;4;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.530584;44.955347
+33434_0047_00004;4;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.531961;44.96139
+33434_0981_00024;24;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.531034;44.953152
+33434_c3tmoj_00112;112;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.534589;44.952335
+33434_0570_00012;12;;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.528277;44.955181
+33434_0407_00003;3;;Impasse Georges Baudry;33440;33434;Saint-Louis-de-Montferrand;;;-0.538127;44.94859
+33434_0492_00003;3;;Rue Joliot-Curie;33440;33434;Saint-Louis-de-Montferrand;;;-0.538562;44.943885
+33434_0768_00001;1;;Impasse de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.534405;44.952941
+33434_0870_00020;20;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.53534;44.944957
+33434_0052_00008;8;;Rue Boris Vian;33440;33434;Saint-Louis-de-Montferrand;;;-0.535783;44.944318
+33434_0300_00003;3;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.531632;44.943198
+33434_0955_00005;5;;Rue du Temps Passé;33440;33434;Saint-Louis-de-Montferrand;;;-0.531638;44.951358
+33434_c3tmoj_00116;116;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.534144;44.954464
+33434_0870_00007;7;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.537168;44.946071
+33434_c3tmoj_00115;115;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533947;44.956264
+33434_0015_00001;1;;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.53332;44.953549
+33434_0770_00010;10;;Rue de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.532096;44.952573
+33434_0052_00010;10;;Rue Boris Vian;33440;33434;Saint-Louis-de-Montferrand;;;-0.535565;44.944224
+33434_c3tmoj_00111;111;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53418;44.954954
+33434_0870_00044;44;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.532006;44.943727
+33434_0570_00015_bis;15;bis;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.52596;44.952055
+33434_0980_00038;38;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.526694;44.955215
+33434_0870_00046;46;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.531824;44.943654
+33434_0981_00027;27;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.530936;44.954363
+33434_0620_00022;22;;Rue Marcel Paul;33440;33434;Saint-Louis-de-Montferrand;;;-0.532419;44.955535
+33434_0300_00001;1;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.53156;44.943278
+33434_0551_00007;7;;Rue des Lilas;33440;33434;Saint-Louis-de-Montferrand;;;-0.537138;44.943348
+33434_hqtilz_00004;4;;Impasse Jean de la Fontaine;33440;33434;Saint-Louis-de-Montferrand;;;-0.535404;44.947849
+33434_0015_00018;18;;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.532547;44.954823
+33434_0980_00026;26;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.529077;44.95567
+33434_0770_00014;14;;Rue de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.531552;44.95255
+33434_c3tmoj_00036;36;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.542571;44.940921
+33434_0015_00014;14;;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.532387;44.954328
+33434_c3tmoj_00091;91;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.535382;44.951279
+33434_0300_00027;27;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532401;44.942121
+33434_0870_00008;8;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.53666;44.945666
+33434_0492_00010;10;;Rue Joliot-Curie;33440;33434;Saint-Louis-de-Montferrand;;;-0.538424;44.943918
+33434_0330_00004;4;;Rue Gaston Bourceau;33440;33434;Saint-Louis-de-Montferrand;;;-0.530599;44.984225
+33434_0370_00001;1;;Rue Gaudin;33440;33434;Saint-Louis-de-Montferrand;;;-0.531656;44.95414
+33434_c3tmoj_00051;51;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537359;44.94803
+33434_0620_00024;24;;Rue Marcel Paul;33440;33434;Saint-Louis-de-Montferrand;;;-0.532418;44.955446
+33434_0870_00023;23;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.533725;44.944567
+33434_0980_00034;34;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.527478;44.955381
+33434_0570_00004_bis;4;bis;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.526986;44.951823
+33434_0330_00002_bis;2;bis;Rue Gaston Bourceau;33440;33434;Saint-Louis-de-Montferrand;;;-0.537424;44.983291
+33434_0030_00010;10;;Impasse André Brisson;33440;33434;Saint-Louis-de-Montferrand;;;-0.537499;44.944313
+33434_0030_00007;7;;Impasse André Brisson;33440;33434;Saint-Louis-de-Montferrand;;;-0.537851;44.944369
+33434_0870_00034;34;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.533169;44.944203
+33434_0427_00005;5;;Rue de la Jalle;33440;33434;Saint-Louis-de-Montferrand;;;-0.539355;44.943129
+33434_c3tmoj_00150;150;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53358;44.960121
+33434_0980_00009;9;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.532063;44.956247
+33434_c3tmoj_00173;173;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.534173;44.96893
+33434_0768_00005;5;;Impasse de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.533818;44.952748
+33434_c3tmoj_00151;151;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533695;44.959889
+33434_0870_00252_bis;252;bis;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.524485;44.939684
+33434_0870_00040;40;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.532479;44.943916
+33434_0943_00021;21;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.536281;44.942201
+33434_0955_00017;17;;Rue du Temps Passé;33440;33434;Saint-Louis-de-Montferrand;;;-0.531559;44.951896
+33434_c3tmoj_00175;175;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537597;44.982999
+33434_0870_00252_ter;252;ter;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.524831;44.939183
+33434_0047_00033;33;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.527825;44.961442
+33434_0047_00023;23;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.529119;44.961531
+33434_0980_00019;19;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.530807;44.956021
+33434_0015_00006;6;;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.533104;44.953773
+33434_0572_00003;3;;Rue Louis Lagardère;33440;33434;Saint-Louis-de-Montferrand;;;-0.533482;44.95162
+33434_0059_00005;5;;Impasse Baudelaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.536707;44.946836
+33434_0770_00001;1;;Rue de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.534053;44.953309
+33434_0047_00011;11;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.53119;44.961624
+33434_0330_00002;2;;Rue Gaston Bourceau;33440;33434;Saint-Louis-de-Montferrand;;;-0.536335;44.983458
+33434_0980_00095;95;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.520116;44.954398
+33434_0433_00009;9;;Avenue Jacques Brel;33440;33434;Saint-Louis-de-Montferrand;;;-0.536091;44.942732
+33434_0265_00024;24;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.535601;44.947159
+33434_0419_00004;4;;Impasse George Sand;33440;33434;Saint-Louis-de-Montferrand;;;-0.536358;44.947606
+33434_0870_00043;43;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.53112;44.94353
+33434_0572_00009;9;;Rue Louis Lagardère;33440;33434;Saint-Louis-de-Montferrand;;;-0.533545;44.952164
+33434_c3tmoj_00140;140;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53364;44.957904
+33434_c3tmoj_00167;167;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533806;44.961511
+33434_0059_00006;6;;Impasse Baudelaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.536778;44.946894
+33434_0433_00005;5;;Avenue Jacques Brel;33440;33434;Saint-Louis-de-Montferrand;;;-0.535519;44.943609
+33434_0300_00010;10;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.53228;44.942946
+33434_0618_00003;3;;Rue Marcel Boudy;33440;33434;Saint-Louis-de-Montferrand;;;-0.532255;44.952971
+33434_0980_00016_ter;16;ter;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.529922;44.955796
+33434_0620_00028;28;;Rue Marcel Paul;33440;33434;Saint-Louis-de-Montferrand;;;-0.531379;44.95515
+33434_0943_00018;18;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.537609;44.942423
+33434_0265_00005;5;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.535559;44.946257
+33434_0590_00012;12;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537207;44.94532
+33434_0480_00014;14;;Rue Jean Sabourain;33440;33434;Saint-Louis-de-Montferrand;;;-0.528548;44.958751
+33434_0059_00002;2;;Impasse Baudelaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.536453;44.947209
+33434_0618_00011;11;;Rue Marcel Boudy;33440;33434;Saint-Louis-de-Montferrand;;;-0.532093;44.953629
+33434_0480_00002;2;;Rue Jean Sabourain;33440;33434;Saint-Louis-de-Montferrand;;;-0.533229;44.959791
+33434_0955_00010;10;;Rue du Temps Passé;33440;33434;Saint-Louis-de-Montferrand;;;-0.531319;44.95162
+33434_c3tmoj_00136;136;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53282;44.957384
+33434_0300_00028;28;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532825;44.942059
+33434_0870_00144;144;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.526942;44.941122
+33434_0059_00003;3;;Impasse Baudelaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.536521;44.947016
+33434_0300_00005;5;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.531724;44.943095
+33434_0300_00030;30;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532893;44.941944
+33434_c3tmoj_00053;53;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53722;44.948211
+33434_0551_00012;12;;Rue des Lilas;33440;33434;Saint-Louis-de-Montferrand;;;-0.53546;44.942722
+33434_0551_00001;1;;Rue des Lilas;33440;33434;Saint-Louis-de-Montferrand;;;-0.537393;44.942751
+33434_0785_00006;6;;Rue des Pres de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.53389;44.945518
+33434_c3tmoj_00013;13;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53937;44.945164
+33434_c3tmoj_00093;93;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.535295;44.951448
+33434_c3tmoj_00010_bis;10;bis;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.545816;44.926301
+33434_0980_00066;66;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.522759;44.954381
+33434_0030_00001;1;;Impasse André Brisson;33440;33434;Saint-Louis-de-Montferrand;;;-0.53897;44.94483
+33434_0015_00001_ter;1;ter;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.533222;44.953904
+33434_c3tmoj_00149;149;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533685;44.959778
+33434_0055_00001;1;;Rue Arnaud Lafaye;33440;33434;Saint-Louis-de-Montferrand;;;-0.528013;44.956045
+33434_0870_00022;22;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.534988;44.944886
+33434_0572_00005;5;;Rue Louis Lagardère;33440;33434;Saint-Louis-de-Montferrand;;;-0.533499;44.951787
+33434_0770_00003;3;;Rue de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.533844;44.953279
+33434_0870_00037_quater;37;quater;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.531911;44.943843
+33434_0422_00002;2;;Impasse Grange du Gua;33440;33434;Saint-Louis-de-Montferrand;;;-0.533425;44.959334
+33434_0590_00001;1;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.538084;44.945678
+33434_c3tmoj_00086;86;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537079;44.948145
+33434_0943_00026;26;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.536493;44.942134
+33434_0030_00012;12;;Impasse André Brisson;33440;33434;Saint-Louis-de-Montferrand;;;-0.537028;44.944123
+33434_c3tmoj_00136_bis;136;bis;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.532961;44.957381
+33434_0047_00032;32;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.527842;44.961221
+33434_0980_00072;72;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.521188;44.954315
+33434_0590_00002;2;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537965;44.945684
+33434_0265_00007;7;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.535706;44.946571
+33434_0877_00003;3;;Impasse Ronsard;33440;33434;Saint-Louis-de-Montferrand;;;-0.53626;44.946127
+33434_0580_00006;6;;Rue Louis Monteau;33440;33434;Saint-Louis-de-Montferrand;;;-0.534634;44.951335
+33434_0570_00003;3;;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.524764;44.95394
+33434_c3tmoj_00084;84;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537327;44.947584
+33434_c3tmoj_00002;2;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.54547;44.924654
+33434_c3tmoj_00058;58;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53988;44.944348
+33434_0059_00007;7;;Impasse Baudelaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.536808;44.946512
+33434_0877_00002;2;;Impasse Ronsard;33440;33434;Saint-Louis-de-Montferrand;;;-0.536096;44.946321
+33434_0047_00009;9;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.531456;44.961632
+33434_0770_00009;9;;Rue de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.53293;44.952562
+33434_c3tmoj_00060_ter;60;ter;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.539015;44.945262
+33434_0551_00011;11;;Rue des Lilas;33440;33434;Saint-Louis-de-Montferrand;;;-0.536715;44.943205
+33434_0427_00003;3;;Rue de la Jalle;33440;33434;Saint-Louis-de-Montferrand;;;-0.539718;44.943023
+33434_c3tmoj_00121;121;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533906;44.957042
+33434_0955_00002;2;;Rue du Temps Passé;33440;33434;Saint-Louis-de-Montferrand;;;-0.531376;44.951195
+33434_0618_00001;1;;Rue Marcel Boudy;33440;33434;Saint-Louis-de-Montferrand;;;-0.532323;44.952734
+33434_0870_00242;242;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.525801;44.940407
+33434_0015_00010;10;;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.532909;44.954243
+33434_c3tmoj_00146;146;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533583;44.958812
+33434_0770_00006_bis;6;bis;Rue de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.533121;44.952717
+33434_0980_00037;37;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.527149;44.955847
+33434_c3tmoj_00114;114;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.534539;44.952537
+33434_0052_00003;3;;Rue Boris Vian;33440;33434;Saint-Louis-de-Montferrand;;;-0.536265;44.94466
+33434_0300_00004;4;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532072;44.943179
+33434_0300_00032;32;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532929;44.941832
+33434_0980_00025_bis;25;bis;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.529829;44.955887
+33434_0955_00013;13;;Rue du Temps Passé;33440;33434;Saint-Louis-de-Montferrand;;;-0.531573;44.951787
+33434_c3tmoj_00171;171;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533757;44.962464
+33434_0015_00004;4;;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.533154;44.953587
+33434_0590_00025;25;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.538046;44.945264
+33434_0980_00031;31;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.528625;44.955717
+33434_0570_00021;21;;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.528419;44.953588
+33434_c3tmoj_00172;172;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53441;44.971836
+33434_0775_00003;3;;Impasse Paul Jaumouillie;33440;33434;Saint-Louis-de-Montferrand;;;-0.53892;44.946525
+33434_0407_00001;1;;Impasse Georges Baudry;33440;33434;Saint-Louis-de-Montferrand;;;-0.53771;44.948477
+33434_c3tmoj_00031;31;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.538203;44.946546
+33434_c3tmoj_00105;105;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53471;44.952323
+33434_0980_00015;15;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.531324;44.956085
+33434_c3tmoj_00104;104;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.535236;44.95124
+33434_0015_00020;20;;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.532205;44.954755
+33434_0047_00005;5;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.532068;44.961631
+33434_c3tmoj_00059;59;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53691;44.948644
+33434_0870_00006_bis;6;bis;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.537079;44.945867
+33434_0551_00004;4;;Rue des Lilas;33440;33434;Saint-Louis-de-Montferrand;;;-0.537158;44.942864
+33434_c3tmoj_00080;80;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537626;44.947288
+33434_0870_00041;41;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.531331;44.943623
+33434_c3tmoj_00134;134;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53374;44.957187
+33434_0770_00007;7;;Rue de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.533241;44.952629
+33434_0047_00001_bis;1;bis;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.532757;44.961307
+33434_0870_00033;33;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.532613;44.944125
+33434_0580_00003;3;;Rue Louis Monteau;33440;33434;Saint-Louis-de-Montferrand;;;-0.534368;44.951448
+33434_0870_00050_bis;50;bis;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.531099;44.943362
+33434_c3tmoj_00132;132;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533744;44.957152
+33434_0047_00024;24;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.528533;44.960913
+33434_c3tmoj_00109;109;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.534483;44.953728
+33434_0300_00017;17;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.5321;44.94263
+33434_c3tmoj_00108;108;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.534632;44.952186
+33434_0870_00015_bis;15;bis;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.535067;44.945275
+33434_0411_00003;3;;Rue Georges Brassens;33440;33434;Saint-Louis-de-Montferrand;;;-0.534678;44.943916
+33434_0047_00029;29;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.528057;44.961499
+33434_0590_00009;9;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537635;44.945513
+33434_0265_00016;16;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.535084;44.946238
+33434_0480_00004;4;;Rue Jean Sabourain;33440;33434;Saint-Louis-de-Montferrand;;;-0.532984;44.959765
+33434_0620_00031;31;;Rue Marcel Paul;33440;33434;Saint-Louis-de-Montferrand;;;-0.532767;44.955658
+33434_0047_00036;36;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.528764;44.961438
+33434_0770_00004;4;;Rue de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.533311;44.953051
+33434_0265_00004;4;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.535412;44.945689
+33434_0980_00045_a;45;A;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.526349;44.956053
+33434_c3tmoj_00095;95;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.535142;44.951649
+33434_0052_00005;5;;Rue Boris Vian;33440;33434;Saint-Louis-de-Montferrand;;;-0.536021;44.944544
+33434_c3tmoj_00103;103;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.534745;44.952191
+33434_0047_00001;1;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.533303;44.96124
+33434_0943_00022;22;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.537038;44.942265
+33434_0770_00006;6;;Rue de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.533283;44.952751
+33434_0047_00039;39;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.529151;44.961021
+33434_0300_00022;22;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532673;44.942318
+33434_0981_00023;23;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.530901;44.953909
+33434_0427_00004;4;;Rue de la Jalle;33440;33434;Saint-Louis-de-Montferrand;;;-0.539662;44.943102
+33434_0943_00028;28;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.536188;44.94209
+33434_0955_00004;4;;Rue du Temps Passé;33440;33434;Saint-Louis-de-Montferrand;;;-0.531285;44.951228
+33434_0955_00023;23;;Rue du Temps Passé;33440;33434;Saint-Louis-de-Montferrand;;;-0.531246;44.95192
+33434_0047_00016;16;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.530212;44.961157
+33434_0570_00005;5;;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.524879;44.95376
+33434_0590_00021;21;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.536679;44.945069
+33434_c3tmoj_00060_bis;60;bis;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.539065;44.945283
+33434_0580_00004;4;;Rue Louis Monteau;33440;33434;Saint-Louis-de-Montferrand;;;-0.534939;44.951411
+33434_0570_00004_ter;4;ter;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.525581;44.952912
+33434_0570_00008_bis;8;bis;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.527211;44.951872
+33434_0788_00009;9;;Impasse Prévert;33440;33434;Saint-Louis-de-Montferrand;;;-0.534869;44.94693
+33434_0980_00059_bis;59;bis;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.52478;44.954941
+33434_c3tmoj_00007;7;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.539781;44.944643
+33434_c3tmoj_00155;155;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533737;44.959991
+33434_c3tmoj_00008;8;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.54566;44.925548
+33434_0943_00020;20;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.537344;44.94235
+33434_c3tmoj_00148;148;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533543;44.959046
+33434_0955_00001;1;;Rue du Temps Passé;33440;33434;Saint-Louis-de-Montferrand;;;-0.531624;44.951194
+33434_c3tmoj_00052;52;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.5414;44.942521
+33434_0015_00022;22;;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.532146;44.954793
+33434_0059_00008;8;;Impasse Baudelaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.537189;44.946907
+33434_0775_00001;1;;Impasse Paul Jaumouillie;33440;33434;Saint-Louis-de-Montferrand;;;-0.538459;44.946411
+33434_0492_00001;1;;Rue Joliot-Curie;33440;33434;Saint-Louis-de-Montferrand;;;-0.538903;44.944307
+33434_0870_00244_bis;244;bis;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.525264;44.940647
+33434_0330_00012;12;;Rue Gaston Bourceau;33440;33434;Saint-Louis-de-Montferrand;;;-0.528061;44.984616
+33434_0980_00037_bis;37;bis;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.527273;44.955683
+33434_0427_00001;1;;Rue de la Jalle;33440;33434;Saint-Louis-de-Montferrand;;;-0.539441;44.942993
+33434_0300_00026;26;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532768;44.942157
+33434_0590_00041;41;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537056;44.944723
+33434_0590_00015;15;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537244;44.9454
+33434_0407_00002;2;;Impasse Georges Baudry;33440;33434;Saint-Louis-de-Montferrand;;;-0.537872;44.948462
+33434_c3tmoj_00023;23;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.538792;44.945902
+33434_c3tmoj_00007_bis;7;bis;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.539658;44.944781
+33434_0981_00028;28;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.531092;44.952726
+33434_0590_00020;20;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.536824;44.945108
+33434_0980_00048;48;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.525375;44.954938
+33434_0870_00039;39;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.531806;44.943801
+33434_0943_00014;14;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.538155;44.942576
+33434_0572_00007;7;;Rue Louis Lagardère;33440;33434;Saint-Louis-de-Montferrand;;;-0.533525;44.951998
+33434_0943_00013;13;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.537072;44.942374
+33434_c3tmoj_00136_ter;136;ter;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533702;44.957596
+33434_0980_00041;41;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.527083;44.955409
+33434_0330_00001;1;;Rue Gaston Bourceau;33440;33434;Saint-Louis-de-Montferrand;;;-0.532933;44.984065
+33434_0330_00006;6;;Rue Gaston Bourceau;33440;33434;Saint-Louis-de-Montferrand;;;-0.530118;44.984319
+33434_0980_00013;13;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.531595;44.956137
+33434_0551_00015;15;;Rue des Lilas;33440;33434;Saint-Louis-de-Montferrand;;;-0.535406;44.942823
+33434_0551_00008;8;;Rue des Lilas;33440;33434;Saint-Louis-de-Montferrand;;;-0.536556;44.943031
+33434_0590_00022;22;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.536595;44.94503
+33434_0870_00051;51;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.529973;44.942377
+33434_0620_00022_a;22;A;Rue Marcel Paul;33440;33434;Saint-Louis-de-Montferrand;;;-0.532728;44.955854
+33434_0779_00001;1;;Impasse Pierre Pes;33440;33434;Saint-Louis-de-Montferrand;;;-0.534335;44.952495
+33434_0943_00006;6;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.538989;44.942996
+33434_0030_00013;13;;Impasse André Brisson;33440;33434;Saint-Louis-de-Montferrand;;;-0.537256;44.943856
+33434_0620_00023;23;;Rue Marcel Paul;33440;33434;Saint-Louis-de-Montferrand;;;-0.532588;44.955495
+33434_0980_00001;1;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.533448;44.956663
+33434_c3tmoj_00140_bis;140;bis;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533681;44.957802
+33434_0870_00244;244;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.52472;44.940509
+33434_0590_00018;18;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.536928;44.945232
+33434_0980_00037_ter;37;ter;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.527306;44.955623
+33434_0943_00017;17;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.535748;44.942103
+33434_0620_00034;34;;Rue Marcel Paul;33440;33434;Saint-Louis-de-Montferrand;;;-0.532955;44.956096
+33434_0955_00007;7;;Rue du Temps Passé;33440;33434;Saint-Louis-de-Montferrand;;;-0.531632;44.951469
+33434_0785_00009;9;;Rue des Pres de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.534105;44.945714
+33434_0265_00018;18;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.535534;44.946455
+33434_c3tmoj_00143;143;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533693;44.959066
+33434_0980_00007;7;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.532336;44.956318
+33434_0047_00041;41;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.529637;44.961357
+33434_c3tmoj_00047;47;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537593;44.947687
+33434_0047_00022;22;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.52903;44.960931
+33434_0590_00038;38;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537177;44.944855
+33434_c3tmoj_00045;45;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537606;44.947603
+33434_c3tmoj_00068_bis;68;bis;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537937;44.946811
+33434_0015_00012;12;;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.532405;44.954272
+33434_0330_00005;5;;Rue Gaston Bourceau;33440;33434;Saint-Louis-de-Montferrand;;;-0.528111;44.984797
+33434_c3tmoj_00083;83;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.535699;44.950589
+33434_0047_00031;31;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.527865;44.961493
+33434_0870_00006;6;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.53768;44.946064
+33434_c3tmoj_00138;138;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53369;44.95772
+33434_0570_00007_bis;7;bis;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.525177;44.953305
+33434_0480_00003;3;;Rue Jean Sabourain;33440;33434;Saint-Louis-de-Montferrand;;;-0.524468;44.959296
+33434_0955_00009;9;;Rue du Temps Passé;33440;33434;Saint-Louis-de-Montferrand;;;-0.53161;44.95161
+33434_0980_00043;43;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.526798;44.95535
+33434_0870_00049;49;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.5303;44.942939
+33434_0980_00097;97;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.519776;44.954391
+33434_0620_00019;19;;Rue Marcel Paul;33440;33434;Saint-Louis-de-Montferrand;;;-0.531631;44.955334
+33434_0047_00006;6;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.531634;44.961379
+33434_0570_00001;1;;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.524558;44.954266
+33434_0943_00015;15;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.536813;44.942303
+33434_0590_00033;33;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537495;44.945006
+33434_0870_00015;15;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.535286;44.945161
+33434_0980_00045_c;45;C;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.526317;44.95611
+33434_0572_00002;2;;Rue Louis Lagardère;33440;33434;Saint-Louis-de-Montferrand;;;-0.533695;44.952314
+33434_0265_00008;8;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.534983;44.945986
+33434_0618_00002;2;;Rue Marcel Boudy;33440;33434;Saint-Louis-de-Montferrand;;;-0.532133;44.952988
+33434_c3tmoj_00153;153;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533751;44.960107
+33434_0980_00027;27;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.529487;44.955839
+33434_c3tmoj_00092_bis;92;bis;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.536484;44.949075
+33434_c3tmoj_00019;19;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.539017;44.945635
+33434_c3tmoj_00087;87;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.535539;44.950948
+33434_0300_00013;13;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.531977;44.942811
+33434_0943_00024_a;24;A;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.536658;44.94216
+33434_0419_00002;2;;Impasse George Sand;33440;33434;Saint-Louis-de-Montferrand;;;-0.536345;44.947436
+33434_0480_00012;12;;Rue Jean Sabourain;33440;33434;Saint-Louis-de-Montferrand;;;-0.529012;44.958743
+33434_0580_00005;5;;Rue Louis Monteau;33440;33434;Saint-Louis-de-Montferrand;;;-0.534146;44.951405
+33434_0570_00006;6;;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.52841;44.952019
+33434_0052_00001;1;;Rue Boris Vian;33440;33434;Saint-Louis-de-Montferrand;;;-0.5364;44.944725
+33434_0870_00018;18;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.535579;44.945075
+33434_0981_00008;8;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.530778;44.954846
+33434_c3tmoj_00125;125;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533878;44.957316
+33434_0870_00034_ter;34;ter;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.533629;44.943841
+33434_0492_00009;9;;Rue Joliot-Curie;33440;33434;Saint-Louis-de-Montferrand;;;-0.538153;44.943782
+33434_0981_00014;14;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.531102;44.95431
+33434_0059_00001;1;;Impasse Baudelaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.536358;44.947176
+33434_0800_00011;11;;Place de la Revolution 1789;33440;33434;Saint-Louis-de-Montferrand;;;-0.534116;44.953148
+33434_0300_00002;2;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.531976;44.943286
+33434_0590_00040;40;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537302;44.944832
+33434_0618_00009;9;;Rue Marcel Boudy;33440;33434;Saint-Louis-de-Montferrand;;;-0.532108;44.953511
+33434_c3tmoj_00102;102;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.535368;44.950973
+33434_c3tmoj_00090;90;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.536742;44.948669
+33434_c3tmoj_00162;162;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533608;44.963735
+33434_c3tmoj_00084_bis;84;bis;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537238;44.94756
+33434_0411_00013;13;;Rue Georges Brassens;33440;33434;Saint-Louis-de-Montferrand;;;-0.53503;44.943479
+33434_0881_00003;3;;Rue des Rosiers;33440;33434;Saint-Louis-de-Montferrand;;;-0.538182;44.943103
+33434_0800_00007;7;;Place de la Revolution 1789;33440;33434;Saint-Louis-de-Montferrand;;;-0.53403;44.953135
+33434_0572_00001;1;;Rue Louis Lagardère;33440;33434;Saint-Louis-de-Montferrand;;;-0.533521;44.951435
+33434_0590_00013;13;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537159;44.945367
+33434_0030_00008;8;;Impasse André Brisson;33440;33434;Saint-Louis-de-Montferrand;;;-0.537823;44.944442
+33434_c3tmoj_00074;74;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537768;44.947072
+33434_0870_00029;29;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.533001;44.944275
+33434_0980_00007_ter;7;ter;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.5321;44.956761
+33434_0980_00004;4;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.532391;44.956221
+33434_0047_00028;28;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.527924;44.960849
+33434_0265_00003;3;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.535423;44.945997
+33434_0570_00011_ter;11;ter;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.524808;44.952655
+33434_0300_00023;23;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532276;44.942333
+33434_0570_00019;19;;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.526087;44.951819
+33434_0881_00004;4;;Rue des Rosiers;33440;33434;Saint-Louis-de-Montferrand;;;-0.538218;44.94301
+33434_0870_00034_bis;34;bis;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.533734;44.943888
+33434_c3tmoj_00116_bis;116;bis;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.534094;44.954782
+33434_0980_00075;75;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.522606;44.954474
+33434_0052_00007;7;;Rue Boris Vian;33440;33434;Saint-Louis-de-Montferrand;;;-0.535788;44.944433
+33434_0955_00011;11;;Rue du Temps Passé;33440;33434;Saint-Louis-de-Montferrand;;;-0.531591;44.951714
+33434_0980_00053;53;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.525816;44.95515
+33434_0980_00050;50;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.525072;44.954894
+33434_0870_00048_bis;48;bis;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.531283;44.943436
+33434_hqtilz_00003;3;;Impasse Jean de la Fontaine;33440;33434;Saint-Louis-de-Montferrand;;;-0.535721;44.948022
+33434_0870_00046_bis;46;bis;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.531705;44.943606
+33434_c3tmoj_00044_b;44;B;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.541996;44.941817
+33434_0943_00004;4;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.539373;44.943452
+33434_0955_00012;12;;Rue du Temps Passé;33440;33434;Saint-Louis-de-Montferrand;;;-0.531314;44.951705
+33434_0300_00020;20;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532614;44.942417
+33434_0590_00035;35;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537621;44.944984
+33434_0480_00014_bis;14;bis;Rue Jean Sabourain;33440;33434;Saint-Louis-de-Montferrand;;;-0.528337;44.95877
+33434_c3tmoj_00032_bis;32;bis;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.541538;44.940876
+33434_0870_00021;21;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.533989;44.944669
+33434_0492_00008;8;;Rue Joliot-Curie;33440;33434;Saint-Louis-de-Montferrand;;;-0.537816;44.943695
+33434_0480_00018_bis;18;bis;Rue Jean Sabourain;33440;33434;Saint-Louis-de-Montferrand;;;-0.525971;44.958908
+33434_c3tmoj_00017;17;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53909;44.945545
+33434_0620_00027;27;;Rue Marcel Paul;33440;33434;Saint-Louis-de-Montferrand;;;-0.531638;44.955252
+33434_0411_00009;9;;Rue Georges Brassens;33440;33434;Saint-Louis-de-Montferrand;;;-0.534736;44.943485
+33434_c3tmoj_00001;1;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.540063;44.944308
+33434_0590_00005;5;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537602;44.945427
+33434_0330_00010;10;;Rue Gaston Bourceau;33440;33434;Saint-Louis-de-Montferrand;;;-0.528339;44.984578
+33434_0955_00006;6;;Rue du Temps Passé;33440;33434;Saint-Louis-de-Montferrand;;;-0.531198;44.951203
+33434_0980_00077;77;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.522425;44.954451
+33434_0779_00005;5;;Impasse Pierre Pes;33440;33434;Saint-Louis-de-Montferrand;;;-0.534149;44.952465
+33434_0618_00008;8;;Rue Marcel Boudy;33440;33434;Saint-Louis-de-Montferrand;;;-0.531753;44.953592
+33434_0480_00001;1;;Rue Jean Sabourain;33440;33434;Saint-Louis-de-Montferrand;;;-0.528605;44.958867
+33434_0980_00016;16;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.532166;44.956162
+33434_0300_00035;35;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532688;44.941735
+33434_0980_00002;2;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.533078;44.9564
+33434_0551_00010;10;;Rue des Lilas;33440;33434;Saint-Louis-de-Montferrand;;;-0.535558;44.942672
+33434_0300_00006;6;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532155;44.943086
+33434_0590_00019;19;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.536855;44.9452
+33434_0870_00003_b;3;B;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.53759;44.946242
+33434_0480_00028;28;;Rue Jean Sabourain;33440;33434;Saint-Louis-de-Montferrand;;;-0.521731;44.958828
+33434_0980_00061;61;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.52446;44.95491
+33434_0870_00013;13;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.535447;44.945247
+33434_0492_00007;7;;Rue Joliot-Curie;33440;33434;Saint-Louis-de-Montferrand;;;-0.537622;44.943594
+33434_0770_00017;17;;Rue de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.531589;44.952438
+33434_0047_00030;30;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.527859;44.960962
+33434_0015_00008;8;;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.53305;44.953941
+33434_c3tmoj_00006;6;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.5456;44.925291
+33434_0981_00020;20;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.531067;44.953646
+33434_0980_00022;22;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.529574;44.955749
+33434_0980_00028;28;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.528684;44.955615
+33434_c3tmoj_00050;50;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.541587;44.9423
+33434_0015_00001_bis;1;bis;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.533244;44.953823
+33434_0980_00025;25;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.530071;44.955929
+33434_c3tmoj_00161;161;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533787;44.960935
+33434_c3tmoj_00166;166;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533892;44.967636
+33434_0480_00016;16;;Rue Jean Sabourain;33440;33434;Saint-Louis-de-Montferrand;;;-0.528085;44.958759
+33434_0981_00005;5;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.530637;44.955211
+33434_0980_00016_bis;16;bis;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.530019;44.95581
+33434_0419_00001;1;;Impasse George Sand;33440;33434;Saint-Louis-de-Montferrand;;;-0.536216;44.947424
+33434_0590_00037;37;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537254;44.944891
+33434_0300_00008;8;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532193;44.943043
+33434_0870_00030;30;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.533801;44.944434
+33434_0047_00026;26;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.528354;44.960905
+33434_0870_00003;3;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.537913;44.946369
+33434_0981_00009;9;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.530882;44.95472
+33434_c3tmoj_00156;156;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533627;44.960781
+33434_c3tmoj_00049;49;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537522;44.947755
+33434_0943_00011;11;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.53782;44.942581
+33434_0943_00024;24;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.536797;44.942199
+33434_0980_00013_bis;13;bis;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.53141;44.955996
+33434_0981_00012;12;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.531104;44.954415
+33434_0870_00044_bis;44;bis;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.531897;44.943683
+33434_0265_00002;2;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.535661;44.945544
+33434_c3tmoj_00004;4;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.545548;44.92501
+33434_0980_00068;68;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.52204;44.954323
+33434_0015_00024;24;;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.532378;44.954865
+33434_0770_00008;8;;Rue de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.532865;44.952664
+33434_c3tmoj_00084_ter;84;ter;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537165;44.947547
+33434_0590_00003;3;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537893;44.945657
+33434_0265_00014;14;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.534891;44.94638
+33434_0943_00001;1;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.539467;44.943758
+33434_0980_00017;17;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.531077;44.956054
+33434_0870_00032;32;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.53353;44.944333
+33434_0620_00018;18;;Rue Marcel Paul;33440;33434;Saint-Louis-de-Montferrand;;;-0.531357;44.95528
+33434_0980_00029;29;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.529124;44.955803
+33434_c3tmoj_00170;170;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533983;44.968615
+33434_0788_00005;5;;Impasse Prévert;33440;33434;Saint-Louis-de-Montferrand;;;-0.534656;44.947307
+33434_0265_00001;1;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.535682;44.945824
+33434_0030_00006;6;;Impasse André Brisson;33440;33434;Saint-Louis-de-Montferrand;;;-0.538244;44.944601
+33434_c3tmoj_00014;14;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.545941;44.931193
+33434_0370_00002;2;;Rue Gaudin;33440;33434;Saint-Louis-de-Montferrand;;;-0.53163;44.954192
+33434_c3tmoj_00126;126;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53395;44.955433
+33434_0980_00058;58;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.523694;44.954594
+33434_0580_00001;1;;Rue Louis Monteau;33440;33434;Saint-Louis-de-Montferrand;;;-0.534745;44.951499
+33434_0300_00014;14;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532466;44.942669
+33434_0030_00005;5;;Impasse André Brisson;33440;33434;Saint-Louis-de-Montferrand;;;-0.538186;44.944495
+33434_c3tmoj_00130;130;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533746;44.956257
+33434_c3tmoj_00072;72;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53784;44.946959
+33434_0433_00006;6;;Avenue Jacques Brel;33440;33434;Saint-Louis-de-Montferrand;;;-0.535603;44.943704
+33434_c3tmoj_00120;120;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53403;44.955087
+33434_0870_00246;246;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.523965;44.940206
+33434_0980_00029_bis;29;bis;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.528921;44.955773
+33434_c3tmoj_00118;118;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.534033;44.954976
+33434_0788_00001;1;;Impasse Prévert;33440;33434;Saint-Louis-de-Montferrand;;;-0.534745;44.947534
+33434_0980_00045;45;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.526578;44.955874
+33434_0047_00017;17;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.530471;44.961492
+33434_0785_00008;8;;Rue des Pres de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.533856;44.945865
+33434_0618_00006;6;;Rue Marcel Boudy;33440;33434;Saint-Louis-de-Montferrand;;;-0.531809;44.953428
+33434_0570_00002_ter;2;ter;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.525383;44.953249
+33434_0590_00032;32;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537567;44.94505
+33434_0980_00060;60;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.523491;44.954556
+33434_0980_00052;52;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.524629;44.95479
+33434_c3tmoj_00062;62;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.538793;44.945698
+33434_hqtilz_00006;6;;Impasse Jean de la Fontaine;33440;33434;Saint-Louis-de-Montferrand;;;-0.535563;44.948017
+33434_c3tmoj_00021;21;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.538918;44.945753
+33434_0800_00005;5;;Place de la Revolution 1789;33440;33434;Saint-Louis-de-Montferrand;;;-0.533892;44.953112
+33434_0030_00004;4;;Impasse André Brisson;33440;33434;Saint-Louis-de-Montferrand;;;-0.538683;44.944785
+33434_0881_00001;1;;Rue des Rosiers;33440;33434;Saint-Louis-de-Montferrand;;;-0.538487;44.943139
+33434_0980_00079;79;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.522246;44.954441
+33434_c3tmoj_00046;46;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.541844;44.941999
+33434_0480_00007;7;;Rue Jean Sabourain;33440;33434;Saint-Louis-de-Montferrand;;;-0.522376;44.958892
+33434_0870_00050;50;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.531219;44.94341
+33434_0480_00026;26;;Rue Jean Sabourain;33440;33434;Saint-Louis-de-Montferrand;;;-0.522318;44.958731
+33434_0980_00056;56;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.52397;44.954655
+33434_0980_00055;55;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.525469;44.955079
+33434_0411_00005;5;;Rue Georges Brassens;33440;33434;Saint-Louis-de-Montferrand;;;-0.534643;44.943812
+33434_0980_00011;11;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.531798;44.956178
+33434_0590_00004;4;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537863;44.945565
+33434_0300_00012;12;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532383;44.942809
+33434_c3tmoj_00054_bis;54;bis;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53836;44.941947
+33434_0980_00012;12;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.530984;44.955935
+33434_0980_00057;57;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.525174;44.95505
+33434_0551_00005;5;;Rue des Lilas;33440;33434;Saint-Louis-de-Montferrand;;;-0.537108;44.943119
+33434_c3tmoj_00142;142;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533633;44.9583
+33434_c3tmoj_00025;25;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.538687;44.946021
+33434_0590_00023;23;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.53844;44.945437
+33434_0059_00012;12;;Impasse Baudelaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.537009;44.946571
+33434_0551_00006;6;;Rue des Lilas;33440;33434;Saint-Louis-de-Montferrand;;;-0.537014;44.943048
+33434_c3tmoj_00089;89;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.535459;44.951122
+33434_0980_00010;10;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.530797;44.955908
+33434_0980_00021;21;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.530556;44.95599
+33434_0265_00009;9;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.53564;44.947264
+33434_c3tmoj_00094;94;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.536326;44.949327
+33434_0590_00036;36;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537327;44.944924
+33434_0570_00010;10;;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.528235;44.954786
+33434_c3tmoj_00128;128;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533888;44.955743
+33434_0981_00026_bis;26;bis;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.531065;44.952912
+33434_0980_00081;81;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.521945;44.954433
+33434_c3tmoj_00176;176;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.535184;44.976
+33434_0980_00015_bis;15;bis;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.531964;44.956104
+33434_c3tmoj_00005;5;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.539971;44.944416
+33434_0980_00014;14;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.53158;44.95602
+33434_0620_00020;20;;Rue Marcel Paul;33440;33434;Saint-Louis-de-Montferrand;;;-0.531911;44.955389
+33434_0770_00002;2;;Rue de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.533179;44.953251
+33434_0768_00003;3;;Impasse de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.533942;44.952774
+33434_0265_00010;10;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.534799;44.946121
+33434_0618_00013;13;;Rue Marcel Boudy;33440;33434;Saint-Louis-de-Montferrand;;;-0.531961;44.953634
+33434_0870_00005;5;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.537461;44.94619
+33434_0981_00010;10;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.530937;44.954602
+33434_0433_00008;8;;Avenue Jacques Brel;33440;33434;Saint-Louis-de-Montferrand;;;-0.535752;44.943475
+33434_c3tmoj_00009;9;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.539552;44.944913
+33434_0570_00014;14;;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.52824;44.955393
+33434_0980_00073_bis;73;bis;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.522533;44.955529
+33434_0980_00064;64;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.523078;44.954443
+33434_c3tmoj_00147;147;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533713;44.959579
+33434_0047_00008;8;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.531324;44.961376
+33434_0981_00002;2;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.530538;44.955631
+33434_0870_00025;25;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.53362;44.944527
+33434_0047_00037;37;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.528613;44.961001
+33434_0433_00002;2;;Avenue Jacques Brel;33440;33434;Saint-Louis-de-Montferrand;;;-0.535223;44.944346
+33434_0620_00025;25;;Rue Marcel Paul;33440;33434;Saint-Louis-de-Montferrand;;;-0.532122;44.955362
+33434_0610_00009;9;;Place de la Mairie;33440;33434;Saint-Louis-de-Montferrand;;;-0.534932;44.952759
+33434_0047_00025;25;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.528798;44.961521
+33434_0590_00026;26;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537979;44.945224
+33434_0300_00009;9;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.53185;44.942954
+33434_0572_00004;4;;Rue Louis Lagardère;33440;33434;Saint-Louis-de-Montferrand;;;-0.533749;44.952123
+33434_0570_00005_c;5;C;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.524959;44.953636
+33434_c3tmoj_00037;37;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537998;44.946916
+33434_c3tmoj_00031_bis;31;bis;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.538236;44.946495
+33434_c3tmoj_00174;174;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.534514;44.974515
+33434_0800_00001;1;;Place de la Revolution 1789;33440;33434;Saint-Louis-de-Montferrand;;;-0.53379;44.952924
+33434_0980_00093;93;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.520503;44.954409
+33434_0981_00018_bis;18;bis;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.531292;44.954047
+33434_hqtilz_00002;2;;Impasse Jean de la Fontaine;33440;33434;Saint-Louis-de-Montferrand;;;-0.535249;44.947712
+33434_c3tmoj_00144;144;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533577;44.958579
+33434_c3tmoj_00180;180;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.536754;44.980399
+33434_0590_00010;10;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537588;44.945566
+33434_0881_00002;2;;Rue des Rosiers;33440;33434;Saint-Louis-de-Montferrand;;;-0.538329;44.943159
+33434_0943_00009;9;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.538168;44.942679
+33434_0870_00039_bis;39;bis;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.531582;44.943724
+33434_0877_00001;1;;Impasse Ronsard;33440;33434;Saint-Louis-de-Montferrand;;;-0.536121;44.946232
+33434_0047_00007;7;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.531775;44.961644
+33434_c3tmoj_00068;68;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.538028;44.946677
+33434_0570_00005_a;5;A;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.524901;44.953725
+33434_0870_00035;35;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.532426;44.944054
+33434_c3tmoj_00107;107;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.534689;44.952393
+33434_0785_00004;4;;Rue des Pres de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.534014;44.945322
+33434_0570_00002_bis;2;bis;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.524902;44.953955
+33434_0870_00011;11;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.536211;44.945681
+33434_0980_00022_b;22;B;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.529808;44.955482
+33434_0590_00014;14;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537291;44.945349
+33434_c3tmoj_00182;182;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.536799;44.980761
+33434_0870_00047;47;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.530695;44.943357
+33434_0981_00026;26;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.531052;44.953009
+33434_0030_00011;11;;Impasse André Brisson;33440;33434;Saint-Louis-de-Montferrand;;;-0.537347;44.944168
+33434_0590_00043;43;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.536863;44.944698
+33434_c3tmoj_00016;16;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.545911;44.931628
+33434_c3tmoj_00076;76;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537707;44.947165
+33434_0047_00003;3;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.533125;44.961239
+33434_0300_00015;15;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532059;44.9427
+33434_0433_00004;4;;Avenue Jacques Brel;33440;33434;Saint-Louis-de-Montferrand;;;-0.535509;44.94385
+33434_0047_00019;19;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.529782;44.961551
+33434_0570_00009;9;;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.525253;44.95319
+33434_0955_00015;15;;Rue du Temps Passé;33440;33434;Saint-Louis-de-Montferrand;;;-0.531564;44.951845
+33434_0955_00003;3;;Rue du Temps Passé;33440;33434;Saint-Louis-de-Montferrand;;;-0.531622;44.951264
+33434_0411_00011;11;;Rue Georges Brassens;33440;33434;Saint-Louis-de-Montferrand;;;-0.534872;44.943372
+33434_0788_00007;7;;Impasse Prévert;33440;33434;Saint-Louis-de-Montferrand;;;-0.534721;44.947105
+33434_0300_00033;33;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532568;44.941839
+33434_0047_00012;12;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.530759;44.961178
+33434_0955_00019;19;;Rue du Temps Passé;33440;33434;Saint-Louis-de-Montferrand;;;-0.531464;44.951931
+33434_0480_00005;5;;Rue Jean Sabourain;33440;33434;Saint-Louis-de-Montferrand;;;-0.525584;44.959132
+33434_c3tmoj_00042;42;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.541603;44.941552
+33434_0980_00045_e;45;E;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.526253;44.956223
+33434_0047_00010;10;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.530856;44.961415
+33434_0800_00003;3;;Place de la Revolution 1789;33440;33434;Saint-Louis-de-Montferrand;;;-0.533781;44.952999
+33434_0981_00020_bis;20;bis;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.531061;44.953559
+33434_0980_00063;63;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.524159;44.955476
+33434_0590_00031;31;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537644;44.945083
+33434_0590_00016;16;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537184;44.94545
+33434_0770_00002_bis;2;bis;Rue de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.533202;44.95317
+33434_c3tmoj_00043;43;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537783;44.947267
+33434_c3tmoj_00003;3;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.540026;44.94435
+33434_c3tmoj_00106;106;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.534703;44.951943
+33434_0877_00005;5;;Impasse Ronsard;33440;33434;Saint-Louis-de-Montferrand;;;-0.536516;44.94616
+33434_0785_00002;2;;Rue des Pres de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.534309;44.945434
+33434_c3tmoj_00092;92;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.536602;44.948889
+33434_0943_00012;12;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.538424;44.94265
+33434_0775_00005;5;;Impasse Paul Jaumouillie;33440;33434;Saint-Louis-de-Montferrand;;;-0.539127;44.946586
+33434_0881_00006;6;;Rue des Rosiers;33440;33434;Saint-Louis-de-Montferrand;;;-0.538396;44.942974
+33434_c3tmoj_00012;12;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.546028;44.929203
+33434_0047_00002;2;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.5325;44.961334
+33434_0300_00007;7;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.531766;44.943048
+33434_c3tmoj_00164;164;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533851;44.966443
+33434_c3tmoj_00033;33;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.538143;44.946637
+33434_0015_00016;16;;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.532794;44.954428
+33434_0770_00011;11;;Rue de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.532674;44.952507
+33434_0980_00007_bis;7;bis;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.532151;44.956757
+33434_0551_00013;13;;Rue des Lilas;33440;33434;Saint-Louis-de-Montferrand;;;-0.536472;44.943119
+33434_0492_00002;2;;Rue Joliot-Curie;33440;33434;Saint-Louis-de-Montferrand;;;-0.538754;44.944077
+33434_c3tmoj_00060;60;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.539111;44.945302
+33434_0047_00035;35;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.52823;44.960987
+33434_c3tmoj_00158;158;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53362;44.960885
+33434_0330_00008;8;;Rue Gaston Bourceau;33440;33434;Saint-Louis-de-Montferrand;;;-0.52928;44.984445
+33434_0981_00007;7;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.530736;44.954955
+33434_0618_00005;5;;Rue Marcel Boudy;33440;33434;Saint-Louis-de-Montferrand;;;-0.532206;44.953148
+33434_0590_00042;42;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.536988;44.944688
+33434_0570_00017;17;;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.525859;44.952477
+33434_0059_00010;10;;Impasse Baudelaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.537074;44.946818
+33434_c3tmoj_00097;97;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.535019;44.951761
+33434_c3tmoj_00010;10;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.545697;44.925765
+33434_0570_00002;2;;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.524708;44.954307
+33434_0300_00031;31;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532488;44.941974
+33434_c3tmoj_00113;113;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.534047;44.955581
+33434_c3tmoj_00119;119;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533927;44.956832
+33434_0551_00014;14;;Rue des Lilas;33440;33434;Saint-Louis-de-Montferrand;;;-0.535;44.942683
+33434_0300_00018;18;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532554;44.94252
+33434_c3tmoj_00144_bis;144;bis;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.532873;44.958717
+33434_0610_00003;3;;Place de la Mairie;33440;33434;Saint-Louis-de-Montferrand;;;-0.534959;44.95255
+33434_0870_00055;55;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.529539;44.942083
+33434_0981_00003;3;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.530539;44.955464
+33434_0590_00028;28;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.538024;44.945172
+33434_c3tmoj_00168;168;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533925;44.96819
+33434_0980_00036;36;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.527119;44.955305
+33434_c3tmoj_00048;48;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.54175;44.94211
+33434_0980_00063_bis;63;bis;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.52444;44.955863
+33434_0265_00020;20;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.535538;44.94668
+33434_0030_00002;2;;Impasse André Brisson;33440;33434;Saint-Louis-de-Montferrand;;;-0.539026;44.944943
+33434_0300_00011;11;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.531896;44.942902
+33434_0870_00009;9;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.536937;44.945978
+33434_hqtilz_00001;1;;Impasse Jean de la Fontaine;33440;33434;Saint-Louis-de-Montferrand;;;-0.535508;44.947822
+33434_0870_00014;14;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.535995;44.945393
+33434_c3tmoj_00082;82;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537575;44.947366
+33434_0570_00015;15;;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.525747;44.952426
+33434_0785_00003;3;;Rue des Pres de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.534049;44.945318
+33434_0943_00005;5;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.539154;44.943387
+33434_0551_00009;9;;Rue des Lilas;33440;33434;Saint-Louis-de-Montferrand;;;-0.536972;44.94331
+33434_0492_00004;4;;Rue Joliot-Curie;33440;33434;Saint-Louis-de-Montferrand;;;-0.538258;44.943734
+33434_c3tmoj_00099;99;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.534844;44.951921
+33434_0419_00003;3;;Impasse George Sand;33440;33434;Saint-Louis-de-Montferrand;;;-0.536231;44.947609
+33434_0870_00036;36;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.532657;44.943986
+33434_c3tmoj_00085;85;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53562;44.950766
+33434_0427_00002;2;;Rue de la Jalle;33440;33434;Saint-Louis-de-Montferrand;;;-0.539618;44.942951
+33434_0785_00007;7;;Rue des Pres de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.533917;44.94562
+33434_0800_00017;17;;Place de la Revolution 1789;33440;33434;Saint-Louis-de-Montferrand;;;-0.534204;44.953161
+33434_0980_00045_d;45;D;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.526282;44.95617
+33434_0047_00013;13;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.530836;44.961614
+33434_0870_00004;4;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.537736;44.94613
+33434_c3tmoj_00096;96;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.535825;44.95003
+33434_0943_00008;8;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.538829;44.942804
+33434_c3tmoj_00015;15;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.539235;44.94535
+33434_0943_00016;16;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.53786;44.942493
+33434_c3tmoj_00060_quater;60;quater;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.539079;44.945346
+33434_0047_00018;18;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.529906;44.961141
+33434_0047_00015;15;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.530626;44.961608
+33434_0870_00026;26;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.53436;44.944568
+33434_0411_00007;7;;Rue Georges Brassens;33440;33434;Saint-Louis-de-Montferrand;;;-0.534698;44.943653
+33434_0015_00002_bis;2;bis;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.533186;44.953453
+33434_c3tmoj_00126_bis;126;bis;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53396;44.955387
+33434_0981_00029;29;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.530984;44.95489
+33434_c3tmoj_00056;56;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.540332;44.943801
+33434_0980_00070;70;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.521523;44.954316
+33434_0570_00005_bis;5;bis;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.525035;44.953521
+33434_c3tmoj_00110_bis;110;bis;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.534615;44.952246
+33434_0030_00009;9;;Impasse André Brisson;33440;33434;Saint-Louis-de-Montferrand;;;-0.53755;44.944249
+33434_c3tmoj_00029;29;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.538286;44.946418
+33434_c3tmoj_00140_q;140;Q;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533101;44.95806
+33434_0620_00017;17;;Rue Marcel Paul;33440;33434;Saint-Louis-de-Montferrand;;;-0.531137;44.955241
+33434_0047_00012_a;12;A;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.530645;44.96124
+33434_0433_00010;10;;Avenue Jacques Brel;33440;33434;Saint-Louis-de-Montferrand;;;-0.535877;44.943282
+33434_0981_00019;19;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.530891;44.953282
+33434_0433_00016;16;;Avenue Jacques Brel;33440;33434;Saint-Louis-de-Montferrand;;;-0.536404;44.942542
+33434_0618_00007;7;;Rue Marcel Boudy;33440;33434;Saint-Louis-de-Montferrand;;;-0.532157;44.95333
+33434_0980_00047;47;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.526514;44.955324
+33434_c3tmoj_00117;117;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.53392;44.956653
+33434_0590_00008;8;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537463;44.945583
+33434_0980_00020;20;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.529708;44.955767
+33434_c3tmoj_00140_ter;140;ter;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.532802;44.958028
+33434_0870_00045;45;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.530906;44.943451
+33434_0980_00040;40;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.526224;44.955121
+33434_0980_00083;83;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.521125;44.954428
+33434_c3tmoj_00124;124;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533983;44.955281
+33434_0870_00012;12;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.536241;44.945464
+33434_c3tmoj_00160;160;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533638;44.961432
+33434_0980_00054;54;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.524177;44.954695
+33434_c3tmoj_00030;30;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.543262;44.939747
+33434_0870_00019;19;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.534259;44.944773
+33434_0580_00009;9;;Rue Louis Monteau;33440;33434;Saint-Louis-de-Montferrand;;;-0.531961;44.951156
+33434_0870_00146;146;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.526295;44.940903
+33434_c3tmoj_00084_quater;84;quater;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537137;44.947616
+33434_0300_00019;19;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532159;44.94253
+33434_0433_00014;14;;Avenue Jacques Brel;33440;33434;Saint-Louis-de-Montferrand;;;-0.53627;44.942714
+33434_0052_00002;2;;Rue Boris Vian;33440;33434;Saint-Louis-de-Montferrand;;;-0.536454;44.944641
+33434_0030_00015;15;;Impasse André Brisson;33440;33434;Saint-Louis-de-Montferrand;;;-0.537083;44.943884
+33434_0870_00031;31;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.532774;44.944188
+33434_0265_00006;6;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.535187;44.945836
+33434_0570_00008;8;;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.527224;44.952198
+33434_0785_00005;5;;Rue des Pres de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.533933;44.945404
+33434_0610_00001;1;;Place de la Mairie;33440;33434;Saint-Louis-de-Montferrand;;;-0.534742;44.952521
+33434_0590_00006;6;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537551;44.94548
+33434_0870_00010;10;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.536452;44.945557
+33434_0770_00012;12;;Rue de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.531837;44.952562
+33434_c3tmoj_00178;178;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.535822;44.977565
+33434_0980_00023;23;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.530299;44.955957
+33434_c3tmoj_00159;159;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533776;44.960619
+33434_0870_00024;24;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.534613;44.944666
+33434_0300_00016;16;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532524;44.94257
+33434_0620_00021;21;;Rue Marcel Paul;33440;33434;Saint-Louis-de-Montferrand;;;-0.532172;44.955463
+33434_0870_00037;37;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.532278;44.944002
+33434_0981_00001;1;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.530493;44.95575
+33434_0981_00022;22;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.531046;44.953358
+33434_0980_00018;18;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.529777;44.955777
+33434_0265_00026;26;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.535292;44.947373
+33434_0877_00004;4;;Impasse Ronsard;33440;33434;Saint-Louis-de-Montferrand;;;-0.536277;44.946274
+33434_0870_00240;240;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.525996;44.940467
+33434_c3tmoj_00070;70;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537901;44.946865
+33434_0980_00073;73;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.523027;44.954571
+33434_0433_00003;3;;Avenue Jacques Brel;33440;33434;Saint-Louis-de-Montferrand;;;-0.53533;44.943903
+33434_0590_00039;39;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.53737;44.944867
+33434_0943_00019;19;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.536041;44.942163
+33434_0980_00091;91;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.520891;44.954421
+33434_0785_00001;1;;Rue des Pres de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.534759;44.94535
+33434_0590_00024;24;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.538366;44.945413
+33434_0480_00020;20;;Rue Jean Sabourain;33440;33434;Saint-Louis-de-Montferrand;;;-0.525036;44.959008
+33434_c3tmoj_00165;165;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533805;44.961267
+33434_0770_00005;5;;Rue de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.533543;44.952982
+33434_0870_00016;16;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.535799;44.945198
+33434_0300_00029;29;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532429;44.942074
+33434_0955_00008;8;;Rue du Temps Passé;33440;33434;Saint-Louis-de-Montferrand;;;-0.531339;44.951524
+33434_0492_00006;6;;Rue Joliot-Curie;33440;33434;Saint-Louis-de-Montferrand;;;-0.537719;44.943469
+33434_0030_00003;3;;Impasse André Brisson;33440;33434;Saint-Louis-de-Montferrand;;;-0.538578;44.944635
+33434_0981_00025;25;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.530939;44.95413
+33434_c3tmoj_00038;38;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.542459;44.941085
+33434_0590_00027;27;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537907;44.945198
+33434_0572_00006;6;;Rue Louis Lagardère;33440;33434;Saint-Louis-de-Montferrand;;;-0.533785;44.951995
+33434_0943_00007;7;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.538975;44.943175
+33434_0570_00003_bis;3;bis;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.524858;44.953792
+33434_0870_00053;53;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.529747;44.94219
+33434_0981_00030;30;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.53105;44.95471
+33434_0881_00005;5;;Rue des Rosiers;33440;33434;Saint-Louis-de-Montferrand;;;-0.538339;44.942951
+33434_c3tmoj_00100;100;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.535459;44.950761
+33434_0943_00010;10;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.538608;44.942701
+33434_0980_00003;3;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.53301;44.956502
+33434_0480_00006;6;;Rue Jean Sabourain;33440;33434;Saint-Louis-de-Montferrand;;;-0.532487;44.959718
+33434_0015_00007;7;;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.532883;44.95449
+33434_0570_00013;13;;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.524459;44.95259
+33434_0775_00002;2;;Impasse Paul Jaumouillie;33440;33434;Saint-Louis-de-Montferrand;;;-0.5393;44.946504
+33434_c3tmoj_00011;11;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.539462;44.945035
+33434_0015_00005;5;;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.533025;44.954316
+33434_0770_00015;15;;Rue de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.532055;44.952456
+33434_0030_00014;14;;Impasse André Brisson;33440;33434;Saint-Louis-de-Montferrand;;;-0.53691;44.944032
+33434_c3tmoj_00032;32;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.542768;44.940631
+33434_0981_00006;6;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.53069;44.955073
+33434_0052_00006;6;;Rue Boris Vian;33440;33434;Saint-Louis-de-Montferrand;;;-0.536017;44.944428
+33434_c3tmoj_00144_ter;144;ter;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533243;44.958696
+33434_c3tmoj_00123;123;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533892;44.957179
+33434_0870_00028;28;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.534128;44.944478
+33434_0980_00005;5;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.532577;44.956394
+33434_0770_00013;13;;Rue de la Paix;33440;33434;Saint-Louis-de-Montferrand;;;-0.532366;44.952469
+33434_0590_00007;7;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537494;44.94553
+33434_0870_00048;48;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.5314;44.943483
+33434_0980_00024;24;;Avenue Victor Hugo;33440;33434;Saint-Louis-de-Montferrand;;;-0.529473;44.955735
+33434_0433_00001;1;;Avenue Jacques Brel;33440;33434;Saint-Louis-de-Montferrand;;;-0.53503;44.944331
+33434_0059_00004;4;;Impasse Baudelaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.536608;44.947061
+33434_0618_00002_bis;2;bis;Rue Marcel Boudy;33440;33434;Saint-Louis-de-Montferrand;;;-0.53211;44.953075
+33434_c3tmoj_00122;122;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.534011;44.955162
+33434_0590_00017;17;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537055;44.945222
+33434_c3tmoj_00134_bis;134;bis;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.533721;44.957404
+33434_0870_00040_bis;40;bis;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.532264;44.943829
+33434_0943_00003;3;;Rue des Tamaris;33440;33434;Saint-Louis-de-Montferrand;;;-0.539265;44.943517
+33434_0870_00027;27;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.533553;44.944501
+33434_0265_00012;12;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.534594;44.946274
+33434_0981_00021;21;;Rue des Lauriers;33440;33434;Saint-Louis-de-Montferrand;;;-0.530905;44.953536
+33434_0047_00034;34;;Rue Belle-Rive;33440;33434;Saint-Louis-de-Montferrand;;;-0.528286;44.961422
+33434_0015_00003;3;;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.533197;44.953991
+33434_0590_00011;11;;Rue Lucie Aubrac;33440;33434;Saint-Louis-de-Montferrand;;;-0.537323;44.945299
+33434_0411_00015;15;;Rue Georges Brassens;33440;33434;Saint-Louis-de-Montferrand;;;-0.534841;44.943667
+33434_0265_00022;22;;Rue du Clos de Jourdanne;33440;33434;Saint-Louis-de-Montferrand;;;-0.535579;44.9468
+33434_0570_00007;7;;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.525095;44.953429
+33434_0015_00002;2;;Rue Albert Chalaux;33440;33434;Saint-Louis-de-Montferrand;;;-0.53319;44.953412
+33434_0300_00025;25;;Allée de l'Estuaire;33440;33434;Saint-Louis-de-Montferrand;;;-0.532337;44.942229
+33434_0618_00004;4;;Rue Marcel Boudy;33440;33434;Saint-Louis-de-Montferrand;;;-0.532071;44.95322
+33434_0433_00012;12;;Avenue Jacques Brel;33440;33434;Saint-Louis-de-Montferrand;;;-0.536013;44.943073
+33434_0570_00011_bis;11;bis;Rue Louis Caillaud;33440;33434;Saint-Louis-de-Montferrand;;;-0.525664;44.952554
+33434_0870_00001;1;;Rue Roger Espagnet;33440;33434;Saint-Louis-de-Montferrand;;;-0.538071;44.946433
+33434_c3tmoj_00088;88;;Avenue de la Garonne - RD 10;33440;33434;Saint-Louis-de-Montferrand;;;-0.537007;44.948257

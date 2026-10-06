@@ -1,0 +1,895 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+28056_pbnwzr_00001;1;;Ferme de la Saussay;28410;28056;Boutigny-Prouais;;;1.589114;48.720202
+28056_xrqgbl_00015;15;;Rue de Chaude-joute;28410;28056;Boutigny-Prouais;;;1.609054;48.758989
+28056_36vu3l_00001;1;;Lieu Dit le Billot;28410;28056;Boutigny-Prouais;;;1.57701;48.736959
+28056_0061_00011;11;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.535641;48.713959
+28056_0061_00021;21;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.535228;48.715041
+28056_0061_00027;27;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.534647;48.715643
+28056_0061_00049;49;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532516;48.720008
+28056_0061_00069;69;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.531552;48.72207
+28056_0069_00006;6;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.532806;48.717821
+28056_0135_00011;11;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.588166;48.742786
+28056_0135_00027;27;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586875;48.744401
+28056_0135_00047;47;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.58516;48.746042
+28056_0160_00021;21;;Rue des Sablons;28410;28056;Boutigny-Prouais;;;1.557942;48.715114
+28056_0022_00004;4;;Rue des Bouvreuils;28410;28056;Boutigny-Prouais;;;1.582619;48.746008
+28056_0005_00023;23;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.582989;48.75223
+28056_0124_00010;10;;Rue de Nerville;28410;28056;Boutigny-Prouais;;;1.558553;48.714192
+28056_0124_00016;16;;Rue de Nerville;28410;28056;Boutigny-Prouais;;;1.587065;48.725204
+28056_0124_00015_bis;15;bis;Rue de Nerville;28410;28056;Boutigny-Prouais;;;1.558297;48.713862
+28056_0025_00005;5;;Rue des Carreaux;28410;28056;Boutigny-Prouais;;;1.533743;48.716137
+28056_0025_00014;14;;Rue des Carreaux;28410;28056;Boutigny-Prouais;;;1.532105;48.716173
+28056_0115_00008;8;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.564815;48.731063
+28056_0115_00021;21;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.563619;48.729048
+28056_0038_00003;3;;Rue du Calvaire;28410;28056;Boutigny-Prouais;;;1.536593;48.713052
+28056_0006_00025;25;;Rue de l'Aubéton;28410;28056;Boutigny-Prouais;;;1.588572;48.732601
+28056_0010_00007;7;;Rue Baligande;28410;28056;Boutigny-Prouais;;;1.535185;48.713725
+28056_0122_00004;4;;Rue du Moulin;28410;28056;Boutigny-Prouais;;;1.592375;48.740015
+28056_0120_00009;9;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.594193;48.73844
+28056_0120_00031;31;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.590076;48.73768
+28056_0037_00003;3;;Rue du Clos des Vignes;28410;28056;Boutigny-Prouais;;;1.586534;48.732458
+28056_0029_00007;7;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.584016;48.725695
+28056_0029_00027;27;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.583553;48.723193
+28056_0015_00002;2;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.540575;48.710992
+28056_0015_00014_bis;14;bis;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.537976;48.712881
+28056_0023_00005_bis;5;bis;Rue des Canaux;28410;28056;Boutigny-Prouais;;;1.557227;48.717061
+28056_0100_00026;26;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.611634;48.741171
+28056_0145_00010;10;;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.587699;48.745117
+28056_0145_00015;15;;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.587982;48.745793
+28056_0145_00025;25;;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.589249;48.746582
+28056_0035_00002;2;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.582766;48.746536
+28056_0035_00023;23;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.582484;48.744953
+28056_0190_00008;8;;Rue du Vieux Château;28410;28056;Boutigny-Prouais;;;1.586872;48.746212
+28056_0190_00012;12;;Rue du Vieux Château;28410;28056;Boutigny-Prouais;;;1.586451;48.746293
+28056_0132_00004;4;;Rue de la Pilonnerie;28410;28056;Boutigny-Prouais;;;1.58509;48.726148
+28056_0195_00004;4;;Rue du Vieux Puits;28410;28056;Boutigny-Prouais;;;1.565154;48.729951
+28056_0185_00018;18;;Rue de la Tuilerie;28410;28056;Boutigny-Prouais;;;1.609365;48.74335
+28056_0185_00001_bis;1;bis;Rue de la Tuilerie;28410;28056;Boutigny-Prouais;;;1.60762;48.740979
+28056_0192_00008;8;;Ruelle du Vieux Porche;28410;28056;Boutigny-Prouais;;;1.56961;48.730646
+28056_b007_00002_b;2;b;le Bois des Prés;28410;28056;Boutigny-Prouais;;;1.583976;48.73934
+28056_0078_00004;4;;montée du hêtre;28410;28056;Boutigny-Prouais;;;1.603544;48.73089
+28056_0078_00007;7;;montée du hêtre;28410;28056;Boutigny-Prouais;;;1.603533;48.728763
+28056_0031_00001_a;1;a;Rue de la Colletiere;28410;28056;Boutigny-Prouais;;;1.538181;48.712874
+28056_0026_00012;12;;Rue de Champagne;28410;28056;Boutigny-Prouais;;;1.605804;48.760327
+28056_0028_00017;17;;Rue de Chaudejoute;28410;28056;Boutigny-Prouais;;;1.609001;48.758862
+28056_0028_00025;25;;Rue de Chaudejoute;28410;28056;Boutigny-Prouais;;;1.608517;48.757793
+28056_1zumwk_00003;3;;Impasse des Fontaines;28410;28056;Boutigny-Prouais;;;1.588804;48.743119
+28056_itr8nq_00089;89;;La Glaciere;28410;28056;Boutigny-Prouais;;;1.6094;48.757303
+28056_0061_00064;64;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532492;48.721366
+28056_0061_00001_a;1;a;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.534885;48.711523
+28056_0069_00001;1;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.532874;48.71779
+28056_0069_00026;26;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.533407;48.716674
+28056_0032_00020;20;;Rue de la Colonie;28410;28056;Boutigny-Prouais;;;1.584979;48.743927
+28056_0165_00009;9;;Rue Saint Crochu;28410;28056;Boutigny-Prouais;;;1.565325;48.734246
+28056_0135_00024;24;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586314;48.745206
+28056_0135_00053;53;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.583864;48.746436
+28056_0160_00001;1;;Rue des Sablons;28410;28056;Boutigny-Prouais;;;1.561429;48.714031
+28056_0160_00017;17;;Rue des Sablons;28410;28056;Boutigny-Prouais;;;1.558692;48.715163
+28056_0091_00003;3;;allée des lilas;28410;28056;Boutigny-Prouais;;;1.601799;48.729455
+28056_0077_00010;10;;Rue des Grugeons;28410;28056;Boutigny-Prouais;;;1.586281;48.722817
+28056_0077_00015_bis;15;bis;Rue des Grugeons;28410;28056;Boutigny-Prouais;;;1.585356;48.723992
+28056_0005_00031;31;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.586121;48.753336
+28056_0073_00005;5;;Rue de la Garenne;28410;28056;Boutigny-Prouais;;;1.607615;48.732595
+28056_0073_00012;12;;Rue de la Garenne;28410;28056;Boutigny-Prouais;;;1.607481;48.732447
+28056_0115_00002;2;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.564824;48.731712
+28056_0115_00014_d;14;d;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.564535;48.730137
+28056_0087_00001;1;;Rue de la Hutte;28410;28056;Boutigny-Prouais;;;1.608594;48.733279
+28056_0087_00010;10;;Rue de la Hutte;28410;28056;Boutigny-Prouais;;;1.609064;48.732169
+28056_0038_00011;11;;Rue du Calvaire;28410;28056;Boutigny-Prouais;;;1.535954;48.71246
+28056_0040_00008;8;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.533743;48.722941
+28056_0075_00024;24;;Rue de la Giguetterie;28410;28056;Boutigny-Prouais;;;1.566377;48.734502
+28056_0120_00026;26;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.59117;48.737916
+28056_0027_00008;8;;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.56848;48.731004
+28056_0027_00004_bis;4;bis;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.568571;48.731493
+28056_0029_00019;19;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.582782;48.724052
+28056_0029_00032;32;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.585433;48.722803
+28056_0018_00005;5;;Rue du Bocage;28410;28056;Boutigny-Prouais;;;1.609992;48.743582
+28056_0018_00030;30;;Rue du Bocage;28410;28056;Boutigny-Prouais;;;1.607025;48.745432
+28056_0187_00006;6;;Rue des Vieilles Pierres;28410;28056;Boutigny-Prouais;;;1.560628;48.715865
+28056_0015_00011;11;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.537418;48.713209
+28056_0015_00018;18;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.540575;48.710992
+28056_0015_00024;24;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.538898;48.712138
+28056_0015_00037;37;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.540731;48.711018
+28056_0015_00040;40;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.540575;48.710992
+28056_0050_00002;2;;Rue des Etangs;28410;28056;Boutigny-Prouais;;;1.61156;48.743346
+28056_0100_00015;15;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.610282;48.741164
+28056_0100_00018;18;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.609852;48.741046
+28056_0145_00021;21;;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.588741;48.746152
+28056_0035_00007;7;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.581836;48.746215
+28056_0035_00010;10;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.581521;48.746099
+28056_0035_00015;15;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.581563;48.745406
+28056_0175_00015;15;;Rue du Tonnelier;28410;28056;Boutigny-Prouais;;;1.592059;48.739443
+28056_b085_00004;4;;Lieu Dit Saint Projet;28410;28056;Boutigny-Prouais;;;1.597285;48.747434
+28056_0180_00004;4;;Rue des Tourelles;28410;28056;Boutigny-Prouais;;;1.566602;48.727401
+28056_0180_00009;9;;Rue des Tourelles;28410;28056;Boutigny-Prouais;;;1.565828;48.728577
+28056_0180_00018;18;;Rue des Tourelles;28410;28056;Boutigny-Prouais;;;1.56662;48.727525
+28056_0033_00006;6;;allée des charmes;28410;28056;Boutigny-Prouais;;;1.602761;48.728191
+28056_0071_00008;8;;Rue du Four a Pain;28410;28056;Boutigny-Prouais;;;1.55932;48.716558
+28056_0048_00001;1;;Allée de l'Essor;28410;28056;Boutigny-Prouais;;;1.565371;48.732237
+28056_0250_00001;1;;Rue de la Volaille;28410;28056;Boutigny-Prouais;;;1.566979;48.732478
+28056_0250_00020;20;;Rue de la Volaille;28410;28056;Boutigny-Prouais;;;1.563234;48.732657
+28056_0169_00004;4;;Rue Saint Rémy;28410;28056;Boutigny-Prouais;;;1.539639;48.712536
+28056_0067_00006;6;;Rue de la Fontaine Bleue;28410;28056;Boutigny-Prouais;;;1.60519;48.746332
+28056_0130_00006;6;;Rue du Poirier;28410;28056;Boutigny-Prouais;;;1.540482;48.713626
+28056_xrqgbl_00021;21;;Rue de Chaude-joute;28410;28056;Boutigny-Prouais;;;1.609438;48.7582
+28056_xrqgbl_00003;3;;Rue de Chaude-joute;28410;28056;Boutigny-Prouais;;;1.608652;48.760313
+28056_wzs9o6_00006;6;;le Mesnil;28410;28056;Boutigny-Prouais;;;1.606811;48.753357
+28056_7tyf0e_00008_bis;8;bis;Saussay;28410;28056;Boutigny-Prouais;;;1.588462;48.719851
+28056_hom01a_00002;2;;Route Departementale 21;28410;28056;Boutigny-Prouais;;;1.535957;48.712012
+28056_0061_00004;4;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.53578;48.713564
+28056_0061_00038;38;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532587;48.718953
+28056_0069_00015;15;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.533532;48.716649
+28056_0069_00018;18;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.532591;48.716918
+28056_0032_00002;2;;Rue de la Colonie;28410;28056;Boutigny-Prouais;;;1.586829;48.744178
+28056_0032_00007;7;;Rue de la Colonie;28410;28056;Boutigny-Prouais;;;1.585453;48.743651
+28056_0165_00002;2;;Rue Saint Crochu;28410;28056;Boutigny-Prouais;;;1.564616;48.732249
+28056_0165_00012;12;;Rue Saint Crochu;28410;28056;Boutigny-Prouais;;;1.564588;48.73379
+28056_0135_00008;8;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.588144;48.743193
+28056_0135_00032;32;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.585228;48.746088
+28056_0135_00031_d;31;d;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586609;48.74484
+28056_0160_00007;7;;Rue des Sablons;28410;28056;Boutigny-Prouais;;;1.559987;48.714799
+28056_0160_00031;31;;Rue des Sablons;28410;28056;Boutigny-Prouais;;;1.55651;48.714491
+28056_0077_00021;21;;Rue des Grugeons;28410;28056;Boutigny-Prouais;;;1.586594;48.724391
+28056_0077_00029;29;;Rue des Grugeons;28410;28056;Boutigny-Prouais;;;1.586848;48.725549
+28056_0022_00014;14;;Rue des Bouvreuils;28410;28056;Boutigny-Prouais;;;1.583665;48.745388
+28056_0005_00007;7;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.583086;48.749958
+28056_0025_00008;8;;Rue des Carreaux;28410;28056;Boutigny-Prouais;;;1.533058;48.716057
+28056_0025_00017;17;;Rue des Carreaux;28410;28056;Boutigny-Prouais;;;1.532453;48.715877
+28056_0115_00011;11;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.565144;48.730521
+28056_0115_00016;16;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.563719;48.730022
+28056_0115_00024;24;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.562555;48.729176
+28056_0115_00035;35;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.564325;48.727496
+28056_0006_00014;14;;Rue de l'Aubéton;28410;28056;Boutigny-Prouais;;;1.587199;48.732719
+28056_0006_00020;20;;Rue de l'Aubéton;28410;28056;Boutigny-Prouais;;;1.588446;48.732575
+28056_0122_00008;8;;Rue du Moulin;28410;28056;Boutigny-Prouais;;;1.595635;48.73897
+28056_0040_00015;15;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.535101;48.723241
+28056_0140_00005;5;;Rue du Pressoir;28410;28056;Boutigny-Prouais;;;1.532562;48.722068
+28056_0140_00008;8;;Rue du Pressoir;28410;28056;Boutigny-Prouais;;;1.532369;48.721998
+28056_0080_00002;2;;Rue des Hoguets;28410;28056;Boutigny-Prouais;;;1.611269;48.742531
+28056_0120_00018;18;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.592294;48.738143
+28056_0120_00023;23;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.591896;48.738027
+28056_0120_00041;41;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.590236;48.736758
+28056_0120_00025_bis;25;bis;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.59117;48.737871
+28056_0027_00015;15;;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.568651;48.72968
+28056_0027_00019;19;;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.568823;48.729055
+28056_0018_00015;15;;Rue du Bocage;28410;28056;Boutigny-Prouais;;;1.607932;48.744342
+28056_0018_00022;22;;Rue du Bocage;28410;28056;Boutigny-Prouais;;;1.607068;48.744564
+28056_0187_00013;13;;Rue des Vieilles Pierres;28410;28056;Boutigny-Prouais;;;1.560435;48.717651
+28056_0015_00008;8;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.537092;48.712975
+28056_0023_00001;1;;Rue des Canaux;28410;28056;Boutigny-Prouais;;;1.56005;48.717118
+28056_0100_00005;5;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.60573;48.741211
+28056_0100_00032;32;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.614138;48.740113
+28056_0175_00005;5;;Rue du Tonnelier;28410;28056;Boutigny-Prouais;;;1.592346;48.738972
+28056_0190_00002;2;;Rue du Vieux Château;28410;28056;Boutigny-Prouais;;;1.587514;48.745566
+28056_0190_00016_a;16;a;Rue du Vieux Château;28410;28056;Boutigny-Prouais;;;1.586023;48.746772
+28056_0132_00004_a;4;a;Rue de la Pilonnerie;28410;28056;Boutigny-Prouais;;;1.585822;48.725786
+28056_0195_00007;7;;Rue du Vieux Puits;28410;28056;Boutigny-Prouais;;;1.565687;48.729915
+28056_0195_00016;16;;Rue du Vieux Puits;28410;28056;Boutigny-Prouais;;;1.56778;48.729599
+28056_0071_00002;2;;Rue du Four a Pain;28410;28056;Boutigny-Prouais;;;1.559585;48.715809
+28056_0185_00003;3;;Rue de la Tuilerie;28410;28056;Boutigny-Prouais;;;1.608009;48.741343
+28056_0185_00010;10;;Rue de la Tuilerie;28410;28056;Boutigny-Prouais;;;1.6091;48.742374
+28056_b007_00001;1;;le Bois des Prés;28410;28056;Boutigny-Prouais;;;1.584496;48.740254
+28056_0131_00004;4;;allée du pin;28410;28056;Boutigny-Prouais;;;1.606419;48.728827
+28056_0169_00008_bis;8;bis;Rue Saint Rémy;28410;28056;Boutigny-Prouais;;;1.53952;48.713019
+28056_0026_00004;4;;Rue de Champagne;28410;28056;Boutigny-Prouais;;;1.607525;48.760507
+28056_b014_00144_b;144;b;Lieu Dit la Butte de Beauterne;28410;28056;Boutigny-Prouais;;;1.599949;48.730756
+28056_0017_00006;6;;Impasse des Blés d'Or;28410;28056;Boutigny-Prouais;;;1.581656;48.746636
+28056_b054_00004;4;;Le Mesnil Opton;28410;28056;Boutigny-Prouais;;;1.609738;48.751498
+28056_0061_00018;18;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.535388;48.714925
+28056_0061_00045;45;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532526;48.719553
+28056_0061_00056;56;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532508;48.720809
+28056_0061_00059;59;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532405;48.720726
+28056_0069_00009;9;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.533288;48.7169
+28056_0032_00010;10;;Rue de la Colonie;28410;28056;Boutigny-Prouais;;;1.586132;48.744068
+28056_0165_00010_bis;10;bis;Rue Saint Crochu;28410;28056;Boutigny-Prouais;;;1.564348;48.73273
+28056_0135_00003;3;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.589377;48.742284
+28056_0135_00016;16;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.587323;48.743661
+28056_0135_00019;19;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.588111;48.743141
+28056_0135_00037;37;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586135;48.744857
+28056_0135_00031_a;31;a;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.58657;48.744852
+28056_0077_00004;4;;Rue des Grugeons;28410;28056;Boutigny-Prouais;;;1.586184;48.722442
+28056_0022_00007;7;;Rue des Bouvreuils;28410;28056;Boutigny-Prouais;;;1.583433;48.745636
+28056_0005_00015;15;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.582492;48.750769
+28056_0005_00020;20;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.58381;48.751849
+28056_0124_00007;7;;Rue de Nerville;28410;28056;Boutigny-Prouais;;;1.558746;48.714289
+28056_0006_00010;10;;Rue de l'Aubéton;28410;28056;Boutigny-Prouais;;;1.585784;48.732929
+28056_0010_00004;4;;Rue Baligande;28410;28056;Boutigny-Prouais;;;1.535089;48.71384
+28056_0040_00005;5;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.607115;48.732022
+28056_0040_00019;19;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.536267;48.723076
+28056_0040_00027;27;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.538076;48.722874
+28056_0040_00009_ter;9;ter;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.59144;48.734247
+28056_0075_00014;14;;Rue de la Giguetterie;28410;28056;Boutigny-Prouais;;;1.567443;48.73291
+28056_0075_00018;18;;Rue de la Giguetterie;28410;28056;Boutigny-Prouais;;;1.566857;48.733258
+28056_0120_00003;3;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.595955;48.738796
+28056_0120_00015;15;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.593154;48.738244
+28056_0027_00005;5;;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.568677;48.731383
+28056_0029_00022;22;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.583318;48.723237
+28056_0029_00037;37;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.58559;48.722796
+28056_0015_00031;31;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.540341;48.711503
+28056_0050_00017;17;;Rue des Etangs;28410;28056;Boutigny-Prouais;;;1.611042;48.740954
+28056_0145_00004;4;;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.587574;48.744544
+28056_0145_00020_c;20;c;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.589158;48.746378
+28056_0035_00018;18;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.581445;48.745468
+28056_0035_00028;28;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.582036;48.744958
+28056_0175_00009;9;;Rue du Tonnelier;28410;28056;Boutigny-Prouais;;;1.592259;48.739178
+28056_0195_00014_b;14;b;Rue du Vieux Puits;28410;28056;Boutigny-Prouais;;;1.567239;48.729529
+28056_0039_00003;3;;Rue de la Charmoie;28410;28056;Boutigny-Prouais;;;1.534709;48.711815
+28056_0185_00006;6;;Rue de la Tuilerie;28410;28056;Boutigny-Prouais;;;1.609014;48.741699
+28056_0099_00003;3;;Rue au Loup;28410;28056;Boutigny-Prouais;;;1.607205;48.732077
+28056_0200_00004;4;;Rue des Vignes;28410;28056;Boutigny-Prouais;;;1.524854;48.720694
+28056_0250_00008;8;;Rue de la Volaille;28410;28056;Boutigny-Prouais;;;1.56598;48.732501
+28056_0170_00002;2;;Impasse Saint Remy;28410;28056;Boutigny-Prouais;;;1.540337;48.71317
+28056_0169_00014;14;;Rue Saint Rémy;28410;28056;Boutigny-Prouais;;;1.539413;48.713232
+28056_0021_00005;5;;Chemin des Bouleaux;28410;28056;Boutigny-Prouais;;;1.606971;48.728839
+28056_0101_00001;1;;Rue du Marais;28410;28056;Boutigny-Prouais;;;1.539096;48.723237
+28056_0028_00009;9;;Rue de Chaudejoute;28410;28056;Boutigny-Prouais;;;1.608807;48.759658
+28056_xrqgbl_00019;19;;Rue de Chaude-joute;28410;28056;Boutigny-Prouais;;;1.609143;48.758709
+28056_wzs9o6_00001;1;;le Mesnil;28410;28056;Boutigny-Prouais;;;1.606811;48.753357
+28056_1zumwk_00001;1;;Impasse des Fontaines;28410;28056;Boutigny-Prouais;;;1.588596;48.742978
+28056_0061_00030;30;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.533556;48.717376
+28056_0069_00022;22;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.533132;48.716979
+28056_xrqgbl_00001;1;;Rue de Chaude-joute;28410;28056;Boutigny-Prouais;;;1.608496;48.760545
+28056_4htfkn_00121_a;121;a;Allemant;28410;28056;Boutigny-Prouais;;;1.605779;48.74423
+28056_7na0pv_00001;1;;Route Departementale 305;28410;28056;Boutigny-Prouais;;;1.578693;48.729653
+28056_0061_00009;9;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.535891;48.713163
+28056_0061_00023;23;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.535076;48.715339
+28056_0061_00042;42;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532601;48.719197
+28056_0061_00058;58;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532501;48.720938
+28056_0135_00043;43;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.585213;48.74549
+28056_0135_00031_e;31;e;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586606;48.744844
+28056_0135_00004_bis;4;bis;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.589222;48.742524
+28056_0077_00013;13;;Rue des Grugeons;28410;28056;Boutigny-Prouais;;;1.586298;48.723603
+28056_0005_00003;3;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.583385;48.749467
+28056_0073_00010;10;;Rue de la Garenne;28410;28056;Boutigny-Prouais;;;1.607657;48.732547
+28056_0124_00019;19;;Rue de Nerville;28410;28056;Boutigny-Prouais;;;1.557671;48.713462
+28056_0115_00009;9;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.565748;48.73091
+28056_0115_00018;18;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.563701;48.729685
+28056_0006_00015;15;;Rue de l'Aubéton;28410;28056;Boutigny-Prouais;;;1.587493;48.73291
+28056_0006_00005_bis;5;bis;Rue de l'Aubéton;28410;28056;Boutigny-Prouais;;;1.584332;48.732967
+28056_0122_00003;3;;Rue du Moulin;28410;28056;Boutigny-Prouais;;;1.592754;48.740142
+28056_0040_00001;1;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.533166;48.722865
+28056_0080_00003;3;;Rue des Hoguets;28410;28056;Boutigny-Prouais;;;1.610128;48.742479
+28056_0120_00013;13;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.593224;48.738282
+28056_0037_00004;4;;Rue du Clos des Vignes;28410;28056;Boutigny-Prouais;;;1.586421;48.732427
+28056_0027_00009;9;;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.568546;48.730887
+28056_0029_00028;28;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.584002;48.723019
+28056_0029_00028_bis;28;bis;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.58376;48.723079
+28056_0018_00004;4;;Rue du Bocage;28410;28056;Boutigny-Prouais;;;1.607335;48.744427
+28056_0187_00005;5;;Rue des Vieilles Pierres;28410;28056;Boutigny-Prouais;;;1.560464;48.715999
+28056_0187_00016;16;;Rue des Vieilles Pierres;28410;28056;Boutigny-Prouais;;;1.560809;48.718008
+28056_0069_00028;28;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.533356;48.716392
+28056_0032_00005;5;;Rue de la Colonie;28410;28056;Boutigny-Prouais;;;1.585757;48.743722
+28056_0032_00008;8;;Rue de la Colonie;28410;28056;Boutigny-Prouais;;;1.585066;48.74397
+28056_0032_00001_bis;1;bis;Rue de la Colonie;28410;28056;Boutigny-Prouais;;;1.586454;48.743811
+28056_0135_00021;21;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.587244;48.743317
+28056_0135_00030;30;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.585618;48.745845
+28056_0135_00033;33;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586259;48.744796
+28056_0160_00005;5;;Rue des Sablons;28410;28056;Boutigny-Prouais;;;1.560234;48.714354
+28056_0077_00009;9;;Rue des Grugeons;28410;28056;Boutigny-Prouais;;;1.586079;48.722919
+28056_0022_00002;2;;Rue des Bouvreuils;28410;28056;Boutigny-Prouais;;;1.58242;48.746172
+28056_0005_00013;13;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.582989;48.75223
+28056_0005_00016;16;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.583046;48.751379
+28056_0124_00009;9;;Rue de Nerville;28410;28056;Boutigny-Prouais;;;1.558611;48.714173
+28056_0124_00013;13;;Rue de Nerville;28410;28056;Boutigny-Prouais;;;1.55821;48.713825
+28056_0025_00010;10;;Rue des Carreaux;28410;28056;Boutigny-Prouais;;;1.532788;48.715997
+28056_0025_00016;16;;Rue des Carreaux;28410;28056;Boutigny-Prouais;;;1.53222;48.716039
+28056_0115_00014;14;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.564588;48.730195
+28056_0115_00023;23;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.563455;48.728874
+28056_0115_00027;27;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.563041;48.728499
+28056_0115_00011_bis;11;bis;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.564917;48.730164
+28056_0140_00004;4;;Rue du Pressoir;28410;28056;Boutigny-Prouais;;;1.532422;48.722465
+28056_0075_00003;3;;Rue de la Giguetterie;28410;28056;Boutigny-Prouais;;;1.569348;48.731868
+28056_0075_00012;12;;Rue de la Giguetterie;28410;28056;Boutigny-Prouais;;;1.567833;48.73297
+28056_0075_00020;20;;Rue de la Giguetterie;28410;28056;Boutigny-Prouais;;;1.566529;48.733768
+28056_0075_00023;23;;Rue de la Giguetterie;28410;28056;Boutigny-Prouais;;;1.565996;48.733847
+28056_0080_00008;8;;Rue des Hoguets;28410;28056;Boutigny-Prouais;;;1.609916;48.7427
+28056_0027_00021;21;;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.569031;48.728885
+28056_0029_00017;17;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.582788;48.724391
+28056_0029_00031;31;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.584114;48.723058
+28056_0018_00017;17;;Rue du Bocage;28410;28056;Boutigny-Prouais;;;1.60752;48.744428
+28056_0018_00021;21;;Rue du Bocage;28410;28056;Boutigny-Prouais;;;1.606688;48.744559
+28056_pbnwzr_00008_b;8;b;Ferme de la Saussay;28410;28056;Boutigny-Prouais;;;1.588102;48.719016
+28056_0061_00007;7;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.535946;48.71301
+28056_0061_00017;17;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.535528;48.714371
+28056_0061_00019_bis;19;bis;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.535161;48.71478
+28056_0069_00005;5;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.533007;48.717224
+28056_0069_00024;24;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.533276;48.716824
+28056_0032_00012;12;;Rue de la Colonie;28410;28056;Boutigny-Prouais;;;1.585904;48.74405
+28056_0165_00003;3;;Rue Saint Crochu;28410;28056;Boutigny-Prouais;;;1.564168;48.732846
+28056_0165_00008;8;;Rue Saint Crochu;28410;28056;Boutigny-Prouais;;;1.564405;48.733192
+28056_0135_00004;4;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.589234;48.742516
+28056_0135_00012;12;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.587795;48.743409
+28056_0135_00055;55;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.583728;48.746489
+28056_0135_00031_h;31;h;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586603;48.744845
+28056_0077_00011;11;;Rue des Grugeons;28410;28056;Boutigny-Prouais;;;1.58627;48.723483
+28056_0077_00027;27;;Rue des Grugeons;28410;28056;Boutigny-Prouais;;;1.586899;48.725068
+28056_0077_00009_bis;9;bis;Rue des Grugeons;28410;28056;Boutigny-Prouais;;;1.586025;48.72331
+28056_0005_00014;14;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.582997;48.751157
+28056_xrqgbl_00005;5;;Rue de Chaude-joute;28410;28056;Boutigny-Prouais;;;1.608794;48.760059
+28056_xrqgbl_00023;23;;Rue de Chaude-joute;28410;28056;Boutigny-Prouais;;;1.60969;48.757901
+28056_a0l8ai_00001;1;;Chemin Rural N26;28410;28056;Boutigny-Prouais;;;1.591172;48.734087
+28056_0025_00012;12;;Rue des Carreaux;28410;28056;Boutigny-Prouais;;;1.532573;48.715947
+28056_0115_00025;25;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.563319;48.728287
+28056_0115_00014_c;14;c;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.564535;48.730137
+28056_0087_00012;12;;Rue de la Hutte;28410;28056;Boutigny-Prouais;;;1.609912;48.732308
+28056_0038_00002;2;;Rue du Calvaire;28410;28056;Boutigny-Prouais;;;1.536611;48.713196
+28056_0040_00007;7;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.533883;48.723191
+28056_0040_00010;10;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.534098;48.723049
+28056_0040_00017;17;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.535479;48.723197
+28056_0075_00011;11;;Rue de la Giguetterie;28410;28056;Boutigny-Prouais;;;1.567778;48.732189
+28056_0075_00016;16;;Rue de la Giguetterie;28410;28056;Boutigny-Prouais;;;1.566982;48.733214
+28056_0080_00001;1;;Rue des Hoguets;28410;28056;Boutigny-Prouais;;;1.610721;48.742423
+28056_0027_00017;17;;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.56879;48.729246
+28056_0029_00033;33;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.584592;48.723002
+28056_0018_00024;24;;Rue du Bocage;28410;28056;Boutigny-Prouais;;;1.606779;48.744682
+28056_0187_00004;4;;Rue des Vieilles Pierres;28410;28056;Boutigny-Prouais;;;1.560331;48.715554
+28056_0187_00011;11;;Rue des Vieilles Pierres;28410;28056;Boutigny-Prouais;;;1.560552;48.717349
+28056_0061_00029;29;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.534792;48.715859
+28056_0061_00062;62;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532499;48.721158
+28056_0061_00065;65;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.53237;48.72136
+28056_0069_00007;7;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.533171;48.71704
+28056_wzs9o6_00003;3;;le Mesnil;28410;28056;Boutigny-Prouais;;;1.606811;48.753357
+28056_1zumwk_00007;7;;Impasse des Fontaines;28410;28056;Boutigny-Prouais;;;1.588555;48.742949
+28056_0061_00002;2;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.53576;48.713979
+28056_0061_00044;44;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532608;48.719558
+28056_0061_00063;63;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532394;48.720825
+28056_0069_00002;2;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.532619;48.718158
+28056_0032_00018;18;;Rue de la Colonie;28410;28056;Boutigny-Prouais;;;1.585324;48.743998
+28056_0165_00001_bis;1;bis;Rue Saint Crochu;28410;28056;Boutigny-Prouais;;;1.564305;48.732261
+28056_0135_00007;7;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.587954;48.742168
+28056_0135_00020;20;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586872;48.744599
+28056_0135_00028;28;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.585904;48.745597
+28056_0135_00039;39;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586237;48.74521
+28056_0135_00023_bis;23;bis;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586948;48.743919
+28056_0091_00007;7;;allée des lilas;28410;28056;Boutigny-Prouais;;;1.600556;48.730015
+28056_0022_00008;8;;Rue des Bouvreuils;28410;28056;Boutigny-Prouais;;;1.582945;48.745751
+28056_0005_00009;9;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.583042;48.750066
+28056_0005_00019;19;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.583018;48.751904
+28056_0005_00033;33;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.586695;48.753426
+28056_0135_00013;13;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.587959;48.742621
+28056_0135_00041;41;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.585906;48.745505
+28056_0160_00002;2;;Rue des Sablons;28410;28056;Boutigny-Prouais;;;1.561704;48.714266
+28056_0160_00027;27;;Rue des Sablons;28410;28056;Boutigny-Prouais;;;1.557203;48.714877
+28056_0005_00005;5;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.583206;48.749735
+28056_0025_00011;11;;Rue des Carreaux;28410;28056;Boutigny-Prouais;;;1.53297;48.715992
+28056_0015_00016;16;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.537932;48.712903
+28056_0015_00026;26;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.539128;48.71195
+28056_0050_00016;16;;Rue des Etangs;28410;28056;Boutigny-Prouais;;;1.610931;48.74091
+28056_0023_00003_bis;3;bis;Rue des Canaux;28410;28056;Boutigny-Prouais;;;1.557227;48.717061
+28056_0100_00019;19;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.610282;48.741164
+28056_0100_00030;30;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.612753;48.741028
+28056_0035_00008;8;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.581643;48.746176
+28056_0175_00006;6;;Rue du Tonnelier;28410;28056;Boutigny-Prouais;;;1.592443;48.738869
+28056_0175_00017;17;;Rue du Tonnelier;28410;28056;Boutigny-Prouais;;;1.59196;48.73959
+28056_b085_00002;2;;Lieu Dit Saint Projet;28410;28056;Boutigny-Prouais;;;1.59706;48.7476
+28056_0033_00010;10;;allée des charmes;28410;28056;Boutigny-Prouais;;;1.604694;48.728313
+28056_0099_00006;6;;Rue au Loup;28410;28056;Boutigny-Prouais;;;1.607205;48.732077
+28056_0200_00006;6;;Rue des Vignes;28410;28056;Boutigny-Prouais;;;1.530618;48.721192
+28056_0025_00015;15;;Rue des Carreaux;28410;28056;Boutigny-Prouais;;;1.532727;48.71594
+28056_0115_00001;1;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.56492;48.731746
+28056_0038_00005;5;;Rue du Calvaire;28410;28056;Boutigny-Prouais;;;1.536495;48.712961
+28056_0040_00023;23;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.537453;48.72292
+28056_0140_00002;2;;Rue du Pressoir;28410;28056;Boutigny-Prouais;;;1.532466;48.722666
+28056_0120_00016;16;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.592752;48.738257
+28056_0120_00024;24;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.591541;48.737968
+28056_0027_00007;7;;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.568614;48.731458
+28056_0027_00018;18;;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.568505;48.730083
+28056_0018_00019;19;;Rue du Bocage;28410;28056;Boutigny-Prouais;;;1.607139;48.7445
+28056_0015_00005;5;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.53683;48.713314
+28056_0250_00004;4;;Rue de la Volaille;28410;28056;Boutigny-Prouais;;;1.566692;48.732662
+28056_0169_00006;6;;Rue Saint Rémy;28410;28056;Boutigny-Prouais;;;1.539267;48.7126
+28056_0031_00005;5;;Rue de la Colletiere;28410;28056;Boutigny-Prouais;;;1.539174;48.713731
+28056_0021_00003;3;;Chemin des Bouleaux;28410;28056;Boutigny-Prouais;;;1.606972;48.73041
+28056_0017_00003;3;;Impasse des Blés d'Or;28410;28056;Boutigny-Prouais;;;1.5816;48.746549
+28056_0050_00004;4;;Rue des Etangs;28410;28056;Boutigny-Prouais;;;1.611131;48.741546
+28056_0050_00001_bis;1;bis;Rue des Etangs;28410;28056;Boutigny-Prouais;;;1.611699;48.743511
+28056_0100_00009;9;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.60668;48.74104
+28056_0035_00009;9;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.581616;48.745915
+28056_0035_00012;12;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.581516;48.745979
+28056_0175_00011;11;;Rue du Tonnelier;28410;28056;Boutigny-Prouais;;;1.592232;48.739136
+28056_0190_00005;5;;Rue du Vieux Château;28410;28056;Boutigny-Prouais;;;1.586835;48.745862
+28056_0190_00011;11;;Rue du Vieux Château;28410;28056;Boutigny-Prouais;;;1.586386;48.74626
+28056_0180_00005;5;;Rue des Tourelles;28410;28056;Boutigny-Prouais;;;1.566028;48.729218
+28056_0071_00020;20;;Rue du Four a Pain;28410;28056;Boutigny-Prouais;;;1.558188;48.716722
+28056_0185_00020;20;;Rue de la Tuilerie;28410;28056;Boutigny-Prouais;;;1.609615;48.743636
+28056_0099_00002;2;;Rue au Loup;28410;28056;Boutigny-Prouais;;;1.608549;48.731316
+28056_0078_00002;2;;montée du hêtre;28410;28056;Boutigny-Prouais;;;1.603572;48.731657
+28056_0078_00005;5;;montée du hêtre;28410;28056;Boutigny-Prouais;;;1.603627;48.729662
+28056_0200_00001_bis;1;bis;Rue des Vignes;28410;28056;Boutigny-Prouais;;;1.532357;48.721463
+28056_0124_00006;6;;Rue de Nerville;28410;28056;Boutigny-Prouais;;;1.558945;48.714671
+28056_0124_00012;12;;Rue de Nerville;28410;28056;Boutigny-Prouais;;;1.558207;48.713891
+28056_0124_00015;15;;Rue de Nerville;28410;28056;Boutigny-Prouais;;;1.55802;48.713704
+28056_0025_00004;4;;Rue des Carreaux;28410;28056;Boutigny-Prouais;;;1.533672;48.71619
+28056_wzs9o6_00004;4;;le Mesnil;28410;28056;Boutigny-Prouais;;;1.606811;48.753357
+28056_1zumwk_00004;4;;Impasse des Fontaines;28410;28056;Boutigny-Prouais;;;1.588596;48.742978
+28056_1zumwk_00009;9;;Impasse des Fontaines;28410;28056;Boutigny-Prouais;;;1.588555;48.742949
+28056_7tyf0e_00008;8;;Saussay;28410;28056;Boutigny-Prouais;;;1.589053;48.720239
+28056_0061_00019;19;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.535475;48.71455
+28056_0025_00009;9;;Rue des Carreaux;28410;28056;Boutigny-Prouais;;;1.53321;48.716042
+28056_0115_00004;4;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.564418;48.731514
+28056_0115_00007;7;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.56493;48.731013
+28056_0006_00009;9;;Rue de l'Aubéton;28410;28056;Boutigny-Prouais;;;1.586092;48.732979
+28056_0006_00012;12;;Rue de l'Aubéton;28410;28056;Boutigny-Prouais;;;1.58598;48.732943
+28056_0010_00004_bis;4;bis;Rue Baligande;28410;28056;Boutigny-Prouais;;;1.535013;48.713991
+28056_0120_00020;20;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.59203;48.738081
+28056_0120_00028;28;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.590778;48.737955
+28056_0120_00020_bis;20;bis;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.59203;48.738081
+28056_0027_00003;3;;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.568701;48.731582
+28056_0027_00011_ter;11;ter;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.568502;48.730107
+28056_0029_00003;3;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.583047;48.723347
+28056_0029_00015;15;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.582922;48.724742
+28056_0029_00030;30;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.584905;48.722893
+28056_0018_00006;6;;Rue du Bocage;28410;28056;Boutigny-Prouais;;;1.607335;48.744427
+28056_0061_00046;46;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532635;48.719695
+28056_0061_00052;52;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532546;48.720321
+28056_0061_00057;57;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532414;48.720598
+28056_0061_00075;75;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.531544;48.722826
+28056_0069_00004;4;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.53282;48.717971
+28056_0069_00016;16;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.532599;48.716984
+28056_0032_00009;9;;Rue de la Colonie;28410;28056;Boutigny-Prouais;;;1.585137;48.743616
+28056_0165_00016;16;;Rue Saint Crochu;28410;28056;Boutigny-Prouais;;;1.565288;48.734179
+28056_0135_00017;17;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.588223;48.74307
+28056_0135_00022;22;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586438;48.745126
+28056_0135_00035;35;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586488;48.744987
+28056_0250_00015;15;;Rue de la Volaille;28410;28056;Boutigny-Prouais;;;1.563498;48.732133
+28056_0131_00002;2;;allée du pin;28410;28056;Boutigny-Prouais;;;1.603606;48.729288
+28056_b065_00091;91;;Piece de Morainville;28410;28056;Boutigny-Prouais;;;1.6066;48.753025
+28056_0017_00005;5;;Impasse des Blés d'Or;28410;28056;Boutigny-Prouais;;;1.581603;48.746592
+28056_0101_00003;3;;Rue du Marais;28410;28056;Boutigny-Prouais;;;1.539047;48.723206
+28056_0130_00004;4;;Rue du Poirier;28410;28056;Boutigny-Prouais;;;1.540038;48.713703
+28056_0028_00001;1;;Rue de Chaudejoute;28410;28056;Boutigny-Prouais;;;1.608406;48.76052
+28056_b141_00081;81;;Le Vieux Moulin;28410;28056;Boutigny-Prouais;;;1.556262;48.728542
+28056_0135_00051;51;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.58422;48.746382
+28056_0135_00031_z;31;z;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586575;48.744869
+28056_0135_00031_b;31;b;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586638;48.744805
+28056_0160_00019;19;;Rue des Sablons;28410;28056;Boutigny-Prouais;;;1.55846;48.71502
+28056_0091_00006;6;;allée des lilas;28410;28056;Boutigny-Prouais;;;1.60073;48.730596
+28056_0077_00015;15;;Rue des Grugeons;28410;28056;Boutigny-Prouais;;;1.584903;48.723805
+28056_0077_00045;45;;Rue des Grugeons;28410;28056;Boutigny-Prouais;;;1.587609;48.727835
+28056_0022_00009;9;;Rue des Bouvreuils;28410;28056;Boutigny-Prouais;;;1.583715;48.745504
+28056_0005_00018;18;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.583583;48.751866
+28056_0005_00021;21;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.583047;48.751977
+28056_0005_00028;28;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.584345;48.752818
+28056_0005_00030_a;30;a;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.584858;48.752918
+28056_0025_00003;3;;Rue des Carreaux;28410;28056;Boutigny-Prouais;;;1.534008;48.716187
+28056_0015_00030;30;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.539702;48.711547
+28056_0015_00035;35;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.54077;48.7114
+28056_0015_00016_ter;16;ter;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.537944;48.712896
+28056_0050_00003;3;;Rue des Etangs;28410;28056;Boutigny-Prouais;;;1.611871;48.743012
+28056_0145_00012;12;;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.592614;48.747657
+28056_0145_00019;19;;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.588522;48.74597
+28056_0145_00022;22;;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.589724;48.745412
+28056_0145_00020_b;20;b;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.592614;48.747657
+28056_0145_00022_bis;22;bis;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.588999;48.74638
+28056_0035_00024;24;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.581502;48.745093
+28056_0190_00006;6;;Rue du Vieux Château;28410;28056;Boutigny-Prouais;;;1.586872;48.745905
+28056_0195_00014_a;14;a;Rue du Vieux Puits;28410;28056;Boutigny-Prouais;;;1.567047;48.729545
+28056_0071_00007;7;;Rue du Four a Pain;28410;28056;Boutigny-Prouais;;;1.559164;48.716316
+28056_0071_00010;10;;Rue du Four a Pain;28410;28056;Boutigny-Prouais;;;1.558763;48.716538
+28056_0185_00008;8;;Rue de la Tuilerie;28410;28056;Boutigny-Prouais;;;1.609068;48.742131
+28056_0200_00002;2;;Rue des Vignes;28410;28056;Boutigny-Prouais;;;1.531922;48.721464
+28056_0115_00010;10;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.564814;48.730748
+28056_0006_00018;18;;Rue de l'Aubéton;28410;28056;Boutigny-Prouais;;;1.58783;48.732622
+28056_0006_00021;21;;Rue de l'Aubéton;28410;28056;Boutigny-Prouais;;;1.588143;48.732664
+28056_0122_00001;1;;Rue du Moulin;28410;28056;Boutigny-Prouais;;;1.592407;48.740085
+28056_0040_00003;3;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.53384;48.723036
+28056_0040_00011;11;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.534759;48.723287
+28056_0140_00007;7;;Rue du Pressoir;28410;28056;Boutigny-Prouais;;;1.532541;48.721819
+28056_0075_00022;22;;Rue de la Giguetterie;28410;28056;Boutigny-Prouais;;;1.566354;48.734003
+28056_0075_00026;26;;Rue de la Giguetterie;28410;28056;Boutigny-Prouais;;;1.566354;48.734666
+28056_0080_00006;6;;Rue des Hoguets;28410;28056;Boutigny-Prouais;;;1.610487;48.742627
+28056_0120_00029;29;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.590735;48.737888
+28056_0120_00015_bis;15;bis;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.592963;48.738218
+28056_0037_00002;2;;Rue du Clos des Vignes;28410;28056;Boutigny-Prouais;;;1.586406;48.73276
+28056_0029_00025;25;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.583047;48.723347
+28056_0187_00008;8;;Rue des Vieilles Pierres;28410;28056;Boutigny-Prouais;;;1.56095;48.716493
+28056_0015_00013;13;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.537667;48.713099
+28056_0028_00015;15;;Rue de Chaudejoute;28410;28056;Boutigny-Prouais;;;1.608966;48.758966
+28056_0028_00021;21;;Rue de Chaudejoute;28410;28056;Boutigny-Prouais;;;1.60935;48.758175
+28056_0015_00032;32;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.53988;48.711435
+28056_0050_00001;1;;Rue des Etangs;28410;28056;Boutigny-Prouais;;;1.612004;48.743372
+28056_0023_00005;5;;Rue des Canaux;28410;28056;Boutigny-Prouais;;;1.558868;48.717089
+28056_0100_00017;17;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.60967;48.741065
+28056_0100_00028;28;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.612159;48.741091
+28056_0145_00014;14;;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.588876;48.745681
+28056_0145_00018;18;;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.588978;48.746255
+28056_0175_00019;19;;Rue du Tonnelier;28410;28056;Boutigny-Prouais;;;1.591797;48.739807
+28056_0132_00003;3;;Rue de la Pilonnerie;28410;28056;Boutigny-Prouais;;;1.584996;48.726241
+28056_0132_00008_b;8;b;Rue de la Pilonnerie;28410;28056;Boutigny-Prouais;;;1.586588;48.725473
+28056_0180_00001;1;;Rue des Tourelles;28410;28056;Boutigny-Prouais;;;1.565922;48.729749
+28056_0195_00014;14;;Rue du Vieux Puits;28410;28056;Boutigny-Prouais;;;1.567287;48.729365
+28056_0185_00004;4;;Rue de la Tuilerie;28410;28056;Boutigny-Prouais;;;1.609155;48.741314
+28056_0048_00006;6;;Allée de l'Essor;28410;28056;Boutigny-Prouais;;;1.565562;48.733478
+28056_0200_00001;1;;Rue des Vignes;28410;28056;Boutigny-Prouais;;;1.531588;48.721354
+28056_0250_00003;3;;Rue de la Volaille;28410;28056;Boutigny-Prouais;;;1.56666;48.73236
+28056_0169_00008;8;;Rue Saint Rémy;28410;28056;Boutigny-Prouais;;;1.539481;48.712878
+28056_0169_00018;18;;Rue Saint Rémy;28410;28056;Boutigny-Prouais;;;1.539116;48.71338
+28056_0017_00002;2;;Impasse des Blés d'Or;28410;28056;Boutigny-Prouais;;;1.582097;48.746397
+28056_0028_00019;19;;Rue de Chaudejoute;28410;28056;Boutigny-Prouais;;;1.609055;48.758685
+28056_0015_00038;38;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.540299;48.71117
+28056_0023_00010;10;;Rue des Canaux;28410;28056;Boutigny-Prouais;;;1.558135;48.717118
+28056_0100_00001;1;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.604224;48.741459
+28056_0100_00012;12;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.608917;48.740909
+28056_0100_00016;16;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.60935;48.740972
+28056_0145_00017;17;;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.588419;48.745885
+28056_0145_00020;20;;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.589293;48.746508
+28056_0145_00018_bis;18;bis;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.589014;48.746268
+28056_0035_00022;22;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.581379;48.745181
+28056_0175_00010;10;;Rue du Tonnelier;28410;28056;Boutigny-Prouais;;;1.592287;48.739247
+28056_0180_00003;3;;Rue des Tourelles;28410;28056;Boutigny-Prouais;;;1.566014;48.729218
+28056_0195_00012;12;;Rue du Vieux Puits;28410;28056;Boutigny-Prouais;;;1.566918;48.729701
+28056_0039_00002;2;;Rue de la Charmoie;28410;28056;Boutigny-Prouais;;;1.535404;48.712141
+28056_0185_00007;7;;Rue de la Tuilerie;28410;28056;Boutigny-Prouais;;;1.608643;48.741998
+28056_0185_00003_bis;3;bis;Rue de la Tuilerie;28410;28056;Boutigny-Prouais;;;1.608562;48.74157
+28056_0192_00006;6;;Ruelle du Vieux Porche;28410;28056;Boutigny-Prouais;;;1.569504;48.730928
+28056_0078_00003;3;;montée du hêtre;28410;28056;Boutigny-Prouais;;;1.603661;48.730456
+28056_0078_00008;8;;montée du hêtre;28410;28056;Boutigny-Prouais;;;1.603504;48.729644
+28056_0250_00006;6;;Rue de la Volaille;28410;28056;Boutigny-Prouais;;;1.566355;48.73251
+28056_0170_00003;3;;Impasse Saint Remy;28410;28056;Boutigny-Prouais;;;1.540218;48.713124
+28056_b054_00001;1;;Le Mesnil Opton;28410;28056;Boutigny-Prouais;;;1.610809;48.751615
+28056_0028_00011;11;;Rue de Chaudejoute;28410;28056;Boutigny-Prouais;;;1.608923;48.759179
+28056_0015_00022;22;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.538755;48.712341
+28056_0015_00016_bis;16;bis;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.540575;48.710992
+28056_0050_00006;6;;Rue des Etangs;28410;28056;Boutigny-Prouais;;;1.611306;48.742346
+28056_0035_00019;19;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.581901;48.745077
+28056_0035_00030;30;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.582261;48.744852
+28056_0175_00013;13;;Rue du Tonnelier;28410;28056;Boutigny-Prouais;;;1.592106;48.739371
+28056_b085_00006;6;;Lieu Dit Saint Projet;28410;28056;Boutigny-Prouais;;;1.597733;48.746998
+28056_0180_00010;10;;Rue des Tourelles;28410;28056;Boutigny-Prouais;;;1.565342;48.728345
+28056_0180_00014;14;;Rue des Tourelles;28410;28056;Boutigny-Prouais;;;1.565694;48.727891
+28056_0180_00003_a;3;a;Rue des Tourelles;28410;28056;Boutigny-Prouais;;;1.566014;48.729219
+28056_0185_00001;1;;Rue de la Tuilerie;28410;28056;Boutigny-Prouais;;;1.608562;48.740963
+28056_0185_00014;14;;Rue de la Tuilerie;28410;28056;Boutigny-Prouais;;;1.609228;48.742909
+28056_b007_00002_c;2;c;le Bois des Prés;28410;28056;Boutigny-Prouais;;;1.583976;48.73934
+28056_0169_00016;16;;Rue Saint Rémy;28410;28056;Boutigny-Prouais;;;1.539253;48.713287
+28056_b014_00139_a;139;a;Lieu Dit la Butte de Beauterne;28410;28056;Boutigny-Prouais;;;1.599945;48.730675
+28056_b086_00001;1;;Lieu Dit les Terres Blanches;28410;28056;Boutigny-Prouais;;;1.599395;48.737267
+28056_0028_00023;23;;Rue de Chaudejoute;28410;28056;Boutigny-Prouais;;;1.609603;48.757878
+28056_xrqgbl_00007;7;;Rue de Chaude-joute;28410;28056;Boutigny-Prouais;;;1.608828;48.759922
+28056_1zumwk_00006;6;;Impasse des Fontaines;28410;28056;Boutigny-Prouais;;;1.588596;48.742978
+28056_iwu4ai_00010;10;;La Musse;28410;28056;Boutigny-Prouais;;;1.567526;48.730565
+28056_0061_00001;1;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.535828;48.712557
+28056_0061_00020;20;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.535259;48.71519
+28056_0061_00061;61;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532389;48.720902
+28056_0061_00066;66;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.53249;48.721568
+28056_0061_00073;73;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.531656;48.722407
+28056_0061_00044_bis;44;bis;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532607;48.718716
+28056_0061_00016;16;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.536055;48.714408
+28056_0061_00047;47;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.53254;48.719745
+28056_0061_00051;51;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532435;48.72032
+28056_0069_00008;8;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.532769;48.717614
+28056_0032_00016;16;;Rue de la Colonie;28410;28056;Boutigny-Prouais;;;1.585525;48.744021
+28056_0165_00056;56;;Rue Saint Crochu;28410;28056;Boutigny-Prouais;;;1.565809;48.734078
+28056_0135_00009;9;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586695;48.744745
+28056_0135_00014;14;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.587407;48.743742
+28056_0160_00010;10;;Rue des Sablons;28410;28056;Boutigny-Prouais;;;1.56025;48.714939
+28056_0160_00020;20;;Rue des Sablons;28410;28056;Boutigny-Prouais;;;1.557811;48.715468
+28056_0077_00024;24;;Rue des Grugeons;28410;28056;Boutigny-Prouais;;;1.586936;48.725018
+28056_0022_00005;5;;Rue des Bouvreuils;28410;28056;Boutigny-Prouais;;;1.583223;48.745783
+28056_0022_00010;10;;Rue des Bouvreuils;28410;28056;Boutigny-Prouais;;;1.583281;48.74566
+28056_0005_00022;22;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.58427;48.752165
+28056_0025_00001;1;;Rue des Carreaux;28410;28056;Boutigny-Prouais;;;1.534204;48.71623
+28056_0025_00007;7;;Rue des Carreaux;28410;28056;Boutigny-Prouais;;;1.533453;48.716088
+28056_0087_00008;8;;Rue de la Hutte;28410;28056;Boutigny-Prouais;;;1.608937;48.732554
+28056_0010_00003;3;;Rue Baligande;28410;28056;Boutigny-Prouais;;;1.535151;48.713718
+28056_0010_00009;9;;Rue Baligande;28410;28056;Boutigny-Prouais;;;1.534554;48.713931
+28056_0040_00012;12;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.534992;48.722958
+28056_0040_00025;25;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.537826;48.722891
+28056_0120_00010;10;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.594094;48.738444
+28056_0120_00027;27;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.591313;48.737897
+28056_0027_00013;13;;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.568769;48.729885
+28056_0187_00001;1;;Rue des Vieilles Pierres;28410;28056;Boutigny-Prouais;;;1.56002;48.715559
+28056_0069_00003;3;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.53285;48.717457
+28056_0069_00011;11;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.533432;48.716747
+28056_0069_00017;17;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.533801;48.716398
+28056_0165_00007;7;;Rue Saint Crochu;28410;28056;Boutigny-Prouais;;;1.564577;48.73386
+28056_0165_00010;10;;Rue Saint Crochu;28410;28056;Boutigny-Prouais;;;1.564387;48.733552
+28056_0135_00001;1;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.589482;48.742221
+28056_0135_00006;6;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.58882;48.742874
+28056_0135_00018;18;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.589222;48.742524
+28056_0135_00025;25;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.587008;48.744002
+28056_0135_00049;49;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.584439;48.74634
+28056_0135_00031_f;31;f;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586637;48.744812
+28056_0160_00025;25;;Rue des Sablons;28410;28056;Boutigny-Prouais;;;1.557506;48.714688
+28056_0091_00002;2;;allée des lilas;28410;28056;Boutigny-Prouais;;;1.602114;48.729499
+28056_0091_00005;5;;allée des lilas;28410;28056;Boutigny-Prouais;;;1.603469;48.729224
+28056_0077_00031;31;;Rue des Grugeons;28410;28056;Boutigny-Prouais;;;1.586479;48.726129
+28056_0005_00030;30;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.592248;48.755431
+28056_0005_00034;34;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.586154;48.753277
+28056_0073_00015;15;;Rue de la Garenne;28410;28056;Boutigny-Prouais;;;1.60868;48.734368
+28056_0025_00019;19;;Rue des Carreaux;28410;28056;Boutigny-Prouais;;;1.532281;48.71586
+28056_0115_00006;6;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.564863;48.731297
+28056_0115_00007_bis;7;bis;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.564924;48.730867
+28056_0087_00013;13;;Rue de la Hutte;28410;28056;Boutigny-Prouais;;;1.610042;48.732352
+28056_0038_00009;9;;Rue du Calvaire;28410;28056;Boutigny-Prouais;;;1.536091;48.712608
+28056_0006_00005;5;;Rue de l'Aubéton;28410;28056;Boutigny-Prouais;;;1.584332;48.732967
+28056_0006_00011;11;;Rue de l'Aubéton;28410;28056;Boutigny-Prouais;;;1.586553;48.732917
+28056_0006_00019;19;;Rue de l'Aubéton;28410;28056;Boutigny-Prouais;;;1.58796;48.732691
+28056_0040_00004;4;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.53334;48.722797
+28056_0040_00009;9;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.59144;48.734247
+28056_0040_00021;21;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.536714;48.723017
+28056_0140_00001;1;;Rue du Pressoir;28410;28056;Boutigny-Prouais;;;1.53262;48.722498
+28056_0120_00019;19;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.592475;48.737992
+28056_0120_00022;22;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.591845;48.73808
+28056_0120_00030;30;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.590142;48.737854
+28056_0120_00043;43;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.590257;48.736737
+28056_0120_00022_bis;22;bis;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.591701;48.738041
+28056_0027_00004;4;;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.567897;48.731527
+28056_0027_00011_bis;11;bis;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.568486;48.730209
+28056_0029_00009;9;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.583926;48.7255
+28056_0029_00024;24;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.583414;48.723225
+28056_0187_00010;10;;Rue des Vieilles Pierres;28410;28056;Boutigny-Prouais;;;1.56076;48.717001
+28056_xrqgbl_00009;9;;Rue de Chaude-joute;28410;28056;Boutigny-Prouais;;;1.608896;48.759682
+28056_xexod2_00039;39;;Prouais;28410;28056;Boutigny-Prouais;;;1.535378;48.714495
+28056_0061_00025;25;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.534957;48.715554
+28056_0061_00050;50;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532564;48.720253
+28056_0069_00014;14;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.532648;48.717119
+28056_0069_00019;19;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.533854;48.716317
+28056_0032_00003;3;;Rue de la Colonie;28410;28056;Boutigny-Prouais;;;1.586081;48.743719
+28056_0135_00023;23;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.58723;48.743726
+28056_0135_00031;31;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586695;48.744745
+28056_0135_00045;45;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.585358;48.745924
+28056_0135_00037_bis;37;bis;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586266;48.745141
+28056_0160_00015;15;;Rue des Sablons;28410;28056;Boutigny-Prouais;;;1.559106;48.715265
+28056_0091_00004;4;;allée des lilas;28410;28056;Boutigny-Prouais;;;1.600936;48.730243
+28056_0022_00012;12;;Rue des Bouvreuils;28410;28056;Boutigny-Prouais;;;1.583481;48.745519
+28056_0073_00004;4;;Rue de la Garenne;28410;28056;Boutigny-Prouais;;;1.607741;48.73286
+28056_0124_00014_bis;14;bis;Rue de Nerville;28410;28056;Boutigny-Prouais;;;1.557612;48.713681
+28056_xrqgbl_00017;17;;Rue de Chaude-joute;28410;28056;Boutigny-Prouais;;;1.609088;48.758886
+28056_wzs9o6_00100;100;;le Mesnil;28410;28056;Boutigny-Prouais;;;1.606811;48.753357
+28056_4htfkn_00121;121;;Allemant;28410;28056;Boutigny-Prouais;;;1.606113;48.744747
+28056_iwu4ai_00251;251;;La Musse;28410;28056;Boutigny-Prouais;;;1.566755;48.729463
+28056_0061_00022;22;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.53515;48.715405
+28056_0061_00040;40;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.53259;48.719088
+28056_0061_00054;54;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532518;48.72055
+28056_0061_00060;60;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.5325;48.72113
+28056_0061_00072;72;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.531716;48.722644
+28056_0069_00010;10;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.532732;48.717456
+28056_0032_00006;6;;Rue de la Colonie;28410;28056;Boutigny-Prouais;;;1.586492;48.744109
+28056_0165_00014;14;;Rue Saint Crochu;28410;28056;Boutigny-Prouais;;;1.565014;48.73409
+28056_0135_00015;15;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.588331;48.743001
+28056_0160_00009;9;;Rue des Sablons;28410;28056;Boutigny-Prouais;;;1.559569;48.714921
+28056_0160_00023;23;;Rue des Sablons;28410;28056;Boutigny-Prouais;;;1.557574;48.71509
+28056_0160_00029;29;;Rue des Sablons;28410;28056;Boutigny-Prouais;;;1.557339;48.715074
+28056_0077_00022;22;;Rue des Grugeons;28410;28056;Boutigny-Prouais;;;1.586835;48.724772
+28056_0022_00003;3;;Rue des Bouvreuils;28410;28056;Boutigny-Prouais;;;1.583015;48.745901
+28056_iwu4ai_00009;9;;La Musse;28410;28056;Boutigny-Prouais;;;1.564837;48.747773
+28056_0061_00014;14;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.536411;48.714221
+28056_0115_00015;15;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.563689;48.72961
+28056_0115_00014_a;14;a;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.564535;48.730137
+28056_0006_00023;23;;Rue de l'Aubéton;28410;28056;Boutigny-Prouais;;;1.589263;48.73307
+28056_0010_00001;1;;Rue Baligande;28410;28056;Boutigny-Prouais;;;1.535503;48.71363
+28056_0122_00007;7;;Rue du Moulin;28410;28056;Boutigny-Prouais;;;1.593288;48.740354
+28056_0040_00002;2;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.532935;48.72268
+28056_0040_00024;24;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.538587;48.722817
+28056_0080_00005;5;;Rue des Hoguets;28410;28056;Boutigny-Prouais;;;1.609498;48.742573
+28056_0120_00017;17;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.592797;48.738008
+28056_0120_00025;25;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.591673;48.737967
+28056_0018_00020;20;;Rue du Bocage;28410;28056;Boutigny-Prouais;;;1.607384;48.744492
+28056_0187_00007;7;;Rue des Vieilles Pierres;28410;28056;Boutigny-Prouais;;;1.560778;48.71661
+28056_0015_00003;3;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.536588;48.713362
+28056_0061_00043;43;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.532485;48.719225
+28056_0061_00002_a;2;a;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.536832;48.711884
+28056_0069_00012;12;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.532691;48.717284
+28056_0069_00020;20;;Rue des Forges;28410;28056;Boutigny-Prouais;;;1.532654;48.716897
+28056_0032_00001;1;;Rue de la Colonie;28410;28056;Boutigny-Prouais;;;1.586591;48.744069
+28056_0032_00004;4;;Rue de la Colonie;28410;28056;Boutigny-Prouais;;;1.586637;48.744126
+28056_0165_00011;11;;Rue Saint Crochu;28410;28056;Boutigny-Prouais;;;1.563945;48.73342
+28056_0135_00002;2;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.589535;48.742301
+28056_0135_00010;10;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.588021;48.743263
+28056_0135_00026;26;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586095;48.745417
+28056_0160_00014;14;;Rue des Sablons;28410;28056;Boutigny-Prouais;;;1.559072;48.715338
+28056_0091_00001;1;;allée des lilas;28410;28056;Boutigny-Prouais;;;1.602973;48.729297
+28056_0077_00005;5;;Rue des Grugeons;28410;28056;Boutigny-Prouais;;;1.58609;48.722288
+28056_0077_00023;23;;Rue des Grugeons;28410;28056;Boutigny-Prouais;;;1.586797;48.724887
+28056_0022_00006;6;;Rue des Bouvreuils;28410;28056;Boutigny-Prouais;;;1.582786;48.745893
+28056_0073_00008;8;;Rue de la Garenne;28410;28056;Boutigny-Prouais;;;1.607965;48.732878
+28056_0124_00005;5;;Rue de Nerville;28410;28056;Boutigny-Prouais;;;1.558952;48.714539
+28056_0124_00008;8;;Rue de Nerville;28410;28056;Boutigny-Prouais;;;1.558641;48.714306
+28056_0124_00014;14;;Rue de Nerville;28410;28056;Boutigny-Prouais;;;1.557954;48.713733
+28056_0124_00017;17;;Rue de Nerville;28410;28056;Boutigny-Prouais;;;1.557809;48.71357
+28056_0015_00041;41;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.541339;48.710677
+28056_0100_00007;7;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.60612;48.74114
+28056_0100_00014;14;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.609008;48.740869
+28056_0100_00003_bis;3;bis;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.605379;48.741196
+28056_0035_00005;5;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.582553;48.746241
+28056_0035_00013;13;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.581591;48.745769
+28056_0035_00021;21;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.582176;48.744975
+28056_0175_00012;12;;Rue du Tonnelier;28410;28056;Boutigny-Prouais;;;1.592109;48.739544
+28056_0190_00010;10;;Rue du Vieux Château;28410;28056;Boutigny-Prouais;;;1.586531;48.746051
+28056_0190_00016;16;;Rue du Vieux Château;28410;28056;Boutigny-Prouais;;;1.585788;48.747022
+28056_0132_00006;6;;Rue de la Pilonnerie;28410;28056;Boutigny-Prouais;;;1.586212;48.725631
+28056_0180_00006;6;;Rue des Tourelles;28410;28056;Boutigny-Prouais;;;1.565707;48.728922
+28056_0195_00006;6;;Rue du Vieux Puits;28410;28056;Boutigny-Prouais;;;1.565583;48.729891
+28056_0039_00005;5;;Rue de la Charmoie;28410;28056;Boutigny-Prouais;;;1.534344;48.711821
+28056_0185_00016;16;;Rue de la Tuilerie;28410;28056;Boutigny-Prouais;;;1.609314;48.743194
+28056_0192_00004;4;;Ruelle du Vieux Porche;28410;28056;Boutigny-Prouais;;;1.569656;48.731348
+28056_0099_00001;1;;Rue au Loup;28410;28056;Boutigny-Prouais;;;1.607161;48.731996
+28056_0048_00003;3;;Allée de l'Essor;28410;28056;Boutigny-Prouais;;;1.566279;48.734066
+28056_0078_00001;1;;montée du hêtre;28410;28056;Boutigny-Prouais;;;1.603673;48.73104
+28056_0115_00005;5;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.564945;48.731167
+28056_0115_00029;29;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.5634;48.728224
+28056_0115_00008_bis;8;bis;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.564815;48.731064
+28056_0087_00004;4;;Rue de la Hutte;28410;28056;Boutigny-Prouais;;;1.608192;48.733193
+28056_0005_00024;24;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.583928;48.752251
+28056_0073_00013;13;;Rue de la Garenne;28410;28056;Boutigny-Prouais;;;1.608573;48.733918
+28056_xrqgbl_00011;11;;Rue de Chaude-joute;28410;28056;Boutigny-Prouais;;;1.609012;48.759205
+28056_0061_00003;3;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.535911;48.712734
+28056_0025_00018;18;;Rue des Carreaux;28410;28056;Boutigny-Prouais;;;1.532187;48.715897
+28056_0115_00012;12;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.564771;48.730491
+28056_0115_00020;20;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.563198;48.729172
+28056_0115_00031;31;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.564042;48.727716
+28056_0006_00002;2;;Rue de l'Aubéton;28410;28056;Boutigny-Prouais;;;1.592602;48.738548
+28056_0006_00016;16;;Rue de l'Aubéton;28410;28056;Boutigny-Prouais;;;1.587571;48.732659
+28056_0010_00006;6;;Rue Baligande;28410;28056;Boutigny-Prouais;;;1.534607;48.713977
+28056_0040_00029;29;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.538382;48.722869
+28056_0140_00003;3;;Rue du Pressoir;28410;28056;Boutigny-Prouais;;;1.532573;48.722253
+28056_0140_00006;6;;Rue du Pressoir;28410;28056;Boutigny-Prouais;;;1.532368;48.722189
+28056_0075_00021;21;;Rue de la Giguetterie;28410;28056;Boutigny-Prouais;;;1.566253;48.73354
+28056_0120_00007;7;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.594607;48.738516
+28056_0120_00011;11;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.59375;48.738301
+28056_0120_00037;37;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.589925;48.737314
+28056_0120_00018_bis;18;bis;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.592294;48.738143
+28056_0027_00006;6;;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.568087;48.731381
+28056_0027_00011;11;;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.568547;48.73039
+28056_0029_00020;20;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.582508;48.72354
+28056_0029_00026;26;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.583625;48.723118
+28056_0018_00003;3;;Rue du Bocage;28410;28056;Boutigny-Prouais;;;1.610578;48.743642
+28056_0061_00024;24;;Rue de la Fée;28410;28056;Boutigny-Prouais;;;1.535085;48.715533
+28056_0032_00014;14;;Rue de la Colonie;28410;28056;Boutigny-Prouais;;;1.585656;48.744034
+28056_0165_00001;1;;Rue Saint Crochu;28410;28056;Boutigny-Prouais;;;1.564303;48.73226
+28056_0165_00006;6;;Rue Saint Crochu;28410;28056;Boutigny-Prouais;;;1.564235;48.732949
+28056_0135_00005;5;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.589274;48.742392
+28056_0135_00029;29;;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586773;48.744649
+28056_0135_00031_c;31;c;Rue des Potiers;28410;28056;Boutigny-Prouais;;;1.586638;48.744808
+28056_0022_00001;1;;Rue des Bouvreuils;28410;28056;Boutigny-Prouais;;;1.58277;48.746012
+28056_0005_00011;11;;Rue de l'Andusse;28410;28056;Boutigny-Prouais;;;1.582466;48.750486
+28056_0025_00006;6;;Rue des Carreaux;28410;28056;Boutigny-Prouais;;;1.533218;48.716094
+28056_0006_00007;7;;Rue de l'Aubéton;28410;28056;Boutigny-Prouais;;;1.585153;48.732981
+28056_0006_00013;13;;Rue de l'Aubéton;28410;28056;Boutigny-Prouais;;;1.587154;48.732812
+28056_0010_00002;2;;Rue Baligande;28410;28056;Boutigny-Prouais;;;1.535446;48.713939
+28056_0010_00005;5;;Rue Baligande;28410;28056;Boutigny-Prouais;;;1.535146;48.713735
+28056_0040_00006;6;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.533609;48.72286
+28056_0040_00016;16;;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.535703;48.723081
+28056_0040_00009_bis;9;bis;Rue de la Dime;28410;28056;Boutigny-Prouais;;;1.591442;48.734246
+28056_0075_00009;9;;Rue de la Giguetterie;28410;28056;Boutigny-Prouais;;;1.568043;48.732022
+28056_0075_00015;15;;Rue de la Giguetterie;28410;28056;Boutigny-Prouais;;;1.567726;48.732393
+28056_0120_00012;12;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.593456;48.738425
+28056_0120_00021;21;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.59213;48.738079
+28056_0027_00002;2;;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.568381;48.731831
+28056_0027_00006_bis;6;bis;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.568482;48.73133
+28056_0029_00011;11;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.583395;48.725028
+28056_0029_00021;21;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.582728;48.723772
+28056_0018_00028;28;;Rue du Bocage;28410;28056;Boutigny-Prouais;;;1.607186;48.745737
+28056_0187_00002;2;;Rue des Vieilles Pierres;28410;28056;Boutigny-Prouais;;;1.560407;48.715638
+28056_0015_00010;10;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.537628;48.713036
+28056_0250_00011;11;;Rue de la Volaille;28410;28056;Boutigny-Prouais;;;1.56179;48.73261
+28056_0026_00006;6;;Rue de Champagne;28410;28056;Boutigny-Prouais;;;1.607226;48.760466
+28056_b086_00048;48;;Lieu Dit les Terres Blanches;28410;28056;Boutigny-Prouais;;;1.596874;48.738329
+28056_0130_00001;1;;Rue du Poirier;28410;28056;Boutigny-Prouais;;;1.542013;48.71355
+28056_b054_00003;3;;Le Mesnil Opton;28410;28056;Boutigny-Prouais;;;1.611433;48.751512
+28056_0015_00020;20;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.538548;48.712539
+28056_0015_00028;28;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.539462;48.711697
+28056_0145_00002;2;;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.587113;48.744834
+28056_0145_00007;7;;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.587856;48.745528
+28056_0145_00020_t;20;t;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.592614;48.747657
+28056_0035_00001;1;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.582989;48.746592
+28056_0035_00004;4;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.582536;48.746409
+28056_0035_00017;17;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.581701;48.745194
+28056_0035_00020;20;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.581414;48.745281
+28056_0035_00026;26;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.581818;48.745034
+28056_0175_00001;1;;Rue du Tonnelier;28410;28056;Boutigny-Prouais;;;1.592513;48.738279
+28056_0190_00015;15;;Rue du Vieux Château;28410;28056;Boutigny-Prouais;;;1.585803;48.746904
+28056_0180_00012;12;;Rue des Tourelles;28410;28056;Boutigny-Prouais;;;1.565789;48.728086
+28056_0180_00003_b;3;b;Rue des Tourelles;28410;28056;Boutigny-Prouais;;;1.566014;48.729219
+28056_0195_00009;9;;Rue du Vieux Puits;28410;28056;Boutigny-Prouais;;;1.566127;48.729867
+28056_0033_00004;4;;allée des charmes;28410;28056;Boutigny-Prouais;;;1.60223;48.728043
+28056_b007_00003;3;;le Bois des Prés;28410;28056;Boutigny-Prouais;;;1.584452;48.739292
+28056_0131_00005;5;;allée du pin;28410;28056;Boutigny-Prouais;;;1.606473;48.728903
+28056_0031_00001;1;;Rue de la Colletiere;28410;28056;Boutigny-Prouais;;;1.538529;48.713242
+28056_0067_00004;4;;Rue de la Fontaine Bleue;28410;28056;Boutigny-Prouais;;;1.605411;48.746279
+28056_0028_00007;7;;Rue de Chaudejoute;28410;28056;Boutigny-Prouais;;;1.608739;48.759897
+28056_0015_00007;7;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.537004;48.713315
+28056_0015_00012;12;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.537689;48.713001
+28056_0023_00003;3;;Rue des Canaux;28410;28056;Boutigny-Prouais;;;1.559316;48.716801
+28056_0145_00008;8;;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.58763;48.745046
+28056_0035_00016;16;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.581462;48.74563
+28056_0175_00002;2;;Rue du Tonnelier;28410;28056;Boutigny-Prouais;;;1.592569;48.738468
+28056_0132_00001;1;;Rue de la Pilonnerie;28410;28056;Boutigny-Prouais;;;1.584557;48.726532
+28056_b085_00002_a;2;a;Lieu Dit Saint Projet;28410;28056;Boutigny-Prouais;;;1.596213;48.748979
+28056_0180_00011;11;;Rue des Tourelles;28410;28056;Boutigny-Prouais;;;1.565823;48.728111
+28056_0180_00003_c;3;c;Rue des Tourelles;28410;28056;Boutigny-Prouais;;;1.566014;48.729219
+28056_0195_00011;11;;Rue du Vieux Puits;28410;28056;Boutigny-Prouais;;;1.56675;48.729802
+28056_0039_00001;1;;Rue de la Charmoie;28410;28056;Boutigny-Prouais;;;1.53525;48.711965
+28056_0185_00005;5;;Rue de la Tuilerie;28410;28056;Boutigny-Prouais;;;1.608653;48.741776
+28056_0185_00019;19;;Rue de la Tuilerie;28410;28056;Boutigny-Prouais;;;1.60941;48.743622
+28056_b007_00002_a;2;a;le Bois des Prés;28410;28056;Boutigny-Prouais;;;1.583976;48.73934
+28056_0078_00006;6;;montée du hêtre;28410;28056;Boutigny-Prouais;;;1.603528;48.730264
+28056_0115_00013;13;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.564127;48.730002
+28056_0115_00019;19;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.56373;48.729268
+28056_0115_00022;22;;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.562858;48.729027
+28056_0115_00014_b;14;b;Rue de la Mesangerie;28410;28056;Boutigny-Prouais;;;1.564535;48.730137
+28056_0038_00001;1;;Rue du Calvaire;28410;28056;Boutigny-Prouais;;;1.536689;48.713159
+28056_0122_00006;6;;Rue du Moulin;28410;28056;Boutigny-Prouais;;;1.592682;48.740074
+28056_0120_00005;5;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.59499;48.738658
+28056_0120_00032;32;;Rue de la Michaudiére;28410;28056;Boutigny-Prouais;;;1.589994;48.737744
+28056_0027_00010;10;;Rue Chartraine;28410;28056;Boutigny-Prouais;;;1.568505;48.730083
+28056_0029_00005;5;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.583047;48.723347
+28056_0029_00029;29;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.583804;48.723154
+28056_0029_00035;35;;Rue du Chemin Vert;28410;28056;Boutigny-Prouais;;;1.585036;48.722896
+28056_0018_00001;1;;Rue du Bocage;28410;28056;Boutigny-Prouais;;;1.610932;48.743689
+28056_0018_00009;9;;Rue du Bocage;28410;28056;Boutigny-Prouais;;;1.60889;48.744115
+28056_0015_00001;1;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.53631;48.713449
+28056_0131_00001;1;;allée du pin;28410;28056;Boutigny-Prouais;;;1.604801;48.729126
+28056_0170_00001;1;;Impasse Saint Remy;28410;28056;Boutigny-Prouais;;;1.540092;48.713179
+28056_0169_00012;12;;Rue Saint Rémy;28410;28056;Boutigny-Prouais;;;1.539521;48.713032
+28056_b084_00077;77;;Sentier du Moulin;28410;28056;Boutigny-Prouais;;;1.593994;48.744731
+28056_0270_00002;2;;Rue de la Cadotterie;28410;28056;Boutigny-Prouais;;;1.54053;48.710737
+28056_0067_00002;2;;Rue de la Fontaine Bleue;28410;28056;Boutigny-Prouais;;;1.605672;48.746205
+28056_b014_00131_a;131;a;Lieu Dit la Butte de Beauterne;28410;28056;Boutigny-Prouais;;;1.599949;48.730756
+28056_0028_00003;3;;Rue de Chaudejoute;28410;28056;Boutigny-Prouais;;;1.608563;48.760289
+28056_0068_00003;3;;Rue des Fontaines;28410;28056;Boutigny-Prouais;;;1.588572;48.743279
+28056_0015_00039;39;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.541016;48.710861
+28056_0015_00044;44;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.540902;48.710825
+28056_0100_00003;3;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.604224;48.741459
+28056_0100_00021;21;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.610429;48.741185
+28056_0145_00023;23;;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.588945;48.746308
+28056_0175_00008;8;;Rue du Tonnelier;28410;28056;Boutigny-Prouais;;;1.592341;48.739111
+28056_0132_00007;7;;Rue de la Pilonnerie;28410;28056;Boutigny-Prouais;;;1.585977;48.725783
+28056_0195_00002;2;;Rue du Vieux Puits;28410;28056;Boutigny-Prouais;;;1.564667;48.730025
+28056_0195_00014_c;14;c;Rue du Vieux Puits;28410;28056;Boutigny-Prouais;;;1.567455;48.729505
+28056_0033_00012;12;;allée des charmes;28410;28056;Boutigny-Prouais;;;1.605389;48.72854
+28056_0071_00005;5;;Rue du Four a Pain;28410;28056;Boutigny-Prouais;;;1.558839;48.716051
+28056_0185_00009;9;;Rue de la Tuilerie;28410;28056;Boutigny-Prouais;;;1.608673;48.742291
+28056_0185_00015;15;;Rue de la Tuilerie;28410;28056;Boutigny-Prouais;;;1.609171;48.743028
+28056_0192_00002;2;;Ruelle du Vieux Porche;28410;28056;Boutigny-Prouais;;;1.569813;48.731635
+28056_0099_00005;5;;Rue au Loup;28410;28056;Boutigny-Prouais;;;1.607205;48.732077
+28056_0169_00002;2;;Rue Saint Rémy;28410;28056;Boutigny-Prouais;;;1.539039;48.712256
+28056_0270_00001;1;;Rue de la Cadotterie;28410;28056;Boutigny-Prouais;;;1.540603;48.710382
+28056_0026_00002;2;;Rue de Champagne;28410;28056;Boutigny-Prouais;;;1.607842;48.760549
+28056_0070_00001;1;;Rue du Fossé Rouge;28410;28056;Boutigny-Prouais;;;1.589556;48.737487
+28056_0015_00006;6;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.536976;48.713239
+28056_0015_00009;9;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.537178;48.713277
+28056_0015_00014;14;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.537651;48.713048
+28056_0015_00027;27;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.539405;48.711858
+28056_0015_00034;34;;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.539622;48.711286
+28056_0015_00003_bis;3;bis;Rue des Blatiers;28410;28056;Boutigny-Prouais;;;1.536309;48.713865
+28056_0050_00019;19;;Rue des Etangs;28410;28056;Boutigny-Prouais;;;1.610783;48.740216
+28056_0035_00003;3;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.582833;48.746492
+28056_0175_00003;3;;Rue du Tonnelier;28410;28056;Boutigny-Prouais;;;1.592456;48.738685
+28056_0190_00004;4;;Rue du Vieux Château;28410;28056;Boutigny-Prouais;;;1.58714;48.745767
+28056_0190_00007;7;;Rue du Vieux Château;28410;28056;Boutigny-Prouais;;;1.586648;48.74599
+28056_0132_00009;9;;Rue de la Pilonnerie;28410;28056;Boutigny-Prouais;;;1.586431;48.725613
+28056_0195_00018;18;;Rue du Vieux Puits;28410;28056;Boutigny-Prouais;;;1.568464;48.729539
+28056_0033_00008;8;;allée des charmes;28410;28056;Boutigny-Prouais;;;1.604019;48.728264
+28056_0071_00001;1;;Rue du Four a Pain;28410;28056;Boutigny-Prouais;;;1.559657;48.715582
+28056_0185_00017;17;;Rue de la Tuilerie;28410;28056;Boutigny-Prouais;;;1.609291;48.743297
+28056_0099_00004;4;;Rue au Loup;28410;28056;Boutigny-Prouais;;;1.607205;48.732077
+28056_b007_00002;2;;le Bois des Prés;28410;28056;Boutigny-Prouais;;;1.584383;48.739917
+28056_0200_00003;3;;Rue des Vignes;28410;28056;Boutigny-Prouais;;;1.531023;48.721233
+28056_0250_00022;22;;Rue de la Volaille;28410;28056;Boutigny-Prouais;;;1.562222;48.732784
+28056_0131_00003;3;;allée du pin;28410;28056;Boutigny-Prouais;;;1.605495;48.729027
+28056_0031_00003;3;;Rue de la Colletiere;28410;28056;Boutigny-Prouais;;;1.538766;48.713455
+28056_0270_00004;4;;Rue de la Cadotterie;28410;28056;Boutigny-Prouais;;;1.540325;48.71041
+28056_0026_00010;10;;Rue de Champagne;28410;28056;Boutigny-Prouais;;;1.606192;48.760334
+28056_0021_00001;1;;Chemin des Bouleaux;28410;28056;Boutigny-Prouais;;;1.606994;48.729748
+28056_0130_00003;3;;Rue du Poirier;28410;28056;Boutigny-Prouais;;;1.544441;48.713582
+28056_0028_00005;5;;Rue de Chaudejoute;28410;28056;Boutigny-Prouais;;;1.607915;48.759904
+28056_0100_00022;22;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.610208;48.74022
+28056_0100_00031;31;;Rue de la Mare aux Biches;28410;28056;Boutigny-Prouais;;;1.614344;48.740693
+28056_0145_00006;6;;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.587758;48.744681
+28056_0145_00009;9;;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.587975;48.745597
+28056_0145_00022_ter;22;ter;Rue du Rosaire;28410;28056;Boutigny-Prouais;;;1.592614;48.747657
+28056_0035_00006;6;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.581837;48.746293
+28056_0035_00011;11;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.581576;48.745678
+28056_0035_00014;14;;Rue des Coquelicots;28410;28056;Boutigny-Prouais;;;1.581491;48.745811
+28056_0190_00014;14;;Rue du Vieux Château;28410;28056;Boutigny-Prouais;;;1.5862;48.746564
+28056_0190_00018;18;;Rue du Vieux Château;28410;28056;Boutigny-Prouais;;;1.585995;48.746801
+28056_0132_00005;5;;Rue de la Pilonnerie;28410;28056;Boutigny-Prouais;;;1.585568;48.725956
+28056_0195_00005;5;;Rue du Vieux Puits;28410;28056;Boutigny-Prouais;;;1.565331;48.729946
+28056_0071_00009;9;;Rue du Four a Pain;28410;28056;Boutigny-Prouais;;;1.558237;48.716536
+28056_0099_00007;7;;Rue au Loup;28410;28056;Boutigny-Prouais;;;1.60849;48.731245
+28056_0250_00002;2;;Rue de la Volaille;28410;28056;Boutigny-Prouais;;;1.567229;48.732612
+28056_0169_00010;10;;Rue Saint Rémy;28410;28056;Boutigny-Prouais;;;1.539487;48.712963
+28056_0070_00002;2;;Rue du Fossé Rouge;28410;28056;Boutigny-Prouais;;;1.589443;48.737582
+28056_0017_00004;4;;Impasse des Blés d'Or;28410;28056;Boutigny-Prouais;;;1.581802;48.746565

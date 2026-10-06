@@ -1,0 +1,612 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+52251_vr6hl8_00032;32;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.082673;48.137448
+52251_vr6hl8_00033;33;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.082904;48.137386
+52251_vr6hl8_00034;34;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.083017;48.137462
+52251_vr6hl8_00037;37;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.084009;48.137247
+52251_vr6hl8_00038;38;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.084357;48.137216
+52251_vr6hl8_00042;42;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.085091;48.136857
+52251_4zayrs_00001;1;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061909;48.15911
+52251_4zayrs_00005;5;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061873;48.15891
+52251_4zayrs_00007;7;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061859;48.158824
+52251_4zayrs_00008;8;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061856;48.158273
+52251_4zayrs_00017;17;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061699;48.157201
+52251_4zayrs_00020;20;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.062145;48.156602
+52251_4zayrs_00025;25;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061894;48.159052
+52251_4zayrs_00007_bis;7;bis;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061845;48.158731
+52251_4zayrs_00010_bis;10;bis;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061839;48.157933
+52251_4zayrs_00009_bis;9;bis;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061786;48.158374
+52251_4zayrs_00020_bis;20;bis;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.062225;48.15652
+52251_b1b2i2_00004;4;;Lotissement Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061616;48.15535
+52251_b1b2i2_00005;5;;Lotissement Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061782;48.155207
+52251_vr6hl8_00001;1;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.084792;48.13733
+52251_vr6hl8_00003;3;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.085057;48.137666
+52251_vr6hl8_00005;5;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.084922;48.137784
+52251_vr6hl8_00014;14;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.084308;48.138005
+52251_vr6hl8_00016;16;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.083788;48.137709
+52251_vr6hl8_00019;19;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.083041;48.137775
+52251_vr6hl8_00021;21;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.082524;48.137913
+52251_vr6hl8_00025;25;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.081821;48.138028
+52251_vr6hl8_00024;24;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.081865;48.138101
+52251_vr6hl8_00026;26;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.082046;48.13795
+52251_vr6hl8_00027;27;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.082326;48.137874
+52251_vr6hl8_00029;29;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.082055;48.137634
+52251_vr6hl8_00036;36;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.083711;48.13732
+52251_vr6hl8_00039;39;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.084586;48.136868
+52251_4zayrs_00009;9;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061823;48.1586
+52251_4zayrs_00010;10;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.06184;48.158091
+52251_4zayrs_00011;11;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061525;48.157772
+52251_4zayrs_00018;18;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061818;48.157053
+52251_4zayrs_00019;19;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061685;48.157127
+52251_4zayrs_00021;21;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061839;48.156872
+52251_4zayrs_00021_bis;21;bis;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061901;48.156758
+52251_4zayrs_00018_bis;18;bis;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.062389;48.156925
+52251_b1b2i2_00003;3;;Lotissement Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061462;48.155484
+52251_b1b2i2_00007;7;;Lotissement Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061898;48.155024
+52251_vr6hl8_00028;28;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.082716;48.137769
+52251_vr6hl8_00035;35;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.083449;48.137517
+52251_vr6hl8_00043;43;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.08537;48.136785
+52251_4zayrs_00003;3;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061887;48.158992
+52251_4zayrs_00004;4;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061878;48.158531
+52251_4zayrs_00006;6;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061913;48.158218
+52251_4zayrs_00014;14;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061713;48.157561
+52251_4zayrs_00015;15;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.06167;48.157284
+52251_4zayrs_00022;22;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.062098;48.15665
+52251_4zayrs_00023;23;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.062187;48.156498
+52251_4zayrs_00002_a;2;a;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061984;48.158861
+52251_4zayrs_00008_bis;8;bis;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061906;48.158176
+52251_4zayrs_00014_bis;14;bis;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061739;48.157401
+52251_4zayrs_00022_bis;22;bis;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.062407;48.156326
+52251_4zayrs_00011_bis;11;bis;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061617;48.157626
+52251_4zayrs_00014_ter;14;ter;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061767;48.157272
+52251_b1b2i2_00001;1;;Lotissement Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061199;48.155833
+52251_vr6hl8_00004;4;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.085148;48.137833
+52251_vr6hl8_00006;6;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.084799;48.137561
+52251_vr6hl8_00013;13;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.084374;48.138125
+52251_vr6hl8_00020;20;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.082795;48.137841
+52251_vr6hl8_00010;10;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.084341;48.137923
+52251_vr6hl8_00015;15;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.083968;48.137676
+52251_vr6hl8_00017;17;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.083709;48.137587
+52251_vr6hl8_00018;18;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.083253;48.137608
+52251_vr6hl8_00030;30;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.082022;48.137562
+52251_vr6hl8_00031;31;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.082237;48.137506
+52251_vr6hl8_00040;40;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.084876;48.136794
+52251_vr6hl8_00041;41;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.085125;48.136732
+52251_4zayrs_00002;2;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061904;48.158711
+52251_4zayrs_00012;12;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061817;48.157889
+52251_4zayrs_00013;13;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061642;48.157466
+52251_4zayrs_00016;16;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061778;48.157176
+52251_4zayrs_00026;26;;Grande Rue;52000;52251;Jonchery;Sarcicourt;;5.061839;48.157933
+52251_b1b2i2_00002;2;;Lotissement Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061337;48.155678
+52251_b1b2i2_00006;6;;Lotissement Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061938;48.155072
+52251_vr6hl8_00002;2;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.084892;48.137505
+52251_vr6hl8_00007;7;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.08467;48.13733
+52251_vr6hl8_00008;8;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.084109;48.137501
+52251_vr6hl8_00009;9;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.084231;48.137723
+52251_vr6hl8_00011;11;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.084845;48.138012
+52251_vr6hl8_00012;12;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.084545;48.138089
+52251_vr6hl8_00022;22;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.082262;48.138061
+52251_vr6hl8_00023;23;;Lotissement les Prelots;52000;52251;Jonchery;Jonchery;;5.082019;48.13812
+52251_b1b2i2_00008;8;;Lotissement Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061732;48.155169
+52251_b1b2i2_00012;12;;Lotissement Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061009;48.155699
+52251_exvbvt_00006;6;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.087639;48.137535
+52251_exvbvt_00008;8;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.088056;48.137326
+52251_exvbvt_00010;10;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.088281;48.137098
+52251_pc8dn5_00034;34;;Les Charmois;52000;52251;Jonchery;Jonchery;;5.077599;48.134675
+52251_0005_00002;2;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.084539;48.135585
+52251_0005_00006;6;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.084891;48.13588
+52251_0005_00011;11;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.085995;48.137343
+52251_0005_00012;12;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.084284;48.136581
+52251_0005_00014;14;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.085958;48.137404
+52251_0005_00016;16;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.086062;48.13754
+52251_0005_00023;23;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.08759;48.139212
+52251_0005_00030;30;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.08716;48.13864
+52251_0005_00026_ter;26;ter;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.086834;48.138256
+52251_0005_00032_bis;32;bis;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.087382;48.138933
+52251_0005_00002_bis;2;bis;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.084646;48.135681
+52251_a010_00001;1;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.088196;48.139845
+52251_a010_00007;7;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.089293;48.139934
+52251_a010_00009;9;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.088931;48.140136
+52251_a010_00010;10;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.089374;48.140659
+52251_a010_00011;11;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.089647;48.140634
+52251_a010_00012;12;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.089986;48.140506
+52251_a010_00033;33;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.089089;48.140848
+52251_a010_00035;35;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.088981;48.140492
+52251_a010_00037;37;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.08874;48.140112
+52251_a010_00041;41;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.088103;48.140558
+52251_a010_00042;42;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.088175;48.140741
+52251_a010_00044;44;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.088197;48.141127
+52251_0035_00007;7;;Rue des Frenes;52000;52251;Jonchery;Jonchery;;5.083499;48.133514
+52251_0070_00004;4;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.087287;48.134349
+52251_b1b2i2_00011;11;;Lotissement Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061218;48.155572
+52251_b1b2i2_00025;25;;Lotissement Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061463;48.154794
+52251_exvbvt_00005;5;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.087728;48.137261
+52251_exvbvt_00007;7;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.087892;48.137354
+52251_exvbvt_00012;12;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.088761;48.137268
+52251_exvbvt_00016;16;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.088516;48.13673
+52251_exvbvt_00020;20;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.087748;48.136844
+52251_0005_00003;3;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.085048;48.13595
+52251_0005_00004;4;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.084789;48.135785
+52251_0005_00005;5;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.085661;48.136755
+52251_0005_00008;8;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.084992;48.135982
+52251_0005_00020;20;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.086413;48.13788
+52251_0005_00028;28;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.086969;48.138436
+52251_0005_00036;36;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.087912;48.140464
+52251_0005_00014_bis;14;bis;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.085927;48.137351
+52251_0005_00018_bis;18;bis;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.085548;48.136718
+52251_0005_00021_bis;21;bis;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.087567;48.139137
+52251_0005_00019_bis;19;bis;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.086971;48.138262
+52251_a010_00002;2;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.088392;48.139837
+52251_a010_00003;3;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.088658;48.139693
+52251_a010_00013;13;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.090106;48.140057
+52251_a010_00015;15;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.089214;48.139139
+52251_a010_00017;17;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.089546;48.139398
+52251_a010_00020;20;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.090179;48.139767
+52251_a010_00024;24;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.090229;48.140356
+52251_a010_00031;31;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.08921;48.140934
+52251_a010_00034;34;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.089054;48.1407
+52251_a010_00040;40;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.088007;48.140237
+52251_a010_00043;43;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.088193;48.140943
+52251_a010_00015_bis;15;bis;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.089086;48.138012
+52251_0035_00001;1;;Rue des Frenes;52000;52251;Jonchery;Jonchery;;5.084021;48.134867
+52251_0035_00003;3;;Rue des Frenes;52000;52251;Jonchery;Jonchery;;5.083818;48.134327
+52251_0035_00001_bis;1;bis;Rue des Frenes;52000;52251;Jonchery;Jonchery;;5.084021;48.134867
+52251_0070_00002;2;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.087571;48.134254
+52251_b1b2i2_00009;9;;Lotissement Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061575;48.155306
+52251_b1b2i2_00010;10;;Lotissement Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061412;48.155449
+52251_exvbvt_00001;1;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.087504;48.136576
+52251_exvbvt_00004;4;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.087723;48.137096
+52251_exvbvt_00013;13;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.08876;48.137136
+52251_exvbvt_00017;17;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.088479;48.136601
+52251_exvbvt_00018;18;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.088338;48.136604
+52251_exvbvt_00019;19;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.088048;48.136846
+52251_exvbvt_00021;21;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.08756;48.136589
+52251_0005_00001;1;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.084594;48.135539
+52251_0005_00010;10;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.085219;48.136227
+52251_0005_00013;13;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.086749;48.137485
+52251_0005_00015;15;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.086469;48.137836
+52251_0005_00017;17;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.087228;48.137891
+52251_0005_00024;24;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.085177;48.13889
+52251_0005_00032;32;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.087325;48.138776
+52251_0005_00034;34;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.08743;48.139059
+52251_0005_00017_bis;17;bis;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.084111;48.13692
+52251_a010_00006;6;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.089394;48.139718
+52251_a010_00008;8;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.089124;48.140029
+52251_a010_00014;14;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.090012;48.139763
+52251_a010_00016;16;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.089353;48.139276
+52251_a010_00023;23;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.090207;48.140189
+52251_a010_00025;25;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.090244;48.140515
+52251_a010_00026;26;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.090255;48.140625
+52251_0035_00004;4;;Rue des Frenes;52000;52251;Jonchery;Jonchery;;5.083753;48.13389
+52251_0070_00003;3;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.087071;48.134565
+52251_0070_00005;5;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.086758;48.134667
+52251_b1b2i2_00013;13;;Lotissement Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061045;48.155819
+52251_exvbvt_00002;2;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.087498;48.136766
+52251_exvbvt_00003;3;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.087497;48.136928
+52251_exvbvt_00009;9;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.087923;48.137015
+52251_exvbvt_00011;11;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.088497;48.137252
+52251_exvbvt_00014;14;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.088379;48.137096
+52251_exvbvt_00015;15;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.088336;48.136824
+52251_exvbvt_00022;22;;Lotissement le Cottage;52000;52251;Jonchery;Jonchery;;5.088755;48.137391
+52251_0005_00007;7;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.085753;48.13694
+52251_0005_00009;9;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.08588;48.137151
+52251_0005_00018;18;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.086144;48.137606
+52251_0005_00019;19;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.087044;48.138354
+52251_0005_00021;21;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.087543;48.139189
+52251_0005_00022;22;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.08654;48.137989
+52251_0005_00026;26;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.086762;48.138188
+52251_0005_00038;38;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.087996;48.140823
+52251_0005_00039;39;;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.088047;48.141176
+52251_0005_00026_bis;26;bis;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.086979;48.138394
+52251_0005_00001_bis;1;bis;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.084704;48.135618
+52251_0005_00014_ter;14;ter;Rue des Acacias;52000;52251;Jonchery;Jonchery;;5.085901;48.137322
+52251_a010_00004;4;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.088918;48.139688
+52251_a010_00005;5;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.089175;48.139683
+52251_a010_00018;18;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.089741;48.13953
+52251_a010_00019;19;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.089962;48.139674
+52251_a010_00022;22;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.090187;48.140041
+52251_a010_00027;27;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.090279;48.140769
+52251_a010_00028;28;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.089918;48.140643
+52251_a010_00029;29;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.089395;48.140694
+52251_a010_00032;32;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.089099;48.140986
+52251_a010_00036;36;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.088829;48.140271
+52251_a010_00038;38;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.088603;48.139937
+52251_a010_00039;39;;Lotissement le Hameau;52000;52251;Jonchery;Jonchery;;5.087927;48.139949
+52251_0035_00002;2;;Rue des Frenes;52000;52251;Jonchery;Jonchery;;5.083885;48.13425
+52251_0035_00005;5;;Rue des Frenes;52000;52251;Jonchery;Jonchery;;5.083672;48.133965
+52251_0070_00001;1;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.087415;48.134476
+52251_0070_00007;7;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.086002;48.134907
+52251_0070_00008;8;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.086482;48.134602
+52251_0070_00010;10;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.085892;48.134793
+52251_0070_00014;14;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.084442;48.135276
+52251_0070_00015;15;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.084913;48.135276
+52251_0070_00020;20;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.083589;48.135475
+52251_0070_00023;23;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.083225;48.135656
+52251_0070_00024;24;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.083083;48.135585
+52251_0070_00025;25;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.082994;48.135731
+52251_0070_00026;26;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.082946;48.135618
+52251_0070_00028;28;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.082673;48.135698
+52251_0070_00033;33;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.081581;48.13603
+52251_0070_00025_bis;25;bis;Route de Paris;52000;52251;Jonchery;Jonchery;;5.083094;48.135688
+52251_0070_00041_ter;41;ter;Route de Paris;52000;52251;Jonchery;Jonchery;;5.078186;48.136796
+52251_0017_00003;3;;Rue de la Côte;52000;52251;Jonchery;Sarcicourt;;5.061413;48.160288
+52251_0017_00010;10;;Rue de la Côte;52000;52251;Jonchery;Sarcicourt;;5.061506;48.159879
+52251_0017_00012;12;;Rue de la Côte;52000;52251;Jonchery;Sarcicourt;;5.061584;48.16103
+52251_0030_00001;1;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091358;48.158471
+52251_0030_00005;5;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091438;48.158892
+52251_0030_00012;12;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091539;48.159377
+52251_0030_00017;17;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.092113;48.160922
+52251_0030_00024;24;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.092316;48.161421
+52251_0030_00027;27;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091847;48.161091
+52251_0030_00032;32;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.093074;48.162629
+52251_0030_00021_bis;21;bis;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.092456;48.161508
+52251_0030_00005_bis;5;bis;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091484;48.159045
+52251_0030_00026_ter;26;ter;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.092326;48.161481
+52251_0030_00001_b;1;b;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.092284;48.161136
+52251_0030_00020_bis;20;bis;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.092019;48.160895
+52251_0030_00010_b;10;b;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091516;48.159341
+52251_0030_00024_bis;24;bis;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.092052;48.161241
+52251_0048_00005;5;;Rue du Guet;52000;52251;Jonchery;Laharmand;;5.090662;48.160908
+52251_0080_00001;1;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.085636;48.136229
+52251_0080_00003;3;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.086018;48.136193
+52251_0080_00004;4;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.086261;48.13622
+52251_0080_00008;8;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.086922;48.136162
+52251_0080_00009;9;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.087467;48.136034
+52251_0080_00015;15;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.088945;48.135979
+52251_0080_00019;19;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.089588;48.136177
+52251_0070_00011;11;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.085055;48.135222
+52251_0070_00017;17;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.084049;48.135511
+52251_0070_00021;21;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.083255;48.135649
+52251_0070_00022;22;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.083279;48.135547
+52251_0070_00031;31;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.081849;48.135974
+52251_0070_00034;34;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.081938;48.135826
+52251_0070_00036;36;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.08158;48.135916
+52251_0070_00037;37;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.080959;48.136167
+52251_0070_00043;43;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.076398;48.137201
+52251_0070_00017_bis;17;bis;Route de Paris;52000;52251;Jonchery;Jonchery;;5.08386;48.13551
+52251_0070_00025_ter;25;ter;Route de Paris;52000;52251;Jonchery;Jonchery;;5.082847;48.135744
+52251_0017_00011;11;;Rue de la Côte;52000;52251;Jonchery;Sarcicourt;;5.061506;48.159879
+52251_0030_00004;4;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091246;48.158395
+52251_0030_00007;7;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.09159;48.159318
+52251_0030_00010;10;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091407;48.159081
+52251_0030_00013;13;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091808;48.159825
+52251_0030_00015;15;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091878;48.159953
+52251_0030_00020;20;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091863;48.160636
+52251_0030_00022;22;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091979;48.160845
+52251_0030_00019_bis;19;bis;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.092338;48.161299
+52251_0030_00015_bis;15;bis;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091948;48.160124
+52251_0030_00001_a;1;a;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091248;48.157562
+52251_0030_00030_b;30;b;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.092668;48.162008
+52251_0048_00001_c;1;c;Rue du Guet;52000;52251;Jonchery;Jonchery;;5.086177;48.135177
+52251_0080_00002;2;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.085926;48.136305
+52251_0080_00005;5;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.086595;48.136117
+52251_0080_00006;6;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.086437;48.136205
+52251_0080_00010;10;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.087264;48.136135
+52251_0080_00013;13;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.088306;48.136006
+52251_0080_00017;17;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.089364;48.136123
+52251_0080_00021;21;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.089967;48.136299
+52251_0070_00006;6;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.086711;48.134528
+52251_0070_00016;16;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.084155;48.135355
+52251_0070_00027;27;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.08261;48.135796
+52251_0070_00038;38;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.081237;48.135998
+52251_0070_00039;39;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.07954;48.136488
+52251_0070_00041;41;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.077095;48.137044
+52251_0070_00052;52;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.082673;48.135698
+52251_0070_00010_bis;10;bis;Route de Paris;52000;52251;Jonchery;Jonchery;;5.08555;48.1349
+52251_0017_00001;1;;Rue de la Côte;52000;52251;Jonchery;Sarcicourt;;5.061823;48.159602
+52251_0017_00002;2;;Rue de la Côte;52000;52251;Jonchery;Sarcicourt;;5.061302;48.16028
+52251_0017_00004;4;;Rue de la Côte;52000;52251;Jonchery;Sarcicourt;;5.061323;48.160679
+52251_0017_00006;6;;Rue de la Côte;52000;52251;Jonchery;Sarcicourt;;5.061506;48.159879
+52251_0030_00006;6;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091308;48.158815
+52251_0030_00008;8;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091357;48.158925
+52251_0030_00011;11;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091724;48.159642
+52251_0030_00014;14;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091612;48.159554
+52251_0030_00016;16;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091693;48.159763
+52251_0030_00018;18;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091865;48.160329
+52251_0030_00023;23;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.092513;48.161665
+52251_0030_00026;26;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.092271;48.161378
+52251_0030_00028;28;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.092387;48.161584
+52251_0030_00029;29;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.093082;48.162593
+52251_0030_00022_ter;22;ter;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091779;48.161131
+52251_0030_00026_bis;26;bis;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.092325;48.161481
+52251_0048_00003;3;;Rue du Guet;52000;52251;Jonchery;Laharmand;;5.090545;48.160954
+52251_0048_00001_b;1;b;Rue du Guet;52000;52251;Jonchery;Laharmand;;5.091253;48.160708
+52251_0080_00007;7;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.086804;48.136111
+52251_0080_00012;12;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.087919;48.136075
+52251_0080_00014;14;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.088549;48.13605
+52251_0070_00009;9;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.085256;48.135156
+52251_0070_00012;12;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.085354;48.134965
+52251_0070_00013;13;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.084991;48.135247
+52251_0070_00018;18;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.083902;48.135397
+52251_0070_00019;19;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.083692;48.135549
+52251_0070_00029;29;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.082563;48.136191
+52251_0070_00030;30;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.082549;48.135695
+52251_0070_00032;32;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.082323;48.135752
+52251_0070_00035;35;;Route de Paris;52000;52251;Jonchery;Jonchery;;5.08129;48.136094
+52251_0070_00041_bis;41;bis;Route de Paris;52000;52251;Jonchery;Jonchery;;5.078188;48.136818
+52251_0070_00014_bis;14;bis;Route de Paris;52000;52251;Jonchery;Jonchery;;5.084327;48.135323
+52251_0017_00005;5;;Rue de la Côte;52000;52251;Jonchery;Sarcicourt;;5.061389;48.160478
+52251_0017_00007;7;;Rue de la Côte;52000;52251;Jonchery;Sarcicourt;;5.061415;48.160585
+52251_0017_00008;8;;Rue de la Côte;52000;52251;Jonchery;Sarcicourt;;5.061506;48.159879
+52251_0030_00002;2;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091254;48.15809
+52251_0030_00003;3;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091407;48.158792
+52251_0030_00009;9;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091633;48.15944
+52251_0030_00019;19;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.092206;48.161111
+52251_0030_00021;21;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.092555;48.161608
+52251_0030_00025;25;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.09279;48.162013
+52251_0030_00030;30;;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.092488;48.161761
+52251_0030_00022_bis;22;bis;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091895;48.161174
+52251_0030_00010_a;10;a;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.091394;48.159039
+52251_0030_00030_a;30;a;Rue des Erables;52000;52251;Jonchery;Laharmand;;5.092671;48.162009
+52251_0048_00001;1;;Rue du Guet;52000;52251;Jonchery;Laharmand;;5.090516;48.160971
+52251_0048_00002;2;;Rue du Guet;52000;52251;Jonchery;Laharmand;;5.091898;48.160496
+52251_0048_00001_a;1;a;Rue du Guet;52000;52251;Jonchery;Jonchery;;5.085082;48.135454
+52251_0080_00011;11;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.087495;48.136021
+52251_0080_00016;16;;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.089425;48.136233
+52251_a031_00003;3;;Lotissement les Vallots;52000;52251;Jonchery;Laharmand;;5.091926;48.157066
+52251_a031_00005;5;;Lotissement les Vallots;52000;52251;Jonchery;Laharmand;;5.092378;48.156488
+52251_a031_00006;6;;Lotissement les Vallots;52000;52251;Jonchery;Laharmand;;5.092441;48.156677
+52251_a031_00009;9;;Lotissement les Vallots;52000;52251;Jonchery;Laharmand;;5.092489;48.157042
+52251_a031_00011;11;;Lotissement les Vallots;52000;52251;Jonchery;Laharmand;;5.092817;48.157339
+52251_a031_00012;12;;Lotissement les Vallots;52000;52251;Jonchery;Laharmand;;5.092872;48.157448
+52251_a031_00013;13;;Lotissement les Vallots;52000;52251;Jonchery;Laharmand;;5.092555;48.157407
+52251_0076_00002;2;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.080178;48.138202
+52251_0076_00009;9;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.081106;48.137455
+52251_0076_00011;11;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.081023;48.137237
+52251_0076_00014;14;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.080073;48.137521
+52251_0076_00015;15;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.080363;48.137387
+52251_0076_00016;16;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.079518;48.137705
+52251_0076_00017;17;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.080106;48.137445
+52251_0076_00020;20;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.079196;48.138239
+52251_0076_00023;23;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.079145;48.137734
+52251_0015_00004;4;;Rue des Chalets;52000;52251;Jonchery;Laharmand;;5.093687;48.162528
+52251_0015_00006;6;;Rue des Chalets;52000;52251;Jonchery;Laharmand;;5.093921;48.162492
+52251_0015_00010;10;;Rue des Chalets;52000;52251;Jonchery;Laharmand;;5.095538;48.161971
+52251_0015_00003_bis;3;bis;Rue des Chalets;52000;52251;Jonchery;Laharmand;;5.093218;48.162606
+52251_0044_00009;9;;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.089343;48.135066
+52251_0044_00016;16;;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.088539;48.134925
+52251_0044_00018;18;;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.089518;48.135205
+52251_0050_00002;2;;Rue d'Hachet;52000;52251;Jonchery;Sarcicourt;;5.060866;48.158297
+52251_0050_00004;4;;Rue d'Hachet;52000;52251;Jonchery;Sarcicourt;;5.060749;48.15869
+52251_0050_00007;7;;Rue d'Hachet;52000;52251;Jonchery;Sarcicourt;;5.060781;48.158787
+52251_0050_00008;8;;Rue d'Hachet;52000;52251;Jonchery;Sarcicourt;;5.059764;48.159295
+52251_0065_00002;2;;Rue du Moulin;52000;52251;Jonchery;Sarcicourt;;5.062735;48.159035
+52251_0065_00004;4;;Rue du Moulin;52000;52251;Jonchery;Sarcicourt;;5.062735;48.159035
+52251_0065_00016;16;;Rue du Moulin;52000;52251;Jonchery;Sarcicourt;;5.062735;48.159035
+52251_a031_00002;2;;Lotissement les Vallots;52000;52251;Jonchery;Laharmand;;5.092006;48.157209
+52251_a031_00007;7;;Lotissement les Vallots;52000;52251;Jonchery;Laharmand;;5.092443;48.156884
+52251_0076_00001;1;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.080731;48.137918
+52251_0076_00005;5;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.081277;48.137739
+52251_0076_00019;19;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.079894;48.137494
+52251_0076_00021;21;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.079441;48.137632
+52251_0076_00031;31;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.07914;48.138313
+52251_0076_00035;35;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.080975;48.137655
+52251_0076_00025_bis;25;bis;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.07893;48.137813
+52251_0015_00003;3;;Rue des Chalets;52000;52251;Jonchery;Laharmand;;5.093218;48.162606
+52251_0015_00008;8;;Rue des Chalets;52000;52251;Jonchery;Laharmand;;5.094222;48.162417
+52251_0044_00003;3;;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.088104;48.134862
+52251_0044_00003_bis;3;bis;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.088477;48.13484
+52251_0044_00002_bis;2;bis;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.085344;48.135397
+52251_0050_00003;3;;Rue d'Hachet;52000;52251;Jonchery;Sarcicourt;;5.061305;48.158299
+52251_0050_00014;14;;Rue d'Hachet;52000;52251;Jonchery;Sarcicourt;;5.061372;48.161099
+52251_0050_00007_bis;7;bis;Rue d'Hachet;52000;52251;Jonchery;Sarcicourt;;5.060401;48.159365
+52251_0065_00007;7;;Rue du Moulin;52000;52251;Jonchery;Sarcicourt;;5.062124;48.159368
+52251_0065_00008;8;;Rue du Moulin;52000;52251;Jonchery;Sarcicourt;;5.063935;48.159289
+52251_0065_00012;12;;Rue du Moulin;52000;52251;Jonchery;Sarcicourt;;5.064961;48.159529
+52251_0065_00013;13;;Rue du Moulin;52000;52251;Jonchery;Sarcicourt;;5.065081;48.159654
+52251_0065_00015;15;;Rue du Moulin;52000;52251;Jonchery;Sarcicourt;;5.064624;48.159592
+52251_0073_00003;3;;Ruelle des Prelots;52000;52251;Jonchery;Jonchery;;5.084852;48.138334
+52251_0073_00006;6;;Ruelle des Prelots;52000;52251;Jonchery;Jonchery;;5.086304;48.137779
+52251_0032_00006;6;;Rue de l'Etang;52000;52251;Jonchery;Jonchery;;5.078611;48.138951
+52251_0021_00004;4;;Rue de la Cote du Gue;52000;52251;Jonchery;Jonchery;;5.088383;48.138854
+52251_0021_00005;5;;Rue de la Cote du Gue;52000;52251;Jonchery;Jonchery;;5.087885;48.138347
+52251_0065_00017;17;;Rue du Moulin;52000;52251;Jonchery;Sarcicourt;;5.064127;48.159479
+52251_0032_00005;5;;Rue de l'Etang;52000;52251;Jonchery;Jonchery;;5.078242;48.138983
+52251_0032_00008;8;;Rue de l'Etang;52000;52251;Jonchery;Jonchery;;5.078858;48.138872
+52251_0080_00006_bis;6;bis;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.086667;48.13618
+52251_0080_00015_bis;15;bis;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.089086;48.136034
+52251_0080_00007_bis;7;bis;Rue des Tilleuls;52000;52251;Jonchery;Jonchery;;5.087095;48.136075
+52251_a031_00010;10;;Lotissement les Vallots;52000;52251;Jonchery;Laharmand;;5.092543;48.157325
+52251_0076_00006;6;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.080304;48.137991
+52251_0076_00008;8;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.080682;48.137863
+52251_0076_00010;10;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.081067;48.137561
+52251_0076_00013;13;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.080657;48.13732
+52251_0076_00033;33;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.079064;48.138204
+52251_0076_00014_bis;14;bis;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.080073;48.137521
+52251_0044_00001;1;;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.085176;48.135401
+52251_0044_00004;4;;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.085722;48.135292
+52251_0044_00005;5;;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.088734;48.134955
+52251_0044_00007;7;;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.089332;48.134576
+52251_0044_00013;13;;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.089343;48.135066
+52251_0044_00012_bis;12;bis;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.08813;48.134909
+52251_0050_00010;10;;Rue d'Hachet;52000;52251;Jonchery;Sarcicourt;;5.060097;48.160528
+52251_0050_00012;12;;Rue d'Hachet;52000;52251;Jonchery;Sarcicourt;;5.060952;48.160848
+52251_0050_00006_bis;6;bis;Rue d'Hachet;52000;52251;Jonchery;Sarcicourt;;5.060267;48.159257
+52251_0065_00003;3;;Rue du Moulin;52000;52251;Jonchery;Sarcicourt;;5.062425;48.159208
+52251_0065_00005;5;;Rue du Moulin;52000;52251;Jonchery;Sarcicourt;;5.062232;48.159285
+52251_0065_00019;19;;Rue du Moulin;52000;52251;Jonchery;Sarcicourt;;5.063686;48.159348
+52251_0065_00002_bis;2;bis;Rue du Moulin;52000;52251;Jonchery;Sarcicourt;;5.062735;48.159035
+52251_0073_00001;1;;Ruelle des Prelots;52000;52251;Jonchery;Jonchery;;5.08549;48.13815
+52251_0073_00002;2;;Ruelle des Prelots;52000;52251;Jonchery;Jonchery;;5.085109;48.137937
+52251_0073_00011;11;;Ruelle des Prelots;52000;52251;Jonchery;Jonchery;;5.081387;48.13763
+52251_0032_00002;2;;Rue de l'Etang;52000;52251;Jonchery;Jonchery;;5.080457;48.138243
+52251_0032_00003;3;;Rue de l'Etang;52000;52251;Jonchery;Jonchery;;5.078741;48.138812
+52251_0032_00010;10;;Rue de l'Etang;52000;52251;Jonchery;Jonchery;;5.079208;48.138758
+52251_0032_00016;16;;Rue de l'Etang;52000;52251;Jonchery;Jonchery;;5.080253;48.138402
+52251_0021_00001;1;;Rue de la Cote du Gue;52000;52251;Jonchery;Jonchery;;5.087347;48.138502
+52251_0021_00002;2;;Rue de la Cote du Gue;52000;52251;Jonchery;Jonchery;;5.088257;48.138732
+52251_a031_00001;1;;Lotissement les Vallots;52000;52251;Jonchery;Laharmand;;5.091717;48.157174
+52251_a031_00004;4;;Lotissement les Vallots;52000;52251;Jonchery;Laharmand;;5.092311;48.156918
+52251_0076_00003;3;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.081077;48.137799
+52251_0076_00004;4;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.080091;48.138093
+52251_0076_00007;7;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.081248;48.137646
+52251_0076_00012;12;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.080393;48.137454
+52251_0076_00018;18;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.079125;48.137872
+52251_0076_00022;22;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.079342;48.138453
+52251_0076_00025;25;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.07893;48.137813
+52251_0076_00027;27;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.078773;48.137883
+52251_0076_00029;29;;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.078939;48.138019
+52251_0076_00009_bis;9;bis;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.08133;48.137175
+52251_0076_00018_bis;18;bis;Rue des Roseaux;52000;52251;Jonchery;Jonchery;;5.079126;48.137873
+52251_0015_00002;2;;Rue des Chalets;52000;52251;Jonchery;Laharmand;;5.093411;48.162575
+52251_0044_00002;2;;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.084924;48.135632
+52251_0044_00006;6;;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.086241;48.135235
+52251_0044_00008;8;;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.086616;48.135197
+52251_0044_00010;10;;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.086982;48.13516
+52251_0044_00011;11;;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.089235;48.135071
+52251_0044_00012;12;;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.087626;48.135032
+52251_0044_00014;14;;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.088376;48.13489
+52251_0044_00001_t;1;t;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.085176;48.135401
+52251_0044_00001_b;1;b;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.085176;48.135401
+52251_0044_00001_c;1;c;Rue du Gué Bréguin;52000;52251;Jonchery;Jonchery;;5.086189;48.135159
+52251_0050_00001;1;;Rue d'Hachet;52000;52251;Jonchery;Sarcicourt;;5.061469;48.158271
+52251_0050_00006;6;;Rue d'Hachet;52000;52251;Jonchery;Sarcicourt;;5.059885;48.15872
+52251_0065_00001;1;;Rue du Moulin;52000;52251;Jonchery;Sarcicourt;;5.062646;48.159141
+52251_0065_00009;9;;Rue du Moulin;52000;52251;Jonchery;Sarcicourt;;5.061965;48.159428
+52251_0065_00014;14;;Rue du Moulin;52000;52251;Jonchery;Sarcicourt;;5.065265;48.159533
+52251_0032_00001;1;;Rue de l'Etang;52000;52251;Jonchery;Jonchery;;5.079084;48.138702
+52251_0032_00004;4;;Rue de l'Etang;52000;52251;Jonchery;Jonchery;;5.078388;48.139025
+52251_0032_00007;7;;Rue de l'Etang;52000;52251;Jonchery;Jonchery;;5.077993;48.139064
+52251_0032_00009;9;;Rue de l'Etang;52000;52251;Jonchery;Jonchery;;5.080457;48.138243
+52251_0032_00012;12;;Rue de l'Etang;52000;52251;Jonchery;Jonchery;;5.079695;48.138592
+52251_0032_00014;14;;Rue de l'Etang;52000;52251;Jonchery;Jonchery;;5.079979;48.138495
+52251_0032_00022;22;;Rue de l'Etang;52000;52251;Jonchery;Jonchery;;5.080457;48.138243
+52251_0021_00008;8;;Rue de la Cote du Gue;52000;52251;Jonchery;Jonchery;;5.089115;48.138301
+52251_0064_00002;2;;Place du Moulin a Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.062352;48.159041
+52251_0069_00003;3;;Rue de la Pairière;52000;52251;Jonchery;Jonchery;;5.088738;48.13468
+52251_0083_00003;3;;Rue des Vallots;52000;52251;Jonchery;Laharmand;;5.091975;48.156971
+52251_0083_00005;5;;Rue des Vallots;52000;52251;Jonchery;Laharmand;;5.092551;48.156452
+52251_0083_00007;7;;Rue des Vallots;52000;52251;Jonchery;Laharmand;;5.092691;48.156819
+52251_0026_00001;1;;Rue de l'Eglise;52000;52251;Jonchery;Sarcicourt;;5.06124;48.158097
+52251_0010_00001;1;;Rue Lot Bellevue;52000;52251;Jonchery;Sarcicourt;;5.0612;48.155834
+52251_0010_00003;3;;Rue Lot Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061462;48.155485
+52251_0010_00011;11;;Rue Lot Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061219;48.155572
+52251_0020_00006;6;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.08764;48.137536
+52251_0020_00009;9;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.087923;48.137015
+52251_0021_00006;6;;Rue de la Cote du Gue;52000;52251;Jonchery;Jonchery;;5.089135;48.138541
+52251_0021_00010;10;;Rue de la Cote du Gue;52000;52251;Jonchery;Jonchery;;5.088283;48.138317
+52251_0021_00012;12;;Rue de la Cote du Gue;52000;52251;Jonchery;Jonchery;;5.088283;48.138317
+52251_0019_00005;5;;Rue de la Coterelle;52000;52251;Jonchery;Sarcicourt;;5.063304;48.156595
+52251_0069_00001;1;;Rue de la Pairière;52000;52251;Jonchery;Jonchery;;5.088791;48.134385
+52251_0069_00005;5;;Rue de la Pairière;52000;52251;Jonchery;Jonchery;;5.088786;48.135018
+52251_0069_00009;9;;Rue de la Pairière;52000;52251;Jonchery;Jonchery;;5.089007;48.135012
+52251_0069_00019;19;;Rue de la Pairière;52000;52251;Jonchery;Jonchery;;5.088786;48.135018
+52251_0083_00004;4;;Rue des Vallots;52000;52251;Jonchery;Laharmand;;5.092182;48.15681
+52251_0026_00003;3;;Rue de l'Eglise;52000;52251;Jonchery;Sarcicourt;;5.061645;48.157734
+52251_0010_00002;2;;Rue Lot Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061338;48.155678
+52251_0010_00005;5;;Rue Lot Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061783;48.155207
+52251_0010_00009;9;;Rue Lot Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061576;48.155306
+52251_0020_00005;5;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.087728;48.137262
+52251_0020_00021;21;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.087561;48.136589
+52251_0040_00005;5;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.061873;48.158911
+52251_0020_00014;14;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.08838;48.137096
+52251_0020_00018;18;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.088338;48.136604
+52251_0040_00002;2;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.061905;48.158711
+52251_0040_00006;6;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.061866;48.158393
+52251_0040_00010;10;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.06184;48.158092
+52251_0040_00023;23;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.062188;48.156498
+52251_0072_00001;1;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.084793;48.137331
+52251_0072_00012;12;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.084546;48.13809
+52251_0072_00016;16;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.083789;48.137709
+52251_0072_00017;17;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.08371;48.137588
+52251_0072_00032;32;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.082673;48.137448
+52251_0072_00035;35;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.08345;48.137517
+52251_0072_00040;40;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.084876;48.136795
+52251_0040_00008;8;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.061856;48.158274
+52251_0040_00012;12;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.061958;48.157864
+52251_0040_00016;16;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.061779;48.157176
+52251_0040_00020;20;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.062336;48.156661
+52251_0040_00022;22;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.062099;48.156651
+52251_0072_00009;9;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.084232;48.137723
+52251_0072_00010;10;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.084342;48.137923
+52251_0072_00011;11;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.084845;48.138013
+52251_0072_00013;13;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.084375;48.138126
+52251_0072_00018;18;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.083253;48.137608
+52251_0072_00021;21;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.082525;48.137913
+52251_0072_00022;22;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.082262;48.138061
+52251_0072_00025;25;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.081821;48.138029
+52251_0072_00026;26;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.082047;48.137951
+52251_0072_00028;28;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.082717;48.13777
+52251_0072_00029;29;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.082056;48.137635
+52251_0072_00031;31;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.082238;48.137506
+52251_0072_00033;33;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.082904;48.137386
+52251_0072_00038;38;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.084358;48.137217
+52251_0072_00039;39;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.084586;48.136868
+52251_0072_00042;42;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.085091;48.136857
+52251_0019_00001;1;;Rue de la Coterelle;52000;52251;Jonchery;Sarcicourt;;5.063107;48.155705
+52251_0069_00021;21;;Rue de la Pairière;52000;52251;Jonchery;Jonchery;;5.088786;48.135018
+52251_0083_00006;6;;Rue des Vallots;52000;52251;Jonchery;Laharmand;;5.092611;48.156658
+52251_0083_00012;12;;Rue des Vallots;52000;52251;Jonchery;Laharmand;;5.092953;48.157557
+52251_0083_00013;13;;Rue des Vallots;52000;52251;Jonchery;Laharmand;;5.092528;48.157506
+52251_0083_00017;17;;Rue des Vallots;52000;52251;Jonchery;Laharmand;;5.092727;48.160637
+52251_0083_00022;22;;Rue des Vallots;52000;52251;Jonchery;Laharmand;;5.092727;48.160637
+52251_0026_00008;8;;Rue de l'Eglise;52000;52251;Jonchery;Sarcicourt;;5.061978;48.158003
+52251_0010_00004;4;;Rue Lot Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061617;48.155351
+52251_0010_00006;6;;Rue Lot Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061939;48.155073
+52251_0019_00002;2;;Rue de la Coterelle;52000;52251;Jonchery;Sarcicourt;;5.063163;48.156772
+52251_0019_00003;3;;Rue de la Coterelle;52000;52251;Jonchery;Sarcicourt;;5.063384;48.156318
+52251_0019_00004;4;;Rue de la Coterelle;52000;52251;Jonchery;Sarcicourt;;5.063384;48.156318
+52251_0064_00004;4;;Place du Moulin a Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.062;48.158995
+52251_0037_00001;1;;Impasse de la Gare;52000;52251;Jonchery;Jonchery;;5.089836;48.133783
+52251_0037_00002;2;;Impasse de la Gare;52000;52251;Jonchery;Jonchery;;5.08784;48.134359
+52251_0037_00004;4;;Impasse de la Gare;52000;52251;Jonchery;Jonchery;;5.089082;48.134061
+52251_0069_00007;7;;Rue de la Pairière;52000;52251;Jonchery;Jonchery;;5.088807;48.135532
+52251_0069_00011;11;;Rue de la Pairière;52000;52251;Jonchery;Jonchery;;5.0887;48.135175
+52251_0083_00001;1;;Rue des Vallots;52000;52251;Jonchery;Laharmand;;5.093287;48.160229
+52251_0083_00010;10;;Rue des Vallots;52000;52251;Jonchery;Laharmand;;5.09259;48.157293
+52251_0010_00008;8;;Rue Lot Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061732;48.15517
+52251_0010_00012;12;;Rue Lot Bellevue;52000;52251;Jonchery;Sarcicourt;;5.06101;48.155699
+52251_0020_00002;2;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.0875;48.136766
+52251_0020_00004;4;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.087723;48.137096
+52251_0020_00007;7;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.087892;48.137354
+52251_0020_00008;8;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.088057;48.137327
+52251_0020_00010;10;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.088282;48.137098
+52251_0020_00017;17;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.08848;48.136601
+52251_0020_00019;19;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.088048;48.136846
+52251_0020_00020;20;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.087748;48.136845
+52251_0040_00003;3;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.061887;48.158992
+52251_0040_00009;9;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.061823;48.1586
+52251_0040_00011;11;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.061527;48.157774
+52251_0040_00017;17;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.061699;48.157201
+52251_0040_00018;18;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.061819;48.157054
+52251_0041_00004;4;;Côte du Gué;52000;52251;Jonchery;Jonchery;;5.088385;48.138855
+52251_0072_00004;4;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.085148;48.137833
+52251_0072_00006;6;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.0848;48.137562
+52251_0072_00008;8;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.08411;48.137501
+52251_0010_00007;7;;Rue Lot Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061899;48.155025
+52251_0010_00010;10;;Rue Lot Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061413;48.155449
+52251_0010_00013;13;;Rue Lot Bellevue;52000;52251;Jonchery;Sarcicourt;;5.061046;48.15582
+52251_0020_00001;1;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.087505;48.136576
+52251_0020_00003;3;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.087498;48.136928
+52251_0020_00011;11;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.088497;48.137252
+52251_0020_00012;12;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.088762;48.137269
+52251_0020_00013;13;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.088761;48.137136
+52251_0020_00015;15;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.088337;48.136824
+52251_0020_00016;16;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.088518;48.13673
+52251_0020_00022;22;;Rue Lot le Cottage;52000;52251;Jonchery;Jonchery;;5.088755;48.137391
+52251_0040_00001;1;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.06191;48.15911
+52251_0040_00004;4;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.061878;48.158532
+52251_0040_00007;7;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.061859;48.158825
+52251_0040_00013;13;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.061642;48.157466
+52251_0040_00014;14;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.061714;48.157562
+52251_0040_00015;15;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.06167;48.157284
+52251_0040_00019;19;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.061686;48.157127
+52251_0040_00021;21;;Grande Rue Sarcicourt;52000;52251;Jonchery;Sarcicourt;;5.06184;48.156872
+52251_0041_00002;2;;Côte du Gué;52000;52251;Jonchery;Jonchery;;5.088259;48.138732
+52251_0042_00001;1;;Rue du Gué;52000;52251;Jonchery;Jonchery;;5.085082;48.135454
+52251_0072_00002;2;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.084892;48.137506
+52251_0072_00003;3;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.085057;48.137667
+52251_0072_00005;5;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.084922;48.137785
+52251_0072_00007;7;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.084671;48.137331
+52251_0072_00015;15;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.083969;48.137676
+52251_0072_00020;20;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.082796;48.137841
+52251_0072_00024;24;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.081867;48.138101
+52251_0072_00027;27;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.082326;48.137875
+52251_0072_00030;30;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.082022;48.137562
+52251_0072_00036;36;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.083711;48.137319
+52251_0072_00041;41;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.085126;48.136733
+52251_0072_00014;14;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.084309;48.138005
+52251_0072_00019;19;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.083042;48.137775
+52251_0072_00023;23;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.082019;48.13812
+52251_0072_00034;34;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.083017;48.137463
+52251_0072_00037;37;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.08401;48.137247
+52251_0072_00043;43;;Rue Lot les Prélots;52000;52251;Jonchery;Jonchery;;5.085371;48.136785

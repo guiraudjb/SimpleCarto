@@ -1,0 +1,641 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+87051_a001_00003;3;;Lotissement les Vergnes;87130;87051;La Croisille-sur-Briance;;;1.577223;45.633762
+87051_0145_00002;2;;Impasse du Rio Poulard;87130;87051;La Croisille-sur-Briance;;;1.58339;45.629998
+87051_0026_00124;124;;Route des Charrauds;87130;87051;La Croisille-sur-Briance;;;1.582151;45.648312
+87051_0135_00023;23;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.580798;45.629061
+87051_0198_01001;1001;;Route de Puy Guillaume;87130;87051;La Croisille-sur-Briance;;;1.564178;45.648205
+87051_0147_00052;52;;Allee de Las Rochas;87130;87051;La Croisille-sur-Briance;;;1.603579;45.586107
+87051_0135_00007;7;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.5817;45.62896
+87051_0203_00938;938;;Route des Tranchees;87130;87051;La Croisille-sur-Briance;;;1.588311;45.596377
+87051_0200_00717;717;;Route du REINEIX;87130;87051;La Croisille-sur-Briance;;;1.595856;45.596274
+87051_0155_00004;4;;Allée des Sorbiers;87130;87051;La Croisille-sur-Briance;;;1.584485;45.63341
+87051_0010_00007;7;;Place du Docteur Alfred Blanc;87130;87051;La Croisille-sur-Briance;;;1.582268;45.629253
+87051_0135_00008;8;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.581402;45.629208
+87051_0025_00007;7;;Rue du Champ de Foire;87130;87051;La Croisille-sur-Briance;;;1.582542;45.630248
+87051_0120_00971;971;;Route des Moulins;87130;87051;La Croisille-sur-Briance;;;1.587555;45.61943
+87051_0075_00017;17;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.581167;45.630719
+87051_0109_00581;581;;Route du Mas d’Hubert;87130;87051;La Croisille-sur-Briance;;;1.628997;45.601394
+87051_0075_00022;22;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.580463;45.631765
+87051_0108_00219;219;;Route des Martyrs;87130;87051;La Croisille-sur-Briance;;;1.607507;45.605675
+87051_a001_00011;11;;Lotissement les Vergnes;87130;87051;La Croisille-sur-Briance;;;1.577083;45.634543
+87051_0082_00339;339;;Route du Grand Bois;87130;87051;La Croisille-sur-Briance;;;1.593753;45.603031
+87051_0092_01328;1328;;Route de Larcy;87130;87051;La Croisille-sur-Briance;;;1.627504;45.585929
+87051_0200_00909;909;;Route du REINEIX;87130;87051;La Croisille-sur-Briance;;;1.595034;45.594933
+87051_0101_00362;362;;Route de Linards;87130;87051;La Croisille-sur-Briance;;;1.57686;45.635854
+87051_0175_00978;978;;Route du Crauloup;87130;87051;La Croisille-sur-Briance;;;1.610385;45.627829
+87051_0135_00031;31;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.579968;45.62904
+87051_0160_00007;7;;Rue de la Valade;87130;87051;La Croisille-sur-Briance;;;1.580095;45.629416
+87051_0100_01176;1176;;Route du Liegeaud;87130;87051;La Croisille-sur-Briance;;;1.572722;45.618232
+87051_0211_00141;141;;Impasse du Liegeaud;87130;87051;La Croisille-sur-Briance;;;1.574334;45.618007
+87051_0203_00999;999;;Route des Tranchees;87130;87051;La Croisille-sur-Briance;;;1.589071;45.596164
+87051_0188_01032;1032;;Route du Pont;87130;87051;La Croisille-sur-Briance;;;1.60398;45.611837
+87051_0185_00428;428;;Route de Peyroux;87130;87051;La Croisille-sur-Briance;;;1.599499;45.627665
+87051_0139_00253;253;;Allée de Peyroux;87130;87051;La Croisille-sur-Briance;;;1.59622;45.627101
+87051_i5ozkm_00009;9;;Rue Jean CHASSAGNE;87130;87051;La Croisille-sur-Briance;;;1.585022;45.627867
+87051_0080_00009;9;;Allée de Las Gersas;87130;87051;La Croisille-sur-Briance;;;1.581625;45.628432
+87051_0135_00025;25;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.580514;45.628999
+87051_0030_00032;32;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.572449;45.628939
+87051_0115_04981;4981;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.633665;45.615466
+87051_0011_01869;1869;;Route D Amboiras;87130;87051;La Croisille-sur-Briance;;;1.575967;45.653603
+87051_0165_00002;2;;Allee des Vinaigriers;87130;87051;La Croisille-sur-Briance;;;1.58368;45.632643
+87051_0165_00004;4;;Allee des Vinaigriers;87130;87051;La Croisille-sur-Briance;;;1.583842;45.633035
+87051_0115_00016_bis;16;bis;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.585067;45.628839
+87051_0201_00047;47;;Impasse de la Resistance;87130;87051;La Croisille-sur-Briance;;;1.617401;45.636548
+87051_0145_00003;3;;Impasse du Rio Poulard;87130;87051;La Croisille-sur-Briance;;;1.583375;45.630124
+87051_0204_00062;62;;Impasse de la Tuilliere;87130;87051;La Croisille-sur-Briance;;;1.594955;45.584252
+87051_0028_00130;130;;Sente de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.60681;45.598085
+87051_0158_00002;2;;Rue Traversière;87130;87051;La Croisille-sur-Briance;;;1.579868;45.629403
+87051_0115_00001;1;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.583503;45.629381
+87051_0032_00094;94;;Route du Cheyroux;87130;87051;La Croisille-sur-Briance;;;1.631789;45.614152
+87051_0027_00605;605;;Route de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.605346;45.600289
+87051_0080_00014;14;;Allée de Las Gersas;87130;87051;La Croisille-sur-Briance;;;1.581237;45.628139
+87051_0157_00537;537;;Route de Theneze Haut;87130;87051;La Croisille-sur-Briance;;;1.566722;45.639684
+87051_0033_00133;133;;Route de la Cime des Champs;87130;87051;La Croisille-sur-Briance;;;1.582853;45.648241
+87051_0199_00206;206;;Impasse du Raineix;87130;87051;La Croisille-sur-Briance;;;1.595231;45.588087
+87051_0010_00002;2;;Place du Docteur Alfred Blanc;87130;87051;La Croisille-sur-Briance;;;1.582684;45.629612
+87051_0115_00027;27;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.587004;45.628479
+87051_0117_00261;261;;Chemin Moulin Brule;87130;87051;La Croisille-sur-Briance;;;1.571005;45.615497
+87051_0163_00138;138;;Route de Verdeyme;87130;87051;La Croisille-sur-Briance;;;1.617275;45.597484
+87051_0161_00059;59;;Chemin de Verdeyme;87130;87051;La Croisille-sur-Briance;;;1.639002;45.592737
+87051_0015_00010;10;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.5825;45.628644
+87051_0017_00033;33;;Impasse de Bagengette;87130;87051;La Croisille-sur-Briance;;;1.582097;45.613552
+87051_0010_00005;5;;Place du Docteur Alfred Blanc;87130;87051;La Croisille-sur-Briance;;;1.582276;45.62958
+87051_0084_00073;73;;Route des Ifs;87130;87051;La Croisille-sur-Briance;;;1.622598;45.623688
+87051_0030_00006;6;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.578176;45.629124
+87051_0030_00029;29;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.573599;45.628812
+87051_0135_00001;1;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.582186;45.62908
+87051_0184_01321;1321;;Route de Meilhards;87130;87051;La Croisille-sur-Briance;;;1.607768;45.580221
+87051_0020_00009;9;;Rue du Chabretaire;87130;87051;La Croisille-sur-Briance;;;1.586368;45.629513
+87051_0103_00426;426;;Route Louis Jarraud;87130;87051;La Croisille-sur-Briance;;;1.621236;45.621797
+87051_0200_01459;1459;;Route du REINEIX;87130;87051;La Croisille-sur-Briance;;;1.596924;45.590816
+87051_0101_02872;2872;;Route de Linards;87130;87051;La Croisille-sur-Briance;;;1.574254;45.655379
+87051_0027_00747;747;;Route de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.606906;45.599721
+87051_0139_00429;429;;Allée de Peyroux;87130;87051;La Croisille-sur-Briance;;;1.598029;45.628043
+87051_0206_00053;53;;Impasse de la Vialle;87130;87051;La Croisille-sur-Briance;;;1.596122;45.635597
+87051_0103_00555;555;;Route Louis Jarraud;87130;87051;La Croisille-sur-Briance;;;1.622439;45.622375
+87051_0035_00014;14;;Rue des Conserveries;87130;87051;La Croisille-sur-Briance;;;1.582686;45.63208
+87051_0030_00009;9;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.576663;45.628937
+87051_0115_00005;5;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.584026;45.629265
+87051_0115_00021;21;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.586152;45.628713
+87051_0084_00102;102;;Route des Ifs;87130;87051;La Croisille-sur-Briance;;;1.622746;45.623457
+87051_0157_00954;954;;Route de Theneze Haut;87130;87051;La Croisille-sur-Briance;;;1.564666;45.642064
+87051_a001_00006;6;;Lotissement les Vergnes;87130;87051;La Croisille-sur-Briance;;;1.577818;45.634009
+87051_0043_00132;132;;chemin du Crauloup;87130;87051;La Croisille-sur-Briance;;;1.611581;45.630018
+87051_0015_00014;14;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582612;45.628486
+87051_0176_00208;208;;Route de la Croix de Borde;87130;87051;La Croisille-sur-Briance;;;1.629521;45.593638
+87051_0172_01244;1244;;Route du Barnagaud;87130;87051;La Croisille-sur-Briance;;;1.622567;45.62407
+87051_0080_00011;11;;Allée de Las Gersas;87130;87051;La Croisille-sur-Briance;;;1.581541;45.628355
+87051_0115_06112;6112;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.645202;45.610423
+87051_0072_00371;371;;Allée de Gardenet;87130;87051;La Croisille-sur-Briance;;;1.582053;45.620941
+87051_0172_01633;1633;;Route du Barnagaud;87130;87051;La Croisille-sur-Briance;;;1.620803;45.627139
+87051_0157_00070;70;;Route de Theneze Haut;87130;87051;La Croisille-sur-Briance;;;1.572584;45.639557
+87051_0080_00007;7;;Allée de Las Gersas;87130;87051;La Croisille-sur-Briance;;;1.581737;45.628507
+87051_0065_00002;2;;Route de la Foret;87130;87051;La Croisille-sur-Briance;;;1.583181;45.633072
+87051_0025_00018;18;;Rue du Champ de Foire;87130;87051;La Croisille-sur-Briance;;;1.583505;45.631951
+87051_0115_03390;3390;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.620795;45.615322
+87051_0009_00154;154;;Route de l’Âge;87130;87051;La Croisille-sur-Briance;;;1.62152;45.614039
+87051_0172_01578;1578;;Route du Barnagaud;87130;87051;La Croisille-sur-Briance;;;1.621573;45.626777
+87051_0135_00019;19;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.581042;45.629066
+87051_0042_00011;11;;Promenade de la Cote;87130;87051;La Croisille-sur-Briance;;;1.586259;45.631534
+87051_0212_00440;440;;Chemin du moulin du pont;87130;87051;La Croisille-sur-Briance;;;1.611546;45.609498
+87051_0172_01727;1727;;Route du Barnagaud;87130;87051;La Croisille-sur-Briance;;;1.620162;45.627874
+87051_0207_00207;207;;Route de la Vialle;87130;87051;La Croisille-sur-Briance;;;1.592667;45.629106
+87051_pugr9u_00169;169;;Impasse de Planier;87130;87051;La Croisille-sur-Briance;;;1.598594;45.620736
+87051_0027_00713;713;;Route de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.606372;45.599741
+87051_0115_00023;23;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.586409;45.628646
+87051_0018_00698;698;;Route de Bagengette;87130;87051;La Croisille-sur-Briance;;;1.581417;45.611157
+87051_0182_00120;120;;Sent de Mauloup;87130;87051;La Croisille-sur-Briance;;;1.589524;45.594972
+87051_0192_00449;449;;Route du Pouyol;87130;87051;La Croisille-sur-Briance;;;1.619868;45.577875
+87051_0015_00034;34;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582638;45.625909
+87051_0115_03350;3350;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.620301;45.615526
+87051_0031_00166;166;;Impasse du Cheyroux;87130;87051;La Croisille-sur-Briance;;;1.629508;45.612246
+87051_0115_00007;7;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.584322;45.629198
+87051_s5j9z9_00143;143;;Chemin de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.619474;45.595929
+87051_0059_00235;235;;Impasse de la Feuillade;87130;87051;La Croisille-sur-Briance;;;1.611638;45.600743
+87051_0027_00393;393;;Route de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.602877;45.601311
+87051_a001_00008;8;;Lotissement les Vergnes;87130;87051;La Croisille-sur-Briance;;;1.57767;45.634166
+87051_0030_00028;28;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.57344;45.628972
+87051_0185_00514;514;;Route de Peyroux;87130;87051;La Croisille-sur-Briance;;;1.600672;45.627898
+87051_0183_00085;85;;Allee du Mazaudois;87130;87051;La Croisille-sur-Briance;;;1.633691;45.614189
+87051_0030_00033;33;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.567668;45.630139
+87051_0160_00004;4;;Rue de la Valade;87130;87051;La Croisille-sur-Briance;;;1.580222;45.629534
+87051_0188_01191;1191;;Route du Pont;87130;87051;La Croisille-sur-Briance;;;1.602668;45.610764
+87051_0101_01134;1134;;Route de Linards;87130;87051;La Croisille-sur-Briance;;;1.57498;45.641784
+87051_0030_00002;2;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.578968;45.629135
+87051_0115_02590;2590;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.61186;45.618684
+87051_0093_00912;912;;Chemin de Larfouillere;87130;87051;La Croisille-sur-Briance;;;1.604669;45.58031
+87051_0073_00749;749;;Route de Gardenet;87130;87051;La Croisille-sur-Briance;;;1.580546;45.616296
+87051_0182_00156;156;;Sent de Mauloup;87130;87051;La Croisille-sur-Briance;;;1.588941;45.595048
+87051_0115_00020;20;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.585379;45.628773
+87051_0030_00017;17;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.575689;45.628897
+87051_0035_00009;9;;Rue des Conserveries;87130;87051;La Croisille-sur-Briance;;;1.582021;45.631913
+87051_0198_00967;967;;Route de Puy Guillaume;87130;87051;La Croisille-sur-Briance;;;1.564381;45.647937
+87051_0172_01567;1567;;Route du Barnagaud;87130;87051;La Croisille-sur-Briance;;;1.621606;45.626547
+87051_0137_00111;111;;Route de Pailleras;87130;87051;La Croisille-sur-Briance;;;1.58937;45.618269
+87051_0115_03641;3641;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.6243;45.615153
+87051_0094_00135;135;;Impasse de Larfouillere;87130;87051;La Croisille-sur-Briance;;;1.604793;45.580998
+87051_s7flyr_05000;5000;;Les Rouchoux;87130;87051;La Croisille-sur-Briance;;;1.624306;45.615073
+87051_0125_00004;4;;Chemin du Mouraud;87130;87051;La Croisille-sur-Briance;;;1.583935;45.628431
+87051_0157_00616;616;;Route de Theneze Haut;87130;87051;La Croisille-sur-Briance;;;1.566509;45.640048
+87051_0027_00629;629;;Route de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.605569;45.600158
+87051_0135_00033;33;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.579752;45.629028
+87051_0011_01083;1083;;Route D Amboiras;87130;87051;La Croisille-sur-Briance;;;1.580347;45.647674
+87051_0027_00646;646;;Route de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.605564;45.599927
+87051_0073_00049;49;;Route de Gardenet;87130;87051;La Croisille-sur-Briance;;;1.585871;45.62117
+87051_0025_00008;8;;Rue du Champ de Foire;87130;87051;La Croisille-sur-Briance;;;1.583047;45.630585
+87051_0115_03452;3452;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.62159;45.615077
+87051_a001_00005;5;;Lotissement les Vergnes;87130;87051;La Croisille-sur-Briance;;;1.577223;45.633957
+87051_0170_00008;8;;Ruelle de la Viota;87130;87051;La Croisille-sur-Briance;;;1.581244;45.629829
+87051_0163_02270;2270;;Route de Verdeyme;87130;87051;La Croisille-sur-Briance;;;1.640681;45.591952
+87051_0026_00075;75;;Route des Charrauds;87130;87051;La Croisille-sur-Briance;;;1.581557;45.648434
+87051_0115_03467;3467;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.622046;45.615203
+87051_0075_00020;20;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.580553;45.631671
+87051_0130_00004;4;;Chemin de Nouailhas;87130;87051;La Croisille-sur-Briance;;;1.586349;45.626675
+87051_0208_00260;260;;Allée du Vieux Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.612499;45.596809
+87051_0139_00460;460;;Allée de Peyroux;87130;87051;La Croisille-sur-Briance;;;1.598093;45.627581
+87051_0115_02538;2538;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.611342;45.6189
+87051_0205_00285;285;;Impasse Las Vergnas;87130;87051;La Croisille-sur-Briance;;;1.586614;45.639254
+87051_0027_00971;971;;Route de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.609445;45.598973
+87051_0075_00008;8;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.58165;45.630436
+87051_0026_00108;108;;Route des Charrauds;87130;87051;La Croisille-sur-Briance;;;1.581921;45.648282
+87051_0125_00002;2;;Chemin du Mouraud;87130;87051;La Croisille-sur-Briance;;;1.584026;45.628843
+87051_0030_00027;27;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.574069;45.628837
+87051_0160_00023;23;;Rue de la Valade;87130;87051;La Croisille-sur-Briance;;;1.579676;45.631682
+87051_0199_00220;220;;Impasse du Raineix;87130;87051;La Croisille-sur-Briance;;;1.595107;45.588127
+87051_0130_00649;649;;Chemin de Nouailhas;87130;87051;La Croisille-sur-Briance;;;1.591234;45.624236
+87051_0199_00245;245;;Impasse du Raineix;87130;87051;La Croisille-sur-Briance;;;1.594773;45.588012
+87051_0031_00090;90;;Impasse du Cheyroux;87130;87051;La Croisille-sur-Briance;;;1.629971;45.612064
+87051_0185_00523;523;;Route de Peyroux;87130;87051;La Croisille-sur-Briance;;;1.600415;45.628309
+87051_0194_00470;470;;Impasse des Prunelles;87130;87051;La Croisille-sur-Briance;;;1.615982;45.629004
+87051_0075_00021;21;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.580663;45.631288
+87051_0035_00008;8;;Rue des Conserveries;87130;87051;La Croisille-sur-Briance;;;1.581911;45.63164
+87051_0135_00026;26;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.579689;45.629155
+87051_0190_00138;138;;Route du Poumeau;87130;87051;La Croisille-sur-Briance;;;1.624835;45.637343
+87051_0027_01761;1761;;Route de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.617582;45.595989
+87051_0025_00013;13;;Rue du Champ de Foire;87130;87051;La Croisille-sur-Briance;;;1.582681;45.630475
+87051_0115_01391;1391;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.599071;45.624838
+87051_0195_00251;251;;Route de Puyfaux;87130;87051;La Croisille-sur-Briance;;;1.58831;45.602112
+87051_0148_00084;84;;Impasse des Rouchoux;87130;87051;La Croisille-sur-Briance;;;1.624433;45.614377
+87051_0030_00005;5;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.57831;45.628964
+87051_0115_01988;1988;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.605333;45.621537
+87051_0030_00015;15;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.57586;45.628909
+87051_0095_00005;5;;Rue des Lavandiéres;87130;87051;La Croisille-sur-Briance;;;1.579664;45.629711
+87051_0139_00235;235;;Allée de Peyroux;87130;87051;La Croisille-sur-Briance;;;1.596231;45.62692
+87051_0207_01270;1270;;Route de la Vialle;87130;87051;La Croisille-sur-Briance;;;1.597755;45.634679
+87051_0100_00014;14;;Route du Liegeaud;87130;87051;La Croisille-sur-Briance;;;1.580093;45.623541
+87051_0009_00643;643;;Route de l’Âge;87130;87051;La Croisille-sur-Briance;;;1.624364;45.610908
+87051_0135_00028;28;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.579513;45.629168
+87051_0073_00422;422;;Route de Gardenet;87130;87051;La Croisille-sur-Briance;;;1.582752;45.618712
+87051_0158_00003;3;;Rue Traversière;87130;87051;La Croisille-sur-Briance;;;1.579995;45.629377
+87051_0185_00299;299;;Route de Peyroux;87130;87051;La Croisille-sur-Briance;;;1.598396;45.626974
+87051_0115_00039;39;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.589797;45.628221
+87051_0028_00044;44;;Sente de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.607103;45.599189
+87051_0135_00014;14;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.580809;45.629189
+87051_0080_00008;8;;Allée de Las Gersas;87130;87051;La Croisille-sur-Briance;;;1.581918;45.628699
+87051_0010_00006_bis;6;bis;Place du Docteur Alfred Blanc;87130;87051;La Croisille-sur-Briance;;;1.582281;45.629358
+87051_0032_00532;532;;Route du Cheyroux;87130;87051;La Croisille-sur-Briance;;;1.63213;45.611735
+87051_0020_00004;4;;Rue du Chabretaire;87130;87051;La Croisille-sur-Briance;;;1.586335;45.628994
+87051_0100_00001;1;;Route du Liegeaud;87130;87051;La Croisille-sur-Briance;;;1.582654;45.625477
+87051_0010_00008;8;;Place du Docteur Alfred Blanc;87130;87051;La Croisille-sur-Briance;;;1.582523;45.629133
+87051_0135_00012;12;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.58097;45.629198
+87051_0020_00003;3;;Rue du Chabretaire;87130;87051;La Croisille-sur-Briance;;;1.586012;45.628919
+87051_0135_00027;27;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.580205;45.629018
+87051_0135_00037;37;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.579363;45.629016
+87051_0010_00006;6;;Place du Docteur Alfred Blanc;87130;87051;La Croisille-sur-Briance;;;1.582298;45.62944
+87051_0075_00019;19;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.580918;45.630997
+87051_0011_02014;2014;;Route D Amboiras;87130;87051;La Croisille-sur-Briance;;;1.575415;45.654939
+87051_0208_00249;249;;Allée du Vieux Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.612504;45.596994
+87051_0044_00381;381;;IMPASSE du Crauloup;87130;87051;La Croisille-sur-Briance;;;1.61141;45.631498
+87051_0081_00226;226;;Impasse Las Gouttas;87130;87051;La Croisille-sur-Briance;;;1.577036;45.638304
+87051_0010_00001;1;;Place du Docteur Alfred Blanc;87130;87051;La Croisille-sur-Briance;;;1.583076;45.629516
+87051_0115_03502;3502;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.622198;45.615025
+87051_0130_00013;13;;Chemin de Nouailhas;87130;87051;La Croisille-sur-Briance;;;1.5874;45.625982
+87051_4723wd_00083;83;;Impasse de Veyrdeme;87130;87051;La Croisille-sur-Briance;;;1.638241;45.592347
+87051_0156_00085;85;;Route de Theneze Bas;87130;87051;La Croisille-sur-Briance;;;1.573441;45.629535
+87051_0015_00017;17;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582771;45.628373
+87051_0185_00111;111;;Route de Peyroux;87130;87051;La Croisille-sur-Briance;;;1.598633;45.625602
+87051_0042_00019;19;;Promenade de la Cote;87130;87051;La Croisille-sur-Briance;;;1.587338;45.630341
+87051_0173_00393;393;;Impasse des Barres d’Amboiras;87130;87051;La Croisille-sur-Briance;;;1.578686;45.657457
+87051_0175_00677;677;;Route du Crauloup;87130;87051;La Croisille-sur-Briance;;;1.609996;45.625037
+87051_0198_00155;155;;Route de Puy Guillaume;87130;87051;La Croisille-sur-Briance;;;1.572726;45.646377
+87051_0065_00006;6;;Route de la Foret;87130;87051;La Croisille-sur-Briance;;;1.583743;45.633901
+87051_0010_00003;3;;Place du Docteur Alfred Blanc;87130;87051;La Croisille-sur-Briance;;;1.582637;45.629723
+87051_0135_00029;29;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.580095;45.629034
+87051_0100_00016;16;;Route du Liegeaud;87130;87051;La Croisille-sur-Briance;;;1.57802;45.622469
+87051_0100_01011;1011;;Route du Liegeaud;87130;87051;La Croisille-sur-Briance;;;1.574713;45.61889
+87051_0139_00137;137;;Allée de Peyroux;87130;87051;La Croisille-sur-Briance;;;1.596165;45.626064
+87051_0101_01160;1160;;Route de Linards;87130;87051;La Croisille-sur-Briance;;;1.575133;45.641999
+87051_0172_01682;1682;;Route du Barnagaud;87130;87051;La Croisille-sur-Briance;;;1.620596;45.627588
+87051_0172_01483;1483;;Route du Barnagaud;87130;87051;La Croisille-sur-Briance;;;1.62211;45.626071
+87051_0032_00077;77;;Route du Cheyroux;87130;87051;La Croisille-sur-Briance;;;1.63225;45.614719
+87051_0188_01243;1243;;Route du Pont;87130;87051;La Croisille-sur-Briance;;;1.602079;45.61058
+87051_0075_00003;3;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.58205;45.629754
+87051_0174_00081;81;;Impasse du Bois Barrat;87130;87051;La Croisille-sur-Briance;;;1.63051;45.618678
+87051_0042_00017;17;;Promenade de la Cote;87130;87051;La Croisille-sur-Briance;;;1.587102;45.630897
+87051_0100_00980;980;;Route du Liegeaud;87130;87051;La Croisille-sur-Briance;;;1.575027;45.619088
+87051_0115_03282;3282;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.619531;45.61597
+87051_0208_00151;151;;Allée du Vieux Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.611331;45.597245
+87051_0115_00018;18;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.58516;45.62882
+87051_0100_00631;631;;Route du Liegeaud;87130;87051;La Croisille-sur-Briance;;;1.577481;45.621616
+87051_0071_00427;427;;Route des Ganottes;87130;87051;La Croisille-sur-Briance;;;1.635161;45.586149
+87051_0120_02175;2175;;Route des Moulins;87130;87051;La Croisille-sur-Briance;;;1.594843;45.609603
+87051_0135_00016;16;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.58054;45.629225
+87051_0100_01138;1138;;Route du Liegeaud;87130;87051;La Croisille-sur-Briance;;;1.573286;45.618502
+87051_0100_01040;1040;;Route du Liegeaud;87130;87051;La Croisille-sur-Briance;;;1.574299;45.618947
+87051_0100_01283;1283;;Route du Liegeaud;87130;87051;La Croisille-sur-Briance;;;1.573242;45.617373
+87051_0135_00032;32;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.579226;45.629137
+87051_0172_01410;1410;;Route du Barnagaud;87130;87051;La Croisille-sur-Briance;;;1.62257;45.625664
+87051_0020_00012;12;;Rue du Chabretaire;87130;87051;La Croisille-sur-Briance;;;1.586849;45.62984
+87051_0125_00017;17;;Chemin du Mouraud;87130;87051;La Croisille-sur-Briance;;;1.584347;45.62764
+87051_0172_01303;1303;;Route du Barnagaud;87130;87051;La Croisille-sur-Briance;;;1.622538;45.624676
+87051_0108_00195;195;;Route des Martyrs;87130;87051;La Croisille-sur-Briance;;;1.607661;45.605585
+87051_0136_01158;1158;;Route des Ors;87130;87051;La Croisille-sur-Briance;;;1.60669;45.632836
+87051_0030_00018;18;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.575846;45.629056
+87051_0027_02903;2903;;Route de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.622341;45.588837
+87051_0027_00647;647;;Route de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.605677;45.600016
+87051_0015_00004;4;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582434;45.628803
+87051_0015_00004_bis;4;bis;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582409;45.628833
+87051_0115_00006;6;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.584433;45.629023
+87051_b042_05000;5000;;La Gane du Mas;87130;87051;La Croisille-sur-Briance;;;1.569198;45.629445
+87051_0171_00363;363;;Impasse du Barnagaud;87130;87051;La Croisille-sur-Briance;;;1.619311;45.625516
+87051_0020_00008;8;;Rue du Chabretaire;87130;87051;La Croisille-sur-Briance;;;1.586494;45.629436
+87051_0075_00014;14;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.581044;45.631112
+87051_0102_00028;28;;Impasse Louis Jarraud;87130;87051;La Croisille-sur-Briance;;;1.62251;45.621823
+87051_0027_01544;1544;;Route de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.615336;45.596966
+87051_0075_00001;1;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.582118;45.629685
+87051_0182_00131;131;;Sent de Mauloup;87130;87051;La Croisille-sur-Briance;;;1.589352;45.594795
+87051_0210_00670;670;;route de sussac;87130;87051;La Croisille-sur-Briance;;;1.623539;45.639524
+87051_0025_00025;25;;Rue du Champ de Foire;87130;87051;La Croisille-sur-Briance;;;1.583248;45.631773
+87051_0120_02695;2695;;Route des Moulins;87130;87051;La Croisille-sur-Briance;;;1.596263;45.605493
+87051_0020_00011;11;;Rue du Chabretaire;87130;87051;La Croisille-sur-Briance;;;1.586588;45.629767
+87051_0015_00006;6;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582454;45.628713
+87051_0108_00260;260;;Route des Martyrs;87130;87051;La Croisille-sur-Briance;;;1.607115;45.605981
+87051_0115_01281;1281;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.598027;45.625105
+87051_0204_00103;103;;Impasse de la Tuilliere;87130;87051;La Croisille-sur-Briance;;;1.595624;45.584401
+87051_0163_02150;2150;;Route de Verdeyme;87130;87051;La Croisille-sur-Briance;;;1.638844;45.591954
+87051_0015_00018;18;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582696;45.628332
+87051_0027_00459;459;;Route de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.603798;45.601135
+87051_0203_00024;24;;Route des Tranchees;87130;87051;La Croisille-sur-Briance;;;1.586521;45.604017
+87051_0015_00012;12;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582541;45.628553
+87051_0190_00139;139;;Route du Poumeau;87130;87051;La Croisille-sur-Briance;;;1.625192;45.637462
+87051_0015_00005;5;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.5826;45.628721
+87051_0198_00355;355;;Route de Puy Guillaume;87130;87051;La Croisille-sur-Briance;;;1.571158;45.647404
+87051_0015_00015;15;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582741;45.628442
+87051_0030_00011;11;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.57609;45.628918
+87051_0175_00698;698;;Route du Crauloup;87130;87051;La Croisille-sur-Briance;;;1.610418;45.62529
+87051_0198_01086;1086;;Route de Puy Guillaume;87130;87051;La Croisille-sur-Briance;;;1.564299;45.648933
+87051_shwvux_00500;500;;Le Chataignol;87130;87051;La Croisille-sur-Briance;;;1.575807;45.628075
+87051_0101_01380;1380;;Route de Linards;87130;87051;La Croisille-sur-Briance;;;1.574994;45.644214
+87051_0199_00146;146;;Impasse du Raineix;87130;87051;La Croisille-sur-Briance;;;1.595896;45.588027
+87051_0030_00020;20;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.575541;45.629047
+87051_0029_00033;33;;Route du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.567485;45.630126
+87051_0201_00064;64;;Impasse de la Resistance;87130;87051;La Croisille-sur-Briance;;;1.617801;45.636845
+87051_0163_00028;28;;Route de Verdeyme;87130;87051;La Croisille-sur-Briance;;;1.61586;45.597519
+87051_0015_00036;36;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582582;45.625729
+87051_0161_00071;71;;Chemin de Verdeyme;87130;87051;La Croisille-sur-Briance;;;1.639193;45.592737
+87051_0156_00147;147;;Route de Theneze Bas;87130;87051;La Croisille-sur-Briance;;;1.573101;45.629864
+87051_0101_00246;246;;Route de Linards;87130;87051;La Croisille-sur-Briance;;;1.577321;45.635268
+87051_0030_00014;14;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.576419;45.629081
+87051_0110_00003;3;;Chemin de la Messe;87130;87051;La Croisille-sur-Briance;;;1.588408;45.630444
+87051_0207_01211;1211;;Route de la Vialle;87130;87051;La Croisille-sur-Briance;;;1.595798;45.635152
+87051_0042_00022;22;;Promenade de la Cote;87130;87051;La Croisille-sur-Briance;;;1.587749;45.629866
+87051_i5ozkm_00005;5;;Rue Jean CHASSAGNE;87130;87051;La Croisille-sur-Briance;;;1.584468;45.627558
+87051_0181_00020;20;;impasse de mauloup;87130;87051;La Croisille-sur-Briance;;;1.59163;45.594541
+87051_0109_00503;503;;Route du Mas d’Hubert;87130;87051;La Croisille-sur-Briance;;;1.628111;45.600342
+87051_0020_00010;10;;Rue du Chabretaire;87130;87051;La Croisille-sur-Briance;;;1.586615;45.629587
+87051_a001_00001;1;;Lotissement les Vergnes;87130;87051;La Croisille-sur-Briance;;;1.577245;45.633523
+87051_0010_00010;10;;Place du Docteur Alfred Blanc;87130;87051;La Croisille-sur-Briance;;;1.582975;45.629156
+87051_0101_00711;711;;Route de Linards;87130;87051;La Croisille-sur-Briance;;;1.574097;45.63829
+87051_0163_02203;2203;;Route de Verdeyme;87130;87051;La Croisille-sur-Briance;;;1.639561;45.59195
+87051_0080_00010;10;;Allée de Las Gersas;87130;87051;La Croisille-sur-Briance;;;1.581819;45.628649
+87051_0181_00064;64;;impasse de mauloup;87130;87051;La Croisille-sur-Briance;;;1.591822;45.59413
+87051_0042_00015;15;;Promenade de la Cote;87130;87051;La Croisille-sur-Briance;;;1.587072;45.631168
+87051_0100_01105;1105;;Route du Liegeaud;87130;87051;La Croisille-sur-Briance;;;1.573795;45.618382
+87051_0209_00330;330;;Route de Planche Bonnet;87130;87051;La Croisille-sur-Briance;;;1.587174;45.614701
+87051_0115_00024;24;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.586071;45.62859
+87051_0119_00455;455;;Route du Moulin de Las Rochas;87130;87051;La Croisille-sur-Briance;;;1.600736;45.593395
+87051_0157_00814;814;;Route de Theneze Haut;87130;87051;La Croisille-sur-Briance;;;1.56651;45.641703
+87051_0034_00623;623;;Impasse du Civadiaux;87130;87051;La Croisille-sur-Briance;;;1.629797;45.625398
+87051_0025_00011;11;;Rue du Champ de Foire;87130;87051;La Croisille-sur-Briance;;;1.58258;45.630445
+87051_i5ozkm_00007;7;;Rue Jean CHASSAGNE;87130;87051;La Croisille-sur-Briance;;;1.584775;45.627705
+87051_0155_00001;1;;Allée des Sorbiers;87130;87051;La Croisille-sur-Briance;;;1.584341;45.633849
+87051_0198_00397;397;;Route de Puy Guillaume;87130;87051;La Croisille-sur-Briance;;;1.570648;45.647133
+87051_0073_00704;704;;Route de Gardenet;87130;87051;La Croisille-sur-Briance;;;1.580682;45.616659
+87051_0130_00011;11;;Chemin de Nouailhas;87130;87051;La Croisille-sur-Briance;;;1.586841;45.626517
+87051_0196_00044;44;;Route du Puy Gargan;87130;87051;La Croisille-sur-Briance;;;1.623202;45.625644
+87051_0101_01050;1050;;Route de Linards;87130;87051;La Croisille-sur-Briance;;;1.57462;45.641078
+87051_0185_00251;251;;Route de Peyroux;87130;87051;La Croisille-sur-Briance;;;1.598688;45.626708
+87051_0160_00019;19;;Rue de la Valade;87130;87051;La Croisille-sur-Briance;;;1.580319;45.630804
+87051_0147_00101;101;;Allee de Las Rochas;87130;87051;La Croisille-sur-Briance;;;1.603411;45.586519
+87051_0139_00222;222;;Allée de Peyroux;87130;87051;La Croisille-sur-Briance;;;1.597082;45.626705
+87051_0135_00018;18;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.580393;45.629182
+87051_0025_00017;17;;Rue du Champ de Foire;87130;87051;La Croisille-sur-Briance;;;1.58278;45.6307
+87051_0042_00003_bis;3;bis;Promenade de la Cote;87130;87051;La Croisille-sur-Briance;;;1.584588;45.63243
+87051_0100_00002;2;;Route du Liegeaud;87130;87051;La Croisille-sur-Briance;;;1.582506;45.62555
+87051_0197_00691;691;;Route du Puy Gourdaud;87130;87051;La Croisille-sur-Briance;;;1.582403;45.639566
+87051_0115_00009;9;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.584583;45.62911
+87051_0135_00011;11;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.581442;45.629079
+87051_0030_00019;19;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.575266;45.6289
+87051_0199_00133;133;;Impasse du Raineix;87130;87051;La Croisille-sur-Briance;;;1.596193;45.58782
+87051_a001_00002;2;;Lotissement les Vergnes;87130;87051;La Croisille-sur-Briance;;;1.57806;45.633869
+87051_0185_00670;670;;Route de Peyroux;87130;87051;La Croisille-sur-Briance;;;1.60223;45.628755
+87051_0019_00671;671;;Chemin de Las Bannieras;87130;87051;La Croisille-sur-Briance;;;1.588275;45.586255
+87051_0025_00012;12;;Rue du Champ de Foire;87130;87051;La Croisille-sur-Briance;;;1.583133;45.630984
+87051_0197_00759;759;;Route du Puy Gourdaud;87130;87051;La Croisille-sur-Briance;;;1.582025;45.640126
+87051_0163_02295;2295;;Route de Verdeyme;87130;87051;La Croisille-sur-Briance;;;1.640042;45.592347
+87051_0070_00004;4;;Impasse de la Gane Barthaud;87130;87051;La Croisille-sur-Briance;;;1.580879;45.631983
+87051_0009_00709;709;;Route de l’Âge;87130;87051;La Croisille-sur-Briance;;;1.62421;45.610341
+87051_0204_00118;118;;Impasse de la Tuilliere;87130;87051;La Croisille-sur-Briance;;;1.595697;45.583978
+87051_0011_01161;1161;;Route D Amboiras;87130;87051;La Croisille-sur-Briance;;;1.58021;45.648165
+87051_0115_00010;10;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.584714;45.628956
+87051_0016_00538;538;;Route de Bagenge;87130;87051;La Croisille-sur-Briance;;;1.589038;45.60676
+87051_0015_00003;3;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582575;45.628822
+87051_0130_00009;9;;Chemin de Nouailhas;87130;87051;La Croisille-sur-Briance;;;1.586692;45.626736
+87051_0138_00194;194;;Impasse de la Peyre;87130;87051;La Croisille-sur-Briance;;;1.613249;45.600305
+87051_0115_02333;2333;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.608973;45.619934
+87051_0116_00116;116;;Impasse les Mouilleres;87130;87051;La Croisille-sur-Briance;;;1.610048;45.622124
+87051_0202_01148;1148;;Route de Rilhac;87130;87051;La Croisille-sur-Briance;;;1.611995;45.605682
+87051_0135_00021;21;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.58091;45.629064
+87051_0065_00008;8;;Route de la Foret;87130;87051;La Croisille-sur-Briance;;;1.584422;45.634079
+87051_0135_00017;17;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.58126;45.629061
+87051_0115_01206;1206;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.596895;45.625122
+87051_0205_00274;274;;Impasse Las Vergnas;87130;87051;La Croisille-sur-Briance;;;1.58713;45.638978
+87051_0042_00020;20;;Promenade de la Cote;87130;87051;La Croisille-sur-Briance;;;1.587346;45.630111
+87051_0115_00004;4;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.584323;45.629052
+87051_0073_00236;236;;Route de Gardenet;87130;87051;La Croisille-sur-Briance;;;1.584536;45.619722
+87051_0043_00158;158;;chemin du Crauloup;87130;87051;La Croisille-sur-Briance;;;1.611356;45.63034
+87051_0015_00030;30;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582854;45.626593
+87051_0157_00731;731;;Route de Theneze Haut;87130;87051;La Croisille-sur-Briance;;;1.566191;45.641191
+87051_0115_02675;2675;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.612729;45.618436
+87051_0157_00668;668;;Route de Theneze Haut;87130;87051;La Croisille-sur-Briance;;;1.566942;45.640477
+87051_0025_00003;3;;Rue du Champ de Foire;87130;87051;La Croisille-sur-Briance;;;1.582422;45.629995
+87051_0100_00008;8;;Route du Liegeaud;87130;87051;La Croisille-sur-Briance;;;1.581542;45.624469
+87051_0208_00203;203;;Allée du Vieux Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.611973;45.597308
+87051_0147_00120;120;;Allee de Las Rochas;87130;87051;La Croisille-sur-Briance;;;1.603861;45.586531
+87051_0015_00028;28;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.58295;45.626814
+87051_a001_00007;7;;Lotissement les Vergnes;87130;87051;La Croisille-sur-Briance;;;1.577179;45.634157
+87051_0042_00024;24;;Promenade de la Cote;87130;87051;La Croisille-sur-Briance;;;1.588203;45.629561
+87051_0135_00035;35;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.579606;45.629027
+87051_0115_00029;29;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.58745;45.628429
+87051_0115_00026;26;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.58623;45.628541
+87051_0025_00009;9;;Rue du Champ de Foire;87130;87051;La Croisille-sur-Briance;;;1.582579;45.630357
+87051_0030_00026;26;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.573844;45.628992
+87051_0030_00007;7;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.577103;45.628944
+87051_0042_00025;25;;Promenade de la Cote;87130;87051;La Croisille-sur-Briance;;;1.588677;45.629446
+87051_0115_03735;3735;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.625465;45.615231
+87051_0011_00987;987;;Route D Amboiras;87130;87051;La Croisille-sur-Briance;;;1.580753;45.646884
+87051_0100_01202;1202;;Route du Liegeaud;87130;87051;La Croisille-sur-Briance;;;1.572587;45.618181
+87051_0150_00002;2;;Ruelle du Sendaron;87130;87051;La Croisille-sur-Briance;;;1.580369;45.62965
+87051_0115_00017;17;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.585381;45.628906
+87051_0188_00960;960;;Route du Pont;87130;87051;La Croisille-sur-Briance;;;1.604482;45.612382
+87051_0135_00006;6;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.581638;45.629224
+87051_0120_00009;9;;Route des Moulins;87130;87051;La Croisille-sur-Briance;;;1.584314;45.623839
+87051_0015_00032;32;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582709;45.626196
+87051_0108_00231;231;;Route des Martyrs;87130;87051;La Croisille-sur-Briance;;;1.607203;45.605109
+87051_0030_00024;24;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.574559;45.629008
+87051_0042_00003;3;;Promenade de la Cote;87130;87051;La Croisille-sur-Briance;;;1.584348;45.632475
+87051_0072_00251;251;;Allée de Gardenet;87130;87051;La Croisille-sur-Briance;;;1.583078;45.620757
+87051_0208_00281;281;;Allée du Vieux Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.61272;45.597139
+87051_0107_00038;38;;Allée des Martyrs;87130;87051;La Croisille-sur-Briance;;;1.607582;45.606096
+87051_0110_00008;8;;Chemin de la Messe;87130;87051;La Croisille-sur-Briance;;;1.589051;45.630278
+87051_0030_00040;40;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.570108;45.62912
+87051_0176_00326;326;;Route de la Croix de Borde;87130;87051;La Croisille-sur-Briance;;;1.630131;45.592486
+87051_0130_00007;7;;Chemin de Nouailhas;87130;87051;La Croisille-sur-Briance;;;1.586516;45.62707
+87051_0174_00220;220;;Impasse du Bois Barrat;87130;87051;La Croisille-sur-Briance;;;1.631936;45.619645
+87051_0083_00680;680;;Route de la Grande Combe;87130;87051;La Croisille-sur-Briance;;;1.562605;45.648374
+87051_0030_00003;3;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.578652;45.628987
+87051_0173_00427;427;;Impasse des Barres d’Amboiras;87130;87051;La Croisille-sur-Briance;;;1.579034;45.657621
+87051_0018_00361;361;;Route de Bagengette;87130;87051;La Croisille-sur-Briance;;;1.582804;45.613509
+87051_0135_00009;9;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.58162;45.629067
+87051_0015_00007;7;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582608;45.628667
+87051_0157_00031;31;;Route de Theneze Haut;87130;87051;La Croisille-sur-Briance;;;1.573128;45.639453
+87051_0125_00003;3;;Chemin du Mouraud;87130;87051;La Croisille-sur-Briance;;;1.584196;45.628768
+87051_0040_00001;1;;Chemin de la Cote;87130;87051;La Croisille-sur-Briance;;;1.585412;45.632964
+87051_0017_00151;151;;Impasse de Bagengette;87130;87051;La Croisille-sur-Briance;;;1.580885;45.613131
+87051_0095_00003;3;;Rue des Lavandiéres;87130;87051;La Croisille-sur-Briance;;;1.579482;45.629614
+87051_0118_00072;72;;Route Moulin de Fournaud;87130;87051;La Croisille-sur-Briance;;;1.585375;45.604326
+87051_0050_00004;4;;Rue des Ecoles;87130;87051;La Croisille-sur-Briance;;;1.585773;45.628306
+87051_0101_00941;941;;Route de Linards;87130;87051;La Croisille-sur-Briance;;;1.573625;45.640317
+87051_0115_05844;5844;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.642254;45.611417
+87051_0115_03469;3469;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.621765;45.615205
+87051_0073_00880;880;;Route de Gardenet;87130;87051;La Croisille-sur-Briance;;;1.579482;45.615276
+87051_0030_00031;31;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.573127;45.628831
+87051_0075_00002;2;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.582202;45.629793
+87051_0016_00714;714;;Route de Bagenge;87130;87051;La Croisille-sur-Briance;;;1.588117;45.605368
+87051_0101_00888;888;;Route de Linards;87130;87051;La Croisille-sur-Briance;;;1.573649;45.639842
+87051_0115_00020_bis;20;bis;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.585264;45.628811
+87051_0172_01124;1124;;Route du Barnagaud;87130;87051;La Croisille-sur-Briance;;;1.621003;45.623587
+87051_0130_01709;1709;;Chemin de Nouailhas;87130;87051;La Croisille-sur-Briance;;;1.596952;45.624518
+87051_0157_00087;87;;Route de Theneze Haut;87130;87051;La Croisille-sur-Briance;;;1.572383;45.639362
+87051_0163_02275;2275;;Route de Verdeyme;87130;87051;La Croisille-sur-Briance;;;1.639627;45.592156
+87051_0075_00012;12;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.581181;45.630974
+87051_0178_00028;28;;Allée de Mauloup;87130;87051;La Croisille-sur-Briance;;;1.590817;45.594404
+87051_0027_00742;742;;Route de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.606615;45.599442
+87051_0100_00012;12;;Route du Liegeaud;87130;87051;La Croisille-sur-Briance;;;1.580953;45.624075
+87051_0177_00055;55;;Route des Maquisards;87130;87051;La Croisille-sur-Briance;;;1.583533;45.647187
+87051_0190_00014;14;;Route du Poumeau;87130;87051;La Croisille-sur-Briance;;;1.623622;45.638102
+87051_0100_00004;4;;Route du Liegeaud;87130;87051;La Croisille-sur-Briance;;;1.58224;45.625167
+87051_0164_00140;140;;Sente de Verdeyme;87130;87051;La Croisille-sur-Briance;;;1.639017;45.593075
+87051_0202_00694;694;;Route de Rilhac;87130;87051;La Croisille-sur-Briance;;;1.607581;45.60709
+87051_0172_01200;1200;;Route du Barnagaud;87130;87051;La Croisille-sur-Briance;;;1.622199;45.623989
+87051_0080_00012_bis;12;bis;Allée de Las Gersas;87130;87051;La Croisille-sur-Briance;;;1.581389;45.62833
+87051_0016_00383;383;;Route de Bagenge;87130;87051;La Croisille-sur-Briance;;;1.590271;45.607796
+87051_0200_00762;762;;Route du REINEIX;87130;87051;La Croisille-sur-Briance;;;1.595288;45.596171
+87051_0115_00014;14;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.584939;45.628898
+87051_0103_00456;456;;Route Louis Jarraud;87130;87051;La Croisille-sur-Briance;;;1.621529;45.62166
+87051_0170_00010;10;;Ruelle de la Viota;87130;87051;La Croisille-sur-Briance;;;1.58106;45.62973
+87051_0145_00004;4;;Impasse du Rio Poulard;87130;87051;La Croisille-sur-Briance;;;1.583532;45.630408
+87051_0075_00029;29;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.579165;45.632954
+87051_0025_00021;21;;Rue du Champ de Foire;87130;87051;La Croisille-sur-Briance;;;1.583014;45.631171
+87051_0042_00007;7;;Promenade de la Cote;87130;87051;La Croisille-sur-Briance;;;1.585727;45.632276
+87051_0158_00004;4;;Rue Traversière;87130;87051;La Croisille-sur-Briance;;;1.579724;45.629384
+87051_0208_00323;323;;Allée du Vieux Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.613197;45.597077
+87051_0120_00006;6;;Route des Moulins;87130;87051;La Croisille-sur-Briance;;;1.5832;45.624788
+87051_0120_00014;14;;Route des Moulins;87130;87051;La Croisille-sur-Briance;;;1.584996;45.622823
+87051_0075_00024;24;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.580359;45.631883
+87051_0100_00007;7;;Route du Liegeaud;87130;87051;La Croisille-sur-Briance;;;1.581859;45.62451
+87051_0030_00017_bis;17;bis;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.575683;45.628101
+87051_0172_01333;1333;;Route du Barnagaud;87130;87051;La Croisille-sur-Briance;;;1.622465;45.625545
+87051_0106_00011;11;;Chemin des Marguerites;87130;87051;La Croisille-sur-Briance;;;1.623322;45.623688
+87051_0011_02091;2091;;Route D Amboiras;87130;87051;La Croisille-sur-Briance;;;1.574355;45.654914
+87051_0190_00174;174;;Route du Poumeau;87130;87051;La Croisille-sur-Briance;;;1.625181;45.637213
+87051_0175_00870;870;;Route du Crauloup;87130;87051;La Croisille-sur-Briance;;;1.610169;45.626807
+87051_0115_02438;2438;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.609955;45.619246
+87051_0115_00016;16;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.585035;45.628871
+87051_0016_00471;471;;Route de Bagenge;87130;87051;La Croisille-sur-Briance;;;1.589646;45.607359
+87051_0130_01631;1631;;Chemin de Nouailhas;87130;87051;La Croisille-sur-Briance;;;1.596419;45.62352
+87051_0030_00004;4;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.578798;45.629129
+87051_0034_00085;85;;Impasse du Civadiaux;87130;87051;La Croisille-sur-Briance;;;1.624377;45.623935
+87051_0101_01236;1236;;Route de Linards;87130;87051;La Croisille-sur-Briance;;;1.575347;45.642735
+87051_0035_00010;10;;Rue des Conserveries;87130;87051;La Croisille-sur-Briance;;;1.582147;45.63179
+87051_0035_00004;4;;Rue des Conserveries;87130;87051;La Croisille-sur-Briance;;;1.581396;45.631402
+87051_0030_00016;16;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.576206;45.629076
+87051_0075_00015;15;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.581336;45.630482
+87051_0115_03433;3433;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.621288;45.615353
+87051_0145_00005;5;;Impasse du Rio Poulard;87130;87051;La Croisille-sur-Briance;;;1.583709;45.630485
+87051_0141_00321;321;;Impasse de Rilhaguet;87130;87051;La Croisille-sur-Briance;;;1.596648;45.612657
+87051_0202_00144;144;;Route de Rilhac;87130;87051;La Croisille-sur-Briance;;;1.605322;45.611274
+87051_0209_00333;333;;Route de Planche Bonnet;87130;87051;La Croisille-sur-Briance;;;1.587166;45.614509
+87051_s7flyr_00001;1;;Les Rouchoux;87130;87051;La Croisille-sur-Briance;;;1.625113;45.615181
+87051_0155_00002;2;;Allée des Sorbiers;87130;87051;La Croisille-sur-Briance;;;1.584083;45.6337
+87051_0035_00006;6;;Rue des Conserveries;87130;87051;La Croisille-sur-Briance;;;1.581588;45.631502
+87051_0070_00005;5;;Impasse de la Gane Barthaud;87130;87051;La Croisille-sur-Briance;;;1.581137;45.632205
+87051_0033_00533;533;;Route de la Cime des Champs;87130;87051;La Croisille-sur-Briance;;;1.584701;45.651417
+87051_0156_00973;973;;Route de Theneze Bas;87130;87051;La Croisille-sur-Briance;;;1.568455;45.634101
+87051_0136_01080;1080;;Route des Ors;87130;87051;La Croisille-sur-Briance;;;1.606129;45.632393
+87051_0185_00363;363;;Route de Peyroux;87130;87051;La Croisille-sur-Briance;;;1.598553;45.627615
+87051_0015_00001;1;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582529;45.628972
+87051_0158_00006;6;;Rue Traversière;87130;87051;La Croisille-sur-Briance;;;1.57955;45.629369
+87051_0207_00040;40;;Route de la Vialle;87130;87051;La Croisille-sur-Briance;;;1.591313;45.627918
+87051_0206_00251;251;;Impasse de la Vialle;87130;87051;La Croisille-sur-Briance;;;1.599077;45.635808
+87051_0015_00002;2;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582287;45.628972
+87051_a001_00009;9;;Lotissement les Vergnes;87130;87051;La Croisille-sur-Briance;;;1.577143;45.634417
+87051_0115_00030;30;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.587017;45.628332
+87051_0178_00007;7;;Allée de Mauloup;87130;87051;La Croisille-sur-Briance;;;1.590799;45.594809
+87051_0018_00300;300;;Route de Bagengette;87130;87051;La Croisille-sur-Briance;;;1.582403;45.613907
+87051_0027_00673;673;;Route de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.606018;45.599913
+87051_0042_00023;23;;Promenade de la Cote;87130;87051;La Croisille-sur-Briance;;;1.588055;45.62991
+87051_0208_00225;225;;Allée du Vieux Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.612254;45.597289
+87051_0191_00113;113;;Impasse du Pouyol;87130;87051;La Croisille-sur-Briance;;;1.622971;45.580603
+87051_4723wd_00090;90;;Impasse de Veyrdeme;87130;87051;La Croisille-sur-Briance;;;1.638329;45.592571
+87051_0185_00544;544;;Route de Peyroux;87130;87051;La Croisille-sur-Briance;;;1.6011;45.62796
+87051_0115_00003;3;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.58371;45.629519
+87051_0175_00805;805;;Route du Crauloup;87130;87051;La Croisille-sur-Briance;;;1.609897;45.626205
+87051_0136_01347;1347;;Route des Ors;87130;87051;La Croisille-sur-Briance;;;1.60876;45.633277
+87051_0101_01051;1051;;Route de Linards;87130;87051;La Croisille-sur-Briance;;;1.574283;45.641214
+87051_0009_00679;679;;Route de l’Âge;87130;87051;La Croisille-sur-Briance;;;1.624225;45.610627
+87051_0075_00005;5;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.581878;45.629908
+87051_0115_00011;11;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.584764;45.629084
+87051_i5ozkm_00011;11;;Rue Jean CHASSAGNE;87130;87051;La Croisille-sur-Briance;;;1.585241;45.62799
+87051_0137_01356;1356;;Route de Pailleras;87130;87051;La Croisille-sur-Briance;;;1.60284;45.612875
+87051_0115_05227;5227;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.637994;45.616024
+87051_0208_00212;212;;Allée du Vieux Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.611912;45.596936
+87051_0030_00042;42;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.568094;45.630044
+87051_0176_00006;6;;Route de la Croix de Borde;87130;87051;La Croisille-sur-Briance;;;1.628164;45.594889
+87051_0011_01096;1096;;Route D Amboiras;87130;87051;La Croisille-sur-Briance;;;1.580731;45.647686
+87051_0095_00007;7;;Rue des Lavandiéres;87130;87051;La Croisille-sur-Briance;;;1.579882;45.629839
+87051_0042_00009;9;;Promenade de la Cote;87130;87051;La Croisille-sur-Briance;;;1.585997;45.631731
+87051_0080_00003;3;;Allée de Las Gersas;87130;87051;La Croisille-sur-Briance;;;1.582148;45.62874
+87051_0115_03491;3491;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.622116;45.615217
+87051_0082_00459;459;;Route du Grand Bois;87130;87051;La Croisille-sur-Briance;;;1.591965;45.603266
+87051_0175_01710;1710;;Route du Crauloup;87130;87051;La Croisille-sur-Briance;;;1.616654;45.632314
+87051_0018_00214;214;;Route de Bagengette;87130;87051;La Croisille-sur-Briance;;;1.582713;45.614588
+87051_0030_00022;22;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.575219;45.629026
+87051_a001_00013;13;;Lotissement les Vergnes;87130;87051;La Croisille-sur-Briance;;;1.577314;45.634761
+87051_0115_00034;34;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.587831;45.628211
+87051_a001_00010;10;;Lotissement les Vergnes;87130;87051;La Croisille-sur-Briance;;;1.57742;45.634408
+87051_0093_00065;65;;Chemin de Larfouillere;87130;87051;La Croisille-sur-Briance;;;1.603415;45.584947
+87051_0199_00197;197;;Impasse du Raineix;87130;87051;La Croisille-sur-Briance;;;1.595332;45.587991
+87051_0202_01226;1226;;Route de Rilhac;87130;87051;La Croisille-sur-Briance;;;1.612658;45.605383
+87051_0075_00011;11;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.581461;45.630362
+87051_0180_00210;210;;Chemin de Mauloup;87130;87051;La Croisille-sur-Briance;;;1.592654;45.593387
+87051_0135_00039;39;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.579193;45.629006
+87051_0030_00012;12;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.576696;45.629072
+87051_0103_00698;698;;Route Louis Jarraud;87130;87051;La Croisille-sur-Briance;;;1.623541;45.623295
+87051_0172_01290;1290;;Route du Barnagaud;87130;87051;La Croisille-sur-Briance;;;1.622988;45.624453
+87051_0075_00009;9;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.581647;45.630145
+87051_0198_00275;275;;Route de Puy Guillaume;87130;87051;La Croisille-sur-Briance;;;1.571567;45.647185
+87051_0115_02131;2131;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.607033;45.62101
+87051_0092_00245;245;;Route de Larcy;87130;87051;La Croisille-sur-Briance;;;1.638573;45.589811
+87051_0115_00037;37;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.589294;45.628241
+87051_0035_00005;5;;Rue des Conserveries;87130;87051;La Croisille-sur-Briance;;;1.581599;45.631674
+87051_0025_00004;4;;Rue du Champ de Foire;87130;87051;La Croisille-sur-Briance;;;1.582971;45.630104
+87051_0040_00005;5;;Chemin de la Cote;87130;87051;La Croisille-sur-Briance;;;1.585928;45.632714
+87051_0208_00019;19;;Allée du Vieux Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.611633;45.598363
+87051_0042_00021;21;;Promenade de la Cote;87130;87051;La Croisille-sur-Briance;;;1.587664;45.630119
+87051_0208_00150;150;;Allée du Vieux Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.611073;45.597297
+87051_0ep8jz_00103;103;;Impasse des maquisards;87130;87051;La Croisille-sur-Briance;;;1.581078;45.647663
+87051_0193_00088;88;;Impasse des Prades;87130;87051;La Croisille-sur-Briance;;;1.613473;45.618887
+87051_0151_00978;978;;Impasse de Las Solas;87130;87051;La Croisille-sur-Briance;;;1.595937;45.649952
+87051_0139_00421;421;;Allée de Peyroux;87130;87051;La Croisille-sur-Briance;;;1.597651;45.627749
+87051_0030_00025;25;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.574663;45.628868
+87051_0135_00003;3;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.582;45.62908
+87051_i5ozkm_00006;6;;Rue Jean CHASSAGNE;87130;87051;La Croisille-sur-Briance;;;1.58492;45.627642
+87051_0115_05986;5986;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.643413;45.6111
+87051_0175_01396;1396;;Route du Crauloup;87130;87051;La Croisille-sur-Briance;;;1.614177;45.629964
+87051_0102_00019;19;;Impasse Louis Jarraud;87130;87051;La Croisille-sur-Briance;;;1.622472;45.622021
+87051_0025_00010;10;;Rue du Champ de Foire;87130;87051;La Croisille-sur-Briance;;;1.582965;45.63065
+87051_0135_00020;20;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.580185;45.629174
+87051_0157_00910;910;;Route de Theneze Haut;87130;87051;La Croisille-sur-Briance;;;1.565399;45.642171
+87051_0120_00012;12;;Route des Moulins;87130;87051;La Croisille-sur-Briance;;;1.584544;45.623195
+87051_0027_02477;2477;;Route de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.623322;45.59204
+87051_0170_00012;12;;Ruelle de la Viota;87130;87051;La Croisille-sur-Briance;;;1.580778;45.629668
+87051_0160_00008;8;;Rue de la Valade;87130;87051;La Croisille-sur-Briance;;;1.580225;45.629778
+87051_0157_00645;645;;Route de Theneze Haut;87130;87051;La Croisille-sur-Briance;;;1.566166;45.64037
+87051_0161_00044;44;;Chemin de Verdeyme;87130;87051;La Croisille-sur-Briance;;;1.639085;45.592488
+87051_0172_01617;1617;;Route du Barnagaud;87130;87051;La Croisille-sur-Briance;;;1.621176;45.626774
+87051_0101_02920;2920;;Route de Linards;87130;87051;La Croisille-sur-Briance;;;1.574471;45.656615
+87051_0027_00529;529;;Route de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.604697;45.600866
+87051_0095_00009;9;;Rue des Lavandiéres;87130;87051;La Croisille-sur-Briance;;;1.579956;45.629911
+87051_0084_00026;26;;Route des Ifs;87130;87051;La Croisille-sur-Briance;;;1.621915;45.623754
+87051_0120_00007;7;;Route des Moulins;87130;87051;La Croisille-sur-Briance;;;1.583999;45.624128
+87051_0179_00079;79;;Route de Mauloup;87130;87051;La Croisille-sur-Briance;;;1.593965;45.595424
+87051_0197_00653;653;;Route du Puy Gourdaud;87130;87051;La Croisille-sur-Briance;;;1.582908;45.639398
+87051_0115_00019;19;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.585813;45.628947
+87051_0146_00216;216;;Impasse des Rivauds;87130;87051;La Croisille-sur-Briance;;;1.620071;45.603942
+87051_0118_00890;890;;Route Moulin de Fournaud;87130;87051;La Croisille-sur-Briance;;;1.576838;45.59774
+87051_0157_00951;951;;Route de Theneze Haut;87130;87051;La Croisille-sur-Briance;;;1.565055;45.64167
+87051_0026_00105;105;;Route des Charrauds;87130;87051;La Croisille-sur-Briance;;;1.581804;45.648423
+87051_0104_00178;178;;Impasse du Maquis;87130;87051;La Croisille-sur-Briance;;;1.628926;45.64162
+87051_0115_03524;3524;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.622708;45.615041
+87051_0015_00024;24;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.583044;45.627395
+87051_0139_00364;364;;Allée de Peyroux;87130;87051;La Croisille-sur-Briance;;;1.596867;45.627561
+87051_0177_00363;363;;Route des Maquisards;87130;87051;La Croisille-sur-Briance;;;1.586466;45.645667
+87051_0199_00196;196;;Impasse du Raineix;87130;87051;La Croisille-sur-Briance;;;1.595453;45.588127
+87051_0030_00038;38;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.570676;45.628927
+87051_0189_00069;69;;Impasse du Poumeau;87130;87051;La Croisille-sur-Briance;;;1.62546;45.638902
+87051_0016_00480;480;;Route de Bagenge;87130;87051;La Croisille-sur-Briance;;;1.58936;45.607351
+87051_0020_00006;6;;Rue du Chabretaire;87130;87051;La Croisille-sur-Briance;;;1.586438;45.629349
+87051_0027_01912;1912;;Route de Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.618119;45.594317
+87051_0030_00023;23;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.574802;45.628878
+87051_0030_00021;21;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.575041;45.628882
+87051_0196_00121;121;;Route du Puy Gargan;87130;87051;La Croisille-sur-Briance;;;1.62341;45.626375
+87051_0157_00823;823;;Route de Theneze Haut;87130;87051;La Croisille-sur-Briance;;;1.566415;45.641874
+87051_0009_00370;370;;Route de l’Âge;87130;87051;La Croisille-sur-Briance;;;1.623311;45.6126
+87051_0026_00615;615;;Route des Charrauds;87130;87051;La Croisille-sur-Briance;;;1.58367;45.652488
+87051_0030_00034;34;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.572025;45.628928
+87051_0186_00221;221;;Chemin du Pigeonnier;87130;87051;La Croisille-sur-Briance;;;1.599755;45.603539
+87051_0015_00016;16;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582629;45.628429
+87051_0101_02435;2435;;Route de Linards;87130;87051;La Croisille-sur-Briance;;;1.572342;45.653038
+87051_0030_00001;1;;Rue du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.578924;45.628995
+87051_0208_00176;176;;Allée du Vieux Chassagnas;87130;87051;La Croisille-sur-Briance;;;1.611491;45.597151
+87051_0193_00280;280;;Impasse des Prades;87130;87051;La Croisille-sur-Briance;;;1.613641;45.62022
+87051_0160_00011;11;;Rue de la Valade;87130;87051;La Croisille-sur-Briance;;;1.580047;45.629825
+87051_0020_00005;5;;Rue du Chabretaire;87130;87051;La Croisille-sur-Briance;;;1.586143;45.629137
+87051_0156_00786;786;;Route de Theneze Bas;87130;87051;La Croisille-sur-Briance;;;1.568818;45.634952
+87051_0015_00026;26;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582994;45.626957
+87051_0198_00346;346;;Route de Puy Guillaume;87130;87051;La Croisille-sur-Briance;;;1.571125;45.647649
+87051_0177_00347;347;;Route des Maquisards;87130;87051;La Croisille-sur-Briance;;;1.586176;45.646081
+87051_b109_05000;5000;;Puy Guillaume;87130;87051;La Croisille-sur-Briance;;;1.571287;45.647593
+87051_0109_00567;567;;Route du Mas d’Hubert;87130;87051;La Croisille-sur-Briance;;;1.62818;45.601193
+87051_0075_00016;16;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.580835;45.631366
+87051_0115_00008;8;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.584548;45.629004
+87051_0156_00937;937;;Route de Theneze Bas;87130;87051;La Croisille-sur-Briance;;;1.568661;45.634386
+87051_0029_00042;42;;Route du Chataignol;87130;87051;La Croisille-sur-Briance;;;1.568142;45.630072
+87051_0115_00022;22;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.58573;45.628646
+87051_0115_00012;12;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.584854;45.628925
+87051_0151_00977;977;;Impasse de Las Solas;87130;87051;La Croisille-sur-Briance;;;1.595277;45.649945
+87051_0115_00025;25;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.586705;45.628541
+87051_0015_00011;11;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.582658;45.628544
+87051_4723wd_00540;540;;Impasse de Veyrdeme;87130;87051;La Croisille-sur-Briance;;;1.636141;45.595167
+87051_a001_00004;4;;Lotissement les Vergnes;87130;87051;La Croisille-sur-Briance;;;1.577626;45.63368
+87051_0092_00127;127;;Route de Larcy;87130;87051;La Croisille-sur-Briance;;;1.639546;45.590713
+87051_0080_00012;12;;Allée de Las Gersas;87130;87051;La Croisille-sur-Briance;;;1.581522;45.628461
+87051_0010_00009;9;;Place du Docteur Alfred Blanc;87130;87051;La Croisille-sur-Briance;;;1.582745;45.62913
+87051_0050_00003;3;;Rue des Ecoles;87130;87051;La Croisille-sur-Briance;;;1.585923;45.628349
+87051_0020_00007;7;;Rue du Chabretaire;87130;87051;La Croisille-sur-Briance;;;1.586226;45.629317
+87051_0075_00018;18;;Rue du Général de Montréal;87130;87051;La Croisille-sur-Briance;;;1.580671;45.631529
+87051_0015_00022;22;;Rue d’Arsonval;87130;87051;La Croisille-sur-Briance;;;1.583015;45.62779
+87051_0207_00235;235;;Route de la Vialle;87130;87051;La Croisille-sur-Briance;;;1.593071;45.629126
+87051_0101_01415;1415;;Route de Linards;87130;87051;La Croisille-sur-Briance;;;1.574574;45.644259
+87051_0026_00082;82;;Route des Charrauds;87130;87051;La Croisille-sur-Briance;;;1.581207;45.647863
+87051_0188_01090;1090;;Route du Pont;87130;87051;La Croisille-sur-Briance;;;1.60355;45.611413
+87051_0109_00571;571;;Route du Mas d’Hubert;87130;87051;La Croisille-sur-Briance;;;1.628569;45.601448
+87051_0035_00003;3;;Rue des Conserveries;87130;87051;La Croisille-sur-Briance;;;1.581463;45.631675
+87051_0135_00022;22;;Rue d’Offendorf;87130;87051;La Croisille-sur-Briance;;;1.580026;45.629161
+87051_0021_00075;75;;Route de Chamberet;87130;87051;La Croisille-sur-Briance;;;1.64013;45.590348
+87051_0115_00015;15;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.585003;45.629029
+87051_0180_00205;205;;Chemin de Mauloup;87130;87051;La Croisille-sur-Briance;;;1.592719;45.593405
+87051_0192_00110;110;;Route du Pouyol;87130;87051;La Croisille-sur-Briance;;;1.621032;45.580638
+87051_0009_00328;328;;Route de l’Âge;87130;87051;La Croisille-sur-Briance;;;1.622982;45.612922
+87051_0115_00035;35;;Route du Mont Gargan;87130;87051;La Croisille-sur-Briance;;;1.588376;45.628312

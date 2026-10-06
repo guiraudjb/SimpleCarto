@@ -1,0 +1,465 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+89268_0350_00022;22;;Rue du Tertre;89250;89268;Mont-Saint-Sulpice;;;3.620677;47.948643
+89268_0110_00003;3;;Rue du Chenois;89250;89268;Mont-Saint-Sulpice;;;3.625156;47.954385
+89268_0060_00003;3;;Rue des Bruleries;89250;89268;Mont-Saint-Sulpice;;;3.62628;47.955972
+89268_0344_00004_bis;4;bis;Rue du Stade;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.655252;47.953603
+89268_0010_00011;11;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.63059;47.949787
+89268_0010_00020;20;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.633418;47.950327
+89268_0330_00010;10;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627439;47.954967
+89268_0150_00015;15;;Rue de la Doué;89250;89268;Mont-Saint-Sulpice;;;3.621327;47.952866
+89268_0050_00009;9;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.627496;47.951609
+89268_0250_00032;32;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.628014;47.949273
+89268_0050_00040;40;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.6311;47.951568
+89268_pqb0ce_00025;25;;rue des Régniers;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.64976;47.959003
+89268_0020_00012;12;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.628554;47.950706
+89268_0054_00006;6;;Chemin de Brienon;89250;89268;Mont-Saint-Sulpice;;;3.625334;47.956712
+89268_0050_00034;34;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.629975;47.951045
+89268_0320_00025;25;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.623533;47.953368
+89268_0375_00004;4;;Rue de la Truballe;89250;89268;Mont-Saint-Sulpice;;;3.624984;47.952648
+89268_0060_00006_bis;6;bis;Rue des Bruleries;89250;89268;Mont-Saint-Sulpice;;;3.626014;47.955715
+89268_0050_00014;14;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.62748;47.951229
+89268_0250_00030;30;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.62747;47.94953
+89268_0010_00005;5;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.630043;47.94963
+89268_0300_00006;6;;Rue du 11 Novembre;89250;89268;Mont-Saint-Sulpice;;;3.630004;47.950427
+89268_0344_00012;12;;Rue du Stade;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.6551;47.95229
+89268_0050_00022;22;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.628747;47.951283
+89268_0050_00026;26;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.629179;47.951315
+89268_0300_00013;13;;Rue du 11 Novembre;89250;89268;Mont-Saint-Sulpice;;;3.630768;47.950141
+89268_0050_00006;6;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.626753;47.951775
+89268_5vr1s4_00001;1;;Chemin de Gros Bois;89250;89268;Mont-Saint-Sulpice;;;3.621351;47.954814
+89268_0250_00010;10;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.625687;47.951209
+89268_0320_00007;7;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.625;47.95217
+89268_pqb0ce_00006;6;;rue des Régniers;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.653931;47.957103
+89268_0260_00001;1;;Place de la Mairie;89250;89268;Mont-Saint-Sulpice;;;3.625951;47.951834
+89268_0375_00007;7;;Rue de la Truballe;89250;89268;Mont-Saint-Sulpice;;;3.624978;47.952861
+89268_0020_00014;14;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.628662;47.950537
+89268_0020_00010;10;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.628528;47.950768
+89268_0130_00003;3;;Rue de la Croix Saint-jean;89250;89268;Mont-Saint-Sulpice;;;3.623494;47.953879
+89268_0121_00003;3;;Impasse de la Cote;89250;89268;Mont-Saint-Sulpice;;;3.627965;47.948591
+89268_0330_00004;4;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627127;47.954504
+89268_0210_00005;5;;Rue du 8 Mai;89250;89268;Mont-Saint-Sulpice;;;3.627353;47.952562
+89268_0111_00004;4;;Impasse du Chenois;89250;89268;Mont-Saint-Sulpice;;;3.626224;47.95474
+89268_0020_00022;22;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.629003;47.950034
+89268_0330_00006;6;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627216;47.954678
+89268_0330_00020;20;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627949;47.955868
+89268_0210_00001;1;;Rue du 8 Mai;89250;89268;Mont-Saint-Sulpice;;;3.62698;47.952789
+89268_0010_00023;23;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.63255;47.950256
+89268_0010_00013;13;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.63091;47.949873
+89268_0350_00020;20;;Rue du Tertre;89250;89268;Mont-Saint-Sulpice;;;3.621804;47.950562
+89268_0320_00004;4;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.625499;47.952088
+89268_0020_00024;24;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.629102;47.949887
+89268_0344_00010;10;;Rue du Stade;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.655093;47.952496
+89268_0050_00032;32;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.629957;47.951299
+89268_0260_00002;2;;Place de la Mairie;89250;89268;Mont-Saint-Sulpice;;;3.626021;47.952102
+89268_0050_00010;10;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.627131;47.951631
+89268_0344_00006;6;;Rue du Stade;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.655057;47.952928
+89268_0150_00003_t;3;t;Rue de la Doué;89250;89268;Mont-Saint-Sulpice;;;3.62301;47.953384
+89268_0010_00015;15;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.631491;47.950003
+89268_0120_00012;12;;Rue de la Côte;89250;89268;Mont-Saint-Sulpice;;;3.625269;47.948271
+89268_0010_00007;7;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.630256;47.949702
+89268_pqb0ce_00031;31;;rue des Régniers;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.649923;47.960152
+89268_0120_00008;8;;Rue de la Côte;89250;89268;Mont-Saint-Sulpice;;;3.625879;47.948387
+89268_0320_00036;36;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.622377;47.954629
+89268_0330_00007;7;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627268;47.954969
+89268_pqb0ce_00002;2;;rue des Régniers;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.649991;47.960727
+89268_0330_00013;13;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627782;47.955955
+89268_0375_00015;15;;Rue de la Truballe;89250;89268;Mont-Saint-Sulpice;;;3.624898;47.953787
+89268_0050_00017;17;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.62875;47.951392
+89268_7zrc1d_00001;1;;Rue Richardot;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.654256;47.957364
+89268_0051_00002;2;;Chemin de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.630265;47.951342
+89268_0110_00008;8;;Rue du Chenois;89250;89268;Mont-Saint-Sulpice;;;3.625711;47.954339
+89268_0150_00003_c;3;c;Rue de la Doué;89250;89268;Mont-Saint-Sulpice;;;3.622895;47.953228
+89268_0350_00002_c;2;c;Rue du Tertre;89250;89268;Mont-Saint-Sulpice;;;3.623568;47.951736
+89268_0050_00010_bis;10;bis;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.627057;47.951643
+89268_0130_00006;6;;Rue de la Croix Saint-jean;89250;89268;Mont-Saint-Sulpice;;;3.624111;47.954018
+89268_0110_00015;15;;Rue du Chenois;89250;89268;Mont-Saint-Sulpice;;;3.62639;47.954243
+89268_pqb0ce_00020;20;;rue des Régniers;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.64963;47.960758
+89268_0050_00001;1;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.626683;47.951939
+89268_0051_00007;7;;Chemin de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.632618;47.951528
+89268_0230_00006;6;;Rue des Louis Voles;89250;89268;Mont-Saint-Sulpice;;;3.624428;47.955116
+89268_0250_00030_bis;30;bis;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.627676;47.949424
+89268_0100_00014;14;;Rue de la Chaume à la Dame;89250;89268;Mont-Saint-Sulpice;;;3.629265;47.955802
+89268_0020_00015;15;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.62919;47.949989
+89268_0135_00006;6;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.625075;47.955152
+89268_0080_00010;10;;Rue de la Cave à Besançon;89250;89268;Mont-Saint-Sulpice;;;3.624228;47.955762
+89268_0120_00009;9;;Rue de la Côte;89250;89268;Mont-Saint-Sulpice;;;3.6259;47.948237
+89268_0330_00011;11;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627776;47.955639
+89268_0060_00015;15;;Rue des Bruleries;89250;89268;Mont-Saint-Sulpice;;;3.627607;47.955377
+89268_0320_00015;15;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.624125;47.952793
+89268_0010_00024;24;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.634739;47.950579
+89268_0250_00033_bis;33;bis;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.628612;47.949485
+89268_0250_00023;23;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.626817;47.949982
+89268_0250_00026_c;26;c;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.626812;47.949711
+89268_0210_00004;4;;Rue du 8 Mai;89250;89268;Mont-Saint-Sulpice;;;3.627507;47.952765
+89268_b124_00004;4;;Rue Anciens Combattants Afrique Nord;89250;89268;Mont-Saint-Sulpice;;;3.625197;47.950252
+89268_0320_00022;22;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.624038;47.953337
+89268_0111_00002;2;;Impasse du Chenois;89250;89268;Mont-Saint-Sulpice;;;3.626117;47.954877
+89268_0120_00011;11;;Rue de la Côte;89250;89268;Mont-Saint-Sulpice;;;3.624958;47.948116
+89268_0250_00029;29;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.627838;47.949455
+89268_0060_00005;5;;Rue des Bruleries;89250;89268;Mont-Saint-Sulpice;;;3.62619;47.955844
+89268_0320_00017;17;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.62399;47.952917
+89268_0349_00006;6;;Chemin du Tertre;89250;89268;Mont-Saint-Sulpice;;;3.622707;47.951777
+89268_a040_00001;1;;Ferme des Bedarts;89250;89268;Mont-Saint-Sulpice;;;3.652185;47.947137
+89268_0110_00011;11;;Rue du Chenois;89250;89268;Mont-Saint-Sulpice;;;3.625916;47.954367
+89268_0190_00003;3;;Rue du Four;89250;89268;Mont-Saint-Sulpice;;;3.625166;47.95384
+89268_0080_00013;13;;Rue de la Cave à Besançon;89250;89268;Mont-Saint-Sulpice;;;3.623539;47.955774
+89268_0320_00032;32;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.623026;47.954012
+89268_0320_00029;29;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.623291;47.953594
+89268_0060_00010;10;;Rue des Bruleries;89250;89268;Mont-Saint-Sulpice;;;3.626478;47.955661
+89268_0090_00014;14;;Rue du Chateau;89250;89268;Mont-Saint-Sulpice;;;3.627111;47.953378
+89268_0051_00014;14;;Chemin de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.633146;47.951502
+89268_0010_00029;29;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.634024;47.950709
+89268_0060_00004;4;;Rue des Bruleries;89250;89268;Mont-Saint-Sulpice;;;3.625819;47.955741
+89268_0110_00013;13;;Rue du Chenois;89250;89268;Mont-Saint-Sulpice;;;3.626077;47.954318
+89268_0135_00008;8;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.625356;47.955094
+89268_0350_00016;16;;Rue du Tertre;89250;89268;Mont-Saint-Sulpice;;;3.621248;47.950299
+89268_0010_00014;14;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.632429;47.950108
+89268_0020_00006;6;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.628388;47.950985
+89268_0320_00026;26;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.623591;47.953467
+89268_b056_00001;1;;Ferme de Paincourt;89250;89268;Mont-Saint-Sulpice;;;3.611844;47.970085
+89268_0320_00021;21;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.623715;47.953182
+89268_0330_00012;12;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.62756;47.955115
+89268_0130_00007;7;;Rue de la Croix Saint-jean;89250;89268;Mont-Saint-Sulpice;;;3.624024;47.954099
+89268_0050_00030;30;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.629766;47.951337
+89268_0275_00001;1;;Chemin des Morillons;89250;89268;Mont-Saint-Sulpice;;;3.625747;47.957996
+89268_0349_00004;4;;Chemin du Tertre;89250;89268;Mont-Saint-Sulpice;;;3.623193;47.951667
+89268_0095_00008;8;;Rue du Château d'Eau;89250;89268;Mont-Saint-Sulpice;;;3.625889;47.949281
+89268_0110_00005;5;;Rue du Chenois;89250;89268;Mont-Saint-Sulpice;;;3.625341;47.954492
+89268_0350_00018;18;;Rue du Tertre;89250;89268;Mont-Saint-Sulpice;;;3.621675;47.950225
+89268_0330_00003;3;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627013;47.954638
+89268_0350_00008;8;;Rue du Tertre;89250;89268;Mont-Saint-Sulpice;;;3.622191;47.950791
+89268_pqb0ce_00001_a;1;a;rue des Régniers;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.654986;47.956983
+89268_0330_00030;30;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627688;47.956644
+89268_0100_00014_b;14;b;Rue de la Chaume à la Dame;89250;89268;Mont-Saint-Sulpice;;;3.629187;47.955758
+89268_0060_00016;16;;Rue des Bruleries;89250;89268;Mont-Saint-Sulpice;;;3.627128;47.955459
+89268_0250_00024;24;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.62674;47.949907
+89268_0135_00009;9;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.624932;47.95531
+89268_0344_00004;4;;Rue du Stade;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.654839;47.954646
+89268_0020_00005_bis;5;bis;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.628677;47.950757
+89268_0090_00010;10;;Rue du Chateau;89250;89268;Mont-Saint-Sulpice;;;3.626912;47.953087
+89268_0080_00006;6;;Rue de la Cave à Besançon;89250;89268;Mont-Saint-Sulpice;;;3.62389;47.955024
+89268_0090_00006;6;;Rue du Chateau;89250;89268;Mont-Saint-Sulpice;;;3.626531;47.952538
+89268_0250_00004;4;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.625568;47.951648
+89268_0080_00015;15;;Rue de la Cave à Besançon;89250;89268;Mont-Saint-Sulpice;;;3.624352;47.956309
+89268_0120_00010;10;;Rue de la Côte;89250;89268;Mont-Saint-Sulpice;;;3.62561;47.948339
+89268_0320_00008_bis;8;bis;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.625154;47.952198
+89268_0135_00016;16;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.625219;47.955736
+89268_0121_00001;1;;Impasse de la Cote;89250;89268;Mont-Saint-Sulpice;;;3.628249;47.94873
+89268_0344_00014;14;;Rue du Stade;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.655118;47.952094
+89268_0330_00018;18;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.62778;47.955397
+89268_0050_00028;28;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.629429;47.951303
+89268_0060_00009;9;;Rue des Bruleries;89250;89268;Mont-Saint-Sulpice;;;3.626512;47.955745
+89268_0270_00002;2;;Rue de la Montagne à Dieu;89250;89268;Mont-Saint-Sulpice;;;3.629534;47.948819
+89268_0110_00004;4;;Rue du Chenois;89250;89268;Mont-Saint-Sulpice;;;3.625121;47.954262
+89268_0090_00007;7;;Rue du Chateau;89250;89268;Mont-Saint-Sulpice;;;3.626938;47.953351
+89268_0020_00020;20;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.628891;47.950176
+89268_0135_00003;3;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.624759;47.954772
+89268_0060_00006;6;;Rue des Bruleries;89250;89268;Mont-Saint-Sulpice;;;3.626066;47.95581
+89268_0050_00038;38;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.630695;47.951483
+89268_0121_00004;4;;Impasse de la Cote;89250;89268;Mont-Saint-Sulpice;;;3.628035;47.948672
+89268_0080_00017;17;;Rue de la Cave à Besançon;89250;89268;Mont-Saint-Sulpice;;;3.624497;47.956295
+89268_0054_00010;10;;Chemin de Brienon;89250;89268;Mont-Saint-Sulpice;;;3.62526;47.957102
+89268_0250_00009;9;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.625872;47.950962
+89268_0135_00002;2;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.624613;47.954203
+89268_0150_00003_b;3;b;Rue de la Doué;89250;89268;Mont-Saint-Sulpice;;;3.623065;47.953146
+89268_0135_00019;19;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.62517;47.955986
+89268_0120_00021;21;;Rue de la Côte;89250;89268;Mont-Saint-Sulpice;;;3.623388;47.94795
+89268_0100_00010;10;;Rue de la Chaume à la Dame;89250;89268;Mont-Saint-Sulpice;;;3.629229;47.955709
+89268_0050_00020;20;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.627718;47.951381
+89268_0110_00010;10;;Rue du Chenois;89250;89268;Mont-Saint-Sulpice;;;3.626489;47.954149
+89268_0300_00011;11;;Rue du 11 Novembre;89250;89268;Mont-Saint-Sulpice;;;3.630331;47.95035
+89268_0120_00003;3;;Rue de la Côte;89250;89268;Mont-Saint-Sulpice;;;3.626702;47.948417
+89268_0010_00006;6;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.630352;47.94964
+89268_0050_00004;4;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.626482;47.95187
+89268_0090_00011;11;;Rue du Chateau;89250;89268;Mont-Saint-Sulpice;;;3.626899;47.954195
+89268_0130_00004;4;;Rue de la Croix Saint-jean;89250;89268;Mont-Saint-Sulpice;;;3.623938;47.953955
+89268_0250_00027;27;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.62727;47.94988
+89268_0250_00005;5;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.625756;47.951368
+89268_0120_00001;1;;Rue de la Côte;89250;89268;Mont-Saint-Sulpice;;;3.627375;47.948563
+89268_0050_00008;8;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.626933;47.951699
+89268_0051_00006;6;;Chemin de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.631657;47.951408
+89268_0320_00016;16;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.624152;47.95291
+89268_0080_00002;2;;Rue de la Cave à Besançon;89250;89268;Mont-Saint-Sulpice;;;3.624392;47.954224
+89268_0090_00016;16;;Rue du Chateau;89250;89268;Mont-Saint-Sulpice;;;3.627115;47.953584
+89268_0050_00012;12;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.627205;47.951602
+89268_0100_00002;2;;Rue de la Chaume à la Dame;89250;89268;Mont-Saint-Sulpice;;;3.628069;47.955551
+89268_0120_00016;16;;Rue de la Côte;89250;89268;Mont-Saint-Sulpice;;;3.624145;47.948147
+89268_0120_00014;14;;Rue de la Côte;89250;89268;Mont-Saint-Sulpice;;;3.624785;47.94822
+89268_0350_00004;4;;Rue du Tertre;89250;89268;Mont-Saint-Sulpice;;;3.622608;47.951056
+89268_0050_00015;15;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.628391;47.951394
+89268_0320_00019;19;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.623884;47.953078
+89268_0350_00010;10;;Rue du Tertre;89250;89268;Mont-Saint-Sulpice;;;3.621764;47.950746
+89268_0300_00011_b;11;b;Rue du 11 Novembre;89250;89268;Mont-Saint-Sulpice;;;3.630601;47.950225
+89268_0350_00014;14;;Rue du Tertre;89250;89268;Mont-Saint-Sulpice;;;3.621439;47.95048
+89268_5vr1s4_00003;3;;Chemin de Gros Bois;89250;89268;Mont-Saint-Sulpice;;;3.621243;47.954723
+89268_0090_00012;12;;Rue du Chateau;89250;89268;Mont-Saint-Sulpice;;;3.627027;47.953228
+89268_0111_00001;1;;Impasse du Chenois;89250;89268;Mont-Saint-Sulpice;;;3.625795;47.954576
+89268_0250_00014;14;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.625889;47.950748
+89268_0060_00011;11;;Rue des Bruleries;89250;89268;Mont-Saint-Sulpice;;;3.626825;47.955641
+89268_0060_00010_bis;10;bis;Rue des Bruleries;89250;89268;Mont-Saint-Sulpice;;;3.626529;47.955439
+89268_0300_00007;7;;Rue du 11 Novembre;89250;89268;Mont-Saint-Sulpice;;;3.629634;47.950667
+89268_pqb0ce_00001;1;;rue des Régniers;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.654656;47.957176
+89268_0060_00001;1;;Rue des Bruleries;89250;89268;Mont-Saint-Sulpice;;;3.625548;47.955972
+89268_pqb0ce_00018;18;;rue des Régniers;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.650342;47.960341
+89268_0090_00009_bis;9;bis;Rue du Chateau;89250;89268;Mont-Saint-Sulpice;;;3.626911;47.954119
+89268_0150_00003;3;;Rue de la Doué;89250;89268;Mont-Saint-Sulpice;;;3.622738;47.953568
+89268_0020_00004;4;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.628265;47.951127
+89268_0050_00023;23;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.630901;47.951641
+89268_0251_00003;3;;Impasse Marchande;89250;89268;Mont-Saint-Sulpice;;;3.627459;47.949169
+89268_0344_00016;16;;Rue du Stade;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.655131;47.95188
+89268_0130_00005;5;;Rue de la Croix Saint-jean;89250;89268;Mont-Saint-Sulpice;;;3.623752;47.953982
+89268_b124_00004_bis;4;bis;Rue Anciens Combattants Afrique Nord;89250;89268;Mont-Saint-Sulpice;;;3.625065;47.950313
+89268_0060_00014;14;;Rue des Bruleries;89250;89268;Mont-Saint-Sulpice;;;3.626911;47.955532
+89268_0100_00013;13;;Rue de la Chaume à la Dame;89250;89268;Mont-Saint-Sulpice;;;3.62987;47.956039
+89268_0210_00007;7;;Rue du 8 Mai;89250;89268;Mont-Saint-Sulpice;;;3.627203;47.952125
+89268_0050_00036;36;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.630114;47.951094
+89268_0100_00005_bis;5;bis;Rue de la Chaume à la Dame;89250;89268;Mont-Saint-Sulpice;;;3.628484;47.955722
+89268_0250_00034;34;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.62812;47.94915
+89268_0020_00007;7;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.628769;47.950627
+89268_0020_00003;3;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.628554;47.950938
+89268_0375_00001;1;;Rue de la Truballe;89250;89268;Mont-Saint-Sulpice;;;3.624838;47.95263
+89268_0190_00002;2;;Rue du Four;89250;89268;Mont-Saint-Sulpice;;;3.62504;47.953762
+89268_0330_00008;8;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627334;47.95486
+89268_0210_00002;2;;Rue du 8 Mai;89250;89268;Mont-Saint-Sulpice;;;3.627457;47.952948
+89268_0120_00006;6;;Rue de la Côte;89250;89268;Mont-Saint-Sulpice;;;3.62614;47.948423
+89268_a050_00001;1;;Ferme des Morillons;89250;89268;Mont-Saint-Sulpice;;;3.624723;47.973451
+89268_kqeipt_00003_bis;3;bis;Grande rue;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.65497;47.957387
+89268_0020_00011;11;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.628986;47.950264
+89268_0080_00013_bis;13;bis;Rue de la Cave à Besançon;89250;89268;Mont-Saint-Sulpice;;;3.623294;47.956562
+89268_pqb0ce_00029;29;;rue des Régniers;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.650006;47.959738
+89268_0120_00031;31;;Rue de la Côte;89250;89268;Mont-Saint-Sulpice;;;3.6221;47.947992
+89268_0060_00002;2;;Rue des Bruleries;89250;89268;Mont-Saint-Sulpice;;;3.625793;47.95589
+89268_0051_00016;16;;Chemin de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.633427;47.951607
+89268_6f14au_00001;1;;Lieu Dit le Fourneau;89250;89268;Mont-Saint-Sulpice;;;3.646658;47.954842
+89268_0054_00004;4;;Chemin de Brienon;89250;89268;Mont-Saint-Sulpice;;;3.625362;47.956527
+89268_0250_00021;21;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.626707;47.950047
+89268_0330_00024;24;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627934;47.956207
+89268_0110_00002;2;;Rue du Chenois;89250;89268;Mont-Saint-Sulpice;;;3.62488;47.954145
+89268_0320_00034;34;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.62269;47.954309
+89268_0090_00002;2;;Rue du Chateau;89250;89268;Mont-Saint-Sulpice;;;3.626529;47.952215
+89268_a030_00362;362;;La Cote aux Merises;89250;89268;Mont-Saint-Sulpice;;;3.618722;47.975083
+89268_0050_00016;16;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.627364;47.951437
+89268_0370_00003;3;;Rue du Trier;89250;89268;Mont-Saint-Sulpice;;;3.628494;47.955187
+89268_0350_00002;2;;Rue du Tertre;89250;89268;Mont-Saint-Sulpice;;;3.622927;47.951311
+89268_0010_00009;9;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.630472;47.949756
+89268_0190_00005;5;;Rue du Four;89250;89268;Mont-Saint-Sulpice;;;3.625622;47.953729
+89268_0020_00005;5;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.628607;47.950861
+89268_0320_00027_b;27;b;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.623373;47.953481
+89268_0250_00026_b;26;b;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.626867;47.949746
+89268_0160_00002;2;;Place de l’Église;89250;89268;Mont-Saint-Sulpice;;;3.629141;47.949121
+89268_0090_00018;18;;Rue du Chateau;89250;89268;Mont-Saint-Sulpice;;;3.627094;47.953866
+89268_0150_00006;6;;Rue de la Doué;89250;89268;Mont-Saint-Sulpice;;;3.622055;47.953437
+89268_0010_00016;16;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.632628;47.949925
+89268_0100_00003;3;;Rue de la Chaume à la Dame;89250;89268;Mont-Saint-Sulpice;;;3.628156;47.95565
+89268_0190_00004;4;;Rue du Four;89250;89268;Mont-Saint-Sulpice;;;3.626538;47.953982
+89268_0230_00004;4;;Rue des Louis Voles;89250;89268;Mont-Saint-Sulpice;;;3.624211;47.955063
+89268_0250_00026_a;26;a;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.626914;47.949785
+89268_0375_00010;10;;Rue de la Truballe;89250;89268;Mont-Saint-Sulpice;;;3.624996;47.953496
+89268_0300_00008;8;;Rue du 11 Novembre;89250;89268;Mont-Saint-Sulpice;;;3.63008;47.950378
+89268_0330_00002;2;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627042;47.954371
+89268_0190_00001;1;;Rue du Four;89250;89268;Mont-Saint-Sulpice;;;3.624886;47.953963
+89268_0250_00035;35;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.628758;47.94929
+89268_0111_00005;5;;Impasse du Chenois;89250;89268;Mont-Saint-Sulpice;;;3.626018;47.954967
+89268_0090_00003;3;;Rue du Chateau;89250;89268;Mont-Saint-Sulpice;;;3.626371;47.95231
+89268_0320_00013_b;13;b;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.624234;47.952672
+89268_0090_00009;9;;Rue du Chateau;89250;89268;Mont-Saint-Sulpice;;;3.627009;47.953699
+89268_0010_00027;27;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.633492;47.950574
+89268_0010_00010;10;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.631421;47.949667
+89268_0210_00003;3;;Rue du 8 Mai;89250;89268;Mont-Saint-Sulpice;;;3.627601;47.9529
+89268_0300_00003;3;;Rue du 11 Novembre;89250;89268;Mont-Saint-Sulpice;;;3.629118;47.950904
+89268_0020_00026;26;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.629158;47.949785
+89268_0095_00006;6;;Rue du Château d'Eau;89250;89268;Mont-Saint-Sulpice;;;3.625814;47.949527
+89268_0010_00004;4;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.630129;47.949551
+89268_0350_00003;3;;Rue du Tertre;89250;89268;Mont-Saint-Sulpice;;;3.623945;47.951868
+89268_0135_00004;4;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.624841;47.954638
+89268_0344_00008;8;;Rue du Stade;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.655078;47.952695
+89268_0095_00012;12;;Rue du Château d'Eau;89250;89268;Mont-Saint-Sulpice;;;3.625981;47.949048
+89268_0330_00014;14;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627624;47.955196
+89268_0190_00007;7;;Rue du Four;89250;89268;Mont-Saint-Sulpice;;;3.626744;47.954269
+89268_0160_00001;1;;Place de l’Église;89250;89268;Mont-Saint-Sulpice;;;3.629414;47.949087
+89268_0350_00002_a;2;a;Rue du Tertre;89250;89268;Mont-Saint-Sulpice;;;3.62415;47.952122
+89268_0050_00024;24;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.628956;47.951301
+89268_0010_00008;8;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.630774;47.949754
+89268_0320_00030;30;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.623127;47.953909
+89268_0110_00007_bis;7;bis;Rue du Chenois;89250;89268;Mont-Saint-Sulpice;;;3.625592;47.954446
+89268_0270_00001;1;;Rue de la Montagne à Dieu;89250;89268;Mont-Saint-Sulpice;;;3.629557;47.948903
+89268_0050_00002;2;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.626331;47.95192
+89268_0040_00005;5;;Rue de la Basselle;89250;89268;Mont-Saint-Sulpice;;;3.628907;47.948732
+89268_0250_00001;1;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.625735;47.951585
+89268_0150_00004;4;;Rue de la Doué;89250;89268;Mont-Saint-Sulpice;;;3.622224;47.953481
+89268_0250_00015;15;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.626268;47.95039
+89268_0320_00033;33;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.622847;47.954
+89268_0150_00001;1;;Rue de la Doué;89250;89268;Mont-Saint-Sulpice;;;3.623044;47.953674
+89268_0020_00018;18;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.628829;47.950276
+89268_0120_00004;4;;Rue de la Côte;89250;89268;Mont-Saint-Sulpice;;;3.627329;47.948662
+89268_0100_00006;6;;Rue de la Chaume à la Dame;89250;89268;Mont-Saint-Sulpice;;;3.628503;47.955648
+89268_0375_00009;9;;Rue de la Truballe;89250;89268;Mont-Saint-Sulpice;;;3.624936;47.953002
+89268_0250_00043;43;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.629337;47.949389
+89268_pqb0ce_00009;9;;rue des Régniers;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.652997;47.957427
+89268_0135_00018;18;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.625271;47.955853
+89268_0375_00002;2;;Rue de la Truballe;89250;89268;Mont-Saint-Sulpice;;;3.624745;47.952522
+89268_0135_00011;11;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.624994;47.955495
+89268_0010_00002;2;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.629888;47.949479
+89268_0054_00003;3;;Chemin de Brienon;89250;89268;Mont-Saint-Sulpice;;;3.625179;47.956869
+89268_0251_00002;2;;Impasse Marchande;89250;89268;Mont-Saint-Sulpice;;;3.627488;47.949049
+89268_0344_00002;2;;Rue du Stade;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.65466;47.955232
+89268_0320_00023;23;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.623642;47.953249
+89268_0300_00005;5;;Rue du 11 Novembre;89250;89268;Mont-Saint-Sulpice;;;3.62937;47.950785
+89268_0320_00041;41;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.622085;47.954758
+89268_0100_00007;7;;Rue de la Chaume à la Dame;89250;89268;Mont-Saint-Sulpice;;;3.628863;47.955798
+89268_b124_00010;10;;Rue Anciens Combattants Afrique Nord;89250;89268;Mont-Saint-Sulpice;;;3.623913;47.950418
+89268_0320_00013;13;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.624477;47.95244
+89268_0020_00016;16;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.62873;47.950386
+89268_0040_00003;3;;Rue de la Basselle;89250;89268;Mont-Saint-Sulpice;;;3.628993;47.948788
+89268_0330_00028;28;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627889;47.956403
+89268_0250_00003;3;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.625734;47.951483
+89268_0090_00001;1;;Rue du Chateau;89250;89268;Mont-Saint-Sulpice;;;3.626336;47.95223
+89268_0135_00005;5;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.624838;47.955097
+89268_0260_00002_a;2;a;Place de la Mairie;89250;89268;Mont-Saint-Sulpice;;;3.626027;47.951998
+89268_0100_00012;12;;Rue de la Chaume à la Dame;89250;89268;Mont-Saint-Sulpice;;;3.629355;47.955747
+89268_0080_00007;7;;Rue de la Cave à Besançon;89250;89268;Mont-Saint-Sulpice;;;3.623632;47.955178
+89268_0051_00001;1;;Chemin de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.630803;47.95148
+89268_0020_00017;17;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.62932;47.949739
+89268_0110_00007;7;;Rue du Chenois;89250;89268;Mont-Saint-Sulpice;;;3.625516;47.954467
+89268_0050_00025;25;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.630385;47.951537
+89268_0260_00002_b;2;b;Place de la Mairie;89250;89268;Mont-Saint-Sulpice;;;3.625915;47.952028
+89268_0060_00012;12;;Rue des Bruleries;89250;89268;Mont-Saint-Sulpice;;;3.626685;47.95541
+89268_0060_00010_ter;10;ter;Rue des Bruleries;89250;89268;Mont-Saint-Sulpice;;;3.626654;47.955536
+89268_0135_00010;10;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.625202;47.955199
+89268_0330_00022;22;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627929;47.956073
+89268_0020_00001;1;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.628443;47.951116
+89268_0010_00001;1;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.62958;47.949492
+89268_0150_00005;5;;Rue de la Doué;89250;89268;Mont-Saint-Sulpice;;;3.622408;47.953466
+89268_0120_00013;13;;Rue de la Côte;89250;89268;Mont-Saint-Sulpice;;;3.624712;47.948064
+89268_0050_00006_bis;6;bis;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.626673;47.951805
+89268_0375_00013;13;;Rue de la Truballe;89250;89268;Mont-Saint-Sulpice;;;3.624896;47.953477
+89268_0054_00007;7;;Chemin de Brienon;89250;89268;Mont-Saint-Sulpice;;;3.625112;47.957209
+89268_0250_00037;37;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.628916;47.949311
+89268_0020_00008;8;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.628441;47.950883
+89268_0375_00008;8;;Rue de la Truballe;89250;89268;Mont-Saint-Sulpice;;;3.625016;47.953326
+89268_pqb0ce_00004;4;;rue des Régniers;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.65446;47.956863
+89268_0100_00011;11;;Rue de la Chaume à la Dame;89250;89268;Mont-Saint-Sulpice;;;3.629308;47.955896
+89268_0320_00006;6;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.62542;47.952116
+89268_a030_00361;361;;La Cote aux Merises;89250;89268;Mont-Saint-Sulpice;;;3.618209;47.975488
+89268_0080_00003;3;;Rue de la Cave à Besançon;89250;89268;Mont-Saint-Sulpice;;;3.623768;47.954983
+89268_kqeipt_00003;3;;Grande rue;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.655327;47.957249
+89268_0130_00002;2;;Rue de la Croix Saint-jean;89250;89268;Mont-Saint-Sulpice;;;3.623761;47.953879
+89268_0121_00005;5;;Impasse de la Cote;89250;89268;Mont-Saint-Sulpice;;;3.628161;47.948762
+89268_0050_00019;19;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.628866;47.951389
+89268_0095_00004;4;;Rue du Château d'Eau;89250;89268;Mont-Saint-Sulpice;;;3.62577;47.949666
+89268_0080_00001;1;;Rue de la Cave à Besançon;89250;89268;Mont-Saint-Sulpice;;;3.624031;47.954572
+89268_0250_00019;19;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.626508;47.950185
+89268_pqb0ce_00008;8;;rue des Régniers;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.653589;47.957368
+89268_b124_00008;8;;Rue Anciens Combattants Afrique Nord;89250;89268;Mont-Saint-Sulpice;;;3.624292;47.950319
+89268_0095_00017;17;;Rue du Château d'Eau;89250;89268;Mont-Saint-Sulpice;;;3.626311;47.950126
+89268_0320_00011;11;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.624786;47.952266
+89268_0250_00002;2;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.625618;47.951868
+89268_0300_00004;4;;Rue du 11 Novembre;89250;89268;Mont-Saint-Sulpice;;;3.629766;47.950533
+89268_0100_00004;4;;Rue de la Chaume à la Dame;89250;89268;Mont-Saint-Sulpice;;;3.62827;47.955597
+89268_0054_00005;5;;Chemin de Brienon;89250;89268;Mont-Saint-Sulpice;;;3.625123;47.957061
+89268_0300_00012;12;;Rue du 11 Novembre;89250;89268;Mont-Saint-Sulpice;;;3.630761;47.950072
+89268_pqb0ce_00016;16;;rue des Régniers;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.650846;47.961058
+89268_pqb0ce_00001_b;1;b;rue des Régniers;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.655188;47.957062
+89268_0130_00008;8;;Rue de la Croix Saint-jean;89250;89268;Mont-Saint-Sulpice;;;3.624248;47.954072
+89268_7zrc1d_00002;2;;Rue Richardot;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.653981;47.957412
+89268_0010_00012;12;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.631621;47.94993
+89268_0330_00026;26;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627962;47.956303
+89268_0090_00008;8;;Rue du Chateau;89250;89268;Mont-Saint-Sulpice;;;3.62661;47.952717
+89268_0060_00007;7;;Rue des Bruleries;89250;89268;Mont-Saint-Sulpice;;;3.626358;47.95579
+89268_0375_00005;5;;Rue de la Truballe;89250;89268;Mont-Saint-Sulpice;;;3.625012;47.952746
+89268_0250_00013;13;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.626187;47.950443
+89268_b124_00006;6;;Rue Anciens Combattants Afrique Nord;89250;89268;Mont-Saint-Sulpice;;;3.624479;47.950273
+89268_0135_00015;15;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.625065;47.955776
+89268_0010_00018;18;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.632768;47.950075
+89268_0095_00002;2;;Rue du Château d'Eau;89250;89268;Mont-Saint-Sulpice;;;3.625716;47.949834
+89268_0250_00033;33;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.628522;47.949277
+89268_0320_00002;2;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.625752;47.952019
+89268_0320_00010;10;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.624885;47.952329
+89268_a030_00359;359;;La Cote aux Merises;89250;89268;Mont-Saint-Sulpice;;;3.618439;47.975333
+89268_0350_00012;12;;Rue du Tertre;89250;89268;Mont-Saint-Sulpice;;;3.621568;47.95059
+89268_0110_00001;1;;Rue du Chenois;89250;89268;Mont-Saint-Sulpice;;;3.624968;47.954274
+89268_0300_00002;2;;Rue du 11 Novembre;89250;89268;Mont-Saint-Sulpice;;;3.629479;47.950666
+89268_0010_00008_bis;8;bis;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.631128;47.949784
+89268_0250_00031;31;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.628306;47.949272
+89268_0370_00001;1;;Rue du Trier;89250;89268;Mont-Saint-Sulpice;;;3.628523;47.955338
+89268_0060_00008;8;;Rue des Bruleries;89250;89268;Mont-Saint-Sulpice;;;3.626282;47.955734
+89268_0330_00009;9;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627388;47.955145
+89268_0135_00001;1;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.62457;47.954341
+89268_0350_00001;1;;Rue du Tertre;89250;89268;Mont-Saint-Sulpice;;;3.624093;47.952008
+89268_0320_00031;31;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.623014;47.953802
+89268_0250_00012;12;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.625742;47.95093
+89268_0090_00004;4;;Rue du Chateau;89250;89268;Mont-Saint-Sulpice;;;3.626528;47.952374
+89268_0120_00015;15;;Rue de la Côte;89250;89268;Mont-Saint-Sulpice;;;3.624485;47.948055
+89268_0320_00039;39;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.622212;47.954595
+89268_0330_00001;1;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.626854;47.954412
+89268_0135_00017;17;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.625102;47.955887
+89268_0250_00011;11;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.626102;47.950587
+89268_0135_00013;13;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.625018;47.955619
+89268_0250_00025;25;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.627064;47.949893
+89268_0320_00018;18;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.624045;47.953017
+89268_0251_00001;1;;Impasse Marchande;89250;89268;Mont-Saint-Sulpice;;;3.627591;47.949078
+89268_0050_00011;11;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.627904;47.95148
+89268_0250_00028;28;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.627306;47.949602
+89268_0190_00009;9;;Rue du Four;89250;89268;Mont-Saint-Sulpice;;;3.626724;47.95439
+89268_pqb0ce_00010;10;;rue des Régniers;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.653099;47.957589
+89268_0330_00032;32;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627508;47.956809
+89268_0320_00043;43;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.621866;47.954932
+89268_0050_00003;3;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.626878;47.951832
+89268_0050_00018;18;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.627566;47.951434
+89268_0210_00006;6;;Rue du 8 Mai;89250;89268;Mont-Saint-Sulpice;;;3.627301;47.952423
+89268_0320_00020;20;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.623954;47.953131
+89268_0121_00002;2;;Impasse de la Cote;89250;89268;Mont-Saint-Sulpice;;;3.628121;47.948657
+89268_0320_00005;5;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.625076;47.952139
+89268_0320_00032_bis;32;bis;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.622881;47.954159
+89268_0250_00036;36;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.62825;47.949032
+89268_0135_00014;14;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.625196;47.955567
+89268_0250_00022;22;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.626618;47.950004
+89268_0120_00018;18;;Rue de la Côte;89250;89268;Mont-Saint-Sulpice;;;3.623598;47.948085
+89268_pqb0ce_00005;5;;rue des Régniers;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.65338;47.957046
+89268_0135_00007;7;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.624827;47.955196
+89268_0051_00003;3;;Chemin de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.632017;47.951481
+89268_0020_00002;2;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.628005;47.951253
+89268_0320_00001;1;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.625396;47.952006
+89268_0120_00002;2;;Rue de la Côte;89250;89268;Mont-Saint-Sulpice;;;3.628019;47.948924
+89268_0320_00028;28;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.623493;47.953556
+89268_0135_00012;12;;Rue du Crot à Bard;89250;89268;Mont-Saint-Sulpice;;;3.625123;47.955449
+89268_0330_00016;16;;Rue du Puits de la Chèvre;89250;89268;Mont-Saint-Sulpice;;;3.627685;47.95526
+89268_0250_00039;39;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.62907;47.949327
+89268_0350_00006;6;;Rue du Tertre;89250;89268;Mont-Saint-Sulpice;;;3.622387;47.950844
+89268_0250_00016;16;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.625969;47.950601
+89268_0320_00014;14;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.624295;47.952791
+89268_0040_00007;7;;Rue de la Basselle;89250;89268;Mont-Saint-Sulpice;;;3.628646;47.948584
+89268_0300_00015;15;;Rue du 11 Novembre;89250;89268;Mont-Saint-Sulpice;;;3.631123;47.949989
+89268_0320_00027;27;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.623338;47.953542
+89268_0320_00024;24;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.62375;47.953318
+89268_0050_00013;13;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.628231;47.951416
+89268_0080_00006_bis;6;bis;Rue de la Cave à Besançon;89250;89268;Mont-Saint-Sulpice;;;3.62366;47.955707
+89268_a030_00364;364;;La Cote aux Merises;89250;89268;Mont-Saint-Sulpice;;;3.618097;47.975559
+89268_0020_00013;13;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.629092;47.95014
+89268_0020_00009;9;;Rue des Arpents;89250;89268;Mont-Saint-Sulpice;;;3.628869;47.950464
+89268_0010_00003;3;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.629881;47.949566
+89268_0320_00037;37;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.622453;47.95435
+89268_0250_00007;7;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.625808;47.951168
+89268_0344_00001;1;;Rue du Stade;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.654663;47.953753
+89268_0054_00008;8;;Chemin de Brienon;89250;89268;Mont-Saint-Sulpice;;;3.625286;47.956967
+89268_0010_00021;21;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.632312;47.950184
+89268_0110_00006;6;;Rue du Chenois;89250;89268;Mont-Saint-Sulpice;;;3.625515;47.95439
+89268_0320_00009;9;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.6249;47.952198
+89268_0250_00036_a;36;a;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.628203;47.949064
+89268_0320_00008;8;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.625246;47.952188
+89268_0250_00018;18;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.626093;47.950415
+89268_0250_00017;17;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.626371;47.950287
+89268_a030_00358;358;;La Cote aux Merises;89250;89268;Mont-Saint-Sulpice;;;3.617976;47.975638
+89268_0250_00041;41;;Rue Marchande;89250;89268;Mont-Saint-Sulpice;;;3.629217;47.949343
+89268_0370_00002;2;;Rue du Trier;89250;89268;Mont-Saint-Sulpice;;;3.628373;47.955099
+89268_0050_00021;21;;Rue de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.629499;47.951411
+89268_0010_00019;19;;Rue d’Arches;89250;89268;Mont-Saint-Sulpice;;;3.632075;47.950133
+89268_0040_00001;1;;Rue de la Basselle;89250;89268;Mont-Saint-Sulpice;;;3.629284;47.948976
+89268_0320_00035;35;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.622695;47.954149
+89268_0100_00009;9;;Rue de la Chaume à la Dame;89250;89268;Mont-Saint-Sulpice;;;3.629078;47.955856
+89268_0300_00001;1;;Rue du 11 Novembre;89250;89268;Mont-Saint-Sulpice;;;3.628903;47.951006
+89268_0320_00003;3;;Rue de Paris;89250;89268;Mont-Saint-Sulpice;;;3.625318;47.952038
+89268_0051_00004;4;;Chemin de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.630728;47.951371
+89268_0120_00005;5;;Rue de la Côte;89250;89268;Mont-Saint-Sulpice;;;3.626428;47.948363
+89268_0051_00013;13;;Chemin de Bouilly;89250;89268;Mont-Saint-Sulpice;;;3.633775;47.951888
+89268_pqb0ce_00012;12;;rue des Régniers;89250;89268;Mont-Saint-Sulpice;;Les Régniers;3.654282;47.956686

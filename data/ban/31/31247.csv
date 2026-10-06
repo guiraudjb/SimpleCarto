@@ -1,0 +1,792 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+31247_0120_00010;10;;Boulevard Verdun;31800;31247;Labarthe-Rivière;;;0.670645;43.0812
+31247_0070_00024;24;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.673968;43.074571
+31247_0086_00037;37;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.671189;43.088043
+31247_0025_00004;4;;Rue Edouard Branly;31800;31247;Labarthe-Rivière;;;0.671297;43.078333
+31247_0118_00044_b;44;b;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.663156;43.082854
+31247_0035_00012;12;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.66953;43.08308
+31247_0065_00078;78;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.684841;43.086616
+31247_0103_00004;4;;Chemin du Souc;31800;31247;Labarthe-Rivière;;;0.681655;43.083879
+31247_0017_00014;14;;Chemin du Comté;31800;31247;Labarthe-Rivière;;;0.679028;43.073817
+31247_0035_00047;47;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.663963;43.087729
+31247_0086_00029;29;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.668145;43.08773
+31247_0068_00048;48;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.658483;43.076688
+31247_0065_00007;7;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.672585;43.081392
+31247_0067_00017;17;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.67337;43.079448
+31247_0037_00001;1;;Rue Georges Guynemer;31800;31247;Labarthe-Rivière;;;0.667089;43.080707
+31247_0050_00019;19;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.6709;43.080047
+31247_0065_00050;50;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.680616;43.08354
+31247_0055_00002;2;;Place Jules Massenet;31800;31247;Labarthe-Rivière;;;0.671487;43.080904
+31247_0067_00015;15;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.673516;43.079518
+31247_0020_00007;7;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.665876;43.07735
+31247_0086_00012_a;12;a;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.667713;43.08666
+31247_0095_00005;5;;Rue du Saint-aubin;31800;31247;Labarthe-Rivière;;;0.678128;43.080237
+31247_0118_00048_f;48;f;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.662817;43.084186
+31247_0086_00008;8;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.667026;43.086383
+31247_0065_00021;21;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.673286;43.081609
+31247_0027_00011;11;;Chemin des Espérades;31800;31247;Labarthe-Rivière;;;0.676438;43.075097
+31247_0050_00027;27;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.670773;43.080232
+31247_0122_00005;5;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.672635;43.078889
+31247_0086_00006;6;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.666397;43.0861
+31247_0061_00007;7;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.666435;43.087654
+31247_0067_00002_bis;2;bis;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.672589;43.079663
+31247_0068_00037;37;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.663949;43.079004
+31247_0118_00036;36;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.665694;43.0818
+31247_0035_00010;10;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.66951;43.082946
+31247_0020_00022;22;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.665445;43.076115
+31247_0086_00012;12;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.667393;43.086529
+31247_0065_00054;54;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.680918;43.083668
+31247_0120_00028;28;;Boulevard Verdun;31800;31247;Labarthe-Rivière;;;0.669582;43.080835
+31247_0065_00019;19;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.673182;43.081575
+31247_0120_00026;26;;Boulevard Verdun;31800;31247;Labarthe-Rivière;;;0.669785;43.080868
+31247_0086_00018;18;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.669677;43.087532
+31247_0086_00029_b;29;b;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.66827;43.087867
+31247_0100_00011_b;11;b;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.670651;43.084394
+31247_0082_00003;3;;Rue Pasteur;31800;31247;Labarthe-Rivière;;;0.671575;43.079289
+31247_0118_00046;46;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.662072;43.083422
+31247_0020_00012;12;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.664786;43.077459
+31247_0020_00024;24;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.665545;43.075935
+31247_0030_00002;2;;Route de la Fontaine;31800;31247;Labarthe-Rivière;;;0.677865;43.082538
+31247_0112_00010;10;;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.68206;43.079549
+31247_0035_00038;38;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.667679;43.084715
+31247_0110_00004;4;;Avenue des Thermes des Convènes;31800;31247;Labarthe-Rivière;;;0.674095;43.079565
+31247_0065_00063;63;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.68139;43.084665
+31247_0065_00041;41;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.67484;43.083313
+31247_0020_00018;18;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.665394;43.076415
+31247_0118_00040_c;40;c;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.66405;43.082461
+31247_0068_00030;30;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.662713;43.078583
+31247_0063_00004;4;;Chemin de Lussan;31800;31247;Labarthe-Rivière;;;0.66029;43.084456
+31247_0050_00015;15;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.67101;43.080201
+31247_0067_00001;1;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.672774;43.079798
+31247_0086_00029_c;29;c;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.668719;43.087992
+31247_0110_00015;15;;Avenue des Thermes des Convènes;31800;31247;Labarthe-Rivière;;;0.674767;43.080369
+31247_0037_00003;3;;Rue Georges Guynemer;31800;31247;Labarthe-Rivière;;;0.667082;43.080879
+31247_0100_00024_d;24;d;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671816;43.08765
+31247_0052_00018;18;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.676669;43.0773
+31247_0068_00023;23;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.666888;43.080138
+31247_0050_00053;53;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.668917;43.0799
+31247_0086_00021;21;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.666744;43.086445
+31247_0035_00034;34;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.666871;43.084565
+31247_0112_00002;2;;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.680567;43.080001
+31247_0065_00064;64;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.682858;43.085796
+31247_0090_00019;19;;Rue Raymond Artigue;31800;31247;Labarthe-Rivière;;;0.672495;43.079918
+31247_0035_00024;24;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.668575;43.083808
+31247_0118_00022;22;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.66719;43.081101
+31247_0067_00011;11;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.673515;43.079684
+31247_0037_00002;2;;Rue Georges Guynemer;31800;31247;Labarthe-Rivière;;;0.667177;43.080655
+31247_0035_00032;32;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.667169;43.08432
+31247_0050_00011;11;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.671122;43.080075
+31247_0095_00003;3;;Rue du Saint-aubin;31800;31247;Labarthe-Rivière;;;0.678675;43.080293
+31247_0070_00011;11;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.674692;43.076025
+31247_0112_00020;20;;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.682913;43.078188
+31247_0086_00003_b;3;b;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.66222;43.085522
+31247_0052_00020;20;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.677664;43.076934
+31247_0020_00026;26;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.665624;43.077019
+31247_0035_00019;19;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.669329;43.082965
+31247_0020_00010;10;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.664746;43.077773
+31247_0068_00006;6;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.667907;43.080477
+31247_0035_00030;30;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.667884;43.083905
+31247_0070_00025;25;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.677444;43.072513
+31247_0122_00014;14;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.671617;43.078029
+31247_0086_00013;13;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.664526;43.08604
+31247_0013_00006;6;;Rue Camille Rigal;31800;31247;Labarthe-Rivière;;;0.670224;43.077717
+31247_0090_00011;11;;Rue Raymond Artigue;31800;31247;Labarthe-Rivière;;;0.672003;43.08019
+31247_0122_00042;42;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.668338;43.076102
+31247_0082_00002;2;;Rue Pasteur;31800;31247;Labarthe-Rivière;;;0.671798;43.079952
+31247_0065_00065;65;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.682126;43.085314
+31247_0035_00045;45;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.664785;43.087626
+31247_0120_00016;16;;Boulevard Verdun;31800;31247;Labarthe-Rivière;;;0.670381;43.080948
+31247_0068_00027;27;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.666729;43.080123
+31247_0103_00013;13;;Chemin du Souc;31800;31247;Labarthe-Rivière;;;0.684257;43.084682
+31247_0100_00025;25;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.669636;43.095487
+31247_0055_00005;5;;Place Jules Massenet;31800;31247;Labarthe-Rivière;;;0.671843;43.081165
+31247_0055_00001;1;;Place Jules Massenet;31800;31247;Labarthe-Rivière;;;0.671385;43.081095
+31247_0052_00007;7;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.673977;43.079116
+31247_0035_00020;20;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.668481;43.083564
+31247_0070_00008;8;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.673679;43.07857
+31247_0118_00015;15;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.660389;43.086213
+31247_0017_00008;8;;Chemin du Comté;31800;31247;Labarthe-Rivière;;;0.678771;43.074558
+31247_0035_00046;46;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.664827;43.088174
+31247_0065_00080;80;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.685662;43.086725
+31247_0065_00003;3;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.672462;43.081354
+31247_0110_00016;16;;Avenue des Thermes des Convènes;31800;31247;Labarthe-Rivière;;;0.674708;43.079834
+31247_0118_00024;24;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.66706;43.081133
+31247_0118_00012;12;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.66871;43.081361
+31247_0103_00010;10;;Chemin du Souc;31800;31247;Labarthe-Rivière;;;0.683992;43.084483
+31247_0065_00069;69;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.683153;43.086405
+31247_0103_00009;9;;Chemin du Souc;31800;31247;Labarthe-Rivière;;;0.683455;43.084466
+31247_0100_00028;28;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.670957;43.088596
+31247_0050_00051;51;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.669146;43.080046
+31247_0068_00067;67;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.658565;43.076481
+31247_0052_00022_ter;22;ter;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.680783;43.076299
+31247_0061_00015;15;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.660969;43.085783
+31247_0122_00018;18;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.671376;43.0779
+31247_0006_00006;6;;Chemin des Bernèdes;31800;31247;Labarthe-Rivière;;;0.682818;43.081555
+31247_0067_00016;16;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.673009;43.078522
+31247_0100_00020_b;20;b;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671585;43.0844
+31247_0075_00011;11;;Chemin du Moine;31800;31247;Labarthe-Rivière;;;0.662595;43.075448
+31247_0065_00010;10;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.672958;43.081364
+31247_0075_00002_bis;2;bis;Chemin du Moine;31800;31247;Labarthe-Rivière;;;0.664367;43.076597
+31247_0100_00006;6;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.67181;43.082123
+31247_0090_00007;7;;Rue Raymond Artigue;31800;31247;Labarthe-Rivière;;;0.671983;43.080495
+31247_0070_00012;12;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.673609;43.077756
+31247_0080_00005;5;;Rue Parmentier;31800;31247;Labarthe-Rivière;;;0.670914;43.081677
+31247_0105_00001;1;;Rue Sully;31800;31247;Labarthe-Rivière;;;0.671867;43.079165
+31247_0068_00001;1;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.668341;43.0804
+31247_0025_00003;3;;Rue Edouard Branly;31800;31247;Labarthe-Rivière;;;0.67187;43.078767
+31247_0100_00018;18;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671354;43.083863
+31247_0100_00011_d;11;d;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.669942;43.084281
+31247_0110_00007;7;;Avenue des Thermes des Convènes;31800;31247;Labarthe-Rivière;;;0.674113;43.079704
+31247_0118_00007;7;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.661055;43.084528
+31247_0062_00001_b;1;b;Chemin du Loup;31800;31247;Labarthe-Rivière;;;0.661283;43.083595
+31247_0068_00018;18;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.666869;43.080346
+31247_0065_00023;23;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.673386;43.081644
+31247_0086_00002_e;2;e;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.663464;43.085888
+31247_0035_00021;21;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.669036;43.083127
+31247_0025_00006;6;;Rue Edouard Branly;31800;31247;Labarthe-Rivière;;;0.671634;43.07865
+31247_0112_00018;18;;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.682459;43.07853
+31247_0020_00006;6;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.664191;43.078169
+31247_0082_00008;8;;Rue Pasteur;31800;31247;Labarthe-Rivière;;;0.671266;43.079067
+31247_0100_00003;3;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.670945;43.082489
+31247_0095_00002;2;;Rue du Saint-aubin;31800;31247;Labarthe-Rivière;;;0.676515;43.078338
+31247_0068_00012;12;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.667438;43.080419
+31247_0068_00047;47;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.662613;43.077845
+31247_0068_00002;2;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.668462;43.08053
+31247_0086_00011;11;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.663777;43.086112
+31247_0061_00005;5;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.666822;43.087788
+31247_0065_00070;70;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.68345;43.086452
+31247_0118_00019;19;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.660312;43.086233
+31247_0112_00006;6;;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.680979;43.081222
+31247_0127_00001;1;;Chemin de Camon 1;31800;31247;Labarthe-Rivière;;;0.669795;43.095916
+31247_0020_00002;2;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.664587;43.079146
+31247_0035_00040_bis;40;bis;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.665475;43.086418
+31247_0061_00013;13;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.661664;43.086017
+31247_0100_00030;30;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.670929;43.089
+31247_0127_00005;5;;Chemin de Camon 1;31800;31247;Labarthe-Rivière;;;0.670718;43.096068
+31247_0086_00005;5;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.662509;43.085685
+31247_0100_00022_a;22;a;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671783;43.085611
+31247_0065_00044;44;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.679574;43.083276
+31247_0067_00002;2;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.67262;43.079632
+31247_0075_00004;4;;Chemin du Moine;31800;31247;Labarthe-Rivière;;;0.664173;43.076554
+31247_0100_00001_a;1;a;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.670958;43.082232
+31247_0037_00004;4;;Rue Georges Guynemer;31800;31247;Labarthe-Rivière;;;0.667194;43.080851
+31247_0025_00001;1;;Rue Edouard Branly;31800;31247;Labarthe-Rivière;;;0.671617;43.07879
+31247_0125_00001;1;;Chemin du Broca;31800;31247;Labarthe-Rivière;;;0.658734;43.075889
+31247_0067_00010;10;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.672735;43.079325
+31247_0035_00037;37;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.66611;43.085168
+31247_0035_00041_bis;41;bis;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.665259;43.086637
+31247_0013_00004_c;4;c;Rue Camille Rigal;31800;31247;Labarthe-Rivière;;;0.669097;43.077363
+31247_0052_00011;11;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.677186;43.077875
+31247_0125_00005;5;;Chemin du Broca;31800;31247;Labarthe-Rivière;;;0.65968;43.075133
+31247_0103_00007;7;;Chemin du Souc;31800;31247;Labarthe-Rivière;;;0.683251;43.084413
+31247_0061_00008;8;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.661456;43.086282
+31247_0020_00004;4;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.66464;43.078463
+31247_0068_00043;43;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.662593;43.078344
+31247_0013_00004_a;4;a;Rue Camille Rigal;31800;31247;Labarthe-Rivière;;;0.669548;43.077677
+31247_0035_00039;39;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.665975;43.085322
+31247_0112_00008_ter;8;ter;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.681852;43.080116
+31247_0067_00022;22;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.673014;43.079294
+31247_0122_00013;13;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.672326;43.078034
+31247_0050_00043;43;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.66982;43.080311
+31247_0052_00031;31;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.681754;43.076374
+31247_0085_00008;8;;Chemin des Péruilhès;31800;31247;Labarthe-Rivière;;;0.668223;43.073382
+31247_0118_00018;18;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.668267;43.080965
+31247_0065_00058;58;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.682497;43.084817
+31247_0065_00022;22;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.67665;43.082494
+31247_0120_00012;12;;Boulevard Verdun;31800;31247;Labarthe-Rivière;;;0.670636;43.080985
+31247_0068_00026;26;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.663209;43.078824
+31247_0075_00014;14;;Chemin du Moine;31800;31247;Labarthe-Rivière;;;0.662906;43.075865
+31247_0052_00002;2;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.673615;43.079165
+31247_0017_00010;10;;Chemin du Comté;31800;31247;Labarthe-Rivière;;;0.678922;43.07423
+31247_0122_00040;40;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.668687;43.07627
+31247_0118_00003;3;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.661941;43.083388
+31247_0120_00022;22;;Boulevard Verdun;31800;31247;Labarthe-Rivière;;;0.670051;43.080902
+31247_0067_00004;4;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.672664;43.079487
+31247_0100_00011;11;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671009;43.083297
+31247_0086_00024;24;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.670891;43.087847
+31247_0050_00017;17;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.670908;43.080218
+31247_0017_00011;11;;Chemin du Comté;31800;31247;Labarthe-Rivière;;;0.678969;43.074385
+31247_0050_00004;4;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.671204;43.080303
+31247_0068_00034;34;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.662296;43.078358
+31247_0035_00004;4;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.670211;43.082419
+31247_0068_00054;54;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.65733;43.07607
+31247_0122_00012;12;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.672029;43.078499
+31247_0065_00002_bis;2;bis;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.672004;43.08107
+31247_0080_00012;12;;Rue Parmentier;31800;31247;Labarthe-Rivière;;;0.671385;43.081783
+31247_0085_00006;6;;Chemin des Péruilhès;31800;31247;Labarthe-Rivière;;;0.668126;43.073292
+31247_0052_00006;6;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.674317;43.07887
+31247_0118_00052;52;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.660512;43.086256
+31247_0080_00002;2;;Rue Parmentier;31800;31247;Labarthe-Rivière;;;0.671289;43.081353
+31247_0035_00038_bis;38;bis;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.667493;43.08469
+31247_0035_00038_ter;38;ter;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.667923;43.084815
+31247_0100_00026;26;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671031;43.088292
+31247_0072_00001;1;;Place de la Marne;31800;31247;Labarthe-Rivière;;;0.668865;43.080678
+31247_0035_00035;35;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.666477;43.084775
+31247_0065_00017;17;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.673169;43.081573
+31247_0052_00024;24;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.681422;43.07627
+31247_0120_00002;2;;Boulevard Verdun;31800;31247;Labarthe-Rivière;;;0.671166;43.081065
+31247_0068_00061;61;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.65951;43.076932
+31247_0070_00022;22;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.674148;43.074983
+31247_0086_00016;16;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.66925;43.087375
+31247_0118_00034;34;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.665934;43.081701
+31247_0118_00001_b;1;b;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.665591;43.081688
+31247_0070_00015;15;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.675507;43.074845
+31247_0070_00001;1;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.673709;43.078892
+31247_0035_00005;5;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.670151;43.082307
+31247_0065_00024;24;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.677195;43.082645
+31247_0110_00008;8;;Avenue des Thermes des Convènes;31800;31247;Labarthe-Rivière;;;0.674608;43.079468
+31247_0086_00028;28;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.673586;43.088786
+31247_0086_00020;20;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.670069;43.087632
+31247_0067_00009;9;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.673271;43.079713
+31247_0107_00004;4;;Chemin des Téoulès;31800;31247;Labarthe-Rivière;;;0.683348;43.0775
+31247_0035_00013;13;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.669411;43.082908
+31247_0100_00002;2;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.672034;43.082197
+31247_0063_00014;14;;Chemin de Lussan;31800;31247;Labarthe-Rivière;;;0.659011;43.08455
+31247_0103_00002;2;;Chemin du Souc;31800;31247;Labarthe-Rivière;;;0.681194;43.083767
+31247_0100_00030_a;30;a;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671261;43.089096
+31247_0006_00009;9;;Chemin des Bernèdes;31800;31247;Labarthe-Rivière;;;0.682804;43.081683
+31247_0065_00027;27;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.673549;43.082282
+31247_0070_00026;26;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.674452;43.074556
+31247_0122_00046;46;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.667573;43.075774
+31247_0063_00002;2;;Chemin de Lussan;31800;31247;Labarthe-Rivière;;;0.660464;43.084492
+31247_0020_00013;13;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.665587;43.076617
+31247_0061_00009;9;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.666027;43.087518
+31247_0067_00018;18;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.672925;43.07922
+31247_0035_00033;33;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.667765;43.083848
+31247_0118_00048_d;48;d;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.662713;43.084126
+31247_0068_00035;35;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.665027;43.079402
+31247_0035_00026;26;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.668172;43.083737
+31247_0035_00025;25;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.668464;43.083466
+31247_0035_00031;31;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.667926;43.083765
+31247_0122_00006;6;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.672398;43.078852
+31247_0061_00016;16;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.654563;43.084013
+31247_0086_00029_e;29;e;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.668928;43.087428
+31247_0122_00002;2;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.672693;43.079122
+31247_0086_00025_b;25;b;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.667617;43.086832
+31247_0110_00001;1;;Avenue des Thermes des Convènes;31800;31247;Labarthe-Rivière;;;0.673709;43.079702
+31247_0075_00013;13;;Chemin du Moine;31800;31247;Labarthe-Rivière;;;0.662339;43.075391
+31247_0061_00010;10;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.658047;43.085103
+31247_0085_00012;12;;Chemin des Péruilhès;31800;31247;Labarthe-Rivière;;;0.669274;43.073437
+31247_0035_00014;14;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.669411;43.083008
+31247_0013_00004_b;4;b;Rue Camille Rigal;31800;31247;Labarthe-Rivière;;;0.668958;43.077464
+31247_0065_00032;32;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.678602;43.082975
+31247_0080_00003;3;;Rue Parmentier;31800;31247;Labarthe-Rivière;;;0.67103;43.081571
+31247_0122_00003;3;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.672744;43.079008
+31247_0100_00004;4;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671954;43.082261
+31247_0020_00016;16;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.66513;43.076705
+31247_0065_00040;40;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.679375;43.082333
+31247_0112_00016;16;;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.682545;43.078999
+31247_0122_00011;11;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.672107;43.078282
+31247_0035_00028;28;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.667973;43.083869
+31247_0013_00004;4;;Rue Camille Rigal;31800;31247;Labarthe-Rivière;;;0.670301;43.077964
+31247_0070_00018;18;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.674848;43.075374
+31247_0061_00014_bis;14;bis;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.654806;43.083883
+31247_0050_00045;45;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.66975;43.080323
+31247_0065_00072;72;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.683764;43.086473
+31247_0068_00052;52;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.657613;43.076215
+31247_0095_00001;1;;Rue du Saint-aubin;31800;31247;Labarthe-Rivière;;;0.678906;43.080329
+31247_0017_00015;15;;Chemin du Comté;31800;31247;Labarthe-Rivière;;;0.679099;43.074019
+31247_0086_00003;3;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.661731;43.085348
+31247_0052_00005;5;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.673917;43.079145
+31247_0086_00017;17;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.666034;43.0861
+31247_0118_00044;44;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.663396;43.08273
+31247_0035_00045_bis;45;bis;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.664132;43.087815
+31247_0080_00005_bis;5;bis;Rue Parmentier;31800;31247;Labarthe-Rivière;;;0.670909;43.081706
+31247_0068_00053;53;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.661393;43.077739
+31247_0090_00005;5;;Rue Raymond Artigue;31800;31247;Labarthe-Rivière;;;0.672015;43.080712
+31247_0086_00012_d;12;d;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.668636;43.087105
+31247_0068_00021;21;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.667271;43.080146
+31247_0118_00001_c;1;c;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.664823;43.082018
+31247_0050_00003;3;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.671432;43.080155
+31247_0086_00019_a;19;a;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.666398;43.086239
+31247_0065_00059;59;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.680806;43.084478
+31247_0122_00035;35;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.666732;43.075452
+31247_0068_00019;19;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.667298;43.080221
+31247_0061_00006;6;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.662717;43.086686
+31247_0100_00014;14;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671043;43.082472
+31247_0052_00012;12;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.67651;43.077339
+31247_0052_00010;10;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.67491;43.078636
+31247_0020_00009_bis;9;bis;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.665245;43.076979
+31247_0110_00011;11;;Avenue des Thermes des Convènes;31800;31247;Labarthe-Rivière;;;0.674509;43.079858
+31247_0100_00022_c;22;c;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671672;43.086106
+31247_0068_00055;55;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.660861;43.077501
+31247_0082_00004;4;;Rue Pasteur;31800;31247;Labarthe-Rivière;;;0.671653;43.079661
+31247_0068_00013;13;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.667993;43.080263
+31247_0065_00012;12;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.673254;43.081469
+31247_0065_00046;46;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.679879;43.08338
+31247_0122_00036;36;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.669247;43.076518
+31247_0100_00012;12;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671128;43.081993
+31247_0050_00023;23;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.670763;43.079864
+31247_0013_00002;2;;Rue Camille Rigal;31800;31247;Labarthe-Rivière;;;0.670712;43.078422
+31247_0067_00013;13;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.67361;43.079679
+31247_0067_00014_bis;14;bis;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.673321;43.078593
+31247_0065_00013;13;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.672903;43.081495
+31247_0086_00002_f;2;f;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.663559;43.085365
+31247_0070_00028;28;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.674988;43.075164
+31247_0086_00029_d;29;d;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.668413;43.087479
+31247_0070_00014;14;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.674348;43.076004
+31247_0068_00009;9;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.668148;43.079904
+31247_0112_00009_bis;9;bis;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.681811;43.080584
+31247_0065_00031;31;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.674317;43.081939
+31247_0068_00008;8;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.66771;43.080767
+31247_0085_00004;4;;Chemin des Péruilhès;31800;31247;Labarthe-Rivière;;;0.667508;43.073224
+31247_0065_00033;33;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.674476;43.081991
+31247_0118_00040_d;40;d;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.66392;43.082507
+31247_0020_00009;9;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.665305;43.077121
+31247_0100_00022;22;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671862;43.085244
+31247_0090_00003;3;;Rue Raymond Artigue;31800;31247;Labarthe-Rivière;;;0.672019;43.080833
+31247_0100_00013_a;13;a;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.670435;43.086418
+31247_0067_00003;3;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.672951;43.079765
+31247_0103_00001;1;;Chemin du Souc;31800;31247;Labarthe-Rivière;;;0.681578;43.083983
+31247_0075_00002;2;;Chemin du Moine;31800;31247;Labarthe-Rivière;;;0.66444;43.076596
+31247_0110_00003;3;;Avenue des Thermes des Convènes;31800;31247;Labarthe-Rivière;;;0.673851;43.079701
+31247_0100_00013_c;13;c;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671208;43.086415
+31247_0107_00011;11;;Chemin des Téoulès;31800;31247;Labarthe-Rivière;;;0.684234;43.076384
+31247_0086_00039;39;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.671844;43.088231
+31247_0086_00002_m;2;m;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.662279;43.085452
+31247_0002_00001;1;;Place Autenat;31800;31247;Labarthe-Rivière;;;0.672419;43.085439
+31247_0110_00014;14;;Avenue des Thermes des Convènes;31800;31247;Labarthe-Rivière;;;0.674976;43.079889
+31247_0110_00010;10;;Avenue des Thermes des Convènes;31800;31247;Labarthe-Rivière;;;0.674606;43.079693
+31247_0110_00013;13;;Avenue des Thermes des Convènes;31800;31247;Labarthe-Rivière;;;0.6746;43.079916
+31247_0068_00004;4;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.66811;43.080488
+31247_0065_00002;2;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.672041;43.08108
+31247_0020_00026_bis;26;bis;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.665786;43.075518
+31247_0065_00018;18;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.673806;43.081644
+31247_0118_00048_e;48;e;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.662883;43.084132
+31247_0090_00017;17;;Rue Raymond Artigue;31800;31247;Labarthe-Rivière;;;0.672363;43.079991
+31247_0063_00008;8;;Chemin de Lussan;31800;31247;Labarthe-Rivière;;;0.659927;43.084176
+31247_0100_00005;5;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.670929;43.082619
+31247_0070_00013;13;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.675251;43.075304
+31247_0122_00008;8;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.672168;43.078769
+31247_0014_00002;2;;Chemin de la Carrière;31800;31247;Labarthe-Rivière;;;0.656558;43.075349
+31247_0027_00014;14;;Chemin des Espérades;31800;31247;Labarthe-Rivière;;;0.676742;43.075361
+31247_0127_00002;2;;Chemin de Camon 1;31800;31247;Labarthe-Rivière;;;0.670046;43.096068
+31247_0061_00012;12;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.655993;43.08434
+31247_0100_00023_bis;23;bis;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.670489;43.09005
+31247_0050_00021;21;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.670869;43.079877
+31247_0050_00001;1;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.671607;43.080154
+31247_0061_00002;2;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.66269;43.087408
+31247_0027_00002;2;;Chemin des Espérades;31800;31247;Labarthe-Rivière;;;0.678269;43.076126
+31247_0027_00006;6;;Chemin des Espérades;31800;31247;Labarthe-Rivière;;;0.677639;43.075826
+31247_0025_00002;2;;Rue Edouard Branly;31800;31247;Labarthe-Rivière;;;0.671295;43.078598
+31247_0120_00024;24;;Boulevard Verdun;31800;31247;Labarthe-Rivière;;;0.669916;43.080888
+31247_0070_00005;5;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.674026;43.078318
+31247_0122_00009;9;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.672388;43.078618
+31247_0120_00018;18;;Boulevard Verdun;31800;31247;Labarthe-Rivière;;;0.670178;43.080922
+31247_0013_00004_d;4;d;Rue Camille Rigal;31800;31247;Labarthe-Rivière;;;0.669536;43.077542
+31247_0128_00083;83;;Chemin de Camon 2;31800;31247;Labarthe-Rivière;;;0.671281;43.095672
+31247_0112_00003;3;;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.682224;43.081141
+31247_0107_00002;2;;Chemin des Téoulès;31800;31247;Labarthe-Rivière;;;0.683156;43.077917
+31247_0100_00019;19;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.67071;43.088785
+31247_0090_00021;21;;Rue Raymond Artigue;31800;31247;Labarthe-Rivière;;;0.672664;43.079843
+31247_0086_00030;30;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.673966;43.08897
+31247_0035_00016;16;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.6693;43.083064
+31247_0027_00009;9;;Chemin des Espérades;31800;31247;Labarthe-Rivière;;;0.676906;43.075276
+31247_0086_00027;27;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.667996;43.086988
+31247_0020_00023;23;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.667244;43.075134
+31247_0118_00017;17;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.659908;43.086139
+31247_0103_00009_bis;9;bis;Chemin du Souc;31800;31247;Labarthe-Rivière;;;0.6838;43.084567
+31247_0067_00012;12;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.67278;43.079209
+31247_0086_00002_a;2;a;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.665257;43.08577
+31247_0118_00054;54;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.66028;43.086645
+31247_0068_00025;25;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.666851;43.080118
+31247_0112_00005;5;;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.682656;43.080909
+31247_0068_00056;56;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.656706;43.07588
+31247_0035_00001;1;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.670811;43.081866
+31247_0006_00011;11;;Chemin des Bernèdes;31800;31247;Labarthe-Rivière;;;0.682896;43.08171
+31247_0065_00005;5;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.672509;43.081376
+31247_0020_00027;27;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.66652;43.074667
+31247_0086_00024_g;24;g;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.673067;43.088498
+31247_0027_00016;16;;Chemin des Espérades;31800;31247;Labarthe-Rivière;;;0.676424;43.075238
+31247_0065_00056;56;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.681807;43.084575
+31247_0035_00043;43;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.665077;43.08693
+31247_0068_00046;46;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.658606;43.07715
+31247_qxzih5_00003;3;;Chemin de la Ruchère;31800;31247;Labarthe-Rivière;;;0.659544;43.086829
+31247_0065_00009;9;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.672644;43.081419
+31247_0122_00031;31;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.667763;43.075652
+31247_0120_00008;8;;Boulevard Verdun;31800;31247;Labarthe-Rivière;;;0.670794;43.08101
+31247_0006_00007;7;;Chemin des Bernèdes;31800;31247;Labarthe-Rivière;;;0.68236;43.081605
+31247_0067_00005;5;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.673052;43.079748
+31247_0068_00040;40;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.661228;43.077895
+31247_0122_00020;20;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.671238;43.077865
+31247_0086_00002;2;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.665461;43.085802
+31247_0070_00020;20;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.674444;43.075102
+31247_0035_00009;9;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.669924;43.08251
+31247_0091_00002;2;;Rue Richelieu;31800;31247;Labarthe-Rivière;;;0.670723;43.07915
+31247_0070_00040;40;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.67657;43.072967
+31247_0050_00059;59;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.668647;43.08035
+31247_0107_00007;7;;Chemin des Téoulès;31800;31247;Labarthe-Rivière;;;0.683942;43.076898
+31247_0086_00019;19;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.666524;43.086367
+31247_qxzih5_00001;1;;Chemin de la Ruchère;31800;31247;Labarthe-Rivière;;;0.659884;43.086827
+31247_0035_00018;18;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.668746;43.08341
+31247_0052_00028;28;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.682625;43.075952
+31247_0086_00012_c;12;c;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.668308;43.086946
+31247_0086_00007;7;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.662911;43.085836
+31247_0075_00010;10;;Chemin du Moine;31800;31247;Labarthe-Rivière;;;0.663353;43.076154
+31247_0052_00004;4;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.673855;43.079071
+31247_0118_00040;40;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.665011;43.082064
+31247_0122_00038;38;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.66895;43.076371
+31247_0122_00029;29;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.668353;43.075877
+31247_0017_00001;1;;Chemin du Comté;31800;31247;Labarthe-Rivière;;;0.678667;43.075254
+31247_0065_00011;11;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.672791;43.081456
+31247_0070_00021;21;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.67706;43.073012
+31247_0065_00068;68;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.684011;43.085684
+31247_0118_00028;28;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.666502;43.081422
+31247_0065_00014;14;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.673464;43.081541
+31247_0103_00002_b;2;b;Chemin du Souc;31800;31247;Labarthe-Rivière;;;0.681825;43.082948
+31247_0055_00007;7;;Place Jules Massenet;31800;31247;Labarthe-Rivière;;;0.671913;43.081172
+31247_0086_00022;22;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.670501;43.087786
+31247_0050_00057;57;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.668917;43.080357
+31247_0086_00012_b;12;b;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.668133;43.086841
+31247_0122_00025;25;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.668817;43.076148
+31247_0035_00049;49;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.663853;43.087803
+31247_0035_00022;22;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.668365;43.083626
+31247_0020_00003;3;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.665818;43.077576
+31247_0067_00006;6;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.672331;43.079371
+31247_0017_00012;12;;Chemin du Comté;31800;31247;Labarthe-Rivière;;;0.678957;43.074046
+31247_0025_00005;5;;Rue Edouard Branly;31800;31247;Labarthe-Rivière;;;0.671977;43.078802
+31247_0100_00001;1;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.670971;43.082101
+31247_0068_00017;17;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.667746;43.08011
+31247_0068_00022;22;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.66661;43.080317
+31247_0100_00013;13;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.67119;43.087118
+31247_0091_00001;1;;Rue Richelieu;31800;31247;Labarthe-Rivière;;;0.670766;43.0791
+31247_0061_00004;4;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.662974;43.086767
+31247_0050_00037;37;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.669889;43.080102
+31247_0035_00033_bis;33;bis;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.667669;43.083894
+31247_0068_00005;5;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.668159;43.080107
+31247_0068_00007;7;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.668221;43.079918
+31247_0086_00014;14;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.668833;43.087199
+31247_0068_00057;57;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.660918;43.076702
+31247_0080_00001;1;;Rue Parmentier;31800;31247;Labarthe-Rivière;;;0.671163;43.081193
+31247_0127_00004;4;;Chemin de Camon 1;31800;31247;Labarthe-Rivière;;;0.670487;43.096076
+31247_0110_00006;6;;Avenue des Thermes des Convènes;31800;31247;Labarthe-Rivière;;;0.674283;43.07961
+31247_0100_00008;8;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671613;43.082057
+31247_0013_00002_bis;2;bis;Rue Camille Rigal;31800;31247;Labarthe-Rivière;;;0.670414;43.078166
+31247_0065_00052;52;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.680829;43.083323
+31247_0068_00016;16;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.666992;43.080358
+31247_0122_00032;32;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.669882;43.076889
+31247_0061_00001;1;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.667552;43.088039
+31247_0112_00011;11;;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.682198;43.080269
+31247_0118_00014;14;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.668648;43.080896
+31247_0118_00010;10;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.66873;43.081239
+31247_0050_00047;47;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.669602;43.080334
+31247_0067_00014;14;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.672902;43.07912
+31247_0068_00011;11;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.668067;43.080114
+31247_0020_00005;5;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.665186;43.077444
+31247_0050_00027_bis;27;bis;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.670709;43.080235
+31247_0090_00001;1;;Rue Raymond Artigue;31800;31247;Labarthe-Rivière;;;0.672013;43.080927
+31247_0017_00002;2;;Chemin du Comté;31800;31247;Labarthe-Rivière;;;0.678512;43.075265
+31247_0052_00003;3;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.67369;43.079237
+31247_0075_00016;16;;Chemin du Moine;31800;31247;Labarthe-Rivière;;;0.662681;43.075765
+31247_0100_00021;21;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.670725;43.088957
+31247_0050_00033;33;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.669948;43.080017
+31247_0065_00020_b;20;b;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.674801;43.081948
+31247_0122_00019;19;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.671446;43.077718
+31247_0086_00033;33;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.669874;43.08772
+31247_0068_00049;49;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.662347;43.078239
+31247_0065_00038;38;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.679202;43.082703
+31247_0068_00024;24;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.666516;43.080238
+31247_0070_00036;36;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.676143;43.073333
+31247_0086_00032;32;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.674149;43.089147
+31247_0120_00006;6;;Boulevard Verdun;31800;31247;Labarthe-Rivière;;;0.670882;43.081024
+31247_0075_00001;1;;Chemin du Moine;31800;31247;Labarthe-Rivière;;;0.664396;43.076373
+31247_0090_00011_bis;11;bis;Rue Raymond Artigue;31800;31247;Labarthe-Rivière;;;0.672147;43.080247
+31247_0075_00004_bis;4;bis;Chemin du Moine;31800;31247;Labarthe-Rivière;;;0.664036;43.0764
+31247_0035_00023;23;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.668643;43.083364
+31247_0065_00076;76;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.684637;43.086595
+31247_0067_00020;20;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.673162;43.078963
+31247_0086_00035;35;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.670431;43.0879
+31247_0118_00026;26;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.666933;43.081186
+31247_0062_00003;3;;Chemin du Loup;31800;31247;Labarthe-Rivière;;;0.655673;43.082946
+31247_0122_00024;24;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.670996;43.077726
+31247_0118_00011;11;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.660729;43.085426
+31247_0110_00002;2;;Avenue des Thermes des Convènes;31800;31247;Labarthe-Rivière;;;0.673806;43.079569
+31247_0118_00048_a;48;a;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.66175;43.084011
+31247_0065_00008;8;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.672755;43.081303
+31247_0035_00036;36;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.66829;43.084725
+31247_0050_00049;49;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.669342;43.080306
+31247_0090_00015;15;;Rue Raymond Artigue;31800;31247;Labarthe-Rivière;;;0.672323;43.080296
+31247_0061_00014;14;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.655555;43.08413
+31247_0070_00011_bis;11;bis;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.675;43.075677
+31247_0068_00045;45;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.662744;43.077666
+31247_0035_00008;8;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.669692;43.082828
+31247_0122_00017;17;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.671984;43.077643
+31247_0122_00001;1;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.672834;43.079064
+31247_0068_00039;39;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.6635;43.078814
+31247_0065_00036;36;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.678906;43.083101
+31247_0068_00038;38;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.661556;43.078012
+31247_0020_00015;15;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.665786;43.076334
+31247_0086_00002_l;2;l;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.6622;43.085398
+31247_0086_00009;9;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.66327;43.086009
+31247_0103_00002_a;2;a;Chemin du Souc;31800;31247;Labarthe-Rivière;;;0.681506;43.083415
+31247_0027_00007;7;;Chemin des Espérades;31800;31247;Labarthe-Rivière;;;0.677046;43.07534
+31247_0025_00007;7;;Rue Edouard Branly;31800;31247;Labarthe-Rivière;;;0.672126;43.078709
+31247_0070_00023;23;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.677248;43.072735
+31247_0080_00010;10;;Rue Parmentier;31800;31247;Labarthe-Rivière;;;0.671193;43.081646
+31247_0068_00015;15;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.667706;43.080292
+31247_0017_00009;9;;Chemin du Comté;31800;31247;Labarthe-Rivière;;;0.678904;43.074595
+31247_0035_00030_bis;30;bis;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.667606;43.084059
+31247_0065_00051;51;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.680514;43.083689
+31247_0017_00016;16;;Chemin du Comté;31800;31247;Labarthe-Rivière;;;0.679144;43.073502
+31247_0100_00024_c;24;c;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.67133;43.087371
+31247_0118_00048_b;48;b;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.661898;43.084002
+31247_0061_00023;23;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.655781;43.083993
+31247_0068_00003;3;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.668105;43.080266
+31247_0128_00085;85;;Chemin de Camon 2;31800;31247;Labarthe-Rivière;;;0.658772;43.10522
+31247_0100_00013_b;13;b;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.670488;43.086299
+31247_0118_00002;2;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.669327;43.080818
+31247_0052_00009;9;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.67455;43.078891
+31247_0067_00007;7;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.67319;43.079721
+31247_0070_00007;7;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.674188;43.077406
+31247_0065_00053;53;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.681118;43.084454
+31247_0085_00001;1;;Chemin des Péruilhès;31800;31247;Labarthe-Rivière;;;0.667716;43.073391
+31247_0035_00011;11;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.669759;43.082671
+31247_0050_00029;29;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.670162;43.080293
+31247_0118_00048_c;48;c;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.66208;43.084044
+31247_0100_00032;32;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.670883;43.089211
+31247_0122_00030;30;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.670857;43.077409
+31247_0080_00016;16;;Rue Parmentier;31800;31247;Labarthe-Rivière;;;0.671156;43.081821
+31247_0014_00001;1;;Chemin de la Carrière;31800;31247;Labarthe-Rivière;;;0.656737;43.075313
+31247_0070_00030;30;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.675279;43.074775
+31247_0070_00009;9;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.674472;43.076247
+31247_0052_00013;13;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.67714;43.077783
+31247_0035_00040_ter;40;ter;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.665448;43.086682
+31247_0100_00014_bis;14;bis;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671067;43.082599
+31247_0086_00023;23;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.666922;43.086511
+31247_0070_00038;38;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.676155;43.073137
+31247_0112_00004;4;;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.680089;43.080789
+31247_0120_00014;14;;Boulevard Verdun;31800;31247;Labarthe-Rivière;;;0.67051;43.080978
+31247_0035_00048;48;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.663756;43.091362
+31247_0035_00002;2;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.67054;43.082118
+31247_0118_00042;42;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.663706;43.082606
+31247_0052_00015;15;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.677867;43.077353
+31247_0030_00002_bis;2;bis;Route de la Fontaine;31800;31247;Labarthe-Rivière;;;0.677898;43.08236
+31247_0122_00037;37;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.666325;43.075277
+31247_0065_00015;15;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.673047;43.081537
+31247_0017_00006;6;;Chemin du Comté;31800;31247;Labarthe-Rivière;;;0.678277;43.074934
+31247_0122_00026;26;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.67089;43.077632
+31247_0086_00002_h;2;h;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.663401;43.085327
+31247_0027_00004;4;;Chemin des Espérades;31800;31247;Labarthe-Rivière;;;0.677918;43.075965
+31247_0065_00037;37;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.674877;43.082128
+31247_0118_00016;16;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.668401;43.080949
+31247_0112_00009;9;;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.681674;43.08085
+31247_0125_00003;3;;Chemin du Broca;31800;31247;Labarthe-Rivière;;;0.659197;43.075429
+31247_0118_00001;1;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.666775;43.081149
+31247_0065_00047;47;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.675304;43.082551
+31247_0063_00012;12;;Chemin de Lussan;31800;31247;Labarthe-Rivière;;;0.659333;43.084621
+31247_0052_00019;19;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.678806;43.076906
+31247_0065_00055;55;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.68091;43.084407
+31247_0068_00036;36;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.66207;43.078249
+31247_0118_00005_bis;5;bis;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.661371;43.084122
+31247_0065_00060;60;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.682254;43.085097
+31247_0086_00031;31;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.669582;43.087626
+31247_0090_00002;2;;Rue Raymond Artigue;31800;31247;Labarthe-Rivière;;;0.672152;43.079935
+31247_0100_00020_a;20;a;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671573;43.084403
+31247_0061_00011;11;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.661997;43.086139
+31247_0110_00009;9;;Avenue des Thermes des Convènes;31800;31247;Labarthe-Rivière;;;0.674329;43.079752
+31247_0118_00006;6;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.669074;43.080842
+31247_0065_00061;61;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.680991;43.084575
+31247_0100_00011_c;11;c;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.670251;43.084283
+31247_0118_00030;30;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.666375;43.081489
+31247_0085_00007;7;;Chemin des Péruilhès;31800;31247;Labarthe-Rivière;;;0.668558;43.073493
+31247_0118_00032;32;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.666238;43.081562
+31247_0086_00041;41;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.67231;43.088439
+31247_0100_00016;16;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671065;43.08279
+31247_0061_00019;19;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.656749;43.084304
+31247_0035_00006;6;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.670019;43.082553
+31247_0065_00045;45;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.675162;43.08288
+31247_0017_00013;13;;Chemin du Comté;31800;31247;Labarthe-Rivière;;;0.67908;43.074144
+31247_0100_00022_f;22;f;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.672155;43.08661
+31247_0122_00033;33;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.667228;43.075575
+31247_0100_00034;34;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.670684;43.090139
+31247_0065_00004;4;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.672339;43.081173
+31247_0020_00034;34;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.665823;43.074407
+31247_0110_00018;18;;Avenue des Thermes des Convènes;31800;31247;Labarthe-Rivière;;;0.675964;43.079799
+31247_0070_00006;6;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.673579;43.078674
+31247_0090_00013;13;;Rue Raymond Artigue;31800;31247;Labarthe-Rivière;;;0.672176;43.080095
+31247_0080_00006_bis;6;bis;Rue Parmentier;31800;31247;Labarthe-Rivière;;;0.671334;43.08157
+31247_0110_00017;17;;Avenue des Thermes des Convènes;31800;31247;Labarthe-Rivière;;;0.676515;43.080407
+31247_0068_00032;32;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.662517;43.078474
+31247_0086_00017_bis;17;bis;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.666205;43.086195
+31247_0065_00074;74;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.684096;43.086517
+31247_0086_00039_b;39;b;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.671864;43.088587
+31247_0070_00003;3;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.673852;43.078561
+31247_0050_00055;55;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.66902;43.079983
+31247_0127_00003;3;;Chemin de Camon 1;31800;31247;Labarthe-Rivière;;;0.670298;43.096081
+31247_0035_00040;40;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.666271;43.085231
+31247_0122_00023;23;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.669541;43.076336
+31247_0118_00040_b;40;b;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.664128;43.082423
+31247_0055_00003;3;;Place Jules Massenet;31800;31247;Labarthe-Rivière;;;0.671578;43.081123
+31247_0090_00009;9;;Rue Raymond Artigue;31800;31247;Labarthe-Rivière;;;0.671941;43.080346
+31247_0118_00042_a;42;a;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.66352;43.082697
+31247_0052_00016;16;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.67644;43.077202
+31247_0050_00035;35;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.669797;43.080076
+31247_0062_00001_a;1;a;Chemin du Loup;31800;31247;Labarthe-Rivière;;;0.66149;43.083659
+31247_0030_00004;4;;Route de la Fontaine;31800;31247;Labarthe-Rivière;;;0.677967;43.082151
+31247_0112_00003_a;3;a;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.68267;43.081151
+31247_0052_00011_bis;11;bis;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.677099;43.077981
+31247_0085_00010;10;;Chemin des Péruilhès;31800;31247;Labarthe-Rivière;;;0.669015;43.073379
+31247_0065_00043;43;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.674823;43.083409
+31247_0095_00009;9;;Rue du Saint-aubin;31800;31247;Labarthe-Rivière;;;0.676864;43.079807
+31247_0065_00057;57;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.680637;43.084348
+31247_0062_00001_c;1;c;Chemin du Loup;31800;31247;Labarthe-Rivière;;;0.661021;43.083578
+31247_0068_00031;31;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.66623;43.079877
+31247_0068_00033;33;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.665981;43.079732
+31247_0035_00007;7;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.670004;43.082448
+31247_0120_00004;4;;Boulevard Verdun;31800;31247;Labarthe-Rivière;;;0.670988;43.08104
+31247_0068_00036_bis;36;bis;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.661763;43.07811
+31247_0052_00017_bis;17;bis;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.678078;43.077016
+31247_0100_00015;15;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.670824;43.088363
+31247_0118_00013;13;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.660348;43.085979
+31247_0086_00020_b;20;b;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.670155;43.087058
+31247_0027_00018;18;;Chemin des Espérades;31800;31247;Labarthe-Rivière;;;0.676125;43.075086
+31247_0122_00010;10;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.672235;43.078711
+31247_0120_00020;20;;Boulevard Verdun;31800;31247;Labarthe-Rivière;;;0.670086;43.080906
+31247_0118_00004;4;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.669259;43.080817
+31247_0118_00008;8;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.66891;43.080843
+31247_0122_00023_b;23;b;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.669215;43.076127
+31247_0122_00021;21;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.671149;43.077584
+31247_0068_00014;14;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.667088;43.080369
+31247_0122_00015;15;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.671956;43.077961
+31247_0120_00012_bis;12;bis;Boulevard Verdun;31800;31247;Labarthe-Rivière;;;0.670535;43.081173
+31247_0070_00034;34;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.675923;43.073704
+31247_0112_00013;13;;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.682657;43.079499
+31247_0065_00001;1;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.672201;43.081275
+31247_0052_00022;22;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.679948;43.076557
+31247_0086_00002_g;2;g;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.663004;43.085707
+31247_0122_00027;27;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.668542;43.076007
+31247_0067_00008;8;;Place Galliéni;31800;31247;Labarthe-Rivière;;;0.672264;43.079344
+31247_0062_00002;2;;Chemin du Loup;31800;31247;Labarthe-Rivière;;;0.660345;43.083473
+31247_0122_00028;28;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.670871;43.077543
+31247_0052_00008;8;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.674737;43.078726
+31247_0052_00026;26;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.681905;43.076166
+31247_0035_00017;17;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.669359;43.082944
+31247_0017_00004;4;;Chemin du Comté;31800;31247;Labarthe-Rivière;;;0.678588;43.07513
+31247_0020_00032;32;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.666137;43.074702
+31247_0052_00014;14;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.675817;43.077383
+31247_0068_00073;73;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.657065;43.075839
+31247_0112_00014;14;;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.682104;43.078771
+31247_0035_00041;41;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.66531;43.086395
+31247_0107_00005;5;;Chemin des Téoulès;31800;31247;Labarthe-Rivière;;;0.683731;43.07735
+31247_0122_00044;44;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.667937;43.075896
+31247_0122_00013_b;13;b;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.672471;43.077731
+31247_0080_00008_c;8;c;Rue Parmentier;31800;31247;Labarthe-Rivière;;;0.671338;43.081613
+31247_0068_00010;10;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.667617;43.080448
+31247_0065_00011_bis;11;bis;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.672849;43.08147
+31247_0086_00002_c;2;c;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.664491;43.085896
+31247_0080_00001_bis;1;bis;Rue Parmentier;31800;31247;Labarthe-Rivière;;;0.67107;43.081473
+31247_0100_00020;20;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.67145;43.084089
+31247_0065_00059_b;59;b;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.680499;43.084388
+31247_0035_00036_bis;36;bis;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.668036;43.08473
+31247_0086_00002_b;2;b;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.664946;43.085831
+31247_0070_00016;16;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.674544;43.075683
+31247_0050_00007;7;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.671144;43.079827
+31247_0122_00022;22;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.67117;43.077842
+31247_0086_00004;4;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.665988;43.085936
+31247_0100_00007;7;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.670889;43.082764
+31247_0107_00003;3;;Chemin des Téoulès;31800;31247;Labarthe-Rivière;;;0.683516;43.077731
+31247_0063_00006;6;;Chemin de Lussan;31800;31247;Labarthe-Rivière;;;0.660155;43.084306
+31247_0006_00003;3;;Chemin des Bernèdes;31800;31247;Labarthe-Rivière;;;0.681627;43.081637
+31247_0100_00022_b;22;b;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671769;43.085696
+31247_0006_00005;5;;Chemin des Bernèdes;31800;31247;Labarthe-Rivière;;;0.682074;43.081689
+31247_0080_00008_b;8;b;Rue Parmentier;31800;31247;Labarthe-Rivière;;;0.671432;43.081633
+31247_0070_00032;32;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.675571;43.074282
+31247_0020_00025;25;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.666363;43.074958
+31247_0065_00062;62;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.682497;43.085464
+31247_0050_00041;41;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.669983;43.080264
+31247_0065_00029;29;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.674084;43.081863
+31247_0128_00084;84;;Chemin de Camon 2;31800;31247;Labarthe-Rivière;;;0.652905;43.103753
+31247_0110_00012;12;;Avenue des Thermes des Convènes;31800;31247;Labarthe-Rivière;;;0.675093;43.079539
+31247_0035_00029;29;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.668143;43.083654
+31247_0035_00044;44;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.66503;43.087685
+31247_0070_00010;10;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.673921;43.078183
+31247_0118_00009;9;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.660856;43.08522
+31247_0118_00020;20;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.66753;43.081058
+31247_0100_00023;23;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.670234;43.0901
+31247_0086_00025;25;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.667066;43.086602
+31247_0065_00035;35;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.67466;43.082044
+31247_0122_00004;4;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.672579;43.079015
+31247_0027_00001;1;;Chemin des Espérades;31800;31247;Labarthe-Rivière;;;0.678703;43.076265
+31247_0068_00051;51;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.661973;43.078041
+31247_0080_00006;6;;Rue Parmentier;31800;31247;Labarthe-Rivière;;;0.671219;43.081511
+31247_0070_00019;19;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.676864;43.073225
+31247_0107_00009;9;;Chemin des Téoulès;31800;31247;Labarthe-Rivière;;;0.684124;43.076671
+31247_0122_00034;34;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.669485;43.07668
+31247_0061_00021;21;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.656424;43.084206
+31247_0122_00013_a;13;a;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.672359;43.077871
+31247_0020_00011;11;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.665444;43.076863
+31247_0035_00042;42;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.665301;43.087048
+31247_0052_00017;17;;Avenue Jean Mermoz;31800;31247;Labarthe-Rivière;;;0.677768;43.077073
+31247_0075_00006;6;;Chemin du Moine;31800;31247;Labarthe-Rivière;;;0.663729;43.076489
+31247_0095_00007;7;;Rue du Saint-aubin;31800;31247;Labarthe-Rivière;;;0.677208;43.079959
+31247_0112_00001;1;;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.681811;43.081184
+31247_0020_00030;30;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.666038;43.074916
+31247_0103_00003;3;;Chemin du Souc;31800;31247;Labarthe-Rivière;;;0.682341;43.084156
+31247_0050_00039;39;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.669948;43.080162
+31247_0035_00003;3;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.670421;43.082082
+31247_0065_00034;34;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.678723;43.083036
+31247_0103_00005;5;;Chemin du Souc;31800;31247;Labarthe-Rivière;;;0.682882;43.08433
+31247_0065_00039;39;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.675055;43.082821
+31247_0112_00008;8;;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.681592;43.080584
+31247_0086_00024_a;24;a;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.671556;43.087986
+31247_0070_00002;2;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.673214;43.079232
+31247_0086_00026;26;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.673355;43.088672
+31247_0112_00007;7;;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.682236;43.080998
+31247_0082_00006;6;;Rue Pasteur;31800;31247;Labarthe-Rivière;;;0.671462;43.079403
+31247_0068_00020;20;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.66672;43.080323
+31247_0103_00006;6;;Chemin du Souc;31800;31247;Labarthe-Rivière;;;0.682256;43.084031
+31247_0100_00024;24;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671511;43.086686
+31247_0065_00048;48;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.680195;43.083422
+31247_0065_00049;49;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.675763;43.082431
+31247_0105_00002;2;;Rue Sully;31800;31247;Labarthe-Rivière;;;0.671531;43.079
+31247_0035_00015;15;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.668951;43.082814
+31247_0020_00028;28;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.665817;43.075169
+31247_0082_00001;1;;Rue Pasteur;31800;31247;Labarthe-Rivière;;;0.671743;43.07959
+31247_0103_00011;11;;Chemin du Souc;31800;31247;Labarthe-Rivière;;;0.684077;43.08462
+31247_0080_00014;14;;Rue Parmentier;31800;31247;Labarthe-Rivière;;;0.671284;43.081767
+31247_0027_00012;12;;Chemin des Espérades;31800;31247;Labarthe-Rivière;;;0.676983;43.075463
+31247_0086_00011_bis;11;bis;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.664096;43.086102
+31247_0061_00003;3;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.667275;43.08795
+31247_0006_00002;2;;Chemin des Bernèdes;31800;31247;Labarthe-Rivière;;;0.681426;43.08152
+31247_0118_00040_a;40;a;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.664259;43.082363
+31247_0027_00005;5;;Chemin des Espérades;31800;31247;Labarthe-Rivière;;;0.677571;43.075562
+31247_0086_00002_j;2;j;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.662852;43.085615
+31247_0075_00005;5;;Chemin du Moine;31800;31247;Labarthe-Rivière;;;0.663714;43.0761
+31247_0070_00017;17;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.676119;43.074007
+31247_0122_00016;16;;Avenue Victor Hugo;31800;31247;Labarthe-Rivière;;;0.671474;43.077939
+31247_0050_00025;25;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.670761;43.080006
+31247_0127_00006;6;;Chemin de Camon 1;31800;31247;Labarthe-Rivière;;;0.671334;43.096042
+31247_0086_00027_b;27;b;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.667598;43.087214
+31247_0103_00015;15;;Chemin du Souc;31800;31247;Labarthe-Rivière;;;0.684353;43.084688
+31247_0035_00027;27;;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.668304;43.083548
+31247_0118_00005;5;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.661546;43.083928
+31247_0100_00022_e;22;e;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.67155;43.086456
+31247_0020_00020;20;;Allée Dominique Pourtau;31800;31247;Labarthe-Rivière;;;0.665403;43.076303
+31247_0063_00010;10;;Chemin de Lussan;31800;31247;Labarthe-Rivière;;;0.659455;43.083962
+31247_0075_00003;3;;Chemin du Moine;31800;31247;Labarthe-Rivière;;;0.66407;43.076331
+31247_0065_00059_a;59;a;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.68056;43.084432
+31247_0035_00041_ter;41;ter;Avenue Georges Clémenceau;31800;31247;Labarthe-Rivière;;;0.665208;43.086695
+31247_0050_00002;2;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.671544;43.080305
+31247_0118_00038;38;;Avenue de Valmy;31800;31247;Labarthe-Rivière;;;0.665428;43.081914
+31247_0112_00008_bis;8;bis;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.681706;43.080339
+31247_0050_00005;5;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.671215;43.0802
+31247_0086_00001;1;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.661498;43.085265
+31247_0100_00013_d;13;d;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.670877;43.086337
+31247_0100_00022_d;22;d;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.67165;43.086241
+31247_0112_00008_car;8;car;Chemin des Tilleuls;31800;31247;Labarthe-Rivière;;;0.681961;43.07985
+31247_0065_00020;20;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.674185;43.081762
+31247_0061_00017;17;;Route du Bazert;31800;31247;Labarthe-Rivière;;;0.657248;43.084465
+31247_0100_00024_b;24;b;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.671438;43.086991
+31247_0086_00015;15;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.664714;43.086001
+31247_0086_00002_k;2;k;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.662628;43.085555
+31247_0075_00012;12;;Chemin du Moine;31800;31247;Labarthe-Rivière;;;0.663112;43.076061
+31247_0100_00027;27;;Avenue Saint-Julien;31800;31247;Labarthe-Rivière;;;0.669376;43.095957
+31247_0050_00031;31;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.670007;43.080095
+31247_0050_00013;13;;Boulevard Jeanne d'Arc;31800;31247;Labarthe-Rivière;;;0.6711;43.080194
+31247_0107_00001;1;;Chemin des Téoulès;31800;31247;Labarthe-Rivière;;;0.683281;43.078358
+31247_0065_00025;25;;Avenue du Maréchal Foch;31800;31247;Labarthe-Rivière;;;0.673617;43.081715
+31247_0080_00008_a;8;a;Rue Parmentier;31800;31247;Labarthe-Rivière;;;0.671669;43.081668
+31247_0027_00008;8;;Chemin des Espérades;31800;31247;Labarthe-Rivière;;;0.677383;43.075667
+31247_0068_00041;41;;Avenue du Maréchal Joffre;31800;31247;Labarthe-Rivière;;;0.66295;43.078518
+31247_0086_00010;10;;Chemin des Pouchétos;31800;31247;Labarthe-Rivière;;;0.667321;43.086458
+31247_0070_00004;4;;Avenue Marengo;31800;31247;Labarthe-Rivière;;;0.673465;43.078855

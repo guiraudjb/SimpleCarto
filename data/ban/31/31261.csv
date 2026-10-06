@@ -1,0 +1,561 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+31261_0360_00021;21;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166382;43.294722
+31261_0340_00022;22;;Allee Charles de Remusat;31390;31261;Lafitte-Vigordane;;;1.16088;43.300901
+31261_0090_00019;19;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.165724;43.301267
+31261_0310_00047;47;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.173338;43.308757
+31261_0230_00011;11;;Rue du Lavoir;31390;31261;Lafitte-Vigordane;;;1.161462;43.299888
+31261_0160_00004;4;;Rue de l’Eglise;31390;31261;Lafitte-Vigordane;;;1.163804;43.299047
+31261_0310_00066;66;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.177898;43.311299
+31261_0071_00005;5;;Impasse de Cazevieille;31390;31261;Lafitte-Vigordane;;;1.166865;43.291937
+31261_0360_00007;7;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166369;43.295969
+31261_0060_00033_a;33;a;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.17265;43.301094
+31261_0060_00036_a;36;a;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.170421;43.300939
+31261_0410_00018;18;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.164855;43.294207
+31261_0040_00006;6;;Impasse du Bourguet;31390;31261;Lafitte-Vigordane;;;1.159983;43.297169
+31261_0410_00012_bis;12;bis;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.16397;43.294199
+31261_0360_00008_n;8;n;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.165673;43.296205
+31261_0360_00008_m;8;m;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.165632;43.295964
+31261_0230_00002;2;;Rue du Lavoir;31390;31261;Lafitte-Vigordane;;;1.162658;43.299508
+31261_0110_00014;14;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.169354;43.304037
+31261_0230_00006;6;;Rue du Lavoir;31390;31261;Lafitte-Vigordane;;;1.161586;43.299928
+31261_0410_00003_c;3;c;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.16393;43.295522
+31261_0370_00004;4;;Cote du Tilleul;31390;31261;Lafitte-Vigordane;;;1.161071;43.300372
+31261_0060_00035_c;35;c;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.173386;43.301841
+31261_0060_00036_c;36;c;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.170106;43.300614
+31261_0130_00041;41;;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.162742;43.296585
+31261_0410_00022;22;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.165181;43.294012
+31261_0110_00009;9;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.167898;43.303409
+31261_0410_00020;20;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.164993;43.294101
+31261_0360_00011;11;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166544;43.295816
+31261_0360_00016;16;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166237;43.29497
+31261_0260_00037;37;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.169456;43.29622
+31261_0150_00008_c;8;c;Rue des Ecoles;31390;31261;Lafitte-Vigordane;;;1.160462;43.299312
+31261_0360_00015;15;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166357;43.295413
+31261_0160_00008;8;;Rue de l’Eglise;31390;31261;Lafitte-Vigordane;;;1.164088;43.298965
+31261_0340_00015;15;;Allee Charles de Remusat;31390;31261;Lafitte-Vigordane;;;1.16233;43.30172
+31261_0010_00007;7;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.157314;43.299589
+31261_0410_00001;1;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.162234;43.295522
+31261_0090_00015;15;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.165531;43.300668
+31261_0400_00001_bis;1;bis;Impasse du Vigne;31390;31261;Lafitte-Vigordane;;;1.165939;43.293275
+31261_0020_00003_c;3;c;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.162358;43.294879
+31261_0060_00022;22;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.168503;43.301674
+31261_0120_00006;6;;Chemin de Danville;31390;31261;Lafitte-Vigordane;;;1.163937;43.297794
+31261_0300_00009;9;;Impasse du Peyron;31390;31261;Lafitte-Vigordane;;;1.16832;43.291965
+31261_0060_00005;5;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.166875;43.303331
+31261_0180_00003;3;;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.161371;43.300084
+31261_0130_00026;26;;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.164835;43.298383
+31261_0360_00022;22;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166254;43.294296
+31261_0090_00053;53;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.167026;43.30176
+31261_0230_00003;3;;Rue du Lavoir;31390;31261;Lafitte-Vigordane;;;1.162208;43.299491
+31261_0310_00013;13;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.168282;43.305555
+31261_0370_00002;2;;Cote du Tilleul;31390;31261;Lafitte-Vigordane;;;1.161141;43.300456
+31261_0310_00048;48;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.174203;43.309229
+31261_0090_00024;24;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.166704;43.301277
+31261_o8547u_01046;1046;;Route des Gravières;31390;31261;Lafitte-Vigordane;;;1.176481;43.295839
+31261_0360_00003;3;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166357;43.297514
+31261_0330_00071_c;71;c;Voie Romaine de Querilhac;31390;31261;Lafitte-Vigordane;;;1.177158;43.310034
+31261_0090_00013;13;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.165032;43.300711
+31261_0400_00003;3;;Impasse du Vigne;31390;31261;Lafitte-Vigordane;;;1.165912;43.293257
+31261_0280_00003_d;3;d;Cote de Montousse;31390;31261;Lafitte-Vigordane;;;1.162854;43.300946
+31261_0060_00019;19;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.169447;43.301481
+31261_0150_00004;4;;Rue des Ecoles;31390;31261;Lafitte-Vigordane;;;1.162422;43.299027
+31261_0180_00018;18;;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.161749;43.301212
+31261_0330_00002;2;;Voie Romaine de Querilhac;31390;31261;Lafitte-Vigordane;;;1.168443;43.301988
+31261_0180_00008_a;8;a;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.162755;43.299859
+31261_0010_00031;31;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.153034;43.302495
+31261_0180_00012_bis;12;bis;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.161271;43.300625
+31261_0420_00002;2;;Place du Village;31390;31261;Lafitte-Vigordane;;;1.163026;43.299269
+31261_0110_00019;19;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.169286;43.305063
+31261_0190_00015;15;;Chemin de la Gestere;31390;31261;Lafitte-Vigordane;;;1.165245;43.306326
+31261_0210_00001_ter;1;ter;Chemin des Gragnottes;31390;31261;Lafitte-Vigordane;;;1.168166;43.303857
+31261_0130_00039;39;;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.16305;43.29684
+31261_0110_00030;30;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.170996;43.306199
+31261_0130_00027_bis;27;bis;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.164723;43.298391
+31261_0360_00013;13;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166358;43.295638
+31261_0060_00020;20;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.168181;43.301823
+31261_0010_00019;19;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.1558;43.301247
+31261_0260_00004;4;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.167786;43.297023
+31261_0370_00004_bis;4;bis;Cote du Tilleul;31390;31261;Lafitte-Vigordane;;;1.161007;43.300313
+31261_0010_00035;35;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.152502;43.302741
+31261_0350_00030;30;;Route de Saint Elix;31390;31261;Lafitte-Vigordane;;;1.149637;43.293074
+31261_0030_00021;21;;Chemin de Besues;31390;31261;Lafitte-Vigordane;;;1.163783;43.313002
+31261_0060_00033_g;33;g;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.172552;43.301077
+31261_0060_00031_c;31;c;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.171717;43.301969
+31261_0050_00001;1;;Rue du Bourguet;31390;31261;Lafitte-Vigordane;;;1.161356;43.296328
+31261_0210_00003;3;;Chemin des Gragnottes;31390;31261;Lafitte-Vigordane;;;1.168447;43.303653
+31261_0150_00010;10;;Rue des Ecoles;31390;31261;Lafitte-Vigordane;;;1.161489;43.298382
+31261_0340_00029;29;;Allee Charles de Remusat;31390;31261;Lafitte-Vigordane;;;1.159849;43.299921
+31261_0010_00011;11;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.157166;43.299742
+31261_0090_00023;23;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.165307;43.301184
+31261_0010_00037;37;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.152328;43.302857
+31261_0015_00040;40;;Route de Marignac;31390;31261;Lafitte-Vigordane;;;1.149376;43.298966
+31261_0130_00008;8;;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.167474;43.300731
+31261_0150_00013;13;;Rue des Ecoles;31390;31261;Lafitte-Vigordane;;;1.161045;43.297973
+31261_0210_00001;1;;Chemin des Gragnottes;31390;31261;Lafitte-Vigordane;;;1.166797;43.304342
+31261_0110_00017_bis;17;bis;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.16944;43.304733
+31261_0320_00005;5;;Rue du Pont Bascule;31390;31261;Lafitte-Vigordane;;;1.164415;43.299262
+31261_0200_00099;99;;Route de Gratens;31390;31261;Lafitte-Vigordane;;;1.143973;43.312197
+31261_0360_00008_c;8;c;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.165114;43.29618
+31261_0310_00052;52;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.175094;43.309645
+31261_0120_00003;3;;Chemin de Danville;31390;31261;Lafitte-Vigordane;;;1.162893;43.298535
+31261_0260_00027_d;27;d;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.170189;43.297312
+31261_0020_00003_b;3;b;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.162153;43.294954
+31261_0370_00003;3;;Cote du Tilleul;31390;31261;Lafitte-Vigordane;;;1.160646;43.300157
+31261_0360_00023;23;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166412;43.29449
+31261_0110_00004;4;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.16829;43.302893
+31261_0260_00017_d;17;d;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.169153;43.297659
+31261_0310_00053;53;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.174182;43.309309
+31261_0180_00008_b;8;b;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.162505;43.30038
+31261_0080_00002;2;;Impasse du Chalet;31390;31261;Lafitte-Vigordane;;;1.159185;43.297849
+31261_0390_00004;4;;Cote de la Vierge;31390;31261;Lafitte-Vigordane;;;1.15747;43.297581
+31261_0110_00001_a;1;a;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.167628;43.302523
+31261_0020_00002_l;2;l;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.160449;43.295838
+31261_0340_00010;10;;Allee Charles de Remusat;31390;31261;Lafitte-Vigordane;;;1.163236;43.302578
+31261_0010_00029;29;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.153483;43.302301
+31261_0310_00031;31;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.17119;43.30746
+31261_0420_00004;4;;Place du Village;31390;31261;Lafitte-Vigordane;;;1.16332;43.299053
+31261_0360_00027_bis;27;bis;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.167244;43.29363
+31261_0340_00045;45;;Allee Charles de Remusat;31390;31261;Lafitte-Vigordane;;;1.157899;43.298404
+31261_0410_00003_h;3;h;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.16291;43.296229
+31261_0370_00005;5;;Cote du Tilleul;31390;31261;Lafitte-Vigordane;;;1.160064;43.299978
+31261_0360_00027;27;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166387;43.294171
+31261_0090_00043;43;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.163735;43.300174
+31261_0010_00059;59;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.148004;43.305861
+31261_0260_00014;14;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.170348;43.295678
+31261_0360_00020;20;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166243;43.294708
+31261_0060_00015;15;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.168963;43.30161
+31261_0270_00004;4;;Chemin de la Mine;31390;31261;Lafitte-Vigordane;;;1.165618;43.299957
+31261_0400_00009;9;;Impasse du Vigne;31390;31261;Lafitte-Vigordane;;;1.165213;43.292564
+31261_0410_00003_b;3;b;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.1633;43.294964
+31261_0260_00008;8;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.169252;43.296231
+31261_0015_00020_b;20;b;Route de Marignac;31390;31261;Lafitte-Vigordane;;;1.154171;43.299096
+31261_0150_00016;16;;Rue des Ecoles;31390;31261;Lafitte-Vigordane;;;1.160809;43.297932
+31261_0090_00010;10;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.164039;43.300329
+31261_0170_00001;1;;Chemin d’Escapule;31390;31261;Lafitte-Vigordane;;;1.160073;43.306044
+31261_0015_00099;99;;Route de Marignac;31390;31261;Lafitte-Vigordane;;;1.138659;43.301447
+31261_0260_00009_bis;9;bis;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.167602;43.297227
+31261_0280_00006_e;6;e;Cote de Montousse;31390;31261;Lafitte-Vigordane;;;1.164791;43.302665
+31261_0330_00003;3;;Voie Romaine de Querilhac;31390;31261;Lafitte-Vigordane;;;1.168604;43.302359
+31261_0110_00021;21;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.169833;43.305257
+31261_0180_00008_ter;8;ter;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.162132;43.300016
+31261_0020_00005;5;;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.161082;43.295079
+31261_0050_00006;6;;Rue du Bourguet;31390;31261;Lafitte-Vigordane;;;1.161522;43.297115
+31261_0015_00019;19;;Route de Marignac;31390;31261;Lafitte-Vigordane;;;1.153197;43.298162
+31261_0170_00006;6;;Chemin d’Escapule;31390;31261;Lafitte-Vigordane;;;1.160271;43.305989
+31261_0050_00003_bis;3;bis;Rue du Bourguet;31390;31261;Lafitte-Vigordane;;;1.161451;43.296471
+31261_0260_00027_b;27;b;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.170113;43.297355
+31261_0310_00059;59;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.174883;43.309724
+31261_0130_00029;29;;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.164277;43.297873
+31261_0060_00033;33;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.17265;43.301094
+31261_0110_00019_bis;19;bis;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.169671;43.305025
+31261_0360_00014_b;14;b;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.165715;43.295305
+31261_0360_00008_d;8;d;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.164587;43.296464
+31261_0190_00009;9;;Chemin de la Gestere;31390;31261;Lafitte-Vigordane;;;1.166657;43.305256
+31261_0170_00004;4;;Chemin d’Escapule;31390;31261;Lafitte-Vigordane;;;1.160958;43.305378
+31261_0020_00002_d;2;d;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.161255;43.295355
+31261_0190_00008;8;;Chemin de la Gestere;31390;31261;Lafitte-Vigordane;;;1.166431;43.305555
+31261_0360_00018;18;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166235;43.294784
+31261_0310_00011;11;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.168239;43.305524
+31261_0120_00009;9;;Chemin de Danville;31390;31261;Lafitte-Vigordane;;;1.163731;43.298011
+31261_0015_00020_a;20;a;Route de Marignac;31390;31261;Lafitte-Vigordane;;;1.153795;43.298683
+31261_0420_00001;1;;Place du Village;31390;31261;Lafitte-Vigordane;;;1.162834;43.299507
+31261_0020_00002_h;2;h;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.160956;43.295513
+31261_0410_00003_d;3;d;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.16422;43.295909
+31261_0090_00017;17;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.165808;43.301022
+31261_0360_00024;24;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166147;43.293633
+31261_0260_00003_c;3;c;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.167649;43.298097
+31261_0260_00027_c;27;c;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.169894;43.297089
+31261_0260_00017_b;17;b;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.168831;43.297347
+31261_0300_00001;1;;Impasse du Peyron;31390;31261;Lafitte-Vigordane;;;1.167289;43.292274
+31261_0130_00025;25;;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.164961;43.298631
+31261_0280_00003;3;;Cote de Montousse;31390;31261;Lafitte-Vigordane;;;1.163974;43.301373
+31261_0260_00011;11;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.167744;43.297128
+31261_0260_00013;13;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.167912;43.297095
+31261_0060_00038;38;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.170818;43.300326
+31261_0020_00013;13;;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.160685;43.294716
+31261_0400_00007;7;;Impasse du Vigne;31390;31261;Lafitte-Vigordane;;;1.165397;43.292681
+31261_0390_00002;2;;Cote de la Vierge;31390;31261;Lafitte-Vigordane;;;1.15749;43.297728
+31261_0100_00002;2;;Rue du Charron;31390;31261;Lafitte-Vigordane;;;1.169143;43.302869
+31261_0080_00008;8;;Impasse du Chalet;31390;31261;Lafitte-Vigordane;;;1.158347;43.297089
+31261_0060_00046_b;46;b;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.172836;43.300385
+31261_0280_00006_d;6;d;Cote de Montousse;31390;31261;Lafitte-Vigordane;;;1.164764;43.302721
+31261_0410_00013;13;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.164317;43.294586
+31261_0210_00002_b;2;b;Chemin des Gragnottes;31390;31261;Lafitte-Vigordane;;;1.167967;43.30494
+31261_0130_00010;10;;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.167388;43.30064
+31261_0260_00001;1;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.16696;43.297766
+31261_0090_00049;49;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.16366;43.300102
+31261_0110_00024;24;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.170555;43.305201
+31261_0260_00006;6;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.168272;43.296756
+31261_0150_00002;2;;Rue des Ecoles;31390;31261;Lafitte-Vigordane;;;1.162796;43.299298
+31261_0010_00043;43;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.151315;43.303388
+31261_0100_00004;4;;Rue du Charron;31390;31261;Lafitte-Vigordane;;;1.169349;43.303186
+31261_0310_00051;51;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.173669;43.309029
+31261_0100_00006;6;;Rue du Charron;31390;31261;Lafitte-Vigordane;;;1.169592;43.30358
+31261_0130_00027_ter;27;ter;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.164627;43.298281
+31261_0170_00010;10;;Chemin d’Escapule;31390;31261;Lafitte-Vigordane;;;1.160471;43.307251
+31261_0010_00060;60;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.148429;43.3057
+31261_0360_00031;31;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.16671;43.292898
+31261_0360_00001;1;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166277;43.297873
+31261_0090_00011;11;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.164148;43.300646
+31261_0050_00010;10;;Rue du Bourguet;31390;31261;Lafitte-Vigordane;;;1.159834;43.297893
+31261_0200_00097;97;;Route de Gratens;31390;31261;Lafitte-Vigordane;;;1.151729;43.307255
+31261_0190_00022;22;;Chemin de la Gestere;31390;31261;Lafitte-Vigordane;;;1.166897;43.309226
+31261_0260_00016;16;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.17041;43.295578
+31261_0260_00009;9;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.16745;43.297376
+31261_0310_00055;55;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.174449;43.309454
+31261_0260_00013_bis;13;bis;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.167994;43.296996
+31261_0280_00003_c;3;c;Cote de Montousse;31390;31261;Lafitte-Vigordane;;;1.16424;43.300741
+31261_0190_00012;12;;Chemin de la Gestere;31390;31261;Lafitte-Vigordane;;;1.165733;43.306068
+31261_0180_00012;12;;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.161336;43.300241
+31261_0420_00003;3;;Place du Village;31390;31261;Lafitte-Vigordane;;;1.163321;43.299059
+31261_0410_00004;4;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.162359;43.295309
+31261_0130_00039_bis;39;bis;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.162964;43.296786
+31261_0180_00007;7;;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.161258;43.300156
+31261_0190_00010;10;;Chemin de la Gestere;31390;31261;Lafitte-Vigordane;;;1.166082;43.305823
+31261_0360_00014_a;14;a;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166207;43.295092
+31261_0130_00045;45;;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.16232;43.296231
+31261_0060_00038_b;38;b;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.170555;43.301128
+31261_0410_00005;5;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.163514;43.294913
+31261_0330_00007_bis;7;bis;Voie Romaine de Querilhac;31390;31261;Lafitte-Vigordane;;;1.169921;43.303853
+31261_0060_00033_d;33;d;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.172727;43.301809
+31261_0350_00020;20;;Route de Saint Elix;31390;31261;Lafitte-Vigordane;;;1.15128;43.294159
+31261_0280_00003_f;3;f;Cote de Montousse;31390;31261;Lafitte-Vigordane;;;1.163632;43.302255
+31261_0230_00005;5;;Rue du Lavoir;31390;31261;Lafitte-Vigordane;;;1.162013;43.299554
+31261_0015_00014;14;;Route de Marignac;31390;31261;Lafitte-Vigordane;;;1.154291;43.298016
+31261_0090_00002;2;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.163417;43.299765
+31261_0130_00009;9;;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.167337;43.300757
+31261_0260_00025;25;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.168805;43.29663
+31261_0150_00015;15;;Rue des Ecoles;31390;31261;Lafitte-Vigordane;;;1.160765;43.297794
+31261_0400_00005;5;;Impasse du Vigne;31390;31261;Lafitte-Vigordane;;;1.165548;43.292858
+31261_0130_00016;16;;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.166406;43.299665
+31261_0400_00001;1;;Impasse du Vigne;31390;31261;Lafitte-Vigordane;;;1.166023;43.293357
+31261_0090_00004;4;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.163472;43.299816
+31261_0330_00051;51;;Voie Romaine de Querilhac;31390;31261;Lafitte-Vigordane;;;1.177793;43.308578
+31261_0330_00007;7;;Voie Romaine de Querilhac;31390;31261;Lafitte-Vigordane;;;1.170024;43.303817
+31261_0330_00009;9;;Voie Romaine de Querilhac;31390;31261;Lafitte-Vigordane;;;1.17045;43.303944
+31261_0230_00009;9;;Rue du Lavoir;31390;31261;Lafitte-Vigordane;;;1.1615;43.299853
+31261_0180_00013;13;;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.161106;43.300783
+31261_0330_00004;4;;Voie Romaine de Querilhac;31390;31261;Lafitte-Vigordane;;;1.168825;43.302359
+31261_0360_00002;2;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.165241;43.298693
+31261_0020_00003_a;3;a;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.16146;43.295256
+31261_0260_00020;20;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.171136;43.295347
+31261_0010_00061;61;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.147994;43.305838
+31261_0340_00017;17;;Allee Charles de Remusat;31390;31261;Lafitte-Vigordane;;;1.162253;43.30166
+31261_0330_00006;6;;Voie Romaine de Querilhac;31390;31261;Lafitte-Vigordane;;;1.168954;43.302481
+31261_0180_00005;5;;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.161323;43.300114
+31261_0310_00015;15;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.168469;43.305664
+31261_0360_00010;10;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.16629;43.296436
+31261_0060_00031_d;31;d;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.171632;43.301826
+31261_0310_00035;35;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.171333;43.307515
+31261_0015_00008;8;;Route de Marignac;31390;31261;Lafitte-Vigordane;;;1.155556;43.297853
+31261_0340_00002;2;;Allee Charles de Remusat;31390;31261;Lafitte-Vigordane;;;1.164571;43.303447
+31261_0015_00020_c;20;c;Route de Marignac;31390;31261;Lafitte-Vigordane;;;1.154386;43.299299
+31261_0090_00003;3;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.163624;43.300112
+31261_0290_00001;1;;Chemin de Naves;31390;31261;Lafitte-Vigordane;;;1.149925;43.307796
+31261_0340_00006;6;;Allee Charles de Remusat;31390;31261;Lafitte-Vigordane;;;1.163772;43.303009
+31261_0260_00024;24;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.171335;43.295268
+31261_0410_00026;26;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.165659;43.293756
+31261_0010_00005;5;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.157589;43.299231
+31261_0200_00090;90;;Route de Gratens;31390;31261;Lafitte-Vigordane;;;1.153369;43.306761
+31261_0260_00033;33;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.169215;43.296369
+31261_0340_00006_bis;6;bis;Allee Charles de Remusat;31390;31261;Lafitte-Vigordane;;;1.164952;43.303324
+31261_0150_00009;9;;Rue des Ecoles;31390;31261;Lafitte-Vigordane;;;1.161344;43.298159
+31261_0040_00001;1;;Impasse du Bourguet;31390;31261;Lafitte-Vigordane;;;1.160674;43.297524
+31261_0130_00011;11;;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.166823;43.300292
+31261_0130_00047;47;;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.162036;43.296001
+31261_0310_00002;2;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.165868;43.303942
+31261_0170_00014;14;;Chemin d’Escapule;31390;31261;Lafitte-Vigordane;;;1.158831;43.315463
+31261_0120_00002;2;;Chemin de Danville;31390;31261;Lafitte-Vigordane;;;1.162895;43.298468
+31261_0410_00003_j;3;j;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.162424;43.295366
+31261_0340_00033;33;;Allee Charles de Remusat;31390;31261;Lafitte-Vigordane;;;1.159461;43.299652
+31261_0060_00031_b;31;b;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.171498;43.301557
+31261_0020_00002_a;2;a;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.161393;43.295719
+31261_0350_00027;27;;Route de Saint Elix;31390;31261;Lafitte-Vigordane;;;1.151127;43.293144
+31261_0090_00045;45;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.166422;43.301442
+31261_0330_00100;100;;Voie Romaine de Querilhac;31390;31261;Lafitte-Vigordane;;;1.182547;43.309407
+31261_0360_00011_bis;11;bis;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166944;43.295702
+31261_0350_00005;5;;Route de Saint Elix;31390;31261;Lafitte-Vigordane;;;1.155345;43.296465
+31261_0260_00015;15;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.168072;43.296961
+31261_0020_00011;11;;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.160786;43.294795
+31261_0050_00005;5;;Rue du Bourguet;31390;31261;Lafitte-Vigordane;;;1.159599;43.297863
+31261_0190_00006;6;;Chemin de la Gestere;31390;31261;Lafitte-Vigordane;;;1.166973;43.305095
+31261_0310_00025_b;25;b;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.169987;43.306793
+31261_i9qibk_00001;1;;Chemin de la Fibat;31390;31261;Lafitte-Vigordane;;;1.168345;43.290564
+31261_0110_00008;8;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.168646;43.303183
+31261_0410_00014;14;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.164581;43.294372
+31261_0160_00002;2;;Rue de l’Eglise;31390;31261;Lafitte-Vigordane;;;1.163586;43.299146
+31261_0110_00029;29;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.170618;43.306252
+31261_0130_00010_bis;10;bis;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.167207;43.300486
+31261_0090_00026;26;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.163922;43.300368
+31261_0310_00043;43;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.17296;43.308511
+31261_0110_00020;20;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.16969;43.304845
+31261_0190_00021;21;;Chemin de la Gestere;31390;31261;Lafitte-Vigordane;;;1.166177;43.308467
+31261_0280_00003_e;3;e;Cote de Montousse;31390;31261;Lafitte-Vigordane;;;1.163806;43.302019
+31261_0060_00036_b;36;b;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.170133;43.300653
+31261_0360_00009;9;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166386;43.296092
+31261_0150_00008_d;8;d;Rue des Ecoles;31390;31261;Lafitte-Vigordane;;;1.160856;43.298951
+31261_0340_00039;39;;Allee Charles de Remusat;31390;31261;Lafitte-Vigordane;;;1.15931;43.299249
+31261_0010_00003;3;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.157704;43.29909
+31261_0260_00018;18;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.170545;43.295567
+31261_0190_00011;11;;Chemin de la Gestere;31390;31261;Lafitte-Vigordane;;;1.166008;43.305753
+31261_0071_00001;1;;Impasse de Cazevieille;31390;31261;Lafitte-Vigordane;;;1.166353;43.292252
+31261_0110_00032;32;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.171283;43.306531
+31261_0330_00011;11;;Voie Romaine de Querilhac;31390;31261;Lafitte-Vigordane;;;1.171472;43.304703
+31261_0020_00002_j;2;j;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.160662;43.295676
+31261_qvka4l_00001;1;;Carrerot Dou Trolher;31390;31261;Lafitte-Vigordane;;;1.170478;43.304921
+31261_0050_00003;3;;Rue du Bourguet;31390;31261;Lafitte-Vigordane;;;1.16144;43.296423
+31261_0360_00025;25;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166403;43.294246
+31261_0310_00017;17;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.16881;43.305906
+31261_0310_00070;70;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.178739;43.311966
+31261_0020_00002_e;2;e;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.160805;43.295596
+31261_0390_00006;6;;Cote de la Vierge;31390;31261;Lafitte-Vigordane;;;1.157538;43.297627
+31261_0340_00044;44;;Allee Charles de Remusat;31390;31261;Lafitte-Vigordane;;;1.157872;43.298549
+31261_0360_00008_h;8;h;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166346;43.296634
+31261_0150_00006;6;;Rue des Ecoles;31390;31261;Lafitte-Vigordane;;;1.161858;43.298643
+31261_0280_00007;7;;Cote de Montousse;31390;31261;Lafitte-Vigordane;;;1.163689;43.302064
+31261_0150_00011;11;;Rue des Ecoles;31390;31261;Lafitte-Vigordane;;;1.161187;43.298059
+31261_0050_00010_bis;10;bis;Rue du Bourguet;31390;31261;Lafitte-Vigordane;;;1.15945;43.297973
+31261_0200_00020;20;;Route de Gratens;31390;31261;Lafitte-Vigordane;;;1.16037;43.30514
+31261_0060_00036_d;36;d;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.170084;43.300574
+31261_0060_00024;24;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.168666;43.301612
+31261_0180_00010;10;;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.161774;43.299986
+31261_0060_00021;21;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.169662;43.30143
+31261_0410_00003_g;3;g;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.162157;43.295498
+31261_0130_00006;6;;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.167724;43.30098
+31261_0180_00004_a;4;a;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.162824;43.300082
+31261_0150_00014;14;;Rue des Ecoles;31390;31261;Lafitte-Vigordane;;;1.161023;43.298113
+31261_0310_00003;3;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.167465;43.305034
+31261_0360_00005;5;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.16643;43.297143
+31261_0310_00033;33;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.171218;43.307505
+31261_0150_00007;7;;Rue des Ecoles;31390;31261;Lafitte-Vigordane;;;1.161523;43.298285
+31261_0330_00071_a;71;a;Voie Romaine de Querilhac;31390;31261;Lafitte-Vigordane;;;1.176953;43.310102
+31261_0350_00025;25;;Route de Saint Elix;31390;31261;Lafitte-Vigordane;;;1.151342;43.293204
+31261_0090_00041;41;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.163761;43.300199
+31261_0270_00005;5;;Chemin de la Mine;31390;31261;Lafitte-Vigordane;;;1.166066;43.299854
+31261_0260_00041;41;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.170032;43.29592
+31261_0360_00015_bis;15;bis;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166351;43.295339
+31261_0360_00035;35;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166894;43.292464
+31261_0110_00001_b;1;b;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.167718;43.302629
+31261_0230_00001;1;;Rue du Lavoir;31390;31261;Lafitte-Vigordane;;;1.162633;43.299473
+31261_0110_00023;23;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.169811;43.305554
+31261_0190_00007;7;;Chemin de la Gestere;31390;31261;Lafitte-Vigordane;;;1.166636;43.304833
+31261_0180_00008;8;;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.162808;43.299935
+31261_0071_00003;3;;Impasse de Cazevieille;31390;31261;Lafitte-Vigordane;;;1.16678;43.291994
+31261_0100_00003;3;;Rue du Charron;31390;31261;Lafitte-Vigordane;;;1.1693;43.303253
+31261_0280_00004;4;;Cote de Montousse;31390;31261;Lafitte-Vigordane;;;1.164376;43.301569
+31261_0400_00009_bis;9;bis;Impasse du Vigne;31390;31261;Lafitte-Vigordane;;;1.166016;43.292092
+31261_0360_00008_f;8;f;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.1663;43.297305
+31261_0060_00017;17;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.169188;43.301547
+31261_0010_00021;21;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.155679;43.301335
+31261_0060_00001;1;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.165282;43.303502
+31261_0310_00025_a;25;a;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.16975;43.30685
+31261_0360_00008_p;8;p;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.165835;43.29675
+31261_0330_00099;99;;Voie Romaine de Querilhac;31390;31261;Lafitte-Vigordane;;;1.185379;43.309452
+31261_0310_00023;23;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.169605;43.306415
+31261_0060_00030;30;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.169567;43.301354
+31261_0410_00003_f;3;f;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.16355;43.296199
+31261_0160_00006;6;;Rue de l’Eglise;31390;31261;Lafitte-Vigordane;;;1.163962;43.298986
+31261_0110_00022;22;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.169836;43.305022
+31261_0400_00003_bis;3;bis;Impasse du Vigne;31390;31261;Lafitte-Vigordane;;;1.165615;43.292968
+31261_0310_00049;49;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.173598;43.30898
+31261_0370_00006;6;;Cote du Tilleul;31390;31261;Lafitte-Vigordane;;;1.160934;43.300278
+31261_0340_00008;8;;Allee Charles de Remusat;31390;31261;Lafitte-Vigordane;;;1.163566;43.302819
+31261_0320_00001;1;;Rue du Pont Bascule;31390;31261;Lafitte-Vigordane;;;1.163464;43.299572
+31261_0130_00031;31;;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.163835;43.297495
+31261_0180_00001;1;;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.162716;43.299812
+31261_0020_00002_i;2;i;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.160791;43.295604
+31261_0150_00012;12;;Rue des Ecoles;31390;31261;Lafitte-Vigordane;;;1.161305;43.298269
+31261_0060_00003_b;3;b;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.166304;43.303596
+31261_0410_00012;12;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.163796;43.294701
+31261_0110_00015;15;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.168789;43.304166
+31261_0060_00038_a;38;a;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.17081;43.301077
+31261_0060_00007;7;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.166686;43.302822
+31261_0400_00011;11;;Impasse du Vigne;31390;31261;Lafitte-Vigordane;;;1.164992;43.292379
+31261_0320_00007;7;;Rue du Pont Bascule;31390;31261;Lafitte-Vigordane;;;1.164932;43.299071
+31261_0015_00018;18;;Route de Marignac;31390;31261;Lafitte-Vigordane;;;1.153508;43.298186
+31261_0090_00037;37;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.163809;43.300248
+31261_0150_00008_b;8;b;Rue des Ecoles;31390;31261;Lafitte-Vigordane;;;1.160563;43.29935
+31261_0180_00006;6;;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.16275;43.299991
+31261_0050_00008;8;;Rue du Bourguet;31390;31261;Lafitte-Vigordane;;;1.161164;43.297384
+31261_0060_00033_c;33;c;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.172515;43.301322
+31261_0090_00029;29;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.165691;43.30173
+31261_0110_00007;7;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.168201;43.303157
+31261_0180_00011;11;;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.161173;43.300671
+31261_0310_00007;7;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.167998;43.305392
+31261_0010_00015;15;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.156247;43.300844
+31261_0060_00033_f;33;f;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.170555;43.301128
+31261_0280_00006_b;6;b;Cote de Montousse;31390;31261;Lafitte-Vigordane;;;1.164643;43.302719
+31261_0280_00003_b;3;b;Cote de Montousse;31390;31261;Lafitte-Vigordane;;;1.164304;43.300911
+31261_0060_00034;34;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.170546;43.301087
+31261_0130_00027;27;;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.16487;43.298613
+31261_0060_00046_a;46;a;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.173175;43.300871
+31261_0190_00013;13;;Chemin de la Gestere;31390;31261;Lafitte-Vigordane;;;1.165447;43.306171
+31261_0080_00004;4;;Impasse du Chalet;31390;31261;Lafitte-Vigordane;;;1.158948;43.297642
+31261_0360_00008_l;8;l;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.165531;43.295748
+31261_0180_00016;16;;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.161642;43.30113
+31261_0310_00056;56;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.175606;43.309894
+31261_0410_00017;17;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.165144;43.294147
+31261_0050_00010_ter;10;ter;Rue du Bourguet;31390;31261;Lafitte-Vigordane;;;1.159429;43.297991
+31261_0410_00003_a;3;a;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.162866;43.295156
+31261_0280_00003_a;3;a;Cote de Montousse;31390;31261;Lafitte-Vigordane;;;1.163979;43.301782
+31261_0410_00010;10;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.163342;43.294881
+31261_0260_00017_a;17;a;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.168277;43.296924
+31261_0150_00005;5;;Rue des Ecoles;31390;31261;Lafitte-Vigordane;;;1.161592;43.298305
+31261_0190_00013_ter;13;ter;Chemin de la Gestere;31390;31261;Lafitte-Vigordane;;;1.165294;43.3063
+31261_0110_00016;16;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.169541;43.304243
+31261_0020_00002_c;2;c;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.160641;43.295793
+31261_0340_00020;20;;Allee Charles de Remusat;31390;31261;Lafitte-Vigordane;;;1.160926;43.30094
+31261_0050_00003_ter;3;ter;Rue du Bourguet;31390;31261;Lafitte-Vigordane;;;1.161137;43.297306
+31261_0360_00008;8;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166294;43.296233
+31261_0060_00033_b;33;b;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.172922;43.301572
+31261_0010_00017;17;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.155971;43.301066
+31261_0360_00008_a;8;a;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.165649;43.296887
+31261_0340_00035;35;;Allee Charles de Remusat;31390;31261;Lafitte-Vigordane;;;1.159284;43.299535
+31261_0060_00038_c;38;c;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.170555;43.301128
+31261_0360_00008_i;8;i;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166236;43.295783
+31261_0360_00008_e;8;e;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.164075;43.296697
+31261_0060_00023;23;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.169907;43.301406
+31261_0060_00040;40;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.171513;43.300985
+31261_0210_00004;4;;Chemin des Gragnottes;31390;31261;Lafitte-Vigordane;;;1.168257;43.304523
+31261_0180_00002;2;;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.163057;43.299698
+31261_0210_00002_a;2;a;Chemin des Gragnottes;31390;31261;Lafitte-Vigordane;;;1.167518;43.304597
+31261_0015_00006;6;;Route de Marignac;31390;31261;Lafitte-Vigordane;;;1.15595;43.297834
+31261_0020_00002_g;2;g;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.161105;43.295434
+31261_0360_00017;17;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166338;43.29503
+31261_0360_00022_bis;22;bis;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166235;43.294258
+31261_0020_00002_m;2;m;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.160334;43.29578
+31261_0060_00042;42;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.172788;43.300347
+31261_0260_00017_c;17;c;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.168956;43.297436
+31261_0090_00031;31;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.16388;43.300324
+31261_0020_00002_f;2;f;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.161255;43.295355
+31261_0310_00065;65;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.175878;43.310223
+31261_0060_00025;25;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.170228;43.301308
+31261_0110_00033;33;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.170746;43.306877
+31261_0260_00027_a;27;a;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.169624;43.296962
+31261_0050_00012;12;;Rue du Bourguet;31390;31261;Lafitte-Vigordane;;;1.159351;43.298008
+31261_0090_00047;47;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.163685;43.300126
+31261_0050_00002;2;;Rue du Bourguet;31390;31261;Lafitte-Vigordane;;;1.161615;43.296693
+31261_0190_00011_bis;11;bis;Chemin de la Gestere;31390;31261;Lafitte-Vigordane;;;1.165798;43.305901
+31261_0090_00008;8;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.1638;43.300097
+31261_0410_00003_e;3;e;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.163074;43.29506
+31261_0060_00031_a;31;a;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.171418;43.301354
+31261_0060_00044;44;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.172585;43.300974
+31261_0015_00002;2;;Route de Marignac;31390;31261;Lafitte-Vigordane;;;1.15678;43.29782
+31261_0080_00003;3;;Impasse du Chalet;31390;31261;Lafitte-Vigordane;;;1.158899;43.297498
+31261_0130_00037;37;;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.163102;43.296889
+31261_0010_00009;9;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.157243;43.299666
+31261_0190_00011_ter;11;ter;Chemin de la Gestere;31390;31261;Lafitte-Vigordane;;;1.165779;43.305926
+31261_0120_00004;4;;Chemin de Danville;31390;31261;Lafitte-Vigordane;;;1.163459;43.298096
+31261_0280_00002;2;;Cote de Montousse;31390;31261;Lafitte-Vigordane;;;1.164548;43.301262
+31261_0090_00027;27;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.165594;43.301522
+31261_0110_00002;2;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.168076;43.302423
+31261_0110_00005;5;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.167793;43.303094
+31261_0310_00029;29;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.170443;43.306951
+31261_0360_00008_j;8;j;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.164689;43.295962
+31261_0260_00007;7;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.167434;43.297426
+31261_0040_00002;2;;Impasse du Bourguet;31390;31261;Lafitte-Vigordane;;;1.160302;43.297472
+31261_0410_00002;2;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.161971;43.295523
+31261_0140_00001;1;;Impasse de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.160428;43.287144
+31261_0060_00029;29;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.170766;43.301199
+31261_0190_00013_bis;13;bis;Chemin de la Gestere;31390;31261;Lafitte-Vigordane;;;1.165317;43.306273
+31261_0110_00011;11;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.168414;43.303343
+31261_0210_00006;6;;Chemin des Gragnottes;31390;31261;Lafitte-Vigordane;;;1.168522;43.304343
+31261_0010_00041;41;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.151546;43.303257
+31261_0090_00051;51;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.163634;43.300078
+31261_0260_00051;51;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.171736;43.295262
+31261_0310_00045;45;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.173141;43.308633
+31261_0410_00010_ter;10;ter;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.163742;43.294733
+31261_0410_00010_bis;10;bis;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.163351;43.294504
+31261_0280_00001;1;;Cote de Montousse;31390;31261;Lafitte-Vigordane;;;1.164265;43.300892
+31261_0360_00008_g;8;g;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166355;43.296724
+31261_0230_00007;7;;Rue du Lavoir;31390;31261;Lafitte-Vigordane;;;1.161573;43.299781
+31261_0410_00008;8;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.162803;43.295115
+31261_0090_00006;6;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.163576;43.2999
+31261_0060_00027;27;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.170698;43.301233
+31261_0015_00001;1;;Route de Marignac;31390;31261;Lafitte-Vigordane;;;1.15658;43.297591
+31261_0110_00031;31;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.170408;43.306675
+31261_0310_00021;21;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.169181;43.306156
+31261_0360_00019;19;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166339;43.294943
+31261_0090_00033;33;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.163856;43.300298
+31261_0310_00005;5;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.167589;43.305154
+31261_0280_00006_a;6;a;Cote de Montousse;31390;31261;Lafitte-Vigordane;;;1.164251;43.30221
+31261_0190_00014;14;;Chemin de la Gestere;31390;31261;Lafitte-Vigordane;;;1.165275;43.306418
+31261_0110_00018;18;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.170354;43.304394
+31261_0360_00014_d;14;d;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.165245;43.295461
+31261_0310_00057;57;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.174821;43.309679
+31261_0310_00061;61;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.175148;43.309805
+31261_0090_00022;22;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.164227;43.300703
+31261_0130_00043;43;;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.162563;43.296429
+31261_0350_00014;14;;Route de Saint Elix;31390;31261;Lafitte-Vigordane;;;1.152675;43.295012
+31261_0310_00054;54;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.175278;43.30969
+31261_0330_00071_b;71;b;Voie Romaine de Querilhac;31390;31261;Lafitte-Vigordane;;;1.17773;43.309948
+31261_0110_00015_bis;15;bis;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.169054;43.304231
+31261_0090_00025;25;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.16544;43.301392
+31261_0410_00003_i;3;i;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.162138;43.295508
+31261_0130_00010_ter;10;ter;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.167177;43.300462
+31261_0260_00022;22;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.171198;43.295267
+31261_0310_00091;91;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.179645;43.312942
+31261_0280_00006_c;6;c;Cote de Montousse;31390;31261;Lafitte-Vigordane;;;1.164739;43.302765
+31261_0090_00013_bis;13;bis;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.165532;43.300688
+31261_0340_00041;41;;Allee Charles de Remusat;31390;31261;Lafitte-Vigordane;;;1.158423;43.298875
+31261_0310_00063;63;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.175267;43.309855
+31261_0360_00014_c;14;c;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.165318;43.295541
+31261_0150_00008_a;8;a;Rue des Ecoles;31390;31261;Lafitte-Vigordane;;;1.161025;43.298923
+31261_0090_00035;35;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.163833;43.300273
+31261_0020_00015;15;;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.160369;43.294415
+31261_0260_00003_b;3;b;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.167621;43.297993
+31261_0360_00022_ter;22;ter;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166236;43.294223
+31261_0080_00001;1;;Impasse du Chalet;31390;31261;Lafitte-Vigordane;;;1.159338;43.297852
+31261_0015_00004;4;;Route de Marignac;31390;31261;Lafitte-Vigordane;;;1.156096;43.297838
+31261_0060_00035_a;35;a;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.173207;43.301243
+31261_0410_00002_bis;2;bis;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.161923;43.295519
+31261_0100_00008;8;;Rue du Charron;31390;31261;Lafitte-Vigordane;;;1.169485;43.303648
+31261_0020_00002;2;;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.160805;43.295596
+31261_0080_00006;6;;Impasse du Chalet;31390;31261;Lafitte-Vigordane;;;1.158702;43.297457
+31261_0015_00010_c;10;c;Route de Marignac;31390;31261;Lafitte-Vigordane;;;1.155294;43.298703
+31261_0110_00017;17;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.169175;43.304601
+31261_0410_00011;11;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.163927;43.29473
+31261_0350_00012;12;;Route de Saint Elix;31390;31261;Lafitte-Vigordane;;;1.152924;43.29524
+31261_0410_00003;3;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.163333;43.29495
+31261_0010_00049;49;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.150313;43.304095
+31261_0360_00008_k;8;k;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.165237;43.295868
+31261_0410_00006;6;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.16241;43.295278
+31261_0370_00001;1;;Cote du Tilleul;31390;31261;Lafitte-Vigordane;;;1.161148;43.300206
+31261_0410_00016;16;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.164816;43.294236
+31261_0015_00012;12;;Route de Marignac;31390;31261;Lafitte-Vigordane;;;1.154704;43.297946
+31261_0060_00003_a;3;a;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.166635;43.303156
+31261_0340_00004;4;;Allee Charles de Remusat;31390;31261;Lafitte-Vigordane;;;1.164303;43.3033
+31261_0180_00008_c;8;c;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.162555;43.299907
+31261_0410_00007;7;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.163573;43.294904
+31261_0010_00023;23;;Chemin de la Grave;31390;31261;Lafitte-Vigordane;;;1.155467;43.30147
+31261_0260_00003_a;3;a;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.167282;43.297736
+31261_0340_00031;31;;Allee Charles de Remusat;31390;31261;Lafitte-Vigordane;;;1.159739;43.299833
+31261_0015_00010_a;10;a;Route de Marignac;31390;31261;Lafitte-Vigordane;;;1.155434;43.298349
+31261_0410_00024;24;;Chemin du Vigne;31390;31261;Lafitte-Vigordane;;;1.165594;43.293761
+31261_0020_00002_b;2;b;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.161058;43.295458
+31261_0310_00058;58;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.17609;43.310187
+31261_0360_00029;29;;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.166374;43.293502
+31261_0020_00002_k;2;k;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.16052;43.295762
+31261_0150_00003;3;;Rue des Ecoles;31390;31261;Lafitte-Vigordane;;;1.162157;43.298691
+31261_0060_00033_e;33;e;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.172635;43.301752
+31261_0015_00010_b;10;b;Route de Marignac;31390;31261;Lafitte-Vigordane;;;1.155661;43.298534
+31261_0360_00008_b;8;b;Route de Salles;31390;31261;Lafitte-Vigordane;;;1.16526;43.296603
+31261_0090_00012;12;;Rue de la Chapelle;31390;31261;Lafitte-Vigordane;;;1.165005;43.300271
+31261_0100_00010;10;;Rue du Charron;31390;31261;Lafitte-Vigordane;;;1.169055;43.303868
+31261_0015_00016;16;;Route de Marignac;31390;31261;Lafitte-Vigordane;;;1.15409;43.298066
+31261_0060_00035_b;35;b;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.173314;43.301561
+31261_0110_00025;25;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.170065;43.30556
+31261_0060_00028;28;;Route de Carbonne;31390;31261;Lafitte-Vigordane;;;1.169909;43.301278
+31261_0260_00035;35;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.169428;43.296283
+31261_0071_00009;9;;Impasse de Cazevieille;31390;31261;Lafitte-Vigordane;;;1.167507;43.291203
+31261_0310_00009;9;;Route de Peyssies;31390;31261;Lafitte-Vigordane;;;1.168107;43.30545
+31261_0110_00001;1;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.16756;43.302394
+31261_0020_00007;7;;Chemin des Amoures;31390;31261;Lafitte-Vigordane;;;1.160971;43.294963
+31261_0260_00039;39;;Chemin de Milhat;31390;31261;Lafitte-Vigordane;;;1.169807;43.296018
+31261_0200_00022;22;;Route de Gratens;31390;31261;Lafitte-Vigordane;;;1.160021;43.305244
+31261_0170_00008;8;;Chemin d’Escapule;31390;31261;Lafitte-Vigordane;;;1.160352;43.306817
+31261_0180_00014;14;;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.161373;43.30086
+31261_0130_00012;12;;Chemin de la Dourdouille;31390;31261;Lafitte-Vigordane;;;1.167045;43.300332
+31261_0110_00027;27;;Chemin de Clavere;31390;31261;Lafitte-Vigordane;;;1.170559;43.306097
+31261_0330_00097;97;;Voie Romaine de Querilhac;31390;31261;Lafitte-Vigordane;;;1.18417;43.30949
+31261_0180_00004;4;;Rue des Fournils;31390;31261;Lafitte-Vigordane;;;1.162895;43.299792

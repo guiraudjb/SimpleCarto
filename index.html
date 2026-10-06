@@ -200,6 +200,15 @@
                 <summary class="panel-section-summary"><span class="title">📌 Épingles</span><span class="chevron">▸</span></summary>
                 <div class="panel-section-body">
                     <div class="field">
+                        <label class="field-label">Rechercher une adresse</label>
+                        <select class="select-input" id="addr-dept"><option value="">-- 1. Choisir le Département --</option></select>
+                        <select class="select-input" id="addr-commune" disabled><option value="">-- 2. Choisir la Commune --</option></select>
+                        <select class="select-input" id="addr-voie" disabled><option value="">-- 3. Choisir la Voie --</option></select>
+                        <select class="select-input" id="addr-numero" disabled><option value="">-- 4. Choisir le Numéro --</option></select>
+                        <p class="hint-text">Remplit les coordonnées et la légende ci-dessous (Base Adresse Nationale).</p>
+                    </div>
+
+                    <div class="field">
                         <label class="field-label">Ajouter une épingle (coordonnées GPS)</label>
                         <div class="row-inline">
                             <input type="text" id="pin-lon" class="text-input" placeholder="Longitude (ex: 5.3698)" inputmode="decimal" style="flex:1">

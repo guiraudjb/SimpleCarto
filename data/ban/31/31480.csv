@@ -1,0 +1,984 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+31480_0001_00010;10;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.607184;43.545441
+31480_0043_00043;43;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598038;43.549458
+31480_dmi3wc_00006;6;;Domaine de Ferradou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60197;43.54042
+31480_0130_00006;6;;Rue Labourdette;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614317;43.542831
+31480_0032_00006;6;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619294;43.545828
+31480_0040_00008;8;;Place Pierre et Marie Curie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61914;43.546774
+31480_0085_00008;8;;Rue du Clos des Vignes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613116;43.539942
+31480_0052_00005;5;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599705;43.549436
+31480_0052_00033;33;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602175;43.548574
+31480_0021_00022_c;22;c;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602534;43.543794
+31480_0060_00011;11;;Allée de l'Autan;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615306;43.541648
+31480_0270_01810;1810;;Route de la Saune;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599887;43.556149
+31480_0060_00001;1;;Allée de l'Autan;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61558;43.543078
+31480_0040_00002_bis;2;bis;Place Pierre et Marie Curie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618994;43.546806
+31480_0290_00010;10;;Rue du Vigneron;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599002;43.547891
+31480_0290_00007;7;;Rue du Vigneron;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598742;43.54786
+31480_0100_00020;20;;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616517;43.540222
+31480_0060_00007;7;;Allée de l'Autan;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615965;43.542667
+31480_0210_00006;6;;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.595165;43.550278
+31480_0026_00037;37;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618008;43.546661
+31480_0200_00003;3;;Chemin de Malause;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599281;43.55803
+31480_p4qb58_00002_bis;2;bis;Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.592126;43.550599
+31480_0011_00003;3;;Allée des Chênes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623227;43.548195
+31480_0001_00035;35;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.611521;43.545205
+31480_0038_00005;5;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601514;43.546389
+31480_9v21yd_00006;6;;Avenue Louis Aragon;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605347;43.546802
+31480_0032_00030;30;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623798;43.54473
+31480_0043_00009;9;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597134;43.548761
+31480_0210_00012;12;;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596228;43.551116
+31480_agnlzv_00015;15;;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603711;43.547912
+31480_0130_00011;11;;Rue Labourdette;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614594;43.543213
+31480_0026_00013_bis;13;bis;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612648;43.542984
+31480_0150_00008;8;;Impasse du Levant;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617474;43.542108
+31480_0026_00025;25;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616901;43.545338
+31480_0029_00003;3;;Chemin de la Palenque;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597686;43.547949
+31480_0084_00011;11;;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.611515;43.543149
+31480_0280_00006;6;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618513;43.548924
+31480_0200_00018;18;;Chemin de Malause;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599886;43.558739
+31480_0130_00013;13;;Rue Labourdette;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614808;43.543251
+31480_0021_00011;11;;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601288;43.5437
+31480_0032_00004;4;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619065;43.545953
+31480_0044_00052;52;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.592458;43.549276
+31480_0049_00001;1;;Impasse Vianey;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613165;43.542392
+31480_0018_00007;7;;Avenue Jacques Brel;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604074;43.545904
+31480_0032_00043;43;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.6215;43.545817
+31480_0007_00006;6;;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602096;43.54707
+31480_0032_00025;25;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623504;43.5448
+31480_0280_00013;13;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618404;43.549092
+31480_0052_00023;23;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601233;43.54841
+31480_0047_00003;3;;Rue Robert Doisneau;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.607545;43.543819
+31480_0051_00002;2;;Rue Caroline Aigle;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.594011;43.551027
+31480_0038_00035;35;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601514;43.547591
+31480_0120_00007;7;;Chemin de la Gouffie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597813;43.556502
+31480_0009_00004;4;;Place Bernard Lamarque;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602931;43.543101
+31480_0034_00003;3;;Avenue Paul Cézanne;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617154;43.546334
+31480_0021_00003;3;;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600676;43.542521
+31480_0085_00004;4;;Rue du Clos des Vignes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61363;43.540615
+31480_0015_00006;6;;Place Gabrielle Sacome;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602367;43.542569
+31480_0005_01194;1194;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.588441;43.546172
+31480_0001_00037;37;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.611885;43.545106
+31480_0100_00018;18;;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616177;43.540362
+31480_0001_00027;27;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609419;43.544844
+31480_0043_00014;14;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597075;43.549414
+31480_0100_00007;7;;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614619;43.540877
+31480_0013_00003;3;;Place de l'Eglise;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.610023;43.542891
+31480_0150_00004;4;;Impasse du Levant;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61671;43.542496
+31480_0044_00036_b;36;b;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598187;43.546373
+31480_mqfawl_00010;10;;Route Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621871;43.550005
+31480_0043_00021;21;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596567;43.549204
+31480_0006_00010_bis;10;bis;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605794;43.543155
+31480_mqfawl_00005;5;;Route Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620466;43.549303
+31480_0026_00009;9;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61148;43.54232
+31480_yxg2o2_00006;6;;Avenue Alain Saint Paul;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609075;43.544195
+31480_0005_00003;3;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599651;43.541553
+31480_0023_00002;2;;Chemin du Fort de Pujol;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.583557;43.547975
+31480_0044_00002;2;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604028;43.544085
+31480_0044_00013_bis;13;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601801;43.545105
+31480_0002_00014;14;;Avenue Jacques Prevert;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606264;43.545908
+31480_0043_00010;10;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596854;43.548971
+31480_0010_00011;11;;Rue du 19 Mars 1962;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.610923;43.5443
+31480_0007_00005;5;;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601965;43.547266
+31480_0026_00043;43;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618668;43.547525
+31480_0270_01920;1920;;Route de la Saune;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599118;43.556609
+31480_0300_00004;4;;Impasse du Vent Marin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617157;43.541437
+31480_0041_00003;3;;Allée des Peupliers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622464;43.547834
+31480_0039_00006;6;;Avenue Pierre Georges Latécoére;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.59406;43.54923
+31480_0210_00013;13;;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596609;43.551326
+31480_0052_00022;22;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601147;43.54937
+31480_0021_00008;8;;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601437;43.543322
+31480_0044_00023_bis;23;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600145;43.545503
+31480_0012_00006;6;;Allée des Erables;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622434;43.54929
+31480_0280_00023;23;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61824;43.548253
+31480_0044_00006_bis;6;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60348;43.544311
+31480_0039_00002;2;;Avenue Pierre Georges Latécoére;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.594079;43.548755
+31480_0051_00004;4;;Rue Caroline Aigle;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.593762;43.551154
+31480_0280_00009;9;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618622;43.549356
+31480_0210_00001;1;;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.595141;43.550094
+31480_0280_00012;12;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619;43.548564
+31480_mqfawl_00010_c;10;c;Route Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622259;43.549812
+31480_0014_00008;8;;Avenue Gasparou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601468;43.541622
+31480_0044_00026;26;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600412;43.54531
+31480_0014_00003;3;;Avenue Gasparou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604604;43.542984
+31480_0022_00005;5;;Rue du Chai;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599315;43.547412
+31480_0200_00002;2;;Chemin de Malause;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598733;43.557689
+31480_0025_00002;2;;Avenue Jean-paul Sartre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605271;43.545835
+31480_9v21yd_00004;4;;Avenue Louis Aragon;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605605;43.546687
+31480_agnlzv_00013;13;;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603479;43.547606
+31480_0032_00040;40;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.62413;43.54578
+31480_0004_00004;4;;Place des Bancs Publics;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606923;43.545617
+31480_0003_00001;1;;Place de l'Auvergnat;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606682;43.544985
+31480_0044_00030_bis;30;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599578;43.545632
+31480_0045_00006;6;;Impasse du Raspet;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599313;43.548383
+31480_0044_00053;53;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.581868;43.552402
+31480_0009_00002;2;;Place Bernard Lamarque;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603308;43.542917
+31480_0025_00010;10;;Avenue Jean-paul Sartre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604736;43.546759
+31480_0001_00008;8;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.607123;43.544821
+31480_0026_00008_ter;8;ter;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618054;43.545811
+31480_0041_00005;5;;Allée des Peupliers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621998;43.547598
+31480_fpyc2q_00002;2;;Allée du Grand Cèdre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.607088;43.541887
+31480_0200_00020;20;;Chemin de Malause;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600746;43.558406
+31480_0026_00011;11;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612307;43.54272
+31480_0100_00003;3;;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613013;43.541555
+31480_0120_00010;10;;Chemin de la Gouffie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.59753;43.556377
+31480_0080_00002;2;;Impasse du Cers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615939;43.542266
+31480_0100_00005;5;;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614347;43.540985
+31480_0150_00007;7;;Impasse du Levant;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617415;43.541908
+31480_0005_00017_bis;17;bis;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597218;43.543345
+31480_0034_00005;5;;Avenue Paul Cézanne;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616056;43.546723
+31480_agnlzv_00005;5;;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602768;43.546667
+31480_0021_00014;14;;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601734;43.543465
+31480_0007_00012;12;;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602556;43.547685
+31480_0038_00031;31;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600985;43.547802
+31480_0270_01131;1131;;Route de la Saune;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606676;43.552358
+31480_0045_00003;3;;Impasse du Raspet;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599582;43.548399
+31480_0015_00001;1;;Place Gabrielle Sacome;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602461;43.542387
+31480_0035_00001;1;;impasse de Ferradou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601914;43.541493
+31480_0270_01872;1872;;Route de la Saune;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599242;43.556487
+31480_0021_00022_b;22;b;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602269;43.543763
+31480_0022_00013;13;;Rue du Chai;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599885;43.548158
+31480_dmi3wc_00006_bis;6;bis;Domaine de Ferradou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602385;43.540566
+31480_0021_00014_bis;14;bis;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601598;43.543913
+31480_0210_00005;5;;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.5957;43.550225
+31480_0007_00018_bis;18;bis;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60309;43.548359
+31480_0052_00034;34;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60195;43.548476
+31480_0085_00005_bis;5;bis;Rue du Clos des Vignes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613053;43.540406
+31480_0301_00006;6;;Avenue Roland Garros;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.594906;43.5515
+31480_0052_00027;27;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601753;43.548244
+31480_0060_00017;17;;Allée de l'Autan;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614235;43.541412
+31480_0001_00007;7;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606364;43.543976
+31480_0043_00006;6;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597527;43.548727
+31480_0043_00016;16;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597136;43.549391
+31480_ek5epu_00003;3;;Impasse Vincent Van Gogh;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615908;43.546292
+31480_0280_00002;2;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618871;43.548966
+31480_0003_00003;3;;Place de l'Auvergnat;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606255;43.544989
+31480_0120_00001;1;;Chemin de la Gouffie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598218;43.556944
+31480_0021_00007;7;;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600721;43.543059
+31480_0085_00001;1;;Rue du Clos des Vignes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613574;43.541074
+31480_0espnp_00002;2;;Rue Aime Seran;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606262;43.542665
+31480_agnlzv_00010;10;;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603593;43.547525
+31480_0200_00016;16;;Chemin de Malause;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600228;43.559516
+31480_ccki0d_00063;63;;Le Pujol;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.58784;43.542794
+31480_0150_00006;6;;Impasse du Levant;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617155;43.542282
+31480_0042_00005;5;;Allée des Pins;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620808;43.547841
+31480_0040_00003;3;;Place Pierre et Marie Curie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619072;43.546924
+31480_0043_00015;15;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596563;43.549001
+31480_0195_00002;2;;Place de la Mairie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609503;43.542472
+31480_0044_00023;23;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600014;43.545557
+31480_0030_00004;4;;Avenue Louis Blériot;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.593181;43.549906
+31480_0049_00002;2;;Impasse Vianey;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61355;43.542459
+31480_0010_00004;4;;Rue du 19 Mars 1962;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609531;43.543867
+31480_0270_01854;1854;;Route de la Saune;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599408;43.556419
+31480_b023_00053_d;53;d;Saint Martin de Ronsac;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601316;43.56497
+31480_0022_00006;6;;Rue du Chai;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599098;43.547401
+31480_0044_00038;38;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597802;43.546571
+31480_0084_00005;5;;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613067;43.544094
+31480_mqfawl_00011;11;;Route Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621673;43.550201
+31480_0espnp_00005;5;;Rue Aime Seran;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605605;43.542178
+31480_0038_00018_bis;18;bis;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600897;43.547717
+31480_0032_00033;33;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623511;43.545848
+31480_9v21yd_00005;5;;Avenue Louis Aragon;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605345;43.546916
+31480_0052_00021;21;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601169;43.548433
+31480_0150_00003;3;;Impasse du Levant;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616812;43.542301
+31480_0036_00003;3;;Rue Paul Gauguin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616419;43.547294
+31480_0044_00001;1;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60435;43.544146
+31480_0044_00034_ter;34;ter;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.59869;43.54556
+31480_0024_00004;4;;Impasse Gayral;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596535;43.548271
+31480_0014_00004;4;;Avenue Gasparou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60425;43.543304
+31480_0052_00031;31;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601987;43.548303
+31480_0032_00018;18;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621879;43.545062
+31480_0044_00039_bis;39;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.595979;43.5476
+31480_0026_00008;8;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617971;43.5462
+31480_0018_00011;11;;Avenue Jacques Brel;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60379;43.546449
+31480_0201_00137;137;;Chemin de la Bergerie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.592918;43.553553
+31480_0047_00004;4;;Rue Robert Doisneau;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.607359;43.543929
+31480_0270_00002;2;;Route de la Saune;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617689;43.547782
+31480_0038_00011;11;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600427;43.546564
+31480_0026_00037_bis;37;bis;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618098;43.546808
+31480_0019_00003_ter;3;ter;Rue de Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602892;43.545753
+31480_0044_00048;48;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.593747;43.548608
+31480_0043_00025;25;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.59668;43.549351
+31480_0034_00006;6;;Avenue Paul Cézanne;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616075;43.546849
+31480_0018_00012;12;;Avenue Jacques Brel;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603709;43.546103
+31480_0035_00004;4;;impasse de Ferradou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602517;43.541641
+31480_0049_00006;6;;Impasse Vianey;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613995;43.542047
+31480_agnlzv_00001;1;;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602551;43.5464
+31480_0038_00013;13;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600284;43.546577
+31480_mqfawl_00010_a;10;a;Route Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621658;43.549756
+31480_0024_00006;6;;Impasse Gayral;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596702;43.548198
+31480_0019_00001;1;;Rue de Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602527;43.544932
+31480_0090_00001;1;;rue des églantiers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620852;43.546926
+31480_0125_00001;1;;impasse des grands chênes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619164;43.549526
+31480_agnlzv_00011_bis;11;bis;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603364;43.547474
+31480_0290_00009;9;;Rue du Vigneron;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599135;43.547767
+31480_0012_00001;1;;Allée des Erables;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622783;43.548675
+31480_0015_00005;5;;Place Gabrielle Sacome;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602293;43.54261
+31480_0200_00010;10;;Chemin de Malause;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599568;43.558535
+31480_0006_00009;9;;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60615;43.543157
+31480_0010_00005;5;;Rue du 19 Mars 1962;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609897;43.543966
+31480_b023_00051;51;;Saint Martin de Ronsac;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606539;43.563219
+31480_0032_00005;5;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619029;43.546121
+31480_0130_00009;9;;Rue Labourdette;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614741;43.543148
+31480_0032_00046;46;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.62317;43.546061
+31480_0060_00015;15;;Allée de l'Autan;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614468;43.541596
+31480_0021_00018;18;;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601608;43.544092
+31480_mqfawl_00008;8;;Route Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621388;43.549607
+31480_9v21yd_00013;13;;Avenue Louis Aragon;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604084;43.547007
+31480_0021_00001;1;;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600891;43.542347
+31480_0270_01131_b;1131;b;Route de la Saune;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606566;43.555551
+31480_0040_00006;6;;Place Pierre et Marie Curie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619625;43.546999
+31480_0038_00023_bis;23;bis;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600371;43.54761
+31480_0044_00041_a;41;a;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.59557;43.5479
+31480_agnlzv_00008;8;;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603311;43.547151
+31480_agnlzv_00017;17;;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603775;43.547998
+31480_0001_00005_bis;5;bis;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606321;43.544048
+31480_0060_00002;2;;Allée de l'Autan;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615848;43.542873
+31480_a3rpqx_00001;1;;Larroche;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609011;43.557489
+31480_p4qb58_00011;11;;Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.592126;43.550599
+31480_0052_00011;11;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600015;43.54903
+31480_0018_00001;1;;Avenue Jacques Brel;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60492;43.545039
+31480_0001_00026;26;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.610836;43.545368
+31480_0044_00006;6;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603576;43.544282
+31480_0vqq6b_00048_a;48;a;La Barrague;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619047;43.559645
+31480_0100_00018_bis;18;bis;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616345;43.54029
+31480_0026_00019_bis;19;bis;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613322;43.54351
+31480_0019_00003;3;;Rue de Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602797;43.545564
+31480_0038_00017;17;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599793;43.546893
+31480_9v21yd_00011;11;;Avenue Louis Aragon;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604634;43.546987
+31480_0026_00029;29;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617069;43.545442
+31480_mqfawl_00010_b;10;b;Route Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621943;43.549605
+31480_0270_01131_d;1131;d;Route de la Saune;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.607302;43.555205
+31480_0031_00002;2;;Place du Pastel;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.608552;43.542571
+31480_0009_00001;1;;Place Bernard Lamarque;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603688;43.542907
+31480_0032_00011;11;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620165;43.5458
+31480_0010_00009;9;;Rue du 19 Mars 1962;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.610501;43.543963
+31480_0052_00036;36;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601553;43.548436
+31480_0270_01500;1500;;Route de la Saune;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602674;43.554361
+31480_mqfawl_00002_ter;2;ter;Route Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620407;43.548867
+31480_0038_00026_bis;26;bis;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601487;43.547486
+31480_0125_00008;8;;impasse des grands chênes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619338;43.550043
+31480_0007_00009;9;;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602421;43.547742
+31480_0038_00016;16;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600331;43.547396
+31480_0005_00007;7;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598673;43.542216
+31480_mqfawl_00004;4;;Route Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620715;43.549157
+31480_0032_00009;9;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619732;43.545851
+31480_0001_00005;5;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606127;43.544194
+31480_0041_00001;1;;Allée des Peupliers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622492;43.547884
+31480_0052_00004_bis;4;bis;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600168;43.549333
+31480_0040_00002;2;;Place Pierre et Marie Curie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618882;43.546685
+31480_0010_00007;7;;Rue du 19 Mars 1962;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.610262;43.543966
+31480_0043_00004;4;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597735;43.548658
+31480_0032_00015;15;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621224;43.545621
+31480_0270_01852;1852;;Route de la Saune;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599697;43.556244
+31480_0002_00001;1;;Avenue Jacques Prevert;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605149;43.544155
+31480_0032_00041;41;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621556;43.545937
+31480_0005_00017;17;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.59713;43.542942
+31480_9v21yd_00003;3;;Avenue Louis Aragon;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605762;43.546745
+31480_0035_00002;2;;impasse de Ferradou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602185;43.541307
+31480_0002_00006;6;;Avenue Jacques Prevert;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605675;43.545118
+31480_0052_00008;8;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600203;43.549052
+31480_0100_00001;1;;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612661;43.541638
+31480_0043_00027;27;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596716;43.54943
+31480_0001_00020_quater;20;quater;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60943;43.545227
+31480_0001_00022;22;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.610368;43.545048
+31480_0038_00009;9;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600913;43.546639
+31480_0011_00007;7;;Allée des Chênes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623774;43.548552
+31480_0038_00033;33;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601248;43.547698
+31480_0130_00007;7;;Rue Labourdette;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61448;43.54286
+31480_0301_00001;1;;Avenue Roland Garros;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.594065;43.550356
+31480_0029_00002_a;2;a;Chemin de la Palenque;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597544;43.547708
+31480_0001_00006;6;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60675;43.544439
+31480_0290_00004;4;;Rue du Vigneron;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598342;43.54813
+31480_0007_00018;18;;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603036;43.54828
+31480_0051_00001;1;;Rue Caroline Aigle;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.594017;43.550899
+31480_0001_00003;3;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605837;43.544365
+31480_0125_00005;5;;impasse des grands chênes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619563;43.549747
+31480_0047_00002;2;;Rue Robert Doisneau;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.607114;43.543698
+31480_0280_00003;3;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619589;43.548737
+31480_mqfawl_00009_ter;9;ter;Route Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621058;43.549696
+31480_0300_00003;3;;Impasse du Vent Marin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615952;43.541135
+31480_0025_00005;5;;Avenue Jean-paul Sartre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60483;43.546291
+31480_0021_00010;10;;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601787;43.543348
+31480_0014_00005;5;;Avenue Gasparou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603939;43.542766
+31480_0052_00013;13;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600016;43.548892
+31480_he3j1s_00890;890;;Route de Preserville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609667;43.536593
+31480_0013_00001;1;;Place de l'Eglise;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609822;43.542744
+31480_0021_00004;4;;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600805;43.542873
+31480_0032_00039;39;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621696;43.546162
+31480_0034_00008;8;;Avenue Paul Cézanne;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615819;43.546974
+31480_0280_00025;25;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618615;43.548327
+31480_0130_00005;5;;Rue Labourdette;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614122;43.543016
+31480_0012_00010;10;;Allée des Erables;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622712;43.549257
+31480_0007_00010;10;;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602393;43.547452
+31480_0052_00040;40;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601382;43.548954
+31480_0024_00003;3;;Impasse Gayral;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596571;43.54839
+31480_0024_00008;8;;Impasse Gayral;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597213;43.548313
+31480_0100_00014;14;;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615454;43.540679
+31480_0042_00007;7;;Allée des Pins;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621186;43.547787
+31480_0032_00044_bis;44;bis;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623423;43.545944
+31480_0080_00001;1;;Impasse du Cers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615509;43.542342
+31480_0051_00003;3;;Rue Caroline Aigle;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.593811;43.550984
+31480_7hk8kx_00001;1;;Avenue Guillaume Apollinaire;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.611003;43.544864
+31480_0043_00017;17;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596356;43.54906
+31480_0210_00002;2;;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.59454;43.550556
+31480_0044_00030_ter;30;ter;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599502;43.545656
+31480_0020_00004;4;;Place Jacques Monod;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622616;43.54557
+31480_0020_00003;3;;Place Jacques Monod;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622494;43.545584
+31480_0041_00008;8;;Allée des Peupliers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623006;43.547466
+31480_0019_00001_ter;1;ter;Rue de Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602731;43.545363
+31480_0038_00020;20;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601032;43.547354
+31480_0010_00003;3;;Rue du 19 Mars 1962;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609417;43.543969
+31480_0210_00003_b;3;b;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.595914;43.549382
+31480_0032_00034;34;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.624095;43.545244
+31480_0052_00024_a;24;a;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602159;43.549083
+31480_0044_00054;54;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.589018;43.550054
+31480_0038_00021;21;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600071;43.547304
+31480_0023_00004;4;;Chemin du Fort de Pujol;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.584294;43.548714
+31480_0032_00016;16;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621348;43.545225
+31480_0085_00003;3;;Rue du Clos des Vignes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613336;43.540797
+31480_0001_00018;18;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609113;43.545071
+31480_0044_00003;3;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604097;43.544248
+31480_0120_00006;6;;Chemin de la Gouffie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597797;43.556703
+31480_0084_00016_d;16;d;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612379;43.544408
+31480_0044_00009;9;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602994;43.544639
+31480_0060_00013;13;;Allée de l'Autan;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614895;43.541606
+31480_0espnp_00002_bis;2;bis;Rue Aime Seran;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60621;43.542612
+31480_0026_00021;21;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613637;43.543683
+31480_mqfawl_00007;7;;Route Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620718;43.549483
+31480_0029_00002;2;;Chemin de la Palenque;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598057;43.547626
+31480_9v21yd_00010;10;;Avenue Louis Aragon;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604095;43.546913
+31480_0301_00002;2;;Avenue Roland Garros;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.59401;43.549961
+31480_0026_00013_ter;13;ter;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612774;43.543095
+31480_0026_00039;39;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618283;43.547022
+31480_vfahbz_00001;1;;Place François Mitterrand;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61034;43.541173
+31480_0280_00005;5;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61947;43.548818
+31480_0084_00010;10;;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.611736;43.543303
+31480_7hk8kx_00002;2;;Avenue Guillaume Apollinaire;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.610659;43.544858
+31480_0vqq6b_00048;48;;La Barrague;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618695;43.560313
+31480_0210_00004;4;;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.594888;43.550396
+31480_0032_00010;10;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620122;43.545692
+31480_0043_00031;31;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597019;43.549542
+31480_0085_00006;6;;Rue du Clos des Vignes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613323;43.54032
+31480_mqfawl_00009;9;;Route Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621351;43.549928
+31480_0029_00008;8;;Chemin de la Palenque;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598751;43.549174
+31480_0085_00005;5;;Rue du Clos des Vignes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613166;43.540561
+31480_0030_00002;2;;Avenue Louis Blériot;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.593332;43.549914
+31480_0012_00008;8;;Allée des Erables;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622515;43.549317
+31480_0044_00055;55;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.581214;43.552838
+31480_0060_00010;10;;Allée de l'Autan;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615848;43.541531
+31480_0038_00022;22;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600993;43.547298
+31480_0060_00006;6;;Allée de l'Autan;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616332;43.542033
+31480_0023_00003;3;;Chemin du Fort de Pujol;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.584332;43.548154
+31480_0032_00054;54;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.62163;43.546509
+31480_0084_00008;8;;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612195;43.543767
+31480_0031_00003;3;;Place du Pastel;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.608091;43.542775
+31480_0125_00002;2;;impasse des grands chênes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618931;43.549504
+31480_0044_00010;10;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603045;43.544475
+31480_0044_00018;18;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601243;43.545078
+31480_0044_00014;14;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601566;43.544985
+31480_0007_00001;1;;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601648;43.546702
+31480_0048_00056;56;;Chemin de Roquette;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.58603;43.553176
+31480_0022_00007;7;;Rue du Chai;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599483;43.547617
+31480_0001_00021;21;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.608262;43.54498
+31480_0012_00004;4;;Allée des Erables;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622201;43.549014
+31480_0047_00005;5;;Rue Robert Doisneau;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60762;43.544272
+31480_0034_00003_bis;3;bis;Avenue Paul Cézanne;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616961;43.546416
+31480_0080_00006;6;;Impasse du Cers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615106;43.54211
+31480_0002_00002;2;;Avenue Jacques Prevert;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60527;43.54459
+31480_0019_00002;2;;Rue de Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602599;43.545578
+31480_0084_00004;4;;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613284;43.544129
+31480_0043_00019;19;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596542;43.549169
+31480_0044_00033_bis;33;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597367;43.547022
+31480_0085_00002;2;;Rue du Clos des Vignes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613781;43.540933
+31480_0300_00009;9;;Impasse du Vent Marin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61679;43.540971
+31480_0044_00042;42;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597666;43.5466
+31480_0006_00012;12;;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605735;43.543185
+31480_0044_00019;19;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600932;43.545338
+31480_0029_00002_bis;2;bis;Chemin de la Palenque;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598268;43.547499
+31480_0300_00005;5;;Impasse du Vent Marin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616065;43.541365
+31480_0032_00013;13;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620532;43.545707
+31480_p4qb58_00002_ter;2;ter;Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.592126;43.550599
+31480_0038_00013_bis;13;bis;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600136;43.546659
+31480_0300_00007;7;;Impasse du Vent Marin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616617;43.541322
+31480_0005_00019;19;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596158;43.543315
+31480_he3j1s_00856;856;;Route de Preserville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609351;43.536733
+31480_3urf66_00001;1;;Lieu-dit Gaillard;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.580188;43.549674
+31480_0029_00001;1;;Chemin de la Palenque;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597288;43.54772
+31480_0012_00002;2;;Allée des Erables;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622225;43.548938
+31480_0026_00002;2;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613484;43.543412
+31480_0280_00007;7;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619164;43.549008
+31480_0060_00008;8;;Allée de l'Autan;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616302;43.541732
+31480_0052_00019;19;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600906;43.548531
+31480_0250_00009;9;;Chemin des Razelles;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.611907;43.555957
+31480_0090_00008;8;;rue des églantiers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620205;43.546522
+31480_0007_00008;8;;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602185;43.547189
+31480_0300_00001;1;;Impasse du Vent Marin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615818;43.541192
+31480_ccki0d_00065;65;;Le Pujol;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.593797;43.542181
+31480_0280_00011;11;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618513;43.549255
+31480_0280_00010;10;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618687;43.548542
+31480_0014_00006;6;;Avenue Gasparou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603251;43.542548
+31480_0044_00055_bis;55;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.582521;43.553492
+31480_0130_00010;10;;Rue Labourdette;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614577;43.542712
+31480_0090_00005;5;;rue des églantiers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.62058;43.546499
+31480_0006_00013;13;;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605758;43.543377
+31480_0005_00011;11;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598221;43.542423
+31480_0210_00008;8;;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.595817;43.550606
+31480_0032_00022;22;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622475;43.544883
+31480_0301_00008;8;;Avenue Roland Garros;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.594964;43.551585
+31480_mqfawl_00009_bis;9;bis;Route Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621445;43.549983
+31480_yxg2o2_00004;4;;Avenue Alain Saint Paul;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.608956;43.543759
+31480_0044_00012_bis;12;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601773;43.544863
+31480_0044_00039;39;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596049;43.547562
+31480_0032_00012;12;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.62041;43.545626
+31480_0001_00011;11;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606703;43.543868
+31480_0006_00007;7;;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606701;43.542831
+31480_a8x6qe_00027_t;27;t;Baillac;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.628849;43.541308
+31480_0043_00045;45;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598124;43.549389
+31480_0005_02177;2177;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.578002;43.55019
+31480_0060_00009;9;;Allée de l'Autan;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615831;43.541692
+31480_p4qb58_00006;6;;Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.592126;43.550599
+31480_0150_00002;2;;Impasse du Levant;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616524;43.542585
+31480_0029_00010;10;;Chemin de la Palenque;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599398;43.550066
+31480_0025_00007;7;;Avenue Jean-paul Sartre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604989;43.546827
+31480_0044_00005_bis;5;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60372;43.544401
+31480_0021_00020;20;;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601658;43.544035
+31480_0100_00010;10;;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614794;43.540969
+31480_0036_00007;7;;Rue Paul Gauguin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616702;43.5476
+31480_0026_00041;41;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618324;43.547091
+31480_0002_00010;10;;Avenue Jacques Prevert;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60557;43.545713
+31480_0023_00001;1;;Chemin du Fort de Pujol;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.583795;43.547931
+31480_0015_00002;2;;Place Gabrielle Sacome;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602167;43.54234
+31480_0200_00007;7;;Chemin de Malause;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600452;43.558364
+31480_0043_00039;39;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597439;43.549389
+31480_0097_00002;2;;place François MITTERRAND;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.610019;43.541776
+31480_0125_00006;6;;impasse des grands chênes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619197;43.549802
+31480_0043_00033;33;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597157;43.549483
+31480_a8x6qe_00027_c;27;c;Baillac;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.629097;43.541255
+31480_0100_00011;11;;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617923;43.539606
+31480_0300_00002;2;;Impasse du Vent Marin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616874;43.541538
+31480_0019_00005;5;;Rue de Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602861;43.545792
+31480_0005_01937;1937;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.580272;43.548817
+31480_0007_00011_bis;11;bis;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602629;43.547996
+31480_0049_00005;5;;Impasse Vianey;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613472;43.54224
+31480_0006_00016;16;;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605312;43.543435
+31480_0espnp_00001;1;;Rue Aime Seran;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606081;43.542627
+31480_0052_00032;32;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602074;43.548659
+31480_0043_00047;47;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598057;43.549165
+31480_0032_00038;38;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.624465;43.545697
+31480_0085_00010;10;;Rue du Clos des Vignes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612953;43.539661
+31480_0005_00013;13;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597892;43.542589
+31480_0300_00007_bis;7;bis;Impasse du Vent Marin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616815;43.541261
+31480_0120_00008;8;;Chemin de la Gouffie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597785;43.556665
+31480_0044_00028;28;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600003;43.545447
+31480_0005_00005;5;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599292;43.54188
+31480_0043_00005;5;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597523;43.548641
+31480_7hk8kx_00005;5;;Avenue Guillaume Apollinaire;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.611473;43.544612
+31480_0025_00003;3;;Avenue Jean-paul Sartre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605166;43.546022
+31480_0044_00035;35;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596489;43.547342
+31480_0025_00004;4;;Avenue Jean-paul Sartre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605083;43.545914
+31480_0002_00008;8;;Avenue Jacques Prevert;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605839;43.545328
+31480_0100_00004_bis;4;bis;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613324;43.541698
+31480_0044_00052_bis;52;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.591211;43.549779
+31480_0003_00001_bis;1;bis;Place de l'Auvergnat;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606401;43.545137
+31480_0049_00004;4;;Impasse Vianey;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613962;43.542183
+31480_0004_00003;3;;Place des Bancs Publics;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606709;43.545715
+31480_0084_00007;7;;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612284;43.543842
+31480_0045_00004;4;;Impasse du Raspet;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599447;43.548322
+31480_0041_00009;9;;Allée des Peupliers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622317;43.547437
+31480_0080_00007;7;;Impasse du Cers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614944;43.542142
+31480_0044_00012;12;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601833;43.544845
+31480_7hk8kx_00004;4;;Avenue Guillaume Apollinaire;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.610812;43.544783
+31480_0038_00007;7;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601206;43.546506
+31480_0052_00017;17;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600597;43.548628
+31480_0210_00003;3;;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.595537;43.550089
+31480_0052_00010;10;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600448;43.548811
+31480_0085_00007;7;;Rue du Clos des Vignes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612878;43.540224
+31480_0044_00024;24;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600791;43.545199
+31480_0210_00011;11;;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596127;43.550741
+31480_0006_00003_bis;3;bis;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.608282;43.543324
+31480_0001_00013;13;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606895;43.544364
+31480_0018_00010;10;;Avenue Jacques Brel;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603861;43.545825
+31480_0044_00050;50;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.593973;43.548457
+31480_0018_00003;3;;Avenue Jacques Brel;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604532;43.545174
+31480_0200_00005;5;;Chemin de Malause;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599663;43.558429
+31480_0280_00019;19;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618135;43.548537
+31480_0021_00009;9;;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600949;43.543325
+31480_0130_00017;17;;Rue Labourdette;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615284;43.543433
+31480_p4qb58_00009;9;;Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.592126;43.550599
+31480_0041_00011;11;;Allée des Peupliers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622742;43.547324
+31480_9v21yd_00002;2;;Avenue Louis Aragon;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605915;43.546508
+31480_0014_00001_bis;1;bis;Avenue Gasparou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604485;43.543142
+31480_0047_00001;1;;Rue Robert Doisneau;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606879;43.543365
+31480_0038_00008;8;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601041;43.546717
+31480_0041_00007;7;;Allée des Peupliers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621998;43.547532
+31480_ek5epu_00001;1;;Impasse Vincent Van Gogh;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616366;43.546571
+31480_0012_00003;3;;Allée des Erables;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622645;43.549127
+31480_0038_00015;15;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600014;43.546702
+31480_b023_00053_c;53;c;Saint Martin de Ronsac;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601163;43.564995
+31480_0032_00027;27;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623872;43.545146
+31480_0042_00010;10;;Allée des Pins;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621714;43.548498
+31480_0052_00002;2;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599641;43.549582
+31480_0004_00002;2;;Place des Bancs Publics;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606791;43.54587
+31480_0032_00002;2;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618705;43.546148
+31480_dmi3wc_00002;2;;Domaine de Ferradou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603263;43.541503
+31480_0036_00002;2;;Rue Paul Gauguin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616528;43.546978
+31480_a8x6qe_00001;1;;Baillac;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.628919;43.541376
+31480_0250_00002;2;;Chemin des Razelles;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621084;43.554633
+31480_0044_00028_ter;28;ter;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599785;43.545516
+31480_0047_00004_bis;4;bis;Rue Robert Doisneau;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.607523;43.544133
+31480_0026_00006;6;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614399;43.543859
+31480_0026_00001;1;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61021;43.542557
+31480_0044_00031;31;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598304;43.546601
+31480_0200_00004;4;;Chemin de Malause;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.59844;43.55787
+31480_0030_00003;3;;Avenue Louis Blériot;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.592739;43.549769
+31480_0026_00008_bis;8;bis;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617751;43.545887
+31480_0032_00029;29;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.624001;43.545371
+31480_0026_00007;7;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.611266;43.542376
+31480_0025_00001;1;;Avenue Jean-paul Sartre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605346;43.545907
+31480_0036_00008;8;;Rue Paul Gauguin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616934;43.547513
+31480_0043_00020;20;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597873;43.549125
+31480_0026_00019;19;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613166;43.543388
+31480_0032_00042;42;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623781;43.545882
+31480_yxg2o2_00008;8;;Avenue Alain Saint Paul;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609131;43.544371
+31480_0006_00005;5;;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.607987;43.543549
+31480_0018_00005;5;;Avenue Jacques Brel;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604294;43.545306
+31480_0130_00004;4;;Rue Labourdette;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614162;43.542858
+31480_0018_00014;14;;Avenue Jacques Brel;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603325;43.546138
+31480_0210_00007;7;;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.595988;43.550549
+31480_0038_00029;29;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600752;43.547894
+31480_0032_00020;20;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622044;43.545002
+31480_9v21yd_00001;1;;Avenue Louis Aragon;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606011;43.546604
+31480_0039_00008;8;;Avenue Pierre Georges Latécoére;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.594045;43.54955
+31480_0038_00012;12;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599999;43.546965
+31480_0002_00016;16;;Avenue Jacques Prevert;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606369;43.546229
+31480_0085_00009;9;;Rue du Clos des Vignes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612671;43.539829
+31480_0040_00005;5;;Place Pierre et Marie Curie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619352;43.547177
+31480_0032_00050;50;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622202;43.546339
+31480_0090_00006;6;;rue des églantiers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620587;43.54674
+31480_0100_00012;12;;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615148;43.54088
+31480_0038_00010;10;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600665;43.54676
+31480_0052_00029;29;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601955;43.548252
+31480_0004_00001;1;;Place des Bancs Publics;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606929;43.545808
+31480_0080_00005;5;;Impasse du Cers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614966;43.542343
+31480_0021_00022;22;;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601697;43.543962
+31480_agnlzv_00011;11;;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603281;43.547358
+31480_0024_00007;7;;Impasse Gayral;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596784;43.548222
+31480_0150_00001;1;;Impasse du Levant;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616512;43.542446
+31480_0005_01206;1206;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.588339;43.546172
+31480_0022_00002;2;;Rue du Chai;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598826;43.547133
+31480_0011_00004;4;;Allée des Chênes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623496;43.548611
+31480_0090_00007;7;;rue des églantiers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620505;43.546315
+31480_0042_00001;1;;Allée des Pins;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620064;43.547907
+31480_0006_00004;4;;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60722;43.542571
+31480_0290_00006;6;;Rue du Vigneron;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.5986;43.548026
+31480_agnlzv_00003;3;;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602715;43.546607
+31480_0001_00004;4;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606125;43.544373
+31480_ek5epu_00004;4;;Impasse Vincent Van Gogh;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615867;43.546356
+31480_0044_00008_bis;8;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603327;43.544358
+31480_0045_00001;1;;Impasse du Raspet;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599832;43.54832
+31480_0025_00008;8;;Avenue Jean-paul Sartre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604667;43.546446
+31480_0001_00029;29;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609952;43.544775
+31480_0044_00028_bis;28;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599806;43.545475
+31480_0022_00004;4;;Rue du Chai;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.59896;43.547272
+31480_0011_00005;5;;Allée des Chênes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623758;43.548493
+31480_0290_00002;2;;Rue du Vigneron;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598247;43.548172
+31480_0060_00005;5;;Allée de l'Autan;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615645;43.542801
+31480_0043_00037;37;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597563;43.549602
+31480_0032_00056;56;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621388;43.546473
+31480_agnlzv_00007;7;;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602933;43.546893
+31480_agnlzv_00012;12;;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603757;43.547729
+31480_0044_00032_bis;32;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599189;43.5458
+31480_0084_00001;1;;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614272;43.544282
+31480_0032_00021;21;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622192;43.545089
+31480_0043_00022;22;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598021;43.549077
+31480_0001_00023;23;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.608531;43.544955
+31480_0052_00038;38;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601235;43.548769
+31480_0090_00002;2;;rue des églantiers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620759;43.54705
+31480_0049_00007;7;;Impasse Vianey;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613605;43.542019
+31480_0032_00037;37;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622289;43.546189
+31480_0001_00015;15;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606961;43.544429
+31480_0052_00025;25;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601469;43.548336
+31480_0001_00017;17;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.607407;43.544851
+31480_0210_00016;16;;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.595613;43.551738
+31480_0043_00024;24;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598149;43.548995
+31480_0024_00002;2;;Impasse Gayral;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596619;43.54842
+31480_0044_00041_b;41;b;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.59566;43.547734
+31480_0006_00002_bis;2;bis;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60927;43.542716
+31480_0270_01131_c;1131;c;Route de la Saune;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.607023;43.555298
+31480_0044_00007;7;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603501;43.544493
+31480_0044_00056;56;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.588907;43.550095
+31480_0049_00008;8;;Impasse Vianey;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613918;43.541954
+31480_0300_00006;6;;Impasse du Vent Marin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617058;43.541149
+31480_0200_00009;9;;Chemin de Malause;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601038;43.558162
+31480_dmi3wc_00003;3;;Domaine de Ferradou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60295;43.541121
+31480_agnlzv_00009;9;;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60312;43.547146
+31480_0084_00014;14;;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612083;43.54386
+31480_0043_00018;18;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597628;43.549213
+31480_0015_00004;4;;Place Gabrielle Sacome;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602185;43.542558
+31480_0044_00022;22;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601024;43.545145
+31480_0014_00001;1;;Avenue Gasparou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604638;43.543524
+31480_0044_00027_ter;27;ter;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599095;43.546085
+31480_0003_00002;2;;Place de l'Auvergnat;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606246;43.545141
+31480_0006_00010;10;;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606195;43.542948
+31480_0007_00014;14;;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602695;43.547839
+31480_0032_00032;32;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623861;43.544847
+31480_0100_00006;6;;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613594;43.54164
+31480_0005_00729;729;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.593368;43.544171
+31480_0044_00017;17;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601052;43.545309
+31480_0090_00012;12;;rue des églantiers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.62029;43.546411
+31480_0035_00003;3;;impasse de Ferradou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602382;43.541451
+31480_0120_00002;2;;Chemin de la Gouffie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598083;43.557021
+31480_0001_00014;14;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.608216;43.545111
+31480_0120_00004;4;;Chemin de la Gouffie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597981;43.556919
+31480_0029_00007;7;;Chemin de la Palenque;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598498;43.54914
+31480_0044_00030;30;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599669;43.545551
+31480_0051_00005;5;;Rue Caroline Aigle;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.593512;43.551133
+31480_0030_00001;1;;Avenue Louis Blériot;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.593174;43.549783
+31480_0250_00011;11;;Chemin des Razelles;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.611848;43.555986
+31480_0125_00007;7;;impasse des grands chênes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619709;43.549837
+31480_0036_00006;6;;Rue Paul Gauguin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616611;43.5476
+31480_3urf66_00002;2;;Lieu-dit Gaillard;31570;31480;Sainte-Foy-d'Aigrefeuille;;Le Babo;1.58096;43.550431
+31480_0084_00009;9;;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.611991;43.543568
+31480_0038_00024;24;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601126;43.547221
+31480_b023_00049;49;;Saint Martin de Ronsac;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60684;43.563164
+31480_0043_00011;11;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596818;43.548881
+31480_0052_00009;9;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599969;43.54931
+31480_0038_00001;1;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602323;43.546149
+31480_0026_00023;23;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613954;43.543852
+31480_0038_00023;23;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600371;43.547609
+31480_0022_00017;17;;Rue du Chai;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600168;43.548509
+31480_0044_00033;33;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597438;43.547016
+31480_0042_00011;11;;Allée des Pins;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621444;43.548161
+31480_0032_00058;58;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621334;43.546396
+31480_0084_00013;13;;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.611859;43.54366
+31480_agnlzv_00017_bis;17;bis;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603846;43.548071
+31480_0026_00027;27;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616952;43.545402
+31480_0029_00002_b;2;b;Chemin de la Palenque;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597616;43.547757
+31480_0290_00012;12;;Rue du Vigneron;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599563;43.547927
+31480_0084_00016_c;16;c;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612686;43.544347
+31480_0041_00006;6;;Allée des Peupliers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622978;43.547512
+31480_0005_01095;1095;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.58842;43.545973
+31480_p4qb58_00009_bis;9;bis;Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.592126;43.550599
+31480_7hk8kx_00003;3;;Avenue Guillaume Apollinaire;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.611054;43.544853
+31480_0042_00002;2;;Allée des Pins;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620318;43.547999
+31480_0032_00044;44;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623423;43.545944
+31480_0210_00006_c;6;c;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.595331;43.550258
+31480_0006_00001;1;;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609119;43.543066
+31480_0001_00009;9;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606662;43.543821
+31480_agnlzv_00002;2;;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602806;43.5465
+31480_0125_00003;3;;impasse des grands chênes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619298;43.549665
+31480_dmi3wc_00005;5;;Domaine de Ferradou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601115;43.540614
+31480_0043_00012;12;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596801;43.548999
+31480_0006_00003;3;;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.608285;43.543335
+31480_0200_00012;12;;Chemin de Malause;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599725;43.558656
+31480_0210_00011;11;;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596479;43.551119
+31480_0022_00011;11;;Rue du Chai;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599739;43.547984
+31480_0038_00018;18;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.6007;43.54778
+31480_0026_00015;15;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613059;43.543345
+31480_0280_00014;14;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61929;43.548611
+31480_0120_00003;3;;Chemin de la Gouffie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598106;43.55684
+31480_0029_00012;12;;Chemin de la Palenque;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60081;43.549757
+31480_0044_00037;37;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596188;43.547496
+31480_0026_00017;17;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613139;43.543362
+31480_0250_00003;3;;Chemin des Razelles;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61792;43.556266
+31480_0001_00020_bis;20;bis;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609532;43.545344
+31480_0032_00023;23;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622787;43.544913
+31480_0006_00005_bis;5;bis;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.608196;43.54329
+31480_0044_00032;32;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599303;43.545752
+31480_0090_00004;4;;rue des églantiers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620732;43.546974
+31480_0125_00004;4;;impasse des grands chênes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618998;43.549638
+31480_0043_00041;41;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597858;43.549242
+31480_agnlzv_00014;14;;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603858;43.547857
+31480_0005_01386;1386;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.586185;43.546547
+31480_9v21yd_00009;9;;Avenue Louis Aragon;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604802;43.547076
+31480_0200_00014;14;;Chemin de Malause;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599891;43.559364
+31480_0060_00003;3;;Allée de l'Autan;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615483;43.542934
+31480_0006_00002;2;;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60937;43.542669
+31480_0042_00009;9;;Allée des Pins;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621419;43.548111
+31480_0052_00024_b;24;b;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601483;43.549357
+31480_0007_00002;2;;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601794;43.546666
+31480_0038_00027;27;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600652;43.547956
+31480_0090_00003;3;;rue des églantiers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620725;43.546715
+31480_0090_00010;10;;rue des églantiers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620069;43.546445
+31480_0010_00010;10;;Rue du 19 Mars 1962;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.610206;43.54383
+31480_0301_00004;4;;Avenue Roland Garros;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.594539;43.551054
+31480_dmi3wc_00006_quater;6;quater;Domaine de Ferradou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601749;43.540182
+31480_0014_00002;2;;Avenue Gasparou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604269;43.543347
+31480_0007_00016;16;;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602975;43.548218
+31480_dmi3wc_00006_ter;6;ter;Domaine de Ferradou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602068;43.54074
+31480_0052_00018;18;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601317;43.549087
+31480_0029_00006;6;;Chemin de la Palenque;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598484;43.548767
+31480_0290_00008;8;;Rue du Vigneron;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598861;43.547939
+31480_0011_00011;11;;Allée des Chênes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623561;43.548736
+31480_0021_00012;12;;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601784;43.54341
+31480_0052_00012;12;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60106;43.548727
+31480_0044_00016;16;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601375;43.545036
+31480_0052_00016;16;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601275;43.549036
+31480_0001_00033;33;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.611314;43.545293
+31480_0018_00006;6;;Avenue Jacques Brel;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604294;43.545096
+31480_0018_00008;8;;Avenue Jacques Brel;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604022;43.545209
+31480_0026_00013;13;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612589;43.542932
+31480_0044_00021;21;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600475;43.545455
+31480_0130_00001;1;;Rue Labourdette;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613301;43.542942
+31480_0020_00006;6;;Place Jacques Monod;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622904;43.545352
+31480_0034_00004;4;;Avenue Paul Cézanne;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617046;43.546618
+31480_0052_00028;28;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601792;43.549011
+31480_0270_01438;1438;;Route de la Saune;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603346;43.553976
+31480_0022_00015;15;;Rue du Chai;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600028;43.548319
+31480_0010_00013;13;;Rue du 19 Mars 1962;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.611035;43.544417
+31480_0048_00055;55;;Chemin de Roquette;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.584279;43.55263
+31480_0210_00003_a;3;a;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.595476;43.549758
+31480_0044_00015;15;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601368;43.545207
+31480_0080_00005_bis;5;bis;Impasse du Cers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614901;43.542234
+31480_0024_00005;5;;Impasse Gayral;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596603;43.548224
+31480_0006_00018;18;;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605127;43.543526
+31480_0espnp_00003;3;;Rue Aime Seran;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605907;43.542422
+31480_0042_00006;6;;Allée des Pins;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621501;43.548411
+31480_0043_00001;1;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597928;43.548494
+31480_0032_00031;31;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623973;43.545702
+31480_0038_00003;3;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601902;43.546256
+31480_0052_00026;26;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601697;43.549062
+31480_0022_00001;1;;Rue du Chai;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599002;43.547075
+31480_0043_00023;23;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.59663;43.54928
+31480_0021_00022_a;22;a;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60214;43.543813
+31480_0049_00003;3;;Impasse Vianey;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613321;43.542221
+31480_0084_00016_b;16;b;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612976;43.544398
+31480_0001_00031;31;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.610144;43.544767
+31480_0006_00007_bis;7;bis;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606555;43.542997
+31480_0006_00006;6;;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606723;43.542266
+31480_0007_00007;7;;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602224;43.547474
+31480_0032_00014;14;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620655;43.545502
+31480_0020_00002;2;;Place Jacques Monod;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622379;43.545484
+31480_0041_00002;2;;Allée des Peupliers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622729;43.547985
+31480_0084_00012;12;;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.611596;43.543442
+31480_0044_00026_bis;26;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600082;43.54495
+31480_0005_00017_ter;17;ter;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596856;43.543065
+31480_0032_00035;35;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622988;43.546002
+31480_0026_00004;4;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613793;43.543572
+31480_0051_00006;6;;Rue Caroline Aigle;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.593579;43.55122
+31480_0044_00029;29;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598361;43.546571
+31480_0015_00003;3;;Place Gabrielle Sacome;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601994;43.542434
+31480_0210_00006_d;6;d;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.595266;43.550394
+31480_0100_00008;8;;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613759;43.541551
+31480_0038_00025;25;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60055;43.547917
+31480_yxg2o2_00005;5;;Avenue Alain Saint Paul;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.608941;43.544374
+31480_0030_00006;6;;Avenue Louis Blériot;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.59258;43.549887
+31480_0052_00007;7;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599784;43.549406
+31480_0001_00019;19;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.607709;43.545006
+31480_0007_00015;15;;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602936;43.548411
+31480_0280_00021;21;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618145;43.548379
+31480_0210_00010;10;;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.59598;43.550825
+31480_0039_00004;4;;Avenue Pierre Georges Latécoére;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.594076;43.548887
+31480_0019_00001_bis;1;bis;Rue de Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602662;43.545189
+31480_0080_00004;4;;Impasse du Cers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615448;43.542142
+31480_0084_00006;6;;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61295;43.544067
+31480_0034_00002;2;;Avenue Paul Cézanne;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617435;43.546444
+31480_0010_00002;2;;Rue du 19 Mars 1962;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609201;43.543873
+31480_0280_00004;4;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618717;43.548932
+31480_0210_00006_b;6;b;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.595424;43.550287
+31480_0195_00001;1;;Place de la Mairie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.610087;43.54233
+31480_p4qb58_00010;10;;Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.592126;43.550599
+31480_0044_00027;27;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598786;43.546174
+31480_0014_00004_bis;4;bis;Avenue Gasparou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604222;43.543274
+31480_0031_00001;1;;Place du Pastel;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60836;43.54286
+31480_0021_00016;16;;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601315;43.54375
+31480_0084_00002;2;;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613974;43.544423
+31480_0084_00015;15;;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612125;43.543901
+31480_0026_00005;5;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.611018;43.542482
+31480_mqfawl_00002;2;;Route Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620173;43.548666
+31480_0018_00002;2;;Avenue Jacques Brel;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604914;43.544842
+31480_0130_00002;2;;Rue Labourdette;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613789;43.542719
+31480_0038_00014;14;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60015;43.547159
+31480_0044_00041;41;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.595365;43.548066
+31480_a8x6qe_00027;27;;Baillac;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.627467;43.543012
+31480_0022_00009;9;;Rue du Chai;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599604;43.547822
+31480_0013_00002;2;;Place de l'Eglise;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609891;43.542877
+31480_he3j1s_01232;1232;;Route de Preserville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613367;43.535116
+31480_9v21yd_00008;8;;Avenue Louis Aragon;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604234;43.546873
+31480_0034_00001_bis;1;bis;Avenue Paul Cézanne;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617158;43.546213
+31480_0007_00003;3;;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601709;43.546802
+31480_0021_00006;6;;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600971;43.543123
+31480_0052_00003;3;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599354;43.549586
+31480_0024_00001;1;;Impasse Gayral;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596705;43.548428
+31480_0005_01535;1535;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.584448;43.547011
+31480_ek5epu_00002;2;;Impasse Vincent Van Gogh;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61614;43.546253
+31480_0001_00016;16;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.608616;43.545061
+31480_0210_00014;14;;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.595915;43.551627
+31480_0030_00006_bis;6;bis;Avenue Louis Blériot;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.592413;43.550055
+31480_pd3xhp_00019;19;;La Bergerie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.59744;43.54806
+31480_0200_00001;1;;Chemin de Malause;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599091;43.557734
+31480_0043_00003;3;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597724;43.54857
+31480_0045_00002;2;;Impasse du Raspet;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599607;43.548252
+31480_agnlzv_00014_bis;14;bis;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604024;43.547939
+31480_0041_00013;13;;Allée des Peupliers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622925;43.547353
+31480_0032_00024;24;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622748;43.544815
+31480_0038_00026;26;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60148;43.547463
+31480_0espnp_00004;4;;Rue Aime Seran;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606114;43.542508
+31480_0001_00012;12;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.607229;43.545603
+31480_0052_00006;6;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600235;43.549087
+31480_0001_00039;39;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612238;43.544911
+31480_0007_00011;11;;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602547;43.547887
+31480_0036_00004;4;;Rue Paul Gauguin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616561;43.547228
+31480_0044_00043;43;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.594647;43.548292
+31480_b023_00053;53;;Saint Martin de Ronsac;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600998;43.564833
+31480_0084_00016;16;;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612439;43.54414
+31480_0044_00025_bis;25;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599543;43.54581
+31480_0052_00030;30;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602007;43.548925
+31480_0052_00001;1;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599306;43.549617
+31480_0301_00002_bis;2;bis;Avenue Roland Garros;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.59421;43.550229
+31480_0200_00006;6;;Chemin de Malause;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598814;43.557764
+31480_0018_00004;4;;Avenue Jacques Brel;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604599;43.54495
+31480_0042_00004;4;;Allée des Pins;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621215;43.548147
+31480_0001_00020_ter;20;ter;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609652;43.545305
+31480_0100_00004;4;;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613108;43.54175
+31480_0250_00004;4;;Chemin des Razelles;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612804;43.55527
+31480_0045_00005;5;;Impasse du Raspet;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599404;43.548467
+31480_0130_00015;15;;Rue Labourdette;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615057;43.543243
+31480_0250_00013;13;;Chemin des Razelles;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.611132;43.556339
+31480_0044_00044_bis;44;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596831;43.547004
+31480_0270_01932;1932;;Route de la Saune;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598941;43.556835
+31480_0039_00001;1;;Avenue Pierre Georges Latécoére;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.593647;43.549144
+31480_0002_00004;4;;Avenue Jacques Prevert;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605442;43.544815
+31480_0130_00003;3;;Rue Labourdette;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614055;43.543032
+31480_0210_00006_a;6;a;Avenue Maryse Bastié;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.595535;43.55042
+31480_0044_00044;44;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597618;43.546636
+31480_0032_00036;36;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.624234;43.545406
+31480_0011_00009;9;;Allée des Chênes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623617;43.548734
+31480_0005_00322;322;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603681;43.538686
+31480_agnlzv_00007_bis;7;bis;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603024;43.547007
+31480_0052_00024;24;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601759;43.549138
+31480_0150_00005;5;;Impasse du Levant;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617117;43.54215
+31480_0espnp_00003_bis;3;bis;Rue Aime Seran;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605848;43.542367
+31480_0200_00008;8;;Chemin de Malause;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599164;43.558116
+31480_0044_00016_bis;16;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601307;43.545053
+31480_0025_00006;6;;Avenue Jean-paul Sartre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604907;43.545989
+31480_0032_00060;60;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621341;43.546155
+31480_0052_00020;20;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601111;43.549325
+31480_agnlzv_00006;6;;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603078;43.546868
+31480_b023_00050;50;;Saint Martin de Ronsac;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606839;43.563164
+31480_0042_00008;8;;Allée des Pins;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621602;43.54849
+31480_0044_00059;59;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.579823;43.553608
+31480_0044_00040;40;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597715;43.546579
+31480_0019_00003_bis;3;bis;Rue de Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602847;43.545719
+31480_0044_00036_a;36;a;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598428;43.54625
+31480_0250_00006;6;;Chemin des Razelles;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612361;43.555526
+31480_0032_00001;1;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618466;43.546429
+31480_0080_00003;3;;Impasse du Cers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615117;43.542449
+31480_0022_00003;3;;Rue du Chai;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599197;43.547203
+31480_0044_00041_c;41;c;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.595175;43.54799
+31480_0041_00004;4;;Allée des Peupliers;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.62291;43.547525
+31480_0032_00048;48;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622654;43.546219
+31480_0038_00019;19;;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600006;43.547199
+31480_b023_00053_b;53;b;Saint Martin de Ronsac;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601101;43.564934
+31480_0005_02187;2187;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.57792;43.550247
+31480_0043_00035;35;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597471;43.549643
+31480_0010_00008;8;;Rue du 19 Mars 1962;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.610115;43.543821
+31480_0001_00025;25;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.608867;43.544925
+31480_0032_00019;19;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621795;43.545206
+31480_b023_00054;54;;Saint Martin de Ronsac;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606839;43.563164
+31480_0043_00002;2;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.59797;43.54857
+31480_0300_00010;10;;Impasse du Vent Marin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61691;43.540976
+31480_0060_00012;12;;Allée de l'Autan;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61539;43.541506
+31480_0044_00034_bis;34;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598435;43.545638
+31480_0032_00007;7;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619381;43.545957
+31480_0022_00008;8;;Rue du Chai;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599223;43.547537
+31480_0034_00007;7;;Avenue Paul Cézanne;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615682;43.546842
+31480_0044_00046;46;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596023;43.546917
+31480_0125_00010;10;;impasse des grands chênes;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619521;43.549951
+31480_9v21yd_00007;7;;Avenue Louis Aragon;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605025;43.546942
+31480_0250_00001;1;;Chemin des Razelles;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617494;43.555324
+31480_mqfawl_00009_quater;9;quater;Route Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620986;43.549666
+31480_0010_00006;6;;Rue du 19 Mars 1962;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609794;43.543879
+31480_0020_00005;5;;Place Jacques Monod;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.6229;43.545437
+31480_0280_00008;8;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618359;43.548544
+31480_0043_00007;7;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597323;43.548692
+31480_0001_00002;2;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605916;43.544477
+31480_0052_00035;35;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602221;43.548627
+31480_0044_00020_a;20;a;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600001;43.544179
+31480_0100_00009;9;;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617452;43.539679
+31480_0018_00013;13;;Avenue Jacques Brel;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603496;43.546398
+31480_0044_00013;13;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601913;43.545056
+31480_0032_00028;28;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623608;43.544516
+31480_p4qb58_00004;4;;Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.592126;43.550599
+31480_0270_00004;4;;Route de la Saune;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617522;43.547749
+31480_0044_00011;11;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602796;43.544738
+31480_0044_00005;5;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603827;43.544356
+31480_0040_00009;9;;Place Pierre et Marie Curie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618859;43.546461
+31480_0044_00008;8;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603388;43.544291
+31480_7hk8kx_00007;7;;Avenue Guillaume Apollinaire;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.611808;43.544462
+31480_0009_00003;3;;Place Bernard Lamarque;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603154;43.543086
+31480_0039_00010;10;;Avenue Pierre Georges Latécoére;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.594035;43.549662
+31480_0290_00003;3;;Rue du Vigneron;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598322;43.548044
+31480_0005_00011_bis;11;bis;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598144;43.542454
+31480_a8x6qe_00027_b;27;b;Baillac;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.628527;43.541369
+31480_0032_00042_bis;42;bis;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623886;43.545842
+31480_0044_00025;25;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599632;43.545776
+31480_0290_00001;1;;Rue du Vigneron;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598112;43.548118
+31480_0032_00026;26;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.623146;43.54476
+31480_0052_00004;4;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.59971;43.549554
+31480_0044_00020_b;20;b;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600296;43.544035
+31480_0032_00052;52;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621828;43.546447
+31480_0040_00007;7;;Place Pierre et Marie Curie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619491;43.546926
+31480_0005_01905;1905;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.580641;43.548692
+31480_0301_00005;5;;Avenue Roland Garros;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.594906;43.551934
+31480_0280_00015;15;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.618288;43.548939
+31480_0021_00002;2;;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601081;43.542444
+31480_0084_00016_a;16;a;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613259;43.544506
+31480_0100_00022;22;;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616807;43.540143
+31480_0052_00015;15;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600038;43.54884
+31480_0060_00014;14;;Allée de l'Autan;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614685;43.541375
+31480_0043_00013;13;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596634;43.548946
+31480_0044_00019_bis;19;bis;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600707;43.545424
+31480_0007_00004;4;;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601941;43.546865
+31480_0006_00011;11;;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605811;43.543355
+31480_0280_00017;17;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61822;43.548749
+31480_0100_00016;16;;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615757;43.540574
+31480_0005_00009;9;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598356;43.542359
+31480_0001_00020;20;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609645;43.545247
+31480_yxg2o2_00002;2;;Avenue Alain Saint Paul;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.608995;43.543538
+31480_0013_00001_bis;1;bis;Place de l'Eglise;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.609852;43.542794
+31480_0130_00008;8;;Rue Labourdette;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.614506;43.542731
+31480_0043_00008;8;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.597348;43.548815
+31480_0012_00012;12;;Allée des Erables;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.622893;43.549131
+31480_0006_00015;15;;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605227;43.543699
+31480_0018_00009;9;;Avenue Jacques Brel;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.604029;43.546093
+31480_0040_00004;4;;Place Pierre et Marie Curie;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.61914;43.547162
+31480_0060_00004;4;;Allée de l'Autan;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616126;43.542756
+31480_0005_00001;1;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60014;43.541232
+31480_0044_00034;34;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598768;43.546014
+31480_0032_00017;17;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621335;43.545529
+31480_0044_00004;4;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603718;43.544203
+31480_0021_00005;5;;Rue du Clos Fongautier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.600323;43.542809
+31480_0270_01488;1488;;Route de la Saune;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602846;43.554225
+31480_0042_00003;3;;Allée des Pins;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620392;43.547798
+31480_agnlzv_00004;4;;Avenue Leo Ferre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603001;43.546763
+31480_0301_00003;3;;Avenue Roland Garros;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.594654;43.551617
+31480_0270_01131_a;1131;a;Route de la Saune;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606152;43.555604
+31480_0100_00002;2;;Route de Frechin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.612788;43.541789
+31480_p4qb58_00002;2;;Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.592126;43.550599
+31480_0002_00012;12;;Avenue Jacques Prevert;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.606161;43.545774
+31480_0029_00009;9;;Chemin de la Palenque;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598586;43.549251
+31480_mqfawl_00002_bis;2;bis;Route Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.620275;43.548796
+31480_0290_00005;5;;Rue du Vigneron;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.598521;43.547954
+31480_0007_00013;13;;Rue Arthur Rimbaud;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.602788;43.548362
+31480_0001_00024;24;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.610476;43.545129
+31480_0084_00003;3;;Rue Claude Nougaro;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.613517;43.544265
+31480_0005_01872;1872;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.581084;43.548555
+31480_0005_00021;21;;Route de Lauzerville;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.595839;43.543502
+31480_0001_00001;1;;Avenue Georges Brassens;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605732;43.544432
+31480_0026_00035;35;;Avenue Joseph Huc;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617891;43.546453
+31480_0036_00005;5;;Rue Paul Gauguin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.616568;43.547516
+31480_0018_00016;16;;Avenue Jacques Brel;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.60306;43.54606
+31480_0052_00014;14;;allée des cavaillons;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601167;43.548887
+31480_0043_00029;29;;Rue du Pressoir;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.596766;43.549511
+31480_0006_00014;14;;Avenue Victor Molinier;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.605384;43.543395
+31480_0044_00020;20;;Avenue René Cassin;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.601144;43.545133
+31480_0032_00008;8;;Avenue Louis Pasteur;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619736;43.545738
+31480_0038_00015_bis;15;bis;Rue Paul Verlaine;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.599871;43.546775
+31480_0060_00001_a;1;a;Allée de l'Autan;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.615037;43.543595
+31480_0280_00001;1;;allée pierre sicre;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.619497;43.548551
+31480_mqfawl_00006;6;;Route Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.621176;43.549529
+31480_dmi3wc_00001;1;;Domaine de Ferradou;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.603;43.541882
+31480_p4qb58_00005;5;;Borde Neuve;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.592126;43.550599
+31480_0034_00001;1;;Avenue Paul Cézanne;31570;31480;Sainte-Foy-d'Aigrefeuille;;;1.617455;43.546217

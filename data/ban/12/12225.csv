@@ -1,0 +1,896 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+12225_0128_00015;15;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987706;44.063223
+12225_0170_00074;74;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985734;44.066671
+12225_0187_00007;7;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.983529;44.068529
+12225_7nn3vf_00010;10;;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.022619;44.042247
+12225_0175_00004;4;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.98731;44.067223
+12225_0101_00005;5;;Place de l’Eglise de Saint-Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022373;44.042296
+12225_0110_00027;27;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.985748;44.063608
+12225_0093_00001;1;;Place des Costettes;12100;12225;Saint-Georges-de-Luzençon;;;2.98256;44.064588
+12225_0010_00015;15;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986124;44.062695
+12225_0128_00024;24;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987483;44.062928
+12225_0187_00028;28;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.982896;44.068965
+12225_0136_00004;4;;Rue du Moulin St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.021117;44.043776
+12225_0093_00004;4;;Place des Costettes;12100;12225;Saint-Georges-de-Luzençon;;;2.982544;44.064394
+12225_0040_00020;20;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.984945;44.062993
+12225_0025_00020;20;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.982711;44.065755
+12225_0010_00002_bis;2;bis;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986182;44.063141
+12225_0075_00001;1;;Place du Bouscaillou;12100;12225;Saint-Georges-de-Luzençon;;;2.982808;44.06515
+12225_0010_00038;38;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.987375;44.060104
+12225_0118_00006;6;;Route de Luzençon;12100;12225;Saint-Georges-de-Luzençon;;;2.982395;44.062831
+12225_0049_00008;8;;Chemin des Barrias;12100;12225;Saint-Georges-de-Luzençon;;;2.980357;44.066976
+12225_0170_00005;5;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.984732;44.064012
+12225_0178_00003_bis;3;bis;Rue du Soleirol;12100;12225;Saint-Georges-de-Luzençon;;;2.988245;44.063638
+12225_0178_00001;1;;Rue du Soleirol;12100;12225;Saint-Georges-de-Luzençon;;;2.98769;44.063103
+12225_0020_00007;7;;Impasse de l’Albaret;12100;12225;Saint-Georges-de-Luzençon;;;2.983389;44.064263
+12225_0172_00021;21;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.988141;44.066084
+12225_0070_00003;3;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985387;44.065346
+12225_0128_00018_a;18;a;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987265;44.063674
+12225_lf5nvx_00003;3;;les Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.987412;44.059906
+12225_0125_00004;4;;Route de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.986142;44.068163
+12225_0181_00003;3;;Route de Saint Georges;12100;12225;Saint-Georges-de-Luzençon;;;3.022099;44.043052
+12225_0175_00006;6;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.987295;44.067042
+12225_0178_00002;2;;Rue du Soleirol;12100;12225;Saint-Georges-de-Luzençon;;;2.987988;44.062993
+12225_0010_00018;18;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.985752;44.062247
+12225_0072_00012;12;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.98134;44.065741
+12225_0040_00016_b;16;b;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.984906;44.063111
+12225_0170_00077;77;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985794;44.067261
+12225_0187_00013;13;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.983086;44.069119
+12225_7nn3vf_00004_bis;4;bis;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.02246;44.042391
+12225_0100_00006;6;;Place de l'Eglise;12100;12225;Saint-Georges-de-Luzençon;;;2.985961;44.063258
+12225_0089_00013;13;;Rue du Chateau de St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022819;44.042062
+12225_0072_00001;1;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.98127;44.064191
+12225_0119_00003;3;;Impasse Malabane;12100;12225;Saint-Georges-de-Luzençon;;;2.989864;44.059223
+12225_0010_00009;9;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986243;44.062939
+12225_0121_00034;34;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983067;44.063295
+12225_0160_00013;13;;Chemin des Plantades;12100;12225;Saint-Georges-de-Luzençon;;;2.986541;44.066562
+12225_0070_00002;2;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985375;44.065229
+12225_0143_00001;1;;Rue des Palieres;12100;12225;Saint-Georges-de-Luzençon;;;2.990202;44.060206
+12225_0074_00002;2;;Impasse Bimet;12100;12225;Saint-Georges-de-Luzençon;;;2.990783;44.058984
+12225_0128_00023;23;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.98737;44.062706
+12225_0089_00004;4;;Rue du Chateau de St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022557;44.04237
+12225_0160_00006;6;;Chemin des Plantades;12100;12225;Saint-Georges-de-Luzençon;;;2.98569;44.065321
+12225_0170_00079;79;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985828;44.067384
+12225_0072_00004;4;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.98107;44.064871
+12225_hx84td_00008;8;;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.98541;44.063217
+12225_xv4dyt_00001;1;;la Barque;12100;12225;Saint-Georges-de-Luzençon;;;2.98827;44.080428
+12225_0110_00017;17;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.985499;44.063842
+12225_0119_00009;9;;Impasse Malabane;12100;12225;Saint-Georges-de-Luzençon;;;2.989466;44.058892
+12225_0031_00003;3;;Calade de la Barbacane;12100;12225;Saint-Georges-de-Luzençon;;;2.985282;44.063409
+12225_0140_00005;5;;Rue du Moulin de Taly;12100;12225;Saint-Georges-de-Luzençon;;;2.984069;44.06478
+12225_0025_00008;8;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.981662;44.064153
+12225_0143_00011;11;;Rue des Palieres;12100;12225;Saint-Georges-de-Luzençon;;;2.988851;44.060182
+12225_0085_00003;3;;Impasse du Causse;12100;12225;Saint-Georges-de-Luzençon;;;2.980926;44.062067
+12225_0140_00005_bis;5;bis;Rue du Moulin de Taly;12100;12225;Saint-Georges-de-Luzençon;;;2.984052;44.064692
+12225_0187_00010;10;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.983601;44.068585
+12225_0070_00018;18;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985349;44.064756
+12225_0070_00040;40;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985205;44.064202
+12225_0181_00015;15;;Route de Saint Georges;12100;12225;Saint-Georges-de-Luzençon;;;3.018972;44.042985
+12225_0072_00002;2;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.981042;44.064648
+12225_0190_00003;3;;Rue de la Tour de Jacques;12100;12225;Saint-Georges-de-Luzençon;;;2.985771;44.062751
+12225_0165_00007;7;;Rue des Potiers;12100;12225;Saint-Georges-de-Luzençon;;;2.987275;44.06869
+12225_0070_00036;36;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985256;44.064307
+12225_0165_00002;2;;Rue des Potiers;12100;12225;Saint-Georges-de-Luzençon;;;2.986397;44.068455
+12225_0130_00001_bis;1;bis;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.987207;44.060876
+12225_0171_00001;1;;Impasse du Puech;12100;12225;Saint-Georges-de-Luzençon;;;2.988384;44.059162
+12225_0114_00002;2;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.988892;44.057383
+12225_0128_00018;18;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987284;44.06359
+12225_0128_00014;14;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987765;44.064053
+12225_0130_00007_bis;7;bis;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.98845;44.060839
+12225_0010_00023;23;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.985997;44.062494
+12225_0119_00004;4;;Impasse Malabane;12100;12225;Saint-Georges-de-Luzençon;;;2.989949;44.059427
+12225_0170_00043_bis;43;bis;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985029;44.064834
+12225_0075_00005;5;;Place du Bouscaillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983083;44.065212
+12225_0114_00006;6;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.98903;44.057312
+12225_0128_00036;36;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987265;44.06217
+12225_0170_00013;13;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.984922;44.064196
+12225_0170_00108;108;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.987093;44.070901
+12225_0172_00027;27;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.987844;44.065715
+12225_0010_00034_bis;34;bis;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.987077;44.060159
+12225_0175_00028;28;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.986693;44.065568
+12225_0100_00007;7;;Place de l'Eglise;12100;12225;Saint-Georges-de-Luzençon;;;2.985537;44.063491
+12225_0020_00009;9;;Impasse de l’Albaret;12100;12225;Saint-Georges-de-Luzençon;;;2.983404;44.064333
+12225_0115_00008;8;;Place du Lèvezou;12100;12225;Saint-Georges-de-Luzençon;;;2.980191;44.063785
+12225_0121_00020;20;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.98308;44.06351
+12225_0070_00042;42;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985219;44.064133
+12225_0128_00002;2;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987547;44.063053
+12225_0114_00018;18;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.990402;44.058229
+12225_0135_00016;16;;Chemin du Moulin;12100;12225;Saint-Georges-de-Luzençon;;;2.984512;44.063156
+12225_0125_00013;13;;Route de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.988502;44.068114
+12225_0092_00002;2;;Rue des Combes;12100;12225;Saint-Georges-de-Luzençon;;;2.988786;44.063766
+12225_0049_00022;22;;Chemin des Barrias;12100;12225;Saint-Georges-de-Luzençon;;;2.98157;44.066967
+12225_0125_00015;15;;Route de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.988543;44.068142
+12225_0115_00009;9;;Place du Lèvezou;12100;12225;Saint-Georges-de-Luzençon;;;2.980284;44.063639
+12225_0089_00001;1;;Rue du Chateau de St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.023028;44.042516
+12225_0185_00003;3;;Impasse du Surlouloc;12100;12225;Saint-Georges-de-Luzençon;;;2.988031;44.062523
+12225_b153_00010;10;;Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983071;44.063799
+12225_0170_00010;10;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985032;44.064297
+12225_0120_00017;17;;Rue du Mas de Campels;12100;12225;Saint-Georges-de-Luzençon;;;2.982892;44.064035
+12225_0130_00009;9;;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.988041;44.060772
+12225_0160_00007;7;;Chemin des Plantades;12100;12225;Saint-Georges-de-Luzençon;;;2.985633;44.065193
+12225_hx84td_00004_ter;4;ter;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.985676;44.063219
+12225_0172_00025;25;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.987936;44.06576
+12225_0165_00006;6;;Rue des Potiers;12100;12225;Saint-Georges-de-Luzençon;;;2.987163;44.068601
+12225_0070_00008;8;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985396;44.065001
+12225_ij2thd_00009;9;;Route de Linas;12100;12225;Saint-Georges-de-Luzençon;;;2.988065;44.076069
+12225_0128_00022;22;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987515;44.06299
+12225_0025_00012;12;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.981966;44.064467
+12225_0187_00026;26;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.982974;44.069169
+12225_0070_00044;44;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985209;44.064087
+12225_0175_00005;5;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.987359;44.066857
+12225_0175_00009;9;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.987193;44.066506
+12225_0070_00029;29;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985263;44.064134
+12225_0178_00010;10;;Rue du Soleirol;12100;12225;Saint-Georges-de-Luzençon;;;2.988441;44.063529
+12225_0175_00023;23;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.987015;44.06506
+12225_hlokr1_00003;3;;le Puech;12100;12225;Saint-Georges-de-Luzençon;;;2.988639;44.059323
+12225_0171_00004;4;;Impasse du Puech;12100;12225;Saint-Georges-de-Luzençon;;;2.988845;44.059211
+12225_0210_00006_ter;6;ter;Chemin des Vignes;12100;12225;Saint-Georges-de-Luzençon;;;2.989336;44.067748
+12225_0010_00014;14;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.985776;44.06236
+12225_0110_00002;2;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.986393;44.063308
+12225_0119_00006;6;;Impasse Malabane;12100;12225;Saint-Georges-de-Luzençon;;;2.989747;44.05937
+12225_0170_00072;72;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.98568;44.066587
+12225_0172_00013;13;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.988746;44.066794
+12225_0115_00004;4;;Place du Lèvezou;12100;12225;Saint-Georges-de-Luzençon;;;2.980252;44.064167
+12225_0175_00024;24;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.986759;44.065884
+12225_0165_00008;8;;Rue des Potiers;12100;12225;Saint-Georges-de-Luzençon;;;2.987223;44.068234
+12225_0172_00012;12;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.98794;44.066396
+12225_0022_00005;5;;Rue des Artisans;12100;12225;Saint-Georges-de-Luzençon;;;3.021141;44.042862
+12225_0072_00016;16;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.981385;44.066091
+12225_0170_00086;86;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.98591;44.067303
+12225_a100_00003;3;;Lotissement les Terrasses de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.988381;44.068824
+12225_0170_00002;2;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985214;44.064018
+12225_0170_00047;47;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985146;44.064979
+12225_0092_00003;3;;Rue des Combes;12100;12225;Saint-Georges-de-Luzençon;;;2.988327;44.06389
+12225_0207_00007;7;;Avenue du Viaduc;12100;12225;Saint-Georges-de-Luzençon;;;2.993872;44.08
+12225_0110_00018;18;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.985457;44.063792
+12225_7nn3vf_00018;18;;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.022511;44.042107
+12225_0080_00002;2;;Rue du Caladou;12100;12225;Saint-Georges-de-Luzençon;;;2.985529;44.062421
+12225_0130_00006;6;;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.987258;44.06081
+12225_0210_00002;2;;Chemin des Vignes;12100;12225;Saint-Georges-de-Luzençon;;;2.988787;44.068342
+12225_r12g6q_00002;2;;Rue de la Fontaine;12100;12225;Saint-Georges-de-Luzençon;;;3.022818;44.042262
+12225_0089_00012;12;;Rue du Chateau de St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022753;44.042168
+12225_a100_00006;6;;Lotissement les Terrasses de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.98824;44.068971
+12225_0120_00018;18;;Rue du Mas de Campels;12100;12225;Saint-Georges-de-Luzençon;;;2.982861;44.06423
+12225_0072_00009;9;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.980525;44.064806
+12225_0100_00004;4;;Place de l'Eglise;12100;12225;Saint-Georges-de-Luzençon;;;2.985858;44.063276
+12225_0031_00002;2;;Calade de la Barbacane;12100;12225;Saint-Georges-de-Luzençon;;;2.985174;44.063414
+12225_0190_00004;4;;Rue de la Tour de Jacques;12100;12225;Saint-Georges-de-Luzençon;;;2.986018;44.062668
+12225_0188_00002;2;;Impasse du Terroir de Verre;12100;12225;Saint-Georges-de-Luzençon;;;2.986949;44.061949
+12225_ij2thd_00001_bis;1;bis;Route de Linas;12100;12225;Saint-Georges-de-Luzençon;;;2.987554;44.076202
+12225_0092_00004;4;;Rue des Combes;12100;12225;Saint-Georges-de-Luzençon;;;2.988972;44.063714
+12225_0120_00011;11;;Rue du Mas de Campels;12100;12225;Saint-Georges-de-Luzençon;;;2.982665;44.064018
+12225_0136_00005;5;;Rue du Moulin St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.021513;44.043413
+12225_0143_00007;7;;Rue des Palieres;12100;12225;Saint-Georges-de-Luzençon;;;2.989335;44.060128
+12225_0178_00008;8;;Rue du Soleirol;12100;12225;Saint-Georges-de-Luzençon;;;2.988441;44.063421
+12225_0010_00033;33;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986286;44.061508
+12225_0090_00006;6;;Chemin de la Chaussée Haute;12100;12225;Saint-Georges-de-Luzençon;;;2.986117;44.06043
+12225_0110_00035;35;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.986221;44.063421
+12225_0100_00002_bis;2;bis;Place de l'Eglise;12100;12225;Saint-Georges-de-Luzençon;;;3.022355;44.042738
+12225_0175_00003;3;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.987396;44.067031
+12225_0080_00003;3;;Rue du Caladou;12100;12225;Saint-Georges-de-Luzençon;;;2.985424;44.062409
+12225_0120_00011_bis;11;bis;Rue du Mas de Campels;12100;12225;Saint-Georges-de-Luzençon;;;2.982665;44.064018
+12225_0092_00005;5;;Rue des Combes;12100;12225;Saint-Georges-de-Luzençon;;;2.988273;44.064116
+12225_0170_00085;85;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985957;44.067863
+12225_0195_00007;7;;Place du Trescols;12100;12225;Saint-Georges-de-Luzençon;;;2.982083;44.065775
+12225_0187_00005;5;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.983358;44.068337
+12225_0180_00023;23;;Rue des Templiers;12100;12225;Saint-Georges-de-Luzençon;;;2.986728;44.063976
+12225_0080_00006;6;;Rue du Caladou;12100;12225;Saint-Georges-de-Luzençon;;;2.985349;44.062416
+12225_0120_00002;2;;Rue du Mas de Campels;12100;12225;Saint-Georges-de-Luzençon;;;2.983404;44.06406
+12225_0210_00010;10;;Chemin des Vignes;12100;12225;Saint-Georges-de-Luzençon;;;2.989566;44.067487
+12225_0143_00010;10;;Rue des Palieres;12100;12225;Saint-Georges-de-Luzençon;;;2.988927;44.060308
+12225_0080_00004;4;;Rue du Caladou;12100;12225;Saint-Georges-de-Luzençon;;;2.985508;44.062454
+12225_0130_00001;1;;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.987445;44.060865
+12225_0040_00004;4;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.984978;44.06368
+12225_7nn3vf_00011;11;;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.022877;44.042105
+12225_0070_00024;24;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985322;44.064635
+12225_0070_00044_a;44;a;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985198;44.064077
+12225_0090_00008;8;;Chemin de la Chaussée Haute;12100;12225;Saint-Georges-de-Luzençon;;;2.986151;44.060404
+12225_0118_00002;2;;Route de Luzençon;12100;12225;Saint-Georges-de-Luzençon;;;2.982038;44.062855
+12225_0128_00023_ter;23;ter;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.986827;44.062247
+12225_0140_00013_a;13;a;Rue du Moulin de Taly;12100;12225;Saint-Georges-de-Luzençon;;;2.984021;44.066925
+12225_0190_00006;6;;Rue de la Tour de Jacques;12100;12225;Saint-Georges-de-Luzençon;;;2.985897;44.062756
+12225_0185_00006;6;;Impasse du Surlouloc;12100;12225;Saint-Georges-de-Luzençon;;;2.988088;44.062211
+12225_0170_00106;106;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.986879;44.070544
+12225_0010_00023_bis;23;bis;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986106;44.062566
+12225_0124_00007;7;;Chemin de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.988656;44.064763
+12225_0170_00062;62;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985508;44.065999
+12225_0070_00030;30;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.98529;44.064469
+12225_0119_00009_bis;9;bis;Impasse Malabane;12100;12225;Saint-Georges-de-Luzençon;;;2.989569;44.058815
+12225_0170_00076;76;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.98576;44.066766
+12225_hx84td_00006;6;;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.985498;44.063198
+12225_0175_00015;15;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.98689;44.065942
+12225_0072_00018;18;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.981385;44.066257
+12225_0187_00032;32;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.982655;44.06844
+12225_0170_00051;51;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.98518;44.065101
+12225_7nn3vf_00003;3;;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.022793;44.042046
+12225_0089_00011;11;;Rue du Chateau de St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022942;44.042112
+12225_0089_00005;5;;Rue du Chateau de St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022719;44.042211
+12225_0170_00014;14;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985105;44.064494
+12225_0170_00023;23;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.984963;44.064328
+12225_0170_00094;94;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.986084;44.068003
+12225_0114_00011;11;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.990382;44.058319
+12225_0170_00102;102;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.987321;44.070433
+12225_0187_00012;12;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.983669;44.068741
+12225_0165_00009;9;;Rue des Potiers;12100;12225;Saint-Georges-de-Luzençon;;;2.987336;44.068441
+12225_hx84td_00015;15;;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.985461;44.063101
+12225_0049_00006;6;;Chemin des Barrias;12100;12225;Saint-Georges-de-Luzençon;;;2.98048;44.066955
+12225_0170_00082;82;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985789;44.066932
+12225_0130_00003_bis;3;bis;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.987601;44.060991
+12225_0121_00052;52;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983595;44.063863
+12225_0073_00006_bis;6;bis;Avenue Bernard Pottier;12100;12225;Saint-Georges-de-Luzençon;;;2.987261;44.060138
+12225_0070_00007;7;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.9855;44.065076
+12225_0110_00003;3;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.984992;44.063872
+12225_0100_00009;9;;Place de l'Eglise;12100;12225;Saint-Georges-de-Luzençon;;;2.985467;44.063532
+12225_0025_00018;18;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.982622;44.065521
+12225_0178_00004;4;;Rue du Soleirol;12100;12225;Saint-Georges-de-Luzençon;;;2.988437;44.06318
+12225_0049_00002;2;;Chemin des Barrias;12100;12225;Saint-Georges-de-Luzençon;;;2.981052;44.066845
+12225_0025_00015;15;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.981915;44.064503
+12225_0175_00019;19;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.986708;44.065316
+12225_0110_00007;7;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.98513;44.063887
+12225_0176_00001;1;;Place du Roucan;12100;12225;Saint-Georges-de-Luzençon;;;2.98184;44.06483
+12225_0187_00017;17;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.982925;44.06874
+12225_0172_00003;3;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.988164;44.067384
+12225_0070_00011;11;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985422;44.064857
+12225_0172_00014;14;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.988443;44.066739
+12225_0101_00008;8;;Place de l’Eglise de Saint-Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022244;44.042289
+12225_0128_00017;17;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987568;44.06294
+12225_0171_00002;2;;Impasse du Puech;12100;12225;Saint-Georges-de-Luzençon;;;2.988641;44.059237
+12225_0025_00013;13;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.981751;44.064361
+12225_0040_00028;28;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.984976;44.062889
+12225_hx84td_00004_bis;4;bis;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.985231;44.063219
+12225_0170_00065;65;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985582;44.066515
+12225_0121_00042;42;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.982914;44.062956
+12225_0136_00003;3;;Rue du Moulin St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.02158;44.043314
+12225_0121_00005;5;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983439;44.063049
+12225_0178_00003;3;;Rue du Soleirol;12100;12225;Saint-Georges-de-Luzençon;;;2.988407;44.063527
+12225_0170_00061;61;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985428;44.065987
+12225_0074_00003;3;;Impasse Bimet;12100;12225;Saint-Georges-de-Luzençon;;;2.990477;44.058709
+12225_0121_00022;22;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983105;44.063501
+12225_0170_00037;37;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.984951;44.064708
+12225_ij2thd_00001;1;;Route de Linas;12100;12225;Saint-Georges-de-Luzençon;;;2.988;44.073819
+12225_0165_00011_bis;11;bis;Rue des Potiers;12100;12225;Saint-Georges-de-Luzençon;;;2.987455;44.068237
+12225_0172_00001;1;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.98809;44.067644
+12225_0178_00006;6;;Rue du Soleirol;12100;12225;Saint-Georges-de-Luzençon;;;2.988482;44.063233
+12225_0140_00011;11;;Rue du Moulin de Taly;12100;12225;Saint-Georges-de-Luzençon;;;2.983934;44.065623
+12225_0128_00021_bis;21;bis;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987127;44.062553
+12225_0172_00006;6;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.988084;44.06699
+12225_0170_00052;52;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985405;44.065633
+12225_0070_00032;32;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985281;44.064431
+12225_0170_00043;43;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985101;44.064814
+12225_0187_00018;18;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.983736;44.069131
+12225_0080_00036;36;;Rue du Caladou;12100;12225;Saint-Georges-de-Luzençon;;;2.98512;44.06249
+12225_0114_00028;28;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.991031;44.059169
+12225_0180_00017;17;;Rue des Templiers;12100;12225;Saint-Georges-de-Luzençon;;;2.986662;44.064408
+12225_0080_00005;5;;Rue du Caladou;12100;12225;Saint-Georges-de-Luzençon;;;2.985489;44.06226
+12225_0130_00014;14;;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.988344;44.060665
+12225_0170_00096;96;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.986355;44.069
+12225_0120_00004;4;;Rue du Mas de Campels;12100;12225;Saint-Georges-de-Luzençon;;;2.983261;44.064033
+12225_0170_00001;1;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.984484;44.063994
+12225_0128_00009;9;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987565;44.065012
+12225_0072_00014;14;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.981373;44.065925
+12225_0025_00011;11;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.981542;44.064162
+12225_0072_00021;21;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.981244;44.065673
+12225_0170_00069;69;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985658;44.066808
+12225_hx84td_00010;10;;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.985461;44.063101
+12225_0114_00026;26;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.991073;44.058951
+12225_0074_00001;1;;Impasse Bimet;12100;12225;Saint-Georges-de-Luzençon;;;2.990593;44.058841
+12225_0185_00005_bis;5;bis;Impasse du Surlouloc;12100;12225;Saint-Georges-de-Luzençon;;;2.988012;44.062733
+12225_0170_00070;70;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985648;44.066472
+12225_0175_00025;25;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.986997;44.065042
+12225_0128_00027;27;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987758;44.065064
+12225_0172_00012_bis;12;bis;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.988077;44.066168
+12225_0172_00017;17;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.98833;44.06648
+12225_0176_00003;3;;Place du Roucan;12100;12225;Saint-Georges-de-Luzençon;;;2.981745;44.065036
+12225_0120_00007;7;;Rue du Mas de Campels;12100;12225;Saint-Georges-de-Luzençon;;;2.982838;44.064133
+12225_bg13fo_00008;8;;Terrasses de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;3.002609;44.069898
+12225_0072_00028;28;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.98221;44.066873
+12225_0090_00003;3;;Chemin de la Chaussée Haute;12100;12225;Saint-Georges-de-Luzençon;;;2.986251;44.060409
+12225_0100_00003_ter;3;ter;Place de l'Eglise;12100;12225;Saint-Georges-de-Luzençon;;;3.022296;44.042531
+12225_0178_00005;5;;Rue du Soleirol;12100;12225;Saint-Georges-de-Luzençon;;;2.98825;44.063279
+12225_0195_00011;11;;Place du Trescols;12100;12225;Saint-Georges-de-Luzençon;;;2.982248;44.066151
+12225_0181_00012;12;;Route de Saint Georges;12100;12225;Saint-Georges-de-Luzençon;;;3.021162;44.043239
+12225_0072_00026;26;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.982126;44.066864
+12225_0171_00003;3;;Impasse du Puech;12100;12225;Saint-Georges-de-Luzençon;;;2.988568;44.059331
+12225_0110_00029;29;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.986393;44.063308
+12225_hlokr1_00002_bis;2;bis;le Puech;12100;12225;Saint-Georges-de-Luzençon;;;2.986337;44.058289
+12225_0040_00010;10;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.984841;44.063466
+12225_ij2thd_00002;2;;Route de Linas;12100;12225;Saint-Georges-de-Luzençon;;;2.988277;44.074948
+12225_0160_00009;9;;Chemin des Plantades;12100;12225;Saint-Georges-de-Luzençon;;;2.985829;44.065513
+12225_0073_00006;6;;Avenue Bernard Pottier;12100;12225;Saint-Georges-de-Luzençon;;;2.986914;44.058032
+12225_0130_00012;12;;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.988036;44.060704
+12225_0120_00008;8;;Rue du Mas de Campels;12100;12225;Saint-Georges-de-Luzençon;;;2.983105;44.064034
+12225_0070_00026;26;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985311;44.064579
+12225_0031_00004;4;;Calade de la Barbacane;12100;12225;Saint-Georges-de-Luzençon;;;2.985245;44.063399
+12225_0125_00018;18;;Route de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.988516;44.068053
+12225_0135_00001;1;;Chemin du Moulin;12100;12225;Saint-Georges-de-Luzençon;;;2.984277;44.063139
+12225_0055_00011;11;;Rue du Barry de Coulot;12100;12225;Saint-Georges-de-Luzençon;;;2.985183;44.062642
+12225_0090_00002;2;;Chemin de la Chaussée Haute;12100;12225;Saint-Georges-de-Luzençon;;;2.986241;44.060471
+12225_0170_00088;88;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985905;44.067362
+12225_0121_00032;32;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983108;44.063362
+12225_0181_00018;18;;Route de Saint Georges;12100;12225;Saint-Georges-de-Luzençon;;;3.020937;44.043208
+12225_0121_00010;10;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983595;44.063863
+12225_0170_00100;100;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.986849;44.070158
+12225_0073_00005;5;;Avenue Bernard Pottier;12100;12225;Saint-Georges-de-Luzençon;;;2.987612;44.057924
+12225_0070_00015;15;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.98536;44.064582
+12225_0128_00044;44;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.98724;44.061265
+12225_0170_00016;16;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985079;44.064466
+12225_0170_00058;58;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985469;44.065859
+12225_0121_00016;16;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983247;44.063623
+12225_0179_00002;2;;Place du Soleirol;12100;12225;Saint-Georges-de-Luzençon;;;2.987417;44.063266
+12225_0128_00013;13;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.98779;44.063413
+12225_0175_00021;21;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.987035;44.065113
+12225_0114_00032;32;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.990723;44.059469
+12225_0143_00004;4;;Rue des Palieres;12100;12225;Saint-Georges-de-Luzençon;;;2.989833;44.060268
+12225_7nn3vf_00002;2;;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.022727;44.042451
+12225_0020_00011_bis;11;bis;Impasse de l’Albaret;12100;12225;Saint-Georges-de-Luzençon;;;2.983439;44.064572
+12225_0080_00032;32;;Rue du Caladou;12100;12225;Saint-Georges-de-Luzençon;;;2.985167;44.062566
+12225_0190_00010;10;;Rue de la Tour de Jacques;12100;12225;Saint-Georges-de-Luzençon;;;2.986018;44.062668
+12225_0110_00035_bis;35;bis;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.986435;44.063408
+12225_0040_00036;36;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.985209;44.062489
+12225_0072_00010;10;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.981283;44.065569
+12225_0121_00030;30;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.98308;44.063425
+12225_0187_00006;6;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.983287;44.068179
+12225_0188_00029;29;;Impasse du Terroir de Verre;12100;12225;Saint-Georges-de-Luzençon;;;2.986456;44.062134
+12225_0125_00009;9;;Route de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.98719;44.067981
+12225_0089_00018;18;;Rue du Chateau de St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022575;44.042114
+12225_0010_00041;41;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986639;44.060845
+12225_0172_00010;10;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.988016;44.066576
+12225_0055_00005;5;;Rue du Barry de Coulot;12100;12225;Saint-Georges-de-Luzençon;;;2.98549;44.062625
+12225_0171_00002_bis;2;bis;Impasse du Puech;12100;12225;Saint-Georges-de-Luzençon;;;2.988334;44.059043
+12225_0040_00024;24;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.984938;44.062924
+12225_0022_00008;8;;Rue des Artisans;12100;12225;Saint-Georges-de-Luzençon;;;3.020911;44.042769
+12225_0114_00004;4;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.988864;44.057305
+12225_0180_00013;13;;Rue des Templiers;12100;12225;Saint-Georges-de-Luzençon;;;2.986496;44.063882
+12225_lf5nvx_00004;4;;les Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.987388;44.059934
+12225_0124_00001;1;;Chemin de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.988545;44.064977
+12225_0128_00006;6;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987115;44.065296
+12225_0170_00001_bis;1;bis;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.984462;44.063992
+12225_cl20wf_00004;4;;Lieu dit le Causse;12100;12225;Saint-Georges-de-Luzençon;;;2.981177;44.06181
+12225_0125_00007;7;;Route de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.986142;44.068163
+12225_7nn3vf_00012;12;;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.022687;44.042161
+12225_0110_00004;4;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.984902;44.063833
+12225_w5wgt9_00007;7;;Rue du Moulin;12100;12225;Saint-Georges-de-Luzençon;;;3.02142;44.043451
+12225_0031_00006;6;;Calade de la Barbacane;12100;12225;Saint-Georges-de-Luzençon;;;2.985325;44.063381
+12225_0055_00013;13;;Rue du Barry de Coulot;12100;12225;Saint-Georges-de-Luzençon;;;2.98534;44.062748
+12225_0118_00005;5;;Route de Luzençon;12100;12225;Saint-Georges-de-Luzençon;;;2.981967;44.062804
+12225_0092_00007;7;;Rue des Combes;12100;12225;Saint-Georges-de-Luzençon;;;2.988378;44.064121
+12225_0040_00003;3;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.985049;44.063644
+12225_0180_00019;19;;Rue des Templiers;12100;12225;Saint-Georges-de-Luzençon;;;2.987376;44.064247
+12225_0128_00003;3;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987146;44.06361
+12225_0210_00006;6;;Chemin des Vignes;12100;12225;Saint-Georges-de-Luzençon;;;2.989187;44.067949
+12225_0160_00004;4;;Chemin des Plantades;12100;12225;Saint-Georges-de-Luzençon;;;2.985665;44.06528
+12225_0121_00040;40;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983595;44.063863
+12225_lf5nvx_00002;2;;les Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.987503;44.060048
+12225_0121_00040_bis;40;bis;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.982827;44.062971
+12225_0010_00020;20;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.985806;44.062165
+12225_0010_00012;12;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.985891;44.062439
+12225_0140_00004;4;;Rue du Moulin de Taly;12100;12225;Saint-Georges-de-Luzençon;;;2.984166;44.064877
+12225_0177_00058;58;;Route de Saint-Rome de Cernon;12100;12225;Saint-Georges-de-Luzençon;;;2.979875;44.053277
+12225_0210_00005;5;;Chemin des Vignes;12100;12225;Saint-Georges-de-Luzençon;;;2.989762;44.067725
+12225_b2qh0n_00004;4;;Passage du Portalou;12100;12225;Saint-Georges-de-Luzençon;;;2.985087;44.063285
+12225_0181_00001;1;;Route de Saint Georges;12100;12225;Saint-Georges-de-Luzençon;;;3.022594;44.043086
+12225_0170_00081;81;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985868;44.067529
+12225_0210_00008;8;;Chemin des Vignes;12100;12225;Saint-Georges-de-Luzençon;;;2.989393;44.067778
+12225_0010_00001;1;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986269;44.063169
+12225_0072_00008;8;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.981209;44.065362
+12225_0022_00003;3;;Rue des Artisans;12100;12225;Saint-Georges-de-Luzençon;;;3.021161;44.042907
+12225_0119_00001;1;;Impasse Malabane;12100;12225;Saint-Georges-de-Luzençon;;;2.990161;44.059293
+12225_0181_00020;20;;Route de Saint Georges;12100;12225;Saint-Georges-de-Luzençon;;;3.020817;44.043308
+12225_0100_00004_t;4;t;Place de l'Eglise;12100;12225;Saint-Georges-de-Luzençon;;;3.022202;44.042756
+12225_0170_00019;19;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.984934;44.064233
+12225_0114_00003;3;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.98939;44.057557
+12225_hx84td_00022;22;;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.985136;44.062944
+12225_0121_00050;50;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.982424;44.061749
+12225_0140_00013;13;;Rue du Moulin de Taly;12100;12225;Saint-Georges-de-Luzençon;;;2.984005;44.065969
+12225_0128_00023_quater;23;quater;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987059;44.062215
+12225_0070_00004;4;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985383;44.065059
+12225_0070_00022;22;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.98533;44.064677
+12225_0010_00019;19;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986091;44.062592
+12225_0181_00008;8;;Route de Saint Georges;12100;12225;Saint-Georges-de-Luzençon;;;3.024558;44.042671
+12225_0025_00003;3;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.980834;44.063144
+12225_0010_00022;22;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.985849;44.062091
+12225_0128_00010;10;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987599;44.064709
+12225_0114_00007;7;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.990044;44.057834
+12225_0040_00016;16;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.984966;44.063584
+12225_0010_00021;21;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986091;44.062592
+12225_ij2thd_00011;11;;Route de Linas;12100;12225;Saint-Georges-de-Luzençon;;;2.987721;44.076628
+12225_0040_00030;30;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.985008;44.062814
+12225_0040_00016_a;16;a;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.984826;44.063072
+12225_0175_00027;27;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.986754;44.065063
+12225_0040_00001;1;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.985122;44.063801
+12225_0195_00015;15;;Place du Trescols;12100;12225;Saint-Georges-de-Luzençon;;;2.982386;44.066039
+12225_0114_00012;12;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.989797;44.057681
+12225_0070_00014;14;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985356;44.064864
+12225_0040_00005;5;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.985038;44.063611
+12225_xv4dyt_00021;21;;la Barque;12100;12225;Saint-Georges-de-Luzençon;;;2.992221;44.083754
+12225_0207_00001;1;;Avenue du Viaduc;12100;12225;Saint-Georges-de-Luzençon;;;2.994937;44.081342
+12225_0120_00001;1;;Rue du Mas de Campels;12100;12225;Saint-Georges-de-Luzençon;;;2.983315;44.064019
+12225_0112_00002;2;;Boulevard des Lacouzes;12100;12225;Saint-Georges-de-Luzençon;;;2.990384;44.06037
+12225_0125_00021;21;;Route de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.988808;44.068775
+12225_0090_00010;10;;Chemin de la Chaussée Haute;12100;12225;Saint-Georges-de-Luzençon;;;2.986682;44.060555
+12225_0114_00030;30;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.990834;44.059398
+12225_0172_00004;4;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.988088;44.067212
+12225_0114_00005;5;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.989732;44.057708
+12225_0121_00022_bis;22;bis;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983105;44.063501
+12225_0100_00001;1;;Place de l'Eglise;12100;12225;Saint-Georges-de-Luzençon;;;2.985504;44.063379
+12225_0110_00016;16;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.985411;44.063886
+12225_hx84td_00018;18;;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.985107;44.063071
+12225_0128_00021;21;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.98732;44.062409
+12225_0010_00017;17;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986304;44.063205
+12225_0125_00011;11;;Route de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.988347;44.067971
+12225_0080_00011;11;;Rue du Caladou;12100;12225;Saint-Georges-de-Luzençon;;;2.985424;44.062409
+12225_8wl0kz_00004;4;;Mayres;12100;12225;Saint-Georges-de-Luzençon;;;3.002308;44.070343
+12225_0070_00005;5;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985407;44.065284
+12225_0143_00009;9;;Rue des Palieres;12100;12225;Saint-Georges-de-Luzençon;;;2.98903;44.060106
+12225_w5wgt9_00004;4;;Rue du Moulin;12100;12225;Saint-Georges-de-Luzençon;;;3.021061;44.043766
+12225_0100_00003;3;;Place de l'Eglise;12100;12225;Saint-Georges-de-Luzençon;;;2.985438;44.063392
+12225_0119_00008_bis;8;bis;Impasse Malabane;12100;12225;Saint-Georges-de-Luzençon;;;2.98946;44.059103
+12225_0040_00030_bis;30;bis;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.984943;44.062796
+12225_0172_00007;7;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.988162;44.066944
+12225_hx84td_00011;11;;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.985571;44.062938
+12225_0125_00016;16;;Route de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.987849;44.067679
+12225_0170_00064;64;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985563;44.066189
+12225_0181_00014;14;;Route de Saint Georges;12100;12225;Saint-Georges-de-Luzençon;;;3.021097;44.043196
+12225_0170_00067_bis;67;bis;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985645;44.066744
+12225_0100_00004_a;4;a;Place de l'Eglise;12100;12225;Saint-Georges-de-Luzençon;;;2.98578;44.063295
+12225_0175_00008;8;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.987258;44.066879
+12225_0140_00009;9;;Rue du Moulin de Taly;12100;12225;Saint-Georges-de-Luzençon;;;2.983872;44.065344
+12225_hx84td_00001;1;;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.985692;44.063159
+12225_0170_00038;38;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985277;44.065111
+12225_0170_00048;48;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985322;44.065263
+12225_0120_00012;12;;Rue du Mas de Campels;12100;12225;Saint-Georges-de-Luzençon;;;2.982921;44.064063
+12225_0100_00002;2;;Place de l'Eglise;12100;12225;Saint-Georges-de-Luzençon;;;2.985716;44.063303
+12225_0025_00014;14;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.98246;44.065029
+12225_0100_00003_bis;3;bis;Place de l'Eglise;12100;12225;Saint-Georges-de-Luzençon;;;2.98547;44.063448
+12225_7nn3vf_00008_bis;8;bis;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.02251;44.042261
+12225_7nn3vf_00013;13;;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.022754;44.042055
+12225_0010_00035;35;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986623;44.061485
+12225_bv686m_00004;4;;L’Airette;12100;12225;Saint-Georges-de-Luzençon;;;3.023045;44.042325
+12225_0040_00006;6;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.985008;44.063617
+12225_0170_00092;92;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.986036;44.067828
+12225_0055_00015;15;;Rue du Barry de Coulot;12100;12225;Saint-Georges-de-Luzençon;;;2.985299;44.062782
+12225_0010_00008;8;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.985983;44.062617
+12225_0170_00084;84;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985814;44.067043
+12225_0170_00055;55;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985277;44.065454
+12225_0207_00005;5;;Avenue du Viaduc;12100;12225;Saint-Georges-de-Luzençon;;;2.994633;44.079856
+12225_bg13fo_00005;5;;Terrasses de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;3.002609;44.069898
+12225_w5wgt9_00003;3;;Rue du Moulin;12100;12225;Saint-Georges-de-Luzençon;;;3.02152;44.043305
+12225_0128_00030;30;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.98739;44.062744
+12225_0188_00003;3;;Impasse du Terroir de Verre;12100;12225;Saint-Georges-de-Luzençon;;;2.986891;44.061838
+12225_0170_00052_bis;52;bis;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985515;44.06568
+12225_0121_00012;12;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983035;44.063812
+12225_0022_00004;4;;Rue des Artisans;12100;12225;Saint-Georges-de-Luzençon;;;3.021156;44.042975
+12225_0074_00005;5;;Impasse Bimet;12100;12225;Saint-Georges-de-Luzençon;;;2.990361;44.05882
+12225_0110_00001;1;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.986393;44.063308
+12225_0120_00021;21;;Rue du Mas de Campels;12100;12225;Saint-Georges-de-Luzençon;;;2.981954;44.063931
+12225_0072_00006;6;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.981132;44.065123
+12225_hx84td_00002;2;;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.985706;44.06325
+12225_0110_00005;5;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.985064;44.063858
+12225_0093_00002;2;;Place des Costettes;12100;12225;Saint-Georges-de-Luzençon;;;2.982424;44.064313
+12225_0170_00082_bis;82;bis;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985967;44.066918
+12225_0125_00005;5;;Route de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.986973;44.067988
+12225_0040_00012;12;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.984922;44.063442
+12225_0187_00019;19;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.982795;44.068518
+12225_0130_00002;2;;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.986775;44.060964
+12225_0070_00028;28;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985299;44.064512
+12225_0181_00006;6;;Route de Saint Georges;12100;12225;Saint-Georges-de-Luzençon;;;3.02198;44.043076
+12225_0175_00022;22;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.986834;44.066035
+12225_0130_00008;8;;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.987803;44.060718
+12225_0128_00042;42;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987283;44.061487
+12225_0175_00026;26;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.986311;44.065816
+12225_0174_00005;5;;Chemin des Rivieres;12100;12225;Saint-Georges-de-Luzençon;;;2.983651;44.063114
+12225_0172_00019;19;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.988229;44.066301
+12225_0119_00008;8;;Impasse Malabane;12100;12225;Saint-Georges-de-Luzençon;;;2.989535;44.059051
+12225_w5wgt9_00005;5;;Rue du Moulin;12100;12225;Saint-Georges-de-Luzençon;;;3.021452;44.043403
+12225_0119_00002_a;2;a;Impasse Malabane;12100;12225;Saint-Georges-de-Luzençon;;;2.990289;44.059387
+12225_0010_00040;40;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.987737;44.059984
+12225_0025_00001;1;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.980577;44.063034
+12225_0125_00028;28;;Route de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.992011;44.070467
+12225_0072_00015;15;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.98106;44.065112
+12225_0031_00010;10;;Calade de la Barbacane;12100;12225;Saint-Georges-de-Luzençon;;;2.985428;44.063355
+12225_0010_00029;29;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986304;44.063205
+12225_0078_00002;2;;Rue Cabrière;12100;12225;Saint-Georges-de-Luzençon;;;3.023493;44.04182
+12225_0121_00008;8;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983128;44.063793
+12225_b153_00011;11;;Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983146;44.063141
+12225_0190_00005;5;;Rue de la Tour de Jacques;12100;12225;Saint-Georges-de-Luzençon;;;2.985652;44.062789
+12225_0055_00001;1;;Rue du Barry de Coulot;12100;12225;Saint-Georges-de-Luzençon;;;2.985191;44.062733
+12225_0170_00007;7;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.984793;44.064053
+12225_0143_00008;8;;Rue des Palieres;12100;12225;Saint-Georges-de-Luzençon;;;2.989206;44.060282
+12225_0025_00007;7;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.981276;44.063519
+12225_0110_00006;6;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.984947;44.063864
+12225_0070_00012;12;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985367;44.064972
+12225_0165_00011;11;;Rue des Potiers;12100;12225;Saint-Georges-de-Luzençon;;;2.987306;44.068254
+12225_0075_00003;3;;Place du Bouscaillou;12100;12225;Saint-Georges-de-Luzençon;;;2.982937;44.065255
+12225_0040_00008_bis;8;bis;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.984984;44.063754
+12225_0070_00019;19;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985399;44.064566
+12225_0114_00014;14;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.990114;44.057834
+12225_0128_00023_bis;23;bis;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.98705;44.062341
+12225_0114_00009;9;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.990282;44.058195
+12225_0187_00016_bis;16;bis;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.982574;44.068409
+12225_0010_00004;4;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986164;44.062946
+12225_ij2thd_00013;13;;Route de Linas;12100;12225;Saint-Georges-de-Luzençon;;;2.987163;44.077085
+12225_0121_00009;9;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983161;44.063208
+12225_0022_00007;7;;Rue des Artisans;12100;12225;Saint-Georges-de-Luzençon;;;3.021119;44.042812
+12225_0075_00014;14;;Place du Bouscaillou;12100;12225;Saint-Georges-de-Luzençon;;;2.982637;44.064955
+12225_0128_00040;40;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987276;44.061775
+12225_0089_00017;17;;Rue du Chateau de St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022637;44.042037
+12225_0010_00043;43;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986689;44.060693
+12225_0110_00025;25;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.985683;44.063639
+12225_0080_00009;9;;Rue du Caladou;12100;12225;Saint-Georges-de-Luzençon;;;2.985374;44.062373
+12225_0110_00003_bis;3;bis;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.985091;44.063885
+12225_0090_00005_bis;5;bis;Chemin de la Chaussée Haute;12100;12225;Saint-Georges-de-Luzençon;;;2.986223;44.060249
+12225_0172_00002;2;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.988084;44.067419
+12225_0022_00006;6;;Rue des Artisans;12100;12225;Saint-Georges-de-Luzençon;;;3.021116;44.042831
+12225_0170_00009;9;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.984872;44.064097
+12225_0085_00004;4;;Impasse du Causse;12100;12225;Saint-Georges-de-Luzençon;;;2.981068;44.06191
+12225_0170_00015;15;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.984886;44.064141
+12225_0170_00096_bis;96;bis;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.986334;44.068938
+12225_0170_00069_bis;69;bis;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985525;44.066892
+12225_0195_00009;9;;Place du Trescols;12100;12225;Saint-Georges-de-Luzençon;;;2.982259;44.06604
+12225_0120_00015;15;;Rue du Mas de Campels;12100;12225;Saint-Georges-de-Luzençon;;;2.982838;44.064133
+12225_0190_00006_bis;6;bis;Rue de la Tour de Jacques;12100;12225;Saint-Georges-de-Luzençon;;;2.985572;44.062859
+12225_0022_00017;17;;Rue des Artisans;12100;12225;Saint-Georges-de-Luzençon;;;3.020624;44.042846
+12225_hx84td_00012;12;;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.98536;44.06322
+12225_0110_00057;57;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.986778;44.063273
+12225_0010_00003;3;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986236;44.06311
+12225_0172_00015;15;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.988408;44.066615
+12225_0101_00002;2;;Place de l’Eglise de Saint-Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022425;44.042673
+12225_0092_00013;13;;Rue des Combes;12100;12225;Saint-Georges-de-Luzençon;;;2.988982;44.063865
+12225_0110_00008;8;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.984987;44.063851
+12225_0125_00014;14;;Route de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.98754;44.067706
+12225_0022_00015;15;;Rue des Artisans;12100;12225;Saint-Georges-de-Luzençon;;;3.020666;44.04283
+12225_0110_00037;37;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.986466;44.063412
+12225_0070_00034;34;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985269;44.064377
+12225_0130_00005_bis;5;bis;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.988683;44.060704
+12225_0136_00007;7;;Rue du Moulin St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.02148;44.043461
+12225_0175_00011;11;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.987091;44.066323
+12225_0073_00004;4;;Avenue Bernard Pottier;12100;12225;Saint-Georges-de-Luzençon;;;2.988253;44.059569
+12225_0175_00002;2;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.9873;44.067439
+12225_0119_00002;2;;Impasse Malabane;12100;12225;Saint-Georges-de-Luzençon;;;2.990154;44.05944
+12225_0170_00021;21;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.984949;44.064281
+12225_0210_00003;3;;Chemin des Vignes;12100;12225;Saint-Georges-de-Luzençon;;;2.989326;44.06786
+12225_0089_00010;10;;Rue du Chateau de St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022683;44.042254
+12225_bg13fo_00006;6;;Terrasses de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;3.002609;44.069898
+12225_0010_00049;49;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.987449;44.060132
+12225_0055_00009;9;;Rue du Barry de Coulot;12100;12225;Saint-Georges-de-Luzençon;;;2.985408;44.062688
+12225_0055_00007;7;;Rue du Barry de Coulot;12100;12225;Saint-Georges-de-Luzençon;;;2.985464;44.062634
+12225_0128_00028;28;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987421;44.062805
+12225_0171_00005;5;;Impasse du Puech;12100;12225;Saint-Georges-de-Luzençon;;;2.988797;44.059325
+12225_0055_00002;2;;Rue du Barry de Coulot;12100;12225;Saint-Georges-de-Luzençon;;;2.98563;44.062539
+12225_0195_00013;13;;Place du Trescols;12100;12225;Saint-Georges-de-Luzençon;;;2.982341;44.066149
+12225_0114_00010;10;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.989513;44.057558
+12225_0130_00010;10;;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.987419;44.060786
+12225_0070_00010;10;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985387;44.06495
+12225_0165_00001;1;;Rue des Potiers;12100;12225;Saint-Georges-de-Luzençon;;;2.986495;44.068571
+12225_bv686m_00008;8;;L’Airette;12100;12225;Saint-Georges-de-Luzençon;;;3.023156;44.042208
+12225_ij2thd_00006;6;;Route de Linas;12100;12225;Saint-Georges-de-Luzençon;;;2.988759;44.074879
+12225_0181_00016;16;;Route de Saint Georges;12100;12225;Saint-Georges-de-Luzençon;;;3.021014;44.043202
+12225_0128_00020;20;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987547;44.063053
+12225_0022_00011;11;;Rue des Artisans;12100;12225;Saint-Georges-de-Luzençon;;;3.020278;44.043174
+12225_0072_00030;30;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.982242;44.066865
+12225_0120_00005;5;;Rue du Mas de Campels;12100;12225;Saint-Georges-de-Luzençon;;;2.982986;44.064033
+12225_0114_00013;13;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.990484;44.058566
+12225_0130_00020;20;;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.989791;44.0605
+12225_0114_00016;16;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.990314;44.058041
+12225_0128_00004;4;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987524;44.065508
+12225_0121_00002;2;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983329;44.063847
+12225_0175_00018;18;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.986997;44.066351
+12225_0110_00009;9;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.985211;44.063957
+12225_0025_00009;9;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.981347;44.063932
+12225_0170_00011;11;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.984896;44.064125
+12225_0115_00001;1;;Place du Lèvezou;12100;12225;Saint-Georges-de-Luzençon;;;2.980634;44.06397
+12225_ij2thd_00003;3;;Route de Linas;12100;12225;Saint-Georges-de-Luzençon;;;2.988153;44.07486
+12225_0172_00011;11;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.988768;44.066844
+12225_0070_00001;1;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985371;44.065403
+12225_0040_00007;7;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.984966;44.063584
+12225_0040_00022;22;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.984962;44.062964
+12225_0128_00019;19;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987445;44.062682
+12225_0025_00010;10;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.981819;44.064327
+12225_0115_00010;10;;Place du Lèvezou;12100;12225;Saint-Georges-de-Luzençon;;;2.980116;44.063721
+12225_bv686m_00006_bis;6;bis;L’Airette;12100;12225;Saint-Georges-de-Luzençon;;;3.023076;44.04213
+12225_0110_00023;23;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.985608;44.063701
+12225_0210_00004;4;;Chemin des Vignes;12100;12225;Saint-Georges-de-Luzençon;;;2.989099;44.068266
+12225_0118_00004;4;;Route de Luzençon;12100;12225;Saint-Georges-de-Luzençon;;;2.982847;44.062776
+12225_0070_00017;17;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985341;44.064508
+12225_0170_00085_bis;85;bis;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985957;44.067863
+12225_0170_00056;56;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985454;44.065807
+12225_0188_00001;1;;Impasse du Terroir de Verre;12100;12225;Saint-Georges-de-Luzençon;;;2.986956;44.061828
+12225_0175_00032;32;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.986607;44.06523
+12225_0090_00005;5;;Chemin de la Chaussée Haute;12100;12225;Saint-Georges-de-Luzençon;;;2.986167;44.060279
+12225_r12g6q_00002_a;2;a;Rue de la Fontaine;12100;12225;Saint-Georges-de-Luzençon;;;3.022791;44.042314
+12225_0072_00025;25;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.981318;44.0661
+12225_0072_00011;11;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.980364;44.06493
+12225_0121_00017;17;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.98304;44.062827
+12225_0170_00031;31;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985025;44.064547
+12225_0175_00017;17;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.986769;44.065563
+12225_0114_00024;24;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.990936;44.058721
+12225_0101_00006;6;;Place de l’Eglise de Saint-Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022103;44.042698
+12225_0089_00015;15;;Rue du Chateau de St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022763;44.041991
+12225_0010_00031;31;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986149;44.061803
+12225_0072_00013;13;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.98102;44.064967
+12225_0121_00015;15;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983096;44.063019
+12225_0095_00003;3;;route de craissaguet;12100;12225;Saint-Georges-de-Luzençon;;;2.983075;44.067723
+12225_0072_00005;5;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.980753;44.064323
+12225_0010_00051;51;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.987852;44.059993
+12225_0187_00008;8;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.98348;44.068386
+12225_0089_00002;2;;Rue du Chateau de St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022793;44.042457
+12225_hx84td_00016;16;;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.985223;44.06307
+12225_0125_00005_bis;5;bis;Route de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.986817;44.068133
+12225_hx84td_00004;4;;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.985642;44.063179
+12225_0121_00028;28;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983005;44.063435
+12225_0174_00008;8;;Chemin des Rivieres;12100;12225;Saint-Georges-de-Luzençon;;;2.982811;44.060292
+12225_r12g6q_00005;5;;Rue de la Fontaine;12100;12225;Saint-Georges-de-Luzençon;;;3.022866;44.042071
+12225_0010_00034;34;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986941;44.060277
+12225_0170_00090;90;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985978;44.067629
+12225_0070_00038;38;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985241;44.064244
+12225_0101_00007;7;;Place de l’Eglise de Saint-Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022307;44.042278
+12225_0010_00002;2;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986204;44.063119
+12225_0072_00019;19;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.981179;44.065473
+12225_0128_00001;1;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987319;44.06564
+12225_0120_00010;10;;Rue du Mas de Campels;12100;12225;Saint-Georges-de-Luzençon;;;2.982977;44.064049
+12225_7nn3vf_00007_bis;7;bis;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.022648;44.042301
+12225_0089_00007;7;;Rue du Chateau de St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022679;44.042286
+12225_0025_00022;22;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.982817;44.065963
+12225_0101_00004;4;;Place de l’Eglise de Saint-Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022213;44.042709
+12225_0025_00006;6;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.981512;44.063935
+12225_0049_00004;4;;Chemin des Barrias;12100;12225;Saint-Georges-de-Luzençon;;;2.980759;44.066899
+12225_0180_00002;2;;Rue des Templiers;12100;12225;Saint-Georges-de-Luzençon;;;2.985929;44.06361
+12225_0160_00011;11;;Chemin des Plantades;12100;12225;Saint-Georges-de-Luzençon;;;2.985997;44.065634
+12225_0143_00002;2;;Rue des Palieres;12100;12225;Saint-Georges-de-Luzençon;;;2.9901;44.06032
+12225_0128_00032;32;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987233;44.062274
+12225_0074_00006;6;;Impasse Bimet;12100;12225;Saint-Georges-de-Luzençon;;;2.990545;44.058959
+12225_0080_00007;7;;Rue du Caladou;12100;12225;Saint-Georges-de-Luzençon;;;2.985477;44.062342
+12225_0020_00002;2;;Impasse de l’Albaret;12100;12225;Saint-Georges-de-Luzençon;;;2.983451;44.064272
+12225_bv686m_00006;6;;L’Airette;12100;12225;Saint-Georges-de-Luzençon;;;3.023024;44.0422
+12225_0175_00030;30;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.98666;44.065444
+12225_hlokr1_00004;4;;le Puech;12100;12225;Saint-Georges-de-Luzençon;;;2.986337;44.058289
+12225_0185_00004;4;;Impasse du Surlouloc;12100;12225;Saint-Georges-de-Luzençon;;;2.987867;44.062196
+12225_0190_00011;11;;Rue de la Tour de Jacques;12100;12225;Saint-Georges-de-Luzençon;;;2.985438;44.062801
+12225_0070_00023;23;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985311;44.064362
+12225_0170_00053;53;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.98522;44.065241
+12225_0210_00012;12;;Chemin des Vignes;12100;12225;Saint-Georges-de-Luzençon;;;2.989447;44.067442
+12225_0040_00018;18;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.984966;44.063584
+12225_0128_00026;26;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987452;44.062867
+12225_0110_00015;15;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.985442;44.063894
+12225_0022_00010;10;;Rue des Artisans;12100;12225;Saint-Georges-de-Luzençon;;;3.020833;44.042762
+12225_0170_00063;63;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985443;44.066056
+12225_hx84td_00020;20;;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.985063;44.063071
+12225_0120_00014;14;;Rue du Mas de Campels;12100;12225;Saint-Georges-de-Luzençon;;;2.98287;44.064084
+12225_0074_00004;4;;Impasse Bimet;12100;12225;Saint-Georges-de-Luzençon;;;2.990381;44.058886
+12225_0130_00011;11;;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.98838;44.060744
+12225_0170_00075;75;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985746;44.067086
+12225_0180_00021;21;;Rue des Templiers;12100;12225;Saint-Georges-de-Luzençon;;;2.987223;44.064277
+12225_0172_00023;23;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.988094;44.065982
+12225_0176_00004;4;;Place du Roucan;12100;12225;Saint-Georges-de-Luzençon;;;2.98198;44.065145
+12225_0075_00002;2;;Place du Bouscaillou;12100;12225;Saint-Georges-de-Luzençon;;;2.982836;44.064964
+12225_0172_00008;8;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.988084;44.06677
+12225_0170_00060;60;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985483;44.065907
+12225_0119_00002_b;2;b;Impasse Malabane;12100;12225;Saint-Georges-de-Luzençon;;;2.990192;44.059774
+12225_0040_00008;8;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.985001;44.06356
+12225_0170_00071;71;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985701;44.066931
+12225_0172_00014_a;14;a;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.987866;44.065946
+12225_0188_00004;4;;Impasse du Terroir de Verre;12100;12225;Saint-Georges-de-Luzençon;;;2.986897;44.061977
+12225_0089_00009;9;;Rue du Chateau de St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022777;44.042156
+12225_0187_00024;24;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.983019;44.069301
+12225_0085_00002;2;;Impasse du Causse;12100;12225;Saint-Georges-de-Luzençon;;;2.98065;44.062375
+12225_0072_00032;32;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.982179;44.066539
+12225_0174_00009;9;;Chemin des Rivieres;12100;12225;Saint-Georges-de-Luzençon;;;2.983023;44.062039
+12225_0165_00003;3;;Rue des Potiers;12100;12225;Saint-Georges-de-Luzençon;;;2.986696;44.068649
+12225_0128_00038;38;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987288;44.061896
+12225_0118_00003;3;;Route de Luzençon;12100;12225;Saint-Georges-de-Luzençon;;;2.982038;44.062855
+12225_0175_00013;13;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.986983;44.066127
+12225_0100_00005;5;;Place de l'Eglise;12100;12225;Saint-Georges-de-Luzençon;;;2.985373;44.063409
+12225_0128_00016;16;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987764;44.063734
+12225_0181_00002;2;;Route de Saint Georges;12100;12225;Saint-Georges-de-Luzençon;;;3.023571;44.042939
+12225_0055_00014;14;;Rue du Barry de Coulot;12100;12225;Saint-Georges-de-Luzençon;;;2.985715;44.06253
+12225_0049_00020;20;;Chemin des Barrias;12100;12225;Saint-Georges-de-Luzençon;;;2.980789;44.06671
+12225_0040_00032;32;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.985186;44.062573
+12225_0072_00022;22;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.981196;44.066465
+12225_0119_00005;5;;Impasse Malabane;12100;12225;Saint-Georges-de-Luzençon;;;2.989737;44.058991
+12225_0170_00083;83;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.98591;44.06768
+12225_0128_00007;7;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987683;44.065333
+12225_0125_00006;6;;Route de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.986511;44.067944
+12225_0170_00033;33;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985044;44.064613
+12225_0170_00068;68;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985623;44.06639
+12225_0055_00003;3;;Rue du Barry de Coulot;12100;12225;Saint-Georges-de-Luzençon;;;2.985574;44.062576
+12225_lf5nvx_00040;40;;les Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.98768;44.059857
+12225_0020_00011;11;;Impasse de l’Albaret;12100;12225;Saint-Georges-de-Luzençon;;;2.98342;44.064454
+12225_0170_00067;67;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985601;44.066589
+12225_0110_00011;11;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.985144;44.063927
+12225_0100_00008;8;;Place de l'Eglise;12100;12225;Saint-Georges-de-Luzençon;;;2.98603;44.06324
+12225_0190_00008;8;;Rue de la Tour de Jacques;12100;12225;Saint-Georges-de-Luzençon;;;2.985812;44.062762
+12225_0175_00020;20;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.986915;44.066188
+12225_0075_00003_bis;3;bis;Place du Bouscaillou;12100;12225;Saint-Georges-de-Luzençon;;;2.982982;44.065182
+12225_0170_00025;25;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.984972;44.064358
+12225_0121_00038;38;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.982955;44.063065
+12225_0112_00004;4;;Boulevard des Lacouzes;12100;12225;Saint-Georges-de-Luzençon;;;2.990584;44.059388
+12225_0114_00001;1;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.988974;44.057405
+12225_0181_00013;13;;Route de Saint Georges;12100;12225;Saint-Georges-de-Luzençon;;;3.019362;44.043026
+12225_0110_00031;31;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.985934;44.063507
+12225_0055_00004;4;;Rue du Barry de Coulot;12100;12225;Saint-Georges-de-Luzençon;;;2.985593;44.062573
+12225_0170_00017;17;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.984913;44.064211
+12225_0089_00006;6;;Rue du Chateau de St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022522;44.042347
+12225_0170_00073;73;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.98572;44.067021
+12225_0187_00009;9;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.98362;44.068767
+12225_0187_00011;11;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.983436;44.069166
+12225_0210_00006_bis;6;bis;Chemin des Vignes;12100;12225;Saint-Georges-de-Luzençon;;;2.989292;44.06779
+12225_0181_00005;5;;Route de Saint Georges;12100;12225;Saint-Georges-de-Luzençon;;;3.021719;44.043018
+12225_0092_00001;1;;Rue des Combes;12100;12225;Saint-Georges-de-Luzençon;;;2.987955;44.063791
+12225_0114_00008;8;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.989298;44.057456
+12225_0020_00003;3;;Impasse de l’Albaret;12100;12225;Saint-Georges-de-Luzençon;;;2.983352;44.064136
+12225_0025_00017;17;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.982792;44.066155
+12225_0130_00005;5;;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.987011;44.060884
+12225_0170_00039;39;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985075;44.064733
+12225_0170_00006;6;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985119;44.064203
+12225_bg13fo_00004;4;;Terrasses de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;3.00233;44.070351
+12225_0121_00011;11;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983132;44.063134
+12225_0170_00074_a;74;a;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985725;44.066736
+12225_0092_00009;9;;Rue des Combes;12100;12225;Saint-Georges-de-Luzençon;;;2.988439;44.064047
+12225_0121_00004;4;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983595;44.063863
+12225_0070_00027;27;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985275;44.064206
+12225_hx84td_00009;9;;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.985649;44.062976
+12225_bv686m_00001;1;;L’Airette;12100;12225;Saint-Georges-de-Luzençon;;;3.023118;44.042304
+12225_0112_00001;1;;Boulevard des Lacouzes;12100;12225;Saint-Georges-de-Luzençon;;;2.989154;44.057783
+12225_0187_00014;14;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.983748;44.068949
+12225_0171_00001_bis;1;bis;Impasse du Puech;12100;12225;Saint-Georges-de-Luzençon;;;2.988155;44.058953
+12225_0187_00004;4;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.983226;44.067962
+12225_0170_00008;8;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985015;44.064236
+12225_0210_00012_bis;12;bis;Chemin des Vignes;12100;12225;Saint-Georges-de-Luzençon;;;2.989781;44.06704
+12225_ij2thd_00005;5;;Route de Linas;12100;12225;Saint-Georges-de-Luzençon;;;2.988153;44.07486
+12225_0170_00054;54;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985438;44.065747
+12225_7nn3vf_00007;7;;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.022614;44.042278
+12225_0025_00004;4;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.981437;44.063781
+12225_0100_00004_b;4;b;Place de l'Eglise;12100;12225;Saint-Georges-de-Luzençon;;;2.985869;44.063214
+12225_7nn3vf_00017;17;;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.022571;44.04203
+12225_a100_00005;5;;Lotissement les Terrasses de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.988186;44.06886
+12225_lf5nvx_00001;1;;les Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.987589;44.059872
+12225_0010_00013;13;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986158;44.062776
+12225_0187_00015;15;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.982956;44.068887
+12225_0195_00003;3;;Place du Trescols;12100;12225;Saint-Georges-de-Luzençon;;;2.982212;44.065611
+12225_0072_00007;7;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.980965;44.0647
+12225_0180_00015;15;;Rue des Templiers;12100;12225;Saint-Georges-de-Luzençon;;;2.986584;44.064395
+12225_0080_00007_a;7;a;Rue du Caladou;12100;12225;Saint-Georges-de-Luzençon;;;2.985459;44.062337
+12225_2ngrqo_00011;11;;Zone artisanale de Verghonhac;12100;12225;Saint-Georges-de-Luzençon;;;2.987623;44.076296
+12225_0210_00001;1;;Chemin des Vignes;12100;12225;Saint-Georges-de-Luzençon;;;2.98925;44.068111
+12225_0075_00004;4;;Place du Bouscaillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983033;44.065136
+12225_0170_00090_bis;90;bis;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985984;44.067662
+12225_0187_00030;30;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.982866;44.068848
+12225_0010_00042;42;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986304;44.063205
+12225_0072_00023;23;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.981294;44.065873
+12225_0185_00005;5;;Impasse du Surlouloc;12100;12225;Saint-Georges-de-Luzençon;;;2.988096;44.062406
+12225_0121_00007;7;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983227;44.063341
+12225_0010_00016;16;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.98572;44.062309
+12225_0181_00011;11;;Route de Saint Georges;12100;12225;Saint-Georges-de-Luzençon;;;3.019613;44.043098
+12225_0175_00007;7;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.987293;44.066694
+12225_0185_00002;2;;Impasse du Surlouloc;12100;12225;Saint-Georges-de-Luzençon;;;2.987555;44.062176
+12225_0170_00041;41;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985089;44.064768
+12225_7nn3vf_00015;15;;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.022698;44.041983
+12225_0207_00008;8;;Avenue du Viaduc;12100;12225;Saint-Georges-de-Luzençon;;;2.99381;44.079455
+12225_0049_00001;1;;Chemin des Barrias;12100;12225;Saint-Georges-de-Luzençon;;;2.980466;44.066915
+12225_0180_00007;7;;Rue des Templiers;12100;12225;Saint-Georges-de-Luzençon;;;2.986079;44.063871
+12225_0073_00001;1;;Avenue Bernard Pottier;12100;12225;Saint-Georges-de-Luzençon;;;2.986949;44.057832
+12225_0172_00009;9;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.98866;44.066882
+12225_0121_00026;26;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.982959;44.063451
+12225_0115_00002;2;;Place du Lèvezou;12100;12225;Saint-Georges-de-Luzençon;;;2.980368;44.064255
+12225_0128_00011;11;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987849;44.063606
+12225_7nn3vf_00009;9;;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.022712;44.042148
+12225_0114_00022;22;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.990839;44.058609
+12225_0140_00005_ter;5;ter;Rue du Moulin de Taly;12100;12225;Saint-Georges-de-Luzençon;;;2.983854;44.064816
+12225_0128_00034;34;;Route de Menascle;12100;12225;Saint-Georges-de-Luzençon;;;2.987241;44.062227
+12225_0140_00001;1;;Rue du Moulin de Taly;12100;12225;Saint-Georges-de-Luzençon;;;2.983959;44.064461
+12225_0115_00005;5;;Place du Lèvezou;12100;12225;Saint-Georges-de-Luzençon;;;2.980621;44.063749
+12225_0072_00020;20;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.98104;44.066473
+12225_a100_00008;8;;Lotissement les Terrasses de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.988184;44.068871
+12225_0020_00001;1;;Impasse de l’Albaret;12100;12225;Saint-Georges-de-Luzençon;;;2.983499;44.064493
+12225_0093_00003;3;;Place des Costettes;12100;12225;Saint-Georges-de-Luzençon;;;2.982757;44.064645
+12225_0165_00004;4;;Rue des Potiers;12100;12225;Saint-Georges-de-Luzençon;;;2.986701;44.068597
+12225_0073_00003;3;;Avenue Bernard Pottier;12100;12225;Saint-Georges-de-Luzençon;;;2.988035;44.058489
+12225_0170_00029;29;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985009;44.064488
+12225_0170_00049;49;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985161;44.065034
+12225_0176_00002;2;;Place du Roucan;12100;12225;Saint-Georges-de-Luzençon;;;2.981915;44.064971
+12225_0085_00001;1;;Impasse du Causse;12100;12225;Saint-Georges-de-Luzençon;;;2.980709;44.062375
+12225_0092_00011;11;;Rue des Combes;12100;12225;Saint-Georges-de-Luzençon;;;2.988461;44.063857
+12225_0170_00050;50;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985388;44.065575
+12225_0187_00021;21;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.982651;44.068326
+12225_0119_00007;7;;Impasse Malabane;12100;12225;Saint-Georges-de-Luzençon;;;2.989691;44.058795
+12225_0120_00003;3;;Rue du Mas de Campels;12100;12225;Saint-Georges-de-Luzençon;;;2.983119;44.064023
+12225_0115_00007;7;;Place du Lèvezou;12100;12225;Saint-Georges-de-Luzençon;;;2.980465;44.063625
+12225_ij2thd_00001_ter;1;ter;Route de Linas;12100;12225;Saint-Georges-de-Luzençon;;;2.9879;44.074888
+12225_0130_00007;7;;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.987724;44.060831
+12225_0187_00002;2;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.983127;44.067796
+12225_0185_00008;8;;Impasse du Surlouloc;12100;12225;Saint-Georges-de-Luzençon;;;2.988126;44.062288
+12225_0125_00012;12;;Route de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.987183;44.067793
+12225_0070_00016;16;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.985359;44.064802
+12225_0170_00045;45;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985126;44.064905
+12225_0170_00059;59;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985352;44.065718
+12225_r12g6q_00001;1;;Rue de la Fontaine;12100;12225;Saint-Georges-de-Luzençon;;;3.022873;44.042312
+12225_0180_00011;11;;Rue des Templiers;12100;12225;Saint-Georges-de-Luzençon;;;2.985758;44.063977
+12225_0180_00001;1;;Rue des Templiers;12100;12225;Saint-Georges-de-Luzençon;;;2.985898;44.063582
+12225_0170_00018;18;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985141;44.064627
+12225_0180_00029;29;;Rue des Templiers;12100;12225;Saint-Georges-de-Luzençon;;;2.985863;44.063619
+12225_0140_00015;15;;Rue du Moulin de Taly;12100;12225;Saint-Georges-de-Luzençon;;;2.984067;44.066619
+12225_a100_00004;4;;Lotissement les Terrasses de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.988293;44.068952
+12225_0140_00003;3;;Rue du Moulin de Taly;12100;12225;Saint-Georges-de-Luzençon;;;2.983959;44.064461
+12225_7nn3vf_00001;1;;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.022962;44.042508
+12225_0160_00001;1;;Chemin des Plantades;12100;12225;Saint-Georges-de-Luzençon;;;2.987141;44.066577
+12225_0089_00008;8;;Rue du Chateau de St Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022643;44.04227
+12225_xv4dyt_00003;3;;la Barque;12100;12225;Saint-Georges-de-Luzençon;;;2.998517;44.088718
+12225_0143_00005;5;;Rue des Palieres;12100;12225;Saint-Georges-de-Luzençon;;;2.989641;44.060141
+12225_0181_00010;10;;Route de Saint Georges;12100;12225;Saint-Georges-de-Luzençon;;;3.021206;44.043124
+12225_0165_00005;5;;Rue des Potiers;12100;12225;Saint-Georges-de-Luzençon;;;2.986889;44.068678
+12225_0174_00007;7;;Chemin des Rivieres;12100;12225;Saint-Georges-de-Luzençon;;;2.983429;44.062717
+12225_0176_00006;6;;Place du Roucan;12100;12225;Saint-Georges-de-Luzençon;;;2.982033;44.065269
+12225_0080_00008;8;;Rue du Caladou;12100;12225;Saint-Georges-de-Luzençon;;;2.985232;44.062528
+12225_0121_00018;18;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983233;44.063543
+12225_bv686m_00003;3;;L’Airette;12100;12225;Saint-Georges-de-Luzençon;;;3.02318;44.042214
+12225_0190_00009;9;;Rue de la Tour de Jacques;12100;12225;Saint-Georges-de-Luzençon;;;2.985516;44.062804
+12225_0073_00001_bis;1;bis;Avenue Bernard Pottier;12100;12225;Saint-Georges-de-Luzençon;;;2.987693;44.057742
+12225_0170_00057;57;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985302;44.065584
+12225_0195_00005;5;;Place du Trescols;12100;12225;Saint-Georges-de-Luzençon;;;2.982076;44.065641
+12225_0170_00027;27;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.984989;44.064418
+12225_0130_00043;43;;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.987013;44.060775
+12225_0125_00017;17;;Route de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.988603;44.068282
+12225_0176_00005;5;;Place du Roucan;12100;12225;Saint-Georges-de-Luzençon;;;2.981828;44.065308
+12225_0112_00006;6;;Boulevard des Lacouzes;12100;12225;Saint-Georges-de-Luzençon;;;2.988281;44.057523
+12225_0172_00016;16;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.9878;44.065814
+12225_0187_00020;20;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.983406;44.069207
+12225_0175_00001;1;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.987409;44.067303
+12225_7nn3vf_00006;6;;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.022456;44.042341
+12225_0143_00006;6;;Rue des Palieres;12100;12225;Saint-Georges-de-Luzençon;;;2.989535;44.060255
+12225_0170_00020;20;;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.98525;44.064726
+12225_0175_00010;10;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.987193;44.066683
+12225_0025_00005;5;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.981153;44.0633
+12225_0115_00003;3;;Place du Lèvezou;12100;12225;Saint-Georges-de-Luzençon;;;2.980777;44.063878
+12225_0040_00026;26;;Rue des Balses;12100;12225;Saint-Georges-de-Luzençon;;;2.984862;44.062896
+12225_0181_00011_bis;11;bis;Route de Saint Georges;12100;12225;Saint-Georges-de-Luzençon;;;3.01932;44.04302
+12225_0121_00024;24;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983595;44.063863
+12225_0130_00003;3;;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.986932;44.0609
+12225_0170_00074_b;74;b;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.985725;44.066736
+12225_0187_00016;16;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.983813;44.069098
+12225_ij2thd_00007;7;;Route de Linas;12100;12225;Saint-Georges-de-Luzençon;;;2.988217;44.07547
+12225_0172_00005;5;;Rue des Reyllous;12100;12225;Saint-Georges-de-Luzençon;;;2.988173;44.067133
+12225_0187_00022;22;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.983058;44.069311
+12225_0143_00003;3;;Rue des Palieres;12100;12225;Saint-Georges-de-Luzençon;;;2.989924;44.060141
+12225_7nn3vf_00005;5;;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.022652;44.042204
+12225_0125_00019;19;;Route de Mayres;12100;12225;Saint-Georges-de-Luzençon;;;2.988753;44.068525
+12225_0170_00002_a;2;a;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.984997;44.064116
+12225_0010_00025;25;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.985938;44.062394
+12225_0093_00006;6;;Place des Costettes;12100;12225;Saint-Georges-de-Luzençon;;;2.982704;44.064526
+12225_0170_00096_ter;96;ter;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.986451;44.069029
+12225_0195_00001;1;;Place du Trescols;12100;12225;Saint-Georges-de-Luzençon;;;2.982266;44.065695
+12225_0072_00003;3;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.98107;44.064322
+12225_0010_00011;11;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986189;44.062826
+12225_0121_00006;6;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983183;44.063787
+12225_0185_00001;1;;Impasse du Surlouloc;12100;12225;Saint-Georges-de-Luzençon;;;2.987865;44.062327
+12225_0118_00001;1;;Route de Luzençon;12100;12225;Saint-Georges-de-Luzençon;;;2.982437;44.062123
+12225_0130_00015;15;;Chemin des Mines;12100;12225;Saint-Georges-de-Luzençon;;;2.988683;44.060704
+12225_0207_00003;3;;Avenue du Viaduc;12100;12225;Saint-Georges-de-Luzençon;;;2.994733;44.080707
+12225_0010_00047;47;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.987051;44.060261
+12225_0190_00007;7;;Rue de la Tour de Jacques;12100;12225;Saint-Georges-de-Luzençon;;;2.986018;44.062668
+12225_0101_00003;3;;Place de l’Eglise de Saint-Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.022249;44.042508
+12225_0175_00034;34;;Rue de Roque Longue;12100;12225;Saint-Georges-de-Luzençon;;;2.986639;44.065057
+12225_0022_00017_bis;17;bis;Rue des Artisans;12100;12225;Saint-Georges-de-Luzençon;;;3.020593;44.042814
+12225_0180_00005;5;;Rue des Templiers;12100;12225;Saint-Georges-de-Luzençon;;;2.98601;44.063766
+12225_0121_00013;13;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.983115;44.06308
+12225_7nn3vf_00008;8;;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.022577;44.042262
+12225_0010_00032;32;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.98668;44.060263
+12225_0187_00003;3;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.983223;44.068152
+12225_hx84td_00003;3;;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.985706;44.063129
+12225_0110_00033;33;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.986069;44.063468
+12225_0020_00005;5;;Impasse de l’Albaret;12100;12225;Saint-Georges-de-Luzençon;;;2.983499;44.064493
+12225_0170_00002_b;2;b;Avenue du Pré de Vabre;12100;12225;Saint-Georges-de-Luzençon;;;2.984939;44.064048
+12225_0025_00002;2;;Rue des Assalisses;12100;12225;Saint-Georges-de-Luzençon;;;2.981355;44.063543
+12225_0121_00036;36;;Rue du Mas de Guillou;12100;12225;Saint-Georges-de-Luzençon;;;2.982976;44.063124
+12225_0187_00001;1;;Rue du Terrefort;12100;12225;Saint-Georges-de-Luzençon;;;2.983086;44.067841
+12225_0072_00017;17;;Rue du Belveze;12100;12225;Saint-Georges-de-Luzençon;;;2.981124;44.065314
+12225_0101_00009;9;;Place de l’Eglise de Saint-Geniez;12100;12225;Saint-Georges-de-Luzençon;;;3.0223;44.042171
+12225_0114_00020;20;;Rue Levers;12100;12225;Saint-Georges-de-Luzençon;;;2.990607;44.05842
+12225_7nn3vf_00004;4;;Rue du Chateau;12100;12225;Saint-Georges-de-Luzençon;;;3.02249;44.042364
+12225_0115_00006;6;;Place du Lèvezou;12100;12225;Saint-Georges-de-Luzençon;;;2.980407;44.063895
+12225_0010_00037;37;;Rue des Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.986434;44.061233
+12225_0110_00019;19;;Rue de la Fontaine Vieille;12100;12225;Saint-Georges-de-Luzençon;;;2.985536;44.06377
+12225_lf5nvx_00005;5;;les Aires;12100;12225;Saint-Georges-de-Luzençon;;;2.98727;44.059922
+12225_hx84td_00014;14;;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.985343;44.063141
+12225_hlokr1_00002_ter;2;ter;le Puech;12100;12225;Saint-Georges-de-Luzençon;;;2.986337;44.058289
+12225_hx84td_00007;7;;La Placette;12100;12225;Saint-Georges-de-Luzençon;;;2.985772;44.062945
+12225_0070_00020;20;;Rue du Barry du Temple;12100;12225;Saint-Georges-de-Luzençon;;;2.98534;44.064714

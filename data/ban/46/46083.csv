@@ -1,0 +1,955 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+46083_uvzyk2_00021;21;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;La Jarrige Nord;1.53133;45.0204
+46083_dq3y7q_00001;1;;Impasse de la Voie Romaine;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58972;45.017
+46083_mefz1j_00032;32;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57596;45.0141
+46083_t62hqe_00009;9;;Chemin des Chevaleries;46600;46083;Cressensac-Sarrazac;Cressensac;Le Batut;1.51778;45.0083
+46083_uhccd4_00250;250;;Chemin de Merlette;46600;46083;Cressensac-Sarrazac;Sarrazac;Merlette;1.59329;45.0341
+46083_0gk90e_00003;3;;Chemin de la Chênelotte;46600;46083;Cressensac-Sarrazac;Sarrazac;Bois de Langlade;1.58763;45.017
+46083_5pknyx_00002;2;;Route du Vialard;46600;46083;Cressensac-Sarrazac;Cressensac;Nayrague;1.50456;45.0265
+46083_0zlfx4_00005;5;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52065;45.0202
+46083_cq1x3a_00152;152;;Route du Causse;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Grezes;1.56353;45.0131
+46083_qfrr7k_00133;133;;Route de Croze;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Crozes;1.5911;45.0195
+46083_vu1442_00008;8;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51454;45.0189
+46083_0zlfx4_00001;1;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51972;45.02
+46083_q6c33z_01000;1000;;Route des Aliniers;46600;46083;Cressensac-Sarrazac;Cressensac;Nayrague;1.50532;45.0265
+46083_9oqylg_00980;980;;Chemin de Mas Ponchet;46600;46083;Cressensac-Sarrazac;Sarrazac;La Coudonie;1.5994;45.0263
+46083_ozv8jb_00003;3;;Rue Saint-Geniès;46600;46083;Cressensac-Sarrazac;Sarrazac;Sarrazac;1.59;45.0154
+46083_t62hqe_00050;50;;Chemin des Chevaleries;46600;46083;Cressensac-Sarrazac;Cressensac;Le Batut;1.51717;45.0087
+46083_58fmk1_00068;68;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51738;45.0178
+46083_c0tojt_01680;1680;;Route de la Belès;46600;46083;Cressensac-Sarrazac;Cressensac;;1.52224;45.0327
+46083_2nh7k0_00008;8;;Rue du Rionet;46600;46083;Cressensac-Sarrazac;Sarrazac;Sarrazac;1.58941;45.0165
+46083_7h6idq_00245;245;;Route des Grèzes;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57207;45.0124
+46083_mefz1j_00012;12;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57531;45.0164
+46083_7h6idq_00660;660;;Route des Grèzes;46600;46083;Cressensac-Sarrazac;Sarrazac;Pech Graval;1.56711;45.0132
+46083_0zlfx4_00002;2;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51952;45.0199
+46083_8wo4z7_00414;414;;Chemin de Larrue;46600;46083;Cressensac-Sarrazac;Sarrazac;Larrue;1.60145;45.016
+46083_z4sxcm_00012;12;;Rue de la Liberté;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52009;45.0206
+46083_58fmk1_00007;7;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.5205;45.0219
+46083_p2uxgw_01501;1501;;Route de Souillac;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.51755;45.0023
+46083_ix5oyv_00087;87;;Chemin de la Rocaille;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.59374;45.0193
+46083_turuvp_00065;65;;Route du 45ème Parallèle;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.51662;45.0003
+46083_4exhdl_00007;7;;Rue du Stade;46600;46083;Cressensac-Sarrazac;Cressensac;Clau de Barre;1.52266;45.0174
+46083_dq3y7q_00002;2;;Impasse de la Voie Romaine;46600;46083;Cressensac-Sarrazac;Sarrazac;Sarrazac;1.58949;45.0168
+46083_8wzdcf_00080;80;;Chemin de la Vigerie;46600;46083;Cressensac-Sarrazac;Sarrazac;Lassiniomos;1.56176;44.9988
+46083_jnxe4e_00004;4;;Rue de la Source de Corlac;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57779;45.0152
+46083_qgxxa6_00006;6;;Chemin des Raynals;46600;46083;Cressensac-Sarrazac;Cressensac;Raynals;1.50502;45.0207
+46083_xose6z_00001;1;;Impasse de la Prairie;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52307;45.0234
+46083_p2uxgw_01604;1604;;Route de Souillac;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.51651;45.0014
+46083_0gk90e_00001;1;;Chemin de la Chênelotte;46600;46083;Cressensac-Sarrazac;Sarrazac;Jouannes;1.58815;45.017
+46083_gvckv9_00001;1;;Rue de la Fontaine Chaumont;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51899;45.0229
+46083_mefz1j_00002;2;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57481;45.017
+46083_mefz1j_00030;30;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57603;45.0149
+46083_g2r3og_00335;335;;Chemin de Marzelles;46600;46083;Cressensac-Sarrazac;Sarrazac;Marzelles;1.59944;45.0107
+46083_i75cdw_00295;295;;Chemin de Chausseneige;46600;46083;Cressensac-Sarrazac;Cressensac;Chausseneige;1.5313;45.0304
+46083_410ovp_01600;1600;;Route de Branty;46600;46083;Cressensac-Sarrazac;Sarrazac;Branty;1.57873;45.0347
+46083_ii32c2_00013;13;;Rue de la Vicomté;46600;46083;Cressensac-Sarrazac;Cressensac;Pech Montat;1.52645;45.0244
+46083_qo8iru_00545;545;;Chemin d'Encorlac;46600;46083;Cressensac-Sarrazac;Sarrazac;Encorlac;1.58655;45.008
+46083_gsoxwn_00016;16;;Chemin du Four de Branty;46600;46083;Cressensac-Sarrazac;Sarrazac;Branty;1.577576;45.036318
+46083_qgxxa6_00008;8;;Chemin des Raynals;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pouget;1.50437;45.0208
+46083_5pb9vp_00003;3;;Impasse du Château d'Eau;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.51939;45.0245
+46083_6u1ya2_00382;382;;Chemin de la Fontaine;46600;46083;Cressensac-Sarrazac;Sarrazac;Lababourie;1.55254;44.9977
+46083_jnxe4e_00002;2;;Rue de la Source de Corlac;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57694;45.0156
+46083_58fmk1_00017;17;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51937;45.0201
+46083_0zlfx4_00013;13;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52288;45.0202
+46083_g2r3og_00304;304;;Chemin de Marzelles;46600;46083;Cressensac-Sarrazac;Sarrazac;Labrunie;1.59913;45.0108
+46083_vu1442_00020;20;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Raynals;1.50944;45.02
+46083_1vjne6_00014;14;;Place Saint-Barthélémy;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51998;45.0201
+46083_d6tzxm_00010;10;;Place Henri Taillardat;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58901;45.0171
+46083_jnxe4e_00007;7;;Rue de la Source de Corlac;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57677;45.0158
+46083_0zlfx4_00017;17;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;Transfo;1.52352;45.02
+46083_jjvlyb_01075;1075;;Route de Lavergondie;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57751;45.0366
+46083_pl3tdu_00007;7;;Rue de la Victoire;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.5212;45.0206
+46083_410ovp_02146;2146;;Route de Branty;46600;46083;Cressensac-Sarrazac;Sarrazac;La Bastardie;1.57443;45.0379
+46083_rf6nwm_01015;1015;;Route de Brive;46600;46083;Cressensac-Sarrazac;Cressensac;La Vedille;1.5104;45.0307
+46083_6s1c3n_00510;510;;Chemin de la Gacherie;46600;46083;Cressensac-Sarrazac;Sarrazac;Coulet;1.59786;45.0197
+46083_d219i6_00661;661;;Route de Meyrignac;46600;46083;Cressensac-Sarrazac;Cressensac;Le Marty;1.49905;45.013
+46083_ix5oyv_00081;81;;Chemin de la Rocaille;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.59391;45.0192
+46083_qgxxa6_00001;1;;Chemin des Raynals;46600;46083;Cressensac-Sarrazac;Cressensac;Raynals;1.50674;45.0202
+46083_b143_01119;1119;;Route du Vaurès;46600;46083;Cressensac-Sarrazac;Cressensac;Le Vaures;1.51754;45.0362
+46083_y2yjvr_00005;5;;Chemin des Futaies;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.51824;45.0254
+46083_y2yjvr_00007;7;;Chemin des Futaies;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.51817;45.0254
+46083_q8ejis_00346;346;;Chemin de l'Orupt;46600;46083;Cressensac-Sarrazac;Cressensac;La Combe du Pech Montat;1.53419;45.029
+46083_97mrlm_00004;4;;Chemin de la Truffière;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.56606;45.0188
+46083_410ovp_01842;1842;;Route de Branty;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57707;45.0361
+46083_mefz1j_00031;31;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57612;45.0153
+46083_mefz1j_00009;9;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57509;45.0168
+46083_cq1x3a_00319;319;;Route du Causse;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Grezes;1.5622;45.0121
+46083_p122fi_00002;2;;Rue du Foirail;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57449;45.0174
+46083_u3dyo6_01284;1284;;Route de la Gare;46600;46083;Cressensac-Sarrazac;Cressensac;La Gare;1.48844;45.0139
+46083_58fmk1_00012;12;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;La Vigerie;1.52043;45.0225
+46083_5k1kod_00006;6;;Impasse du Champ de Latour;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52185;45.0228
+46083_sj5b1e_00002;2;;Route du Batut;46600;46083;Cressensac-Sarrazac;Cressensac;Le Batut;1.5183;45.008
+46083_msl6e1_00233;233;;Chemin du Champ de Lafon;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58468;45.0232
+46083_r99b65_00125;125;;Chemin de Verdale;46600;46083;Cressensac-Sarrazac;Cressensac;Rayjal;1.52857;45.0175
+46083_58fmk1_00046;46;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51905;45.02
+46083_j4u7wf_00003;3;;Rue de la Résistance;46600;46083;Cressensac-Sarrazac;Cressensac;Poste de Cressensac;1.51732;45.0196
+46083_vlq432_00014;14;;Chemin de Lababourie;46600;46083;Cressensac-Sarrazac;Sarrazac;Lababourie;1.55434;44.9969
+46083_u3dyo6_01422;1422;;Route de la Gare;46600;46083;Cressensac-Sarrazac;Cressensac;Tersac;1.48679;45.0138
+46083_eu0ds1_00419;419;;Route des Planes;46600;46083;Cressensac-Sarrazac;Cressensac;Combe de Michelon;1.51185;45.0156
+46083_uvzyk2_00006;6;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;;1.52415;45.0202
+46083_2hr51k_00080;80;;Chemin du Pigeonnier;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58474;45.0148
+46083_jjvlyb_00430;430;;Route de Lavergondie;46600;46083;Cressensac-Sarrazac;Sarrazac;Lavergondie;1.5845;45.0355
+46083_8wo4z7_00271;271;;Chemin de Larrue;46600;46083;Cressensac-Sarrazac;Sarrazac;Larrue;1.60008;45.0167
+46083_ceef01_01170;1170;;Chemin de la Garnaudie;46600;46083;Cressensac-Sarrazac;Cressensac;La Garnaudie;1.550062;45.01079
+46083_e4xgzf_00482;482;;Chemin de Palmeyssou;46600;46083;Cressensac-Sarrazac;Sarrazac;La Moutiere;1.5663;44.9979
+46083_eu0ds1_00165;165;;Route des Planes;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pin;1.51327;45.0176
+46083_cytbuw_00230;230;;Chemin du Four;46600;46083;Cressensac-Sarrazac;Sarrazac;Palmayssou;1.56489;44.9973
+46083_0zlfx4_00006;6;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51998;45.0199
+46083_lsm0zg_00291;291;;Chemin de Ginibre;46600;46083;Cressensac-Sarrazac;Sarrazac;La Valeterie;1.57584;45.023
+46083_uvzyk2_00005;5;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;;1.52635;45.0212
+46083_j4u7wf_00008;8;;Rue de la Résistance;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51668;45.0201
+46083_6s1c3n_00103;103;;Chemin de la Gacherie;46600;46083;Cressensac-Sarrazac;Sarrazac;La Gacherie;1.59343;45.0181
+46083_mefz1j_00034;34;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57566;45.0135
+46083_d1y4y7_00787;787;;Route de Rocamadour;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58088;45.0067
+46083_vu1442_00006;6;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;;1.5152;45.0188
+46083_d9ap19_00474;474;;Route de la Bélonie;46600;46083;Cressensac-Sarrazac;Cressensac;La Belonie;1.50092;45.024
+46083_kc6ioq_00030;30;;Chemin de la Dauphine;46600;46083;Cressensac-Sarrazac;Cressensac;La Dauphine;1.51687;45.0159
+46083_6a5a0f_00012;12;;Chemin de Séjade;46600;46083;Cressensac-Sarrazac;Cressensac;La Belonie;1.50035;45.0222
+46083_4exhdl_00001;1;;Rue du Stade;46600;46083;Cressensac-Sarrazac;Cressensac;Poste de Cressensac;1.51939;45.0172
+46083_qc0g2m_03158;3158;;Route de Valeyrac;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.59631;45.0343
+46083_cpr0cr_00140;140;;Chemin des Jolis;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Jolis;1.58517;45.0132
+46083_1vjne6_00004;4;;Place Saint-Barthélémy;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52034;45.0203
+46083_9jt6re_00001;1;;Chemin de la Ginestal;46600;46083;Cressensac-Sarrazac;Cressensac;Puits de la Broussette;1.50158;45.0186
+46083_bmsdvt_00236;236;;Route de Martignac;46600;46083;Cressensac-Sarrazac;Cressensac;Martignac;1.53488;45.0018
+46083_6s1c3n_00615;615;;Chemin de la Gacherie;46600;46083;Cressensac-Sarrazac;Sarrazac;Pech de Briat;1.5976;45.0203
+46083_abil37_00060;60;;Petit Chemin;46600;46083;Cressensac-Sarrazac;Sarrazac;Brouillac;1.56657;45.0047
+46083_q5vpy5_00314;314;;Route du Pouget;46600;46083;Cressensac-Sarrazac;Cressensac;;1.5044;45.0227
+46083_vu1442_00011;11;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pin;1.5113;45.0196
+46083_7h6idq_00034;34;;Route des Grèzes;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57463;45.0126
+46083_2nh7k0_00003;3;;Rue du Rionet;46600;46083;Cressensac-Sarrazac;Sarrazac;Sarrazac;1.59087;45.0163
+46083_plbq6v_00110;110;;Chemin des Landes;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Landes;1.55878;45.0168
+46083_58fmk1_00016;16;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52039;45.0224
+46083_ci3yo4_01401;1401;;Route de la Fouillade;46600;46083;Cressensac-Sarrazac;Cressensac;Cieussac;1.53816;45.0086
+46083_kyj8c8_00306;306;;Chemin de Brouillac;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.56511;45.0056
+46083_vu1442_00013;13;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pin;1.51095;45.0197
+46083_p122fi_00008;8;;Rue du Foirail;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57418;45.0177
+46083_dq3y7q_00006;6;;Impasse de la Voie Romaine;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58963;45.0168
+46083_2yklro_00579;579;;Chemin de la Fouilladelle;46600;46083;Cressensac-Sarrazac;Cressensac;Meyrignac;1.50391;45.0148
+46083_58fmk1_00018;18;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52036;45.0222
+46083_turuvp_00277;277;;Route du 45ème Parallèle;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51927;45
+46083_turuvp_00290;290;;Route du 45ème Parallèle;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.51948;44.9999
+46083_mefz1j_00039;39;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57616;45.0146
+46083_acppf5_00005;5;;Chemin Notre Dame des Neiges;46600;46083;Cressensac-Sarrazac;Sarrazac;Combel de Sarrazac;1.58099;45.0146
+46083_410ovp_00925;925;;Route de Branty;46600;46083;Cressensac-Sarrazac;Sarrazac;Ligneyrac;1.5819;45.0297
+46083_0zlfx4_00028;28;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;Clau de Barre;1.52424;45.0194
+46083_qfrr7k_00821;821;;Route de Croze;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Crozes;1.59549;45.0175
+46083_ii32c2_00008;8;;Rue de la Vicomté;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52229;45.0235
+46083_58fmk1_00014;14;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;La Vigerie;1.52038;45.0224
+46083_uvzyk2_00011;11;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;La Jarrige Nord;1.52773;45.0211
+46083_yg2yvu_00058;58;;Chemin des Cornouillers;46600;46083;Cressensac-Sarrazac;Cressensac;Les Landes;1.5593;45.0158
+46083_q0hkhf_02300;2300;;Route du Servial;46600;46083;Cressensac-Sarrazac;Cressensac;Le Servial;1.52833;45.0432
+46083_vu1442_00010;10;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pin;1.51365;45.0191
+46083_0q18u4_00190;190;;Impasse de la Chapoulie;46600;46083;Cressensac-Sarrazac;Sarrazac;La Chapoulie;1.58973;45.0299
+46083_nz2s4k_00055;55;;Chemin du Pech;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57265;45.012
+46083_6s1c3n_00395;395;;Chemin de la Gacherie;46600;46083;Cressensac-Sarrazac;Sarrazac;La Gacherie;1.59654;45.0191
+46083_uvzyk2_00014;14;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;La Jarrige Nord;1.52959;45.0207
+46083_bnd8r7_00003;3;;Rue des Hospitaliers;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57375;45.0168
+46083_6s1c3n_00224;224;;Chemin de la Gacherie;46600;46083;Cressensac-Sarrazac;Sarrazac;La Gacherie;1.59454;45.0185
+46083_j4u7wf_00005;5;;Rue de la Résistance;46600;46083;Cressensac-Sarrazac;Cressensac;La Chapelle;1.5162;45.0202
+46083_q5vpy5_00042;42;;Route du Pouget;46600;46083;Cressensac-Sarrazac;Cressensac;Raynals;1.5044;45.0203
+46083_9yhfkg_00154;154;;Chemin des Fournels;46600;46083;Cressensac-Sarrazac;Cressensac;Le Batut;1.51671;45.0066
+46083_t62hqe_00051;51;;Chemin des Chevaleries;46600;46083;Cressensac-Sarrazac;Cressensac;Le Batut;1.51708;45.0086
+46083_qo8iru_00526;526;;Chemin d'Encorlac;46600;46083;Cressensac-Sarrazac;Sarrazac;Encorlac;1.586528;45.00789
+46083_58fmk1_00003;3;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52069;45.0225
+46083_c0tojt_00065;65;;Route de la Belès;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.51833;45.0262
+46083_7h6idq_01411;1411;;Route des Grèzes;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Landes;1.56012;45.0166
+46083_galvcc_00065;65;;Route de la Tourmente;46600;46083;Cressensac-Sarrazac;Sarrazac;Cartassac;1.60407;45.0346
+46083_q8ejis_00466;466;;Chemin de l'Orupt;46600;46083;Cressensac-Sarrazac;Cressensac;Pech Montat;1.53513;45.0299
+46083_turuvp_00250;250;;Route du 45ème Parallèle;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.51897;44.9998
+46083_qc0g2m_00464;464;;Route de Valeyrac;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.59029;45.0254
+46083_fmuc15_00006;6;;Place de Neyragues;46600;46083;Cressensac-Sarrazac;Cressensac;Nayrague;1.50422;45.0264
+46083_f1ef14_01672;1672;;route de la gare;46600;46083;Cressensac-Sarrazac;Cressensac;;1.483965;45.01311
+46083_d219i6_00715;715;;Route de Meyrignac;46600;46083;Cressensac-Sarrazac;Cressensac;Le Marty;1.49847;45.0134
+46083_58fmk1_00042;42;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.5192;45.0201
+46083_ozv8jb_00001;1;;Rue Saint-Geniès;46600;46083;Cressensac-Sarrazac;Sarrazac;Jouannes;1.58842;45.0169
+46083_58fmk1_00030;30;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51978;45.021
+46083_e4xgzf_00782;782;;Chemin de Palmeyssou;46600;46083;Cressensac-Sarrazac;Sarrazac;Palmayssou;1.56638;44.9952
+46083_rbsn6u_00005;5;;Route de Cuzance;46600;46083;Cressensac-Sarrazac;Sarrazac;Bos de Guillot;1.57692;45.0098
+46083_58fmk1_00027;27;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51872;45.0195
+46083_d9ap19_00710;710;;Route de la Bélonie;46600;46083;Cressensac-Sarrazac;Cressensac;La Belonie;1.50062;45.0222
+46083_58fmk1_00006;6;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52044;45.023
+46083_q8ejis_00510;510;;Chemin de l'Orupt;46600;46083;Cressensac-Sarrazac;Cressensac;Pech Montat;1.53542;45.0302
+46083_bnd8r7_00012;12;;Rue des Hospitaliers;46600;46083;Cressensac-Sarrazac;Sarrazac;Gourgeac;1.56732;45.0183
+46083_acppf5_00325;325;;Chemin Notre Dame des Neiges;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58432;45.016
+46083_pl3tdu_00001;1;;Rue de la Victoire;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52056;45.0217
+46083_z4sxcm_00006;6;;Rue de la Liberté;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51989;45.0203
+46083_06jmjc_00002;2;;Rue de Couzenac;46600;46083;Cressensac-Sarrazac;Sarrazac;Jouannes;1.58831;45.0174
+46083_i5jmfh_00007;7;;Rue du Pech Sagoulet;46600;46083;Cressensac-Sarrazac;Sarrazac;Combel de Sarrazac;1.5782;45.0139
+46083_ystr2n_00175;175;;Chemin de la Font;46600;46083;Cressensac-Sarrazac;Cressensac;Martignac;1.53545;45.0024
+46083_58fmk1_00076;76;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51778;45.0164
+46083_bmsdvt_00221;221;;Route de Martignac;46600;46083;Cressensac-Sarrazac;Cressensac;Martignac;1.53498;45.0017
+46083_qc0g2m_00800;800;;Route de Valeyrac;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.59222;45.0274
+46083_cpr0cr_00088;88;;Chemin des Jolis;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Jolis;1.58431;45.0134
+46083_5cce50_01672;1672;;route de la gare;46600;46083;Cressensac-Sarrazac;Cressensac;La Gare;1.483978;45.013098
+46083_jjvlyb_00951;951;;Route de Lavergondie;46600;46083;Cressensac-Sarrazac;Sarrazac;Lavergondie;1.57855;45.0357
+46083_58fmk1_00050;50;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51868;45.0197
+46083_5pknyx_00067;67;;Route du Vialard;46600;46083;Cressensac-Sarrazac;Cressensac;Nayrague;1.50377;45.0266
+46083_g2r3og_00234;234;;Chemin de Marzelles;46600;46083;Cressensac-Sarrazac;Sarrazac;Marzelles;1.59898;45.0115
+46083_uhph1n_00619;619;;Chemin du Maquis;46600;46083;Cressensac-Sarrazac;Cressensac;;1.55165;45.0217
+46083_5kcvf7_00170;170;;Chemin des Prés Banlin;46600;46083;Cressensac-Sarrazac;Sarrazac;Praballen;1.60354;45.0309
+46083_mefz1j_00033;33;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57614;45.0151
+46083_ii32c2_00005;5;;Rue de la Vicomté;46600;46083;Cressensac-Sarrazac;Cressensac;Pech Montat;1.52257;45.0237
+46083_j4u7wf_00006;6;;Rue de la Résistance;46600;46083;Cressensac-Sarrazac;Cressensac;Combe de la Sale;1.51687;45.02
+46083_2yklro_00020;20;;Chemin de la Fouilladelle;46600;46083;Cressensac-Sarrazac;Cressensac;Al Bos;1.50431;45.0196
+46083_mefz1j_00001;1;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57485;45.0171
+46083_4exhdl_00002;2;;Rue du Stade;46600;46083;Cressensac-Sarrazac;Cressensac;;1.5198;45.017
+46083_dk50ij_00004;4;;Rue de la Paternerie;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.52176;45.0244
+46083_q5vpy5_00144;144;;Route du Pouget;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pouget;1.50429;45.0212
+46083_u3dyo6_01535;1535;;Route de la Gare;46600;46083;Cressensac-Sarrazac;Cressensac;La Gare;1.48509;45.0136
+46083_bnd8r7_00008;8;;Rue des Hospitaliers;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57428;45.017
+46083_sk3rz3_01130;1130;;Route de Turenne;46600;46083;Cressensac-Sarrazac;Sarrazac;La Bataillole;1.56533;45.028
+46083_r4c74x_00045;45;;Impasse de Cieussac;46600;46083;Cressensac-Sarrazac;Cressensac;Cieussac;1.53779;45.0094
+46083_b1z1gp_00002;2;;Rue de la Palissière;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52101;45.0198
+46083_8t2s4c_00004;4;;Rue du Fournil;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52021;45.0198
+46083_e6e8wf_00350;350;;Chemin d'Orliac;46600;46083;Cressensac-Sarrazac;Sarrazac;Orliac;1.59116;45.0106
+46083_eu0ds1_00536;536;;Route des Planes;46600;46083;Cressensac-Sarrazac;Cressensac;Combe de Michelon;1.51126;45.0146
+46083_u3dyo6_01465;1465;;Route de la Gare;46600;46083;Cressensac-Sarrazac;Cressensac;La Gare;1.48618;45.0137
+46083_2yklro_00071;71;;Chemin de la Fouilladelle;46600;46083;Cressensac-Sarrazac;Cressensac;Fouilladelle du Pin;1.50456;45.0192
+46083_n824fe_00600;600;;Route de Peyrelevade;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.52006;45.0005
+46083_58fmk1_00044;44;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51913;45.0201
+46083_ie10gy_00998;998;;Chemin du Chaffol;46600;46083;Cressensac-Sarrazac;Cressensac;Le Chaffol Bas;1.54312;45.0244
+46083_vu1442_00007;7;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51269;45.0192
+46083_6qyw47_00052;52;;Impasse de la Grange;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.55481;45.009
+46083_b143_01173;1173;;Route du Vaurès;46600;46083;Cressensac-Sarrazac;Cressensac;Le Vaures;1.5179;45.0358
+46083_y2yjvr_00003;3;;Chemin des Futaies;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.51842;45.0252
+46083_s7vwg2_00180;180;;Route de Mas la Rivière;46600;46083;Cressensac-Sarrazac;Sarrazac;Mas la Riviere;1.60653;45.0188
+46083_p2uxgw_01456;1456;;Route de Souillac;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.51751;45.0026
+46083_fmuc15_00060;60;;Place de Neyragues;46600;46083;Cressensac-Sarrazac;Cressensac;Nayrague;1.50381;45.0262
+46083_kyj8c8_00424;424;;Chemin de Brouillac;46600;46083;Cressensac-Sarrazac;Sarrazac;Brouillac;1.56387;45.0061
+46083_ie10gy_00631;631;;Chemin du Chaffol;46600;46083;Cressensac-Sarrazac;Cressensac;Le Chaffol Bas;1.53911;45.0261
+46083_vlq432_00050;50;;Chemin de Lababourie;46600;46083;Cressensac-Sarrazac;Sarrazac;Lababourie;1.55453;44.9965
+46083_58fmk1_00049;49;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Rte de Souillac;1.51814;45.0158
+46083_2yklro_00046;46;;Chemin de la Fouilladelle;46600;46083;Cressensac-Sarrazac;Cressensac;;1.50434;45.0193
+46083_58fmk1_00008;8;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;La Vigerie;1.52046;45.0227
+46083_6dppn8_00690;690;;Route de la Croix Alexandre;46600;46083;Cressensac-Sarrazac;Sarrazac;Corlac;1.58727;45.0146
+46083_bnd8r7_00010;10;;Rue des Hospitaliers;46600;46083;Cressensac-Sarrazac;Sarrazac;La Cicauderie;1.57107;45.0171
+46083_jxgqbe_00020;20;;impasse du puits de la Broussette;46600;46083;Cressensac-Sarrazac;Cressensac;Puits de la Broussette;1.50283;45.0186
+46083_8t2s4c_00012;12;;Rue du Fournil;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52092;45.0202
+46083_58fmk1_00037;37;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Poste de Cressensac;1.51772;45.0188
+46083_fwwdty_00251;251;;Chemin du Marsal;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Combes;1.59346;45.0226
+46083_q5vpy5_00413;413;;Route du Pouget;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pouget;1.50364;45.0234
+46083_4exhdl_00004;4;;Rue du Stade;46600;46083;Cressensac-Sarrazac;Cressensac;;1.52149;45.0172
+46083_p122fi_00009;9;;Rue du Foirail;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.574;45.0177
+46083_1vjne6_00002;2;;Place Saint-Barthélémy;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52048;45.0202
+46083_d6tzxm_00004;4;;Place Henri Taillardat;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58945;45.0169
+46083_58fmk1_00028;28;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51986;45.0211
+46083_be7qyx_00165;165;;Impasse le Combel;46600;46083;Cressensac-Sarrazac;Sarrazac;Combel de Sarrazac;1.58305;45.0168
+46083_mefz1j_00037;37;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57615;45.0148
+46083_lsm0zg_00155;155;;Chemin de Ginibre;46600;46083;Cressensac-Sarrazac;Sarrazac;La Valeterie;1.57415;45.0227
+46083_b143_01195;1195;;Route du Vaurès;46600;46083;Cressensac-Sarrazac;Cressensac;Le Vaures;1.51805;45.0355
+46083_j4u7wf_00010;10;;Rue de la Résistance;46600;46083;Cressensac-Sarrazac;Cressensac;Combe de la Sale;1.5162;45.0203
+46083_8wo4z7_00406;406;;Chemin de Larrue;46600;46083;Cressensac-Sarrazac;Sarrazac;Larrue;1.60133;45.0162
+46083_jxgqbe_00045;45;;impasse du puits de la Broussette;46600;46083;Cressensac-Sarrazac;Cressensac;Puits de la Broussette;1.50282;45.0184
+46083_8t2s4c_00003;3;;Rue du Fournil;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52069;45.0199
+46083_s7vwg2_00380;380;;Route de Mas la Rivière;46600;46083;Cressensac-Sarrazac;Sarrazac;Mas la Riviere;1.60587;45.018
+46083_p122fi_00013;13;;Rue du Foirail;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57377;45.018
+46083_6s1c3n_00297;297;;Chemin de la Gacherie;46600;46083;Cressensac-Sarrazac;Sarrazac;La Gacherie;1.59522;45.019
+46083_qs8hpw_00220;220;;Chemin du Four à Chaux;46600;46083;Cressensac-Sarrazac;Sarrazac;Valeyrac;1.58401;45.0313
+46083_6s1c3n_00704;704;;Chemin de la Gacherie;46600;46083;Cressensac-Sarrazac;Sarrazac;Pech de Briat;1.59743;45.0212
+46083_kyj8c8_00406;406;;Chemin de Brouillac;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.56431;45.0059
+46083_6u1ya2_00280;280;;Chemin de la Fontaine;46600;46083;Cressensac-Sarrazac;Sarrazac;Lababourie;1.55352;44.9973
+46083_d1y4y7_00743;743;;Route de Rocamadour;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58064;45.007
+46083_am3emj_00280;280;;Chemin de Naudière;46600;46083;Cressensac-Sarrazac;Cressensac;Naudiere;1.53231;45.0159
+46083_7kktwu_00275;275;;Chemin d'Escure;46600;46083;Cressensac-Sarrazac;Cressensac;La Garnaudie;1.54302;45.0121
+46083_d1y4y7_00639;639;;Route de Rocamadour;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57981;45.0078
+46083_qc0g2m_00642;642;;Route de Valeyrac;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.59188;45.0264
+46083_zpg7ka_01014;1014;;Route de Martel;46600;46083;Cressensac-Sarrazac;Cressensac;La Tache;1.52571;45.0041
+46083_1n21ln_00903;903;;Route de la Pessie;46600;46083;Cressensac-Sarrazac;Sarrazac;Marzelles;1.60206;45.0134
+46083_d9ap19_00504;504;;Route de la Bélonie;46600;46083;Cressensac-Sarrazac;Cressensac;;1.5006;45.024
+46083_ii32c2_00011;11;;Rue de la Vicomté;46600;46083;Cressensac-Sarrazac;Cressensac;Pech Montat;1.52443;45.0239
+46083_uvzyk2_00009;9;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52658;45.0212
+46083_msl6e1_00058;58;;Chemin du Champ de Lafon;46600;46083;Cressensac-Sarrazac;Sarrazac;Jouannes;1.58653;45.0226
+46083_n9qjue_00187;187;;Chemin de Labrunie;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Peyrieres;1.59682;45.0108
+46083_vlq432_00099;99;;Chemin de Lababourie;46600;46083;Cressensac-Sarrazac;Sarrazac;Lababourie;1.55461;44.9962
+46083_vu1442_00038;38;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Al Bos;1.5027;45.019
+46083_2yklro_00117;117;;Chemin de la Fouilladelle;46600;46083;Cressensac-Sarrazac;Cressensac;Fouilladelle du Pin;1.50445;45.0188
+46083_galvcc_00002;2;;Route de la Tourmente;46600;46083;Cressensac-Sarrazac;Sarrazac;Cartassac;1.6035;45.0351
+46083_2nh7k0_00002;2;;Rue du Rionet;46600;46083;Cressensac-Sarrazac;Sarrazac;Sarrazac;1.58885;45.0167
+46083_t125zo_00603;603;;Route de la Jarrige;46600;46083;Cressensac-Sarrazac;Cressensac;;1.53201;45.0198
+46083_u3dyo6_01430;1430;;Route de la Gare;46600;46083;Cressensac-Sarrazac;Cressensac;Tersac;1.4866;45.0138
+46083_p2uxgw_00253;253;;Route de Souillac;46600;46083;Cressensac-Sarrazac;Cressensac;Bellevue;1.51896;45.0132
+46083_z4sxcm_00005;5;;Rue de la Liberté;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51976;45.0202
+46083_58fmk1_00019;19;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.519;45.0197
+46083_qo8iru_00547;547;;Chemin d'Encorlac;46600;46083;Cressensac-Sarrazac;Sarrazac;Encorlac;1.58672;45.008
+46083_qfrr7k_01500;1500;;Route de Croze;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Crozes;1.60241;45.0169
+46083_xyzgfs_00001;1;;Rue du Lavoir;46600;46083;Cressensac-Sarrazac;Sarrazac;Jouannes;1.5885;45.0172
+46083_2yklro_00137;137;;Chemin de la Fouilladelle;46600;46083;Cressensac-Sarrazac;Cressensac;Fouilladelle du Pin;1.50434;45.0186
+46083_e6e8wf_00276;276;;Chemin d'Orliac;46600;46083;Cressensac-Sarrazac;Sarrazac;Orliac;1.59128;45.0099
+46083_5kcvf7_00330;330;;Chemin des Prés Banlin;46600;46083;Cressensac-Sarrazac;Sarrazac;Praballen;1.60159;45.031
+46083_cytbuw_00280;280;;Chemin du Four;46600;46083;Cressensac-Sarrazac;Sarrazac;Palmayssou;1.56482;44.997
+46083_ta74jq_00600;600;;Chemin de la Solerie;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.55905;45.0021
+46083_xyzgfs_00006;6;;Rue du Lavoir;46600;46083;Cressensac-Sarrazac;Sarrazac;Jouannes;1.58872;45.0173
+46083_sk3rz3_01435;1435;;Route de Turenne;46600;46083;Cressensac-Sarrazac;Sarrazac;Pech Bonnet;1.56561;45.0307
+46083_58fmk1_00024;24;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52019;45.0218
+46083_d6tzxm_00006;6;;Place Henri Taillardat;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58928;45.017
+46083_0jcuen_00400;400;;Chemin du Puy Laporte;46600;46083;Cressensac-Sarrazac;Sarrazac;Laujal;1.56369;45.0227
+46083_vtoobt_00130;130;;Chemin de Redon;46600;46083;Cressensac-Sarrazac;Cressensac;La Garnaudie;1.54761;45.0167
+46083_ii32c2_00009;9;;Rue de la Vicomté;46600;46083;Cressensac-Sarrazac;Cressensac;Pech Montat;1.52417;45.024
+46083_u0a2ux_03371;3371;;Route de l'Hôpital Saint-Jean;46600;46083;Cressensac-Sarrazac;Sarrazac;Le Marel;1.56193;45.0174
+46083_vcdjmg_00002;2;;Chemin de Saint-Jacques;46600;46083;Cressensac-Sarrazac;Sarrazac;Pech Sagoulet;1.57614;45.0126
+46083_eu0ds1_00105;105;;Route des Planes;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pin;1.51358;45.018
+46083_mefz1j_00028;28;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57602;45.015
+46083_oi78lb_00520;520;;Chemin de Laspos;46600;46083;Cressensac-Sarrazac;Cressensac;Le Chaffol;1.54726;45.0274
+46083_p122fi_00011;11;;Rue du Foirail;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57383;45.0179
+46083_jnxe4e_00009;9;;Rue de la Source de Corlac;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57929;45.0145
+46083_lsm0zg_00190;190;;Chemin de Ginibre;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57458;45.0227
+46083_8wo4z7_00196;196;;Chemin de Larrue;46600;46083;Cressensac-Sarrazac;Sarrazac;Champs de Charnac;1.59919;45.0171
+46083_mefz1j_00036;36;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57544;45.0133
+46083_2svv8l_00227;227;;Chemin de Muzac;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.59356;45.0274
+46083_mefz1j_00010;10;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57527;45.0165
+46083_bnd8r7_00002;2;;Rue des Hospitaliers;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57459;45.0172
+46083_n824fe_00511;511;;Route de Peyrelevade;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.52005;45.0014
+46083_mabh4h_00041;41;;Impasse du Pech de Gane;46600;46083;Cressensac-Sarrazac;Cressensac;Mas Del Bos;1.54154;44.9978
+46083_58fmk1_00009;9;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51991;45.0209
+46083_9oqylg_00845;845;;Chemin de Mas Ponchet;46600;46083;Cressensac-Sarrazac;Sarrazac;Vignes Blanches;1.60108;45.0265
+46083_bnd8r7_00013;13;;Rue des Hospitaliers;46600;46083;Cressensac-Sarrazac;Sarrazac;Le Marel;1.56751;45.0181
+46083_410ovp_01844;1844;;Route de Branty;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57707;45.0362
+46083_u0a2ux_00314;314;;Route de l'Hôpital Saint-Jean;46600;46083;Cressensac-Sarrazac;Cressensac;Verdale;1.52822;45.0185
+46083_kyj8c8_00307;307;;Chemin de Brouillac;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.56508;45.0055
+46083_0zlfx4_00020;20;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;A la Font Sarrazac;1.5218;45.0204
+46083_58fmk1_00043;43;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51767;45.0176
+46083_qgxxa6_00002;2;;Chemin des Raynals;46600;46083;Cressensac-Sarrazac;Cressensac;;1.50758;45.0202
+46083_55tko4_00025;25;;Chemin des Murets;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.59201;45.0268
+46083_2nze3i_00208;208;;Chemin de Briat;46600;46083;Cressensac-Sarrazac;Sarrazac;Coulet;1.59883;45.0212
+46083_arrnbd_00094;94;;Chemin de Saint-Cernin;46600;46083;Cressensac-Sarrazac;Sarrazac;Valeyrac;1.58519;45.0319
+46083_ci3yo4_01443;1443;;Route de la Fouillade;46600;46083;Cressensac-Sarrazac;Cressensac;Cieussac;1.53844;45.0084
+46083_lsm0zg_00254;254;;Chemin de Ginibre;46600;46083;Cressensac-Sarrazac;Sarrazac;La Valeterie;1.57539;45.0228
+46083_vssz7f_00195;195;;Chemin du Mauriac;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Crozes;1.61219;45.017
+46083_5kcvf7_00611;611;;Chemin des Prés Banlin;46600;46083;Cressensac-Sarrazac;Sarrazac;Praballen;1.59901;45.0315
+46083_i5jmfh_00003;3;;Rue du Pech Sagoulet;46600;46083;Cressensac-Sarrazac;Sarrazac;Pech Sagoulet;1.57701;45.0134
+46083_vcdjmg_00001;1;;Chemin de Saint-Jacques;46600;46083;Cressensac-Sarrazac;Sarrazac;Pech Sagoulet;1.57628;45.0132
+46083_b46ob7_00210;210;;Chemin de Grangier;46600;46083;Cressensac-Sarrazac;Sarrazac;Grangie;1.61552;45.0183
+46083_fgagbo_00002;2;;Impasse du Quercy;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52282;45.0206
+46083_9jt6re_00080;80;;Chemin de la Ginestal;46600;46083;Cressensac-Sarrazac;Cressensac;Al Bos;1.50077;45.0187
+46083_5kcvf7_00371;371;;Chemin des Prés Banlin;46600;46083;Cressensac-Sarrazac;Sarrazac;Praballen;1.60138;45.0312
+46083_y0weh0_00067;67;;Impasse du Pré;46600;46083;Cressensac-Sarrazac;Cressensac;;1.52981;45.0102
+46083_mabh4h_00067;67;;Impasse du Pech de Gane;46600;46083;Cressensac-Sarrazac;Cressensac;Mas Del Bos;1.5415;44.9976
+46083_1n21ln_00931;931;;Route de la Pessie;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.60232;45.0135
+46083_g2r3og_00195;195;;Chemin de Marzelles;46600;46083;Cressensac-Sarrazac;Sarrazac;Marzelles;1.59945;45.0118
+46083_wg2act_00001;1;;Rue de Pech Graval Bas;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.573;45.0163
+46083_c0tojt_01688;1688;;Route de la Belès;46600;46083;Cressensac-Sarrazac;Cressensac;A la Beles;1.52242;45.0326
+46083_wiq7wo_00004;4;;Chemin des Lavandières;46600;46083;Cressensac-Sarrazac;Sarrazac;Lavergondie;1.57767;45.0367
+46083_p122fi_00014;14;;Rue du Foirail;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57401;45.0178
+46083_ystr2n_00165;165;;Chemin de la Font;46600;46083;Cressensac-Sarrazac;Cressensac;Martignac;1.53537;45.0025
+46083_vu1442_00017;17;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Puits de la Broussette;1.50311;45.019
+46083_sk3rz3_01675;1675;;Route de Turenne;46600;46083;Cressensac-Sarrazac;Sarrazac;Pech Bonnet;1.56548;45.0325
+46083_vu1442_00036;36;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;;1.50302;45.0191
+46083_58fmk1_00078;78;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Rte de Souillac;1.51786;45.016
+46083_410ovp_00680;680;;Route de Branty;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.58452;45.029
+46083_p122fi_00006;6;;Rue du Foirail;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57424;45.0176
+46083_mefz1j_00024;24;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57585;45.0158
+46083_s7vwg2_00124;124;;Route de Mas la Rivière;46600;46083;Cressensac-Sarrazac;Sarrazac;Mas la Riviere;1.60709;45.0189
+46083_vu1442_00016;16;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pin;1.51091;45.0198
+46083_acppf5_00629;629;;Chemin Notre Dame des Neiges;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58626;45.0183
+46083_d1y4y7_00774;774;;Route de Rocamadour;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58057;45.0067
+46083_p2uxgw_01750;1750;;Route de Souillac;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.51551;45.0003
+46083_5k1kod_00010;10;;Impasse du Champ de Latour;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52187;45.023
+46083_c0tojt_00480;480;;Route de la Belès;46600;46083;Cressensac-Sarrazac;Cressensac;A la Beles;1.51889;45.0296
+46083_gvckv9_00006;6;;Rue de la Fontaine Chaumont;46600;46083;Cressensac-Sarrazac;Cressensac;La Vigerie;1.51514;45.0239
+46083_jxgqbe_00126;126;;impasse du puits de la Broussette;46600;46083;Cressensac-Sarrazac;Cressensac;Puits de la Broussette;1.50212;45.018
+46083_9oqylg_00544;544;;Chemin de Mas Ponchet;46600;46083;Cressensac-Sarrazac;Sarrazac;Mas Ponchet;1.60363;45.0263
+46083_58fmk1_00022;22;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52025;45.0219
+46083_sj5b1e_00100;100;;Route du Batut;46600;46083;Cressensac-Sarrazac;Cressensac;Le Batut;1.5194;45.008
+46083_tg0fqn_00001;1;;Chemin du Pas du Loup;46600;46083;Cressensac-Sarrazac;Sarrazac;La Borie de Beyle;1.56527;45.0293
+46083_dk50ij_00009;9;;Rue de la Paternerie;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.52143;45.0243
+46083_uvzyk2_00019;19;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;La Jarrige Nord;1.53008;45.0208
+46083_q5vpy5_00066;66;;Route du Pouget;46600;46083;Cressensac-Sarrazac;Cressensac;Raynals;1.50436;45.0206
+46083_9yhfkg_00145;145;;Chemin des Fournels;46600;46083;Cressensac-Sarrazac;Cressensac;Le Batut;1.51691;45.0066
+46083_u0a2ux_00674;674;;Route de l'Hôpital Saint-Jean;46600;46083;Cressensac-Sarrazac;Cressensac;La Jarrige Sud;1.53281;45.0183
+46083_0zlfx4_00007;7;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52119;45.0204
+46083_1vjne6_00006;6;;Place Saint-Barthélémy;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52001;45.0204
+46083_ii32c2_00003;3;;Rue de la Vicomté;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.52108;45.0232
+46083_06jmjc_00001;1;;Rue de Couzenac;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58799;45.0182
+46083_vu1442_00034;34;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Raynals;1.50463;45.02
+46083_sk3rz3_00113;113;;Route de Turenne;46600;46083;Cressensac-Sarrazac;Sarrazac;La Bataillole;1.57195;45.0206
+46083_7ynkqf_00770;770;;Chemin des Genévriers;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.56096;45.0078
+46083_galvcc_00785;785;;Route de la Tourmente;46600;46083;Cressensac-Sarrazac;Sarrazac;Cartassac;1.60744;45.0287
+46083_sk3rz3_01129;1129;;Route de Turenne;46600;46083;Cressensac-Sarrazac;Sarrazac;La Bataillole;1.565299;45.027976
+46083_58fmk1_00023;23;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51875;45.0196
+46083_d9ap19_00760;760;;Route de la Bélonie;46600;46083;Cressensac-Sarrazac;Cressensac;La Belonie;1.5003;45.022
+46083_2nze3i_00209;209;;Chemin de Briat;46600;46083;Cressensac-Sarrazac;Sarrazac;Coulet;1.59872;45.0214
+46083_9a307s_00260;260;;Chemin des Bergeries;46600;46083;Cressensac-Sarrazac;Cressensac;;1.52235;45.0278
+46083_58fmk1_00047;47;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51782;45.017
+46083_9jt6re_00213;213;;Chemin de la Ginestal;46600;46083;Cressensac-Sarrazac;Cressensac;La Ginestal;1.49908;45.0187
+46083_sj5b1e_00130;130;;Route du Batut;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51998;45.0081
+46083_d219i6_00675;675;;Route de Meyrignac;46600;46083;Cressensac-Sarrazac;Cressensac;Le Marty;1.49887;45.0131
+46083_eu0ds1_00253;253;;Route des Planes;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51301;45.0168
+46083_6a5a0f_00066;66;;Chemin de Séjade;46600;46083;Cressensac-Sarrazac;Cressensac;La Belonie;1.49944;45.0221
+46083_aloh15_00350;350;;Impasse du Bois Robert;46600;46083;Cressensac-Sarrazac;Cressensac;Meyrignac;1.50726;45.0114
+46083_cq1x3a_00147;147;;Route du Causse;46600;46083;Cressensac-Sarrazac;Sarrazac;La Combe Roziere;1.56382;45.013
+46083_0zlfx4_00016;16;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52057;45.0201
+46083_galvcc_00101;101;;Route de la Tourmente;46600;46083;Cressensac-Sarrazac;Sarrazac;Cartassac;1.6043;45.0344
+46083_0zlfx4_00022;22;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;;1.52219;45.0203
+46083_m3m4o9_00053;53;;Chemin de chassagnole;46600;46083;Cressensac-Sarrazac;Cressensac;;1.526559;45.003156
+46083_2svv8l_00330;330;;Chemin de Muzac;46600;46083;Cressensac-Sarrazac;Sarrazac;Muzat;1.59482;45.0264
+46083_b143_01025;1025;;Route du Vaurès;46600;46083;Cressensac-Sarrazac;Cressensac;Combillous;1.51703;45.0369
+46083_i5jmfh_00009;9;;Rue du Pech Sagoulet;46600;46083;Cressensac-Sarrazac;Sarrazac;Combel de Sarrazac;1.57853;45.014
+46083_58fmk1_00041;41;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Poste de Cressensac;1.51745;45.0184
+46083_uvzyk2_00017;17;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;La Jarrige Nord;1.52982;45.0208
+46083_vu1442_00005;5;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51402;45.0188
+46083_9oqylg_00639;639;;Chemin de Mas Ponchet;46600;46083;Cressensac-Sarrazac;Sarrazac;Mas Ponchet;1.60319;45.0256
+46083_ie10gy_00831;831;;Chemin du Chaffol;46600;46083;Cressensac-Sarrazac;Cressensac;Le Chaffol Bas;1.54153;45.0247
+46083_d9ap19_00921;921;;Route de la Bélonie;46600;46083;Cressensac-Sarrazac;Cressensac;Al Bos;1.50002;45.0205
+46083_bnd8r7_00009;9;;Rue des Hospitaliers;46600;46083;Cressensac-Sarrazac;Sarrazac;La Cicauderie;1.57001;45.0172
+46083_v03092_01385;1385;;Route des Terres Basses;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57237;45.033
+46083_bnd8r7_00001;1;;Rue des Hospitaliers;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57464;45.0171
+46083_yi8ieg_00337;337;;Chemin de Laujal;46600;46083;Cressensac-Sarrazac;Sarrazac;Puy Laporte;1.56383;45.0211
+46083_ibhkro_00084;84;;Chemin du Peyroulet;46600;46083;Cressensac-Sarrazac;Sarrazac;Peyroulet;1.57418;45.0118
+46083_eu0ds1_00017;17;;Route des Planes;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pin;1.51459;45.0186
+46083_7ccte4_00085;85;;Chemin de Bellevue;46600;46083;Cressensac-Sarrazac;Cressensac;Rte de Souillac;1.51706;45.0157
+46083_v03092_00526;526;;Route des Terres Basses;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57137;45.0254
+46083_952j4n_00001;1;;Ruelle du Furet;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.5204;45.0204
+46083_u0a2ux_00378;378;;Route de l'Hôpital Saint-Jean;46600;46083;Cressensac-Sarrazac;Cressensac;Verdale;1.52891;45.0182
+46083_eu0ds1_00684;684;;Route des Planes;46600;46083;Cressensac-Sarrazac;Cressensac;Combe de Michelon;1.50992;45.0139
+46083_acppf5_00734;734;;Chemin Notre Dame des Neiges;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58632;45.0192
+46083_vu1442_00040;40;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Al Bos;1.5024;45.0189
+46083_3rtnth_00318;318;;Chemin du Mas Del Bos;46600;46083;Cressensac-Sarrazac;Cressensac;Mas Del Bos;1.54034;44.9984
+46083_gsoxwn_00050;50;;Chemin du Four de Branty;46600;46083;Cressensac-Sarrazac;Sarrazac;Branty;1.577568;45.036334
+46083_2yklro_00181;181;;Chemin de la Fouilladelle;46600;46083;Cressensac-Sarrazac;Cressensac;Fouilladelle du Pin;1.50406;45.0182
+46083_jnxe4e_00003;3;;Rue de la Source de Corlac;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57628;45.0159
+46083_2yklro_00144;144;;Chemin de la Fouilladelle;46600;46083;Cressensac-Sarrazac;Cressensac;Puits de la Broussette;1.50412;45.0186
+46083_j4u7wf_00002;2;;Rue de la Résistance;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51781;45.0194
+46083_6u1ya2_00200;200;;Chemin de la Fontaine;46600;46083;Cressensac-Sarrazac;Sarrazac;Lababourie;1.55446;44.997
+46083_0zlfx4_00026;26;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;La Palissiere;1.52369;45.0197
+46083_58fmk1_00066;66;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51725;45.0181
+46083_410ovp_01846;1846;;Route de Branty;46600;46083;Cressensac-Sarrazac;Sarrazac;Branty;1.57698;45.0362
+46083_2yklro_00100;100;;Chemin de la Fouilladelle;46600;46083;Cressensac-Sarrazac;Cressensac;Fouilladelle du Pin;1.50432;45.0189
+46083_6s1c3n_00400;400;;Chemin de la Gacherie;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.59658;45.019
+46083_mefz1j_00019;19;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57554;45.0163
+46083_vu1442_00002;2;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51647;45.0187
+46083_qc0g2m_03131;3131;;Route de Valeyrac;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.59589;45.0343
+46083_t125zo_00516;516;;Route de la Jarrige;46600;46083;Cressensac-Sarrazac;Cressensac;;1.53179;45.0205
+46083_k9p4hp_00002;2;;Impasse de la Combe Leroc;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52382;45.0233
+46083_d219i6_00341;341;;Route de Meyrignac;46600;46083;Cressensac-Sarrazac;Cressensac;Meyrignac;1.50342;45.0124
+46083_eu0ds1_00353;353;;Route des Planes;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pin;1.51226;45.016
+46083_cug5tm_00002;2;;Impasse du Lac Blanc;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57355;45.017
+46083_uvzyk2_00013;13;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;La Jarrige Nord;1.52794;45.0211
+46083_2nh7k0_00001;1;;Rue du Rionet;46600;46083;Cressensac-Sarrazac;Sarrazac;Sarrazac;1.59003;45.0164
+46083_58fmk1_00025;25;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51872;45.0195
+46083_yg2yvu_00015;15;;Chemin des Cornouillers;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Landes;1.55971;45.0161
+46083_u0a2ux_00240;240;;Route de l'Hôpital Saint-Jean;46600;46083;Cressensac-Sarrazac;Cressensac;Verdale;1.52745;45.0189
+46083_9oqylg_00496;496;;Chemin de Mas Ponchet;46600;46083;Cressensac-Sarrazac;Sarrazac;Mas Ponchet;1.60362;45.0266
+46083_yrp8fk_00003;3;;Rue Saint-Roch;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57489;45.0174
+46083_fmuc15_00021;21;;Place de Neyragues;46600;46083;Cressensac-Sarrazac;Cressensac;Nayrague;1.504099;45.026536
+46083_nz2s4k_00053;53;;Chemin du Pech;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57277;45.012
+46083_55tko4_00027;27;;Chemin des Murets;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.59195;45.0268
+46083_0zlfx4_00018;18;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;;1.52156;45.0204
+46083_3rtnth_00467;467;;Chemin du Mas Del Bos;46600;46083;Cressensac-Sarrazac;Cressensac;;1.5423;44.9983
+46083_0zlfx4_00010;10;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52017;45.02
+46083_be7qyx_00081;81;;Impasse le Combel;46600;46083;Cressensac-Sarrazac;Sarrazac;Combel de Sarrazac;1.58395;45.0165
+46083_zpg7ka_00047;47;;Route de Martel;46600;46083;Cressensac-Sarrazac;Cressensac;Bellevue;1.51945;45.0118
+46083_qc0g2m_00671;671;;Route de Valeyrac;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.59218;45.0265
+46083_i5jmfh_00005;5;;Rue du Pech Sagoulet;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57785;45.0137
+46083_2svv8l_00379;379;;Chemin de Muzac;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.59436;45.0268
+46083_gvckv9_00004;4;;Rue de la Fontaine Chaumont;46600;46083;Cressensac-Sarrazac;Cressensac;La Vigerie;1.51635;45.0238
+46083_p122fi_00001;1;;Rue du Foirail;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.5745;45.0173
+46083_mefz1j_00007;7;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57499;45.0169
+46083_410ovp_00085;85;;Route de Branty;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.59128;45.0272
+46083_yrp8fk_00001;1;;Rue Saint-Roch;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57478;45.0173
+46083_xyzgfs_00008;8;;Rue du Lavoir;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58888;45.0175
+46083_z4sxcm_00004;4;;Rue de la Liberté;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51987;45.0202
+46083_mefz1j_00008;8;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57522;45.0165
+46083_vu1442_00042;42;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Fouilladelle du Pin;1.50194;45.0188
+46083_4exhdl_00008;8;;Rue du Stade;46600;46083;Cressensac-Sarrazac;Cressensac;Verdale;1.52618;45.0188
+46083_p122fi_00012;12;;Rue du Foirail;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57405;45.0178
+46083_58fmk1_00021;21;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51878;45.0196
+46083_qfrr7k_00714;714;;Route de Croze;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.5941;45.0174
+46083_nnc0ic_00005;5;;Chemin du Pré Fouché;46600;46083;Cressensac-Sarrazac;Cressensac;;1.53363;45.0045
+46083_wiq7wo_00076;76;;Chemin des Lavandières;46600;46083;Cressensac-Sarrazac;Sarrazac;Lavergondie;1.57746;45.0373
+46083_uvzyk2_00003;3;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;;1.52556;45.021
+46083_c0tojt_00095;95;;Route de la Belès;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.51823;45.0265
+46083_2yklro_00820;820;;Chemin de la Fouilladelle;46600;46083;Cressensac-Sarrazac;Cressensac;Meyrignac;1.50218;45.0132
+46083_mefz1j_00035;35;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57614;45.0149
+46083_ii32c2_00001;1;;Rue de la Vicomté;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.52081;45.0232
+46083_5kcvf7_00891;891;;Chemin des Prés Banlin;46600;46083;Cressensac-Sarrazac;Sarrazac;Praballen;1.59577;45.0327
+46083_g2r3og_00383;383;;Chemin de Marzelles;46600;46083;Cressensac-Sarrazac;Sarrazac;Marzelles;1.59962;45.0102
+46083_5pknyx_00066;66;;Route du Vialard;46600;46083;Cressensac-Sarrazac;Cressensac;Nayrague;1.50387;45.0268
+46083_ii32c2_00007;7;;Rue de la Vicomté;46600;46083;Cressensac-Sarrazac;Cressensac;Pech Montat;1.52362;45.0239
+46083_mefz1j_00004;4;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57502;45.0168
+46083_b143_00961;961;;Route du Vaurès;46600;46083;Cressensac-Sarrazac;Cressensac;Le Vaures;1.51616;45.037
+46083_dq3y7q_00004;4;;Impasse de la Voie Romaine;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58958;45.0168
+46083_c0tojt_01687;1687;;Route de la Belès;46600;46083;Cressensac-Sarrazac;Cressensac;A la Beles;1.52243;45.0328
+46083_taizn2_00001;1;;Rue des Fortifications;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52129;45.0203
+46083_qc0g2m_00182;182;;Route de Valeyrac;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.58877;45.0233
+46083_z4sxcm_00007;7;;Rue de la Liberté;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51998;45.0209
+46083_arrnbd_00058;58;;Chemin de Saint-Cernin;46600;46083;Cressensac-Sarrazac;Sarrazac;Valeyrac;1.585;45.0316
+46083_7ccte4_00557;557;;Chemin de Bellevue;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51494;45.0119
+46083_58fmk1_00001;1;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52073;45.0227
+46083_5pb9vp_00001;1;;Impasse du Château d'Eau;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.51964;45.0244
+46083_d9ap19_00020;20;;Route de la Bélonie;46600;46083;Cressensac-Sarrazac;Cressensac;Nayrague;1.5045;45.0261
+46083_5ejssx_00870;870;;Chemin du Peyrat;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Crozes;1.609494;45.009392
+46083_qfrr7k_02041;2041;;Route de Croze;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Crozes;1.60713;45.014
+46083_b143_01210;1210;;Route du Vaurès;46600;46083;Cressensac-Sarrazac;Cressensac;Le Vaures;1.51795;45.0353
+46083_5kcvf7_00248;248;;Chemin des Prés Banlin;46600;46083;Cressensac-Sarrazac;Sarrazac;Praballen;1.60261;45.031
+46083_w4t082_00003;3;;Rue de l'Ancienne Ecole;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52059;45.0205
+46083_eu0ds1_00836;836;;Route des Planes;46600;46083;Cressensac-Sarrazac;Cressensac;Combe de Michelon;1.50815;45.0139
+46083_ci3yo4_01429;1429;;Route de la Fouillade;46600;46083;Cressensac-Sarrazac;Cressensac;Cieussac;1.53835;45.0085
+46083_58fmk1_00035;35;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Poste de Cressensac;1.51781;45.0188
+46083_410ovp_00577;577;;Route de Branty;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.58573;45.0288
+46083_58fmk1_00074;74;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Poste de Cressensac;1.51757;45.017
+46083_so9ivb_01060;1060;;Chemin de Tersac;46600;46083;Cressensac-Sarrazac;Cressensac;Le Colombier;1.48739;45.0233
+46083_5pknyx_00220;220;;Route du Vialard;46600;46083;Cressensac-Sarrazac;Cressensac;Nayrague;1.50185;45.0265
+46083_2yklro_00314;314;;Chemin de la Fouilladelle;46600;46083;Cressensac-Sarrazac;Cressensac;;1.50337;45.0172
+46083_6s1c3n_00650;650;;Chemin de la Gacherie;46600;46083;Cressensac-Sarrazac;Sarrazac;Pech de Briat;1.59776;45.0204
+46083_s7vwg2_00296;296;;Route de Mas la Rivière;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.60476;45.0184
+46083_ii32c2_00006;6;;Rue de la Vicomté;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52201;45.0234
+46083_s2o7dp_00194;194;;Chemin du Gros Chêne;46600;46083;Cressensac-Sarrazac;Sarrazac;Le Marel;1.56033;45.019
+46083_galvcc_00525;525;;Route de la Tourmente;46600;46083;Cressensac-Sarrazac;Sarrazac;Cartassac;1.60585;45.0307
+46083_turuvp_00251;251;;Route du 45ème Parallèle;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.51898;44.9999
+46083_ystr2n_00147;147;;Chemin de la Font;46600;46083;Cressensac-Sarrazac;Cressensac;Martignac;1.53529;45.0026
+46083_yi8ieg_00424;424;;Chemin de Laujal;46600;46083;Cressensac-Sarrazac;Sarrazac;Puy Laporte;1.56317;45.0216
+46083_6u1ya2_00184;184;;Chemin de la Fontaine;46600;46083;Cressensac-Sarrazac;Sarrazac;Lababourie;1.5546;44.9969
+46083_odn0tk_00224;224;;Route d'Estival;46600;46083;Cressensac-Sarrazac;Cressensac;;1.48394;45.0155
+46083_acppf5_00786;786;;Chemin Notre Dame des Neiges;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.586;45.0197
+46083_2nh7k0_00005;5;;Rue du Rionet;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.59188;45.0162
+46083_qgxxa6_00004;4;;Chemin des Raynals;46600;46083;Cressensac-Sarrazac;Cressensac;Raynals;1.50604;45.0204
+46083_bnd8r7_00006;6;;Rue des Hospitaliers;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57442;45.0171
+46083_fmuc15_00036;36;;Place de Neyragues;46600;46083;Cressensac-Sarrazac;Cressensac;Nayrague;1.50387;45.0264
+46083_dk50ij_00003;3;;Rue de la Paternerie;46600;46083;Cressensac-Sarrazac;Cressensac;;1.52053;45.024
+46083_58fmk1_00032;32;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51975;45.0209
+46083_uhph1n_00430;430;;Chemin du Maquis;46600;46083;Cressensac-Sarrazac;Cressensac;;1.55083;45.0202
+46083_z4sxcm_00003;3;;Rue de la Liberté;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51959;45.02
+46083_s7vwg2_00379;379;;Route de Mas la Rivière;46600;46083;Cressensac-Sarrazac;Sarrazac;Mas la Riviere;1.60591;45.0181
+46083_0zlfx4_00024;24;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;;1.52354;45.0197
+46083_v03092_00595;595;;Route des Terres Basses;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57135;45.026
+46083_3vcgxe_00060;60;;Chemin du Moulin à Vent;46600;46083;Cressensac-Sarrazac;Cressensac;Le Batut;1.51645;45.0069
+46083_cytbuw_00484;484;;Chemin du Four;46600;46083;Cressensac-Sarrazac;Sarrazac;Palmayssou;1.56519;44.9959
+46083_abil37_00042;42;;Petit Chemin;46600;46083;Cressensac-Sarrazac;Sarrazac;Brouillac;1.56656;45.0049
+46083_gvckv9_00003;3;;Rue de la Fontaine Chaumont;46600;46083;Cressensac-Sarrazac;Cressensac;Chaumont;1.5189;45.0228
+46083_250w96_00050;50;;Chemin de la Gariotte Cachée;46600;46083;Cressensac-Sarrazac;Sarrazac;Travers des Jouannes;1.58664;45.0199
+46083_n824fe_00280;280;;Route de Peyrelevade;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.51953;45.0033
+46083_5kcvf7_00331;331;;Chemin des Prés Banlin;46600;46083;Cressensac-Sarrazac;Sarrazac;Praballen;1.60149;45.0309
+46083_7ccte4_00059;59;;Chemin de Bellevue;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51743;45.0159
+46083_z4sxcm_00008;8;;Rue de la Liberté;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51993;45.0203
+46083_vu1442_00026;26;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Raynals;1.50589;45.02
+46083_mefz1j_00017;17;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57541;45.0165
+46083_g2r3og_00251;251;;Chemin de Marzelles;46600;46083;Cressensac-Sarrazac;Sarrazac;Marzelles;1.59912;45.0113
+46083_ci3yo4_01611;1611;;Route de la Fouillade;46600;46083;Cressensac-Sarrazac;Cressensac;La Fouillade;1.53837;45.0073
+46083_9oqylg_00597;597;;Chemin de Mas Ponchet;46600;46083;Cressensac-Sarrazac;Sarrazac;Mas Ponchet;1.60364;45.0257
+46083_58fmk1_00011;11;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51986;45.0207
+46083_vu1442_00021;21;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Raynals;1.5061;45.0199
+46083_58fmk1_00029;29;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51882;45.0194
+46083_9c6mus_00077;77;;Chemin du Haut;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57675;45.0353
+46083_jjvlyb_00002;2;;Route de Lavergondie;46600;46083;Cressensac-Sarrazac;Sarrazac;Lavergondie;1.5859;45.032
+46083_d1y4y7_00056;56;;Route de Rocamadour;46600;46083;Cressensac-Sarrazac;Sarrazac;Peyroulet;1.57488;45.0116
+46083_6s1c3n_00396;396;;Chemin de la Gacherie;46600;46083;Cressensac-Sarrazac;Sarrazac;La Gacherie;1.59645;45.019
+46083_kyj8c8_00171;171;;Chemin de Brouillac;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.56672;45.0052
+46083_qc0g2m_00724;724;;Route de Valeyrac;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.59276;45.0267
+46083_xyzgfs_00002;2;;Rue du Lavoir;46600;46083;Cressensac-Sarrazac;Sarrazac;Jouannes;1.5887;45.0172
+46083_0zlfx4_00008;8;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52008;45.02
+46083_o8yh7s_00047;47;;Chemin du Sabatier;46600;46083;Cressensac-Sarrazac;Cressensac;Le Sabatier;1.53264;44.9976
+46083_c0tojt_01609;1609;;Route de la Belès;46600;46083;Cressensac-Sarrazac;Cressensac;A la Beles;1.5217;45.0331
+46083_bmsdvt_00265;265;;Route de Martignac;46600;46083;Cressensac-Sarrazac;Cressensac;Martignac;1.53481;45.0015
+46083_c0tojt_01960;1960;;Route de la Belès;46600;46083;Cressensac-Sarrazac;Cressensac;;1.52413;45.0341
+46083_r8khd0_00145;145;;Route des Moulins;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58855;45.0135
+46083_mefz1j_00041;41;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57621;45.0142
+46083_pl3tdu_00004;4;;Rue de la Victoire;46600;46083;Cressensac-Sarrazac;Cressensac;;1.521009;45.020691
+46083_0zlfx4_00011;11;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52266;45.0203
+46083_yrp8fk_00005;5;;Rue Saint-Roch;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.574752;45.017798
+46083_kc6ioq_00121;121;;Chemin de la Dauphine;46600;46083;Cressensac-Sarrazac;Cressensac;La Dauphine;1.51562;45.0157
+46083_2svv8l_00375;375;;Chemin de Muzac;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.59439;45.0266
+46083_uvzyk2_00018;18;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;La Jarrige Nord;1.5309;45.0205
+46083_vu1442_00003;3;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51572;45.0186
+46083_sj5b1e_00045;45;;Route du Batut;46600;46083;Cressensac-Sarrazac;Cressensac;Le Batut;1.51873;45.0081
+46083_8wo4z7_00201;201;;Chemin de Larrue;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.59946;45.0171
+46083_8t2s4c_00001;1;;Rue du Fournil;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52053;45.0199
+46083_t125zo_00461;461;;Route de la Jarrige;46600;46083;Cressensac-Sarrazac;Cressensac;La Jarrige Nord;1.53193;45.0208
+46083_k9p4hp_00003;3;;Impasse de la Combe Leroc;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.523984;45.023382
+46083_w4t082_00002;2;;Rue de l'Ancienne Ecole;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52036;45.0206
+46083_mefz1j_00014;14;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57535;45.0164
+46083_qfrr7k_02855;2855;;Route de Croze;46600;46083;Cressensac-Sarrazac;Sarrazac;Mas la Riviere;1.60775;45.018
+46083_0q18u4_00181;181;;Impasse de la Chapoulie;46600;46083;Cressensac-Sarrazac;Sarrazac;La Chapoulie;1.58999;45.0298
+46083_9wixi3_00170;170;;Chemin du Montaunet;46600;46083;Cressensac-Sarrazac;Sarrazac;Le Marel;1.55842;45.0202
+46083_1vjne6_00001;1;;Place Saint-Barthélémy;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52013;45.0202
+46083_p2uxgw_01359;1359;;Route de Souillac;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.51816;45.0035
+46083_vu1442_00001;1;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Poste de Cressensac;1.51675;45.0186
+46083_u3dyo6_00161;161;;Route de la Gare;46600;46083;Cressensac-Sarrazac;Cressensac;Puits de la Broussette;1.50101;45.0172
+46083_sk3rz3_01411;1411;;Route de Turenne;46600;46083;Cressensac-Sarrazac;Sarrazac;La Borie de Beyle;1.565416;45.029532
+46083_p122fi_00003;3;;Rue du Foirail;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57433;45.0174
+46083_q5vpy5_00439;439;;Route du Pouget;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pouget;1.50349;45.0235
+46083_06jmjc_00006;6;;Rue de Couzenac;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Curades;1.59051;45.0209
+46083_xose6z_00003;3;;Impasse de la Prairie;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52298;45.0233
+46083_wiq7wo_00062;62;;Chemin des Lavandières;46600;46083;Cressensac-Sarrazac;Sarrazac;Lavergondie;1.57763;45.0372
+46083_58fmk1_00048;48;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51892;45.0199
+46083_cq1x3a_00721;721;;Route du Causse;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.55734;45.0108
+46083_mefz1j_00043;43;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57617;45.014
+46083_dk50ij_00001;1;;Rue de la Paternerie;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.5203;45.0243
+46083_cug5tm_00006;6;;Impasse du Lac Blanc;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57119;45.0177
+46083_58fmk1_00002;2;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.52045;45.0235
+46083_u0a2ux_00361;361;;Route de l'Hôpital Saint-Jean;46600;46083;Cressensac-Sarrazac;Cressensac;Verdale;1.52881;45.0184
+46083_oi78lb_00505;505;;Chemin de Laspos;46600;46083;Cressensac-Sarrazac;Cressensac;Le Chaffol;1.54729;45.0275
+46083_9jt6re_00270;270;;Chemin de la Ginestal;46600;46083;Cressensac-Sarrazac;Cressensac;Al Bos;1.49841;45.019
+46083_2yklro_00089;89;;Chemin de la Fouilladelle;46600;46083;Cressensac-Sarrazac;Cressensac;Fouilladelle du Pin;1.50452;45.019
+46083_2svv8l_00281;281;;Chemin de Muzac;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.59432;45.0265
+46083_q6c33z_00831;831;;Route des Aliniers;46600;46083;Cressensac-Sarrazac;Cressensac;Nayrague;1.50729;45.0259
+46083_z4sxcm_00001;1;;Rue de la Liberté;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51954;45.02
+46083_pl3tdu_00003;3;;Rue de la Victoire;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52098;45.0209
+46083_jnxe4e_00006;6;;Rue de la Source de Corlac;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57819;45.0151
+46083_sk3rz3_01115;1115;;Route de Turenne;46600;46083;Cressensac-Sarrazac;Sarrazac;La Bataillole;1.56515;45.0276
+46083_mefz1j_00045;45;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57525;45.0129
+46083_acppf5_00788;788;;Chemin Notre Dame des Neiges;46600;46083;Cressensac-Sarrazac;Sarrazac;Jouannes;1.586004;45.019624
+46083_8t2s4c_00006;6;;Rue du Fournil;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52053;45.0198
+46083_58fmk1_00060;60;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51825;45.0193
+46083_qo8iru_00546;546;;Chemin d'Encorlac;46600;46083;Cressensac-Sarrazac;Sarrazac;Encorlac;1.58673;45.0079
+46083_qfrr7k_00581;581;;Route de Croze;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Crozes;1.59243;45.0171
+46083_vu1442_00004;4;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pin;1.51588;45.0187
+46083_qo8iru_00454;454;;Chemin d'Encorlac;46600;46083;Cressensac-Sarrazac;Sarrazac;Encorlac;1.58545;45.0078
+46083_2svv8l_00349;349;;Chemin de Muzac;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.59449;45.0265
+46083_d9ap19_00919;919;;Route de la Bélonie;46600;46083;Cressensac-Sarrazac;Cressensac;La Belonie;1.50012;45.0206
+46083_e6e8wf_00280;280;;Chemin d'Orliac;46600;46083;Cressensac-Sarrazac;Sarrazac;Orliac;1.5913;45.0099
+46083_kc6ioq_00051;51;;Chemin de la Dauphine;46600;46083;Cressensac-Sarrazac;Cressensac;La Dauphine;1.51656;45.0157
+46083_58fmk1_00058;58;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51844;45.0195
+46083_kwzqdg_00001;1;;Impasse du Vignon;46600;46083;Cressensac-Sarrazac;Cressensac;Pech Montat;1.52716;45.0246
+46083_taizn2_00007;7;;Rue des Fortifications;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52095;45.0198
+46083_eu0ds1_00593;593;;Route des Planes;46600;46083;Cressensac-Sarrazac;Cressensac;Les Planes;1.51105;45.014
+46083_qs8hpw_00195;195;;Chemin du Four à Chaux;46600;46083;Cressensac-Sarrazac;Sarrazac;Valeyrac;1.58396;45.0312
+46083_2nh7k0_00006;6;;Rue du Rionet;46600;46083;Cressensac-Sarrazac;Sarrazac;Sarrazac;1.58914;45.0168
+46083_q6c33z_00513;513;;Route des Aliniers;46600;46083;Cressensac-Sarrazac;Cressensac;Les Aliniers;1.51095;45.0251
+46083_m3m4o9_00220;220;;Chemin de chassagnole;46600;46083;Cressensac-Sarrazac;Cressensac;;1.527866;45.00212
+46083_w4t082_00001;1;;Rue de l'Ancienne Ecole;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52082;45.0207
+46083_8t2s4c_00008;8;;Rue du Fournil;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52071;45.0199
+46083_acppf5_00774;774;;Chemin Notre Dame des Neiges;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58631;45.0195
+46083_q8ejis_00432;432;;Chemin de l'Orupt;46600;46083;Cressensac-Sarrazac;Cressensac;Pech Montat;1.5348;45.0296
+46083_z4sxcm_00010;10;;Rue de la Liberté;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52005;45.0205
+46083_58fmk1_00034;34;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51966;45.0208
+46083_acppf5_00390;390;;Chemin Notre Dame des Neiges;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58513;45.0164
+46083_410ovp_01487;1487;;Route de Branty;46600;46083;Cressensac-Sarrazac;Sarrazac;Branty;1.57971;45.0342
+46083_xmr2iw_00002;2;;Impasse de l'Estanh;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57554;45.016
+46083_p122fi_00010;10;;Rue du Foirail;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57411;45.0177
+46083_taizn2_00009;9;;Rue des Fortifications;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52087;45.0199
+46083_q5vpy5_00031;31;;Route du Pouget;46600;46083;Cressensac-Sarrazac;Cressensac;Al Bos;1.50425;45.0202
+46083_ii32c2_00015;15;;Rue de la Vicomté;46600;46083;Cressensac-Sarrazac;Cressensac;;1.52839;45.0245
+46083_qal1ep_00067;67;;Chemin des Petits Chênes;46600;46083;Cressensac-Sarrazac;Cressensac;Puits de la Broussette;1.50089;45.0183
+46083_0zlfx4_00019;19;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;Pech Beynet;1.52419;45.0196
+46083_58fmk1_00052;52;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51865;45.0197
+46083_8t2s4c_00002;2;;Rue du Fournil;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51986;45.0198
+46083_nnc0ic_00001;1;;Chemin du Pré Fouché;46600;46083;Cressensac-Sarrazac;Cressensac;;1.525;45.0187
+46083_acppf5_00723;723;;Chemin Notre Dame des Neiges;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58622;45.0191
+46083_58fmk1_00010;10;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;La Vigerie;1.52045;45.0226
+46083_d9ap19_00671;671;;Route de la Bélonie;46600;46083;Cressensac-Sarrazac;Cressensac;La Belonie;1.50096;45.0225
+46083_qfrr7k_03492;3492;;Route de Croze;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.60957;45.0214
+46083_vew0tw_00271;271;;Chemin de la Chèvrerie;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.55251;44.994
+46083_5pknyx_00034;34;;Route du Vialard;46600;46083;Cressensac-Sarrazac;Cressensac;Nayrague;1.5042;45.0266
+46083_vu1442_00012;12;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pin;1.51278;45.0194
+46083_j587sf_00267;267;;Chemin de la Borie du Marchand;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.5744;45.0285
+46083_vu1442_00032;32;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Raynals;1.50516;45.02
+46083_ii32c2_00004;4;;Rue de la Vicomté;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52151;45.0232
+46083_58fmk1_00039;39;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Poste de Cressensac;1.5175;45.0187
+46083_e4xgzf_00750;750;;Chemin de Palmeyssou;46600;46083;Cressensac-Sarrazac;Sarrazac;Palmayssou;1.56615;44.9955
+46083_7h6idq_00921;921;;Route des Grèzes;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Grezes;1.56394;45.0138
+46083_p2uxgw_01531;1531;;Route de Souillac;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.51742;45.0022
+46083_mefz1j_00026;26;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57597;45.0155
+46083_p122fi_00005;5;;Rue du Foirail;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57419;45.0175
+46083_7h6idq_00536;536;;Route des Grèzes;46600;46083;Cressensac-Sarrazac;Sarrazac;Pech Graval;1.56856;45.0131
+46083_msl6e1_00145;145;;Chemin du Champ de Lafon;46600;46083;Cressensac-Sarrazac;Sarrazac;Jouannes;1.58562;45.0228
+46083_58fmk1_00040;40;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51931;45.0203
+46083_jnxe4e_00001;1;;Rue de la Source de Corlac;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57603;45.0159
+46083_lsm0zg_00067;67;;Chemin de Ginibre;46600;46083;Cressensac-Sarrazac;Sarrazac;La Valeterie;1.57296;45.0226
+46083_m3m4o9_00133;133;;Chemin de chassagnole;46600;46083;Cressensac-Sarrazac;Cressensac;;1.526919;45.002512
+46083_sj5b1e_00083;83;;Route du Batut;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51913;45.008
+46083_d1y4y7_00991;991;;Route de Rocamadour;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58223;45.0051
+46083_6dppn8_00840;840;;Route de la Croix Alexandre;46600;46083;Cressensac-Sarrazac;Sarrazac;Corlac;1.58875;45.0142
+46083_qfrr7k_00230;230;;Route de Croze;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Crozes;1.58982;45.0188
+46083_j4u7wf_00007;7;;Rue de la Résistance;46600;46083;Cressensac-Sarrazac;Cressensac;La Chapelle;1.51573;45.0205
+46083_lsm0zg_00244;244;;Chemin de Ginibre;46600;46083;Cressensac-Sarrazac;Sarrazac;La Valeterie;1.57519;45.0228
+46083_06jmjc_00004;4;;Rue de Couzenac;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.5881;45.0183
+46083_bmsdvt_00242;242;;Route de Martignac;46600;46083;Cressensac-Sarrazac;Cressensac;;1.53469;45.0016
+46083_fbb8m0_00050;50;;Via Romana;46600;46083;Cressensac-Sarrazac;Cressensac;;1.517886;45.001887
+46083_xlw0oq_00304;304;;Chemin de la Rochette;46600;46083;Cressensac-Sarrazac;Cressensac;Chausseneige;1.52936;45.036
+46083_58fmk1_00005;5;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52062;45.0223
+46083_p122fi_00004;4;;Rue du Foirail;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57444;45.0175
+46083_j4u7wf_00004;4;;Rue de la Résistance;46600;46083;Cressensac-Sarrazac;Cressensac;Poste de Cressensac;1.51737;45.0197
+46083_ozv8jb_00010;10;;Rue Saint-Geniès;46600;46083;Cressensac-Sarrazac;Sarrazac;Sarrazac;1.58909;45.0163
+46083_58fmk1_00064;64;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51726;45.0188
+46083_4exhdl_00003;3;;Rue du Stade;46600;46083;Cressensac-Sarrazac;Cressensac;La Palissiere;1.51988;45.0172
+46083_dk50ij_00005;5;;Rue de la Paternerie;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.52069;45.024
+46083_p2uxgw_01686;1686;;Route de Souillac;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.51597;45.0009
+46083_2yklro_00075;75;;Chemin de la Fouilladelle;46600;46083;Cressensac-Sarrazac;Cressensac;Fouilladelle du Pin;1.50453;45.0191
+46083_p2uxgw_01062;1062;;Route de Souillac;46600;46083;Cressensac-Sarrazac;Cressensac;Le Batut;1.51791;45.006
+46083_b46ob7_00250;250;;Chemin de Grangier;46600;46083;Cressensac-Sarrazac;Sarrazac;Grangie;1.61626;45.0183
+46083_i5jmfh_00004;4;;Rue du Pech Sagoulet;46600;46083;Cressensac-Sarrazac;Sarrazac;Combel de Sarrazac;1.57924;45.0143
+46083_9oqylg_00595;595;;Chemin de Mas Ponchet;46600;46083;Cressensac-Sarrazac;Sarrazac;Mas Ponchet;1.6037;45.0258
+46083_arrnbd_00038;38;;Chemin de Saint-Cernin;46600;46083;Cressensac-Sarrazac;Sarrazac;Valeyrac;1.58517;45.0316
+46083_6s1c3n_00036;36;;Chemin de la Gacherie;46600;46083;Cressensac-Sarrazac;Sarrazac;Coulet;1.59323;45.0174
+46083_taizn2_00005;5;;Rue des Fortifications;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52127;45.0201
+46083_qc0g2m_02470;2470;;Route de Valeyrac;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Chabannes;1.58866;45.036
+46083_0zlfx4_00003;3;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51982;45.02
+46083_galvcc_00653;653;;Route de la Tourmente;46600;46083;Cressensac-Sarrazac;Sarrazac;Cartassac;1.60663;45.0298
+46083_5k1kod_00004;4;;Impasse du Champ de Latour;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52165;45.0227
+46083_58fmk1_00033;33;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51792;45.0189
+46083_7h6idq_01269;1269;;Route des Grèzes;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Landes;1.56078;45.0156
+46083_vu1442_00009;9;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51159;45.0195
+46083_4exhdl_00006;6;;Rue du Stade;46600;46083;Cressensac-Sarrazac;Cressensac;La Malaudie;1.52287;45.0172
+46083_58fmk1_00038;38;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51963;45.0207
+46083_q8ejis_00300;300;;Chemin de l'Orupt;46600;46083;Cressensac-Sarrazac;Cressensac;La Combe du Pech Montat;1.53399;45.0288
+46083_kyj8c8_00186;186;;Chemin de Brouillac;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.56655;45.0053
+46083_cpr0cr_00126;126;;Chemin des Jolis;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Jolis;1.58473;45.0134
+46083_9jt6re_00030;30;;Chemin de la Ginestal;46600;46083;Cressensac-Sarrazac;Cressensac;Al Bos;1.50143;45.0187
+46083_taizn2_00002;2;;Rue des Fortifications;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52085;45.0199
+46083_u0a2ux_00601;601;;Route de l'Hôpital Saint-Jean;46600;46083;Cressensac-Sarrazac;Cressensac;La Jarrige Nord;1.53195;45.0185
+46083_qfrr7k_00588;588;;Route de Croze;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Crozes;1.59256;45.017
+46083_ix5oyv_00086;86;;Chemin de la Rocaille;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.59396;45.0193
+46083_5kcvf7_00578;578;;Chemin des Prés Banlin;46600;46083;Cressensac-Sarrazac;Sarrazac;Praballen;1.59933;45.0316
+46083_turuvp_00078;78;;Route du 45ème Parallèle;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51672;45.0002
+46083_y0weh0_00090;90;;Impasse du Pré;46600;46083;Cressensac-Sarrazac;Cressensac;;1.53033;45.01
+46083_rf6nwm_00910;910;;Route de Brive;46600;46083;Cressensac-Sarrazac;Cressensac;Combe Large;1.51141;45.0302
+46083_j4u7wf_00001;1;;Rue de la Résistance;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51784;45.0193
+46083_xmr2iw_00004;4;;Impasse de l'Estanh;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.575364;45.016296
+46083_ceef01_00387;387;;Chemin de la Garnaudie;46600;46083;Cressensac-Sarrazac;Cressensac;La Garnaudie;1.54498;45.0148
+46083_ozv8jb_00008;8;;Rue Saint-Geniès;46600;46083;Cressensac-Sarrazac;Sarrazac;Sarrazac;1.58883;45.0165
+46083_d9ap19_00851;851;;Route de la Bélonie;46600;46083;Cressensac-Sarrazac;Cressensac;La Belonie;1.50015;45.0212
+46083_so9ivb_00435;435;;Chemin de Tersac;46600;46083;Cressensac-Sarrazac;Cressensac;Tersac;1.49001;45.0178
+46083_dq3y7q_00010;10;;Impasse de la Voie Romaine;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.5899;45.0169
+46083_qfrr7k_00810;810;;Route de Croze;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Crozes;1.59525;45.0174
+46083_0zlfx4_00012;12;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52026;45.02
+46083_jjvlyb_00181;181;;Route de Lavergondie;46600;46083;Cressensac-Sarrazac;Sarrazac;Lavergondie;1.58572;45.0334
+46083_ozv8jb_00002;2;;Rue Saint-Geniès;46600;46083;Cressensac-Sarrazac;Sarrazac;Sarrazac;1.58833;45.0168
+46083_p2uxgw_01006;1006;;Route de Souillac;46600;46083;Cressensac-Sarrazac;Cressensac;Le Batut;1.51793;45.0067
+46083_9oqylg_00646;646;;Chemin de Mas Ponchet;46600;46083;Cressensac-Sarrazac;Sarrazac;Mas Ponchet;1.60323;45.0257
+46083_ozv8jb_00006;6;;Rue Saint-Geniès;46600;46083;Cressensac-Sarrazac;Sarrazac;Sarrazac;1.58872;45.0166
+46083_8wzdcf_00035;35;;Chemin de la Vigerie;46600;46083;Cressensac-Sarrazac;Sarrazac;Lassiniomos;1.56138;44.999
+46083_acppf5_00789;789;;Chemin Notre Dame des Neiges;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58594;45.0196
+46083_bnd8r7_00011;11;;Rue des Hospitaliers;46600;46083;Cressensac-Sarrazac;Sarrazac;Le Marel;1.56784;45.018
+46083_r8khd0_00124;124;;Route des Moulins;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58854;45.0138
+46083_mefz1j_00029;29;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.5761;45.0154
+46083_q0hkhf_02165;2165;;Route du Servial;46600;46083;Cressensac-Sarrazac;Cressensac;;1.52678;45.0432
+46083_2svv8l_00398;398;;Chemin de Muzac;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.59429;45.027
+46083_r4c74x_00064;64;;Impasse de Cieussac;46600;46083;Cressensac-Sarrazac;Cressensac;Cieussac;1.538;45.0093
+46083_p122fi_00016;16;;Rue du Foirail;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57393;45.018
+46083_sk3rz3_00300;300;;Route de Turenne;46600;46083;Cressensac-Sarrazac;Sarrazac;La Bataillole;1.57016;45.0217
+46083_eu0ds1_00319;319;;Route des Planes;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pin;1.5127;45.0164
+46083_d1y4y7_00486;486;;Route de Rocamadour;46600;46083;Cressensac-Sarrazac;Sarrazac;Bos Nau;1.5784;45.0087
+46083_ceef01_00550;550;;Chemin de la Garnaudie;46600;46083;Cressensac-Sarrazac;Cressensac;La Garnaudie;1.54496;45.0133
+46083_vu1442_00018;18;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Raynals;1.51012;45.0199
+46083_0zlfx4_00015;15;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52328;45.0201
+46083_acppf5_00546;546;;Chemin Notre Dame des Neiges;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58612;45.0176
+46083_cytbuw_00505;505;;Chemin du Four;46600;46083;Cressensac-Sarrazac;Sarrazac;Palmayssou;1.56557;44.996
+46083_e6e8wf_00168;168;;Chemin d'Orliac;46600;46083;Cressensac-Sarrazac;Sarrazac;Orliac;1.59169;45.0091
+46083_5pb9vp_00005;5;;Impasse du Château d'Eau;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.51907;45.0246
+46083_5k1kod_00008;8;;Impasse du Champ de Latour;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.5219;45.0229
+46083_0gk90e_00002;2;;Chemin de la Chênelotte;46600;46083;Cressensac-Sarrazac;Sarrazac;Bois de Langlade;1.58787;45.0171
+46083_n064dx_00159;159;;Chemin des Combes;46600;46083;Cressensac-Sarrazac;Cressensac;Les Combes;1.5299;45.002
+46083_ibhkro_00061;61;;Chemin du Peyroulet;46600;46083;Cressensac-Sarrazac;Sarrazac;Peyroulet;1.57436;45.012
+46083_turuvp_00180;180;;Route du 45ème Parallèle;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.51796;44.9999
+46083_ceef01_00459;459;;Chemin de la Garnaudie;46600;46083;Cressensac-Sarrazac;Cressensac;La Garnaudie;1.54494;45.0141
+46083_qo8iru_00380;380;;Chemin d'Encorlac;46600;46083;Cressensac-Sarrazac;Sarrazac;Passalaygue;1.58525;45.0073
+46083_plbq6v_00070;70;;Chemin des Landes;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Landes;1.55916;45.0168
+46083_d1y4y7_00786;786;;Route de Rocamadour;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58066;45.0066
+46083_ceef01_00570;570;;Chemin de la Garnaudie;46600;46083;Cressensac-Sarrazac;Cressensac;La Garnaudie;1.54513;45.0131
+46083_c0tojt_00125;125;;Route de la Belès;46600;46083;Cressensac-Sarrazac;Cressensac;Combe Large;1.5184;45.0267
+46083_mefz1j_00020;20;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57575;45.0159
+46083_vlq432_00180;180;;Chemin de Lababourie;46600;46083;Cressensac-Sarrazac;Sarrazac;Lababourie;1.55461;44.9954
+46083_j587sf_00274;274;;Chemin de la Borie du Marchand;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57461;45.0286
+46083_d1y4y7_00249;249;;Route de Rocamadour;46600;46083;Cressensac-Sarrazac;Sarrazac;Combe du Loup;1.57652;45.0104
+46083_qc0g2m_00631;631;;Route de Valeyrac;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.591532;45.026462
+46083_eu0ds1_00446;446;;Route des Planes;46600;46083;Cressensac-Sarrazac;Cressensac;Combe de Michelon;1.51156;45.0154
+46083_mefz1j_00023;23;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57577;45.0161
+46083_vu1442_00028;28;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Raynals;1.50557;45.02
+46083_sj5b1e_00125;125;;Route du Batut;46600;46083;Cressensac-Sarrazac;Cressensac;Le Batut;1.51964;45.0081
+46083_tpuwrl_00500;500;;Chemin de la Borie de Bayle;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.5611;45.027
+46083_j4u7wf_00012;12;;Rue de la Résistance;46600;46083;Cressensac-Sarrazac;Cressensac;Combe de la Sale;1.51604;45.0204
+46083_q6c33z_00977;977;;Route des Aliniers;46600;46083;Cressensac-Sarrazac;Cressensac;;1.50554;45.0262
+46083_9yhfkg_00136;136;;Chemin des Fournels;46600;46083;Cressensac-Sarrazac;Cressensac;Le Batut;1.51692;45.0067
+46083_d9ap19_00741;741;;Route de la Bélonie;46600;46083;Cressensac-Sarrazac;Cressensac;;1.50054;45.022
+46083_p122fi_00018;18;;Rue du Foirail;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57376;45.0183
+46083_ii32c2_00002;2;;Rue de la Vicomté;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.52105;45.0231
+46083_d1y4y7_00440;440;;Route de Rocamadour;46600;46083;Cressensac-Sarrazac;Sarrazac;Bos de Guillot;1.57795;45.0087
+46083_odn0tk_00093;93;;Route d'Estival;46600;46083;Cressensac-Sarrazac;;;1.48383;45.0144
+46083_cytbuw_00306;306;;Chemin du Four;46600;46083;Cressensac-Sarrazac;Sarrazac;Palmayssou;1.56465;44.9967
+46083_y2yjvr_00001;1;;Chemin des Futaies;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.51876;45.025
+46083_410ovp_01209;1209;;Route de Branty;46600;46083;Cressensac-Sarrazac;Sarrazac;Branty;1.58058;45.0319
+46083_fmuc15_00046;46;;Place de Neyragues;46600;46083;Cressensac-Sarrazac;Cressensac;Nayrague;1.50361;45.0264
+46083_u3dyo6_01560;1560;;Route de la Gare;46600;46083;Cressensac-Sarrazac;Cressensac;La Gare;1.48508;45.0137
+46083_sj5b1e_00111;111;;Route du Batut;46600;46083;Cressensac-Sarrazac;Cressensac;;1.5194;45.0081
+46083_uvzyk2_00012;12;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;;1.5285;45.0208
+46083_mefz1j_00011;11;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57527;45.0167
+46083_acppf5_00630;630;;Chemin Notre Dame des Neiges;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.5864;45.0183
+46083_410ovp_00681;681;;Route de Branty;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.58449;45.0288
+46083_5k1kod_00002;2;;Impasse du Champ de Latour;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52143;45.0228
+46083_yrp8fk_00002;2;;Rue Saint-Roch;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57483;45.0172
+46083_vu1442_00014;14;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Rte de Gignac;1.51125;45.0198
+46083_q5vpy5_00181;181;;Route du Pouget;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pouget;1.50409;45.0217
+46083_0zlfx4_00009;9;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52154;45.0205
+46083_d1y4y7_00817;817;;Route de Rocamadour;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.5811;45.0064
+46083_qc0g2m_00555;555;;Route de Valeyrac;46600;46083;Cressensac-Sarrazac;Sarrazac;Plachamp;1.59073;45.0263
+46083_58fmk1_00013;13;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51965;45.0204
+46083_eu0ds1_00160;160;;Route des Planes;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pin;1.51318;45.0177
+46083_mefz1j_00016;16;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57548;45.0163
+46083_2yklro_00224;224;;Chemin de la Fouilladelle;46600;46083;Cressensac-Sarrazac;Cressensac;Puits de la Broussette;1.50361;45.0179
+46083_ii32c2_00017;17;;Rue de la Vicomté;46600;46083;Cressensac-Sarrazac;Cressensac;Pech Montat;1.52958;45.0247
+46083_6s1c3n_00473;473;;Chemin de la Gacherie;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.59731;45.0193
+46083_4exhdl_00005;5;;Rue du Stade;46600;46083;Cressensac-Sarrazac;Cressensac;Clau de Barre;1.52217;45.0174
+46083_oi78lb_00519;519;;Chemin de Laspos;46600;46083;Cressensac-Sarrazac;Cressensac;Le Chaffol;1.54737;45.0274
+46083_eu0ds1_00520;520;;Route des Planes;46600;46083;Cressensac-Sarrazac;Cressensac;Combe de Michelon;1.51135;45.0147
+46083_wuygbl_00321;321;;Chemin de la Messagalerie;46600;46083;Cressensac-Sarrazac;Sarrazac;La Messagalerie;1.56017;45.0249
+46083_p2uxgw_01624;1624;;Route de Souillac;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.51635;45.0013
+46083_xyzgfs_00004;4;;Rue du Lavoir;46600;46083;Cressensac-Sarrazac;Sarrazac;Sarrazac;1.58883;45.0174
+46083_dq3y7q_00008;8;;Impasse de la Voie Romaine;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58972;45.0169
+46083_58fmk1_00036;36;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51936;45.0208
+46083_6u1ya2_00272;272;;Chemin de la Fontaine;46600;46083;Cressensac-Sarrazac;Sarrazac;Lababourie;1.55402;44.9972
+46083_ie10gy_00921;921;;Chemin du Chaffol;46600;46083;Cressensac-Sarrazac;Cressensac;Le Chaffol Bas;1.54203;45.0243
+46083_97mrlm_00006;6;;Chemin de la Truffière;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.56618;45.019
+46083_z4sxcm_00002;2;;Rue de la Liberté;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51978;45.0201
+46083_58fmk1_00054;54;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51862;45.0196
+46083_d219i6_00170;170;;Route de Meyrignac;46600;46083;Cressensac-Sarrazac;Cressensac;Meyrignac;1.50453;45.0127
+46083_sk3rz3_00949;949;;Route de Turenne;46600;46083;Cressensac-Sarrazac;Sarrazac;La Bataillole;1.56585;45.0262
+46083_bnd8r7_00004;4;;Rue des Hospitaliers;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57451;45.0171
+46083_w4t082_00005;5;;Rue de l'Ancienne Ecole;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52036;45.0205
+46083_u3dyo6_00286;286;;Route de la Gare;46600;46083;Cressensac-Sarrazac;Cressensac;Puits de la Broussette;1.49932;45.0172
+46083_r99b65_00205;205;;Chemin de Verdale;46600;46083;Cressensac-Sarrazac;Cressensac;Rayjal;1.52767;45.0172
+46083_yi8ieg_00422;422;;Chemin de Laujal;46600;46083;Cressensac-Sarrazac;Sarrazac;Puy Laporte;1.56324;45.0216
+46083_uvzyk2_00007;7;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52651;45.0212
+46083_dk50ij_00007;7;;Rue de la Paternerie;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.52087;45.024
+46083_uvzyk2_00008;8;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;Pech Beynet;1.5252;45.0207
+46083_3rtnth_00815;815;;Chemin du Mas Del Bos;46600;46083;Cressensac-Sarrazac;Sarrazac;Mas Del Bos;1.54657;44.9981
+46083_16zhe0_00051;51;;Chemin de la Blénie;46600;46083;Cressensac-Sarrazac;;La Gare;1.48331;45.0134
+46083_cq1x3a_00190;190;;Route du Causse;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Grezes;1.56313;45.0128
+46083_qfrr7k_03519;3519;;Route de Croze;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.60989;45.0215
+46083_acppf5_00644;644;;Chemin Notre Dame des Neiges;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58637;45.0185
+46083_8t2s4c_00010;10;;Rue du Fournil;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52086;45.0201
+46083_r99b65_00094;94;;Chemin de Verdale;46600;46083;Cressensac-Sarrazac;Cressensac;Verdale;1.52883;45.0177
+46083_uvzyk2_00016;16;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;La Jarrige Nord;1.5304;45.0207
+46083_58fmk1_00045;45;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51778;45.0172
+46083_mefz1j_00018;18;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57555;45.0162
+46083_p2uxgw_00907;907;;Route de Souillac;46600;46083;Cressensac-Sarrazac;Cressensac;Le Batut;1.51807;45.0074
+46083_eu0ds1_00031;31;;Route des Planes;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pin;1.51418;45.0184
+46083_6oixz8_00380;380;;Chemin de Combe Rozière;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.56489;45.0106
+46083_5kcvf7_00196;196;;Chemin des Prés Banlin;46600;46083;Cressensac-Sarrazac;Sarrazac;Praballen;1.60321;45.0309
+46083_2yklro_00210;210;;Chemin de la Fouilladelle;46600;46083;Cressensac-Sarrazac;Cressensac;Puits de la Broussette;1.50371;45.018
+46083_cq1x3a_01052;1052;;Route du Causse;46600;46083;Cressensac-Sarrazac;Cressensac;;1.55367;45.0097
+46083_q6c33z_00975;975;;Route des Aliniers;46600;46083;Cressensac-Sarrazac;Cressensac;Nayrague;1.50568;45.0263
+46083_6s1c3n_00250;250;;Chemin de la Gacherie;46600;46083;Cressensac-Sarrazac;Sarrazac;La Gacherie;1.59495;45.0187
+46083_d1y4y7_00675;675;;Route de Rocamadour;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58016;45.0075
+46083_sk3rz3_01800;1800;;Route de Turenne;46600;46083;Cressensac-Sarrazac;Sarrazac;Pech Bonnet;1.56578;45.0336
+46083_ozv8jb_00004;4;;Rue Saint-Geniès;46600;46083;Cressensac-Sarrazac;Sarrazac;Sarrazac;1.58855;45.0167
+46083_sj5b1e_00110;110;;Route du Batut;46600;46083;Cressensac-Sarrazac;Cressensac;Le Batut;1.51955;45.008
+46083_3rtnth_00411;411;;Chemin du Mas Del Bos;46600;46083;Cressensac-Sarrazac;Cressensac;Mas Del Bos;1.54153;44.9983
+46083_97mrlm_00001;1;;Chemin de la Truffière;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.56587;45.0191
+46083_uvzyk2_00020;20;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;La Jarrige Nord;1.53155;45.0202
+46083_wtr08i_00150;150;;Chemin du Fagnac;46600;46083;Cressensac-Sarrazac;Sarrazac;Le Fagnac;1.5702;45.0305
+46083_u3dyo6_01300;1300;;Route de la Gare;46600;46083;Cressensac-Sarrazac;Cressensac;La Gare;1.48823;45.0139
+46083_mefz1j_00006;6;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57514;45.0166
+46083_iuxnqt_00559;559;;Chemin de la Teulière;46600;46083;Cressensac-Sarrazac;Cressensac;La Teuliere;1.54018;45.0219
+46083_mefz1j_00025;25;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57597;45.0157
+46083_u3dyo6_01582;1582;;Route de la Gare;46600;46083;Cressensac-Sarrazac;Cressensac;La Gare;1.48473;45.0137
+46083_q6c33z_00972;972;;Route des Aliniers;46600;46083;Cressensac-Sarrazac;Cressensac;Nayrague;1.50568;45.0264
+46083_x3nq5f_00100;100;;Chemin de la Fontaine du Causse;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.55531;45.0092
+46083_be7qyx_00100;100;;Impasse le Combel;46600;46083;Cressensac-Sarrazac;Sarrazac;Combel de Sarrazac;1.58386;45.0166
+46083_q6c33z_00979;979;;Route des Aliniers;46600;46083;Cressensac-Sarrazac;Cressensac;Nayrague;1.50551;45.0263
+46083_7h6idq_01410;1410;;Route des Grèzes;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Landes;1.5602;45.0165
+46083_d6tzxm_00002;2;;Place Henri Taillardat;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58928;45.0169
+46083_1vjne6_00012;12;;Place Saint-Barthélémy;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52;45.0202
+46083_58fmk1_00062;62;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.5174;45.0188
+46083_yrp8fk_00004;4;;Rue Saint-Roch;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.5749;45.0172
+46083_i5jmfh_00011;11;;Rue du Pech Sagoulet;46600;46083;Cressensac-Sarrazac;Sarrazac;Combel de Sarrazac;1.57887;45.0142
+46083_x3nq5f_00101;101;;Chemin de la Fontaine du Causse;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.55547;45.0092
+46083_410ovp_00835;835;;Route de Branty;46600;46083;Cressensac-Sarrazac;Sarrazac;Ligneyrac;1.58233;45.0293
+46083_jnxe4e_00005;5;;Rue de la Source de Corlac;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57658;45.0158
+46083_58fmk1_00026;26;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;;1.52011;45.0216
+46083_vu1442_00015;15;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pin;1.51068;45.0197
+46083_cug5tm_00004;4;;Impasse du Lac Blanc;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57282;45.0172
+46083_wg2act_00002;2;;Rue de Pech Graval Bas;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.5729;45.0164
+46083_2yklro_00870;870;;Chemin de la Fouilladelle;46600;46083;Cressensac-Sarrazac;Cressensac;Meyrignac;1.50229;45.0128
+46083_dk50ij_00011;11;;Rue de la Paternerie;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.52328;45.0278
+46083_l2qk3p_00061;61;;Impasse de la Combe Morte;46600;46083;Cressensac-Sarrazac;Cressensac;;1.504705;45.026975
+46083_d1y4y7_00887;887;;Route de Rocamadour;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58158;45.0059
+46083_zpg7ka_00042;42;;Route de Martel;46600;46083;Cressensac-Sarrazac;Cressensac;Bellevue;1.51948;45.0115
+46083_acppf5_00171;171;;Chemin Notre Dame des Neiges;46600;46083;Cressensac-Sarrazac;Sarrazac;Combel de Sarrazac;1.58297;45.0151
+46083_p122fi_00007;7;;Rue du Foirail;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57409;45.0176
+46083_q5vpy5_00101;101;;Route du Pouget;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pouget;1.50417;45.021
+46083_5kcvf7_00390;390;;Chemin des Prés Banlin;46600;46083;Cressensac-Sarrazac;Sarrazac;Praballen;1.60131;45.0316
+46083_ceef01_00601;601;;Chemin de la Garnaudie;46600;46083;Cressensac-Sarrazac;Cressensac;La Garnaudie;1.54554;45.0133
+46083_mefz1j_00022;22;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.5758;45.0159
+46083_mefz1j_00003;3;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57489;45.017
+46083_5pknyx_00485;485;;Route du Vialard;46600;46083;Cressensac-Sarrazac;Cressensac;Le Vialard;1.49858;45.0275
+46083_j4u7wf_00009;9;;Rue de la Résistance;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51547;45.0208
+46083_bmsdvt_00211;211;;Route de Martignac;46600;46083;Cressensac-Sarrazac;Cressensac;Martignac;1.53491;45.0019
+46083_58fmk1_00015;15;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.5195;45.0202
+46083_2yklro_00364;364;;Chemin de la Fouilladelle;46600;46083;Cressensac-Sarrazac;Cressensac;Puits de la Broussette;1.50351;45.0167
+46083_n824fe_00501;501;;Route de Peyrelevade;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.52003;45.0015
+46083_bnd8r7_00005;5;;Rue des Hospitaliers;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57329;45.0167
+46083_p2uxgw_01379;1379;;Route de Souillac;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.51807;45.0031
+46083_2yklro_00019;19;;Chemin de la Fouilladelle;46600;46083;Cressensac-Sarrazac;Cressensac;Puits de la Broussette;1.50451;45.0197
+46083_410ovp_01751;1751;;Route de Branty;46600;46083;Cressensac-Sarrazac;Sarrazac;Branty;1.57728;45.0353
+46083_vu1442_00030;30;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Raynals;1.50531;45.02
+46083_97mrlm_00002;2;;Chemin de la Truffière;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.56569;45.0189
+46083_7ccte4_00042;42;;Chemin de Bellevue;46600;46083;Cressensac-Sarrazac;Cressensac;Rte de Souillac;1.51742;45.0161
+46083_k9p4hp_00001;1;;Impasse de la Combe Leroc;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52365;45.0236
+46083_6qyw47_00006;6;;Impasse de la Grange;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.55504;45.0094
+46083_dk50ij_00002;2;;Rue de la Paternerie;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.52088;45.0237
+46083_t125zo_00581;581;;Route de la Jarrige;46600;46083;Cressensac-Sarrazac;Cressensac;La Jarrige Nord;1.53205;45.02
+46083_pl3tdu_00005;5;;Rue de la Victoire;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52115;45.0207
+46083_e4xgzf_00546;546;;Chemin de Palmeyssou;46600;46083;Cressensac-Sarrazac;Sarrazac;Palmayssou;1.56602;44.9973
+46083_u0a2ux_03353;3353;;Route de l'Hôpital Saint-Jean;46600;46083;Cressensac-Sarrazac;Sarrazac;Le Marel;1.56175;45.0173
+46083_sj5b1e_00090;90;;Route du Batut;46600;46083;Cressensac-Sarrazac;Cressensac;Le Batut;1.51923;45.008
+46083_mefz1j_00021;21;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57565;45.0162
+46083_pl3tdu_00004;4;;Rue de la Victoire;46600;46083;Cressensac-Sarrazac;Cressensac;;1.549945;45.017525
+46083_1n21ln_00879;879;;Route de la Pessie;46600;46083;Cressensac-Sarrazac;Sarrazac;Marzelles;1.60166;45.0134
+46083_6u1ya2_00380;380;;Chemin de la Fontaine;46600;46083;Cressensac-Sarrazac;Sarrazac;Lababourie;1.55265;44.9978
+46083_uvzyk2_00004;4;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;;1.52411;45.0202
+46083_58fmk1_00070;70;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Poste de Cressensac;1.51745;45.0176
+46083_w4t082_00007;7;;Rue de l'Ancienne Ecole;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52023;45.0205
+46083_eu0ds1_00143;143;;Route des Planes;46600;46083;Cressensac-Sarrazac;Cressensac;Le Pin;1.51335;45.0178
+46083_0zlfx4_00014;14;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52042;45.02
+46083_c0tojt_00654;654;;Route de la Belès;46600;46083;Cressensac-Sarrazac;Cressensac;A la Beles;1.5194;45.0314
+46083_qc0g2m_00374;374;;Route de Valeyrac;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58979;45.0247
+46083_qo8iru_00375;375;;Chemin d'Encorlac;46600;46083;Cressensac-Sarrazac;Sarrazac;Passalaygue;1.58504;45.0073
+46083_mefz1j_00015;15;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57536;45.0165
+46083_mefz1j_00047;47;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;Pech Sagoulet;1.5751;45.0126
+46083_d6tzxm_00008;8;;Place Henri Taillardat;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.58916;45.0171
+46083_1vjne6_00008;8;;Place Saint-Barthélémy;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51999;45.0203
+46083_b143_01120;1120;;Route du Vaurès;46600;46083;Cressensac-Sarrazac;Cressensac;Le Vaures;1.51743;45.0361
+46083_i5jmfh_00001;1;;Rue du Pech Sagoulet;46600;46083;Cressensac-Sarrazac;Sarrazac;Pech Sagoulet;1.57651;45.0133
+46083_qfrr7k_00295;295;;Route de Croze;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Crozes;1.59;45.0186
+46083_bnd8r7_00015;15;;Rue des Hospitaliers;46600;46083;Cressensac-Sarrazac;Sarrazac;Gourgeac;1.56735;45.0182
+46083_i5jmfh_00002;2;;Rue du Pech Sagoulet;46600;46083;Cressensac-Sarrazac;Sarrazac;Combel de Sarrazac;1.57801;45.0136
+46083_u3dyo6_00289;289;;Route de la Gare;46600;46083;Cressensac-Sarrazac;Cressensac;;1.49914;45.017133
+46083_u3dyo6_00163;163;;Route de la Gare;46600;46083;Cressensac-Sarrazac;Cressensac;Puits de la Broussette;1.5012;45.017
+46083_9oqylg_00680;680;;Chemin de Mas Ponchet;46600;46083;Cressensac-Sarrazac;Sarrazac;Mas Ponchet;1.60292;45.026
+46083_jjvlyb_01100;1100;;Route de Lavergondie;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.57722;45.0367
+46083_uvzyk2_00002;2;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;;1.5236;45.0199
+46083_rbsn6u_00080;80;;Route de Cuzance;46600;46083;Cressensac-Sarrazac;Sarrazac;Combe du Loup;1.57604;45.0097
+46083_bnd8r7_00014;14;;Rue des Hospitaliers;46600;46083;Cressensac-Sarrazac;Sarrazac;Gourgeac;1.56713;45.0184
+46083_2nh7k0_00004;4;;Rue du Rionet;46600;46083;Cressensac-Sarrazac;Sarrazac;Sarrazac;1.58898;45.0168
+46083_fgagbo_00001;1;;Impasse du Quercy;46600;46083;Cressensac-Sarrazac;Cressensac;Champ de Latour;1.52252;45.0204
+46083_58fmk1_00004;4;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;La Paternerie;1.52045;45.0234
+46083_sk3rz3_01039;1039;;Route de Turenne;46600;46083;Cressensac-Sarrazac;Sarrazac;La Bataillole;1.56539;45.027
+46083_p2uxgw_01780;1780;;Route de Souillac;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.51527;45.0001
+46083_turuvp_00114;114;;Route du 45ème Parallèle;46600;46083;Cressensac-Sarrazac;Cressensac;;1.51704;45.0001
+46083_vu1442_00019;19;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Fouilladelle du Pin;1.50671;45.0199
+46083_6s1c3n_00009;9;;Chemin de la Gacherie;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Crozes;1.59285;45.0174
+46083_fwwdty_00037;37;;Chemin du Marsal;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Combes;1.59118;45.0218
+46083_uvzyk2_00015;15;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;;1.52943;45.0208
+46083_nnc0ic_00003;3;;Chemin du Pré Fouché;46600;46083;Cressensac-Sarrazac;Cressensac;Verdale;1.52534;45.0181
+46083_mefz1j_00027;27;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57601;45.0156
+46083_cq1x3a_00049;49;;Route du Causse;46600;46083;Cressensac-Sarrazac;Sarrazac;La Combe Roziere;1.56489;45.013
+46083_am3emj_00341;341;;Chemin de Naudière;46600;46083;Cressensac-Sarrazac;Cressensac;Al Bos;1.53313;45.0158
+46083_turuvp_00350;350;;Route du 45ème Parallèle;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.52014;45.0002
+46083_vu1442_00022;22;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Raynals;1.50866;45.0201
+46083_pl3tdu_00002;2;;Rue de la Victoire;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52046;45.0215
+46083_vu1442_00024;24;;Rue de Gignac;46600;46083;Cressensac-Sarrazac;Cressensac;Raynals;1.50625;45.02
+46083_1vjne6_00010;10;;Place Saint-Barthélémy;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52;45.0202
+46083_taizn2_00003;3;;Rue des Fortifications;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52143;45.0202
+46083_p2uxgw_01146;1146;;Route de Souillac;46600;46083;Cressensac-Sarrazac;Cressensac;Le Batut;1.51793;45.0053
+46083_cq1x3a_01170;1170;;Route du Causse;46600;46083;Cressensac-Sarrazac;Cressensac;;1.55257;45.0103
+46083_58fmk1_00031;31;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.5181;45.0191
+46083_58fmk1_00056;56;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51857;45.0196
+46083_q0hkhf_02420;2420;;Route du Servial;46600;46083;Cressensac-Sarrazac;Cressensac;Le Servial;1.529351;45.042666
+46083_gvckv9_00002;2;;Rue de la Fontaine Chaumont;46600;46083;Cressensac-Sarrazac;Cressensac;Chaumont;1.51781;45.023
+46083_410ovp_02090;2090;;Route de Branty;46600;46083;Cressensac-Sarrazac;Sarrazac;Branty;1.57473;45.0377
+46083_uvzyk2_00010;10;;Rue du Puy Beynet;46600;46083;Cressensac-Sarrazac;Cressensac;Pech Beynet;1.52599;45.021
+46083_0zlfx4_00004;4;;Rue de la Mairie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.51967;45.0199
+46083_58fmk1_00072;72;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Poste de Cressensac;1.51755;45.0172
+46083_7h6idq_00881;881;;Route des Grèzes;46600;46083;Cressensac-Sarrazac;Sarrazac;Les Grezes;1.56438;45.0135
+46083_p2uxgw_01922;1922;;Route de Souillac;46600;46083;Cressensac-Sarrazac;Cressensac;Peyrelevade;1.51445;44.9991
+46083_q6c33z_01001;1001;;Route des Aliniers;46600;46083;Cressensac-Sarrazac;Cressensac;;1.5052;45.0263
+46083_p122fi_00020;20;;Rue du Foirail;46600;46083;Cressensac-Sarrazac;Sarrazac;Au Foirail;1.57331;45.0192
+46083_kwzqdg_00003;3;;Impasse du Vignon;46600;46083;Cressensac-Sarrazac;Cressensac;Pech Montat;1.52767;45.0248
+46083_mefz1j_00005;5;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57494;45.017
+46083_bnd8r7_00007;7;;Rue des Hospitaliers;46600;46083;Cressensac-Sarrazac;Sarrazac;La Cicauderie;1.57052;45.0169
+46083_mefz1j_00013;13;;Rue de Fanal;46600;46083;Cressensac-Sarrazac;Sarrazac;L’Hopital Saint-Jean;1.57535;45.0166
+46083_gvckv9_00003;3;;Rue de la Fontaine Chaumont;46600;46083;Cressensac-Sarrazac;Cressensac;La Fontaine de Chaumont;1.5173;45.0231
+46083_58fmk1_00020;20;;Avenue d'Occitanie;46600;46083;Cressensac-Sarrazac;Cressensac;Cressensac;1.52033;45.0221
+46083_9a307s_00080;80;;Chemin des Bergeries;46600;46083;Cressensac-Sarrazac;Cressensac;Les Bergeries;1.52054;45.0276
+46083_cytbuw_00366;366;;Chemin du Four;46600;46083;Cressensac-Sarrazac;Sarrazac;Palmayssou;1.56422;44.9962
+46083_9c6mus_00014;14;;Chemin du Haut;46600;46083;Cressensac-Sarrazac;Sarrazac;;1.577;45.0357

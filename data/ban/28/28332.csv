@@ -1,0 +1,444 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+28332_0089_00011;11;;Route de Nogent le Roi;28500;28332;Sainte-Gemme-Moronval;;;1.394606;48.727068
+28332_0110_00003;3;;Chemin de Bellevue;28500;28332;Sainte-Gemme-Moronval;;;1.423036;48.741869
+28332_0115_00009;9;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.395235;48.729091
+28332_0115_00015;15;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.396045;48.729073
+28332_0086_00001;1;;Rue de l'Ancienne Ferme;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.396429;48.730467
+28332_0086_00004;4;;Rue de l'Ancienne Ferme;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.395779;48.730266
+28332_0086_00011;11;;Rue de l'Ancienne Ferme;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.395169;48.730153
+28332_0088_00001;1;;Rue de l'Ancienne Forge;28500;28332;Sainte-Gemme-Moronval;;;1.413693;48.737152
+28332_0089_00004;4;;Route de Nogent le Roi;28500;28332;Sainte-Gemme-Moronval;;;1.390854;48.727653
+28332_0103_00014;14;;Chemin des Aulnaies;28500;28332;Sainte-Gemme-Moronval;;;1.412824;48.738702
+28332_0115_00002;2;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.394444;48.72884
+28332_0116_00010;10;;Chemin de Bel Air;28500;28332;Sainte-Gemme-Moronval;;;1.408437;48.736268
+28332_0075_00002;2;;Allée des Acacias;28500;28332;Sainte-Gemme-Moronval;;;1.414707;48.736931
+28332_0086_00002;2;;Rue de l'Ancienne Ferme;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.39582;48.73028
+28332_0086_00008;8;;Rue de l'Ancienne Ferme;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.394841;48.730555
+28332_0088_00004_bis;4;bis;Rue de l'Ancienne Forge;28500;28332;Sainte-Gemme-Moronval;;;1.413479;48.737074
+28332_0089_00006;6;;Route de Nogent le Roi;28500;28332;Sainte-Gemme-Moronval;;;1.390354;48.727935
+28332_0115_00013;13;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.395733;48.729099
+28332_0116_00033;33;;Chemin de Bel Air;28500;28332;Sainte-Gemme-Moronval;;;1.395988;48.737165
+28332_0138_00024;24;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417953;48.740643
+28332_0138_00031;31;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417859;48.740167
+28332_0138_00036;36;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418369;48.741474
+28332_0138_00058;58;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418689;48.74314
+28332_0138_00005;5;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417641;48.738424
+28332_0138_00015;15;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417687;48.738785
+28332_0138_00038;38;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418526;48.742035
+28332_0138_00049;49;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418352;48.742081
+28332_0138_00052;52;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418709;48.742585
+28332_0138_00053;53;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418477;48.743032
+28332_0138_00057;57;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418412;48.743504
+28332_0138_00004_d;4;d;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417932;48.738883
+28332_0138_00051_bis;51;bis;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417847;48.742526
+28332_0167_00003;3;;Place du Docteur Jouve;28500;28332;Sainte-Gemme-Moronval;;;1.414407;48.737493
+28332_0172_00002;2;;Route d'Écluzelles;28500;28332;Sainte-Gemme-Moronval;;;1.414121;48.737232
+28332_0172_00003;3;;Route d'Écluzelles;28500;28332;Sainte-Gemme-Moronval;;;1.414218;48.737352
+28332_0172_00011;11;;Route d'Écluzelles;28500;28332;Sainte-Gemme-Moronval;;;1.414358;48.736682
+28332_0103_00005;5;;Chemin des Aulnaies;28500;28332;Sainte-Gemme-Moronval;;;1.41327;48.738608
+28332_0115_00008;8;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.395904;48.728962
+28332_0115_00010;10;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.396181;48.728963
+28332_0138_00003;3;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417549;48.738173
+28332_0138_00014;14;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418153;48.739948
+28332_0138_00035;35;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417754;48.740636
+28332_0138_00039;39;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417843;48.740886
+28332_0138_00054;54;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418743;48.742752
+28332_0138_00055;55;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418498;48.743324
+28332_0138_00059;59;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.41845;48.743867
+28332_0138_00004_c;4;c;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417991;48.738736
+28332_0138_00004_f;4;f;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418045;48.739053
+28332_0138_00030;30;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418197;48.741187
+28332_0138_00037;37;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417752;48.740667
+28332_0138_00056;56;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418766;48.743011
+28332_0138_00060;60;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418689;48.743604
+28332_0138_00051_ter;51;ter;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418529;48.742958
+28332_0139_00005;5;;Allée du Clos Maillard;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.391627;48.729468
+28332_0139_00006;6;;Allée du Clos Maillard;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.392029;48.730034
+28332_0139_00009;9;;Allée du Clos Maillard;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.391333;48.729093
+28332_0139_00010;10;;Allée du Clos Maillard;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.391707;48.729759
+28332_0139_00022;22;;Allée du Clos Maillard;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.390849;48.728693
+28332_0139_00004_bis;4;bis;Allée du Clos Maillard;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.392735;48.729939
+28332_0169_00010;10;;Chemin des Doulées;28500;28332;Sainte-Gemme-Moronval;;;1.419492;48.736627
+28332_0169_00014;14;;Chemin des Doulées;28500;28332;Sainte-Gemme-Moronval;;;1.419466;48.736173
+28332_0169_00012_bis;12;bis;Chemin des Doulées;28500;28332;Sainte-Gemme-Moronval;;;1.419488;48.736294
+28332_0172_00005;5;;Route d'Écluzelles;28500;28332;Sainte-Gemme-Moronval;;;1.414212;48.737219
+28332_0172_00013;13;;Route d'Écluzelles;28500;28332;Sainte-Gemme-Moronval;;;1.414412;48.73646
+28332_0172_00015;15;;Route d'Écluzelles;28500;28332;Sainte-Gemme-Moronval;;;1.4148;48.735592
+28332_lo3fbj_00037;37;;Les Brulains;28500;28332;Sainte-Gemme-Moronval;;;1.422404;48.741909
+28332_0115_00005;5;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.394649;48.728969
+28332_0115_00023;23;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.396488;48.72865
+28332_0103_00016;16;;Chemin des Aulnaies;28500;28332;Sainte-Gemme-Moronval;;;1.412684;48.738692
+28332_0138_00011;11;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417695;48.738562
+28332_0138_00020;20;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.41796;48.740492
+28332_0138_00023;23;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417904;48.739453
+28332_0138_00027;27;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417882;48.739792
+28332_0138_00028;28;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417974;48.740902
+28332_0138_00050;50;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418666;48.742435
+28332_0138_00051;51;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418462;48.742509
+28332_0138_00059_bis;59;bis;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418442;48.74413
+28332_0134_00002;2;;Chemin des Châtelets;28500;28332;Sainte-Gemme-Moronval;;;1.392817;48.731542
+28332_0138_00010;10;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418113;48.739727
+28332_0138_00022;22;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.41796;48.740531
+28332_0138_00033;33;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417831;48.74032
+28332_0138_00034;34;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418409;48.741653
+28332_0138_00061;61;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418381;48.744604
+28332_0138_00004_e;4;e;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418081;48.738968
+28332_0139_00001;1;;Allée du Clos Maillard;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.392536;48.729793
+28332_0139_00003;3;;Allée du Clos Maillard;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.392361;48.729768
+28332_0139_00008;8;;Allée du Clos Maillard;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.391846;48.72988
+28332_0139_00016;16;;Allée du Clos Maillard;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.391259;48.729212
+28332_0139_00020;20;;Allée du Clos Maillard;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.390936;48.728797
+28332_0167_00005;5;;Place du Docteur Jouve;28500;28332;Sainte-Gemme-Moronval;;;1.414808;48.737435
+28332_0169_00006;6;;Chemin des Doulées;28500;28332;Sainte-Gemme-Moronval;;;1.419504;48.736842
+28332_0172_00004;4;;Route d'Écluzelles;28500;28332;Sainte-Gemme-Moronval;;;1.414098;48.73704
+28332_0172_00007;7;;Route d'Écluzelles;28500;28332;Sainte-Gemme-Moronval;;;1.414221;48.737056
+28332_0172_00009;9;;Route d'Écluzelles;28500;28332;Sainte-Gemme-Moronval;;;1.414224;48.736968
+28332_0172_00010;10;;Route d'Écluzelles;28500;28332;Sainte-Gemme-Moronval;;;1.415084;48.734304
+28332_0172_00017;17;;Route d'Écluzelles;28500;28332;Sainte-Gemme-Moronval;;;1.414862;48.735456
+28332_0086_00013;13;;Rue de l'Ancienne Ferme;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.394768;48.730378
+28332_0110_00001_ter;1;ter;Chemin de Bellevue;28500;28332;Sainte-Gemme-Moronval;;;1.423842;48.742185
+28332_0115_00003;3;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.394043;48.728849
+28332_0115_00019;19;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.396477;48.728988
+28332_0115_00027;27;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.396421;48.728201
+28332_0138_00008;8;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418071;48.739611
+28332_0138_00017;17;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417811;48.738956
+28332_0138_00032;32;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418361;48.741431
+28332_0138_00045;45;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417945;48.741118
+28332_0138_00004_b;4;b;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417842;48.738642
+28332_0138_00014_bis;14;bis;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418172;48.740001
+28332_0138_00057_bis;57;bis;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418463;48.743596
+28332_0138_00019;19;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417907;48.739274
+28332_0138_00025;25;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417919;48.739554
+28332_0138_00026;26;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417939;48.740759
+28332_0138_00029;29;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417868;48.740001
+28332_0138_00047;47;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.41802;48.74141
+28332_0139_00002;2;;Allée du Clos Maillard;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.393197;48.729996
+28332_0139_00004;4;;Allée du Clos Maillard;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.392837;48.72995
+28332_0139_00007;7;;Allée du Clos Maillard;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.391572;48.729388
+28332_0139_00012;12;;Allée du Clos Maillard;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.391573;48.729611
+28332_0139_00014;14;;Allée du Clos Maillard;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.391396;48.729383
+28332_0139_00018;18;;Allée du Clos Maillard;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.391109;48.729062
+28332_0139_00024;24;;Allée du Clos Maillard;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.390742;48.728535
+28332_0167_00002;2;;Place du Docteur Jouve;28500;28332;Sainte-Gemme-Moronval;;;1.414459;48.737733
+28332_0169_00012;12;;Chemin des Doulées;28500;28332;Sainte-Gemme-Moronval;;;1.419489;48.73648
+28332_0172_00006;6;;Route d'Écluzelles;28500;28332;Sainte-Gemme-Moronval;;;1.414143;48.736811
+28332_0172_00021;21;;Route d'Écluzelles;28500;28332;Sainte-Gemme-Moronval;;;1.415049;48.734959
+28332_0174_00004;4;;Rue des Hauts de Moronval;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.393631;48.730652
+28332_0174_00009;9;;Rue des Hauts de Moronval;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.39329;48.729584
+28332_0174_00010;10;;Rue des Hauts de Moronval;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.392873;48.729366
+28332_0175_00002;2;;Rue de l'Île d'Amourette;28500;28332;Sainte-Gemme-Moronval;;;1.414589;48.742923
+28332_0175_00003;3;;Rue de l'Île d'Amourette;28500;28332;Sainte-Gemme-Moronval;;;1.414938;48.742908
+28332_0175_00010;10;;Rue de l'Île d'Amourette;28500;28332;Sainte-Gemme-Moronval;;;1.414059;48.74195
+28332_0175_00012;12;;Rue de l'Île d'Amourette;28500;28332;Sainte-Gemme-Moronval;;;1.414125;48.742182
+28332_0175_00014;14;;Rue de l'Île d'Amourette;28500;28332;Sainte-Gemme-Moronval;;;1.414764;48.742665
+28332_0176_00021;21;;Rue des Forts;28500;28332;Sainte-Gemme-Moronval;;;1.424132;48.74099
+28332_0176_00027;27;;Rue des Forts;28500;28332;Sainte-Gemme-Moronval;;;1.424848;48.741718
+28332_0176_00022_bis;22;bis;Rue des Forts;28500;28332;Sainte-Gemme-Moronval;;;1.426484;48.739519
+28332_0176_00023_bis;23;bis;Rue des Forts;28500;28332;Sainte-Gemme-Moronval;;;1.425194;48.741168
+28332_0179_00001;1;;Chemin de l'Église;28500;28332;Sainte-Gemme-Moronval;;;1.41638;48.731511
+28332_0260_00010;10;;Rue des Longs Champs;28500;28332;Sainte-Gemme-Moronval;;;1.421296;48.736939
+28332_0266_00001;1;;Square Michel Jubert;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.392289;48.728028
+28332_0266_00002;2;;Square Michel Jubert;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.392569;48.7284
+28332_0172_00019;19;;Route d'Écluzelles;28500;28332;Sainte-Gemme-Moronval;;;1.414969;48.735218
+28332_0172_00013_ter;13;ter;Route d'Écluzelles;28500;28332;Sainte-Gemme-Moronval;;;1.414684;48.735749
+28332_0172_00021_bis;21;bis;Route d'Écluzelles;28500;28332;Sainte-Gemme-Moronval;;;1.415122;48.734764
+28332_0174_00001;1;;Rue des Hauts de Moronval;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.393804;48.730733
+28332_0174_00006;6;;Rue des Hauts de Moronval;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.393653;48.730571
+28332_0174_00012;12;;Rue des Hauts de Moronval;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.392914;48.729093
+28332_0174_00014;14;;Rue des Hauts de Moronval;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.392059;48.727675
+28332_0174_00010_bis;10;bis;Rue des Hauts de Moronval;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.392907;48.729176
+28332_0175_00004;4;;Rue de l'Île d'Amourette;28500;28332;Sainte-Gemme-Moronval;;;1.415056;48.7428
+28332_0175_00009;9;;Rue de l'Île d'Amourette;28500;28332;Sainte-Gemme-Moronval;;;1.414463;48.741986
+28332_0175_00013;13;;Rue de l'Île d'Amourette;28500;28332;Sainte-Gemme-Moronval;;;1.414677;48.742461
+28332_0176_00033;33;;Rue des Forts;28500;28332;Sainte-Gemme-Moronval;;;1.424604;48.742078
+28332_0176_00037;37;;Rue des Forts;28500;28332;Sainte-Gemme-Moronval;;;1.425308;48.740911
+28332_0176_00031_bis;31;bis;Rue des Forts;28500;28332;Sainte-Gemme-Moronval;;;1.424717;48.741933
+28332_0260_00001;1;;Rue des Longs Champs;28500;28332;Sainte-Gemme-Moronval;;;1.417621;48.737761
+28332_0260_00002;2;;Rue des Longs Champs;28500;28332;Sainte-Gemme-Moronval;;;1.417637;48.737701
+28332_0260_00003;3;;Rue des Longs Champs;28500;28332;Sainte-Gemme-Moronval;;;1.417786;48.73777
+28332_0260_00004;4;;Rue des Longs Champs;28500;28332;Sainte-Gemme-Moronval;;;1.417982;48.737724
+28332_0260_00014;14;;Rue des Longs Champs;28500;28332;Sainte-Gemme-Moronval;;;1.423345;48.736588
+28332_0103_00012;12;;Chemin des Aulnaies;28500;28332;Sainte-Gemme-Moronval;;;1.413018;48.738703
+28332_0115_00001;1;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.393873;48.728795
+28332_0173_00001;1;;Ruelle aux Goulues;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.396563;48.73022
+28332_0175_00001;1;;Rue de l'Île d'Amourette;28500;28332;Sainte-Gemme-Moronval;;;1.414198;48.742995
+28332_0175_00006;6;;Rue de l'Île d'Amourette;28500;28332;Sainte-Gemme-Moronval;;;1.414795;48.742369
+28332_0175_00011;11;;Rue de l'Île d'Amourette;28500;28332;Sainte-Gemme-Moronval;;;1.414087;48.7421
+28332_0175_00015;15;;Rue de l'Île d'Amourette;28500;28332;Sainte-Gemme-Moronval;;;1.414004;48.742911
+28332_0176_00019;19;;Rue des Forts;28500;28332;Sainte-Gemme-Moronval;;;1.425311;48.740955
+28332_0176_00023;23;;Rue des Forts;28500;28332;Sainte-Gemme-Moronval;;;1.424261;48.741088
+28332_0176_00025;25;;Rue des Forts;28500;28332;Sainte-Gemme-Moronval;;;1.42496;48.741462
+28332_0176_00035;35;;Rue des Forts;28500;28332;Sainte-Gemme-Moronval;;;1.4244;48.742302
+28332_0179_00002;2;;Chemin de l'Église;28500;28332;Sainte-Gemme-Moronval;;;1.416269;48.731447
+28332_0255_00001;1;;Impasse des Mares;28500;28332;Sainte-Gemme-Moronval;;;1.391701;48.732419
+28332_0255_00002;2;;Impasse des Mares;28500;28332;Sainte-Gemme-Moronval;;;1.39102;48.732938
+28332_0255_00004;4;;Impasse des Mares;28500;28332;Sainte-Gemme-Moronval;;;1.39122;48.73258
+28332_0255_00005;5;;Impasse des Mares;28500;28332;Sainte-Gemme-Moronval;;;1.391433;48.732423
+28332_0255_00006;6;;Impasse des Mares;28500;28332;Sainte-Gemme-Moronval;;;1.39164;48.732188
+28332_0260_00006;6;;Rue des Longs Champs;28500;28332;Sainte-Gemme-Moronval;;;1.418305;48.737737
+28332_0260_00007;7;;Rue des Longs Champs;28500;28332;Sainte-Gemme-Moronval;;;1.418413;48.737812
+28332_0115_00006;6;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.395699;48.728985
+28332_0086_00009;9;;Rue de l'Ancienne Ferme;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.395546;48.730167
+28332_0088_00002;2;;Rue de l'Ancienne Forge;28500;28332;Sainte-Gemme-Moronval;;;1.413426;48.7371
+28332_0103_00002;2;;Chemin des Aulnaies;28500;28332;Sainte-Gemme-Moronval;;;1.413695;48.738714
+28332_0174_00007;7;;Rue des Hauts de Moronval;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.393452;48.729728
+28332_0174_00008;8;;Rue des Hauts de Moronval;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.393776;48.730322
+28332_0175_00005;5;;Rue de l'Île d'Amourette;28500;28332;Sainte-Gemme-Moronval;;;1.414873;48.742543
+28332_0175_00007;7;;Rue de l'Île d'Amourette;28500;28332;Sainte-Gemme-Moronval;;;1.414715;48.74216
+28332_0175_00008;8;;Rue de l'Île d'Amourette;28500;28332;Sainte-Gemme-Moronval;;;1.414557;48.741967
+28332_0176_00022;22;;Rue des Forts;28500;28332;Sainte-Gemme-Moronval;;;1.425276;48.74127
+28332_0176_00031;31;;Rue des Forts;28500;28332;Sainte-Gemme-Moronval;;;1.424658;48.741862
+28332_0255_00003;3;;Impasse des Mares;28500;28332;Sainte-Gemme-Moronval;;;1.390729;48.732712
+28332_0260_00005;5;;Rue des Longs Champs;28500;28332;Sainte-Gemme-Moronval;;;1.418139;48.737796
+28332_0260_00008;8;;Rue des Longs Champs;28500;28332;Sainte-Gemme-Moronval;;;1.419511;48.737436
+28332_0260_00005_bis;5;bis;Rue des Longs Champs;28500;28332;Sainte-Gemme-Moronval;;;1.418306;48.737806
+28332_0076_00008;8;;Chemin de la Croix Triquenard;28500;28332;Sainte-Gemme-Moronval;;;1.389661;48.734512
+28332_0086_00006;6;;Rue de l'Ancienne Ferme;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.395264;48.730229
+28332_0089_00002;2;;Route de Nogent le Roi;28500;28332;Sainte-Gemme-Moronval;;;1.390132;48.72801
+28332_0110_00005;5;;Chemin de Bellevue;28500;28332;Sainte-Gemme-Moronval;;;1.422531;48.741715
+28332_0270_00003;3;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.413888;48.737463
+28332_0270_00026;26;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.411838;48.737037
+28332_0270_00028;28;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.411354;48.736951
+28332_0270_00029;29;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.410867;48.735968
+28332_0302_00008;8;;Rue du Pont de l'Eure;28500;28332;Sainte-Gemme-Moronval;;;1.417172;48.737655
+28332_0325_00010;10;;Rue des Sablons;28500;28332;Sainte-Gemme-Moronval;;;1.413465;48.736424
+28332_0325_00011;11;;Rue des Sablons;28500;28332;Sainte-Gemme-Moronval;;;1.413084;48.736393
+28332_0325_00014;14;;Rue des Sablons;28500;28332;Sainte-Gemme-Moronval;;;1.413736;48.735804
+28332_0325_00016;16;;Rue des Sablons;28500;28332;Sainte-Gemme-Moronval;;;1.41402;48.735313
+28332_0325_00017;17;;Rue des Sablons;28500;28332;Sainte-Gemme-Moronval;;;1.414097;48.735096
+28332_0350_00002;2;;Place Sainte-Gemme;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.393114;48.727717
+28332_0350_00004;4;;Place Sainte-Gemme;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.393257;48.727681
+28332_0350_00012;12;;Place Sainte-Gemme;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.393281;48.728444
+28332_0360_00002;2;;Rue des Sapeurs Pompiers;28500;28332;Sainte-Gemme-Moronval;;;1.39073;48.734733
+28332_0363_00002;2;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.41741;48.73727
+28332_0363_00005;5;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.417446;48.736931
+28332_0363_00011;11;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.417459;48.735527
+28332_0363_00017;17;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.417789;48.734779
+28332_0363_00027;27;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.418249;48.73365
+28332_0363_00033;33;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.418671;48.732966
+28332_0363_00007_bis;7;bis;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.417396;48.736328
+28332_0363_00015_bis;15;bis;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.417722;48.734937
+28332_0363_00029_bis;29;bis;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.418424;48.733314
+28332_0363_00042_bis;42;bis;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.419167;48.731751
+28332_0363_00044_bis;44;bis;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.419509;48.731113
+28332_0371_00001;1;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.414037;48.737838
+28332_0371_00003;3;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.414003;48.738041
+28332_0371_00004;4;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.414099;48.738109
+28332_0266_00008;8;;Square Michel Jubert;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.391756;48.728712
+28332_0270_00001;1;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.414056;48.737484
+28332_0270_00004;4;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.413547;48.737451
+28332_0270_00008;8;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.41338;48.737405
+28332_0270_00014;14;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.412845;48.737252
+28332_0270_00020;20;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.412403;48.737174
+28332_0270_00031;31;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.411054;48.735757
+28332_0270_00011_bis;11;bis;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.412994;48.737221
+28332_0302_00004;4;;Rue du Pont de l'Eure;28500;28332;Sainte-Gemme-Moronval;;;1.416587;48.737562
+28332_0325_00005;5;;Rue des Sablons;28500;28332;Sainte-Gemme-Moronval;;;1.41411;48.735381
+28332_0325_00006;6;;Rue des Sablons;28500;28332;Sainte-Gemme-Moronval;;;1.413929;48.735862
+28332_0325_00009;9;;Rue des Sablons;28500;28332;Sainte-Gemme-Moronval;;;1.413652;48.736433
+28332_0325_00012;12;;Rue des Sablons;28500;28332;Sainte-Gemme-Moronval;;;1.413113;48.736258
+28332_0325_00013;13;;Rue des Sablons;28500;28332;Sainte-Gemme-Moronval;;;1.413708;48.736123
+28332_0350_00008;8;;Place Sainte-Gemme;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.39329;48.727919
+28332_0350_00010;10;;Place Sainte-Gemme;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.393309;48.728315
+28332_0362_00007;7;;Chemin des Tiers;28500;28332;Sainte-Gemme-Moronval;;;1.412416;48.738239
+28332_0362_00005_bis;5;bis;Chemin des Tiers;28500;28332;Sainte-Gemme-Moronval;;;1.412579;48.738087
+28332_0363_00010;10;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.417287;48.735599
+28332_0363_00012;12;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.41738;48.735401
+28332_0363_00013;13;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.417687;48.735135
+28332_0363_00019;19;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.417989;48.734293
+28332_0363_00032;32;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.418392;48.733076
+28332_0363_00007_ter;7;ter;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.417451;48.735873
+28332_0371_00002;2;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.414133;48.73792
+28332_0371_00007;7;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413876;48.738529
+28332_0371_00013;13;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413721;48.739016
+28332_0371_00015;15;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413684;48.739171
+28332_0371_00016;16;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413919;48.738759
+28332_0266_00003;3;;Square Michel Jubert;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.392114;48.728193
+28332_0266_00006;6;;Square Michel Jubert;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.391994;48.728667
+28332_0270_00005;5;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.413746;48.73743
+28332_0270_00006;6;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.413534;48.737447
+28332_0270_00007;7;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.41362;48.737392
+28332_0270_00010;10;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.413298;48.737366
+28332_0270_00025;25;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.411111;48.736725
+28332_0270_00027;27;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.41081;48.73667
+28332_0270_00030;30;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.409855;48.73602
+28332_0302_00006;6;;Rue du Pont de l'Eure;28500;28332;Sainte-Gemme-Moronval;;;1.417057;48.737524
+28332_0302_00009;9;;Rue du Pont de l'Eure;28500;28332;Sainte-Gemme-Moronval;;;1.416429;48.737637
+28332_0302_00011;11;;Rue du Pont de l'Eure;28500;28332;Sainte-Gemme-Moronval;;;1.416733;48.737678
+28332_0302_00013;13;;Rue du Pont de l'Eure;28500;28332;Sainte-Gemme-Moronval;;;1.416847;48.737693
+28332_0302_00015;15;;Rue du Pont de l'Eure;28500;28332;Sainte-Gemme-Moronval;;;1.417087;48.73771
+28332_0325_00002;2;;Rue des Sablons;28500;28332;Sainte-Gemme-Moronval;;;1.414455;48.734783
+28332_0325_00003;3;;Rue des Sablons;28500;28332;Sainte-Gemme-Moronval;;;1.414448;48.734936
+28332_0325_00007;7;;Rue des Sablons;28500;28332;Sainte-Gemme-Moronval;;;1.413843;48.736086
+28332_0325_00010_bis;10;bis;Rue des Sablons;28500;28332;Sainte-Gemme-Moronval;;;1.413769;48.735606
+28332_0362_00006;6;;Chemin des Tiers;28500;28332;Sainte-Gemme-Moronval;;;1.412484;48.737834
+28332_0362_00008;8;;Chemin des Tiers;28500;28332;Sainte-Gemme-Moronval;;;1.412376;48.738463
+28332_0363_00004;4;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.41728;48.736919
+28332_0363_00007;7;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.417384;48.736538
+28332_0363_00008;8;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.417209;48.736087
+28332_0363_00015;15;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.417773;48.735088
+28332_0363_00023;23;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.418114;48.733972
+28332_0363_00025;25;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.418176;48.73382
+28332_0363_00031;31;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.418506;48.733124
+28332_0363_00035;35;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.418983;48.732647
+28332_0363_00039;39;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.419185;48.732147
+28332_0363_00041;41;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.419578;48.731268
+28332_0363_00046;46;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.419705;48.730733
+28332_0371_00008;8;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.414011;48.738425
+28332_0371_00009;9;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.41377;48.738838
+28332_0371_00011;11;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.41376;48.738907
+28332_0371_00012;12;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413973;48.738563
+28332_0371_00017;17;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413638;48.739256
+28332_0266_00004;4;;Square Michel Jubert;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.392327;48.728494
+28332_0266_00005;5;;Square Michel Jubert;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.391752;48.728438
+28332_0266_00007;7;;Square Michel Jubert;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.391558;48.728534
+28332_0270_00009;9;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.413439;48.737268
+28332_0270_00011;11;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.413324;48.737291
+28332_0270_00012;12;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.413025;48.73729
+28332_0270_00013;13;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.412559;48.737128
+28332_0270_00018;18;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.412447;48.737182
+28332_0270_00019;19;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.411881;48.736979
+28332_0270_00021;21;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.411381;48.736784
+28332_0270_00022;22;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.412087;48.737113
+28332_0270_00023;23;;Route de Moronval;28500;28332;Sainte-Gemme-Moronval;;;1.411341;48.736756
+28332_0302_00001;1;;Rue du Pont de l'Eure;28500;28332;Sainte-Gemme-Moronval;;;1.415696;48.737522
+28332_0302_00002;2;;Rue du Pont de l'Eure;28500;28332;Sainte-Gemme-Moronval;;;1.416027;48.737464
+28332_0302_00017;17;;Rue du Pont de l'Eure;28500;28332;Sainte-Gemme-Moronval;;;1.417267;48.737731
+28332_0325_00001;1;;Rue des Sablons;28500;28332;Sainte-Gemme-Moronval;;;1.414259;48.734778
+28332_0325_00004;4;;Rue des Sablons;28500;28332;Sainte-Gemme-Moronval;;;1.41419;48.735178
+28332_0325_00008;8;;Rue des Sablons;28500;28332;Sainte-Gemme-Moronval;;;1.413745;48.736345
+28332_0325_00015;15;;Rue des Sablons;28500;28332;Sainte-Gemme-Moronval;;;1.41377;48.735766
+28332_0350_00006;6;;Place Sainte-Gemme;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.393301;48.727799
+28332_0362_00001;1;;Chemin des Tiers;28500;28332;Sainte-Gemme-Moronval;;;1.412628;48.737539
+28332_0362_00003;3;;Chemin des Tiers;28500;28332;Sainte-Gemme-Moronval;;;1.4126;48.737853
+28332_0362_00005;5;;Chemin des Tiers;28500;28332;Sainte-Gemme-Moronval;;;1.412591;48.738025
+28332_0363_00006;6;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.417241;48.736466
+28332_0363_00009;9;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.417419;48.735806
+28332_0363_00014;14;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.417487;48.735121
+28332_0363_00021;21;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.418043;48.734117
+28332_0363_00029;29;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.418342;48.733484
+28332_0363_00042;42;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.418947;48.73236
+28332_0363_00048;48;;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.419865;48.730402
+28332_0363_00006_bis;6;bis;Rue Christian Valensi;28500;28332;Sainte-Gemme-Moronval;;;1.417218;48.736211
+28332_0371_00005;5;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413942;48.73826
+28332_0371_00006;6;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.414048;48.738265
+28332_0371_00010;10;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413993;48.738478
+28332_0371_00014;14;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413944;48.738672
+28332_0371_00018;18;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413868;48.738939
+28332_0371_00044;44;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413009;48.740687
+28332_0371_00050;50;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.412133;48.741402
+28332_0375_00003;3;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420368;48.736467
+28332_0375_00004;4;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.42076;48.736673
+28332_0375_00007;7;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420106;48.736262
+28332_0375_00013;13;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420055;48.735711
+28332_0375_00015;15;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420075;48.735482
+28332_0375_00020;20;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.4203;48.735733
+28332_0541_00004;4;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.398678;48.730792
+28332_0541_00019;19;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.395937;48.730522
+28332_0541_00026;26;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.394738;48.730809
+28332_0541_00028;28;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.393743;48.731047
+28332_0541_00032;32;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;;1.390958;48.731566
+28332_0541_00042;42;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;;1.387827;48.732637
+28332_0541_00032_bis;32;bis;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;;1.390889;48.731574
+28332_0541_00040_bis;40;bis;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;;1.388131;48.732508
+28332_0541_00042_bis;42;bis;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;;1.387587;48.732729
+28332_0103_00004;4;;Chemin des Aulnaies;28500;28332;Sainte-Gemme-Moronval;;;1.413448;48.738703
+28332_0110_00001;1;;Chemin de Bellevue;28500;28332;Sainte-Gemme-Moronval;;;1.423508;48.742197
+28332_0115_00029;29;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.39623;48.728154
+28332_0116_00035;35;;Chemin de Bel Air;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.396014;48.736699
+28332_0138_00012;12;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418027;48.739859
+28332_0371_00024;24;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413743;48.739319
+28332_0371_00026;26;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413693;48.739454
+28332_0371_00032;32;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.41358;48.739847
+28332_0371_00034;34;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413536;48.739991
+28332_0371_00036;36;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413525;48.740076
+28332_0371_00038;38;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413444;48.740366
+28332_0371_00041;41;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.4118;48.74181
+28332_0371_00047;47;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.412857;48.742409
+28332_0371_00048;48;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.412319;48.741135
+28332_0375_00002;2;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420809;48.736743
+28332_0375_00005;5;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420317;48.736426
+28332_0375_00008;8;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.421078;48.736192
+28332_0375_00012;12;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420999;48.735948
+28332_0375_00017;17;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420148;48.73527
+28332_0375_00018;18;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420294;48.735812
+28332_0375_00019;19;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420206;48.735249
+28332_0375_00023;23;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420723;48.735089
+28332_0541_00009;9;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.397275;48.730545
+28332_0541_00011;11;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.397039;48.730484
+28332_0541_00012;12;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.397275;48.730684
+28332_0541_00021;21;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.395453;48.730567
+28332_0541_00023;23;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.395259;48.730583
+28332_0541_00025;25;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.394727;48.730668
+28332_0541_00038;38;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;;1.388451;48.732362
+28332_0541_00040;40;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;;1.388266;48.732449
+28332_0541_00044;44;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;;1.38742;48.732783
+28332_0075_00001;1;;Allée des Acacias;28500;28332;Sainte-Gemme-Moronval;;;1.414772;48.736857
+28332_0089_00008;8;;Route de Nogent le Roi;28500;28332;Sainte-Gemme-Moronval;;;1.391492;48.727606
+28332_0115_00004;4;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.39465;48.728868
+28332_0115_00007;7;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.394819;48.728965
+28332_0115_00011;11;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.395536;48.729082
+28332_0115_00017;17;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.396422;48.729097
+28332_0115_00025;25;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.396435;48.728534
+28332_0116_00031;31;;Chemin de Bel Air;28500;28332;Sainte-Gemme-Moronval;;;1.3964;48.737058
+28332_0371_00025;25;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413384;48.740073
+28332_0371_00046;46;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.412539;48.74099
+28332_0371_00054;54;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413037;48.742282
+28332_0375_00006;6;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420621;48.736473
+28332_0375_00009;9;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420082;48.73613
+28332_0375_00010;10;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.421145;48.73611
+28332_0375_00011;11;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420057;48.735775
+28332_0375_00021;21;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420385;48.73518
+28332_0541_00001;1;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.399178;48.730496
+28332_0541_00002;2;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.398997;48.730714
+28332_0541_00005;5;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.397852;48.730689
+28332_0541_00008;8;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.397596;48.730731
+28332_0541_00010;10;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.39736;48.730697
+28332_0541_00014;14;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.396776;48.730603
+28332_0541_00016;16;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.396599;48.730566
+28332_0541_00018;18;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.396294;48.730549
+28332_0541_00020;20;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.395956;48.730578
+28332_0541_00027;27;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.393138;48.731148
+28332_0541_00030;30;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.393029;48.731375
+28332_0541_00031;31;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.392706;48.731212
+28332_0541_00036;36;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;;1.390184;48.731621
+28332_0086_00007;7;;Rue de l'Ancienne Ferme;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.395617;48.730171
+28332_0086_00015;15;;Rue de l'Ancienne Ferme;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.394779;48.730546
+28332_0088_00004;4;;Rue de l'Ancienne Forge;28500;28332;Sainte-Gemme-Moronval;;;1.413533;48.737084
+28332_0110_00001_bis;1;bis;Chemin de Bellevue;28500;28332;Sainte-Gemme-Moronval;;;1.422869;48.742139
+28332_0138_00002;2;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417777;48.738459
+28332_0138_00004;4;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.4178;48.738512
+28332_0138_00009;9;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.41766;48.738473
+28332_0371_00019;19;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413571;48.73949
+28332_0371_00020;20;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413839;48.739042
+28332_0371_00021;21;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413483;48.739753
+28332_0371_00023;23;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.41343;48.739954
+28332_0371_00028;28;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413753;48.739558
+28332_0371_00030;30;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.413621;48.739699
+28332_0371_00039;39;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.411994;48.741883
+28332_0371_00052;52;;Route du Vallon;28500;28332;Sainte-Gemme-Moronval;;;1.412997;48.742264
+28332_0375_00001;1;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.42059;48.736713
+28332_0375_00014;14;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420893;48.735988
+28332_0375_00016;16;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420271;48.736066
+28332_0375_00022;22;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420299;48.735465
+28332_0375_00025;25;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420858;48.735125
+28332_0375_00027;27;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420925;48.735228
+28332_0375_00029;29;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420969;48.735269
+28332_0375_00031;31;;Allée du Vieux Poirier;28500;28332;Sainte-Gemme-Moronval;;;1.420948;48.735382
+28332_0541_00003;3;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.399023;48.730601
+28332_0541_00006;6;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.397935;48.730782
+28332_0541_00007;7;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.397662;48.730674
+28332_0541_00013;13;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.396837;48.73037
+28332_0541_00015;15;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.396843;48.730478
+28332_0541_00022;22;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.395558;48.730624
+28332_0541_00024;24;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.395151;48.730655
+28332_0541_00029;29;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.392779;48.731199
+28332_0541_00034;34;;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;;1.390415;48.731552
+28332_0541_00012_bis;12;bis;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.396978;48.730638
+28332_0541_00026_bis;26;bis;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.39444;48.731015
+28332_0541_00028_bis;28;bis;Rue Michel Sicot;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.393319;48.731213
+28332_0086_00003;3;;Rue de l'Ancienne Ferme;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.395889;48.730243
+28332_0115_00021;21;;Allée du Bois Doré;28500;28332;Sainte-Gemme-Moronval;;Moronval;1.396505;48.728918
+28332_0138_00006;6;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.418089;48.739352
+28332_0138_00016;16;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417966;48.740243
+28332_0138_00018;18;;Route de Cherisy;28500;28332;Sainte-Gemme-Moronval;;;1.417953;48.740333

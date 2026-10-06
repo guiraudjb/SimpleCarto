@@ -1,0 +1,573 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+28096_0032_00012;12;;Le Clos du Bobinet;28260;28096;La Chaussée-d'Ivry;;;1.477988;48.886555
+28096_0090_00273;273;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480295;48.880629
+28096_0204_00295;295;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.476626;48.896292
+28096_d8hcbo_00111;111;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478598;48.881646
+28096_0116_00030;30;;Rue de la Ferme Ferrand;28260;28096;La Chaussée-d'Ivry;;;1.483181;48.882275
+28096_0018_00184;184;;Rue de la Bissonnerie;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.511364;48.88019
+28096_d8hcbo_00118_a;118;a;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478738;48.881544
+28096_0124_00115;115;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.480812;48.884887
+28096_0151_00649;649;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.480245;48.888361
+28096_0053_00174;174;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.483716;48.887431
+28096_0014_00145;145;;Rue Bel Air;28260;28096;La Chaussée-d'Ivry;;;1.48217;48.881585
+28096_0151_00261;261;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479379;48.884944
+28096_0124_00132;132;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.480878;48.884661
+28096_0163_00027;27;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;;1.470295;48.883328
+28096_0151_00544;544;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479863;48.887482
+28096_0163_00435;435;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.47197;48.894419
+28096_d8hcbo_00240;240;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478387;48.880458
+28096_0021_00025;25;;Rue des Cailles;28260;28096;La Chaussée-d'Ivry;;;1.484648;48.886066
+28096_0187_00130;130;;Rue des Sapins;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.506498;48.882727
+28096_0204_00457;457;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.475838;48.897608
+28096_0043_00017;17;;Rue des Fauvettes;28260;28096;La Chaussée-d'Ivry;;;1.481169;48.885575
+28096_0124_00090;90;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.481012;48.885125
+28096_0151_00467;467;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479842;48.886746
+28096_0005_00049;49;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481805;48.884765
+28096_0060_00200;200;;Rue du Haut Arbre;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.512778;48.881081
+28096_0227_00114;114;;Rue des Yvelines;28260;28096;La Chaussée-d'Ivry;;;1.480475;48.882801
+28096_0130_00633;633;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.4703;48.883015
+28096_0151_00474;474;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479661;48.88684
+28096_0197_00005;5;;Rue de la Traverse;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.474312;48.896764
+28096_0227_00010;10;;Rue des Yvelines;28260;28096;La Chaussée-d'Ivry;;;1.479347;48.882796
+28096_0064_00318;318;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.485051;48.886109
+28096_0064_00087;87;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.48284;48.885664
+28096_0124_00155;155;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.480715;48.884532
+28096_0005_00288;288;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.482183;48.887089
+28096_0005_00023;23;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481784;48.884537
+28096_0151_00678;678;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479928;48.888546
+28096_0130_00404;404;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.473492;48.88302
+28096_0014_00080;80;;Rue Bel Air;28260;28096;La Chaussée-d'Ivry;;;1.481042;48.881951
+28096_0187_00040;40;;Rue des Sapins;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.507971;48.882333
+28096_0191_00067;67;;Rue du Souvenir;28260;28096;La Chaussée-d'Ivry;;;1.48267;48.882598
+28096_0151_00533;533;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479995;48.887248
+28096_0053_00047;47;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.482833;48.886339
+28096_0048_00011;11;;Impasse des Fossés;28260;28096;La Chaussée-d'Ivry;;;1.482133;48.880584
+28096_0163_00354;354;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.472149;48.895896
+28096_0151_00589;589;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.480198;48.887853
+28096_0130_00152;152;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.476871;48.882658
+28096_0163_00035;35;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.476063;48.896069
+28096_0005_00001_bis;1;bis;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481793;48.88398
+28096_0124_00213;213;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.481376;48.884282
+28096_0090_00068;68;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.479801;48.882268
+28096_0005_00242;242;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481783;48.886463
+28096_0151_00513;513;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.47991;48.886943
+28096_d8hcbo_00086;86;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478805;48.881844
+28096_0160_00023;23;;Impasse des Pinsons;28260;28096;La Chaussée-d'Ivry;;;1.483953;48.88705
+28096_0163_00073;73;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.475591;48.896069
+28096_0204_01100;1100;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.47183;48.90274
+28096_0130_00074;74;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.477926;48.88261
+28096_0204_00976;976;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.472806;48.900881
+28096_0130_00280;280;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.475099;48.882715
+28096_0064_00192;192;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.48383;48.886381
+28096_0130_00247;247;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.475558;48.882846
+28096_0048_00012;12;;Impasse des Fossés;28260;28096;La Chaussée-d'Ivry;;;1.481893;48.880658
+28096_0060_00114;114;;Rue du Haut Arbre;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.511543;48.881105
+28096_0151_00217;217;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479356;48.884541
+28096_0043_00041;41;;Rue des Fauvettes;28260;28096;La Chaussée-d'Ivry;;;1.481463;48.885586
+28096_0053_00201;201;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.484041;48.887636
+28096_0090_00151;151;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480327;48.881706
+28096_0023_00056;56;;Rue de la Cavée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.477071;48.896849
+28096_0064_00071;71;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.482645;48.885717
+28096_0151_00434;434;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479592;48.886489
+28096_0187_00062;62;;Rue des Sapins;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.507351;48.882492
+28096_d8hcbo_00081;81;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478643;48.881916
+28096_d8hcbo_00118;118;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478894;48.881568
+28096_0047_00239;239;;Rue des Fontaines;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.505747;48.881655
+28096_0032_00003;3;;Le Clos du Bobinet;28260;28096;La Chaussée-d'Ivry;;;1.478939;48.886667
+28096_0130_00625;625;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.470427;48.883009
+28096_0016_00213;213;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.480867;48.886144
+28096_0151_00538;538;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479841;48.887409
+28096_0213_00072;72;;Impasse de la Vin Collet;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.511807;48.879918
+28096_0047_00005;5;;Rue des Fontaines;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.509162;48.881415
+28096_0005_00311;311;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.482599;48.887251
+28096_0116_00027;27;;Rue de la Ferme Ferrand;28260;28096;La Chaussée-d'Ivry;;;1.483071;48.882358
+28096_0002_00110;110;;Rue de l'Abreuvoir;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.474647;48.896871
+28096_0053_00136;136;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.483415;48.8871
+28096_0163_00381;381;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.471971;48.895651
+28096_0151_00177;177;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479235;48.88418
+28096_0151_00099;99;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479092;48.883463
+28096_0130_00268;268;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.475281;48.882705
+28096_0064_00365;365;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.485526;48.885942
+28096_0130_00111;111;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.477412;48.882732
+28096_dh8aho_00003;3;;Flacourt;28260;28096;La Chaussée-d'Ivry;;;1.487785;48.88971
+28096_0053_00237;237;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.483556;48.88807
+28096_0026_00043;43;;Rue des Chênes;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.507332;48.881697
+28096_0151_00614;614;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479908;48.888043
+28096_0151_00327;327;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.4795;48.885539
+28096_0130_00262;262;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.475368;48.882704
+28096_0064_00252;252;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.484496;48.886586
+28096_0213_00049;49;;Impasse de la Vin Collet;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.511774;48.87956
+28096_0151_00074;74;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.478465;48.883312
+28096_0053_00183;183;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.483947;48.887467
+28096_0016_00059;59;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.479905;48.885077
+28096_0040_00001;1;;Place de l'Église;28260;28096;La Chaussée-d'Ivry;;;1.478301;48.882916
+28096_0124_00084;84;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.481026;48.885181
+28096_0026_00165;165;;Rue des Chênes;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.508738;48.882386
+28096_0187_00129;129;;Rue des Sapins;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.506691;48.882775
+28096_0060_00058;58;;Rue du Haut Arbre;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.510856;48.88119
+28096_0130_00186;186;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.47638;48.882661
+28096_0m99ti_00006;6;;Impasse du Champ au Blé;28260;28096;La Chaussée-d'Ivry;;;1.479274;48.880085
+28096_b061_00001;1;;La Vallée de Rez;28260;28096;La Chaussée-d'Ivry;;;1.472092;48.899215
+28096_0116_00078;78;;Rue de la Ferme Ferrand;28260;28096;La Chaussée-d'Ivry;;;1.4831;48.881998
+28096_0048_00006;6;;Impasse des Fossés;28260;28096;La Chaussée-d'Ivry;;;1.481188;48.880707
+28096_0060_00126;126;;Rue du Haut Arbre;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.51209;48.881109
+28096_0213_00074;74;;Impasse de la Vin Collet;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.511926;48.879933
+28096_0002_00059;59;;Rue de l'Abreuvoir;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.475285;48.897009
+28096_0204_00253;253;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.476836;48.895818
+28096_0151_00570;570;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479909;48.88769
+28096_0064_00115;115;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.483355;48.885766
+28096_0m99ti_00008;8;;Impasse du Champ au Blé;28260;28096;La Chaussée-d'Ivry;;;1.47937;48.880234
+28096_0151_00220;220;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479161;48.884581
+28096_0053_00154;154;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.483546;48.887222
+28096_0005_00001;1;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481748;48.884164
+28096_0130_00601;601;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.470743;48.883
+28096_0204_00387;387;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.476199;48.897004
+28096_0124_00156;156;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.480893;48.884561
+28096_d8hcbo_00152_bis;152;bis;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478993;48.881255
+28096_b038_00185;185;;Ile de Courtenson;28260;28096;La Chaussée-d'Ivry;;;1.465238;48.907875
+28096_0021_00071;71;;Rue des Cailles;28260;28096;La Chaussée-d'Ivry;;;1.484192;48.885613
+28096_0032_00011;11;;Le Clos du Bobinet;28260;28096;La Chaussée-d'Ivry;;;1.477907;48.886725
+28096_0064_00224;224;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.48407;48.886569
+28096_0227_00168;168;;Rue des Yvelines;28260;28096;La Chaussée-d'Ivry;;;1.481528;48.882918
+28096_0090_00209;209;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480207;48.881194
+28096_0151_00072;72;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.478436;48.883269
+28096_0151_00106;106;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.478937;48.883587
+28096_0003_00014;14;;Impasse des Acacias;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.50803;48.88253
+28096_0005_00321;321;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.482749;48.887364
+28096_0016_00399;399;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.482024;48.887636
+28096_0021_00036;36;;Rue des Cailles;28260;28096;La Chaussée-d'Ivry;;;1.484634;48.885923
+28096_0151_00836;836;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479429;48.889953
+28096_0021_00020;20;;Rue des Cailles;28260;28096;La Chaussée-d'Ivry;;;1.484722;48.886011
+28096_0053_00267;267;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.482836;48.888001
+28096_0005_00301;301;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.482423;48.887132
+28096_d8hcbo_00160;160;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.47864;48.881183
+28096_0064_00288;288;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.484777;48.886328
+28096_b041_00184;184;;Moulin de Goël;28260;28096;La Chaussée-d'Ivry;;;1.466623;48.909146
+28096_0064_00294;294;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.484824;48.886262
+28096_d8hcbo_00068;68;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478861;48.882025
+28096_mhswyn_00003;3;;Les Enclos;28260;28096;La Chaussée-d'Ivry;;;1.466574;48.879561
+28096_0151_00228;228;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479179;48.884656
+28096_0130_00390;390;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.473617;48.882751
+28096_0090_00124;124;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480405;48.881957
+28096_0151_00141;141;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479169;48.883875
+28096_0016_00436;436;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.482025;48.887948
+28096_0213_00019;19;;Impasse de la Vin Collet;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.511516;48.879381
+28096_0090_00226_a;226;a;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.48085;48.880982
+28096_0124_00124;124;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.480929;48.884836
+28096_0116_00055;55;;Rue de la Ferme Ferrand;28260;28096;La Chaussée-d'Ivry;;;1.483004;48.882107
+28096_kwr51p_00180;180;;Le Rez;28260;28096;La Chaussée-d'Ivry;;;1.47179;48.899559
+28096_0124_00201;201;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.481203;48.884229
+28096_0016_00228;228;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.480843;48.886404
+28096_0130_00102;102;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.477546;48.882635
+28096_0047_00233;233;;Rue des Fontaines;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.505852;48.881643
+28096_0016_00500;500;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.482398;48.888541
+28096_0130_00086;86;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.477773;48.882626
+28096_0151_00694;694;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479915;48.888787
+28096_0163_00115;115;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;;1.47039;48.883965
+28096_0005_00277;277;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.482181;48.886885
+28096_0130_00893;893;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.466771;48.883236
+28096_0m99ti_00003;3;;Impasse du Champ au Blé;28260;28096;La Chaussée-d'Ivry;;;1.480007;48.88007
+28096_0197_00078;78;;Rue de la Traverse;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.474795;48.8964
+28096_0151_00681;681;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.480168;48.888647
+28096_d8hcbo_00197;197;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478375;48.880893
+28096_0047_00039;39;;Rue des Fontaines;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.508758;48.881394
+28096_0155_00085;85;;Rue des Peupliers;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.509775;48.882334
+28096_0151_00023;23;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479019;48.882939
+28096_0151_00054;54;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.478893;48.883106
+28096_0m99ti_00002;2;;Impasse du Champ au Blé;28260;28096;La Chaussée-d'Ivry;;;1.480424;48.880035
+28096_0032_00007;7;;Le Clos du Bobinet;28260;28096;La Chaussée-d'Ivry;;;1.478451;48.886964
+28096_0064_00170;170;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.483684;48.886239
+28096_0005_00355;355;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.483113;48.887743
+28096_0005_00088;88;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481703;48.885131
+28096_0053_00080;80;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.483016;48.886654
+28096_d8hcbo_00100;100;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478756;48.881702
+28096_0204_00179;179;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.47727;48.895286
+28096_d8hcbo_00228;228;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478431;48.880554
+28096_0191_00019;19;;Rue du Souvenir;28260;28096;La Chaussée-d'Ivry;;;1.481958;48.882762
+28096_0026_00026;26;;Rue des Chênes;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.507227;48.881761
+28096_d8hcbo_00207;207;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478527;48.880779
+28096_0090_00183;183;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480267;48.88143
+28096_0026_00053;53;;Rue des Chênes;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.507522;48.881789
+28096_0060_00144;144;;Rue du Haut Arbre;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.5119;48.881111
+28096_0016_00397;397;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.481958;48.887567
+28096_0064_00047;47;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.48241;48.885845
+28096_0130_00886;886;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.466972;48.88289
+28096_0014_00119;119;;Rue Bel Air;28260;28096;La Chaussée-d'Ivry;;;1.480846;48.881926
+28096_0053_00167;167;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.48383;48.887304
+28096_0026_00135;135;;Rue des Chênes;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.509667;48.882933
+28096_0090_00193;193;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480275;48.881289
+28096_0016_00440;440;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.482083;48.887987
+28096_mhswyn_00004;4;;Les Enclos;28260;28096;La Chaussée-d'Ivry;;;1.465962;48.879602
+28096_0016_00039;39;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.479487;48.88477
+28096_0047_00120;120;;Rue des Fontaines;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.507743;48.881319
+28096_0090_00086;86;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480044;48.882212
+28096_0018_00280;280;;Rue de la Bissonnerie;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.511239;48.879239
+28096_0016_00103;103;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.480228;48.885401
+28096_mhswyn_00001;1;;Les Enclos;28260;28096;La Chaussée-d'Ivry;;;1.465572;48.879795
+28096_0053_00022;22;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.482561;48.886204
+28096_0032_00004;4;;Le Clos du Bobinet;28260;28096;La Chaussée-d'Ivry;;;1.478761;48.886579
+28096_0191_00021;21;;Rue du Souvenir;28260;28096;La Chaussée-d'Ivry;;;1.482048;48.882718
+28096_0130_00591;591;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.470865;48.882993
+28096_0053_00233;233;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.483764;48.887952
+28096_0016_00053;53;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.479868;48.885004
+28096_0204_00316;316;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.476337;48.896469
+28096_mhswyn_00002;2;;Les Enclos;28260;28096;La Chaussée-d'Ivry;;;1.466334;48.879629
+28096_dh8aho_00004;4;;Flacourt;28260;28096;La Chaussée-d'Ivry;;;1.487819;48.889654
+28096_0204_00134;134;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.477225;48.894859
+28096_0124_00189;189;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.481069;48.884306
+28096_0005_00016;16;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481649;48.884477
+28096_0053_00087;87;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.483163;48.886663
+28096_0053_00221;221;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.483901;48.887799
+28096_0053_00168;168;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.483661;48.887343
+28096_0204_00433;433;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.475825;48.897542
+28096_0018_00200;200;;Rue de la Bissonnerie;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.511177;48.879966
+28096_0155_00096;96;;Rue des Peupliers;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.509588;48.882387
+28096_0163_00295;295;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.473355;48.895653
+28096_0064_00210;210;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.483966;48.886507
+28096_0016_00420;420;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.48203;48.887837
+28096_0151_00559;559;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.480114;48.887584
+28096_0130_00126;126;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.477225;48.882644
+28096_0023_00032;32;;Rue de la Cavée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.476769;48.896774
+28096_0005_00041;41;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481799;48.884699
+28096_0151_00162;162;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479018;48.884084
+28096_0151_00706;706;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479885;48.888867
+28096_0130_00803;803;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.467493;48.883244
+28096_0060_00064;64;;Rue du Haut Arbre;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.511151;48.881146
+28096_0227_00078;78;;Rue des Yvelines;28260;28096;La Chaussée-d'Ivry;;;1.480017;48.882851
+28096_0090_00240;240;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480579;48.880794
+28096_0124_00169;169;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.480697;48.884269
+28096_0130_00137;137;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.477095;48.882752
+28096_0130_00164;164;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.476505;48.882621
+28096_0151_00096;96;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.47892;48.88335
+28096_d8hcbo_00052;52;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478899;48.882157
+28096_0090_00226_c;226;c;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.481553;48.880941
+28096_0032_00002;2;;Le Clos du Bobinet;28260;28096;La Chaussée-d'Ivry;;;1.479137;48.886569
+28096_0016_00268;268;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.480977;48.88663
+28096_d8hcbo_00052_ter;52;ter;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.479169;48.882044
+28096_0053_00120;120;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.483297;48.886974
+28096_0111_00001;1;;Place de la Mairie;28260;28096;La Chaussée-d'Ivry;;;1.479393;48.882545
+28096_0151_00554;554;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479888;48.88758
+28096_0026_00186;186;;Rue des Chênes;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.509109;48.882622
+28096_0204_00440;440;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.475483;48.89733
+28096_0090_00279;279;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.479868;48.880546
+28096_0005_00147;147;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481874;48.885632
+28096_0026_00226;226;;Rue des Chênes;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.509383;48.882751
+28096_0026_00111;111;;Rue des Chênes;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.508126;48.882095
+28096_0002_00168;168;;Rue de l'Abreuvoir;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.473865;48.896728
+28096_0064_00128;128;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.483365;48.885914
+28096_0090_00166;166;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480444;48.881564
+28096_0005_00341;341;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.48291;48.88763
+28096_d8hcbo_00031;31;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478808;48.882354
+28096_0151_00488;488;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479698;48.88697
+28096_0053_00256;256;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.483196;48.887857
+28096_0060_00282;282;;Rue du Haut Arbre;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.514024;48.881017
+28096_0016_00097;97;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.480189;48.885336
+28096_0163_00102;102;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.475211;48.895988
+28096_y31hxi_00066;66;;Chemin du Roy;28260;28096;La Chaussée-d'Ivry;;;1.466909;48.882522
+28096_0151_00103;103;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479104;48.883553
+28096_0124_00145;145;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.480773;48.884747
+28096_0023_00029;29;;Rue de la Cavée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.47676;48.896702
+28096_0204_00483;483;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.475681;48.897797
+28096_0005_00032;32;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481671;48.884673
+28096_0060_00040;40;;Rue du Haut Arbre;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.51056;48.881295
+28096_0016_00156;156;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.480328;48.885771
+28096_0130_00244;244;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.475628;48.882698
+28096_0018_00182;182;;Rue de la Bissonnerie;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.51109;48.880125
+28096_0151_00127;127;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479146;48.883754
+28096_0048_00013;13;;Impasse des Fossés;28260;28096;La Chaussée-d'Ivry;;;1.482293;48.880576
+28096_0016_00509;509;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.482644;48.888553
+28096_0026_00001;1;;Rue des Chênes;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.506913;48.881401
+28096_0090_00268;268;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480404;48.880655
+28096_0016_00019;19;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.479609;48.884678
+28096_0124_00011;11;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.480573;48.885686
+28096_0204_00169;169;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.477227;48.895175
+28096_0002_00131;131;;Rue de l'Abreuvoir;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.474335;48.896867
+28096_0151_00116;116;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.478951;48.88367
+28096_0064_00163;163;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.483699;48.886096
+28096_0026_00003;3;;Rue des Chênes;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.506688;48.881168
+28096_0151_00153;153;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479194;48.884004
+28096_0005_00005;5;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481765;48.884269
+28096_0032_00001;1;;Le Clos du Bobinet;28260;28096;La Chaussée-d'Ivry;;;1.479274;48.886658
+28096_0064_00101;101;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.483077;48.885662
+28096_0151_00588;588;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479963;48.887848
+28096_0151_00846;846;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479338;48.890097
+28096_0005_00103;103;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481838;48.88525
+28096_0151_00379;379;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479624;48.88596
+28096_0016_00019_bis;19;bis;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.479891;48.884647
+28096_0005_00304;304;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.482346;48.887272
+28096_0047_00201;201;;Rue des Fontaines;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.506553;48.881567
+28096_0151_00140;140;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.47897;48.883881
+28096_0130_00283;283;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.475096;48.882846
+28096_d8hcbo_00040;40;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478931;48.882292
+28096_0227_00075;75;;Rue des Yvelines;28260;28096;La Chaussée-d'Ivry;;;1.479967;48.882722
+28096_0151_00389;389;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479661;48.886076
+28096_0160_00065;65;;Impasse des Pinsons;28260;28096;La Chaussée-d'Ivry;;;1.484252;48.887184
+28096_0005_00175;175;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481886;48.8859
+28096_0197_00010;10;;Rue de la Traverse;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.474442;48.896762
+28096_0064_00150;150;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.483508;48.886055
+28096_0204_00135;135;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.47747;48.894921
+28096_0130_00474;474;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.472672;48.882768
+28096_0m99ti_00004;4;;Impasse du Champ au Blé;28260;28096;La Chaussée-d'Ivry;;;1.479891;48.880083
+28096_0130_00120;120;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.477325;48.882647
+28096_0053_00259;259;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.48307;48.888015
+28096_0043_00034;34;;Rue des Fauvettes;28260;28096;La Chaussée-d'Ivry;;;1.481368;48.885706
+28096_0026_00318;318;;Rue des Chênes;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.509275;48.883408
+28096_0151_00593;593;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.480198;48.88788
+28096_0090_00317;317;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480441;48.88024
+28096_0197_00058;58;;Rue de la Traverse;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.474549;48.896372
+28096_0016_00545;545;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.4828;48.888888
+28096_0016_00484;484;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.482336;48.888407
+28096_0163_00105;105;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.47513;48.896042
+28096_0163_00329;329;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.472261;48.895278
+28096_0151_00228_bis;228;bis;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479152;48.884869
+28096_0124_00016;16;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.48071;48.885766
+28096_0047_00083;83;;Rue des Fontaines;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.508081;48.881434
+28096_0016_00198;198;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.480678;48.886127
+28096_0090_00226_b;226;b;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.481172;48.880967
+28096_0204_01070;1070;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.472075;48.902434
+28096_0002_00074;74;;Rue de l'Abreuvoir;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.475109;48.896916
+28096_dh8aho_00750;750;;Flacourt;28260;28096;La Chaussée-d'Ivry;;;1.486667;48.891216
+28096_0090_00295;295;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480369;48.880419
+28096_0160_00007;7;;Impasse des Pinsons;28260;28096;La Chaussée-d'Ivry;;;1.483668;48.887017
+28096_0130_00159;159;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.476777;48.882767
+28096_0204_01000;1000;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.467329;48.900327
+28096_0016_00284;284;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.480997;48.886728
+28096_0090_00178;178;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480443;48.88147
+28096_d8hcbo_00152;152;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478853;48.881242
+28096_0090_00017;17;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.479131;48.882349
+28096_0021_00035;35;;Rue des Cailles;28260;28096;La Chaussée-d'Ivry;;;1.484449;48.885888
+28096_0002_00305;305;;Rue de l'Abreuvoir;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.47329;48.896763
+28096_0151_00601_c;601;c;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.480183;48.88792
+28096_0060_00246;246;;Rue du Haut Arbre;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.5134;48.881048
+28096_0155_00040;40;;Rue des Peupliers;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.509644;48.88193
+28096_0060_00148;148;;Rue du Haut Arbre;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.512617;48.881114
+28096_0151_00408;408;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479487;48.886267
+28096_0160_00045;45;;Impasse des Pinsons;28260;28096;La Chaussée-d'Ivry;;;1.484257;48.887073
+28096_0197_00068;68;;Rue de la Traverse;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.474881;48.896345
+28096_0064_00270;270;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.484726;48.886201
+28096_0151_00180_bis;180;bis;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.478386;48.884265
+28096_0130_00505;505;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.472038;48.882956
+28096_0227_00210;210;;Rue des Yvelines;28260;28096;La Chaussée-d'Ivry;;;1.481762;48.882977
+28096_0048_00002;2;;Impasse des Fossés;28260;28096;La Chaussée-d'Ivry;;;1.480823;48.880736
+28096_0204_00265;265;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.476699;48.895981
+28096_0151_00344;344;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.478806;48.885353
+28096_0151_00601_b;601;b;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.480203;48.888034
+28096_0032_00006;6;;Le Clos du Bobinet;28260;28096;La Chaussée-d'Ivry;;;1.478432;48.886544
+28096_0204_00450;450;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.475698;48.897504
+28096_0187_00124;124;;Rue des Sapins;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.506796;48.882639
+28096_0060_00240;240;;Rue du Haut Arbre;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.513305;48.881065
+28096_0151_00662;662;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.480022;48.888457
+28096_0130_00611;611;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.470616;48.883006
+28096_0204_00970;970;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.47322;48.901084
+28096_0213_00059;59;;Impasse de la Vin Collet;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.511952;48.879596
+28096_0151_00191;191;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479268;48.884318
+28096_0187_00150;150;;Rue des Sapins;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.506211;48.882816
+28096_d8hcbo_00153;153;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478517;48.881277
+28096_0130_00850;850;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.467342;48.883062
+28096_0005_00001_ter;1;ter;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481819;48.884006
+28096_0005_00162;162;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481748;48.885756
+28096_0163_00391;391;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.471982;48.895573
+28096_0023_00100;100;;Rue de la Cavée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.477685;48.897043
+28096_0026_00055;55;;Rue des Chênes;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.507871;48.881964
+28096_0155_00116;116;;Rue des Peupliers;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.509496;48.882562
+28096_0090_00081;81;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.479944;48.882169
+28096_0116_00090;90;;Rue de la Ferme Ferrand;28260;28096;La Chaussée-d'Ivry;;;1.483045;48.881755
+28096_dh8aho_00002;2;;Flacourt;28260;28096;La Chaussée-d'Ivry;;;1.487755;48.889778
+28096_0003_00071;71;;Impasse des Acacias;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.507957;48.882988
+28096_0m99ti_00007;7;;Impasse du Champ au Blé;28260;28096;La Chaussée-d'Ivry;;;1.479313;48.880148
+28096_0151_00049;49;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479031;48.88307
+28096_0151_00579;579;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.480149;48.887743
+28096_0090_00196;196;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480396;48.881305
+28096_0053_00235;235;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.483663;48.888011
+28096_0151_00382;382;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479374;48.88601
+28096_0197_00037;37;;Rue de la Traverse;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.474512;48.896536
+28096_0032_00010;10;;Le Clos du Bobinet;28260;28096;La Chaussée-d'Ivry;;;1.478102;48.886549
+28096_0002_00010;10;;Rue de l'Abreuvoir;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.475852;48.89699
+28096_0130_00211;211;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.476322;48.882787
+28096_0053_00322;322;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.482302;48.887788
+28096_d8hcbo_00140;140;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478679;48.881388
+28096_0124_00111;111;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.480835;48.884956
+28096_0m99ti_00010;10;;Impasse du Champ au Blé;28260;28096;La Chaussée-d'Ivry;;;1.479806;48.880196
+28096_0187_00188;188;;Rue des Sapins;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.507193;48.882538
+28096_0005_00320;320;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.482517;48.887439
+28096_0130_00892;892;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.466672;48.883144
+28096_0155_00046;46;;Rue des Peupliers;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.509654;48.882013
+28096_0130_00878;878;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.466992;48.882945
+28096_0016_00458;458;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.48224;48.888173
+28096_0130_00146;146;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.476968;48.882651
+28096_0026_00005;5;;Rue des Chênes;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.506554;48.880894
+28096_0064_00191;191;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.483992;48.886388
+28096_0005_00195;195;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481917;48.886088
+28096_0090_00117;117;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.48025;48.881998
+28096_0026_00330;330;;Rue des Chênes;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.509091;48.883713
+28096_0016_00360;360;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.481617;48.887366
+28096_0064_00171;171;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.483848;48.886247
+28096_0021_00061;61;;Rue des Cailles;28260;28096;La Chaussée-d'Ivry;;;1.484186;48.88574
+28096_0003_00075;75;;Impasse des Acacias;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.507824;48.882953
+28096_0016_00377;377;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.481852;48.887459
+28096_0090_00221;221;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480194;48.881102
+28096_0053_00245;245;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.483339;48.888009
+28096_0227_00168_bis;168;bis;Rue des Yvelines;28260;28096;La Chaussée-d'Ivry;;;1.481551;48.88309
+28096_0130_00123;123;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.477321;48.882737
+28096_d8hcbo_00074;74;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478838;48.881946
+28096_0032_00005;5;;Le Clos du Bobinet;28260;28096;La Chaussée-d'Ivry;;;1.4786;48.886673
+28096_0005_00099;99;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481835;48.885211
+28096_0130_00105;105;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.477506;48.882724
+28096_0204_00223;223;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.477025;48.895662
+28096_0151_00433;433;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479757;48.886469
+28096_0151_00650;650;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.480033;48.888391
+28096_0018_00236;236;;Rue de la Bissonnerie;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.511397;48.879672
+28096_0130_00097;97;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.477618;48.88276
+28096_d8hcbo_00097;97;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478632;48.881781
+28096_d8hcbo_00131;131;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478561;48.881524
+28096_0163_00020;20;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.476296;48.895967
+28096_0151_00560;560;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479898;48.887638
+28096_0204_01026;1026;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.472611;48.901774
+28096_0124_00173;173;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.480859;48.884322
+28096_0204_01044;1044;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.472216;48.902274
+28096_0048_00014;14;;Impasse des Fossés;28260;28096;La Chaussée-d'Ivry;;;1.482219;48.880776
+28096_0016_00304;304;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.481205;48.886958
+28096_0014_00164;164;;Rue Bel Air;28260;28096;La Chaussée-d'Ivry;;;1.482415;48.881658
+28096_0130_00073;73;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.478016;48.882701
+28096_0005_00050;50;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481676;48.884785
+28096_0227_00046;46;;Rue des Yvelines;28260;28096;La Chaussée-d'Ivry;;;1.479568;48.882786
+28096_d8hcbo_00192;192;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478587;48.880916
+28096_0002_00165;165;;Rue de l'Abreuvoir;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.473877;48.896805
+28096_0014_00180;180;;Rue Bel Air;28260;28096;La Chaussée-d'Ivry;;;1.482698;48.881638
+28096_0151_00075;75;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479064;48.883295
+28096_0116_00005;5;;Rue de la Ferme Ferrand;28260;28096;La Chaussée-d'Ivry;;;1.483099;48.882487
+28096_0016_00331;331;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.48148;48.887073
+28096_0048_00004;4;;Impasse des Fossés;28260;28096;La Chaussée-d'Ivry;;;1.481079;48.880717
+28096_0130_00613;613;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.470571;48.883006
+28096_d8hcbo_00118_bis;118;bis;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.47911;48.881504
+28096_0204_00204;204;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.476876;48.895527
+28096_0163_00371;371;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.471956;48.895754
+28096_0053_00069;69;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.483039;48.886408
+28096_d8hcbo_00171;171;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478495;48.881108
+28096_0124_00225;225;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.481516;48.884201
+28096_0187_00180;180;;Rue des Sapins;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.505892;48.882922
+28096_0016_00205;205;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.480815;48.886065
+28096_0005_00125;125;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481856;48.885439
+28096_0151_00631;631;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.480246;48.888242
+28096_0002_00075;75;;Rue de l'Abreuvoir;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.475069;48.896978
+28096_0016_00372;372;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.481712;48.887471
+28096_0048_00008;8;;Impasse des Fossés;28260;28096;La Chaussée-d'Ivry;;;1.481491;48.880689
+28096_0011_00001;1;;Route d'Anet;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.506749;48.880521
+28096_0002_00097;97;;Rue de l'Abreuvoir;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.474762;48.896946
+28096_0204_00315;315;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.476536;48.896382
+28096_0014_00147;147;;Rue Bel Air;28260;28096;La Chaussée-d'Ivry;;;1.482212;48.881601
+28096_0151_00640;640;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.47852;48.88822
+28096_0021_00060;60;;Rue des Cailles;28260;28096;La Chaussée-d'Ivry;;;1.484508;48.885797
+28096_0163_00010;10;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.476458;48.895989
+28096_0151_00150;150;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.478988;48.883977
+28096_0m99ti_00001;1;;Impasse du Champ au Blé;28260;28096;La Chaussée-d'Ivry;;;1.480558;48.880014
+28096_0155_00053;53;;Rue des Peupliers;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.509866;48.882232
+28096_0204_00440_bis;440;bis;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.475863;48.89727
+28096_0016_00251;251;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.481061;48.88647
+28096_0005_00331;331;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.482862;48.887483
+28096_0116_00048;48;;Rue de la Ferme Ferrand;28260;28096;La Chaussée-d'Ivry;;;1.483105;48.88203
+28096_0163_00017;17;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;;1.470207;48.883095
+28096_0043_00016;16;;Rue des Fauvettes;28260;28096;La Chaussée-d'Ivry;;;1.481096;48.8857
+28096_0187_00119;119;;Rue des Sapins;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.506846;48.882732
+28096_0163_00315;315;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.472215;48.895508
+28096_0155_00106;106;;Rue des Peupliers;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.509696;48.882449
+28096_d8hcbo_00223;223;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478287;48.880673
+28096_0130_00020;20;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.47866;48.882563
+28096_0016_00357;357;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.481687;48.887288
+28096_0204_00207;207;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.477042;48.895508
+28096_0163_00074;74;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.47557;48.896009
+28096_dh8aho_00005;5;;Flacourt;28260;28096;La Chaussée-d'Ivry;;;1.487843;48.889596
+28096_0151_00202;202;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.478953;48.884278
+28096_0130_00276;276;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.475203;48.882709
+28096_0124_00069;69;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.480874;48.885108
+28096_0032_00007_ter;7;ter;Le Clos du Bobinet;28260;28096;La Chaussée-d'Ivry;;;1.478292;48.886988
+28096_0204_00094;94;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.477385;48.894515
+28096_0124_00194;194;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.481154;48.884413
+28096_0005_00206;206;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481778;48.886142
+28096_0204_01020;1020;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.472698;48.901673
+28096_0151_00516;516;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479816;48.887208
+28096_0090_00138;138;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480424;48.88183
+28096_0204_00310;310;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.476334;48.896412
+28096_0032_00009;9;;Le Clos du Bobinet;28260;28096;La Chaussée-d'Ivry;;;1.478247;48.886676
+28096_0204_01038;1038;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.47234;48.902099
+28096_0151_00529;529;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479989;48.887197
+28096_0016_00375;375;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.4818;48.887409
+28096_d8hcbo_00118_ter;118;ter;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.479054;48.881493
+28096_0151_00394;394;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479475;48.886127
+28096_0064_00211;211;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.48414;48.886503
+28096_0227_00096;96;;Rue des Yvelines;28260;28096;La Chaussée-d'Ivry;;;1.480249;48.882842
+28096_0002_00017;17;;Rue de l'Abreuvoir;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.475845;48.897045
+28096_0047_00087;87;;Rue des Fontaines;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.507686;48.881459
+28096_0160_00055;55;;Impasse des Pinsons;28260;28096;La Chaussée-d'Ivry;;;1.484356;48.887101
+28096_0151_00601_d;601;d;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.480584;48.88787
+28096_0090_00226;226;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.48032;48.881029
+28096_0090_00031;31;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.479302;48.882318
+28096_0090_00226_d;226;d;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.481743;48.880918
+28096_0016_00082;82;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.479838;48.885276
+28096_0016_00417;417;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.48213;48.887752
+28096_0151_00601_a;601;a;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.480188;48.887953
+28096_d8hcbo_00274;274;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478273;48.880214
+28096_0124_00167;167;;Rue des Mésanges;28260;28096;La Chaussée-d'Ivry;;;1.480676;48.884414
+28096_0090_00135;135;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480292;48.881838
+28096_0048_00010;10;;Impasse des Fossés;28260;28096;La Chaussée-d'Ivry;;;1.481655;48.880675
+28096_0130_00087;87;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.477744;48.882717
+28096_0005_00230;230;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481741;48.886408
+28096_0151_00203;203;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479306;48.884429
+28096_0163_00318;318;;Rue des Prés;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.472298;48.895573
+28096_0016_00355;355;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.48163;48.887233
+28096_0016_00310;310;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.481096;48.886809
+28096_0151_00064;64;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.478905;48.883194
+28096_0002_00056;56;;Rue de l'Abreuvoir;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.47537;48.896953
+28096_0053_00104;104;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.483113;48.886783
+28096_0003_00023;23;;Impasse des Acacias;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.508161;48.882569
+28096_0064_00341;341;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.485215;48.885929
+28096_0053_00029;29;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.482683;48.886187
+28096_dh8aho_00001;1;;Flacourt;28260;28096;La Chaussée-d'Ivry;;;1.487725;48.889836
+28096_0005_00338;338;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.482698;48.887647
+28096_0204_00473;473;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.475756;48.897665
+28096_0151_00180;180;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.478409;48.884293
+28096_0005_00241;241;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481934;48.886496
+28096_0130_00656;656;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.470003;48.882888
+28096_0064_00129;129;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.483444;48.885839
+28096_0187_00175;175;;Rue des Sapins;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.505834;48.883052
+28096_0053_00285;285;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.482582;48.88793
+28096_0005_00272;272;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.482035;48.886891
+28096_0204_00191;191;;Rue de la Vallée;28260;28096;La Chaussée-d'Ivry;;Nantilly;1.477203;48.89538
+28096_d8hcbo_00118_b;118;b;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478844;48.881524
+28096_0032_00008;8;;Le Clos du Bobinet;28260;28096;La Chaussée-d'Ivry;;;1.478361;48.886544
+28096_0116_00022;22;;Rue de la Ferme Ferrand;28260;28096;La Chaussée-d'Ivry;;;1.483212;48.882378
+28096_0064_00335;335;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.485447;48.88593
+28096_0191_00025;25;;Rue du Souvenir;28260;28096;La Chaussée-d'Ivry;;;1.482116;48.882724
+28096_0026_00348;348;;Rue des Chênes;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.508733;48.883679
+28096_0m99ti_00009;9;;Impasse du Champ au Blé;28260;28096;La Chaussée-d'Ivry;;;1.479534;48.880242
+28096_0151_00104;104;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.478935;48.883564
+28096_0151_00087;87;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479067;48.883338
+28096_0014_00140;140;;Rue Bel Air;28260;28096;La Chaussée-d'Ivry;;;1.482121;48.881699
+28096_0026_00200;200;;Rue des Chênes;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.508819;48.882418
+28096_0005_00285;285;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.482299;48.887009
+28096_0005_00070;70;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481692;48.884963
+28096_d8hcbo_00057;57;;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.478708;48.882145
+28096_0005_00233;233;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481946;48.886412
+28096_0090_00245;245;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480218;48.880852
+28096_0227_00082;82;;Rue des Yvelines;28260;28096;La Chaussée-d'Ivry;;;1.480067;48.882852
+28096_0130_00138;138;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.477072;48.882649
+28096_0155_00035_a;35;a;Rue des Peupliers;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.509807;48.881789
+28096_0227_00157;157;;Rue des Yvelines;28260;28096;La Chaussée-d'Ivry;;;1.481133;48.88272
+28096_0016_00400;400;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.48193;48.887691
+28096_d8hcbo_00052_bis;52;bis;Rue d'Anet;28260;28096;La Chaussée-d'Ivry;;;1.479187;48.882109
+28096_0m99ti_00005;5;;Impasse du Champ au Blé;28260;28096;La Chaussée-d'Ivry;;;1.479515;48.88007
+28096_0090_00167;167;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.480347;48.881541
+28096_0016_00535;535;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.482772;48.888784
+28096_0151_00622;622;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.480003;48.888116
+28096_0064_00256;256;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.484559;48.886561
+28096_0005_00182;182;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481761;48.885962
+28096_0130_00875;875;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.46702;48.883207
+28096_0053_00048;48;;Rue des Grives;28260;28096;La Chaussée-d'Ivry;;;1.482797;48.886434
+28096_0032_00007_bis;7;bis;Le Clos du Bobinet;28260;28096;La Chaussée-d'Ivry;;;1.4784;48.887006
+28096_0064_00240;240;;Rue des Hirondelles;28260;28096;La Chaussée-d'Ivry;;;1.484389;48.886611
+28096_0016_00333;333;;Rue de Bellevue;28260;28096;La Chaussée-d'Ivry;;;1.481518;48.88711
+28096_0090_00067;67;;Rue de la Libération;28260;28096;La Chaussée-d'Ivry;;;1.479751;48.882216
+28096_0130_00219;219;;Rue des Moulins;28260;28096;La Chaussée-d'Ivry;;;1.475938;48.882803
+28096_0005_00069;69;;Rue des Alouettes;28260;28096;La Chaussée-d'Ivry;;;1.481815;48.884948
+28096_0151_00372;372;;Rue de Pacy;28260;28096;La Chaussée-d'Ivry;;;1.479391;48.88596
+28096_0155_00035_b;35;b;Rue des Peupliers;28260;28096;La Chaussée-d'Ivry;;Les Gâtines Rouges;1.509796;48.881809

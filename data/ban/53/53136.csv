@@ -1,0 +1,631 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+53136_4h9q00_00001;1;;l'Embarcadère;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.69375;47.890591
+53136_0057_00007;7;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751232;47.874341
+53136_4kmdp0_00001;1;;le Bouillon;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.759662;47.85546
+53136_0005_00004_c;4;c;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747942;47.87213
+53136_0796_00003;3;;Rue Creuse;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.714794;47.899885
+53136_0794_00001;1;;Chemin de Bel Air;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.717783;47.900845
+53136_0025_00008;8;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750228;47.876814
+53136_2co4zd_00001;1;;Le Bénisson;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.704063;47.85886
+53136_0033_00008;8;;Rue Jacques Prévert;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747942;47.875882
+53136_0011_00006;6;;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749265;47.872461
+53136_0057_00004_bis;4;bis;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750766;47.874676
+53136_0025_00002;2;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751206;47.876587
+53136_b7031f_00001;1;;La Chalopiniere;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.707814;47.904268
+53136_b095_00004;4;;la Chardonnière Frézeau;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.732749;47.858777
+53136_1jg150_00001;1;;Le Buisson;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.760806;47.870419
+53136_h13buf_00001;1;;Oliveau;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.708978;47.897174
+53136_0005_00020;20;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746454;47.870235
+53136_0025_00016_b;16;b;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748175;47.877127
+53136_0027_00002;2;;Impasse Emile Zola;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746757;47.875617
+53136_ug9p2b_00003;3;;Impasse Grand-Maison;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.714665;47.901536
+53136_0799_00001;1;;Chemin de la Rongère;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.715681;47.901063
+53136_0038_00002;2;;Rue Louis Aragon;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749114;47.874666
+53136_zufr48_00001;1;;La Bouhourderie;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.721168;47.899715
+53136_urzlk4_00001;1;;les Bruyères;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751808;47.876197
+53136_c029_00001;1;;Les Grands Toits;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.713167;47.890467
+53136_0010_00007;7;;Rue du Bocage;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747196;47.869675
+53136_0799_00010;10;;Chemin de la Rongère;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.714863;47.901337
+53136_0063_00008;8;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749001;47.875078
+53136_0801_00025;25;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.717952;47.902058
+53136_0052_00008;8;;Rue de Normandie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748939;47.873457
+53136_b020_00004;4;;Le Bas Avire;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747156;47.854106
+53136_0033_00016;16;;Rue Jacques Prévert;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747107;47.875998
+53136_ab9ca7_00001;1;;La Guiardiere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.707387;47.858881
+53136_0057_00017;17;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752809;47.875314
+53136_0005_00010;10;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747468;47.871528
+53136_f23ayw_00001;1;;La Mercerie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.731668;47.881422
+53136_0797_00002;2;;Chemin de la Gendronnière;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.714872;47.901153
+53136_0799_00002;2;;Chemin de la Rongère;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.715305;47.901283
+53136_255qla_00002;2;;La Pescherie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.700615;47.84982
+53136_0801_00009;9;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.71611;47.900799
+53136_sdhwk1_00001;1;;La Chelluere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.738767;47.883026
+53136_0030_00014;14;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751132;47.873619
+53136_0030_00002;2;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749633;47.873397
+53136_0031_00008;8;;Impasse des Genets;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751403;47.875047
+53136_6ak7ij_00001;1;;Le Clairay;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.713637;47.88927
+53136_0064_00004;4;;Rue des Vignes;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752566;47.872633
+53136_0064_00006;6;;Rue des Vignes;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752711;47.872982
+53136_0027_00001;1;;Impasse Emile Zola;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746904;47.875658
+53136_l3khjv_00001;1;;la Châtaigneraie;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.710812;47.893977
+53136_0057_00014;14;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752421;47.874764
+53136_ff0fa7_00002;2;;La Frezelière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.726538;47.871154
+53136_dgzc48_00001;1;;La Promenade;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.753275;47.876338
+53136_0030_00020;20;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752032;47.873633
+53136_0005_00013_c;13;c;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746776;47.871064
+53136_0002_00003;3;;Rue Albert Camus;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749723;47.875392
+53136_0802_00002;2;;Rue du Verger;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.718563;47.901017
+53136_0052_00005;5;;Rue de Normandie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749129;47.873462
+53136_0058_00005;5;;Rue George Sand;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74772;47.876451
+53136_0025_00010;10;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749775;47.876789
+53136_0011_00012;12;;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750241;47.871795
+53136_c070_00001;1;;Moulin de la Rongère;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.710145;47.908981
+53136_bufw11_00001;1;;Impasse Jean-Paul Sartre;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748541;47.876465
+53136_532l7s_00001;1;;la gillardière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.732311;47.869383
+53136_0030_00021;21;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.75248;47.873513
+53136_0792_00004;4;;Impasse Honoré de Balzac;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746504;47.874826
+53136_z6ieqz_00001;1;;L’Aupin;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.707161;47.85699
+53136_0005_00013_e;13;e;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746693;47.870826
+53136_0057_00005;5;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750811;47.874351
+53136_0058_00008;8;;Rue George Sand;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748168;47.876397
+53136_yu8n5g_00001;1;;Moulin de la Roche;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.695307;47.864397
+53136_m5wkgm_00002;2;;Impasse Marguerite Duras;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749716;47.875677
+53136_0010_00013;13;;Rue du Bocage;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747721;47.870122
+53136_b310_00001;1;;Le Haut Guillaume;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.734316;47.864523
+53136_3wi2cy_00001;1;;La Piquelliere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.735898;47.872069
+53136_qu1mhm_00001;1;;Leslonnieres;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.718944;47.896121
+53136_0025_00013;13;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748532;47.877199
+53136_0057_00029;29;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751894;47.875469
+53136_0028_00001;1;;Place de l'Eglise;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748947;47.872775
+53136_c324_00001;1;;Le Grand Pinson;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.739919;47.888755
+53136_0057_00019;19;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752807;47.875377
+53136_0057_00003;3;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750715;47.874275
+53136_9hwndb_00003;3;;La Bretonnerie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746887;47.874222
+53136_0801_00001;1;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.715347;47.899754
+53136_m8ytei_00001;1;;La Rocagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.704928;47.844892
+53136_0030_00013;13;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751529;47.873545
+53136_0025_00020;20;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747579;47.877111
+53136_0064_00007;7;;Rue des Vignes;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.753091;47.873452
+53136_m5wkgm_00001;1;;Impasse Marguerite Duras;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749534;47.875784
+53136_saephb_00002;2;;La Rongere;53360;53136;La Roche-Neuville;Saint-Sulpice;;-0.716082;47.901057
+53136_0030_00019;19;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752246;47.873522
+53136_fg9pxk_00001;1;;Les Touches;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.75633;47.864199
+53136_7ff4yg_00001;1;;La Borderie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.73023;47.87841
+53136_0058_00003;3;;Rue George Sand;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747434;47.876412
+53136_c331_00001;1;;Le Petit Clairay;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.713152;47.888438
+53136_0031_00006;6;;Impasse des Genets;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.75151;47.875109
+53136_cbzh7w_00001;1;;le Richard;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.726019;47.862981
+53136_0005_00022;22;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74606;47.869722
+53136_0801_00016;16;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.717748;47.902066
+53136_0057_00021;21;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752791;47.87564
+53136_0063_00014;14;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74809;47.875308
+53136_0061_00020;20;;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746092;47.872458
+53136_egaakj_00001;1;;L'Ancre;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.693398;47.89071
+53136_0005_00021;21;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746318;47.870291
+53136_b240_00002;2;;Le Grand Autheux;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.712604;47.854374
+53136_0029_00010;10;;Rue des Flandres;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751034;47.872454
+53136_2n037w_00001;1;;La Gasnerie;53360;53136;La Roche-Neuville;Saint-Sulpice;;-0.699654;47.890492
+53136_0011_00002;2;;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748818;47.872682
+53136_u1tpsg_00001;1;;Le Bean;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.727221;47.859394
+53136_0801_00008;8;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.71655;47.901336
+53136_0002_00004;4;;Rue Albert Camus;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749475;47.875199
+53136_0029_00002;2;;Rue des Flandres;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750792;47.872987
+53136_b307_00001;1;;Le Haut Avire;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.753761;47.854995
+53136_0064_00003_a;3;a;Rue des Vignes;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752754;47.872845
+53136_0799_00008;8;;Chemin de la Rongère;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.714994;47.901321
+53136_0061_00007;7;;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74694;47.872803
+53136_c325_00001;1;;Les Petits Pinsons;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.739851;47.8892
+53136_b792_00001;1;;La Grande Maison Neuve;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.704305;47.862241
+53136_1bdvx9_00002;2;;Espace grand-maison;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.715349;47.901112
+53136_0057_00023;23;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752667;47.875813
+53136_0024_00005;5;;Rue des Coprins;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749833;47.87277
+53136_0031_00002;2;;Impasse des Genets;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751884;47.874921
+53136_0798_00006;6;;Chemin de la Perrière;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.716932;47.903933
+53136_0033_00005;5;;Rue Jacques Prévert;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748905;47.875847
+53136_0025_00016;16;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748668;47.877103
+53136_0064_00009;9;;Rue des Vignes;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.753183;47.873669
+53136_b891_00001;1;;Le Château de Neuville;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.698521;47.886687
+53136_b295_00001;1;;les Grands Poiriers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.722748;47.857843
+53136_0030_00018;18;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751801;47.873645
+53136_0052_00004;4;;Rue de Normandie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748778;47.873334
+53136_0030_00016;16;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.75134;47.873633
+53136_0794_00006;6;;Chemin de Bel Air;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.718218;47.900251
+53136_0029_00013;13;;Rue des Flandres;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750321;47.872617
+53136_0010_00021;21;;Rue du Bocage;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74764;47.870613
+53136_c341_00001;1;;Chalet de Neuville;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.695049;47.890841
+53136_9hwndb_00001;1;;La Bretonnerie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746235;47.874144
+53136_0052_00018;18;;Rue de Normandie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749874;47.874323
+53136_b890_00001;1;;Château de la Rongère;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.716741;47.90805
+53136_54gln9_00001;1;;La Mularderie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.735865;47.871704
+53136_b364_00001;1;;La Maison Neuve;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751364;47.875739
+53136_2w00m0_00001;1;;L'Herbaudière;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.698087;47.887385
+53136_0005_00019;19;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746513;47.870528
+53136_0799_00005;5;;Chemin de la Rongère;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.710767;47.908619
+53136_0794_00004;4;;Chemin de Bel Air;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.717324;47.900446
+53136_0058_00006;6;;Rue George Sand;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747905;47.876402
+53136_0057_00011;11;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752273;47.874497
+53136_0057_00020;20;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752563;47.875756
+53136_0061_00009;9;;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746339;47.872609
+53136_b769_00003;3;;Le Soleil Levant;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752774;47.87652
+53136_1bdvx9_00004;4;;Espace grand-maison;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.715204;47.901213
+53136_bufw11_00002;2;;Impasse Jean-Paul Sartre;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748557;47.876279
+53136_b284_00001;1;;les Grandes Commandières;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749651;47.881184
+53136_0005_00010_a;10;a;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747367;47.871387
+53136_b240_00001;1;;Le Grand Autheux;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.712498;47.854488
+53136_0047_00008;8;;Rue des Morillands;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746691;47.872146
+53136_nunuh9_00001;1;;La Martellière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.753658;47.87766
+53136_e52zdd_00002;2;;Le Coudray;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.698014;47.900423
+53136_0052_00016;16;;Rue de Normandie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749674;47.874136
+53136_ky5ntz_00001;1;;La Turpiniere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.765718;47.869677
+53136_4u1zhf_00001;1;;Rue des Fruitiers;53360;53136;La Roche-Neuville;Saint-Sulpice;;-0.717207;47.901157
+53136_0799_00004;4;;Chemin de la Rongère;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.715196;47.901282
+53136_agae85_00001;1;;Malabry;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.701005;47.857166
+53136_gthde8_00001;1;;L’Orfeuille;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.704499;47.867349
+53136_i1qkfn_00004;4;;Rue Simone Veil;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749063;47.876107
+53136_b466_00001;1;;Les Petits Cormiers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.727525;47.878057
+53136_0794_00005;5;;Chemin de Bel Air;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.718186;47.900471
+53136_0033_00015;15;;Rue Jacques Prévert;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74649;47.876519
+53136_68de8f_00007;7;;La Frezelière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.726182;47.871447
+53136_m5wkgm_00003;3;;Impasse Marguerite Duras;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749288;47.875731
+53136_z8rsne_00001;1;;La Chardronnière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.756808;47.870037
+53136_0028_00002;2;;Place de l'Eglise;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749108;47.872818
+53136_0063_00018;18;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747683;47.875355
+53136_c327_00001;1;;Les Dix Bosselés;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.71082;47.894354
+53136_0799_00012;12;;Chemin de la Rongère;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.714759;47.901351
+53136_0024_00004;4;;Rue des Coprins;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749832;47.872927
+53136_qux2cs_00001;1;;Le Chenil;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.729621;47.888691
+53136_0005_00013_d;13;d;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746411;47.871091
+53136_0025_00019;19;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747505;47.877173
+53136_0025_00012;12;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74915;47.87701
+53136_0025_00011;11;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748924;47.877142
+53136_0030_00005;5;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750316;47.873411
+53136_0011_00011_b;11;b;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750406;47.871718
+53136_ug9p2b_00001;1;;Impasse Grand-Maison;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.714713;47.901697
+53136_0801_00019;19;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.717124;47.901676
+53136_0801_00014;14;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.717462;47.901929
+53136_0063_00009;9;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747632;47.875456
+53136_c342_00001;1;;Gite de Neuville;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.693941;47.890404
+53136_s5yc8l_00001;1;;Écluse de Neuville;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.694027;47.890107
+53136_0799_00003;3;;Chemin de la Rongère;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.715539;47.901401
+53136_mkt57w_00004;4;;La Censie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.71825;47.873462
+53136_0801_00010;10;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.716762;47.901573
+53136_b769_00005;5;;Le Soleil Levant;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.753042;47.876395
+53136_0047_00002;2;;Rue des Morillands;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746306;47.872004
+53136_rh9gon_00001;1;;Marmouille;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.714904;47.849611
+53136_0057_00004;4;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750983;47.874608
+53136_0801_00015;15;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.71647;47.901099
+53136_1ljp3q_00001;1;;La Querliere;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.732682;47.885454
+53136_0047_00004;4;;Rue des Morillands;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746636;47.871976
+53136_0064_00001_bis;1;bis;Rue des Vignes;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752557;47.872132
+53136_0064_00013;13;;Rue des Vignes;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.753311;47.874354
+53136_hsj1py_00001;1;;Le Patis;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.708768;47.850323
+53136_adp0zo_00001;1;;Les Grillons;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750656;47.875027
+53136_0797_00001;1;;Chemin de la Gendronnière;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.714731;47.900611
+53136_0030_00017;17;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.75191;47.873534
+53136_lu53o6_00001;1;;la Bouvardière;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.696028;47.890155
+53136_0802_00001;1;;Rue du Verger;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.718475;47.901144
+53136_5gccao_00001;1;;L’Erable;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.708504;47.874223
+53136_0061_00001_a;1;a;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748239;47.87336
+53136_saephb_00004;4;;La Rongere;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.716316;47.906803
+53136_ebtryq_00001;1;;La Gendronnière;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.713355;47.900651
+53136_0057_00016;16;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752716;47.87506
+53136_osmd8j_00001;1;;L'Hermitage;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.709979;47.902764
+53136_0030_00015;15;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751633;47.873547
+53136_4u1zhf_00005;5;;Rue des Fruitiers;53360;53136;La Roche-Neuville;Saint-Sulpice;;-0.717236;47.900743
+53136_b773_00003;3;;Le Logis de Beauvais;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.760235;47.864148
+53136_0015_00001;1;;Rue Charles Peguy;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748346;47.874912
+53136_l4h0w8_00001;1;;La Chaudure;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.701166;47.869295
+53136_b181_00001;1;;Le Coudray de Loigné;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.712019;47.880145
+53136_0010_00017;17;;Rue du Bocage;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747971;47.870501
+53136_c038_00001;1;;La Haute Chesnaie;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.707268;47.884075
+53136_0792_00008;8;;Impasse Honoré de Balzac;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746349;47.874699
+53136_0063_00001;1;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749888;47.874793
+53136_hs6qrk_00001;1;;la Féerie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749438;47.871737
+53136_0064_00010;10;;Rue des Vignes;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.753171;47.874044
+53136_0011_00014;14;;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751377;47.871829
+53136_5vo4fz_00008;8;;La Roche;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.696192;47.864333
+53136_0033_00010;10;;Rue Jacques Prévert;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747767;47.875896
+53136_0047_00007;7;;Rue des Morillands;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747287;47.871879
+53136_0057_00009;9;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751588;47.874221
+53136_0010_00003;3;;Rue du Bocage;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746685;47.869922
+53136_0029_00003;3;;Rue des Flandres;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750904;47.873093
+53136_b286_00001;1;;Les Grandes Places;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.712508;47.851109
+53136_b780_00002;2;;Le Logis de la Martelliere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.75507;47.877465
+53136_0025_00024;24;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74674;47.87704
+53136_0057_00006;6;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751036;47.87452
+53136_0005_00002;2;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748075;47.872577
+53136_b383_00001;1;;Le Moulin des Fosses;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.765378;47.888778
+53136_0796_00001;1;;Rue Creuse;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.714529;47.899779
+53136_0052_00020;20;;Rue de Normandie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749936;47.874374
+53136_b406_00001;1;;Le Petit Autheux;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.712276;47.86146
+53136_0005_00013_b;13;b;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746763;47.871268
+53136_i1qkfn_00006;6;;Rue Simone Veil;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749396;47.876094
+53136_0030_00009;9;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750839;47.873507
+53136_3f78ny_00001;1;;Le Jarry;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.704864;47.849579
+53136_0795_00003;3;;Impasse de Bel Air;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.717846;47.90138
+53136_0801_00021;21;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.71738;47.90179
+53136_0011_00015;15;;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752696;47.871928
+53136_0061_00014;14;;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746614;47.872595
+53136_0005_00017_a;17;a;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746591;47.870641
+53136_5vo4fz_00004;4;;La Roche;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.696172;47.863517
+53136_yjrtx7_00001;1;;Les Cormiers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.727038;47.876272
+53136_0061_00003;3;;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74751;47.872844
+53136_0801_00002;2;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.71559;47.900402
+53136_0802_00003;3;;Rue du Verger;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.718701;47.900834
+53136_0024_00001;1;;Rue des Coprins;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749605;47.873165
+53136_b891_00002;2;;Le Château de Neuville;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.698032;47.887545
+53136_4vs1he_00003;3;;Le Viaulnay;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.715175;47.864701
+53136_0033_00011;11;;Rue Jacques Prévert;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747685;47.875975
+53136_0030_00023;23;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752773;47.873501
+53136_yzu8d0_00004;4;;Impasse du Bon Temps;53360;53136;La Roche-Neuville;Saint-Sulpice;;-0.716785;47.900843
+53136_b462_00001;1;;Les Petites Commandieres;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749892;47.881233
+53136_0061_00002;2;;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747942;47.872777
+53136_v9lslu_00001;1;;Place des Martyrs;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.718299;47.902193
+53136_0011_00008;8;;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749466;47.871868
+53136_b025_00001;1;;Le Bas Guillaume;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.733333;47.862665
+53136_uxb5bc_00003;3;;La Frezeliere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.726673;47.87132
+53136_vvw6b5_00001;1;;Fontenailles;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.713503;47.870358
+53136_td3fr7_00001;1;;Le Fournil de Neuville;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.69417;47.890401
+53136_0047_00005;5;;Rue des Morillands;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.7469;47.871825
+53136_b795_00001;1;;La Basse Cadurie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.702977;47.848397
+53136_0052_00012;12;;Rue de Normandie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749414;47.873892
+53136_0027_00004;4;;Impasse Emile Zola;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746812;47.875655
+53136_0025_00021;21;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746853;47.877121
+53136_0058_00002;2;;Rue George Sand;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74695;47.876252
+53136_ji6x4k_00001;1;;La Gaudouillere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.710768;47.853919
+53136_0057_00015;15;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752823;47.875061
+53136_0058_00009;9;;Rue George Sand;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748082;47.876457
+53136_0033_00001;1;;Rue Jacques Prévert;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.7487;47.875439
+53136_c281_00001;1;;Les Toits Fouques;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.719131;47.885823
+53136_1xxwb3_00001;1;;la Basse;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.726584;47.889267
+53136_0025_00022;22;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746942;47.877065
+53136_0025_00003;3;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750975;47.876917
+53136_0031_00005;5;;Impasse des Genets;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751306;47.874914
+53136_ky5ntz_00002;2;;La Turpiniere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.765842;47.869622
+53136_0011_00016;16;;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751536;47.871864
+53136_bte1oi_00001;1;;la Bulotterie;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.703249;47.902001
+53136_l4h0w8_00003;3;;La Chaudure;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.701504;47.870038
+53136_0064_00011;11;;Rue des Vignes;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.753283;47.874163
+53136_0801_00006;6;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.716476;47.901249
+53136_0011_00011_d;11;d;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751307;47.87174
+53136_0064_00003;3;;Rue des Vignes;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752698;47.872698
+53136_0025_00004;4;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751174;47.876679
+53136_0005_00011;11;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747728;47.872052
+53136_ky5ntz_00003;3;;La Turpiniere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.766719;47.869905
+53136_0792_00003;3;;Impasse Honoré de Balzac;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746049;47.874641
+53136_b020_00001;1;;Le Bas Avire;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746326;47.854021
+53136_0057_00008;8;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751308;47.874401
+53136_5vo4fz_00006;6;;La Roche;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.696399;47.86401
+53136_0063_00022;22;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747196;47.875358
+53136_0801_00003;3;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.715556;47.900192
+53136_0033_00018;18;;Rue Jacques Prévert;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746802;47.87605
+53136_0052_00001;1;;Rue de Normandie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748499;47.873072
+53136_0061_00008;8;;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747209;47.87275
+53136_b3601c_00001;1;;La Frezelière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.727067;47.871022
+53136_255qla_00004;4;;La Pescherie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.700931;47.849665
+53136_6ak7ij_00001;1;;Le Clairay;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.713087;47.888541
+53136_0005_00003;3;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747973;47.872528
+53136_b020_00002;2;;Le Bas Avire;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747431;47.854709
+53136_0029_00007;7;;Rue des Flandres;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751387;47.872847
+53136_9cnlt4_00001;1;;La Crapaudiere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.731634;47.862144
+53136_i1qkfn_00005;5;;Rue Simone Veil;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749803;47.876034
+53136_e2vyyk_00001;1;;La Coteliere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.716654;47.878546
+53136_0802_00004;4;;Rue du Verger;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.718604;47.900782
+53136_0005_00005;5;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74791;47.872395
+53136_kzm1l5_00001;1;;Le Tilleul;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.734875;47.866005
+53136_b264_00001;1;;La Grande Noe;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.75128;47.880613
+53136_0011_00006_a;6;a;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749137;47.872406
+53136_0011_00011_c;11;c;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750561;47.871722
+53136_0005_00027;27;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74572;47.869484
+53136_2b12fu_00001;1;;La Pilardiere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.745503;47.872452
+53136_s59csi_00001;1;;Le Jarrossay;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.720858;47.86779
+53136_0002_00001;1;;Rue Albert Camus;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74946;47.875082
+53136_0030_00006;6;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749964;47.873422
+53136_0005_00012;12;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746961;47.870897
+53136_0005_00013_c;13;c;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746888;47.871013
+53136_0011_00009_a;9;a;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748943;47.872223
+53136_0799_00006;6;;Chemin de la Rongère;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.715096;47.901311
+53136_0005_00023;23;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74627;47.870218
+53136_0010_00005;5;;Rue du Bocage;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746943;47.86981
+53136_0005_00013_a;13;a;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747159;47.871358
+53136_0061_00004;4;;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747799;47.872773
+53136_0025_00025;25;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746235;47.877018
+53136_dprqhq_00002;2;;Les Aulnays;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.742291;47.863192
+53136_1volj8_00001;1;;La Guitonnerie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.716614;47.881635
+53136_0030_00012;12;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750863;47.873594
+53136_0063_00007;7;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748064;47.875468
+53136_mazuju_00001;1;;La Marchallière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.716922;47.853939
+53136_0010_00011;11;;Rue du Bocage;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747613;47.86981
+53136_0063_00005;5;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74817;47.875469
+53136_0029_00008;8;;Rue des Flandres;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751236;47.872556
+53136_0063_00032;32;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.745633;47.875109
+53136_0011_00020;20;;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751877;47.871929
+53136_0031_00004;4;;Impasse des Genets;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751631;47.875036
+53136_0063_00028;28;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74624;47.875198
+53136_b026_00002;2;;La Basse Croix;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.743256;47.871597
+53136_0015_00002;2;;Rue Charles Peguy;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748435;47.874902
+53136_11kqx8_00001;1;;Les Bordeaux;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.739591;47.869033
+53136_mgraou_00001;1;;La Monnerie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.742836;47.865898
+53136_0061_00006;6;;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747504;47.872764
+53136_2n037w_00002;2;;La Gasnerie;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.699824;47.89041
+53136_c319_00001;1;;La Ferme des Petits Toits;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.715189;47.889798
+53136_0057_00027;27;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752009;47.875613
+53136_5vo4fz_00001;1;;La Roche;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.696389;47.864416
+53136_0797_00004;4;;Chemin de la Gendronnière;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.714658;47.900694
+53136_b469_00001;1;;Les Petits Poiriers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.722374;47.855049
+53136_cbzh7w_00002;2;;le Richard;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.726034;47.863162
+53136_9jafe2_00001;1;;La Planche;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.722772;47.882208
+53136_0064_00005_b;5;b;Rue des Vignes;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.753042;47.873365
+53136_0011_00010;10;;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74968;47.871836
+53136_0002_00002;2;;Rue Albert Camus;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749424;47.87513
+53136_0030_00004;4;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749831;47.873393
+53136_i1qkfn_00008;8;;Rue Simone Veil;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749924;47.876053
+53136_0063_00024;24;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746637;47.875271
+53136_0005_00008;8;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747549;47.871624
+53136_b294_00001;1;;Les Grands Monceaux;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.755101;47.866139
+53136_0025_00014;14;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748942;47.877054
+53136_hoippd_00002;2;;Le Parc;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.696381;47.895877
+53136_0064_00008;8;;Rue des Vignes;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752832;47.873209
+53136_0011_00011;11;;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749706;47.871757
+53136_0801_00011;11;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.716276;47.900926
+53136_0011_00011_a;11;a;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750188;47.871719
+53136_mgraou_00002;2;;La Monnerie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.739419;47.865711
+53136_0010_00008;8;;Rue du Bocage;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747683;47.870258
+53136_0025_00023;23;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746694;47.877101
+53136_b312_00001;1;;La Haute Croix;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.743504;47.87179
+53136_qx4sk5_00003;3;;Helquin;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.720776;47.875019
+53136_0010_00002;2;;Rue du Bocage;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746853;47.869907
+53136_0061_00016;16;;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746463;47.872532
+53136_0033_00003;3;;Rue Jacques Prévert;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748859;47.875501
+53136_0031_00001;1;;Impasse des Genets;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751822;47.87486
+53136_gtsa8j_00001;1;;Les Tuileries;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.75974;47.88368
+53136_0025_00018;18;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747947;47.877129
+53136_b963_00001;1;;Ecluse de la Rongère;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.710302;47.908818
+53136_i1qkfn_00001;1;;Rue Simone Veil;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.7492;47.876075
+53136_i1qkfn_00003;3;;Rue Simone Veil;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74924;47.87607
+53136_0792_00002;2;;Impasse Honoré de Balzac;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74611;47.87489
+53136_n1nh17_00001;1;;La Marchais;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.77152;47.87375
+53136_0792_00006;6;;Impasse Honoré de Balzac;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746514;47.874714
+53136_dprqhq_00001;1;;Les Aulnays;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.742633;47.862721
+53136_b095_00002;2;;la Chardonnière Frézeau;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.733434;47.859371
+53136_0010_00009;9;;Rue du Bocage;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747368;47.869662
+53136_255qla_00006;6;;La Pescherie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.701073;47.850017
+53136_0024_00002;2;;Rue des Coprins;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749737;47.873126
+53136_0024_00003;3;;Rue des Coprins;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749691;47.872993
+53136_0005_00018;18;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746556;47.870353
+53136_c326_00001;1;;La Ferme de Loupendu;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.710895;47.89447
+53136_0800_00001;1;;Impasse du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.716021;47.900584
+53136_0033_00013;13;;Rue Jacques Prévert;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746516;47.8764
+53136_0025_00005;5;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750682;47.876937
+53136_0799_00003_b;3;b;Chemin de la Rongère;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.715434;47.901582
+53136_5a3nnf_00001;1;;La Hardonniere;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.700885;47.885778
+53136_4o2eny_00001;1;;Les Heronnieres;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750219;47.859868
+53136_c332_00001;1;;Le Logis du Clairay;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.71321;47.888659
+53136_0031_00003;3;;Impasse des Genets;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.75143;47.874854
+53136_b790_00001;1;;les Grandes Fosses;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.762347;47.885916
+53136_0800_00002;2;;Impasse du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.716195;47.900591
+53136_i1qkfn_00010;10;;Rue Simone Veil;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749988;47.876061
+53136_b291_00001;1;;Les Grands Cormiers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.727687;47.876335
+53136_g9dewi_00001;1;;La Riviere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.700043;47.863259
+53136_0005_00016;16;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746683;47.870533
+53136_b045_00001;1;;Le Bois des Rouilleres;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.77084;47.886787
+53136_l04t9e_00001;1;;La Blesliniere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.737408;47.874563
+53136_9hwndb_00005;5;;La Bretonnerie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748226;47.87386
+53136_b463_00001;1;;Les Petites Places;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.713095;47.850302
+53136_0011_00022;22;;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751985;47.871964
+53136_0025_00017;17;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747755;47.877204
+53136_b458_00001;1;;La Petite Tuilerie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.75865;47.88266
+53136_b198_00001;1;;Mon Desir;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.767943;47.857032
+53136_0avhw1_00001;1;;La Cadurie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.704258;47.849358
+53136_fd8139_00005;5;;La Frezelière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.72645;47.871368
+53136_0793_00004;4;;Impasse Lamartine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.745666;47.875509
+53136_5cgyq6_00002;2;;Les Poiriers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.718725;47.856364
+53136_b186_00001;1;;La Croix Chopin;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.720494;47.86205
+53136_0011_00009;9;;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748835;47.872478
+53136_lu53o6_00003;3;;la Bouvardière;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.695699;47.889713
+53136_uhs1oq_00001;1;;le Loupendu;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.711089;47.894439
+53136_b947_00001;1;;La Cour du Jarry;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.714053;47.885565
+53136_fok4ap_00001;1;;fontenelles;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.707396;47.866611
+53136_0057_00018;18;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752695;47.875312
+53136_0801_00007;7;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.715876;47.900653
+53136_0005_00017;17;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746631;47.870686
+53136_0801_00004;4;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.716364;47.901139
+53136_b767_00001;1;;Le Chalet des Fosses;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.764299;47.88779
+53136_0011_00013;13;;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751646;47.8718
+53136_e4l9t2_00001;1;;Le Pinson;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.740804;47.888785
+53136_0061_00018;18;;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746238;47.872467
+53136_0801_00013;13;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.716371;47.901008
+53136_4vs1he_00001;1;;Le Viaulnay;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.714758;47.864905
+53136_b364_00003;3;;La Maison Neuve;53360;53136;La Roche-Neuville;Saint-Sulpice;;-0.722123;47.885539
+53136_0064_00001;1;;Rue des Vignes;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.75269;47.872644
+53136_0024_00007;7;;Rue des Coprins;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749598;47.8727
+53136_b272_00001;1;;La Grande Pommeraie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.73908;47.857506
+53136_0052_00014;14;;Rue de Normandie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749558;47.874036
+53136_0794_00002;2;;Chemin de Bel Air;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.717874;47.900663
+53136_b893_00001;1;;Le Chemin St Sulpice;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.719129;47.88977
+53136_0030_00011;11;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751171;47.873529
+53136_fayoe7_00001;1;;La Fouqueliere;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.702068;47.893456
+53136_0030_00024;24;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752576;47.873601
+53136_c092_00001;1;;Le Petit Jarry;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.713515;47.886432
+53136_0033_00012;12;;Rue Jacques Prévert;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74759;47.87591
+53136_4z5av4_00001;1;;Le Buron;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.706359;47.89832
+53136_b816_00001;1;;La Basse Chesnaie;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.706921;47.885388
+53136_0010_00001;1;;Rue du Bocage;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746469;47.870004
+53136_0025_00015;15;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748357;47.877206
+53136_0028_00003;3;;Place de l'Eglise;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749011;47.872881
+53136_0028_00001;1;;Place de l'Eglise;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.715098;47.900562
+53136_0029_00011;11;;Rue des Flandres;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750918;47.872698
+53136_0011_00002_a;2;a;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749014;47.872634
+53136_0795_00001;1;;Impasse de Bel Air;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.717661;47.901391
+53136_0025_00026;26;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74592;47.876913
+53136_yzu8d0_00002;2;;Impasse du Bon Temps;53360;53136;La Roche-Neuville;Saint-Sulpice;;-0.717003;47.900942
+53136_b770_00001;1;;Le Moulin de Mirwault;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.705326;47.844397
+53136_0052_00006;6;;Rue de Normandie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748843;47.873377
+53136_0797_00003;3;;Chemin de la Gendronnière;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.714081;47.90045
+53136_0030_00003;3;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749939;47.873339
+53136_0799_00002_a;2;a;Chemin de la Rongère;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.715404;47.901312
+53136_276447_00002;2;;La Martellière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.75261;47.876721
+53136_ug9p2b_00005;5;;Impasse Grand-Maison;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.714597;47.901366
+53136_evxvvx_00001;1;;La Menite;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.762179;47.87893
+53136_0010_00006;6;;Rue du Bocage;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747598;47.870029
+53136_b773_00001;1;;Le Logis de Beauvais;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.760324;47.864264
+53136_0010_00015;15;;Rue du Bocage;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747945;47.870445
+53136_0061_00005;5;;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747324;47.872855
+53136_0011_00009_b;9;b;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749015;47.872016
+53136_0792_00001;1;;Impasse Honoré de Balzac;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746025;47.87472
+53136_c071_00001;1;;Le Moulin de Neuville;53200;53136;La Roche-Neuville;;Saint-Sulpice;-0.693783;47.889935
+53136_0063_00002_bis;2;bis;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749909;47.874675
+53136_52637v_00001;1;;Neuville;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.693641;47.890394
+53136_0801_00017;17;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.716752;47.901413
+53136_b769_00001;1;;Le Soleil Levant;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752182;47.876329
+53136_49xu5v_00001;1;;La Perriere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.709308;47.851606
+53136_ly1wcl_00001;1;;la Durantière;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.70419;47.895041
+53136_0063_00019;19;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746111;47.875258
+53136_19ijwp_00001;1;;La Tuilerie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.758924;47.882873
+53136_0057_00012;12;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752194;47.874576
+53136_0064_00003_b;3;b;Rue des Vignes;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752811;47.872922
+53136_0061_00001_b;1;b;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74758;47.872873
+53136_0029_00009;9;;Rue des Flandres;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751113;47.872452
+53136_0798_00002;2;;Chemin de la Perrière;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.716716;47.901879
+53136_0058_00007;7;;Rue George Sand;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747948;47.876466
+53136_i1q3if_00001;1;;Les Fosses;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.76213;47.885735
+53136_0005_00015;15;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746692;47.870758
+53136_0057_00022;22;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752208;47.875553
+53136_bufw11_00004;4;;Impasse Jean-Paul Sartre;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;;-0.748473;47.87628
+53136_0063_00003;3;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748982;47.875177
+53136_0031_00006_bis;6;bis;Impasse des Genets;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751341;47.875201
+53136_4u1zhf_00003;3;;Rue des Fruitiers;53360;53136;La Roche-Neuville;Saint-Sulpice;;-0.717383;47.900824
+53136_0025_00009;9;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749953;47.87686
+53136_0064_00002;2;;Rue des Vignes;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752493;47.872485
+53136_b468_00001;1;;les Petits Monceaux;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.755535;47.866989
+53136_9o5cbx_00001;1;;La Brichardiere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.741079;47.882785
+53136_1698ae_00001_a;1;a;La Martellière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.753789;47.87746
+53136_0057_00001;1;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750592;47.87434
+53136_0061_00010;10;;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747008;47.872732
+53136_rfxpdr_00001;1;;La Pisserotte;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.727185;47.894768
+53136_0047_00006;6;;Rue des Morillands;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747107;47.871831
+53136_0011_00018;18;;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751651;47.871882
+53136_0005_00014;14;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746933;47.870841
+53136_o1eah2_00001;1;;La Roseraie;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.715665;47.889899
+53136_k1yoj0_00002;2;;La Haute Croix;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.743609;47.871852
+53136_0005_00004_b;4;b;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747972;47.872192
+53136_6vee4i_00001;1;;La Crecherie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.736098;47.879466
+53136_0024_00006;6;;Rue des Coprins;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749916;47.872805
+53136_qx4sk5_00001;1;;Helquin;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.721298;47.874721
+53136_0058_00004;4;;Rue George Sand;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747398;47.8763
+53136_0057_00024;24;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.75202;47.8754
+53136_0047_00003;3;;Rue des Morillands;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746407;47.871845
+53136_0029_00012;12;;Rue des Flandres;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750437;47.8726
+53136_0061_00012;12;;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746834;47.872684
+53136_0063_00030;30;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.745749;47.875126
+53136_g1umkp_00001;1;;La Guyonniere;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.696968;47.896994
+53136_0033_00006;6;;Rue Jacques Prévert;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748179;47.875904
+53136_zv8qih_00001;1;;La Closerie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.699795;47.862909
+53136_b433_00001;1;;La Petite Frezelliere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.705947;47.848461
+53136_0025_00006;6;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.75097;47.876779
+53136_saephb_00003;3;;La Rongere;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.717461;47.906731
+53136_0057_00013;13;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752406;47.874632
+53136_0063_00011;11;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747252;47.875444
+53136_gzopnh_00001;1;;La Rouillere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.761773;47.872356
+53136_0061_00011;11;;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.745998;47.872531
+53136_0047_00001;1;;Rue des Morillands;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746296;47.872199
+53136_0005_00004;4;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748015;47.872389
+53136_c336_00001;1;;La Haute Chesnuere;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.700935;47.898232
+53136_0798_00004;4;;Chemin de la Perrière;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.716673;47.90211
+53136_b263_00001;1;;La Grande Maison;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.706044;47.849129
+53136_0033_00009;9;;Rue Jacques Prévert;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747865;47.875968
+53136_ug9p2b_00007;7;;Impasse Grand-Maison;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.714561;47.901295
+53136_0010_00019;19;;Rue du Bocage;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747859;47.870489
+53136_5vo4fz_00010;10;;La Roche;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.695783;47.86418
+53136_0794_00003;3;;Chemin de Bel Air;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.717974;47.900662
+53136_0029_00004;4;;Rue des Flandres;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.75129;47.872981
+53136_hoippd_00001;1;;Le Parc;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.696871;47.895591
+53136_0033_00002;2;;Rue Jacques Prévert;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74862;47.875494
+53136_ntjv2w_00001;1;;La Mariottiere;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.73125;47.88367
+53136_0033_00014;14;;Rue Jacques Prévert;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747232;47.875977
+53136_0025_00001;1;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751095;47.876908
+53136_0033_00007;7;;Rue Jacques Prévert;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748038;47.87597
+53136_b8dnbx_00001;1;;le Pau;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.761433;47.875646
+53136_o421iy_00001;1;;La Basse Croix;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.744527;47.872178
+53136_0052_00010;10;;Rue de Normandie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749356;47.873846
+53136_0011_00001;1;;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748467;47.872723
+53136_0063_00012;12;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748337;47.875256
+53136_c322_00001;1;;Le Petit Parc;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.696872;47.896599
+53136_ayitf9_00001;1;;le Houx;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.729902;47.855989
+53136_0005_00001;1;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747988;47.87256
+53136_0052_00002;2;;Rue de Normandie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74869;47.873263
+53136_ohoe7e_00001;1;;La Francoisiere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.706523;47.876281
+53136_0061_00002_bis;2;bis;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747904;47.872727
+53136_b429_00001;1;;La Petite Chesnaie;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.706562;47.884365
+53136_b772_00001;1;;Le Refuge des Bordeaux;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.740178;47.869439
+53136_b777_00001;1;;Le Logis des Bordeaux;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.740318;47.869562
+53136_0063_00004;4;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749536;47.874861
+53136_5cgyq6_00004;4;;Les Poiriers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.722295;47.857208
+53136_0801_00023;23;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.717618;47.901904
+53136_0058_00001;1;;Rue George Sand;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747166;47.876357
+53136_0029_00006;6;;Rue des Flandres;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751502;47.872905
+53136_i1qkfn_00002;2;;Rue Simone Veil;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749022;47.876113
+53136_0025_00007;7;;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750213;47.876877
+53136_0064_00012;12;;Rue des Vignes;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.75325;47.87457
+53136_0063_00013;13;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747125;47.875429
+53136_0063_00002;2;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749653;47.874803
+53136_0mhujt_00001;1;;la Chesnaie;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.706991;47.885137
+53136_b281_00001;1;;La Grande Tuilerie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.757869;47.883605
+53136_0005_00013;13;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74741;47.871656
+53136_0030_00010;10;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.75049;47.873538
+53136_0033_00020;20;;Rue Jacques Prévert;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746702;47.876199
+53136_0063_00016;16;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747861;47.875348
+53136_0061_00001;1;;Rue de la Roche du Maine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748365;47.873297
+53136_fygtbf_00001;1;;La Souvetterie;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.729094;47.885494
+53136_5dey68_00002;2;;Bellevue;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.73103;47.883498
+53136_0063_00006;6;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749156;47.875024
+53136_0011_00006_b;6;b;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749017;47.872389
+53136_b469_00002;2;;Les Petits Poiriers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.722479;47.855306
+53136_b450_00001;1;;La Petite Pommeraie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.738355;47.857455
+53136_c125_00001;1;;Les Petits Toits;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.715553;47.889611
+53136_c089_00001;1;;Le Petit Chemin;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.719183;47.890162
+53136_0030_00022;22;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.7522;47.873627
+53136_0030_00008;8;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750224;47.873483
+53136_0795_00004;4;;Impasse de Bel Air;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.717676;47.901299
+53136_0005_00006;6;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747748;47.871877
+53136_0028_00004;4;;Place de l'Eglise;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749135;47.872757
+53136_l7hl04_00001;1;;les Forges;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.714555;47.896851
+53136_23bxjk_00001;1;;Lendeucherie;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.703761;47.890094
+53136_rofo4j_00001;1;;Rennebourg;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.714553;47.897167
+53136_0063_00015;15;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746577;47.875345
+53136_0801_00005;5;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.715694;47.900354
+53136_hslgh6_00001;1;;Les Landes;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.753008;47.884983
+53136_0063_00010;10;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748751;47.875158
+53136_0795_00002;2;;Impasse de Bel Air;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.717776;47.901446
+53136_b995_00001;1;;Le Grand Jarry;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.713966;47.885037
+53136_0793_00001;1;;Impasse Lamartine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.745779;47.875277
+53136_0057_00010;10;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751725;47.874341
+53136_0052_00003;3;;Rue de Normandie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748655;47.873168
+53136_0030_00026;26;;Rue de l'Ile de France;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752771;47.873594
+53136_0063_00017;17;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;;-0.746425;47.875316
+53136_0063_00026;26;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.746359;47.875218
+53136_0064_00005;5;;Rue des Vignes;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752882;47.873059
+53136_0057_00002;2;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750557;47.874496
+53136_0029_00005;5;;Rue des Flandres;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.751467;47.872988
+53136_b780_00001;1;;Le Logis de la Martelliere;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.753867;47.877895
+53136_0005_00025;25;;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.74596;47.869773
+53136_i1qkfn_00007;7;;Rue Simone Veil;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749874;47.876031
+53136_b791_00001;1;;Le Houx Neuf;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.730268;47.856043
+53136_0005_00010_b;10;b;Rue d'Anjou;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747926;47.871105
+53136_tqnppw_00001;1;;Chantemesle;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.744163;47.878785
+53136_0793_00002;2;;Impasse Lamartine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.745679;47.875386
+53136_0793_00003;3;;Impasse Lamartine;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.745758;47.875402
+53136_0028_00003;3;;Place de l'Eglise;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.715221;47.90072
+53136_0011_00009_c;9;c;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.749084;47.871959
+53136_0801_00012;12;;Rue du Val Fleuri;53360;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.717161;47.901788
+53136_c333_00001;1;;la Petite Bouvardière;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.697428;47.887849
+53136_mkt57w_00002;2;;La Censie;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.718156;47.873179
+53136_yxcxs3_00001;1;;Vaufaron;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.707382;47.844345
+53136_0011_00005;5;;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.748547;47.872632
+53136_0057_00025;25;;Rue des Oliviers;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.752103;47.875703
+53136_0010_00004;4;;Rue du Bocage;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747061;47.869833
+53136_0011_00012_bis;12;bis;Rue de Bretagne;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.750619;47.871792
+53136_c323_00001;1;;Les Gorges d'Oliveau;53200;53136;La Roche-Neuville;Saint-Sulpice;Saint-Sulpice;-0.697218;47.896874
+53136_5vo4fz_00002;2;;La Roche;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.696227;47.86365
+53136_0025_00017_a;17;a;chemin de la davière;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747645;47.877189
+53136_0063_00020;20;;Rue Victor Hugo;53200;53136;La Roche-Neuville;Loigné-sur-Mayenne;Loigné-sur-Mayenne;-0.747353;47.875376

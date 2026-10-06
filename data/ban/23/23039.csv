@@ -1,0 +1,606 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+23039_xe513a_00007;7;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.811458;46.292576
+23039_czid2t_00010;10;;La Gilardiere;23800;23039;La Celle-Dunoise;;;1.730836;46.341341
+23039_0035_00014;14;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769495;46.308818
+23039_r845ak_00012;12;;Le Coureau;23800;23039;La Celle-Dunoise;;;1.79382;46.292036
+23039_elc3in_00005;5;;Caux;23800;23039;La Celle-Dunoise;;;1.786499;46.285604
+23039_b169_00011;11;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.808491;46.309514
+23039_0046_00025;25;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.775705;46.308418
+23039_muj2f2_00014;14;;Les Granges;23800;23039;La Celle-Dunoise;;;1.775306;46.315837
+23039_4z3fdu_00009;9;;La Betoulle;23800;23039;La Celle-Dunoise;;;1.776104;46.285641
+23039_u3pctq_00012;12;;Puylareau;23800;23039;La Celle-Dunoise;;;1.76479;46.328615
+23039_0060_00007;7;;Chemin des Sillons;23800;23039;La Celle-Dunoise;;;1.768604;46.309988
+23039_amamm4_00018;18;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.768505;46.331121
+23039_elc3in_00013;13;;Caux;23800;23039;La Celle-Dunoise;;;1.787394;46.285125
+23039_amamm4_00014;14;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.768886;46.331043
+23039_0dz36s_00002;2;;Villemore;23800;23039;La Celle-Dunoise;;;1.788007;46.318778
+23039_elc3in_00003;3;;Caux;23800;23039;La Celle-Dunoise;;;1.786527;46.283901
+23039_a004_00001;1;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.776774;46.30825
+23039_wkgrxx_00005;5;;Cessac;23800;23039;La Celle-Dunoise;;;1.799933;46.300648
+23039_c0itdh_00003;3;;Le Couret;23800;23039;La Celle-Dunoise;;;1.741469;46.334565
+23039_czid2t_00005;5;;La Gilardiere;23800;23039;La Celle-Dunoise;;;1.731061;46.340905
+23039_0046_00005;5;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.771477;46.308076
+23039_xe513a_00005;5;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.811568;46.292852
+23039_cpghaf_00009;9;;Longsagne;23800;23039;La Celle-Dunoise;;;1.800157;46.31553
+23039_b169_00002;2;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.807022;46.309054
+23039_9ftf9g_00003;3;;La Vallade;23800;23039;La Celle-Dunoise;;;1.772029;46.299883
+23039_0035_00044;44;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.770154;46.309933
+23039_1d4trh_00001;1;;La Chaise;23800;23039;La Celle-Dunoise;;;1.771913;46.295427
+23039_0018_00002;2;;Chemin des Fosses;23800;23039;La Celle-Dunoise;;;1.770578;46.311122
+23039_0035_00016;16;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.76953;46.308956
+23039_0018_00001;1;;Chemin des Fosses;23800;23039;La Celle-Dunoise;;;1.770104;46.311305
+23039_bs6vlj_00001;1;;Lavaud;23800;23039;La Celle-Dunoise;;;1.758131;46.319748
+23039_0012_00003;3;;Route du Canard;23800;23039;La Celle-Dunoise;;;1.777197;46.309598
+23039_b169_00013;13;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.808459;46.309769
+23039_0035_00024;24;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.76973;46.309143
+23039_4z3fdu_00006;6;;La Betoulle;23800;23039;La Celle-Dunoise;;;1.775633;46.28391
+23039_0046_00011;11;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.771845;46.308197
+23039_0dz36s_00011;11;;Villemore;23800;23039;La Celle-Dunoise;;;1.789225;46.318931
+23039_0046_00026;26;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.776231;46.308546
+23039_0035_00027;27;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.770521;46.310098
+23039_0046_00007;7;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.771555;46.308098
+23039_xe513a_00002;2;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.811645;46.293297
+23039_c0itdh_00011;11;;Le Couret;23800;23039;La Celle-Dunoise;;;1.741198;46.334802
+23039_wkgrxx_00001;1;;Cessac;23800;23039;La Celle-Dunoise;;;1.80121;46.298118
+23039_0046_00018_bis;18;bis;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.773378;46.308519
+23039_0070_00022;22;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770833;46.3114
+23039_bs6vlj_00004;4;;Lavaud;23800;23039;La Celle-Dunoise;;;1.756153;46.321564
+23039_0035_00015;15;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769942;46.30926
+23039_9ftf9g_00001;1;;La Vallade;23800;23039;La Celle-Dunoise;;;1.772964;46.300132
+23039_gctsyn_00007;7;;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.816376;46.278481
+23039_9ftf9g_00002;2;;La Vallade;23800;23039;La Celle-Dunoise;;;1.77244;46.300047
+23039_xe513a_00015;15;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.810383;46.291975
+23039_u3pctq_00001;1;;Puylareau;23800;23039;La Celle-Dunoise;;;1.771305;46.325139
+23039_a008_00016;16;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.774175;46.312207
+23039_a004_00022;22;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.778142;46.307083
+23039_elc3in_00010;10;;Caux;23800;23039;La Celle-Dunoise;;;1.787312;46.28473
+23039_cpghaf_00007;7;;Longsagne;23800;23039;La Celle-Dunoise;;;1.799637;46.31534
+23039_b348_00014;14;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.802012;46.310644
+23039_4z3fdu_00007;7;;La Betoulle;23800;23039;La Celle-Dunoise;;;1.775092;46.284108
+23039_x0hxoz_00004;4;;L’Age;23800;23039;La Celle-Dunoise;;;1.80796;46.295456
+23039_0040_00017;17;;Route des Peintres;23800;23039;La Celle-Dunoise;;;1.76832;46.312088
+23039_azumcv_00015;15;;Puyduris;23800;23039;La Celle-Dunoise;;;1.752625;46.334372
+23039_bs6vlj_00003;3;;Lavaud;23800;23039;La Celle-Dunoise;;;1.756821;46.321621
+23039_a008_00005;5;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.772522;46.311739
+23039_r845ak_00005;5;;Le Coureau;23800;23039;La Celle-Dunoise;;;1.792225;46.291898
+23039_tt2jc7_00005;5;;Le Chiron;23800;23039;La Celle-Dunoise;;;1.742743;46.337348
+23039_0016_00004_bis;4;bis;Rue des Derrieres;23800;23039;La Celle-Dunoise;;;1.769104;46.308202
+23039_2kb1o6_00008;8;;Puyredeuil;23800;23039;La Celle-Dunoise;;;1.793161;46.287075
+23039_b169_00014;14;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.808642;46.309638
+23039_8z1w9k_00004;4;;La Tronchette;23800;23039;La Celle-Dunoise;;;1.784096;46.292679
+23039_muj2f2_00015;15;;Les Granges;23800;23039;La Celle-Dunoise;;;1.775098;46.315612
+23039_elc3in_00011;11;;Caux;23800;23039;La Celle-Dunoise;;;1.787255;46.284792
+23039_amamm4_00013;13;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.768935;46.331007
+23039_0035_00023;23;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.770161;46.309852
+23039_bs6vlj_00009;9;;Lavaud;23800;23039;La Celle-Dunoise;;;1.757007;46.322466
+23039_kv0wl6_00001;1;;Le Jouillat;23800;23039;La Celle-Dunoise;;;1.731341;46.343844
+23039_xe513a_00021_bis;21;bis;Les Chiers;23800;23039;La Celle-Dunoise;;;1.811711;46.292883
+23039_muj2f2_00013_bis;13;bis;Les Granges;23800;23039;La Celle-Dunoise;;;1.775547;46.315896
+23039_a008_00014;14;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.773813;46.312212
+23039_b348_00005;5;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.797617;46.309521
+23039_0046_00008;8;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.77143;46.308206
+23039_a008_00023;23;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.772951;46.311957
+23039_b169_00024;24;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.807482;46.312651
+23039_azumcv_00009;9;;Puyduris;23800;23039;La Celle-Dunoise;;;1.750433;46.333074
+23039_0046_00012;12;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.771946;46.308288
+23039_0035_00032_bis;32;bis;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769779;46.309517
+23039_czid2t_00007;7;;La Gilardiere;23800;23039;La Celle-Dunoise;;;1.731011;46.340833
+23039_0022_00002;2;;Rue des Gandines;23800;23039;La Celle-Dunoise;;;1.773218;46.311046
+23039_fxtlvp_00001;1;;Bouery;23800;23039;La Celle-Dunoise;;;1.74425;46.33608
+23039_bs6vlj_00010;10;;Lavaud;23800;23039;La Celle-Dunoise;;;1.756476;46.321804
+23039_czid2t_00008;8;;La Gilardiere;23800;23039;La Celle-Dunoise;;;1.730745;46.341055
+23039_40uvu5_00002;2;;La Brousse;23800;23039;La Celle-Dunoise;;;1.768731;46.3216
+23039_6vaw0l_00009;9;;Le Poirier;23800;23039;La Celle-Dunoise;;;1.780749;46.295716
+23039_6vaw0l_00008;8;;Le Poirier;23800;23039;La Celle-Dunoise;;;1.78082;46.295923
+23039_czid2t_00014;14;;La Gilardiere;23800;23039;La Celle-Dunoise;;;1.730933;46.341646
+23039_a008_00013;13;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.771897;46.311553
+23039_0070_00024;24;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770835;46.311464
+23039_czid2t_00003;3;;La Gilardiere;23800;23039;La Celle-Dunoise;;;1.731476;46.341108
+23039_xe513a_00006;6;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.811496;46.292642
+23039_a008_00002;2;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.771536;46.311149
+23039_0035_00038;38;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.770023;46.309722
+23039_wkgrxx_00003;3;;Cessac;23800;23039;La Celle-Dunoise;;;1.799879;46.299117
+23039_4z3fdu_00008;8;;La Betoulle;23800;23039;La Celle-Dunoise;;;1.775916;46.285462
+23039_x0hxoz_00004_l;4;l;L’Age;23800;23039;La Celle-Dunoise;;;1.807942;46.295481
+23039_oiitp2_00004;4;;Place de la Pierre Soleil;23800;23039;La Celle-Dunoise;;;1.769561;46.308113
+23039_0035_00019;19;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.770018;46.309402
+23039_0035_00008_bis;8;bis;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769472;46.308584
+23039_elc3in_00004;4;;Caux;23800;23039;La Celle-Dunoise;;;1.786555;46.284088
+23039_gctsyn_00004;4;;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.816217;46.27879
+23039_cpghaf_00006;6;;Longsagne;23800;23039;La Celle-Dunoise;;;1.799594;46.315247
+23039_0070_00011;11;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.77109;46.310784
+23039_b169_00016;16;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.808973;46.309832
+23039_b348_00001;1;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.797379;46.310194
+23039_muj2f2_00008;8;;Les Granges;23800;23039;La Celle-Dunoise;;;1.777354;46.317507
+23039_a008_00019;19;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.772498;46.311891
+23039_chddow_00002;2;;Les Combres;23800;23039;La Celle-Dunoise;;;1.800377;46.322297
+23039_cpghaf_00001;1;;Longsagne;23800;23039;La Celle-Dunoise;;;1.798891;46.314896
+23039_azumcv_00002;2;;Puyduris;23800;23039;La Celle-Dunoise;;;1.751106;46.332478
+23039_tt2jc7_00010;10;;Le Chiron;23800;23039;La Celle-Dunoise;;;1.743319;46.338215
+23039_gctsyn_00010;10;;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.816404;46.278303
+23039_amamm4_00011;11;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.769237;46.331104
+23039_u3pctq_00003;3;;Puylareau;23800;23039;La Celle-Dunoise;;;1.768264;46.326019
+23039_0017_00010;10;;Rue de la Fontaine;23800;23039;La Celle-Dunoise;;;1.770193;46.307244
+23039_0046_00001;1;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.771309;46.307991
+23039_czid2t_00012;12;;La Gilardiere;23800;23039;La Celle-Dunoise;;;1.730728;46.341599
+23039_amamm4_00007;7;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.769603;46.331371
+23039_xe513a_00013;13;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.810578;46.292752
+23039_amamm4_00002;2;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.775049;46.332543
+23039_0040_00015;15;;Route des Peintres;23800;23039;La Celle-Dunoise;;;1.768415;46.311869
+23039_cpghaf_00010;10;;Longsagne;23800;23039;La Celle-Dunoise;;;1.800588;46.315434
+23039_elc3in_00007;7;;Caux;23800;23039;La Celle-Dunoise;;;1.787147;46.284328
+23039_0040_00004;4;;Route des Peintres;23800;23039;La Celle-Dunoise;;;1.768692;46.310627
+23039_u3pctq_00015;15;;Puylareau;23800;23039;La Celle-Dunoise;;;1.765918;46.326685
+23039_0070_00017;17;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770471;46.313186
+23039_ryu0x8_00002;2;;Le Cluzeau;23800;23039;La Celle-Dunoise;;;1.791609;46.296761
+23039_u3pctq_00014;14;;Puylareau;23800;23039;La Celle-Dunoise;;;1.765172;46.328235
+23039_qs3afm_00001;1;;La Villatte;23800;23039;La Celle-Dunoise;;;1.746992;46.328128
+23039_bs6vlj_00002;2;;Lavaud;23800;23039;La Celle-Dunoise;;;1.757582;46.320634
+23039_elc3in_00002;2;;Caux;23800;23039;La Celle-Dunoise;;;1.786408;46.283795
+23039_4z3fdu_00005;5;;La Betoulle;23800;23039;La Celle-Dunoise;;;1.775909;46.284114
+23039_c0itdh_00010;10;;Le Couret;23800;23039;La Celle-Dunoise;;;1.741226;46.334799
+23039_0017_00006;6;;Rue de la Fontaine;23800;23039;La Celle-Dunoise;;;1.77063;46.307631
+23039_a008_00001;1;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.772981;46.311854
+23039_0017_00004;4;;Rue de la Fontaine;23800;23039;La Celle-Dunoise;;;1.770925;46.307744
+23039_0050_00001;1;;Chemin de la Roseraie;23800;23039;La Celle-Dunoise;;;1.76984;46.308139
+23039_oiitp2_00009;9;;Place de la Pierre Soleil;23800;23039;La Celle-Dunoise;;;1.769244;46.308283
+23039_qs3afm_00002;2;;La Villatte;23800;23039;La Celle-Dunoise;;;1.746459;46.327857
+23039_muj2f2_00002;2;;Les Granges;23800;23039;La Celle-Dunoise;;;1.77548;46.317178
+23039_ryu0x8_00005;5;;Le Cluzeau;23800;23039;La Celle-Dunoise;;;1.790759;46.296119
+23039_u3pctq_00011;11;;Puylareau;23800;23039;La Celle-Dunoise;;;1.764747;46.328642
+23039_muj2f2_00004_bis;4;bis;Les Granges;23800;23039;La Celle-Dunoise;;;1.775959;46.316847
+23039_amamm4_00005;5;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.769686;46.331142
+23039_0022_00006_bis;6;bis;Rue des Gandines;23800;23039;La Celle-Dunoise;;;1.774726;46.311669
+23039_bs6vlj_00016;16;;Lavaud;23800;23039;La Celle-Dunoise;;;1.754461;46.323002
+23039_0dz36s_00008;8;;Villemore;23800;23039;La Celle-Dunoise;;;1.789157;46.318441
+23039_0046_00016;16;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.772813;46.30905
+23039_xe513a_00001;1;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.811711;46.292883
+23039_0016_00008;8;;Rue des Derrieres;23800;23039;La Celle-Dunoise;;;1.76906;46.308602
+23039_ryu0x8_00004;4;;Le Cluzeau;23800;23039;La Celle-Dunoise;;;1.791214;46.296392
+23039_c0itdh_00001;1;;Le Couret;23800;23039;La Celle-Dunoise;;;1.742487;46.335426
+23039_oiitp2_00011;11;;Place de la Pierre Soleil;23800;23039;La Celle-Dunoise;;;1.769602;46.308295
+23039_x0hxoz_00002;2;;L’Age;23800;23039;La Celle-Dunoise;;;1.807835;46.295448
+23039_8z1w9k_00001;1;;La Tronchette;23800;23039;La Celle-Dunoise;;;1.784147;46.292136
+23039_5wu5fc_00001;1;;Villejeux;23800;23039;La Celle-Dunoise;;;1.760751;46.332626
+23039_0012_00001;1;;Route du Canard;23800;23039;La Celle-Dunoise;;;1.776954;46.30956
+23039_xe513a_00003;3;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.811684;46.292984
+23039_r845ak_00001;1;;Le Coureau;23800;23039;La Celle-Dunoise;;;1.790583;46.293236
+23039_wkgrxx_00011;11;;Cessac;23800;23039;La Celle-Dunoise;;;1.799144;46.300743
+23039_c0itdh_00009;9;;Le Couret;23800;23039;La Celle-Dunoise;;;1.741075;46.334958
+23039_azumcv_00014_bis;14;bis;Puyduris;23800;23039;La Celle-Dunoise;;;1.751087;46.333602
+23039_a004_00019;19;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.778863;46.306328
+23039_gctsyn_00018;18;;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.812741;46.279804
+23039_bs6vlj_00019;19;;Lavaud;23800;23039;La Celle-Dunoise;;;1.751929;46.322723
+23039_cpghaf_00015;15;;Longsagne;23800;23039;La Celle-Dunoise;;;1.803216;46.31455
+23039_ryu0x8_00001;1;;Le Cluzeau;23800;23039;La Celle-Dunoise;;;1.789859;46.297507
+23039_0035_00021;21;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.770072;46.30968
+23039_0046_00030;30;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.777306;46.308567
+23039_muj2f2_00012;12;;Les Granges;23800;23039;La Celle-Dunoise;;;1.775632;46.31595
+23039_0046_00019;19;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.774561;46.308417
+23039_azumcv_00003;3;;Puyduris;23800;23039;La Celle-Dunoise;;;1.75059;46.332853
+23039_8z1w9k_00005;5;;La Tronchette;23800;23039;La Celle-Dunoise;;;1.784377;46.292706
+23039_xe513a_00012;12;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.81075;46.292558
+23039_b348_00018;18;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.802421;46.310361
+23039_b348_00007_bis;7;bis;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.798304;46.309617
+23039_0046_00021;21;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.77488;46.308418
+23039_0012_00005;5;;Route du Canard;23800;23039;La Celle-Dunoise;;;1.778132;46.309605
+23039_ryu0x8_00011;11;;Le Cluzeau;23800;23039;La Celle-Dunoise;;;1.797585;46.295832
+23039_wkgrxx_00006;6;;Cessac;23800;23039;La Celle-Dunoise;;;1.800303;46.300648
+23039_0040_00003;3;;Route des Peintres;23800;23039;La Celle-Dunoise;;;1.769417;46.310101
+23039_gctsyn_00001_bis;1;bis;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.816916;46.279842
+23039_b348_00003;3;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.796761;46.309529
+23039_bs6vlj_00017;17;;Lavaud;23800;23039;La Celle-Dunoise;;;1.754147;46.323619
+23039_re34ff_00001;1;;Puychevalier;23800;23039;La Celle-Dunoise;;;1.796314;46.291734
+23039_b348_00016;16;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.802088;46.311118
+23039_0035_00040;40;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.770047;46.309776
+23039_0070_00003;3;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770475;46.310359
+23039_0046_00006;6;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.771255;46.308237
+23039_0035_00022;22;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769622;46.3091
+23039_x0hxoz_00008;8;;L’Age;23800;23039;La Celle-Dunoise;;;1.808829;46.295531
+23039_xe513a_00008;8;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.811032;46.292866
+23039_8z1w9k_00007;7;;La Tronchette;23800;23039;La Celle-Dunoise;;;1.783376;46.292682
+23039_0035_00042;42;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.770089;46.309822
+23039_0035_00025;25;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.770334;46.309978
+23039_amamm4_00012;12;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.769101;46.331031
+23039_0035_00009;9;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769819;46.308844
+23039_0017_00012;12;;Rue de la Fontaine;23800;23039;La Celle-Dunoise;;;1.770514;46.306861
+23039_azumcv_00011;11;;Puyduris;23800;23039;La Celle-Dunoise;;;1.750443;46.333236
+23039_0050_00005;5;;Chemin de la Roseraie;23800;23039;La Celle-Dunoise;;;1.769349;46.307835
+23039_2kb1o6_00005;5;;Puyredeuil;23800;23039;La Celle-Dunoise;;;1.792845;46.287726
+23039_u3pctq_00006;6;;Puylareau;23800;23039;La Celle-Dunoise;;;1.766046;46.326814
+23039_czid2t_00006;6;;La Gilardiere;23800;23039;La Celle-Dunoise;;;1.731315;46.340849
+23039_azumcv_00014;14;;Puyduris;23800;23039;La Celle-Dunoise;;;1.751045;46.333159
+23039_a004_00024;24;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.778421;46.306819
+23039_xe513a_00009;9;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.810648;46.292761
+23039_gctsyn_00015;15;;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.814896;46.279223
+23039_a004_00012;12;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.777555;46.308027
+23039_u3pctq_00016;16;;Puylareau;23800;23039;La Celle-Dunoise;;;1.765994;46.32648
+23039_0046_00028;28;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.776727;46.308559
+23039_0035_00002;2;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769502;46.30841
+23039_0035_00006;6;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769494;46.308522
+23039_muj2f2_00006;6;;Les Granges;23800;23039;La Celle-Dunoise;;;1.77617;46.316728
+23039_amamm4_00020_bis;20;bis;Puymanteau;23800;23039;La Celle-Dunoise;;;1.767797;46.330618
+23039_a004_00007;7;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.777664;46.307574
+23039_muj2f2_00018;18;;Les Granges;23800;23039;La Celle-Dunoise;;;1.773932;46.314796
+23039_0035_00003;3;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769882;46.308298
+23039_6vaw0l_00011;11;;Le Poirier;23800;23039;La Celle-Dunoise;;;1.77852;46.294894
+23039_xe513a_00004;4;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.811582;46.293053
+23039_elc3in_00006;6;;Caux;23800;23039;La Celle-Dunoise;;;1.786909;46.284008
+23039_6vaw0l_00004;4;;Le Poirier;23800;23039;La Celle-Dunoise;;;1.781445;46.295977
+23039_kv0wl6_00003;3;;Le Jouillat;23800;23039;La Celle-Dunoise;;;1.731981;46.343917
+23039_u3pctq_00013;13;;Puylareau;23800;23039;La Celle-Dunoise;;;1.764647;46.328369
+23039_4z3fdu_00003;3;;La Betoulle;23800;23039;La Celle-Dunoise;;;1.777473;46.283382
+23039_cpghaf_00016;16;;Longsagne;23800;23039;La Celle-Dunoise;;;1.80366;46.31451
+23039_0017_00002;2;;Rue de la Fontaine;23800;23039;La Celle-Dunoise;;;1.771136;46.30784
+23039_9ftf9g_00006;6;;La Vallade;23800;23039;La Celle-Dunoise;;;1.770658;46.299255
+23039_x0hxoz_00009;9;;L’Age;23800;23039;La Celle-Dunoise;;;1.808872;46.295633
+23039_0035_00010;10;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.76948;46.30865
+23039_b174_00001;1;;La Grande Chaume;23800;23039;La Celle-Dunoise;;;1.809149;46.279576
+23039_0070_00008;8;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770439;46.310379
+23039_azumcv_00013;13;;Puyduris;23800;23039;La Celle-Dunoise;;;1.750881;46.333237
+23039_tt2jc7_00009;9;;Le Chiron;23800;23039;La Celle-Dunoise;;;1.743439;46.337964
+23039_a004_00003;3;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.776764;46.308003
+23039_0035_00030;30;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769812;46.30923
+23039_amamm4_00008;8;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.769485;46.331441
+23039_wkgrxx_00008;8;;Cessac;23800;23039;La Celle-Dunoise;;;1.799332;46.30067
+23039_0046_00032;32;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.777519;46.30856
+23039_c0itdh_00008;8;;Le Couret;23800;23039;La Celle-Dunoise;;;1.740997;46.334998
+23039_b348_00025_bis;25;bis;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.805708;46.310382
+23039_0dz36s_00009;9;;Villemore;23800;23039;La Celle-Dunoise;;;1.789233;46.318569
+23039_b169_00007;7;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.807938;46.309019
+23039_gctsyn_00011;11;;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.816368;46.278139
+23039_0046_00010;10;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.771794;46.308256
+23039_0035_00018;18;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769575;46.309034
+23039_r845ak_00003;3;;Le Coureau;23800;23039;La Celle-Dunoise;;;1.791704;46.292975
+23039_v7az14_00002;2;;Le Bachelier;23800;23039;La Celle-Dunoise;;;1.74743;46.337259
+23039_gctsyn_00013;13;;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.815944;46.278502
+23039_0046_00022;22;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.77392;46.30848
+23039_bs6vlj_00007;7;;Lavaud;23800;23039;La Celle-Dunoise;;;1.755905;46.321894
+23039_tt2jc7_00003;3;;Le Chiron;23800;23039;La Celle-Dunoise;;;1.743087;46.337308
+23039_azumcv_00008;8;;Puyduris;23800;23039;La Celle-Dunoise;;;1.750108;46.333105
+23039_b348_00002;2;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.797341;46.310308
+23039_0035_00020;20;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769593;46.309088
+23039_amamm4_00010;10;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.769433;46.33159
+23039_ryu0x8_00004_bis;4;bis;Le Cluzeau;23800;23039;La Celle-Dunoise;;;1.801176;46.29699
+23039_0070_00015;15;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770699;46.312367
+23039_czid2t_00001;1;;La Gilardiere;23800;23039;La Celle-Dunoise;;;1.732452;46.341735
+23039_cpghaf_00013;13;;Longsagne;23800;23039;La Celle-Dunoise;;;1.802957;46.314619
+23039_bs6vlj_00014;14;;Lavaud;23800;23039;La Celle-Dunoise;;;1.754167;46.32285
+23039_0070_00009;9;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770838;46.310663
+23039_r845ak_00002;2;;Le Coureau;23800;23039;La Celle-Dunoise;;;1.790699;46.292972
+23039_0022_00008;8;;Rue des Gandines;23800;23039;La Celle-Dunoise;;;1.777604;46.311754
+23039_tt2jc7_00004;4;;Le Chiron;23800;23039;La Celle-Dunoise;;;1.743002;46.337339
+23039_0035_00052_bis;52;bis;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.777106;46.312698
+23039_u3pctq_00017;17;;Puylareau;23800;23039;La Celle-Dunoise;;;1.766009;46.326622
+23039_r845ak_00008;8;;Le Coureau;23800;23039;La Celle-Dunoise;;;1.793762;46.292418
+23039_r845ak_00014;14;;Le Coureau;23800;23039;La Celle-Dunoise;;;1.794192;46.292035
+23039_0040_00021;21;;Route des Peintres;23800;23039;La Celle-Dunoise;;;1.767878;46.313034
+23039_0035_00048;48;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.770225;46.310035
+23039_xe513a_00023;23;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.81303;46.290449
+23039_0070_00012;12;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770635;46.310783
+23039_re34ff_00003;3;;Puychevalier;23800;23039;La Celle-Dunoise;;;1.79603;46.292001
+23039_xe513a_00011;11;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.810899;46.292688
+23039_r845ak_00009;9;;Le Coureau;23800;23039;La Celle-Dunoise;;;1.793831;46.292361
+23039_a008_00011;11;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.771933;46.311522
+23039_a008_00012;12;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.773586;46.312215
+23039_re34ff_00005;5;;Puychevalier;23800;23039;La Celle-Dunoise;;;1.795409;46.292321
+23039_xe513a_00017;17;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.811226;46.292153
+23039_0035_00046;46;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.770186;46.309975
+23039_b174_00002;2;;La Grande Chaume;23800;23039;La Celle-Dunoise;;;1.809102;46.279449
+23039_0070_00004;4;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770303;46.31019
+23039_0070_00013;13;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770997;46.312028
+23039_b348_00021;21;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.803833;46.310242
+23039_a008_00025;25;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.773435;46.312159
+23039_xe513a_00020;20;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.811446;46.291491
+23039_oiitp2_00003;3;;Place de la Pierre Soleil;23800;23039;La Celle-Dunoise;;;1.769637;46.308158
+23039_v7az14_00001;1;;Le Bachelier;23800;23039;La Celle-Dunoise;;;1.747126;46.337239
+23039_zvf2hj_00001;1;;La Bussiere;23800;23039;La Celle-Dunoise;;;1.772856;46.320865
+23039_0046_00018;18;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.773323;46.308513
+23039_azumcv_00006;6;;Puyduris;23800;23039;La Celle-Dunoise;;;1.750317;46.332897
+23039_0046_00027;27;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.775919;46.308421
+23039_8z1w9k_00002;2;;La Tronchette;23800;23039;La Celle-Dunoise;;;1.783209;46.292195
+23039_azumcv_00005;5;;Puyduris;23800;23039;La Celle-Dunoise;;;1.750416;46.33283
+23039_ryu0x8_00010;10;;Le Cluzeau;23800;23039;La Celle-Dunoise;;;1.794387;46.295009
+23039_r845ak_00013;13;;Le Coureau;23800;23039;La Celle-Dunoise;;;1.794042;46.292043
+23039_b348_00007;7;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.798643;46.309502
+23039_c0itdh_00007;7;;Le Couret;23800;23039;La Celle-Dunoise;;;1.740995;46.33495
+23039_ryu0x8_00009;9;;Le Cluzeau;23800;23039;La Celle-Dunoise;;;1.791633;46.296237
+23039_b348_00004;4;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.797581;46.31006
+23039_0dz36s_00004;4;;Villemore;23800;23039;La Celle-Dunoise;;;1.788307;46.318369
+23039_gctsyn_00017;17;;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.813803;46.278505
+23039_muj2f2_00013;13;;Les Granges;23800;23039;La Celle-Dunoise;;;1.775547;46.315896
+23039_a008_00006;6;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.772582;46.31229
+23039_xe513a_00022;22;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.812046;46.2912
+23039_a008_00007;7;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.772331;46.311665
+23039_0046_00020;20;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.773552;46.308709
+23039_b169_00023;23;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.810637;46.310284
+23039_a008_00021;21;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.772737;46.311929
+23039_a004_00011;11;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.777718;46.307166
+23039_8z1w9k_00003;3;;La Tronchette;23800;23039;La Celle-Dunoise;;;1.78393;46.292627
+23039_gctsyn_00012;12;;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.816086;46.278254
+23039_gctsyn_00006;6;;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.816408;46.278595
+23039_a004_00002;2;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.776889;46.308306
+23039_b169_00005;5;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.80717;46.308887
+23039_b348_00015;15;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.802187;46.311294
+23039_bs6vlj_00015;15;;Lavaud;23800;23039;La Celle-Dunoise;;;1.754503;46.323181
+23039_gctsyn_00001;1;;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.816861;46.281192
+23039_0040_00001;1;;Route des Peintres;23800;23039;La Celle-Dunoise;;;1.769429;46.31012
+23039_oiitp2_00002;2;;Place de la Pierre Soleil;23800;23039;La Celle-Dunoise;;;1.769711;46.308207
+23039_0070_00014;14;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770718;46.310928
+23039_u3pctq_00009;9;;Puylareau;23800;23039;La Celle-Dunoise;;;1.765126;46.328652
+23039_6vaw0l_00003;3;;Le Poirier;23800;23039;La Celle-Dunoise;;;1.781197;46.296134
+23039_0070_00020;20;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770758;46.3113
+23039_b348_00019;19;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.803671;46.310421
+23039_bs6vlj_00013;13;;Lavaud;23800;23039;La Celle-Dunoise;;;1.75506;46.323046
+23039_amamm4_00022;22;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.768213;46.330274
+23039_wkgrxx_00002;2;;Cessac;23800;23039;La Celle-Dunoise;;;1.801147;46.298102
+23039_muj2f2_00005;5;;Les Granges;23800;23039;La Celle-Dunoise;;;1.776004;46.316698
+23039_6vaw0l_00001;1;;Le Poirier;23800;23039;La Celle-Dunoise;;;1.781964;46.296086
+23039_6vaw0l_00007;7;;Le Poirier;23800;23039;La Celle-Dunoise;;;1.780967;46.295928
+23039_0035_00012;12;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769496;46.308695
+23039_cpghaf_00012;12;;Longsagne;23800;23039;La Celle-Dunoise;;;1.80262;46.31551
+23039_ryu0x8_00007;7;;Le Cluzeau;23800;23039;La Celle-Dunoise;;;1.791761;46.295997
+23039_azumcv_00010;10;;Puyduris;23800;23039;La Celle-Dunoise;;;1.750274;46.333154
+23039_4z3fdu_00010;10;;La Betoulle;23800;23039;La Celle-Dunoise;;;1.776436;46.285843
+23039_6vaw0l_00002;2;;Le Poirier;23800;23039;La Celle-Dunoise;;;1.781708;46.296059
+23039_xe513a_00010;10;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.810123;46.292831
+23039_b348_00022;22;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.805165;46.310204
+23039_muj2f2_00004;4;;Les Granges;23800;23039;La Celle-Dunoise;;;1.775974;46.316833
+23039_gctsyn_00008;8;;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.81637;46.278431
+23039_0040_00007;7;;Route des Peintres;23800;23039;La Celle-Dunoise;;;1.768752;46.311075
+23039_0018_00003;3;;Chemin des Fosses;23800;23039;La Celle-Dunoise;;;1.769563;46.312529
+23039_6vaw0l_00006;6;;Le Poirier;23800;23039;La Celle-Dunoise;;;1.781126;46.295906
+23039_u3pctq_00004;4;;Puylareau;23800;23039;La Celle-Dunoise;;;1.767574;46.326535
+23039_0070_00006;6;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770369;46.310303
+23039_muj2f2_00011_bis;11;bis;Les Granges;23800;23039;La Celle-Dunoise;;;1.775663;46.315974
+23039_0046_00017;17;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.773911;46.308361
+23039_amamm4_00019;19;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.768074;46.330648
+23039_b169_00010;10;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.80824;46.309191
+23039_b348_00008;8;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.798551;46.309371
+23039_v7az14_00003;3;;Le Bachelier;23800;23039;La Celle-Dunoise;;;1.747455;46.337326
+23039_0046_00014;14;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.772522;46.308417
+23039_kv0wl6_00005;5;;Le Jouillat;23800;23039;La Celle-Dunoise;;;1.733348;46.344129
+23039_u3pctq_00010;10;;Puylareau;23800;23039;La Celle-Dunoise;;;1.764916;46.328641
+23039_a008_00015;15;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.772151;46.311714
+23039_0035_00032;32;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769915;46.309345
+23039_a008_00004;4;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.772285;46.312343
+23039_0016_00004;4;;Rue des Derrieres;23800;23039;La Celle-Dunoise;;;1.769182;46.308128
+23039_czid2t_00009;9;;La Gilardiere;23800;23039;La Celle-Dunoise;;;1.730943;46.341219
+23039_0016_00006;6;;Rue des Derrieres;23800;23039;La Celle-Dunoise;;;1.76907;46.308483
+23039_azumcv_00004;4;;Puyduris;23800;23039;La Celle-Dunoise;;;1.75048;46.332794
+23039_0046_00009;9;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.771654;46.308145
+23039_bs6vlj_00006;6;;Lavaud;23800;23039;La Celle-Dunoise;;;1.755933;46.321312
+23039_czid2t_00011;11;;La Gilardiere;23800;23039;La Celle-Dunoise;;;1.730901;46.341568
+23039_0015_00003;3;;Impasse Cougnetou;23800;23039;La Celle-Dunoise;;;1.770228;46.310241
+23039_chddow_00001;1;;Les Combres;23800;23039;La Celle-Dunoise;;;1.800099;46.32229
+23039_0046_00002;2;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.771063;46.308138
+23039_u3pctq_00008;8;;Puylareau;23800;23039;La Celle-Dunoise;;;1.765243;46.328592
+23039_40uvu5_00007;7;;La Brousse;23800;23039;La Celle-Dunoise;;;1.768757;46.320983
+23039_zvf2hj_00002;2;;La Bussiere;23800;23039;La Celle-Dunoise;;;1.772625;46.320827
+23039_2kb1o6_00007;7;;Puyredeuil;23800;23039;La Celle-Dunoise;;;1.792775;46.287653
+23039_b169_00021;21;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.809688;46.310211
+23039_r845ak_00010;10;;Le Coureau;23800;23039;La Celle-Dunoise;;;1.793506;46.291973
+23039_b169_00019;19;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.809672;46.310045
+23039_kv0wl6_00004;4;;Le Jouillat;23800;23039;La Celle-Dunoise;;;1.732586;46.343992
+23039_9ftf9g_00005;5;;La Vallade;23800;23039;La Celle-Dunoise;;;1.77153;46.299625
+23039_0070_00005;5;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770601;46.310572
+23039_b213_00001;1;;Moulin de Lavaud;23800;23039;La Celle-Dunoise;;;1.753058;46.320793
+23039_2kb1o6_00002;2;;Puyredeuil;23800;23039;La Celle-Dunoise;;;1.792118;46.288305
+23039_amamm4_00016;16;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.7686;46.330926
+23039_u3pctq_00005;5;;Puylareau;23800;23039;La Celle-Dunoise;;;1.767454;46.326463
+23039_0080_00001;1;;Chemin de la Vallade;23800;23039;La Celle-Dunoise;;;1.771411;46.30786
+23039_a008_00017;17;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.772295;46.311806
+23039_ryu0x8_00006;6;;Le Cluzeau;23800;23039;La Celle-Dunoise;;;1.790973;46.295937
+23039_b348_00010;10;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.798514;46.309199
+23039_r845ak_00004;4;;Le Coureau;23800;23039;La Celle-Dunoise;;;1.792457;46.292396
+23039_2kb1o6_00004;4;;Puyredeuil;23800;23039;La Celle-Dunoise;;;1.792625;46.287779
+23039_0046_00019_bis;19;bis;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.774596;46.308416
+23039_b136_00001;1;;La Fond Pouzet;23800;23039;La Celle-Dunoise;;;1.749888;46.336583
+23039_xe513a_00019;19;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.811344;46.291805
+23039_gctsyn_00009;9;;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.816394;46.278336
+23039_b169_00012;12;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.808556;46.309573
+23039_9ftf9g_00004;4;;La Vallade;23800;23039;La Celle-Dunoise;;;1.771175;46.299725
+23039_amamm4_00003;3;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.775005;46.332459
+23039_cpghaf_00004;4;;Longsagne;23800;23039;La Celle-Dunoise;;;1.799288;46.31516
+23039_0035_00036;36;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769998;46.309661
+23039_muj2f2_00003;3;;Les Granges;23800;23039;La Celle-Dunoise;;;1.775777;46.317031
+23039_muj2f2_00007;7;;Les Granges;23800;23039;La Celle-Dunoise;;;1.776266;46.31672
+23039_wkgrxx_00004;4;;Cessac;23800;23039;La Celle-Dunoise;;;1.799944;46.299377
+23039_0035_00007;7;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769855;46.308777
+23039_0035_00001;1;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.770131;46.308484
+23039_5wu5fc_00002;2;;Villejeux;23800;23039;La Celle-Dunoise;;;1.760445;46.331889
+23039_0070_00018;18;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770845;46.311151
+23039_c0itdh_00006;6;;Le Couret;23800;23039;La Celle-Dunoise;;;1.740806;46.334921
+23039_0070_00010;10;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770538;46.310601
+23039_cpghaf_00011;11;;Longsagne;23800;23039;La Celle-Dunoise;;;1.800664;46.315041
+23039_0070_00001;1;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770432;46.310284
+23039_0070_00002;2;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770161;46.310199
+23039_0dz36s_00005;5;;Villemore;23800;23039;La Celle-Dunoise;;;1.788805;46.318204
+23039_a004_00004;4;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.777245;46.308147
+23039_cpghaf_00008;8;;Longsagne;23800;23039;La Celle-Dunoise;;;1.799804;46.315372
+23039_b169_00008;8;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.808134;46.309117
+23039_b348_00024;24;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.805574;46.310333
+23039_0015_00002;2;;Impasse Cougnetou;23800;23039;La Celle-Dunoise;;;1.770063;46.31036
+23039_6vaw0l_00010;10;;Le Poirier;23800;23039;La Celle-Dunoise;;;1.779905;46.295749
+23039_0046_00026_bis;26;bis;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.775891;46.308525
+23039_0dz36s_00012;12;;Villemore;23800;23039;La Celle-Dunoise;;;1.789427;46.319701
+23039_u3pctq_00002;2;;Puylareau;23800;23039;La Celle-Dunoise;;;1.768881;46.325786
+23039_40uvu5_00005;5;;La Brousse;23800;23039;La Celle-Dunoise;;;1.76884;46.321304
+23039_amamm4_00015;15;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.768555;46.331078
+23039_0035_00008;8;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769482;46.308615
+23039_muj2f2_00001;1;;Les Granges;23800;23039;La Celle-Dunoise;;;1.774685;46.317583
+23039_2kb1o6_00001;1;;Puyredeuil;23800;23039;La Celle-Dunoise;;;1.791909;46.288641
+23039_0046_00012_bis;12;bis;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.772024;46.308392
+23039_0060_00002;2;;Chemin des Sillons;23800;23039;La Celle-Dunoise;;;1.768217;46.308904
+23039_amamm4_00021;21;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.768062;46.330408
+23039_bs6vlj_00005_bis;5;bis;Lavaud;23800;23039;La Celle-Dunoise;;;1.755552;46.322766
+23039_b348_00013;13;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.801581;46.31049
+23039_tt2jc7_00002;2;;Le Chiron;23800;23039;La Celle-Dunoise;;;1.74332;46.3372
+23039_a008_00010;10;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.773162;46.312225
+23039_a004_00013;13;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.778086;46.306932
+23039_bs6vlj_00018;18;;Lavaud;23800;23039;La Celle-Dunoise;;;1.752945;46.322537
+23039_0046_00034;34;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.777866;46.30855
+23039_muj2f2_00011;11;;Les Granges;23800;23039;La Celle-Dunoise;;;1.775804;46.315884
+23039_0040_00002;2;;Route des Peintres;23800;23039;La Celle-Dunoise;;;1.769252;46.310124
+23039_re34ff_00004;4;;Puychevalier;23800;23039;La Celle-Dunoise;;;1.79632;46.292288
+23039_amamm4_00023;23;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.77016;46.33279
+23039_0040_00009;9;;Route des Peintres;23800;23039;La Celle-Dunoise;;;1.768679;46.311285
+23039_a004_00009;9;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.777747;46.307432
+23039_wkgrxx_00007;7;;Cessac;23800;23039;La Celle-Dunoise;;;1.799697;46.300525
+23039_a004_00017;17;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.778499;46.306597
+23039_0040_00006;6;;Route des Peintres;23800;23039;La Celle-Dunoise;;;1.768686;46.310784
+23039_8z1w9k_00006;6;;La Tronchette;23800;23039;La Celle-Dunoise;;;1.782591;46.292819
+23039_0035_00011;11;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769759;46.30902
+23039_bs6vlj_00011;11;;Lavaud;23800;23039;La Celle-Dunoise;;;1.754982;46.323244
+23039_b348_00009;9;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.798615;46.309206
+23039_a004_00026;26;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.778585;46.306682
+23039_a004_00015;15;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.77833;46.306763
+23039_b348_00017;17;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.801754;46.312638
+23039_c0itdh_00004;4;;Le Couret;23800;23039;La Celle-Dunoise;;;1.741278;46.334612
+23039_gctsyn_00005;5;;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.816345;46.278692
+23039_0017_00014;14;;Rue de la Fontaine;23800;23039;La Celle-Dunoise;;;1.769794;46.306897
+23039_x0hxoz_00006;6;;L’Age;23800;23039;La Celle-Dunoise;;;1.808354;46.295512
+23039_muj2f2_00010;10;;Les Granges;23800;23039;La Celle-Dunoise;;;1.77609;46.316229
+23039_0035_00052;52;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.775904;46.312568
+23039_6vaw0l_00005;5;;Le Poirier;23800;23039;La Celle-Dunoise;;;1.781231;46.295928
+23039_czid2t_00013;13;;La Gilardiere;23800;23039;La Celle-Dunoise;;;1.730785;46.341676
+23039_elc3in_00009;9;;Caux;23800;23039;La Celle-Dunoise;;;1.787217;46.284649
+23039_chddow_00003;3;;Les Combres;23800;23039;La Celle-Dunoise;;;1.800109;46.322132
+23039_c0itdh_00002;2;;Le Couret;23800;23039;La Celle-Dunoise;;;1.741586;46.334615
+23039_x0hxoz_00001;1;;L’Age;23800;23039;La Celle-Dunoise;;;1.807653;46.295347
+23039_b348_00012;12;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.798919;46.309436
+23039_0050_00003;3;;Chemin de la Roseraie;23800;23039;La Celle-Dunoise;;;1.769354;46.307907
+23039_c0itdh_00005;5;;Le Couret;23800;23039;La Celle-Dunoise;;;1.741095;46.334739
+23039_bs6vlj_00005;5;;Lavaud;23800;23039;La Celle-Dunoise;;;1.756179;46.321406
+23039_0dz36s_00006;6;;Villemore;23800;23039;La Celle-Dunoise;;;1.789081;46.318169
+23039_r845ak_00011;11;;Le Coureau;23800;23039;La Celle-Dunoise;;;1.79356;46.291504
+23039_tt2jc7_00007;7;;Le Chiron;23800;23039;La Celle-Dunoise;;;1.743282;46.33779
+23039_wkgrxx_00010;10;;Cessac;23800;23039;La Celle-Dunoise;;;1.799218;46.300698
+23039_azumcv_00001;1;;Puyduris;23800;23039;La Celle-Dunoise;;;1.750952;46.330745
+23039_azumcv_00012;12;;Puyduris;23800;23039;La Celle-Dunoise;;;1.750596;46.333374
+23039_oiitp2_00007;7;;Place de la Pierre Soleil;23800;23039;La Celle-Dunoise;;;1.769426;46.308229
+23039_azumcv_00007;7;;Puyduris;23800;23039;La Celle-Dunoise;;;1.750229;46.333014
+23039_c0itdh_00006_bis;6;bis;Le Couret;23800;23039;La Celle-Dunoise;;;1.740911;46.334932
+23039_0046_00003;3;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.771427;46.308047
+23039_c0itdh_00007_bis;7;bis;Le Couret;23800;23039;La Celle-Dunoise;;;1.74139;46.334689
+23039_0dz36s_00001;1;;Villemore;23800;23039;La Celle-Dunoise;;;1.787877;46.318902
+23039_0018_00004;4;;Chemin des Fosses;23800;23039;La Celle-Dunoise;;;1.770304;46.311201
+23039_0022_00010;10;;Rue des Gandines;23800;23039;La Celle-Dunoise;;;1.778633;46.311993
+23039_x0hxoz_00010_l;10;l;L’Age;23800;23039;La Celle-Dunoise;;;1.803767;46.295433
+23039_0017_00008;8;;Rue de la Fontaine;23800;23039;La Celle-Dunoise;;;1.767638;46.305925
+23039_gctsyn_00003;3;;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.816384;46.278986
+23039_0035_00050;50;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.77157;46.31077
+23039_cpghaf_00017;17;;Longsagne;23800;23039;La Celle-Dunoise;;;1.80382;46.314438
+23039_4z3fdu_00002;2;;La Betoulle;23800;23039;La Celle-Dunoise;;;1.776422;46.283274
+23039_0046_00008_bis;8;bis;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.771636;46.308247
+23039_oiitp2_00001;1;;Place de la Pierre Soleil;23800;23039;La Celle-Dunoise;;;1.76984;46.308139
+23039_0035_00005;5;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769761;46.308355
+23039_a008_00003;3;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.772682;46.311794
+23039_r845ak_00006;6;;Le Coureau;23800;23039;La Celle-Dunoise;;;1.792945;46.292554
+23039_oiitp2_00008;8;;Place de la Pierre Soleil;23800;23039;La Celle-Dunoise;;;1.769268;46.308239
+23039_0046_00017_bis;17;bis;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.774656;46.308158
+23039_0040_00013;13;;Route des Peintres;23800;23039;La Celle-Dunoise;;;1.768498;46.311678
+23039_0040_00008;8;;Route des Peintres;23800;23039;La Celle-Dunoise;;;1.768659;46.310978
+23039_elc3in_00001;1;;Caux;23800;23039;La Celle-Dunoise;;;1.783848;46.28194
+23039_0035_00026;26;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769757;46.309181
+23039_0018_00010;10;;Chemin des Fosses;23800;23039;La Celle-Dunoise;;;1.76964;46.312112
+23039_amamm4_00009;9;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.769486;46.331606
+23039_0dz36s_00007;7;;Villemore;23800;23039;La Celle-Dunoise;;;1.789149;46.318218
+23039_b169_00018;18;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.809146;46.309907
+23039_amamm4_00004;4;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.770386;46.331325
+23039_a004_00020;20;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.777917;46.307385
+23039_bs6vlj_00012;12;;Lavaud;23800;23039;La Celle-Dunoise;;;1.754889;46.323213
+23039_amamm4_00001;1;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.774762;46.332402
+23039_a004_00018;18;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.777751;46.307669
+23039_a004_00006;6;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.777484;46.308148
+23039_0046_00015;15;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.772332;46.30827
+23039_b348_00011;11;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.798905;46.309501
+23039_0046_00029;29;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.776335;46.308455
+23039_amamm4_00006;6;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.769753;46.331289
+23039_0035_00029;29;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.770675;46.310187
+23039_0070_00007;7;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770651;46.310653
+23039_b348_00006;6;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.797719;46.309618
+23039_b169_00015;15;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.808804;46.309598
+23039_gctsyn_00014;14;;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.814837;46.279099
+23039_wkgrxx_00009;9;;Cessac;23800;23039;La Celle-Dunoise;;;1.799336;46.300522
+23039_cpghaf_00002;2;;Longsagne;23800;23039;La Celle-Dunoise;;;1.799207;46.31505
+23039_b169_00001;1;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.805788;46.309164
+23039_4z3fdu_00001;1;;La Betoulle;23800;23039;La Celle-Dunoise;;;1.776338;46.282933
+23039_rrtonj_00001;1;;Le Chaugat;23800;23039;La Celle-Dunoise;;;1.740162;46.338469
+23039_2kb1o6_00006;6;;Puyredeuil;23800;23039;La Celle-Dunoise;;;1.792909;46.287749
+23039_tt2jc7_00011;11;;Le Chiron;23800;23039;La Celle-Dunoise;;;1.743073;46.338459
+23039_0080_00003;3;;Chemin de la Vallade;23800;23039;La Celle-Dunoise;;;1.772112;46.307372
+23039_elc3in_00012;12;;Caux;23800;23039;La Celle-Dunoise;;;1.787445;46.285052
+23039_0040_00023;23;;Route des Peintres;23800;23039;La Celle-Dunoise;;;1.767369;46.313754
+23039_re34ff_00002;2;;Puychevalier;23800;23039;La Celle-Dunoise;;;1.796167;46.291786
+23039_0035_00028;28;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.772529;46.311178
+23039_cpghaf_00005;5;;Longsagne;23800;23039;La Celle-Dunoise;;;1.799443;46.315276
+23039_0046_00017_bis;17;bis;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.774512;46.308194
+23039_muj2f2_00017;17;;Les Granges;23800;23039;La Celle-Dunoise;;;1.776083;46.316327
+23039_0dz36s_00010;10;;Villemore;23800;23039;La Celle-Dunoise;;;1.789102;46.318726
+23039_tt2jc7_00001;1;;Le Chiron;23800;23039;La Celle-Dunoise;;;1.743161;46.337305
+23039_muj2f2_00016;16;;Les Granges;23800;23039;La Celle-Dunoise;;;1.774521;46.315376
+23039_0040_00011;11;;Route des Peintres;23800;23039;La Celle-Dunoise;;;1.768624;46.311391
+23039_oiitp2_00010;10;;Place de la Pierre Soleil;23800;23039;La Celle-Dunoise;;;1.769325;46.308324
+23039_0070_00016;16;;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770763;46.311022
+23039_tt2jc7_00006;6;;Le Chiron;23800;23039;La Celle-Dunoise;;;1.743256;46.337701
+23039_b169_00006;6;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.80769;46.309043
+23039_b348_00023;23;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.80524;46.310269
+23039_b348_00025;25;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.805819;46.310409
+23039_x0hxoz_00005;5;;L’Age;23800;23039;La Celle-Dunoise;;;1.808145;46.295544
+23039_a008_00009;9;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.772321;46.311815
+23039_bs6vlj_00008;8;;Lavaud;23800;23039;La Celle-Dunoise;;;1.755559;46.321282
+23039_amamm4_00020;20;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.767719;46.330575
+23039_a008_00008;8;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.77283;46.312248
+23039_cpghaf_00017_bis;17;bis;Longsagne;23800;23039;La Celle-Dunoise;;;1.803393;46.314487
+23039_0035_00034;34;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769976;46.309458
+23039_40uvu5_00003;3;;La Brousse;23800;23039;La Celle-Dunoise;;;1.768617;46.321481
+23039_xe513a_00016;16;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.810974;46.29185
+23039_a004_00010;10;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.777494;46.308134
+23039_0035_00004;4;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769498;46.308461
+23039_x0hxoz_00007;7;;L’Age;23800;23039;La Celle-Dunoise;;;1.808641;46.29552
+23039_0035_00013;13;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769885;46.309175
+23039_0022_00006;6;;Rue des Gandines;23800;23039;La Celle-Dunoise;;;1.774508;46.311258
+23039_0046_00004;4;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.77115;46.308131
+23039_czid2t_00002;2;;La Gilardiere;23800;23039;La Celle-Dunoise;;;1.732691;46.341722
+23039_a004_00005;5;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.776809;46.307818
+23039_0046_00013;13;;Rue des Pradelles;23800;23039;La Celle-Dunoise;;;1.771971;46.308209
+23039_b348_00020;20;;Le Petit Marseuil;23800;23039;La Celle-Dunoise;;;1.80396;46.31031
+23039_ryu0x8_00003;3;;Le Cluzeau;23800;23039;La Celle-Dunoise;;;1.791224;46.296459
+23039_elc3in_00014;14;;Caux;23800;23039;La Celle-Dunoise;;;1.786999;46.285284
+23039_gctsyn_00016;16;;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.814708;46.279561
+23039_0dz36s_00003;3;;Villemore;23800;23039;La Celle-Dunoise;;;1.789444;46.319623
+23039_xe513a_00024;24;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.812883;46.290704
+23039_cpghaf_00014;14;;Longsagne;23800;23039;La Celle-Dunoise;;;1.803407;46.314535
+23039_c0itdh_00001_bis;1;bis;Le Couret;23800;23039;La Celle-Dunoise;;;1.74211;46.334954
+23039_0035_00052_ter;52;ter;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.775585;46.312242
+23039_0035_00017;17;;Rue de la Marche;23800;23039;La Celle-Dunoise;;;1.769984;46.309331
+23039_xe513a_00021;21;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.81157;46.291393
+23039_baolc2_00001;1;;Puymartin;23800;23039;La Celle-Dunoise;;;1.786598;46.313471
+23039_xe513a_00014;14;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.810677;46.292484
+23039_a008_00027;27;;Lotissement des Rouches;23800;23039;La Celle-Dunoise;;;1.773981;46.312116
+23039_amamm4_00017;17;;Puymanteau;23800;23039;La Celle-Dunoise;;;1.768424;46.330699
+23039_kv0wl6_00002;2;;Le Jouillat;23800;23039;La Celle-Dunoise;;;1.731521;46.343861
+23039_b169_00022;22;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.810036;46.310218
+23039_b169_00017;17;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.80947;46.309936
+23039_oiitp2_00006;6;;Place de la Pierre Soleil;23800;23039;La Celle-Dunoise;;;1.769396;46.308062
+23039_czid2t_00004;4;;La Gilardiere;23800;23039;La Celle-Dunoise;;;1.731029;46.341054
+23039_0060_00001;1;;Chemin des Sillons;23800;23039;La Celle-Dunoise;;;1.768209;46.308977
+23039_0070_00013_a;13;a;Rue du Tutet;23800;23039;La Celle-Dunoise;;;1.770997;46.312028
+23039_xe513a_00018;18;;Les Chiers;23800;23039;La Celle-Dunoise;;;1.811314;46.291658
+23039_muj2f2_00009;9;;Les Granges;23800;23039;La Celle-Dunoise;;;1.776054;46.316279
+23039_b169_00020;20;;Le Grand Marseuil;23800;23039;La Celle-Dunoise;;;1.809829;46.310076
+23039_u3pctq_00007;7;;Puylareau;23800;23039;La Celle-Dunoise;;;1.765197;46.328346
+23039_a004_00016;16;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.77764;46.307745
+23039_cpghaf_00003;3;;Longsagne;23800;23039;La Celle-Dunoise;;;1.799239;46.315121
+23039_0040_00025;25;;Route des Peintres;23800;23039;La Celle-Dunoise;;;1.766297;46.315534
+23039_40uvu5_00006;6;;La Brousse;23800;23039;La Celle-Dunoise;;;1.768603;46.321202
+23039_0022_00006_ter;6;ter;Rue des Gandines;23800;23039;La Celle-Dunoise;;;1.77509;46.311452
+23039_4z3fdu_00004;4;;La Betoulle;23800;23039;La Celle-Dunoise;;;1.776639;46.283588
+23039_0040_00019;19;;Route des Peintres;23800;23039;La Celle-Dunoise;;;1.768209;46.312326
+23039_gctsyn_00002;2;;Le Beausoleil;23800;23039;La Celle-Dunoise;;;1.816161;46.27897
+23039_a004_00008;8;;Lotissement du Pre Montet;23800;23039;La Celle-Dunoise;;;1.777579;46.308152
+23039_0022_00004;4;;Rue des Gandines;23800;23039;La Celle-Dunoise;;;1.773621;46.311103
+23039_r845ak_00007;7;;Le Coureau;23800;23039;La Celle-Dunoise;;;1.793664;46.292354
+23039_x0hxoz_00003;3;;L’Age;23800;23039;La Celle-Dunoise;;;1.808021;46.295443
+23039_oiitp2_00005;5;;Place de la Pierre Soleil;23800;23039;La Celle-Dunoise;;;1.769481;46.308063

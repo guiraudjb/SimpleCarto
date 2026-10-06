@@ -1,0 +1,496 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+71279_0760_00439;439;;Route de la Chapelle;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.486104;46.557907
+71279_2550_00244;244;;Chemin du Louet;71220;71279;Le Rousset-Marizy;Marizy;Le Louet;4.405995;46.570021
+71279_4040_00349;349;;Route des Tailles;71220;71279;Le Rousset-Marizy;Le Rousset;Noireux;4.492578;46.580411
+71279_3560_00166;166;;Chemin des Rebichons;71220;71279;Le Rousset-Marizy;Le Rousset;Les Rebichons;4.488379;46.581639
+71279_3680_00175;175;;Chemin du Rompoi;71220;71279;Le Rousset-Marizy;Le Rousset;Le Petit Fussy;4.447017;46.585193
+71279_0231_00021;21;;Route des Arrosées;71220;71279;Le Rousset-Marizy;Le Rousset;;4.465573;46.561914
+71279_3890_00042;42;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408403;46.566041
+71279_4350_00080;80;;Chemin des Vignes;71220;71279;Le Rousset-Marizy;Le Rousset;Les Vignes Le Rousset;4.498071;46.580168
+71279_0730_00489;489;;Chemin des Champs;71220;71279;Le Rousset-Marizy;Le Rousset;;4.467987;46.574766
+71279_3890_00685;685;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Place du Brouillat;4.405933;46.561197
+71279_3890_00114;114;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408728;46.565495
+71279_0181_01260;1260;;Chemin des Apports;71220;71279;Le Rousset-Marizy;Marizy;;4.383881;46.560503
+71279_3250_00411;411;;Route d'Orgeval;71220;71279;Le Rousset-Marizy;Marizy;;4.4141;46.564981
+71279_0050_00009;9;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408079;46.56636
+71279_2800_00781;781;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.491691;46.576445
+71279_4335_00010;10;;Chemin du Vieux Château;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.463656;46.570379
+71279_1800_00030;30;;Chemin de Forge;71220;71279;Le Rousset-Marizy;Marizy;Commugny;4.366072;46.572025
+71279_4050_00280;280;;Chemin Le Vergne;71220;71279;Le Rousset-Marizy;Marizy;Place de La Vergne;4.358099;46.568496
+71279_4450_02939;2939;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;Les Dalleris;4.386118;46.58673
+71279_3800_00200;200;;Chemin de Saint-Pierre;71220;71279;Le Rousset-Marizy;Marizy;La Condemine;4.403543;46.565641
+71279_2550_00380;380;;Chemin du Louet;71220;71279;Le Rousset-Marizy;Marizy;Le Louet La Trappe;4.405491;46.571192
+71279_0201_00138;138;;Route de l'Arconce;71220;71279;Le Rousset-Marizy;Marizy;Le Pont;4.415966;46.570896
+71279_3300_00045;45;;Chemin de Plaisance;71220;71279;Le Rousset-Marizy;Le Rousset;;4.50751;46.578389
+71279_3940_00491;491;;Route de Sury;71220;71279;Le Rousset-Marizy;Marizy;Les Mauliaux;4.416772;46.575713
+71279_1210_00036;36;;Route de la Croix des Fleurs;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.406883;46.567601
+71279_4450_01424;1424;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;Champ du Bois Marizy;4.395626;46.590527
+71279_2800_00774;774;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.491656;46.57656
+71279_0700_00140;140;;Chemin du Champ du Moulin;71220;71279;Le Rousset-Marizy;Marizy;Volsin;4.392396;46.592989
+71279_0050_00050;50;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407518;46.566312
+71279_3180_02905;2905;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.493981;46.580835
+71279_0201_00225;225;;Route de l'Arconce;71220;71279;Le Rousset-Marizy;Marizy;Le Pont;4.417313;46.571121
+71279_2990_00025;25;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407937;46.566695
+71279_0890_02390;2390;;Route de Commugny;71220;71279;Le Rousset-Marizy;Marizy;;4.371866;46.572123
+71279_0730_00250;250;;Chemin des Champs;71220;71279;Le Rousset-Marizy;Le Rousset;Le Parc;4.465743;46.575704
+71279_0530_00215;215;;Chemin du Brouillat;71220;71279;Le Rousset-Marizy;Marizy;;4.408764;46.560903
+71279_0201_00142;142;;Route de l'Arconce;71220;71279;Le Rousset-Marizy;Marizy;Le Pont;4.415991;46.570662
+71279_3940_02850;2850;;Route de Sury;71220;71279;Le Rousset-Marizy;Marizy;;4.422771;46.593666
+71279_0181_00739;739;;Chemin des Apports;71220;71279;Le Rousset-Marizy;Marizy;;4.385726;46.556858
+71279_0730_00385;385;;Chemin des Champs;71220;71279;Le Rousset-Marizy;Le Rousset;;4.467471;46.575452
+71279_3850_00509;509;;Impasse de Sanverne;71220;71279;Le Rousset-Marizy;Marizy;;4.404304;46.537608
+71279_2320_00999;999;;Route du Lac;71220;71279;Le Rousset-Marizy;Le Rousset;Bois du Rousset;4.450756;46.57949
+71279_0391_00143;143;;Rue de la Bascule;71220;71279;Le Rousset-Marizy;Le Rousset;Noireux;4.492617;46.582053
+71279_0530_00265;265;;Chemin du Brouillat;71220;71279;Le Rousset-Marizy;Marizy;;4.409525;46.561002
+71279_2800_00301;301;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;Les Rats;4.487681;46.578345
+71279_0680_06294;6294;;Route de Chalon;71220;71279;Le Rousset-Marizy;Le Rousset;Les Brosses Tillots;4.468085;46.597164
+71279_1565_01124;1124;;Impasse d'En Fer;71220;71279;Le Rousset-Marizy;Le Rousset;;4.498151;46.569193
+71279_3851_00355;355;;Route de Sanverne;71220;71279;Le Rousset-Marizy;Marizy;;4.407158;46.542752
+71279_0391_00065;65;;Rue de la Bascule;71220;71279;Le Rousset-Marizy;Le Rousset;Noireux;4.493102;46.581279
+71279_1860_00071;71;;Route de la Gare;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.464801;46.571424
+71279_0730_00300;300;;Chemin des Champs;71220;71279;Le Rousset-Marizy;Le Rousset;Le Parc;4.466372;46.575984
+71279_4400_00460;460;;Route de Villard;71220;71279;Le Rousset-Marizy;Marizy;Villard;4.410002;46.574459
+71279_1fi2yj_00046;46;;Route de St-Quentin;71220;71279;Le Rousset-Marizy;Le Rousset;Vevre;4.46042;46.562111
+71279_1600_00119;119;;Chemin des Essarts;71220;71279;Le Rousset-Marizy;Le Rousset;;4.443841;46.581865
+71279_0391_00215;215;;Rue de la Bascule;71220;71279;Le Rousset-Marizy;Le Rousset;Noireux;4.492597;46.582568
+71279_0680_01084;1084;;Route de Chalon;71220;71279;Le Rousset-Marizy;Marizy;Le Pont;4.41702;46.572225
+71279_0680_00295;295;;Route de Chalon;71220;71279;Le Rousset-Marizy;Marizy;;4.410567;46.568381
+71279_2000_00095;95;;Route de La Guiche;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.463864;46.570245
+71279_2320_00851;851;;Route du Lac;71220;71279;Le Rousset-Marizy;Le Rousset;Bois du Rousset;4.448484;46.578803
+71279_3220_00601;601;;Chemin du Petit Fussy;71220;71279;Le Rousset-Marizy;Le Rousset;;4.44951;46.587076
+71279_4450_01815;1815;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;;4.39003;46.591729
+71279_4450_01064;1064;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;Champ du Bois Marizy;4.397506;46.590943
+71279_3400_02499;2499;;Route de Pouilloux;71220;71279;Le Rousset-Marizy;Marizy;Arfeuille;4.381427;46.580636
+71279_0050_00205;205;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.40578;46.565555
+71279_3180_02634;2634;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;Les Rebichons;4.490276;46.580067
+71279_0800_00050;50;;Impasse des Chaumes;71220;71279;Le Rousset-Marizy;Marizy;Lot Le Brouillat;4.407298;46.560685
+71279_3180_02530;2530;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;Les Rebichons;4.489384;46.579912
+71279_0050_00304;304;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.404787;46.565072
+71279_1950_00316;316;;Route de Grivery;71220;71279;Le Rousset-Marizy;Marizy;La Croix;4.409662;46.548064
+71279_2980_00589;589;;Chemin de Montboin;71220;71279;Le Rousset-Marizy;Marizy;Montboin;4.426049;46.581493
+71279_3180_02944;2944;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.494261;46.5805
+71279_2800_00710;710;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.492223;46.577008
+71279_0870_01277;1277;;Impasse des Clochards;71220;71279;Le Rousset-Marizy;Marizy;;4.387564;46.544181
+71279_2990_00070;70;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408043;46.56714
+71279_3451_00221;221;;Impasse de la Raie d'André;71220;71279;Le Rousset-Marizy;Marizy;La Priaulaine;4.365718;46.575849
+71279_0680_01795;1795;;Route de Chalon;71220;71279;Le Rousset-Marizy;Marizy;Fontaine Chaude;4.426663;46.570609
+71279_1990_00930;930;;Route de Gueugnon;71220;71279;Le Rousset-Marizy;Le Rousset;Le Grand Prè Le Rousset;4.462095;46.59996
+71279_1fi2yj_00059;59;;Route de St-Quentin;71220;71279;Le Rousset-Marizy;Le Rousset;Vevre;4.461034;46.562316
+71279_0680_00025;25;;Route de Chalon;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408532;46.566615
+71279_0760_00115;115;;Route de la Chapelle;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.482472;46.556404
+71279_3850_00350;350;;Impasse de Sanverne;71220;71279;Le Rousset-Marizy;Marizy;;4.403156;46.538653
+71279_1800_00011;11;;Chemin de Forge;71220;71279;Le Rousset-Marizy;Marizy;Commugny;4.366552;46.572104
+71279_2320_00066;66;;Route du Lac;71220;71279;Le Rousset-Marizy;Le Rousset;Moulin du Rousset;4.439016;46.57694
+71279_3620_00530;530;;Chemin de Roche;71220;71279;Le Rousset-Marizy;Marizy;;4.433167;46.578848
+71279_0050_00262;262;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.405177;46.565318
+71279_4110_00224;224;;Chemin des Terres;71220;71279;Le Rousset-Marizy;Le Rousset;Le Haut des Champs;4.46688;46.580525
+71279_0530_00055;55;;Chemin du Brouillat;71220;71279;Le Rousset-Marizy;Marizy;;4.40689;46.561803
+71279_0920_00009;9;;Route des Corbeaux;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.464858;46.570812
+71279_2450_00170;170;;Chemin du Lavoir;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.463867;46.570733
+71279_3420_00136;136;;Chemin des Poulets;71220;71279;Le Rousset-Marizy;Marizy;Les Poulets;4.41792;46.59594
+71279_1370_00416;416;;Chemin de la Défense;71220;71279;Le Rousset-Marizy;Marizy;;4.399801;46.547932
+71279_1210_00135;135;;Route de la Croix des Fleurs;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.405512;46.567568
+71279_2800_00335;335;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.488264;46.578231
+71279_4321_00445;445;;Route des Vernes Bredas;71220;71279;Le Rousset-Marizy;Marizy;Creux Terrier;4.431381;46.58578
+71279_4450_01811;1811;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;;4.390152;46.591707
+71279_4450_03520;3520;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;Les Chavriots;4.380865;46.583326
+71279_2800_00440;440;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.489321;46.577971
+71279_1800_00420;420;;Chemin de Forge;71220;71279;Le Rousset-Marizy;Marizy;Forge;4.366876;46.568726
+71279_0530_00090;90;;Chemin du Brouillat;71220;71279;Le Rousset-Marizy;Marizy;;4.407254;46.561281
+71279_2990_00064;64;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407959;46.567042
+71279_0760_00395;395;;Route de la Chapelle;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.485539;46.557767
+71279_3890_01006;1006;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Brouillat;4.402881;46.559466
+71279_1860_00003;3;;Route de la Gare;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.464385;46.571104
+71279_2790_02275;2275;;Route de Martigny;71220;71279;Le Rousset-Marizy;Marizy;Forge;4.362031;46.567817
+71279_1270_01275;1275;;Route des Croux;71220;71279;Le Rousset-Marizy;Marizy;Les Pras;4.400413;46.544012
+71279_3850_00055;55;;Impasse de Sanverne;71220;71279;Le Rousset-Marizy;Marizy;;4.405621;46.540963
+71279_2550_00030;30;;Chemin du Louet;71220;71279;Le Rousset-Marizy;Marizy;Le Theurot;4.405145;46.568232
+71279_1920_00575;575;;Route du Grand Fussy;71220;71279;Le Rousset-Marizy;Le Rousset;;4.458336;46.597277
+71279_4450_02150;2150;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;;4.387849;46.592953
+71279_2990_00020;20;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.40826;46.566697
+71279_3180_03076;3076;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.495815;46.58028
+71279_1560_00051;51;;Chemin de l'Eglise;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.465208;46.571764
+71279_2990_00084;84;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407959;46.567207
+71279_1860_01160;1160;;Route de la Gare;71220;71279;Le Rousset-Marizy;Le Rousset;Sur La Place;4.459773;46.578482
+71279_0050_00590;590;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;La Vigne Marizy;4.401773;46.563594
+71279_3800_00491;491;;Chemin de Saint-Pierre;71220;71279;Le Rousset-Marizy;Marizy;La Croix des Fleurs;4.404741;46.568008
+71279_3800_00194;194;;Chemin de Saint-Pierre;71220;71279;Le Rousset-Marizy;Marizy;La Condemine;4.403372;46.565513
+71279_0700_00010;10;;Chemin du Champ du Moulin;71220;71279;Le Rousset-Marizy;Marizy;Volsin;4.393332;46.592113
+71279_1920_00785;785;;Route du Grand Fussy;71220;71279;Le Rousset-Marizy;Le Rousset;;4.456476;46.598502
+71279_3800_00150;150;;Chemin de Saint-Pierre;71220;71279;Le Rousset-Marizy;Marizy;La Condemine;4.403232;46.565213
+71279_0050_00101;101;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.406949;46.566091
+71279_3890_00046;46;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.40844;46.565967
+71279_0760_00330;330;;Route de la Chapelle;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.484705;46.557404
+71279_2990_00085;85;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407701;46.56717
+71279_0680_03051;3051;;Route de Chalon;71220;71279;Le Rousset-Marizy;Le Rousset;Moulin du Rousset;4.438228;46.577732
+71279_1860_00001;1;;Route de la Gare;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.464635;46.571071
+71279_1860_00526;526;;Route de la Gare;71220;71279;Le Rousset-Marizy;Le Rousset;Le Mal Crochet;4.461608;46.574292
+71279_4110_00085;85;;Chemin des Terres;71220;71279;Le Rousset-Marizy;Le Rousset;Le Haut des Champs;4.466964;46.579341
+71279_2800_00435;435;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.489399;46.578021
+71279_1fi2yj_00154;154;;Route de St-Quentin;71220;71279;Le Rousset-Marizy;Le Rousset;Vevre;4.462287;46.561682
+71279_1960_00685;685;;Chemin des Gros Bois;71220;71279;Le Rousset-Marizy;Le Rousset;Le Gros Bois Le Rousset;4.456897;46.60399
+71279_0181_01019;1019;;Chemin des Apports;71220;71279;Le Rousset-Marizy;Marizy;;4.383062;46.558556
+71279_0760_00116;116;;Route de la Chapelle;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.48252;46.556362
+71279_1860_00029;29;;Route de la Gare;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.464911;46.571129
+71279_2800_00094;94;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;Les Rats;4.485085;46.57891
+71279_0201_00094;94;;Route de l'Arconce;71220;71279;Le Rousset-Marizy;Marizy;Le Pont;4.416085;46.57135
+71279_2800_00854;854;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.491081;46.57605
+71279_2550_00260;260;;Chemin du Louet;71220;71279;Le Rousset-Marizy;Marizy;Le Louet;4.40638;46.570324
+71279_2800_00199;199;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;Les Rats;4.486191;46.578698
+71279_4335_00100;100;;Chemin du Vieux Château;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.462565;46.570304
+71279_1860_00025;25;;Route de la Gare;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.464828;46.571174
+71279_1860_01670;1670;;Route de la Gare;71220;71279;Le Rousset-Marizy;Le Rousset;Les Terres;4.46387;46.58126
+71279_0391_00060;60;;Rue de la Bascule;71220;71279;Le Rousset-Marizy;Le Rousset;Noireux;4.493351;46.581226
+71279_2990_00199;199;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.406869;46.568341
+71279_0680_02500;2500;;Route de Chalon;71220;71279;Le Rousset-Marizy;Le Rousset;Le Foulon;4.43416;46.573918
+71279_0890_00280;280;;Route de Commugny;71220;71279;Le Rousset-Marizy;Marizy;Champ Chevene;4.39762;46.56981
+71279_4450_01910;1910;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;;4.39089;46.592982
+71279_3620_00074;74;;Chemin de Roche;71220;71279;Le Rousset-Marizy;Marizy;;4.435008;46.581044
+71279_0920_00425;425;;Route des Corbeaux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.468891;46.568491
+71279_0850_00040;40;;Chemin des Choux Bardot;71220;71279;Le Rousset-Marizy;Le Rousset;Les Rats;4.486125;46.578107
+71279_3180_03020;3020;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.495329;46.580281
+71279_2000_00241;241;;Route de La Guiche;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.463177;46.569052
+71279_3220_00440;440;;Chemin du Petit Fussy;71220;71279;Le Rousset-Marizy;Le Rousset;;4.450905;46.587173
+71279_2800_00701;701;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.492403;46.576982
+71279_3000_00020;20;;Chemin de Montfreau;71220;71279;Le Rousset-Marizy;Marizy;Les Badeys;4.38006;46.571324
+71279_4100_00244;244;;Chemin des Tatins;71220;71279;Le Rousset-Marizy;Marizy;;4.378731;46.580775
+71279_3180_02941;2941;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.494441;46.58071
+71279_1fi2yj_00079;79;;Route de St-Quentin;71220;71279;Le Rousset-Marizy;Le Rousset;Vevre;4.461333;46.562246
+71279_0850_00014;14;;Chemin des Choux Bardot;71220;71279;Le Rousset-Marizy;Le Rousset;Les Rats;4.486281;46.578433
+71279_3940_02975;2975;;Route de Sury;71220;71279;Le Rousset-Marizy;Marizy;;4.421159;46.594017
+71279_2450_00005;5;;Chemin du Lavoir;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.463975;46.57192
+71279_4100_00246;246;;Chemin des Tatins;71220;71279;Le Rousset-Marizy;Marizy;;4.378785;46.58054
+71279_2050_00134;134;;Impasse des Hirondelles;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.484799;46.556264
+71279_2550_00355;355;;Chemin du Louet;71220;71279;Le Rousset-Marizy;Marizy;;4.405254;46.570816
+71279_3180_03005;3005;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.495151;46.580634
+71279_0730_00611;611;;Chemin des Champs;71220;71279;Le Rousset-Marizy;Le Rousset;;4.468977;46.573796
+71279_4400_00135;135;;Route de Villard;71220;71279;Le Rousset-Marizy;Marizy;Villard;4.410005;46.57723
+71279_2000_01111;1111;;Route de La Guiche;71220;71279;Le Rousset-Marizy;Le Rousset;Vevre;4.459391;46.561656
+71279_3420_00030;30;;Chemin des Poulets;71220;71279;Le Rousset-Marizy;Marizy;Les Poulets;4.417412;46.595262
+71279_4450_01930;1930;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;;4.390874;46.593151
+71279_2800_00500;500;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.490142;46.577837
+71279_3930_00050;50;;Impasse de St-Quentin;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.483715;46.556278
+71279_3220_00815;815;;Chemin du Petit Fussy;71220;71279;Le Rousset-Marizy;Le Rousset;;4.44632;46.586753
+71279_0500_00299;299;;Chemin des Brosses Tillots;71220;71279;Le Rousset-Marizy;Le Rousset;;4.47265;46.596915
+71279_2790_01951;1951;;Route de Martigny;71220;71279;Le Rousset-Marizy;Marizy;Forge;4.363108;46.570037
+71279_0231_00330;330;;Route des Arrosées;71220;71279;Le Rousset-Marizy;Le Rousset;;4.469274;46.561911
+71279_0760_00191;191;;Route de la Chapelle;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.483232;46.556751
+71279_0760_00530;530;;Route de la Chapelle;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.487232;46.557615
+71279_0890_02676;2676;;Route de Commugny;71220;71279;Le Rousset-Marizy;Marizy;;4.367965;46.572303
+71279_3890_00840;840;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Brouillat;4.404133;46.560598
+71279_2800_00496;496;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.490088;46.577853
+71279_3180_03085;3085;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.496225;46.580531
+71279_4450_01876;1876;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;;4.390892;46.59268
+71279_3890_00028;28;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408329;46.566172
+71279_0690_00114;114;;Impasse du Champ Dernier;71220;71279;Le Rousset-Marizy;Marizy;Le Champ Dernier;4.415564;46.579031
+71279_3890_00077;77;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408678;46.565777
+71279_2450_00091;91;;Chemin du Lavoir;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.463565;46.571434
+71279_1860_00125;125;;Route de la Gare;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.464457;46.57176
+71279_0201_00069;69;;Route de l'Arconce;71220;71279;Le Rousset-Marizy;Marizy;Le Pont;4.415938;46.571546
+71279_4450_01500;1500;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;Les Petits Marots;4.394549;46.590988
+71279_1860_00450;450;;Route de la Gare;71220;71279;Le Rousset-Marizy;Le Rousset;Le Mal Crochet;4.461898;46.574102
+71279_3890_00141;141;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.40902;46.565214
+71279_3080_00005;5;;Chemin du Moulin du Rousset;71220;71279;Le Rousset-Marizy;Marizy;;4.43728;46.577106
+71279_3620_00070;70;;Chemin de Roche;71220;71279;Le Rousset-Marizy;Marizy;;4.435351;46.581102
+71279_2990_00103;103;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407572;46.56733
+71279_1920_00945;945;;Route du Grand Fussy;71220;71279;Le Rousset-Marizy;Le Rousset;;4.454399;46.599181
+71279_2550_00033;33;;Chemin du Louet;71220;71279;Le Rousset-Marizy;Marizy;La Croix des Fleurs;4.40508;46.568306
+71279_0760_00161;161;;Route de la Chapelle;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.482918;46.556626
+71279_3851_00900;900;;Route de Sanverne;71220;71279;Le Rousset-Marizy;Marizy;;4.40425;46.544315
+71279_4040_00250;250;;Route des Tailles;71220;71279;Le Rousset-Marizy;Le Rousset;Noireux;4.492134;46.579485
+71279_2550_00240;240;;Chemin du Louet;71220;71279;Le Rousset-Marizy;Marizy;;4.406217;46.570041
+71279_2990_00201;201;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.406869;46.568341
+71279_4100_00245;245;;Chemin des Tatins;71220;71279;Le Rousset-Marizy;Marizy;;4.378809;46.580725
+71279_2200_01380;1380;;Chemin des Jonchis;71220;71279;Le Rousset-Marizy;Le Rousset;Les Jonchis;4.475634;46.590647
+71279_0760_00225;225;;Route de la Chapelle;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.483689;46.556949
+71279_0050_00263;263;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.405298;46.565233
+71279_2990_00016;16;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.40838;46.566724
+71279_4450_03339;3339;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;Les Chassins;4.383307;46.583849
+71279_3180_02994;2994;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.495051;46.580421
+71279_1800_00650;650;;Chemin de Forge;71220;71279;Le Rousset-Marizy;Marizy;Forge;4.364769;46.568312
+71279_0050_00063;63;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407396;46.566199
+71279_0760_00162;162;;Route de la Chapelle;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.48329;46.556689
+71279_2000_00100;100;;Route de La Guiche;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.463688;46.570242
+71279_2990_00170;170;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407635;46.567832
+71279_3940_02801;2801;;Route de Sury;71220;71279;Le Rousset-Marizy;Marizy;;4.423023;46.593253
+71279_0680_00305;305;;Route de Chalon;71220;71279;Le Rousset-Marizy;Marizy;;4.410648;46.568597
+71279_4450_01485;1485;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;Le Gevrizot;4.394459;46.590773
+71279_0680_00170;170;;Route de Chalon;71220;71279;Le Rousset-Marizy;Marizy;;4.409943;46.567477
+71279_3160_00049;49;;Chemin du Paradis;71220;71279;Le Rousset-Marizy;Marizy;Les Poulets;4.416168;46.594355
+71279_0050_00037;37;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407738;46.566267
+71279_0050_00121;121;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.406645;46.565914
+71279_3890_00764;764;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Brouillat;4.405164;46.560708
+71279_2790_00100;100;;Route de Martigny;71220;71279;Le Rousset-Marizy;Marizy;Les Tatins;4.378402;46.582501
+71279_2790_00455;455;;Route de Martigny;71220;71279;Le Rousset-Marizy;Marizy;Les Tatins;4.376549;46.579796
+71279_3220_00845;845;;Chemin du Petit Fussy;71220;71279;Le Rousset-Marizy;Le Rousset;;4.445867;46.586586
+71279_0700_00260;260;;Chemin du Champ du Moulin;71220;71279;Le Rousset-Marizy;Marizy;Volsin;4.391182;46.593769
+71279_3180_02920;2920;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.494058;46.580586
+71279_2800_00265;265;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;Les Rats;4.487357;46.578513
+71279_2000_00963;963;;Route de La Guiche;71220;71279;Le Rousset-Marizy;Le Rousset;Vevre;4.460929;46.562935
+71279_0870_01275;1275;;Impasse des Clochards;71220;71279;Le Rousset-Marizy;Marizy;;4.387564;46.544181
+71279_0050_00090;90;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.406981;46.566225
+71279_2990_00092;92;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407913;46.567278
+71279_2800_00770;770;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.491669;46.576597
+71279_0530_00489;489;;Chemin du Brouillat;71220;71279;Le Rousset-Marizy;Marizy;;4.411032;46.561813
+71279_3940_00004;4;;Route de Sury;71220;71279;Le Rousset-Marizy;Marizy;Le Pont;4.414633;46.571725
+71279_3220_00439;439;;Chemin du Petit Fussy;71220;71279;Le Rousset-Marizy;Le Rousset;;4.45091;46.586972
+71279_1770_00180;180;;Chemin de Fontaine Chaude;71220;71279;Le Rousset-Marizy;Le Rousset;;4.428428;46.569641
+71279_0550_00219;219;;Chemin des Bruyères;71220;71279;Le Rousset-Marizy;Marizy;Les Bruyères;4.405602;46.586163
+71279_0680_01819;1819;;Route de Chalon;71220;71279;Le Rousset-Marizy;Marizy;Fontaine Chaude;4.426675;46.571161
+71279_1fi2yj_00416;416;;Route de St-Quentin;71220;71279;Le Rousset-Marizy;Le Rousset;;4.46533;46.561569
+71279_4110_00225;225;;Chemin des Terres;71220;71279;Le Rousset-Marizy;Le Rousset;Le Haut des Champs;4.466788;46.580564
+71279_1800_00465;465;;Chemin de Forge;71220;71279;Le Rousset-Marizy;Marizy;Forge;4.367356;46.567974
+71279_3830_00085;85;;Chemin de la Salle Polyvalente;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.40633;46.568775
+71279_1950_00194;194;;Route de Grivery;71220;71279;Le Rousset-Marizy;Marizy;La Croix;4.408036;46.547401
+71279_0391_00080;80;;Rue de la Bascule;71220;71279;Le Rousset-Marizy;Le Rousset;Noireux;4.493305;46.581375
+71279_1210_00041;41;;Route de la Croix des Fleurs;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.406701;46.567237
+71279_2800_00280;280;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;Les Rats;4.48758;46.578302
+71279_0760_00186;186;;Route de la Chapelle;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.483465;46.556771
+71279_0890_00310;310;;Route de Commugny;71220;71279;Le Rousset-Marizy;Marizy;Champ Chevene;4.397128;46.569697
+71279_3800_00076;76;;Chemin de Saint-Pierre;71220;71279;Le Rousset-Marizy;Marizy;La Condemine;4.4032;46.564623
+71279_2800_00414;414;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.489054;46.577991
+71279_1600_00021;21;;Chemin des Essarts;71220;71279;Le Rousset-Marizy;Le Rousset;;4.443417;46.581026
+71279_4450_01420;1420;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;Champ du Bois Marizy;4.395626;46.590527
+71279_3890_02350;2350;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;;4.404433;46.548265
+71279_3400_02420;2420;;Route de Pouilloux;71220;71279;Le Rousset-Marizy;Marizy;Arfeuille;4.382652;46.580452
+71279_4040_00340;340;;Route des Tailles;71220;71279;Le Rousset-Marizy;Le Rousset;Noireux;4.492922;46.580283
+71279_3890_00082;82;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408589;46.565703
+71279_3450_00490;490;;Chemin de la Raie d'André;71220;71279;Le Rousset-Marizy;Marizy;;4.361699;46.576278
+71279_2800_00155;155;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;Les Rats;4.486;46.578733
+71279_4350_00330;330;;Chemin des Vignes;71220;71279;Le Rousset-Marizy;Le Rousset;Les Vignes Le Rousset;4.501254;46.579679
+71279_1560_00030;30;;Chemin de l'Eglise;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.465491;46.571494
+71279_3851_00455;455;;Route de Sanverne;71220;71279;Le Rousset-Marizy;Marizy;;4.406658;46.542011
+71279_3180_03021;3021;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.495437;46.580625
+71279_2790_00011;11;;Route de Martigny;71220;71279;Le Rousset-Marizy;Marizy;Les Tatins;4.379996;46.582682
+71279_0050_00040;40;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407671;46.566351
+71279_2800_00820;820;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.491396;46.576295
+71279_1370_00146;146;;Chemin de la Défense;71220;71279;Le Rousset-Marizy;Marizy;;4.401343;46.550075
+71279_2800_00760;760;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.491836;46.576715
+71279_3180_02885;2885;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.493694;46.580784
+71279_3900_00005;5;;Rue St-Denis;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.465057;46.571569
+71279_3221_00181;181;;Impasse du Petit Fussy;71220;71279;Le Rousset-Marizy;Le Rousset;;4.446166;46.58858
+71279_4450_01060;1060;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;Champ du Bois Marizy;4.398183;46.591079
+71279_0050_00027;27;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407864;46.566311
+71279_2990_00100;100;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407854;46.56736
+71279_4335_00235;235;;Chemin du Vieux Château;71220;71279;Le Rousset-Marizy;Le Rousset;Le Château d'eau;4.461419;46.571156
+71279_4280_00684;684;;Impasse des Verchères Guittet;71220;71279;Le Rousset-Marizy;Marizy;;4.42147;46.576212
+71279_0050_00170;170;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.406078;46.56592
+71279_4400_00465;465;;Route de Villard;71220;71279;Le Rousset-Marizy;Marizy;Villard;4.41039;46.57428
+71279_3060_00134;134;;Chemin du Moulin du Brouillat;71220;71279;Le Rousset-Marizy;Marizy;;4.403663;46.562849
+71279_0391_00125;125;;Rue de la Bascule;71220;71279;Le Rousset-Marizy;Le Rousset;Noireux;4.492838;46.581711
+71279_1770_00185;185;;Chemin de Fontaine Chaude;71220;71279;Le Rousset-Marizy;Le Rousset;;4.428349;46.569765
+71279_1561_00001;1;;Place de l'Eglise;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408568;46.56638
+71279_3070_00056;56;;Chemin du Moulin du Pont;71220;71279;Le Rousset-Marizy;Marizy;Le Pont;4.421397;46.571177
+71279_0760_00149;149;;Route de la Chapelle;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.48284;46.55651
+71279_4400_00420;420;;Route de Villard;71220;71279;Le Rousset-Marizy;Marizy;Villard;4.409513;46.574851
+71279_2790_00065;65;;Route de Martigny;71220;71279;Le Rousset-Marizy;Marizy;Les Tatins;4.379183;46.582519
+71279_0870_00095;95;;Impasse des Clochards;71220;71279;Le Rousset-Marizy;Marizy;Merey;4.392908;46.554484
+71279_2990_01716;1716;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Villard;4.410562;46.57904
+71279_3400_02506;2506;;Route de Pouilloux;71220;71279;Le Rousset-Marizy;Marizy;Arfeuille;4.382493;46.581231
+71279_2790_00155;155;;Route de Martigny;71220;71279;Le Rousset-Marizy;Marizy;Les Tatins;4.378248;46.581981
+71279_3580_00005;5;;Impasse de la Reine;71220;71279;Le Rousset-Marizy;Marizy;Sanverne;4.403638;46.543089
+71279_2790_00511;511;;Route de Martigny;71220;71279;Le Rousset-Marizy;Marizy;Les Tatins;4.37656;46.579332
+71279_2990_00179;179;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407139;46.567791
+71279_2800_00695;695;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.492497;46.577051
+71279_3050_00681;681;;Chemin du Moulin de Mérey;71220;71279;Le Rousset-Marizy;Marizy;;4.39298;46.544674
+71279_2800_00218;218;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;Les Rats;4.486616;46.578507
+71279_2050_00002;2;;Impasse des Hirondelles;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.484006;46.556837
+71279_0391_00035;35;;Rue de la Bascule;71220;71279;Le Rousset-Marizy;Le Rousset;Noireux;4.493088;46.58108
+71279_0560_00215;215;;Chemin de la Bussière;71220;71279;Le Rousset-Marizy;Le Rousset;Terres Bertins;4.484691;46.558987
+71279_0680_00340;340;;Route de Chalon;71220;71279;Le Rousset-Marizy;Marizy;;4.411001;46.568806
+71279_0050_00008;8;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408049;46.566447
+71279_4450_03596;3596;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;Les Tatins;4.379972;46.583112
+71279_0050_00235;235;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.405561;46.565413
+71279_2800_00469;469;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.489834;46.577955
+71279_0790_00265;265;;Chemin des Chassins;71220;71279;Le Rousset-Marizy;Marizy;;4.386052;46.582258
+71279_0920_00175;175;;Route des Corbeaux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.466005;46.56968
+71279_0530_00046;46;;Chemin du Brouillat;71220;71279;Le Rousset-Marizy;Marizy;;4.406936;46.561602
+71279_0760_00355;355;;Route de la Chapelle;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.485137;46.557574
+71279_3890_00034;34;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.40836;46.566118
+71279_0680_00765;765;;Route de Chalon;71220;71279;Le Rousset-Marizy;Marizy;Le Pont;4.41492;46.5718
+71279_1060_00020;20;;Route de Cray;71220;71279;Le Rousset-Marizy;Le Rousset;Noireux;4.496699;46.580159
+71279_3250_00789;789;;Route d'Orgeval;71220;71279;Le Rousset-Marizy;Marizy;;4.417334;46.566461
+71279_0790_00255;255;;Chemin des Chassins;71220;71279;Le Rousset-Marizy;Marizy;;4.38594;46.582706
+71279_0890_02595;2595;;Route de Commugny;71220;71279;Le Rousset-Marizy;Marizy;;4.36923;46.572401
+71279_0231_00361;361;;Route des Arrosées;71220;71279;Le Rousset-Marizy;Le Rousset;;4.470158;46.562232
+71279_0920_00007;7;;Route des Corbeaux;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.464858;46.570812
+71279_3180_02915;2915;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.494091;46.580796
+71279_3180_02519;2519;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;Les Rebichons;4.488985;46.580112
+71279_2980_00680;680;;Chemin de Montboin;71220;71279;Le Rousset-Marizy;Marizy;Montboin;4.426806;46.580948
+71279_3250_00939;939;;Route d'Orgeval;71220;71279;Le Rousset-Marizy;Marizy;;4.416813;46.567582
+71279_2800_00735;735;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.492047;46.576787
+71279_0920_00010;10;;Route des Corbeaux;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.464733;46.570745
+71279_1800_00360;360;;Chemin de Forge;71220;71279;Le Rousset-Marizy;Marizy;Forge;4.366773;46.569199
+71279_1920_00550;550;;Route du Grand Fussy;71220;71279;Le Rousset-Marizy;Le Rousset;;4.459066;46.59733
+71279_v046sl_00230;230;;Impasse de la Place du Brouillat;71220;71279;Le Rousset-Marizy;Marizy;;4.403826;46.559341
+71279_3850_00370;370;;Impasse de Sanverne;71220;71279;Le Rousset-Marizy;Marizy;;4.403215;46.538521
+71279_3060_00090;90;;Chemin du Moulin du Brouillat;71220;71279;Le Rousset-Marizy;Marizy;;4.403523;46.563106
+71279_3000_00545;545;;Chemin de Montfreau;71220;71279;Le Rousset-Marizy;Marizy;;4.376329;46.575373
+71279_3400_02744;2744;;Route de Pouilloux;71220;71279;Le Rousset-Marizy;Marizy;Les Tatins;4.380453;46.582721
+71279_3890_01230;1230;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;;4.401209;46.558073
+71279_2050_00055;55;;Impasse des Hirondelles;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.48444;46.55692
+71279_4400_00345;345;;Route de Villard;71220;71279;Le Rousset-Marizy;Marizy;Villard;4.409964;46.575259
+71279_2990_00108;108;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407813;46.567434
+71279_2990_00063;63;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407745;46.566997
+71279_3890_00171;171;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.409006;46.564961
+71279_0251_00225;225;;Chemin des Autels;71220;71279;Le Rousset-Marizy;Marizy;Volsin;4.387848;46.594658
+71279_1560_00041;41;;Chemin de l'Eglise;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.465182;46.571675
+71279_2800_00219;219;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;Les Rats;4.486629;46.578579
+71279_0760_00325;325;;Route de la Chapelle;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.48464;46.557461
+71279_3890_00190;190;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408631;46.564737
+71279_0050_00021;21;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.40766;46.566254
+71279_3940_00901;901;;Route de Sury;71220;71279;Le Rousset-Marizy;Marizy;Le Champ Dernier;4.418663;46.579022
+71279_0050_00220;220;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.405534;46.565596
+71279_3890_00600;600;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Brouillat;4.40569;46.562205
+71279_4335_00215;215;;Chemin du Vieux Château;71220;71279;Le Rousset-Marizy;Le Rousset;Le Château d'eau;4.461447;46.570961
+71279_2450_00014;14;;Chemin du Lavoir;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.463551;46.572092
+71279_3890_00056;56;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408378;46.565897
+71279_0890_02437;2437;;Route de Commugny;71220;71279;Le Rousset-Marizy;Marizy;;4.371109;46.5719
+71279_0730_00690;690;;Chemin des Champs;71220;71279;Le Rousset-Marizy;Le Rousset;;4.469969;46.573349
+71279_3930_00049;49;;Impasse de St-Quentin;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.484163;46.556449
+71279_3250_00615;615;;Route d'Orgeval;71220;71279;Le Rousset-Marizy;Marizy;;4.416902;46.565224
+71279_3890_00844;844;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Brouillat;4.403795;46.560422
+71279_0680_00015;15;;Route de Chalon;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408393;46.566544
+71279_0201_00151;151;;Route de l'Arconce;71220;71279;Le Rousset-Marizy;Marizy;Le Pont;4.416421;46.571126
+71279_3250_01171;1171;;Route d'Orgeval;71220;71279;Le Rousset-Marizy;Marizy;;4.417812;46.569662
+71279_2550_00045;45;;Chemin du Louet;71220;71279;Le Rousset-Marizy;Marizy;La Croix des Fleurs;4.405205;46.568412
+71279_2320_00215;215;;Route du Lac;71220;71279;Le Rousset-Marizy;Le Rousset;Grande Pature;4.440804;46.577346
+71279_3180_02561;2561;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;Les Rebichons;4.489469;46.580125
+71279_4335_00219;219;;Chemin du Vieux Château;71220;71279;Le Rousset-Marizy;Le Rousset;Le Château;4.46088;46.571026
+71279_2000_00231;231;;Route de La Guiche;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.463191;46.569125
+71279_3180_03055;3055;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.495771;46.580471
+71279_0870_00570;570;;Impasse des Clochards;71220;71279;Le Rousset-Marizy;Marizy;Merey;4.390307;46.550985
+71279_3180_03046;3046;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.495509;46.580135
+71279_0201_00095;95;;Route de l'Arconce;71220;71279;Le Rousset-Marizy;Marizy;Le Pont;4.416176;46.571468
+71279_0050_00045;45;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407634;46.566247
+71279_2990_00015;15;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408033;46.566598
+71279_1920_00501;501;;Route du Grand Fussy;71220;71279;Le Rousset-Marizy;Le Rousset;;4.45856;46.596964
+71279_0680_00160;160;;Route de Chalon;71220;71279;Le Rousset-Marizy;Marizy;;4.40992;46.567445
+71279_2550_00101;101;;Chemin du Louet;71220;71279;Le Rousset-Marizy;Marizy;La Croix des Fleurs;4.40546;46.568956
+71279_0680_00350;350;;Route de Chalon;71220;71279;Le Rousset-Marizy;Marizy;;4.411083;46.568898
+71279_2990_00034;34;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408071;46.566918
+71279_0181_01304;1304;;Chemin des Apports;71220;71279;Le Rousset-Marizy;Marizy;;4.383976;46.560956
+71279_3450_00801;801;;Chemin de la Raie d'André;71220;71279;Le Rousset-Marizy;Marizy;La Raie d'André;4.362711;46.577239
+71279_3220_00531;531;;Chemin du Petit Fussy;71220;71279;Le Rousset-Marizy;Le Rousset;;4.449792;46.587117
+71279_0560_00005;5;;Chemin de la Bussière;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.48385;46.557255
+71279_4450_01929;1929;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;;4.390442;46.593067
+71279_4450_01395;1395;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;Le Gevrizot;4.395691;46.589892
+71279_0820_00071;71;;Impasse des Chéniots;71220;71279;Le Rousset-Marizy;Marizy;Le Brouillat;4.406476;46.560931
+71279_3180_02948;2948;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.494611;46.580498
+71279_4280_00490;490;;Impasse des Verchères Guittet;71220;71279;Le Rousset-Marizy;Marizy;;4.421999;46.578045
+71279_3890_00330;330;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;;4.408218;46.563541
+71279_0530_00105;105;;Chemin du Brouillat;71220;71279;Le Rousset-Marizy;Marizy;;4.407485;46.56139
+71279_1860_01189;1189;;Route de la Gare;71220;71279;Le Rousset-Marizy;Le Rousset;La Gare;4.459599;46.578772
+71279_4320_00040;40;;Impasse des Vernes Bredas;71220;71279;Le Rousset-Marizy;Marizy;Bois Communal Vernes;4.436277;46.58302
+71279_0760_00205;205;;Route de la Chapelle;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.483521;46.556864
+71279_3890_00010;10;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408248;46.566316
+71279_3871_00048;48;;Impasse de la Sève;71220;71279;Le Rousset-Marizy;Marizy;Sanverne;4.404577;46.544244
+71279_0050_00241;241;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.405604;46.565288
+71279_3250_01065;1065;;Route d'Orgeval;71220;71279;Le Rousset-Marizy;Marizy;;4.417332;46.56862
+71279_3890_00020;20;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408313;46.56623
+71279_3000_00030;30;;Chemin de Montfreau;71220;71279;Le Rousset-Marizy;Marizy;Les Badeys;4.379783;46.571522
+71279_4200_00740;740;;Chemin du Trembly;71220;71279;Le Rousset-Marizy;Marizy;Le Trembly;4.431912;46.595445
+71279_3250_00415;415;;Route d'Orgeval;71220;71279;Le Rousset-Marizy;Marizy;;4.413602;46.565482
+71279_0201_00144;144;;Route de l'Arconce;71220;71279;Le Rousset-Marizy;Marizy;Le Pont;4.416137;46.570776
+71279_3890_00067;67;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408616;46.565865
+71279_0680_00049;49;;Route de Chalon;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408682;46.566662
+71279_2800_00569;569;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.490943;46.577646
+71279_0720_00121;121;;Impasse de Champ Rougeot;71220;71279;Le Rousset-Marizy;Marizy;Sanverne;4.397585;46.542377
+71279_1565_01160;1160;;Impasse d'En Fer;71220;71279;Le Rousset-Marizy;Le Rousset;;4.498974;46.569541
+71279_4450_02015;2015;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;;4.389763;46.593231
+71279_2110_01251;1251;;Route des Janins;71220;71279;Le Rousset-Marizy;Le Rousset;Les Janins;4.482376;46.566276
+71279_3890_00036;36;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408363;46.566107
+71279_1950_00250;250;;Route de Grivery;71220;71279;Le Rousset-Marizy;Marizy;La Croix;4.408661;46.547613
+71279_0181_00891;891;;Chemin des Apports;71220;71279;Le Rousset-Marizy;Marizy;;4.383995;46.557417
+71279_3800_00444;444;;Chemin de Saint-Pierre;71220;71279;Le Rousset-Marizy;Marizy;La Croix des Fleurs;4.404706;46.56771
+71279_0181_00871;871;;Chemin des Apports;71220;71279;Le Rousset-Marizy;Marizy;;4.38408;46.557182
+71279_3180_02890;2890;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.493783;46.580671
+71279_2110_00085;85;;Route des Janins;71220;71279;Le Rousset-Marizy;Le Rousset;Verchères Maugainy;4.48213;46.557277
+71279_4280_00026;26;;Impasse des Verchères Guittet;71220;71279;Le Rousset-Marizy;Marizy;Montboin;4.42509;46.581113
+71279_0700_00011;11;;Chemin du Champ du Moulin;71220;71279;Le Rousset-Marizy;Marizy;Volsin;4.393059;46.592179
+71279_2000_00085;85;;Route de La Guiche;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.464186;46.570231
+71279_0730_00783;783;;Chemin des Champs;71220;71279;Le Rousset-Marizy;Le Rousset;;4.47099;46.573447
+71279_2990_00030;30;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408068;46.566777
+71279_1860_02749;2749;;Route de la Gare;71220;71279;Le Rousset-Marizy;Le Rousset;Nezy;4.462719;46.590727
+71279_3681_00080;80;;Impasse du Rompoi;71220;71279;Le Rousset-Marizy;Le Rousset;Le Petit Fussy;4.447969;46.586422
+71279_2000_00019;19;;Route de La Guiche;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.464555;46.570717
+71279_3160_00080;80;;Chemin du Paradis;71220;71279;Le Rousset-Marizy;Marizy;Les Poulets;4.415597;46.594012
+71279_1860_00075;75;;Route de la Gare;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.464801;46.571424
+71279_0730_00469;469;;Chemin des Champs;71220;71279;Le Rousset-Marizy;Le Rousset;;4.467848;46.574892
+71279_0760_00194;194;;Route de la Chapelle;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.48361;46.556808
+71279_3890_00210;210;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408233;46.564561
+71279_2800_00336;336;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.488411;46.57813
+71279_0391_00129;129;;Rue de la Bascule;71220;71279;Le Rousset-Marizy;Le Rousset;Noireux;4.492867;46.581879
+71279_4100_00111;111;;Chemin des Tatins;71220;71279;Le Rousset-Marizy;Marizy;;4.379882;46.581522
+71279_4450_02070;2070;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;;4.388825;46.593413
+71279_0800_00002;2;;Impasse des Chaumes;71220;71279;Le Rousset-Marizy;Marizy;Lot Le Brouillat;4.407702;46.56103
+71279_3180_03065;3065;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.495937;46.58046
+71279_3220_00860;860;;Chemin du Petit Fussy;71220;71279;Le Rousset-Marizy;Le Rousset;;4.445658;46.58691
+71279_3250_00179;179;;Route d'Orgeval;71220;71279;Le Rousset-Marizy;Marizy;Grand Champ Marizy;4.411788;46.56476
+71279_0391_00141;141;;Rue de la Bascule;71220;71279;Le Rousset-Marizy;Le Rousset;Noireux;4.492617;46.582053
+71279_2000_00075;75;;Route de La Guiche;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.464311;46.570409
+71279_1860_01291;1291;;Route de la Gare;71220;71279;Le Rousset-Marizy;Le Rousset;La Gare;4.460343;46.579542
+71279_3890_00051;51;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408613;46.565989
+71279_2790_00531;531;;Route de Martigny;71220;71279;Le Rousset-Marizy;Marizy;Les Tatins;4.376018;46.578986
+71279_3890_00138;138;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408683;46.56515
+71279_3940_02930;2930;;Route de Sury;71220;71279;Le Rousset-Marizy;Marizy;;4.421796;46.593987
+71279_0680_00040;40;;Route de Chalon;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.408699;46.566542
+71279_3250_00505;505;;Route d'Orgeval;71220;71279;Le Rousset-Marizy;Marizy;;4.415605;46.564907
+71279_1860_00374;374;;Route de la Gare;71220;71279;Le Rousset-Marizy;Le Rousset;Le Mal Crochet;4.462839;46.573342
+71279_0790_00306;306;;Chemin des Chassins;71220;71279;Le Rousset-Marizy;Marizy;;4.385385;46.582384
+71279_4400_00184;184;;Route de Villard;71220;71279;Le Rousset-Marizy;Marizy;Villard;4.409424;46.576967
+71279_0730_00785;785;;Chemin des Champs;71220;71279;Le Rousset-Marizy;Le Rousset;;4.471339;46.573398
+71279_2110_01271;1271;;Route des Janins;71220;71279;Le Rousset-Marizy;Le Rousset;Les Janins;4.483046;46.566709
+71279_0920_01250;1250;;Route des Corbeaux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.477964;46.566787
+71279_0050_00072;72;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407284;46.566257
+71279_3240_00080;80;;Impasse des Pierres Sauvages;71220;71279;Le Rousset-Marizy;Le Rousset;Les Essarts du Bas;4.442597;46.581588
+71279_0050_00038;38;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407683;46.56642
+71279_3000_00770;770;;Chemin de Montfreau;71220;71279;Le Rousset-Marizy;Marizy;;4.375882;46.577259
+71279_0760_00430;430;;Route de la Chapelle;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.486057;46.55762
+71279_0760_00081;81;;Route de la Chapelle;71220;71279;Le Rousset-Marizy;Le Rousset;Saint Quentin;4.482165;46.556197
+71279_1770_00136;136;;Chemin de Fontaine Chaude;71220;71279;Le Rousset-Marizy;Marizy;;4.427685;46.569596
+71279_0050_00085;85;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407191;46.566164
+71279_0680_00735;735;;Route de Chalon;71220;71279;Le Rousset-Marizy;Marizy;Le Pont;4.414191;46.571476
+71279_3060_00200;200;;Chemin du Moulin du Brouillat;71220;71279;Le Rousset-Marizy;Marizy;;4.403841;46.562222
+71279_3681_00015;15;;Impasse du Rompoi;71220;71279;Le Rousset-Marizy;Le Rousset;Le Petit Fussy;4.448412;46.586989
+71279_3580_00114;114;;Impasse de la Reine;71220;71279;Le Rousset-Marizy;Marizy;Sanverne;4.402569;46.542721
+71279_3180_03111;3111;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.496659;46.580639
+71279_0050_00030;30;;Route de Charolles;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407762;46.566404
+71279_0181_00925;925;;Chemin des Apports;71220;71279;Le Rousset-Marizy;Marizy;;4.383869;46.557712
+71279_4201_00114;114;;Impasse du Trembly;71220;71279;Le Rousset-Marizy;Marizy;Le Trembly;4.432171;46.595205
+71279_3180_02535;2535;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;Les Rebichons;4.489283;46.580122
+71279_2110_00141;141;;Route des Janins;71220;71279;Le Rousset-Marizy;Le Rousset;Verchères Maugainy;4.481962;46.557708
+71279_1950_00605;605;;Route de Grivery;71220;71279;Le Rousset-Marizy;Marizy;Grivery;4.413061;46.547815
+71279_3900_00045;45;;Rue St-Denis;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.464968;46.571618
+71279_2990_00022;22;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.40818;46.566667
+71279_3890_00715;715;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Brouillat;4.406157;46.560474
+71279_0680_03570;3570;;Route de Chalon;71220;71279;Le Rousset-Marizy;Le Rousset;;4.44361;46.580795
+71279_3890_00360;360;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;;4.408276;46.563253
+71279_4450_01625;1625;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;;4.393297;46.591697
+71279_3890_00076;76;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.40857;46.565771
+71279_3890_00645;645;;Route de St-Bonnet;71220;71279;Le Rousset-Marizy;Marizy;Lot Le Brouillat;4.406166;46.561379
+71279_2900_00425;425;;Chemin du Moine;71220;71279;Le Rousset-Marizy;Le Rousset;Le Moine;4.492355;46.565805
+71279_3800_00124;124;;Chemin de Saint-Pierre;71220;71279;Le Rousset-Marizy;Marizy;La Condemine;4.403172;46.564982
+71279_3180_02876;2876;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;;4.493515;46.580698
+71279_2800_00480;480;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;;4.489876;46.577887
+71279_2990_00089;89;;Route de Montceau;71220;71279;Le Rousset-Marizy;Marizy;Le Bourg Marizy;4.407101;46.566861
+71279_3300_00101;101;;Chemin de Plaisance;71220;71279;Le Rousset-Marizy;Le Rousset;;4.508468;46.577937
+71279_0491_01420;1420;;Chemin des Bourbes;71220;71279;Le Rousset-Marizy;Le Rousset;;4.483367;46.594363
+71279_0820_00045;45;;Impasse des Chéniots;71220;71279;Le Rousset-Marizy;Marizy;Le Brouillat;4.406799;46.561056
+71279_2550_00199;199;;Chemin du Louet;71220;71279;Le Rousset-Marizy;Marizy;;4.406058;46.56967
+71279_3220_00620;620;;Chemin du Petit Fussy;71220;71279;Le Rousset-Marizy;Le Rousset;;4.449363;46.588336
+71279_0730_00765;765;;Chemin des Champs;71220;71279;Le Rousset-Marizy;Le Rousset;;4.470766;46.573462
+71279_4170_00075;75;;Chemin des Tondues;71220;71279;Le Rousset-Marizy;Marizy;Les Tatins;4.376807;46.581818
+71279_4450_02345;2345;;Route de Volsin;71220;71279;Le Rousset-Marizy;Marizy;Les Fourneaux Marizy;4.38656;46.591851
+71279_2800_00190;190;;Rue du Martrat;71220;71279;Le Rousset-Marizy;Le Rousset;Les Rats;4.486154;46.578595
+71279_3000_00694;694;;Chemin de Montfreau;71220;71279;Le Rousset-Marizy;Marizy;;4.376315;46.57661
+71279_3620_00214;214;;Chemin de Roche;71220;71279;Le Rousset-Marizy;Marizy;;4.435289;46.580185
+71279_0890_02436;2436;;Route de Commugny;71220;71279;Le Rousset-Marizy;Marizy;;4.371362;46.572219
+71279_3250_00595;595;;Route d'Orgeval;71220;71279;Le Rousset-Marizy;Marizy;;4.416682;46.565069
+71279_3180_02589;2589;;Route de Noireux;71220;71279;Le Rousset-Marizy;Le Rousset;Les Rebichons;4.489987;46.580325
+71279_4210_00105;105;;Chemin de la Tuilerie;71220;71279;Le Rousset-Marizy;Le Rousset;;4.463705;46.577025
+71279_0730_00254;254;;Chemin des Champs;71220;71279;Le Rousset-Marizy;Le Rousset;Le Parc;4.466129;46.576015
+71279_0800_00090;90;;Impasse des Chaumes;71220;71279;Le Rousset-Marizy;Marizy;Lot Le Brouillat;4.406901;46.560482
+71279_0680_00410;410;;Route de Chalon;71220;71279;Le Rousset-Marizy;Marizy;;4.411517;46.569489
+71279_1860_00095;95;;Route de la Gare;71220;71279;Le Rousset-Marizy;Le Rousset;Le Bourg le Rousset;4.464708;46.571582
+71279_3220_00980;980;;Chemin du Petit Fussy;71220;71279;Le Rousset-Marizy;Le Rousset;;4.444278;46.586563

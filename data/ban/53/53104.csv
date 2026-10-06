@@ -1,0 +1,710 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+53104_keq7gs_00001;1;;La Turmerie;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.568459;47.889923
+53104_6lx8ke_00002;2;;La Flardière;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.599956;47.873062
+53104_teyg8z_00002;2;;La Gare;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.618486;47.873412
+53104_teyg8z_00006;6;;La Gare;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.618496;47.87339
+53104_whu9bc_00001;1;;La Rouerie;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.610147;47.868342
+53104_ns0jba_00001;1;;La Blanchardière;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.581036;47.882432
+53104_3s98dt_00001;1;;La Cochellerie;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.572058;47.894291
+53104_jschmh_00001;1;;Les Hommeaux;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.60953;47.870619
+53104_achkhr_00001;1;;La Brancherie;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.587584;47.871287
+53104_90hr78_00001;1;;La Hersonniere;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.595734;47.886438
+53104_0zdv20_00001;1;;La Bodiniere;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.577905;47.861206
+53104_db8orr_00002;2;;Les Crémeaux;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.60965;47.833662
+53104_7slwlq_00001;1;;L'Erable;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.568434;47.852988
+53104_zjpwom_00001;1;;Les Eventails;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.60141;47.85071
+53104_v9bipw_00001;1;;La Harmonière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.592212;47.849424
+53104_2ker82_00001;1;;La Landellerie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.623906;47.849683
+53104_xhz61y_00001;1;;Les Mariages;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.582813;47.834521
+53104_o66clt_00001;1;;Les Papinais;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.58415;47.843373
+53104_o66clt_00002;2;;Les Papinais;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.584098;47.843366
+53104_ehzb3h_00001;1;;La Pinoterie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.57079;47.837722
+53104_c9rvpl_00001;1;;La Réhoraie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.587413;47.844585
+53104_l181u1_00001;1;;La Renaumière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.595003;47.827241
+53104_uec9jk_00001;1;;Les Vézouzières;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.547107;47.832792
+53104_xu4g6u_00001;1;;Villechien;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.581393;47.819998
+53104_57f4jf_00001;1;;La Viloudard;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.564154;47.834189
+53104_hbwrfu_00001;1;;Chantemèle;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.577044;47.890594
+53104_7jen2t_00001;1;;Les Chênes;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.619188;47.876931
+53104_sngpwl_00004;4;;Les Courans;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.603616;47.870409
+53104_sngpwl_00005;5;;Les Courans;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.603593;47.870404
+53104_pn5aje_00002;2;;Le Ménil;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.587575;47.877326
+53104_pn5aje_00004;4;;Le Ménil;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.58759;47.877336
+53104_psnhge_00001;1;;La Touchardiere;53200;53104;Gennes-Longuefuye;Longuefuye;;-0.616544;47.878539
+53104_0ct0c7_00001;1;;le Moulin;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.601253;47.858749
+53104_9vpmnt_00001;1;;Chemin Vert;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.618227;47.866961
+53104_phler2_00001;1;;Les Noës;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.583465;47.823885
+53104_9pnnuw_00001;1;;L'Herminet;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.567331;47.847171
+53104_0033_00003;3;;Rue du Maine;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607953;47.854319
+53104_0024_00008;8;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612285;47.855007
+53104_0024_00011;11;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612597;47.854928
+53104_0024_00013;13;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613074;47.854781
+53104_0024_00014;14;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613183;47.855319
+53104_0024_00017;17;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613709;47.855344
+53104_0024_00024;24;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611786;47.855744
+53104_0024_00025;25;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613145;47.855966
+53104_0024_00027;27;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612972;47.855965
+53104_0024_00029;29;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612334;47.855959
+53104_0017_00001;1;;Rue des Charmes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.616009;47.854836
+53104_0017_00003;3;;Rue des Charmes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.616159;47.854657
+53104_0017_00004;4;;Rue des Charmes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.616223;47.8547
+53104_0017_00006;6;;Rue des Charmes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.616369;47.854511
+53104_0044_00008;8;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.566607;47.835833
+53104_0044_00010;10;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.56608;47.835666
+53104_0044_00017;17;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.565125;47.835457
+53104_0044_00019;19;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.565108;47.835357
+53104_0044_00021;21;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.564838;47.834999
+53104_0044_00025;25;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.563692;47.833666
+53104_0013_00003;3;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614438;47.852245
+53104_0013_00004;4;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.610891;47.85306
+53104_0013_00008;8;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.610386;47.853233
+53104_0013_00010;10;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609935;47.853365
+53104_0013_00019;19;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611708;47.853024
+53104_0013_00028;28;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609039;47.853528
+53104_0013_00031;31;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609994;47.85345
+53104_0013_00037;37;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608967;47.85364
+53104_0013_00039;39;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608793;47.85368
+53104_0013_00042;42;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607967;47.85393
+53104_0013_00043;43;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608451;47.853804
+53104_0013_00045;45;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608341;47.853847
+53104_0013_00054;54;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605946;47.854406
+53104_0013_00057;57;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607859;47.854092
+53104_0013_00065;65;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607284;47.854398
+53104_0013_00071;71;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606857;47.854486
+53104_0013_00073;73;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606628;47.85451
+53104_0013_00081;81;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606036;47.85459
+53104_0013_00002_a;2;a;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.61179;47.852657
+53104_0013_00001_bis;1;bis;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614739;47.852155
+53104_0063_00001;1;;Ruelle du Vieux Bourg;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608797;47.853803
+53104_0063_00003;3;;Ruelle du Vieux Bourg;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608901;47.853888
+53104_0057_00003;3;;Rue Saint Nicolas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613979;47.85274
+53104_0057_00007;7;;Rue Saint Nicolas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613725;47.853125
+53104_0057_00011;11;;Rue Saint Nicolas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613505;47.853498
+53104_0057_00012;12;;Rue Saint Nicolas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613315;47.853547
+53104_0027_00012;12;;Rue Cour de Langebot;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.615057;47.856167
+53104_0027_00019;19;;Rue Cour de Langebot;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614346;47.856794
+53104_0027_00020;20;;Rue Cour de Langebot;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614173;47.856753
+53104_0027_00021;21;;Rue Cour de Langebot;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614224;47.856834
+53104_0027_00022;22;;Rue Cour de Langebot;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613982;47.856801
+53104_0012_00008;8;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.60498;47.853103
+53104_0012_00014;14;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.60456;47.852618
+53104_0012_00023;23;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.604409;47.852706
+53104_0065_00001;1;;Rue du Vollier;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.610032;47.853956
+53104_0065_00005;5;;Rue du Vollier;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.610229;47.855013
+53104_0065_00004_bis;4;bis;Rue du Vollier;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609869;47.85385
+53104_0025_00005;5;;Rue des Jardins;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607894;47.852048
+53104_0070_00004;4;;Rue des Pommiers;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.566529;47.835246
+53104_0070_00003_a;3;a;Rue des Pommiers;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.566439;47.835024
+53104_0064_00001;1;;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614216;47.85288
+53104_0064_00005;5;;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.615316;47.852827
+53104_0064_00011;11;;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.615018;47.853199
+53104_0064_00015;15;;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.615004;47.85331
+53104_0064_00019;19;;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614739;47.853668
+53104_0083_00006;6;;Rue de la Motte Chicot;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.615731;47.866259
+53104_0001_00002;2;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.60778;47.853907
+53104_0001_00006;6;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607178;47.853549
+53104_0001_00009;9;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605711;47.852457
+53104_0001_00011;11;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605216;47.852246
+53104_0001_00013;13;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.604299;47.851854
+53104_0001_00014;14;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605733;47.852343
+53104_0001_00018;18;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.604026;47.851603
+53104_0001_00019;19;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.603269;47.851424
+53104_0001_00016_bis;16;bis;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.604403;47.851753
+53104_0068_00008;8;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613335;47.856319
+53104_0068_00010;10;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613176;47.856326
+53104_0068_00011;11;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612706;47.856817
+53104_0068_00022;22;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612202;47.85674
+53104_0068_00028;28;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612813;47.856884
+53104_0005_00003;3;;Allée du Béron;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.603672;47.851628
+53104_0005_00004;4;;Allée du Béron;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.603718;47.851603
+53104_0085_00001;1;;Rue de l'Atelier;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613894;47.866669
+53104_0085_00006;6;;Rue de l'Atelier;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613314;47.866068
+53104_0085_00008;8;;Rue de l'Atelier;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613636;47.866021
+53104_0077_00003;3;;Rue de la Forge;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614198;47.866056
+53104_0077_00011;11;;Rue de la Forge;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613931;47.864895
+53104_0077_00015;15;;Rue de la Forge;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613703;47.864368
+53104_0076_00009;9;;Rue des Etangs;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613495;47.867427
+53104_0076_00012;12;;Rue des Etangs;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613434;47.86718
+53104_0067_00001;1;;Impasse Dennis Chamberlain;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614769;47.857174
+53104_0067_00002;2;;Impasse Dennis Chamberlain;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.615228;47.8569
+53104_0045_00001;1;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611537;47.853263
+53104_0045_00004;4;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611639;47.853685
+53104_0045_00007;7;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612479;47.853836
+53104_0045_00013;13;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613488;47.854015
+53104_0045_00023;23;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.615611;47.854767
+53104_0045_00026;26;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614791;47.854604
+53104_0045_00021_bis;21;bis;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.615031;47.854561
+53104_0078_00001;1;;Rue de la Gare;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614456;47.866671
+53104_0078_00004;4;;Rue de la Gare;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614394;47.867028
+53104_b992_00001;1;;Parc Alcool;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.591173;47.876718
+53104_0075_00001;1;;Place de l'Église;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614513;47.866531
+53104_0006_00006;6;;Rue des Bleuets;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614816;47.855517
+53104_0059_00003;3;;Rue des Sports;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608502;47.853171
+53104_0059_00005;5;;Rue des Sports;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608439;47.853031
+53104_0059_00006;6;;Rue des Sports;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.60877;47.852978
+53104_0014_00005;5;;Rue de l'Ecole;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;;-0.565734;47.836655
+53104_0080_00002_bis;2;bis;Rue de la Saint Martin;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.617921;47.866547
+53104_0008_00002;2;;Rue des 5 Clochers;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.565884;47.835359
+53104_0069_00005;5;;Rue du Plan d'Eau;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606672;47.854773
+53104_0069_00013;13;;Rue du Plan d'Eau;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606548;47.854907
+53104_0081_00002;2;;Rue des Carrefours;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.616674;47.866639
+53104_0081_00010;10;;Rue des Carrefours;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.6166;47.865976
+53104_teyg8z_00004;4;;La Gare;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.618494;47.873442
+53104_jschmh_00002;2;;Les Hommeaux;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.609515;47.870574
+53104_9r1pav_00001;1;;La Grande Hourderie;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.591718;47.86912
+53104_wmcn2v_00001;1;;La Baumeraie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.593148;47.847152
+53104_6aroqq_00001;1;;Les Bodières;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.547099;47.832956
+53104_0zdv20_00003;3;;La Bodiniere;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.577952;47.86121
+53104_n1m60m_00001;1;;Bozé;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.603024;47.844341
+53104_zhrrgq_00001;1;;La Doellerie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.565711;47.836541
+53104_vbmjkw_00001;1;;La Fuye;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.557032;47.843738
+53104_madjac_00001;1;;Galembert;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.561096;47.830668
+53104_chp1zb_00001;1;;La Gilardière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.584327;47.821887
+53104_2luh9v_00001;1;;La Mallonnière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.618349;47.825763
+53104_wx54sg_00001;1;;La Pignerie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.584791;47.820699
+53104_2na8mm_00001;1;;La Reucherie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612088;47.843445
+53104_w24h1q_00001;1;;La Gigonnerie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.618354;47.85116
+53104_dlmq2n_00001;1;;Les Hirondelles;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609162;47.847383
+53104_jef7t0_00002;2;;Les Marandes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;;-0.609129;47.847457
+53104_lthl0c_00001;1;;Les Berthieres;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.587187;47.848744
+53104_ktg60u_00005;5;;La Source;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606244;47.850482
+53104_sngpwl_00003;3;;Les Courans;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.602115;47.871148
+53104_ul9t39_00001;1;;La Grotière;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.574183;47.877655
+53104_oy55df_00002;2;;Maupiti;53200;53104;Gennes-Longuefuye;;Longuefuye;-0.620296;47.881444
+53104_nvk2ao_00001;1;;Maupiti;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.616674;47.878563
+53104_9vpmnt_00002;2;;Chemin Vert;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.618333;47.867172
+53104_pvpepq_00001;1;;Fontenelle;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.566963;47.845145
+53104_71y5uq_00001;1;;Les Renardières;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.568389;47.863446
+53104_eo875p_00001;1;;La Selousière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.559365;47.828806
+53104_14pmi0_00001;1;;La Dohinière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614242;47.826461
+53104_0033_00007;7;;Rue du Maine;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608223;47.854542
+53104_0033_00008;8;;Rue du Maine;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608611;47.855037
+53104_0024_00004;4;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611196;47.854987
+53104_0024_00015;15;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613391;47.855232
+53104_0024_00018;18;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612836;47.855784
+53104_0024_00022;22;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612296;47.855852
+53104_0024_00026;26;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611988;47.85546
+53104_0024_00032;32;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611213;47.855502
+53104_0024_00037;37;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611051;47.855548
+53104_0017_00005;5;;Rue des Charmes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.616295;47.854475
+53104_0017_00007;7;;Rue des Charmes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.616188;47.854299
+53104_0017_00008;8;;Rue des Charmes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.616582;47.854337
+53104_0044_00002;2;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.568327;47.836507
+53104_0044_00006;6;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.567015;47.835987
+53104_0044_00007;7;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.566768;47.836016
+53104_0044_00011;11;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.565769;47.835654
+53104_0044_00012;12;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.565844;47.83559
+53104_0013_00001;1;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.615155;47.852044
+53104_0013_00006;6;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.610671;47.853131
+53104_0013_00021;21;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611247;47.853142
+53104_0013_00023;23;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.610895;47.853244
+53104_0013_00024;24;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609149;47.853501
+53104_0013_00029;29;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.610151;47.853418
+53104_0013_00034;34;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608619;47.853675
+53104_0013_00036;36;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608535;47.853686
+53104_0013_00038;38;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608315;47.853769
+53104_0013_00049;49;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608194;47.853918
+53104_0013_00052;52;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606048;47.85439
+53104_0013_00053;53;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608024;47.854008
+53104_0013_00055;55;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607946;47.854047
+53104_0013_00059;59;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607631;47.854239
+53104_0013_00060;60;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605179;47.854516
+53104_0013_00063;63;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607386;47.854354
+53104_0013_00070;70;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.60429;47.8548
+53104_0013_00075;75;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606498;47.854526
+53104_0057_00001;1;;Rue Saint Nicolas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.6141;47.852516
+53104_0057_00002;2;;Rue Saint Nicolas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613893;47.852656
+53104_0057_00005;5;;Rue Saint Nicolas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613803;47.853042
+53104_0057_00013;13;;Rue Saint Nicolas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613389;47.853686
+53104_0027_00011;11;;Rue Cour de Langebot;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.615101;47.856293
+53104_0027_00015;15;;Rue Cour de Langebot;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614809;47.856489
+53104_0027_00017;17;;Rue Cour de Langebot;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.61466;47.856592
+53104_0027_00018;18;;Rue Cour de Langebot;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614366;47.856654
+53104_0027_00026;26;;Rue Cour de Langebot;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613638;47.857002
+53104_0012_00010;10;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.60481;47.85307
+53104_0012_00015;15;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.604528;47.853123
+53104_0012_00017;17;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.604203;47.853162
+53104_0012_00021;21;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.604332;47.852877
+53104_0084_00005;5;;Rue du Verger;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.61543;47.865623
+53104_0084_00007;7;;Rue du Verger;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.615034;47.865228
+53104_0065_00010;10;;Rue du Vollier;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.610028;47.854287
+53104_0065_00012;12;;Rue du Vollier;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.610099;47.854811
+53104_0065_00014;14;;Rue du Vollier;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.610108;47.855047
+53104_0065_00001_bis;1;bis;Rue du Vollier;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.610164;47.854372
+53104_0025_00001;1;;Rue des Jardins;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607826;47.85227
+53104_0025_00004;4;;Rue des Jardins;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607993;47.852139
+53104_0010_00002;2;;Route de Château Gontier;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.619575;47.850641
+53104_b967_00001;1;;La Maison Neuve de Longuefuye;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.573985;47.89274
+53104_0070_00005;5;;Rue des Pommiers;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.566689;47.83473
+53104_0070_00006;6;;Rue des Pommiers;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.567313;47.834726
+53104_0070_00003_b;3;b;Rue des Pommiers;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.56639;47.835031
+53104_0070_00003_c;3;c;Rue des Pommiers;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.566415;47.835037
+53104_0070_00003_d;3;d;Rue des Pommiers;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.566552;47.834866
+53104_0064_00010;10;;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614565;47.853681
+53104_0071_00001;1;;place sainte-opportune;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609262;47.853663
+53104_0071_00003;3;;place sainte-opportune;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609302;47.853706
+53104_0071_00004;4;;place sainte-opportune;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609517;47.853876
+53104_0083_00002;2;;Rue de la Motte Chicot;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.616342;47.866186
+53104_0083_00004;4;;Rue de la Motte Chicot;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.616036;47.866225
+53104_0018_00001;1;;Impasse de l'Epine;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.610117;47.853329
+53104_0001_00003;3;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606944;47.85349
+53104_0001_00004;4;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607439;47.853726
+53104_0001_00008;8;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606985;47.853379
+53104_0001_00007_bis;7;bis;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605923;47.852646
+53104_c178_00001;1;;Le Tertre Naveau;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.582015;47.885802
+53104_0068_00002;2;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613838;47.856512
+53104_0068_00003;3;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613387;47.856456
+53104_0068_00012;12;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613024;47.856352
+53104_0068_00014;14;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.61281;47.856415
+53104_0068_00015;15;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613112;47.85686
+53104_0068_00016;16;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612543;47.856434
+53104_0068_00020;20;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.61217;47.856597
+53104_0068_00030;30;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612946;47.856898
+53104_0085_00010;10;;Rue de l'Atelier;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613877;47.866004
+53104_0077_00002;2;;Rue de la Forge;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614403;47.86585
+53104_0077_00005;5;;Rue de la Forge;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614094;47.865757
+53104_0077_00007;7;;Rue de la Forge;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614014;47.865304
+53104_0077_00009;9;;Rue de la Forge;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613993;47.865105
+53104_0077_00013;13;;Rue de la Forge;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613783;47.864523
+53104_0077_00017;17;;Rue de la Forge;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613635;47.864259
+53104_0076_00001;1;;Rue des Etangs;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614153;47.866716
+53104_0076_00013;13;;Rue des Etangs;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.612984;47.868007
+53104_0045_00015;15;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613705;47.854078
+53104_0045_00018;18;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613587;47.85435
+53104_0045_00024;24;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.61452;47.854519
+53104_0073_00008;8;;Rue Saint-Aventin;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.612662;47.864533
+53104_b992_00002;2;;Parc Alcool;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.591219;47.876692
+53104_b992_00003;3;;Parc Alcool;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.591233;47.876702
+53104_0006_00002;2;;Rue des Bleuets;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614428;47.855388
+53104_0006_00004;4;;Rue des Bleuets;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614535;47.855423
+53104_0060_00001;1;;Rue du Tilleul;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605042;47.851789
+53104_0060_00006;6;;Rue du Tilleul;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605366;47.851621
+53104_0079_00002;2;;Rue du Lavoir;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.615989;47.867085
+53104_0079_00008;8;;Rue du Lavoir;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.616869;47.866985
+53104_0079_00010;10;;Rue du Lavoir;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.617298;47.866869
+53104_0059_00001;1;;Rue des Sports;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608606;47.853317
+53104_0059_00004;4;;Rue des Sports;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608698;47.853212
+53104_0080_00003;3;;Rue de la Saint Martin;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.616545;47.866191
+53104_0080_00004_bis;4;bis;Rue de la Saint Martin;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.617878;47.866635
+53104_b317_00001;1;;La Maison Neuve de Gennes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.596196;47.827557
+53104_b859_00001;1;;La Cour de Villette;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.616999;47.870905
+53104_0069_00003;3;;Rue du Plan d'Eau;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606777;47.854707
+53104_0081_00006;6;;Rue des Carrefours;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.616757;47.866354
+53104_0081_00008;8;;Rue des Carrefours;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.616682;47.866172
+53104_bssfuz_00001;1;;Cutesson;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.605229;47.880784
+53104_6lx8ke_00003;3;;La Flardière;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.599468;47.872422
+53104_6hn86m_00001;1;;La Roussiniere;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613043;47.879017
+53104_vcv6wn_00001;1;;La Cherriere;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.576388;47.879854
+53104_2bqbkq_00001;1;;Les Pochardieres;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.583562;47.872651
+53104_e9qcnd_00001;1;;L’Esperance;53200;53104;Gennes-Longuefuye;Longuefuye;;-0.570765;47.895591
+53104_j216hg_00001;1;;La Bachelotière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.582082;47.834926
+53104_0zdv20_00002;2;;La Bodiniere;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.577952;47.861197
+53104_db8orr_00001;1;;Les Crémeaux;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609543;47.833259
+53104_kesunb_00001;1;;Les Echeletteries;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.624562;47.859219
+53104_h0zi0e_00001;1;;La Gaignerie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.558033;47.827478
+53104_chp1zb_00002;2;;La Gilardière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.584319;47.821853
+53104_5c7x4m_00003;3;;Les Haies;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.592101;47.85761
+53104_xiuiz4_00001;1;;Monpéron;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.581133;47.825622
+53104_2mx9pc_00001;1;;La Pinsonnière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.624293;47.848472
+53104_k4h40l_00001;1;;Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.620006;47.857069
+53104_kr0hc3_00001;1;;La Priouté;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.590871;47.858097
+53104_pigcu8_00001;1;;La Rabellière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.558058;47.827244
+53104_7h3r93_00001;1;;Rhomfort;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.559171;47.842844
+53104_19bl5j_00001;1;;Les Roches;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612268;47.843563
+53104_ghlb2r_00001;1;;Rougette;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.568339;47.851199
+53104_xu4g6u_00002;2;;Villechien;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.581157;47.819993
+53104_ut06if_00001;1;;1 Baudron;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.563871;47.864628
+53104_ajjpml_00009;9;;Le Ruisseau;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605481;47.850213
+53104_7jen2t_00002;2;;Les Chênes;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.619191;47.877011
+53104_sngpwl_00001;1;;Les Courans;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.602754;47.870863
+53104_sngpwl_00002;2;;Les Courans;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.602731;47.870858
+53104_rqcpmk_00001;1;;Les Rochettes;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.592087;47.888863
+53104_l9g3oa_00001;1;;La Sarchere;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.605207;47.881008
+53104_oy55df_00001;1;;Maupiti;53200;53104;Gennes-Longuefuye;;Longuefuye;-0.613018;47.883767
+53104_ow7olj_00002;2;;la Bignonnière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.593274;47.847258
+53104_htm0oy_00001;1;;le Pâtis;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.57829;47.825889
+53104_ddgrls_00001;1;;Les Bignonnières;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.580285;47.84731
+53104_m2otzr_00001;1;;Varennes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.570794;47.847983
+53104_0033_00001;1;;Rue du Maine;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607818;47.854212
+53104_0033_00002;2;;Rue du Maine;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608059;47.854555
+53104_0033_00004;4;;Rue du Maine;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608399;47.85486
+53104_0033_00006;6;;Rue du Maine;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608517;47.854991
+53104_0033_00009;9;;Rue du Maine;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608494;47.854767
+53104_0024_00005;5;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612055;47.854813
+53104_0024_00007;7;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612168;47.854819
+53104_0024_00016;16;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613434;47.855437
+53104_0024_00019;19;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613775;47.855462
+53104_0024_00021;21;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613811;47.855703
+53104_0024_00023;23;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613512;47.855874
+53104_0024_00028;28;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611903;47.855335
+53104_0024_00030;30;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.6116;47.855473
+53104_0024_00031;31;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611837;47.855861
+53104_0024_00033;33;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.61149;47.855752
+53104_0017_00002;2;;Rue des Charmes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.616075;47.854883
+53104_0017_00009;9;;Rue des Charmes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.616525;47.854287
+53104_0017_00010;10;;Rue des Charmes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.616674;47.854215
+53104_0044_00004;4;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.567839;47.836305
+53104_0044_00009;9;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.565991;47.835739
+53104_0044_00013;13;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.565516;47.835567
+53104_0044_00015;15;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.565315;47.835499
+53104_0044_00023;23;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.564641;47.834742
+53104_0013_00007;7;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613473;47.852471
+53104_0013_00013;13;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612594;47.852846
+53104_0013_00015;15;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612418;47.852916
+53104_0013_00016;16;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609613;47.853423
+53104_0013_00017;17;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.61229;47.852864
+53104_0013_00030;30;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608906;47.85356
+53104_0013_00035;35;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609391;47.853545
+53104_0013_00040;40;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608157;47.853844
+53104_0013_00044;44;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607463;47.854089
+53104_0013_00046;46;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607167;47.854245
+53104_0013_00050;50;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606184;47.854372
+53104_0013_00056;56;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605675;47.854457
+53104_0013_00061;61;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.6075;47.854283
+53104_0013_00069;69;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607115;47.854501
+53104_0013_00056_b;56;b;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605438;47.854505
+53104_0013_00025_bis;25;bis;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.61064;47.853329
+53104_0063_00006;6;;Ruelle du Vieux Bourg;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608716;47.853894
+53104_0063_00008;8;;Ruelle du Vieux Bourg;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608658;47.853733
+53104_0057_00006;6;;Rue Saint Nicolas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613558;47.853054
+53104_0057_00009;9;;Rue Saint Nicolas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613568;47.853375
+53104_0012_00004;4;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605614;47.853231
+53104_0012_00005;5;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605699;47.853368
+53104_0012_00006;6;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605442;47.853162
+53104_0012_00007;7;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605454;47.853296
+53104_0012_00009;9;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605115;47.853246
+53104_0012_00012;12;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.604619;47.852784
+53104_0012_00019;19;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.604281;47.853037
+53104_0084_00008;8;;Rue du Verger;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.615006;47.865107
+53104_0084_00009;9;;Rue du Verger;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614794;47.865178
+53104_0084_00012;12;;Rue du Verger;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614407;47.865046
+53104_0065_00002;2;;Rue du Vollier;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609798;47.853602
+53104_0065_00004;4;;Rue du Vollier;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609855;47.853808
+53104_0065_00006;6;;Rue du Vollier;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609912;47.853959
+53104_0065_00008;8;;Rue du Vollier;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.60997;47.854089
+53104_0025_00002;2;;Rue des Jardins;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607979;47.852256
+53104_0025_00008;8;;Rue des Jardins;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608056;47.851939
+53104_0010_00004;4;;Route de Château Gontier;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.61991;47.850551
+53104_0070_00002;2;;Rue des Pommiers;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.566281;47.835633
+53104_0064_00002;2;;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614244;47.852966
+53104_0064_00004;4;;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614572;47.853053
+53104_0064_00007;7;;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.615382;47.852839
+53104_0064_00008;8;;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.61466;47.853552
+53104_0064_00012;12;;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614469;47.85382
+53104_0064_00021;21;;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614558;47.853905
+53104_0064_00001_ter;1;ter;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614751;47.85302
+53104_b924_00001;1;;La Grande Villette;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.618303;47.873511
+53104_0001_00005;5;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606822;47.853378
+53104_0001_00015;15;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.604209;47.8518
+53104_0001_00016;16;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605512;47.852244
+53104_0001_00001_a;1;a;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607307;47.853836
+53104_0068_00001;1;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613605;47.856446
+53104_0068_00026;26;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612381;47.856836
+53104_0005_00001;1;;Allée du Béron;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.603693;47.85162
+53104_0085_00007;7;;Rue de l'Atelier;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613356;47.865956
+53104_0076_00005;5;;Rue des Etangs;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613775;47.866897
+53104_0076_00008;8;;Rue des Etangs;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613618;47.8669
+53104_0076_00010;10;;Rue des Etangs;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613506;47.867037
+53104_0076_00011;11;;Rue des Etangs;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613214;47.867742
+53104_0067_00003;3;;Impasse Dennis Chamberlain;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614646;47.85732
+53104_0067_00004;4;;Impasse Dennis Chamberlain;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.615287;47.857093
+53104_0067_00006;6;;Impasse Dennis Chamberlain;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614804;47.857331
+53104_0045_00002;2;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611433;47.853314
+53104_0045_00006;6;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612121;47.853824
+53104_0045_00008;8;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612347;47.853891
+53104_0045_00010;10;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612596;47.853959
+53104_0045_00016;16;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613249;47.854254
+53104_0045_00019;19;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614105;47.854303
+53104_0045_00020;20;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614062;47.854384
+53104_0045_00022;22;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614292;47.854465
+53104_0045_00002_bis;2;bis;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611565;47.853645
+53104_0073_00002;2;;Rue Saint-Aventin;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613294;47.864666
+53104_0073_00004;4;;Rue Saint-Aventin;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613025;47.864549
+53104_0073_00010;10;;Rue Saint-Aventin;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.612437;47.864558
+53104_0078_00002;2;;Rue de la Gare;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.61435;47.866816
+53104_0078_00005;5;;Rue de la Gare;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614821;47.867435
+53104_0078_00008;8;;Rue de la Gare;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614446;47.867336
+53104_0006_00001;1;;Rue des Bleuets;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.615083;47.855721
+53104_0006_00003;3;;Rue des Bleuets;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614928;47.85588
+53104_0006_00010;10;;Rue des Bleuets;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614538;47.856063
+53104_0060_00002;2;;Rue du Tilleul;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605174;47.851842
+53104_0060_00005;5;;Rue du Tilleul;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605193;47.8515
+53104_0059_00002;2;;Rue des Sports;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608785;47.853479
+53104_0014_00001;1;;Rue de l'Ecole;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.56607;47.835888
+53104_0014_00003;3;;Rue de l'Ecole;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.565876;47.83629
+53104_0080_00002;2;;Rue de la Saint Martin;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.617871;47.866541
+53104_b994_00001;1;;PN 20 de la Tricardière;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.591203;47.876718
+53104_0008_00001;1;;Rue des 5 Clochers;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.56532;47.835252
+53104_0008_00005;5;;Rue des 5 Clochers;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.565585;47.835301
+53104_0069_00001;1;;Rue du Plan d'Eau;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606827;47.854663
+53104_0069_00011;11;;Rue du Plan d'Eau;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606972;47.855204
+53104_0069_00015;15;;Rue du Plan d'Eau;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605926;47.855248
+53104_0081_00004;4;;Rue des Carrefours;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.616835;47.866576
+53104_6lx8ke_00001;1;;La Flardière;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.5995;47.872419
+53104_skl40n_00001;1;;La Tricardiere;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.591183;47.876649
+53104_3s98dt_00002;2;;La Cochellerie;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.572088;47.894267
+53104_sjdqin_00001;1;;Le Buisson;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.585335;47.886342
+53104_k4ax9c_00001;1;;L’Eard;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.624422;47.865576
+53104_xri1kv_00001;1;;Les Acacias;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.602084;47.850917
+53104_c9x90b_00001;1;;La Biltière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.59213;47.857703
+53104_fqf3hh_00001;1;;La Bruère;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.558108;47.843294
+53104_2phudx_00001;1;;Chanay;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.563358;47.864556
+53104_o6libb_00001;1;;Les Chartieres;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.593637;47.835826
+53104_uxtf9e_00001;1;;La Chartrie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.601117;47.838064
+53104_gh4zef_00001;1;;Chavaigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.624089;47.849445
+53104_5c7x4m_00001;1;;Les Haies;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.586966;47.853571
+53104_5c7x4m_00002;2;;Les Haies;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.592112;47.857657
+53104_yeryef_00001;1;;La Hamelinais;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.601623;47.842127
+53104_m4e9ay_00001;1;;Les Jumelais;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.578193;47.827815
+53104_pv1u2k_00001;1;;Les Loges;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.602217;47.85097
+53104_286pi8_00001;1;;Les Morlières;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.604325;47.827788
+53104_4sd2b3_00001;1;;La Mulochère;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.553844;47.844819
+53104_6tb38n_00001;1;;La Talvassière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.571157;47.825177
+53104_rknwda_00001;1;;La Volerie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611143;47.84535
+53104_ok875t_00001;1;;Les Veaux;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608922;47.859149
+53104_jef7t0_00001;1;;Les Marandes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609125;47.847482
+53104_jukw9o_00001;1;;Le Gillier;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.569347;47.827646
+53104_rdpj5j_00006;6;;Le Brimancar;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606408;47.850583
+53104_8aac0k_00008;8;;Les Peupliers;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606224;47.850316
+53104_qn6e74_00003;3;;La Cascade;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605493;47.850216
+53104_7jen2t_00003;3;;Les Chênes;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613553;47.878523
+53104_2zd76r_00001;1;;La Grotière;53200;53104;Gennes-Longuefuye;;Longuefuye;-0.574333;47.873082
+53104_hqy0aw_00001;1;;La Guerinière;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.619157;47.876986
+53104_z5n666_00001;1;;La Guiternière;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.579454;47.884301
+53104_6xkdsj_00001;1;;Les Cytises;53200;53104;Gennes-Longuefuye;Longuefuye;;-0.611462;47.879429
+53104_n1oolm_00001;1;;la Vezouzière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.547061;47.832789
+53104_n78o2n_00001;1;;la Rossignolerie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.561604;47.831391
+53104_rjcbgj_00001;1;;la Touchasse;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614441;47.852025
+53104_d61dst_00001;1;;les Mesliers;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.575848;47.892183
+53104_0033_00005;5;;Rue du Maine;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608139;47.85448
+53104_0033_00011;11;;Rue du Maine;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608227;47.85459
+53104_0024_00001;1;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611381;47.854859
+53104_0024_00002;2;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611061;47.855012
+53104_0024_00003;3;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611511;47.854847
+53104_0024_00006;6;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612066;47.854927
+53104_0024_00009;9;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612463;47.854736
+53104_0024_00010;10;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612514;47.855049
+53104_0024_00012;12;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613091;47.855241
+53104_0024_00020;20;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612744;47.855745
+53104_0024_00035;35;;Rue Feu de Forge;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611201;47.855625
+53104_0017_00011;11;;Rue des Charmes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.616599;47.854192
+53104_0044_00001;1;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.569329;47.837055
+53104_0044_00003;3;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.56754;47.836353
+53104_0044_00005;5;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.566945;47.83608
+53104_0044_00014;14;;Rue Principale Saint-Aignan;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.565143;47.835146
+53104_0013_00002;2;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.611783;47.852601
+53104_0013_00005;5;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613813;47.852429
+53104_0013_00009;9;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.61329;47.852539
+53104_0013_00011;11;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.61279;47.852717
+53104_0013_00012;12;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609845;47.853379
+53104_0013_00018;18;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609491;47.853441
+53104_0013_00020;20;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609311;47.853476
+53104_0013_00025;25;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.610543;47.853352
+53104_0013_00027;27;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.610234;47.853406
+53104_0013_00032;32;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608789;47.853612
+53104_0013_00047;47;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608274;47.853887
+53104_0013_00048;48;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606479;47.85436
+53104_0013_00051;51;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608118;47.853961
+53104_0013_00058;58;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605288;47.854501
+53104_0013_00062;62;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.604692;47.854692
+53104_0013_00067;67;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607201;47.854455
+53104_0013_00079;79;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606265;47.854567
+53104_0013_00083;83;;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605694;47.854674
+53104_0013_00009_bis;9;bis;Rue Division Leclerc;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613051;47.852641
+53104_0063_00002;2;;Ruelle du Vieux Bourg;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608618;47.853787
+53104_0063_00004;4;;Ruelle du Vieux Bourg;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608673;47.853844
+53104_0057_00004;4;;Rue Saint Nicolas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613748;47.852874
+53104_0057_00008;8;;Rue Saint Nicolas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613457;47.853199
+53104_0057_00010;10;;Rue Saint Nicolas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613313;47.853411
+53104_0027_00013;13;;Rue Cour de Langebot;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614969;47.856378
+53104_0027_00014;14;;Rue Cour de Langebot;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614924;47.856224
+53104_0027_00016;16;;Rue Cour de Langebot;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614555;47.856515
+53104_0027_00023;23;;Rue Cour de Langebot;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613807;47.857012
+53104_0027_00024;24;;Rue Cour de Langebot;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613769;47.856899
+53104_0027_00025;25;;Rue Cour de Langebot;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613696;47.857097
+53104_0027_00028;28;;Rue Cour de Langebot;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613456;47.857185
+53104_0012_00001;1;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606054;47.85307
+53104_0012_00002;2;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606131;47.852897
+53104_0012_00003;3;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605961;47.853301
+53104_0012_00011;11;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605014;47.853216
+53104_0012_00013;13;;Rue des Chênes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.604669;47.853163
+53104_0084_00001;1;;Rue du Verger;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.616007;47.865744
+53104_0084_00002;2;;Rue du Verger;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.616007;47.865641
+53104_0084_00003;3;;Rue du Verger;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.615658;47.865702
+53104_0084_00004;4;;Rue du Verger;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.615787;47.865607
+53104_0084_00006;6;;Rue du Verger;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.61532;47.865252
+53104_0084_00010;10;;Rue du Verger;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614857;47.865054
+53104_0084_00011;11;;Rue du Verger;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614296;47.865138
+53104_0065_00003;3;;Rue du Vollier;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.610171;47.854579
+53104_0065_00010_bis;10;bis;Rue du Vollier;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.61004;47.854584
+53104_0025_00003;3;;Rue des Jardins;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607876;47.852164
+53104_0025_00006;6;;Rue des Jardins;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608028;47.852033
+53104_0064_00003;3;;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.615078;47.853017
+53104_0064_00006;6;;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614573;47.853416
+53104_0064_00009;9;;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.615213;47.85301
+53104_0064_00014;14;;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614381;47.853936
+53104_0064_00017;17;;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614842;47.853563
+53104_0064_00001_bis;1;bis;Rue de la Vigne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614455;47.852944
+53104_0071_00002;2;;place sainte-opportune;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609029;47.853698
+53104_0071_00006;6;;place sainte-opportune;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609663;47.85377
+53104_0001_00001;1;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607145;47.853671
+53104_0001_00007;7;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606583;47.853181
+53104_0001_00010;10;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606333;47.852787
+53104_0001_00012;12;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605832;47.852398
+53104_0001_00017;17;;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.60334;47.85146
+53104_0001_00011_bis;11;bis;Rue d'Anjou;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.604365;47.851887
+53104_0068_00004;4;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613634;47.856348
+53104_0068_00005;5;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613067;47.856458
+53104_0068_00006;6;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.6135;47.856317
+53104_0068_00007;7;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612876;47.856474
+53104_0068_00009;9;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612654;47.85649
+53104_0068_00013;13;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612872;47.856837
+53104_0068_00018;18;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612302;47.856458
+53104_0068_00024;24;;Rue des Mimosas;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612247;47.856819
+53104_0005_00002;2;;Allée du Béron;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.603733;47.85162
+53104_0085_00003;3;;Rue de l'Atelier;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613532;47.866531
+53104_0085_00005;5;;Rue de l'Atelier;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613381;47.866528
+53104_0077_00001;1;;Rue de la Forge;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614246;47.866301
+53104_0077_00004;4;;Rue de la Forge;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.61431;47.865831
+53104_0077_00002_b;2;b;Rue de la Forge;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614303;47.866058
+53104_0076_00002;2;;Rue des Etangs;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614204;47.866562
+53104_0076_00003;3;;Rue des Etangs;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613855;47.866855
+53104_0045_00012;12;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612837;47.854031
+53104_0045_00014;14;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612973;47.854077
+53104_0045_00017;17;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.613881;47.854237
+53104_0045_00021;21;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614618;47.854443
+53104_0045_00028;28;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614932;47.854631
+53104_0045_00030;30;;Rue de Priorie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.615506;47.854842
+53104_0073_00001;1;;Rue Saint-Aventin;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.612947;47.864751
+53104_0073_00006;6;;Rue Saint-Aventin;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.612896;47.864544
+53104_0073_00012;12;;Rue Saint-Aventin;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.612286;47.864556
+53104_0078_00003;3;;Rue de la Gare;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614537;47.867039
+53104_0075_00002;2;;Place de l'Église;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.61453;47.866357
+53104_0006_00008;8;;Rue des Bleuets;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614661;47.855944
+53104_0060_00003;3;;Rue du Tilleul;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.60513;47.851565
+53104_0060_00004;4;;Rue du Tilleul;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605341;47.851702
+53104_0060_00008;8;;Rue du Tilleul;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605327;47.851511
+53104_0079_00012;12;;Rue du Lavoir;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.617537;47.866768
+53104_0079_00014;14;;Rue du Lavoir;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.617892;47.866776
+53104_0080_00004;4;;Rue de la Saint Martin;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.617856;47.86662
+53104_0008_00003;3;;Rue des 5 Clochers;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.565434;47.835278
+53104_0069_00007;7;;Rue du Plan d'Eau;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607007;47.855157
+53104_0069_00009;9;;Rue du Plan d'Eau;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607158;47.855227
+53104_0081_00012;12;;Rue des Carrefours;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.616479;47.865724
+53104_b520_00001;1;;Le Plessis de Gennes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.605833;47.846265
+53104_b334_00001;1;;Le Moulin Mouchard;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Longuefuye;-0.610967;47.859166
+53104_b334_00002;2;;Le Moulin Mouchard;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Longuefuye;-0.609004;47.859333
+53104_c214_00004;4;;La Riviere Haute;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.569454;47.898275
+53104_0074_00001;1;;Rue du Bourg Lévêque;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.613677;47.867603
+53104_c212_00001;1;;Passage à Niveau PN18;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.573449;47.882085
+53104_b933_00001;1;;Le Gros Chene;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.619184;47.876963
+53104_0043_00001;1;;Impasse du Presbytère;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.565023;47.835666
+53104_c162_00001;1;;La Riviere Basse;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.620529;47.866283
+53104_b217_00001;1;;Le Grand Bray;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.550028;47.851464
+53104_b218_00001;1;;Le Grand Champ;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.564073;47.839251
+53104_b253_00001;1;;La Grande Motte;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.5638;47.864626
+53104_b391_00001;1;;Le Petit Douaillon;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.600414;47.832302
+53104_b392_00001;1;;Le Petit Gillier;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.569258;47.827879
+53104_b394_00001;1;;Le Petit Parne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.57537;47.834778
+53104_b397_00001;1;;Le Petit Pré;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.582152;47.834921
+53104_b404_00001;1;;La Petite Cheluère;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.577851;47.861041
+53104_b417_00001;1;;La Petite Selousière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.558071;47.827307
+53104_b665_00002;2;;Ville Poële;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.603208;47.835789
+53104_b721_00001;1;;Les Boutons d'Or;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.602662;47.843557
+53104_b940_00001;1;;La Haute Hourderie Longuef;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.591683;47.869101
+53104_b959_00004;4;;La Lande du Bas Longuefuye;53200;53104;Gennes-Longuefuye;Longuefuye;;-0.592534;47.886656
+53104_c097_00001;1;;Le Plessis de Longuefuye;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.605429;47.881545
+53104_c181_00001;1;;La Touche de Longuefuye;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.601444;47.864242
+53104_0037_00003;3;;Rue des Oiseaux;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609385;47.854945
+53104_0089_00008;8;;Rue du Puits;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607984;47.852791
+53104_c220_00001;1;;L'Etang de l'Espérance;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.571216;47.895078
+53104_0081_00014;14;;Rue des Carrefours;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.61653;47.865444
+53104_b906_00001;1;;Le Grand Tertre;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.582447;47.881331
+53104_b982_00001;1;;Le Moulin Mouchard;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.6092;47.861371
+53104_0009_00002;2;;Rue des Coquelicots;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614316;47.856218
+53104_0023_00003;3;;Ruelle de la Fénardière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607881;47.853576
+53104_c214_00002;2;;La Riviere Haute;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.569477;47.898266
+53104_0041_00003;3;;Impasse de la Paix;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.61197;47.853689
+53104_0087_00001;1;;Chemin de la gare;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.618685;47.874072
+53104_0004_00009;9;;Impasse de l'Aurore;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612637;47.853884
+53104_0004_00011;11;;Impasse de l'Aurore;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612665;47.853884
+53104_0042_00002;2;;Rue de la Prairie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.614778;47.852469
+53104_c030_00001;1;;La Petite Pinayère;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.578746;47.886267
+53104_c030_00002;2;;La Petite Pinayère;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.578557;47.886667
+53104_b018_00001;1;;Les Basses Berthieres;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.589172;47.84886
+53104_b156_00001;1;;La Croix d'Audin;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.60142;47.83679
+53104_b236_00001;1;;Le Grand Pineau;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.594164;47.847437
+53104_b267_00001;1;;La Grande Selousière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.565454;47.825251
+53104_b380_00001;1;;Le Petit Bois Hubert;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.593127;47.857718
+53104_b391_00003;3;;Le Petit Douaillon;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.600452;47.832282
+53104_b416_00001;1;;La Petite Rouaudière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.57488;47.844581
+53104_b420_00001;1;;Les Petites Dibonnières;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.584228;47.843236
+53104_b665_00003;3;;Ville Poële;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.60328;47.835777
+53104_b707_00001;1;;Le Petit Moulin;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.601167;47.858788
+53104_b717_00001;1;;La Grande Fontenelle;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.565166;47.842838
+53104_c033_00001;1;;La Petite Templerie;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.578401;47.887136
+53104_c163_00001;1;;La Riviere Cornaise;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.569053;47.899229
+53104_c163_00002;2;;La Riviere Cornaise;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.569052;47.899232
+53104_c183_00001;1;;La Touche Ronde;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.570579;47.89099
+53104_0037_00002;2;;Rue des Oiseaux;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.60948;47.855342
+53104_0037_00004;4;;Rue des Oiseaux;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609462;47.855328
+53104_0037_00009;9;;Rue des Oiseaux;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609725;47.855234
+53104_0090_00001;1;;Rue des Roseaux;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607535;47.852585
+53104_0089_00002;2;;Rue du Puits;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607398;47.853148
+53104_b708_00004;4;;Plein Air;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607224;47.851518
+53104_b982_00002;2;;Le Moulin Mouchard;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.609196;47.861237
+53104_0042_00006;6;;Rue de la Prairie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.616001;47.852836
+53104_0042_00008;8;;Rue de la Prairie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.616477;47.853095
+53104_b921_00001;1;;La Grande Templerie;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.586502;47.886521
+53104_0086_00003;3;;Rue des Vieux Tilleuls;53200;53104;Gennes-Longuefuye;Longuefuye;;-0.615002;47.866747
+53104_0086_00004;4;;Rue des Vieux Tilleuls;53200;53104;Gennes-Longuefuye;Longuefuye;;-0.615058;47.867024
+53104_b036_00001;1;;Le Bois Bignon;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.566301;47.85717
+53104_b220_00001;1;;Le Grand Chene;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.57064;47.82403
+53104_b266_00001;1;;La Grande Rouaudière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.574666;47.844662
+53104_b270_00001;1;;Les Grandes Dibonnieres;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.582408;47.838429
+53104_b273_00002;2;;Les Grands Champs;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.564014;47.839125
+53104_b401_00001;1;;Le Petit Pré Julienne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.562592;47.832247
+53104_b424_00001;1;;Les Petits Champs;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.588737;47.845162
+53104_b425_00001;1;;Les Petits Pineaux;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.598939;47.845072
+53104_b425_00002;2;;Les Petits Pineaux;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.599051;47.844978
+53104_b536_00001;1;;Pré Julienne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.562052;47.831676
+53104_b677_00001;1;;Le Grand Bois Hubert;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.588389;47.860941
+53104_b705_00001;1;;Les Diamants Goulds;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.619182;47.850762
+53104_b722_00001;1;;La Basse Réhoraie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.587436;47.844603
+53104_b723_00001;1;;La Grande Pinsonnière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.620692;47.850531
+53104_b928_00002;2;;Les Grands Epinays;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.585236;47.878562
+53104_c163_00003;3;;La Riviere Cornaise;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.569043;47.899233
+53104_c221_00001;1;;Château de Villette;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.618063;47.872275
+53104_0090_00003;3;;Rue des Roseaux;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607684;47.852547
+53104_0089_00001;1;;Rue du Puits;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.60717;47.852992
+53104_0089_00003;3;;Rue du Puits;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607244;47.853038
+53104_0023_00001;1;;Ruelle de la Fénardière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608155;47.853429
+53104_0023_00005;5;;Ruelle de la Fénardière;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607817;47.853632
+53104_b187_00001;1;;La Fouconnière de Gennes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.599808;47.82765
+53104_b919_00001;1;;La Grande Pinayère;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.575754;47.883035
+53104_0041_00005;5;;Impasse de la Paix;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.612006;47.853688
+53104_0042_00004;4;;Rue de la Prairie;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.615856;47.85279
+53104_0086_00002;2;;Rue des Vieux Tilleuls;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.614829;47.866614
+53104_b229_00001;1;;Le Grand Gillier;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.569416;47.82709
+53104_b234_00001;1;;Le Grand Parne;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.57886;47.835038
+53104_b247_00001;1;;La Grande Cheluère;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.577888;47.861054
+53104_b292_00001;1;;Les Hautes Berthieres;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.590388;47.84599
+53104_b313_00001;1;;Longue Touche;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.599517;47.858138
+53104_b349_00001;1;;Noire Terre;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.592124;47.857672
+53104_b391_00002;2;;Le Petit Douaillon;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.600498;47.832288
+53104_b640_00001;1;;La Touche de Gennes;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.597393;47.848819
+53104_b665_00001;1;;Ville Poële;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.60325;47.835758
+53104_b711_00001;1;;La Clé des Champs;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.606608;47.85104
+53104_b928_00001;1;;Les Grands Epinays;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.58524;47.878573
+53104_c216_00001;1;;Le Petit Rossignol;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.612591;47.868257
+53104_c219_00001;1;;Le Pavillon des Hommeaux;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.609233;47.870724
+53104_0037_00001;1;;Rue des Oiseaux;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609445;47.855111
+53104_0037_00005;5;;Rue des Oiseaux;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.609475;47.854846
+53104_0037_00007;7;;Rue des Oiseaux;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.60955;47.854903
+53104_0028_00002;2;;Rue des Loisirs;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.608517;47.851925
+53104_b227_00001;1;;le Grand Douaillon;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.596871;47.835357
+53104_0089_00004;4;;Rue du Puits;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607714;47.852987
+53104_0089_00005;5;;Rue du Puits;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607663;47.852904
+53104_0089_00006;6;;Rue du Puits;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.60787;47.852872
+53104_b877_00001;1;;La Fouconnière de Longuefuye;53200;53104;Gennes-Longuefuye;Longuefuye;Longuefuye;-0.596517;47.885923
+53104_0026_00002;2;;Place des Lavandieres;53200;53104;Gennes-Longuefuye;Gennes-sur-Glaize;Gennes-sur-Glaize;-0.607646;47.853605

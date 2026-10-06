@@ -1,0 +1,992 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+53211_0251_00004;4;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.853965;48.340071
+53211_0251_00005;5;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.854164;48.340078
+53211_0251_00008;8;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.854019;48.340014
+53211_0251_00009;9;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.854505;48.339715
+53211_0251_00016;16;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.85456;48.339443
+53211_0251_00022;22;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.854848;48.339138
+53211_0010_00010;10;;Rue Beauséjour;53500;53211;Saint-Denis-de-Gastines;;;-0.855053;48.339928
+53211_0010_00013;13;;Rue Beauséjour;53500;53211;Saint-Denis-de-Gastines;;;-0.855378;48.339594
+53211_0191_00005;5;;Place de Froulay;53500;53211;Saint-Denis-de-Gastines;;;-0.851448;48.339119
+53211_0400_00011;11;;Rue Saint Georges;53500;53211;Saint-Denis-de-Gastines;;;-0.856776;48.341112
+53211_0400_00019_c;19;c;Rue Saint Georges;53500;53211;Saint-Denis-de-Gastines;;;-0.856853;48.340416
+53211_0400_00019_b;19;b;Rue Saint Georges;53500;53211;Saint-Denis-de-Gastines;;;-0.856157;48.340393
+53211_0080_00028;28;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.858766;48.342142
+53211_0080_00058;58;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.861073;48.342321
+53211_0360_00007;7;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.861018;48.343148
+53211_0360_00011;11;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.861187;48.343121
+53211_0360_00014;14;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.8593;48.343609
+53211_0126_00725;725;;chemin de la corderie;53500;53211;Saint-Denis-de-Gastines;;;-0.813688;48.345183
+53211_0455_00003;3;;Rue du Vieux Lavoir;53500;53211;Saint-Denis-de-Gastines;;;-0.863045;48.343196
+53211_0455_00007;7;;Rue du Vieux Lavoir;53500;53211;Saint-Denis-de-Gastines;;;-0.86259;48.343158
+53211_0280_00005;5;;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.857105;48.342785
+53211_0280_00016;16;;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.856932;48.343149
+53211_0280_00017;17;;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.856585;48.34321
+53211_0280_00021;21;;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.856007;48.34383
+53211_0280_00022;22;;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.856414;48.343404
+53211_0340_00003;3;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.8574;48.342443
+53211_0340_00013;13;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.857776;48.343096
+53211_0340_00021;21;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.85832;48.343699
+53211_0340_00030;30;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.858279;48.343518
+53211_0321_00093;93;;voie communale des milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.862484;48.351544
+53211_0321_01366;1366;;voie communale des milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.87615;48.358139
+53211_0321_02448;2448;;voie communale des milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.882312;48.366251
+53211_0321_02906;2906;;voie communale des milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.885531;48.364887
+53211_0321_03037;3037;;voie communale des milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.885569;48.364965
+53211_0141_00128;128;;chemin du domaine;53500;53211;Saint-Denis-de-Gastines;;;-0.811815;48.365318
+53211_0383_00004;4;;Rue de Provence;53500;53211;Saint-Denis-de-Gastines;;;-0.856043;48.339628
+53211_0383_00008;8;;Rue de Provence;53500;53211;Saint-Denis-de-Gastines;;;-0.85608;48.339107
+53211_0383_00012;12;;Rue de Provence;53500;53211;Saint-Denis-de-Gastines;;;-0.855914;48.338671
+53211_0440_00003;3;;Place des Tilleuls;53500;53211;Saint-Denis-de-Gastines;;;-0.860486;48.342477
+53211_0440_00011;11;;Place des Tilleuls;53500;53211;Saint-Denis-de-Gastines;;;-0.860701;48.342937
+53211_0440_00015_bis;15;bis;Place des Tilleuls;53500;53211;Saint-Denis-de-Gastines;;;-0.86081;48.34347
+53211_0003_00006;6;;Rue d'Anjou;53500;53211;Saint-Denis-de-Gastines;;;-0.856825;48.339589
+53211_0460_00025;25;;Rue des Vergers;53500;53211;Saint-Denis-de-Gastines;;;-0.858774;48.342253
+53211_0120_00007;7;;Rue de Cheverus;53500;53211;Saint-Denis-de-Gastines;;;-0.856485;48.342896
+53211_0120_00005_bis;5;bis;Rue de Cheverus;53500;53211;Saint-Denis-de-Gastines;;;-0.855271;48.342507
+53211_0458_00004;4;;Impasse des Violettes;53500;53211;Saint-Denis-de-Gastines;;;-0.857076;48.339224
+53211_0456_01124;1124;;Route de Vautorte;53500;53211;Saint-Denis-de-Gastines;;;-0.859941;48.334899
+53211_0053_00005;5;;Rue du Bocage;53500;53211;Saint-Denis-de-Gastines;;;-0.852614;48.339458
+53211_0324_00447;447;;route de montenay;53500;53211;Saint-Denis-de-Gastines;;;-0.863948;48.332303
+53211_0270_00003;3;;Rue des Lavandières;53500;53211;Saint-Denis-de-Gastines;;;-0.864351;48.343807
+53211_0270_00004;4;;Rue des Lavandières;53500;53211;Saint-Denis-de-Gastines;;;-0.864766;48.343744
+53211_0270_00010;10;;Rue des Lavandières;53500;53211;Saint-Denis-de-Gastines;;;-0.865469;48.343375
+53211_0137_00012;12;;Place de l'Eglise;53500;53211;Saint-Denis-de-Gastines;;;-0.856741;48.342518
+53211_0083_00168;168;;chemin des brosses;53500;53211;Saint-Denis-de-Gastines;;;-0.856141;48.356759
+53211_0363_00318;318;;chemin du perray;53500;53211;Saint-Denis-de-Gastines;;;-0.829506;48.343332
+53211_0220_00004;4;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.857173;48.341887
+53211_0220_00005;5;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.857557;48.341262
+53211_0220_00013;13;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.858853;48.338008
+53211_0220_00020;20;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.857555;48.340868
+53211_0220_00026;26;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.857655;48.340557
+53211_0379_00049;49;;voie communale de la rabine;53500;53211;Saint-Denis-de-Gastines;;;-0.900088;48.362117
+53211_0254_00161;161;;chemin de la huberdière;53500;53211;Saint-Denis-de-Gastines;;;-0.835344;48.343707
+53211_0381_00089;89;;voie communale des remmeries;53500;53211;Saint-Denis-de-Gastines;;;-0.934024;48.344207
+53211_0306_00888;888;;chemin de la machardière;53500;53211;Saint-Denis-de-Gastines;;;-0.928606;48.366032
+53211_0370_00001;1;;Rue des Plantes;53500;53211;Saint-Denis-de-Gastines;;;-0.863977;48.340926
+53211_0370_00005;5;;Rue des Plantes;53500;53211;Saint-Denis-de-Gastines;;;-0.864404;48.34116
+53211_0314_00093;93;;chemin de la petite martinière;53500;53211;Saint-Denis-de-Gastines;;;-0.867676;48.329693
+53211_0453_00005;5;;Rue de la Vallée;53500;53211;Saint-Denis-de-Gastines;;;-0.862771;48.34381
+53211_0064_00636;636;;chemin de la brasonnière;53500;53211;Saint-Denis-de-Gastines;;;-0.944941;48.349756
+53211_0136_00038;38;;chemin de la demeurentais;53500;53211;Saint-Denis-de-Gastines;;;-0.863671;48.339964
+53211_0394_00931;931;;voie communale de la rue;53500;53211;Saint-Denis-de-Gastines;;;-0.839515;48.330882
+53211_0318_00097;97;;chemin des messendières;53500;53211;Saint-Denis-de-Gastines;;;-0.817277;48.350695
+53211_0450_00191;191;;chemin de la tuberie;53500;53211;Saint-Denis-de-Gastines;;;-0.930194;48.341029
+53211_0323_01055;1055;;route de montaudin;53500;53211;Saint-Denis-de-Gastines;;;-0.908443;48.356287
+53211_0323_02765;2765;;route de montaudin;53500;53211;Saint-Denis-de-Gastines;;;-0.929751;48.358869
+53211_0432_00061;61;;sentier de la petite tête louvine;53500;53211;Saint-Denis-de-Gastines;;;-0.885764;48.339492
+53211_0322_00229;229;;chemin de la monnerie;53500;53211;Saint-Denis-de-Gastines;;;-0.876198;48.320501
+53211_0089_01554;1554;;route de la buchardière;53500;53211;Saint-Denis-de-Gastines;;;-0.815792;48.362257
+53211_0380_00004;4;;Rue des Prés;53500;53211;Saint-Denis-de-Gastines;;;-0.861225;48.341065
+53211_0380_00008;8;;Rue des Prés;53500;53211;Saint-Denis-de-Gastines;;;-0.861777;48.340775
+53211_0346_00201;201;;chemin de la pasquerie;53500;53211;Saint-Denis-de-Gastines;;;-0.825989;48.349821
+53211_0240_00162;162;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.860715;48.34852
+53211_0240_00581;581;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.861942;48.352396
+53211_0240_02408;2408;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.85258;48.365905
+53211_0106_00439;439;;chemin de la chaussée;53500;53211;Saint-Denis-de-Gastines;;;-0.84245;48.359867
+53211_0011_00140;140;;chemin des aulnais;53500;53211;Saint-Denis-de-Gastines;;;-0.818074;48.338793
+53211_0221_00195;195;;chemin de la gasnerie;53500;53211;Saint-Denis-de-Gastines;;;-0.829806;48.357244
+53211_0001_00340;340;;chemin de l'andipayère;53500;53211;Saint-Denis-de-Gastines;;;-0.8852;48.357366
+53211_0405_00175;175;;route des sablons;53500;53211;Saint-Denis-de-Gastines;;;-0.867971;48.342616
+53211_0263_00263;263;;chemin de lande louvice;53500;53211;Saint-Denis-de-Gastines;;;-0.863878;48.369419
+53211_0180_00001_bis;1;bis;Rue des Fauvettes;53500;53211;Saint-Denis-de-Gastines;;;-0.859158;48.344897
+53211_0191_00001;1;;Place de Froulay;53500;53211;Saint-Denis-de-Gastines;;;-0.851786;48.339438
+53211_0191_00008;8;;Place de Froulay;53500;53211;Saint-Denis-de-Gastines;;;-0.851237;48.3391
+53211_0080_00003;3;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.857841;48.342191
+53211_0080_00007;7;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.858355;48.342217
+53211_0080_00016;16;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.858099;48.342066
+53211_0080_00024;24;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.858335;48.342096
+53211_0080_00036;36;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.859025;48.342154
+53211_0080_00042;42;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.859458;48.342185
+53211_0080_00052;52;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.860676;48.342249
+53211_0080_00060;60;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.86126;48.342341
+53211_0080_00066_bis;66;bis;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.861626;48.341748
+53211_0360_00002;2;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.858634;48.343807
+53211_0360_00010;10;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.85916;48.343627
+53211_0360_00015;15;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.861561;48.342936
+53211_0360_00022;22;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.860434;48.343276
+53211_0035_00195;195;;chemin de la petite bilheudière;53500;53211;Saint-Denis-de-Gastines;;;-0.877177;48.347319
+53211_0248_00135;135;;chemin des helonnières;53500;53211;Saint-Denis-de-Gastines;;;-0.829437;48.335066
+53211_0188_00004;4;;Rue de la Fontaine;53500;53211;Saint-Denis-de-Gastines;;;-0.863692;48.343338
+53211_0332_00851;851;;chemin de neuville chevillardière;53500;53211;Saint-Denis-de-Gastines;;;-0.831985;48.352972
+53211_0280_00012;12;;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.856985;48.343152
+53211_0417_00001;1;;Impasse de la Source;53500;53211;Saint-Denis-de-Gastines;;;-0.864959;48.343992
+53211_0340_00008;8;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.857474;48.342419
+53211_0340_00017;17;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.858118;48.343478
+53211_0340_00018;18;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.857671;48.342837
+53211_0340_00022;22;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.85775;48.342945
+53211_0340_00034;34;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.858299;48.343568
+53211_0340_00019_a;19;a;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.857906;48.343705
+53211_0340_00013_bis;13;bis;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.857896;48.343223
+53211_0200_00002;2;;Rue de la Ferté;53500;53211;Saint-Denis-de-Gastines;;;-0.859175;48.342053
+53211_0200_00003;3;;Rue de la Ferté;53500;53211;Saint-Denis-de-Gastines;;;-0.859059;48.340583
+53211_0200_00017;17;;Rue de la Ferté;53500;53211;Saint-Denis-de-Gastines;;;-0.860346;48.33947
+53211_0386_00005;5;;Impasse du Puits;53500;53211;Saint-Denis-de-Gastines;;;-0.86412;48.344787
+53211_0185_00006;6;;Avenue Flandres Dunkerque 1940;53500;53211;Saint-Denis-de-Gastines;;;-0.861449;48.345795
+53211_0383_00007;7;;Rue de Provence;53500;53211;Saint-Denis-de-Gastines;;;-0.856171;48.338939
+53211_0440_00005;5;;Place des Tilleuls;53500;53211;Saint-Denis-de-Gastines;;;-0.860541;48.342598
+53211_0258_00005;5;;Ruelle des Jardins;53500;53211;Saint-Denis-de-Gastines;;;-0.858014;48.343241
+53211_0003_00008;8;;Rue d'Anjou;53500;53211;Saint-Denis-de-Gastines;;;-0.857786;48.339567
+53211_0460_00015;15;;Rue des Vergers;53500;53211;Saint-Denis-de-Gastines;;;-0.858481;48.342455
+53211_0120_00001;1;;Rue de Cheverus;53500;53211;Saint-Denis-de-Gastines;;;-0.856318;48.342189
+53211_0120_00009_bis;9;bis;Rue de Cheverus;53500;53211;Saint-Denis-de-Gastines;;;-0.855955;48.342909
+53211_0458_00003;3;;Impasse des Violettes;53500;53211;Saint-Denis-de-Gastines;;;-0.857191;48.339018
+53211_0055_00395;395;;chemin du bois;53500;53211;Saint-Denis-de-Gastines;;;-0.941683;48.329469
+53211_0324_00458;458;;route de montenay;53500;53211;Saint-Denis-de-Gastines;;;-0.864126;48.331985
+53211_0324_02114;2114;;route de montenay;53500;53211;Saint-Denis-de-Gastines;;;-0.873508;48.32039
+53211_0232_00022;22;;chemin de la grande guyardière;53500;53211;Saint-Denis-de-Gastines;;;-0.93443;48.35865
+53211_0317_00309;309;;chemin de megaudon;53500;53211;Saint-Denis-de-Gastines;;;-0.828318;48.34476
+53211_0266_00306;306;;route de larchamp;53500;53211;Saint-Denis-de-Gastines;;;-0.873906;48.341702
+53211_0266_00929;929;;route de larchamp;53500;53211;Saint-Denis-de-Gastines;;;-0.881535;48.340794
+53211_0266_03295;3295;;route de larchamp;53500;53211;Saint-Denis-de-Gastines;;;-0.885496;48.340368
+53211_0137_00004;4;;Place de l'Eglise;53500;53211;Saint-Denis-de-Gastines;;;-0.85719;48.342322
+53211_0040_00004;4;;Rue Bellevue;53500;53211;Saint-Denis-de-Gastines;;;-0.85832;48.344117
+53211_0409_00036;36;;Che du Saudray;53500;53211;Saint-Denis-de-Gastines;;;-0.814206;48.361311
+53211_0220_00018;18;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.857527;48.340985
+53211_0220_00042;42;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.858889;48.337649
+53211_0220_00044;44;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.859107;48.337352
+53211_0125_00003;3;;Rue des Anciens Combattants;53500;53211;Saint-Denis-de-Gastines;;;-0.86583;48.343716
+53211_0125_00009;9;;Rue des Anciens Combattants;53500;53211;Saint-Denis-de-Gastines;;;-0.866048;48.344287
+53211_0254_00132;132;;chemin de la huberdière;53500;53211;Saint-Denis-de-Gastines;;;-0.83505;48.343941
+53211_0134_00240;240;;chemin de la daguerie;53500;53211;Saint-Denis-de-Gastines;;;-0.878558;48.366906
+53211_0056_00720;720;;voie communale du bois joli;53500;53211;Saint-Denis-de-Gastines;;;-0.826942;48.334205
+53211_0306_00796;796;;chemin de la machardière;53500;53211;Saint-Denis-de-Gastines;;;-0.929454;48.365771
+53211_0099_02115;2115;;route de carelles;53500;53211;Saint-Denis-de-Gastines;;;-0.89353;48.354403
+53211_0099_03936;3936;;route de carelles;53500;53211;Saint-Denis-de-Gastines;;;-0.902744;48.368901
+53211_0453_00001;1;;Rue de la Vallée;53500;53211;Saint-Denis-de-Gastines;;;-0.863273;48.343863
+53211_0453_00006;6;;Rue de la Vallée;53500;53211;Saint-Denis-de-Gastines;;;-0.862592;48.343862
+53211_0344_00672;672;;chemin de la paillardière;53500;53211;Saint-Denis-de-Gastines;;;-0.842955;48.326177
+53211_0326_00194;194;;chemin de morand;53500;53211;Saint-Denis-de-Gastines;;;-0.89263;48.37036
+53211_0122_00119;119;;chemin du clou;53500;53211;Saint-Denis-de-Gastines;;;-0.902907;48.364206
+53211_0122_00264;264;;chemin du clou;53500;53211;Saint-Denis-de-Gastines;;;-0.90476;48.36367
+53211_0253_00853;853;;chemin des heurlières;53500;53211;Saint-Denis-de-Gastines;;;-0.925845;48.351947
+53211_0256_00001;1;;Rue de l'Industrie;53500;53211;Saint-Denis-de-Gastines;;;-0.850277;48.339737
+53211_0256_00003;3;;Rue de l'Industrie;53500;53211;Saint-Denis-de-Gastines;;;-0.850716;48.339872
+53211_0325_00006;6;;Impasse des Mésanges;53500;53211;Saint-Denis-de-Gastines;;;-0.861824;48.344877
+53211_0325_00008;8;;Impasse des Mésanges;53500;53211;Saint-Denis-de-Gastines;;;-0.86225;48.344854
+53211_0380_00012;12;;Rue des Prés;53500;53211;Saint-Denis-de-Gastines;;;-0.862619;48.340319
+53211_0463_00725;725;;chemin de villancais;53500;53211;Saint-Denis-de-Gastines;;;-0.9017;48.346464
+53211_0235_00100;100;;chemin de la grandinière;53500;53211;Saint-Denis-de-Gastines;;;-0.90749;48.341979
+53211_0235_00103;103;;chemin de la grandinière;53500;53211;Saint-Denis-de-Gastines;;;-0.907614;48.341985
+53211_0243_00006;6;;Impasse du Gué;53500;53211;Saint-Denis-de-Gastines;;;-0.857752;48.337789
+53211_0085_00124;124;;chemin de la brouhardière;53500;53211;Saint-Denis-de-Gastines;;;-0.900397;48.356386
+53211_0210_00600;600;;chemin de la galesnerie;53500;53211;Saint-Denis-de-Gastines;;;-0.841608;48.334636
+53211_0240_00014;14;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.860124;48.347529
+53211_0240_00106;106;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.860446;48.348025
+53211_0240_02720;2720;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.85142;48.368122
+53211_0106_00116;116;;chemin de la chaussée;53500;53211;Saint-Denis-de-Gastines;;;-0.839047;48.35904
+53211_0234_00004;4;;Rue du Grand Miaule;53500;53211;Saint-Denis-de-Gastines;;;-0.859395;48.347514
+53211_0008_00005;5;;Rue de l'Aubépine;53500;53211;Saint-Denis-de-Gastines;;;-0.859785;48.340587
+53211_0008_00011;11;;Rue de l'Aubépine;53500;53211;Saint-Denis-de-Gastines;;;-0.859866;48.34113
+53211_0008_00013;13;;Rue de l'Aubépine;53500;53211;Saint-Denis-de-Gastines;;;-0.859886;48.341275
+53211_0251_00012;12;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.85429;48.339729
+53211_0251_00020;20;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.854848;48.339138
+53211_0010_00002;2;;Rue Beauséjour;53500;53211;Saint-Denis-de-Gastines;;;-0.854274;48.340612
+53211_0010_00009;9;;Rue Beauséjour;53500;53211;Saint-Denis-de-Gastines;;;-0.854958;48.340149
+53211_0010_00014;14;;Rue Beauséjour;53500;53211;Saint-Denis-de-Gastines;;;-0.855298;48.339493
+53211_0010_00019;19;;Rue Beauséjour;53500;53211;Saint-Denis-de-Gastines;;;-0.855349;48.339138
+53211_0400_00002;2;;Rue Saint Georges;53500;53211;Saint-Denis-de-Gastines;;;-0.856409;48.341682
+53211_0400_00023;23;;Rue Saint Georges;53500;53211;Saint-Denis-de-Gastines;;;-0.85649;48.339965
+53211_0080_00008;8;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.857693;48.34202
+53211_0080_00012;12;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.857904;48.342055
+53211_0080_00019;19;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.859886;48.342274
+53211_0080_00025;25;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.86015;48.342293
+53211_0080_00029;29;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.860352;48.342307
+53211_0080_00044;44;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.859594;48.342194
+53211_0080_00066;66;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.861676;48.342381
+53211_0360_00003;3;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.860863;48.343202
+53211_0360_00006;6;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.858872;48.343717
+53211_0015_00579;579;;chemin de beaudouet;53500;53211;Saint-Denis-de-Gastines;;;-0.848799;48.35546
+53211_0015_00600;600;;chemin de beaudouet;53500;53211;Saint-Denis-de-Gastines;;;-0.849032;48.355532
+53211_0188_00005;5;;Rue de la Fontaine;53500;53211;Saint-Denis-de-Gastines;;;-0.863277;48.344551
+53211_0126_00711;711;;chemin de la corderie;53500;53211;Saint-Denis-de-Gastines;;;-0.813688;48.345183
+53211_0332_00829;829;;chemin de neuville chevillardière;53500;53211;Saint-Denis-de-Gastines;;;-0.831985;48.352972
+53211_0455_00008;8;;Rue du Vieux Lavoir;53500;53211;Saint-Denis-de-Gastines;;;-0.8625;48.343357
+53211_0005_00446;446;;chemin de l'angoyère;53500;53211;Saint-Denis-de-Gastines;;;-0.912214;48.359715
+53211_0005_00476;476;;chemin de l'angoyère;53500;53211;Saint-Denis-de-Gastines;;;-0.912044;48.359597
+53211_0417_00004;4;;Impasse de la Source;53500;53211;Saint-Denis-de-Gastines;;;-0.865112;48.344285
+53211_0340_00004;4;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.85743;48.342276
+53211_0340_00009;9;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.85768;48.34299
+53211_0340_00012;12;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.857514;48.342565
+53211_0340_00025;25;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.858688;48.344102
+53211_0340_00038;38;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.858399;48.34368
+53211_0200_00007;7;;Rue de la Ferté;53500;53211;Saint-Denis-de-Gastines;;;-0.8591;48.340619
+53211_0200_00009;9;;Rue de la Ferté;53500;53211;Saint-Denis-de-Gastines;;;-0.859236;48.34032
+53211_0200_00015;15;;Rue de la Ferté;53500;53211;Saint-Denis-de-Gastines;;;-0.860147;48.339611
+53211_0321_00049;49;;voie communale des milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.862321;48.351368
+53211_0321_01491;1491;;voie communale des milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.877061;48.359009
+53211_0386_00009;9;;Impasse du Puits;53500;53211;Saint-Denis-de-Gastines;;;-0.862908;48.344946
+53211_0141_00171;171;;chemin du domaine;53500;53211;Saint-Denis-de-Gastines;;;-0.812055;48.365784
+53211_0236_01008;1008;;chemin de la grelunière;53500;53211;Saint-Denis-de-Gastines;;;-0.885963;48.361044
+53211_0383_00011;11;;Rue de Provence;53500;53211;Saint-Denis-de-Gastines;;;-0.856171;48.338939
+53211_0460_00005;5;;Rue des Vergers;53500;53211;Saint-Denis-de-Gastines;;;-0.857874;48.342727
+53211_0460_00009;9;;Rue des Vergers;53500;53211;Saint-Denis-de-Gastines;;;-0.858007;48.342643
+53211_0458_00007;7;;Impasse des Violettes;53500;53211;Saint-Denis-de-Gastines;;;-0.857147;48.338758
+53211_0458_00008;8;;Impasse des Violettes;53500;53211;Saint-Denis-de-Gastines;;;-0.856855;48.339033
+53211_0458_00012;12;;Impasse des Violettes;53500;53211;Saint-Denis-de-Gastines;;;-0.856971;48.338762
+53211_0456_01058;1058;;Route de Vautorte;53500;53211;Saint-Denis-de-Gastines;;;-0.859941;48.334899
+53211_0053_00003;3;;Rue du Bocage;53500;53211;Saint-Denis-de-Gastines;;;-0.852678;48.339553
+53211_0053_00014;14;;Rue du Bocage;53500;53211;Saint-Denis-de-Gastines;;;-0.851933;48.338881
+53211_0232_00058;58;;chemin de la grande guyardière;53500;53211;Saint-Denis-de-Gastines;;;-0.934568;48.358466
+53211_0270_00008;8;;Rue des Lavandières;53500;53211;Saint-Denis-de-Gastines;;;-0.865236;48.343394
+53211_0266_00092;92;;route de larchamp;53500;53211;Saint-Denis-de-Gastines;;;-0.873579;48.341877
+53211_0247_00003;3;;Impasse de l’Harmonie;53500;53211;Saint-Denis-de-Gastines;;;-0.855629;48.343306
+53211_0040_00002;2;;Rue Bellevue;53500;53211;Saint-Denis-de-Gastines;;;-0.858435;48.344068
+53211_0004_00295;295;;chemin de l'angottière;53500;53211;Saint-Denis-de-Gastines;;;-0.845657;48.355178
+53211_0302_00075;75;;chemin des loges;53500;53211;Saint-Denis-de-Gastines;;;-0.919722;48.358532
+53211_0220_00008;8;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.857215;48.341787
+53211_0220_00009;9;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.857815;48.340158
+53211_0220_00014;14;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.857414;48.341331
+53211_0220_00036;36;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.858138;48.339277
+53211_0379_00035;35;;voie communale de la rabine;53500;53211;Saint-Denis-de-Gastines;;;-0.9004;48.361922
+53211_0205_00634;634;;chemin de fumecon;53500;53211;Saint-Denis-de-Gastines;;;-0.870155;48.321938
+53211_0024_00480;480;;chemin de la bergée;53500;53211;Saint-Denis-de-Gastines;;;-0.856887;48.367392
+53211_0024_00653;653;;chemin de la bergée;53500;53211;Saint-Denis-de-Gastines;;;-0.856052;48.369858
+53211_0056_01629;1629;;voie communale du bois joli;53500;53211;Saint-Denis-de-Gastines;;;-0.825618;48.332533
+53211_0099_00462;462;;route de carelles;53500;53211;Saint-Denis-de-Gastines;;;-0.875936;48.345319
+53211_0099_01977;1977;;route de carelles;53500;53211;Saint-Denis-de-Gastines;;;-0.891856;48.353437
+53211_0094_00040;40;;chemin de la petite buronnière;53500;53211;Saint-Denis-de-Gastines;;;-0.919162;48.342996
+53211_0136_00621;621;;chemin de la demeurentais;53500;53211;Saint-Denis-de-Gastines;;;-0.867974;48.338152
+53211_0391_00149;149;;chemin de la grande rouairie;53500;53211;Saint-Denis-de-Gastines;;;-0.924511;48.342979
+53211_0334_00078;78;;chemin du nezement;53500;53211;Saint-Denis-de-Gastines;;;-0.87275;48.323937
+53211_0334_00079;79;;chemin du nezement;53500;53211;Saint-Denis-de-Gastines;;;-0.872568;48.323988
+53211_0122_00477;477;;chemin du clou;53500;53211;Saint-Denis-de-Gastines;;;-0.90694;48.363014
+53211_0323_01932;1932;;route de montaudin;53500;53211;Saint-Denis-de-Gastines;;;-0.917849;48.357682
+53211_0323_01934;1934;;route de montaudin;53500;53211;Saint-Denis-de-Gastines;;;-0.918069;48.357727
+53211_0323_01959;1959;;route de montaudin;53500;53211;Saint-Denis-de-Gastines;;;-0.919597;48.357841
+53211_0253_00729;729;;chemin des heurlières;53500;53211;Saint-Denis-de-Gastines;;;-0.925456;48.352579
+53211_0300_00004;4;;Rue des Lilas;53500;53211;Saint-Denis-de-Gastines;;;-0.861063;48.343889
+53211_0201_00832;832;;chemin des fougerolles;53500;53211;Saint-Denis-de-Gastines;;;-0.842172;48.319075
+53211_0380_00002;2;;Rue des Prés;53500;53211;Saint-Denis-de-Gastines;;;-0.860716;48.341711
+53211_0237_00260;260;;chemin de la grosserie;53500;53211;Saint-Denis-de-Gastines;;;-0.839012;48.332546
+53211_0463_00770;770;;chemin de villancais;53500;53211;Saint-Denis-de-Gastines;;;-0.901933;48.3467
+53211_0420_00004;4;;Rue Saint Stanislas;53500;53211;Saint-Denis-de-Gastines;;;-0.859508;48.343121
+53211_0365_00074;74;;chemin de la pièce;53500;53211;Saint-Denis-de-Gastines;;;-0.826154;48.342002
+53211_0227_00195;195;;chemin de la georgeaire;53500;53211;Saint-Denis-de-Gastines;;;-0.936351;48.352624
+53211_0240_01871;1871;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.857362;48.362369
+53211_0395_00006;6;;Rue Saint Etienne;53500;53211;Saint-Denis-de-Gastines;;;-0.857677;48.342017
+53211_0395_00007;7;;Rue Saint Etienne;53500;53211;Saint-Denis-de-Gastines;;;-0.858167;48.341737
+53211_0212_00211;211;;chemin de la gaptière;53500;53211;Saint-Denis-de-Gastines;;;-0.868028;48.346202
+53211_0388_00308;308;;chemin de la roffinière;53500;53211;Saint-Denis-de-Gastines;;;-0.873678;48.337684
+53211_0234_00010;10;;Rue du Grand Miaule;53500;53211;Saint-Denis-de-Gastines;;;-0.859652;48.347968
+53211_0430_00034;34;;chemin de tête louvine;53500;53211;Saint-Denis-de-Gastines;;;-0.885506;48.340097
+53211_0214_00122;122;;chemin de la garde;53500;53211;Saint-Denis-de-Gastines;;;-0.826974;48.362066
+53211_0385_00138;138;;chemin de rigardon;53500;53211;Saint-Denis-de-Gastines;;;-0.860227;48.360941
+53211_0329_00453;453;;chemin du moulin de la messendier;53500;53211;Saint-Denis-de-Gastines;;;-0.817677;48.352133
+53211_0215_00061;61;;chemin de la gare;53500;53211;Saint-Denis-de-Gastines;;;-0.858851;48.327436
+53211_0251_00001;1;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.853825;48.340442
+53211_0251_00013;13;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.855027;48.339153
+53211_0251_00017;17;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.857567;48.338541
+53211_0010_00001;1;;Rue Beauséjour;53500;53211;Saint-Denis-de-Gastines;;;-0.85431;48.340674
+53211_0010_00005;5;;Rue Beauséjour;53500;53211;Saint-Denis-de-Gastines;;;-0.854647;48.340425
+53211_0010_00006;6;;Rue Beauséjour;53500;53211;Saint-Denis-de-Gastines;;;-0.8546;48.340236
+53211_0191_00004;4;;Place de Froulay;53500;53211;Saint-Denis-de-Gastines;;;-0.851414;48.339342
+53211_0400_00013;13;;Rue Saint Georges;53500;53211;Saint-Denis-de-Gastines;;;-0.856728;48.341077
+53211_0400_00021;21;;Rue Saint Georges;53500;53211;Saint-Denis-de-Gastines;;;-0.856284;48.340031
+53211_0080_00004;4;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.857531;48.341996
+53211_0080_00011;11;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.859081;48.342225
+53211_0080_00015;15;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.859483;48.342249
+53211_0080_00020;20;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.858337;48.342097
+53211_0080_00034;34;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.858932;48.342147
+53211_0080_00050;50;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.860028;48.342222
+53211_0360_00020;20;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.860299;48.343315
+53211_0188_00008;8;;Rue de la Fontaine;53500;53211;Saint-Denis-de-Gastines;;;-0.863398;48.344078
+53211_0188_00009;9;;Rue de la Fontaine;53500;53211;Saint-Denis-de-Gastines;;;-0.86372;48.344459
+53211_0332_00282;282;;chemin de neuville chevillardière;53500;53211;Saint-Denis-de-Gastines;;;-0.832473;48.351333
+53211_0332_00342;342;;chemin de neuville chevillardière;53500;53211;Saint-Denis-de-Gastines;;;-0.832473;48.351333
+53211_0455_00004;4;;Rue du Vieux Lavoir;53500;53211;Saint-Denis-de-Gastines;;;-0.863092;48.343247
+53211_0005_01028;1028;;chemin de l'angoyère;53500;53211;Saint-Denis-de-Gastines;;;-0.915441;48.361815
+53211_0113_00051;51;;chemin de la chesnaie;53500;53211;Saint-Denis-de-Gastines;;;-0.917953;48.335362
+53211_0280_00004;4;;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.856885;48.342962
+53211_0280_00010;10;;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.857013;48.34314
+53211_0280_00021_bis;21;bis;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.855497;48.343765
+53211_0313_00153;153;;voie communale de la grande martinière;53500;53211;Saint-Denis-de-Gastines;;;-0.865281;48.327397
+53211_0340_00026;26;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.857993;48.34325
+53211_0340_00029;29;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.85884;48.344284
+53211_0321_02482;2482;;voie communale des milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.883365;48.365973
+53211_0185_00004;4;;Avenue Flandres Dunkerque 1940;53500;53211;Saint-Denis-de-Gastines;;;-0.860657;48.345862
+53211_0236_01030;1030;;chemin de la grelunière;53500;53211;Saint-Denis-de-Gastines;;;-0.885853;48.361085
+53211_0383_00003;3;;Rue de Provence;53500;53211;Saint-Denis-de-Gastines;;;-0.856139;48.339382
+53211_0440_00013;13;;Place des Tilleuls;53500;53211;Saint-Denis-de-Gastines;;;-0.86069;48.342967
+53211_0258_00001;1;;Ruelle des Jardins;53500;53211;Saint-Denis-de-Gastines;;;-0.858014;48.343241
+53211_0258_00004;4;;Ruelle des Jardins;53500;53211;Saint-Denis-de-Gastines;;;-0.858033;48.342851
+53211_0460_00003;3;;Rue des Vergers;53500;53211;Saint-Denis-de-Gastines;;;-0.857834;48.342737
+53211_0460_00008;8;;Rue des Vergers;53500;53211;Saint-Denis-de-Gastines;;;-0.858137;48.342453
+53211_0460_00013;13;;Rue des Vergers;53500;53211;Saint-Denis-de-Gastines;;;-0.858369;48.342497
+53211_0120_00008;8;;Rue de Cheverus;53500;53211;Saint-Denis-de-Gastines;;;-0.856486;48.34295
+53211_0053_00012;12;;Rue du Bocage;53500;53211;Saint-Denis-de-Gastines;;;-0.852109;48.339046
+53211_0189_00001;1;;Impasse du Faubourg Doyen;53500;53211;Saint-Denis-de-Gastines;;;-0.863896;48.343138
+53211_0260_00004_b;4;b;Rue Jeanne d'Arc;53500;53211;Saint-Denis-de-Gastines;;;-0.854723;48.342359
+53211_0324_02086;2086;;route de montenay;53500;53211;Saint-Denis-de-Gastines;;;-0.873716;48.32071
+53211_0266_02733;2733;;route de larchamp;53500;53211;Saint-Denis-de-Gastines;;;-0.885496;48.340368
+53211_0247_00004;4;;Impasse de l’Harmonie;53500;53211;Saint-Denis-de-Gastines;;;-0.855481;48.343263
+53211_0137_00005;5;;Place de l'Eglise;53500;53211;Saint-Denis-de-Gastines;;;-0.856578;48.342508
+53211_0137_00010;10;;Place de l'Eglise;53500;53211;Saint-Denis-de-Gastines;;;-0.856833;48.342482
+53211_0220_00001;1;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.857347;48.341908
+53211_0220_00028;28;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.857681;48.340482
+53211_0220_00034;34;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.857789;48.340142
+53211_0125_00001;1;;Rue des Anciens Combattants;53500;53211;Saint-Denis-de-Gastines;;;-0.865725;48.343506
+53211_0140_00001;1;;Rue de l'Eglise;53500;53211;Saint-Denis-de-Gastines;;;-0.85722;48.342624
+53211_0205_00678;678;;chemin de fumecon;53500;53211;Saint-Denis-de-Gastines;;;-0.870276;48.321964
+53211_0056_01631;1631;;voie communale du bois joli;53500;53211;Saint-Denis-de-Gastines;;;-0.825618;48.332533
+53211_0381_00087;87;;voie communale des remmeries;53500;53211;Saint-Denis-de-Gastines;;;-0.934029;48.344273
+53211_0099_00490;490;;route de carelles;53500;53211;Saint-Denis-de-Gastines;;;-0.876343;48.345525
+53211_0453_00002;2;;Rue de la Vallée;53500;53211;Saint-Denis-de-Gastines;;;-0.863194;48.343897
+53211_0453_00009;9;;Rue de la Vallée;53500;53211;Saint-Denis-de-Gastines;;;-0.862054;48.343953
+53211_0453_00010;10;;Rue de la Vallée;53500;53211;Saint-Denis-de-Gastines;;;-0.861995;48.344095
+53211_0453_00014;14;;Rue de la Vallée;53500;53211;Saint-Denis-de-Gastines;;;-0.86133;48.344076
+53211_0082_00152;152;;chemin de la brosse;53500;53211;Saint-Denis-de-Gastines;;;-0.877412;48.333997
+53211_0330_00006;6;;Impasse des Muguets;53500;53211;Saint-Denis-de-Gastines;;;-0.857413;48.339895
+53211_0330_00008;8;;Impasse des Muguets;53500;53211;Saint-Denis-de-Gastines;;;-0.857325;48.339895
+53211_0344_00645;645;;chemin de la paillardière;53500;53211;Saint-Denis-de-Gastines;;;-0.842763;48.326394
+53211_0136_00702;702;;chemin de la demeurentais;53500;53211;Saint-Denis-de-Gastines;;;-0.867065;48.338693
+53211_0394_00376;376;;voie communale de la rue;53500;53211;Saint-Denis-de-Gastines;;;-0.848935;48.3355
+53211_0394_02452;2452;;voie communale de la rue;53500;53211;Saint-Denis-de-Gastines;;;-0.825511;48.327812
+53211_0122_00475;475;;chemin du clou;53500;53211;Saint-Denis-de-Gastines;;;-0.90694;48.363014
+53211_0323_01741;1741;;route de montaudin;53500;53211;Saint-Denis-de-Gastines;;;-0.919597;48.357841
+53211_0323_02358;2358;;route de montaudin;53500;53211;Saint-Denis-de-Gastines;;;-0.923392;48.358914
+53211_0384_00331;331;;chemin de la richardière;53500;53211;Saint-Denis-de-Gastines;;;-0.817883;48.343208
+53211_0300_00003;3;;Rue des Lilas;53500;53211;Saint-Denis-de-Gastines;;;-0.861081;48.344055
+53211_0322_00220;220;;chemin de la monnerie;53500;53211;Saint-Denis-de-Gastines;;;-0.876236;48.320578
+53211_0322_00725;725;;chemin de la monnerie;53500;53211;Saint-Denis-de-Gastines;;;-0.881206;48.322196
+53211_0375_00002;2;;Rue du Porche;53500;53211;Saint-Denis-de-Gastines;;;-0.857978;48.342511
+53211_0089_01090;1090;;route de la buchardière;53500;53211;Saint-Denis-de-Gastines;;;-0.819435;48.361445
+53211_0237_00261;261;;chemin de la grosserie;53500;53211;Saint-Denis-de-Gastines;;;-0.838708;48.332508
+53211_0420_00002;2;;Rue Saint Stanislas;53500;53211;Saint-Denis-de-Gastines;;;-0.859163;48.343003
+53211_0002_00175;175;;chemin de l'angellerie;53500;53211;Saint-Denis-de-Gastines;;;-0.911975;48.368007
+53211_0002_00187;187;;chemin de l'angellerie;53500;53211;Saint-Denis-de-Gastines;;;-0.911975;48.368007
+53211_0240_00136;136;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.860592;48.348294
+53211_0240_00238;238;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.861063;48.349155
+53211_0240_00309;309;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.86135;48.349919
+53211_0234_00002;2;;Rue du Grand Miaule;53500;53211;Saint-Denis-de-Gastines;;;-0.859377;48.347318
+53211_0234_00001_bis;1;bis;Rue du Grand Miaule;53500;53211;Saint-Denis-de-Gastines;;;-0.859124;48.347777
+53211_0022_00256;256;;chemin de la benestière;53500;53211;Saint-Denis-de-Gastines;;;-0.909532;48.368168
+53211_0430_00036;36;;chemin de tête louvine;53500;53211;Saint-Denis-de-Gastines;;;-0.885501;48.340001
+53211_0008_00001;1;;Rue de l'Aubépine;53500;53211;Saint-Denis-de-Gastines;;;-0.859985;48.340102
+53211_0311_00215;215;;chemin de la martelière;53500;53211;Saint-Denis-de-Gastines;;;-0.823218;48.328104
+53211_0364_00265;265;;chemin des picanes;53500;53211;Saint-Denis-de-Gastines;;;-0.810476;48.332963
+53211_0260_00004_a;4;a;Rue Jeanne d'Arc;53500;53211;Saint-Denis-de-Gastines;;;-0.854719;48.342003
+53211_0215_00298;298;;chemin de la gare;53500;53211;Saint-Denis-de-Gastines;;;-0.862035;48.32768
+53211_0362_00051;51;;chemin de la pelouardière;53500;53211;Saint-Denis-de-Gastines;;;-0.942812;48.342764
+53211_0045_00040;40;;chemin du blossier;53500;53211;Saint-Denis-de-Gastines;;;-0.841584;48.31958
+53211_0045_00041;41;;chemin du blossier;53500;53211;Saint-Denis-de-Gastines;;;-0.841402;48.319733
+53211_0401_00011;11;;Impasse Saint-Georges;53500;53211;Saint-Denis-de-Gastines;;;-0.856691;48.341129
+53211_0328_00405;405;;chemin du moulin de gastines;53500;53211;Saint-Denis-de-Gastines;;;-0.852912;48.324495
+53211_0361_00110;110;;chemin du paty;53500;53211;Saint-Denis-de-Gastines;;;-0.932153;48.353791
+53211_0060_00461;461;;Route de Brecé;53500;53211;Saint-Denis-de-Gastines;;;-0.851446;48.346192
+53211_0130_00073;73;;Chemin de Cougé Rabine;53500;53211;Saint-Denis-de-Gastines;;;-0.895711;48.363838
+53211_0342_00782;782;;chemin de l'oricière;53500;53211;Saint-Denis-de-Gastines;;;-0.906053;48.355933
+53211_0342_00934;934;;chemin de l'oricière;53500;53211;Saint-Denis-de-Gastines;;;-0.905842;48.356337
+53211_ldpz6j_00720;720;;Vieux chemin du Bois Joli;53500;53211;Saint-Denis-de-Gastines;;;-0.82683;48.334216
+53211_0020_00007;7;;Place de Bellevue;53500;53211;Saint-Denis-de-Gastines;;;-0.859804;48.344064
+53211_0162_00002;2;;Rue d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.86198;48.342408
+53211_0162_00007;7;;Rue d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.863411;48.342615
+53211_0162_00017_bis;17;bis;Rue d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.86487;48.342755
+53211_1657_00004;4;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.862945;48.340675
+53211_1657_00012;12;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.86256;48.341373
+53211_1657_00024;24;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.861143;48.341433
+53211_0320_00003;3;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.857005;48.342064
+53211_0320_00004;4;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.855809;48.341758
+53211_0320_00008;8;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.855001;48.341315
+53211_0320_00011;11;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.856718;48.342023
+53211_0320_00012;12;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.853007;48.340409
+53211_0320_00019;19;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.856061;48.341814
+53211_0320_00023;23;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.855895;48.341703
+53211_0320_00025;25;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.855732;48.341605
+53211_0428_00004;4;;Rue des Sports;53500;53211;Saint-Denis-de-Gastines;;;-0.86241;48.341984
+53211_0428_00011;11;;Rue des Sports;53500;53211;Saint-Denis-de-Gastines;;;-0.862696;48.341839
+53211_0428_00013;13;;Rue des Sports;53500;53211;Saint-Denis-de-Gastines;;;-0.862362;48.341918
+53211_0428_00015;15;;Rue des Sports;53500;53211;Saint-Denis-de-Gastines;;;-0.86194;48.34206
+53211_0390_00003;3;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.853366;48.339708
+53211_0390_00004;4;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.853192;48.33973
+53211_0390_00005;5;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.853571;48.33958
+53211_0390_00014;14;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.853688;48.339432
+53211_0390_00028;28;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.854524;48.338962
+53211_0180_00003;3;;Rue des Fauvettes;53500;53211;Saint-Denis-de-Gastines;;;-0.85924;48.344517
+53211_0180_00004;4;;Rue des Fauvettes;53500;53211;Saint-Denis-de-Gastines;;;-0.859505;48.344583
+53211_0180_00005;5;;Rue des Fauvettes;53500;53211;Saint-Denis-de-Gastines;;;-0.859655;48.344601
+53211_0180_00010;10;;Rue des Fauvettes;53500;53211;Saint-Denis-de-Gastines;;;-0.860758;48.345028
+53211_0251_00002;2;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.853746;48.340315
+53211_0251_00018;18;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.854695;48.3393
+53211_0251_00019;19;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.857875;48.338563
+53211_0251_00024;24;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.857226;48.338452
+53211_0010_00003;3;;Rue Beauséjour;53500;53211;Saint-Denis-de-Gastines;;;-0.85447;48.340565
+53211_0010_00008;8;;Rue Beauséjour;53500;53211;Saint-Denis-de-Gastines;;;-0.854871;48.340123
+53211_0010_00015;15;;Rue Beauséjour;53500;53211;Saint-Denis-de-Gastines;;;-0.85538;48.33945
+53211_0010_00017;17;;Rue Beauséjour;53500;53211;Saint-Denis-de-Gastines;;;-0.855371;48.339297
+53211_0191_00002;2;;Place de Froulay;53500;53211;Saint-Denis-de-Gastines;;;-0.851583;48.339502
+53211_0191_00003;3;;Place de Froulay;53500;53211;Saint-Denis-de-Gastines;;;-0.851615;48.339276
+53211_0191_00006;6;;Place de Froulay;53500;53211;Saint-Denis-de-Gastines;;;-0.85125;48.339186
+53211_0191_00007;7;;Place de Froulay;53500;53211;Saint-Denis-de-Gastines;;;-0.851329;48.339045
+53211_0400_00007;7;;Rue Saint Georges;53500;53211;Saint-Denis-de-Gastines;;;-0.856681;48.341078
+53211_0080_00009;9;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.858903;48.342211
+53211_0080_00010;10;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.857816;48.342031
+53211_0080_00032;32;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.858862;48.342142
+53211_0080_00046;46;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.859738;48.342203
+53211_0080_00054;54;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.860788;48.342291
+53211_0360_00004;4;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.85872;48.34378
+53211_0360_00013;13;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.861246;48.34306
+53211_0015_00540;540;;chemin de beaudouet;53500;53211;Saint-Denis-de-Gastines;;;-0.848438;48.355138
+53211_0015_01146;1146;;chemin de beaudouet;53500;53211;Saint-Denis-de-Gastines;;;-0.848813;48.35554
+53211_0188_00006;6;;Rue de la Fontaine;53500;53211;Saint-Denis-de-Gastines;;;-0.863485;48.343909
+53211_0188_00010;10;;Rue de la Fontaine;53500;53211;Saint-Denis-de-Gastines;;;-0.863324;48.344267
+53211_0455_00006;6;;Rue du Vieux Lavoir;53500;53211;Saint-Denis-de-Gastines;;;-0.862805;48.343222
+53211_0005_00893;893;;chemin de l'angoyère;53500;53211;Saint-Denis-de-Gastines;;;-0.915441;48.361815
+53211_0280_00008;8;;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.856885;48.342962
+53211_0280_00014;14;;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.856954;48.343162
+53211_0280_00015;15;;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.856677;48.343106
+53211_0340_00015;15;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.857979;48.34333
+53211_0340_00023;23;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.858632;48.344039
+53211_0362_00127;127;;chemin de la pelouardière;53500;53211;Saint-Denis-de-Gastines;;;-0.942838;48.342605
+53211_0242_00323;323;;chemin de la grande hairie;53500;53211;Saint-Denis-de-Gastines;;;-0.854662;48.329287
+53211_0466_00106;106;;chemin du vivier;53500;53211;Saint-Denis-de-Gastines;;;-0.837447;48.341699
+53211_0111_00980;980;;chemin de la chenevotterie;53500;53211;Saint-Denis-de-Gastines;;;-0.869902;48.34777
+53211_0087_00306;306;;chemin des bruyères;53500;53211;Saint-Denis-de-Gastines;;;-0.874647;48.359858
+53211_1647_00276;276;;Avenue des Prairies;53500;53211;Saint-Denis-de-Gastines;;;-0.862419;48.339767
+53211_0028_00257;257;;chemin de la petite besnière;53500;53211;Saint-Denis-de-Gastines;;;-0.911653;48.339233
+53211_0366_00233;233;;chemin de la pierre blanche;53500;53211;Saint-Denis-de-Gastines;;;-0.875432;48.355422
+53211_0401_00003;3;;Impasse Saint-Georges;53500;53211;Saint-Denis-de-Gastines;;;-0.856523;48.341692
+53211_0401_00004;4;;Impasse Saint-Georges;53500;53211;Saint-Denis-de-Gastines;;;-0.856434;48.341648
+53211_0345_00397;397;;chemin de la paisière;53500;53211;Saint-Denis-de-Gastines;;;-0.939723;48.356122
+53211_0264_00454;454;;chemin de la lande au roullin;53500;53211;Saint-Denis-de-Gastines;;;-0.805966;48.373484
+53211_0310_00093;93;;chemin de la marcherie;53500;53211;Saint-Denis-de-Gastines;;;-0.867582;48.366527
+53211_0245_00481;481;;chemin du hallay;53500;53211;Saint-Denis-de-Gastines;;;-0.856767;48.354492
+53211_0058_00363;363;;Chemin du Petit Bois;53500;53211;Saint-Denis-de-Gastines;;;-0.825117;48.357781
+53211_0060_00537;537;;Route de Brecé;53500;53211;Saint-Denis-de-Gastines;;;-0.850989;48.346986
+53211_0060_01212;1212;;Route de Brecé;53500;53211;Saint-Denis-de-Gastines;;;-0.844827;48.35085
+53211_0389_00039;39;;Voie Communale de la Rostière;53500;53211;Saint-Denis-de-Gastines;;;-0.843759;48.342027
+53211_0389_00398;398;;Voie Communale de la Rostière;53500;53211;Saint-Denis-de-Gastines;;;-0.839772;48.343943
+53211_b636_00006;6;;Le Grand Miaule;53500;53211;Saint-Denis-de-Gastines;;;-0.859653;48.34772
+53211_0342_00761;761;;chemin de l'oricière;53500;53211;Saint-Denis-de-Gastines;;;-0.905803;48.356396
+53211_klizsj_00343;343;;Vieux chemin des Milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.86512;48.35336
+53211_klizsj_02448;2448;;Vieux chemin des Milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.882372;48.366064
+53211_klizsj_03037;3037;;Vieux chemin des Milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.890031;48.364615
+53211_nrm41h_00089;89;;Vieux chemin des Remmeries;53500;53211;Saint-Denis-de-Gastines;;;-0.933045;48.344425
+53211_0020_00001;1;;Place de Bellevue;53500;53211;Saint-Denis-de-Gastines;;;-0.859175;48.344293
+53211_0020_00005;5;;Place de Bellevue;53500;53211;Saint-Denis-de-Gastines;;;-0.859383;48.344216
+53211_0162_00003;3;;Rue d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.862894;48.342565
+53211_0162_00005;5;;Rue d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.863144;48.34259
+53211_0162_00011;11;;Rue d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.86398;48.342671
+53211_0162_00476;476;;Rue d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.865569;48.342739
+53211_1657_00001;1;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.862202;48.340696
+53211_1657_00011;11;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.862509;48.34129
+53211_1657_00013;13;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.862296;48.341348
+53211_1657_00015;15;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.861759;48.341235
+53211_1657_00017;17;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.861666;48.341107
+53211_1657_00028;28;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.86365;48.341
+53211_0320_00002;2;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.856165;48.341994
+53211_0320_00005;5;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.856951;48.342055
+53211_0320_00007;7;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.856912;48.34205
+53211_0320_00021;21;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.855996;48.34177
+53211_0127_00119;119;;chemin des coudrais;53500;53211;Saint-Denis-de-Gastines;;;-0.864758;48.365687
+53211_0428_00001;1;;Rue des Sports;53500;53211;Saint-Denis-de-Gastines;;;-0.862994;48.342364
+53211_0428_00007;7;;Rue des Sports;53500;53211;Saint-Denis-de-Gastines;;;-0.863182;48.341749
+53211_0428_00009;9;;Rue des Sports;53500;53211;Saint-Denis-de-Gastines;;;-0.862985;48.341771
+53211_0390_00006;6;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.853299;48.339668
+53211_0390_00010;10;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.853486;48.339552
+53211_0390_00018;18;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.853959;48.339279
+53211_0390_00022;22;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.854184;48.339154
+53211_0412_01000;1000;;chemin de la graffardière;53500;53211;Saint-Denis-de-Gastines;;;-0.805651;48.344052
+53211_0110_00671;671;;chemin du chêne;53500;53211;Saint-Denis-de-Gastines;;;-0.835434;48.317573
+53211_0467_00206;206;;chemin de la helberdière;53500;53211;Saint-Denis-de-Gastines;;;-0.937634;48.327717
+53211_0096_00200;200;;chemin de la butte;53500;53211;Saint-Denis-de-Gastines;;;-0.921573;48.370414
+53211_0058_00405;405;;Chemin du Petit Bois;53500;53211;Saint-Denis-de-Gastines;;;-0.824672;48.357375
+53211_0100_00153;153;;Route de Châtillon;53500;53211;Saint-Denis-de-Gastines;;;-0.851215;48.340316
+53211_0100_01861;1861;;Route de Châtillon;53500;53211;Saint-Denis-de-Gastines;;;-0.827892;48.340771
+53211_0130_00114;114;;Chemin de Cougé Rabine;53500;53211;Saint-Denis-de-Gastines;;;-0.894918;48.36389
+53211_b636_00004;4;;Le Grand Miaule;53500;53211;Saint-Denis-de-Gastines;;;-0.859558;48.347534
+53211_0145_01031;1031;;chemin de l'échange;53500;53211;Saint-Denis-de-Gastines;;;-0.803125;48.348957
+53211_y36vyk_00124;124;;la Brouhardière;53500;53211;Saint-Denis-de-Gastines;;;-0.900624;48.356524
+53211_klizsj_00049;49;;Vieux chemin des Milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.862096;48.351491
+53211_klizsj_00093;93;;Vieux chemin des Milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.862139;48.351697
+53211_klizsj_01366;1366;;Vieux chemin des Milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.876409;48.358112
+53211_klizsj_02033;2033;;Vieux chemin des Milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.879964;48.363279
+53211_klizsj_02725;2725;;Vieux chemin des Milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.88575;48.364832
+53211_klizsj_02906;2906;;Vieux chemin des Milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.88806;48.364261
+53211_ldpz6j_00790;790;;Vieux chemin du Bois Joli;53500;53211;Saint-Denis-de-Gastines;;;-0.826615;48.33366
+53211_ldpz6j_01234;1234;;Vieux chemin du Bois Joli;53500;53211;Saint-Denis-de-Gastines;;;-0.821653;48.332172
+53211_ldpz6j_01631;1631;;Vieux chemin du Bois Joli;53500;53211;Saint-Denis-de-Gastines;;;-0.816763;48.330609
+53211_5jas0l_00153;153;;Vieux chemin de la Grande Martinière;53500;53211;Saint-Denis-de-Gastines;;;-0.865509;48.327108
+53211_nrm41h_00087;87;;Vieux chemin des Remmeries;53500;53211;Saint-Denis-de-Gastines;;;-0.933474;48.344321
+53211_nrm41h_00117;117;;Vieux chemin des Remmeries;53500;53211;Saint-Denis-de-Gastines;;;-0.93358;48.344799
+53211_0020_00002;2;;Place de Bellevue;53500;53211;Saint-Denis-de-Gastines;;;-0.859179;48.344331
+53211_0020_00003;3;;Place de Bellevue;53500;53211;Saint-Denis-de-Gastines;;;-0.859283;48.344255
+53211_0020_00004;4;;Place de Bellevue;53500;53211;Saint-Denis-de-Gastines;;;-0.859179;48.344331
+53211_0020_00006;6;;Place de Bellevue;53500;53211;Saint-Denis-de-Gastines;;;-0.859179;48.344331
+53211_0304_00467;467;;chemin de la louverie;53500;53211;Saint-Denis-de-Gastines;;;-0.86721;48.354708
+53211_0304_00566;566;;chemin de la louverie;53500;53211;Saint-Denis-de-Gastines;;;-0.868167;48.358254
+53211_0162_00004;4;;Rue d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.862433;48.34244
+53211_0162_00006;6;;Rue d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.862708;48.342466
+53211_0162_00008;8;;Rue d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.863512;48.342234
+53211_0162_00009;9;;Rue d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.863563;48.34263
+53211_0162_00013;13;;Rue d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.864227;48.342694
+53211_0162_00019;19;;Rue d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.86493;48.342761
+53211_0162_00450;450;;Rue d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.865569;48.342739
+53211_1657_00002;2;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.862667;48.340737
+53211_1657_00003;3;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.862721;48.340803
+53211_1657_00005;5;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.863004;48.340745
+53211_1657_00006;6;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.863205;48.340619
+53211_1657_00008;8;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.863198;48.341231
+53211_1657_00010;10;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.862894;48.3413
+53211_1657_00016;16;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.861963;48.341424
+53211_0320_00001;1;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.854709;48.341068
+53211_0320_00006;6;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.855768;48.341771
+53211_0320_00010;10;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.853559;48.34059
+53211_0320_00015;15;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.85621;48.341896
+53211_0320_00029;29;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.855395;48.341432
+53211_0320_00031;31;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.855066;48.341258
+53211_0320_00033;33;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.854656;48.341045
+53211_0412_00590;590;;chemin de la graffardière;53500;53211;Saint-Denis-de-Gastines;;;-0.807171;48.341119
+53211_0268_00158;158;;chemin de launay;53500;53211;Saint-Denis-de-Gastines;;;-0.844467;48.343746
+53211_0093_00100;100;;chemin de la buronnière;53500;53211;Saint-Denis-de-Gastines;;;-0.918926;48.341913
+53211_0464_00107;107;;chemin de la viselière;53500;53211;Saint-Denis-de-Gastines;;;-0.839984;48.329752
+53211_0087_00628;628;;chemin des bruyères;53500;53211;Saint-Denis-de-Gastines;;;-0.874198;48.362688
+53211_0147_00120;120;;chemin de l'echerbaudière;53500;53211;Saint-Denis-de-Gastines;;;-0.846165;48.319459
+53211_0238_00241;241;;chemin de la grulière;53500;53211;Saint-Denis-de-Gastines;;;-0.854334;48.362779
+53211_0225_00145;145;;chemin de la geminière;53500;53211;Saint-Denis-de-Gastines;;;-0.814851;48.331786
+53211_0060_00997;997;;Route de Brecé;53500;53211;Saint-Denis-de-Gastines;;;-0.846195;48.349249
+53211_0100_00175;175;;Route de Châtillon;53500;53211;Saint-Denis-de-Gastines;;;-0.850978;48.340358
+53211_0115_02316;2316;;Voie Communale de Chevaillé;53500;53211;Saint-Denis-de-Gastines;;;-0.943963;48.344476
+53211_0262_00226;226;;Chemin des Landes Chenevotterie;53500;53211;Saint-Denis-de-Gastines;;;-0.870441;48.347525
+53211_0262_00250;250;;Chemin des Landes Chenevotterie;53500;53211;Saint-Denis-de-Gastines;;;-0.870617;48.347745
+53211_0389_03208;3208;;Voie Communale de la Rostière;53500;53211;Saint-Denis-de-Gastines;;;-0.809722;48.356723
+53211_0389_03286;3286;;Voie Communale de la Rostière;53500;53211;Saint-Denis-de-Gastines;;;-0.809451;48.357303
+53211_b799_00473;473;;la Lande de Couge;53500;53211;Saint-Denis-de-Gastines;;;-0.907526;48.362935
+53211_0145_00975;975;;chemin de l'échange;53500;53211;Saint-Denis-de-Gastines;;;-0.803394;48.349359
+53211_y36vyk_00165;165;;la Brouhardière;53500;53211;Saint-Denis-de-Gastines;;;-0.899399;48.35665
+53211_klizsj_01491;1491;;Vieux chemin des Milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.876956;48.359166
+53211_klizsj_02482;2482;;Vieux chemin des Milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.883211;48.365884
+53211_ldpz6j_01629;1629;;Vieux chemin du Bois Joli;53500;53211;Saint-Denis-de-Gastines;;;-0.817327;48.330861
+53211_5bbeyp_00645;645;;la Paillardière;53500;53211;Saint-Denis-de-Gastines;;;-0.843135;48.326472
+53211_0304_00281;281;;chemin de la louverie;53500;53211;Saint-Denis-de-Gastines;;;-0.86721;48.354708
+53211_0304_00541;541;;chemin de la louverie;53500;53211;Saint-Denis-de-Gastines;;;-0.868039;48.358151
+53211_0162_00001;1;;Rue d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.862637;48.342541
+53211_0162_00015;15;;Rue d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.86443;48.342713
+53211_0162_00017;17;;Rue d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.86469;48.342737
+53211_1657_00007;7;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.863163;48.341174
+53211_1657_00009;9;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.862908;48.3412
+53211_1657_00014;14;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.86228;48.34142
+53211_1657_00018;18;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.861676;48.341367
+53211_1657_00019;19;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.861385;48.341178
+53211_1657_00020;20;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.861372;48.341484
+53211_1657_00026;26;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.863403;48.340851
+53211_1657_00030;30;;Impasse du Ruisseau;53500;53211;Saint-Denis-de-Gastines;;;-0.863658;48.34118
+53211_0320_00009;9;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.85683;48.342039
+53211_0320_00013;13;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.856528;48.341992
+53211_0320_00027;27;;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.855482;48.341478
+53211_0320_00031_bis;31;bis;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.854709;48.341068
+53211_0320_00029_bis;29;bis;Rue du Maine;53500;53211;Saint-Denis-de-Gastines;;;-0.855109;48.341276
+53211_0127_00120;120;;chemin des coudrais;53500;53211;Saint-Denis-de-Gastines;;;-0.864578;48.365758
+53211_0428_00003;3;;Rue des Sports;53500;53211;Saint-Denis-de-Gastines;;;-0.863024;48.342141
+53211_0428_00005;5;;Rue des Sports;53500;53211;Saint-Denis-de-Gastines;;;-0.863052;48.341933
+53211_0390_00001;1;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.853149;48.339843
+53211_0390_00008;8;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.853395;48.339607
+53211_0390_00012;12;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.853593;48.339487
+53211_0390_00020;20;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.854072;48.339216
+53211_0428_00002;2;;Rue des Sports;53500;53211;Saint-Denis-de-Gastines;;;-0.862918;48.342101
+53211_0390_00002;2;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.853102;48.33979
+53211_0390_00007;7;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.853677;48.339519
+53211_0390_00009;9;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.853787;48.339457
+53211_0390_00011;11;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.853894;48.339401
+53211_0390_00016;16;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.853828;48.339352
+53211_0180_00006;6;;Rue des Fauvettes;53500;53211;Saint-Denis-de-Gastines;;;-0.859757;48.344617
+53211_0180_00009;9;;Rue des Fauvettes;53500;53211;Saint-Denis-de-Gastines;;;-0.859536;48.344612
+53211_0180_00021;21;;Rue des Fauvettes;53500;53211;Saint-Denis-de-Gastines;;;-0.861845;48.345395
+53211_0251_00006;6;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.854162;48.339864
+53211_0010_00004;4;;Rue Beauséjour;53500;53211;Saint-Denis-de-Gastines;;;-0.85448;48.340462
+53211_0010_00011;11;;Rue Beauséjour;53500;53211;Saint-Denis-de-Gastines;;;-0.855254;48.340007
+53211_0010_00012;12;;Rue Beauséjour;53500;53211;Saint-Denis-de-Gastines;;;-0.855276;48.339712
+53211_0400_00019;19;;Rue Saint Georges;53500;53211;Saint-Denis-de-Gastines;;;-0.856445;48.340958
+53211_0080_00001;1;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.857628;48.342107
+53211_0080_00014;14;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.857994;48.342067
+53211_0080_00017;17;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.85967;48.342262
+53211_0080_00026;26;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.858458;48.342112
+53211_0080_00040;40;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.859341;48.34218
+53211_0080_00056;56;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.860908;48.342304
+53211_0360_00005;5;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.860857;48.343194
+53211_0360_00016;16;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.85916;48.343627
+53211_0360_00018;18;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.859977;48.34341
+53211_0015_01168;1168;;chemin de beaudouet;53500;53211;Saint-Denis-de-Gastines;;;-0.848813;48.35554
+53211_0188_00007;7;;Rue de la Fontaine;53500;53211;Saint-Denis-de-Gastines;;;-0.863454;48.344518
+53211_0126_00710;710;;chemin de la corderie;53500;53211;Saint-Denis-de-Gastines;;;-0.81352;48.345277
+53211_0332_00384;384;;chemin de neuville chevillardière;53500;53211;Saint-Denis-de-Gastines;;;-0.832072;48.352679
+53211_0455_00005;5;;Rue du Vieux Lavoir;53500;53211;Saint-Denis-de-Gastines;;;-0.862844;48.343179
+53211_0280_00002;2;;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.857368;48.342725
+53211_0280_00023;23;;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.855648;48.344003
+53211_0280_00024;24;;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.856131;48.343813
+53211_0340_00006;6;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.857458;48.342348
+53211_0340_00011;11;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.857693;48.343012
+53211_0340_00019;19;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.858071;48.343451
+53211_0340_00027;27;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.858895;48.344373
+53211_0340_00031;31;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.859117;48.345673
+53211_0180_00002;2;;Rue des Fauvettes;53500;53211;Saint-Denis-de-Gastines;;;-0.859333;48.344519
+53211_0180_00012;12;;Rue des Fauvettes;53500;53211;Saint-Denis-de-Gastines;;;-0.861763;48.345279
+53211_0251_00003;3;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.853993;48.34026
+53211_0251_00011;11;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.854681;48.339526
+53211_0251_00015;15;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.855371;48.338854
+53211_0251_00026;26;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.858034;48.338496
+53211_0010_00007;7;;Rue Beauséjour;53500;53211;Saint-Denis-de-Gastines;;;-0.854809;48.340288
+53211_0400_00015;15;;Rue Saint Georges;53500;53211;Saint-Denis-de-Gastines;;;-0.85613;48.340446
+53211_0400_00025;25;;Rue Saint Georges;53500;53211;Saint-Denis-de-Gastines;;;-0.856702;48.339901
+53211_0400_00027;27;;Rue Saint Georges;53500;53211;Saint-Denis-de-Gastines;;;-0.856739;48.339787
+53211_0080_00002;2;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.857447;48.341994
+53211_0080_00013;13;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.859297;48.342242
+53211_0080_00022;22;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.858243;48.342085
+53211_0080_00023;23;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.860043;48.342283
+53211_0080_00027;27;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.860253;48.3423
+53211_0080_00038;38;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.859143;48.34216
+53211_0080_00062;62;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.861348;48.342352
+53211_0080_00064;64;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.861459;48.342362
+53211_0360_00018_bis;18;bis;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.860165;48.343357
+53211_0188_00001;1;;Rue de la Fontaine;53500;53211;Saint-Denis-de-Gastines;;;-0.863237;48.344315
+53211_0188_00003;3;;Rue de la Fontaine;53500;53211;Saint-Denis-de-Gastines;;;-0.862991;48.344554
+53211_0126_00727;727;;chemin de la corderie;53500;53211;Saint-Denis-de-Gastines;;;-0.813688;48.345183
+53211_0332_00280;280;;chemin de neuville chevillardière;53500;53211;Saint-Denis-de-Gastines;;;-0.832473;48.351333
+53211_0455_00002;2;;Rue du Vieux Lavoir;53500;53211;Saint-Denis-de-Gastines;;;-0.863374;48.34327
+53211_0005_00819;819;;chemin de l'angoyère;53500;53211;Saint-Denis-de-Gastines;;;-0.915441;48.361815
+53211_0280_00001;1;;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.857393;48.342648
+53211_0280_00019;19;;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.856127;48.343624
+53211_0280_00020;20;;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.856701;48.34317
+53211_0417_00003;3;;Impasse de la Source;53500;53211;Saint-Denis-de-Gastines;;;-0.864996;48.344272
+53211_0340_00007;7;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.857652;48.342935
+53211_0340_00010;10;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.857506;48.34251
+53211_0340_00024;24;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.858078;48.343311
+53211_0340_00028;28;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.858105;48.343382
+53211_0390_00024;24;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.854291;48.339093
+53211_0390_00026;26;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.854403;48.33903
+53211_0390_00030;30;;Rue des Roses;53500;53211;Saint-Denis-de-Gastines;;;-0.854684;48.338767
+53211_0180_00001;1;;Rue des Fauvettes;53500;53211;Saint-Denis-de-Gastines;;;-0.859114;48.344528
+53211_0180_00007;7;;Rue des Fauvettes;53500;53211;Saint-Denis-de-Gastines;;;-0.859327;48.344548
+53211_0180_00008;8;;Rue des Fauvettes;53500;53211;Saint-Denis-de-Gastines;;;-0.860806;48.345117
+53211_0180_00011;11;;Rue des Fauvettes;53500;53211;Saint-Denis-de-Gastines;;;-0.859758;48.344651
+53211_0180_00013;13;;Rue des Fauvettes;53500;53211;Saint-Denis-de-Gastines;;;-0.860064;48.344722
+53211_0251_00007;7;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.854337;48.339894
+53211_0251_00010;10;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.854155;48.339872
+53211_0251_00014;14;;Avenue de l’Hermitage;53500;53211;Saint-Denis-de-Gastines;;;-0.854426;48.339586
+53211_0400_00004;4;;Rue Saint Georges;53500;53211;Saint-Denis-de-Gastines;;;-0.856219;48.34
+53211_0080_00005;5;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.858017;48.342192
+53211_0080_00006;6;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.857604;48.342006
+53211_0080_00018;18;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.858215;48.342082
+53211_0080_00030;30;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.858824;48.342145
+53211_0080_00048;48;;Rue de Bretagne;53500;53211;Saint-Denis-de-Gastines;;;-0.859926;48.342215
+53211_0103_00303;303;;chemin de la chaignardière;53500;53211;Saint-Denis-de-Gastines;;;-0.879501;48.354871
+53211_0360_00001;1;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.860254;48.34339
+53211_0360_00008;8;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.858895;48.343722
+53211_0360_00009;9;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.861131;48.343002
+53211_0360_00012;12;;Rue Pasteur;53500;53211;Saint-Denis-de-Gastines;;;-0.859065;48.343679
+53211_0332_00794;794;;chemin de neuville chevillardière;53500;53211;Saint-Denis-de-Gastines;;;-0.832173;48.352742
+53211_0455_00001;1;;Rue du Vieux Lavoir;53500;53211;Saint-Denis-de-Gastines;;;-0.863366;48.343224
+53211_0455_00009;9;;Rue du Vieux Lavoir;53500;53211;Saint-Denis-de-Gastines;;;-0.860946;48.343436
+53211_0005_00290;290;;chemin de l'angoyère;53500;53211;Saint-Denis-de-Gastines;;;-0.908477;48.35643
+53211_0280_00006;6;;Rue de la Liberté;53500;53211;Saint-Denis-de-Gastines;;;-0.856946;48.342964
+53211_0417_00002;2;;Impasse de la Source;53500;53211;Saint-Denis-de-Gastines;;;-0.865044;48.344087
+53211_0340_00001;1;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.85735;48.342301
+53211_0340_00002;2;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.857403;48.342187
+53211_0340_00016;16;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.857583;48.342705
+53211_0340_00020;20;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.857717;48.3429
+53211_0340_00032;32;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.858246;48.343507
+53211_0340_00023_bis;23;bis;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.858598;48.344126
+53211_0200_00005;5;;Rue de la Ferté;53500;53211;Saint-Denis-de-Gastines;;;-0.859224;48.341646
+53211_0386_00003;3;;Impasse du Puits;53500;53211;Saint-Denis-de-Gastines;;;-0.864961;48.344632
+53211_0141_00226;226;;chemin du domaine;53500;53211;Saint-Denis-de-Gastines;;;-0.812261;48.366304
+53211_0383_00001;1;;Rue de Provence;53500;53211;Saint-Denis-de-Gastines;;;-0.856104;48.339625
+53211_0383_00009;9;;Rue de Provence;53500;53211;Saint-Denis-de-Gastines;;;-0.856178;48.338966
+53211_0383_00010;10;;Rue de Provence;53500;53211;Saint-Denis-de-Gastines;;;-0.856033;48.338901
+53211_0258_00002;2;;Ruelle des Jardins;53500;53211;Saint-Denis-de-Gastines;;;-0.857979;48.34288
+53211_0003_00001;1;;Rue d'Anjou;53500;53211;Saint-Denis-de-Gastines;;;-0.855875;48.339984
+53211_0460_00006;6;;Rue des Vergers;53500;53211;Saint-Denis-de-Gastines;;;-0.857947;48.342642
+53211_0460_00010;10;;Rue des Vergers;53500;53211;Saint-Denis-de-Gastines;;;-0.85827;48.342422
+53211_0460_00021;21;;Rue des Vergers;53500;53211;Saint-Denis-de-Gastines;;;-0.858672;48.34234
+53211_0200_00005_bis;5;bis;Rue de la Ferté;53500;53211;Saint-Denis-de-Gastines;;;-0.859155;48.341223
+53211_0321_00344;344;;voie communale des milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.86496;48.353247
+53211_0321_02725;2725;;voie communale des milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.885531;48.364887
+53211_0185_00003;3;;Avenue Flandres Dunkerque 1940;53500;53211;Saint-Denis-de-Gastines;;;-0.860946;48.345847
+53211_0107_00144;144;;chemin de la chauvière;53500;53211;Saint-Denis-de-Gastines;;;-0.901804;48.358252
+53211_0440_00007;7;;Place des Tilleuls;53500;53211;Saint-Denis-de-Gastines;;;-0.86063;48.342781
+53211_0440_00007_bis;7;bis;Place des Tilleuls;53500;53211;Saint-Denis-de-Gastines;;;-0.860596;48.3427
+53211_0258_00003;3;;Ruelle des Jardins;53500;53211;Saint-Denis-de-Gastines;;;-0.858158;48.342958
+53211_0460_00002;2;;Rue des Vergers;53500;53211;Saint-Denis-de-Gastines;;;-0.857773;48.342697
+53211_0120_00003;3;;Rue de Cheverus;53500;53211;Saint-Denis-de-Gastines;;;-0.856329;48.342335
+53211_0120_00009;9;;Rue de Cheverus;53500;53211;Saint-Denis-de-Gastines;;;-0.856312;48.343125
+53211_0120_00011;11;;Rue de Cheverus;53500;53211;Saint-Denis-de-Gastines;;;-0.856238;48.343349
+53211_0458_00002;2;;Impasse des Violettes;53500;53211;Saint-Denis-de-Gastines;;;-0.857164;48.339274
+53211_0456_01085;1085;;Route de Vautorte;53500;53211;Saint-Denis-de-Gastines;;;-0.859941;48.334899
+53211_0456_01086;1086;;Route de Vautorte;53500;53211;Saint-Denis-de-Gastines;;;-0.859941;48.334899
+53211_0340_00001_bis;1;bis;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.857333;48.342351
+53211_0340_00040;40;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.859042;48.344712
+53211_0340_00042;42;;Rue de Normandie;53500;53211;Saint-Denis-de-Gastines;;;-0.859114;48.345191
+53211_0200_00046;46;;Rue de la Ferté;53500;53211;Saint-Denis-de-Gastines;;;-0.859059;48.340583
+53211_0321_02704;2704;;voie communale des milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.885446;48.36501
+53211_0440_00001;1;;Place des Tilleuls;53500;53211;Saint-Denis-de-Gastines;;;-0.860445;48.342391
+53211_0460_00011;11;;Rue des Vergers;53500;53211;Saint-Denis-de-Gastines;;;-0.858049;48.342646
+53211_0460_00017;17;;Rue des Vergers;53500;53211;Saint-Denis-de-Gastines;;;-0.858679;48.342502
+53211_0120_00005;5;;Rue de Cheverus;53500;53211;Saint-Denis-de-Gastines;;;-0.856663;48.342804
+53211_0458_00001;1;;Impasse des Violettes;53500;53211;Saint-Denis-de-Gastines;;;-0.85724;48.339215
+53211_0458_00010;10;;Impasse des Violettes;53500;53211;Saint-Denis-de-Gastines;;;-0.85682;48.338859
+53211_0053_00008;8;;Rue du Bocage;53500;53211;Saint-Denis-de-Gastines;;;-0.852694;48.339713
+53211_0200_00004;4;;Rue de la Ferté;53500;53211;Saint-Denis-de-Gastines;;;-0.85899;48.340646
+53211_0200_00011;11;;Rue de la Ferté;53500;53211;Saint-Denis-de-Gastines;;;-0.859383;48.340021
+53211_0200_00013;13;;Rue de la Ferté;53500;53211;Saint-Denis-de-Gastines;;;-0.859801;48.339698
+53211_0321_00343;343;;voie communale des milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.865157;48.353259
+53211_0321_01563;1563;;voie communale des milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.877939;48.360329
+53211_0321_02033;2033;;voie communale des milardières;53500;53211;Saint-Denis-de-Gastines;;;-0.880228;48.363182
+53211_0386_00001;1;;Impasse du Puits;53500;53211;Saint-Denis-de-Gastines;;;-0.865963;48.344527
+53211_0185_00002;2;;Avenue Flandres Dunkerque 1940;53500;53211;Saint-Denis-de-Gastines;;;-0.859899;48.345932
+53211_0185_00008;8;;Avenue Flandres Dunkerque 1940;53500;53211;Saint-Denis-de-Gastines;;;-0.86178;48.345744
+53211_0185_00010;10;;Avenue Flandres Dunkerque 1940;53500;53211;Saint-Denis-de-Gastines;;;-0.863033;48.345603
+53211_0236_00951;951;;chemin de la grelunière;53500;53211;Saint-Denis-de-Gastines;;;-0.885741;48.360798
+53211_0383_00002;2;;Rue de Provence;53500;53211;Saint-Denis-de-Gastines;;;-0.856059;48.339871
+53211_0383_00005;5;;Rue de Provence;53500;53211;Saint-Denis-de-Gastines;;;-0.856171;48.338939
+53211_0383_00006;6;;Rue de Provence;53500;53211;Saint-Denis-de-Gastines;;;-0.856066;48.339385
+53211_0440_00009;9;;Place des Tilleuls;53500;53211;Saint-Denis-de-Gastines;;;-0.860687;48.342891
+53211_0440_00015;15;;Place des Tilleuls;53500;53211;Saint-Denis-de-Gastines;;;-0.860771;48.343097
+53211_0003_00002;2;;Rue d'Anjou;53500;53211;Saint-Denis-de-Gastines;;;-0.855514;48.339897
+53211_0460_00001;1;;Rue des Vergers;53500;53211;Saint-Denis-de-Gastines;;;-0.857767;48.342755
+53211_0460_00007;7;;Rue des Vergers;53500;53211;Saint-Denis-de-Gastines;;;-0.857981;48.342695
+53211_0458_00005;5;;Impasse des Violettes;53500;53211;Saint-Denis-de-Gastines;;;-0.857208;48.338993
+53211_0458_00006;6;;Impasse des Violettes;53500;53211;Saint-Denis-de-Gastines;;;-0.856899;48.339238
+53211_0458_00009;9;;Impasse des Violettes;53500;53211;Saint-Denis-de-Gastines;;;-0.856974;48.338762
+53211_0053_00001;1;;Rue du Bocage;53500;53211;Saint-Denis-de-Gastines;;;-0.853258;48.340183
+53211_0053_00002;2;;Rue du Bocage;53500;53211;Saint-Denis-de-Gastines;;;-0.853073;48.340189
+53211_0053_00010;10;;Rue du Bocage;53500;53211;Saint-Denis-de-Gastines;;;-0.852279;48.33921
+53211_0324_00560;560;;route de montenay;53500;53211;Saint-Denis-de-Gastines;;;-0.864528;48.331227
+53211_0324_02127;2127;;route de montenay;53500;53211;Saint-Denis-de-Gastines;;;-0.873452;48.320505
+53211_0270_00001;1;;Rue des Lavandières;53500;53211;Saint-Denis-de-Gastines;;;-0.864088;48.343785
+53211_0266_02555;2555;;route de larchamp;53500;53211;Saint-Denis-de-Gastines;;;-0.885496;48.340368
+53211_0137_00002;2;;Place de l'Eglise;53500;53211;Saint-Denis-de-Gastines;;;-0.856578;48.342508
+53211_0222_00590;590;;chemin de gastines;53500;53211;Saint-Denis-de-Gastines;;;-0.851688;48.330941
+53211_0202_00171;171;;chemin des bas fougerolles;53500;53211;Saint-Denis-de-Gastines;;;-0.842571;48.317789
+53211_0377_00353;353;;chemin de la porte;53500;53211;Saint-Denis-de-Gastines;;;-0.92416;48.33468
+53211_0377_00407;407;;chemin de la porte;53500;53211;Saint-Denis-de-Gastines;;;-0.924203;48.334444
+53211_0083_00191;191;;chemin des brosses;53500;53211;Saint-Denis-de-Gastines;;;-0.856116;48.35698
+53211_0220_00002;2;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.85721;48.341974
+53211_0220_00003;3;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.85742;48.341678
+53211_0220_00011;11;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.858754;48.338226
+53211_0220_00022;22;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.857599;48.340782
+53211_0220_00030;30;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.857691;48.340444
+53211_0125_00005;5;;Rue des Anciens Combattants;53500;53211;Saint-Denis-de-Gastines;;;-0.865916;48.343926
+53211_0125_00007;7;;Rue des Anciens Combattants;53500;53211;Saint-Denis-de-Gastines;;;-0.865986;48.344117
+53211_0134_00166;166;;chemin de la daguerie;53500;53211;Saint-Denis-de-Gastines;;;-0.878933;48.366526
+53211_0134_00180;180;;chemin de la daguerie;53500;53211;Saint-Denis-de-Gastines;;;-0.878933;48.366526
+53211_0056_01234;1234;;voie communale du bois joli;53500;53211;Saint-Denis-de-Gastines;;;-0.825618;48.332533
+53211_0135_00067;67;;chemin de la davière;53500;53211;Saint-Denis-de-Gastines;;;-0.876498;48.344975
+53211_0099_02725;2725;;route de carelles;53500;53211;Saint-Denis-de-Gastines;;;-0.897815;48.358642
+53211_0149_00100;100;;chemin de l'ecorcerie;53500;53211;Saint-Denis-de-Gastines;;;-0.814992;48.363122
+53211_0330_00010;10;;Impasse des Muguets;53500;53211;Saint-Denis-de-Gastines;;;-0.857161;48.339903
+53211_0394_00098;98;;voie communale de la rue;53500;53211;Saint-Denis-de-Gastines;;;-0.848935;48.3355
+53211_0394_02334;2334;;voie communale de la rue;53500;53211;Saint-Denis-de-Gastines;;;-0.826534;48.328055
+53211_0394_02451;2451;;voie communale de la rue;53500;53211;Saint-Denis-de-Gastines;;;-0.825491;48.327718
+53211_0318_00236;236;;chemin des messendières;53500;53211;Saint-Denis-de-Gastines;;;-0.816597;48.351209
+53211_0450_00255;255;;chemin de la tuberie;53500;53211;Saint-Denis-de-Gastines;;;-0.930924;48.340414
+53211_0323_00483;483;;route de montaudin;53500;53211;Saint-Denis-de-Gastines;;;-0.900248;48.355346
+53211_0323_02365;2365;;route de montaudin;53500;53211;Saint-Denis-de-Gastines;;;-0.929751;48.358869
+53211_0323_02582;2582;;route de montaudin;53500;53211;Saint-Denis-de-Gastines;;;-0.929785;48.358957
+53211_0384_00332;332;;chemin de la richardière;53500;53211;Saint-Denis-de-Gastines;;;-0.817766;48.343188
+53211_0256_00005;5;;Rue de l'Industrie;53500;53211;Saint-Denis-de-Gastines;;;-0.850941;48.339965
+53211_0201_00782;782;;chemin des fougerolles;53500;53211;Saint-Denis-de-Gastines;;;-0.842172;48.319075
+53211_0133_00032;32;;chemin de la croix breteau;53500;53211;Saint-Denis-de-Gastines;;;-0.899121;48.340393
+53211_0380_00006;6;;Rue des Prés;53500;53211;Saint-Denis-de-Gastines;;;-0.861548;48.340888
+53211_0463_00636;636;;chemin de villancais;53500;53211;Saint-Denis-de-Gastines;;;-0.90173;48.346309
+53211_0415_00396;396;;chemin de la sensive;53500;53211;Saint-Denis-de-Gastines;;;-0.897801;48.343654
+53211_0009_00294;294;;chemin de l'aubriais;53500;53211;Saint-Denis-de-Gastines;;;-0.846281;48.337888
+53211_0243_00002;2;;Impasse du Gué;53500;53211;Saint-Denis-de-Gastines;;;-0.85745;48.337833
+53211_0365_00073;73;;chemin de la pièce;53500;53211;Saint-Denis-de-Gastines;;;-0.826092;48.341825
+53211_0316_00194;194;;chemin des mazures;53500;53211;Saint-Denis-de-Gastines;;;-0.809247;48.37273
+53211_0240_00497;497;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.86189;48.351354
+53211_0395_00001;1;;Rue Saint Etienne;53500;53211;Saint-Denis-de-Gastines;;;-0.857832;48.341826
+53211_0430_00120;120;;chemin de tête louvine;53500;53211;Saint-Denis-de-Gastines;;;-0.885065;48.339695
+53211_0311_00170;170;;chemin de la martelière;53500;53211;Saint-Denis-de-Gastines;;;-0.823831;48.328409
+53211_0364_00342;342;;chemin des picanes;53500;53211;Saint-Denis-de-Gastines;;;-0.810476;48.332963
+53211_0405_00165;165;;route des sablons;53500;53211;Saint-Denis-de-Gastines;;;-0.867636;48.34264
+53211_0412_00960;960;;chemin de la graffardière;53500;53211;Saint-Denis-de-Gastines;;;-0.805609;48.343622
+53211_0242_00061;61;;chemin de la grande hairie;53500;53211;Saint-Denis-de-Gastines;;;-0.857816;48.329225
+53211_0131_00130;130;;chemin de la courlaie;53500;53211;Saint-Denis-de-Gastines;;;-0.836604;48.33889
+53211_0063_00218;218;;chemin de la bourgeonnière;53500;53211;Saint-Denis-de-Gastines;;;-0.876531;48.335684
+53211_0147_00166;166;;chemin de l'echerbaudière;53500;53211;Saint-Denis-de-Gastines;;;-0.846247;48.319505
+53211_0225_00146;146;;chemin de la geminière;53500;53211;Saint-Denis-de-Gastines;;;-0.814699;48.331692
+53211_0270_00002;2;;Rue des Lavandières;53500;53211;Saint-Denis-de-Gastines;;;-0.86418;48.343731
+53211_0270_00007;7;;Rue des Lavandières;53500;53211;Saint-Denis-de-Gastines;;;-0.865256;48.343709
+53211_0266_00197;197;;route de larchamp;53500;53211;Saint-Denis-de-Gastines;;;-0.873579;48.341877
+53211_0266_01418;1418;;route de larchamp;53500;53211;Saint-Denis-de-Gastines;;;-0.885496;48.340368
+53211_0247_00001;1;;Impasse de l’Harmonie;53500;53211;Saint-Denis-de-Gastines;;;-0.855724;48.343332
+53211_0137_00006;6;;Place de l'Eglise;53500;53211;Saint-Denis-de-Gastines;;;-0.857071;48.342379
+53211_0137_00008;8;;Place de l'Eglise;53500;53211;Saint-Denis-de-Gastines;;;-0.856906;48.34245
+53211_0222_00709;709;;chemin de gastines;53500;53211;Saint-Denis-de-Gastines;;;-0.851506;48.331132
+53211_0363_00295;295;;chemin du perray;53500;53211;Saint-Denis-de-Gastines;;;-0.829854;48.343103
+53211_0220_00006;6;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.85719;48.341832
+53211_0220_00024;24;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.857565;48.340699
+53211_0220_00032;32;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.857755;48.340245
+53211_0379_00013;13;;voie communale de la rabine;53500;53211;Saint-Denis-de-Gastines;;;-0.900699;48.361735
+53211_0205_00379;379;;chemin de fumecon;53500;53211;Saint-Denis-de-Gastines;;;-0.869951;48.323912
+53211_0108_00318;318;;chemin de la petite chauvière;53500;53211;Saint-Denis-de-Gastines;;;-0.916165;48.332038
+53211_0306_00774;774;;chemin de la machardière;53500;53211;Saint-Denis-de-Gastines;;;-0.929225;48.3653
+53211_0099_00096;96;;route de carelles;53500;53211;Saint-Denis-de-Gastines;;;-0.871834;48.343243
+53211_0099_00104;104;;route de carelles;53500;53211;Saint-Denis-de-Gastines;;;-0.872167;48.343411
+53211_0099_02624;2624;;route de carelles;53500;53211;Saint-Denis-de-Gastines;;;-0.89767;48.357622
+53211_0370_00002;2;;Rue des Plantes;53500;53211;Saint-Denis-de-Gastines;;;-0.864446;48.341031
+53211_0453_00003;3;;Rue de la Vallée;53500;53211;Saint-Denis-de-Gastines;;;-0.863051;48.343826
+53211_0453_00011;11;;Rue de la Vallée;53500;53211;Saint-Denis-de-Gastines;;;-0.861674;48.344048
+53211_0330_00002;2;;Impasse des Muguets;53500;53211;Saint-Denis-de-Gastines;;;-0.857675;48.339886
+53211_0344_00700;700;;chemin de la paillardière;53500;53211;Saint-Denis-de-Gastines;;;-0.84297;48.326026
+53211_0094_00100;100;;chemin de la petite buronnière;53500;53211;Saint-Denis-de-Gastines;;;-0.919552;48.341986
+53211_0392_00233;233;;chemin de la petite rouairie;53500;53211;Saint-Denis-de-Gastines;;;-0.922497;48.343435
+53211_0323_01864;1864;;route de montaudin;53500;53211;Saint-Denis-de-Gastines;;;-0.917407;48.357599
+53211_0384_00336;336;;chemin de la richardière;53500;53211;Saint-Denis-de-Gastines;;;-0.817883;48.343208
+53211_0325_00002;2;;Impasse des Mésanges;53500;53211;Saint-Denis-de-Gastines;;;-0.861573;48.344928
+53211_0300_00001;1;;Rue des Lilas;53500;53211;Saint-Denis-de-Gastines;;;-0.860849;48.343389
+53211_0300_00002;2;;Rue des Lilas;53500;53211;Saint-Denis-de-Gastines;;;-0.860984;48.343662
+53211_0201_00650;650;;chemin des fougerolles;53500;53211;Saint-Denis-de-Gastines;;;-0.842296;48.319048
+53211_0380_00001;1;;Rue des Prés;53500;53211;Saint-Denis-de-Gastines;;;-0.860474;48.342186
+53211_0091_00510;510;;chemin de la buffetière;53500;53211;Saint-Denis-de-Gastines;;;-0.889454;48.336556
+53211_0210_00658;658;;chemin de la galesnerie;53500;53211;Saint-Denis-de-Gastines;;;-0.840709;48.334812
+53211_0240_00133;133;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.860794;48.348902
+53211_0343_00413;413;;chemin de l'orière;53500;53211;Saint-Denis-de-Gastines;;;-0.883383;48.352156
+53211_0234_00008;8;;Rue du Grand Miaule;53500;53211;Saint-Denis-de-Gastines;;;-0.859634;48.347946
+53211_0008_00007;7;;Rue de l'Aubépine;53500;53211;Saint-Denis-de-Gastines;;;-0.859809;48.340744
+53211_0385_00124;124;;chemin de rigardon;53500;53211;Saint-Denis-de-Gastines;;;-0.860197;48.361024
+53211_0368_00070;70;;chemin de la pinsonnière;53500;53211;Saint-Denis-de-Gastines;;;-0.887959;48.339751
+53211_0372_00052;52;;chemin de la pivette;53500;53211;Saint-Denis-de-Gastines;;;-0.934269;48.356249
+53211_0336_00363;363;;chemin des noës;53500;53211;Saint-Denis-de-Gastines;;;-0.915817;48.350414
+53211_0362_00777;777;;chemin de la pelouardière;53500;53211;Saint-Denis-de-Gastines;;;-0.944253;48.336931
+53211_0387_00057;57;;chemin du haut rigardon;53500;53211;Saint-Denis-de-Gastines;;;-0.860777;48.359495
+53211_0131_00168;168;;chemin de la courlaie;53500;53211;Saint-Denis-de-Gastines;;;-0.836558;48.338753
+53211_0060_01623;1623;;Route de Brecé;53500;53211;Saint-Denis-de-Gastines;;;-0.841887;48.354076
+53211_0115_02317;2317;;Voie Communale de Chevaillé;53500;53211;Saint-Denis-de-Gastines;;;-0.943034;48.344662
+53211_0262_00980;980;;Chemin des Landes Chenevotterie;53500;53211;Saint-Denis-de-Gastines;;;-0.870854;48.351861
+53211_0389_03000;3000;;Voie Communale de la Rostière;53500;53211;Saint-Denis-de-Gastines;;;-0.810405;48.354994
+53211_b636_00002;2;;Le Grand Miaule;53500;53211;Saint-Denis-de-Gastines;;;-0.859505;48.347315
+53211_0401_00005;5;;Impasse Saint-Georges;53500;53211;Saint-Denis-de-Gastines;;;-0.856545;48.341545
+53211_0401_00007;7;;Impasse Saint-Georges;53500;53211;Saint-Denis-de-Gastines;;;-0.856946;48.341198
+53211_0104_00328;328;;chemin de la chamaillère;53500;53211;Saint-Denis-de-Gastines;;;-0.810631;48.350004
+53211_0121_00355;355;;chemin de la chogonnière;53500;53211;Saint-Denis-de-Gastines;;;-0.822685;48.337914
+53211_0132_00152;152;;chemin de la courteille;53500;53211;Saint-Denis-de-Gastines;;;-0.88648;48.366036
+53211_0369_00201;201;;chemin de piquenid;53500;53211;Saint-Denis-de-Gastines;;;-0.850488;48.352838
+53211_0231_00156;156;;chemin de la grancière;53500;53211;Saint-Denis-de-Gastines;;;-0.827882;48.324293
+53211_0058_00349;349;;Chemin du Petit Bois;53500;53211;Saint-Denis-de-Gastines;;;-0.82536;48.357859
+53211_0058_00626;626;;Chemin du Petit Bois;53500;53211;Saint-Denis-de-Gastines;;;-0.82414;48.355981
+53211_0060_00977;977;;Route de Brecé;53500;53211;Saint-Denis-de-Gastines;;;-0.846341;48.349127
+53211_0100_01218;1218;;Route de Châtillon;53500;53211;Saint-Denis-de-Gastines;;;-0.83636;48.340432
+53211_0129_00198;198;;Chemin de Cougé Morand;53500;53211;Saint-Denis-de-Gastines;;;-0.897062;48.366555
+53211_0160_00476;476;;Route d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.875127;48.340619
+53211_0389_02516;2516;;Voie Communale de la Rostière;53500;53211;Saint-Denis-de-Gastines;;;-0.814357;48.35148
+53211_b636_00001;1;;Le Grand Miaule;53500;53211;Saint-Denis-de-Gastines;;;-0.859441;48.348172
+53211_0324_00432;432;;route de montenay;53500;53211;Saint-Denis-de-Gastines;;;-0.863958;48.332285
+53211_0324_02178;2178;;route de montenay;53500;53211;Saint-Denis-de-Gastines;;;-0.873418;48.319996
+53211_0270_00006;6;;Rue des Lavandières;53500;53211;Saint-Denis-de-Gastines;;;-0.865145;48.343441
+53211_0317_00252;252;;chemin de megaudon;53500;53211;Saint-Denis-de-Gastines;;;-0.828129;48.345469
+53211_0317_00296;296;;chemin de megaudon;53500;53211;Saint-Denis-de-Gastines;;;-0.82832;48.345115
+53211_0266_00127;127;;route de larchamp;53500;53211;Saint-Denis-de-Gastines;;;-0.873579;48.341877
+53211_0247_00002;2;;Impasse de l’Harmonie;53500;53211;Saint-Denis-de-Gastines;;;-0.855761;48.34343
+53211_0247_00005;5;;Impasse de l’Harmonie;53500;53211;Saint-Denis-de-Gastines;;;-0.855488;48.343095
+53211_0220_00010;10;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.857315;48.341658
+53211_0220_00015;15;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.859349;48.337307
+53211_0220_00016;16;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.857459;48.341203
+53211_0220_00040;40;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.858345;48.338837
+53211_0140_00002;2;;Rue de l'Eglise;53500;53211;Saint-Denis-de-Gastines;;;-0.857304;48.342554
+53211_0024_01222;1222;;chemin de la bergée;53500;53211;Saint-Denis-de-Gastines;;;-0.857959;48.374551
+53211_0056_00790;790;;voie communale du bois joli;53500;53211;Saint-Denis-de-Gastines;;;-0.826651;48.333624
+53211_0257_00319;319;;chemin de la jacquetière;53500;53211;Saint-Denis-de-Gastines;;;-0.923401;48.334763
+53211_0381_00117;117;;voie communale des remmeries;53500;53211;Saint-Denis-de-Gastines;;;-0.934053;48.344673
+53211_0149_00085;85;;chemin de l'ecorcerie;53500;53211;Saint-Denis-de-Gastines;;;-0.814402;48.36306
+53211_0453_00007;7;;Rue de la Vallée;53500;53211;Saint-Denis-de-Gastines;;;-0.862448;48.343834
+53211_0453_00008;8;;Rue de la Vallée;53500;53211;Saint-Denis-de-Gastines;;;-0.86238;48.343887
+53211_0344_00673;673;;chemin de la paillardière;53500;53211;Saint-Denis-de-Gastines;;;-0.84286;48.326126
+53211_0094_00074;74;;chemin de la petite buronnière;53500;53211;Saint-Denis-de-Gastines;;;-0.919133;48.343068
+53211_0136_00048;48;;chemin de la demeurentais;53500;53211;Saint-Denis-de-Gastines;;;-0.863829;48.3399
+53211_0136_00060;60;;chemin de la demeurentais;53500;53211;Saint-Denis-de-Gastines;;;-0.864019;48.339829
+53211_0239_00105;105;;chemin de la guesdonnière;53500;53211;Saint-Denis-de-Gastines;;;-0.806519;48.335392
+53211_0122_00473;473;;chemin du clou;53500;53211;Saint-Denis-de-Gastines;;;-0.90694;48.363014
+53211_0323_00485;485;;route de montaudin;53500;53211;Saint-Denis-de-Gastines;;;-0.900248;48.355346
+53211_0323_01937;1937;;route de montaudin;53500;53211;Saint-Denis-de-Gastines;;;-0.919597;48.357841
+53211_0253_01115;1115;;chemin des heurlières;53500;53211;Saint-Denis-de-Gastines;;;-0.925916;48.351875
+53211_0253_01140;1140;;chemin des heurlières;53500;53211;Saint-Denis-de-Gastines;;;-0.925916;48.351875
+53211_0415_00268;268;;chemin de la sensive;53500;53211;Saint-Denis-de-Gastines;;;-0.897352;48.342017
+53211_0235_00101;101;;chemin de la grandinière;53500;53211;Saint-Denis-de-Gastines;;;-0.907618;48.342001
+53211_0420_00001;1;;Rue Saint Stanislas;53500;53211;Saint-Denis-de-Gastines;;;-0.858908;48.343069
+53211_0243_00004;4;;Impasse du Gué;53500;53211;Saint-Denis-de-Gastines;;;-0.857462;48.337702
+53211_0085_00165;165;;chemin de la brouhardière;53500;53211;Saint-Denis-de-Gastines;;;-0.899904;48.356744
+53211_0316_00193;193;;chemin des mazures;53500;53211;Saint-Denis-de-Gastines;;;-0.809314;48.372602
+53211_0240_00172;172;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.860825;48.348722
+53211_0240_00203;203;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.860783;48.348882
+53211_0240_00583;583;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.861818;48.352415
+53211_0240_02474;2474;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.852228;48.366193
+53211_0240_02718;2718;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.851451;48.367998
+53211_0212_00197;197;;chemin de la gaptière;53500;53211;Saint-Denis-de-Gastines;;;-0.868028;48.346202
+53211_0234_00006;6;;Rue du Grand Miaule;53500;53211;Saint-Denis-de-Gastines;;;-0.859498;48.347778
+53211_0098_00194;194;;chemin de la caminière;53500;53211;Saint-Denis-de-Gastines;;;-0.853871;48.333484
+53211_0022_00885;885;;chemin de la benestière;53500;53211;Saint-Denis-de-Gastines;;;-0.909998;48.369315
+53211_0008_00003;3;;Rue de l'Aubépine;53500;53211;Saint-Denis-de-Gastines;;;-0.860089;48.340306
+53211_0008_00009;9;;Rue de l'Aubépine;53500;53211;Saint-Denis-de-Gastines;;;-0.859844;48.340944
+53211_0445_00222;222;;chemin du tremblay;53500;53211;Saint-Denis-de-Gastines;;;-0.933953;48.331919
+53211_0405_00099;99;;route des sablons;53500;53211;Saint-Denis-de-Gastines;;;-0.86719;48.342675
+53211_0215_00081;81;;chemin de la gare;53500;53211;Saint-Denis-de-Gastines;;;-0.859231;48.327417
+53211_0053_00016;16;;Rue du Bocage;53500;53211;Saint-Denis-de-Gastines;;;-0.851761;48.338721
+53211_0324_02084;2084;;route de montenay;53500;53211;Saint-Denis-de-Gastines;;;-0.873179;48.321588
+53211_0202_00170;170;;chemin des bas fougerolles;53500;53211;Saint-Denis-de-Gastines;;;-0.842522;48.317912
+53211_0220_00007;7;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.857626;48.341016
+53211_0220_00038;38;;Rue de la Gare;53500;53211;Saint-Denis-de-Gastines;;;-0.85821;48.339136
+53211_0379_00021;21;;voie communale de la rabine;53500;53211;Saint-Denis-de-Gastines;;;-0.900546;48.361831
+53211_0379_00073;73;;voie communale de la rabine;53500;53211;Saint-Denis-de-Gastines;;;-0.896814;48.364123
+53211_0379_00114;114;;voie communale de la rabine;53500;53211;Saint-Denis-de-Gastines;;;-0.89677;48.364043
+53211_0205_00697;697;;chemin de fumecon;53500;53211;Saint-Denis-de-Gastines;;;-0.870276;48.321964
+53211_0024_01223;1223;;chemin de la bergée;53500;53211;Saint-Denis-de-Gastines;;;-0.85775;48.37442
+53211_0099_00736;736;;route de carelles;53500;53211;Saint-Denis-de-Gastines;;;-0.878457;48.346582
+53211_0099_01763;1763;;route de carelles;53500;53211;Saint-Denis-de-Gastines;;;-0.890167;48.351917
+53211_0370_00003;3;;Rue des Plantes;53500;53211;Saint-Denis-de-Gastines;;;-0.864157;48.341071
+53211_0453_00004;4;;Rue de la Vallée;53500;53211;Saint-Denis-de-Gastines;;;-0.862953;48.343857
+53211_0453_00012;12;;Rue de la Vallée;53500;53211;Saint-Denis-de-Gastines;;;-0.861537;48.344096
+53211_0330_00004;4;;Impasse des Muguets;53500;53211;Saint-Denis-de-Gastines;;;-0.857537;48.33989
+53211_0344_00614;614;;chemin de la paillardière;53500;53211;Saint-Denis-de-Gastines;;;-0.842648;48.326608
+53211_0450_00823;823;;chemin de la tuberie;53500;53211;Saint-Denis-de-Gastines;;;-0.936366;48.336929
+53211_0334_00138;138;;chemin du nezement;53500;53211;Saint-Denis-de-Gastines;;;-0.872082;48.323527
+53211_0122_00055;55;;chemin du clou;53500;53211;Saint-Denis-de-Gastines;;;-0.902638;48.364334
+53211_0122_00471;471;;chemin du clou;53500;53211;Saint-Denis-de-Gastines;;;-0.90694;48.363014
+53211_0323_01906;1906;;route de montaudin;53500;53211;Saint-Denis-de-Gastines;;;-0.917628;48.357641
+53211_0323_01950;1950;;route de montaudin;53500;53211;Saint-Denis-de-Gastines;;;-0.918291;48.357769
+53211_0256_00005_bis;5;bis;Rue de l'Industrie;53500;53211;Saint-Denis-de-Gastines;;;-0.850569;48.340117
+53211_0300_00013;13;;Rue des Lilas;53500;53211;Saint-Denis-de-Gastines;;;-0.860978;48.343936
+53211_0322_00170;170;;chemin de la monnerie;53500;53211;Saint-Denis-de-Gastines;;;-0.875239;48.320327
+53211_0322_00240;240;;chemin de la monnerie;53500;53211;Saint-Denis-de-Gastines;;;-0.876418;48.320678
+53211_0375_00004;4;;Rue du Porche;53500;53211;Saint-Denis-de-Gastines;;;-0.857952;48.342453
+53211_0375_00010;10;;Rue du Porche;53500;53211;Saint-Denis-de-Gastines;;;-0.857568;48.342482
+53211_0380_00010;10;;Rue des Prés;53500;53211;Saint-Denis-de-Gastines;;;-0.86235;48.340469
+53211_0026_00039;39;;chemin du grand besnière;53500;53211;Saint-Denis-de-Gastines;;;-0.914658;48.340736
+53211_0007_00655;655;;chemin de l'auberdière;53500;53211;Saint-Denis-de-Gastines;;;-0.832292;48.322221
+53211_0420_00006;6;;Rue Saint Stanislas;53500;53211;Saint-Denis-de-Gastines;;;-0.85969;48.34339
+53211_0319_00241;241;;chemin de la michonnière;53500;53211;Saint-Denis-de-Gastines;;;-0.820849;48.356136
+53211_0240_00113;113;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.860349;48.348085
+53211_0240_00374;374;;Route de Gorron;53500;53211;Saint-Denis-de-Gastines;;;-0.861747;48.350262
+53211_0106_00193;193;;chemin de la chaussée;53500;53211;Saint-Denis-de-Gastines;;;-0.839465;48.359133
+53211_0395_00005;5;;Rue Saint Etienne;53500;53211;Saint-Denis-de-Gastines;;;-0.857985;48.341748
+53211_0102_00241;241;;chemin de la chacourie;53500;53211;Saint-Denis-de-Gastines;;;-0.831788;48.331039
+53211_0234_00001;1;;Rue du Grand Miaule;53500;53211;Saint-Denis-de-Gastines;;;-0.85952;48.347976
+53211_0203_00084;84;;chemin des hauts fougerolles;53500;53211;Saint-Denis-de-Gastines;;;-0.842172;48.319075
+53211_0022_00866;866;;chemin de la benestière;53500;53211;Saint-Denis-de-Gastines;;;-0.910561;48.369298
+53211_0430_00086;86;;chemin de tête louvine;53500;53211;Saint-Denis-de-Gastines;;;-0.885209;48.33979
+53211_0308_00252;252;;chemin de la maison neuve;53500;53211;Saint-Denis-de-Gastines;;;-0.922854;48.361094
+53211_0308_00352;352;;chemin de la maison neuve;53500;53211;Saint-Denis-de-Gastines;;;-0.922627;48.361446
+53211_0128_00057;57;;chemin de couge carelles;53500;53211;Saint-Denis-de-Gastines;;;-0.900646;48.366259
+53211_0268_00159;159;;chemin de launay;53500;53211;Saint-Denis-de-Gastines;;;-0.844582;48.34372
+53211_0366_00507;507;;chemin de la pierre blanche;53500;53211;Saint-Denis-de-Gastines;;;-0.87605;48.353122
+53211_0062_00334;334;;chemin de la bourdonnière;53500;53211;Saint-Denis-de-Gastines;;;-0.937455;48.340381
+53211_0241_00090;90;;chemin de la hailonnière;53500;53211;Saint-Denis-de-Gastines;;;-0.86825;48.313665
+53211_0060_00455;455;;Route de Brecé;53500;53211;Saint-Denis-de-Gastines;;;-0.850774;48.345275
+53211_0060_01352;1352;;Route de Brecé;53500;53211;Saint-Denis-de-Gastines;;;-0.843775;48.351989
+53211_0160_00450;450;;Route d'Ernée;53500;53211;Saint-Denis-de-Gastines;;;-0.874905;48.340403
+53211_0429_00082;82;;Chemin de la Station d'Epuration;53500;53211;Saint-Denis-de-Gastines;;;-0.860599;48.338429
+53211_0221_00534;534;;chemin de la gasnerie;53500;53211;Saint-Denis-de-Gastines;;;-0.82946;48.357214
+53211_0260_00004;4;;Rue Jeanne d'Arc;53500;53211;Saint-Denis-de-Gastines;;;-0.85524;48.341866
+53211_0215_00121;121;;chemin de la gare;53500;53211;Saint-Denis-de-Gastines;;;-0.859756;48.327419
+53211_0263_00278;278;;chemin de lande louvice;53500;53211;Saint-Denis-de-Gastines;;;-0.86374;48.36931
+53211_0246_00303;303;;chemin du hangar;53500;53211;Saint-Denis-de-Gastines;;;-0.903799;48.359572
+53211_0111_00226;226;;chemin de la chenevotterie;53500;53211;Saint-Denis-de-Gastines;;;-0.870015;48.347754
+53211_0111_00250;250;;chemin de la chenevotterie;53500;53211;Saint-Denis-de-Gastines;;;-0.870015;48.347754
+53211_0382_00151;151;;chemin de la renardière;53500;53211;Saint-Denis-de-Gastines;;;-0.936174;48.348855
+53211_0454_00054;54;;chemin de la varie;53500;53211;Saint-Denis-de-Gastines;;;-0.904709;48.357409
+53211_0341_00108;108;;chemin de l'organdière;53500;53211;Saint-Denis-de-Gastines;;;-0.823757;48.361947
+53211_0147_00149;149;;chemin de l'echerbaudière;53500;53211;Saint-Denis-de-Gastines;;;-0.846025;48.319311
+53211_0244_00221;221;;chemin de la hairière;53500;53211;Saint-Denis-de-Gastines;;;-0.809155;48.326286
+53211_0060_00622;622;;Route de Brecé;53500;53211;Saint-Denis-de-Gastines;;;-0.850176;48.347484
+53211_0100_01831;1831;;Route de Châtillon;53500;53211;Saint-Denis-de-Gastines;;;-0.8283;48.340692
+53211_0327_00163;163;;Chemin du Moulin;53500;53211;Saint-Denis-de-Gastines;;;-0.852386;48.323653
+53211_b636_00008;8;;Le Grand Miaule;53500;53211;Saint-Denis-de-Gastines;;;-0.859719;48.34792

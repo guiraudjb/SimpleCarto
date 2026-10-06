@@ -1,0 +1,562 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+66027_xt0c05_00001;1;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.115778;42.500642
+66027_xt0c05_00002_bis;2;bis;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.115086;42.500527
+66027_zflhln_00001;1;;Route Nationale;66210;66027;La Cabanasse;;;2.125098;42.507507
+66027_zflhln_00007;7;;Route Nationale;66210;66027;La Cabanasse;;;2.118861;42.507521
+66027_7y8a5t_00005;5;;Voie Royale;66210;66027;La Cabanasse;;;2.116084;42.509222
+66027_7y8a5t_00007;7;;Voie Royale;66210;66027;La Cabanasse;;;2.115907;42.509314
+66027_08pnem_00009;9;;Cami Ramadet;66210;66027;La Cabanasse;;;2.110808;42.509225
+66027_krab8p_00007;7;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.10957;42.501464
+66027_krab8p_00014;14;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.108454;42.501491
+66027_krab8p_00019;19;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.108892;42.501729
+66027_0051_00001;1;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.115321;42.503855
+66027_0051_00014;14;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.115422;42.504163
+66027_0051_00020;20;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.115002;42.504359
+66027_0051_00028;28;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.114393;42.504334
+66027_0057_00009;9;;Impasse des Cascades;66210;66027;La Cabanasse;;Résidence de la Têt;2.117594;42.500708
+66027_0059_00008;8;;Chemin de la Calme;66210;66027;La Cabanasse;;Roques Blanques;2.106866;42.501393
+66027_0052_00008;8;;Impasse des Cerfs;66210;66027;La Cabanasse;;lotissement les marmottes;2.114754;42.503897
+66027_0052_00009;9;;Impasse des Cerfs;66210;66027;La Cabanasse;;lotissement les marmottes;2.114724;42.503707
+66027_0064_00014;14;;Route d’Andorre;66210;66027;La Cabanasse;;La PERCHE;2.09374;42.497007
+66027_0058_00019;19;;Impasse de la Source;66210;66027;La Cabanasse;;Résidence de la Têt;2.117482;42.500249
+66027_0053_00000;0;;Route de Bolquère;66210;66027;La Cabanasse;;La PERCHE;2.09255;42.497431
+66027_0053_00005;5;;Route de Bolquère;66210;66027;La Cabanasse;;La PERCHE;2.090174;42.498048
+66027_0055_00002;2;;Impasse des Faons;66210;66027;La Cabanasse;;Lotissement Plein Soleil;2.113937;42.5042
+66027_0055_00010;10;;Impasse des Faons;66210;66027;La Cabanasse;;;2.11383;42.504429
+66027_0055_00014;14;;Impasse des Faons;66210;66027;La Cabanasse;;;2.114152;42.504632
+66027_0056_00002;2;;Rue Del Riu;66210;66027;La Cabanasse;;;2.118067;42.501026
+66027_0066_00001;1;;Impasse de l’Ancien Hotel;66210;66027;La Cabanasse;;;2.115315;42.50235
+66027_3305_00001;1;;Route de Font Romeu;66210;66027;La Cabanasse;;;2.115099;42.508225
+66027_3305_00005;5;;Route de Font Romeu;66210;66027;La Cabanasse;;;2.114583;42.508902
+66027_3305_00013;13;;Route de Font Romeu;66210;66027;La Cabanasse;;;2.114246;42.509791
+66027_3305_00015;15;;Route de Font Romeu;66210;66027;La Cabanasse;;;2.112428;42.51144
+66027_3305_00002_bis;2;bis;Route de Font Romeu;66210;66027;La Cabanasse;;Lotissement Vauban;2.11522;42.508513
+66027_4040_00008;8;;Avenue du Haut Conflent;66210;66027;La Cabanasse;;;2.120477;42.506459
+66027_4040_00009;9;;Avenue du Haut Conflent;66210;66027;La Cabanasse;;;2.116465;42.504292
+66027_a015_00001;1;;Lotissement Fauveau;66210;66027;La Cabanasse;;;2.113452;42.502786
+66027_a015_00005;5;;Lotissement Fauveau;66210;66027;La Cabanasse;;;2.112752;42.50291
+66027_a015_00012;12;;Lotissement Fauveau;66210;66027;La Cabanasse;;;2.113366;42.503621
+66027_a004_00007;7;;Lotissement Boure;66210;66027;La Cabanasse;;;2.111219;42.501386
+66027_a004_00011;11;;Lotissement Boure;66210;66027;La Cabanasse;;;2.111757;42.501385
+66027_a004_00012;12;;Lotissement Boure;66210;66027;La Cabanasse;;;2.11173;42.501757
+66027_a004_00026;26;;Lotissement Boure;66210;66027;La Cabanasse;;;2.110352;42.501651
+66027_a004_00034;34;;Lotissement Boure;66210;66027;La Cabanasse;;;2.110119;42.501508
+66027_a004_00036;36;;Lotissement Boure;66210;66027;La Cabanasse;;;2.110129;42.501232
+66027_a038_00015;15;;Lotissement Patau;66210;66027;La Cabanasse;;;2.091498;42.497246
+66027_a038_00016;16;;Lotissement Patau;66210;66027;La Cabanasse;;La PERCHE;2.090369;42.497437
+66027_a038_00024;24;;Lotissement Patau;66210;66027;La Cabanasse;;La PERCHE;2.090637;42.496759
+66027_5140_00001;1;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.112667;42.500402
+66027_5140_00004;4;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.112847;42.500278
+66027_5140_00013;13;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.113314;42.500413
+66027_5140_00016;16;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.113913;42.500369
+66027_5140_00022;22;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.11418;42.500477
+66027_5140_00026;26;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.11437;42.500532
+66027_5140_00035;35;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.114894;42.50068
+66027_5140_00042;42;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.115648;42.500847
+66027_3331_00003;3;;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.122156;42.506387
+66027_xt0c05_00009;9;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.11658;42.50096
+66027_xt0c05_00013;13;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.117164;42.501086
+66027_xt0c05_00014;14;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.116636;42.500695
+66027_xt0c05_00025;25;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.119933;42.502085
+66027_xt0c05_00029;29;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.120507;42.502238
+66027_xt0c05_00019_bis;19;bis;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.116948;42.501669
+66027_zflhln_00009;9;;Route Nationale;66210;66027;La Cabanasse;;;2.118517;42.507778
+66027_zflhln_00015;15;;Route Nationale;66210;66027;La Cabanasse;;;2.115681;42.507038
+66027_08pnem_00004;4;;Cami Ramadet;66210;66027;La Cabanasse;;;2.111924;42.510772
+66027_08pnem_00011_bis;11;bis;Cami Ramadet;66210;66027;La Cabanasse;;;2.112215;42.508663
+66027_0051_00012;12;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.11553;42.504125
+66027_0059_00023;23;;Chemin de la Calme;66210;66027;La Cabanasse;;Roques Blanques;2.106949;42.502456
+66027_0052_00001;1;;Impasse des Cerfs;66210;66027;La Cabanasse;;lotissement les marmottes;2.115193;42.503899
+66027_0052_00014;14;;Impasse des Cerfs;66210;66027;La Cabanasse;;lotissement les marmottes;2.1139;42.503642
+66027_0064_00001;1;;Route d’Andorre;66210;66027;La Cabanasse;;;2.114984;42.506912
+66027_0064_00004;4;;Route d’Andorre;66210;66027;La Cabanasse;;;2.114074;42.506886
+66027_0058_00015;15;;Impasse de la Source;66210;66027;La Cabanasse;;Résidence de la Têt;2.11769;42.500437
+66027_0061_00013;13;;Impasse du Cambre;66210;66027;La Cabanasse;;Roques Blanques;2.106621;42.501236
+66027_0053_00004;4;;Route de Bolquère;66210;66027;La Cabanasse;;La PERCHE;2.092266;42.497704
+66027_0055_00001;1;;Impasse des Faons;66210;66027;La Cabanasse;;;2.113869;42.504065
+66027_0055_00005;5;;Impasse des Faons;66210;66027;La Cabanasse;;;2.113207;42.504465
+66027_0060_00003;3;;Impasse de l’Orri;66210;66027;La Cabanasse;;Roques Blanques;2.10673;42.500985
+66027_0056_00001;1;;Rue Del Riu;66210;66027;La Cabanasse;;Résidence de la Têt;2.118044;42.501188
+66027_5080_00002;2;;Rue Laurent Delcasso;66210;66027;La Cabanasse;;;2.113366;42.500794
+66027_3305_00000;0;;Route de Font Romeu;66210;66027;La Cabanasse;;;2.114376;42.510809
+66027_3305_00004;4;;Route de Font Romeu;66210;66027;La Cabanasse;;;2.114978;42.508973
+66027_3305_00009;9;;Route de Font Romeu;66210;66027;La Cabanasse;;;2.114007;42.509532
+66027_4040_00001;1;;Avenue du Haut Conflent;66210;66027;La Cabanasse;;;2.115811;42.50251
+66027_4040_00015;15;;Avenue du Haut Conflent;66210;66027;La Cabanasse;;;2.119277;42.506854
+66027_a015_00008;8;;Lotissement Fauveau;66210;66027;La Cabanasse;;;2.11286;42.503542
+66027_a004_00004;4;;Lotissement Boure;66210;66027;La Cabanasse;;;2.11235;42.501528
+66027_a004_00008;8;;Lotissement Boure;66210;66027;La Cabanasse;;;2.11218;42.501767
+66027_a038_00007;7;;Lotissement Patau;66210;66027;La Cabanasse;;;2.091386;42.496992
+66027_a038_00008;8;;Lotissement Patau;66210;66027;La Cabanasse;;La PERCHE;2.091563;42.497426
+66027_a038_00022;22;;Lotissement Patau;66210;66027;La Cabanasse;;La PERCHE;2.090435;42.496978
+66027_a038_05000_f;5000;f;Lotissement Patau;66210;66027;La Cabanasse;;La PERCHE;2.092388;42.497099
+66027_5140_00023;23;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.113762;42.5007
+66027_5140_00030;30;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.114751;42.500494
+66027_5140_00034;34;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.114949;42.500482
+66027_5140_00039;39;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.115075;42.500796
+66027_xt0c05_00002;2;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.115094;42.50036
+66027_xt0c05_00006;6;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.115432;42.500332
+66027_7y8a5t_00013;13;;Voie Royale;66210;66027;La Cabanasse;;;2.115462;42.509597
+66027_7y8a5t_00015;15;;Voie Royale;66210;66027;La Cabanasse;;;2.115111;42.509823
+66027_0frse0_00001;1;;Avenue Ingenieur Drogue;66210;66027;La Cabanasse;;;2.111012;42.499874
+66027_0frse0_00003;3;;Avenue Ingenieur Drogue;66210;66027;La Cabanasse;;;2.111212;42.499974
+66027_08pnem_00005;5;;Cami Ramadet;66210;66027;La Cabanasse;;;2.111763;42.509779
+66027_08pnem_00001_ter;1;ter;Cami Ramadet;66210;66027;La Cabanasse;;;2.112854;42.51059
+66027_krab8p_00002;2;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.109743;42.50116
+66027_krab8p_00003;3;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.109566;42.501165
+66027_krab8p_00006;6;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.10977;42.501441
+66027_krab8p_00010;10;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.10898;42.501487
+66027_krab8p_00011;11;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.108838;42.501245
+66027_krab8p_00018;18;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.108711;42.501758
+66027_0051_00008;8;;Rue des Biches;66210;66027;La Cabanasse;;;2.115939;42.504125
+66027_0051_00022;22;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.114836;42.504456
+66027_0051_00030;30;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.114217;42.504271
+66027_0057_00008;8;;Impasse des Cascades;66210;66027;La Cabanasse;;Résidence de la Têt;2.117756;42.500837
+66027_0057_00012;12;;Impasse des Cascades;66210;66027;La Cabanasse;;Résidence de la Têt;2.118036;42.500766
+66027_0059_00002;2;;Chemin de la Calme;66210;66027;La Cabanasse;;Roques Blanques;2.107057;42.500985
+66027_0059_00010;10;;Chemin de la Calme;66210;66027;La Cabanasse;;Roques Blanques;2.10707;42.501575
+66027_0064_00008;8;;Route d’Andorre;66210;66027;La Cabanasse;;La PERCHE;2.093859;42.498627
+66027_0058_00014;14;;Impasse de la Source;66210;66027;La Cabanasse;;Résidence de la Têt;2.117816;42.50043
+66027_0058_00018;18;;Impasse de la Source;66210;66027;La Cabanasse;;Résidence de la Têt;2.117325;42.50026
+66027_0061_00015;15;;Impasse du Cambre;66210;66027;La Cabanasse;;Roques Blanques;2.106587;42.501164
+66027_0054_00003;3;;Chemin des Randonneurs;66210;66027;La Cabanasse;;La PERCHE;2.090971;42.498522
+66027_0054_00005;5;;Chemin des Randonneurs;66210;66027;La Cabanasse;;La PERCHE;2.091178;42.498547
+66027_0056_00005;5;;Rue Del Riu;66210;66027;La Cabanasse;;Résidence de la Têt;2.118363;42.500942
+66027_0065_00002;2;;Impasse des Voyageurs;66210;66027;La Cabanasse;;La PERCHE;2.092952;42.496558
+66027_0067_00001;1;;Rue du Prat de l’Hort;66210;66027;La Cabanasse;;;2.118672;42.506968
+66027_5080_00001;1;;Rue Laurent Delcasso;66210;66027;La Cabanasse;;;2.113485;42.500694
+66027_5080_00005;5;;Rue Laurent Delcasso;66210;66027;La Cabanasse;;;2.113507;42.500508
+66027_4040_00004;4;;Avenue du Haut Conflent;66210;66027;La Cabanasse;;;2.119368;42.506069
+66027_4040_00005;5;;Avenue du Haut Conflent;66210;66027;La Cabanasse;;;2.116554;42.50372
+66027_4040_00002_bis;2;bis;Avenue du Haut Conflent;66210;66027;La Cabanasse;;;2.119498;42.505707
+66027_a004_00018;18;;Lotissement Boure;66210;66027;La Cabanasse;;;2.111283;42.501726
+66027_a004_00042;42;;Lotissement Boure;66210;66027;La Cabanasse;;;2.111398;42.501241
+66027_a038_00011;11;;Lotissement Patau;66210;66027;La Cabanasse;;;2.092028;42.496979
+66027_a038_00012;12;;Lotissement Patau;66210;66027;La Cabanasse;;La PERCHE;2.090891;42.49744
+66027_5140_00027;27;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.11452;42.500677
+66027_5140_00038;38;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.115315;42.500667
+66027_5140_00043;43;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.11529;42.500981
+66027_5140_00007_bis;7;bis;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.112982;42.500436
+66027_5140_00023_bis;23;bis;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.113895;42.500737
+66027_5140_00043_ter;43;ter;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.11534;42.50106
+66027_xt0c05_00005;5;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.116169;42.500768
+66027_xt0c05_00010;10;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.115933;42.50052
+66027_xt0c05_00017;17;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.117397;42.501364
+66027_xt0c05_00018;18;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.119822;42.501596
+66027_xt0c05_00022;22;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.120519;42.501841
+66027_zflhln_00017;17;;Route Nationale;66210;66027;La Cabanasse;;;2.115402;42.50667
+66027_08pnem_00011;11;;Cami Ramadet;66210;66027;La Cabanasse;;;2.111814;42.50873
+66027_krab8p_00015;15;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.108095;42.501758
+66027_krab8p_00022;22;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.109447;42.501718
+66027_0051_00004;4;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.115804;42.504018
+66027_0051_00005;5;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.114838;42.504294
+66027_0051_00009;9;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.114538;42.504147
+66027_0052_00004;4;;Impasse des Cerfs;66210;66027;La Cabanasse;;;2.114965;42.503966
+66027_0052_00005;5;;Impasse des Cerfs;66210;66027;La Cabanasse;;lotissement les marmottes;2.11496;42.503802
+66027_0064_00005;5;;Route d’Andorre;66210;66027;La Cabanasse;;La PERCHE;2.094345;42.497129
+66027_0064_00009;9;;Route d’Andorre;66210;66027;La Cabanasse;;La PERCHE;2.093571;42.496434
+66027_0064_00016;16;;Route d’Andorre;66210;66027;La Cabanasse;;La PERCHE;2.093112;42.496745
+66027_0053_00001;1;;Route de Bolquère;66210;66027;La Cabanasse;;La PERCHE;2.091438;42.49772
+66027_0055_00006;6;;Impasse des Faons;66210;66027;La Cabanasse;;;2.113617;42.504229
+66027_0055_00009;9;;Impasse des Faons;66210;66027;La Cabanasse;;;2.113535;42.504604
+66027_0055_00013;13;;Impasse des Faons;66210;66027;La Cabanasse;;;2.113956;42.504679
+66027_0060_00005;5;;Impasse de l’Orri;66210;66027;La Cabanasse;;Roques Blanques;2.106664;42.500971
+66027_5080_00006;6;;Rue Laurent Delcasso;66210;66027;La Cabanasse;;;2.113289;42.500648
+66027_3305_00008;8;;Route de Font Romeu;66210;66027;La Cabanasse;;;2.1147;42.509639
+66027_4040_00013;13;;Avenue du Haut Conflent;66210;66027;La Cabanasse;;;2.118927;42.506751
+66027_a015_00004;4;;Lotissement Fauveau;66210;66027;La Cabanasse;;;2.113132;42.503019
+66027_a015_00009;9;;Lotissement Fauveau;66210;66027;La Cabanasse;;;2.112464;42.503399
+66027_a015_00003_bis;3;bis;Lotissement Fauveau;66210;66027;La Cabanasse;;;2.112445;42.502679
+66027_a004_00003;3;;Lotissement Boure;66210;66027;La Cabanasse;;;2.110708;42.501422
+66027_a004_00020;20;;Lotissement Boure;66210;66027;La Cabanasse;;;2.110941;42.50171
+66027_a004_00028;28;;Lotissement Boure;66210;66027;La Cabanasse;;;2.110223;42.501651
+66027_a004_00044;44;;Lotissement Boure;66210;66027;La Cabanasse;;;2.111658;42.501229
+66027_a038_00003;3;;Lotissement Patau;66210;66027;La Cabanasse;;;2.090573;42.497196
+66027_a038_00004;4;;Lotissement Patau;66210;66027;La Cabanasse;;La PERCHE;2.092042;42.497307
+66027_a038_00032;32;;Lotissement Patau;66210;66027;La Cabanasse;;La PERCHE;2.09149;42.496752
+66027_a038_00034;34;;Lotissement Patau;66210;66027;La Cabanasse;;La PERCHE;2.092374;42.496904
+66027_5140_00005;5;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.112866;42.500427
+66027_5140_00008;8;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.113098;42.500305
+66027_5140_00009;9;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.113047;42.500395
+66027_5140_00012;12;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.113426;42.50034
+66027_5140_00017;17;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.113656;42.500473
+66027_5140_00019;19;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.113709;42.500528
+66027_5140_00031;31;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.114754;42.500655
+66027_5140_00048;48;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.115773;42.501888
+66027_xt0c05_00003;3;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.11596;42.500754
+66027_3331_00006_ter;6;ter;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.12255;42.50559
+66027_7260_00005;5;;Rue de la Poste;66210;66027;La Cabanasse;;;2.114969;42.501263
+66027_7260_00011;11;;Rue de la Poste;66210;66027;La Cabanasse;;;2.114457;42.501306
+66027_8030_00002;2;;Chemin Saint Jean;66210;66027;La Cabanasse;;;2.116315;42.503659
+66027_3331_00018;18;;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.123699;42.506571
+66027_3331_00012_bis;12;bis;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.12351;42.5064
+66027_4600_00002;2;;Rue du Jardo;66210;66027;La Cabanasse;;;2.116419;42.50136
+66027_7260_00001;1;;Rue de la Poste;66210;66027;La Cabanasse;;;2.115556;42.501382
+66027_7260_00006;6;;Rue de la Poste;66210;66027;La Cabanasse;;;2.115081;42.501438
+66027_7260_00012;12;;Rue de la Poste;66210;66027;La Cabanasse;;;2.114397;42.501394
+66027_a036_00002;2;;Lotissement les Melezes;66210;66027;La Cabanasse;;;2.107901;42.501097
+66027_a036_00006;6;;Lotissement les Melezes;66210;66027;La Cabanasse;;lotissement les Mélèzes;2.107931;42.50149
+66027_a036_00011;11;;Lotissement les Melezes;66210;66027;La Cabanasse;;;2.107678;42.50178
+66027_1600_00006;6;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.111205;42.501046
+66027_1600_00010;10;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.108398;42.501135
+66027_1600_00011;11;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.106582;42.500615
+66027_1600_00015;15;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.105892;42.500639
+66027_0034_00002;2;;Place de la Salle des Fetes;66210;66027;La Cabanasse;;;2.11301;42.500595
+66027_a032_00003;3;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.104331;42.501693
+66027_a032_00016;16;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.104629;42.501712
+66027_a032_00040;40;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.104356;42.500962
+66027_6540_00007;7;;Rue des Narcisses;66210;66027;La Cabanasse;;;2.104047;42.499644
+66027_4780_00010;10;;Rue Joliot Curie;66210;66027;La Cabanasse;;;2.113252;42.500814
+66027_9390_00004;4;;Cami de la Vibra;66210;66027;La Cabanasse;;;2.111143;42.506306
+66027_9390_00007;7;;Cami de la Vibra;66210;66027;La Cabanasse;;;2.11027;42.506182
+66027_5500_00001;1;;Rue Moffre;66210;66027;La Cabanasse;;;2.11331;42.502192
+66027_5500_00005;5;;Rue Moffre;66210;66027;La Cabanasse;;;2.112353;42.50224
+66027_8400_00004;4;;Impasse des Sorbiers;66210;66027;La Cabanasse;;;2.113256;42.510266
+66027_a016_00006;6;;Lotissement Las Fustes;66210;66027;La Cabanasse;;;2.102594;42.500703
+66027_8705_00008;8;;Rue des Tilleuls;66210;66027;La Cabanasse;;;2.11608;42.503093
+66027_7305_00010;10;;Rue Professeur Jacob;66210;66027;La Cabanasse;;;2.11464;42.507427
+66027_8030_00008;8;;Chemin Saint Jean;66210;66027;La Cabanasse;;;2.115449;42.5036
+66027_8030_00010;10;;Chemin Saint Jean;66210;66027;La Cabanasse;;;2.115192;42.503528
+66027_1600_00014;14;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.105881;42.500855
+66027_1600_00019;19;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.105454;42.500573
+66027_1600_00008_ter;8;ter;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.110631;42.501066
+66027_1600_00021_bis;21;bis;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.103903;42.500702
+66027_6250_00002;2;;Rue du Moulin;66210;66027;La Cabanasse;;Las Moulines;2.119392;42.504454
+66027_6250_00002_ter;2;ter;Rue du Moulin;66210;66027;La Cabanasse;;;2.118928;42.504022
+66027_a032_00024;24;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.103968;42.501874
+66027_a032_00032;32;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.103843;42.501368
+66027_a032_00038;38;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.104504;42.501116
+66027_4780_00001;1;;Rue Joliot Curie;66210;66027;La Cabanasse;;;2.112606;42.501078
+66027_4780_00006;6;;Rue Joliot Curie;66210;66027;La Cabanasse;;;2.112894;42.500848
+66027_a016_00007;7;;Lotissement Las Fustes;66210;66027;La Cabanasse;;;2.102803;42.500582
+66027_7305_00001;1;;Rue Professeur Jacob;66210;66027;La Cabanasse;;;2.113007;42.506951
+66027_xt0c05_00016;16;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.119134;42.501378
+66027_xt0c05_00027;27;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.120251;42.502166
+66027_zflhln_00013;13;;Route Nationale;66210;66027;La Cabanasse;;;2.1159;42.507217
+66027_7y8a5t_00009;9;;Voie Royale;66210;66027;La Cabanasse;;;2.115752;42.509405
+66027_08pnem_00008;8;;Cami Ramadet;66210;66027;La Cabanasse;;;2.111342;42.508753
+66027_krab8p_00004;4;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.109408;42.5012
+66027_krab8p_00008;8;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.109366;42.501476
+66027_0051_00002;2;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.115708;42.503976
+66027_0051_00010;10;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.11562;42.504043
+66027_0051_00011;11;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.114372;42.504061
+66027_0051_00018;18;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.115183;42.504296
+66027_0051_00024;24;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.114611;42.504509
+66027_0057_00007;7;;Impasse des Cascades;66210;66027;La Cabanasse;;Résidence de la Têt;2.117901;42.500851
+66027_0057_00010;10;;Impasse des Cascades;66210;66027;La Cabanasse;;Résidence de la Têt;2.117712;42.500724
+66027_0058_00016;16;;Impasse de la Source;66210;66027;La Cabanasse;;Résidence de la Têt;2.117522;42.500383
+66027_0058_00017;17;;Impasse de la Source;66210;66027;La Cabanasse;;Résidence de la Têt;2.117355;42.500367
+66027_0061_00019;19;;Impasse du Cambre;66210;66027;La Cabanasse;;Roques Blanques;2.106412;42.501159
+66027_0055_00004;4;;Impasse des Faons;66210;66027;La Cabanasse;;;2.113757;42.50428
+66027_0060_00001;1;;Impasse de l’Orri;66210;66027;La Cabanasse;;Roques Blanques;2.106774;42.501013
+66027_0060_00007;7;;Impasse de l’Orri;66210;66027;La Cabanasse;;Roques Blanques;2.106573;42.500961
+66027_5080_00003;3;;Rue Laurent Delcasso;66210;66027;La Cabanasse;;;2.113634;42.500639
+66027_5080_00004;4;;Rue Laurent Delcasso;66210;66027;La Cabanasse;;;2.11336;42.500668
+66027_5080_00010;10;;Rue Laurent Delcasso;66210;66027;La Cabanasse;;;2.113352;42.500573
+66027_3305_00010;10;;Route de Font Romeu;66210;66027;La Cabanasse;;;2.112287;42.511868
+66027_xt0c05_00011;11;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.116888;42.500987
+66027_zflhln_00003;3;;Route Nationale;66210;66027;La Cabanasse;;;2.123583;42.507144
+66027_zflhln_00005;5;;Route Nationale;66210;66027;La Cabanasse;;;2.11967;42.507102
+66027_zflhln_00011;11;;Route Nationale;66210;66027;La Cabanasse;;;2.116429;42.507308
+66027_7y8a5t_00003;3;;Voie Royale;66210;66027;La Cabanasse;;;2.116258;42.509119
+66027_7y8a5t_00019;19;;Voie Royale;66210;66027;La Cabanasse;;;2.11458;42.510193
+66027_08pnem_00013;13;;Cami Ramadet;66210;66027;La Cabanasse;;;2.111763;42.508434
+66027_krab8p_00021;21;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.109264;42.501735
+66027_0051_00016;16;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.11527;42.504243
+66027_0051_00026;26;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.114517;42.504411
+66027_0057_00006;6;;Impasse des Cascades;66210;66027;La Cabanasse;;Résidence de la Têt;2.118003;42.500851
+66027_0057_00011;11;;Impasse des Cascades;66210;66027;La Cabanasse;;Lotissement Plein Soleil;2.117886;42.500708
+66027_0059_00012;12;;Chemin de la Calme;66210;66027;La Cabanasse;;Roques Blanques;2.107323;42.50178
+66027_0059_00021;21;;Chemin de la Calme;66210;66027;La Cabanasse;;Roques Blanques;2.106956;42.501834
+66027_0052_00010;10;;Impasse des Cerfs;66210;66027;La Cabanasse;;lotissement les marmottes;2.114645;42.50381
+66027_0064_00002;2;;Route d’Andorre;66210;66027;La Cabanasse;;;2.115026;42.507098
+66027_4040_00002;2;;Avenue du Haut Conflent;66210;66027;La Cabanasse;;;2.119561;42.505538
+66027_4040_00006;6;;Avenue du Haut Conflent;66210;66027;La Cabanasse;;;2.119102;42.506298
+66027_4040_00011_bis;11;bis;Avenue du Haut Conflent;66210;66027;La Cabanasse;;;2.117908;42.504925
+66027_a015_00003;3;;Lotissement Fauveau;66210;66027;La Cabanasse;;;2.113041;42.502715
+66027_a015_00006;6;;Lotissement Fauveau;66210;66027;La Cabanasse;;;2.112982;42.503263
+66027_a015_00011;11;;Lotissement Fauveau;66210;66027;La Cabanasse;;;2.112408;42.503646
+66027_a004_00009;9;;Lotissement Boure;66210;66027;La Cabanasse;;;2.111455;42.501414
+66027_a004_00014;14;;Lotissement Boure;66210;66027;La Cabanasse;;;2.111599;42.501802
+66027_a038_00014;14;;Lotissement Patau;66210;66027;La Cabanasse;;La PERCHE;2.090638;42.49741
+66027_5140_00003;3;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.112823;42.500404
+66027_5140_00011;11;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.113167;42.500409
+66027_5140_00015;15;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.1135;42.500469
+66027_5140_00020;20;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.114042;42.500472
+66027_5140_00033;33;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.114783;42.50071
+66027_3331_00010;10;;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.12295;42.506112
+66027_3331_00016;16;;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.123823;42.506008
+66027_3331_00010_bis;10;bis;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.123574;42.505877
+66027_4600_00001;1;;Rue du Jardo;66210;66027;La Cabanasse;;;2.116431;42.501678
+66027_4600_00004;4;;Rue du Jardo;66210;66027;La Cabanasse;;;2.116559;42.501183
+66027_7260_00004;4;;Rue de la Poste;66210;66027;La Cabanasse;;;2.115325;42.50149
+66027_7260_00010;10;;Rue de la Poste;66210;66027;La Cabanasse;;;2.114586;42.501459
+66027_7260_00013;13;;Rue de la Poste;66210;66027;La Cabanasse;;;2.114216;42.50122
+66027_8030_00006;6;;Chemin Saint Jean;66210;66027;La Cabanasse;;;2.115668;42.503632
+66027_8030_00012;12;;Chemin Saint Jean;66210;66027;La Cabanasse;;;2.115032;42.503498
+66027_8030_00014;14;;Chemin Saint Jean;66210;66027;La Cabanasse;;;2.114888;42.50344
+66027_8030_00020;20;;Chemin Saint Jean;66210;66027;La Cabanasse;;;2.114124;42.503119
+66027_a036_00009;9;;Lotissement les Melezes;66210;66027;La Cabanasse;;;2.107559;42.501599
+66027_1600_00001;1;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.111243;42.50072
+66027_1600_00008;8;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.110291;42.500973
+66027_1600_00012;12;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.106349;42.500849
+66027_1600_00017;17;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.105691;42.500605
+66027_1600_00020;20;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.105167;42.500944
+66027_1600_00008_bis;8;bis;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.11043;42.501045
+66027_6250_00001;1;;Rue du Moulin;66210;66027;La Cabanasse;;Las Moulines;2.119484;42.50398
+66027_6250_00005;5;;Rue du Moulin;66210;66027;La Cabanasse;;Las Moulines;2.120191;42.503637
+66027_6250_00009;9;;Rue du Moulin;66210;66027;La Cabanasse;;Las Moulines;2.120567;42.503211
+66027_0034_00001;1;;Place de la Salle des Fetes;66210;66027;La Cabanasse;;;2.112379;42.500798
+66027_a032_00001;1;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.104425;42.501416
+66027_a032_00018;18;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.104556;42.501856
+66027_a032_00020;20;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.10436;42.502005
+66027_a032_00028;28;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.103599;42.50167
+66027_6540_00014;14;;Rue des Narcisses;66210;66027;La Cabanasse;;;2.103429;42.500035
+66027_4780_00003;3;;Rue Joliot Curie;66210;66027;La Cabanasse;;;2.112853;42.500999
+66027_9390_00017;17;;Cami de la Vibra;66210;66027;La Cabanasse;;;2.11054;42.505936
+66027_9310_00000;0;;Traverse Vauban;66210;66027;La Cabanasse;;;2.121278;42.506311
+66027_8400_00002;2;;Impasse des Sorbiers;66210;66027;La Cabanasse;;;2.113727;42.510487
+66027_8705_00006;6;;Rue des Tilleuls;66210;66027;La Cabanasse;;;2.116227;42.503376
+66027_8115_00002;2;;Rue de la Secherie;66210;66027;La Cabanasse;;;2.114131;42.500949
+66027_7305_00004;4;;Rue Professeur Jacob;66210;66027;La Cabanasse;;;2.11343;42.506949
+66027_0064_00010;10;;Route d’Andorre;66210;66027;La Cabanasse;;La PERCHE;2.093598;42.498408
+66027_0064_00018;18;;Route d’Andorre;66210;66027;La Cabanasse;;La PERCHE;2.092047;42.496507
+66027_0058_00020;20;;Impasse de la Source;66210;66027;La Cabanasse;;Résidence de la Têt;2.117649;42.500256
+66027_0061_00011;11;;Impasse du Cambre;66210;66027;La Cabanasse;;Roques Blanques;2.106691;42.501194
+66027_0053_00003;3;;Route de Bolquère;66210;66027;La Cabanasse;;La PERCHE;2.090758;42.497935
+66027_0053_00008;8;;Route de Bolquère;66210;66027;La Cabanasse;;La PERCHE;2.090558;42.498183
+66027_0055_00011;11;;Impasse des Faons;66210;66027;La Cabanasse;;;2.113746;42.504645
+66027_0055_00003_bis;3;bis;Impasse des Faons;66210;66027;La Cabanasse;;;2.113162;42.504075
+66027_0054_00001;1;;Chemin des Randonneurs;66210;66027;La Cabanasse;;La PERCHE;2.090652;42.498381
+66027_0056_00004;4;;Rue Del Riu;66210;66027;La Cabanasse;;Résidence de la Têt;2.118522;42.501041
+66027_0065_00006;6;;Impasse des Voyageurs;66210;66027;La Cabanasse;;La PERCHE;2.093285;42.496459
+66027_0062_00001;1;;Impasse des Noisetiers;66210;66027;La Cabanasse;;;2.113291;42.511003
+66027_0062_00002;2;;Impasse des Noisetiers;66210;66027;La Cabanasse;;;2.113679;42.510896
+66027_5080_00008;8;;Rue Laurent Delcasso;66210;66027;La Cabanasse;;;2.113191;42.500656
+66027_3305_00002;2;;Route de Font Romeu;66210;66027;La Cabanasse;;;2.115582;42.507765
+66027_3305_00006;6;;Route de Font Romeu;66210;66027;La Cabanasse;;;2.114854;42.509244
+66027_3305_00007;7;;Route de Font Romeu;66210;66027;La Cabanasse;;;2.114358;42.509318
+66027_4040_00011;11;;Avenue du Haut Conflent;66210;66027;La Cabanasse;;;2.117329;42.504699
+66027_a015_00002;2;;Lotissement Fauveau;66210;66027;La Cabanasse;;;2.113551;42.502945
+66027_a004_00010;10;;Lotissement Boure;66210;66027;La Cabanasse;;;2.111896;42.501771
+66027_a004_00024;24;;Lotissement Boure;66210;66027;La Cabanasse;;;2.110519;42.501684
+66027_a004_00040;40;;Lotissement Boure;66210;66027;La Cabanasse;;;2.110974;42.50119
+66027_a038_00009;9;;Lotissement Patau;66210;66027;La Cabanasse;;;2.091616;42.496983
+66027_a038_00015_bis;15;bis;Lotissement Patau;66210;66027;La Cabanasse;;;2.09148;42.497233
+66027_5140_00002;2;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.112649;42.500278
+66027_5140_00010;10;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.113215;42.500224
+66027_5140_00025;25;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.114391;42.500667
+66027_5140_00028;28;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.114438;42.500575
+66027_5140_00040;40;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.115492;42.50083
+66027_3331_00011;11;;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.123202;42.5065
+66027_3331_00014;14;;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.123671;42.506201
+66027_3331_00006_bis;6;bis;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.122461;42.50576
+66027_7260_00003;3;;Rue de la Poste;66210;66027;La Cabanasse;;;2.115209;42.50136
+66027_8030_00001;1;;Chemin Saint Jean;66210;66027;La Cabanasse;;;2.116226;42.503544
+66027_a036_00001;1;;Lotissement les Melezes;66210;66027;La Cabanasse;;lotissement les Mélèzes;2.107569;42.501057
+66027_a036_00005;5;;Lotissement les Melezes;66210;66027;La Cabanasse;;;2.107268;42.501398
+66027_1600_00002;2;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.111867;42.500852
+66027_1600_00009;9;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.107566;42.500621
+66027_6250_00008;8;;Rue du Moulin;66210;66027;La Cabanasse;;Las Moulines;2.119431;42.503531
+66027_6250_00003_bis;3;bis;Rue du Moulin;66210;66027;La Cabanasse;;Las Moulines;2.120042;42.503682
+66027_0034_00004;4;;Place de la Salle des Fetes;66210;66027;La Cabanasse;;;2.112971;42.500477
+66027_a032_00012;12;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.10478;42.501388
+66027_a032_00036;36;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.104108;42.501089
+66027_6540_00001;1;;Rue des Narcisses;66210;66027;La Cabanasse;;;2.105207;42.500385
+66027_6540_00006;6;;Rue des Narcisses;66210;66027;La Cabanasse;;;2.104238;42.500433
+66027_9390_00001;1;;Cami de la Vibra;66210;66027;La Cabanasse;;;2.112073;42.506104
+66027_9390_00008;8;;Cami de la Vibra;66210;66027;La Cabanasse;;;2.110419;42.506425
+66027_9310_00003;3;;Traverse Vauban;66210;66027;La Cabanasse;;;2.1205;42.505771
+66027_a016_00004;4;;Lotissement Las Fustes;66210;66027;La Cabanasse;;;2.102261;42.501088
+66027_8705_00001;1;;Rue des Tilleuls;66210;66027;La Cabanasse;;;2.115707;42.502788
+66027_8705_00004;4;;Rue des Tilleuls;66210;66027;La Cabanasse;;;2.11582;42.503106
+66027_7305_00006;6;;Rue Professeur Jacob;66210;66027;La Cabanasse;;;2.113907;42.507289
+66027_xt0c05_00004;4;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.115374;42.500502
+66027_xt0c05_00007;7;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.116391;42.500839
+66027_3331_00004;4;;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.12225;42.505943
+66027_3331_00008;8;;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.122693;42.506088
+66027_3331_00012;12;;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.123319;42.506132
+66027_3331_00013;13;;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.123491;42.506688
+66027_8030_00003;3;;Chemin Saint Jean;66210;66027;La Cabanasse;;;2.115834;42.503506
+66027_8030_00016;16;;Chemin Saint Jean;66210;66027;La Cabanasse;;;2.114694;42.503371
+66027_8030_00018;18;;Chemin Saint Jean;66210;66027;La Cabanasse;;;2.114303;42.503249
+66027_1600_00004;4;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.111547;42.500897
+66027_1600_00026;26;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.09636;42.498788
+66027_1600_00016_bis;16;bis;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.105119;42.501649
+66027_6250_00006;6;;Rue du Moulin;66210;66027;La Cabanasse;;Las Moulines;2.11936;42.50361
+66027_6250_00007;7;;Rue du Moulin;66210;66027;La Cabanasse;;Las Moulines;2.120244;42.503601
+66027_6250_00001_bis;1;bis;Rue du Moulin;66210;66027;La Cabanasse;;Las Moulines;2.119608;42.505181
+66027_0034_00003;3;;Place de la Salle des Fetes;66210;66027;La Cabanasse;;;2.112977;42.50054
+66027_a032_00006;6;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.105035;42.501086
+66027_a032_00008;8;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.105073;42.501227
+66027_a032_00014;14;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.10475;42.501525
+66027_a032_00022;22;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.104142;42.501975
+66027_a032_00030;30;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.103716;42.501544
+66027_6540_00003;3;;Rue des Narcisses;66210;66027;La Cabanasse;;;2.105015;42.500285
+66027_6540_00004;4;;Rue des Narcisses;66210;66027;La Cabanasse;;;2.104628;42.500427
+66027_6540_00008;8;;Rue des Narcisses;66210;66027;La Cabanasse;;;2.103936;42.500293
+66027_4780_00009;9;;Rue Joliot Curie;66210;66027;La Cabanasse;;;2.113563;42.500876
+66027_9390_00002;2;;Cami de la Vibra;66210;66027;La Cabanasse;;;2.111842;42.506363
+66027_5500_00002;2;;Rue Moffre;66210;66027;La Cabanasse;;;2.11439;42.502446
+66027_5500_00006;6;;Rue Moffre;66210;66027;La Cabanasse;;;2.112128;42.502443
+66027_9310_00002_bis;2;bis;Traverse Vauban;66210;66027;La Cabanasse;;;2.119941;42.505046
+66027_8400_00003;3;;Impasse des Sorbiers;66210;66027;La Cabanasse;;;2.114008;42.509897
+66027_a016_00002;2;;Lotissement Las Fustes;66210;66027;La Cabanasse;;;2.102866;42.501112
+66027_8705_00002;2;;Rue des Tilleuls;66210;66027;La Cabanasse;;;2.115826;42.503259
+66027_8705_00003;3;;Rue des Tilleuls;66210;66027;La Cabanasse;;;2.115353;42.503073
+66027_8115_00001;1;;Rue de la Secherie;66210;66027;La Cabanasse;;;2.114212;42.500667
+66027_xt0c05_00008;8;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.115592;42.500516
+66027_3331_00009;9;;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.122819;42.506402
+66027_4600_00003;3;;Rue du Jardo;66210;66027;La Cabanasse;;;2.116592;42.50157
+66027_7260_00002;2;;Rue de la Poste;66210;66027;La Cabanasse;;;2.115534;42.501638
+66027_a036_00003;3;;Lotissement les Melezes;66210;66027;La Cabanasse;;;2.107475;42.501282
+66027_a036_00007;7;;Lotissement les Melezes;66210;66027;La Cabanasse;;;2.1074;42.501541
+66027_a036_00013;13;;Lotissement les Melezes;66210;66027;La Cabanasse;;;2.107843;42.501663
+66027_1600_00018;18;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.10538;42.500836
+66027_1600_00022;22;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.104996;42.500867
+66027_6250_00003;3;;Rue du Moulin;66210;66027;La Cabanasse;;Las Moulines;2.119906;42.503555
+66027_a032_00002;2;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.104714;42.500932
+66027_4780_00002;2;;Rue Joliot Curie;66210;66027;La Cabanasse;;;2.112188;42.500853
+66027_4780_00005;5;;Rue Joliot Curie;66210;66027;La Cabanasse;;;2.113144;42.500969
+66027_9390_00011;11;;Cami de la Vibra;66210;66027;La Cabanasse;;;2.111331;42.505932
+66027_9390_00013;13;;Cami de la Vibra;66210;66027;La Cabanasse;;;2.11109;42.505907
+66027_9310_00001;1;;Traverse Vauban;66210;66027;La Cabanasse;;;2.120081;42.505648
+66027_9310_00002;2;;Traverse Vauban;66210;66027;La Cabanasse;;;2.119675;42.505403
+66027_9310_00007;7;;Traverse Vauban;66210;66027;La Cabanasse;;;2.121005;42.506045
+66027_a016_00003;3;;Lotissement Las Fustes;66210;66027;La Cabanasse;;;2.102594;42.501315
+66027_7740_00004;4;;Rue du Ribéral;66210;66027;La Cabanasse;;;2.115695;42.499917
+66027_7305_00008;8;;Rue Professeur Jacob;66210;66027;La Cabanasse;;;2.114356;42.50726
+66027_xt0c05_00012;12;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.116154;42.500579
+66027_xt0c05_00019;19;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.117731;42.501456
+66027_xt0c05_00020;20;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.120129;42.501814
+66027_xt0c05_00028;28;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.122501;42.502425
+66027_7y8a5t_00017;17;;Voie Royale;66210;66027;La Cabanasse;;;2.114708;42.509879
+66027_0frse0_00003_bis;3;bis;Avenue Ingenieur Drogue;66210;66027;La Cabanasse;;;2.111376;42.50005
+66027_08pnem_00007;7;;Cami Ramadet;66210;66027;La Cabanasse;;;2.111356;42.509608
+66027_08pnem_00003_bis;3;bis;Cami Ramadet;66210;66027;La Cabanasse;;;2.112132;42.51003
+66027_krab8p_00005;5;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.109179;42.501225
+66027_krab8p_00009;9;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.109211;42.501495
+66027_krab8p_00016;16;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.108331;42.501763
+66027_krab8p_00017;17;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.108538;42.501746
+66027_0051_00003;3;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.115412;42.503914
+66027_0051_00006;6;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.115873;42.504059
+66027_0059_00004;4;;Chemin de la Calme;66210;66027;La Cabanasse;;Roques Blanques;2.106936;42.501114
+66027_0059_00006;6;;Chemin de la Calme;66210;66027;La Cabanasse;;Roques Blanques;2.106884;42.501247
+66027_0064_00007;7;;Route d’Andorre;66210;66027;La Cabanasse;;La PERCHE;2.093686;42.496769
+66027_0053_00006;6;;Route de Bolquère;66210;66027;La Cabanasse;;La PERCHE;2.091064;42.49798
+66027_0055_00007;7;;Impasse des Faons;66210;66027;La Cabanasse;;;2.11338;42.504523
+66027_0054_00007;7;;Chemin des Randonneurs;66210;66027;La Cabanasse;;La PERCHE;2.091346;42.4987
+66027_0060_00009;9;;Impasse de l’Orri;66210;66027;La Cabanasse;;Roques Blanques;2.106505;42.50094
+66027_0065_00004;4;;Impasse des Voyageurs;66210;66027;La Cabanasse;;La PERCHE;2.092979;42.496363
+66027_3305_00003;3;;Route de Font Romeu;66210;66027;La Cabanasse;;;2.114733;42.508697
+66027_3305_00011;11;;Route de Font Romeu;66210;66027;La Cabanasse;;;2.11412;42.5096
+66027_a015_00007;7;;Lotissement Fauveau;66210;66027;La Cabanasse;;;2.112694;42.50322
+66027_a015_00010;10;;Lotissement Fauveau;66210;66027;La Cabanasse;;;2.112932;42.503736
+66027_a004_00001;1;;Lotissement Boure;66210;66027;La Cabanasse;;;2.110438;42.501411
+66027_a004_00002;2;;Lotissement Boure;66210;66027;La Cabanasse;;;2.112189;42.501349
+66027_a004_00006;6;;Lotissement Boure;66210;66027;La Cabanasse;;;2.112264;42.501702
+66027_a004_00016;16;;Lotissement Boure;66210;66027;La Cabanasse;;;2.111512;42.501739
+66027_a004_00022;22;;Lotissement Boure;66210;66027;La Cabanasse;;;2.110759;42.501689
+66027_a004_00030;30;;Lotissement Boure;66210;66027;La Cabanasse;;;2.110103;42.501635
+66027_a004_00032;32;;Lotissement Boure;66210;66027;La Cabanasse;;;2.109939;42.501601
+66027_a004_00038;38;;Lotissement Boure;66210;66027;La Cabanasse;;;2.110619;42.50126
+66027_a038_00001;1;;Lotissement Patau;66210;66027;La Cabanasse;;;2.09091;42.49731
+66027_a038_00005;5;;Lotissement Patau;66210;66027;La Cabanasse;;;2.091199;42.496984
+66027_a038_00006;6;;Lotissement Patau;66210;66027;La Cabanasse;;La PERCHE;2.091861;42.497341
+66027_a038_00020;20;;Lotissement Patau;66210;66027;La Cabanasse;;La PERCHE;2.090209;42.497153
+66027_a038_00028;28;;Lotissement Patau;66210;66027;La Cabanasse;;La PERCHE;2.090913;42.49654
+66027_a038_00030;30;;Lotissement Patau;66210;66027;La Cabanasse;;La PERCHE;2.091148;42.496715
+66027_a038_00006_bis;6;bis;Lotissement Patau;66210;66027;La Cabanasse;;La PERCHE;2.091835;42.497479
+66027_5140_00014;14;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.113587;42.500364
+66027_5140_00024;24;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.114269;42.500521
+66027_5140_00029;29;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.114631;42.500661
+66027_5140_00032;32;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.114832;42.500567
+66027_5140_00044;44;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.115835;42.501027
+66027_3331_00001;1;;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.121866;42.50623
+66027_3331_00002;2;;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.121905;42.506002
+66027_4600_00005;5;;Rue du Jardo;66210;66027;La Cabanasse;;;2.116788;42.501301
+66027_7260_00008;8;;Rue de la Poste;66210;66027;La Cabanasse;;;2.114786;42.501507
+66027_a036_00004;4;;Lotissement les Melezes;66210;66027;La Cabanasse;;;2.107781;42.50127
+66027_1600_00013;13;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.106097;42.500677
+66027_1600_00021;21;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.104315;42.500699
+66027_1600_00023;23;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.103525;42.500844
+66027_1600_00009_bis;9;bis;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.107173;42.500566
+66027_7020_00014_ter;14;ter;Place Paul Cot;66210;66027;La Cabanasse;;;2.113748;42.500392
+66027_6250_00004;4;;Rue du Moulin;66210;66027;La Cabanasse;;Las Moulines;2.119114;42.503717
+66027_a032_00010;10;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Artigues;2.104988;42.50137
+66027_a032_00026;26;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.103789;42.501804
+66027_6540_00012;12;;Rue des Narcisses;66210;66027;La Cabanasse;;;2.103628;42.500307
+66027_4780_00004;4;;Rue Joliot Curie;66210;66027;La Cabanasse;;;2.112746;42.500846
+66027_4780_00011;11;;Rue Joliot Curie;66210;66027;La Cabanasse;;;2.113867;42.500917
+66027_9390_00006;6;;Cami de la Vibra;66210;66027;La Cabanasse;;;2.110902;42.506243
+66027_9390_00015;15;;Cami de la Vibra;66210;66027;La Cabanasse;;;2.110875;42.505875
+66027_5500_00007;7;;Rue Moffre;66210;66027;La Cabanasse;;;2.112074;42.502193
+66027_8400_00001;1;;Impasse des Sorbiers;66210;66027;La Cabanasse;;;2.11358;42.509781
+66027_8400_00005;5;;Impasse des Sorbiers;66210;66027;La Cabanasse;;;2.113023;42.510095
+66027_7740_00002;2;;Rue du Ribéral;66210;66027;La Cabanasse;;;2.115657;42.500147
+66027_xt0c05_00015;15;;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.117261;42.501303
+66027_xt0c05_00017_bis;17;bis;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.117051;42.501556
+66027_xt0c05_00015_bis;15;bis;Avenue Ingenieur Gisclard;66210;66027;La Cabanasse;;;2.117154;42.501486
+66027_7y8a5t_00001;1;;Voie Royale;66210;66027;La Cabanasse;;;2.116437;42.509031
+66027_7y8a5t_00011;11;;Voie Royale;66210;66027;La Cabanasse;;;2.115654;42.509482
+66027_0frse0_00005;5;;Avenue Ingenieur Drogue;66210;66027;La Cabanasse;;;2.111631;42.500142
+66027_08pnem_00001_bis;1;bis;Cami Ramadet;66210;66027;La Cabanasse;;;2.112585;42.510401
+66027_krab8p_00001;1;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.109899;42.501169
+66027_krab8p_00012;12;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.108724;42.501338
+66027_krab8p_00013;13;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.10856;42.501386
+66027_krab8p_00020;20;;lotissement les Artigues;66210;66027;La Cabanasse;;Lotissement les Artigues;2.109061;42.501729
+66027_0051_00007;7;;Rue des Biches;66210;66027;La Cabanasse;;lotissement les marmottes;2.114665;42.504234
+66027_0052_00002;2;;Impasse des Cerfs;66210;66027;La Cabanasse;;lotissement les marmottes;2.115086;42.503986
+66027_0052_00003;3;;Impasse des Cerfs;66210;66027;La Cabanasse;;lotissement les marmottes;2.115083;42.503845
+66027_0052_00006;6;;Impasse des Cerfs;66210;66027;La Cabanasse;;lotissement les marmottes;2.114829;42.503954
+66027_0052_00007;7;;Impasse des Cerfs;66210;66027;La Cabanasse;;lotissement les marmottes;2.114861;42.50376
+66027_0052_00012;12;;Impasse des Cerfs;66210;66027;La Cabanasse;;lotissement les marmottes;2.11437;42.503757
+66027_0064_00003;3;;Route d’Andorre;66210;66027;La Cabanasse;;;2.114698;42.506694
+66027_0064_00006;6;;Route d’Andorre;66210;66027;La Cabanasse;;;2.095286;42.499565
+66027_0064_00012;12;;Route d’Andorre;66210;66027;La Cabanasse;;La PERCHE;2.094035;42.497461
+66027_0058_00013;13;;Impasse de la Source;66210;66027;La Cabanasse;;Résidence de la Têt;2.117937;42.500433
+66027_0061_00017;17;;Impasse du Cambre;66210;66027;La Cabanasse;;Roques Blanques;2.106488;42.501189
+66027_0053_00002;2;;Route de Bolquère;66210;66027;La Cabanasse;;La PERCHE;2.092847;42.496922
+66027_0055_00003;3;;Impasse des Faons;66210;66027;La Cabanasse;;;2.113539;42.503999
+66027_0055_00008;8;;Impasse des Faons;66210;66027;La Cabanasse;;;2.1134;42.50422
+66027_0055_00012;12;;Impasse des Faons;66210;66027;La Cabanasse;;;2.113989;42.504542
+66027_0056_00003;3;;Rue Del Riu;66210;66027;La Cabanasse;;Résidence de la Têt;2.118375;42.501173
+66027_3305_00017;17;;Route de Font Romeu;66210;66027;La Cabanasse;;;2.111895;42.511641
+66027_3305_00019;19;;Route de Font Romeu;66210;66027;La Cabanasse;;;2.111788;42.511235
+66027_4040_00003;3;;Avenue du Haut Conflent;66210;66027;La Cabanasse;;;2.116418;42.503235
+66027_4040_00007;7;;Avenue du Haut Conflent;66210;66027;La Cabanasse;;;2.116632;42.50386
+66027_4040_00010;10;;Avenue du Haut Conflent;66210;66027;La Cabanasse;;;2.12062;42.506226
+66027_4040_00690;690;;Avenue du Haut Conflent;66210;66027;La Cabanasse;;Résidence des Neiges;2.119799;42.506648
+66027_a004_00005;5;;Lotissement Boure;66210;66027;La Cabanasse;;;2.110972;42.501393
+66027_a038_00002;2;;Lotissement Patau;66210;66027;La Cabanasse;;La PERCHE;2.092247;42.49721
+66027_a038_00010;10;;Lotissement Patau;66210;66027;La Cabanasse;;La PERCHE;2.091364;42.49746
+66027_a038_00013;13;;Lotissement Patau;66210;66027;La Cabanasse;;;2.092025;42.497158
+66027_a038_00018;18;;Lotissement Patau;66210;66027;La Cabanasse;;La PERCHE;2.089832;42.497392
+66027_5140_00006;6;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.112975;42.500273
+66027_5140_00007;7;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.112941;42.500381
+66027_5140_00018;18;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.113996;42.500423
+66027_5140_00021;21;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.113834;42.50052
+66027_5140_00036;36;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.115222;42.500682
+66027_5140_00037;37;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.114976;42.500707
+66027_5140_00041;41;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.115229;42.500879
+66027_5140_00046;46;;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.115992;42.501173
+66027_5140_00043_bis;43;bis;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.115402;42.501087
+66027_5140_00023_ter;23;ter;Avenue Ingenieur Lax;66210;66027;La Cabanasse;;;2.114141;42.500764
+66027_3331_00006;6;;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.122399;42.506063
+66027_3331_00007;7;;Rue Frank Haviland;66210;66027;La Cabanasse;;;2.122511;42.506228
+66027_8030_00004;4;;Chemin Saint Jean;66210;66027;La Cabanasse;;;2.115828;42.503678
+66027_1600_00016;16;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.105743;42.501117
+66027_1600_00024;24;;Avenue de Cerdagne;66210;66027;La Cabanasse;;;2.103571;42.501057
+66027_a032_00004;4;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.104748;42.501099
+66027_a032_00005;5;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.104074;42.50159
+66027_a032_00034;34;;Lotissement les Lupins;66210;66027;La Cabanasse;;Lotissement les Lupins;2.103956;42.501226
+66027_6540_00002;2;;Rue des Narcisses;66210;66027;La Cabanasse;;;2.105061;42.500538
+66027_6540_00005;5;;Rue des Narcisses;66210;66027;La Cabanasse;;;2.104678;42.500225
+66027_4780_00007;7;;Rue Joliot Curie;66210;66027;La Cabanasse;;;2.113396;42.500924
+66027_4780_00008;8;;Rue Joliot Curie;66210;66027;La Cabanasse;;;2.113057;42.500832
+66027_9390_00009;9;;Cami de la Vibra;66210;66027;La Cabanasse;;;2.11153;42.50598
+66027_5500_00003;3;;Rue Moffre;66210;66027;La Cabanasse;;;2.112599;42.502214
+66027_5500_00004;4;;Rue Moffre;66210;66027;La Cabanasse;;;2.113643;42.502451
+66027_9310_00005;5;;Traverse Vauban;66210;66027;La Cabanasse;;;2.12068;42.505861
+66027_a016_00001;1;;Lotissement Las Fustes;66210;66027;La Cabanasse;;;2.102907;42.500882
+66027_a016_00005;5;;Lotissement Las Fustes;66210;66027;La Cabanasse;;;2.102518;42.500928

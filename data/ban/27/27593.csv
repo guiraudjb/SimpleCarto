@@ -1,0 +1,779 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+27593_0063_00009;9;;Rue du Vent d’Autan;27370;27593;Saint-Pierre-des-Fleurs;;;0.963887;49.253428
+27593_0063_00013;13;;Rue du Vent d’Autan;27370;27593;Saint-Pierre-des-Fleurs;;;0.964145;49.253005
+27593_0007_00012;12;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.964478;49.250789
+27593_0007_00015;15;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.964304;49.250695
+27593_0007_00022;22;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.963455;49.251125
+27593_0007_00040;40;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.960619;49.250865
+27593_0007_00050;50;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.959511;49.25058
+27593_0007_00073;73;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.956787;49.249634
+27593_0045_00005;5;;Allee des Prunus;27370;27593;Saint-Pierre-des-Fleurs;;;0.967831;49.251822
+27593_0022_00002;2;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.960986;49.247727
+27593_0022_00006;6;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.960914;49.247571
+27593_0022_00022;22;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.957617;49.248277
+27593_0022_00024;24;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.956776;49.248009
+27593_0022_00026;26;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.956924;49.247921
+27593_ql7jlm_00011;11;;impasse de la vieille côte;27370;27593;Saint-Pierre-des-Fleurs;;;0.964494;49.246579
+27593_0007_00017;17;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.963863;49.250741
+27593_0007_00048;48;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.959852;49.250702
+27593_0007_00062;62;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.958081;49.249857
+27593_0007_00070;70;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.95718;49.249711
+27593_0007_00081;81;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.955798;49.250506
+27593_0007_00104;104;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.952732;49.249426
+27593_0007_00113;113;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.952539;49.248678
+27593_0007_00093_bis;93;bis;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.954376;49.24911
+27593_0022_00004;4;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.960989;49.247659
+27593_0022_00008;8;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.960871;49.247685
+27593_0022_00014;14;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.959317;49.247492
+27593_ql7jlm_00001;1;;impasse de la vieille côte;27370;27593;Saint-Pierre-des-Fleurs;;;0.963908;49.248246
+27593_0068_00002;2;;rue des cèdres;27370;27593;Saint-Pierre-des-Fleurs;;;0.956609;49.250168
+27593_0068_00004;4;;rue des cèdres;27370;27593;Saint-Pierre-des-Fleurs;;;0.956236;49.250647
+27593_0063_00001;1;;Rue du Vent d’Autan;27370;27593;Saint-Pierre-des-Fleurs;;;0.964451;49.253683
+27593_0063_00003;3;;Rue du Vent d’Autan;27370;27593;Saint-Pierre-des-Fleurs;;;0.964287;49.253578
+27593_0063_00005;5;;Rue du Vent d’Autan;27370;27593;Saint-Pierre-des-Fleurs;;;0.964087;49.253506
+27593_0007_00002;2;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.965817;49.250566
+27593_0007_00010;10;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.964897;49.250726
+27593_0007_00030;30;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.962281;49.25098
+27593_0007_00039;39;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.960865;49.250798
+27593_0007_00047;47;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.959957;49.25059
+27593_0007_00058;58;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.958686;49.250204
+27593_0007_00080;80;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.956008;49.249861
+27593_0068_00003;3;;rue des cèdres;27370;27593;Saint-Pierre-des-Fleurs;;;0.956271;49.250327
+27593_0063_00002;2;;Rue du Vent d’Autan;27370;27593;Saint-Pierre-des-Fleurs;;;0.964872;49.253696
+27593_0007_00008;8;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.965248;49.250667
+27593_0007_00029;29;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.96222;49.250817
+27593_0007_00032;32;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.961743;49.250947
+27593_0007_00035;35;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.96137;49.250809
+27593_0007_00045;45;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.960233;49.25067
+27593_0007_00084;84;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.955496;49.249914
+27593_0007_00097;97;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.953637;49.249549
+27593_0007_00086_bis;86;bis;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.954838;49.249886
+27593_0045_00001;1;;Allee des Prunus;27370;27593;Saint-Pierre-des-Fleurs;;;0.967746;49.251472
+27593_0045_00003;3;;Allee des Prunus;27370;27593;Saint-Pierre-des-Fleurs;;;0.967713;49.251944
+27593_0022_00010;10;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.960063;49.247565
+27593_0022_00012;12;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.959943;49.247546
+27593_0022_00016;16;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.958885;49.247748
+27593_0022_00018;18;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.958228;49.248006
+27593_0007_00091;91;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.954226;49.249709
+27593_0007_00101;101;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.953045;49.249403
+27593_0007_00105;105;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.953026;49.24895
+27593_0007_00123;123;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.952431;49.247763
+27593_0007_00119_bis;119;bis;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.952495;49.248378
+27593_0007_00010_bis;10;bis;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.964694;49.2508
+27593_0022_00003;3;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.960996;49.247679
+27593_0022_00027;27;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.956575;49.247816
+27593_0022_00032;32;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.956692;49.247274
+27593_0022_00036;36;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.957449;49.248007
+27593_0038_00001;1;;Allee des Myosotis;27370;27593;Saint-Pierre-des-Fleurs;;;0.963025;49.252277
+27593_0038_00002;2;;Allee des Myosotis;27370;27593;Saint-Pierre-des-Fleurs;;;0.963025;49.252277
+27593_0038_00006;6;;Allee des Myosotis;27370;27593;Saint-Pierre-des-Fleurs;;;0.963017;49.252026
+27593_0063_00007;7;;Rue du Vent d’Autan;27370;27593;Saint-Pierre-des-Fleurs;;;0.963702;49.253456
+27593_0063_00011;11;;Rue du Vent d’Autan;27370;27593;Saint-Pierre-des-Fleurs;;;0.96407;49.253206
+27593_0007_00006;6;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.965379;49.25064
+27593_0007_00014;14;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.964207;49.250805
+27593_0007_00044;44;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.960161;49.25077
+27593_0007_00075;75;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.956249;49.249701
+27593_0007_00085;85;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.955256;49.249829
+27593_0007_00103;103;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.952764;49.248899
+27593_0007_00125;125;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.952482;49.247515
+27593_0007_00096_bis;96;bis;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.953564;49.249647
+27593_0022_00009;9;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.960063;49.247565
+27593_0022_00013;13;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.959943;49.247546
+27593_0022_00035;35;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.957509;49.247644
+27593_0048_00006;6;;Rue Saint Martin la Corneille;27370;27593;Saint-Pierre-des-Fleurs;;;0.978337;49.249786
+27593_0010_00015;15;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.976283;49.249653
+27593_0010_00017;17;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.976337;49.249577
+27593_0010_00115;115;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.973089;49.251903
+27593_0010_00414;414;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.966735;49.25489
+27593_0010_00416;416;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.966409;49.255042
+27593_0063_00008;8;;Rue du Vent d’Autan;27370;27593;Saint-Pierre-des-Fleurs;;;0.964108;49.253423
+27593_0007_00072;72;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.957085;49.249703
+27593_0007_00083;83;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.955561;49.249831
+27593_0007_00086;86;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.955021;49.250168
+27593_0007_00095;95;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.953759;49.249601
+27593_0007_00115;115;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.952519;49.248481
+27593_0007_00094_bis;94;bis;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.95377;49.249689
+27593_0022_00007;7;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.960871;49.247685
+27593_0022_00023;23;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.957221;49.248157
+27593_0038_00005;5;;Allee des Myosotis;27370;27593;Saint-Pierre-des-Fleurs;;;0.963035;49.25219
+27593_0048_00008;8;;Rue Saint Martin la Corneille;27370;27593;Saint-Pierre-des-Fleurs;;;0.978298;49.249558
+27593_0048_00010;10;;Rue Saint Martin la Corneille;27370;27593;Saint-Pierre-des-Fleurs;;;0.978188;49.24925
+27593_0048_00022;22;;Rue Saint Martin la Corneille;27370;27593;Saint-Pierre-des-Fleurs;;;0.977617;49.248365
+27593_0016_00006_bis;6;bis;Allee des Erables;27370;27593;Saint-Pierre-des-Fleurs;;;0.959504;49.251239
+27593_0068_00006;6;;rue des cèdres;27370;27593;Saint-Pierre-des-Fleurs;;;0.956576;49.250486
+27593_0068_00008;8;;rue des cèdres;27370;27593;Saint-Pierre-des-Fleurs;;;0.957024;49.25013
+27593_0007_00052;52;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.959227;49.250462
+27593_0007_00056;56;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.958992;49.250322
+27593_0007_00061;61;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.958564;49.250001
+27593_0068_00007;7;;rue des cèdres;27370;27593;Saint-Pierre-des-Fleurs;;;0.956678;49.250288
+27593_0063_00006;6;;Rue du Vent d’Autan;27370;27593;Saint-Pierre-des-Fleurs;;;0.964338;49.253505
+27593_0007_00004;4;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.965608;49.250595
+27593_0007_00026;26;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.963029;49.250895
+27593_0007_00057;57;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.958855;49.250155
+27593_0007_00079;79;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.955867;49.249776
+27593_0007_00089;89;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.954883;49.249802
+27593_0007_00093;93;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.954022;49.249658
+27593_0007_00121;121;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.952484;49.247983
+27593_0022_00020;20;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.958187;49.248545
+27593_0007_00119;119;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.952444;49.248147
+27593_0007_00014_bis;14;bis;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.963989;49.250806
+27593_0007_00057_a;57;a;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.958766;49.250111
+27593_0022_00011;11;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.960063;49.247565
+27593_0022_00019;19;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.958434;49.248086
+27593_0022_00029;29;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.955899;49.24767
+27593_0022_00033;33;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.957167;49.247329
+27593_0022_00037;37;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.957845;49.248077
+27593_0038_00009;9;;Allee des Myosotis;27370;27593;Saint-Pierre-des-Fleurs;;;0.963172;49.252007
+27593_0016_00006;6;;Allee des Erables;27370;27593;Saint-Pierre-des-Fleurs;;;0.959382;49.25113
+27593_0007_00060;60;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.958504;49.250104
+27593_0007_00082;82;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.955775;49.249876
+27593_0007_00092;92;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.954528;49.249858
+27593_0007_00094;94;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.95392;49.249721
+27593_0007_00107;107;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.953152;49.248915
+27593_0045_00002;2;;Allee des Prunus;27370;27593;Saint-Pierre-des-Fleurs;;;0.967533;49.251827
+27593_0022_00017;17;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.958345;49.24762
+27593_0022_00039;39;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.958028;49.247429
+27593_0048_00004;4;;Rue Saint Martin la Corneille;27370;27593;Saint-Pierre-des-Fleurs;;;0.978419;49.250155
+27593_0048_00012;12;;Rue Saint Martin la Corneille;27370;27593;Saint-Pierre-des-Fleurs;;;0.978306;49.249423
+27593_0048_00004_a;4;a;Rue Saint Martin la Corneille;27370;27593;Saint-Pierre-des-Fleurs;;;0.978306;49.249423
+27593_0010_00003;3;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.974929;49.249758
+27593_0010_00109;109;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.973451;49.251188
+27593_0010_00410;410;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.967331;49.254614
+27593_0010_00412;412;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.966762;49.25487
+27593_0010_00418;418;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.96615;49.25517
+27593_zb2nwv_00040;40;;La Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.977848;49.24451
+27593_0007_00016;16;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.963676;49.250855
+27593_0007_00024;24;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.963208;49.250889
+27593_0007_00064;64;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.957922;49.249759
+27593_0007_00028;28;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.962909;49.250902
+27593_0007_00034;34;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.961336;49.250936
+27593_0007_00049;49;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.959175;49.250311
+27593_0007_00055;55;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.959023;49.25024
+27593_0007_00068;68;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.957516;49.249691
+27593_0007_00090;90;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.954668;49.249868
+27593_0007_00096;96;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.953619;49.249657
+27593_0007_00099;99;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.953432;49.249517
+27593_0007_00117;117;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.952482;49.248298
+27593_0007_00057_b;57;b;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.958811;49.250133
+27593_0022_00005;5;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.960942;49.247592
+27593_0022_00025;25;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.956494;49.247912
+27593_0007_00108;108;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.952427;49.249252
+27593_0045_00004;4;;Allee des Prunus;27370;27593;Saint-Pierre-des-Fleurs;;;0.967815;49.251943
+27593_0022_00015;15;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.959317;49.247492
+27593_0048_00002;2;;Rue Saint Martin la Corneille;27370;27593;Saint-Pierre-des-Fleurs;;;0.978326;49.250276
+27593_0048_00020;20;;Rue Saint Martin la Corneille;27370;27593;Saint-Pierre-des-Fleurs;;;0.977782;49.248741
+27593_0016_00005;5;;Allee des Erables;27370;27593;Saint-Pierre-des-Fleurs;;;0.959095;49.251139
+27593_0022_00028;28;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.955886;49.247868
+27593_0022_00030;30;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.95595;49.247426
+27593_0022_00031;31;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.95615;49.247265
+27593_0022_00034;34;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.957556;49.247397
+27593_0038_00003;3;;Allee des Myosotis;27370;27593;Saint-Pierre-des-Fleurs;;;0.963025;49.252277
+27593_0038_00004;4;;Allee des Myosotis;27370;27593;Saint-Pierre-des-Fleurs;;;0.963035;49.25219
+27593_0038_00007;7;;Allee des Myosotis;27370;27593;Saint-Pierre-des-Fleurs;;;0.963172;49.252007
+27593_0038_00008;8;;Allee des Myosotis;27370;27593;Saint-Pierre-des-Fleurs;;;0.963172;49.252007
+27593_0016_00007;7;;Allee des Erables;27370;27593;Saint-Pierre-des-Fleurs;;;0.95925;49.251341
+27593_0010_00030;30;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.977032;49.248292
+27593_0010_00099;99;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.97451;49.250709
+27593_0010_00101;101;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.974089;49.251104
+27593_0010_00103;103;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.973833;49.251085
+27593_0010_00111;111;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.973618;49.251285
+27593_0010_00113;113;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.973332;49.251734
+27593_0010_00405;405;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.968333;49.253435
+27593_0010_00419;419;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.966586;49.254854
+27593_0068_00001;1;;rue des cèdres;27370;27593;Saint-Pierre-des-Fleurs;;;0.95674;49.249935
+27593_0068_00005;5;;rue des cèdres;27370;27593;Saint-Pierre-des-Fleurs;;;0.95646;49.250708
+27593_0068_00009;9;;rue des cèdres;27370;27593;Saint-Pierre-des-Fleurs;;;0.957026;49.249708
+27593_0063_00004;4;;Rue du Vent d’Autan;27370;27593;Saint-Pierre-des-Fleurs;;;0.964571;49.253588
+27593_0007_00021;21;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.9634;49.250783
+27593_0007_00088;88;;Route de Brionne;27370;27593;Saint-Pierre-des-Fleurs;;;0.954844;49.249893
+27593_0022_00001;1;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.960976;49.247773
+27593_0022_00021;21;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.957819;49.248561
+27593_0022_00038;38;;Rue des Genetieres;27370;27593;Saint-Pierre-des-Fleurs;;;0.95792;49.247735
+27593_0048_00016;16;;Rue Saint Martin la Corneille;27370;27593;Saint-Pierre-des-Fleurs;;;0.977973;49.248964
+27593_0016_00004;4;;Allee des Erables;27370;27593;Saint-Pierre-des-Fleurs;;;0.958706;49.251276
+27593_0016_00008;8;;Allee des Erables;27370;27593;Saint-Pierre-des-Fleurs;;;0.95897;49.251335
+27593_0010_00002;2;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.974564;49.249774
+27593_0010_00004;4;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.975503;49.249803
+27593_0010_00019;19;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.976766;49.248946
+27593_0010_00021;21;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.976416;49.249391
+27593_0010_00105;105;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.973628;49.251059
+27593_0010_00107;107;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.973419;49.251127
+27593_0010_00117;117;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.972808;49.252056
+27593_0010_00421;421;;Sente aux Drapiers;27370;27593;Saint-Pierre-des-Fleurs;;;0.965017;49.25563
+27593_0062_00007;7;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.965788;49.254793
+27593_0062_00001;1;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.966471;49.254787
+27593_0062_00002;2;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.966659;49.254769
+27593_0062_00010;10;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.965546;49.254316
+27593_0062_00011;11;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.965489;49.254493
+27593_0062_00012;12;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.965278;49.25427
+27593_0062_00021;21;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.964271;49.254237
+27593_0062_00022;22;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.963786;49.253963
+27593_0062_00026;26;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.96334;49.253799
+27593_0062_00028;28;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.962995;49.253665
+27593_0062_00029;29;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.963308;49.253917
+27593_0062_00038;38;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.962179;49.253019
+27593_a002_00002;2;;Residence du Clos des Chenes;27370;27593;Saint-Pierre-des-Fleurs;;;0.964579;49.247817
+27593_a002_00003;3;;Residence du Clos des Chenes;27370;27593;Saint-Pierre-des-Fleurs;;;0.965007;49.247716
+27593_a002_00005;5;;Residence du Clos des Chenes;27370;27593;Saint-Pierre-des-Fleurs;;;0.965548;49.247865
+27593_a002_00006;6;;Residence du Clos des Chenes;27370;27593;Saint-Pierre-des-Fleurs;;;0.965438;49.24764
+27593_a002_00010;10;;Residence du Clos des Chenes;27370;27593;Saint-Pierre-des-Fleurs;;;0.965665;49.247075
+27593_a002_00011;11;;Residence du Clos des Chenes;27370;27593;Saint-Pierre-des-Fleurs;;;0.965487;49.247175
+27593_a002_00012;12;;Residence du Clos des Chenes;27370;27593;Saint-Pierre-des-Fleurs;;;0.965535;49.247263
+27593_a002_00013;13;;Residence du Clos des Chenes;27370;27593;Saint-Pierre-des-Fleurs;;;0.965403;49.247464
+27593_0014_00001;1;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.965983;49.250156
+27593_0014_00002;2;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.965856;49.250207
+27593_0014_00003;3;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.965976;49.250068
+27593_0014_00004;4;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.965853;49.249955
+27593_0014_00010;10;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.965592;49.249134
+27593_0062_00004;4;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.966413;49.254611
+27593_0062_00005;5;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.965935;49.254782
+27593_0062_00009;9;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.965759;49.254729
+27593_0062_00014;14;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.964985;49.254221
+27593_0062_00016;16;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.964512;49.254165
+27593_0062_00017;17;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.965094;49.254518
+27593_0062_00019;19;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.965036;49.25436
+27593_0062_00020;20;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.964002;49.254028
+27593_0062_00023;23;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.963997;49.254158
+27593_0062_00024;24;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.963487;49.253853
+27593_0062_00027;27;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.963551;49.254008
+27593_0062_00031;31;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.963051;49.253821
+27593_0062_00034;34;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.962606;49.253512
+27593_0062_00035;35;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.9625;49.253617
+27593_a002_00001;1;;Residence du Clos des Chenes;27370;27593;Saint-Pierre-des-Fleurs;;;0.96417;49.247738
+27593_a002_00007;7;;Residence du Clos des Chenes;27370;27593;Saint-Pierre-des-Fleurs;;;0.965551;49.247446
+27593_a002_00009;9;;Residence du Clos des Chenes;27370;27593;Saint-Pierre-des-Fleurs;;;0.9657;49.247179
+27593_a002_00014;14;;Residence du Clos des Chenes;27370;27593;Saint-Pierre-des-Fleurs;;;0.965321;49.247613
+27593_0014_00006;6;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.96585;49.249758
+27593_0014_00009;9;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.965846;49.249346
+27593_0062_00003;3;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.966048;49.254561
+27593_0062_00006;6;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.966124;49.254448
+27593_0062_00013;13;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.965321;49.254585
+27593_0062_00030;30;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.962827;49.253583
+27593_0062_00036;36;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.962299;49.253396
+27593_0062_00037;37;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.962174;49.253498
+27593_a002_00004;4;;Residence du Clos des Chenes;27370;27593;Saint-Pierre-des-Fleurs;;;0.96539;49.247845
+27593_0014_00007;7;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.966171;49.249589
+27593_0062_00015;15;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.965164;49.254596
+27593_0062_00018;18;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.964269;49.254107
+27593_0062_00025;25;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.963786;49.254092
+27593_0062_00032;32;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.962769;49.253566
+27593_0062_00033;33;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.962791;49.253724
+27593_0062_00039;39;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.961995;49.253184
+27593_0062_00041;41;;Rue de la Tramontane;27370;27593;Saint-Pierre-des-Fleurs;;;0.962055;49.253033
+27593_a002_00008;8;;Residence du Clos des Chenes;27370;27593;Saint-Pierre-des-Fleurs;;;0.965973;49.247303
+27593_0014_00005;5;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.965974;49.2498
+27593_0014_00008;8;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.965399;49.249457
+27593_0014_00016;16;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.96549;49.248583
+27593_0014_00027;27;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.965859;49.247921
+27593_0014_00040;40;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.977149;49.24462
+27593_0014_00074;74;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.969855;49.244699
+27593_0014_00002_bis;2;bis;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.965854;49.250039
+27593_0013_00002;2;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.958098;49.250538
+27593_0013_00013;13;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.957382;49.251333
+27593_0013_00016;16;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.957747;49.250975
+27593_0013_00018;18;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.957146;49.251266
+27593_0013_00038;38;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.954708;49.251748
+27593_0013_00039;39;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.95444;49.251818
+27593_0013_00041;41;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.954043;49.251816
+27593_0013_00046;46;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.955604;49.251075
+27593_0013_00018_ter;18;ter;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.95638;49.251162
+27593_0041_00005;5;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.965598;49.250056
+27593_0041_00006;6;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.965625;49.250147
+27593_0041_00013;13;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.965169;49.249675
+27593_0041_00020;20;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.964393;49.249201
+27593_0041_00021;21;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.964562;49.249114
+27593_0041_00040;40;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.961791;49.248494
+27593_0014_00011;11;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.966267;49.249073
+27593_0014_00012;12;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.965485;49.24887
+27593_0014_00015;15;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.965606;49.248942
+27593_0014_00033;33;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.966066;49.247554
+27593_0014_00075;75;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.972346;49.244615
+27593_0014_00009_bis;9;bis;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.966352;49.24956
+27593_0013_00017;17;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.957495;49.251177
+27593_0013_00043;43;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.954283;49.251459
+27593_0013_00044;44;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.954961;49.251517
+27593_0013_00045;45;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.955293;49.251283
+27593_0013_00018_bis;18;bis;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.956562;49.251171
+27593_0041_00001;1;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.96618;49.250377
+27593_0041_00002;2;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.965936;49.250416
+27593_0041_00004;4;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.965743;49.250305
+27593_0041_00015;15;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.965059;49.24957
+27593_0041_00017;17;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.964956;49.249474
+27593_0041_00019;19;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.964801;49.249336
+27593_0041_00022;22;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.964265;49.249088
+27593_0041_00023;23;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.964289;49.248911
+27593_0041_00024;24;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.96421;49.24895
+27593_0041_00034;34;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.961667;49.248875
+27593_0041_00036;36;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.961708;49.248748
+27593_0041_00042;42;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.961876;49.248389
+27593_0014_00018;18;;Rue de la Fermanière;27370;27593;Saint-Pierre-des-Fleurs;;;0.965525;49.248382
+27593_0013_00014;14;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.95781;49.251372
+27593_0013_00019;19;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.95701;49.25136
+27593_0013_00020;20;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.956203;49.2511
+27593_0013_00042;42;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.954175;49.251532
+27593_0013_00048;48;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.955263;49.251429
+27593_0013_00049;49;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.955128;49.251533
+27593_0041_00003;3;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.965771;49.25019
+27593_0041_00007;7;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.965551;49.249956
+27593_0041_00011;11;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.965262;49.249797
+27593_0041_00032;32;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.96169;49.248989
+27593_0041_00038;38;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.96175;49.248621
+27593_0013_00040;40;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.954211;49.251879
+27593_0013_00047;47;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.955846;49.251132
+27593_0013_00054;54;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.956226;49.251216
+27593_0013_00064;64;;Rue de l’Epine Rollet;27370;27593;Saint-Pierre-des-Fleurs;;;0.9574;49.25047
+27593_0041_00016;16;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.964646;49.249402
+27593_0041_00025;25;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.964157;49.248761
+27593_0041_00027;27;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.963877;49.248538
+27593_0041_00028;28;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.963737;49.24862
+27593_0041_00030;30;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.961883;49.249016
+27593_0041_00016_a;16;a;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.965053;49.249755
+27593_0041_00016_b;16;b;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.964711;49.249459
+27593_0041_00030_bis;30;bis;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.961819;49.249007
+27593_0011_00003;3;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.966782;49.250734
+27593_0011_00028;28;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.969085;49.252339
+27593_0011_00038;38;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.969804;49.2531
+27593_0011_00041;41;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.969247;49.253478
+27593_0011_00022_ter;22;ter;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.968817;49.251926
+27593_0011_00022_bis;22;bis;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.968549;49.251877
+27593_0011_00007_bis;7;bis;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.967365;49.251139
+27593_0011_00012_bis;12;bis;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.967856;49.251332
+27593_0032_00002;2;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.965703;49.251534
+27593_0032_00003;3;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.965809;49.252086
+27593_0032_00015;15;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.966435;49.25328
+27593_0032_00018;18;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.966347;49.252988
+27593_0041_00032_ter;32;ter;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.961654;49.248917
+27593_0041_00044;44;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.962069;49.248417
+27593_0041_00034_bis;34;bis;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.961688;49.248811
+27593_0011_00005;5;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.96669;49.250762
+27593_0011_00011;11;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.96758;49.251285
+27593_0011_00014;14;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.967849;49.251354
+27593_0011_00016;16;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.967938;49.251394
+27593_0011_00021;21;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.968249;49.251875
+27593_0011_00023;23;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.968835;49.252285
+27593_0011_00037;37;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.969353;49.25294
+27593_0011_00006_bis;6;bis;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.96686;49.250671
+27593_0011_00024_bis;24;bis;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.968916;49.252164
+27593_0032_00001;1;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.965675;49.251837
+27593_0032_00007;7;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.966007;49.252518
+27593_0032_00009;9;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.966094;49.252734
+27593_0032_00017;17;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.966632;49.25353
+27593_0011_00001;1;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.9663;49.250742
+27593_0011_00006;6;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.967156;49.250846
+27593_0011_00008;8;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.967075;49.250822
+27593_0011_00012;12;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.967667;49.251229
+27593_0011_00018;18;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.968192;49.251574
+27593_0011_00025;25;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.968835;49.252285
+27593_0011_00026;26;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.968815;49.25206
+27593_0011_00031;31;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.969155;49.252725
+27593_0011_00032;32;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.969303;49.252569
+27593_0011_00034;34;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.969471;49.252742
+27593_0032_00004;4;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.965727;49.251703
+27593_0032_00005;5;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.965926;49.252327
+27593_0032_00006;6;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.965826;49.251896
+27593_0032_00010;10;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.966008;49.25225
+27593_0032_00011;11;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.966164;49.25291
+27593_0032_00012;12;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.966073;49.252408
+27593_0032_00013;13;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.966258;49.25307
+27593_0032_00014;14;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.966159;49.252603
+27593_0041_00046;46;;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.962119;49.24825
+27593_0041_00030_ter;30;ter;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.961754;49.248998
+27593_0041_00032_bis;32;bis;Route du Neubourg;27370;27593;Saint-Pierre-des-Fleurs;;;0.961646;49.24896
+27593_0011_00004;4;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.966842;49.250625
+27593_0011_00007;7;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.966993;49.25088
+27593_0011_00010;10;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.967319;49.250963
+27593_0011_00020;20;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.968402;49.251722
+27593_0011_00022;22;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.968488;49.251823
+27593_0011_00024;24;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.968905;49.252172
+27593_0011_00036;36;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.969635;49.252922
+27593_0011_00040;40;;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.969949;49.253254
+27593_0011_00026_bis;26;bis;Route d’Elbeuf;27370;27593;Saint-Pierre-des-Fleurs;;;0.969244;49.252142
+27593_0032_00008;8;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.965925;49.252084
+27593_0032_00016;16;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.966243;49.252804
+27593_0032_00019;19;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.966782;49.253686
+27593_0032_00022;22;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.966581;49.253284
+27593_0032_00020;20;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.966444;49.253143
+27593_0032_00023;23;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.967003;49.25409
+27593_0032_00028;28;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.967269;49.253753
+27593_0032_00032;32;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.967451;49.253976
+27593_0034_00007;7;;Rue du Mistral;27370;27593;Saint-Pierre-des-Fleurs;;;0.965076;49.252452
+27593_0033_00009;9;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.963231;49.252857
+27593_0033_00027;27;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.96189;49.252544
+27593_0033_00033;33;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.96113;49.252012
+27593_0033_00038;38;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.96189;49.252375
+27593_0033_00043;43;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.961461;49.252229
+27593_0032_00025;25;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.967133;49.254229
+27593_0032_00034;34;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.967402;49.254265
+27593_0034_00002;2;;Rue du Mistral;27370;27593;Saint-Pierre-des-Fleurs;;;0.96476;49.252407
+27593_0034_00005;5;;Rue du Mistral;27370;27593;Saint-Pierre-des-Fleurs;;;0.965046;49.252343
+27593_0034_00008;8;;Rue du Mistral;27370;27593;Saint-Pierre-des-Fleurs;;;0.964908;49.253875
+27593_0034_00010;10;;Rue du Mistral;27370;27593;Saint-Pierre-des-Fleurs;;;0.964802;49.254007
+27593_0034_00011;11;;Rue du Mistral;27370;27593;Saint-Pierre-des-Fleurs;;;0.965148;49.252705
+27593_0033_00003;3;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.964387;49.252103
+27593_0033_00004;4;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.964424;49.251985
+27593_0033_00018;18;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.963452;49.25258
+27593_0033_00020;20;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.963108;49.252758
+27593_0033_00025;25;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.962994;49.252826
+27593_0033_00036;36;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.962075;49.252507
+27593_0033_00040;40;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.961632;49.25218
+27593_0032_00021;21;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.966908;49.253873
+27593_0032_00030;30;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.967404;49.253872
+27593_0032_00024;24;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.966812;49.253498
+27593_0032_00026;26;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.967134;49.253709
+27593_0032_00027;27;;Rue des Longchamps;27370;27593;Saint-Pierre-des-Fleurs;;;0.967312;49.254367
+27593_0034_00004;4;;Rue du Mistral;27370;27593;Saint-Pierre-des-Fleurs;;;0.964794;49.252533
+27593_0034_00006;6;;Rue du Mistral;27370;27593;Saint-Pierre-des-Fleurs;;;0.964815;49.252648
+27593_0033_00001;1;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.964644;49.252071
+27593_0033_00002;2;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.964659;49.25195
+27593_0033_00006;6;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.964031;49.252038
+27593_0033_00010;10;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.96375;49.252218
+27593_0033_00012;12;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.96375;49.252218
+27593_0033_00014;14;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.963617;49.252388
+27593_0033_00016;16;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.963452;49.25258
+27593_0033_00022;22;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.963108;49.252758
+27593_0033_00024;24;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.963108;49.252758
+27593_0033_00026;26;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.96257;49.252687
+27593_0033_00028;28;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.96257;49.252687
+27593_0033_00029;29;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.961606;49.252328
+27593_0033_00030;30;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.96257;49.252687
+27593_0034_00001;1;;Rue du Mistral;27370;27593;Saint-Pierre-des-Fleurs;;;0.964968;49.252055
+27593_0034_00003;3;;Rue du Mistral;27370;27593;Saint-Pierre-des-Fleurs;;;0.96501;49.252208
+27593_0034_00009;9;;Rue du Mistral;27370;27593;Saint-Pierre-des-Fleurs;;;0.965113;49.252579
+27593_0034_00013;13;;Rue du Mistral;27370;27593;Saint-Pierre-des-Fleurs;;;0.96522;49.252969
+27593_0033_00005;5;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.964112;49.252141
+27593_0033_00007;7;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.963675;49.252484
+27593_0033_00008;8;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.963853;49.252085
+27593_0033_00021;21;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.96317;49.252849
+27593_0033_00023;23;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.962994;49.252826
+27593_0033_00032;32;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.96257;49.252687
+27593_0033_00035;35;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.960744;49.251885
+27593_0033_00005_ter;5;ter;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.963675;49.252484
+27593_0054_00002;2;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.966411;49.250422
+27593_0054_00003;3;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.966934;49.250489
+27593_0033_00044;44;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.961254;49.251933
+27593_0033_00046;46;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.961189;49.251912
+27593_0033_00048;48;;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.960856;49.251841
+27593_0054_00004;4;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.966777;49.250417
+27593_0033_00016_bis;16;bis;Rue de la Mare Saint-pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.963452;49.25258
+27593_0054_00010;10;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.967989;49.249936
+27593_0054_00016;16;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.968889;49.250475
+27593_0054_00018;18;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.969108;49.25046
+27593_0054_00036;36;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.971039;49.250457
+27593_0054_00049;49;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.972963;49.250466
+27593_0054_00056;56;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.974165;49.250316
+27593_0054_00048_bis;48;bis;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.973039;49.25037
+27593_0054_00036_bis;36;bis;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.970883;49.250479
+27593_0054_00014_b;14;b;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.968505;49.250471
+27593_0054_00005_bis;5;bis;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.967755;49.250537
+27593_0043_00004;4;;Sente Potier;27370;27593;Saint-Pierre-des-Fleurs;;;0.960127;49.251959
+27593_0043_00008;8;;Sente Potier;27370;27593;Saint-Pierre-des-Fleurs;;;0.959456;49.252833
+27593_0043_00006_bis;6;bis;Sente Potier;27370;27593;Saint-Pierre-des-Fleurs;;;0.959629;49.25294
+27593_a001_00001;1;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.971289;49.251071
+27593_a001_00002;2;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.97139;49.251142
+27593_0054_00006;6;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.967123;49.250405
+27593_0054_00007;7;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.967984;49.250543
+27593_0054_00014;14;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.968649;49.250482
+27593_0054_00027;27;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.970144;49.250576
+27593_0054_00037;37;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.971955;49.250536
+27593_0054_00038;38;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.971461;49.250444
+27593_0054_00048;48;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.973039;49.25037
+27593_0054_00051;51;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.973321;49.250469
+27593_0054_00053;53;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.973611;49.250449
+27593_0054_00058;58;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.97444;49.25031
+27593_0054_00061;61;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.974816;49.250367
+27593_0054_00064;64;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.974974;49.250258
+27593_0054_00066;66;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.975219;49.250233
+27593_0054_00010_bis;10;bis;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.967748;49.25043
+27593_0054_00010_ter;10;ter;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.968005;49.249936
+27593_0054_00039_bis;39;bis;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.972289;49.250525
+27593_0043_00010;10;;Sente Potier;27370;27593;Saint-Pierre-des-Fleurs;;;0.959057;49.253159
+27593_a001_00003;3;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.971774;49.251175
+27593_a001_00007;7;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.972176;49.251727
+27593_0054_00008;8;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.967499;49.250411
+27593_0054_00013;13;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.968242;49.250552
+27593_0054_00020;20;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.969365;49.250481
+27593_0054_00021;21;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.96895;49.2512
+27593_0054_00022;22;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.969715;49.250471
+27593_0054_00023;23;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.9695;49.250943
+27593_0054_00040;40;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.972003;49.250397
+27593_0054_00042;42;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.972342;49.250385
+27593_0054_00047;47;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.9726;49.250484
+27593_0054_00057;57;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.974175;49.250409
+27593_0054_00038_bis;38;bis;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.97176;49.250416
+27593_0043_00005;5;;Sente Potier;27370;27593;Saint-Pierre-des-Fleurs;;;0.959643;49.252536
+27593_0043_00006;6;;Sente Potier;27370;27593;Saint-Pierre-des-Fleurs;;;0.959441;49.252842
+27593_a001_00004;4;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.971768;49.25141
+27593_a001_00005;5;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.971947;49.251531
+27593_a001_00006;6;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.972075;49.251601
+27593_0054_00005;5;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.967441;49.250493
+27593_0054_00017;17;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.968987;49.250409
+27593_0054_00025;25;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.970031;49.250575
+27593_0054_00029;29;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.970362;49.25058
+27593_0054_00031;31;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.970817;49.250539
+27593_0054_00035;35;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.9716;49.250516
+27593_0054_00039;39;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.971881;49.250494
+27593_0054_00046;46;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.972734;49.250384
+27593_0054_00050;50;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.973378;49.250364
+27593_0054_00062;62;;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.974742;49.250288
+27593_0054_00014_a;14;a;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.968438;49.250474
+27593_0054_00002_bis;2;bis;Route de la Saussaye;27370;27593;Saint-Pierre-des-Fleurs;;;0.966627;49.250414
+27593_0043_00003;3;;Sente Potier;27370;27593;Saint-Pierre-des-Fleurs;;;0.959565;49.25259
+27593_0043_00009;9;;Sente Potier;27370;27593;Saint-Pierre-des-Fleurs;;;0.959054;49.25307
+27593_a001_00008;8;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.972248;49.251833
+27593_a001_00010;10;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.971901;49.252115
+27593_a001_00014;14;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.970893;49.252485
+27593_a001_00017;17;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.970497;49.252359
+27593_a001_00022;22;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.970535;49.251818
+27593_a001_00025;25;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.970823;49.251112
+27593_a001_00026;26;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.971124;49.250912
+27593_a001_00034;34;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.970606;49.252278
+27593_a001_00037;37;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.970863;49.251575
+27593_0015_00017;17;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.962229;49.24992
+27593_0015_00019;19;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.959023;49.25024
+27593_0015_00040;40;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.960109;49.249792
+27593_0015_00042;42;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.95976;49.249732
+27593_0015_00054;54;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.958423;49.2494
+27593_a001_00013;13;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.971163;49.252401
+27593_a001_00018;18;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.970398;49.252258
+27593_a001_00021;21;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.970459;49.251929
+27593_a001_00023;23;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.970556;49.251517
+27593_a001_00029;29;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.972146;49.251898
+27593_a001_00032;32;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.97139;49.252141
+27593_a001_00035;35;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.970617;49.25197
+27593_0042_00023;23;;Rue des Ormes;27370;27593;Saint-Pierre-des-Fleurs;;;0.957094;49.252291
+27593_0042_00025;25;;Rue des Ormes;27370;27593;Saint-Pierre-des-Fleurs;;;0.957414;49.2525
+27593_0042_00026;26;;Rue des Ormes;27370;27593;Saint-Pierre-des-Fleurs;;;0.957316;49.252591
+27593_0042_00027;27;;Rue des Ormes;27370;27593;Saint-Pierre-des-Fleurs;;;0.956952;49.252766
+27593_0042_00029;29;;Rue des Ormes;27370;27593;Saint-Pierre-des-Fleurs;;;0.956745;49.252542
+27593_0064_00005;5;;Impasse de la Vieille Route;27370;27593;Saint-Pierre-des-Fleurs;;;0.968594;49.254501
+27593_0015_00015;15;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.959023;49.25024
+27593_0015_00034;34;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.961293;49.249944
+27593_0015_00044;44;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.961536;49.248431
+27593_a001_00009;9;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.972109;49.25203
+27593_a001_00019;19;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.970074;49.252188
+27593_a001_00024;24;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.970871;49.251391
+27593_a001_00027;27;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.971384;49.251274
+27593_a001_00036;36;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.970721;49.251788
+27593_0042_00020;20;;Rue des Ormes;27370;27593;Saint-Pierre-des-Fleurs;;;0.956715;49.251735
+27593_0042_00021;21;;Rue des Ormes;27370;27593;Saint-Pierre-des-Fleurs;;;0.956898;49.251943
+27593_0042_00022;22;;Rue des Ormes;27370;27593;Saint-Pierre-des-Fleurs;;;0.957043;49.252161
+27593_0042_00028;28;;Rue des Ormes;27370;27593;Saint-Pierre-des-Fleurs;;;0.956804;49.252652
+27593_0064_00001;1;;Impasse de la Vieille Route;27370;27593;Saint-Pierre-des-Fleurs;;;0.96823;49.254117
+27593_0015_00036;36;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.96095;49.24991
+27593_0015_00053;53;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.958286;49.249244
+27593_a001_00011;11;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.971651;49.252239
+27593_a001_00012;12;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.971522;49.252452
+27593_a001_00015;15;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.97075;49.252638
+27593_a001_00016;16;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.970602;49.252471
+27593_a001_00020;20;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.970343;49.252114
+27593_a001_00028;28;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.97161;49.251544
+27593_a001_00030;30;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.971958;49.251669
+27593_a001_00031;31;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.971687;49.251994
+27593_a001_00033;33;;Résidence des Saules;27370;27593;Saint-Pierre-des-Fleurs;;;0.971146;49.252314
+27593_0042_00030;30;;Rue des Ormes;27370;27593;Saint-Pierre-des-Fleurs;;;0.956914;49.252135
+27593_0064_00003;3;;Impasse de la Vieille Route;27370;27593;Saint-Pierre-des-Fleurs;;;0.96842;49.254316
+27593_0015_00013;13;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.963771;49.250256
+27593_0015_00038;38;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.960529;49.249858
+27593_0015_00046;46;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.959308;49.249623
+27593_0015_00059;59;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.957231;49.248891
+27593_0015_00066;66;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.956786;49.248872
+27593_0015_00067;67;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.955833;49.248155
+27593_0015_00070;70;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.956342;49.248691
+27593_0015_00080;80;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.953578;49.24759
+27593_0017_00004;4;;Chemin de la Font des Poiriers;27370;27593;Saint-Pierre-des-Fleurs;;;0.965786;49.248746
+27593_0061_00004;4;;Route de Thuit-signol;27370;27593;Saint-Pierre-des-Fleurs;;;0.960809;49.251244
+27593_0061_00007;7;;Route de Thuit-signol;27370;27593;Saint-Pierre-des-Fleurs;;;0.960498;49.251397
+27593_0061_00009;9;;Route de Thuit-signol;27370;27593;Saint-Pierre-des-Fleurs;;;0.96038;49.251599
+27593_0061_00017;17;;Route de Thuit-signol;27370;27593;Saint-Pierre-des-Fleurs;;;0.959679;49.252026
+27593_0061_00021;21;;Route de Thuit-signol;27370;27593;Saint-Pierre-des-Fleurs;;;0.95902;49.252233
+27593_0061_00022;22;;Route de Thuit-signol;27370;27593;Saint-Pierre-des-Fleurs;;;0.957992;49.252687
+27593_0061_00020_bis;20;bis;Route de Thuit-signol;27370;27593;Saint-Pierre-des-Fleurs;;;0.958295;49.252572
+27593_0003_00031;31;;Allee des Bouleaux;27370;27593;Saint-Pierre-des-Fleurs;;;0.956413;49.251795
+27593_0015_00060;60;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.957795;49.249235
+27593_0015_00091;91;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.958811;49.250133
+27593_0015_00066_bis;66;bis;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.956751;49.248827
+27593_0015_00080_a;80;a;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.954942;49.248113
+27593_0061_00006;6;;Route de Thuit-signol;27370;27593;Saint-Pierre-des-Fleurs;;;0.960629;49.251428
+27593_0061_00013;13;;Route de Thuit-signol;27370;27593;Saint-Pierre-des-Fleurs;;;0.960037;49.25169
+27593_0061_00023;23;;Route de Thuit-signol;27370;27593;Saint-Pierre-des-Fleurs;;;0.958744;49.252329
+27593_0061_00025;25;;Route de Thuit-signol;27370;27593;Saint-Pierre-des-Fleurs;;;0.958294;49.252461
+27593_0003_00033;33;;Allee des Bouleaux;27370;27593;Saint-Pierre-des-Fleurs;;;0.955855;49.25234
+27593_0015_00057;57;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.957585;49.249014
+27593_0015_00058;58;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.958064;49.249314
+27593_0015_00064;64;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.957058;49.248962
+27593_0015_00065;65;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.95631;49.248315
+27593_0015_00072;72;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.954359;49.248867
+27593_0015_00078;78;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.954466;49.247891
+27593_0015_00032_b;32;b;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.961772;49.249213
+27593_0017_00001;1;;Chemin de la Font des Poiriers;27370;27593;Saint-Pierre-des-Fleurs;;;0.964929;49.248904
+27593_0061_00002;2;;Route de Thuit-signol;27370;27593;Saint-Pierre-des-Fleurs;;;0.960899;49.251096
+27593_0061_00015;15;;Route de Thuit-signol;27370;27593;Saint-Pierre-des-Fleurs;;;0.959956;49.25193
+27593_0061_00018;18;;Route de Thuit-signol;27370;27593;Saint-Pierre-des-Fleurs;;;0.959506;49.25216
+27593_0061_00019;19;;Route de Thuit-signol;27370;27593;Saint-Pierre-des-Fleurs;;;0.959406;49.252114
+27593_0003_00032;32;;Allee des Bouleaux;27370;27593;Saint-Pierre-des-Fleurs;;;0.955857;49.252132
+27593_0015_00055;55;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.957948;49.249185
+27593_0015_00061;61;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.957083;49.248567
+27593_0015_00062;62;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.957445;49.249121
+27593_0015_00063;63;;Chemin des Forrières;27370;27593;Saint-Pierre-des-Fleurs;;;0.956531;49.248611
+27593_0017_00002;2;;Chemin de la Font des Poiriers;27370;27593;Saint-Pierre-des-Fleurs;;;0.964903;49.248787
+27593_0017_00003;3;;Chemin de la Font des Poiriers;27370;27593;Saint-Pierre-des-Fleurs;;;0.966661;49.248852
+27593_0017_00005;5;;Chemin de la Font des Poiriers;27370;27593;Saint-Pierre-des-Fleurs;;;0.967184;49.248474
+27593_0061_00020;20;;Route de Thuit-signol;27370;27593;Saint-Pierre-des-Fleurs;;;0.958667;49.252434
+27593_0003_00034;34;;Allee des Bouleaux;27370;27593;Saint-Pierre-des-Fleurs;;;0.955767;49.252441
+27593_0003_00050;50;;Allee des Bouleaux;27370;27593;Saint-Pierre-des-Fleurs;;;0.955441;49.252069
+27593_0003_00037;37;;Allee des Bouleaux;27370;27593;Saint-Pierre-des-Fleurs;;;0.955263;49.25216
+27593_0003_00052;52;;Allee des Bouleaux;27370;27593;Saint-Pierre-des-Fleurs;;;0.956086;49.25186
+27593_0002_00003;3;;Rond Point des Acacias;27370;27593;Saint-Pierre-des-Fleurs;;;0.967443;49.252463
+27593_0002_00008;8;;Rond Point des Acacias;27370;27593;Saint-Pierre-des-Fleurs;;;0.967656;49.253231
+27593_0002_00009;9;;Rond Point des Acacias;27370;27593;Saint-Pierre-des-Fleurs;;;0.96755;49.253143
+27593_0004_00005;5;;Rue de l’Alize;27370;27593;Saint-Pierre-des-Fleurs;;;0.964579;49.253122
+27593_0004_00006;6;;Rue de l’Alize;27370;27593;Saint-Pierre-des-Fleurs;;;0.964579;49.253006
+27593_0004_00008;8;;Rue de l’Alize;27370;27593;Saint-Pierre-des-Fleurs;;;0.964376;49.252931
+27593_0004_00014;14;;Rue de l’Alize;27370;27593;Saint-Pierre-des-Fleurs;;;0.963763;49.252718
+27593_0004_00015;15;;Rue de l’Alize;27370;27593;Saint-Pierre-des-Fleurs;;;0.963773;49.252929
+27593_0004_00016;16;;Rue de l’Alize;27370;27593;Saint-Pierre-des-Fleurs;;;0.963763;49.252718
+27593_0050_00005;5;;Route de Saint Pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.97784;49.250317
+27593_0050_00007;7;;Route de Saint Pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.977283;49.250261
+27593_0050_00017;17;;Route de Saint Pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.975791;49.250196
+27593_0018_00012;12;;Chemin des Froids Vents;27370;27593;Saint-Pierre-des-Fleurs;;;0.951085;49.25012
+27593_0069_00003;3;;Rue de l’Araucaria;27370;27593;Saint-Pierre-des-Fleurs;;;0.968816;49.250893
+27593_0069_00006;6;;Rue de l’Araucaria;27370;27593;Saint-Pierre-des-Fleurs;;;0.968762;49.251075
+27593_0065_00006;6;;Allee de la Vigne Leger;27370;27593;Saint-Pierre-des-Fleurs;;;0.960923;49.252985
+27593_0002_00001;1;;Rond Point des Acacias;27370;27593;Saint-Pierre-des-Fleurs;;;0.966873;49.252262
+27593_0002_00006;6;;Rond Point des Acacias;27370;27593;Saint-Pierre-des-Fleurs;;;0.967823;49.252938
+27593_0004_00001;1;;Rue de l’Alize;27370;27593;Saint-Pierre-des-Fleurs;;;0.965053;49.253288
+27593_0004_00003;3;;Rue de l’Alize;27370;27593;Saint-Pierre-des-Fleurs;;;0.964928;49.253245
+27593_0004_00004;4;;Rue de l’Alize;27370;27593;Saint-Pierre-des-Fleurs;;;0.964746;49.253066
+27593_0004_00012;12;;Rue de l’Alize;27370;27593;Saint-Pierre-des-Fleurs;;;0.964051;49.252817
+27593_0004_00017;17;;Rue de l’Alize;27370;27593;Saint-Pierre-des-Fleurs;;;0.963521;49.252813
+27593_0050_00011;11;;Route de Saint Pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.976786;49.250219
+27593_0069_00002;2;;Rue de l’Araucaria;27370;27593;Saint-Pierre-des-Fleurs;;;0.96887;49.250841
+27593_0069_00005;5;;Rue de l’Araucaria;27370;27593;Saint-Pierre-des-Fleurs;;;0.968762;49.251075
+27593_0069_00007;7;;Rue de l’Araucaria;27370;27593;Saint-Pierre-des-Fleurs;;;0.968798;49.251047
+27593_0069_00009;9;;Rue de l’Araucaria;27370;27593;Saint-Pierre-des-Fleurs;;;0.968762;49.251075
+27593_0065_00001;1;;Allee de la Vigne Leger;27370;27593;Saint-Pierre-des-Fleurs;;;0.961826;49.253361
+27593_0065_00004;4;;Allee de la Vigne Leger;27370;27593;Saint-Pierre-des-Fleurs;;;0.961081;49.252929
+27593_0065_00005;5;;Allee de la Vigne Leger;27370;27593;Saint-Pierre-des-Fleurs;;;0.961;49.253114
+27593_0003_00051;51;;Allee des Bouleaux;27370;27593;Saint-Pierre-des-Fleurs;;;0.955774;49.251982
+27593_0002_00004;4;;Rond Point des Acacias;27370;27593;Saint-Pierre-des-Fleurs;;;0.967605;49.252722
+27593_0002_00011;11;;Rond Point des Acacias;27370;27593;Saint-Pierre-des-Fleurs;;;0.967472;49.252843
+27593_0002_00012;12;;Rond Point des Acacias;27370;27593;Saint-Pierre-des-Fleurs;;;0.967363;49.252544
+27593_0004_00002;2;;Rue de l’Alize;27370;27593;Saint-Pierre-des-Fleurs;;;0.964906;49.253121
+27593_0004_00007;7;;Rue de l’Alize;27370;27593;Saint-Pierre-des-Fleurs;;;0.964491;49.25309
+27593_a004_00001;1;;Residence du Val Fleury;27370;27593;Saint-Pierre-des-Fleurs;;;0.972115;49.250925
+27593_a004_00003;3;;Residence du Val Fleury;27370;27593;Saint-Pierre-des-Fleurs;;;0.972679;49.25115
+27593_0018_00006;6;;Chemin des Froids Vents;27370;27593;Saint-Pierre-des-Fleurs;;;0.951837;49.249582
+27593_0018_00008;8;;Chemin des Froids Vents;27370;27593;Saint-Pierre-des-Fleurs;;;0.951677;49.249709
+27593_0069_00008;8;;Rue de l’Araucaria;27370;27593;Saint-Pierre-des-Fleurs;;;0.968956;49.250902
+27593_0065_00002;2;;Allee de la Vigne Leger;27370;27593;Saint-Pierre-des-Fleurs;;;0.961387;49.253109
+27593_0065_00007;7;;Allee de la Vigne Leger;27370;27593;Saint-Pierre-des-Fleurs;;;0.960909;49.253074
+27593_0008_00001;1;;Rue de la Brise;27370;27593;Saint-Pierre-des-Fleurs;;;0.96526;49.253714
+27593_0003_00035;35;;Allee des Bouleaux;27370;27593;Saint-Pierre-des-Fleurs;;;0.955708;49.252361
+27593_0003_00036;36;;Allee des Bouleaux;27370;27593;Saint-Pierre-des-Fleurs;;;0.955336;49.252261
+27593_0003_00053;53;;Allee des Bouleaux;27370;27593;Saint-Pierre-des-Fleurs;;;0.956579;49.251679
+27593_0002_00002;2;;Rond Point des Acacias;27370;27593;Saint-Pierre-des-Fleurs;;;0.967163;49.252344
+27593_0002_00005;5;;Rond Point des Acacias;27370;27593;Saint-Pierre-des-Fleurs;;;0.967733;49.252803
+27593_0002_00007;7;;Rond Point des Acacias;27370;27593;Saint-Pierre-des-Fleurs;;;0.967679;49.253075
+27593_0002_00010;10;;Rond Point des Acacias;27370;27593;Saint-Pierre-des-Fleurs;;;0.967443;49.253052
+27593_0002_00013;13;;Rond Point des Acacias;27370;27593;Saint-Pierre-des-Fleurs;;;0.966779;49.252276
+27593_0004_00010;10;;Rue de l’Alize;27370;27593;Saint-Pierre-des-Fleurs;;;0.964235;49.252885
+27593_a004_00002;2;;Residence du Val Fleury;27370;27593;Saint-Pierre-des-Fleurs;;;0.972567;49.251059
+27593_a004_00004;4;;Residence du Val Fleury;27370;27593;Saint-Pierre-des-Fleurs;;;0.972736;49.251066
+27593_0050_00015;15;;Route de Saint Pierre;27370;27593;Saint-Pierre-des-Fleurs;;;0.976402;49.250196
+27593_0069_00001;1;;Rue de l’Araucaria;27370;27593;Saint-Pierre-des-Fleurs;;;0.969043;49.250742
+27593_0069_00004;4;;Rue de l’Araucaria;27370;27593;Saint-Pierre-des-Fleurs;;;0.968667;49.251023
+27593_0065_00003;3;;Allee de la Vigne Leger;27370;27593;Saint-Pierre-des-Fleurs;;;0.961459;49.253229
+27593_0008_00007;7;;Rue de la Brise;27370;27593;Saint-Pierre-des-Fleurs;;;0.965949;49.253669
+27593_0008_00002;2;;Rue de la Brise;27370;27593;Saint-Pierre-des-Fleurs;;;0.965195;49.253805
+27593_0046_00015;15;;Allee des Primeveres;27370;27593;Saint-Pierre-des-Fleurs;;;0.96329;49.253045
+27593_0019_00004;4;;Allee des Campanules;27370;27593;Saint-Pierre-des-Fleurs;;;0.964447;49.251438
+27593_0019_00008;8;;Allee des Campanules;27370;27593;Saint-Pierre-des-Fleurs;;;0.964252;49.251404
+27593_0019_00012;12;;Allee des Campanules;27370;27593;Saint-Pierre-des-Fleurs;;;0.96428;49.251405
+27593_0019_00016;16;;Allee des Campanules;27370;27593;Saint-Pierre-des-Fleurs;;;0.963376;49.251682
+27593_0036_00010;10;;Rue du Mont Fautrel;27370;27593;Saint-Pierre-des-Fleurs;;;0.967919;49.254914
+27593_0009_00012;12;;Allee des Cypres;27370;27593;Saint-Pierre-des-Fleurs;;;0.957889;49.251651
+27593_0056_00002;2;;Impasse du Sirocco;27370;27593;Saint-Pierre-des-Fleurs;;;0.965394;49.253345
+27593_0021_00011;11;;Route de l'Ancienne Côte;27370;27593;Saint-Pierre-des-Fleurs;;;0.964494;49.246579
+27593_0024_00003;3;;Rue des Charmilles;27370;27593;Saint-Pierre-des-Fleurs;;;0.970082;49.251247
+27593_0024_00005;5;;Rue des Charmilles;27370;27593;Saint-Pierre-des-Fleurs;;;0.969839;49.251611
+27593_0001_00005;5;;Chemin du Bois Joli;27370;27593;Saint-Pierre-des-Fleurs;;;0.970813;49.24995
+27593_0046_00017;17;;Allee des Primeveres;27370;27593;Saint-Pierre-des-Fleurs;;;0.963208;49.252972
+27593_0019_00002;2;;Allee des Campanules;27370;27593;Saint-Pierre-des-Fleurs;;;0.964225;49.251404
+27593_0019_00010;10;;Allee des Campanules;27370;27593;Saint-Pierre-des-Fleurs;;;0.964266;49.251405
+27593_0036_00001;1;;Rue du Mont Fautrel;27370;27593;Saint-Pierre-des-Fleurs;;;0.967707;49.254514
+27593_0036_00003;3;;Rue du Mont Fautrel;27370;27593;Saint-Pierre-des-Fleurs;;;0.967249;49.255546
+27593_0036_00008;8;;Rue du Mont Fautrel;27370;27593;Saint-Pierre-des-Fleurs;;;0.96785;49.254596
+27593_0036_00018;18;;Rue du Mont Fautrel;27370;27593;Saint-Pierre-des-Fleurs;;;0.967264;49.255722
+27593_0036_00042;42;;Rue du Mont Fautrel;27370;27593;Saint-Pierre-des-Fleurs;;;0.96615;49.257741
+27593_0009_00014;14;;Allee des Cypres;27370;27593;Saint-Pierre-des-Fleurs;;;0.957662;49.251227
+27593_0059_00001;1;;Route de Thuit Anger;27370;27593;Saint-Pierre-des-Fleurs;;;0.96596;49.25088
+27593_0059_00002;2;;Route de Thuit Anger;27370;27593;Saint-Pierre-des-Fleurs;;;0.96629;49.25129
+27593_0030_00001;1;;Allee des Lilas;27370;27593;Saint-Pierre-des-Fleurs;;;0.961864;49.252016
+27593_0030_00002;2;;Allee des Lilas;27370;27593;Saint-Pierre-des-Fleurs;;;0.962214;49.252064
+27593_0066_00001;1;;Sente aux Renards;27370;27593;Saint-Pierre-des-Fleurs;;;0.953523;49.250339
+27593_0005_00003;3;;Rue de l’Aubepine;27370;27593;Saint-Pierre-des-Fleurs;;;0.958163;49.250793
+27593_0021_00001;1;;Route de l'Ancienne Côte;27370;27593;Saint-Pierre-des-Fleurs;;;0.963908;49.248246
+27593_0024_00006;6;;Rue des Charmilles;27370;27593;Saint-Pierre-des-Fleurs;;;0.969788;49.251775
+27593_0024_00007;7;;Rue des Charmilles;27370;27593;Saint-Pierre-des-Fleurs;;;0.969717;49.251902
+27593_0070_00002;2;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.970369;49.250087
+27593_0008_00003;3;;Rue de la Brise;27370;27593;Saint-Pierre-des-Fleurs;;;0.965518;49.253631
+27593_0008_00004;4;;Rue de la Brise;27370;27593;Saint-Pierre-des-Fleurs;;;0.965535;49.253847
+27593_0008_00005;5;;Rue de la Brise;27370;27593;Saint-Pierre-des-Fleurs;;;0.965809;49.253619
+27593_0046_00019;19;;Allee des Primeveres;27370;27593;Saint-Pierre-des-Fleurs;;;0.963213;49.252895
+27593_0009_00011;11;;Allee des Cypres;27370;27593;Saint-Pierre-des-Fleurs;;;0.957938;49.25176
+27593_0006_00001;1;;Allee du Blizzard;27370;27593;Saint-Pierre-des-Fleurs;;;0.965936;49.254173
+27593_0006_00004;4;;Allee du Blizzard;27370;27593;Saint-Pierre-des-Fleurs;;;0.96635;49.254094
+27593_0030_00003;3;;Allee des Lilas;27370;27593;Saint-Pierre-des-Fleurs;;;0.962503;49.252111
+27593_0024_00001;1;;Rue des Charmilles;27370;27593;Saint-Pierre-des-Fleurs;;;0.970379;49.251016
+27593_0024_00002;2;;Rue des Charmilles;27370;27593;Saint-Pierre-des-Fleurs;;;0.970231;49.251126
+27593_0070_00003;3;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.97036;49.249947
+27593_0008_00006;6;;Rue de la Brise;27370;27593;Saint-Pierre-des-Fleurs;;;0.965835;49.253831
+27593_0046_00011;11;;Allee des Primeveres;27370;27593;Saint-Pierre-des-Fleurs;;;0.963389;49.252997
+27593_0046_00013;13;;Allee des Primeveres;27370;27593;Saint-Pierre-des-Fleurs;;;0.963389;49.252997
+27593_0019_00006;6;;Allee des Campanules;27370;27593;Saint-Pierre-des-Fleurs;;;0.964238;49.251404
+27593_0019_00014;14;;Allee des Campanules;27370;27593;Saint-Pierre-des-Fleurs;;;0.963523;49.251596
+27593_0036_00005;5;;Rue du Mont Fautrel;27370;27593;Saint-Pierre-des-Fleurs;;;0.966958;49.255959
+27593_0036_00014;14;;Rue du Mont Fautrel;27370;27593;Saint-Pierre-des-Fleurs;;;0.967771;49.254998
+27593_0036_00016;16;;Rue du Mont Fautrel;27370;27593;Saint-Pierre-des-Fleurs;;;0.96757;49.255311
+27593_0036_00020;20;;Rue du Mont Fautrel;27370;27593;Saint-Pierre-des-Fleurs;;;0.967233;49.255765
+27593_0009_00009;9;;Allee des Cypres;27370;27593;Saint-Pierre-des-Fleurs;;;0.958244;49.251603
+27593_0009_00010;10;;Allee des Cypres;27370;27593;Saint-Pierre-des-Fleurs;;;0.958143;49.251764
+27593_0006_00002;2;;Allee du Blizzard;27370;27593;Saint-Pierre-des-Fleurs;;;0.966084;49.254259
+27593_0006_00006;6;;Allee du Blizzard;27370;27593;Saint-Pierre-des-Fleurs;;;0.966097;49.253881
+27593_0066_00003;3;;Sente aux Renards;27370;27593;Saint-Pierre-des-Fleurs;;;0.953376;49.250566
+27593_0066_00005;5;;Sente aux Renards;27370;27593;Saint-Pierre-des-Fleurs;;;0.953306;49.250759
+27593_0056_00004;4;;Impasse du Sirocco;27370;27593;Saint-Pierre-des-Fleurs;;;0.965805;49.253323
+27593_0005_00015;15;;Rue de l’Aubepine;27370;27593;Saint-Pierre-des-Fleurs;;;0.958209;49.251208
+27593_0024_00004;4;;Rue des Charmilles;27370;27593;Saint-Pierre-des-Fleurs;;;0.969985;49.25145
+27593_0070_00001;1;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.97035;49.250266
+27593_0070_00004;4;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.970662;49.249718
+27593_0070_00008;8;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.969598;49.249714
+27593_0070_00009;9;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.969707;49.250035
+27593_0070_00010;10;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.969398;49.249994
+27593_0070_00015;15;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.969324;49.249255
+27593_0070_00017;17;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.968702;49.249258
+27593_0070_00019;19;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.968304;49.249508
+27593_0070_00020;20;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.968309;49.249222
+27593_0070_00022;22;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.967731;49.249568
+27593_0070_00023;23;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.967362;49.249632
+27593_0070_00024;24;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.967221;49.249242
+27593_0070_00026;26;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.969175;49.248875
+27593_0070_00028;28;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.969736;49.248844
+27593_b018_00029;29;;Le Val Marie;27370;27593;Saint-Pierre-des-Fleurs;;;0.971551;49.251655
+27593_0070_00006;6;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.970136;49.249723
+27593_0070_00012;12;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.969045;49.249731
+27593_0070_00013;13;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.969086;49.249525
+27593_0070_00021;21;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.967797;49.249297
+27593_0070_00025;25;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.968869;49.248905
+27593_0070_00027;27;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.969445;49.248857
+27593_0070_00040;40;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.96719;49.249759
+27593_0070_00005;5;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.970371;49.249713
+27593_0070_00011;11;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.969029;49.249943
+27593_0070_00018;18;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.968626;49.249513
+27593_0070_00029;29;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.970062;49.24884
+27593_b015_00005;5;;Le Mont Frautel;27370;27593;Saint-Pierre-des-Fleurs;;;0.966822;49.255698
+27593_0070_00007;7;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.969678;49.249377
+27593_0070_00014;14;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.96965;49.249247
+27593_0070_00016;16;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.969048;49.249246
+27593_0070_00030;30;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.97025;49.249282
+27593_0070_00039;39;;Rue du Vieux Frene;27370;27593;Saint-Pierre-des-Fleurs;;;0.967461;49.249827

@@ -1,0 +1,757 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+24010_0062_00027;27;;Rue de l'Ecluse;24430;24010;Annesse-et-Beaulieu;;;0.608294;45.179385
+24010_0062_00011;11;;Rue de l'Ecluse;24430;24010;Annesse-et-Beaulieu;;;0.607087;45.181707
+24010_0093_00003;3;;Rue des Giroux;24430;24010;Annesse-et-Beaulieu;;;0.581628;45.156151
+24010_0110_00009;9;;Rue de l'Isle;24430;24010;Annesse-et-Beaulieu;;;0.5673;45.166023
+24010_0200_00030;30;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.583311;45.171911
+24010_0223_00014;14;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.584177;45.173977
+24010_0223_00025;25;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.584336;45.174175
+24010_0029_00004;4;;Impasse des Chalambres;24430;24010;Annesse-et-Beaulieu;;;0.595152;45.181023
+24010_0048_00014;14;;Rue de la Croix Charles;24430;24010;Annesse-et-Beaulieu;;;0.599435;45.178667
+24010_0162_00090;90;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.607335;45.183413
+24010_0100_00007;7;;Rue Robert Mellet;24430;24010;Annesse-et-Beaulieu;;;0.572098;45.163616
+24010_0045_00003;3;;Impasse des Combes;24430;24010;Annesse-et-Beaulieu;;;0.602025;45.178925
+24010_0005_00002;2;;Impasse de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.602817;45.177865
+24010_0070_00018;18;;Rue de l'Etang;24430;24010;Annesse-et-Beaulieu;;;0.604818;45.178521
+24010_0030_00001;1;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.591639;45.17321
+24010_0029_00003;3;;Impasse des Chalambres;24430;24010;Annesse-et-Beaulieu;;;0.595061;45.181412
+24010_0135_00001;1;;Rue des Mailloques;24430;24010;Annesse-et-Beaulieu;;;0.579702;45.157707
+24010_0110_00001;1;;Rue de l'Isle;24430;24010;Annesse-et-Beaulieu;;;0.570734;45.165033
+24010_0064_00002;2;;Impasse de l'Eglise d'Annesse;24430;24010;Annesse-et-Beaulieu;;;0.571635;45.163085
+24010_0223_00003;3;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.580655;45.172716
+24010_0048_00016;16;;Rue de la Croix Charles;24430;24010;Annesse-et-Beaulieu;;;0.599344;45.178692
+24010_0100_00019;19;;Rue Robert Mellet;24430;24010;Annesse-et-Beaulieu;;;0.571645;45.164542
+24010_0185_00018;18;;Rue des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.587701;45.16943
+24010_0086_00003;3;;Route Gare de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.617714;45.194664
+24010_0131_00002_ter;2;ter;Route de Leypalou;24430;24010;Annesse-et-Beaulieu;;;0.577726;45.173027
+24010_0165_00008;8;;Impasse des Peupliers;24430;24010;Annesse-et-Beaulieu;;;0.590728;45.177728
+24010_0158_00005;5;;Impasse Pasteur;24430;24010;Annesse-et-Beaulieu;;;0.62096;45.192447
+24010_0176_00022;22;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.587113;45.17443
+24010_0200_00047;47;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.580697;45.172068
+24010_0085_00003;3;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.596915;45.179085
+24010_0138_00007;7;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.578387;45.168715
+24010_0120_00005;5;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.579047;45.171425
+24010_0094_00004;4;;Impasse les Grandes Terres;24430;24010;Annesse-et-Beaulieu;;;0.594203;45.179841
+24010_0042_00003;3;;Impasse de la Colline;24430;24010;Annesse-et-Beaulieu;;;0.591988;45.181451
+24010_0138_00019_bis;19;bis;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;Lachenal;0.578925;45.168174
+24010_0184_00010;10;;Impasse des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.587285;45.170019
+24010_0100_00008;8;;Rue Robert Mellet;24430;24010;Annesse-et-Beaulieu;;;0.572271;45.163297
+24010_0015_00015;15;;Rue de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.61515;45.193672
+24010_0045_00008;8;;Impasse des Combes;24430;24010;Annesse-et-Beaulieu;;;0.601671;45.179262
+24010_0090_00016;16;;Rue du Général de Gaulle;24430;24010;Annesse-et-Beaulieu;;;0.592108;45.173467
+24010_0015_00012;12;;Rue de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.61496;45.193722
+24010_0025_00010;10;;Chemin des Cavaliers;24430;24010;Annesse-et-Beaulieu;;;0.589543;45.185097
+24010_0113_00008;8;;Rue Jean Lasjaunias;24430;24010;Annesse-et-Beaulieu;;;0.587992;45.175625
+24010_0185_00016;16;;Rue des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.588381;45.169853
+24010_btdsow_00014;14;;Lotissement à l'Orée du Bois;24430;24010;Annesse-et-Beaulieu;;;0.601091;45.180687
+24010_0038_00014;14;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597561;45.17819
+24010_0190_00007_bis;7;bis;Chemin du Raysse;24430;24010;Annesse-et-Beaulieu;;;0.587866;45.177401
+24010_0085_00037;37;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.592686;45.181581
+24010_0085_00018;18;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.592787;45.18168
+24010_0110_00014;14;;Rue de l'Isle;24430;24010;Annesse-et-Beaulieu;;;0.568865;45.165581
+24010_0020_00003;3;;Rue des Bois;24430;24010;Annesse-et-Beaulieu;;;0.589475;45.184136
+24010_0176_00052;52;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.57988;45.176397
+24010_0001_00016;16;;Rue du 8 mai;24430;24010;Annesse-et-Beaulieu;;;0.590372;45.174567
+24010_0038_00017;17;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597363;45.178043
+24010_0085_00052;52;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.591755;45.185247
+24010_0185_00004;4;;Rue des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.58991;45.171021
+24010_0085_00027;27;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.59453;45.180759
+24010_0085_00036;36;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.5905;45.183844
+24010_0223_00005;5;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.580798;45.172727
+24010_0223_00018;18;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.586054;45.174954
+24010_0085_00005;5;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.596486;45.179206
+24010_0090_00004;4;;Rue du Général de Gaulle;24430;24010;Annesse-et-Beaulieu;;;0.593115;45.174085
+24010_0001_00008;8;;Rue du 8 mai;24430;24010;Annesse-et-Beaulieu;;;0.590962;45.174046
+24010_0162_00052;52;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.600495;45.176984
+24010_0147_00004;4;;Rue du Moulin;24430;24010;Annesse-et-Beaulieu;;;0.567827;45.166222
+24010_0020_00004;4;;Rue des Bois;24430;24010;Annesse-et-Beaulieu;;;0.589753;45.18395
+24010_0200_00044;44;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.580916;45.172175
+24010_0090_00006;6;;Rue du Général de Gaulle;24430;24010;Annesse-et-Beaulieu;;;0.592895;45.17396
+24010_dxxunb_00006;6;;Rue de la Plaine;24430;24010;Annesse-et-Beaulieu;;;0.609359;45.183458
+24010_0235_00008;8;;Impasse du Vieux Chemin;24430;24010;Annesse-et-Beaulieu;;;0.583059;45.170732
+24010_0200_00020_ter;20;ter;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.585032;45.17204
+24010_0085_00085;85;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590042;45.186772
+24010_0096_00015;15;;Rue des Granges;24430;24010;Annesse-et-Beaulieu;;;0.577972;45.160137
+24010_0222_00004;4;;Impasse des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.583109;45.173269
+24010_a16pfh_00008;8;;Impasse de la Sapinière;24430;24010;Annesse-et-Beaulieu;;;0.583301;45.169158
+24010_0138_00025;25;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.579573;45.167871
+24010_0220_00010;10;;Impasse du Terrier;24430;24010;Annesse-et-Beaulieu;;;0.578339;45.167877
+24010_0162_00015;15;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.596768;45.176198
+24010_0176_00055;55;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.578742;45.176745
+24010_0045_00001;1;;Impasse des Combes;24430;24010;Annesse-et-Beaulieu;;;0.602305;45.178791
+24010_dxxunb_00008;8;;Rue de la Plaine;24430;24010;Annesse-et-Beaulieu;;;0.60972;45.183126
+24010_0045_00004;4;;Impasse des Combes;24430;24010;Annesse-et-Beaulieu;;;0.602092;45.179035
+24010_0235_00009_bis;9;bis;Impasse du Vieux Chemin;24430;24010;Annesse-et-Beaulieu;;;0.583207;45.170675
+24010_0029_00010;10;;Impasse des Chalambres;24430;24010;Annesse-et-Beaulieu;;;0.595204;45.181641
+24010_0009_00005;5;;Route d'Annesse;24430;24010;Annesse-et-Beaulieu;;;0.56999;45.165805
+24010_0020_00001;1;;Rue des Bois;24430;24010;Annesse-et-Beaulieu;;;0.589826;45.18371
+24010_0085_00070;70;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.589742;45.187371
+24010_0100_00003;3;;Rue Robert Mellet;24430;24010;Annesse-et-Beaulieu;;;0.572008;45.162876
+24010_0138_00033;33;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.580133;45.167632
+24010_0230_00004;4;;Impasse du Val;24430;24010;Annesse-et-Beaulieu;;;0.590629;45.175651
+24010_dxxunb_00002;2;;Rue de la Plaine;24430;24010;Annesse-et-Beaulieu;;;0.609189;45.183871
+24010_0162_00022;22;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.594551;45.174704
+24010_0015_00008;8;;Rue de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.615491;45.193973
+24010_0001_00020;20;;Rue du 8 mai;24430;24010;Annesse-et-Beaulieu;;;0.590073;45.174402
+24010_0030_00004;4;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.591386;45.173918
+24010_0015_00016;16;;Rue de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.614322;45.193437
+24010_0038_00049;49;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.59738;45.181635
+24010_0138_00028;28;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.581026;45.16702
+24010_0200_00027;27;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.585449;45.171459
+24010_0235_00018;18;;Impasse du Vieux Chemin;24430;24010;Annesse-et-Beaulieu;;;0.584857;45.170166
+24010_0110_00018;18;;Rue de l'Isle;24430;24010;Annesse-et-Beaulieu;;;0.567191;45.166132
+24010_0200_00014;14;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.586417;45.171789
+24010_0070_00001;1;;Rue de l'Etang;24430;24010;Annesse-et-Beaulieu;;;0.604253;45.179367
+24010_0130_00008;8;;Impasse de Leypalou;24430;24010;Annesse-et-Beaulieu;;;0.579124;45.173655
+24010_0223_00034;34;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.58883;45.177185
+24010_0025_00008;8;;Chemin des Cavaliers;24430;24010;Annesse-et-Beaulieu;;;0.589799;45.185274
+24010_0183_00004;4;;Chemin de Pracoulier;24430;24010;Annesse-et-Beaulieu;;;0.610338;45.195885
+24010_0223_00045;45;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.587331;45.17617
+24010_0030_00005_bis;5;bis;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.591487;45.173295
+24010_0045_00005;5;;Impasse des Combes;24430;24010;Annesse-et-Beaulieu;;;0.601796;45.17907
+24010_0235_00009;9;;Impasse du Vieux Chemin;24430;24010;Annesse-et-Beaulieu;;;0.583232;45.170728
+24010_0065_00002_bis;2;bis;Impasse des Ecoles;24430;24010;Annesse-et-Beaulieu;;;0.591701;45.175005
+24010_0196_00001;1;;Rue Roger Gentric;24430;24010;Annesse-et-Beaulieu;;;0.606295;45.182683
+24010_0030_00005_ter;5;ter;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.591427;45.173328
+24010_0038_00057;57;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597238;45.182583
+24010_0085_00012;12;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.594153;45.181256
+24010_0062_00015;15;;Rue de l'Ecluse;24430;24010;Annesse-et-Beaulieu;;;0.607343;45.181367
+24010_0235_00004;4;;Impasse du Vieux Chemin;24430;24010;Annesse-et-Beaulieu;;;0.583076;45.171141
+24010_0223_00016;16;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.584654;45.17421
+24010_0012_00005;5;;Route des Balans;24430;24010;Annesse-et-Beaulieu;;;0.57683;45.171634
+24010_0085_00083;83;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590278;45.18652
+24010_0006_00006;6;;Rue de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.603073;45.178064
+24010_0222_00002;2;;Impasse des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.583329;45.172848
+24010_0020_00009;9;;Rue des Bois;24430;24010;Annesse-et-Beaulieu;;;0.589132;45.184779
+24010_btdsow_00004;4;;Lotissement à l'Orée du Bois;24430;24010;Annesse-et-Beaulieu;;;0.60198;45.180754
+24010_0028_00001;1;;Route de Chignac;24430;24010;Annesse-et-Beaulieu;;;0.604976;45.193831
+24010_0038_00051;51;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597201;45.181985
+24010_0085_00004;4;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.596016;45.179701
+24010_0100_00022;22;;Rue Robert Mellet;24430;24010;Annesse-et-Beaulieu;;;0.57122;45.165325
+24010_0001_00006;6;;Rue du 8 mai;24430;24010;Annesse-et-Beaulieu;;;0.590939;45.174015
+24010_0223_00010;10;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.583414;45.173651
+24010_0030_00030;30;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.589786;45.17691
+24010_0086_00002;2;;Route Gare de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.621564;45.195978
+24010_0200_00034;34;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.582625;45.171917
+24010_0130_00002;2;;Impasse de Leypalou;24430;24010;Annesse-et-Beaulieu;;;0.577778;45.173101
+24010_0038_00021;21;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597513;45.17933
+24010_0200_00004;4;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.588235;45.171758
+24010_0001_00007;7;;Rue du 8 mai;24430;24010;Annesse-et-Beaulieu;;;0.590746;45.174135
+24010_0110_00020;20;;Rue de l'Isle;24430;24010;Annesse-et-Beaulieu;;;0.564673;45.166687
+24010_0030_00023;23;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.589757;45.174679
+24010_0176_00027;27;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.585863;45.174498
+24010_0120_00011;11;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.578351;45.170743
+24010_0085_00047;47;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590816;45.182461
+24010_0009_00011;11;;Route d'Annesse;24430;24010;Annesse-et-Beaulieu;;;0.569727;45.166541
+24010_0085_00057;57;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590089;45.18351
+24010_0110_00004;4;;Rue de l'Isle;24430;24010;Annesse-et-Beaulieu;;;0.570106;45.165053
+24010_0100_00005;5;;Rue Robert Mellet;24430;24010;Annesse-et-Beaulieu;;;0.572048;45.16331
+24010_btdsow_00008;8;;Lotissement à l'Orée du Bois;24430;24010;Annesse-et-Beaulieu;;;0.601615;45.181054
+24010_0223_00031;31;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.585489;45.174811
+24010_0200_00048;48;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.579362;45.172415
+24010_0060_00001;1;;Rue Jean Treffel;24430;24010;Annesse-et-Beaulieu;;;0.590868;45.173471
+24010_0162_00016;16;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.594018;45.174235
+24010_0080_00002;2;;Chemin des Fausses;24430;24010;Annesse-et-Beaulieu;;;0.603793;45.179939
+24010_0235_00016;16;;Impasse du Vieux Chemin;24430;24010;Annesse-et-Beaulieu;;;0.584702;45.169862
+24010_dxxunb_00011;11;;Rue de la Plaine;24430;24010;Annesse-et-Beaulieu;;;0.61023;45.18265
+24010_0235_00017;17;;Impasse du Vieux Chemin;24430;24010;Annesse-et-Beaulieu;;;0.58442;45.169855
+24010_0048_00012;12;;Rue de la Croix Charles;24430;24010;Annesse-et-Beaulieu;;;0.600486;45.178439
+24010_0235_00007;7;;Impasse du Vieux Chemin;24430;24010;Annesse-et-Beaulieu;;;0.583293;45.170914
+24010_0130_00010;10;;Impasse de Leypalou;24430;24010;Annesse-et-Beaulieu;;;0.579583;45.17403
+24010_0042_00001;1;;Impasse de la Colline;24430;24010;Annesse-et-Beaulieu;;;0.592352;45.181197
+24010_0001_00002;2;;Rue du 8 mai;24430;24010;Annesse-et-Beaulieu;;;0.590866;45.173801
+24010_0205_00001;1;;Impasse de la Sapinière;24430;24010;Annesse-et-Beaulieu;;;0.582335;45.167689
+24010_0185_00028;28;;Rue des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.58673;45.168293
+24010_0012_00001;1;;Route des Balans;24430;24010;Annesse-et-Beaulieu;;;0.577083;45.172061
+24010_btdsow_00007;7;;Lotissement à l'Orée du Bois;24430;24010;Annesse-et-Beaulieu;;;0.602119;45.180245
+24010_0176_00035;35;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.583591;45.174917
+24010_0162_00055;55;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.605489;45.182444
+24010_0162_00110;110;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.619759;45.192376
+24010_0142_00006;6;;Impasse les Menades;24430;24010;Annesse-et-Beaulieu;;;0.596028;45.174508
+24010_0120_00003;3;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.579302;45.171648
+24010_0090_00009;9;;Rue du Général de Gaulle;24430;24010;Annesse-et-Beaulieu;;;0.592253;45.173482
+24010_0085_00007;7;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.596025;45.178859
+24010_0200_00002;2;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.589201;45.171814
+24010_0038_00019;19;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597435;45.178368
+24010_0006_00001;1;;Rue de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.602908;45.17869
+24010_0196_00006;6;;Rue Roger Gentric;24430;24010;Annesse-et-Beaulieu;;;0.607954;45.182496
+24010_0120_00009;9;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.578446;45.170824
+24010_0006_00020;20;;Rue de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.602766;45.177125
+24010_0162_00023;23;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.598015;45.176896
+24010_0235_00002;2;;Impasse du Vieux Chemin;24430;24010;Annesse-et-Beaulieu;;;0.583231;45.17148
+24010_0176_00029;29;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.585472;45.174554
+24010_0005_00005;5;;Impasse de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.602952;45.177757
+24010_0030_00022;22;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.590004;45.175872
+24010_0138_00019;19;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.578982;45.168325
+24010_0100_00011;11;;Rue Robert Mellet;24430;24010;Annesse-et-Beaulieu;;;0.571897;45.164055
+24010_btdsow_00003;3;;Lotissement à l'Orée du Bois;24430;24010;Annesse-et-Beaulieu;;;0.60247;45.180488
+24010_0085_00043;43;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.591471;45.182239
+24010_0184_00006;6;;Impasse des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.587653;45.170251
+24010_0009_00007;7;;Route d'Annesse;24430;24010;Annesse-et-Beaulieu;;;0.569949;45.165858
+24010_0142_00004;4;;Impasse les Menades;24430;24010;Annesse-et-Beaulieu;;;0.595647;45.174756
+24010_0038_00031;31;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597605;45.180268
+24010_0162_00024;24;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.596894;45.176073
+24010_0086_00004;4;;Route Gare de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.620418;45.194504
+24010_0085_00038;38;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590689;45.184124
+24010_0009_00004;4;;Route d'Annesse;24430;24010;Annesse-et-Beaulieu;;;0.570774;45.16596
+24010_0200_00009;9;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.587996;45.171643
+24010_0096_00001;1;;Rue des Granges;24430;24010;Annesse-et-Beaulieu;;;0.577233;45.161437
+24010_0085_00019;19;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.595928;45.179585
+24010_0162_00005;5;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.592956;45.173239
+24010_0006_00027;27;;Rue de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.60269;45.17733
+24010_0223_00011;11;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.581936;45.173163
+24010_0030_00016;16;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.590401;45.174066
+24010_0030_00011;11;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.59073;45.173643
+24010_0176_00019;19;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.586921;45.174359
+24010_0235_00006;6;;Impasse du Vieux Chemin;24430;24010;Annesse-et-Beaulieu;;;0.583112;45.170848
+24010_0090_00011_bis;11;bis;Rue du Général de Gaulle;24430;24010;Annesse-et-Beaulieu;;;0.592121;45.173357
+24010_0162_00030;30;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.59754;45.176442
+24010_0200_00031;31;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.584376;45.171721
+24010_0110_00011;11;;Rue de l'Isle;24430;24010;Annesse-et-Beaulieu;;;0.562982;45.168084
+24010_0113_00007;7;;Rue Jean Lasjaunias;24430;24010;Annesse-et-Beaulieu;;;0.588701;45.175268
+24010_0006_00019;19;;Rue de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.603261;45.177877
+24010_0038_00039;39;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597582;45.181073
+24010_0038_00024;24;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597669;45.179421
+24010_0070_00004;4;;Rue de l'Etang;24430;24010;Annesse-et-Beaulieu;;;0.603817;45.179163
+24010_0027_00003;3;;Rue Chapelle Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.611435;45.195217
+24010_0165_00010;10;;Impasse des Peupliers;24430;24010;Annesse-et-Beaulieu;;;0.590538;45.177864
+24010_0085_00067;67;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.591098;45.184777
+24010_0162_00018;18;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.594235;45.174462
+24010_0096_00001_bis;1;bis;Rue des Granges;24430;24010;Annesse-et-Beaulieu;;;0.577048;45.161714
+24010_0176_00004;4;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.589756;45.173958
+24010_0200_00057;57;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.574526;45.171976
+24010_0113_00005;5;;Rue Jean Lasjaunias;24430;24010;Annesse-et-Beaulieu;;;0.589097;45.175043
+24010_0020_00012;12;;Rue des Bois;24430;24010;Annesse-et-Beaulieu;;;0.589074;45.185036
+24010_0176_00033;33;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.583722;45.1749
+24010_btdsow_00001;1;;Lotissement à l'Orée du Bois;24430;24010;Annesse-et-Beaulieu;;;0.602634;45.180606
+24010_0185_00001;1;;Rue des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.590549;45.17182
+24010_0138_00021;21;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.579265;45.167995
+24010_0135_00002;2;;Rue des Mailloques;24430;24010;Annesse-et-Beaulieu;;;0.577245;45.152436
+24010_0029_00006;6;;Impasse des Chalambres;24430;24010;Annesse-et-Beaulieu;;;0.595247;45.181375
+24010_0006_00022;22;;Rue de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.603057;45.176817
+24010_0180_00003;3;;Rue du Pont;24430;24010;Annesse-et-Beaulieu;;;0.592064;45.173053
+24010_0030_00014;14;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.590413;45.174053
+24010_0176_00009;9;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.589142;45.174158
+24010_btdsow_00002;2;;Lotissement à l'Orée du Bois;24430;24010;Annesse-et-Beaulieu;;;0.602174;45.180599
+24010_0028_00002;2;;Route de Chignac;24430;24010;Annesse-et-Beaulieu;;;0.605456;45.194013
+24010_0162_00050;50;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.600076;45.177484
+24010_0190_00001;1;;Chemin du Raysse;24430;24010;Annesse-et-Beaulieu;;;0.58784;45.176797
+24010_0085_00051;51;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590371;45.182869
+24010_dxxunb_00005;5;;Rue de la Plaine;24430;24010;Annesse-et-Beaulieu;;;0.609532;45.183522
+24010_0062_00021;21;;Rue de l'Ecluse;24430;24010;Annesse-et-Beaulieu;;;0.607849;45.180645
+24010_0086_00008;8;;Route Gare de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.606506;45.209061
+24010_0138_00041;41;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.581427;45.167786
+24010_0028_00007;7;;Route de Chignac;24430;24010;Annesse-et-Beaulieu;;;0.603953;45.192843
+24010_0094_00002;2;;Impasse les Grandes Terres;24430;24010;Annesse-et-Beaulieu;;;0.594078;45.179888
+24010_0176_00008;8;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.589348;45.174198
+24010_0176_00024;24;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.586437;45.174524
+24010_0200_00001;1;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.58889;45.171629
+24010_0200_00026;26;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.58383;45.171851
+24010_0048_00018;18;;Rue de la Croix Charles;24430;24010;Annesse-et-Beaulieu;;;0.598712;45.178813
+24010_0030_00025;25;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.589927;45.175382
+24010_0110_00006;6;;Rue de l'Isle;24430;24010;Annesse-et-Beaulieu;;;0.569725;45.165179
+24010_0027_00002;2;;Rue Chapelle Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.611432;45.193857
+24010_0200_00022;22;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.585281;45.17252
+24010_0220_00014;14;;Impasse du Terrier;24430;24010;Annesse-et-Beaulieu;;;0.578494;45.167771
+24010_smhc82_00512;512;;Route de la Grezerie;24430;24010;Annesse-et-Beaulieu;;512 la Grezerie;0.581205;45.183473
+24010_0162_00026;26;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.597136;45.176204
+24010_0185_00014;14;;Rue des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.588541;45.169998
+24010_0162_00017;17;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.597093;45.176392
+24010_0030_00006;6;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.591228;45.173736
+24010_0038_00022;22;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597639;45.179112
+24010_0176_00018;18;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.587763;45.174406
+24010_0162_00041;41;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.603379;45.179476
+24010_0006_00003;3;;Rue de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.602998;45.178473
+24010_0038_00059;59;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597309;45.182922
+24010_0065_00002;2;;Impasse des Ecoles;24430;24010;Annesse-et-Beaulieu;;;0.592005;45.174916
+24010_0096_00008;8;;Rue des Granges;24430;24010;Annesse-et-Beaulieu;;;0.577836;45.160317
+24010_0223_00020;20;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.586289;45.175116
+24010_0020_00008;8;;Rue des Bois;24430;24010;Annesse-et-Beaulieu;;;0.589405;45.184576
+24010_0162_00011;11;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.595205;45.175536
+24010_0176_00037;37;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.582897;45.174956
+24010_0085_00087;87;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.589901;45.186885
+24010_0120_00012;12;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.578117;45.170733
+24010_0162_00046_ter;46;ter;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.599328;45.177228
+24010_0223_00009;9;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.581719;45.173055
+24010_0200_00042;42;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.581422;45.172107
+24010_btdsow_00011;11;;Lotissement à l'Orée du Bois;24430;24010;Annesse-et-Beaulieu;;;0.601865;45.180678
+24010_0030_00024;24;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.589908;45.176174
+24010_0131_00014;14;;Route de Leypalou;24430;24010;Annesse-et-Beaulieu;;;0.577974;45.175995
+24010_0110_00005;5;;Rue de l'Isle;24430;24010;Annesse-et-Beaulieu;;;0.570066;45.164991
+24010_0162_00053;53;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.604936;45.182048
+24010_0038_00035;35;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.59677;45.180563
+24010_0223_00059;59;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.588965;45.177612
+24010_0113_00003;3;;Rue Jean Lasjaunias;24430;24010;Annesse-et-Beaulieu;;;0.589443;45.174761
+24010_0006_00007;7;;Rue de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.603179;45.1781
+24010_0200_00007;7;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.588696;45.171609
+24010_0200_00051;51;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.57909;45.172314
+24010_0176_00057;57;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.578094;45.177022
+24010_0048_00002;2;;Rue de la Croix Charles;24430;24010;Annesse-et-Beaulieu;;;0.601561;45.17827
+24010_0162_00070;70;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.6014;45.177893
+24010_0196_00008;8;;Rue Roger Gentric;24430;24010;Annesse-et-Beaulieu;;;0.608716;45.182506
+24010_0009_00012;12;;Route d'Annesse;24430;24010;Annesse-et-Beaulieu;;;0.567936;45.167594
+24010_0086_00001;1;;Route Gare de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.619896;45.19425
+24010_0138_00023;23;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.579373;45.167931
+24010_0235_00014;14;;Impasse du Vieux Chemin;24430;24010;Annesse-et-Beaulieu;;;0.584381;45.169613
+24010_0120_00006;6;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.578934;45.171483
+24010_0048_00007;7;;Rue de la Croix Charles;24430;24010;Annesse-et-Beaulieu;;;0.599077;45.178583
+24010_0184_00012;12;;Impasse des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.587066;45.169899
+24010_0001_00012;12;;Rue du 8 mai;24430;24010;Annesse-et-Beaulieu;;;0.591126;45.174769
+24010_0142_00007;7;;Impasse les Menades;24430;24010;Annesse-et-Beaulieu;;;0.596022;45.174596
+24010_0006_00015;15;;Rue de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.603427;45.178039
+24010_0135_00005;5;;Rue des Mailloques;24430;24010;Annesse-et-Beaulieu;;;0.577296;45.152402
+24010_0220_00006;6;;Impasse du Terrier;24430;24010;Annesse-et-Beaulieu;;;0.57849;45.168057
+24010_0223_00002;2;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.580281;45.172385
+24010_0200_00011;11;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.58773;45.171645
+24010_0009_00015;15;;Route d'Annesse;24430;24010;Annesse-et-Beaulieu;;;0.569329;45.16666
+24010_0200_00020_bis;20;bis;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.584448;45.171837
+24010_0138_00017;17;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.579066;45.168351
+24010_0235_00022_bis;22;bis;Impasse du Vieux Chemin;24430;24010;Annesse-et-Beaulieu;;;0.584866;45.17045
+24010_0110_00012;12;;Rue de l'Isle;24430;24010;Annesse-et-Beaulieu;;;0.568967;45.165668
+24010_0220_00008;8;;Impasse du Terrier;24430;24010;Annesse-et-Beaulieu;;;0.578423;45.167994
+24010_0030_00020;20;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.590122;45.175236
+24010_0015_00026;26;;Rue de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.612173;45.19251
+24010_0196_00003;3;;Rue Roger Gentric;24430;24010;Annesse-et-Beaulieu;;;0.607302;45.182606
+24010_0030_00008;8;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.591043;45.17377
+24010_0085_00039;39;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.592259;45.181786
+24010_0223_00001;1;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.580426;45.172598
+24010_0162_00032;32;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.597817;45.176593
+24010_0200_00020;20;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.58509;45.172116
+24010_0162_00043;43;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.603629;45.179727
+24010_0030_00041;41;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.589301;45.178608
+24010_0185_00006;6;;Rue des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.589666;45.170745
+24010_0090_00013;13;;Rue du Général de Gaulle;24430;24010;Annesse-et-Beaulieu;;;0.592003;45.173282
+24010_0085_00035;35;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.593043;45.181482
+24010_0147_00008;8;;Rue du Moulin;24430;24010;Annesse-et-Beaulieu;;;0.568401;45.167099
+24010_0100_00002;2;;Rue Robert Mellet;24430;24010;Annesse-et-Beaulieu;;;0.572152;45.162717
+24010_0205_00045;45;;Impasse de la Sapinière;24430;24010;Annesse-et-Beaulieu;;;0.581958;45.166885
+24010_0223_00049;49;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.587819;45.176479
+24010_0113_00009;9;;Rue Jean Lasjaunias;24430;24010;Annesse-et-Beaulieu;;;0.588447;45.17534
+24010_0176_00050;50;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.580768;45.176286
+24010_0048_00006;6;;Rue de la Croix Charles;24430;24010;Annesse-et-Beaulieu;;;0.600942;45.178391
+24010_0142_00002;2;;Impasse les Menades;24430;24010;Annesse-et-Beaulieu;;;0.595449;45.174977
+24010_0220_00002;2;;Impasse du Terrier;24430;24010;Annesse-et-Beaulieu;;;0.578531;45.168154
+24010_0120_00022;22;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.573203;45.16516
+24010_0185_00024;24;;Rue des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.586934;45.168678
+24010_0162_00001;1;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.592715;45.173023
+24010_0085_00031;31;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.5932;45.180649
+24010_0048_00011;11;;Rue de la Croix Charles;24430;24010;Annesse-et-Beaulieu;;;0.598404;45.17871
+24010_0090_00010;10;;Rue du Général de Gaulle;24430;24010;Annesse-et-Beaulieu;;;0.592566;45.173775
+24010_0138_00024;24;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.580462;45.167315
+24010_0196_00011;11;;Rue Roger Gentric;24430;24010;Annesse-et-Beaulieu;;;0.60905;45.182575
+24010_0200_00019;19;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.587029;45.17166
+24010_0005_00004;4;;Impasse de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.602875;45.177734
+24010_0001_00015;15;;Rue du 8 mai;24430;24010;Annesse-et-Beaulieu;;;0.591062;45.174737
+24010_0223_00024;24;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.587063;45.175834
+24010_0038_00012_bis;12;bis;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597302;45.177599
+24010_0113_00011;11;;Rue Jean Lasjaunias;24430;24010;Annesse-et-Beaulieu;;;0.588062;45.175463
+24010_0085_00023;23;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.595397;45.180128
+24010_0038_00028;28;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597739;45.179969
+24010_0131_00022;22;;Route de Leypalou;24430;24010;Annesse-et-Beaulieu;;;0.577991;45.177967
+24010_0120_00004;4;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.579405;45.171873
+24010_0162_00019;19;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.597495;45.176633
+24010_0200_00046;46;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.579779;45.172343
+24010_0030_00002_bis;2;bis;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.591522;45.173884
+24010_0138_00005;5;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.578234;45.168772
+24010_0060_00003;3;;Rue Jean Treffel;24430;24010;Annesse-et-Beaulieu;;;0.59062;45.173576
+24010_0176_00047;47;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.5806;45.175798
+24010_dxxunb_00014;14;;Rue de la Plaine;24430;24010;Annesse-et-Beaulieu;;;0.610361;45.182205
+24010_0048_00008;8;;Rue de la Croix Charles;24430;24010;Annesse-et-Beaulieu;;;0.600645;45.178418
+24010_0162_00034;34;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.59824;45.176778
+24010_0038_00007;7;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597007;45.17724
+24010_0176_00003;3;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.589619;45.173942
+24010_0062_00007;7;;Rue de l'Ecluse;24430;24010;Annesse-et-Beaulieu;;;0.607307;45.181795
+24010_0085_00028;28;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590917;45.18257
+24010_0012_00003;3;;Route des Balans;24430;24010;Annesse-et-Beaulieu;;;0.577105;45.171985
+24010_btdsow_00010;10;;Lotissement à l'Orée du Bois;24430;24010;Annesse-et-Beaulieu;;;0.601329;45.18095
+24010_0162_00020;20;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.594505;45.174671
+24010_0162_00038;38;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.599259;45.176895
+24010_0176_00017;17;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.587312;45.174336
+24010_0223_00008;8;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.58279;45.173327
+24010_0090_00011;11;;Rue du Général de Gaulle;24430;24010;Annesse-et-Beaulieu;;;0.592193;45.173402
+24010_0176_00046;46;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.580908;45.175727
+24010_0030_00034;34;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.589622;45.177666
+24010_0085_00069;69;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590971;45.18482
+24010_0045_00002;2;;Impasse des Combes;24430;24010;Annesse-et-Beaulieu;;;0.602331;45.178908
+24010_0027_00006;6;;Rue Chapelle Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.614629;45.194564
+24010_0162_00007;7;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.59447;45.174917
+24010_0196_00009;9;;Rue Roger Gentric;24430;24010;Annesse-et-Beaulieu;;;0.608841;45.182573
+24010_0223_00007;7;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.58105;45.172826
+24010_0176_00023;23;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.58612;45.174428
+24010_0085_00049;49;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590564;45.182572
+24010_0086_00006;6;;Route Gare de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.618375;45.194777
+24010_0162_00080;80;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.603939;45.179678
+24010_0070_00003;3;;Rue de l'Etang;24430;24010;Annesse-et-Beaulieu;;;0.604133;45.179036
+24010_0128_00004;4;;Rue du Lavoir;24430;24010;Annesse-et-Beaulieu;;;0.578332;45.168283
+24010_0165_00006;6;;Impasse des Peupliers;24430;24010;Annesse-et-Beaulieu;;;0.59069;45.177675
+24010_0223_00024_bis;24;bis;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.58747;45.176115
+24010_0085_00054;54;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.592148;45.185449
+24010_0120_00014;14;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.577988;45.17056
+24010_0113_00015;15;;Rue Jean Lasjaunias;24430;24010;Annesse-et-Beaulieu;;;0.587942;45.175566
+24010_0200_00036;36;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.582183;45.171972
+24010_0130_00003;3;;Impasse de Leypalou;24430;24010;Annesse-et-Beaulieu;;;0.579311;45.173985
+24010_0200_00022_bis;22;bis;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.585161;45.172186
+24010_0096_00002_bis;2;bis;Rue des Granges;24430;24010;Annesse-et-Beaulieu;;;0.577232;45.161232
+24010_0230_00006;6;;Impasse du Val;24430;24010;Annesse-et-Beaulieu;;;0.590944;45.17585
+24010_0085_00024;24;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.591817;45.182207
+24010_0128_00002;2;;Rue du Lavoir;24430;24010;Annesse-et-Beaulieu;;;0.578667;45.168239
+24010_0030_00037;37;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.589546;45.177375
+24010_0100_00016;16;;Rue Robert Mellet;24430;24010;Annesse-et-Beaulieu;;;0.571584;45.164754
+24010_0065_00001;1;;Impasse des Ecoles;24430;24010;Annesse-et-Beaulieu;;;0.591555;45.175107
+24010_0100_00015;15;;Rue Robert Mellet;24430;24010;Annesse-et-Beaulieu;;;0.571883;45.164189
+24010_0113_00001;1;;Rue Jean Lasjaunias;24430;24010;Annesse-et-Beaulieu;;;0.589624;45.174633
+24010_0062_00029;29;;Rue de l'Ecluse;24430;24010;Annesse-et-Beaulieu;;;0.610526;45.177232
+24010_0038_00030;30;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597778;45.180273
+24010_0015_00010;10;;Rue de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.615116;45.193806
+24010_0100_00001;1;;Rue Robert Mellet;24430;24010;Annesse-et-Beaulieu;;;0.57199;45.16287
+24010_0015_00002;2;;Rue de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.616589;45.194413
+24010_0147_00002;2;;Rue du Moulin;24430;24010;Annesse-et-Beaulieu;;;0.567698;45.166016
+24010_0138_00015;15;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.578961;45.168458
+24010_0090_00008;8;;Rue du Général de Gaulle;24430;24010;Annesse-et-Beaulieu;;;0.592698;45.173849
+24010_0230_00002;2;;Impasse du Val;24430;24010;Annesse-et-Beaulieu;;;0.590388;45.175471
+24010_0190_00007;7;;Chemin du Raysse;24430;24010;Annesse-et-Beaulieu;;;0.587877;45.177699
+24010_0060_00006;6;;Rue Jean Treffel;24430;24010;Annesse-et-Beaulieu;;;0.590517;45.17372
+24010_0085_00034;34;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590306;45.18334
+24010_0158_00001;1;;Impasse Pasteur;24430;24010;Annesse-et-Beaulieu;;;0.619385;45.191922
+24010_0085_00029;29;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.593846;45.181194
+24010_0223_00029;29;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.584872;45.174526
+24010_0162_00046_bis;46;bis;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.599685;45.176707
+24010_0030_00026;26;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.58988;45.176461
+24010_0090_00019;19;;Rue du Général de Gaulle;24430;24010;Annesse-et-Beaulieu;;;0.591702;45.173021
+24010_0235_00003;3;;Impasse du Vieux Chemin;24430;24010;Annesse-et-Beaulieu;;;0.583495;45.171227
+24010_0038_00033;33;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.596724;45.180373
+24010_0085_00071;71;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.591032;45.184813
+24010_0223_00027;27;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.584745;45.174506
+24010_0006_00009;9;;Rue de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.603284;45.177959
+24010_0096_00002;2;;Rue des Granges;24430;24010;Annesse-et-Beaulieu;;;0.577349;45.160939
+24010_0080_00001;1;;Chemin des Fausses;24430;24010;Annesse-et-Beaulieu;;;0.603381;45.180128
+24010_0009_00002;2;;Route d'Annesse;24430;24010;Annesse-et-Beaulieu;;;0.570945;45.165765
+24010_0110_00007;7;;Rue de l'Isle;24430;24010;Annesse-et-Beaulieu;;;0.569542;45.165187
+24010_0048_00001;1;;Rue de la Croix Charles;24430;24010;Annesse-et-Beaulieu;;;0.600819;45.178283
+24010_0039_00006;6;;Impasse des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.596432;45.181657
+24010_0131_00002;2;;Route de Leypalou;24430;24010;Annesse-et-Beaulieu;;;0.577595;45.172771
+24010_0048_00005;5;;Rue de la Croix Charles;24430;24010;Annesse-et-Beaulieu;;;0.599467;45.178542
+24010_0200_00039;39;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.581941;45.171836
+24010_0176_00012;12;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.588388;45.174455
+24010_0223_00057;57;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.588847;45.177401
+24010_0200_00023;23;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.586085;45.171678
+24010_0048_00015;15;;Rue de la Croix Charles;24430;24010;Annesse-et-Beaulieu;;;0.597644;45.178895
+24010_0185_00002;2;;Rue des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.590412;45.171917
+24010_0096_00012;12;;Rue des Granges;24430;24010;Annesse-et-Beaulieu;;;0.577853;45.160142
+24010_0162_00037;37;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.600243;45.177675
+24010_0131_00002_bis;2;bis;Route de Leypalou;24430;24010;Annesse-et-Beaulieu;;;0.5777;45.172981
+24010_0025_00003;3;;Chemin des Cavaliers;24430;24010;Annesse-et-Beaulieu;;;0.590403;45.18544
+24010_0174_00001;1;;Rue de la Planche;24430;24010;Annesse-et-Beaulieu;;;0.59043;45.182633
+24010_0138_00029;29;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.579918;45.167725
+24010_0162_00028;28;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.597302;45.176338
+24010_0162_00044;44;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.598959;45.177147
+24010_0200_00050;50;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.578911;45.172475
+24010_0162_00004;4;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.59304;45.173056
+24010_0009_00009;9;;Route d'Annesse;24430;24010;Annesse-et-Beaulieu;;;0.57025;45.166325
+24010_0038_00016;16;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597541;45.178136
+24010_0200_00018;18;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.585137;45.171926
+24010_0120_00016;16;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.577622;45.169669
+24010_0095_00004;4;;Impasse des Granges;24430;24010;Annesse-et-Beaulieu;;;0.577968;45.160752
+24010_0223_00032;32;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.588383;45.176781
+24010_0039_00002;2;;Impasse des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.59648;45.182462
+24010_0183_00002;2;;Chemin de Pracoulier;24430;24010;Annesse-et-Beaulieu;;;0.609701;45.195009
+24010_0165_00002;2;;Impasse des Peupliers;24430;24010;Annesse-et-Beaulieu;;;0.590059;45.17773
+24010_0030_00028;28;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.589865;45.176607
+24010_0138_00032;32;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.581424;45.166286
+24010_0190_00002_bis;2;bis;Chemin du Raysse;24430;24010;Annesse-et-Beaulieu;;;0.58812;45.17745
+24010_0200_00024;24;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.584176;45.171849
+24010_0176_00048;48;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.580841;45.176254
+24010_0085_00065;65;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590806;45.184473
+24010_0060_00005;5;;Rue Jean Treffel;24430;24010;Annesse-et-Beaulieu;;;0.590543;45.173627
+24010_0100_00006;6;;Rue Robert Mellet;24430;24010;Annesse-et-Beaulieu;;;0.572275;45.16327
+24010_0162_00094;94;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.608353;45.183843
+24010_0085_00055;55;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590045;45.183462
+24010_0015_00006;6;;Rue de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.61602;45.194261
+24010_0030_00036;36;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.589582;45.177942
+24010_0001_00014;14;;Rue du 8 mai;24430;24010;Annesse-et-Beaulieu;;;0.59096;45.174837
+24010_btdsow_00006;6;;Lotissement à l'Orée du Bois;24430;24010;Annesse-et-Beaulieu;;;0.601767;45.180899
+24010_0162_00074;74;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.602397;45.178439
+24010_0038_00037;37;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597517;45.180597
+24010_0162_00084;84;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.606743;45.183099
+24010_0094_00001;1;;Impasse les Grandes Terres;24430;24010;Annesse-et-Beaulieu;;;0.594569;45.180142
+24010_0009_00017;17;;Route d'Annesse;24430;24010;Annesse-et-Beaulieu;;;0.569029;45.16684
+24010_dxxunb_00004;4;;Rue de la Plaine;24430;24010;Annesse-et-Beaulieu;;;0.609279;45.18375
+24010_0185_00012;12;;Rue des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.58909;45.170336
+24010_0030_00035;35;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.589585;45.177208
+24010_0090_00014;14;;Rue du Général de Gaulle;24430;24010;Annesse-et-Beaulieu;;;0.592286;45.173582
+24010_0142_00003;3;;Impasse les Menades;24430;24010;Annesse-et-Beaulieu;;;0.595629;45.174958
+24010_0094_00006;6;;Impasse les Grandes Terres;24430;24010;Annesse-et-Beaulieu;;;0.594681;45.179538
+24010_0006_00010;10;;Rue de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.602839;45.177961
+24010_0138_00043;43;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.581184;45.167124
+24010_0030_00015;15;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.590652;45.173798
+24010_0176_00006;6;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.589467;45.174131
+24010_0096_00006;6;;Rue des Granges;24430;24010;Annesse-et-Beaulieu;;;0.577656;45.160658
+24010_0009_00015_bis;15;bis;Route d'Annesse;24430;24010;Annesse-et-Beaulieu;;;0.569259;45.166635
+24010_0060_00009;9;;Rue Jean Treffel;24430;24010;Annesse-et-Beaulieu;;;0.590324;45.173773
+24010_btdsow_00013;13;;Lotissement à l'Orée du Bois;24430;24010;Annesse-et-Beaulieu;;;0.601663;45.180823
+24010_0235_00011;11;;Impasse du Vieux Chemin;24430;24010;Annesse-et-Beaulieu;;;0.583223;45.170387
+24010_0162_00010;10;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.593468;45.173511
+24010_0006_00029;29;;Rue de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.602703;45.177316
+24010_0138_00030;30;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.581348;45.166904
+24010_0038_00009;9;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597136;45.177516
+24010_0015_00014;14;;Rue de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.614517;45.193509
+24010_0027_00001;1;;Rue Chapelle Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.611441;45.195281
+24010_0138_00016;16;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.57959;45.167742
+24010_0095_00002;2;;Impasse des Granges;24430;24010;Annesse-et-Beaulieu;;;0.577902;45.160712
+24010_0185_00008;8;;Rue des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.589552;45.170678
+24010_0142_00001;1;;Impasse les Menades;24430;24010;Annesse-et-Beaulieu;;;0.595397;45.175183
+24010_0200_00045;45;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.580886;45.172022
+24010_0162_00039;39;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.603184;45.179358
+24010_0120_00015;15;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.578297;45.170683
+24010_0028_00006;6;;Route de Chignac;24430;24010;Annesse-et-Beaulieu;;;0.60605;45.195084
+24010_0176_00001;1;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.589926;45.17375
+24010_0162_00008;8;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.593178;45.173164
+24010_0138_00009;9;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.578681;45.168577
+24010_0030_00039;39;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.589441;45.177634
+24010_0190_00002;2;;Chemin du Raysse;24430;24010;Annesse-et-Beaulieu;;;0.588022;45.178202
+24010_0062_00023;23;;Rue de l'Ecluse;24430;24010;Annesse-et-Beaulieu;;;0.607872;45.180537
+24010_0131_00004;4;;Route de Leypalou;24430;24010;Annesse-et-Beaulieu;;;0.578097;45.173619
+24010_0235_00012;12;;Impasse du Vieux Chemin;24430;24010;Annesse-et-Beaulieu;;;0.584222;45.169702
+24010_0048_00004;4;;Rue de la Croix Charles;24430;24010;Annesse-et-Beaulieu;;;0.601256;45.178309
+24010_0185_00019;19;;Rue des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.58892;45.17008
+24010_0038_00008;8;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597195;45.177353
+24010_0096_00005;5;;Rue des Granges;24430;24010;Annesse-et-Beaulieu;;;0.577518;45.160963
+24010_0080_00005;5;;Chemin des Fausses;24430;24010;Annesse-et-Beaulieu;;Les Fausses;0.600367;45.181178
+24010_0200_00038;38;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.582053;45.172
+24010_0015_00025;25;;Rue de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.6112;45.191886
+24010_0085_00026;26;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.591321;45.182419
+24010_0200_00006;6;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.587688;45.171791
+24010_0120_00021;21;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.577843;45.169815
+24010_0030_00018;18;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.58996;45.174774
+24010_0128_00009;9;;Rue du Lavoir;24430;24010;Annesse-et-Beaulieu;;;0.577165;45.168282
+24010_0200_00033;33;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.582853;45.171722
+24010_0162_00009;9;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.595167;45.175469
+24010_0094_00003;3;;Impasse les Grandes Terres;24430;24010;Annesse-et-Beaulieu;;;0.594881;45.179509
+24010_0001_00011;11;;Rue du 8 mai;24430;24010;Annesse-et-Beaulieu;;;0.591152;45.174459
+24010_0120_00014_bis;14;bis;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.577773;45.170145
+24010_0065_00001_bis;1;bis;Impasse des Ecoles;24430;24010;Annesse-et-Beaulieu;;;0.591364;45.17515
+24010_0038_00061;61;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.609254;45.195881
+24010_0030_00029;29;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.589917;45.175699
+24010_0090_00002;2;;Rue du Général de Gaulle;24430;24010;Annesse-et-Beaulieu;;;0.593182;45.174241
+24010_0038_00033_bis;33;bis;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.596649;45.180476
+24010_0220_00012;12;;Impasse du Terrier;24430;24010;Annesse-et-Beaulieu;;;0.57838;45.167862
+24010_0085_00032;32;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590449;45.183044
+24010_0085_00025;25;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.594839;45.180564
+24010_dxxunb_00018;18;;Rue de la Plaine;24430;24010;Annesse-et-Beaulieu;;;0.610975;45.181309
+24010_0200_00028;28;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.58343;45.171861
+24010_0155_00001;1;;Rue des Parcs;24430;24010;Annesse-et-Beaulieu;;;0.572865;45.164095
+24010_0138_00012;12;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.578984;45.168089
+24010_0200_00021;21;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.586704;45.171634
+24010_0100_00014;14;;Rue Robert Mellet;24430;24010;Annesse-et-Beaulieu;;;0.571693;45.164588
+24010_0200_00015;15;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.587577;45.171655
+24010_0113_00017;17;;Rue Jean Lasjaunias;24430;24010;Annesse-et-Beaulieu;;;0.587783;45.175621
+24010_0028_00008;8;;Route de Chignac;24430;24010;Annesse-et-Beaulieu;;;0.604556;45.193696
+24010_0001_00010_bis;10;bis;Rue du 8 mai;24430;24010;Annesse-et-Beaulieu;;;0.591168;45.17432
+24010_0090_00017;17;;Rue du Général de Gaulle;24430;24010;Annesse-et-Beaulieu;;;0.59194;45.173245
+24010_0028_00005;5;;Route de Chignac;24430;24010;Annesse-et-Beaulieu;;;0.604459;45.193378
+24010_0162_00056;56;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.600902;45.176543
+24010_0176_00044;44;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.581182;45.175525
+24010_0085_00021;21;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.595596;45.179856
+24010_0176_00031;31;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.584352;45.174924
+24010_0062_00002;2;;Rue de l'Ecluse;24430;24010;Annesse-et-Beaulieu;;;0.606441;45.18238
+24010_0110_00008;8;;Rue de l'Isle;24430;24010;Annesse-et-Beaulieu;;;0.569406;45.165339
+24010_0162_00100;100;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.610699;45.185904
+24010_0085_00059;59;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590167;45.183625
+24010_0176_00005;5;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.589477;45.174038
+24010_0006_00011;11;;Rue de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.60334;45.177992
+24010_0158_00003;3;;Impasse Pasteur;24430;24010;Annesse-et-Beaulieu;;;0.620225;45.191811
+24010_0085_00044;44;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590962;45.184506
+24010_0087_02755;2755;;Route des Genêts;24430;24010;Annesse-et-Beaulieu;;;0.610807;45.206788
+24010_0174_00007;7;;Rue de la Planche;24430;24010;Annesse-et-Beaulieu;;;0.589445;45.183476
+24010_0176_00011;11;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.588247;45.174329
+24010_0001_00004;4;;Rue du 8 mai;24430;24010;Annesse-et-Beaulieu;;;0.590893;45.173931
+24010_0025_00005;5;;Chemin des Cavaliers;24430;24010;Annesse-et-Beaulieu;;;0.589979;45.185211
+24010_0048_00003;3;;Rue de la Croix Charles;24430;24010;Annesse-et-Beaulieu;;;0.600186;45.178419
+24010_0080_00003;3;;Chemin des Fausses;24430;24010;Annesse-et-Beaulieu;;;0.603227;45.180367
+24010_0085_00046;46;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.591283;45.184778
+24010_0120_00023;23;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.577674;45.169503
+24010_0025_00002;2;;Chemin des Cavaliers;24430;24010;Annesse-et-Beaulieu;;;0.590553;45.185591
+24010_0223_00051;51;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;Le Raysse;0.588548;45.177023
+24010_0222_00006;6;;Impasse des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.583054;45.173347
+24010_0223_00053;53;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.588725;45.177203
+24010_0100_00009;9;;Rue Robert Mellet;24430;24010;Annesse-et-Beaulieu;;;0.572043;45.163958
+24010_0012_00007;7;;Route des Balans;24430;24010;Annesse-et-Beaulieu;;;0.576656;45.171497
+24010_0200_00016;16;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.58522;45.171885
+24010_btdsow_00016;16;;Lotissement à l'Orée du Bois;24430;24010;Annesse-et-Beaulieu;;;0.601825;45.180183
+24010_0006_00017;17;;Rue de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.603249;45.177873
+24010_0185_00010;10;;Rue des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.58929;45.17051
+24010_0185_00017;17;;Rue des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.589144;45.170232
+24010_0165_00012;12;;Impasse des Peupliers;24430;24010;Annesse-et-Beaulieu;;;0.59032;45.177926
+24010_0185_00020;20;;Rue des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.587332;45.169131
+24010_0015_00024;24;;Rue de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.612766;45.192852
+24010_0085_00041;41;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.591902;45.182041
+24010_0085_00074;74;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.588897;45.1883
+24010_0138_00010;10;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.578744;45.168148
+24010_0062_00019;19;;Rue de l'Ecluse;24430;24010;Annesse-et-Beaulieu;;;0.60758;45.181066
+24010_0038_00062;62;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.610037;45.200982
+24010_0113_00006;6;;Rue Jean Lasjaunias;24430;24010;Annesse-et-Beaulieu;;;0.588381;45.175473
+24010_0180_00001;1;;Rue du Pont;24430;24010;Annesse-et-Beaulieu;;;0.591907;45.173168
+24010_0184_00004;4;;Impasse des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.587961;45.170452
+24010_0200_00037;37;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.582184;45.171769
+24010_0085_00040;40;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590827;45.184325
+24010_0085_00050;50;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.591583;45.184955
+24010_0138_00027;27;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.579595;45.167862
+24010_0135_00003;3;;Rue des Mailloques;24430;24010;Annesse-et-Beaulieu;;;0.579563;45.157505
+24010_0015_00004;4;;Rue de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.616493;45.194392
+24010_0162_00076;76;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.603153;45.179095
+24010_0096_00004;4;;Rue des Granges;24430;24010;Annesse-et-Beaulieu;;;0.577532;45.160828
+24010_0235_00001;1;;Impasse du Vieux Chemin;24430;24010;Annesse-et-Beaulieu;;;0.583469;45.171514
+24010_0029_00001;1;;Impasse des Chalambres;24430;24010;Annesse-et-Beaulieu;;;0.595002;45.181063
+24010_0120_00007;7;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.578864;45.171232
+24010_0138_00035;35;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.580275;45.16758
+24010_0038_00012;12;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597369;45.177751
+24010_0085_00014;14;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.593652;45.181481
+24010_0162_00046;46;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.59923;45.17724
+24010_0176_00015;15;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.587859;45.174322
+24010_0162_00036;36;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.598349;45.176857
+24010_0162_00088;88;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.607057;45.18326
+24010_0176_00028;28;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.584953;45.174881
+24010_0027_00004;4;;Rue Chapelle Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.611445;45.193763
+24010_0147_00006;6;;Rue du Moulin;24430;24010;Annesse-et-Beaulieu;;;0.568018;45.166508
+24010_0030_00010;10;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.59059;45.173917
+24010_0096_00010;10;;Rue des Granges;24430;24010;Annesse-et-Beaulieu;;;0.577676;45.160289
+24010_0085_00060;60;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.591032;45.185907
+24010_0060_00002;2;;Rue Jean Treffel;24430;24010;Annesse-et-Beaulieu;;;0.59088;45.173517
+24010_0162_00068;68;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.601233;45.177836
+24010_0090_00012;12;;Rue du Général de Gaulle;24430;24010;Annesse-et-Beaulieu;;;0.592405;45.173656
+24010_0138_00039;39;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.580989;45.16733
+24010_0200_00025;25;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.585745;45.171677
+24010_0042_00005;5;;Impasse de la Colline;24430;24010;Annesse-et-Beaulieu;;;0.59185;45.181577
+24010_0138_00026;26;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.580794;45.167137
+24010_0030_00005;5;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.591544;45.173258
+24010_0162_00054;54;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.600761;45.176676
+24010_0176_00010;10;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.589261;45.174235
+24010_dxxunb_00012;12;;Rue de la Plaine;24430;24010;Annesse-et-Beaulieu;;;0.610237;45.182387
+24010_0138_00003;3;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.577924;45.168923
+24010_0062_00025;25;;Rue de l'Ecluse;24430;24010;Annesse-et-Beaulieu;;;0.608056;45.180287
+24010_0138_00001;1;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.57773;45.169011
+24010_0185_00003;3;;Rue des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.590477;45.17172
+24010_dxxunb_00009;9;;Rue de la Plaine;24430;24010;Annesse-et-Beaulieu;;;0.609985;45.182961
+24010_0038_00041;41;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597396;45.181224
+24010_0184_00008;8;;Impasse des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.587465;45.170174
+24010_0020_00006;6;;Rue des Bois;24430;24010;Annesse-et-Beaulieu;;;0.589451;45.184389
+24010_0085_00017;17;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.596223;45.179339
+24010_0162_00014;14;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.593816;45.173979
+24010_dxxunb_00005_bis;5;bis;Rue de la Plaine;24430;24010;Annesse-et-Beaulieu;;;0.609534;45.183639
+24010_0176_00002;2;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.589997;45.173834
+24010_0155_00002;2;;Rue des Parcs;24430;24010;Annesse-et-Beaulieu;;;0.574767;45.163409
+24010_0030_00002;2;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.591612;45.173838
+24010_0100_00017;17;;Rue Robert Mellet;24430;24010;Annesse-et-Beaulieu;;;0.571755;45.164374
+24010_0029_00002;2;;Impasse des Chalambres;24430;24010;Annesse-et-Beaulieu;;;0.595256;45.180547
+24010_0162_00042;42;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.598756;45.177059
+24010_0045_00007;7;;Impasse des Combes;24430;24010;Annesse-et-Beaulieu;;;0.601617;45.179163
+24010_0020_00010;10;;Rue des Bois;24430;24010;Annesse-et-Beaulieu;;;0.589167;45.184875
+24010_0162_00072;72;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.601665;45.178035
+24010_0048_00024;24;;Rue de la Croix Charles;24430;24010;Annesse-et-Beaulieu;;;0.598188;45.178897
+24010_0038_00018;18;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597586;45.178286
+24010_0030_00019;19;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.590216;45.174094
+24010_0162_00051;51;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.604889;45.182017
+24010_0196_00002;2;;Rue Roger Gentric;24430;24010;Annesse-et-Beaulieu;;;0.606686;45.182563
+24010_0120_00018;18;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.577262;45.169074
+24010_0162_00096;96;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.609647;45.184865
+24010_0085_00008;8;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.595827;45.179961
+24010_0096_00011_bis;11;bis;Rue des Granges;24430;24010;Annesse-et-Beaulieu;;;0.577967;45.160256
+24010_0030_00032;32;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.589712;45.177223
+24010_0110_00016;16;;Rue de l'Isle;24430;24010;Annesse-et-Beaulieu;;;0.568317;45.165583
+24010_0020_00011;11;;Rue des Bois;24430;24010;Annesse-et-Beaulieu;;Les Fieux Ouest;0.588803;45.185285
+24010_0015_00020;20;;Rue de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.613353;45.193097
+24010_0006_00023;23;;Rue de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.602549;45.177814
+24010_0062_00005;5;;Rue de l'Ecluse;24430;24010;Annesse-et-Beaulieu;;;0.607063;45.181762
+24010_0015_00022;22;;Rue de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.613229;45.193061
+24010_0120_00026;26;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.572001;45.164545
+24010_0085_00066;66;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590041;45.186941
+24010_0090_00003;3;;Rue du Général de Gaulle;24430;24010;Annesse-et-Beaulieu;;;0.592889;45.173704
+24010_0235_00022;22;;Impasse du Vieux Chemin;24430;24010;Annesse-et-Beaulieu;;;0.585308;45.170312
+24010_0085_00068;68;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.589916;45.187078
+24010_0085_00042;42;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590938;45.184482
+24010_0065_00004;4;;Impasse des Ecoles;24430;24010;Annesse-et-Beaulieu;;;0.591611;45.174892
+24010_0006_00005;5;;Rue de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.602993;45.17846
+24010_0120_00019;19;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.577846;45.17005
+24010_0085_00033;33;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.593533;45.181365
+24010_0176_00045;45;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.581054;45.175492
+24010_0142_00005;5;;Impasse les Menades;24430;24010;Annesse-et-Beaulieu;;;0.595845;45.174755
+24010_0070_00016;16;;Rue de l'Etang;24430;24010;Annesse-et-Beaulieu;;;0.604488;45.178661
+24010_0090_00005;5;;Rue du Général de Gaulle;24430;24010;Annesse-et-Beaulieu;;;0.592377;45.173552
+24010_0009_00019;19;;Route d'Annesse;24430;24010;Annesse-et-Beaulieu;;;0.567934;45.167365
+24010_0138_00037;37;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.580427;45.16748
+24010_0124_00008;8;;Chemin de la Lande;24430;24010;Annesse-et-Beaulieu;;;0.57188;45.169948
+24010_0035_00002;2;;Impasse des Clausaux;24430;24010;Annesse-et-Beaulieu;;;0.58997;45.172523
+24010_dxxunb_00015;15;;Rue de la Plaine;24430;24010;Annesse-et-Beaulieu;;;0.610459;45.182339
+24010_0100_00010;10;;Rue Robert Mellet;24430;24010;Annesse-et-Beaulieu;;;0.572309;45.163983
+24010_0038_00047;47;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597506;45.181269
+24010_0020_00014;14;;Rue des Bois;24430;24010;Annesse-et-Beaulieu;;;0.588966;45.18519
+24010_0070_00014;14;;Rue de l'Etang;24430;24010;Annesse-et-Beaulieu;;;0.604225;45.178831
+24010_0200_00059;59;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.574387;45.171973
+24010_0120_00008;8;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.578823;45.171355
+24010_0045_00006;6;;Impasse des Combes;24430;24010;Annesse-et-Beaulieu;;;0.601928;45.179147
+24010_0162_00035;35;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.599666;45.177553
+24010_0200_00017;17;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.587219;45.171623
+24010_0015_00009;9;;Rue de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.615264;45.193735
+24010_0009_00001;1;;Route d'Annesse;24430;24010;Annesse-et-Beaulieu;;;0.57075;45.165742
+24010_0200_00055;55;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.578819;45.172346
+24010_0060_00007;7;;Rue Jean Treffel;24430;24010;Annesse-et-Beaulieu;;;0.590419;45.173714
+24010_0001_00005;5;;Rue du 8 mai;24430;24010;Annesse-et-Beaulieu;;;0.590739;45.174111
+24010_0162_00033;33;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.599511;45.177561
+24010_0162_00029;29;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.598961;45.17733
+24010_0048_00009;9;;Rue de la Croix Charles;24430;24010;Annesse-et-Beaulieu;;;0.598631;45.178718
+24010_0184_00002;2;;Impasse des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.588178;45.170428
+24010_0038_00026;26;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597717;45.17971
+24010_0138_00022;22;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.580193;45.167492
+24010_0131_00028;28;;Route de Leypalou;24430;24010;Annesse-et-Beaulieu;;;0.577871;45.17927
+24010_0012_00009;9;;Route des Balans;24430;24010;Annesse-et-Beaulieu;;;0.576153;45.171179
+24010_0038_00032;32;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597719;45.181105
+24010_0038_00014_bis;14;bis;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.59757;45.178216
+24010_0138_00031;31;;Rue Marcel Megardon;24430;24010;Annesse-et-Beaulieu;;;0.580048;45.16768
+24010_0176_00026;26;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.585952;45.174585
+24010_0162_00031;31;;Route de Périgueux;24430;24010;Annesse-et-Beaulieu;;;0.599406;45.177489
+24010_0085_00062;62;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590752;45.186177
+24010_0200_00040;40;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.581615;45.172062
+24010_0006_00021;21;;Rue de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.603148;45.177954
+24010_0223_00026;26;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.587729;45.176263
+24010_0030_00033;33;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.589671;45.176827
+24010_0110_00003;3;;Rue de l'Isle;24430;24010;Annesse-et-Beaulieu;;;0.570422;45.164918
+24010_0205_00047;47;;Impasse de la Sapinière;24430;24010;Annesse-et-Beaulieu;;;0.582227;45.167311
+24010_btdsow_00012;12;;Lotissement à l'Orée du Bois;24430;24010;Annesse-et-Beaulieu;;;0.601216;45.180871
+24010_btdsow_00005;5;;Lotissement à l'Orée du Bois;24430;24010;Annesse-et-Beaulieu;;;0.602288;45.180349
+24010_0085_00053;53;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590142;45.183239
+24010_0020_00005;5;;Rue des Bois;24430;24010;Annesse-et-Beaulieu;;;0.589304;45.184498
+24010_0005_00003;3;;Impasse de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.602895;45.177832
+24010_0220_00004;4;;Impasse du Terrier;24430;24010;Annesse-et-Beaulieu;;;0.578496;45.168108
+24010_0039_00004;4;;Impasse des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.596422;45.181871
+24010_0085_00081;81;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590692;45.18605
+24010_0174_00005;5;;Rue de la Planche;24430;24010;Annesse-et-Beaulieu;;;0.589717;45.182811
+24010_0015_00011;11;;Rue de Beaulieu;24430;24010;Annesse-et-Beaulieu;;;0.615207;45.193702
+24010_0030_00007;7;;Rue du Colonel Gaucher;24430;24010;Annesse-et-Beaulieu;;;0.591156;45.173429
+24010_0185_00022;22;;Rue des Prairies;24430;24010;Annesse-et-Beaulieu;;;0.58709;45.168849
+24010_0223_00006;6;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.582037;45.173069
+24010_0038_00055;55;;Route des Clèdes;24430;24010;Annesse-et-Beaulieu;;;0.597208;45.182452
+24010_0085_00030;30;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.590527;45.182893
+24010_0085_00050_bis;50;bis;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.591566;45.184934
+24010_0035_00007;7;;Impasse des Clausaux;24430;24010;Annesse-et-Beaulieu;;;0.589574;45.172904
+24010_btdsow_00009;9;;Lotissement à l'Orée du Bois;24430;24010;Annesse-et-Beaulieu;;;0.602073;45.18053
+24010_0012_00002;2;;Route des Balans;24430;24010;Annesse-et-Beaulieu;;;0.576813;45.172133
+24010_0223_00037;37;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.586243;45.175238
+24010_0223_00012;12;;Route des Terrières;24430;24010;Annesse-et-Beaulieu;;;0.58361;45.173682
+24010_0200_00008;8;;Route de Saint-Astier;24430;24010;Annesse-et-Beaulieu;;;0.587455;45.171776
+24010_0176_00021;21;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.586601;45.174376
+24010_0006_00031;31;;Rue de l'Anglade;24430;24010;Annesse-et-Beaulieu;;;0.602712;45.177302
+24010_0001_00010;10;;Rue du 8 mai;24430;24010;Annesse-et-Beaulieu;;;0.59108;45.174205
+24010_0196_00005;5;;Rue Roger Gentric;24430;24010;Annesse-et-Beaulieu;;;0.607548;45.182574
+24010_0093_00001;1;;Rue des Giroux;24430;24010;Annesse-et-Beaulieu;;;0.581435;45.156372
+24010_0045_00010;10;;Impasse des Combes;24430;24010;Annesse-et-Beaulieu;;;0.60145;45.179388
+24010_0090_00001;1;;Rue du Général de Gaulle;24430;24010;Annesse-et-Beaulieu;;;0.592946;45.173878
+24010_0085_00010;10;;Route des Fieux;24430;24010;Annesse-et-Beaulieu;;;0.595429;45.180376
+24010_0009_00003;3;;Route d'Annesse;24430;24010;Annesse-et-Beaulieu;;;0.570412;45.166111
+24010_0176_00054;54;;Route des Plantes;24430;24010;Annesse-et-Beaulieu;;;0.578896;45.17683
+24010_0048_00010;10;;Rue de la Croix Charles;24430;24010;Annesse-et-Beaulieu;;;0.600527;45.178433
+24010_0128_00006;6;;Rue du Lavoir;24430;24010;Annesse-et-Beaulieu;;;0.578312;45.168232
+24010_0065_00003;3;;Impasse des Ecoles;24430;24010;Annesse-et-Beaulieu;;;0.591481;45.174867
+24010_0120_00039;39;;Rue de Lachenal;24430;24010;Annesse-et-Beaulieu;;;0.572291;45.164595
+24010_0100_00012;12;;Rue Robert Mellet;24430;24010;Annesse-et-Beaulieu;;;0.571956;45.164189
+24010_0062_00009;9;;Rue de l'Ecluse;24430;24010;Annesse-et-Beaulieu;;;0.60732;45.181778
+24010_0110_00002;2;;Rue de l'Isle;24430;24010;Annesse-et-Beaulieu;;;0.570786;45.165137

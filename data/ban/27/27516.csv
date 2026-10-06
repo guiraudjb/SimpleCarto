@@ -1,0 +1,853 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+27516_9679_00021;21;;impasse de la groudière;27270;27516;Treis-Sants-en-Ouche;;Saint-Quentin-des-Isles;0.588236;49.044424
+27516_9679_00022;22;;impasse de la groudière;27270;27516;Treis-Sants-en-Ouche;;Saint-Quentin-des-Isles;0.588236;49.044424
+27516_9679_00023;23;;impasse de la groudière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.585534;49.045216
+27516_9679_00022_bis;22;bis;impasse de la groudière;27270;27516;Treis-Sants-en-Ouche;;Saint-Quentin-des-Isles;0.588236;49.044424
+27516_0195_00002;2;;Route des Ecoles;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608165;49.05103
+27516_0195_00005;5;;Route des Ecoles;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608676;49.051204
+27516_0195_00007;7;;Route des Ecoles;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608927;49.051464
+27516_0090_00001;1;;Chemin de la Boquerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.635167;49.06943
+27516_0470_00002;2;;Chemin du Manoir;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.583668;49.059465
+27516_0470_00003;3;;Chemin du Manoir;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.582488;49.058467
+27516_0140_00002;2;;Chemin du Cherez;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.628068;49.050862
+27516_0469_00001;1;;Chemin de Malouve;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.585236;49.06174
+27516_9674_00011;11;;route de ferrières;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570645;49.047336
+27516_9674_00012;12;;route de ferrières;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570955;49.048514
+27516_0195_00008;8;;Route des Ecoles;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609378;49.051747
+27516_0195_00009;9;;Route des Ecoles;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.60974;49.051988
+27516_0195_00010;10;;Route des Ecoles;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610932;49.053099
+27516_0470_00001_bis;1;bis;Chemin du Manoir;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.585775;49.061388
+27516_9641_00035;35;;Impasse du Doisle;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.659324;49.069766
+27516_0140_00003;3;;Chemin du Cherez;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.628514;49.049978
+27516_0472_00027;27;;Rue du Manoir;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608324;49.074628
+27516_0472_00029;29;;Rue du Manoir;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.608792;49.073745
+27516_0215_00002;2;;Chemin de la Fagere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610732;49.056127
+27516_9674_00042;42;;route de ferrières;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.571278;49.044551
+27516_0215_00004;4;;Chemin de la Fagere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608781;49.056092
+27516_0215_00002_bis;2;bis;Chemin de la Fagere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.611261;49.055951
+27516_0215_00003_bis;3;bis;Chemin de la Fagere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.609088;49.056303
+27516_0215_00002_ter;2;ter;Chemin de la Fagere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.609915;49.0561
+27516_0110_00003;3;;Chemin de la Briqueterie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.613276;49.077436
+27516_0110_00004;4;;Chemin de la Briqueterie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.613065;49.077421
+27516_0110_00002_a;2;a;Chemin de la Briqueterie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.61143;49.077426
+27516_0515_00001;1;;Chemin de la Motte;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.615114;49.049531
+27516_9658_00245;245;;Rue de la Masseliniere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.652736;49.051024
+27516_9658_00305;305;;Rue de la Masseliniere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.653096;49.05053
+27516_9649_00395;395;;rue des granges l'abbé;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.679208;49.05485
+27516_9688_00054;54;;route de la vallée;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.580203;49.048138
+27516_9688_00091;91;;route de la vallée;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.577837;49.051652
+27516_9688_00108;108;;route de la vallée;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.579206;49.053039
+27516_9688_00117;117;;route de la vallée;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.579553;49.053351
+27516_0590_00001;1;;Chemin de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.617055;49.069123
+27516_0590_00007;7;;Chemin de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.61769;49.070204
+27516_0590_00010;10;;Chemin de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.617055;49.069123
+27516_9654_00005;5;;Rue de la Mairie;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.664442;49.065294
+27516_9654_00090;90;;Rue de la Mairie;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.664454;49.065503
+27516_9654_00171;171;;Rue de la Mairie;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.663457;49.065207
+27516_0250_00001;1;;Chemin de la Galopiniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608803;49.082124
+27516_0250_00002;2;;Chemin de la Galopiniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608588;49.082304
+27516_0250_00005;5;;Chemin de la Galopiniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607712;49.083032
+27516_0250_00006;6;;Chemin de la Galopiniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607198;49.08346
+27516_0250_00009;9;;Chemin de la Galopiniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607176;49.083611
+27516_0250_00010;10;;Chemin de la Galopiniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607441;49.083386
+27516_0250_00011;11;;Chemin de la Galopiniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.60801;49.082918
+27516_9683_00012;12;;Rue du Puits Commun;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.573177;49.064125
+27516_0128_00001;1;;chemin de la charmille;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.628388;49.076947
+27516_9657_00051;51;;Impasse de la Mare Hue;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.662014;49.070285
+27516_9635_00025;25;;Impasse des Charmilles;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.657729;49.071625
+27516_9635_00089;89;;Impasse des Charmilles;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.657951;49.071718
+27516_9652_00052;52;;impasse du haut chêne;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.653534;49.051589
+27516_9652_00131;131;;impasse du haut chêne;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.654039;49.051821
+27516_9652_00203;203;;impasse du haut chêne;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.654052;49.05174
+27516_b105_00070_b;70;b;les fosses amiot;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.574064;49.061799
+27516_9623_00523_bis;523;bis;Rue du Plessis;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.668383;49.060436
+27516_9676_00032;32;;Chemin du Friche;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.572836;49.050733
+27516_0215_00003;3;;Chemin de la Fagere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609802;49.056261
+27516_0110_00001;1;;Chemin de la Briqueterie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610771;49.076991
+27516_0110_00007;7;;Chemin de la Briqueterie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.611707;49.07749
+27516_0110_00002_b;2;b;Chemin de la Briqueterie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.613441;49.077375
+27516_0110_00004_bis;4;bis;Chemin de la Briqueterie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.614508;49.076751
+27516_0515_00003;3;;Chemin de la Motte;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.615133;49.049586
+27516_0515_00002_bis;2;bis;Chemin de la Motte;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.615124;49.049558
+27516_9662_00048;48;;Impasse des Petites Bruyeres;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.652626;49.068393
+27516_9688_00039;39;;route de la vallée;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.580186;49.047226
+27516_9688_00064;64;;route de la vallée;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.578065;49.050398
+27516_0590_00002;2;;Chemin de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.617055;49.069123
+27516_0590_00003;3;;Chemin de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.617389;49.069428
+27516_0590_00004;4;;Chemin de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.617055;49.069123
+27516_0590_00006;6;;Chemin de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.617501;49.070105
+27516_0590_00009;9;;Chemin de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.617292;49.069492
+27516_9650_00110;110;;Impasse de la Hacherie;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.679994;49.06766
+27516_9654_00155;155;;Rue de la Mairie;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.663637;49.065264
+27516_9626_00501;501;;Rue de la Blardiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.646743;49.053583
+27516_9683_00010;10;;Rue du Puits Commun;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.57356;49.064047
+27516_9670_00035;35;;Impasse du Bois Palais;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.582568;49.051141
+27516_9634_00055;55;;Route de Carentonne;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.654582;49.069243
+27516_9634_00068;68;;Route de Carentonne;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.654668;49.069303
+27516_9647_00115;115;;impasse des fougères;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.669957;49.080792
+27516_0128_00002;2;;chemin de la charmille;27300;27516;Treis-Sants-en-Ouche;;;0.630106;49.077174
+27516_0128_00003;3;;chemin de la charmille;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.629127;49.076921
+27516_9648_00307;307;;chemin de la fourière;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.678126;49.06517
+27516_0320_00003;3;;Chemin de la Hetraie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.632411;49.063102
+27516_9633_00065;65;;Chemin du Camfleur;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.677757;49.070042
+27516_9621_00368;368;;Chemin du Colombier;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.67012;49.04838
+27516_9663_00811;811;;rue de la poulinière;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.642614;49.072487
+27516_9663_00911;911;;rue de la poulinière;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.643548;49.071904
+27516_b105_00070_a;70;a;les fosses amiot;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.574077;49.061795
+27516_9667_00348;348;;Impasse des Violettes;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.657715;49.076378
+27516_9667_00348_bis;348;bis;Impasse des Violettes;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.657729;49.076522
+27516_9676_00029;29;;Chemin du Friche;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.572986;49.05103
+27516_9686_00037;37;;Route de Saint Nicolas;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.567816;49.060729
+27516_9679_00014_bis;14;bis;impasse de la groudière;27270;27516;Treis-Sants-en-Ouche;;Saint-Quentin-des-Isles;0.588236;49.044424
+27516_0195_00003;3;;Route des Ecoles;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608295;49.050995
+27516_0195_00004;4;;Route des Ecoles;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608476;49.051195
+27516_0195_00006;6;;Route des Ecoles;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608195;49.051045
+27516_0195_00011;11;;Route des Ecoles;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.611228;49.053421
+27516_0090_00002;2;;Chemin de la Boquerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.636685;49.069863
+27516_0140_00001;1;;Chemin du Cherez;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.628194;49.051478
+27516_0290_00001;1;;Chemin de la Hardonniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.593159;49.050333
+27516_0290_00003;3;;Chemin de la Hardonniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.592597;49.050074
+27516_0469_00002;2;;Chemin de Malouve;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.584258;49.061142
+27516_9674_00034;34;;route de ferrières;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.571069;49.045362
+27516_9674_00035;35;;route de ferrières;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.571391;49.044306
+27516_9674_00048;48;;route de ferrières;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.57158;49.04394
+27516_9674_00062;62;;route de ferrières;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.571787;49.042991
+27516_0472_00026;26;;Rue du Manoir;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608213;49.0747
+27516_0472_00028;28;;Rue du Manoir;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608313;49.07469
+27516_0215_00001;1;;Chemin de la Fagere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.612292;49.055869
+27516_0215_00001_bis;1;bis;Chemin de la Fagere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.611828;49.055938
+27516_0215_00005_bis;5;bis;Chemin de la Fagere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.609256;49.056532
+27516_0110_00002;2;;Chemin de la Briqueterie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.611236;49.077298
+27516_0515_00002;2;;Chemin de la Motte;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.615124;49.049558
+27516_9649_00180;180;;rue des granges l'abbé;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.677897;49.054792
+27516_9649_00344;344;;rue des granges l'abbé;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.678797;49.054491
+27516_9649_00704;704;;rue des granges l'abbé;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.682304;49.054681
+27516_0590_00005;5;;Chemin de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.617439;49.069956
+27516_0590_00008;8;;Chemin de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.617321;49.069689
+27516_9654_00072;72;;Rue de la Mairie;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.664525;49.06538
+27516_9654_00154;154;;Rue de la Mairie;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.66387;49.065428
+27516_9654_00163;163;;Rue de la Mairie;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.663344;49.065171
+27516_9654_00208;208;;Rue de la Mairie;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.662771;49.065079
+27516_9626_00517;517;;Rue de la Blardiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.647333;49.053584
+27516_9626_00501_bis;501;bis;Rue de la Blardiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.646801;49.053584
+27516_9680_00033;33;;route de la groudière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.593827;49.043975
+27516_0250_00003;3;;Chemin de la Galopiniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608193;49.082632
+27516_0250_00007;7;;Chemin de la Galopiniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607334;49.083344
+27516_0250_00012;12;;Chemin de la Galopiniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608011;49.082917
+27516_9634_00120;120;;Route de Carentonne;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.654321;49.069631
+27516_0320_00002;2;;Chemin de la Hetraie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.632396;49.060615
+27516_0320_00005;5;;Chemin de la Hetraie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.632396;49.060615
+27516_9636_00035;35;;impasse de la chauvinière;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.649684;49.068864
+27516_9636_00532;532;;impasse de la chauvinière;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.650693;49.06904
+27516_9625_00137;137;;impasse de la benardière;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.658564;49.057703
+27516_9621_01741;1741;;Chemin du Colombier;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.666593;49.049678
+27516_9623_00523;523;;Rue du Plessis;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.667658;49.061137
+27516_9623_00565;565;;Rue du Plessis;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.668447;49.060375
+27516_0260_00001;1;;Chemin de la Gueriniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.60046;49.057674
+27516_0260_00017;17;;Chemin de la Gueriniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.60046;49.057674
+27516_9676_00037;37;;Chemin du Friche;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.572665;49.050392
+27516_0195_00001;1;;Route des Ecoles;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607835;49.050769
+27516_0470_00001;1;;Chemin du Manoir;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.584651;49.059756
+27516_0470_00010;10;;Chemin du Manoir;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.584696;49.059782
+27516_9641_00055;55;;Impasse du Doisle;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.659228;49.069848
+27516_0140_00002_bis;2;bis;Chemin du Cherez;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.62811;49.051051
+27516_0298_00001;1;;Route de la Hardonniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.596384;49.052098
+27516_0290_00002;2;;Chemin de la Hardonniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.593326;49.050528
+27516_0472_00023;23;;Rue du Manoir;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607044;49.074695
+27516_0472_00024;24;;Rue du Manoir;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607224;49.074684
+27516_0472_00025;25;;Rue du Manoir;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608017;49.074619
+27516_0472_00027_bis;27;bis;Rue du Manoir;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.60818;49.07462
+27516_0215_00005;5;;Chemin de la Fagere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608835;49.056302
+27516_0215_00004_bis;4;bis;Chemin de la Fagere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.610374;49.056033
+27516_0110_00005;5;;Chemin de la Briqueterie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.61412;49.076983
+27516_0110_00006;6;;Chemin de la Briqueterie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.612371;49.077742
+27516_0110_00008;8;;Chemin de la Briqueterie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610487;49.076718
+27516_0110_00003_bis;3;bis;Chemin de la Briqueterie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.613441;49.077375
+27516_0110_00005_bis;5;bis;Chemin de la Briqueterie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.613684;49.077176
+27516_0515_00004;4;;Chemin de la Motte;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.615143;49.049613
+27516_0515_00005;5;;Chemin de la Motte;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.615152;49.04964
+27516_9688_00036;36;;route de la vallée;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.580203;49.048138
+27516_9688_00063;63;;route de la vallée;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.579112;49.049396
+27516_9688_00105;105;;route de la vallée;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.579503;49.048973
+27516_9688_00109;109;;route de la vallée;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.579657;49.053436
+27516_9688_00118;118;;route de la vallée;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.580039;49.053723
+27516_9654_00204;204;;Rue de la Mairie;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.663253;49.065232
+27516_9626_00593;593;;Rue de la Blardiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.648112;49.053585
+27516_0250_00004;4;;Chemin de la Galopiniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607957;49.08283
+27516_0250_00008;8;;Chemin de la Galopiniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606922;49.083694
+27516_0250_00014;14;;Chemin de la Galopiniere;27300;27516;Treis-Sants-en-Ouche;;Saint-Aubin-le-Vertueux;0.609224;49.081922
+27516_9683_00001;1;;Rue du Puits Commun;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.57172;49.064312
+27516_9683_00003;3;;Rue du Puits Commun;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.574373;49.063878
+27516_9683_00005;5;;Rue du Puits Commun;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.574095;49.063921
+27516_9670_00040;40;;Impasse du Bois Palais;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.58299;49.051393
+27516_9634_00066;66;;Route de Carentonne;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.654668;49.069303
+27516_9647_00196;196;;impasse des fougères;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.66981;49.081394
+27516_0320_00001;1;;Chemin de la Hetraie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.628968;49.061843
+27516_0320_00004;4;;Chemin de la Hetraie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.632442;49.063012
+27516_9652_00027;27;;impasse du haut chêne;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.652867;49.051702
+27516_9625_00098;98;;impasse de la benardière;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.658572;49.057784
+27516_b105_00070;70;;les fosses amiot;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.574349;49.061714
+27516_b105_00071;71;;les fosses amiot;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.574176;49.061854
+27516_9623_00535;535;;Rue du Plessis;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.669768;49.061072
+27516_0260_00002;2;;Chemin de la Gueriniere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.600499;49.05757
+27516_9686_00031;31;;Route de Saint Nicolas;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.568382;49.060584
+27516_9661_00042;42;;Chemin de la Petite Vallee;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.676787;49.069942
+27516_9651_00001;1;;Impasse des Hameaux;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.640685;49.064337
+27516_9660_00072;72;;Impasse des Noisetiers;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.667367;49.068291
+27516_9632_00024;24;;impasse de la buissonière;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.655082;49.071743
+27516_9646_00045;45;;Impasse de la Fouclerie;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.683214;49.061487
+27516_b101_00062;62;;La Fosse Moriere;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.585799;49.044941
+27516_b102_00100;100;;La Fosse Mouchel;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.5654;49.049376
+27516_9651_00154;154;;Impasse des Hameaux;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.640288;49.064161
+27516_9655_00100;100;;Impasse du Manege;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.662245;49.061802
+27516_b008_00037;37;;Le Buisson Hebert;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.618205;49.052841
+27516_b016_00015;15;;Les Dix Ecluses;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.599887;49.062949
+27516_b048_00006;6;;Saint Aubin le Vertueux;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.606862;49.050643
+27516_b069_00001;1;;L'Ecole - St Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.667838;49.067382
+27516_b121_00045;45;;Saint Quentin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.579283;49.049523
+27516_9678_00031;31;;Route de Grandcamp;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.565494;49.055464
+27516_b006_00038;38;;Le Bosc Ronfley;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.627343;49.0525
+27516_b048_00003;3;;Saint Aubin le Vertueux;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.608429;49.050459
+27516_b058_00219;219;;La Bonne Mare;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.659248;49.071406
+27516_b069_00127;127;;L'Ecole - St Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.664543;49.064771
+27516_b108_00001;1;;Le Grand Clos;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.572009;49.064451
+27516_b115_00038;38;;Moulin du Fay;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.578065;49.051767
+27516_9686_00038;38;;Route de Saint Nicolas;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.569459;49.060226
+27516_9660_00131;131;;Impasse des Noisetiers;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.667659;49.067908
+27516_9665_01575;1575;;Route de Saint Aubin le Vertueux;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.638993;49.058992
+27516_b018_00005;5;;L'Ecole - St Aubin;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.604904;49.052669
+27516_b036_00011;11;;Le Moulin Fouret;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.606073;49.056573
+27516_b058_00348;348;;La Bonne Mare;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.656782;49.07666
+27516_b094_00048;48;;Le Chateau de Saint Quenti;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.579648;49.04723
+27516_7xe4cj_00011;11;;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631358;49.053928
+27516_fvf60k_00025;25;;Route Departementale 438;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.566129;49.05881
+27516_gz0l41_00006;6;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610326;49.050147
+27516_gz0l41_00010;10;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610762;49.050015
+27516_7xe4cj_00014;14;;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.630248;49.051411
+27516_7xe4cj_00006_bis;6;bis;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.62955;49.051528
+27516_gz0l41_00014;14;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609501;49.050674
+27516_7xe4cj_00005;5;;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.629101;49.051558
+27516_7xe4cj_00009;9;;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631827;49.051403
+27516_fvf60k_00027;27;;Route Departementale 438;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.565273;49.058541
+27516_fvf60k_00200;200;;Route Departementale 438;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.574016;49.062281
+27516_fvf60k_00203;203;;Route Departementale 438;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.574016;49.062281
+27516_gz0l41_00008;8;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610629;49.050018
+27516_gz0l41_00012;12;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610861;49.050055
+27516_gz0l41_00016;16;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609498;49.050928
+27516_v6a5j1_00066;66;;La Pucellière;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.617413;49.069064
+27516_jvllay_00072;72;;Le Bocage;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.669816;49.080344
+27516_dw4dj0_00031;31;;Le Fay;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.575776;49.054131
+27516_9645_00045;45;;Rue de la Fouclerie;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.683266;49.06398
+27516_6uh3z7_00226;226;;Allee de la Servetiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.664975;49.068234
+27516_0625_00008;8;;Route de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.619681;49.056108
+27516_0625_00001_bis;1;bis;Route de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.613614;49.054495
+27516_0620_00015;15;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.611341;49.078695
+27516_0158_00005_bis;5;bis;Chemin de la Cour Pitache;27300;27516;Treis-Sants-en-Ouche;;Saint-Aubin-le-Vertueux;0.605098;49.077867
+27516_0596_00007;7;;Route de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.618776;49.071646
+27516_0680_00003;3;;Route du Stade;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605724;49.052112
+27516_0680_00011;11;;Route du Stade;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605897;49.051116
+27516_9669_00001;1;;route de l'allée des dames;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.572143;49.049966
+27516_0720_00005;5;;Chemin de la Touranguerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631846;49.074661
+27516_0720_00009;9;;Chemin de la Touranguerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631641;49.075193
+27516_7xe4cj_00001;1;;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.615733;49.051032
+27516_7xe4cj_00005_bis;5;bis;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.628826;49.051564
+27516_7xe4cj_00008_b;8;b;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631748;49.051407
+27516_gz0l41_00003;3;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609303;49.050537
+27516_gz0l41_00018;18;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610862;49.050775
+27516_5kx8o9_00007;7;;Impasse des Oiseaux;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.56928;49.051992
+27516_8wc1fw_00002;2;;la Palaisière;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.597807;49.03838
+27516_3ujcli_00008;8;;Des Oiseaux;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.569315;49.052191
+27516_l1js9e_00030;30;;La Palesiere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.598715;49.038009
+27516_is687d_00037;37;;La Fourière;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.677845;49.061687
+27516_9645_00195;195;;Rue de la Fouclerie;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.68366;49.062725
+27516_9645_01026;1026;;Rue de la Fouclerie;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.683275;49.063994
+27516_0625_00004;4;;Route de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.618649;49.055959
+27516_0620_00007;7;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610745;49.079561
+27516_0158_00007;7;;Chemin de la Cour Pitache;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.603485;49.075686
+27516_0596_00014;14;;Route de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.622027;49.069384
+27516_0596_00008_bis;8;bis;Route de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.620002;49.071515
+27516_0596_00008_ter;8;ter;Route de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.620258;49.071319
+27516_0680_00007;7;;Route du Stade;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605096;49.052238
+27516_0120_00010;10;;Route du Champ de Course;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608863;49.079853
+27516_9669_00015;15;;route de l'allée des dames;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570999;49.050795
+27516_9669_00030;30;;route de l'allée des dames;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.569156;49.051538
+27516_0720_00001;1;;Chemin de la Touranguerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631967;49.073117
+27516_0720_00008_bis;8;bis;Chemin de la Touranguerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631647;49.075181
+27516_0505_00002;2;;Vallee de la Mercerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.623513;49.065303
+27516_gz0l41_00001_bis;1;bis;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607577;49.050643
+27516_7itg0e_00031;31;;Route de Grand Camp;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.565582;49.055655
+27516_0p17wm_00072;72;;La Hêtraie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.63189;49.06136
+27516_1t1apg_00033;33;;Rue du Moulin Neuf;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.606726;49.076551
+27516_0620_00019;19;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.612275;49.077903
+27516_0620_00020_bis;20;bis;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;;Saint-Aubin-le-Vertueux;0.611775;49.078443
+27516_0158_00003;3;;Chemin de la Cour Pitache;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606863;49.079717
+27516_9653_00673;673;;Rue des Longs Champs;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.652611;49.068976
+27516_0680_00001;1;;Route du Stade;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606073;49.051214
+27516_0680_00005;5;;Route du Stade;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605455;49.052166
+27516_0120_00006;6;;Route du Champ de Course;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608588;49.080534
+27516_0480_00004;4;;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.618306;49.058325
+27516_dij53n_00020;20;;La Cochonnière;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.571278;49.046834
+27516_oaccnu_00013;13;;La Picardiere;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.569886;49.04527
+27516_1t1apg_00035;35;;Rue du Moulin Neuf;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.605874;49.076894
+27516_1t1apg_00037;37;;Rue du Moulin Neuf;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.605033;49.076954
+27516_myljzu_00003_b;3;b;Rotue du Bosc Ronfley;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.626496;49.051864
+27516_0625_00002;2;;Route de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.615547;49.055288
+27516_0625_00006;6;;Route de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.6189;49.055985
+27516_0620_00003;3;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609273;49.079301
+27516_0620_00011;11;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610992;49.079174
+27516_0596_00003;3;;Route de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.615367;49.071373
+27516_0596_00011;11;;Route de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.620541;49.071088
+27516_0695_00002;2;;Chemin des Tilleuls;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.629438;49.072587
+27516_0120_00001;1;;Route du Champ de Course;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609115;49.081881
+27516_0120_00003;3;;Route du Champ de Course;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609064;49.080951
+27516_9640_00061;61;;Rue du Doisle;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.65607;49.068936
+27516_0505_00006;6;;Vallee de la Mercerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.629607;49.060603
+27516_0480_00008;8;;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.619351;49.059557
+27516_0480_00011;11;;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.620128;49.060187
+27516_0480_00014;14;;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.623827;49.063508
+27516_0480_00002_ter;2;ter;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.617145;49.056388
+27516_0070_00073;73;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.60868;49.079137
+27516_0070_00107;107;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608703;49.079099
+27516_0056_00002;2;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.613427;49.054868
+27516_0056_00019;19;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606448;49.069616
+27516_0056_00030;30;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607701;49.076963
+27516_0056_00034;34;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607084;49.075728
+27516_0056_00035;35;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605449;49.076547
+27516_9624_00059;59;;Rue de la Benardiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.659873;49.063208
+27516_9624_00482;482;;Rue de la Benardiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.659688;49.05904
+27516_9624_00536;536;;Rue de la Benardiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.659686;49.058978
+27516_9624_00591;591;;Rue de la Benardiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.660266;49.062098
+27516_9624_00730;730;;Rue de la Benardiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.659832;49.063317
+27516_0480_00001_bis;1;bis;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.616271;49.055672
+27516_0070_00008;8;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609873;49.07748
+27516_0070_00015;15;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610949;49.075976
+27516_0056_00007;7;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.612662;49.056459
+27516_0056_00033;33;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607354;49.076498
+27516_0056_00036;36;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605863;49.076334
+27516_0056_00037;37;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605344;49.076567
+27516_9685_00041;41;;Cote de Saint Aubin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.583632;49.050879
+27516_9624_00436;436;;Rue de la Benardiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.659879;49.059571
+27516_9672_00028;28;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.572143;49.049684
+27516_7xe4cj_00008;8;;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631602;49.051415
+27516_fvf60k_00892;892;;Route Departementale 438;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.574016;49.062281
+27516_uweay8_00220;220;;Le Coudray;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.59098;49.058157
+27516_0625_00001;1;;Route de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.614847;49.055001
+27516_0625_00005;5;;Route de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.61875;49.056121
+27516_0620_00013;13;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.611231;49.078822
+27516_0620_00017;17;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.611785;49.078291
+27516_0680_00008;8;;Route du Stade;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605192;49.052136
+27516_0120_00005_ter;5;ter;Route du Champ de Course;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609064;49.080951
+27516_0720_00003;3;;Chemin de la Touranguerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631944;49.073943
+27516_0720_00007;7;;Chemin de la Touranguerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631432;49.075997
+27516_0720_00011;11;;Chemin de la Touranguerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631439;49.076412
+27516_0720_00005_bis;5;bis;Chemin de la Touranguerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631764;49.074901
+27516_9672_00042;42;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570954;49.048746
+27516_9672_00047;47;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570569;49.048276
+27516_9628_00007;7;;Chemin du Bois Chouquet;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.667289;49.081273
+27516_9628_00064;64;;Chemin du Bois Chouquet;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.667931;49.081362
+27516_9628_00214;214;;Chemin du Bois Chouquet;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.670049;49.081426
+27516_9628_00241;241;;Chemin du Bois Chouquet;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.6705;49.081571
+27516_9666_00258;258;;Rue de la Servetiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.66311;49.067112
+27516_9666_00552;552;;Rue de la Servetiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.665924;49.069098
+27516_0555_00002;2;;Route du Parc;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605204;49.050032
+27516_0555_00006;6;;Route du Parc;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605078;49.050069
+27516_0540_00002;2;;Route du Moulin Fouret;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.59645;49.061221
+27516_0480_00009;9;;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.619659;49.059821
+27516_0480_00012;12;;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.623138;49.063229
+27516_0480_00013;13;;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.623729;49.06347
+27516_0480_00001_ter;1;ter;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.61695;49.056478
+27516_0070_00002;2;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609231;49.078367
+27516_0070_00006;6;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609663;49.077586
+27516_0070_00014;14;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.612389;49.073981
+27516_0070_00079;79;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.60731;49.082128
+27516_0070_00009_ter;9;ter;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610056;49.077031
+27516_9644_00406;406;;Rue de la Fontaine l’Abbe;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.676463;49.068916
+27516_0056_00008;8;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.612819;49.056666
+27516_0056_00009;9;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.612814;49.056966
+27516_0056_00012;12;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.612517;49.057876
+27516_0056_00016;16;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606418;49.068999
+27516_0056_00017;17;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606407;49.069002
+27516_0056_00032;32;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607952;49.077806
+27516_9659_00003;3;;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.654028;49.070259
+27516_9659_00176;176;;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.654411;49.071205
+27516_9659_00200;200;;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.65439;49.071032
+27516_9659_00435;435;;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.654534;49.073426
+27516_9659_00719;719;;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.655154;49.076211
+27516_9622_00100;100;;Rue du Granchain;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.663734;49.062676
+27516_9622_01741;1741;;Rue du Granchain;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.665579;49.048995
+27516_0578_00001;1;;Rue de la Petite Cote;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.587425;49.060343
+27516_0578_00002;2;;Rue de la Petite Cote;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.587734;49.060242
+27516_0578_00003;3;;Rue de la Petite Cote;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.588078;49.060178
+27516_0578_00004;4;;Rue de la Petite Cote;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.587918;49.060292
+27516_0150_00001;1;;Route du Coudray;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.592711;49.062793
+27516_0150_00002;2;;Route du Coudray;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.59067;49.062464
+27516_0150_00005;5;;Route du Coudray;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.5854;49.06196
+27516_0150_00006;6;;Route du Coudray;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.58547;49.063334
+27516_0150_00007;7;;Route du Coudray;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.585372;49.063264
+27516_9668_00020;20;;allée du lavoir;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.576387;49.04926
+27516_9673_00051;51;;Route des 2 Fosses;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.584313;49.04264
+27516_9673_00073;73;;Route des 2 Fosses;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.584317;49.040643
+27516_7xe4cj_00004;4;;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.627464;49.051555
+27516_7xe4cj_00006;6;;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.630052;49.0515
+27516_gz0l41_00002;2;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.60884;49.050355
+27516_gz0l41_00015;15;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609627;49.050927
+27516_gz0l41_00031;31;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608181;49.050477
+27516_5kx8o9_00008;8;;Impasse des Oiseaux;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.56939;49.052449
+27516_8wc1fw_00003;3;;la Palaisière;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.599045;49.038265
+27516_3ujcli_00006;6;;Des Oiseaux;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.569154;49.052057
+27516_ur5fak_00030;30;;La Fouclerie;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.686916;49.066297
+27516_0620_00001;1;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609452;49.079339
+27516_0620_00009;9;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609982;49.080611
+27516_0158_00004;4;;Chemin de la Cour Pitache;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606327;49.079196
+27516_9653_00048;48;;Rue des Longs Champs;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.650536;49.069084
+27516_9653_00670;670;;Rue des Longs Champs;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.651802;49.068939
+27516_0596_00001;1;;Route de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.614381;49.071275
+27516_0596_00013;13;;Route de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.621384;49.070178
+27516_0596_00013_bis;13;bis;Route de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.620599;49.070896
+27516_0680_00004;4;;Route du Stade;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606006;49.051853
+27516_9669_00007;7;;route de l'allée des dames;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.571562;49.050132
+27516_9672_00059;59;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.569724;49.047782
+27516_9672_00062;62;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570898;49.048441
+27516_9672_00065;65;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570879;49.048418
+27516_9672_00090;90;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.565896;49.046911
+27516_9628_00017;17;;Chemin du Bois Chouquet;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.667694;49.081383
+27516_9628_00300;300;;Chemin du Bois Chouquet;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.671176;49.081543
+27516_9675_00025;25;;Route de la Fosse Quentin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.569588;49.044186
+27516_9675_00028;28;;Route de la Fosse Quentin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.569524;49.043872
+27516_9666_00442;442;;Rue de la Servetiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.664544;49.068281
+27516_0555_00001;1;;Route du Parc;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605234;49.050049
+27516_0540_00004;4;;Route du Moulin Fouret;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.598211;49.060925
+27516_0540_00006;6;;Route du Moulin Fouret;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.60226;49.058228
+27516_0540_00007;7;;Route du Moulin Fouret;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.60377;49.056465
+27516_0540_00008;8;;Route du Moulin Fouret;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.603403;49.057009
+27516_0275_00001;1;;Chemin du Hamel;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610093;49.040055
+27516_0505_00004;4;;Vallee de la Mercerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.625047;49.063577
+27516_0480_00006;6;;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.618996;49.059197
+27516_0480_00016;16;;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.621701;49.062376
+27516_9681_00024;24;;route de la hêtraie;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.581147;49.04225
+27516_9681_00031;31;;route de la hêtraie;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.581417;49.042632
+27516_9681_00101;101;;route de la hêtraie;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.586368;49.04858
+27516_9681_00114;114;;route de la hêtraie;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.586974;49.049204
+27516_9630_00169;169;;Rue de la Bonne Mare;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.659724;49.071071
+27516_9630_00639;639;;Rue de la Bonne Mare;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.658993;49.072145
+27516_9639_00908;908;;Rue de Corneville;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.68241;49.06455
+27516_9637_00305;305;;Chemin des Clopins;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.658608;49.064496
+27516_9637_00296_bis;296;bis;Chemin des Clopins;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.65847;49.064571
+27516_9631_00172;172;;Impasse de la Bouisserie;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.657111;49.07483
+27516_9627_00625;625;;Rue du Bocage;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.664867;49.081747
+27516_9627_00730;730;;Rue du Bocage;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.666321;49.081367
+27516_9627_00761;761;;Rue du Bocage;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.666711;49.081361
+27516_9627_01045;1045;;Rue du Bocage;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.669247;49.079932
+27516_9627_01075;1075;;Rue du Bocage;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.669648;49.079891
+27516_9627_01368;1368;;Rue du Bocage;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.673793;49.078784
+27516_9627_02268;2268;;Rue du Bocage;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.667292;49.08119
+27516_0163_00006;6;;Chemin de la Couture;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.588039;49.063984
+27516_0163_00003_bis;3;bis;Chemin de la Couture;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.587493;49.062571
+27516_0400_00004;4;;Route des Joncquerets;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606633;49.041984
+27516_0400_00006;6;;Route des Joncquerets;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607983;49.038232
+27516_0400_00008;8;;Route des Joncquerets;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607925;49.048067
+27516_0400_00001_bis;1;bis;Route des Joncquerets;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.607445;49.049988
+27516_0635_00003;3;;route de saint-quentin ;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.592711;49.062793
+27516_9643_00117_bis;117;bis;Rue de l’Eglise;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.662606;49.064366
+27516_0450_00003;3;;Place de la Mairie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607125;49.050556
+27516_0450_00004;4;;Place de la Mairie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606968;49.05041
+27516_9677_00014;14;;Rue du Grand Clos;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.57068;49.063627
+27516_0185_00001;1;;Chemin des 10 Ecluses;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.597985;49.061112
+27516_0185_00002;2;;Chemin des 10 Ecluses;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.601557;49.065317
+27516_0185_00003;3;;Chemin des 10 Ecluses;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.601783;49.067405
+27516_9642_00127;127;;Rue de l’Ecole;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.664376;49.064694
+27516_0063_00006;6;;Cote de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605713;49.082733
+27516_0063_00009;9;;Cote de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.604992;49.083281
+27516_0363_00002;2;;Chemin du Hom;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.635697;49.051663
+27516_9629_00005;5;;Chemin du Bois de la Pierre;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.677943;49.053965
+27516_0280_00001;1;;Route des Haras;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.60573;49.062398
+27516_0490_00005;5;;Chemin de la Mare Commune;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.629991;49.053285
+27516_0480_00017;17;;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.624663;49.063777
+27516_0480_00002_bis;2;bis;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.617646;49.057019
+27516_0070_00085;85;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608703;49.079099
+27516_9644_00436;436;;Rue de la Fontaine l’Abbe;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.677114;49.069069
+27516_0056_00001;1;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.622233;49.041183
+27516_0056_00004;4;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.61274;49.05564
+27516_0056_00005;5;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.612924;49.055558
+27516_0056_00013;13;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608896;49.062903
+27516_9687_00001;1;;Route de Saint Quentin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Aubin-le-Vertueux;0.574503;49.050017
+27516_9659_00214;214;;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.654629;49.072161
+27516_9659_00513;513;;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.654856;49.074487
+27516_9659_00518;518;;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.655;49.074702
+27516_0150_00003;3;;Route du Coudray;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.587591;49.06091
+27516_0150_00009;9;;Route du Coudray;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.580098;49.065976
+27516_9668_00010;10;;allée du lavoir;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.578654;49.049716
+27516_9668_00017;17;;allée du lavoir;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.576959;49.049553
+27516_9668_00018;18;;allée du lavoir;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.576394;49.049178
+27516_9664_00079;79;;Rue du Presbytere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.661981;49.06343
+27516_9664_00082;82;;Rue du Presbytere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.661627;49.063461
+27516_9673_00024;24;;Route des 2 Fosses;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.585166;49.04469
+27516_9673_00025;25;;Route des 2 Fosses;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.585049;49.044153
+27516_9673_00045;45;;Route des 2 Fosses;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.584475;49.042981
+27516_9673_00060;60;;Route des 2 Fosses;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.58341;49.041317
+27516_9681_00002;2;;route de la hêtraie;27270;27516;Treis-Sants-en-Ouche;;Saint-Quentin-des-Isles;0.581028;49.041474
+27516_9681_00007;7;;route de la hêtraie;27270;27516;Treis-Sants-en-Ouche;;Saint-Quentin-des-Isles;0.581028;49.041474
+27516_9630_00219;219;;Rue de la Bonne Mare;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.662516;49.067048
+27516_9630_00705;705;;Rue de la Bonne Mare;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.658993;49.072145
+27516_9630_00348_bis;348;bis;Rue de la Bonne Mare;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.661086;49.069843
+27516_9639_01029;1029;;Rue de Corneville;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.684015;49.064316
+27516_9639_00908_bis;908;bis;Rue de Corneville;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.682447;49.064546
+27516_9637_00037;37;;Chemin des Clopins;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.661419;49.065022
+27516_9637_00290;290;;Chemin des Clopins;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.659443;49.064743
+27516_9637_00335;335;;Chemin des Clopins;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.658598;49.065083
+27516_9627_00537;537;;Rue du Bocage;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.664283;49.08185
+27516_9627_00650;650;;Rue du Bocage;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.665311;49.081579
+27516_0490_00008;8;;Chemin de la Mare Commune;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.628042;49.051962
+27516_0268_00003;3;;Chemin des Hameaux;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.638367;49.066383
+27516_9679_00008;8;;impasse de la groudière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.58678;49.044779
+27516_9679_00014;14;;impasse de la groudière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.587543;49.044588
+27516_9679_00020;20;;impasse de la groudière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.588089;49.044517
+27516_9627_00796;796;;Rue du Bocage;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.667129;49.081173
+27516_9627_00935;935;;Rue du Bocage;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.668745;49.080009
+27516_9627_01072;1072;;Rue du Bocage;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.669982;49.079592
+27516_0163_00007;7;;Chemin de la Couture;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.588039;49.063959
+27516_0163_00005_bis;5;bis;Chemin de la Couture;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.5875;49.062578
+27516_0400_00003;3;;Route des Joncquerets;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607925;49.048067
+27516_0450_00002;2;;Place de la Mairie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606198;49.050507
+27516_0450_00005;5;;Place de la Mairie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606659;49.049999
+27516_0450_00006;6;;Place de la Mairie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606549;49.049768
+27516_0450_00001_bis;1;bis;Place de la Mairie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.605504;49.050952
+27516_0450_00001_ter;1;ter;Place de la Mairie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.605623;49.050604
+27516_9677_00001;1;;Rue du Grand Clos;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.571611;49.06435
+27516_9677_00017;17;;Rue du Grand Clos;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570275;49.063369
+27516_9677_00029;29;;Rue du Grand Clos;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.569147;49.062492
+27516_9642_00002;2;;Rue de l’Ecole;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.663251;49.064372
+27516_9642_00057;57;;Rue de l’Ecole;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.663572;49.064519
+27516_9642_00220;220;;Rue de l’Ecole;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.663296;49.064381
+27516_0063_00001;1;;Cote de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608443;49.079273
+27516_0063_00003;3;;Cote de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.60697;49.081516
+27516_0063_00005;5;;Cote de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.60604;49.082486
+27516_0063_00008;8;;Cote de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605191;49.083127
+27516_0063_00010;10;;Cote de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.604825;49.083411
+27516_9629_00004;4;;Chemin du Bois de la Pierre;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.677848;49.054016
+27516_9629_00062;62;;Chemin du Bois de la Pierre;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.677802;49.054387
+27516_9629_00080;80;;Chemin du Bois de la Pierre;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.677406;49.053997
+27516_gz0l41_00017;17;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610435;49.050865
+27516_5kx8o9_00002;2;;Impasse des Oiseaux;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.56898;49.051776
+27516_l1js9e_00029;29;;La Palesiere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.596992;49.038483
+27516_zm3kh6_00104;104;;La Tourangerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.629831;49.076258
+27516_0625_00003;3;;Route de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.617373;49.055831
+27516_0625_00007;7;;Route de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.619031;49.056089
+27516_9656_00381;381;;Rue du Manoir;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.657656;49.067737
+27516_0490_00002;2;;Chemin de la Mare Commune;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.62969;49.052313
+27516_0490_00006;6;;Chemin de la Mare Commune;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.629131;49.053853
+27516_0490_00007;7;;Chemin de la Mare Commune;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.628232;49.051802
+27516_0268_00004;4;;Chemin des Hameaux;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.639358;49.064748
+27516_9679_00017;17;;impasse de la groudière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.587665;49.044641
+27516_0620_00004;4;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609748;49.079751
+27516_0620_00010;10;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610866;49.079373
+27516_0620_00014;14;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.611365;49.078672
+27516_0620_00016;16;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.61158;49.078481
+27516_9653_00532;532;;Rue des Longs Champs;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.650665;49.069046
+27516_0596_00010;10;;Route de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.619856;49.071507
+27516_0680_00006;6;;Route du Stade;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605525;49.052069
+27516_0680_00002_bis;2;bis;Route du Stade;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606009;49.051906
+27516_0120_00004;4;;Route du Champ de Course;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609199;49.081217
+27516_9669_00025;25;;route de l'allée des dames;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.569597;49.051398
+27516_9640_00287;287;;Rue du Doisle;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.658481;49.069699
+27516_0505_00001;1;;Vallee de la Mercerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.62392;49.064343
+27516_0505_00003;3;;Vallee de la Mercerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.624139;49.064196
+27516_0505_00005;5;;Vallee de la Mercerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.625696;49.063138
+27516_0480_00003;3;;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.618039;49.057957
+27516_0480_00007;7;;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.619086;49.059293
+27516_7xe4cj_00004_bis;4;bis;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.627941;49.051557
+27516_gz0l41_00009;9;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610789;49.050175
+27516_gz0l41_00013;13;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609501;49.050674
+27516_gz0l41_00020;20;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607577;49.050643
+27516_r09u74_00221;221;;L'Eglise;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.598664;49.054625
+27516_dij53n_00006;6;;La Cochonnière;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.569031;49.045275
+27516_1t1apg_00038;38;;Rue du Moulin Neuf;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.604728;49.076206
+27516_0480_00015;15;;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.624381;49.063742
+27516_0070_00004;4;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609704;49.078058
+27516_0070_00005;5;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609778;49.077615
+27516_0070_00009;9;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610002;49.077104
+27516_0070_00013;13;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.611023;49.075866
+27516_0070_00004_bis;4;bis;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.612389;49.073981
+27516_0070_00079_a;79;a;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608703;49.079099
+27516_9644_00665;665;;Rue de la Fontaine l’Abbe;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.679672;49.069883
+27516_0056_00003;3;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.613182;49.055217
+27516_0056_00010;10;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.6128;49.057265
+27516_0056_00011;11;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.612657;49.057447
+27516_0056_00015;15;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608757;49.06307
+27516_0056_00029;29;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607395;49.076324
+27516_0056_00038;38;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605276;49.07647
+27516_0056_00001_a;1;a;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.622058;49.041283
+27516_9685_00003;3;;Cote de Saint Aubin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.579827;49.048977
+27516_9685_00096;96;;Cote de Saint Aubin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.588574;49.049164
+27516_9638_00037;37;;Impasse des Clopins;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.658183;49.065262
+27516_9624_00007;7;;Rue de la Benardiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.659916;49.063091
+27516_9624_00563;563;;Rue de la Benardiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.660266;49.062098
+27516_9672_00037;37;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.571203;49.049015
+27516_0480_00003_bis;3;bis;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.61773;49.057537
+27516_0620_00008;8;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609773;49.080919
+27516_0596_00004;4;;Route de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.615409;49.071381
+27516_0596_00015;15;;Route de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.622222;49.069125
+27516_0680_00002;2;;Route du Stade;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605992;49.051591
+27516_9669_00023;23;;route de l'allée des dames;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570392;49.051071
+27516_0720_00004;4;;Chemin de la Touranguerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631948;49.074378
+27516_0720_00002_bis;2;bis;Chemin de la Touranguerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631863;49.073549
+27516_0480_00005;5;;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.618632;49.058777
+27516_0070_00001;1;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609341;49.078028
+27516_0070_00012;12;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610805;49.076183
+27516_0070_00010_bis;10;bis;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.61027;49.07674
+27516_9644_00580;580;;Rue de la Fontaine l’Abbe;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.678548;49.069462
+27516_0056_00006;6;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.612787;49.056469
+27516_0056_00014;14;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608887;49.062983
+27516_0056_00018;18;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606223;49.068278
+27516_0056_00022;22;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606869;49.074746
+27516_9685_00091;91;;Cote de Saint Aubin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.587808;49.049215
+27516_9685_00097;97;;Cote de Saint Aubin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.588448;49.049104
+27516_9685_00098;98;;Cote de Saint Aubin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.589703;49.048809
+27516_9624_00452;452;;Rue de la Benardiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.65982;49.059449
+27516_9624_00534;534;;Rue de la Benardiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.659776;49.058741
+27516_9624_00628;628;;Rue de la Benardiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.659944;49.058068
+27516_9624_00749;749;;Rue de la Benardiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.659936;49.057047
+27516_9672_00026;26;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.572296;49.049805
+27516_9672_00034;34;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.571653;49.049293
+27516_7xe4cj_00012;12;;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631374;49.054903
+27516_7xe4cj_00003_bis;3;bis;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.624512;49.051587
+27516_fvf60k_00202;202;;Route Departementale 438;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.574016;49.062281
+27516_gz0l41_00004;4;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609944;49.050297
+27516_gz0l41_00011;11;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610866;49.050099
+27516_gz0l41_00019;19;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.611289;49.05072
+27516_z570st_00019;19;;Les Coutures;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.571278;49.046834
+27516_9645_00102;102;;Rue de la Fouclerie;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.682822;49.063361
+27516_9645_01362;1362;;Rue de la Fouclerie;27300;27516;Treis-Sants-en-Ouche;;Saint-Clair-d'Arcey;0.688627;49.063106
+27516_0625_00009;9;;Route de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.6189;49.055985
+27516_0158_00006;6;;Chemin de la Cour Pitache;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.603609;49.076304
+27516_0158_00008;8;;Chemin de la Cour Pitache;27300;27516;Treis-Sants-en-Ouche;;Saint-Aubin-le-Vertueux;0.605098;49.077867
+27516_0596_00005;5;;Route de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.615917;49.071394
+27516_0695_00003;3;;Chemin des Tilleuls;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.629402;49.072666
+27516_9669_00024;24;;route de l'allée des dames;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.569898;49.051291
+27516_9640_00152;152;;Rue du Doisle;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.657436;49.069135
+27516_9672_00046;46;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570466;49.048188
+27516_9672_00054;54;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570282;49.048088
+27516_9672_00061;61;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570904;49.048449
+27516_9672_00075;75;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570807;49.048344
+27516_9628_00115;115;;Chemin du Bois Chouquet;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.66865;49.081593
+27516_9628_00141;141;;Chemin du Bois Chouquet;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.669069;49.081556
+27516_9628_00142;142;;Chemin du Bois Chouquet;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.668905;49.081496
+27516_9675_00015;15;;Route de la Fosse Quentin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.569728;49.044801
+27516_9675_00026;26;;Route de la Fosse Quentin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.569591;49.044193
+27516_9675_00029;29;;Route de la Fosse Quentin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.56949;49.043664
+27516_9666_00208;208;;Rue de la Servetiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.664688;49.067941
+27516_9666_00256;256;;Rue de la Servetiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.663085;49.067104
+27516_9666_00416;416;;Rue de la Servetiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.66431;49.068096
+27516_0555_00005;5;;Route du Parc;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605078;49.050069
+27516_0540_00003;3;;Route du Moulin Fouret;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.597321;49.061049
+27516_0540_00010;10;;Route du Moulin Fouret;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.604583;49.052085
+27516_0275_00003;3;;Chemin du Hamel;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610681;49.04185
+27516_0480_00010;10;;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.619993;49.060076
+27516_0070_00007;7;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609944;49.07738
+27516_0070_00010;10;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610206;49.076825
+27516_0070_00011;11;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610742;49.076081
+27516_0056_00024;24;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.60706;49.075051
+27516_0056_00027;27;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606407;49.069002
+27516_0056_00031;31;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607596;49.077016
+27516_9687_00002;2;;Route de Saint Quentin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Aubin-le-Vertueux;0.574503;49.050017
+27516_9687_00003;3;;Route de Saint Quentin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Aubin-le-Vertueux;0.574503;49.050017
+27516_9687_00030;30;;Route de Saint Quentin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.57574;49.049496
+27516_9687_00031;31;;Route de Saint Quentin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.574503;49.050017
+27516_9687_00091;91;;Route de Saint Quentin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.574503;49.050017
+27516_9687_00094;94;;Route de Saint Quentin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.574218;49.053527
+27516_9659_00479;479;;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.654764;49.074181
+27516_9659_00560;560;;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.654999;49.075046
+27516_9659_00589;589;;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.654903;49.075376
+27516_9659_00672;672;;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.655202;49.075989
+27516_9659_00776;776;;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.655179;49.077019
+27516_0150_00004;4;;Route du Coudray;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.586827;49.061071
+27516_0150_00011;11;;Route du Coudray;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.579073;49.066347
+27516_0150_00005_bis;5;bis;Route du Coudray;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.585516;49.062112
+27516_9668_00015;15;;allée du lavoir;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.576639;49.049335
+27516_9668_00019;19;;allée du lavoir;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.576614;49.049322
+27516_9664_00140;140;;Rue du Presbytere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.660736;49.063448
+27516_9664_00148;148;;Rue du Presbytere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.660696;49.063448
+27516_9681_00008;8;;route de la hêtraie;27270;27516;Treis-Sants-en-Ouche;;Saint-Quentin-des-Isles;0.581028;49.041474
+27516_9681_00009;9;;route de la hêtraie;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.581927;49.041447
+27516_9681_00022;22;;route de la hêtraie;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.581435;49.041526
+27516_9681_00023;23;;route de la hêtraie;27270;27516;Treis-Sants-en-Ouche;;Saint-Quentin-des-Isles;0.581028;49.041474
+27516_9681_00025;25;;route de la hêtraie;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.581211;49.042149
+27516_9630_01023;1023;;Rue de la Bonne Mare;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.661755;49.076874
+27516_9637_00340;340;;Chemin des Clopins;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.658679;49.064801
+27516_9637_00358;358;;Chemin des Clopins;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.658469;49.064575
+27516_9627_00717;717;;Rue du Bocage;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.66581;49.081562
+27516_9627_00875;875;;Rue du Bocage;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.667852;49.080787
+27516_0163_00002;2;;Chemin de la Couture;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.587098;49.062295
+27516_0163_00003;3;;Chemin de la Couture;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.586935;49.061927
+27516_0163_00005;5;;Chemin de la Couture;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.588168;49.06337
+27516_0163_00006_bis;6;bis;Chemin de la Couture;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.588083;49.063242
+27516_0400_00005;5;;Route des Joncquerets;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607644;49.039524
+27516_0400_00005_bis;5;bis;Route des Joncquerets;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607909;49.039103
+27516_0400_00001_ter;1;ter;Route des Joncquerets;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.608038;49.050022
+27516_0635_00001;1;;route de saint-quentin ;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.590529;49.061334
+27516_0635_00002;2;;route de saint-quentin ;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.58996;49.060766
+27516_9643_00014;14;;Rue de l’Eglise;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.662868;49.063803
+27516_9643_00020;20;;Rue de l’Eglise;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.662869;49.06383
+27516_9643_00117;117;;Rue de l’Eglise;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.659661;49.064014
+27516_9643_00039_bis;39;bis;Rue de l’Eglise;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.662742;49.063966
+27516_9677_00005;5;;Rue du Grand Clos;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.571368;49.064138
+27516_9677_00008;8;;Rue du Grand Clos;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.571138;49.063948
+27516_9677_00009;9;;Rue du Grand Clos;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570916;49.063765
+27516_9677_00028;28;;Rue du Grand Clos;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.569241;49.062575
+27516_9677_00029_bis;29;bis;Rue du Grand Clos;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.569408;49.062538
+27516_0063_00004;4;;Cote de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606426;49.082176
+27516_0363_00001;1;;Chemin du Hom;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.632508;49.051848
+27516_9656_00004;4;;Rue du Manoir;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.655318;49.068654
+27516_0490_00003;3;;Chemin de la Mare Commune;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.62982;49.052734
+27516_0490_00004;4;;Chemin de la Mare Commune;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.630118;49.053331
+27516_0268_00005;5;;Chemin des Hameaux;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.636152;49.069209
+27516_7xe4cj_00002;2;;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.620955;49.051434
+27516_7xe4cj_00002_bis;2;bis;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.623567;49.051463
+27516_fvf60k_00040;40;;Route Departementale 438;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.574016;49.062281
+27516_gz0l41_00007;7;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610345;49.050237
+27516_gz0l41_00002_bis;2;bis;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609047;49.050315
+27516_5kx8o9_00006;6;;Impasse des Oiseaux;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.569226;49.052138
+27516_qbwrca_00012;12;;La Fagère;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.610931;49.057465
+27516_0k20mt_00171;171;;La Panne;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.603855;49.062762
+27516_oaccnu_00015;15;;La Picardiere;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.569921;49.042276
+27516_1t1apg_00036;36;;Rue du Moulin Neuf;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.605626;49.075958
+27516_0620_00005;5;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609479;49.079657
+27516_0620_00020;20;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.61262;49.078778
+27516_0158_00002;2;;Chemin de la Cour Pitache;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606922;49.080117
+27516_0158_00001_a;1;a;Chemin de la Cour Pitache;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606659;49.081343
+27516_0596_00009;9;;Route de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.61954;49.071766
+27516_0120_00002;2;;Route du Champ de Course;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609096;49.081532
+27516_0120_00005;5;;Route du Champ de Course;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609046;49.080913
+27516_0120_00008;8;;Route du Champ de Course;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608643;49.080462
+27516_9640_00001;1;;Rue du Doisle;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.655286;49.068774
+27516_9672_00039;39;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.571277;49.048939
+27516_9672_00040;40;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570652;49.048345
+27516_9672_00041;41;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.57111;49.048914
+27516_9672_00060;60;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570807;49.048344
+27516_9672_00191;191;;route de la cochonnière;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.570089;49.047983
+27516_9628_00196;196;;Chemin du Bois Chouquet;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.669686;49.081388
+27516_9671_00025;25;;chemin des bruyères;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.566157;49.059766
+27516_9671_00026;26;;chemin des bruyères;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.565123;49.058931
+27516_9671_00027;27;;chemin des bruyères;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.565123;49.058931
+27516_9675_00001;1;;Route de la Fosse Quentin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570259;49.045985
+27516_7xe4cj_00007;7;;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.63118;49.051505
+27516_7xe4cj_00010;10;;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631715;49.052233
+27516_gz0l41_00001;1;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.60763;49.050625
+27516_3ujcli_00002;2;;Des Oiseaux;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.568957;49.051769
+27516_ne77fa_00001;1;;La Garenne;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.580064;49.048639
+27516_9645_00447;447;;Rue de la Fouclerie;27300;27516;Treis-Sants-en-Ouche;;Saint-Clair-d'Arcey;0.686321;49.062586
+27516_0625_00002_bis;2;bis;Route de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.61484;49.055093
+27516_0620_00012;12;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.611123;49.078974
+27516_9675_00011;11;;Route de la Fosse Quentin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570646;49.046193
+27516_9675_00012;12;;Route de la Fosse Quentin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570646;49.046193
+27516_9675_00060;60;;Route de la Fosse Quentin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.569092;49.042544
+27516_9666_00200;200;;Rue de la Servetiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.662514;49.066821
+27516_9666_00472;472;;Rue de la Servetiere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.665243;49.068632
+27516_0555_00003;3;;Route du Parc;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.604605;49.049825
+27516_0540_00001;1;;Route du Moulin Fouret;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.595414;49.06169
+27516_0540_00005;5;;Route du Moulin Fouret;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.599845;49.060283
+27516_0540_00009;9;;Route du Moulin Fouret;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.604668;49.052409
+27516_0275_00002;2;;Chemin du Hamel;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.611122;49.040642
+27516_0275_00002_bis;2;bis;Chemin du Hamel;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.611128;49.041943
+27516_0480_00002;2;;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.617563;49.057306
+27516_0070_00003;3;;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609635;49.078238
+27516_0070_00009_bis;9;bis;Route de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610108;49.076959
+27516_9644_00827;827;;Rue de la Fontaine l’Abbe;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.68232;49.07094
+27516_0056_00020;20;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606841;49.073945
+27516_0056_00021;21;;Route de la Barre;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.60675;49.074112
+27516_0158_00001;1;;Chemin de la Cour Pitache;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606797;49.080954
+27516_0596_00002;2;;Route de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.614893;49.071296
+27516_0596_00006;6;;Route de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.617163;49.071518
+27516_0695_00001;1;;Chemin des Tilleuls;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631205;49.073821
+27516_0120_00007;7;;Route du Champ de Course;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608015;49.080462
+27516_0120_00009;9;;Route du Champ de Course;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.608696;49.07917
+27516_9669_00003;3;;route de l'allée des dames;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.571764;49.050133
+27516_9640_00149;149;;Rue du Doisle;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.657026;49.069182
+27516_0720_00002;2;;Chemin de la Touranguerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.63189;49.073802
+27516_0720_00010;10;;Chemin de la Touranguerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631572;49.076227
+27516_9687_00042;42;;Route de Saint Quentin;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.575705;49.04928
+27516_9659_00146;146;;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.654334;49.070674
+27516_9659_00480;480;;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.654834;49.073999
+27516_9659_00684;684;;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.655298;49.076354
+27516_9659_00730;730;;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.655231;49.076622
+27516_9659_00799;799;;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.655069;49.077106
+27516_9659_00799_bis;799;bis;Rue du Moulin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.654813;49.077221
+27516_0150_00008;8;;Route du Coudray;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.58121;49.065543
+27516_0150_00010;10;;Route du Coudray;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.579779;49.066101
+27516_0150_00012;12;;Route du Coudray;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.579073;49.066347
+27516_0150_00010_bis;10;bis;Route du Coudray;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.57988;49.06606
+27516_9668_00011;11;;allée du lavoir;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.576387;49.04926
+27516_9664_00090;90;;Rue du Presbytere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.661782;49.064479
+27516_9664_00111;111;;Rue du Presbytere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.661305;49.063344
+27516_9664_00127;127;;Rue du Presbytere;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.661067;49.063351
+27516_9673_00017;17;;Route des 2 Fosses;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.584313;49.04264
+27516_9673_00033;33;;Route des 2 Fosses;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.5848;49.043848
+27516_9673_00034;34;;Route des 2 Fosses;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.58481;49.043606
+27516_9673_00038;38;;Route des 2 Fosses;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.584725;49.043362
+27516_9673_00075;75;;Route des 2 Fosses;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.584908;49.0405
+27516_9630_00167;167;;Rue de la Bonne Mare;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.662516;49.067048
+27516_9630_00348;348;;Rue de la Bonne Mare;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.657415;49.076805
+27516_9639_01026;1026;;Rue de Corneville;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.68407;49.06423
+27516_9639_01107;1107;;Rue de Corneville;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.684382;49.064319
+27516_9639_01362;1362;;Rue de Corneville;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.687137;49.063192
+27516_9637_00010;10;;Chemin des Clopins;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.661749;49.065118
+27516_9637_00235;235;;Chemin des Clopins;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.660019;49.06498
+27516_9637_00296;296;;Chemin des Clopins;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.65847;49.064567
+27516_9631_00138;138;;Impasse de la Bouisserie;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.656728;49.074745
+27516_9627_00746;746;;Rue du Bocage;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.666802;49.081253
+27516_0163_00001;1;;Chemin de la Couture;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.586208;49.061675
+27516_0163_00004;4;;Chemin de la Couture;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.587858;49.063002
+27516_0163_00003_ter;3;ter;Chemin de la Couture;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.586237;49.061593
+27516_0400_00001;1;;Route des Joncquerets;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607946;49.049408
+27516_0400_00002;2;;Route des Joncquerets;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607834;49.048582
+27516_0400_00007;7;;Route des Joncquerets;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607925;49.048067
+27516_0635_00004;4;;route de saint-quentin ;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.589408;49.060088
+27516_9643_00010;10;;Rue de l’Eglise;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.662856;49.063755
+27516_9643_00039;39;;Rue de l’Eglise;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.662704;49.064127
+27516_9643_00050;50;;Rue de l’Eglise;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.662852;49.064033
+27516_9643_00071;71;;Rue de l’Eglise;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.662651;49.064275
+27516_9643_00132;132;;Rue de l’Eglise;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.662544;49.064734
+27516_9643_00135;135;;Rue de l’Eglise;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.662229;49.064847
+27516_9643_00171;171;;Rue de l’Eglise;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.661934;49.065068
+27516_0450_00001;1;;Place de la Mairie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.604966;49.051226
+27516_9677_00019;19;;Rue du Grand Clos;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.570014;49.06319
+27516_9677_00021;21;;Rue du Grand Clos;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.569934;49.063136
+27516_9677_00026;26;;Rue du Grand Clos;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.569456;49.062767
+27516_9677_00027;27;;Rue du Grand Clos;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.569592;49.062887
+27516_9677_00029_ter;29;ter;Rue du Grand Clos;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.56918;49.062371
+27516_9642_00020;20;;Rue de l’Ecole;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.663032;49.064316
+27516_9642_00071;71;;Rue de l’Ecole;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.663641;49.064533
+27516_0063_00002;2;;Cote de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.60839;49.079537
+27516_0063_00007;7;;Cote de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605389;49.082979
+27516_0063_00011;11;;Cote de Beaumesnil;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.604688;49.083519
+27516_9629_00080_bis;80;bis;Chemin du Bois de la Pierre;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;;0.677368;49.053992
+27516_0280_00002;2;;Route des Haras;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606376;49.060212
+27516_0490_00001;1;;Chemin de la Mare Commune;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.629822;49.052346
+27516_0268_00001;1;;Chemin des Hameaux;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.639738;49.064506
+27516_0268_00002;2;;Chemin des Hameaux;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.638859;49.065702
+27516_7xe4cj_00003;3;;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.626994;49.05156
+27516_7xe4cj_00008_a;8;a;Route du Bosc Ronflet;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631677;49.051411
+27516_fvf60k_00026;26;;Route Departementale 438;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;;0.566036;49.058282
+27516_fvf60k_00201;201;;Route Departementale 438;27300;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.574016;49.062281
+27516_gz0l41_00005;5;;Les Hymorins;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.610032;49.05036
+27516_8wc1fw_00001;1;;la Palaisière;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.597807;49.03838
+27516_1t1apg_00034;34;;Rue du Moulin Neuf;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.606489;49.075809
+27516_qscnbn_00004_b;4;b;B Chemin de la Cour Pitache;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.606235;49.079726
+27516_0625_00001_ter;1;ter;Route de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;;0.614025;49.054851
+27516_0620_00002;2;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609623;49.079392
+27516_0620_00006;6;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.61021;49.079712
+27516_0620_00018;18;;Chemin de Saint Clair;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.612071;49.077948
+27516_0158_00005;5;;Chemin de la Cour Pitache;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.605609;49.078095
+27516_0158_00004_bis;4;bis;Chemin de la Cour Pitache;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.606318;49.079189
+27516_9653_00727;727;;Rue des Longs Champs;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.652611;49.068976
+27516_0596_00008;8;;Route de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.619514;49.072054
+27516_0596_00012;12;;Route de la Pucelliere;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.6209;49.070763
+27516_0120_00007_bis;7;bis;Route du Champ de Course;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.607719;49.080465
+27516_0120_00005_bis;5;bis;Route du Champ de Course;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.609064;49.080951
+27516_9669_00009;9;;route de l'allée des dames;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.571369;49.050532
+27516_9669_00038;38;;route de l'allée des dames;27270;27516;Treis-Sants-en-Ouche;Saint-Quentin-des-Isles;Saint-Quentin-des-Isles;0.568004;49.051822
+27516_9640_00004;4;;Rue du Doisle;27300;27516;Treis-Sants-en-Ouche;Saint-Clair-d'Arcey;Saint-Clair-d'Arcey;0.655919;49.068811
+27516_0720_00006;6;;Chemin de la Touranguerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631955;49.074703
+27516_0720_00008;8;;Chemin de la Touranguerie;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.631457;49.075545
+27516_0720_00014;14;;Chemin de la Touranguerie;27300;27516;Treis-Sants-en-Ouche;;Saint-Aubin-le-Vertueux;0.631208;49.076848
+27516_0480_00001;1;;Chemin de la Mare Bohue;27300;27516;Treis-Sants-en-Ouche;Saint-Aubin-le-Vertueux;Saint-Aubin-le-Vertueux;0.616486;49.055936

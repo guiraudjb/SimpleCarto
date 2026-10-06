@@ -1,0 +1,829 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+91130_r7v5z5_00008;8;;Boinville;91780;91130;Chalo-Saint-Mars;;;2.049021;48.410175
+91130_yhsu8w_00004;4;;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047454;48.414618
+91130_o4lau5_00002;2;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068748;48.424818
+91130_3jxic4_00005;5;;Longuetoise;91780;91130;Chalo-Saint-Mars;;;2.091224;48.426538
+91130_3zbhhg_00017;17;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.044067;48.409701
+91130_3zbhhg_00022;22;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042801;48.409164
+91130_3zbhhg_00025;25;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043234;48.408997
+91130_3zbhhg_00030;30;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.041703;48.408921
+91130_bb1fh7_00002;2;;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.068141;48.426645
+91130_bb1fh7_00009;9;;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.068507;48.427561
+91130_fljqzp_00008;8;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.054521;48.419064
+91130_fljqzp_00001_bis;1;bis;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.057441;48.419777
+91130_ef4by7_00013;13;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.066755;48.439061
+91130_ef4by7_00005_bis;5;bis;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.064177;48.439535
+91130_ly611z_00024;24;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.051601;48.414202
+91130_do6fru_00001;1;;Sente du Four Blanc;91780;91130;Chalo-Saint-Mars;;;2.097832;48.426597
+91130_r7v5z5_00011;11;;Boinville;91780;91130;Chalo-Saint-Mars;;;2.048847;48.407968
+91130_yhsu8w_00013;13;;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046919;48.413507
+91130_yhsu8w_00018;18;;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046752;48.413453
+91130_yhsu8w_00004_bis;4;bis;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047355;48.414471
+91130_o4lau5_00024;24;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068246;48.422497
+91130_o4lau5_00027;27;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068577;48.422955
+91130_o4lau5_00031;31;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068426;48.422623
+91130_o4lau5_00051;51;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.066135;48.419639
+91130_3jxic4_00013;13;;Longuetoise;91780;91130;Chalo-Saint-Mars;;;2.094692;48.425629
+91130_jl75co_00002;2;;La Picharderie;91780;91130;Chalo-Saint-Mars;;;2.07113;48.424815
+91130_bb1fh7_00017;17;;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.071093;48.428975
+91130_bb1fh7_00010_ter;10;ter;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.073395;48.429682
+91130_dejtxp_00014;14;;les Carneaux;91780;91130;Chalo-Saint-Mars;;;2.064317;48.425109
+91130_r7v5z5_00003;3;;Boinville;91780;91130;Chalo-Saint-Mars;;;2.048847;48.407968
+91130_o4lau5_00011;11;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.06905;48.423795
+91130_o4lau5_00019;19;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.069008;48.423476
+91130_o4lau5_00045;45;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.066715;48.420666
+91130_o4lau5_00004_bis;4;bis;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.069681;48.424744
+91130_3zbhhg_00013;13;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.044641;48.40984
+91130_3zbhhg_00033;33;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042469;48.408757
+91130_3zbhhg_00022_z;22;z;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.0426;48.40914
+91130_fljqzp_00017;17;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.0536;48.418546
+91130_fljqzp_00022;22;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.052742;48.418306
+91130_fljqzp_00026;26;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.051815;48.417922
+91130_ef4by7_00002;2;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.06419;48.439202
+91130_ef4by7_00005;5;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.064244;48.439455
+91130_ef4by7_00010;10;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.065819;48.439081
+91130_ef4by7_00018;18;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.06713;48.438653
+91130_ly611z_00008;8;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.056304;48.415673
+91130_ly611z_00014;14;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.054967;48.414582
+91130_ly611z_00030;30;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.049626;48.412393
+91130_ly611z_00030_ter;30;ter;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.051747;48.414212
+91130_yhsu8w_00007;7;;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.04704;48.413985
+91130_o4lau5_00007;7;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068467;48.422674
+91130_o4lau5_00016;16;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068799;48.423429
+91130_o4lau5_00038;38;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.067226;48.421205
+91130_o4lau5_00041;41;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.067144;48.421018
+91130_3zbhhg_00005;5;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.041621;48.409183
+91130_3zbhhg_00008;8;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043991;48.409849
+91130_3zbhhg_00039;39;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.041734;48.408611
+91130_3zbhhg_00053;53;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.038799;48.406698
+91130_bb1fh7_00012;12;;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.073722;48.43051
+91130_bb1fh7_00023;23;;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.074205;48.431949
+91130_fljqzp_00003;3;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.055359;48.419444
+91130_fljqzp_00011;11;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.054437;48.41892
+91130_fljqzp_00041;41;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.051415;48.417633
+91130_do6fru_00004;4;;Sente du Four Blanc;91780;91130;Chalo-Saint-Mars;;;2.107534;48.425638
+91130_h0xwh9_00006;6;;Le Tronchet;91780;91130;Chalo-Saint-Mars;;;2.058637;48.437908
+91130_kkrvgh_00003;3;;le Four Blanc;91780;91130;Chalo-Saint-Mars;;;2.103644;48.425642
+91130_01zcb4_00001;1;;Rue des Aulnes;91780;91130;Chalo-Saint-Mars;;;2.066459;48.426681
+91130_8yebcq_00020;20;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046453;48.413017
+91130_01zcb4_00007;7;;Rue des Aulnes;91780;91130;Chalo-Saint-Mars;;;2.065544;48.42635
+91130_lvika7_00015;15;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.063464;48.418187
+91130_lvika7_00020_ter;20;ter;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.062476;48.418359
+91130_0150_00002;2;;Rue de la Pelleterie;91780;91130;Chalo-Saint-Mars;;;2.066873;48.426078
+91130_0150_00010;10;;Rue de la Pelleterie;91780;91130;Chalo-Saint-Mars;;;2.067169;48.425948
+91130_0020_00007;7;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.066231;48.419223
+91130_0028_00022;22;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042397;48.409502
+91130_ipcftx_00001;1;;Voie Communale Montoir de la Gitonnière;91780;91130;Chalo-Saint-Mars;;;2.06367;48.417594
+91130_lvika7_00012;12;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.064331;48.419282
+91130_0004_00004;4;;Rue du Bois de la Pucelle;91780;91130;Chalo-Saint-Mars;;;2.058977;48.428574
+91130_0028_00033;33;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042361;48.408859
+91130_0028_00014_bis;14;bis;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043532;48.409442
+91130_0017_00006;6;;Place de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.06786;48.427471
+91130_ran1dg_00007;7;;Montoir de Chantepie;91780;91130;Chalo-Saint-Mars;;;2.055954;48.419885
+91130_8yebcq_00003;3;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047507;48.414326
+91130_8yebcq_00028;28;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.045906;48.41223
+91130_01zcb4_00010_z;10;z;Rue des Aulnes;91780;91130;Chalo-Saint-Mars;;;2.064864;48.425756
+91130_lvika7_00020;20;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.063477;48.418605
+91130_p157cy_00001;1;;Montoir de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042168;48.409051
+91130_p157cy_00009;9;;Montoir de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.040806;48.409171
+91130_b013_00020;20;;Chantepie Ham;91780;91130;Chalo-Saint-Mars;;;2.058215;48.419921
+91130_0004_00012;12;;Rue du Bois de la Pucelle;91780;91130;Chalo-Saint-Mars;;;2.058951;48.429276
+91130_0020_00001;1;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.065182;48.41858
+91130_0020_00010;10;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.066126;48.419063
+91130_0028_00004;4;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.045186;48.410665
+91130_0028_00008;8;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.04413;48.409852
+91130_0028_00017;17;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.044187;48.409863
+91130_0028_00025;25;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043104;48.409149
+91130_0028_00038;38;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.040268;48.408334
+91130_0028_00011_bis;11;bis;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.045289;48.409784
+91130_k4eodi_00006;6;;La Fosse;91780;91130;Chalo-Saint-Mars;;;2.059268;48.417024
+91130_8yebcq_00006;6;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047254;48.414328
+91130_8yebcq_00011;11;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047266;48.413618
+91130_8yebcq_00015;15;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047025;48.41331
+91130_qn1kwc_00002;2;;Ézeaux;91780;91130;Chalo-Saint-Mars;;;2.030908;48.400267
+91130_lvika7_00004;4;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.065724;48.419964
+91130_af4q5q_00002;2;;Eyzeaux;91780;91130;Chalo-Saint-Mars;;;2.030551;48.400499
+91130_b013_00002;2;;Chantepie Ham;91780;91130;Chalo-Saint-Mars;;;2.062622;48.421063
+91130_b013_00005;5;;Chantepie Ham;91780;91130;Chalo-Saint-Mars;;;2.062279;48.420737
+91130_0150_00005;5;;Rue de la Pelleterie;91780;91130;Chalo-Saint-Mars;;;2.067055;48.426038
+91130_0150_00014;14;;Rue de la Pelleterie;91780;91130;Chalo-Saint-Mars;;;2.067461;48.426322
+91130_0020_00018;18;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.066862;48.419693
+91130_0020_00024;24;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.067795;48.420441
+91130_0017_00012;12;;Place de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.06744;48.427505
+91130_0017_00010_bis;10;bis;Place de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067516;48.427416
+91130_0007_00016_bis;16;bis;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.068949;48.433427
+91130_0007_00015_z;15;z;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.062315;48.440419
+91130_0008_00009_b;9;b;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.065322;48.426075
+91130_0008_00018_e;18;e;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.048191;48.415582
+91130_b020_00010;10;;Cote de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042707;48.409082
+91130_0016_00006;6;;Rue de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067342;48.427036
+91130_0200_00024;24;;Sente du Vau;91780;91130;Chalo-Saint-Mars;;;2.053191;48.414119
+91130_b023_00001;1;;Cote du Creux Chem;91780;91130;Chalo-Saint-Mars;;;2.04636;48.413257
+91130_b023_00016;16;;Cote du Creux Chem;91780;91130;Chalo-Saint-Mars;;;2.046529;48.413293
+91130_0005_00006;6;;Route de Boinville;91780;91130;Chalo-Saint-Mars;;;2.048936;48.410324
+91130_0007_00011;11;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.063687;48.437365
+91130_0008_00019;19;;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.048709;48.415564
+91130_0008_00020_b;20;b;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.047855;48.415152
+91130_0008_00020_z;20;z;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.058305;48.420013
+91130_b132_00001_bis;1;bis;Montoir de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.063115;48.417327
+91130_0016_00013;13;;Rue de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067214;48.426684
+91130_0005_00011;11;;Route de Boinville;91780;91130;Chalo-Saint-Mars;;;2.048402;48.407947
+91130_0007_00014;14;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.069766;48.433194
+91130_0007_00022;22;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.067215;48.433995
+91130_0007_00028;28;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.064145;48.43613
+91130_0008_00003;3;;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.066105;48.426705
+91130_0008_00008;8;;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.065338;48.426341
+91130_0008_00011;11;;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.049585;48.416358
+91130_b020_00034;34;;Cote de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.04139;48.409187
+91130_0005_00003;3;;Route de Boinville;91780;91130;Chalo-Saint-Mars;;;2.049689;48.407753
+91130_0007_00003;3;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.064389;48.435622
+91130_0007_00006;6;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.071045;48.432889
+91130_0007_00018_b;18;b;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.0681;48.433727
+91130_0008_00014_e;14;e;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.059669;48.420163
+91130_0008_00005_z;5;z;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.062609;48.420785
+91130_0200_00014;14;;Sente du Vau;91780;91130;Chalo-Saint-Mars;;;2.054596;48.41438
+91130_yhsu8w_00001;1;;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046629;48.413265
+91130_yhsu8w_00010;10;;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047069;48.414039
+91130_o4lau5_00025;25;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068772;48.423272
+91130_o4lau5_00018_bis;18;bis;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068021;48.423072
+91130_3zbhhg_00002;2;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.045221;48.411019
+91130_3zbhhg_00016;16;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043334;48.409357
+91130_3zbhhg_00024;24;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042384;48.409003
+91130_3zbhhg_00027;27;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043033;48.409036
+91130_3zbhhg_00036_b;36;b;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.040612;48.408773
+91130_bb1fh7_00010;10;;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.072728;48.429609
+91130_bb1fh7_00021;21;;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.072354;48.429566
+91130_fljqzp_00021;21;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.05312;48.418455
+91130_fljqzp_00001_ter;1;ter;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.055655;48.419588
+91130_ef4by7_00009;9;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.066368;48.439526
+91130_r7v5z5_00009;9;;Boinville;91780;91130;Chalo-Saint-Mars;;;2.04895;48.407518
+91130_yhsu8w_00014;14;;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046796;48.41352
+91130_o4lau5_00047;47;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068467;48.422674
+91130_r7v5z5_00010;10;;Boinville;91780;91130;Chalo-Saint-Mars;;;2.047888;48.408703
+91130_yhsu8w_00018_bis;18;bis;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046275;48.413394
+91130_o4lau5_00018;18;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068652;48.423209
+91130_o4lau5_00043;43;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.066971;48.420869
+91130_jl75co_00004;4;;La Picharderie;91780;91130;Chalo-Saint-Mars;;;2.071725;48.426061
+91130_3zbhhg_00004;4;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.044962;48.410761
+91130_3zbhhg_00009;9;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.040608;48.409143
+91130_3zbhhg_00029;29;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042903;48.40885
+91130_bb1fh7_00008;8;;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.072481;48.429483
+91130_bb1fh7_00013;13;;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.06956;48.428193
+91130_fljqzp_00012;12;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.054154;48.418872
+91130_fljqzp_00019;19;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.053391;48.418561
+91130_ef4by7_00007;7;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.065177;48.439528
+91130_ly611z_00018;18;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.05424;48.4143
+91130_ly611z_00034;34;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.050872;48.413964
+91130_ly611z_00006;6;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.056812;48.416079
+91130_ly611z_00032;32;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.05112;48.414038
+91130_h0xwh9_00008;8;;Le Tronchet;91780;91130;Chalo-Saint-Mars;;;2.058637;48.437908
+91130_8yebcq_00001;1;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047941;48.414797
+91130_8yebcq_00013;13;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047212;48.413473
+91130_8yebcq_00025;25;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.04606;48.411498
+91130_qn1kwc_00006;6;;Ézeaux;91780;91130;Chalo-Saint-Mars;;;2.030908;48.400267
+91130_lvika7_00014;14;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.064035;48.418866
+91130_lvika7_00022;22;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.062176;48.418303
+91130_gg70sh_00038;38;;Moulin de la Roche;91780;91130;Chalo-Saint-Mars;;;2.049645;48.413335
+91130_0004_00008;8;;Rue du Bois de la Pucelle;91780;91130;Chalo-Saint-Mars;;;2.059083;48.428921
+91130_0150_00012_bis;12;bis;Rue de la Pelleterie;91780;91130;Chalo-Saint-Mars;;;2.067492;48.426213
+91130_0020_00012;12;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.066351;48.419261
+91130_0020_00022;22;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.067523;48.420239
+91130_ran1dg_00002;2;;Montoir de Chantepie;91780;91130;Chalo-Saint-Mars;;;2.060999;48.422281
+91130_8yebcq_00007;7;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047383;48.41383
+91130_jkpbc5_00002;2;;Sente de Veau;91780;91130;Chalo-Saint-Mars;;;2.054141;48.414568
+91130_0150_00006;6;;Rue de la Pelleterie;91780;91130;Chalo-Saint-Mars;;;2.066873;48.426078
+91130_0020_00026;26;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.068325;48.420688
+91130_0028_00016;16;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043452;48.409371
+91130_0028_00019;19;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043696;48.409468
+91130_0028_00037;37;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.041927;48.408721
+91130_0028_00018;18;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043273;48.409263
+91130_0028_00026;26;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042118;48.408839
+91130_o4lau5_00020_bis;20;bis;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068416;48.422853
+91130_3jxic4_00007_ter;7;ter;Longuetoise;91780;91130;Chalo-Saint-Mars;;;2.091505;48.426615
+91130_3zbhhg_00007;7;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.04535;48.410426
+91130_3zbhhg_00019;19;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043831;48.409379
+91130_3zbhhg_00041;41;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.041497;48.408591
+91130_3zbhhg_00014_bis;14;bis;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043495;48.409521
+91130_fljqzp_00010;10;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.054276;48.418938
+91130_yhsu8w_00026;26;;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046115;48.412511
+91130_o4lau5_00005;5;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.069492;48.424408
+91130_o4lau5_00014;14;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.06889;48.423673
+91130_o4lau5_00021;21;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068867;48.423443
+91130_o4lau5_00039;39;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.067465;48.421295
+91130_3jxic4_00001;1;;Longuetoise;91780;91130;Chalo-Saint-Mars;;;2.09031;48.426928
+91130_3zbhhg_00018;18;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043229;48.409379
+91130_3zbhhg_00026;26;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042202;48.408903
+91130_3zbhhg_00038;38;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.039216;48.408582
+91130_bb1fh7_00003;3;;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.068068;48.426711
+91130_bb1fh7_00004_bis;4;bis;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.072071;48.429304
+91130_bb1fh7_00010_bis;10;bis;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.073328;48.429917
+91130_fljqzp_00007;7;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.054802;48.419123
+91130_fljqzp_00001_quater;1;quater;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.055486;48.419509
+91130_ef4by7_00015;15;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.066945;48.438933
+91130_ly611z_00002;2;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.055875;48.415258
+91130_do6fru_00006;6;;Sente du Four Blanc;91780;91130;Chalo-Saint-Mars;;;2.10614;48.424841
+91130_ef4by7_00014;14;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.065819;48.439081
+91130_ef4by7_00017;17;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.067348;48.438581
+91130_ly611z_00030_bis;30;bis;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.049626;48.412393
+91130_do6fru_00005;5;;Sente du Four Blanc;91780;91130;Chalo-Saint-Mars;;;2.104805;48.425442
+91130_dejtxp_00012;12;;les Carneaux;91780;91130;Chalo-Saint-Mars;;;2.064317;48.425109
+91130_kkrvgh_00006;6;;le Four Blanc;91780;91130;Chalo-Saint-Mars;;;2.10511;48.425493
+91130_k4eodi_00002;2;;La Fosse;91780;91130;Chalo-Saint-Mars;;;2.059268;48.417024
+91130_8yebcq_00004;4;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047427;48.414573
+91130_8yebcq_00032;32;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.045359;48.41138
+91130_lvika7_00008;8;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.065008;48.419828
+91130_b013_00003;3;;Chantepie Ham;91780;91130;Chalo-Saint-Mars;;;2.062869;48.421147
+91130_0004_00001;1;;Rue du Bois de la Pucelle;91780;91130;Chalo-Saint-Mars;;;2.059229;48.428508
+91130_0150_00004;4;;Rue de la Pelleterie;91780;91130;Chalo-Saint-Mars;;;2.066768;48.42621
+91130_0150_00005_bis;5;bis;Rue de la Pelleterie;91780;91130;Chalo-Saint-Mars;;;2.066823;48.426254
+91130_0020_00003;3;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.065588;48.418748
+91130_0020_00009;9;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.066703;48.419688
+91130_h0xwh9_00010;10;;Le Tronchet;91780;91130;Chalo-Saint-Mars;;;2.058637;48.437908
+91130_k4eodi_00008;8;;La Fosse;91780;91130;Chalo-Saint-Mars;;;2.059268;48.417024
+91130_624kfw_00001;1;;Le Village;91780;91130;Chalo-Saint-Mars;;;2.067911;48.426606
+91130_01zcb4_00008;8;;Rue des Aulnes;91780;91130;Chalo-Saint-Mars;;;2.065131;48.426356
+91130_lvika7_00006;6;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.065269;48.419843
+91130_lvika7_00011;11;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.063979;48.418605
+91130_lvika7_00019;19;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.063183;48.417865
+91130_b013_00008;8;;Chantepie Ham;91780;91130;Chalo-Saint-Mars;;;2.061087;48.420293
+91130_0004_00006;6;;Rue du Bois de la Pucelle;91780;91130;Chalo-Saint-Mars;;;2.059151;48.428756
+91130_0007_00005_bis;5;bis;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.06406;48.436014
+91130_0007_00022_bis;22;bis;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.066906;48.434132
+91130_0008_00018_z;18;z;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.058551;48.420024
+91130_0007_00034;34;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.063782;48.436628
+91130_0008_00020;20;;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.048076;48.415307
+91130_0008_00002_z;2;z;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.056463;48.419922
+91130_b020_00012;12;;Cote de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042707;48.409082
+91130_b020_00028;28;;Cote de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.041979;48.409113
+91130_0016_00013_bis;13;bis;Rue de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067153;48.426858
+91130_0200_00008;8;;Sente du Vau;91780;91130;Chalo-Saint-Mars;;;2.055583;48.41495
+91130_0200_00030;30;;Sente du Vau;91780;91130;Chalo-Saint-Mars;;;2.052512;48.414154
+91130_0200_00036_bis;36;bis;Sente du Vau;91780;91130;Chalo-Saint-Mars;;;2.050663;48.413782
+91130_b023_00018;18;;Cote du Creux Chem;91780;91130;Chalo-Saint-Mars;;;2.046415;48.413328
+91130_r7v5z5_00007;7;;Boinville;91780;91130;Chalo-Saint-Mars;;;2.049232;48.407509
+91130_r7v5z5_00013;13;;Boinville;91780;91130;Chalo-Saint-Mars;;;2.048847;48.407968
+91130_yhsu8w_00011;11;;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047007;48.413642
+91130_o4lau5_00006;6;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.069443;48.424489
+91130_o4lau5_00012;12;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.069;48.423836
+91130_o4lau5_00037;37;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.067677;48.421536
+91130_o4lau5_00042;42;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.066744;48.421059
+91130_o4lau5_00050;50;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.065834;48.420432
+91130_3zbhhg_00006;6;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.044169;48.409985
+91130_3zbhhg_00020;20;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043115;48.409306
+91130_3zbhhg_00032;32;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.041423;48.408838
+91130_3zbhhg_00036;36;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.041116;48.408705
+91130_fljqzp_00001;1;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.055819;48.419642
+91130_fljqzp_00009;9;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.054087;48.418746
+91130_fljqzp_00020;20;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.053036;48.418421
+91130_0150_00007_bis;7;bis;Rue de la Pelleterie;91780;91130;Chalo-Saint-Mars;;;2.06687;48.425877
+91130_0028_00024;24;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.04238;48.408909
+91130_0028_00027;27;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042999;48.408936
+91130_0017_00003;3;;Place de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067484;48.42704
+91130_0017_00008;8;;Place de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067744;48.427461
+91130_0028_00039;39;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.041635;48.408666
+91130_0028_00053;53;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.038669;48.406802
+91130_0017_00009;9;;Place de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067238;48.426876
+91130_0017_00014;14;;Place de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.06749;48.427155
+91130_0007_00013;13;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.062492;48.440286
+91130_0007_00026;26;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.066231;48.434443
+91130_0008_00002;2;;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.050836;48.417443
+91130_0008_00013;13;;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.049396;48.416249
+91130_0008_00010_t;10;t;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.065204;48.426069
+91130_0008_00009_e;9;e;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.050064;48.416312
+91130_0008_00002_r;2;r;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.062604;48.421158
+91130_0007_00001;1;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.06639;48.434245
+91130_0007_00004;4;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.071771;48.432656
+91130_0007_00024;24;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.066409;48.434354
+91130_0007_00003_bis;3;bis;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.064417;48.43537
+91130_0008_00010_a;10;a;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.06508;48.425654
+91130_r7v5z5_00004;4;;Boinville;91780;91130;Chalo-Saint-Mars;;;2.048847;48.407968
+91130_yhsu8w_00032;32;;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.04566;48.411454
+91130_o4lau5_00003;3;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.070075;48.424874
+91130_o4lau5_00032;32;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.067731;48.421704
+91130_3jxic4_00015;15;;Longuetoise;91780;91130;Chalo-Saint-Mars;;;2.094862;48.425625
+91130_3zbhhg_00049;49;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.040226;48.406989
+91130_bb1fh7_00001;1;;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.06793;48.426475
+91130_bb1fh7_00006_b;6;b;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.06943;48.42802
+91130_r7v5z5_00001;1;;Boinville;91780;91130;Chalo-Saint-Mars;;;2.049711;48.408081
+91130_yhsu8w_00028;28;;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.045875;48.412104
+91130_o4lau5_00010;10;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.069094;48.424084
+91130_o4lau5_00022;22;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068393;48.422704
+91130_o4lau5_00034;34;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.067601;48.421541
+91130_o4lau5_00040;40;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.0671;48.421087
+91130_o4lau5_00044;44;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.065875;48.4214
+91130_3zbhhg_00010;10;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043911;48.409754
+91130_3zbhhg_00037;37;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.041996;48.408586
+91130_bb1fh7_00006;6;;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.072068;48.4293
+91130_bb1fh7_00006_a;6;a;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.072274;48.429387
+91130_fljqzp_00002;2;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.055708;48.4197
+91130_fljqzp_00014;14;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.053954;48.418784
+91130_fljqzp_00033;33;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.05203;48.41792
+91130_fljqzp_00039;39;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.051203;48.417506
+91130_ef4by7_00001;1;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.064077;48.439078
+91130_r7v5z5_00006;6;;Boinville;91780;91130;Chalo-Saint-Mars;;;2.048847;48.407968
+91130_yhsu8w_00005;5;;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046629;48.413265
+91130_o4lau5_00001;1;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.069959;48.425562
+91130_o4lau5_00004;4;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.069162;48.424315
+91130_o4lau5_00013;13;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.069018;48.423674
+91130_o4lau5_00017;17;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068938;48.423554
+91130_o4lau5_00030;30;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.067907;48.421933
+91130_3jxic4_00011;11;;Longuetoise;91780;91130;Chalo-Saint-Mars;;;2.094447;48.425633
+91130_3zbhhg_00031;31;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042671;48.40892
+91130_bb1fh7_00014;14;;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.074021;48.431033
+91130_fljqzp_00005;5;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.054858;48.419158
+91130_fljqzp_00018;18;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.053255;48.418507
+91130_ef4by7_00006;6;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.065456;48.439408
+91130_r7v5z5_00005;5;;Boinville;91780;91130;Chalo-Saint-Mars;;;2.048847;48.407968
+91130_yhsu8w_00017;17;;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046474;48.412869
+91130_o4lau5_00008;8;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.069162;48.424315
+91130_o4lau5_00026;26;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068148;48.422334
+91130_o4lau5_00029;29;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068467;48.422674
+91130_o4lau5_00019_bis;19;bis;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.069155;48.423413
+91130_3jxic4_00007;7;;Longuetoise;91780;91130;Chalo-Saint-Mars;;;2.09169;48.426335
+91130_3zbhhg_00012;12;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043675;48.409716
+91130_3zbhhg_00021;21;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.04356;48.409305
+91130_3zbhhg_00034;34;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.041253;48.408805
+91130_3zbhhg_00011_bis;11;bis;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.044811;48.41004
+91130_fljqzp_00024;24;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.052383;48.418163
+91130_fljqzp_00035;35;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.051923;48.417873
+91130_ef4by7_00020;20;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.067326;48.438455
+91130_ly611z_00012;12;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.055122;48.41466
+91130_ly611z_00028;28;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.052671;48.414152
+91130_ly611z_00002_z;2;z;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.055948;48.415325
+91130_h0xwh9_00004;4;;Le Tronchet;91780;91130;Chalo-Saint-Mars;;;2.055823;48.437914
+91130_ly611z_00001;1;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.05449;48.414293
+91130_kkrvgh_00002;2;;le Four Blanc;91780;91130;Chalo-Saint-Mars;;;2.10511;48.425493
+91130_8yebcq_00009;9;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047108;48.413671
+91130_lvika7_00002;2;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.065665;48.420319
+91130_lvika7_00017;17;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.063343;48.418024
+91130_0k9hgx_00003;3;;Rue des Roches;91780;91130;Chalo-Saint-Mars;;;2.03151;48.393107
+91130_p157cy_00003;3;;Montoir de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.041873;48.409071
+91130_0004_00014;14;;Rue du Bois de la Pucelle;91780;91130;Chalo-Saint-Mars;;;2.058836;48.429457
+91130_kkrvgh_00004;4;;le Four Blanc;91780;91130;Chalo-Saint-Mars;;;2.10511;48.425493
+91130_8yebcq_00002;2;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047806;48.415071
+91130_8yebcq_00010;10;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.04699;48.414002
+91130_8yebcq_00016;16;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046639;48.413397
+91130_01zcb4_00016;16;;Rue des Aulnes;91780;91130;Chalo-Saint-Mars;;;2.064563;48.42488
+91130_lvika7_00023;23;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.062871;48.417543
+91130_lvika7_00004_z;4;z;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.065802;48.420081
+91130_af4q5q_00006;6;;Eyzeaux;91780;91130;Chalo-Saint-Mars;;;2.033652;48.398923
+91130_b013_00004;4;;Chantepie Ham;91780;91130;Chalo-Saint-Mars;;;2.062205;48.420807
+91130_0020_00011;11;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.066594;48.420123
+91130_0020_00016;16;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.066784;48.419591
+91130_0028_00011;11;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.044818;48.410274
+91130_0028_00041;41;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.041264;48.408596
+91130_0028_00036_bis;36;bis;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.040697;48.408528
+91130_0028_00013;13;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.044372;48.40997
+91130_0028_00021;21;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043425;48.409295
+91130_0028_00031;31;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042572;48.408939
+91130_0017_00002;2;;Place de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067633;48.4271
+91130_0017_00005;5;;Place de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067177;48.427033
+91130_0008_00010;10;;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.065262;48.426101
+91130_0008_00032;32;;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.041518;48.408676
+91130_0007_00018_z;18;z;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.068517;48.43376
+91130_0008_00014;14;;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.064936;48.425279
+91130_0008_00008_z;8;z;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.061029;48.420529
+91130_0008_00017_z;17;z;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.05885;48.419725
+91130_0016_00002;2;;Rue de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067591;48.426704
+91130_0016_00005;5;;Rue de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067563;48.426771
+91130_yhsu8w_00003;3;;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047294;48.414381
+91130_yhsu8w_00019;19;;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046289;48.412591
+91130_o4lau5_00015;15;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.069014;48.423665
+91130_o4lau5_00020;20;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068238;48.42308
+91130_o4lau5_00001_ter;1;ter;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.07;48.425472
+91130_3jxic4_00003;3;;Longuetoise;91780;91130;Chalo-Saint-Mars;;;2.091051;48.426829
+91130_3zbhhg_00003;3;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.041897;48.409142
+91130_3zbhhg_00011;11;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.044922;48.410203
+91130_3zbhhg_00014;14;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.04358;48.40958
+91130_3zbhhg_00028;28;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042025;48.408906
+91130_3zbhhg_00033_bis;33;bis;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042285;48.408665
+91130_bb1fh7_00011;11;;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.069086;48.427939
+91130_bb1fh7_00015;15;;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.070776;48.428856
+91130_fljqzp_00015;15;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.05267;48.418184
+91130_r7v5z5_00002;2;;Boinville;91780;91130;Chalo-Saint-Mars;;;2.048847;48.407968
+91130_r7v5z5_00015;15;;Boinville;91780;91130;Chalo-Saint-Mars;;;2.048847;48.407968
+91130_yhsu8w_00006;6;;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047385;48.414516
+91130_yhsu8w_00009;9;;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047032;48.413684
+91130_o4lau5_00036;36;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.067437;48.421367
+91130_o4lau5_00048;48;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.066449;48.420496
+91130_3jxic4_00007_bis;7;bis;Longuetoise;91780;91130;Chalo-Saint-Mars;;;2.091554;48.426711
+91130_3zbhhg_00036_z;36;z;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.041085;48.408503
+91130_bb1fh7_00016;16;;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.074259;48.431803
+91130_fljqzp_00004;4;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.055426;48.419579
+91130_fljqzp_00016;16;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.05351;48.418606
+91130_fljqzp_00014_bis;14;bis;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.053689;48.418676
+91130_ef4by7_00004;4;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.064742;48.439447
+91130_ef4by7_00012;12;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.066109;48.439064
+91130_do6fru_00002;2;;Sente du Four Blanc;91780;91130;Chalo-Saint-Mars;;;2.107534;48.425638
+91130_ly611z_00016;16;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.054293;48.414318
+91130_ly611z_00022;22;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.052804;48.414145
+91130_ly611z_00012_z;12;z;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.054364;48.41466
+91130_8yebcq_00018;18;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.04659;48.413293
+91130_5scwmv_00005;5;;Chérel;91780;91130;Chalo-Saint-Mars;;;2.080808;48.427427
+91130_01zcb4_00005;5;;Rue des Aulnes;91780;91130;Chalo-Saint-Mars;;;2.065913;48.426529
+91130_01zcb4_00009;9;;Rue des Aulnes;91780;91130;Chalo-Saint-Mars;;;2.065449;48.426017
+91130_lvika7_00020_bis;20;bis;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.062558;48.418585
+91130_b013_00009;9;;Chantepie Ham;91780;91130;Chalo-Saint-Mars;;;2.061529;48.420356
+91130_0150_00007;7;;Rue de la Pelleterie;91780;91130;Chalo-Saint-Mars;;;2.06713;48.426011
+91130_0150_00012;12;;Rue de la Pelleterie;91780;91130;Chalo-Saint-Mars;;;2.067386;48.426164
+91130_8yebcq_00019;19;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046469;48.412572
+91130_8yebcq_00030;30;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.04529;48.411686
+91130_opmi07_00009;9;;Château Chérel;91780;91130;Chalo-Saint-Mars;;;2.080765;48.427371
+91130_5scwmv_00001;1;;Chérel;91780;91130;Chalo-Saint-Mars;;;2.078847;48.427228
+91130_lvika7_00016;16;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.063929;48.418798
+91130_p157cy_00005;5;;Montoir de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.04164;48.409074
+91130_0004_00002;2;;Rue du Bois de la Pucelle;91780;91130;Chalo-Saint-Mars;;;2.059019;48.428372
+91130_0150_00001;1;;Rue de la Pelleterie;91780;91130;Chalo-Saint-Mars;;;2.066878;48.426497
+91130_0150_00009;9;;Rue de la Pelleterie;91780;91130;Chalo-Saint-Mars;;;2.067312;48.42613
+91130_0020_00002;2;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.064642;48.418386
+91130_0020_00005;5;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.065901;48.41898
+91130_0028_00003;3;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.04562;48.410973
+91130_0020_00028;28;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.068301;48.420839
+91130_0028_00007;7;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.045159;48.410535
+91130_0017_00008_bis;8;bis;Place de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067653;48.427347
+91130_0007_00005;5;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.064187;48.435941
+91130_0007_00008;8;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.070718;48.43295
+91130_0007_00016;16;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.06944;48.433301
+91130_0007_00032;32;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.065023;48.43716
+91130_0008_00005;5;;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.065809;48.426612
+91130_0008_00003_z;3;z;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.063022;48.421062
+91130_0017_00006_bis;6;bis;Place de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.06782;48.427559
+91130_0007_00009;9;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.062703;48.436856
+91130_0007_00012;12;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.070078;48.433146
+91130_0007_00018;18;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.068367;48.433608
+91130_0008_00001;1;;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.066328;48.426739
+91130_0008_00006;6;;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.05009;48.416969
+91130_0008_00009;9;;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.055298;48.418284
+91130_0008_00002_e;2;e;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.050578;48.417392
+91130_0005_00002;2;;Route de Boinville;91780;91130;Chalo-Saint-Mars;;;2.049217;48.411541
+91130_0005_00007;7;;Route de Boinville;91780;91130;Chalo-Saint-Mars;;;2.049113;48.407537
+91130_0005_00010;10;;Route de Boinville;91780;91130;Chalo-Saint-Mars;;;2.048233;48.408128
+91130_yhsu8w_00008;8;;Montoir de Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047205;48.414251
+91130_o4lau5_00023;23;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068806;48.423362
+91130_o4lau5_00028;28;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.068032;48.422164
+91130_o4lau5_00046;46;;Rue des Sablons;91780;91130;Chalo-Saint-Mars;;;2.066562;48.420708
+91130_3jxic4_00001_bis;1;bis;Longuetoise;91780;91130;Chalo-Saint-Mars;;;2.093877;48.425638
+91130_3zbhhg_00023;23;;Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043318;48.409164
+91130_bb1fh7_00004;4;;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.071496;48.42908
+91130_bb1fh7_00019;19;;Rue Eudes Lemaire;91780;91130;Chalo-Saint-Mars;;;2.071748;48.429244
+91130_fljqzp_00006;6;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.054945;48.419318
+91130_fljqzp_00023;23;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.052841;48.418175
+91130_b009_00008;8;;Le Bois Minard;91780;91130;Chalo-Saint-Mars;;;2.049861;48.416819
+91130_b009_00013;13;;Le Bois Minard;91780;91130;Chalo-Saint-Mars;;;2.049326;48.416279
+91130_b111_00008_bis;8;bis;Le Tronchet Ham;91780;91130;Chalo-Saint-Mars;;;2.053392;48.438672
+91130_0015_00042;42;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.063203;48.427557
+91130_0002_00007;7;;Rue Alfred de Vigny;91780;91130;Chalo-Saint-Mars;;;2.058614;48.427939
+91130_fljqzp_00006_bis;6;bis;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.055117;48.419414
+91130_ef4by7_00011;11;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.066483;48.439212
+91130_do6fru_00006_bis;6;bis;Sente du Four Blanc;91780;91130;Chalo-Saint-Mars;;;2.107093;48.425498
+91130_dejtxp_00016;16;;les Carneaux;91780;91130;Chalo-Saint-Mars;;;2.064317;48.425109
+91130_ran1dg_00001;1;;Montoir de Chantepie;91780;91130;Chalo-Saint-Mars;;;2.057594;48.420729
+91130_8yebcq_00005;5;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047261;48.41411
+91130_8yebcq_00014;14;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046706;48.413636
+91130_lvika7_00010;10;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.064909;48.419363
+91130_lvika7_00025;25;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.062411;48.417666
+91130_b013_00007;7;;Chantepie Ham;91780;91130;Chalo-Saint-Mars;;;2.061828;48.420482
+91130_b013_00017;17;;Chantepie Ham;91780;91130;Chalo-Saint-Mars;;;2.058834;48.419881
+91130_0150_00003;3;;Rue de la Pelleterie;91780;91130;Chalo-Saint-Mars;;;2.066872;48.426305
+91130_0150_00008;8;;Rue de la Pelleterie;91780;91130;Chalo-Saint-Mars;;;2.066916;48.426048
+91130_0150_00011;11;;Rue de la Pelleterie;91780;91130;Chalo-Saint-Mars;;;2.067414;48.426293
+91130_0005_00013;13;;Route de Boinville;91780;91130;Chalo-Saint-Mars;;;2.047473;48.40805
+91130_b009_00010;10;;Le Bois Minard;91780;91130;Chalo-Saint-Mars;;;2.049582;48.416659
+91130_b111_00012;12;;Le Tronchet Ham;91780;91130;Chalo-Saint-Mars;;;2.045129;48.438078
+91130_0025_00011;11;;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.063976;48.418633
+91130_0025_00014;14;;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.064355;48.418862
+91130_0025_00018;18;;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.067002;48.419823
+91130_0015_00006;6;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.066858;48.426765
+91130_b009_00006;6;;Le Bois Minard;91780;91130;Chalo-Saint-Mars;;;2.050089;48.416945
+91130_b009_00011;11;;Le Bois Minard;91780;91130;Chalo-Saint-Mars;;;2.049445;48.416378
+91130_b043_00002;2;;La Garenne de la Gitonnier;91780;91130;Chalo-Saint-Mars;;;2.063456;48.417799
+91130_0015_00003;3;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.067393;48.4265
+91130_0015_00044_bis;44;bis;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.062845;48.42791
+91130_0015_00022_bis;22;bis;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.065653;48.427066
+91130_b111_00008;8;;Le Tronchet Ham;91780;91130;Chalo-Saint-Mars;;;2.053392;48.438672
+91130_0060_00010;10;;Place du Jeu de Paume;91780;91130;Chalo-Saint-Mars;;;2.063375;48.427992
+91130_0201_00001;1;;Chemin des Huguenots;91780;91130;Chalo-Saint-Mars;;;2.063123;48.435892
+91130_0201_00015;15;;Chemin des Huguenots;91780;91130;Chalo-Saint-Mars;;;2.063123;48.435892
+91130_0014_00001;1;;Impasse de l’Eglise;91780;91130;Chalo-Saint-Mars;;;2.067086;48.426904
+91130_b043_00001;1;;La Garenne de la Gitonnier;91780;91130;Chalo-Saint-Mars;;;2.063793;48.418002
+91130_0025_00025;25;;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.06206;48.417957
+91130_0015_00025;25;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.063866;48.427363
+91130_0015_00028;28;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.065575;48.427204
+91130_0015_00058;58;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.059885;48.42779
+91130_0015_00008_a;8;a;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.066536;48.426796
+91130_0138_00002;2;;Rue Masse de Combles;91780;91130;Chalo-Saint-Mars;;;2.065439;48.426777
+91130_ef4by7_00008;8;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.065936;48.439324
+91130_ly611z_00004;4;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.055745;48.415121
+91130_do6fru_00003;3;;Sente du Four Blanc;91780;91130;Chalo-Saint-Mars;;;2.101664;48.424137
+91130_h0xwh9_00012;12;;Le Tronchet;91780;91130;Chalo-Saint-Mars;;;2.058637;48.437908
+91130_8yebcq_00017;17;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046699;48.413024
+91130_8yebcq_00004_bis;4;bis;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047301;48.414383
+91130_qn1kwc_00004;4;;Ézeaux;91780;91130;Chalo-Saint-Mars;;;2.030908;48.400267
+91130_01zcb4_00003;3;;Rue des Aulnes;91780;91130;Chalo-Saint-Mars;;;2.066393;48.426618
+91130_01zcb4_00010;10;;Rue des Aulnes;91780;91130;Chalo-Saint-Mars;;;2.065029;48.426121
+91130_lvika7_00018;18;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.063593;48.418714
+91130_qsdbjg_00014;14;;Chemin des Carneaux;91780;91130;Chalo-Saint-Mars;;;2.064269;48.425085
+91130_f99x2j_00001;1;;Ferme du Four Blanc;91780;91130;Chalo-Saint-Mars;;;2.0985;48.425674
+91130_b020_00026;26;;Cote de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042187;48.409085
+91130_0200_00002;2;;Sente du Vau;91780;91130;Chalo-Saint-Mars;;;2.054141;48.414511
+91130_0200_00016;16;;Sente du Vau;91780;91130;Chalo-Saint-Mars;;;2.054505;48.414343
+91130_0005_00004_bis;4;bis;Route de Boinville;91780;91130;Chalo-Saint-Mars;;;2.049384;48.410454
+91130_b009_00016;16;;Le Bois Minard;91780;91130;Chalo-Saint-Mars;;;2.048635;48.415825
+91130_b009_00020_bis;20;bis;Le Bois Minard;91780;91130;Chalo-Saint-Mars;;;2.047938;48.41514
+91130_0060_00004;4;;Place du Jeu de Paume;91780;91130;Chalo-Saint-Mars;;;2.063998;48.427698
+91130_0012_00002;2;;Impasse du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.066054;48.426993
+91130_0014_00005;5;;Impasse de l’Eglise;91780;91130;Chalo-Saint-Mars;;;2.067111;48.427007
+91130_0025_00004;4;;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.065719;48.419934
+91130_0015_00001;1;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.067695;48.426426
+91130_b009_00014;14;;Le Bois Minard;91780;91130;Chalo-Saint-Mars;;;2.049017;48.416225
+91130_b111_00010;10;;Le Tronchet Ham;91780;91130;Chalo-Saint-Mars;;;2.05318;48.438745
+91130_0060_00006;6;;Place du Jeu de Paume;91780;91130;Chalo-Saint-Mars;;;2.063887;48.427823
+91130_0014_00007;7;;Impasse de l’Eglise;91780;91130;Chalo-Saint-Mars;;;2.067219;48.427098
+91130_0015_00008;8;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.066542;48.426794
+91130_0015_00026;26;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.065529;48.4271
+91130_0015_00054;54;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.060819;48.4277
+91130_0015_00056;56;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.059947;48.427781
+91130_0015_00032_a;32;a;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.065439;48.427321
+91130_0148_00003;3;;Chemin d’Obterres;91780;91130;Chalo-Saint-Mars;;;2.067231;48.439036
+91130_0176_00017;17;;Rue Eudes le Maire;91780;91130;Chalo-Saint-Mars;;;2.071101;48.428972
+91130_0018_00003;3;;Route d’Etampes;91780;91130;Chalo-Saint-Mars;;;2.103734;48.425678
+91130_0013_00006;6;;Chemin d’Eyzeaux;91780;91130;Chalo-Saint-Mars;;;2.030394;48.400719
+91130_0009_00002;2;;Impasse du Chateau;91780;91130;Chalo-Saint-Mars;;;2.069074;48.424493
+91130_0009_00008;8;;Impasse du Chateau;91780;91130;Chalo-Saint-Mars;;;2.069001;48.424605
+91130_b079_00009;9;;Prairie de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.044983;48.410396
+91130_b084_00006;6;;Prairie de la Fossé;91780;91130;Chalo-Saint-Mars;;;2.059005;48.417385
+91130_b087_00015;15;;Prairie de la Voie;91780;91130;Chalo-Saint-Mars;;;2.054731;48.417828
+91130_b131_00009;9;;Le Hameau du Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047021;48.413697
+91130_b130_00001;1;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.057441;48.419777
+91130_b130_00008;8;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.054469;48.419111
+91130_b131_00003;3;;Le Hameau du Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.048198;48.414127
+91130_b131_00008;8;;Le Hameau du Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047067;48.414259
+91130_0138_00004;4;;Rue Masse de Combles;91780;91130;Chalo-Saint-Mars;;;2.06499;48.4266
+91130_0015_00023;23;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.064347;48.427275
+91130_0015_00050;50;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.061695;48.428322
+91130_0002_00009;9;;Rue Alfred de Vigny;91780;91130;Chalo-Saint-Mars;;;2.058141;48.427952
+91130_0018_00004;4;;Route d’Etampes;91780;91130;Chalo-Saint-Mars;;;2.070534;48.425979
+91130_0140_00009;9;;Voie Communale Montoir de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.040575;48.409308
+91130_0176_00009;9;;Rue Eudes le Maire;91780;91130;Chalo-Saint-Mars;;;2.068519;48.427557
+91130_b084_00004_bis;4;bis;Prairie de la Fossé;91780;91130;Chalo-Saint-Mars;;;2.060572;48.417759
+91130_b090_00001;1;;Prairie du Creux Chem;91780;91130;Chalo-Saint-Mars;;;2.048668;48.414475
+91130_0138_00009;9;;Rue Masse de Combles;91780;91130;Chalo-Saint-Mars;;;2.06361;48.426716
+91130_b045_00002;2;;La Garenne des Carneaux;91780;91130;Chalo-Saint-Mars;;;2.064869;48.425425
+91130_0140_00005;5;;Voie Communale Montoir de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.041621;48.409183
+91130_0141_00002;2;;Voie Communale Montoir de Chantepie;91780;91130;Chalo-Saint-Mars;;;2.061;48.422281
+91130_0176_00004;4;;Rue Eudes le Maire;91780;91130;Chalo-Saint-Mars;;;2.071504;48.429077
+91130_b090_00015;15;;Prairie du Creux Chem;91780;91130;Chalo-Saint-Mars;;;2.046813;48.413333
+91130_b130_00019;19;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.054386;48.417459
+91130_b130_00035;35;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.05198;48.417837
+91130_b131_00004;4;;Le Hameau du Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047487;48.414541
+91130_b130_00014;14;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.053928;48.418788
+91130_b130_00020;20;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.052863;48.418517
+91130_b131_00014;14;;Le Hameau du Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046725;48.413562
+91130_b131_00026;26;;Le Hameau du Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.045797;48.412602
+91130_0100_00015;15;;Sente de Longuetoise;91780;91130;Chalo-Saint-Mars;;;2.095242;48.425825
+91130_0138_00006;6;;Rue Masse de Combles;91780;91130;Chalo-Saint-Mars;;;2.064329;48.426765
+91130_0174_00001;1;;Impasse des Sablons;91780;91130;Chalo-Saint-Mars;;;2.069456;48.424136
+91130_0174_00001_ter;1;ter;Impasse des Sablons;91780;91130;Chalo-Saint-Mars;;;2.06995;48.425233
+91130_0009_00005;5;;Impasse du Chateau;91780;91130;Chalo-Saint-Mars;;;2.068794;48.424662
+91130_0033_00007;7;;Hameau de Longuetoise;91780;91130;Chalo-Saint-Mars;;;2.091828;48.426518
+91130_0176_00013;13;;Rue Eudes le Maire;91780;91130;Chalo-Saint-Mars;;;2.069196;48.428525
+91130_b130_00026;26;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.051678;48.417995
+91130_0020_00014;14;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.066543;48.419423
+91130_0020_00020;20;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.067247;48.420016
+91130_0028_00002;2;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.04552;48.410909
+91130_0007_00002;2;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.07197;48.432582
+91130_0007_00015;15;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.06242;48.440403
+91130_0007_00020;20;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.067672;48.433845
+91130_0007_00003_ter;3;ter;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.064506;48.435224
+91130_0008_00004;4;;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.065204;48.426069
+91130_0008_00010_b;10;b;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.065143;48.425848
+91130_b020_00006;6;;Cote de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042707;48.409082
+91130_b020_00014;14;;Cote de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042707;48.409082
+91130_0016_00002_bis;2;bis;Rue de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067614;48.42676
+91130_0005_00008;8;;Route de Boinville;91780;91130;Chalo-Saint-Mars;;;2.048846;48.410189
+91130_0005_00014;14;;Route de Boinville;91780;91130;Chalo-Saint-Mars;;;2.068915;48.42362
+91130_b009_00012;12;;Le Bois Minard;91780;91130;Chalo-Saint-Mars;;;2.049229;48.416347
+91130_0014_00003;3;;Impasse de l’Eglise;91780;91130;Chalo-Saint-Mars;;;2.067044;48.426898
+91130_0014_00009;9;;Impasse de l’Eglise;91780;91130;Chalo-Saint-Mars;;;2.067219;48.427098
+91130_0148_00002;2;;Chemin d’Obterres;91780;91130;Chalo-Saint-Mars;;;2.066973;48.439708
+91130_0021_00006;6;;Chemin du Four Blanc;91780;91130;Chalo-Saint-Mars;;;2.106141;48.424841
+91130_0176_00008;8;;Rue Eudes le Maire;91780;91130;Chalo-Saint-Mars;;;2.07248;48.429482
+91130_0176_00016;16;;Rue Eudes le Maire;91780;91130;Chalo-Saint-Mars;;;2.074277;48.43182
+91130_b090_00005;5;;Prairie du Creux Chem;91780;91130;Chalo-Saint-Mars;;;2.047261;48.41411
+91130_b130_00017;17;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.0536;48.418546
+91130_b130_00041;41;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.051782;48.416764
+91130_b131_00011;11;;Le Hameau du Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046984;48.413623
+91130_0028_00014;14;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043532;48.409442
+91130_0028_00049;49;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.040305;48.406754
+91130_0007_00032_bis;32;bis;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.063753;48.436885
+91130_0008_00012;12;;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.049301;48.416441
+91130_0008_00016_z;16;z;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.058987;48.420045
+91130_0016_00003;3;;Rue de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067525;48.426703
+91130_0200_00022;22;;Sente du Vau;91780;91130;Chalo-Saint-Mars;;;2.05353;48.414102
+91130_0005_00024;24;;Route de Boinville;91780;91130;Chalo-Saint-Mars;;;2.068264;48.42246
+91130_b111_00012_bis;12;bis;Le Tronchet Ham;91780;91130;Chalo-Saint-Mars;;;2.050121;48.43889
+91130_0025_00002;2;;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.066044;48.420172
+91130_0025_00017;17;;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.062977;48.418318
+91130_b009_00002;2;;Le Bois Minard;91780;91130;Chalo-Saint-Mars;;;2.050732;48.417348
+91130_b024_00002;2;;Cotes Four Blanc Coque Sal;91780;91130;Chalo-Saint-Mars;;;2.103848;48.425383
+91130_0025_00001;1;;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.066298;48.420268
+91130_0025_00020;20;;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.063344;48.418485
+91130_0015_00002;2;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.066412;48.427083
+91130_fljqzp_00037;37;;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.051502;48.41768
+91130_ef4by7_00003;3;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.06411;48.439299
+91130_ef4by7_00016;16;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.066927;48.438826
+91130_ly611z_00020;20;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.053858;48.414201
+91130_ly611z_00026;26;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.052984;48.414132
+91130_ly611z_00036;36;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.049626;48.412393
+91130_k4eodi_00004;4;;La Fosse;91780;91130;Chalo-Saint-Mars;;;2.059268;48.417024
+91130_8yebcq_00026;26;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.045779;48.41258
+91130_5scwmv_00007;7;;Chérel;91780;91130;Chalo-Saint-Mars;;;2.081487;48.427429
+91130_af4q5q_00004;4;;Eyzeaux;91780;91130;Chalo-Saint-Mars;;;2.033164;48.399378
+91130_b013_00001;1;;Chantepie Ham;91780;91130;Chalo-Saint-Mars;;;2.064354;48.421066
+91130_0004_00010;10;;Rue du Bois de la Pucelle;91780;91130;Chalo-Saint-Mars;;;2.059018;48.429107
+91130_0016_00004;4;;Rue de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067153;48.426858
+91130_0200_00030_bis;30;bis;Sente du Vau;91780;91130;Chalo-Saint-Mars;;;2.052126;48.414197
+91130_b023_00005;5;;Cote du Creux Chem;91780;91130;Chalo-Saint-Mars;;;2.045722;48.413387
+91130_0005_00004;4;;Route de Boinville;91780;91130;Chalo-Saint-Mars;;;2.048843;48.410549
+91130_0005_00009;9;;Route de Boinville;91780;91130;Chalo-Saint-Mars;;;2.048897;48.407723
+91130_b024_00004;4;;Cotes Four Blanc Coque Sal;91780;91130;Chalo-Saint-Mars;;;2.104144;48.425447
+91130_0201_00009;9;;Chemin des Huguenots;91780;91130;Chalo-Saint-Mars;;;2.063123;48.435892
+91130_0005_00040;40;;Route de Boinville;91780;91130;Chalo-Saint-Mars;;;2.067081;48.421028
+91130_b009_00020;20;;Le Bois Minard;91780;91130;Chalo-Saint-Mars;;;2.048166;48.415384
+91130_b111_00004;4;;Le Tronchet Ham;91780;91130;Chalo-Saint-Mars;;;2.055533;48.437981
+91130_0012_00001;1;;Impasse du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.066319;48.427204
+91130_0025_00015;15;;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.063245;48.418398
+91130_0025_00021;21;;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.062477;48.41812
+91130_0015_00011;11;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.066486;48.426742
+91130_0015_00022;22;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.065737;48.427062
+91130_0015_00034;34;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.065224;48.427201
+91130_0015_00044;44;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.062454;48.427664
+91130_0002_00013;13;;Rue Alfred de Vigny;91780;91130;Chalo-Saint-Mars;;;2.058055;48.427865
+91130_0015_00014;14;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.066019;48.426975
+91130_0015_00018;18;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.06587;48.427022
+91130_0015_00030;30;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.065529;48.427348
+91130_0138_00001;1;;Rue Masse de Combles;91780;91130;Chalo-Saint-Mars;;;2.064619;48.426635
+91130_0018_00001;1;;Route d’Etampes;91780;91130;Chalo-Saint-Mars;;;2.069774;48.426016
+91130_0009_00003;3;;Impasse du Chateau;91780;91130;Chalo-Saint-Mars;;;2.069108;48.424241
+91130_0033_00015;15;;Hameau de Longuetoise;91780;91130;Chalo-Saint-Mars;;;2.095207;48.425922
+91130_0176_00023;23;;Rue Eudes le Maire;91780;91130;Chalo-Saint-Mars;;;2.074092;48.432035
+91130_0021_00003;3;;Chemin du Four Blanc;91780;91130;Chalo-Saint-Mars;;;2.101857;48.424134
+91130_0176_00014;14;;Rue Eudes le Maire;91780;91130;Chalo-Saint-Mars;;;2.073683;48.430633
+91130_b130_00016;16;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.053184;48.418981
+91130_b131_00028;28;;Le Hameau du Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.04578;48.412149
+91130_0100_00013;13;;Sente de Longuetoise;91780;91130;Chalo-Saint-Mars;;;2.094685;48.425834
+91130_b009_00018;18;;Le Bois Minard;91780;91130;Chalo-Saint-Mars;;;2.048354;48.415552
+91130_0025_00008;8;;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.065336;48.419696
+91130_0025_00012;12;;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.064713;48.419118
+91130_0015_00005;5;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.067134;48.42657
+91130_0015_00010;10;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.066327;48.426847
+91130_0015_00013;13;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.066033;48.426896
+91130_0015_00017;17;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.065535;48.427017
+91130_0015_00048;48;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.061831;48.427691
+91130_0002_00001;1;;Rue Alfred de Vigny;91780;91130;Chalo-Saint-Mars;;;2.059228;48.427872
+91130_fljqzp_00035_bis;35;bis;Hameau la Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.052083;48.417755
+91130_ef4by7_00019;19;;Les Boutards;91780;91130;Chalo-Saint-Mars;;;2.06746;48.438464
+91130_ly611z_00010;10;;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.054878;48.414545
+91130_ly611z_00012_a;12;a;Le Vau;91780;91130;Chalo-Saint-Mars;;;2.055122;48.41466
+91130_k4eodi_00004_bis;4;bis;La Fosse;91780;91130;Chalo-Saint-Mars;;;2.060035;48.417911
+91130_8yebcq_00008;8;;le Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047194;48.414256
+91130_01zcb4_00010_b;10;b;Rue des Aulnes;91780;91130;Chalo-Saint-Mars;;;2.064659;48.425947
+91130_lvika7_00013;13;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.063745;48.418234
+91130_lvika7_00021;21;;La Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.063024;48.417698
+91130_0004_00005;5;;Rue du Bois de la Pucelle;91780;91130;Chalo-Saint-Mars;;;2.058912;48.428866
+91130_b132_00001;1;;Montoir de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.063252;48.417142
+91130_0016_00007;7;;Rue de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067153;48.426858
+91130_0005_00001;1;;Route de Boinville;91780;91130;Chalo-Saint-Mars;;;2.069703;48.4248
+91130_b009_00004;4;;Le Bois Minard;91780;91130;Chalo-Saint-Mars;;;2.050403;48.417146
+91130_0060_00006_bis;6;bis;Place du Jeu de Paume;91780;91130;Chalo-Saint-Mars;;;2.063843;48.427875
+91130_b043_00003;3;;La Garenne de la Gitonnier;91780;91130;Chalo-Saint-Mars;;;2.064161;48.417927
+91130_0025_00020_ter;20;ter;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.061635;48.419254
+91130_0060_00008_a;8;a;Place du Jeu de Paume;91780;91130;Chalo-Saint-Mars;;;2.063762;48.427707
+91130_0201_00011;11;;Chemin des Huguenots;91780;91130;Chalo-Saint-Mars;;;2.063123;48.435892
+91130_0025_00006;6;;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.065336;48.419696
+91130_0025_00010;10;;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.06498;48.419307
+91130_0025_00007_bis;7;bis;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.066074;48.41965
+91130_0015_00016;16;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.065949;48.426997
+91130_0002_00003;3;;Rue Alfred de Vigny;91780;91130;Chalo-Saint-Mars;;;2.058925;48.427934
+91130_0015_00009;9;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.066683;48.426671
+91130_0015_00036;36;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.063566;48.427491
+91130_0015_00002_bis;2;bis;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.067629;48.426519
+91130_0013_00002;2;;Chemin d’Eyzeaux;91780;91130;Chalo-Saint-Mars;;;2.030545;48.400362
+91130_b045_00004;4;;La Garenne des Carneaux;91780;91130;Chalo-Saint-Mars;;;2.064447;48.425501
+91130_0151_00001;1;;Sente de la Pelleterie;91780;91130;Chalo-Saint-Mars;;;2.066068;48.426363
+91130_0019_00002_bis;2;bis;Sente de la Ferté;91780;91130;Chalo-Saint-Mars;;;2.072863;48.432286
+91130_0021_00005;5;;Chemin du Four Blanc;91780;91130;Chalo-Saint-Mars;;;2.10452;48.425534
+91130_0176_00003;3;;Rue Eudes le Maire;91780;91130;Chalo-Saint-Mars;;;2.068083;48.42671
+91130_0176_00012;12;;Rue Eudes le Maire;91780;91130;Chalo-Saint-Mars;;;2.073748;48.430532
+91130_0178_00007;7;;Voie Communale Montoir du Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.045435;48.413274
+91130_b084_00002;2;;Prairie de la Fossé;91780;91130;Chalo-Saint-Mars;;;2.061612;48.418172
+91130_0018_00007;7;;Route d’Etampes;91780;91130;Chalo-Saint-Mars;;;2.081415;48.427477
+91130_0174_00003;3;;Impasse des Sablons;91780;91130;Chalo-Saint-Mars;;;2.069627;48.423998
+91130_0029_00004;4;;Hameau de la Fossé;91780;91130;Chalo-Saint-Mars;;;2.060035;48.417911
+91130_0176_00011;11;;Rue Eudes le Maire;91780;91130;Chalo-Saint-Mars;;;2.068909;48.428068
+91130_0176_00021;21;;Rue Eudes le Maire;91780;91130;Chalo-Saint-Mars;;;2.072355;48.429565
+91130_b130_00002;2;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.056284;48.419855
+91130_b130_00007;7;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.054968;48.41899
+91130_b130_00024;24;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.052276;48.41826
+91130_b131_00013;13;;Le Hameau du Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046929;48.413532
+91130_b130_00023;23;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.05382;48.417323
+91130_b130_00037;37;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.051636;48.417596
+91130_0138_00007_bis;7;bis;Rue Masse de Combles;91780;91130;Chalo-Saint-Mars;;;2.063657;48.426713
+91130_0018_00005;5;;Route d’Etampes;91780;91130;Chalo-Saint-Mars;;;2.086665;48.428287
+91130_0018_00005_z;5;z;Route d’Etampes;91780;91130;Chalo-Saint-Mars;;;2.080811;48.427428
+91130_0019_00002;2;;Sente de la Ferté;91780;91130;Chalo-Saint-Mars;;;2.073675;48.43201
+91130_0141_00001;1;;Voie Communale Montoir de Chantepie;91780;91130;Chalo-Saint-Mars;;;2.057699;48.420623
+91130_b130_00005;5;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.055656;48.418663
+91130_b130_00012;12;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.054077;48.418933
+91130_b130_00022;22;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.052692;48.418379
+91130_b131_00006;6;;Le Hameau du Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.047646;48.414414
+91130_b131_00017;17;;Le Hameau du Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046638;48.412898
+91130_0100_00011;11;;Sente de Longuetoise;91780;91130;Chalo-Saint-Mars;;;2.09428;48.425799
+91130_0020_00004;4;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.064914;48.418418
+91130_0020_00008;8;;Rue Garenne de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.065829;48.418817
+91130_0028_00005;5;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.045375;48.410714
+91130_0028_00023;23;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043172;48.409162
+91130_0017_00004;4;;Place de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067664;48.426844
+91130_0017_00010;10;;Place de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067585;48.427381
+91130_0017_00004_bis;4;bis;Place de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067737;48.42727
+91130_0007_00007;7;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.063839;48.436161
+91130_0007_00030;30;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.064002;48.436247
+91130_0007_00034_z;34;z;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.063614;48.436587
+91130_0008_00007;7;;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.065402;48.426318
+91130_0008_00016;16;;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.048544;48.415967
+91130_0008_00004_z;4;z;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.050429;48.417233
+91130_0008_00006_z;6;z;Route de Chalou;91780;91130;Chalo-Saint-Mars;;;2.06174;48.420553
+91130_b023_00006;6;;Cote du Creux Chem;91780;91130;Chalo-Saint-Mars;;;2.046444;48.413231
+91130_b023_00020;20;;Cote du Creux Chem;91780;91130;Chalo-Saint-Mars;;;2.046369;48.413253
+91130_0005_00005;5;;Route de Boinville;91780;91130;Chalo-Saint-Mars;;;2.048989;48.407299
+91130_0005_00002_bis;2;bis;Route de Boinville;91780;91130;Chalo-Saint-Mars;;;2.048854;48.409706
+91130_b009_00009;9;;Le Bois Minard;91780;91130;Chalo-Saint-Mars;;;2.049634;48.416576
+91130_b009_00019;19;;Le Bois Minard;91780;91130;Chalo-Saint-Mars;;;2.04854;48.415596
+91130_b009_00020_ter;20;ter;Le Bois Minard;91780;91130;Chalo-Saint-Mars;;;2.047787;48.41498
+91130_0060_00008;8;;Place du Jeu de Paume;91780;91130;Chalo-Saint-Mars;;;2.063479;48.427883
+91130_0176_00002;2;;Rue Eudes le Maire;91780;91130;Chalo-Saint-Mars;;;2.068157;48.426642
+91130_b084_00004;4;;Prairie de la Fossé;91780;91130;Chalo-Saint-Mars;;;2.060904;48.417897
+91130_b084_00002_bis;2;bis;Prairie de la Fossé;91780;91130;Chalo-Saint-Mars;;;2.061289;48.418134
+91130_b091_00003;3;;Prairie du Four Blanc;91780;91130;Chalo-Saint-Mars;;;2.103751;48.425444
+91130_0160_00002;2;;Chemin de la Picharderie;91780;91130;Chalo-Saint-Mars;;;2.069963;48.424437
+91130_0028_00020;20;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.043062;48.409177
+91130_0028_00029;29;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.042931;48.408893
+91130_0028_00036;36;;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.040965;48.408593
+91130_0028_00033_bis;33;bis;Hameau de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.04223;48.408796
+91130_0017_00007;7;;Place de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067321;48.427437
+91130_0007_00010;10;;Route de Boutervilliers;91780;91130;Chalo-Saint-Mars;;;2.070394;48.433059
+91130_b132_00023;23;;Montoir de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.062259;48.418035
+91130_0016_00011;11;;Rue de l'Eglise;91780;91130;Chalo-Saint-Mars;;;2.067319;48.426863
+91130_0200_00036;36;;Sente du Vau;91780;91130;Chalo-Saint-Mars;;;2.050521;48.4138
+91130_b111_00006;6;;Le Tronchet Ham;91780;91130;Chalo-Saint-Mars;;;2.053392;48.438672
+91130_0201_00003;3;;Chemin des Huguenots;91780;91130;Chalo-Saint-Mars;;;2.062443;48.435558
+91130_0201_00013;13;;Chemin des Huguenots;91780;91130;Chalo-Saint-Mars;;;2.063123;48.435892
+91130_0025_00007;7;;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.066431;48.419447
+91130_0025_00013;13;;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.063494;48.418475
+91130_0015_00004;4;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.067385;48.426574
+91130_0025_00022;22;;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.061454;48.418785
+91130_0025_00020_bis;20;bis;Hameau de la Gitonniere;91780;91130;Chalo-Saint-Mars;;;2.061979;48.419228
+91130_0015_00050_a;50;a;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.061695;48.428322
+91130_0002_00005;5;;Rue Alfred de Vigny;91780;91130;Chalo-Saint-Mars;;;2.058856;48.427928
+91130_0174_00005;5;;Impasse des Sablons;91780;91130;Chalo-Saint-Mars;;;2.069703;48.423985
+91130_0021_00001;1;;Chemin du Four Blanc;91780;91130;Chalo-Saint-Mars;;;2.097833;48.426598
+91130_0141_00007;7;;Voie Communale Montoir de Chantepie;91780;91130;Chalo-Saint-Mars;;;2.055265;48.420373
+91130_0176_00006;6;;Rue Eudes le Maire;91780;91130;Chalo-Saint-Mars;;;2.07207;48.429298
+91130_b041_00013;13;;Garenne de Boinville;91780;91130;Chalo-Saint-Mars;;;2.047532;48.407993
+91130_b130_00021;21;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.054217;48.41728
+91130_b130_00033;33;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.052063;48.417889
+91130_b131_00010;10;;Le Hameau du Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046566;48.414203
+91130_0015_00007;7;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.066758;48.426613
+91130_0015_00020;20;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.065795;48.427047
+91130_0015_00050_b;50;b;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.061831;48.427691
+91130_0002_00011;11;;Rue Alfred de Vigny;91780;91130;Chalo-Saint-Mars;;;2.058073;48.427944
+91130_0138_00005;5;;Rue Masse de Combles;91780;91130;Chalo-Saint-Mars;;;2.063839;48.426824
+91130_0138_00007;7;;Rue Masse de Combles;91780;91130;Chalo-Saint-Mars;;;2.063625;48.426879
+91130_0018_00002;2;;Route d’Etampes;91780;91130;Chalo-Saint-Mars;;;2.068601;48.426169
+91130_0018_00009;9;;Route d’Etampes;91780;91130;Chalo-Saint-Mars;;;2.081861;48.427384
+91130_0023_00001;1;;Rue du Grand Pont;91780;91130;Chalo-Saint-Mars;;;2.047573;48.412857
+91130_0009_00001;1;;Impasse du Chateau;91780;91130;Chalo-Saint-Mars;;;2.06895;48.42448
+91130_b040_00006;6;;Garenne d’Ezeaux;91780;91130;Chalo-Saint-Mars;;;2.033712;48.399078
+91130_0176_00010;10;;Rue Eudes le Maire;91780;91130;Chalo-Saint-Mars;;;2.072731;48.429612
+91130_b084_00008;8;;Prairie de la Fossé;91780;91130;Chalo-Saint-Mars;;;2.058192;48.417894
+91130_b087_00003;3;;Prairie de la Voie;91780;91130;Chalo-Saint-Mars;;;2.055865;48.419189
+91130_b130_00018;18;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.052908;48.418893
+91130_b130_00039;39;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.051203;48.417506
+91130_b131_00007;7;;Le Hameau du Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.048403;48.413654
+91130_b131_00032;32;;Le Hameau du Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.044969;48.411345
+91130_0015_00012;12;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.066185;48.426919
+91130_0015_00015;15;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.065828;48.426957
+91130_0148_00001;1;;Chemin d’Obterres;91780;91130;Chalo-Saint-Mars;;;2.067231;48.439036
+91130_0033_00003;3;;Hameau de Longuetoise;91780;91130;Chalo-Saint-Mars;;;2.091051;48.426828
+91130_0140_00003;3;;Voie Communale Montoir de Beaumont;91780;91130;Chalo-Saint-Mars;;;2.041897;48.409142
+91130_0176_00019;19;;Rue Eudes le Maire;91780;91130;Chalo-Saint-Mars;;;2.071752;48.429242
+91130_b090_00025;25;;Prairie du Creux Chem;91780;91130;Chalo-Saint-Mars;;;2.04675;48.41122
+91130_b130_00006;6;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.054767;48.420027
+91130_0160_00004;4;;Chemin de la Picharderie;91780;91130;Chalo-Saint-Mars;;;2.070349;48.424822
+91130_0015_00027;27;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.063468;48.427442
+91130_0015_00032;32;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.065406;48.427264
+91130_0015_00046;46;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.062546;48.427669
+91130_0015_00052;52;;Rue du Docteur Solon;91780;91130;Chalo-Saint-Mars;;;2.061179;48.427688
+91130_0176_00015;15;;Rue Eudes le Maire;91780;91130;Chalo-Saint-Mars;;;2.070785;48.428853
+91130_b130_00011;11;;La Voie Neuve;91780;91130;Chalo-Saint-Mars;;;2.055072;48.418385
+91130_b131_00019;19;;Le Hameau du Creux Chemin;91780;91130;Chalo-Saint-Mars;;;2.046518;48.412535

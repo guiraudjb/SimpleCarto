@@ -1,0 +1,986 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+14581_5rfzys_00033;33;;Chemin des Champs de Silly;14240;14581;Aurseulles;Anctoville;;-0.676707;49.126925
+14581_vu6xov_00042;42;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.6908;49.1401
+14581_a595ke_00107;107;;Route des Pars;14240;14581;Aurseulles;Anctoville;;-0.665774;49.125793
+14581_n2sk17_00278;278;;Route d'Amayé;14240;14581;Aurseulles;Anctoville;;-0.725397;49.098347
+14581_b477_00860;860;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.707026;49.104233
+14581_f5f555_00258;258;;Route de la Folie;14250;14581;Aurseulles;Longraye;;-0.696519;49.157958
+14581_n2sk17_00356;356;;Route d'Amayé;14240;14581;Aurseulles;Anctoville;;-0.726372;49.098241
+14581_0183_00234;234;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.719406;49.121997
+14581_n9p244_00801;801;;Route les Trois Ponts;14240;14581;Aurseulles;Anctoville;;-0.660393;49.11285
+14581_se6aig_02883;2883;;Route du Pont du Titre;14240;14581;Aurseulles;Torteval-Quesnay;;-0.725048;49.156522
+14581_b725_00641;641;;Route de Longraye;14250;14581;Aurseulles;Longraye;;-0.690193;49.146624
+14581_0183_00362;362;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.72136;49.121942
+14581_0167_00073;73;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716719;49.123926
+14581_e63tt3_00044;44;;Impasse des Fours à Chaux;14250;14581;Aurseulles;Longraye;;-0.69737;49.159618
+14581_0p8do0_01066;1066;;Route du Biéville;14240;14581;Aurseulles;Anctoville;;-0.704256;49.090282
+14581_kep8bv_00001;1;;Route du Moulin Gailland;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.696693;49.120345
+14581_eabsg8_00223;223;;Route d'Havetot;14240;14581;Aurseulles;Anctoville;;-0.71917;49.10219
+14581_0180_00332;332;;Rue de l'Église;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716872;49.119592
+14581_6gmpyo_00271;271;;Route de la Dresserie;14240;14581;Aurseulles;Anctoville;;-0.700585;49.091764
+14581_n9p244_00729;729;;Route les Trois Ponts;14240;14581;Aurseulles;Anctoville;;-0.661365;49.11308
+14581_0167_00122;122;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.715986;49.124262
+14581_6gmpyo_00018;18;;Route de la Dresserie;14240;14581;Aurseulles;Anctoville;;-0.703416;49.090925
+14581_4xwom0_01784;1784;;Route du Bas Quesnay;14240;14581;Aurseulles;Torteval-Quesnay;;-0.730766;49.163113
+14581_0183_01125;1125;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.730067;49.118138
+14581_eabsg8_00219;219;;Route d'Havetot;14240;14581;Aurseulles;Anctoville;;-0.71914;49.102203
+14581_u35lip_00003;3;;Route de Candon;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716892;49.115105
+14581_dqpj17_00117;117;;Impasse des Pérelles;14250;14581;Aurseulles;Longraye;;-0.702405;49.14521
+14581_kn1xqe_04368;4368;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.726494;49.172288
+14581_ndahwb_00057;57;;Impasse du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.687812;49.098666
+14581_n9mqx6_00545;545;;Rue des Havands;14250;14581;Aurseulles;Longraye;;-0.717311;49.158111
+14581_vu6xov_00013;13;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.716463;49.13158
+14581_0100_00211;211;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.709853;49.105483
+14581_6f9wx6_00174;174;;Impasse des Hauts Vents;14240;14581;Aurseulles;Anctoville;;-0.732603;49.101632
+14581_rvoop6_00373;373;;Rue du Launay;14240;14581;Aurseulles;Anctoville;;-0.720788;49.106182
+14581_8s0gh1_02546;2546;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.713911;49.145684
+14581_ystlm4_00791;791;;Route de Courval;14240;14581;Aurseulles;Torteval-Quesnay;;-0.698252;49.13709
+14581_f7x9u2_00048;48;;Impasse des Pommiers;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718214;49.126233
+14581_0mgzzl_00342;342;;Rue des Artisans;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717837;49.12499
+14581_0060_00187;187;;Rue des Écoles;14240;14581;Aurseulles;Anctoville;;-0.705727;49.104867
+14581_vplu62_00468;468;;Route des Roquettes;14240;14581;Aurseulles;Anctoville;;-0.658848;49.114534
+14581_qkt61s_00017;17;;Route de la Couarde;14240;14581;Aurseulles;Torteval-Quesnay;;-0.733765;49.128226
+14581_n9p244_00061;61;;Route les Trois Ponts;14240;14581;Aurseulles;Anctoville;;-0.670176;49.11451
+14581_kep8bv_00002;2;;Route du Moulin Gailland;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.696347;49.120324
+14581_0100_00698;698;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.716061;49.104015
+14581_eqfnu8_01368;1368;;Impasse des Buis;14240;14581;Aurseulles;Anctoville;;-0.68592;49.104873
+14581_0167_00090;90;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716421;49.124057
+14581_i0bidg_00099;99;;Impasse du Torchamp;14240;14581;Aurseulles;Anctoville;;-0.67243;49.114358
+14581_x5c5bj_00324;324;;Impasse de la Vimonderie;14240;14581;Aurseulles;Anctoville;Feuguerolles-sur-Seulles;-0.669424;49.117706
+14581_b723_00387;387;;Rue Argile;14250;14581;Aurseulles;Longraye;;-0.707834;49.150165
+14581_go501a_00650;650;;Route du Vey;14240;14581;Aurseulles;Torteval-Quesnay;;-0.707885;49.139252
+14581_efj0yk_00034;34;;Impasse de la Basse Rue;14250;14581;Aurseulles;Longraye;;-0.685952;49.142528
+14581_br21d1_00090;90;;Impasse de la Fontaine;14240;14581;Aurseulles;Anctoville;;-0.711563;49.097299
+14581_4xnaqw_00162;162;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.698976;49.156606
+14581_b723_01247;1247;;Rue Argile;14250;14581;Aurseulles;Longraye;;-0.698781;49.155147
+14581_sc2qgh_00684;684;;Impasse Le Pley;14240;14581;Aurseulles;Torteval-Quesnay;;-0.745033;49.163377
+14581_eabsg8_00908;908;;Route d'Havetot;14240;14581;Aurseulles;Anctoville;;-0.728076;49.100672
+14581_0309_00915;915;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.677982;49.127138
+14581_0167_00060;60;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716598;49.123829
+14581_31z99m_00810;810;;Route des Trois Cheminées;14240;14581;Aurseulles;Anctoville;;-0.660246;49.119589
+14581_z0p0xk_00135;135;;Rue de la Vallée;14240;14581;Aurseulles;Anctoville;;-0.654428;49.124677
+14581_7dznee_00001;1;;Impasse de la Douetil;14240;14581;Aurseulles;Anctoville;;-0.692958;49.093908
+14581_agjmxs_00038;38;;Impasse du Bois aux Burets;14240;14581;Aurseulles;Anctoville;;-0.677499;49.126547
+14581_vu6xov_00040;40;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.692034;49.139647
+14581_b477_00724;724;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.707302;49.105374
+14581_0309_00465;465;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.676032;49.123604
+14581_a79vvy_01714;1714;;Route du Grand Bois;14240;14581;Aurseulles;Anctoville;;-0.681857;49.132639
+14581_rvoop6_00620;620;;Rue du Launay;14240;14581;Aurseulles;Anctoville;;-0.718506;49.104608
+14581_3khtqb_00047;47;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.655234;49.125364
+14581_b725_01042;1042;;Route de Longraye;14250;14581;Aurseulles;Longraye;;-0.690324;49.150084
+14581_0318_01132;1132;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.662044;49.126736
+14581_br21d1_00054;54;;Impasse de la Fontaine;14240;14581;Aurseulles;Anctoville;;-0.711374;49.097529
+14581_4xnaqw_00588;588;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.703434;49.159028
+14581_skw1pf_00605;605;;Route du Bosq;14240;14581;Aurseulles;Anctoville;;-0.710186;49.092508
+14581_0mgzzl_00150;150;;Rue des Artisans;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717086;49.125534
+14581_0167_00134;134;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716159;49.124416
+14581_vu6xov_00025;25;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.710191;49.133666
+14581_0171_00096;96;;Rue du Bessin;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717905;49.124073
+14581_vplu62_00406;406;;Route des Roquettes;14240;14581;Aurseulles;Anctoville;;-0.659035;49.115084
+14581_rvoop6_00478;478;;Rue du Launay;14240;14581;Aurseulles;Anctoville;;-0.719913;49.10521
+14581_f7x9u2_00054;54;;Impasse des Pommiers;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.71831;49.126223
+14581_b725_01186;1186;;Route de Longraye;14250;14581;Aurseulles;Longraye;;-0.692043;49.150679
+14581_0318_01718;1718;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.654363;49.125588
+14581_icv76z_00027;27;;Impasse des Essards;14240;14581;Aurseulles;Torteval-Quesnay;;-0.736158;49.143033
+14581_20aoxw_00817;817;;Route des Tourailles;14240;14581;Aurseulles;Anctoville;;-0.679204;49.115061
+14581_0167_00585;585;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.712713;49.127809
+14581_dmzkfb_00260;260;;Impasse du Biéville;14240;14581;Aurseulles;Anctoville;;-0.706994;49.089857
+14581_skw1pf_00759;759;;Route du Bosq;14240;14581;Aurseulles;Anctoville;;-0.711675;49.091771
+14581_cs8pam_00104;104;;Route de Longla;14240;14581;Aurseulles;Anctoville;;-0.660657;49.127497
+14581_efvtbd_00832;832;;Route du Feugret;14240;14581;Aurseulles;Anctoville;;-0.667876;49.135527
+14581_0313_00490;490;;Route de Feuguerolles;14240;14581;Aurseulles;Anctoville;;-0.671257;49.115762
+14581_w7ci1r_01427;1427;;Route du Plateau;14240;14581;Aurseulles;Anctoville;;-0.686714;49.108962
+14581_3khtqb_00670;670;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.657543;49.120268
+14581_f5f555_00793;793;;Route de la Folie;14250;14581;Aurseulles;Longraye;;-0.701665;49.161131
+14581_cs8pam_00139;139;;Route de Longla;14240;14581;Aurseulles;Anctoville;;-0.66073;49.127818
+14581_4xwom0_01027;1027;;Route du Bas Quesnay;14240;14581;Aurseulles;Torteval-Quesnay;;-0.73882;49.158891
+14581_vu6xov_00020;20;;Route de Caen;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.714361;49.131958
+14581_gz83i1_00054;54;;Impasse du Moutier;14240;14581;Aurseulles;Anctoville;;-0.716018;49.104176
+14581_pocxfx_00033;33;;Impasse de l'Érable;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717641;49.124472
+14581_b477_00631;631;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.70639;49.106138
+14581_nvk923_00559;559;;Route du Pont Jourdain;14240;14581;Aurseulles;Torteval-Quesnay;;-0.734026;49.180173
+14581_0164_00007;7;;Route d'Ectot;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.707367;49.12484
+14581_cs8pam_00033;33;;Route de Longla;14240;14581;Aurseulles;Anctoville;;-0.661347;49.127049
+14581_qkt61s_00002;2;;Route de la Couarde;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.734576;49.117189
+14581_9bmjvk_01414;1414;;Route du Jardin du Puits;14240;14581;Aurseulles;Anctoville;;-0.678914;49.12715
+14581_3khtqb_00227;227;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.656276;49.124032
+14581_0100_00609;609;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.71494;49.10422
+14581_b725_01133;1133;;Route de Longraye;14250;14581;Aurseulles;Longraye;;-0.69156;49.150312
+14581_uhsf91_00296;296;;Route des Haies Colas;14240;14581;Aurseulles;Anctoville;;-0.693032;49.127963
+14581_efj0yk_00038;38;;Impasse de la Basse Rue;14250;14581;Aurseulles;Longraye;;-0.686172;49.142542
+14581_n9p244_00088;88;;Route les Trois Ponts;14240;14581;Aurseulles;Anctoville;;-0.669807;49.11442
+14581_8s0gh1_02766;2766;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.711884;49.147149
+14581_0wgdat_00004;4;;Impasse les Pallières;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.719835;49.128991
+14581_8udsus_00019;19;;Impasse de Beltot;14240;14581;Aurseulles;Anctoville;;-0.675472;49.122086
+14581_rvoop6_00049;49;;Rue du Launay;14240;14581;Aurseulles;Anctoville;;-0.722296;49.108762
+14581_3khtqb_00040;40;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.655305;49.125445
+14581_0100_00595;595;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.714803;49.104307
+14581_pwaj5v_00387;387;;Impasse des Quatre Nations;14250;14581;Aurseulles;Longraye;;-0.69045;49.160384
+14581_cs8pam_00005;5;;Route de Longla;14240;14581;Aurseulles;Anctoville;;-0.661639;49.126899
+14581_0p8do0_00107;107;;Route du Biéville;14240;14581;Aurseulles;Anctoville;;-0.70936;49.097492
+14581_0nkgvd_00606;606;;Chemin Varou;14240;14581;Aurseulles;Anctoville;;-0.712937;49.104922
+14581_b477_00787;787;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.70693;49.104948
+14581_eqfnu8_01479;1479;;Impasse des Buis;14240;14581;Aurseulles;Anctoville;;-0.684616;49.10488
+14581_vu6xov_00016;16;;Route de Caen;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717857;49.131349
+14581_0179_00149;149;;Rue des Écoliers;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718343;49.124037
+14581_4xnaqw_00075;75;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.698619;49.15585
+14581_skw1pf_00635;635;;Route du Bosq;14240;14581;Aurseulles;Anctoville;;-0.710246;49.092233
+14581_dmzkfb_00103;103;;Impasse du Biéville;14240;14581;Aurseulles;Anctoville;;-0.705307;49.089181
+14581_0mgzzl_00247;247;;Rue des Artisans;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718063;49.125741
+14581_rvoop6_00371;371;;Rue du Launay;14240;14581;Aurseulles;Anctoville;;-0.720898;49.106195
+14581_vu6xov_00039;39;;Route de Caen;14250;14581;Aurseulles;Longraye;;-0.68639;49.141871
+14581_cs8pam_00126;126;;Route de Longla;14240;14581;Aurseulles;Anctoville;;-0.660609;49.127693
+14581_vu6xov_00030;30;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.707802;49.134217
+14581_61mpq8_00081;81;;Route d'Hottot;14240;14581;Aurseulles;Anctoville;;-0.652233;49.126765
+14581_pwaj5v_00239;239;;Impasse des Quatre Nations;14250;14581;Aurseulles;Longraye;;-0.689181;49.159342
+14581_d0rjvt_00042;42;;Rue des Vives Terres;14250;14581;Aurseulles;Longraye;;-0.691526;49.150798
+14581_0172_00095;95;;Rue du Bocage;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716165;49.12261
+14581_f5f555_00252;252;;Route de la Folie;14250;14581;Aurseulles;Longraye;;-0.695994;49.15809
+14581_3khtqb_00517;517;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.656541;49.12148
+14581_0183_01007;1007;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.72867;49.118624
+14581_0171_00887;887;;Rue du Bessin;14240;14581;Aurseulles;Torteval-Quesnay;;-0.722573;49.130111
+14581_kn1xqe_00002;2;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.730502;49.13701
+14581_vu6xov_00043;43;;Route de Caen;14250;14581;Aurseulles;Longraye;;-0.685341;49.142307
+14581_0175_00762;762;;Rue Jacques Brunet;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.705565;49.122042
+14581_b477_00871;871;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.706734;49.10428
+14581_0p8do0_01420;1420;;Route du Biéville;14240;14581;Aurseulles;Anctoville;;-0.702825;49.087274
+14581_4xnaqw_00197;197;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.699294;49.156837
+14581_g92hv2_01096;1096;;Route du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.689062;49.099931
+14581_x47mrg_00446;446;;Route de la Renaudière;14240;14581;Aurseulles;Torteval-Quesnay;;-0.745923;49.151104
+14581_4xwom0_00474;474;;Route du Bas Quesnay;14240;14581;Aurseulles;Torteval-Quesnay;;-0.737704;49.155018
+14581_3khtqb_00217;217;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.656228;49.124136
+14581_vplu62_00635;635;;Route des Roquettes;14240;14581;Aurseulles;Anctoville;;-0.65915;49.113087
+14581_0309_00917;917;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.678018;49.127148
+14581_4xnaqw_00925;925;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.70697;49.160773
+14581_a79vvy_01468;1468;;Route du Grand Bois;14240;14581;Aurseulles;Anctoville;;-0.685102;49.132034
+14581_61mpq8_00610;610;;Route d'Hottot;14240;14581;Aurseulles;Anctoville;;-0.652217;49.13141
+14581_kn1xqe_01893;1893;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.735494;49.151448
+14581_0313_00841;841;;Route de Feuguerolles;14240;14581;Aurseulles;Anctoville;;-0.671841;49.112938
+14581_rvoop6_00107;107;;Rue du Launay;14240;14581;Aurseulles;Anctoville;;-0.722406;49.108278
+14581_a79vvy_01466;1466;;Route du Grand Bois;14240;14581;Aurseulles;Anctoville;;-0.685164;49.132014
+14581_8ctmuw_00058;58;;Rue de la Médiathèque;14240;14581;Aurseulles;Anctoville;;-0.706293;49.105235
+14581_0318_00901;901;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.665226;49.126792
+14581_sc2qgh_00240;240;;Impasse Le Pley;14240;14581;Aurseulles;Torteval-Quesnay;;-0.741287;49.160268
+14581_7vh5t2_00161;161;;Impasse de la Levrye;14240;14581;Aurseulles;Anctoville;;-0.685261;49.107363
+14581_pocxfx_00011;11;;Impasse de l'Érable;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717378;49.124591
+14581_a9sei4_00374;374;;Impasse du Chemin de Bernière;14250;14581;Aurseulles;Longraye;;-0.702671;49.16611
+14581_0100_00695;695;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.715981;49.103922
+14581_0313_00817;817;;Route de Feuguerolles;14240;14581;Aurseulles;Anctoville;;-0.671813;49.113144
+14581_20aoxw_01011;1011;;Route des Tourailles;14240;14581;Aurseulles;Anctoville;;-0.676844;49.114285
+14581_dmc2ip_00034;34;;Impasse de la Haubrée;14240;14581;Aurseulles;Anctoville;;-0.678644;49.127624
+14581_i0bidg_00026;26;;Impasse du Torchamp;14240;14581;Aurseulles;Anctoville;;-0.671421;49.11438
+14581_se6aig_02928;2928;;Route du Pont du Titre;14240;14581;Aurseulles;Torteval-Quesnay;;-0.725483;49.156925
+14581_vplu62_00451;451;;Route des Roquettes;14240;14581;Aurseulles;Anctoville;;-0.658753;49.114711
+14581_sj8qjz_00364;364;;Route du Pont de Quesnay;14240;14581;Aurseulles;Torteval-Quesnay;;-0.736085;49.149626
+14581_kn1xqe_01323;1323;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.738269;49.146659
+14581_3wzi7c_01250;1250;;Route de la Maison Bleue;14250;14581;Aurseulles;Longraye;;-0.692765;49.150097
+14581_8pclmv_00030;30;;Impasse de la Taverne;14240;14581;Aurseulles;Anctoville;;-0.661601;49.126551
+14581_x47mrg_00012;12;;Route de la Renaudière;14240;14581;Aurseulles;Torteval-Quesnay;;-0.741314;49.151213
+14581_eabsg8_01000;1000;;Route d'Havetot;14240;14581;Aurseulles;Anctoville;;-0.729288;49.100658
+14581_pocxfx_00026;26;;Impasse de l'Érable;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717818;49.124647
+14581_0309_00786;786;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.676583;49.12644
+14581_0167_00335;335;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.714878;49.126054
+14581_efvtbd_00465;465;;Route du Feugret;14240;14581;Aurseulles;Anctoville;;-0.672773;49.13442
+14581_0175_01281;1281;;Rue Jacques Brunet;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.698909;49.121876
+14581_0183_00058;58;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717698;49.123058
+14581_31z99m_00837;837;;Route des Trois Cheminées;14240;14581;Aurseulles;Anctoville;;-0.659883;49.119485
+14581_a595ke_00128;128;;Route des Pars;14240;14581;Aurseulles;Anctoville;;-0.66592;49.125628
+14581_3u5e31_00709;709;;Route du Fossard;14240;14581;Aurseulles;Anctoville;;-0.711302;49.099002
+14581_eltcd4_00055;55;;Impasse du Paradis;14240;14581;Aurseulles;Anctoville;;-0.707395;49.106175
+14581_3wzi7c_00962;962;;Route de la Maison Bleue;14250;14581;Aurseulles;Longraye;;-0.695766;49.148918
+14581_0p8do0_00122;122;;Route du Biéville;14240;14581;Aurseulles;Anctoville;;-0.709371;49.097221
+14581_0309_00312;312;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.675141;49.122379
+14581_0318_00104;104;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.674828;49.124045
+14581_0309_00981;981;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.67833;49.127743
+14581_br21d1_00018;18;;Impasse de la Fontaine;14240;14581;Aurseulles;Anctoville;;-0.710982;49.097682
+14581_0100_00101;101;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.708401;49.105663
+14581_a6na1g_00001;1;;Impasse des Errards;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.723365;49.125366
+14581_br21d1_00074;74;;Impasse de la Fontaine;14240;14581;Aurseulles;Anctoville;;-0.711698;49.09737
+14581_w7ci1r_00297;297;;Route du Plateau;14240;14581;Aurseulles;Anctoville;;-0.701937;49.107138
+14581_kn1xqe_01712;1712;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.736228;49.149877
+14581_0060_00155;155;;Rue des Écoles;14240;14581;Aurseulles;Anctoville;;-0.70572;49.105134
+14581_0167_00053;53;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716796;49.123813
+14581_0100_00572;572;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.714543;49.10444
+14581_w7ci1r_02498;2498;;Route du Plateau;14240;14581;Aurseulles;Anctoville;;-0.672972;49.112253
+14581_a79vvy_00430;430;;Route du Grand Bois;14240;14581;Aurseulles;Anctoville;;-0.698724;49.12927
+14581_20aoxw_01335;1335;;Route des Tourailles;14240;14581;Aurseulles;Anctoville;;-0.672499;49.113868
+14581_0313_00913;913;;Route de Feuguerolles;14240;14581;Aurseulles;Anctoville;;-0.671748;49.112302
+14581_31z99m_00701;701;;Route des Trois Cheminées;14240;14581;Aurseulles;Anctoville;;-0.660736;49.120575
+14581_0183_00479;479;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.722307;49.120913
+14581_gz83i1_00025;25;;Impasse du Moutier;14240;14581;Aurseulles;Anctoville;;-0.716401;49.104107
+14581_rvoop6_00564;564;;Rue du Launay;14240;14581;Aurseulles;Anctoville;;-0.719144;49.104822
+14581_0100_00037;37;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.707529;49.10562
+14581_b723_00517;517;;Rue Argile;14250;14581;Aurseulles;Longraye;;-0.706623;49.151045
+14581_kn1xqe_00193;193;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.732525;49.138137
+14581_hwkt9s_00354;354;;Impasse de la Varderie;14250;14581;Aurseulles;Longraye;;-0.710501;49.151554
+14581_a79vvy_00957;957;;Route du Grand Bois;14240;14581;Aurseulles;Anctoville;;-0.69185;49.130781
+14581_icv76z_00101;101;;Impasse des Essards;14240;14581;Aurseulles;Torteval-Quesnay;;-0.736825;49.142558
+14581_7vh5t2_00261;261;;Impasse de la Levrye;14240;14581;Aurseulles;Anctoville;;-0.68534;49.106868
+14581_hs7x41_00016;16;;Impasse du Fossard;14240;14581;Aurseulles;Anctoville;;-0.710444;49.097879
+14581_4xnaqw_00411;411;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.701619;49.158022
+14581_f5f555_00268;268;;Route de la Folie;14250;14581;Aurseulles;Longraye;;-0.696581;49.158043
+14581_0100_00130;130;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.708825;49.10572
+14581_dmzkfb_00067;67;;Impasse du Biéville;14240;14581;Aurseulles;Anctoville;;-0.704784;49.089227
+14581_d5jyy6_00298;298;;Impasse de la Marche;14240;14581;Aurseulles;Torteval-Quesnay;;-0.727136;49.128065
+14581_0167_00933;933;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.70994;49.130312
+14581_efj0yk_00040;40;;Impasse de la Basse Rue;14250;14581;Aurseulles;Longraye;;-0.686059;49.142466
+14581_3khtqb_00789;789;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.658347;49.119387
+14581_eabsg8_00221;221;;Route d'Havetot;14240;14581;Aurseulles;Anctoville;;-0.719151;49.102198
+14581_0167_00150;150;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716073;49.12452
+14581_3khtqb_00735;735;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.658011;49.119782
+14581_xoa7rh_00017;17;;Chemin de la Marèse;14240;14581;Aurseulles;Anctoville;;-0.716285;49.103759
+14581_x47mrg_00981;981;;Route de la Renaudière;14240;14581;Aurseulles;Torteval-Quesnay;;-0.752791;49.152313
+14581_4xnaqw_00851;851;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.70608;49.160607
+14581_q1yraq_00479;479;;Route du Nouveau Monde;14240;14581;Aurseulles;Anctoville;;-0.684103;49.111515
+14581_uhsf91_00438;438;;Route des Haies Colas;14240;14581;Aurseulles;Anctoville;;-0.692333;49.126665
+14581_se6aig_02882;2882;;Route du Pont du Titre;14240;14581;Aurseulles;Torteval-Quesnay;;-0.724941;49.156701
+14581_by0zt6_00457;457;;Route des Ormes;14240;14581;Aurseulles;Anctoville;;-0.698795;49.085872
+14581_se6aig_02728;2728;;Route du Pont du Titre;14240;14581;Aurseulles;Torteval-Quesnay;;-0.723399;49.155728
+14581_0318_01281;1281;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.660131;49.126506
+14581_3wzi7c_01270;1270;;Route de la Maison Bleue;14250;14581;Aurseulles;Longraye;;-0.692601;49.150252
+14581_f5f555_00190;190;;Route de la Folie;14250;14581;Aurseulles;Longraye;;-0.696077;49.157421
+14581_icv76z_00411;411;;Impasse des Essards;14240;14581;Aurseulles;Torteval-Quesnay;;-0.74039;49.140979
+14581_8udsus_00065;65;;Impasse de Beltot;14240;14581;Aurseulles;Anctoville;;-0.675998;49.121807
+14581_a79vvy_00941;941;;Route du Grand Bois;14240;14581;Aurseulles;Anctoville;;-0.692094;49.130783
+14581_kn1xqe_01161;1161;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.739051;49.145294
+14581_3khtqb_00223;223;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.65626;49.124054
+14581_se6aig_00061;61;;Route du Pont du Titre;14240;14581;Aurseulles;Torteval-Quesnay;;-0.699033;49.138014
+14581_g92hv2_01086;1086;;Route du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.68921;49.099937
+14581_b725_01120;1120;;Route de Longraye;14250;14581;Aurseulles;Longraye;;-0.691322;49.150347
+14581_8s0gh1_00867;867;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.731296;49.136593
+14581_0167_00884;884;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.710074;49.129848
+14581_i0bidg_00046;46;;Impasse du Torchamp;14240;14581;Aurseulles;Anctoville;;-0.671723;49.114379
+14581_icv76z_00588;588;;Impasse des Essards;14240;14581;Aurseulles;Torteval-Quesnay;;-0.742551;49.140402
+14581_ce97rf_00066;66;;Impasse des Épinettes;14240;14581;Aurseulles;Anctoville;;-0.712252;49.099028
+14581_skw1pf_01061;1061;;Route du Bosq;14240;14581;Aurseulles;Anctoville;;-0.713036;49.090013
+14581_se6aig_02138;2138;;Route du Pont du Titre;14250;14581;Aurseulles;Longraye;;-0.717752;49.151977
+14581_q1yraq_00468;468;;Route du Nouveau Monde;14240;14581;Aurseulles;Anctoville;;-0.683858;49.11171
+14581_0167_00026;26;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716807;49.123534
+14581_0183_00360;360;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.721181;49.121671
+14581_6gmpyo_00036;36;;Route de la Dresserie;14240;14581;Aurseulles;Anctoville;;-0.703132;49.090962
+14581_0183_00175;175;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718629;49.12215
+14581_eqfnu8_01401;1401;;Impasse des Buis;14240;14581;Aurseulles;Anctoville;;-0.685526;49.104998
+14581_a79vvy_00376;376;;Route du Grand Bois;14240;14581;Aurseulles;Anctoville;;-0.699477;49.12906
+14581_8s0gh1_00885;885;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.731112;49.1367
+14581_n9p244_00709;709;;Route les Trois Ponts;14240;14581;Aurseulles;Anctoville;;-0.661566;49.113135
+14581_f5f555_00014;14;;Route de la Folie;14250;14581;Aurseulles;Longraye;;-0.694957;49.156
+14581_6gmpyo_00177;177;;Route de la Dresserie;14240;14581;Aurseulles;Anctoville;;-0.701328;49.092071
+14581_vu6xov_00004;4;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.739496;49.130203
+14581_0p8do0_01094;1094;;Route du Biéville;14240;14581;Aurseulles;Anctoville;;-0.704208;49.090034
+14581_vu6xov_00007;7;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.71966;49.131458
+14581_icv76z_00132;132;;Impasse des Essards;14240;14581;Aurseulles;Torteval-Quesnay;;-0.737266;49.142436
+14581_3khtqb_00586;586;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.65704;49.120949
+14581_skw1pf_00118;118;;Route du Bosq;14240;14581;Aurseulles;Anctoville;;-0.710157;49.096866
+14581_icv76z_00578;578;;Impasse des Essards;14240;14581;Aurseulles;Torteval-Quesnay;;-0.742504;49.140471
+14581_0309_00895;895;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.677745;49.127042
+14581_vplu62_00366;366;;Route des Roquettes;14240;14581;Aurseulles;Anctoville;;-0.65912;49.115446
+14581_0167_00490;490;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.713467;49.127028
+14581_0167_00214;214;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.715637;49.125028
+14581_0p8do0_00141;141;;Route du Biéville;14240;14581;Aurseulles;Anctoville;;-0.708949;49.097313
+14581_hs7x41_00064;64;;Impasse du Fossard;14240;14581;Aurseulles;Anctoville;;-0.710137;49.09813
+14581_8s0gh1_01337;1337;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.726266;49.13855
+14581_0167_00324;324;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.714668;49.125773
+14581_0309_01776;1776;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.679993;49.134455
+14581_rvoop6_00349;349;;Rue du Launay;14240;14581;Aurseulles;Anctoville;;-0.721035;49.106281
+14581_0p8do0_00018;18;;Route du Biéville;14240;14581;Aurseulles;Anctoville;;-0.710249;49.09764
+14581_b725_01150;1150;;Route de Longraye;14250;14581;Aurseulles;Longraye;;-0.691643;49.150479
+14581_0164_00005;5;;Route d'Ectot;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.705936;49.122823
+14581_2mvq35_00066;66;;Route du Moulin de Parfouru;14240;14581;Aurseulles;Torteval-Quesnay;;-0.739961;49.144701
+14581_rvoop6_00548;548;;Rue du Launay;14240;14581;Aurseulles;Anctoville;;-0.719361;49.104919
+14581_xz39i7_01051;1051;;Route de Lictot;14240;14581;Aurseulles;Anctoville;;-0.684336;49.118594
+14581_2vk5u9_00137;137;;Impasse du Grand Jardin;14240;14581;Aurseulles;Anctoville;;-0.697007;49.126111
+14581_3u5e31_00738;738;;Route du Fossard;14240;14581;Aurseulles;Anctoville;;-0.711383;49.098806
+14581_w7ci1r_00078;78;;Route du Plateau;14240;14581;Aurseulles;Anctoville;;-0.704877;49.106725
+14581_pocxfx_00032;32;;Impasse de l'Érable;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.71785;49.124595
+14581_0309_00872;872;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.677409;49.127008
+14581_se6aig_02263;2263;;Route du Pont du Titre;14240;14581;Aurseulles;Torteval-Quesnay;;-0.719048;49.15265
+14581_tfjvux_00473;473;;Impasse des Bérolles;14250;14581;Aurseulles;Longraye;;-0.713191;49.164884
+14581_b477_02720;2720;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.692896;49.09226
+14581_0313_00331;331;;Route de Feuguerolles;14240;14581;Aurseulles;Anctoville;;-0.671759;49.117211
+14581_eabsg8_00930;930;;Route d'Havetot;14240;14581;Aurseulles;Anctoville;;-0.728338;49.100669
+14581_1phoru_00244;244;;Impasse de la Seulles;14240;14581;Aurseulles;Anctoville;;-0.656173;49.118332
+14581_0183_00328;328;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.720533;49.121604
+14581_tfjvux_00421;421;;Impasse des Bérolles;14240;14581;Aurseulles;Torteval-Quesnay;;-0.71396;49.164544
+14581_0171_01754;1754;;Rue du Bessin;14240;14581;Aurseulles;Torteval-Quesnay;;-0.729488;49.136404
+14581_tfjvux_00477;477;;Impasse des Bérolles;14250;14581;Aurseulles;Longraye;;-0.713146;49.164886
+14581_31z99m_00631;631;;Route des Trois Cheminées;14240;14581;Aurseulles;Anctoville;;-0.660864;49.121154
+14581_d0rjvt_00051;51;;Rue des Vives Terres;14250;14581;Aurseulles;Longraye;;-0.691502;49.150929
+14581_0p8do0_01215;1215;;Route du Biéville;14240;14581;Aurseulles;Anctoville;;-0.703784;49.088976
+14581_sj8qjz_00623;623;;Route du Pont de Quesnay;14240;14581;Aurseulles;Torteval-Quesnay;;-0.739807;49.149889
+14581_0p8do0_00792;792;;Route du Biéville;14240;14581;Aurseulles;Anctoville;;-0.704816;49.092521
+14581_ha29mv_00866;866;;Rue de la Poterie;14250;14581;Aurseulles;Longraye;;-0.700574;49.150773
+14581_8s0gh1_00790;790;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.731954;49.136068
+14581_8s0gh1_00972;972;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.730077;49.136749
+14581_0p8do0_00051;51;;Route du Biéville;14240;14581;Aurseulles;Anctoville;;-0.710067;49.09769
+14581_3otf03_00612;612;;Route du Pont Mulot;14240;14581;Aurseulles;Torteval-Quesnay;;-0.748175;49.129009
+14581_0167_00262;262;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.715226;49.12536
+14581_a79vvy_00856;856;;Route du Grand Bois;14240;14581;Aurseulles;Anctoville;;-0.693164;49.130434
+14581_0186_00002;2;;Route de la Rivière;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.70937;49.117633
+14581_xoa7rh_00550;550;;Chemin de la Marèse;14240;14581;Aurseulles;Anctoville;;-0.712348;49.100337
+14581_b477_00776;776;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.707059;49.105048
+14581_eqfnu8_00537;537;;Impasse des Buis;14240;14581;Aurseulles;Anctoville;;-0.69687;49.104051
+14581_0183_00137;137;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718233;49.122439
+14581_8ctmuw_00042;42;;Rue de la Médiathèque;14240;14581;Aurseulles;Anctoville;;-0.706569;49.105199
+14581_0100_00058;58;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.707879;49.105759
+14581_eabsg8_01727;1727;;Route d'Havetot;14240;14581;Aurseulles;Anctoville;;-0.738592;49.098542
+14581_31z99m_00698;698;;Route des Trois Cheminées;14240;14581;Aurseulles;Anctoville;;-0.660827;49.120538
+14581_1phoru_00038;38;;Impasse de la Seulles;14240;14581;Aurseulles;Anctoville;;-0.657258;49.11999
+14581_0100_00519;519;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.713805;49.10448
+14581_0p8do0_00152;152;;Route du Biéville;14240;14581;Aurseulles;Anctoville;;-0.708968;49.097165
+14581_0318_00913;913;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.665056;49.126797
+14581_ha29mv_00689;689;;Rue de la Poterie;14250;14581;Aurseulles;Longraye;;-0.701611;49.14937
+14581_0167_00252;252;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.715255;49.125269
+14581_4xwom0_01675;1675;;Route du Bas Quesnay;14240;14581;Aurseulles;Torteval-Quesnay;;-0.732131;49.162661
+14581_5rfzys_00083;83;;Chemin des Champs de Silly;14240;14581;Aurseulles;Anctoville;;-0.676394;49.127319
+14581_0309_00413;413;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.675868;49.123139
+14581_n9p244_00453;453;;Route les Trois Ponts;14240;14581;Aurseulles;Anctoville;;-0.664968;49.113706
+14581_b477_00806;806;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.707078;49.104771
+14581_0100_00063;63;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.708217;49.105649
+14581_dmzkfb_00029;29;;Impasse du Biéville;14240;14581;Aurseulles;Anctoville;;-0.704371;49.089441
+14581_0318_01231;1231;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.660788;49.126563
+14581_0273_00414;414;;Chemin de la Cour aux Planches;14240;14581;Aurseulles;Anctoville;;-0.696904;49.10323
+14581_0183_00643;643;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.724258;49.120218
+14581_0p8do0_00163;163;;Route du Biéville;14240;14581;Aurseulles;Anctoville;;-0.708735;49.09718
+14581_br21d1_00070;70;;Impasse de la Fontaine;14240;14581;Aurseulles;Anctoville;;-0.711611;49.097436
+14581_kn1xqe_02326;2326;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.733235;49.155039
+14581_0309_01183;1183;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.677874;49.129533
+14581_4xwom0_01541;1541;;Route du Bas Quesnay;14240;14581;Aurseulles;Torteval-Quesnay;;-0.733658;49.16199
+14581_f5f555_00474;474;;Route de la Folie;14250;14581;Aurseulles;Longraye;;-0.698011;49.159644
+14581_1m7inh_00216;216;;Impasse de la Forte Cour;14250;14581;Aurseulles;Longraye;;-0.708768;49.169287
+14581_vu6xov_00034;34;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.696465;49.138159
+14581_0313_00792;792;;Route de Feuguerolles;14240;14581;Aurseulles;Anctoville;;-0.671882;49.113381
+14581_8s0gh1_01348;1348;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.725769;49.138169
+14581_0186_00004;4;;Route de la Rivière;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.708103;49.118053
+14581_1m7inh_00185;185;;Impasse de la Forte Cour;14250;14581;Aurseulles;Longraye;;-0.708456;49.169379
+14581_x47mrg_00438;438;;Route de la Renaudière;14240;14581;Aurseulles;Torteval-Quesnay;;-0.745158;49.15094
+14581_ystlm4_00765;765;;Route de Courval;14240;14581;Aurseulles;Torteval-Quesnay;;-0.69891;49.136892
+14581_xz39i7_00504;504;;Route de Lictot;14240;14581;Aurseulles;Anctoville;;-0.690901;49.117486
+14581_61mpq8_00373;373;;Route d'Hottot;14240;14581;Aurseulles;Anctoville;;-0.652127;49.129296
+14581_6gmpyo_00171;171;;Route de la Dresserie;14240;14581;Aurseulles;Anctoville;;-0.701781;49.091823
+14581_0186_00008;8;;Route de la Rivière;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.704908;49.118189
+14581_b723_00452;452;;Rue Argile;14250;14581;Aurseulles;Longraye;;-0.707074;49.150502
+14581_ndahwb_00012;12;;Impasse du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.687466;49.099001
+14581_xz39i7_01484;1484;;Route de Lictot;14240;14581;Aurseulles;Anctoville;;-0.678391;49.118649
+14581_pwaj5v_00461;461;;Impasse des Quatre Nations;14250;14581;Aurseulles;Longraye;;-0.691172;49.160916
+14581_0318_01606;1606;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.655866;49.125832
+14581_3u5e31_00517;517;;Route du Fossard;14240;14581;Aurseulles;Anctoville;;-0.711198;49.100423
+14581_61mpq8_00032;32;;Route d'Hottot;14240;14581;Aurseulles;Anctoville;;-0.652403;49.126305
+14581_0313_00558;558;;Route de Feuguerolles;14240;14581;Aurseulles;Anctoville;;-0.670819;49.115248
+14581_n9mqx6_00086;86;;Rue des Havands;14250;14581;Aurseulles;Longraye;;-0.719805;49.154301
+14581_d0rjvt_00047;47;;Rue des Vives Terres;14250;14581;Aurseulles;Longraye;;-0.691545;49.150903
+14581_8s0gh1_00789;789;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.732166;49.136182
+14581_vu6xov_00018;18;;Route de Caen;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717092;49.131367
+14581_dmc2ip_00035;35;;Impasse de la Haubrée;14240;14581;Aurseulles;Anctoville;;-0.678701;49.127569
+14581_0183_01306;1306;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.732381;49.117455
+14581_3wzi7c_00888;888;;Route de la Maison Bleue;14250;14581;Aurseulles;Longraye;;-0.696169;49.148317
+14581_g92hv2_01261;1261;;Route du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.687275;49.099088
+14581_vu6xov_00032;32;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.699426;49.137123
+14581_31z99m_00026;26;;Route des Trois Cheminées;14240;14581;Aurseulles;Anctoville;;-0.661084;49.126295
+14581_b725_01084;1084;;Route de Longraye;14250;14581;Aurseulles;Longraye;;-0.690873;49.150205
+14581_0p8do0_00930;930;;Route du Biéville;14240;14581;Aurseulles;Anctoville;;-0.704102;49.091372
+14581_8ctmuw_00052;52;;Rue de la Médiathèque;14240;14581;Aurseulles;Anctoville;;-0.7064;49.105207
+14581_icv76z_00008;8;;Impasse des Essards;14240;14581;Aurseulles;Torteval-Quesnay;;-0.736132;49.143209
+14581_0318_00925;925;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.664934;49.126796
+14581_0175_00674;674;;Rue Jacques Brunet;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.706956;49.121845
+14581_b477_00866;866;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.706978;49.104192
+14581_x47mrg_00364;364;;Route de la Renaudière;14240;14581;Aurseulles;Torteval-Quesnay;;-0.745004;49.150297
+14581_kslv1x_00002;2;;Route de Bénédie;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.713162;49.117129
+14581_b723_01269;1269;;Rue Argile;14250;14581;Aurseulles;Longraye;;-0.698514;49.155256
+14581_se6aig_00031;31;;Route du Pont du Titre;14240;14581;Aurseulles;Torteval-Quesnay;;-0.698851;49.137781
+14581_kn1xqe_02289;2289;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.733919;49.154857
+14581_0167_00082;82;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716472;49.12399
+14581_e63tt3_00028;28;;Impasse des Fours à Chaux;14250;14581;Aurseulles;Longraye;;-0.697479;49.159483
+14581_a79vvy_00441;441;;Route du Grand Bois;14240;14581;Aurseulles;Anctoville;;-0.698638;49.129401
+14581_edxl91_00171;171;;Impasse de la Louvetière;14240;14581;Aurseulles;Anctoville;;-0.706228;49.090127
+14581_skw1pf_00144;144;;Route du Bosq;14240;14581;Aurseulles;Anctoville;;-0.710065;49.096649
+14581_b725_00744;744;;Route de Longraye;14250;14581;Aurseulles;Longraye;;-0.689888;49.14755
+14581_31z99m_00790;790;;Route des Trois Cheminées;14240;14581;Aurseulles;Anctoville;;-0.660555;49.119713
+14581_vu6xov_00029;29;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.709748;49.133796
+14581_3khtqb_00515;515;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.656546;49.121502
+14581_vu6xov_00035;35;;Route de Caen;14250;14581;Aurseulles;Longraye;;-0.687479;49.141462
+14581_3khtqb_00243;243;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.656499;49.123419
+14581_0183_00032;32;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717505;49.123186
+14581_0mgzzl_00208;208;;Rue des Artisans;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717623;49.125927
+14581_n9p244_00276;276;;Route les Trois Ponts;14240;14581;Aurseulles;Anctoville;;-0.667295;49.114081
+14581_eabsg8_01384;1384;;Route d'Havetot;14240;14581;Aurseulles;Anctoville;;-0.734154;49.099382
+14581_by0zt6_00435;435;;Route des Ormes;14240;14581;Aurseulles;Anctoville;;-0.699087;49.085788
+14581_0175_00839;839;;Rue Jacques Brunet;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.704804;49.122472
+14581_icv76z_00199;199;;Impasse des Essards;14240;14581;Aurseulles;Torteval-Quesnay;;-0.737973;49.142052
+14581_z0p0xk_00166;166;;Rue de la Vallée;14240;14581;Aurseulles;Anctoville;;-0.654835;49.124765
+14581_3u5e31_00545;545;;Route du Fossard;14240;14581;Aurseulles;Anctoville;;-0.711547;49.100301
+14581_0mgzzl_00348;348;;Rue des Artisans;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717778;49.124948
+14581_4xnaqw_00909;909;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.706731;49.16076
+14581_b477_00682;682;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.707113;49.105912
+14581_0318_00908;908;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.665127;49.126376
+14581_3khtqb_00295;295;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.656511;49.123387
+14581_0318_01092;1092;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.6626;49.12669
+14581_0309_01466;1466;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.677826;49.132043
+14581_2mvq35_00131;131;;Route du Moulin de Parfouru;14240;14581;Aurseulles;Torteval-Quesnay;;-0.740784;49.144383
+14581_0318_00083;83;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.675119;49.123992
+14581_vu6xov_00003;3;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.726905;49.131247
+14581_0179_00021;21;;Rue des Écoliers;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718189;49.122907
+14581_ndahwb_00149;149;;Impasse du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.689035;49.097901
+14581_f5f555_00410;410;;Route de la Folie;14250;14581;Aurseulles;Longraye;;-0.697558;49.159148
+14581_0179_00065;65;;Rue des Écoliers;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718407;49.123277
+14581_9bmjvk_01181;1181;;Route du Jardin du Puits;14240;14581;Aurseulles;Anctoville;;-0.681374;49.126298
+14581_b477_00730;730;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.707057;49.10545
+14581_0309_00225;225;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.674685;49.12164
+14581_0164_00001;1;;Route d'Ectot;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.705807;49.12221
+14581_kn1xqe_01462;1462;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.737451;49.147792
+14581_b477_02716;2716;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.692822;49.092362
+14581_0175_00147;147;;Rue Jacques Brunet;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.714079;49.122741
+14581_4xwom0_01106;1106;;Route du Bas Quesnay;14240;14581;Aurseulles;Torteval-Quesnay;;-0.737962;49.159328
+14581_vu6xov_00002;2;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.741437;49.129045
+14581_n9glhu_00152;152;;Impasse de l'If;14240;14581;Aurseulles;Anctoville;;-0.670012;49.112803
+14581_0uy3jp_02928;2928;;Chemin des Chasses;14240;14581;Aurseulles;Anctoville;;-0.724104;49.106731
+14581_4xnaqw_00051;51;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.698558;49.155652
+14581_n2sk17_00329;329;;Route d'Amayé;14240;14581;Aurseulles;Anctoville;;-0.726014;49.098162
+14581_skw1pf_00036;36;;Route du Bosq;14240;14581;Aurseulles;Anctoville;;-0.710686;49.097496
+14581_w7ci1r_00204;204;;Route du Plateau;14240;14581;Aurseulles;Anctoville;;-0.703176;49.106905
+14581_0167_00130;130;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716196;49.12436
+14581_kn1xqe_01905;1905;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.735439;49.151556
+14581_ndahwb_00094;94;;Impasse du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.688218;49.098436
+14581_3khtqb_00865;865;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.658879;49.118777
+14581_31z99m_00815;815;;Route des Trois Cheminées;14240;14581;Aurseulles;Anctoville;;-0.660091;49.119643
+14581_u35lip_00005;5;;Route de Candon;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716975;49.115135
+14581_0uy3jp_01525;1525;;Chemin des Chasses;14240;14581;Aurseulles;Anctoville;;-0.70681;49.111612
+14581_d5jyy6_00266;266;;Impasse de la Marche;14240;14581;Aurseulles;Torteval-Quesnay;;-0.727097;49.12862
+14581_0167_00392;392;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.714297;49.126328
+14581_0172_00701;701;;Rue du Bocage;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.710636;49.118665
+14581_vu6xov_00008;8;;Route de Caen;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.720221;49.131273
+14581_cs8pam_00198;198;;Route de Longla;14240;14581;Aurseulles;Anctoville;;-0.660201;49.128181
+14581_kn1xqe_00016;16;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.73068;49.137073
+14581_9bmjvk_01322;1322;;Route du Jardin du Puits;14240;14581;Aurseulles;Anctoville;;-0.679716;49.126972
+14581_tfjvux_00496;496;;Impasse des Bérolles;14250;14581;Aurseulles;Longraye;;-0.712732;49.164665
+14581_kn1xqe_02925;2925;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.728587;49.159456
+14581_3wzi7c_00960;960;;Route de la Maison Bleue;14250;14581;Aurseulles;Longraye;;-0.695785;49.1489
+14581_x47mrg_01151;1151;;Route de la Renaudière;14240;14581;Aurseulles;Torteval-Quesnay;;-0.754545;49.153322
+14581_0313_00626;626;;Route de Feuguerolles;14240;14581;Aurseulles;Anctoville;;-0.670864;49.114685
+14581_8s0gh1_00570;570;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.734438;49.134847
+14581_0167_00196;196;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.71575;49.124927
+14581_0167_00149;149;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.71732;49.12524
+14581_4xnaqw_00999;999;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.707972;49.160885
+14581_g92hv2_01154;1154;;Route du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.688452;49.099657
+14581_0060_00180;180;;Rue des Écoles;14240;14581;Aurseulles;Anctoville;;-0.705883;49.104941
+14581_b725_00929;929;;Route de Longraye;14250;14581;Aurseulles;Longraye;;-0.689747;49.149205
+14581_4xnaqw_00139;139;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.698996;49.156351
+14581_0318_01284;1284;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.660104;49.126432
+14581_vu6xov_00014;14;;Route de Caen;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.719164;49.131314
+14581_xz39i7_00861;861;;Route de Lictot;14240;14581;Aurseulles;Anctoville;;-0.68673;49.118153
+14581_3khtqb_00098;98;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.655481;49.124947
+14581_0309_00971;971;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.678365;49.127625
+14581_edxl91_00199;199;;Impasse de la Louvetière;14240;14581;Aurseulles;Anctoville;;-0.706405;49.090768
+14581_qkt61s_00008;8;;Route de la Couarde;14240;14581;Aurseulles;Torteval-Quesnay;;-0.733843;49.120268
+14581_vu6xov_00006;6;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.734741;49.130786
+14581_4xnaqw_00870;870;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.706207;49.160754
+14581_0313_00720;720;;Route de Feuguerolles;14240;14581;Aurseulles;Anctoville;;-0.671623;49.11403
+14581_efvtbd_00907;907;;Route du Feugret;14240;14581;Aurseulles;Anctoville;;-0.666879;49.135746
+14581_0100_00424;424;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.7126;49.104841
+14581_b477_02208;2208;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.699052;49.09422
+14581_cs8pam_00023;23;;Route de Longla;14240;14581;Aurseulles;Anctoville;;-0.661466;49.126985
+14581_0183_00051;51;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717403;49.122942
+14581_0309_01432;1432;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.677656;49.131767
+14581_kn1xqe_02531;2531;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.731862;49.156633
+14581_3khtqb_00681;681;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.657519;49.120147
+14581_dqpj17_00151;151;;Impasse des Pérelles;14250;14581;Aurseulles;Longraye;;-0.701928;49.14512
+14581_6gmpyo_00196;196;;Route de la Dresserie;14240;14581;Aurseulles;Anctoville;;-0.701578;49.09158
+14581_0179_00071;71;;Rue des Écoliers;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718436;49.123327
+14581_0167_00411;411;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.714241;49.126542
+14581_0060_00033;33;;Rue des Écoles;14240;14581;Aurseulles;Anctoville;;-0.705816;49.106231
+14581_0175_00107;107;;Rue Jacques Brunet;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.714602;49.122726
+14581_iabkbm_00009;9;;Impasse des Hametières;14240;14581;Aurseulles;Anctoville;;-0.715062;49.104371
+14581_n2sk17_00040;40;;Route d'Amayé;14240;14581;Aurseulles;Anctoville;;-0.725007;49.099996
+14581_3otf03_00505;505;;Route du Pont Mulot;14240;14581;Aurseulles;Torteval-Quesnay;;-0.74668;49.129188
+14581_0183_00418;418;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.721902;49.121164
+14581_4xwom0_00001;1;;Route du Bas Quesnay;14240;14581;Aurseulles;Torteval-Quesnay;;-0.741224;49.151288
+14581_3wzi7c_01028;1028;;Route de la Maison Bleue;14250;14581;Aurseulles;Longraye;;-0.695201;49.149372
+14581_4xwom0_01577;1577;;Route du Bas Quesnay;14240;14581;Aurseulles;Torteval-Quesnay;;-0.733268;49.162186
+14581_z0p0xk_00024;24;;Rue de la Vallée;14240;14581;Aurseulles;Anctoville;;-0.653874;49.125445
+14581_0167_00325;325;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.714961;49.125937
+14581_x47mrg_00171;171;;Route de la Renaudière;14240;14581;Aurseulles;Torteval-Quesnay;;-0.742358;49.149919
+14581_2mvq35_00108;108;;Route du Moulin de Parfouru;14240;14581;Aurseulles;Torteval-Quesnay;;-0.740642;49.14456
+14581_rvoop6_00717;717;;Rue du Launay;14240;14581;Aurseulles;Anctoville;;-0.717507;49.10403
+14581_0309_00427;427;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.67589;49.123268
+14581_0100_00120;120;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.708686;49.105729
+14581_b725_00997;997;;Route de Longraye;14250;14581;Aurseulles;Longraye;;-0.689967;49.149742
+14581_0100_00429;429;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.712604;49.10474
+14581_0167_00036;36;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716737;49.123631
+14581_f5f555_00246;246;;Route de la Folie;14250;14581;Aurseulles;Longraye;;-0.696436;49.157852
+14581_8s0gh1_00526;526;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.735004;49.134664
+14581_b723_01201;1201;;Rue Argile;14250;14581;Aurseulles;Longraye;;-0.699349;49.154944
+14581_2mvq35_00220;220;;Route du Moulin de Parfouru;14240;14581;Aurseulles;Torteval-Quesnay;;-0.741998;49.144269
+14581_qkt61s_00005;5;;Route de la Couarde;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.735577;49.117512
+14581_b477_00726;726;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.707257;49.10554
+14581_2mvq35_00050;50;;Route du Moulin de Parfouru;14240;14581;Aurseulles;Torteval-Quesnay;;-0.739771;49.144749
+14581_0100_00555;555;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.714286;49.104407
+14581_31z99m_00061;61;;Route des Trois Cheminées;14240;14581;Aurseulles;Anctoville;;-0.660828;49.126109
+14581_go501a_00370;370;;Route du Vey;14240;14581;Aurseulles;Torteval-Quesnay;;-0.708663;49.137844
+14581_4xnaqw_00089;89;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.698687;49.156006
+14581_eabsg8_01227;1227;;Route d'Havetot;14240;14581;Aurseulles;Anctoville;;-0.732139;49.09989
+14581_ndahwb_00101;101;;Impasse du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.688141;49.098331
+14581_z0p0xk_00058;58;;Rue de la Vallée;14240;14581;Aurseulles;Anctoville;;-0.653926;49.125118
+14581_6gmpyo_00175;175;;Route de la Dresserie;14240;14581;Aurseulles;Anctoville;;-0.701781;49.091941
+14581_cs8pam_00145;145;;Route de Longla;14240;14581;Aurseulles;Anctoville;;-0.660728;49.127886
+14581_0172_00512;512;;Rue du Bocage;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.712457;49.119959
+14581_61mpq8_00203;203;;Route d'Hottot;14240;14581;Aurseulles;Anctoville;;-0.65187;49.127858
+14581_cs8pam_00069;69;;Route de Longla;14240;14581;Aurseulles;Anctoville;;-0.660971;49.127241
+14581_8s0gh1_01344;1344;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.726172;49.138397
+14581_efj0yk_00047;47;;Impasse de la Basse Rue;14250;14581;Aurseulles;Longraye;;-0.686039;49.142404
+14581_agjmxs_00138;138;;Impasse du Bois aux Burets;14240;14581;Aurseulles;Anctoville;;-0.678403;49.125894
+14581_ystlm4_00777;777;;Route de Courval;14240;14581;Aurseulles;Torteval-Quesnay;;-0.698583;49.137003
+14581_3wzi7c_00964;964;;Route de la Maison Bleue;14250;14581;Aurseulles;Longraye;;-0.69575;49.148932
+14581_xz39i7_00049;49;;Route de Lictot;14240;14581;Aurseulles;Anctoville;;-0.695514;49.120253
+14581_eqfnu8_01426;1426;;Impasse des Buis;14240;14581;Aurseulles;Anctoville;;-0.685159;49.104936
+14581_0171_00066;66;;Rue du Bessin;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717575;49.123834
+14581_b477_00722;722;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.707287;49.105445
+14581_0060_00164;164;;Rue des Écoles;14240;14581;Aurseulles;Anctoville;;-0.706109;49.105033
+14581_3khtqb_00078;78;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.655417;49.12511
+14581_4xnaqw_00261;261;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.699997;49.157162
+14581_3khtqb_00692;692;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.657732;49.12013
+14581_eltcd4_00103;103;;Impasse du Paradis;14240;14581;Aurseulles;Anctoville;;-0.708126;49.1062
+14581_b725_01094;1094;;Route de Longraye;14250;14581;Aurseulles;Longraye;;-0.691012;49.150242
+14581_a9sei4_00372;372;;Impasse du Chemin de Bernière;14250;14581;Aurseulles;Longraye;;-0.702703;49.166124
+14581_3otf03_00621;621;;Route du Pont Mulot;14240;14581;Aurseulles;Torteval-Quesnay;;-0.748188;49.128864
+14581_3khtqb_00791;791;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.658367;49.119345
+14581_ha29mv_01344;1344;;Rue de la Poterie;14250;14581;Aurseulles;Longraye;;-0.698049;49.154663
+14581_go501a_00652;652;;Route du Vey;14240;14581;Aurseulles;Torteval-Quesnay;;-0.708058;49.139287
+14581_eltcd4_00068;68;;Impasse du Paradis;14240;14581;Aurseulles;Anctoville;;-0.707555;49.106245
+14581_0183_00404;404;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.721488;49.121305
+14581_vu6xov_00044;44;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.688579;49.14091
+14581_g92hv2_01273;1273;;Route du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.687155;49.099003
+14581_pwaj5v_00515;515;;Impasse des Quatre Nations;14250;14581;Aurseulles;Longraye;;-0.691682;49.161232
+14581_tfjvux_00445;445;;Impasse des Bérolles;14250;14581;Aurseulles;Longraye;;-0.713544;49.164779
+14581_skw1pf_00109;109;;Route du Bosq;14240;14581;Aurseulles;Anctoville;;-0.710145;49.097096
+14581_0183_00025;25;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717183;49.123117
+14581_a79vvy_00939;939;;Route du Grand Bois;14240;14581;Aurseulles;Anctoville;;-0.692282;49.131067
+14581_kn1xqe_01098;1098;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.738903;49.144816
+14581_by0zt6_00543;543;;Route des Ormes;14240;14581;Aurseulles;Anctoville;;-0.697706;49.086203
+14581_vu6xov_00014_bis;14;bis;Route de Caen;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718413;49.131333
+14581_qkt61s_00013;13;;Route de la Couarde;14240;14581;Aurseulles;Torteval-Quesnay;;-0.733344;49.126786
+14581_vu6xov_00001;1;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.739912;49.130215
+14581_go501a_00644;644;;Route du Vey;14240;14581;Aurseulles;Torteval-Quesnay;;-0.70785;49.139067
+14581_0183_00138;138;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718447;49.122556
+14581_vu6xov_00015;15;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.713316;49.132503
+14581_f7x9u2_00043;43;;Impasse des Pommiers;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718122;49.126149
+14581_a79vvy_01003;1003;;Route du Grand Bois;14240;14581;Aurseulles;Anctoville;;-0.691184;49.130737
+14581_8pclmv_00052;52;;Impasse de la Taverne;14240;14581;Aurseulles;Anctoville;;-0.661703;49.126371
+14581_20aoxw_00788;788;;Route des Tourailles;14240;14581;Aurseulles;Anctoville;;-0.679618;49.115113
+14581_0mgzzl_00092;92;;Rue des Artisans;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.71699;49.125183
+14581_3khtqb_00150;150;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.656023;49.124731
+14581_qkt61s_00012;12;;Route de la Couarde;14240;14581;Aurseulles;Torteval-Quesnay;;-0.732464;49.124585
+14581_w7ci1r_02533;2533;;Route du Plateau;14240;14581;Aurseulles;Anctoville;;-0.672635;49.112602
+14581_3khtqb_00221;221;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.656258;49.124065
+14581_qkt61s_00004;4;;Route de la Couarde;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.736333;49.117964
+14581_vu6xov_00022;22;;Route de Caen;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.714297;49.131979
+14581_ha29mv_00682;682;;Rue de la Poterie;14250;14581;Aurseulles;Longraye;;-0.701477;49.149262
+14581_eqfnu8_00448;448;;Impasse des Buis;14240;14581;Aurseulles;Anctoville;;-0.698209;49.103924
+14581_w7ci1r_02418;2418;;Route du Plateau;14240;14581;Aurseulles;Anctoville;;-0.673901;49.112003
+14581_iabkbm_00076;76;;Impasse des Hametières;14240;14581;Aurseulles;Anctoville;;-0.715331;49.104965
+14581_0175_00045;45;;Rue Jacques Brunet;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.715452;49.122619
+14581_eabsg8_00521;521;;Route d'Havetot;14240;14581;Aurseulles;Anctoville;;-0.722957;49.101222
+14581_skw1pf_00076;76;;Route du Bosq;14240;14581;Aurseulles;Anctoville;;-0.710331;49.097165
+14581_31z99m_00655;655;;Route des Trois Cheminées;14240;14581;Aurseulles;Anctoville;;-0.660752;49.120942
+14581_vplu62_00022;22;;Route des Roquettes;14240;14581;Aurseulles;Anctoville;;-0.659242;49.118435
+14581_0183_00215;215;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.719073;49.121976
+14581_ndahwb_00064;64;;Impasse du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.687965;49.098663
+14581_vu6xov_00011;11;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.719196;49.131455
+14581_f7x9u2_00020;20;;Impasse des Pommiers;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717876;49.126086
+14581_0179_00100;100;;Rue des Écoliers;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718242;49.123607
+14581_3u5e31_00495;495;;Route du Fossard;14240;14581;Aurseulles;Anctoville;;-0.710924;49.1005
+14581_0318_01053;1053;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.663122;49.126783
+14581_iabkbm_00034;34;;Impasse des Hametières;14240;14581;Aurseulles;Anctoville;;-0.71512;49.104593
+14581_0060_00282;282;;Rue des Écoles;14240;14581;Aurseulles;Anctoville;;-0.706579;49.104208
+14581_g92hv2_01097;1097;;Route du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.689016;49.100013
+14581_skw1pf_00444;444;;Route du Bosq;14240;14581;Aurseulles;Anctoville;;-0.71008;49.093954
+14581_d0rjvt_00597;597;;Rue des Vives Terres;14250;14581;Aurseulles;Longraye;;-0.687621;49.155037
+14581_3wzi7c_01038;1038;;Route de la Maison Bleue;14250;14581;Aurseulles;Longraye;;-0.695127;49.149452
+14581_x47mrg_00857;857;;Route de la Renaudière;14240;14581;Aurseulles;Torteval-Quesnay;;-0.751396;49.151651
+14581_9df908_00429;429;;Impasse de la Motte;14240;14581;Aurseulles;Torteval-Quesnay;;-0.722178;49.163194
+14581_0mgzzl_00176;176;;Rue des Artisans;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717317;49.125706
+14581_0p8do0_00779;779;;Route du Biéville;14240;14581;Aurseulles;Anctoville;;-0.705071;49.09284
+14581_0167_00293;293;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.71525;49.125694
+14581_ndahwb_00015;15;;Impasse du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.687383;49.098891
+14581_z0p0xk_00107;107;;Rue de la Vallée;14240;14581;Aurseulles;Anctoville;;-0.654035;49.124642
+14581_g92hv2_01005;1005;;Route du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.690225;49.100267
+14581_br21d1_00005;5;;Impasse de la Fontaine;14240;14581;Aurseulles;Anctoville;;-0.710792;49.097677
+14581_3wzi7c_00969;969;;Route de la Maison Bleue;14250;14581;Aurseulles;Longraye;;-0.695846;49.149028
+14581_0100_00591;591;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.714697;49.10433
+14581_kn1xqe_01824;1824;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.735686;49.150828
+14581_0318_01153;1153;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.661793;49.126854
+14581_0183_00407;407;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.721447;49.121221
+14581_xz39i7_00462;462;;Route de Lictot;14240;14581;Aurseulles;Anctoville;;-0.691301;49.117756
+14581_vu6xov_00021;21;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.711752;49.133054
+14581_pwaj5v_00417;417;;Impasse des Quatre Nations;14250;14581;Aurseulles;Longraye;;-0.690711;49.160609
+14581_eabsg8_00751;751;;Route d'Havetot;14240;14581;Aurseulles;Anctoville;;-0.725894;49.100488
+14581_x5c5bj_00077;77;;Impasse de la Vimonderie;14240;14581;Aurseulles;Anctoville;Feuguerolles-sur-Seulles;-0.670447;49.11578
+14581_0318_00912;912;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.665029;49.126633
+14581_0318_01007;1007;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.663747;49.126791
+14581_0183_00325;325;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.720462;49.121527
+14581_0183_00646;646;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.724278;49.120212
+14581_6f9wx6_00181;181;;Impasse des Hauts Vents;14240;14581;Aurseulles;Anctoville;;-0.732731;49.101508
+14581_vu6xov_00019;19;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.712235;49.132877
+14581_0309_00784;784;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.676554;49.126383
+14581_vplu62_00082;82;;Route des Roquettes;14240;14581;Aurseulles;Anctoville;;-0.659455;49.117921
+14581_u35lip_00001;1;;Route de Candon;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716946;49.115083
+14581_0100_00217;217;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.709827;49.105305
+14581_ronk5u_00203;203;;Impasse de la Butte;14240;14581;Aurseulles;Torteval-Quesnay;;-0.744481;49.142606
+14581_0060_00268;268;;Rue des Écoles;14240;14581;Aurseulles;Anctoville;;-0.706389;49.104427
+14581_pwaj5v_00367;367;;Impasse des Quatre Nations;14250;14581;Aurseulles;Longraye;;-0.690305;49.160255
+14581_3khtqb_00161;161;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.656017;49.124588
+14581_0186_00010;10;;Route de la Rivière;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.703504;49.118506
+14581_kn1xqe_00106;106;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.731627;49.137616
+14581_0p8do0_00708;708;;Route du Biéville;14240;14581;Aurseulles;Anctoville;;-0.705567;49.093023
+14581_4xnaqw_00056;56;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.698419;49.155714
+14581_go501a_01007;1007;;Route du Vey;14240;14581;Aurseulles;Torteval-Quesnay;;-0.705841;49.142163
+14581_se6aig_03086;3086;;Route du Pont du Titre;14240;14581;Aurseulles;Torteval-Quesnay;;-0.725576;49.159047
+14581_vu6xov_00037;37;;Route de Caen;14250;14581;Aurseulles;Longraye;;-0.687002;49.14162
+14581_4xnaqw_01144;1144;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.709915;49.161118
+14581_n9glhu_00139;139;;Impasse de l'If;14240;14581;Aurseulles;Anctoville;;-0.670083;49.112949
+14581_31z99m_00946;946;;Route des Trois Cheminées;14240;14581;Aurseulles;Anctoville;;-0.6592;49.118632
+14581_8s0gh1_00579;579;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.734395;49.135068
+14581_rew0uz_00026;26;;Route de Balleroy;14250;14581;Aurseulles;Longraye;;-0.713994;49.179443
+14581_0318_00918;918;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.664896;49.126653
+14581_0309_00866;866;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.677307;49.126965
+14581_vu6xov_00046;46;;Route de Caen;14240;14581;Aurseulles;Longraye;;-0.686339;49.141695
+14581_dmzkfb_00042;42;;Impasse du Biéville;14240;14581;Aurseulles;Anctoville;;-0.704642;49.089462
+14581_dmzkfb_00090;90;;Impasse du Biéville;14240;14581;Aurseulles;Anctoville;;-0.705192;49.089302
+14581_ndahwb_00100;100;;Impasse du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.688266;49.098402
+14581_gb6yza_00071;71;;Impasse du Chemin d'Onchy;14250;14581;Aurseulles;Longraye;;-0.68892;49.148765
+14581_cs8pam_00100;100;;Route de Longla;14240;14581;Aurseulles;Anctoville;;-0.660669;49.127449
+14581_kn1xqe_01816;1816;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.735487;49.150699
+14581_6f9wx6_00182;182;;Impasse des Hauts Vents;14240;14581;Aurseulles;Anctoville;;-0.732775;49.101567
+14581_5rfzys_00062;62;;Chemin des Champs de Silly;14240;14581;Aurseulles;Anctoville;;-0.676424;49.127123
+14581_0171_00151;151;;Rue du Bessin;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718347;49.124433
+14581_vu6xov_00005;5;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.726293;49.131264
+14581_x5c5bj_00133;133;;Impasse de la Vimonderie;14240;14581;Aurseulles;Anctoville;Feuguerolles-sur-Seulles;-0.670514;49.116302
+14581_u35lip_00002;2;;Route de Candon;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717643;49.115538
+14581_vu6xov_00041;41;;Route de Caen;14250;14581;Aurseulles;Longraye;;-0.685687;49.142107
+14581_go501a_00654;654;;Route du Vey;14240;14581;Aurseulles;Torteval-Quesnay;;-0.708148;49.139339
+14581_se6aig_03068;3068;;Route du Pont du Titre;14240;14581;Aurseulles;Torteval-Quesnay;;-0.725344;49.159015
+14581_vu6xov_00031;31;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.699031;49.13747
+14581_9bmjvk_01417;1417;;Route du Jardin du Puits;14240;14581;Aurseulles;Anctoville;;-0.678811;49.127194
+14581_u35lip_00006;6;;Route de Candon;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718055;49.115421
+14581_0318_00841;841;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.666043;49.126791
+14581_0180_00114;114;;Rue de l'Église;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717934;49.121393
+14581_0mgzzl_00241;241;;Rue des Artisans;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717993;49.125773
+14581_vu6xov_00027;27;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.709992;49.133712
+14581_0318_00614;614;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.669031;49.126495
+14581_q1yraq_00409;409;;Route du Nouveau Monde;14240;14581;Aurseulles;Anctoville;;-0.684103;49.112123
+14581_tfjvux_00494;494;;Impasse des Bérolles;14250;14581;Aurseulles;Longraye;;-0.712752;49.164638
+14581_0309_01467;1467;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.677969;49.131995
+14581_b725_00999;999;;Route de Longraye;14250;14581;Aurseulles;Longraye;;-0.689994;49.149766
+14581_1phoru_00009;9;;Impasse de la Seulles;14240;14581;Aurseulles;Anctoville;;-0.657289;49.120256
+14581_vluwoh_00038;38;;Impasse du Pavé;14250;14581;Aurseulles;Longraye;;-0.679954;49.144284
+14581_n9p244_00104;104;;Route les Trois Ponts;14240;14581;Aurseulles;Anctoville;;-0.669607;49.114437
+14581_se6aig_02132;2132;;Route du Pont du Titre;14250;14581;Aurseulles;Longraye;;-0.717721;49.151955
+14581_kn1xqe_04366;4366;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.726483;49.172224
+14581_vu6xov_00048;48;;Route de Caen;14240;14581;Aurseulles;Longraye;;-0.6862;49.141741
+14581_0169_00061;61;;Chemin Bellevue;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.721886;49.120254
+14581_0186_00006;6;;Route de la Rivière;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.706948;49.118281
+14581_efvtbd_00862;862;;Route du Feugret;14240;14581;Aurseulles;Anctoville;;-0.667491;49.135603
+14581_dmc2ip_00045;45;;Impasse de la Haubrée;14240;14581;Aurseulles;Anctoville;;-0.678829;49.127614
+14581_kn1xqe_01164;1164;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.738914;49.145294
+14581_se6aig_03146;3146;;Route du Pont du Titre;14240;14581;Aurseulles;Torteval-Quesnay;;-0.726645;49.158564
+14581_0060_00209;209;;Rue des Écoles;14240;14581;Aurseulles;Anctoville;;-0.70571;49.104603
+14581_3khtqb_00247;247;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.6565;49.123405
+14581_0175_00016;16;;Rue Jacques Brunet;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.715726;49.122421
+14581_sj8qjz_00548;548;;Route du Pont de Quesnay;14240;14581;Aurseulles;Torteval-Quesnay;;-0.73867;49.150065
+14581_dmzkfb_00230;230;;Impasse du Biéville;14240;14581;Aurseulles;Anctoville;;-0.706581;49.089706
+14581_4xwom0_01075;1075;;Route du Bas Quesnay;14240;14581;Aurseulles;Torteval-Quesnay;;-0.738323;49.159192
+14581_vplu62_00576;576;;Route des Roquettes;14240;14581;Aurseulles;Anctoville;;-0.659083;49.113617
+14581_0100_00157;157;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.709141;49.105582
+14581_3khtqb_00738;738;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.658177;49.119823
+14581_f5f555_00906;906;;Route de la Folie;14250;14581;Aurseulles;Longraye;;-0.702856;49.161834
+14581_g92hv2_00991;991;;Route du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.69043;49.100268
+14581_a595ke_00028;28;;Route des Pars;14240;14581;Aurseulles;Anctoville;;-0.665832;49.126519
+14581_kn1xqe_02441;2441;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.732898;49.156131
+14581_0183_00663;663;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.724478;49.120032
+14581_0100_00108;108;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.708498;49.10575
+14581_3u5e31_00705;705;;Route du Fossard;14240;14581;Aurseulles;Anctoville;;-0.711328;49.099088
+14581_0175_00211;211;;Rue Jacques Brunet;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.713183;49.122699
+14581_icv76z_00528;528;;Impasse des Essards;14240;14581;Aurseulles;Torteval-Quesnay;;-0.741953;49.140708
+14581_go501a_00656;656;;Route du Vey;14240;14581;Aurseulles;Torteval-Quesnay;;-0.708269;49.139391
+14581_0318_00985;985;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.664018;49.126789
+14581_0100_00485;485;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.713162;49.104599
+14581_0318_00932;932;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.664766;49.126713
+14581_0tmj0m_00927;927;;Route du Bois L'Abbé;14240;14581;Aurseulles;Torteval-Quesnay;;-0.730146;49.150643
+14581_0167_00383;383;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.714477;49.126353
+14581_0060_00093;93;;Rue des Écoles;14240;14581;Aurseulles;Anctoville;;-0.705755;49.105694
+14581_3u5e31_00791;791;;Route du Fossard;14240;14581;Aurseulles;Anctoville;;-0.711156;49.098334
+14581_0tmj0m_01620;1620;;Route du Bois L'Abbé;14240;14581;Aurseulles;Torteval-Quesnay;;-0.725803;49.156176
+14581_xoa7rh_00543;543;;Chemin de la Marèse;14240;14581;Aurseulles;Anctoville;;-0.712271;49.100431
+14581_ystlm4_00001;1;;Route de Courval;14240;14581;Aurseulles;Torteval-Quesnay;;-0.703694;49.131109
+14581_xz39i7_00594;594;;Route de Lictot;14240;14581;Aurseulles;Anctoville;;-0.689984;49.116891
+14581_8s0gh1_00468;468;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.735331;49.134593
+14581_q1yraq_00398;398;;Route du Nouveau Monde;14240;14581;Aurseulles;Anctoville;;-0.683996;49.112242
+14581_vplu62_00580;580;;Route des Roquettes;14240;14581;Aurseulles;Anctoville;;-0.6591;49.113577
+14581_31z99m_00729;729;;Route des Trois Cheminées;14240;14581;Aurseulles;Anctoville;;-0.660623;49.120284
+14581_0313_00773;773;;Route de Feuguerolles;14240;14581;Aurseulles;Anctoville;;-0.671623;49.113604
+14581_rvoop6_00522;522;;Rue du Launay;14240;14581;Aurseulles;Anctoville;;-0.719606;49.105078
+14581_9bmjvk_00576;576;;Route du Jardin du Puits;14240;14581;Aurseulles;Anctoville;;-0.686787;49.123187
+14581_se6aig_02128;2128;;Route du Pont du Titre;14250;14581;Aurseulles;Longraye;;-0.717691;49.151938
+14581_8s0gh1_02202;2202;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.717071;49.143389
+14581_0179_00088;88;;Rue des Écoliers;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.71825;49.123502
+14581_cs8pam_00003;3;;Route de Longla;14240;14581;Aurseulles;Anctoville;;-0.661669;49.126889
+14581_ce97rf_00034;34;;Impasse des Épinettes;14240;14581;Aurseulles;Anctoville;;-0.711843;49.099165
+14581_vplu62_00624;624;;Route des Roquettes;14240;14581;Aurseulles;Anctoville;;-0.659255;49.113201
+14581_3otf03_00598;598;;Route du Pont Mulot;14240;14581;Aurseulles;Torteval-Quesnay;;-0.747998;49.129098
+14581_0318_00156;156;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.674218;49.124236
+14581_0179_00115;115;;Rue des Écoliers;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718394;49.123767
+14581_20aoxw_01192;1192;;Route des Tourailles;14240;14581;Aurseulles;Anctoville;;-0.674473;49.113846
+14581_pwaj5v_00281;281;;Impasse des Quatre Nations;14250;14581;Aurseulles;Longraye;;-0.68957;49.159661
+14581_0174_00044;44;;Impasse de la Bouchère;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.722923;49.121184
+14581_0175_00165;165;;Rue Jacques Brunet;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.713808;49.12274
+14581_efj0yk_00016;16;;Impasse de la Basse Rue;14250;14581;Aurseulles;Longraye;;-0.685754;49.142626
+14581_0313_00943;943;;Route de Feuguerolles;14240;14581;Aurseulles;Anctoville;;-0.671684;49.11203
+14581_a6na1g_00002;2;;Impasse des Errards;14240;14581;Aurseulles;Torteval-Quesnay;;-0.723795;49.12527
+14581_a595ke_00088;88;;Route des Pars;14240;14581;Aurseulles;Anctoville;;-0.665885;49.125981
+14581_qkt61s_00006;6;;Route de la Couarde;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.736972;49.118244
+14581_ho0f1p_00198;198;;Rue du Gros Chêne;14250;14581;Aurseulles;Longraye;;-0.686995;49.155794
+14581_ndahwb_00133;133;;Impasse du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.688509;49.098133
+14581_b723_01311;1311;;Rue Argile;14250;14581;Aurseulles;Longraye;;-0.697793;49.155081
+14581_kn1xqe_02435;2435;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.733575;49.156422
+14581_ndahwb_00068;68;;Impasse du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.688067;49.098623
+14581_3khtqb_00660;660;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.657451;49.120341
+14581_4xnaqw_00070;70;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.698492;49.155824
+14581_f5f555_00143;143;;Route de la Folie;14250;14581;Aurseulles;Longraye;;-0.695897;49.157004
+14581_skw1pf_00970;970;;Route du Bosq;14240;14581;Aurseulles;Anctoville;;-0.71347;49.090797
+14581_x5c5bj_00008;8;;Impasse de la Vimonderie;14240;14581;Aurseulles;Anctoville;Feuguerolles-sur-Seulles;-0.670436;49.115153
+14581_n9p244_00785;785;;Route les Trois Ponts;14240;14581;Aurseulles;Anctoville;;-0.660579;49.112893
+14581_0309_00682;682;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.67595;49.125497
+14581_0309_01415;1415;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.677759;49.131573
+14581_vu6xov_00023;23;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.71022;49.133608
+14581_0167_00191;191;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.715953;49.124922
+14581_kn1xqe_02152;2152;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.734077;49.153586
+14581_0wgdat_00002;2;;Impasse les Pallières;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.719707;49.128605
+14581_dmc2ip_00056;56;;Impasse de la Haubrée;14240;14581;Aurseulles;Anctoville;;-0.678975;49.127707
+14581_ronk5u_00141;141;;Impasse de la Butte;14240;14581;Aurseulles;Torteval-Quesnay;;-0.744838;49.143129
+14581_0167_00207;207;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.715854;49.12503
+14581_ronk5u_00173;173;;Impasse de la Butte;14240;14581;Aurseulles;Torteval-Quesnay;;-0.744662;49.142858
+14581_x47mrg_00887;887;;Route de la Renaudière;14240;14581;Aurseulles;Torteval-Quesnay;;-0.75175;49.151822
+14581_0100_00652;652;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.715515;49.104171
+14581_x47mrg_01045;1045;;Route de la Renaudière;14240;14581;Aurseulles;Torteval-Quesnay;;-0.753484;49.152666
+14581_go501a_01083;1083;;Route du Vey;14240;14581;Aurseulles;Torteval-Quesnay;;-0.70523;49.142724
+14581_n9glhu_00159;159;;Impasse de l'If;14240;14581;Aurseulles;Anctoville;;-0.669888;49.112832
+14581_icv76z_00102;102;;Impasse des Essards;14240;14581;Aurseulles;Torteval-Quesnay;;-0.736936;49.142587
+14581_wzu8j4_00048;48;;Chemin du Viverot;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.710682;49.117301
+14581_edxl91_00113;113;;Impasse de la Louvetière;14240;14581;Aurseulles;Anctoville;;-0.705541;49.090598
+14581_vu6xov_00012;12;;Route de Caen;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.719313;49.131288
+14581_jp66az_00268;268;;Impasse du Bosq;14240;14581;Aurseulles;Anctoville;;-0.712499;49.09059
+14581_b477_00662;662;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.706949;49.105985
+14581_se6aig_03106;3106;;Route du Pont du Titre;14240;14581;Aurseulles;Torteval-Quesnay;;-0.727358;49.157946
+14581_0p8do0_00791;791;;Route du Biéville;14240;14581;Aurseulles;Anctoville;;-0.704711;49.092559
+14581_rvoop6_00068;68;;Rue du Launay;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.722449;49.108668
+14581_0060_00211;211;;Rue des Écoles;14240;14581;Aurseulles;Anctoville;;-0.705697;49.10459
+14581_ha29mv_00757;757;;Rue de la Poterie;14250;14581;Aurseulles;Longraye;;-0.701282;49.149916
+14581_rvoop6_00262;262;;Rue du Launay;14240;14581;Aurseulles;Anctoville;;-0.721873;49.106908
+14581_0309_00684;684;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.675964;49.125585
+14581_pocxfx_00007;7;;Impasse de l'Érable;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717405;49.124661
+14581_u3nirx_00197;197;;Impasse du Ruisseau aux Adams;14240;14581;Aurseulles;Torteval-Quesnay;;-0.733007;49.153122
+14581_0318_00028;28;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.675472;49.123509
+14581_icv76z_00565;565;;Impasse des Essards;14240;14581;Aurseulles;Torteval-Quesnay;;-0.742285;49.140229
+14581_7vh5t2_00258;258;;Impasse de la Levrye;14240;14581;Aurseulles;Anctoville;;-0.685575;49.106782
+14581_f5f555_00183;183;;Route de la Folie;14250;14581;Aurseulles;Longraye;;-0.69616;49.157318
+14581_a595ke_00052;52;;Route des Pars;14240;14581;Aurseulles;Anctoville;;-0.665845;49.126303
+14581_0180_00531;531;;Rue de l'Église;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716982;49.117814
+14581_b477_00693;693;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.706945;49.105774
+14581_efvtbd_00974;974;;Route du Feugret;14240;14581;Aurseulles;Anctoville;;-0.665977;49.135664
+14581_eabsg8_00880;880;;Route d'Havetot;14240;14581;Aurseulles;Anctoville;;-0.727633;49.100679
+14581_8pclmv_00061;61;;Impasse de la Taverne;14240;14581;Aurseulles;Anctoville;;-0.661811;49.126268
+14581_0100_00339;339;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.711461;49.10502
+14581_0mgzzl_00069;69;;Rue des Artisans;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716886;49.124965
+14581_skw1pf_01026;1026;;Route du Bosq;14240;14581;Aurseulles;Anctoville;;-0.713194;49.090313
+14581_dky0ah_00158;158;;Impasse du Tournebride;14240;14581;Aurseulles;Torteval-Quesnay;;-0.739107;49.143522
+14581_vu6xov_00009;9;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.719282;49.131453
+14581_f5f555_00290;290;;Route de la Folie;14250;14581;Aurseulles;Longraye;;-0.696732;49.158204
+14581_kep8bv_00003;3;;Route du Moulin Gailland;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.702465;49.119048
+14581_b725_00038;38;;Route de Longraye;14250;14581;Aurseulles;Longraye;;-0.685262;49.142548
+14581_0167_00489;489;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.71356;49.127085
+14581_61mpq8_00698;698;;Route d'Hottot;14240;14581;Aurseulles;Anctoville;;-0.652645;49.13213
+14581_5rfzys_00053;53;;Chemin des Champs de Silly;14240;14581;Aurseulles;Anctoville;;-0.676575;49.127072
+14581_nqkm93_00272;272;;Impasse le Parc;14240;14581;Aurseulles;Anctoville;;-0.689601;49.106205
+14581_0100_00160;160;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.709223;49.105668
+14581_2mvq35_00251;251;;Route du Moulin de Parfouru;14240;14581;Aurseulles;Torteval-Quesnay;;-0.742313;49.144067
+14581_skw1pf_00130;130;;Route du Bosq;14240;14581;Aurseulles;Anctoville;;-0.710109;49.096781
+14581_8s0gh1_02317;2317;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.716148;49.144233
+14581_n9glhu_00100;100;;Impasse de l'If;14240;14581;Aurseulles;Anctoville;;-0.670579;49.113055
+14581_20aoxw_00757;757;;Route des Tourailles;14240;14581;Aurseulles;Anctoville;;-0.679992;49.115296
+14581_d0rjvt_00054;54;;Rue des Vives Terres;14250;14581;Aurseulles;Longraye;;-0.691395;49.150877
+14581_0183_00554;554;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.723212;49.120629
+14581_w7ci1r_02532;2532;;Route du Plateau;14240;14581;Aurseulles;Anctoville;;-0.672493;49.112486
+14581_rvoop6_00378;378;;Rue du Launay;14240;14581;Aurseulles;Anctoville;;-0.720922;49.106027
+14581_3wzi7c_01080;1080;;Route de la Maison Bleue;14250;14581;Aurseulles;Longraye;;-0.694773;49.149705
+14581_0060_00217;217;;Rue des Écoles;14240;14581;Aurseulles;Anctoville;;-0.70578;49.104533
+14581_vu6xov_00033;33;;Route de Caen;14250;14581;Aurseulles;Longraye;;-0.688909;49.141008
+14581_kn1xqe_01103;1103;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.739165;49.144748
+14581_0183_00181;181;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718691;49.122126
+14581_uhsf91_00198;198;;Route des Haies Colas;14240;14581;Aurseulles;Anctoville;;-0.694035;49.128521
+14581_vu6xov_00036;36;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.692114;49.139636
+14581_qkt61s_00010;10;;Route de la Couarde;14240;14581;Aurseulles;Torteval-Quesnay;;-0.732564;49.124244
+14581_rvoop6_00348;348;;Rue du Launay;14240;14581;Aurseulles;Anctoville;;-0.721174;49.106274
+14581_0309_00342;342;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.67544;49.122564
+14581_0318_00071;71;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.675273;49.123911
+14581_kn1xqe_01803;1803;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.735939;49.150689
+14581_xz39i7_01137;1137;;Route de Lictot;14240;14581;Aurseulles;Anctoville;;-0.683081;49.118509
+14581_4xnaqw_00616;616;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.703707;49.159212
+14581_b725_01218;1218;;Route de Longraye;14250;14581;Aurseulles;Longraye;;-0.692419;49.150834
+14581_vu6xov_00010;10;;Route de Caen;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.719355;49.131288
+14581_0100_00210;210;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.709894;49.105572
+14581_0175_00073;73;;Rue Jacques Brunet;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.715079;49.122687
+14581_7zon3u_00001;1;;Impasse d'Orval;14240;14581;Aurseulles;Torteval-Quesnay;;-0.736934;49.163473
+14581_go501a_00653;653;;Route du Vey;14240;14581;Aurseulles;Torteval-Quesnay;;-0.708244;49.139339
+14581_0318_01440;1440;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.658117;49.126061
+14581_nqkm93_00270;270;;Impasse le Parc;14240;14581;Aurseulles;Anctoville;;-0.689737;49.106167
+14581_0318_00871;871;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.665618;49.126831
+14581_0167_00176;176;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.715915;49.124745
+14581_u35lip_00008;8;;Route de Candon;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718341;49.115401
+14581_0167_00120;120;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716101;49.12423
+14581_vu6xov_00024;24;;Route de Caen;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.713951;49.132099
+14581_ha29mv_00790;790;;Rue de la Poterie;14250;14581;Aurseulles;Longraye;;-0.700906;49.150174
+14581_0100_00221;221;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.70998;49.105346
+14581_0167_00029;29;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716929;49.123629
+14581_edxl91_00291;291;;Impasse de la Louvetière;14240;14581;Aurseulles;Anctoville;;-0.706513;49.09161
+14581_n9p244_00017;17;;Route les Trois Ponts;14240;14581;Aurseulles;Anctoville;;-0.670693;49.114475
+14581_x47mrg_00440;440;;Route de la Renaudière;14240;14581;Aurseulles;Torteval-Quesnay;;-0.74493;49.151124
+14581_iabkbm_00046;46;;Impasse des Hametières;14240;14581;Aurseulles;Anctoville;;-0.715186;49.104694
+14581_8s0gh1_00543;543;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.734999;49.135214
+14581_0318_00141;141;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.67448;49.124302
+14581_0175_00053;53;;Rue Jacques Brunet;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.715354;49.122645
+14581_x5c5bj_00139;139;;Impasse de la Vimonderie;14240;14581;Aurseulles;Anctoville;Feuguerolles-sur-Seulles;-0.67049;49.116363
+14581_4xnaqw_00910;910;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.706712;49.160839
+14581_qkt61s_00015;15;;Route de la Couarde;14240;14581;Aurseulles;Torteval-Quesnay;;-0.733577;49.127591
+14581_0183_00443;443;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.72187;49.121076
+14581_20aoxw_00832;832;;Route des Tourailles;14240;14581;Aurseulles;Anctoville;;-0.679108;49.11491
+14581_b477_00815;815;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.706929;49.104696
+14581_ha29mv_00958;958;;Rue de la Poterie;14250;14581;Aurseulles;Longraye;;-0.699925;49.151483
+14581_0060_00119;119;;Rue des Écoles;14240;14581;Aurseulles;Anctoville;;-0.705734;49.105585
+14581_eqfnu8_01369;1369;;Impasse des Buis;14240;14581;Aurseulles;Anctoville;;-0.685948;49.104962
+14581_0309_01383;1383;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.67763;49.131302
+14581_b477_00628;628;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.706498;49.106259
+14581_20aoxw_00048;48;;Route des Tourailles;14240;14581;Aurseulles;Anctoville;;-0.689425;49.116623
+14581_3khtqb_00792;792;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.658534;49.119396
+14581_0100_00219;219;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.709992;49.105299
+14581_20aoxw_01277;1277;;Route des Tourailles;14240;14581;Aurseulles;Anctoville;;-0.673044;49.113884
+14581_u35lip_00010;10;;Route de Candon;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.71802;49.114997
+14581_rvoop6_00171;171;;Rue du Launay;14240;14581;Aurseulles;Anctoville;;-0.722185;49.107716
+14581_0175_00161;161;;Rue Jacques Brunet;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.713932;49.122746
+14581_n9glhu_00072;72;;Impasse de l'If;14240;14581;Aurseulles;Anctoville;;-0.670958;49.113142
+14581_31z99m_00023;23;;Route des Trois Cheminées;14240;14581;Aurseulles;Anctoville;;-0.661015;49.12641
+14581_0313_00700;700;;Route de Feuguerolles;14240;14581;Aurseulles;Anctoville;;-0.67137;49.114195
+14581_b477_00657;657;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.706688;49.106009
+14581_31z99m_00073;73;;Route des Trois Cheminées;14240;14581;Aurseulles;Anctoville;;-0.66079;49.125984
+14581_nvk923_00141;141;;Route du Pont Jourdain;14240;14581;Aurseulles;Torteval-Quesnay;;-0.728624;49.181299
+14581_cs8pam_00008;8;;Route de Longla;14240;14581;Aurseulles;Anctoville;;-0.661523;49.126849
+14581_vp2l53_03083;3083;;Route de Cahagnolles;14240;14581;Aurseulles;Torteval-Quesnay;;-0.755331;49.152815
+14581_4xnaqw_00116;116;;Rue Saint-Pierre;14250;14581;Aurseulles;Longraye;;-0.698707;49.156234
+14581_0172_00116;116;;Rue du Bocage;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716304;49.122475
+14581_g92hv2_01037;1037;;Route du Mesnil;14240;14581;Aurseulles;Anctoville;;-0.689786;49.100183
+14581_eqfnu8_01478;1478;;Impasse des Buis;14240;14581;Aurseulles;Anctoville;;-0.684682;49.104855
+14581_agjmxs_00053;53;;Impasse du Bois aux Burets;14240;14581;Aurseulles;Anctoville;;-0.67751;49.126385
+14581_kn1xqe_02879;2879;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.728896;49.159086
+14581_0172_00146;146;;Rue du Bocage;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.715866;49.122231
+14581_n9p244_00671;671;;Route les Trois Ponts;14240;14581;Aurseulles;Anctoville;;-0.662089;49.113218
+14581_rvoop6_00192;192;;Rue du Launay;14240;14581;Aurseulles;Anctoville;;-0.722194;49.10751
+14581_i0bidg_00156;156;;Impasse du Torchamp;14240;14581;Aurseulles;Anctoville;;-0.67322;49.114499
+14581_vu6xov_00038;38;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.692077;49.139643
+14581_0273_00406;406;;Chemin de la Cour aux Planches;14240;14581;Aurseulles;Anctoville;;-0.697093;49.10315
+14581_0313_00485;485;;Route de Feuguerolles;14240;14581;Aurseulles;Anctoville;;-0.671126;49.115863
+14581_0309_00605;605;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.676065;49.124864
+14581_3khtqb_00801;801;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.658438;49.119278
+14581_0060_00228;228;;Rue des Écoles;14240;14581;Aurseulles;Anctoville;;-0.705977;49.104615
+14581_eqfnu8_01510;1510;;Impasse des Buis;14240;14581;Aurseulles;Anctoville;;-0.684566;49.104585
+14581_q1yraq_00412;412;;Route du Nouveau Monde;14240;14581;Aurseulles;Anctoville;;-0.683994;49.112118
+14581_gz83i1_00052;52;;Impasse du Moutier;14240;14581;Aurseulles;Anctoville;;-0.716023;49.10419
+14581_uhsf91_00444;444;;Route des Haies Colas;14240;14581;Aurseulles;Anctoville;;-0.692936;49.126301
+14581_0180_00100;100;;Rue de l'Église;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717974;49.121519
+14581_0318_00892;892;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.665368;49.126697
+14581_eqfnu8_01549;1549;;Impasse des Buis;14240;14581;Aurseulles;Anctoville;;-0.684388;49.104257
+14581_b477_00713;713;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.70693;49.10561
+14581_rvoop6_00402;402;;Rue du Launay;14240;14581;Aurseulles;Anctoville;;-0.720723;49.105874
+14581_0186_00001;1;;Route de la Rivière;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.707099;49.118432
+14581_se6aig_02989;2989;;Route du Pont du Titre;14240;14581;Aurseulles;Torteval-Quesnay;;-0.726272;49.157141
+14581_20aoxw_00816;816;;Route des Tourailles;14240;14581;Aurseulles;Anctoville;;-0.679258;49.114996
+14581_f5f555_00558;558;;Route de la Folie;14250;14581;Aurseulles;Longraye;;-0.698764;49.160212
+14581_vu6xov_00026;26;;Route de Caen;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.71287;49.132469
+14581_vplu62_00637;637;;Route des Roquettes;14240;14581;Aurseulles;Anctoville;;-0.659086;49.113009
+14581_kn1xqe_01309;1309;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.73834;49.146537
+14581_3khtqb_00027;27;;Route des Moulinets;14240;14581;Aurseulles;Anctoville;;-0.655171;49.125547
+14581_u35lip_00004;4;;Route de Candon;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717921;49.115469
+14581_b477_00958;958;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.706103;49.103624
+14581_0167_00328;328;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.714566;49.125841
+14581_0167_00530;530;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.713123;49.127299
+14581_0313_00561;561;;Route de Feuguerolles;14240;14581;Aurseulles;Anctoville;;-0.670659;49.115244
+14581_0318_00836;836;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.66614;49.12672
+14581_0mgzzl_00185;185;;Rue des Artisans;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717479;49.125706
+14581_0318_01612;1612;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.655773;49.12583
+14581_4xwom0_01072;1072;;Route du Bas Quesnay;14240;14581;Aurseulles;Torteval-Quesnay;;-0.738235;49.159083
+14581_b725_01158;1158;;Route de Longraye;14250;14581;Aurseulles;Longraye;;-0.691802;49.15056
+14581_eltcd4_00102;102;;Impasse du Paradis;14240;14581;Aurseulles;Anctoville;;-0.708041;49.106235
+14581_0183_00188;188;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718946;49.122227
+14581_0060_00198;198;;Rue des Écoles;14240;14581;Aurseulles;Anctoville;;-0.70586;49.104768
+14581_31z99m_00805;805;;Route des Trois Cheminées;14240;14581;Aurseulles;Anctoville;;-0.660208;49.119713
+14581_pwaj5v_00393;393;;Impasse des Quatre Nations;14250;14581;Aurseulles;Longraye;;-0.690534;49.16046
+14581_0183_00229;229;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.719295;49.121877
+14581_0318_01772;1772;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.653575;49.125631
+14581_0318_01144;1144;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.661864;49.126748
+14581_ronk5u_00172;172;;Impasse de la Butte;14240;14581;Aurseulles;Torteval-Quesnay;;-0.744745;49.14285
+14581_qkt61s_00009;9;;Route de la Couarde;14240;14581;Aurseulles;Torteval-Quesnay;;-0.738827;49.119797
+14581_8s0gh1_00541;541;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.735245;49.135327
+14581_61mpq8_00700;700;;Route d'Hottot;14240;14581;Aurseulles;Anctoville;;-0.652655;49.132151
+14581_0309_00324;324;;Route d'Orbois;14240;14581;Aurseulles;Anctoville;;-0.675343;49.12238
+14581_kn1xqe_01848;1848;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.735555;49.151037
+14581_ronk5u_00247;247;;Impasse de la Butte;14240;14581;Aurseulles;Torteval-Quesnay;;-0.744089;49.14207
+14581_61mpq8_00257;257;;Route d'Hottot;14240;14581;Aurseulles;Anctoville;;-0.651867;49.128302
+14581_n9p244_00423;423;;Route les Trois Ponts;14240;14581;Aurseulles;Anctoville;;-0.665338;49.11381
+14581_rvoop6_00381;381;;Rue du Launay;14240;14581;Aurseulles;Anctoville;;-0.720761;49.10611
+14581_efvtbd_00906;906;;Route du Feugret;14240;14581;Aurseulles;Anctoville;;-0.666895;49.135666
+14581_b477_00741;741;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.706933;49.10536
+14581_0167_00024;24;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.71682;49.123521
+14581_0167_00097;97;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716529;49.124156
+14581_qkt61s_00003;3;;Route de la Couarde;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.734965;49.11724
+14581_eltcd4_00038;38;;Impasse du Paradis;14240;14581;Aurseulles;Anctoville;;-0.707189;49.106252
+14581_20aoxw_01327;1327;;Route des Tourailles;14240;14581;Aurseulles;Anctoville;;-0.672595;49.113873
+14581_0wgdat_00008;8;;Impasse les Pallières;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.719912;49.128566
+14581_7vh5t2_00200;200;;Impasse de la Levrye;14240;14581;Aurseulles;Anctoville;;-0.686106;49.107169
+14581_0183_00183;183;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718712;49.122118
+14581_kn1xqe_01976;1976;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.734935;49.152114
+14581_efvtbd_00268;268;;Route du Feugret;14240;14581;Aurseulles;Anctoville;;-0.67519;49.133845
+14581_z0p0xk_00150;150;;Rue de la Vallée;14240;14581;Aurseulles;Anctoville;;-0.654621;49.124747
+14581_0180_00316;316;;Rue de l'Église;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716896;49.119744
+14581_d5jyy6_00268;268;;Impasse de la Marche;14240;14581;Aurseulles;Torteval-Quesnay;;-0.726791;49.128347
+14581_ha29mv_00970;970;;Rue de la Poterie;14250;14581;Aurseulles;Longraye;;-0.699812;49.151578
+14581_skw1pf_01014;1014;;Route du Bosq;14240;14581;Aurseulles;Anctoville;;-0.71329;49.090511
+14581_8s0gh1_00919;919;;Route de Crauville;14240;14581;Aurseulles;Torteval-Quesnay;;-0.730774;49.136881
+14581_nvk923_00605;605;;Route du Pont Jourdain;14240;14581;Aurseulles;Torteval-Quesnay;;-0.734681;49.180061
+14581_b477_00799;799;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.706919;49.104828
+14581_2mvq35_00562;562;;Route du Moulin de Parfouru;14240;14581;Aurseulles;Torteval-Quesnay;;-0.745986;49.142967
+14581_0164_00003;3;;Route d'Ectot;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.705858;49.122505
+14581_kn1xqe_02933;2933;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.728547;49.159494
+14581_qkt61s_00011;11;;Route de la Couarde;14240;14581;Aurseulles;Torteval-Quesnay;;-0.733288;49.126442
+14581_efvtbd_00938;938;;Route du Feugret;14240;14581;Aurseulles;Anctoville;;-0.66645;49.135689
+14581_x47mrg_00967;967;;Route de la Renaudière;14240;14581;Aurseulles;Torteval-Quesnay;;-0.752639;49.152227
+14581_0313_00487;487;;Route de Feuguerolles;14240;14581;Aurseulles;Anctoville;;-0.671183;49.115911
+14581_w7ci1r_02565;2565;;Route du Plateau;14240;14581;Aurseulles;Anctoville;;-0.672313;49.112792
+14581_n9p244_00782;782;;Route les Trois Ponts;14240;14581;Aurseulles;Anctoville;;-0.660662;49.112808
+14581_b907_04557;4557;;Route de Saint-Germain;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.734387;49.116656
+14581_0167_00151;151;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.717404;49.125289
+14581_vu6xov_00028;28;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.709815;49.13348
+14581_b477_01901;1901;;Route d'Anctoville;14240;14581;Aurseulles;Anctoville;;-0.700967;49.096623
+14581_vu6xov_00017;17;;Route de Caen;14240;14581;Aurseulles;Torteval-Quesnay;;-0.712929;49.132636
+14581_0167_00125;125;;Rue de la Croix des Landes;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.716386;49.124423
+14581_0wgdat_00006;6;;Impasse les Pallières;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.719973;49.129165
+14581_0100_00585;585;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.714431;49.104367
+14581_i0bidg_00006;6;;Impasse du Torchamp;14240;14581;Aurseulles;Anctoville;;-0.67112;49.114377
+14581_se6aig_02343;2343;;Route du Pont du Titre;14240;14581;Aurseulles;Torteval-Quesnay;;-0.71983;49.153168
+14581_0uy3jp_03214;3214;;Chemin des Chasses;14240;14581;Aurseulles;Anctoville;;-0.727634;49.105638
+14581_0313_00486;486;;Route de Feuguerolles;14240;14581;Aurseulles;Anctoville;;-0.671295;49.115816
+14581_7vh5t2_00101;101;;Impasse de la Levrye;14240;14581;Aurseulles;Anctoville;;-0.684703;49.107502
+14581_0318_00963;963;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.664346;49.126793
+14581_0318_01192;1192;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.661342;49.126642
+14581_0318_01383;1383;;Route de Sermentot;14240;14581;Aurseulles;Anctoville;;-0.658729;49.126445
+14581_6gmpyo_00276;276;;Route de la Dresserie;14240;14581;Aurseulles;Anctoville;;-0.700307;49.091499
+14581_kn1xqe_01353;1353;;Route de la Belle Épine;14240;14581;Aurseulles;Torteval-Quesnay;;-0.738126;49.146913
+14581_0100_00291;291;;Rue du Moutier;14240;14581;Aurseulles;Anctoville;;-0.710772;49.105183
+14581_w7ci1r_02478;2478;;Route du Plateau;14240;14581;Aurseulles;Anctoville;;-0.673135;49.11219
+14581_0183_00128;128;;Rue Monseigneur Paysant;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.718358;49.122612
+14581_0175_00070;70;;Rue Jacques Brunet;14240;14581;Aurseulles;Saint-Germain-d'Ectot;;-0.715047;49.122572

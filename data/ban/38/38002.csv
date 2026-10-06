@@ -1,0 +1,564 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+38002_0008_03601;3601;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.97003;45.257955
+38002_0015_00068;68;;Rue de la Boucle;38190;38002;Les Adrets;;Les Blettières;5.975311;45.267455
+38002_0017_00049;49;;Rue du Cardelet;38190;38002;Les Adrets;;Le Village;5.965056;45.271977
+38002_0014_02085;2085;;Route des Blettières;38190;38002;Les Adrets;;La Pitrouse;5.980233;45.266902
+38002_0010_00103;103;;Impasse de la Scia;38190;38002;Les Adrets;;Villard Bernard;5.977553;45.274019
+38002_0008_03500;3500;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.968583;45.258409
+38002_0045_01115;1115;;Route du Balcon;38190;38002;Les Adrets;;;5.97813;45.261716
+38002_0045_01258;1258;;Route du Balcon;38190;38002;Les Adrets;;Le Poutaz;5.979164;45.26367
+38002_0045_02748;2748;;Route du Balcon;38190;38002;Les Adrets;;;5.984944;45.272642
+38002_0047_00131;131;;Impasse le Pré;38190;38002;Les Adrets;;;5.966588;45.272085
+38002_0045_00692;692;;Route du Balcon;38190;38002;Les Adrets;;;5.977248;45.25848
+38002_0041_00191;191;;Impasse Montcharvet Haut;38190;38002;Les Adrets;;;5.964484;45.273364
+38002_0007_00171;171;;Route de la Planta;38190;38002;Les Adrets;;La Planta;5.960732;45.26678
+38002_0048_00011;11;;Chemin de Rodesse;38190;38002;Les Adrets;;Rodesse;5.962501;45.27087
+38002_0044_00150;150;;Impasse du Ruisseau;38190;38002;Les Adrets;;Le Ruisseau;5.967256;45.269255
+38002_0042_00095;95;;Impasse de Chazay;38190;38002;Les Adrets;;;5.964876;45.274193
+38002_0005_00060;60;;Impasse du Balcon;38190;38002;Les Adrets;;;5.96395;45.27298
+38002_0016_07181;7181;;Route des 7 Laux;38190;38002;Les Adrets;;Le Lanat;5.981017;45.272345
+38002_0009_00794;794;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.983441;45.274444
+38002_0016_06865;6865;;Route des 7 Laux;38190;38002;Les Adrets;;Villard Bernard;5.975545;45.272813
+38002_0034_00182;182;;Impasse des Granges;38190;38002;Les Adrets;;Prapoutel;5.998225;45.256613
+38002_0012_00064;64;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.975409;45.273588
+38002_0024_00142;142;;Chemin de Champlan;38190;38002;Les Adrets;;Champlan;5.983655;45.272604
+38002_0012_00163;163;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.973937;45.273685
+38002_0024_00034;34;;Chemin de Champlan;38190;38002;Les Adrets;;Champlan;5.983364;45.271449
+38002_0027_00197;197;;Impasse du Col des Ayes;38190;38002;Les Adrets;;Col des Ayes;5.985764;45.272846
+38002_0017_00122;122;;Rue du Cardelet;38190;38002;Les Adrets;;Le Village;5.966076;45.271513
+38002_0008_02195;2195;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.965288;45.263782
+38002_0047_00194;194;;Impasse le Pré;38190;38002;Les Adrets;;;5.965719;45.272436
+38002_0008_03540;3540;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.969112;45.258218
+38002_0044_00055;55;;Impasse du Ruisseau;38190;38002;Les Adrets;;Le Pivot;5.966707;45.269761
+38002_0030_05805;5805;;Route de Prapouta;38190;38002;Les Adrets;;Prapoutel;5.995049;45.256751
+38002_0021_00170;170;;Impasse des Fournelles;38190;38002;Les Adrets;;Les Fournelles;5.975147;45.263275
+38002_0045_00725;725;;Route du Balcon;38190;38002;Les Adrets;;;5.976795;45.258757
+38002_0002_00240;240;;Impasse de l’Ardoisière;38190;38002;Les Adrets;;Prapoutel;5.992819;45.253373
+38002_0044_00152;152;;Impasse du Ruisseau;38190;38002;Les Adrets;;Le Ruisseau;5.967179;45.269197
+38002_0007_00776;776;;Route de la Planta;38190;38002;Les Adrets;;La Planta;5.955827;45.267132
+38002_0045_02985;2985;;Route du Balcon;38190;38002;Les Adrets;;;5.984586;45.274639
+38002_0041_00234;234;;Impasse Montcharvet Haut;38190;38002;Les Adrets;;;5.963504;45.273427
+38002_0012_00112;112;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.974598;45.273955
+38002_0015_00034;34;;Rue de la Boucle;38190;38002;Les Adrets;;Les Blettières;5.975343;45.267139
+38002_0009_00834;834;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.983815;45.274343
+38002_0030_05869;5869;;Route de Prapouta;38190;38002;Les Adrets;;Prapoutel;5.993882;45.256609
+38002_0047_00155;155;;Impasse le Pré;38190;38002;Les Adrets;;;5.966013;45.272215
+38002_0045_01262;1262;;Route du Balcon;38190;38002;Les Adrets;;Le Poutaz;5.97891;45.264702
+38002_0010_00025;25;;Impasse de la Scia;38190;38002;Les Adrets;;Villard Bernard;5.977986;45.273931
+38002_0022_00045;45;;Chemin du Col de la Croix;38190;38002;Les Adrets;;Le Village;5.967385;45.271642
+38002_0009_00664;664;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.981975;45.274449
+38002_0008_01779;1779;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.967361;45.263893
+38002_0015_00171;171;;Rue de la Boucle;38190;38002;Les Adrets;;Les Blettières;5.975825;45.268088
+38002_0008_00384;384;;Route des Envers;38190;38002;Les Adrets;;Le Ruisseau;5.968743;45.269014
+38002_0029_00011;11;;Impasse de la Biga et Mouret;38190;38002;Les Adrets;;Le Lanat;5.9798;45.272685
+38002_0010_00092;92;;Impasse de la Scia;38190;38002;Les Adrets;;Villard Bernard;5.977958;45.27431
+38002_0016_05965;5965;;Route des 7 Laux;38190;38002;Les Adrets;;;5.964591;45.272855
+38002_0027_00028;28;;Impasse du Col des Ayes;38190;38002;Les Adrets;;Col des Ayes;5.985141;45.273832
+38002_0016_05536;5536;;Route des 7 Laux;38190;38002;Les Adrets;;Le Village;5.964268;45.271405
+38002_0048_00524;524;;Chemin de Rodesse;38190;38002;Les Adrets;;Rodesse;5.957212;45.271807
+38002_0030_05865;5865;;Route de Prapouta;38190;38002;Les Adrets;;Prapoutel;5.99399;45.256554
+38002_0030_00049;49;;Route de Prapouta;38190;38002;Les Adrets;;Prapoutel;5.987837;45.273868
+38002_0044_00138;138;;Impasse du Ruisseau;38190;38002;Les Adrets;;Le Ruisseau;5.966863;45.269378
+38002_0045_03011;3011;;Route du Balcon;38190;38002;Les Adrets;;;5.985349;45.274186
+38002_0012_00245;245;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.972643;45.273814
+38002_0045_01348;1348;;Route du Balcon;38190;38002;Les Adrets;;Le Poutaz;5.978748;45.264057
+38002_0024_00208;208;;Chemin de Champlan;38190;38002;Les Adrets;;Champlan;5.98302;45.273128
+38002_0035_00040;40;;Allée des Terrasses;38190;38002;Les Adrets;;Prapoutel;5.995569;45.256682
+38002_0007_00565;565;;Route de la Planta;38190;38002;Les Adrets;;La Planta;5.95609;45.266034
+38002_0015_00125;125;;Rue de la Boucle;38190;38002;Les Adrets;;Les Blettières;5.975091;45.267927
+38002_0020_00108;108;;Chemin des Bruns;38190;38002;Les Adrets;;Le Village;5.964218;45.272044
+38002_0016_07268;7268;;Route des 7 Laux;38190;38002;Les Adrets;;Le Lanat;5.980386;45.271616
+38002_0006_00055;55;;Rue des Alpets;38190;38002;Les Adrets;;Les Alpets;5.959596;45.266526
+38002_0008_01584;1584;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.965348;45.264967
+38002_0030_05875;5875;;Route de Prapouta;38190;38002;Les Adrets;;Prapoutel;5.993717;45.256619
+38002_0016_05664;5664;;Route des 7 Laux;38190;38002;Les Adrets;;;5.963018;45.272252
+38002_0025_00122;122;;Impasse du Vieux Moulin;38190;38002;Les Adrets;;Villard Château;5.98267;45.269303
+38002_0016_07334;7334;;Route des 7 Laux;38190;38002;Les Adrets;;Le Lanat;5.980799;45.271188
+38002_0023_00099;99;;Impasse de Gada;38190;38002;Les Adrets;;;5.968545;45.270593
+38002_0014_01458;1458;;Route des Blettières;38190;38002;Les Adrets;;Les Blettières;5.976695;45.267121
+38002_0045_02526;2526;;Route du Balcon;38190;38002;Les Adrets;;Villard Château;5.983561;45.270846
+38002_0020_00068;68;;Chemin des Bruns;38190;38002;Les Adrets;;Le Village;5.963882;45.272078
+38002_0046_00196;196;;Impasse du Poutaz;38190;38002;Les Adrets;;Le Poutaz;5.979815;45.263812
+38002_0035_00020;20;;Allée des Terrasses;38190;38002;Les Adrets;;Prapoutel;5.995791;45.256705
+38002_0047_00026;26;;Impasse le Pré;38190;38002;Les Adrets;;;5.966134;45.272588
+38002_0008_00470;470;;Route des Envers;38190;38002;Les Adrets;;Le Ruisseau;5.967055;45.268257
+38002_0037_00215;215;;Chemin des Petits Loups;38190;38002;Les Adrets;;Prapoutel;5.995188;45.256035
+38002_0007_01011;1011;;Route de la Planta;38190;38002;Les Adrets;;La Planta;5.954486;45.267329
+38002_0009_00264;264;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.977345;45.273349
+38002_0024_00068;68;;Chemin de Champlan;38190;38002;Les Adrets;;Champlan;5.983407;45.27187
+38002_0014_01220;1220;;Route des Blettières;38190;38002;Les Adrets;;Les Blettières;5.975875;45.266458
+38002_0029_00150;150;;Impasse de la Biga et Mouret;38190;38002;Les Adrets;;Le Lanat;5.979202;45.273143
+38002_0034_00224;224;;Impasse des Granges;38190;38002;Les Adrets;;Prapoutel;5.998554;45.256846
+38002_0003_00180;180;;Rue des Ramayes;38190;38002;Les Adrets;;Prapoutel;5.993191;45.251072
+38002_0002_00260;260;;Impasse de l’Ardoisière;38190;38002;Les Adrets;;Prapoutel;5.992723;45.253072
+38002_0012_00365;365;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.971383;45.274004
+38002_0044_00205;205;;Impasse du Ruisseau;38190;38002;Les Adrets;;Le Ruisseau;5.968092;45.268851
+38002_0020_00035;35;;Chemin des Bruns;38190;38002;Les Adrets;;Le Village;5.964063;45.272229
+38002_0045_01256;1256;;Route du Balcon;38190;38002;Les Adrets;;Le Poutaz;5.979066;45.263381
+38002_0005_00120;120;;Impasse du Balcon;38190;38002;Les Adrets;;;5.962947;45.27288
+38002_0048_01436;1436;;Chemin de Rodesse;38190;38002;Les Adrets;;Rodesse;5.947539;45.274764
+38002_0001_00110;110;;Chemin des Mûres;38190;38002;Les Adrets;;Villard Château;5.984427;45.270621
+38002_0008_02415;2415;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.967274;45.262537
+38002_0008_02404;2404;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.966219;45.262642
+38002_0007_00765;765;;Route de la Planta;38190;38002;Les Adrets;;La Planta;5.954498;45.266754
+38002_0008_00386;386;;Route des Envers;38190;38002;Les Adrets;;Le Ruisseau;5.968534;45.268955
+38002_0008_01088;1088;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.961255;45.266463
+38002_0016_07345;7345;;Route des 7 Laux;38190;38002;Les Adrets;;Le Lanat;5.981394;45.271547
+38002_0025_00126;126;;Impasse du Vieux Moulin;38190;38002;Les Adrets;;Villard Château;5.982758;45.269274
+38002_0020_00060;60;;Chemin des Bruns;38190;38002;Les Adrets;;Le Village;5.963596;45.27205
+38002_0008_03396;3396;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.967953;45.259109
+38002_0045_00606;606;;Route du Balcon;38190;38002;Les Adrets;;;5.977663;45.258377
+38002_0045_02660;2660;;Route du Balcon;38190;38002;Les Adrets;;;5.984522;45.272036
+38002_0008_03405;3405;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.968184;45.259325
+38002_0002_00181;181;;Impasse de l’Ardoisière;38190;38002;Les Adrets;;Prapoutel;5.993345;45.254014
+38002_0005_00022;22;;Impasse du Balcon;38190;38002;Les Adrets;;;5.964217;45.273015
+38002_0015_00157;157;;Rue de la Boucle;38190;38002;Les Adrets;;Les Blettières;5.976084;45.268598
+38002_0019_00209;209;;Rue du Chavon d’Ava;38190;38002;Les Adrets;;Le Village;5.963511;45.271463
+38002_0016_05470;5470;;Route des 7 Laux;38190;38002;Les Adrets;;Le Village;5.965101;45.271083
+38002_0016_07330;7330;;Route des 7 Laux;38190;38002;Les Adrets;;Le Lanat;5.980904;45.271273
+38002_0003_00300;300;;Rue des Ramayes;38190;38002;Les Adrets;;Prapoutel;5.992535;45.251839
+38002_0026_00074;74;;Rue des Fours;38190;38002;Les Adrets;;Villard Château;5.982742;45.270137
+38002_0015_00153;153;;Rue de la Boucle;38190;38002;Les Adrets;;Les Blettières;5.97516;45.268623
+38002_0012_00149;149;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.974349;45.273484
+38002_0024_00033;33;;Chemin de Champlan;38190;38002;Les Adrets;;Champlan;5.982566;45.271687
+38002_0046_00086;86;;Impasse du Poutaz;38190;38002;Les Adrets;;Le Poutaz;5.97923;45.262522
+38002_0021_00051;51;;Impasse des Fournelles;38190;38002;Les Adrets;;Les Fournelles;5.976422;45.264299
+38002_0008_01791;1791;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.966536;45.264144
+38002_0012_00124;124;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.974429;45.273792
+38002_0016_05155;5155;;Route des 7 Laux;38190;38002;Les Adrets;;Le Pivot;5.967115;45.270004
+38002_0008_02980;2980;;Route des Envers;38190;38002;Les Adrets;;L'Envers;5.96787;45.260943
+38002_0015_00130;130;;Rue de la Boucle;38190;38002;Les Adrets;;Les Blettières;5.975515;45.267919
+38002_0010_00235;235;;Impasse de la Scia;38190;38002;Les Adrets;;Villard Bernard;5.975961;45.274463
+38002_0045_01225;1225;;Route du Balcon;38190;38002;Les Adrets;;Le Poutaz;5.978539;45.263099
+38002_0001_00125;125;;Chemin des Mûres;38190;38002;Les Adrets;;Villard Château;5.984091;45.270774
+38002_0009_00829;829;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.98392;45.274671
+38002_0019_00124;124;;Rue du Chavon d’Ava;38190;38002;Les Adrets;;Le Village;5.963227;45.271201
+38002_hu8aj0_07179;7179;;Route des 7 Laux;38190;38002;Les Adrets;;Le Lanat;5.980644;45.272422
+38002_0030_05885;5885;;Route de Prapouta;38190;38002;Les Adrets;;Prapoutel;5.993673;45.256639
+38002_0016_07135;7135;;Route des 7 Laux;38190;38002;Les Adrets;;Le Lanat;5.979362;45.272723
+38002_0007_00129;129;;Route de la Planta;38190;38002;Les Adrets;;La Planta;5.961335;45.266843
+38002_0036_00046;46;;Impasse des Chamois;38190;38002;Les Adrets;;Prapoutel;5.99262;45.255995
+38002_0041_00115;115;;Impasse Montcharvet Haut;38190;38002;Les Adrets;;;5.965195;45.273388
+38002_0016_07266;7266;;Route des 7 Laux;38190;38002;Les Adrets;;Le Lanat;5.980347;45.271545
+38002_0016_07094;7094;;Route des 7 Laux;38190;38002;Les Adrets;;;5.978723;45.272539
+38002_0044_00080;80;;Impasse du Ruisseau;38190;38002;Les Adrets;;Le Ruisseau;5.966667;45.269144
+38002_0014_01460;1460;;Route des Blettières;38190;38002;Les Adrets;;Les Blettières;5.976746;45.267089
+38002_0017_00318;318;;Rue du Cardelet;38190;38002;Les Adrets;;Le Village;5.968552;45.271232
+38002_0016_07240;7240;;Route des 7 Laux;38190;38002;Les Adrets;;Le Lanat;5.980281;45.271783
+38002_0002_00425;425;;Impasse de l’Ardoisière;38190;38002;Les Adrets;;Prapoutel;5.993142;45.251939
+38002_0005_00078;78;;Impasse du Balcon;38190;38002;Les Adrets;;;5.963596;45.272945
+38002_0016_07300;7300;;Route des 7 Laux;38190;38002;Les Adrets;;Le Lanat;5.980581;45.271468
+38002_0016_05241;5241;;Route des 7 Laux;38190;38002;Les Adrets;;Le Pivot;5.966445;45.270388
+38002_0006_00335;335;;Rue des Alpets;38190;38002;Les Adrets;;Les Alpets;5.956534;45.265049
+38002_0018_00040;40;;Rue du Pont de Crapin;38190;38002;Les Adrets;;;5.964741;45.272051
+38002_0006_00131;131;;Rue des Alpets;38190;38002;Les Adrets;;Les Alpets;5.958914;45.266208
+38002_0017_00230;230;;Rue du Cardelet;38190;38002;Les Adrets;;Le Village;5.967219;45.271164
+38002_0009_00543;543;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.980284;45.274084
+38002_0008_03031;3031;;Route des Envers;38190;38002;Les Adrets;;L'Envers;5.967995;45.260534
+38002_0007_00520;520;;Route de la Planta;38190;38002;Les Adrets;;La Planta;5.956846;45.266417
+38002_0012_00155;155;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.974095;45.273475
+38002_0004_00780;780;;Chemin Nordique;38190;38002;Les Adrets;;Prapoutel;5.996372;45.245326
+38002_0024_00017;17;;Chemin de Champlan;38190;38002;Les Adrets;;Champlan;5.982993;45.271549
+38002_0016_07329;7329;;Route des 7 Laux;38190;38002;Les Adrets;;Le Lanat;5.981087;45.271761
+38002_0024_00035;35;;Chemin de Champlan;38190;38002;Les Adrets;;Champlan;5.982344;45.271764
+38002_0012_00151;151;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.974401;45.273353
+38002_0016_07096;7096;;Route des 7 Laux;38190;38002;Les Adrets;;;5.978859;45.27238
+38002_0016_05439;5439;;Route des 7 Laux;38190;38002;Les Adrets;;Le Village;5.964887;45.27085
+38002_0016_04170;4170;;Route des 7 Laux;38190;38002;Les Adrets;;;5.956871;45.270044
+38002_0046_00112;112;;Impasse du Poutaz;38190;38002;Les Adrets;;Le Poutaz;5.979526;45.262787
+38002_0017_00059;59;;Rue du Cardelet;38190;38002;Les Adrets;;Le Village;5.965345;45.271924
+38002_0009_00426;426;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.979269;45.273519
+38002_0016_07559;7559;;Route des 7 Laux;38190;38002;Les Adrets;;;5.982212;45.271591
+38002_0012_00260;260;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.973338;45.274086
+38002_0009_00827;827;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.983903;45.274598
+38002_0009_00764;764;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.983234;45.274521
+38002_0008_02172;2172;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.964368;45.264071
+38002_0026_00039;39;;Rue des Fours;38190;38002;Les Adrets;;Villard Château;5.982469;45.270419
+38002_0016_06670;6670;;Route des 7 Laux;38190;38002;Les Adrets;;Les Moillards;5.973781;45.272071
+38002_0016_04120;4120;;Route des 7 Laux;38190;38002;Les Adrets;;;5.956628;45.270098
+38002_0008_03625;3625;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.970519;45.257883
+38002_0035_00008;8;;Allée des Terrasses;38190;38002;Les Adrets;;Prapoutel;5.995848;45.256818
+38002_0009_00518;518;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.980618;45.273775
+38002_0019_00201;201;;Rue du Chavon d’Ava;38190;38002;Les Adrets;;Le Village;5.963349;45.271471
+38002_0026_00086;86;;Rue des Fours;38190;38002;Les Adrets;;Villard Château;5.982805;45.270306
+38002_0016_06805;6805;;Route des 7 Laux;38190;38002;Les Adrets;;Villard Bernard;5.974911;45.272635
+38002_0002_00475;475;;Impasse de l’Ardoisière;38190;38002;Les Adrets;;Prapoutel;5.993374;45.25131
+38002_0029_00076;76;;Impasse de la Biga et Mouret;38190;38002;Les Adrets;;Le Lanat;5.980369;45.273169
+38002_0009_00700;700;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.982704;45.27463
+38002_0019_00056;56;;Rue du Chavon d’Ava;38190;38002;Les Adrets;;Le Village;5.963921;45.271056
+38002_0008_03549;3549;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.969855;45.258343
+38002_0008_03135;3135;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.967768;45.25993
+38002_0014_01222;1222;;Route des Blettières;38190;38002;Les Adrets;;Les Blettières;5.976093;45.266991
+38002_0042_00059;59;;Impasse de Chazay;38190;38002;Les Adrets;;;5.965394;45.273799
+38002_0009_00398;398;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.978832;45.273446
+38002_0044_00094;94;;Impasse du Ruisseau;38190;38002;Les Adrets;;Le Ruisseau;5.966589;45.269486
+38002_0045_02900;2900;;Route du Balcon;38190;38002;Les Adrets;;;5.98459;45.274094
+38002_0016_05396;5396;;Route des 7 Laux;38190;38002;Les Adrets;;Le Village;5.965709;45.27095
+38002_0016_05571;5571;;Route des 7 Laux;38190;38002;Les Adrets;;Le Village;5.963781;45.271553
+38002_0016_05538;5538;;Route des 7 Laux;38190;38002;Les Adrets;;Le Village;5.96428;45.271454
+38002_0012_00145;145;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.974206;45.273615
+38002_0016_05540;5540;;Route des 7 Laux;38190;38002;Les Adrets;;Le Village;5.964404;45.27149
+38002_0045_01414;1414;;Route du Balcon;38190;38002;Les Adrets;;Le Poutaz;5.978699;45.265079
+38002_0016_06034;6034;;Route des 7 Laux;38190;38002;Les Adrets;;;5.965861;45.272594
+38002_0008_03450;3450;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.968199;45.258775
+38002_0008_02471;2471;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.968966;45.262618
+38002_0030_00450;450;;Route de Prapouta;38190;38002;Les Adrets;;Prapoutel;5.987801;45.2697
+38002_0018_00035;35;;Rue du Pont de Crapin;38190;38002;Les Adrets;;;5.964505;45.271934
+38002_0014_01816;1816;;Route des Blettières;38190;38002;Les Adrets;;;5.977798;45.264856
+38002_0045_01181;1181;;Route du Balcon;38190;38002;Les Adrets;;;5.978419;45.262511
+38002_0014_01339;1339;;Route des Blettières;38190;38002;Les Adrets;;Les Blettières;5.977129;45.268531
+38002_0016_05425;5425;;Route des 7 Laux;38190;38002;Les Adrets;;Le Village;5.964999;45.270774
+38002_0047_00214;214;;Impasse le Pré;38190;38002;Les Adrets;;;5.965475;45.272463
+38002_0023_00050;50;;Impasse de Gada;38190;38002;Les Adrets;;;5.967783;45.2706
+38002_0016_05658;5658;;Route des 7 Laux;38190;38002;Les Adrets;;;5.96308;45.272296
+38002_0002_00153;153;;Impasse de l’Ardoisière;38190;38002;Les Adrets;;Prapoutel;5.992988;45.254797
+38002_0030_04525;4525;;Route de Prapouta;38190;38002;Les Adrets;;Prapoutel;5.997933;45.258699
+38002_0038_00216;216;;Impasse des Edelweiss;38190;38002;Les Adrets;;Prapoutel;5.993031;45.255219
+38002_0002_00304;304;;Impasse de l’Ardoisière;38190;38002;Les Adrets;;Prapoutel;5.992663;45.252462
+38002_0045_01264;1264;;Route du Balcon;38190;38002;Les Adrets;;Le Poutaz;5.979206;45.264983
+38002_0016_06971;6971;;Route des 7 Laux;38190;38002;Les Adrets;;;5.976831;45.273008
+38002_0008_01777;1777;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.967313;45.263651
+38002_0006_00290;290;;Rue des Alpets;38190;38002;Les Adrets;;Les Alpets;5.956789;45.265326
+38002_0016_06901;6901;;Route des 7 Laux;38190;38002;Les Adrets;;Les Barres;5.976336;45.272786
+38002_0041_00270;270;;Impasse Montcharvet Haut;38190;38002;Les Adrets;;;5.963274;45.273404
+38002_0009_00305;305;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.976003;45.273738
+38002_0016_06018;6018;;Route des 7 Laux;38190;38002;Les Adrets;;;5.965214;45.272679
+38002_0014_01112;1112;;Route des Blettières;38190;38002;Les Adrets;;Les Blettières;5.974445;45.266929
+38002_0045_01245;1245;;Route du Balcon;38190;38002;Les Adrets;;Le Poutaz;5.978155;45.263671
+38002_0045_00720;720;;Route du Balcon;38190;38002;Les Adrets;;;5.977475;45.258813
+38002_0048_00810;810;;Chemin de Rodesse;38190;38002;Les Adrets;;Rodesse;5.95365;45.272137
+38002_0008_02412;2412;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.966745;45.262162
+38002_0008_03379;3379;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.968494;45.259659
+38002_0030_05855;5855;;Route de Prapouta;38190;38002;Les Adrets;;Prapoutel;5.994099;45.256499
+38002_0045_02794;2794;;Route du Balcon;38190;38002;Les Adrets;;;5.984802;45.273183
+38002_0009_00301;301;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.977475;45.273714
+38002_0029_00124;124;;Impasse de la Biga et Mouret;38190;38002;Les Adrets;;Le Lanat;5.97959;45.273316
+38002_0028_00045;45;;Place de l’Église Saint André;38190;38002;Les Adrets;;Le Village;5.964461;45.271808
+38002_0008_02441;2441;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.967606;45.262472
+38002_0028_00055;55;;Place de l’Église Saint André;38190;38002;Les Adrets;;Le Village;5.964538;45.271812
+38002_0016_07395;7395;;Route des 7 Laux;38190;38002;Les Adrets;;Villard Château;5.981698;45.27112
+38002_0008_02458;2458;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.967216;45.262336
+38002_0024_00353;353;;Chemin de Champlan;38190;38002;Les Adrets;;Champlan;5.982498;45.274226
+38002_0014_01812;1812;;Route des Blettières;38190;38002;Les Adrets;;Les Fournelles;5.977196;45.264655
+38002_0017_00090;90;;Rue du Cardelet;38190;38002;Les Adrets;;Le Village;5.965668;45.271473
+38002_0007_00495;495;;Route de la Planta;38190;38002;Les Adrets;;La Planta;5.956604;45.265928
+38002_0005_00014;14;;Impasse du Balcon;38190;38002;Les Adrets;;;5.964581;45.273036
+38002_0045_00604;604;;Route du Balcon;38190;38002;Les Adrets;;;5.977997;45.257973
+38002_0040_00135;135;;Impasse Montcharvet Bas;38190;38002;Les Adrets;;;5.965462;45.273059
+38002_0014_01805;1805;;Route des Blettières;38190;38002;Les Adrets;;Les Fournelles;5.976731;45.26482
+38002_0026_00105;105;;Rue des Fours;38190;38002;Les Adrets;;Villard Château;5.982842;45.270479
+38002_0023_00063;63;;Impasse de Gada;38190;38002;Les Adrets;;;5.968175;45.270776
+38002_0030_05825;5825;;Route de Prapouta;38190;38002;Les Adrets;;Prapoutel;5.994701;45.256676
+38002_0014_01216;1216;;Route des Blettières;38190;38002;Les Adrets;;Les Blettières;5.975715;45.266823
+38002_0045_01765;1765;;Route du Balcon;38190;38002;Les Adrets;;;5.980518;45.267156
+38002_0015_00135;135;;Rue de la Boucle;38190;38002;Les Adrets;;Les Blettières;5.975342;45.268036
+38002_0030_05845;5845;;Route de Prapouta;38190;38002;Les Adrets;;Prapoutel;5.994278;45.256528
+38002_0034_00184;184;;Impasse des Granges;38190;38002;Les Adrets;;Prapoutel;5.998242;45.256717
+38002_0014_01337;1337;;Route des Blettières;38190;38002;Les Adrets;;Les Blettières;5.976743;45.268536
+38002_0041_00245;245;;Impasse Montcharvet Haut;38190;38002;Les Adrets;;;5.963866;45.273279
+38002_0016_07471;7471;;Route des 7 Laux;38190;38002;Les Adrets;;;5.982251;45.271364
+38002_0006_00194;194;;Rue des Alpets;38190;38002;Les Adrets;;Les Alpets;5.957806;45.265802
+38002_0016_04124;4124;;Route des 7 Laux;38190;38002;Les Adrets;;Champ Bouquet;5.956682;45.270119
+38002_0034_00240;240;;Impasse des Granges;38190;38002;Les Adrets;;Prapoutel;5.998996;45.256848
+38002_0014_01804;1804;;Route des Blettières;38190;38002;Les Adrets;;Les Fournelles;5.97679;45.264248
+38002_0046_00096;96;;Impasse du Poutaz;38190;38002;Les Adrets;;Le Poutaz;5.97932;45.262725
+38002_0010_00105;105;;Impasse de la Scia;38190;38002;Les Adrets;;Villard Bernard;5.976991;45.274125
+38002_0016_05621;5621;;Route des 7 Laux;38190;38002;Les Adrets;;Le Village;5.963184;45.271843
+38002_0024_00008;8;;Chemin de Champlan;38190;38002;Les Adrets;;Champlan;5.983343;45.271239
+38002_0008_03014;3014;;Route des Envers;38190;38002;Les Adrets;;L'Envers;5.96768;45.260738
+38002_0001_00184;184;;Chemin des Mûres;38190;38002;Les Adrets;;Villard Château;5.984751;45.27136
+38002_0045_00800;800;;Route du Balcon;38190;38002;Les Adrets;;;5.978129;45.259461
+38002_0009_00204;204;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.976265;45.273384
+38002_0012_00081;81;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.974786;45.27353
+38002_0036_00090;90;;Impasse des Chamois;38190;38002;Les Adrets;;Prapoutel;5.992789;45.256287
+38002_0009_00574;574;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.981129;45.274069
+38002_0016_07310;7310;;Route des 7 Laux;38190;38002;Les Adrets;;Le Lanat;5.980643;45.271314
+38002_0025_00077;77;;Impasse du Vieux Moulin;38190;38002;Les Adrets;;Villard Château;5.982506;45.269643
+38002_0015_00078;78;;Rue de la Boucle;38190;38002;Les Adrets;;Les Blettières;5.975261;45.267562
+38002_0016_05615;5615;;Route des 7 Laux;38190;38002;Les Adrets;;Le Village;5.963372;45.271693
+38002_0018_00074;74;;Rue du Pont de Crapin;38190;38002;Les Adrets;;;5.964483;45.272273
+38002_0001_00116;116;;Chemin des Mûres;38190;38002;Les Adrets;;Villard Château;5.984803;45.270583
+38002_0016_05908;5908;;Route des 7 Laux;38190;38002;Les Adrets;;;5.963972;45.272528
+38002_0009_00719;719;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.982293;45.27503
+38002_0011_00052;52;;Impasse de Pré Moury;38190;38002;Les Adrets;;Les Prés Communaux;5.978931;45.274576
+38002_0034_00315;315;;Impasse des Granges;38190;38002;Les Adrets;;Prapoutel;5.999497;45.256626
+38002_0048_00015;15;;Chemin de Rodesse;38190;38002;Les Adrets;;Rodesse;5.962333;45.271061
+38002_0008_01905;1905;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.965325;45.264105
+38002_0014_01314;1314;;Route des Blettières;38190;38002;Les Adrets;;Les Blettières;5.976919;45.267624
+38002_0046_00178;178;;Impasse du Poutaz;38190;38002;Les Adrets;;Le Poutaz;5.980067;45.263563
+38002_0016_06725;6725;;Route des 7 Laux;38190;38002;Les Adrets;;Les Moillards;5.974315;45.272408
+38002_0008_03002;3002;;Route des Envers;38190;38002;Les Adrets;;L'Envers;5.967214;45.260951
+38002_0044_00203;203;;Impasse du Ruisseau;38190;38002;Les Adrets;;Le Ruisseau;5.967924;45.268925
+38002_0007_00497;497;;Route de la Planta;38190;38002;Les Adrets;;La Planta;5.95673;45.265683
+38002_0045_01496;1496;;Route du Balcon;38190;38002;Les Adrets;;Le Poutaz;5.978958;45.26554
+38002_0001_00135;135;;Chemin des Mûres;38190;38002;Les Adrets;;Villard Château;5.984094;45.270956
+38002_0008_03322;3322;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.967497;45.259316
+38002_0002_00279;279;;Impasse de l’Ardoisière;38190;38002;Les Adrets;;Prapoutel;5.993152;45.253185
+38002_0045_00664;664;;Route du Balcon;38190;38002;Les Adrets;;;5.977149;45.258202
+38002_0036_00124;124;;Impasse des Chamois;38190;38002;Les Adrets;;Prapoutel;5.993231;45.256428
+38002_0009_00560;560;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.980838;45.273903
+38002_0045_00776;776;;Route du Balcon;38190;38002;Les Adrets;;;5.978046;45.259083
+38002_0012_00404;404;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.973108;45.274344
+38002_0045_02774;2774;;Route du Balcon;38190;38002;Les Adrets;;;5.984981;45.272919
+38002_0024_00056;56;;Chemin de Champlan;38190;38002;Les Adrets;;Champlan;5.98361;45.271583
+38002_0016_06950;6950;;Route des 7 Laux;38190;38002;Les Adrets;;;5.97819;45.272482
+38002_0035_00010;10;;Allée des Terrasses;38190;38002;Les Adrets;;Prapoutel;5.99575;45.256792
+38002_0048_00056;56;;Chemin de Rodesse;38190;38002;Les Adrets;;Rodesse;5.961904;45.271756
+38002_0017_00215;215;;Rue du Cardelet;38190;38002;Les Adrets;;Le Village;5.967156;45.271305
+38002_0041_00067;67;;Impasse Montcharvet Haut;38190;38002;Les Adrets;;;5.965967;45.273353
+38002_0016_07185;7185;;Route des 7 Laux;38190;38002;Les Adrets;;Le Lanat;5.981468;45.272679
+38002_0016_07348;7348;;Route des 7 Laux;38190;38002;Les Adrets;;Villard Château;5.981231;45.270451
+38002_0045_00600;600;;Route du Balcon;38190;38002;Les Adrets;;;5.977023;45.257757
+38002_0016_05235;5235;;Route des 7 Laux;38190;38002;Les Adrets;;Le Pivot;5.96683;45.270172
+38002_0048_01375;1375;;Chemin de Rodesse;38190;38002;Les Adrets;;Rodesse;5.948012;45.274332
+38002_0008_02410;2410;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.966701;45.261844
+38002_0045_01405;1405;;Route du Balcon;38190;38002;Les Adrets;;Le Poutaz;5.977994;45.264384
+38002_0008_02563;2563;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.969362;45.262426
+38002_0008_03682;3682;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.969134;45.257449
+38002_0016_07451;7451;;Route des 7 Laux;38190;38002;Les Adrets;;;5.982298;45.27112
+38002_0045_00602;602;;Route du Balcon;38190;38002;Les Adrets;;;5.977401;45.257884
+38002_0008_02566;2566;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.968109;45.261685
+38002_0015_00098;98;;Rue de la Boucle;38190;38002;Les Adrets;;Les Blettières;5.975257;45.267732
+38002_0045_02834;2834;;Route du Balcon;38190;38002;Les Adrets;;;5.98535;45.273206
+38002_0045_01268;1268;;Route du Balcon;38190;38002;Les Adrets;;Le Poutaz;5.978638;45.263731
+38002_0026_00110;110;;Rue des Fours;38190;38002;Les Adrets;;Villard Château;5.98289;45.270355
+38002_0014_01335;1335;;Route des Blettières;38190;38002;Les Adrets;;Les Blettières;5.976921;45.268273
+38002_0034_00361;361;;Impasse des Granges;38190;38002;Les Adrets;;Prapoutel;5.999757;45.256351
+38002_0017_00240;240;;Rue du Cardelet;38190;38002;Les Adrets;;Le Village;5.967452;45.2711
+38002_0017_00196;196;;Rue du Cardelet;38190;38002;Les Adrets;;Le Village;5.966951;45.271267
+38002_0015_00065;65;;Rue de la Boucle;38190;38002;Les Adrets;;Les Blettières;5.975096;45.267409
+38002_0016_05414;5414;;Route des 7 Laux;38190;38002;Les Adrets;;Le Village;5.965354;45.270805
+38002_0010_00230;230;;Impasse de la Scia;38190;38002;Les Adrets;;Villard Bernard;5.976421;45.274876
+38002_0024_00141;141;;Chemin de Champlan;38190;38002;Les Adrets;;Champlan;5.982797;45.272438
+38002_0010_00138;138;;Impasse de la Scia;38190;38002;Les Adrets;;Villard Bernard;5.977586;45.274321
+38002_0008_01428;1428;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.964358;45.265402
+38002_0046_00164;164;;Impasse du Poutaz;38190;38002;Les Adrets;;Le Poutaz;5.979684;45.263281
+38002_0025_00084;84;;Impasse du Vieux Moulin;38190;38002;Les Adrets;;Villard Château;5.981947;45.269456
+38002_0017_00015;15;;Rue du Cardelet;38190;38002;Les Adrets;;Le Village;5.964701;45.271817
+38002_0035_00030;30;;Allée des Terrasses;38190;38002;Les Adrets;;Prapoutel;5.995531;45.256751
+38002_0013_00042;42;;Impasse des Breyes;38190;38002;Les Adrets;;Villard Bernard;5.975391;45.273952
+38002_0015_00085;85;;Rue de la Boucle;38190;38002;Les Adrets;;Les Blettières;5.97502;45.267544
+38002_0015_00209;209;;Rue de la Boucle;38190;38002;Les Adrets;;Les Blettières;5.976271;45.267985
+38002_0041_00072;72;;Impasse Montcharvet Haut;38190;38002;Les Adrets;;;5.965829;45.273529
+38002_0029_00074;74;;Impasse de la Biga et Mouret;38190;38002;Les Adrets;;Le Lanat;5.980455;45.272839
+38002_0019_00045;45;;Rue du Chavon d’Ava;38190;38002;Les Adrets;;Le Village;5.964103;45.270915
+38002_0011_00050;50;;Impasse de Pré Moury;38190;38002;Les Adrets;;Les Prés Communaux;5.978112;45.27476
+38002_0020_00105;105;;Chemin des Bruns;38190;38002;Les Adrets;;Le Village;5.964291;45.272182
+38002_0001_00188;188;;Chemin des Mûres;38190;38002;Les Adrets;;Villard Château;5.984504;45.271453
+38002_0019_00175;175;;Rue du Chavon d’Ava;38190;38002;Les Adrets;;Le Village;5.962971;45.271404
+38002_0048_01411;1411;;Chemin de Rodesse;38190;38002;Les Adrets;;Rodesse;5.94755;45.274612
+38002_0028_00050;50;;Place de l’Église Saint André;38190;38002;Les Adrets;;Le Village;5.964724;45.271557
+38002_0008_03684;3684;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.969337;45.257333
+38002_0010_00233;233;;Impasse de la Scia;38190;38002;Les Adrets;;Villard Bernard;5.976241;45.274432
+38002_0025_00019;19;;Impasse du Vieux Moulin;38190;38002;Les Adrets;;Villard Château;5.982193;45.26999
+38002_0016_05604;5604;;Route des 7 Laux;38190;38002;Les Adrets;;Le Village;5.963696;45.271742
+38002_0029_00094;94;;Impasse de la Biga et Mouret;38190;38002;Les Adrets;;Le Lanat;5.979903;45.273254
+38002_0011_00032;32;;Impasse de Pré Moury;38190;38002;Les Adrets;;Les Prés Communaux;5.977379;45.274505
+38002_0009_00246;246;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.976863;45.273349
+38002_0008_03572;3572;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.969408;45.257968
+38002_0012_00085;85;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.974773;45.273229
+38002_0016_05449;5449;;Route des 7 Laux;38190;38002;Les Adrets;;Le Village;5.964694;45.270956
+38002_0023_00022;22;;Impasse de Gada;38190;38002;Les Adrets;;;5.967599;45.270951
+38002_0034_00345;345;;Impasse des Granges;38190;38002;Les Adrets;;Prapoutel;5.999316;45.25648
+38002_0016_05422;5422;;Route des 7 Laux;38190;38002;Les Adrets;;Le Village;5.965386;45.270884
+38002_0016_07121;7121;;Route des 7 Laux;38190;38002;Les Adrets;;Les Moillards;5.979128;45.272959
+38002_0017_00225;225;;Rue du Cardelet;38190;38002;Les Adrets;;Le Village;5.967206;45.271334
+38002_0026_00064;64;;Rue des Fours;38190;38002;Les Adrets;;Villard Château;5.982756;45.269885
+38002_0019_00246;246;;Rue du Chavon d’Ava;38190;38002;Les Adrets;;Le Village;5.963981;45.271359
+38002_0050_00491;491;;Chemin de la Scia;38190;38002;Les Adrets;;Les Prés Communaux;5.983884;45.275947
+38002_0030_00452;452;;Route de Prapouta;38190;38002;Les Adrets;;Prapoutel;5.986929;45.270405
+38002_0012_00205;205;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.973572;45.273741
+38002_0012_00009;9;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.976109;45.273083
+38002_0016_07092;7092;;Route des 7 Laux;38190;38002;Les Adrets;;;5.97875;45.272597
+38002_0016_06910;6910;;Route des 7 Laux;38190;38002;Les Adrets;;Les Barres;5.976555;45.271415
+38002_0040_00155;155;;Impasse Montcharvet Bas;38190;38002;Les Adrets;;;5.965122;45.273134
+38002_0005_00094;94;;Impasse du Balcon;38190;38002;Les Adrets;;;5.963325;45.272893
+38002_0018_00120;120;;Rue du Pont de Crapin;38190;38002;Les Adrets;;;5.964941;45.27244
+38002_0047_00127;127;;Impasse le Pré;38190;38002;Les Adrets;;;5.966835;45.272136
+38002_0027_00213;213;;Impasse du Col des Ayes;38190;38002;Les Adrets;;Col des Ayes;5.985542;45.272724
+38002_0016_06886;6886;;Route des 7 Laux;38190;38002;Les Adrets;;Les Barres;5.976005;45.271593
+38002_0002_00165;165;;Impasse de l’Ardoisière;38190;38002;Les Adrets;;Prapoutel;5.993161;45.254236
+38002_0006_00330;330;;Rue des Alpets;38190;38002;Les Adrets;;Les Alpets;5.956473;45.265225
+38002_0012_00083;83;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.974641;45.273366
+38002_0006_00169;169;;Rue des Alpets;38190;38002;Les Adrets;;Les Alpets;5.958186;45.265847
+38002_0045_02898;2898;;Route du Balcon;38190;38002;Les Adrets;;;5.984656;45.27406
+38002_0019_00080;80;;Rue du Chavon d’Ava;38190;38002;Les Adrets;;Le Village;5.963718;45.271083
+38002_0017_00057;57;;Rue du Cardelet;38190;38002;Les Adrets;;Le Village;5.965356;45.272003
+38002_0025_00014;14;;Impasse du Vieux Moulin;38190;38002;Les Adrets;;Villard Château;5.982216;45.270241
+38002_0006_00235;235;;Rue des Alpets;38190;38002;Les Adrets;;Les Alpets;5.957744;45.265605
+38002_0002_00355;355;;Impasse de l’Ardoisière;38190;38002;Les Adrets;;Prapoutel;5.993085;45.252544
+38002_0045_02860;2860;;Route du Balcon;38190;38002;Les Adrets;;;5.984714;45.27351
+38002_0008_02485;2485;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.968502;45.262388
+38002_0014_01351;1351;;Route des Blettières;38190;38002;Les Adrets;;Les Blettières;5.977512;45.268491
+38002_0009_00631;631;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.981254;45.27448
+38002_0024_00243;243;;Chemin de Champlan;38190;38002;Les Adrets;;Champlan;5.982895;45.273964
+38002_0038_00220;220;;Impasse des Edelweiss;38190;38002;Les Adrets;;Prapoutel;5.993201;45.255724
+38002_0012_00104;104;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.974853;45.273772
+38002_0045_01247;1247;;Route du Balcon;38190;38002;Les Adrets;;Le Poutaz;5.977917;45.263917
+38002_0014_01341;1341;;Route des Blettières;38190;38002;Les Adrets;;Les Blettières;5.977272;45.26861
+38002_0008_01882;1882;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.964979;45.264766
+38002_0017_00172;172;;Rue du Cardelet;38190;38002;Les Adrets;;Le Village;5.966663;45.271359
+38002_0014_02083;2083;;Route des Blettières;38190;38002;Les Adrets;;La Pitrouse;5.979797;45.26673
+38002_0044_00185;185;;Impasse du Ruisseau;38190;38002;Les Adrets;;Le Pivot;5.967714;45.269219
+38002_0028_00029;29;;Place de l’Église Saint André;38190;38002;Les Adrets;;Le Village;5.964157;45.271721
+38002_0014_01810;1810;;Route des Blettières;38190;38002;Les Adrets;;Les Fournelles;5.977308;45.264169
+38002_0053_00390;390;;Route forestière de Bédina;38190;38002;Les Adrets;;Prapoutel;5.995034;45.249976
+38002_0008_02484;2484;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.967607;45.262198
+38002_0002_00320;320;;Impasse de l’Ardoisière;38190;38002;Les Adrets;;Prapoutel;5.992576;45.252201
+38002_0005_00146;146;;Impasse du Balcon;38190;38002;Les Adrets;;;5.962675;45.272918
+38002_0010_00054;54;;Impasse de la Scia;38190;38002;Les Adrets;;Villard Bernard;5.978538;45.273958
+38002_0048_00019;19;;Chemin de Rodesse;38190;38002;Les Adrets;;Rodesse;5.962551;45.27129
+38002_0015_00188;188;;Rue de la Boucle;38190;38002;Les Adrets;;Les Blettières;5.975835;45.267948
+38002_0009_00460;460;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.980091;45.273503
+38002_0009_00727;727;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.982609;45.275075
+38002_0021_00158;158;;Impasse des Fournelles;38190;38002;Les Adrets;;Les Fournelles;5.975369;45.263464
+38002_0008_01616;1616;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.965683;45.264904
+38002_0008_03686;3686;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.969395;45.257161
+38002_0038_00218;218;;Impasse des Edelweiss;38190;38002;Les Adrets;;Prapoutel;5.993058;45.255456
+38002_0019_00235;235;;Rue du Chavon d’Ava;38190;38002;Les Adrets;;Le Village;5.963805;45.27146
+38002_0026_00051;51;;Rue des Fours;38190;38002;Les Adrets;;Villard Château;5.982383;45.270246
+38002_0015_00029;29;;Rue de la Boucle;38190;38002;Les Adrets;;Les Blettières;5.975002;45.267141
+38002_0008_03674;3674;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.969989;45.257493
+38002_0027_00138;138;;Impasse du Col des Ayes;38190;38002;Les Adrets;;Col des Ayes;5.985888;45.273214
+38002_0002_00155;155;;Impasse de l’Ardoisière;38190;38002;Les Adrets;;Prapoutel;5.993241;45.254652
+38002_0008_01880;1880;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.965456;45.264608
+38002_0006_00128;128;;Rue des Alpets;38190;38002;Les Adrets;;Les Alpets;5.95841;45.266255
+38002_0012_00401;401;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.97083;45.274191
+38002_0008_02844;2844;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.968869;45.261542
+38002_0029_00170;170;;Impasse de la Biga et Mouret;38190;38002;Les Adrets;;Le Lanat;5.978864;45.273204
+38002_0008_03375;3375;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.967951;45.259711
+38002_0037_00465;465;;Chemin des Petits Loups;38190;38002;Les Adrets;;Prapoutel;5.993943;45.254663
+38002_0009_00715;715;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.982104;45.274778
+38002_0008_01954;1954;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.964673;45.264821
+38002_0008_03407;3407;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.968437;45.259221
+38002_0045_00548;548;;Route du Balcon;38190;38002;Les Adrets;;;5.977913;45.25729
+38002_0007_00401;401;;Route de la Planta;38190;38002;Les Adrets;;La Planta;5.958092;45.266249
+38002_0020_00038;38;;Chemin des Bruns;38190;38002;Les Adrets;;Le Village;5.963331;45.272296
+38002_0016_06904;6904;;Route des 7 Laux;38190;38002;Les Adrets;;Les Barres;5.976419;45.271325
+38002_0013_00008;8;;Impasse des Breyes;38190;38002;Les Adrets;;Villard Bernard;5.97515;45.273775
+38002_0045_01353;1353;;Route du Balcon;38190;38002;Les Adrets;;Le Poutaz;5.97813;45.264172
+38002_0008_02174;2174;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.96456;45.263914
+38002_0023_00077;77;;Impasse de Gada;38190;38002;Les Adrets;;;5.968305;45.270718
+38002_0014_01329;1329;;Route des Blettières;38190;38002;Les Adrets;;Les Blettières;5.97674;45.268096
+38002_0027_00030;30;;Impasse du Col des Ayes;38190;38002;Les Adrets;;Col des Ayes;5.985374;45.273723
+38002_0019_00024;24;;Rue du Chavon d’Ava;38190;38002;Les Adrets;;Le Village;5.964044;45.271157
+38002_0009_00733;733;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.982871;45.274894
+38002_0014_00961;961;;Route des Blettières;38190;38002;Les Adrets;;Les Blettières;5.974545;45.268485
+38002_0028_00046;46;;Place de l’Église Saint André;38190;38002;Les Adrets;;Le Village;5.964658;45.271419
+38002_0027_00098;98;;Impasse du Col des Ayes;38190;38002;Les Adrets;;Col des Ayes;5.985819;45.273486
+38002_0017_00094;94;;Rue du Cardelet;38190;38002;Les Adrets;;Le Village;5.965741;45.271604
+38002_0008_02568;2568;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.968369;45.261934
+38002_0046_00115;115;;Impasse du Poutaz;38190;38002;Les Adrets;;Le Poutaz;5.979195;45.262859
+38002_0028_00035;35;;Place de l’Église Saint André;38190;38002;Les Adrets;;Le Village;5.964307;45.271777
+38002_0042_00075;75;;Impasse de Chazay;38190;38002;Les Adrets;;;5.965114;45.273896
+38002_0046_00175;175;;Impasse du Poutaz;38190;38002;Les Adrets;;Le Poutaz;5.979322;45.264002
+38002_0009_00760;760;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.982984;45.274439
+38002_0010_00056;56;;Impasse de la Scia;38190;38002;Les Adrets;;Villard Bernard;5.978563;45.274251
+38002_0028_00044;44;;Place de l’Église Saint André;38190;38002;Les Adrets;;Le Village;5.964513;45.271434
+38002_0016_07342;7342;;Route des 7 Laux;38190;38002;Les Adrets;;Villard Château;5.980596;45.270936
+38002_0002_00335;335;;Impasse de l’Ardoisière;38190;38002;Les Adrets;;Prapoutel;5.993137;45.252818
+38002_0045_01354;1354;;Route du Balcon;38190;38002;Les Adrets;;Le Poutaz;5.978602;45.264471
+38002_0012_00341;341;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.971523;45.273862
+38002_0009_00818;818;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.983569;45.27421
+38002_0007_00763;763;;Route de la Planta;38190;38002;Les Adrets;;La Planta;5.95494;45.266667
+38002_0012_00143;143;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.974442;45.273669
+38002_0016_04710;4710;;Route des 7 Laux;38190;38002;Les Adrets;;;5.965796;45.2697
+38002_0020_00058;58;;Chemin des Bruns;38190;38002;Les Adrets;;Le Village;5.96355;45.272113
+38002_0008_01878;1878;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.965639;45.264544
+38002_0013_00071;71;;Impasse des Breyes;38190;38002;Les Adrets;;Villard Bernard;5.976043;45.274119
+38002_0014_01429;1429;;Route des Blettières;38190;38002;Les Adrets;;Les Blettières;5.977311;45.267282
+38002_0012_00110;110;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.974795;45.274049
+38002_0041_00159;159;;Impasse Montcharvet Haut;38190;38002;Les Adrets;;;5.964823;45.273453
+38002_0013_00040;40;;Impasse des Breyes;38190;38002;Les Adrets;;Villard Bernard;5.975276;45.27389
+38002_0008_02408;2408;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.966211;45.262258
+38002_0016_05608;5608;;Route des 7 Laux;38190;38002;Les Adrets;;;5.963493;45.271969
+38002_0002_00385;385;;Impasse de l’Ardoisière;38190;38002;Les Adrets;;Prapoutel;5.993094;45.252226
+38002_0012_00268;268;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.972554;45.274131
+38002_0016_07146;7146;;Route des 7 Laux;38190;38002;Les Adrets;;Le Lanat;5.979167;45.272115
+38002_0045_00612;612;;Route du Balcon;38190;38002;Les Adrets;;;5.976868;45.258045
+38002_0008_01521;1521;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.96541;45.26547
+38002_0044_00154;154;;Impasse du Ruisseau;38190;38002;Les Adrets;;Le Ruisseau;5.96724;45.269158
+38002_0011_00251;251;;Impasse de Pré Moury;38190;38002;Les Adrets;;Les Prés Communaux;5.978978;45.275018
+38002_0016_07242;7242;;Route des 7 Laux;38190;38002;Les Adrets;;Le Lanat;5.980213;45.271714
+38002_0026_00070;70;;Rue des Fours;38190;38002;Les Adrets;;Villard Château;5.982834;45.269952
+38002_0045_01020;1020;;Route du Balcon;38190;38002;Les Adrets;;;5.978556;45.261389
+38002_0011_00052_bis;52;bis;Impasse de Pré Moury;38190;38002;Les Adrets;;Villard Bernard;5.978884;45.274622
+38002_0009_00813;813;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.983547;45.274628
+38002_0014_01818;1818;;Route des Blettières;38190;38002;Les Adrets;;;5.977598;45.264982
+38002_0018_00101;101;;Rue du Pont de Crapin;38190;38002;Les Adrets;;;5.964464;45.272518
+38002_0045_01251;1251;;Route du Balcon;38190;38002;Les Adrets;;Le Poutaz;5.977821;45.26424
+38002_0008_01128;1128;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.960973;45.266346
+38002_0015_00105;105;;Rue de la Boucle;38190;38002;Les Adrets;;Les Blettières;5.975054;45.267737
+38002_0050_00493;493;;Chemin de la Scia;38190;38002;Les Adrets;;Les Prés Communaux;5.984258;45.275887
+38002_0016_07075;7075;;Route des 7 Laux;38190;38002;Les Adrets;;Les Mettins;5.97854;45.273
+38002_0009_00520;520;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.980599;45.273852
+38002_0008_01544;1544;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.964799;45.265242
+38002_0025_00020;20;;Impasse du Vieux Moulin;38190;38002;Les Adrets;;Villard Château;5.982093;45.270135
+38002_0015_00189;189;;Rue de la Boucle;38190;38002;Les Adrets;;Les Blettières;5.976108;45.268059
+38002_0006_00138;138;;Rue des Alpets;38190;38002;Les Adrets;;Les Alpets;5.958273;45.266119
+38002_0040_00091;91;;Impasse Montcharvet Bas;38190;38002;Les Adrets;;;5.965906;45.273068
+38002_0029_00109;109;;Impasse de la Biga et Mouret;38190;38002;Les Adrets;;Le Lanat;5.979767;45.27292
+38002_0024_00060;60;;Chemin de Champlan;38190;38002;Les Adrets;;Champlan;5.983897;45.271781
+38002_0014_01814;1814;;Route des Blettières;38190;38002;Les Adrets;;Les Fournelles;5.977599;45.264562
+38002_0016_07144;7144;;Route des 7 Laux;38190;38002;Les Adrets;;Le Lanat;5.979459;45.272309
+38002_0016_05490;5490;;Route des 7 Laux;38190;38002;Les Adrets;;Le Village;5.964607;45.271162
+38002_0002_00221;221;;Impasse de l’Ardoisière;38190;38002;Les Adrets;;Prapoutel;5.993236;45.253625
+38002_0041_00205;205;;Impasse Montcharvet Haut;38190;38002;Les Adrets;;;5.964201;45.273333
+38002_0024_00015;15;;Chemin de Champlan;38190;38002;Les Adrets;;Champlan;5.983049;45.271505
+38002_0019_00200;200;;Rue du Chavon d’Ava;38190;38002;Les Adrets;;Le Village;5.963513;45.271317
+38002_0045_00729;729;;Route du Balcon;38190;38002;Les Adrets;;;5.976478;45.258591
+38002_0016_07452;7452;;Route des 7 Laux;38190;38002;Les Adrets;;Villard Château;5.981422;45.270385
+38002_0048_01405;1405;;Chemin de Rodesse;38190;38002;Les Adrets;;Rodesse;5.947709;45.274438
+38002_0008_02406;2406;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.965948;45.262347
+38002_0041_00104;104;;Impasse Montcharvet Haut;38190;38002;Les Adrets;;;5.965484;45.273572
+38002_0012_00031;31;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.975689;45.273361
+38002_0018_00056;56;;Rue du Pont de Crapin;38190;38002;Les Adrets;;;5.964549;45.27216
+38002_0008_02108;2108;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.964018;45.264183
+38002_0015_00155;155;;Rue de la Boucle;38190;38002;Les Adrets;;Les Blettières;5.975711;45.268634
+38002_0019_00250;250;;Rue du Chavon d’Ava;38190;38002;Les Adrets;;Le Village;5.963992;45.27132
+38002_0047_00044;44;;Impasse le Pré;38190;38002;Les Adrets;;;5.966367;45.272509
+38002_0045_00594;594;;Route du Balcon;38190;38002;Les Adrets;;;5.976592;45.257647
+38002_0001_00054;54;;Chemin des Mûres;38190;38002;Les Adrets;;Villard Château;5.983828;45.270554
+38002_0030_05835;5835;;Route de Prapouta;38190;38002;Les Adrets;;Prapoutel;5.994442;45.256631
+38002_0023_00079;79;;Impasse de Gada;38190;38002;Les Adrets;;;5.968351;45.270669
+38002_0008_02500;2500;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.968185;45.262123
+38002_0008_02580;2580;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.96881;45.262064
+38002_0008_03039;3039;;Route des Envers;38190;38002;Les Adrets;;L'Envers;5.967524;45.26032
+38002_0008_01773;1773;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.96774;45.263655
+38002_0014_00945;945;;Route des Blettières;38190;38002;Les Adrets;;Les Blettières;5.973931;45.268431
+38002_0017_00241;241;;Rue du Cardelet;38190;38002;Les Adrets;;Le Village;5.967442;45.271259
+38002_0013_00079;79;;Impasse des Breyes;38190;38002;Les Adrets;;Villard Bernard;5.976482;45.274161
+38002_0044_00169;169;;Impasse du Ruisseau;38190;38002;Les Adrets;;Le Pivot;5.967202;45.269551
+38002_0009_00340;340;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.978133;45.273338
+38002_0019_00127;127;;Rue du Chavon d’Ava;38190;38002;Les Adrets;;Le Village;5.963097;45.271114
+38002_0045_02836;2836;;Route du Balcon;38190;38002;Les Adrets;;;5.985479;45.273011
+38002_0014_01205;1205;;Route des Blettières;38190;38002;Les Adrets;;Les Blettières;5.975605;45.267223
+38002_0009_00458;458;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.979782;45.273532
+38002_0016_06672;6672;;Route des 7 Laux;38190;38002;Les Adrets;;Les Moillards;5.974163;45.272046
+38002_0013_00074;74;;Impasse des Breyes;38190;38002;Les Adrets;;Villard Bernard;5.97635;45.273934
+38002_0017_00183;183;;Rue du Cardelet;38190;38002;Les Adrets;;Le Village;5.966794;45.271479
+38002_0019_00104;104;;Rue du Chavon d’Ava;38190;38002;Les Adrets;;Le Village;5.963477;45.271147
+38002_0008_02564;2564;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.96752;45.261813
+38002_0045_01123;1123;;Route du Balcon;38190;38002;Les Adrets;;;5.978029;45.261975
+38002_0045_01243;1243;;Route du Balcon;38190;38002;Les Adrets;;Le Poutaz;5.978207;45.263436
+38002_0009_00662;662;;Route des Prés Communaux;38190;38002;Les Adrets;;Les Prés Communaux;5.981947;45.274395
+38002_0034_00244;244;;Impasse des Granges;38190;38002;Les Adrets;;Prapoutel;5.998574;45.256509
+38002_0045_00860;860;;Route du Balcon;38190;38002;Les Adrets;;;5.97862;45.259729
+38002_0047_00209;209;;Impasse le Pré;38190;38002;Les Adrets;;;5.96527;45.272296
+38002_0008_02447;2447;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.967789;45.262482
+38002_0017_00035;35;;Rue du Cardelet;38190;38002;Les Adrets;;Le Village;5.965094;45.271782
+38002_0016_07238;7238;;Route des 7 Laux;38190;38002;Les Adrets;;Le Lanat;5.980207;45.271865
+38002_0026_00021;21;;Rue des Fours;38190;38002;Les Adrets;;Villard Château;5.982678;45.270614
+38002_0012_00041;41;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.975442;45.273455
+38002_0047_00145;145;;Impasse le Pré;38190;38002;Les Adrets;;;5.96632;45.272172
+38002_0012_00176;176;;Chemin des Traversières;38190;38002;Les Adrets;;Villard Bernard;5.973735;45.273814
+38002_0003_00290;290;;Rue des Ramayes;38190;38002;Les Adrets;;Prapoutel;5.992674;45.251683
+38002_0030_05815;5815;;Route de Prapouta;38190;38002;Les Adrets;;Prapoutel;5.994868;45.256704
+38002_0010_00042;42;;Impasse de la Scia;38190;38002;Les Adrets;;Villard Bernard;5.978787;45.273922
+38002_0008_03430;3430;;Route des Envers;38190;38002;Les Adrets;;Les Comptes;5.96824;45.259128
+38002_0040_00071;71;;Impasse Montcharvet Bas;38190;38002;Les Adrets;;;5.96618;45.273075
+38002_0010_00090;90;;Impasse de la Scia;38190;38002;Les Adrets;;Villard Bernard;5.978076;45.274178
+38002_0008_01775;1775;;Route des Envers;38190;38002;Les Adrets;;Les Avons;5.967527;45.263651
+38002_0002_00300;300;;Impasse de l’Ardoisière;38190;38002;Les Adrets;;Prapoutel;5.992669;45.252507
+38002_0017_00061;61;;Rue du Cardelet;38190;38002;Les Adrets;;Le Village;5.965984;45.271823
+38002_0016_07236;7236;;Route des 7 Laux;38190;38002;Les Adrets;;Le Lanat;5.980117;45.271989

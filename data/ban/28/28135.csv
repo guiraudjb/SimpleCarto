@@ -1,0 +1,572 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+28135_0015_00029;29;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.707887;48.598514
+28135_0020_00104;104;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.690899;48.605153
+28135_a003_00019;19;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.694682;48.60225
+28135_0037_00001;1;;Ruelle de la Fontaine Saint Fort;28230;28135;Droue-sur-Drouette;;;1.702196;48.601216
+28135_0040_00008;8;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.68773;48.605496
+28135_0020_00111;111;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.689252;48.607421
+28135_0020_00117;117;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.687731;48.608034
+28135_0090_00005;5;;Rue Planche Pierrette;28230;28135;Droue-sur-Drouette;;;1.700481;48.611011
+28135_0015_00002;2;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.702554;48.600044
+28135_0047_00013;13;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.698838;48.600607
+28135_0085_00010;10;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.700323;48.60139
+28135_0105_00008;8;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.687214;48.609436
+28135_0023_00390;390;;Rue Denis Menager;28230;28135;Droue-sur-Drouette;;;1.695314;48.593138
+28135_0085_00010_bis;10;bis;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.700327;48.601387
+28135_0047_00018;18;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.698954;48.600927
+28135_0105_00007;7;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.687545;48.610003
+28135_0050_00001_bis;1;bis;Route des Clos D Houdreville;28230;28135;Droue-sur-Drouette;;;1.698123;48.593775
+28135_0085_00040;40;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.694772;48.602936
+28135_0015_00009;9;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.703112;48.599647
+28135_a003_00034;34;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.694944;48.601127
+28135_0015_00006;6;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.702867;48.599625
+28135_0085_00041;41;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.694199;48.603004
+28135_0085_00061;61;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.690963;48.604275
+28135_0060_00005;5;;Rue du Louveau;28230;28135;Droue-sur-Drouette;;;1.693925;48.612412
+28135_0072_00014;14;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.701677;48.608405
+28135_0085_00001;1;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.7015;48.600765
+28135_0022_00003_ter;3;ter;Rue de la Croix de Droue;28230;28135;Droue-sur-Drouette;;;1.701565;48.598884
+28135_a002_00005;5;;Résidence les Chênes;28230;28135;Droue-sur-Drouette;;;1.703886;48.605251
+28135_0078_00001_a;1;a;Rue du Moulin de Louvet;28230;28135;Droue-sur-Drouette;;;1.692368;48.604419
+28135_0085_00020;20;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.69879;48.602046
+28135_0080_00011_ter;11;ter;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.702171;48.605706
+28135_0072_00008;8;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.70385;48.608009
+28135_0112_00005;5;;Rue de la Sapiniere;28230;28135;Droue-sur-Drouette;;;1.707795;48.611224
+28135_0085_00050;50;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.693511;48.603461
+28135_0020_00124;124;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.686271;48.608751
+28135_0015_00027_bis;27;bis;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.70763;48.598571
+28135_0080_00021;21;;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.700542;48.60715
+28135_0068_00002_c;2;c;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.707127;48.611082
+28135_0060_00024;24;;Rue du Louveau;28230;28135;Droue-sur-Drouette;;;1.695126;48.612477
+28135_0015_00020_bis;20;bis;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.708082;48.598347
+28135_a004_00012;12;;Résidence des Roches Brunes;28230;28135;Droue-sur-Drouette;;;1.697516;48.601064
+28135_0078_00002;2;;Rue du Moulin de Louvet;28230;28135;Droue-sur-Drouette;;;1.69322;48.603634
+28135_0015_00018_bis;18;bis;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.70699;48.598144
+28135_0015_00017;17;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.704158;48.59894
+28135_0085_00004;4;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.701373;48.600946
+28135_0085_00062;62;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.691001;48.604392
+28135_a003_00033;33;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.694685;48.601202
+28135_0015_00004;4;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.702695;48.599875
+28135_0020_00113_bis;113;bis;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.688601;48.607639
+28135_0085_00006;6;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.700978;48.601124
+28135_0072_00011;11;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.703588;48.60794
+28135_0075_00002;2;;Rue du Moulin;28230;28135;Droue-sur-Drouette;;;1.703383;48.601369
+28135_a001_00006;6;;Résidence des Pins;28230;28135;Droue-sur-Drouette;;;1.699114;48.607357
+28135_0080_00013;13;;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.701467;48.605899
+28135_0072_00015;15;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.702663;48.608066
+28135_0114_00005;5;;Chemin des Eglantiers;28230;28135;Droue-sur-Drouette;;;1.693656;48.602216
+28135_a004_00001;1;;Résidence des Roches Brunes;28230;28135;Droue-sur-Drouette;;;1.697566;48.600889
+28135_0075_00007;7;;Rue du Moulin;28230;28135;Droue-sur-Drouette;;;1.703385;48.601465
+28135_0060_00018;18;;Rue du Louveau;28230;28135;Droue-sur-Drouette;;;1.695312;48.612119
+28135_0068_00005;5;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.70617;48.610335
+28135_0065_00004;4;;Rue de la Mairie;28230;28135;Droue-sur-Drouette;;;1.702596;48.601154
+28135_0007_00003;3;;Impasse du Bassin;28230;28135;Droue-sur-Drouette;;;1.69279;48.593412
+28135_0072_00026_bis;26;bis;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.698464;48.609248
+28135_0085_00064;64;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.690865;48.604435
+28135_a003_00036;36;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.695545;48.601005
+28135_0105_00014;14;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.691433;48.611974
+28135_0020_00122;122;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.687181;48.608543
+28135_0040_00023;23;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.685656;48.606093
+28135_0047_00008;8;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.699419;48.60128
+28135_0068_00020;20;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.704197;48.609793
+28135_0040_00027;27;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.684569;48.606153
+28135_0047_00020;20;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.698661;48.600701
+28135_a003_00022;22;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.695271;48.601761
+28135_0007_00005;5;;Impasse du Bassin;28230;28135;Droue-sur-Drouette;;;1.692484;48.593045
+28135_0080_00017_bis;17;bis;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.700823;48.606635
+28135_0090_00009_a;9;a;Rue Planche Pierrette;28230;28135;Droue-sur-Drouette;;;1.699498;48.611383
+28135_0005_00001;1;;Impasse Alexandre Leboulanger;28230;28135;Droue-sur-Drouette;;;1.693231;48.594114
+28135_a003_00024;24;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.69596;48.601556
+28135_0022_00005;5;;Rue de la Croix de Droue;28230;28135;Droue-sur-Drouette;;;1.700949;48.59814
+28135_0085_00037;37;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.695047;48.602655
+28135_0015_00017_c;17;c;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.705143;48.599148
+28135_0072_00009_ter;9;ter;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.70382;48.607919
+28135_a003_00014;14;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.694083;48.601343
+28135_0015_00033;33;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.708499;48.598498
+28135_0017_00002;2;;Rue des Charrons;28230;28135;Droue-sur-Drouette;;;1.685987;48.606378
+28135_0015_00034;34;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.711131;48.597299
+28135_0065_00006;6;;Rue de la Mairie;28230;28135;Droue-sur-Drouette;;;1.702416;48.60092
+28135_0022_00008;8;;Rue de la Croix de Droue;28230;28135;Droue-sur-Drouette;;;1.701641;48.599434
+28135_0075_00008;8;;Rue du Moulin;28230;28135;Droue-sur-Drouette;;;1.705551;48.600416
+28135_0075_00005;5;;Rue du Moulin;28230;28135;Droue-sur-Drouette;;;1.703201;48.601526
+28135_0015_00021;21;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.705925;48.598487
+28135_a001_00001;1;;Résidence des Pins;28230;28135;Droue-sur-Drouette;;;1.699485;48.607415
+28135_0112_00011;11;;Rue de la Sapiniere;28230;28135;Droue-sur-Drouette;;;1.70939;48.611675
+28135_a002_00001;1;;Résidence les Chênes;28230;28135;Droue-sur-Drouette;;;1.703751;48.604999
+28135_0015_00019_ter;19;ter;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.705204;48.598695
+28135_0072_00012_bis;12;bis;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.702122;48.608308
+28135_a003_00016;16;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.694289;48.601641
+28135_0072_00009_bis;9;bis;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.703785;48.607858
+28135_0040_00025;25;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.685252;48.606192
+28135_0020_00106_e;106;e;Rue de Crochet;28230;28135;Droue-sur-Drouette;;Domaine de la Chapellerie;1.691154;48.606361
+28135_0068_00016;16;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.705041;48.609911
+28135_0040_00001;1;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.689933;48.604523
+28135_0047_00014;14;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.69891;48.601092
+28135_0082_00001;1;;Route d’Orphin;28230;28135;Droue-sur-Drouette;;;1.698355;48.594902
+28135_a001_00002;2;;Résidence des Pins;28230;28135;Droue-sur-Drouette;;;1.699675;48.607823
+28135_a003_00038;38;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.696176;48.601226
+28135_0072_00002_a;2;a;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.705855;48.607735
+28135_0080_00019_bis;19;bis;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.70056;48.60698
+28135_0023_00200;200;;Rue Denis Menager;28230;28135;Droue-sur-Drouette;;;1.693794;48.593735
+28135_0112_00013;13;;Rue de la Sapiniere;28230;28135;Droue-sur-Drouette;;;1.71107;48.611978
+28135_0010_00009;9;;Rue du Bois du Hameau;28230;28135;Droue-sur-Drouette;;;1.704599;48.609339
+28135_0078_00006;6;;Rue du Moulin de Louvet;28230;28135;Droue-sur-Drouette;;;1.692847;48.603833
+28135_0068_00002_b;2;b;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.706892;48.61095
+28135_0095_00003;3;;Chemin des Prés;28230;28135;Droue-sur-Drouette;;;1.70127;48.601534
+28135_0078_00005_bis;5;bis;Rue du Moulin de Louvet;28230;28135;Droue-sur-Drouette;;;1.691527;48.604995
+28135_m22la6_00002;2;;Route d’Houdreville;28230;28135;Droue-sur-Drouette;;;1.701436;48.599681
+28135_0068_00005_ter;5;ter;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.705717;48.610116
+28135_0020_00106_a;106;a;Rue de Crochet;28230;28135;Droue-sur-Drouette;;Domaine de la Chapellerie;1.691044;48.606633
+28135_0020_00106_b;106;b;Rue de Crochet;28230;28135;Droue-sur-Drouette;;Domaine de la Chapellerie;1.691454;48.606294
+28135_0015_00027;27;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.707047;48.598488
+28135_0040_00006;6;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.687987;48.605384
+28135_0020_00112;112;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.689501;48.607571
+28135_0075_00003;3;;Rue du Moulin;28230;28135;Droue-sur-Drouette;;;1.70306;48.601539
+28135_0016_00001;1;;Chemin des Charrettes;28230;28135;Droue-sur-Drouette;;;1.700053;48.597895
+28135_0090_00002;2;;Rue Planche Pierrette;28230;28135;Droue-sur-Drouette;;;1.701993;48.610281
+28135_0078_00007;7;;Rue du Moulin de Louvet;28230;28135;Droue-sur-Drouette;;;1.691258;48.605137
+28135_0020_00105;105;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.690708;48.605553
+28135_0047_00026;26;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.698732;48.600464
+28135_0080_00017;17;;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.70102;48.606392
+28135_0072_00003;3;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.704662;48.60777
+28135_0072_00029;29;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.697883;48.609167
+28135_0007_00004;4;;Impasse du Bassin;28230;28135;Droue-sur-Drouette;;;1.692902;48.593274
+28135_a004_00014;14;;Résidence des Roches Brunes;28230;28135;Droue-sur-Drouette;;;1.69713;48.601168
+28135_0085_00057;57;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.692061;48.603885
+28135_0040_00012;12;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.686822;48.605843
+28135_a002_00002;2;;Résidence les Chênes;28230;28135;Droue-sur-Drouette;;;1.70387;48.604949
+28135_0015_00039;39;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.70987;48.598267
+28135_0072_00024;24;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.69954;48.609036
+28135_0020_00114;114;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.68936;48.607605
+28135_0040_00009;9;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.688697;48.604961
+28135_m22la6_00003;3;;Route d’Houdreville;28230;28135;Droue-sur-Drouette;;;1.700978;48.599625
+28135_m22la6_00001;1;;Route d’Houdreville;28230;28135;Droue-sur-Drouette;;;1.700194;48.599402
+28135_0072_00002_c;2;c;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.705475;48.607772
+28135_0015_00011;11;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.703262;48.599326
+28135_0015_00005;5;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.702983;48.599857
+28135_0047_00005;5;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.699869;48.600915
+28135_0105_00012_bis;12;bis;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.688195;48.610112
+28135_0017_00001_bis;1;bis;Rue des Charrons;28230;28135;Droue-sur-Drouette;;;1.686392;48.607518
+28135_a004_00010_bis;10;bis;Résidence des Roches Brunes;28230;28135;Droue-sur-Drouette;;;1.697867;48.601176
+28135_0020_00103;103;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.690462;48.605106
+28135_0010_00004;4;;Rue du Bois du Hameau;28230;28135;Droue-sur-Drouette;;;1.706395;48.608594
+28135_0085_00045;45;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.693603;48.603286
+28135_0110_00004;4;;Rue de Saint Hilarion;28230;28135;Droue-sur-Drouette;;;1.705875;48.607146
+28135_0068_00026;26;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.702948;48.610006
+28135_a002_00014;14;;Résidence les Chênes;28230;28135;Droue-sur-Drouette;;;1.704489;48.606046
+28135_0085_00022;22;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.698659;48.602095
+28135_0020_00113;113;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.688883;48.607553
+28135_0060_00022;22;;Rue du Louveau;28230;28135;Droue-sur-Drouette;;;1.694656;48.612432
+28135_0085_00043;43;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.693794;48.603198
+28135_0065_00006;6;;Rue de la Mairie;28230;28135;Droue-sur-Drouette;;;1.702161;48.60091
+28135_0110_00002;2;;Rue de Saint Hilarion;28230;28135;Droue-sur-Drouette;;;1.704093;48.603294
+28135_0020_00120;120;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.687239;48.608481
+28135_0023_00500;500;;Rue Denis Menager;28230;28135;Droue-sur-Drouette;;;1.695932;48.593984
+28135_0080_00002;2;;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.701037;48.606044
+28135_0085_00035;35;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.695635;48.602478
+28135_a003_00015;15;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.694151;48.601484
+28135_0020_00103;103;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.690645;48.605074
+28135_0015_00047;47;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.711146;48.597733
+28135_0075_00001;1;;Rue du Moulin;28230;28135;Droue-sur-Drouette;;;1.702816;48.60156
+28135_0072_00012;12;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.702345;48.608252
+28135_0040_00031;31;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.684052;48.606089
+28135_0068_00014;14;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.70514;48.609949
+28135_0072_00002_b;2;b;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.705767;48.607742
+28135_0005_00002;2;;Impasse Alexandre Leboulanger;28230;28135;Droue-sur-Drouette;;;1.6918;48.594583
+28135_0076_00001;1;;Rue du Moulin d’Ameil;28230;28135;Droue-sur-Drouette;;;1.699524;48.611531
+28135_0010_00015;15;;Rue du Bois du Hameau;28230;28135;Droue-sur-Drouette;;;1.703597;48.609429
+28135_0020_00103;103;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.690462;48.605137
+28135_0114_00007;7;;Chemin des Eglantiers;28230;28135;Droue-sur-Drouette;;;1.693588;48.602181
+28135_a003_00009;9;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.695073;48.600953
+28135_0065_00004;4;;Rue de la Mairie;28230;28135;Droue-sur-Drouette;;;1.702542;48.601223
+28135_a002_00012;12;;Résidence les Chênes;28230;28135;Droue-sur-Drouette;;;1.704212;48.605773
+28135_0085_00052;52;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.693401;48.603543
+28135_0020_00119;119;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.68735;48.608273
+28135_0015_00016;16;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.704968;48.598618
+28135_0085_00036;36;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.695239;48.602735
+28135_0020_00103;103;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.690504;48.60518
+28135_0065_00005;5;;Rue de la Mairie;28230;28135;Droue-sur-Drouette;;;1.702261;48.600595
+28135_0078_00003;3;;Rue du Moulin de Louvet;28230;28135;Droue-sur-Drouette;;;1.691921;48.60479
+28135_0035_00800;800;;Avenue de l’Europe;28230;28135;Droue-sur-Drouette;;;1.689211;48.593355
+28135_0085_00026;26;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.69702;48.602309
+28135_0083_00001;1;;Chemin de la Palombe;28230;28135;Droue-sur-Drouette;;;1.695034;48.603813
+28135_0047_00002;2;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.70017;48.601065
+28135_0060_00028;28;;Rue du Louveau;28230;28135;Droue-sur-Drouette;;;1.69456;48.612632
+28135_0085_00016_bis;16;bis;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.699338;48.601802
+28135_0085_00046;46;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.693795;48.603334
+28135_0078_00004;4;;Rue du Moulin de Louvet;28230;28135;Droue-sur-Drouette;;;1.692986;48.603748
+28135_0050_00001_ter;1;ter;Route des Clos D Houdreville;28230;28135;Droue-sur-Drouette;;;1.698095;48.593708
+28135_0065_00006;6;;Rue de la Mairie;28230;28135;Droue-sur-Drouette;;;1.702383;48.600928
+28135_0015_00031;31;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.708196;48.598508
+28135_a001_00008;8;;Résidence des Pins;28230;28135;Droue-sur-Drouette;;;1.698911;48.607169
+28135_0090_00006;6;;Rue Planche Pierrette;28230;28135;Droue-sur-Drouette;;;1.701206;48.61079
+28135_0090_00007;7;;Rue Planche Pierrette;28230;28135;Droue-sur-Drouette;;;1.700439;48.611075
+28135_0068_00002_a;2;a;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.70726;48.611109
+28135_0085_00039;39;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.694302;48.6028
+28135_0040_00021;21;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.686;48.605981
+28135_0072_00007;7;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.704417;48.607816
+28135_0020_00106;106;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;Domaine de la Chapellerie;1.691357;48.606582
+28135_0080_00004;4;;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.700227;48.607247
+28135_0068_00022;22;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.7038;48.609863
+28135_0080_00023;23;;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.700173;48.607773
+28135_0015_00019;19;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.704555;48.598843
+28135_0072_00019_bis;19;bis;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.701513;48.608338
+28135_0085_00018;18;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.699279;48.601838
+28135_0085_00048;48;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.693682;48.603382
+28135_0080_00006;6;;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.699729;48.608415
+28135_0100_00002;2;;Rue des Roches;28230;28135;Droue-sur-Drouette;;;1.706367;48.600706
+28135_0040_00029;29;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.68429;48.606124
+28135_0068_00006;6;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.706409;48.610517
+28135_0075_00004;4;;Rue du Moulin;28230;28135;Droue-sur-Drouette;;;1.70414;48.601184
+28135_0080_00009_bis;9;bis;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.702089;48.605599
+28135_0072_00017;17;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.702229;48.608165
+28135_0040_00003;3;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.689809;48.604569
+28135_0023_00300;300;;Rue Denis Menager;28230;28135;Droue-sur-Drouette;;;1.694388;48.593774
+28135_0085_00012_bis;12;bis;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.699983;48.601589
+28135_0114_00003;3;;Chemin des Eglantiers;28230;28135;Droue-sur-Drouette;;;1.694121;48.602239
+28135_0072_00020_bis;20;bis;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.700198;48.608837
+28135_0020_00103;103;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.690489;48.605157
+28135_0023_00470;470;;Rue Denis Menager;28230;28135;Droue-sur-Drouette;;;1.696501;48.594249
+28135_0080_00008;8;;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.699719;48.608509
+28135_0072_00026;26;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.698909;48.609139
+28135_0090_00009;9;;Rue Planche Pierrette;28230;28135;Droue-sur-Drouette;;;1.699581;48.611406
+28135_a004_00008;8;;Résidence des Roches Brunes;28230;28135;Droue-sur-Drouette;;;1.698372;48.601344
+28135_0023_00445;445;;Rue Denis Menager;28230;28135;Droue-sur-Drouette;;;1.696599;48.593002
+28135_0015_00045;45;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.710874;48.597995
+28135_0078_00008;8;;Rue du Moulin de Louvet;28230;28135;Droue-sur-Drouette;;;1.692573;48.604347
+28135_0020_00121;121;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.686231;48.608609
+28135_a003_00029;29;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.695009;48.601705
+28135_0011_00400;400;;Rue des Bouleaux;28230;28135;Droue-sur-Drouette;;;1.689903;48.595372
+28135_0072_00028;28;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.698191;48.609286
+28135_0068_00030;30;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.702238;48.610211
+28135_0114_00011;11;;Chemin des Eglantiers;28230;28135;Droue-sur-Drouette;;;1.693448;48.602225
+28135_0047_00010;10;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.699236;48.601324
+28135_0080_00011;11;;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.701995;48.605647
+28135_a003_00010;10;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.694815;48.601006
+28135_0022_00012;12;;Rue de la Croix de Droue;28230;28135;Droue-sur-Drouette;;;1.700899;48.598433
+28135_0047_00024;24;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.698591;48.600561
+28135_0022_00003_bis;3;bis;Rue de la Croix de Droue;28230;28135;Droue-sur-Drouette;;;1.701716;48.599247
+28135_0020_00101;101;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.690499;48.604835
+28135_0023_00510;510;;Rue Denis Menager;28230;28135;Droue-sur-Drouette;;;1.695621;48.593851
+28135_a003_00011;11;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.694571;48.601083
+28135_0047_00015;15;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.699312;48.600456
+28135_0040_00014_bis;14;bis;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.686647;48.605908
+28135_0115_00002;2;;Rue de Sery;28230;28135;Droue-sur-Drouette;;;1.694752;48.613146
+28135_0090_00003;3;;Rue Planche Pierrette;28230;28135;Droue-sur-Drouette;;;1.700842;48.610845
+28135_0072_00016;16;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.701114;48.608554
+28135_0040_00019_bis;19;bis;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.686226;48.605905
+28135_0060_00012;12;;Rue du Louveau;28230;28135;Droue-sur-Drouette;;;1.696776;48.611959
+28135_0068_00001;1;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.706643;48.610548
+28135_0047_00022;22;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.698442;48.600656
+28135_0105_00014_bis;14;bis;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.692287;48.61223
+28135_0068_00010;10;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.7057;48.610215
+28135_0114_00019_d;19;d;Chemin des Eglantiers;28230;28135;Droue-sur-Drouette;;Lotissement des Églantiers;1.691459;48.6024
+28135_0060_00026;26;;Rue du Louveau;28230;28135;Droue-sur-Drouette;;;1.694798;48.612665
+28135_0015_00003;3;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.702708;48.600099
+28135_0040_00015;15;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.687092;48.605565
+28135_0078_00006_bis;6;bis;Rue du Moulin de Louvet;28230;28135;Droue-sur-Drouette;;;1.692661;48.604032
+28135_a002_00010;10;;Résidence les Chênes;28230;28135;Droue-sur-Drouette;;;1.704201;48.605701
+28135_0020_00107;107;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.690385;48.606768
+28135_0068_00005_bis;5;bis;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.705956;48.610254
+28135_0020_00108;108;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.689995;48.607281
+28135_a003_00032;32;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.694438;48.601251
+28135_0085_00060;60;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.691612;48.604185
+28135_a002_00007;7;;Résidence les Chênes;28230;28135;Droue-sur-Drouette;;;1.704036;48.605566
+28135_0020_00103;103;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.690506;48.605166
+28135_0085_00030;30;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.696306;48.602441
+28135_0112_00003;3;;Rue de la Sapiniere;28230;28135;Droue-sur-Drouette;;;1.707745;48.611204
+28135_0085_00056;56;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.692216;48.603968
+28135_0113_00002;2;;Chemin des Chataigniers;28230;28135;Droue-sur-Drouette;;;1.688415;48.610203
+28135_0075_00001_a;1;a;Rue du Moulin;28230;28135;Droue-sur-Drouette;;;1.702795;48.601549
+28135_0085_00002;2;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.701528;48.600875
+28135_0112_00001;1;;Rue de la Sapiniere;28230;28135;Droue-sur-Drouette;;;1.707699;48.611175
+28135_a004_00003;3;;Résidence des Roches Brunes;28230;28135;Droue-sur-Drouette;;;1.697188;48.601019
+28135_0023_00430;430;;Rue Denis Menager;28230;28135;Droue-sur-Drouette;;;1.696932;48.592667
+28135_0022_00004;4;;Rue de la Croix de Droue;28230;28135;Droue-sur-Drouette;;;1.70208;48.600302
+28135_0068_00020_bis;20;bis;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.704025;48.60982
+28135_a004_00010;10;;Résidence des Roches Brunes;28230;28135;Droue-sur-Drouette;;;1.698058;48.601073
+28135_0022_00002;2;;Rue de la Croix de Droue;28230;28135;Droue-sur-Drouette;;;1.702105;48.600383
+28135_0011_00405;405;;Rue des Bouleaux;28230;28135;Droue-sur-Drouette;;;1.690368;48.594941
+28135_0090_00011;11;;Rue Planche Pierrette;28230;28135;Droue-sur-Drouette;;;1.699475;48.611422
+28135_0105_00003;3;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.687;48.60894
+28135_0105_00017;17;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.690903;48.611953
+28135_0105_00006;6;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.68717;48.609127
+28135_0105_00001;1;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.686974;48.608725
+28135_a003_00026;26;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.695765;48.601457
+28135_0015_00015;15;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.703758;48.599042
+28135_0076_00002;2;;Rue du Moulin d’Ameil;28230;28135;Droue-sur-Drouette;;;1.699673;48.611485
+28135_0113_00001;1;;Chemin des Chataigniers;28230;28135;Droue-sur-Drouette;;;1.688804;48.610492
+28135_a002_00004;4;;Résidence les Chênes;28230;28135;Droue-sur-Drouette;;;1.703979;48.605125
+28135_0075_00006;6;;Rue du Moulin;28230;28135;Droue-sur-Drouette;;;1.704406;48.601054
+28135_0060_00030;30;;Rue du Louveau;28230;28135;Droue-sur-Drouette;;;1.694464;48.612467
+28135_0015_00030;30;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.710394;48.597582
+28135_0072_00021;21;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.701205;48.608413
+28135_0015_00019_b;19;b;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.705068;48.59885
+28135_a002_00006;6;;Résidence les Chênes;28230;28135;Droue-sur-Drouette;;;1.704014;48.605228
+28135_0020_00103;103;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.690514;48.605191
+28135_0060_00010;10;;Rue du Louveau;28230;28135;Droue-sur-Drouette;;;1.697155;48.611911
+28135_a003_00021;21;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.695024;48.601822
+28135_a003_00031;31;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.694406;48.601538
+28135_a003_00013;13;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.694205;48.601233
+28135_a003_00006;6;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.695838;48.600914
+28135_0090_00008;8;;Rue Planche Pierrette;28230;28135;Droue-sur-Drouette;;;1.700517;48.611122
+28135_0112_00015;15;;Rue de la Sapiniere;28230;28135;Droue-sur-Drouette;;;1.714309;48.612814
+28135_0007_00006;6;;Impasse du Bassin;28230;28135;Droue-sur-Drouette;;;1.692718;48.592823
+28135_0005_00006;6;;Impasse Alexandre Leboulanger;28230;28135;Droue-sur-Drouette;;;1.693384;48.594877
+28135_0113_00003;3;;Chemin des Chataigniers;28230;28135;Droue-sur-Drouette;;;1.689142;48.610622
+28135_0068_00004;4;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.70662;48.610615
+28135_0105_00004;4;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.687165;48.608909
+28135_0112_00007;7;;Rue de la Sapiniere;28230;28135;Droue-sur-Drouette;;;1.707855;48.611247
+28135_0095_00001;1;;Chemin des Prés;28230;28135;Droue-sur-Drouette;;;1.701022;48.601329
+28135_0020_00102;102;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.690634;48.604691
+28135_0114_00009;9;;Chemin des Eglantiers;28230;28135;Droue-sur-Drouette;;;1.693525;48.602197
+28135_0065_00002;2;;Rue de la Mairie;28230;28135;Droue-sur-Drouette;;;1.702755;48.601308
+28135_0047_00011;11;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.699036;48.600764
+28135_0047_00030;30;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.698846;48.600295
+28135_0015_00008;8;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.703264;48.599108
+28135_0047_00012;12;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.699124;48.601129
+28135_0085_00008_bis;8;bis;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.700449;48.601356
+28135_0105_00011;11;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.689995;48.611597
+28135_0017_00001;1;;Rue des Charrons;28230;28135;Droue-sur-Drouette;;;1.68665;48.608109
+28135_0085_00058;58;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.691932;48.604071
+28135_0022_00006;6;;Rue de la Croix de Droue;28230;28135;Droue-sur-Drouette;;;1.701987;48.600099
+28135_a002_00003;3;;Résidence les Chênes;28230;28135;Droue-sur-Drouette;;;1.70378;48.605066
+28135_0114_00001;1;;Chemin des Eglantiers;28230;28135;Droue-sur-Drouette;;;1.694233;48.602224
+28135_0040_00003_bis;3;bis;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.689705;48.604603
+28135_0110_00001;1;;Rue de Saint Hilarion;28230;28135;Droue-sur-Drouette;;;1.703689;48.602933
+28135_0085_00024;24;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.697434;48.602315
+28135_0085_00012;12;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.700225;48.60143
+28135_0015_00020;20;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.707182;48.598075
+28135_0105_00020;20;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.693754;48.612405
+28135_0040_00022;22;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.683636;48.606541
+28135_a002_00009;9;;Résidence les Chênes;28230;28135;Droue-sur-Drouette;;;1.704073;48.605681
+28135_0085_00038;38;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.695045;48.602816
+28135_0047_00001;1;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.700597;48.601049
+28135_0020_00103;103;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.690458;48.605127
+28135_0090_00010;10;;Rue Planche Pierrette;28230;28135;Droue-sur-Drouette;;;1.700139;48.611336
+28135_0068_00012;12;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.705385;48.610058
+28135_a004_00006;6;;Résidence des Roches Brunes;28230;28135;Droue-sur-Drouette;;;1.698194;48.601615
+28135_0100_00003;3;;Rue des Roches;28230;28135;Droue-sur-Drouette;;;1.710742;48.600475
+28135_0085_00054;54;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.692475;48.603882
+28135_0035_01200;1200;;Avenue de l’Europe;28230;28135;Droue-sur-Drouette;;;1.692769;48.595617
+28135_0016_00002;2;;Chemin des Charrettes;28230;28135;Droue-sur-Drouette;;;1.700372;48.597884
+28135_0065_00006;6;;Rue de la Mairie;28230;28135;Droue-sur-Drouette;;;1.702412;48.600917
+28135_a003_00002;2;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.696492;48.601459
+28135_a003_00035;35;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.695194;48.60105
+28135_0068_00018;18;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.704656;48.609761
+28135_a004_00004;4;;Résidence des Roches Brunes;28230;28135;Droue-sur-Drouette;;;1.698212;48.601689
+28135_0020_00106_c;106;c;Rue de Crochet;28230;28135;Droue-sur-Drouette;;Domaine de la Chapellerie;1.691788;48.60655
+28135_0040_00010;10;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.687396;48.605629
+28135_0068_00008_bis;8;bis;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.705967;48.610375
+28135_a003_00004;4;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.696321;48.601115
+28135_0023_00435;435;;Rue Denis Menager;28230;28135;Droue-sur-Drouette;;;1.697049;48.592778
+28135_a003_00023;23;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.695546;48.601672
+28135_0015_00024;24;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.708809;48.598314
+28135_a004_00005;5;;Résidence des Roches Brunes;28230;28135;Droue-sur-Drouette;;;1.697113;48.601043
+28135_0090_00009_b;9;b;Rue Planche Pierrette;28230;28135;Droue-sur-Drouette;;;1.699548;48.611386
+28135_0085_00007;7;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.699111;48.601704
+28135_0080_00015;15;;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.701194;48.606196
+28135_0085_00014;14;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.6998;48.601615
+28135_0072_00005;5;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.704679;48.607798
+28135_0047_00028;28;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.698775;48.600244
+28135_0017_00006;6;;Rue des Charrons;28230;28135;Droue-sur-Drouette;;;1.686698;48.60786
+28135_a003_00028;28;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.695262;48.60163
+28135_0065_00010_bis;10;bis;Rue de la Mairie;28230;28135;Droue-sur-Drouette;;;1.702092;48.60071
+28135_0065_00001_bis;1;bis;Rue de la Mairie;28230;28135;Droue-sur-Drouette;;;1.70336;48.601099
+28135_0015_00037;37;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.709194;48.598442
+28135_0085_00049;49;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.69318;48.603463
+28135_0020_00106_f;106;f;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.690649;48.60653
+28135_0110_00006;6;;Rue de Saint Hilarion;28230;28135;Droue-sur-Drouette;;;1.705977;48.607279
+28135_0072_00010_bis;10;bis;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.702641;48.608204
+28135_0020_00118;118;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.688295;48.607902
+28135_0022_00001;1;;Rue de la Croix de Droue;28230;28135;Droue-sur-Drouette;;;1.70213;48.600187
+28135_0100_00001;1;;Rue des Roches;28230;28135;Droue-sur-Drouette;;;1.708054;48.60062
+28135_0072_00006;6;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.704343;48.607956
+28135_0015_00017_d;17;d;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.705228;48.599119
+28135_0047_00006;6;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.699647;48.601187
+28135_0060_00008;8;;Rue du Louveau;28230;28135;Droue-sur-Drouette;;;1.697489;48.611856
+28135_0010_00011;11;;Rue du Bois du Hameau;28230;28135;Droue-sur-Drouette;;;1.704208;48.609369
+28135_0068_00003_bis;3;bis;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.706366;48.610425
+28135_0015_00028;28;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.709932;48.597341
+28135_0068_00024;24;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.703442;48.609925
+28135_0010_00005;5;;Rue du Bois du Hameau;28230;28135;Droue-sur-Drouette;;;1.705305;48.609301
+28135_0015_00035;35;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.708863;48.59847
+28135_0090_00009_c;9;c;Rue Planche Pierrette;28230;28135;Droue-sur-Drouette;;;1.699516;48.611372
+28135_0068_00002;2;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.706829;48.610725
+28135_0038_00002;2;;Sente des Fumiers;28230;28135;Droue-sur-Drouette;;;1.696575;48.601741
+28135_a001_00003;3;;Résidence des Pins;28230;28135;Droue-sur-Drouette;;;1.699309;48.607249
+28135_0105_00016;16;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.692822;48.612327
+28135_0007_00007;7;;Impasse du Bassin;28230;28135;Droue-sur-Drouette;;;1.692428;48.592812
+28135_0072_00018;18;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.700683;48.60868
+28135_0040_00013;13;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.687614;48.605382
+28135_0040_00017;17;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.686694;48.605746
+28135_0015_00010;10;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.703362;48.599049
+28135_0023_00460;460;;Rue Denis Menager;28230;28135;Droue-sur-Drouette;;;1.696822;48.593617
+28135_0040_00011;11;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.688238;48.60513
+28135_0072_00025;25;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.700206;48.60868
+28135_0068_00008;8;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.706206;48.610477
+28135_0085_00032_bis;32;bis;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.696004;48.602519
+28135_0114_00019_a;19;a;Chemin des Eglantiers;28230;28135;Droue-sur-Drouette;;Lotissement des Églantiers;1.692044;48.602143
+28135_0048_00003;3;;Chemin des Vignes;28230;28135;Droue-sur-Drouette;;;1.701864;48.598181
+28135_0080_00009;9;;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.702335;48.605506
+28135_0040_00016;16;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.684409;48.606268
+28135_0072_00023;23;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.700686;48.608545
+28135_0065_00003;3;;Rue de la Mairie;28230;28135;Droue-sur-Drouette;;;1.702542;48.600904
+28135_0072_00010;10;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.703152;48.608126
+28135_0078_00001;1;;Rue du Moulin de Louvet;28230;28135;Droue-sur-Drouette;;;1.692229;48.604604
+28135_0105_00005;5;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.687029;48.609276
+28135_0048_00005;5;;Chemin des Vignes;28230;28135;Droue-sur-Drouette;;;1.70208;48.5981
+28135_0023_00420;420;;Rue Denis Menager;28230;28135;Droue-sur-Drouette;;;1.696438;48.592751
+28135_0020_00106_g;106;g;Rue de Crochet;28230;28135;Droue-sur-Drouette;;Domaine de la Chapellerie;1.691742;48.60628
+28135_0075_00015;15;;Rue du Moulin;28230;28135;Droue-sur-Drouette;;;1.706418;48.600379
+28135_0105_00015;15;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.690716;48.611872
+28135_a003_00020;20;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.694762;48.601887
+28135_0060_00004;4;;Rue du Louveau;28230;28135;Droue-sur-Drouette;;;1.698406;48.611662
+28135_0072_00019;19;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.701789;48.608261
+28135_0065_00006;6;;Rue de la Mairie;28230;28135;Droue-sur-Drouette;;;1.702416;48.600919
+28135_0060_00006;6;;Rue du Louveau;28230;28135;Droue-sur-Drouette;;;1.697861;48.611781
+28135_0072_00027;27;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.698489;48.609064
+28135_0040_00014;14;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.686519;48.605946
+28135_0050_00001;1;;Route des Clos D Houdreville;28230;28135;Droue-sur-Drouette;;;1.69815;48.593857
+28135_0015_00007;7;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.703026;48.599801
+28135_0047_00003;3;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.700354;48.600903
+28135_0068_00007;7;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.705519;48.610015
+28135_0034_00001;1;;Chemin de l’Etang Neuf;28230;28135;Droue-sur-Drouette;;;1.708066;48.610448
+28135_0015_00019_a;19;a;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.70493;48.598871
+28135_0005_00003;3;;Impasse Alexandre Leboulanger;28230;28135;Droue-sur-Drouette;;;1.693428;48.594419
+28135_0075_00012;12;;Rue du Moulin;28230;28135;Droue-sur-Drouette;;;1.706634;48.600385
+28135_0040_00004;4;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.688492;48.605199
+28135_0015_00018;18;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.706423;48.598098
+28135_0085_00021;21;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.698138;48.602095
+28135_0047_00009;9;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.699443;48.601076
+28135_0085_00047;47;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.693372;48.603371
+28135_0020_00109;109;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.689656;48.60725
+28135_0040_00002_bis;2;bis;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.68952;48.604805
+28135_0023_00450;450;;Rue Denis Menager;28230;28135;Droue-sur-Drouette;;;1.696181;48.593215
+28135_0015_00013;13;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.703583;48.5991
+28135_0075_00009;9;;Rue du Moulin;28230;28135;Droue-sur-Drouette;;;1.703395;48.601458
+28135_0085_00034;34;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.695937;48.602541
+28135_0005_00004;4;;Impasse Alexandre Leboulanger;28230;28135;Droue-sur-Drouette;;;1.693057;48.594637
+28135_0080_00007_ter;7;ter;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.702484;48.605416
+28135_0065_00010;10;;Rue de la Mairie;28230;28135;Droue-sur-Drouette;;;1.702078;48.600764
+28135_0095_00004;4;;Chemin des Prés;28230;28135;Droue-sur-Drouette;;;1.701523;48.601598
+28135_0105_00012;12;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.687929;48.609985
+28135_0015_00025;25;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.706735;48.598515
+28135_0085_00022_bis;22;bis;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.69815;48.602288
+28135_0040_00005;5;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.689351;48.604734
+28135_0072_00025_ter;25;ter;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.698826;48.608967
+28135_0020_00110;110;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.689771;48.607384
+28135_0072_00027_bis;27;bis;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.698243;48.609128
+28135_0048_00001;1;;Chemin des Vignes;28230;28135;Droue-sur-Drouette;;;1.701506;48.598289
+28135_0015_00012;12;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.703646;48.598937
+28135_a003_00037;37;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.695917;48.601058
+28135_0022_00010;10;;Rue de la Croix de Droue;28230;28135;Droue-sur-Drouette;;;1.701378;48.598799
+28135_0040_00007;7;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.688959;48.604866
+28135_0090_00001;1;;Rue Planche Pierrette;28230;28135;Droue-sur-Drouette;;;1.701752;48.610261
+28135_0015_00024_bis;24;bis;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.709416;48.598085
+28135_0020_00102_bis;102;bis;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.690687;48.60479
+28135_0072_00020;20;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.70041;48.608779
+28135_0085_00044;44;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.69418;48.603191
+28135_0040_00013_bis;13;bis;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.68726;48.605516
+28135_0022_00014;14;;Rue de la Croix de Droue;28230;28135;Droue-sur-Drouette;;;1.700753;48.598227
+28135_0060_00016;16;;Rue du Louveau;28230;28135;Droue-sur-Drouette;;;1.695375;48.612097
+28135_0015_00017_e;17;e;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.705315;48.599112
+28135_0114_00013;13;;Chemin des Eglantiers;28230;28135;Droue-sur-Drouette;;;1.693321;48.602252
+28135_0015_00037_bis;37;bis;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.709451;48.598406
+28135_0072_00015_bis;15;bis;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.702362;48.608126
+28135_0010_00007;7;;Rue du Bois du Hameau;28230;28135;Droue-sur-Drouette;;;1.704928;48.609312
+28135_a001_00004;4;;Résidence des Pins;28230;28135;Droue-sur-Drouette;;;1.699579;48.607758
+28135_0015_00023;23;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.706382;48.598434
+28135_0085_00032;32;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.696071;48.602499
+28135_0015_00017_a;17;a;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.705042;48.59918
+28135_0085_00028;28;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.696691;48.602353
+28135_0015_00032;32;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.710922;48.597448
+28135_0085_00042;42;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.69456;48.603209
+28135_0114_00019_c;19;c;Chemin des Eglantiers;28230;28135;Droue-sur-Drouette;;Lotissement des Églantiers;1.691675;48.60232
+28135_0080_00007;7;;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.702801;48.605269
+28135_0015_00041;41;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.710156;48.598282
+28135_0075_00013;13;;Rue du Moulin;28230;28135;Droue-sur-Drouette;;;1.706061;48.600445
+28135_0085_00034_bis;34;bis;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.695863;48.602531
+28135_0114_00019_b;19;b;Chemin des Eglantiers;28230;28135;Droue-sur-Drouette;;Lotissement des Églantiers;1.691835;48.602211
+28135_0072_00013;13;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.703077;48.608013
+28135_a003_00017;17;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.694429;48.601783
+28135_m22la6_00005;5;;Route d’Houdreville;28230;28135;Droue-sur-Drouette;;;1.70107;48.599605
+28135_0065_00004;4;;Rue de la Mairie;28230;28135;Droue-sur-Drouette;;;1.702509;48.601148
+28135_0114_00015;15;;Chemin des Eglantiers;28230;28135;Droue-sur-Drouette;;;1.6933;48.602321
+28135_0105_00019;19;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.691186;48.612029
+28135_a004_00002;2;;Résidence des Roches Brunes;28230;28135;Droue-sur-Drouette;;;1.698743;48.601657
+28135_0020_00106_d;106;d;Rue de Crochet;28230;28135;Droue-sur-Drouette;;Domaine de la Chapellerie;1.690807;48.606411
+28135_0114_00017;17;;Chemin des Eglantiers;28230;28135;Droue-sur-Drouette;;;1.692788;48.602419
+28135_0023_00400;400;;Rue Denis Menager;28230;28135;Droue-sur-Drouette;;;1.695151;48.593457
+28135_0095_00005;5;;Chemin des Prés;28230;28135;Droue-sur-Drouette;;;1.701549;48.60174
+28135_0072_00002_d;2;d;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.705391;48.607778
+28135_0060_00020;20;;Rue du Louveau;28230;28135;Droue-sur-Drouette;;;1.695191;48.612148
+28135_a003_00005;5;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.696095;48.60099
+28135_0080_00011_bis;11;bis;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.702134;48.605639
+28135_a003_00030;30;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.694685;48.60176
+28135_0015_00001;1;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.702529;48.600264
+28135_a003_00007;7;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.695576;48.600906
+28135_0115_00001;1;;Rue de Sery;28230;28135;Droue-sur-Drouette;;;1.69498;48.613565
+28135_a002_00008;8;;Résidence les Chênes;28230;28135;Droue-sur-Drouette;;;1.704165;48.605501
+28135_0065_00001;1;;Rue de la Mairie;28230;28135;Droue-sur-Drouette;;;1.70304;48.601297
+28135_0007_00001;1;;Impasse du Bassin;28230;28135;Droue-sur-Drouette;;;1.692768;48.593899
+28135_a001_00005;5;;Résidence des Pins;28230;28135;Droue-sur-Drouette;;;1.699104;48.606967
+28135_0105_00010;10;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.687643;48.609797
+28135_0015_00043;43;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.710548;48.598156
+28135_0020_00103;103;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.690514;48.605207
+28135_0015_00028_bis;28;bis;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.710388;48.597169
+28135_a003_00008;8;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.695317;48.600908
+28135_0040_00033;33;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.683792;48.606033
+28135_0006_00002;2;;Chemin des Carrieres;28230;28135;Droue-sur-Drouette;;;1.7004;48.598836
+28135_0085_00063;63;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.690333;48.604418
+28135_0015_00017_bis;17;bis;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.704423;48.598875
+28135_0006_00004;4;;Chemin des Carrieres;28230;28135;Droue-sur-Drouette;;;1.70034;48.598862
+28135_0047_00004;4;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.699783;48.601086
+28135_0010_00013;13;;Rue du Bois du Hameau;28230;28135;Droue-sur-Drouette;;;1.703743;48.609419
+28135_0076_00004;4;;Rue du Moulin d’Ameil;28230;28135;Droue-sur-Drouette;;;1.700447;48.612374
+28135_0072_00009;9;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.704104;48.60786
+28135_0023_00440;440;;Rue Denis Menager;28230;28135;Droue-sur-Drouette;;;1.697006;48.592898
+28135_a003_00001;1;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.696468;48.601636
+28135_a003_00018;18;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.694417;48.602306
+28135_0047_00007;7;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.699661;48.601002
+28135_0123_00002;2;;Rue des Vanneaux;28230;28135;Droue-sur-Drouette;;;1.700128;48.600608
+28135_0085_00023;23;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.697515;48.602088
+28135_0015_00036;36;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.711338;48.597085
+28135_0015_00014;14;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.704414;48.598744
+28135_a003_00027;27;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.695506;48.601552
+28135_0040_00018;18;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.684194;48.606231
+28135_0020_00106_bis;106;bis;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.690595;48.60675
+28135_0085_00008;8;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.700629;48.601247
+28135_0072_00025_bis;25;bis;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.699339;48.608885
+28135_0060_00014;14;;Rue du Louveau;28230;28135;Droue-sur-Drouette;;;1.695432;48.612076
+28135_0095_00002;2;;Chemin des Prés;28230;28135;Droue-sur-Drouette;;;1.701342;48.601478
+28135_0068_00009;9;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.705348;48.609914
+28135_0080_00019;19;;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.700633;48.606872
+28135_0085_00051;51;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.69302;48.603518
+28135_0085_00016;16;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.699545;48.601719
+28135_0015_00019_c;19;c;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.705102;48.598866
+28135_0095_00006;6;;Chemin des Prés;28230;28135;Droue-sur-Drouette;;;1.701626;48.6017
+28135_0020_00116;116;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.688737;48.607735
+28135_a003_00003;3;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.696454;48.601276
+28135_0015_00022;22;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.708502;48.598341
+28135_a003_00012;12;;Residence des Acacias;28230;28135;Droue-sur-Drouette;;;1.694333;48.601136
+28135_0010_00003;3;;Rue du Bois du Hameau;28230;28135;Droue-sur-Drouette;;;1.705701;48.60926
+28135_0105_00018;18;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.693428;48.612387
+28135_0123_00004;4;;Rue des Vanneaux;28230;28135;Droue-sur-Drouette;;;1.700219;48.600554
+28135_a001_00010;10;;Résidence des Pins;28230;28135;Droue-sur-Drouette;;;1.698935;48.607105
+28135_0040_00020;20;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.683992;48.606177
+28135_0047_00016;16;;Rue des Hirondelles;28230;28135;Droue-sur-Drouette;;;1.69882;48.601019
+28135_0040_00002;2;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.689501;48.60482
+28135_0068_00003;3;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.70653;48.6105
+28135_0078_00005;5;;Rue du Moulin de Louvet;28230;28135;Droue-sur-Drouette;;;1.691725;48.604897
+28135_0080_00009_ter;9;ter;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.702105;48.60559
+28135_0068_00028;28;;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.702616;48.610104
+28135_0068_00012_bis;12;bis;Rue de la Malardière;28230;28135;Droue-sur-Drouette;;;1.705199;48.609975
+28135_0040_00019;19;;Rue de la Gare;28230;28135;Droue-sur-Drouette;;;1.686456;48.605827
+28135_0085_00058;58;;Rue du Petit Droue;28230;28135;Droue-sur-Drouette;;;1.691088;48.604239
+28135_0072_00022;22;;Rue des Marmouzets;28230;28135;Droue-sur-Drouette;;;1.699711;48.608965
+28135_0015_00026;26;;Rue de Chaleine;28230;28135;Droue-sur-Drouette;;;1.709445;48.59768
+28135_0020_00115;115;;Rue de Crochet;28230;28135;Droue-sur-Drouette;;;1.688226;48.60776
+28135_0080_00007_bis;7;bis;Rue du Mousseau;28230;28135;Droue-sur-Drouette;;;1.702504;48.60543
+28135_0105_00013;13;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.690147;48.61165
+28135_0105_00002;2;;Rue de Saint Firmin;28230;28135;Droue-sur-Drouette;;;1.687149;48.608607

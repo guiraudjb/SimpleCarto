@@ -1,0 +1,764 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+69162_a040_00060;60;;Lotissement les Vignes du Mont Joly;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.626529;46.123755
+69162_0043_00830;830;;Route d'Epinay;69430;69162;Quincié-en-Beaujolais;;;4.600359;46.134615
+69162_0047_00058;58;;Rue de la Forge;69430;69162;Quincié-en-Beaujolais;;;4.615976;46.120286
+69162_0026_02126;2126;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.605691;46.101068
+69162_0014_00002;2;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.612995;46.116885
+69162_0021_00017;17;;Route de la Cime d'Huire;69430;69162;Quincié-en-Beaujolais;;Huire;4.597024;46.136821
+69162_0175_00037;37;;Chemin du Sabot;69430;69162;Quincié-en-Beaujolais;;Cherves;4.605525;46.102862
+69162_0012_00131;131;;Rue Bouchon;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.631019;46.123206
+69162_0085_00413;413;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.622718;46.124474
+69162_0155_00076;76;;Impasse des Quatre Mesures;69430;69162;Quincié-en-Beaujolais;;Les Samsons;4.642823;46.118218
+69162_0182_02472;2472;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.620507;46.131599
+69162_0087_00204;204;;Chemin de Montoux;69430;69162;Quincié-en-Beaujolais;;Cherves;4.608862;46.10656
+69162_0042_00089;89;;Impasse Emichel;69430;69162;Quincié-en-Beaujolais;;Romarand;4.591591;46.120236
+69162_0181_00385;385;;Route de Saint-Nizier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.626964;46.123339
+69162_0056_00128;128;;Chemin des Jonnerys;69430;69162;Quincié-en-Beaujolais;;Les Jonnerys;4.608765;46.11633
+69162_0176_00910;910;;Route de Saburin;69430;69162;Quincié-en-Beaujolais;;;4.631662;46.111692
+69162_0015_01200;1200;;Route de Brouilly;69430;69162;Quincié-en-Beaujolais;;;4.641402;46.109986
+69162_0043_01271;1271;;Route d'Epinay;69430;69162;Quincié-en-Beaujolais;;;4.595727;46.133156
+69162_0006_00050;50;;Rue des Artisans;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.609244;46.139377
+69162_0014_00234;234;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615354;46.118198
+69162_0189_00086;86;;Chemin du Thiélas;69430;69162;Quincié-en-Beaujolais;;Cherves;4.605491;46.101983
+69162_0184_00079;79;;Route des Sauvages;69430;69162;Quincié-en-Beaujolais;;;4.627655;46.113162
+69162_0070_00879;879;;Route de la Palud;69430;69162;Quincié-en-Beaujolais;;;4.620371;46.113666
+69162_0184_00049;49;;Route des Sauvages;69430;69162;Quincié-en-Beaujolais;;;4.628201;46.113547
+69162_0166_00699;699;;Route de Romarand;69430;69162;Quincié-en-Beaujolais;;;4.587646;46.118898
+69162_0009_00266;266;;Route des Bateaux;69430;69162;Quincié-en-Beaujolais;;;4.617246;46.122563
+69162_0120_00197_b;197;b;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615387;46.120001
+69162_0182_04341;4341;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.601862;46.142254
+69162_0162_00169_c;169;c;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.620114;46.120482
+69162_0204_00001;1;;Chemin de l'Orée des Vignes;69430;69162;Quincié-en-Beaujolais;;;4.614608;46.119616
+69162_0094_00029;29;;Chemin des Grandes Nivaudières;69430;69162;Quincié-en-Beaujolais;;les Nivaudières;4.635005;46.120283
+69162_0112_00138;138;;Route du Petit Montmay;69430;69162;Quincié-en-Beaujolais;;;4.621445;46.127018
+69162_0012_00075;75;;Rue Bouchon;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.630352;46.122982
+69162_0056_00142;142;;Chemin des Jonnerys;69430;69162;Quincié-en-Beaujolais;;Les Jonnerys;4.608802;46.116176
+69162_0014_00254;254;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615545;46.118395
+69162_0100_00374;374;;Chemin des Oliviers;69430;69162;Quincié-en-Beaujolais;;;4.612708;46.126826
+69162_0046_00013;13;;Ruelle de la Ferme;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615901;46.119217
+69162_0182_02078;2078;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.62378;46.12928
+69162_0160_00026;26;;Chemin de Revolon;69430;69162;Quincié-en-Beaujolais;;;4.59928;46.139703
+69162_0156_00007;7;;Place Quincius Vinum;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615496;46.11887
+69162_0083_00187;187;;Chemin du Marronnier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.627987;46.122461
+69162_0120_00191;191;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615394;46.119982
+69162_0151_00137;137;;Route des 4 Chemins;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629232;46.122992
+69162_0200_02330;2330;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.588596;46.111953
+69162_0014_00352;352;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616124;46.119154
+69162_0162_00023;23;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.61826;46.120591
+69162_0009_00677;677;;Route des Bateaux;69430;69162;Quincié-en-Beaujolais;;;4.616765;46.125909
+69162_0005_00015;15;;Impasse de l’Ardieres;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.611563;46.138451
+69162_0095_00191;191;;Route des Nivaudières;69430;69162;Quincié-en-Beaujolais;;les Nivaudières;4.635219;46.120066
+69162_0019_00520;520;;Route des Hauts de Chavanne;69430;69162;Quincié-en-Beaujolais;;;4.648985;46.112756
+69162_5h7zvu_00002;2;;impasse de la Tonnelle;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615779;46.118655
+69162_0182_02583;2583;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.619105;46.132491
+69162_0046_00016;16;;Ruelle de la Ferme;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615871;46.119275
+69162_0162_00217;217;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.620717;46.120355
+69162_0004_00269;269;;Rue de l'Ancienne Gare;69430;69162;Quincié-en-Beaujolais;;La Roche;4.623443;46.12209
+69162_0014_00248;248;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615467;46.118325
+69162_n5gbnu_00060;60;;Impasse du Verpelan;69430;69162;Quincié-en-Beaujolais;;Huire;4.593848;46.135293
+69162_0017_00249;249;;Route du Chavagnon;69430;69162;Quincié-en-Beaujolais;;Chavagnon;4.608181;46.112912
+69162_0014_00242;242;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615439;46.118287
+69162_0090_00038;38;;Impasse du Clos de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.621811;46.126675
+69162_0190_00027;27;;Impasse des Treilles;69430;69162;Quincié-en-Beaujolais;;;4.602523;46.138849
+69162_0085_00455_d;455;d;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.621567;46.124974
+69162_0030_00042;42;;Chemin de la Combe Janin;69430;69162;Quincié-en-Beaujolais;;;4.60722;46.122606
+69162_0182_04148;4148;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.604031;46.141289
+69162_0026_02028;2028;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.606215;46.101642
+69162_0004_00083;83;;Rue de l'Ancienne Gare;69430;69162;Quincié-en-Beaujolais;;La Roche;4.623512;46.120459
+69162_0131_00213;213;;Route de Poncharra;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.626116;46.125245
+69162_0042_00039;39;;Impasse Emichel;69430;69162;Quincié-en-Beaujolais;;Romarand;4.591087;46.120604
+69162_0004_00155;155;;Rue de l'Ancienne Gare;69430;69162;Quincié-en-Beaujolais;;La Roche;4.623641;46.121063
+69162_0145_00129;129;;Impasse du Puits;69430;69162;Quincié-en-Beaujolais;;;4.643292;46.111418
+69162_0007_00003;3;;Route des Balloquets;69430;69162;Quincié-en-Beaujolais;;;4.636666;46.112477
+69162_0111_00060;60;;Chemin Perrichon;69430;69162;Quincié-en-Beaujolais;;Romarand;4.591515;46.121282
+69162_a003_00014;14;;Lotissement de l'Ancien Lavoir;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.617875;46.120626
+69162_0053_00077;77;;Rue de Guignol;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629911;46.123204
+69162_0151_00225;225;;Route des 4 Chemins;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629942;46.122365
+69162_0189_00089;89;;Chemin du Thiélas;69430;69162;Quincié-en-Beaujolais;;Cherves;4.6053;46.101887
+69162_0042_00085;85;;Impasse Emichel;69430;69162;Quincié-en-Beaujolais;;Romarand;4.59163;46.120311
+69162_0041_00255;255;;Route d'Ecussol;69430;69162;Quincié-en-Beaujolais;;;4.610799;46.118952
+69162_0094_00043;43;;Chemin des Grandes Nivaudières;69430;69162;Quincié-en-Beaujolais;;les Nivaudières;4.635133;46.120377
+69162_0087_00140;140;;Chemin de Montoux;69430;69162;Quincié-en-Beaujolais;;Cherves;4.60889;46.106081
+69162_0089_00080;80;;Impasse du Moulin à Eau;69430;69162;Quincié-en-Beaujolais;;;4.624852;46.130831
+69162_0089_00131;131;;Impasse du Moulin à Eau;69430;69162;Quincié-en-Beaujolais;;;4.624306;46.131121
+69162_0181_00166;166;;Route de Saint-Nizier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.625134;46.121789
+69162_0086_00349;349;;Route de Montmay l'Etang;69430;69162;Quincié-en-Beaujolais;;;4.625431;46.130879
+69162_0047_00078;78;;Rue de la Forge;69430;69162;Quincié-en-Beaujolais;;;4.615779;46.12028
+69162_0132_00047;47;;Chemin du Poyet;69430;69162;Quincié-en-Beaujolais;;;4.605772;46.119462
+69162_0187_00753;753;;Route du Souzy;69430;69162;Quincié-en-Beaujolais;;le Souzy;4.61156;46.131626
+69162_0053_00013;13;;Rue de Guignol;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629036;46.12331
+69162_0191_00158;158;;Route des Treilles;69430;69162;Quincié-en-Beaujolais;;les Treilles;4.603987;46.140607
+69162_0200_00936;936;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.6026;46.11469
+69162_0175_00040;40;;Chemin du Sabot;69430;69162;Quincié-en-Beaujolais;;Cherves;4.605593;46.102932
+69162_0054_01137;1137;;Route d'Huire;69430;69162;Quincié-en-Beaujolais;;Huire;4.597075;46.135223
+69162_0187_01569;1569;;Route du Souzy;69430;69162;Quincié-en-Beaujolais;;le Souzy;4.606266;46.136726
+69162_0163_00110;110;;Impasse de la Roche;69430;69162;Quincié-en-Beaujolais;;;4.624616;46.118137
+69162_0120_00245;245;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;les Jacquets;4.615149;46.120403
+69162_0110_00032;32;;Impasse des Perreuses;69430;69162;Quincié-en-Beaujolais;;Cherves;4.61019;46.105106
+69162_0200_00049;49;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.612409;46.116706
+69162_0004_00221;221;;Rue de l'Ancienne Gare;69430;69162;Quincié-en-Beaujolais;;La Roche;4.623633;46.121577
+69162_0113_01118;1118;;Route du Petit Saint-cyr;69430;69162;Quincié-en-Beaujolais;;Petit Saint Cyr;4.606397;46.120028
+69162_0015_01047;1047;;Route de Brouilly;69430;69162;Quincié-en-Beaujolais;;;4.641613;46.111237
+69162_0182_01299;1299;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.63176;46.125219
+69162_0200_00711;711;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;le Champ;4.60519;46.113844
+69162_0014_00427;427;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616336;46.119732
+69162_0182_00403;403;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.641004;46.120557
+69162_0193_00162;162;;Chemin de Trouilly;69430;69162;Quincié-en-Beaujolais;;Cherves;4.604962;46.102715
+69162_0016_00020_b;20;b;Rue des Chamaries;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615967;46.118479
+69162_0085_00455_a;455;a;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.622684;46.124845
+69162_0085_01013;1013;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.622193;46.129529
+69162_0047_00062;62;;Rue de la Forge;69430;69162;Quincié-en-Beaujolais;;;4.615983;46.12032
+69162_0085_00215;215;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.623219;46.122706
+69162_0151_00011;11;;Route des 4 Chemins;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.628158;46.123783
+69162_0166_00801;801;;Route de Romarand;69430;69162;Quincié-en-Beaujolais;;;4.588919;46.11885
+69162_0012_00055;55;;Rue Bouchon;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.630097;46.122973
+69162_0211_00077;77;;Ruelle de Vitry;69430;69162;Quincié-en-Beaujolais;;Vitry;4.600498;46.11379
+69162_0085_00237_b;237;b;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.623132;46.122932
+69162_0113_00979;979;;Route du Petit Saint-cyr;69430;69162;Quincié-en-Beaujolais;;Petit Saint Cyr;4.607362;46.119177
+69162_0049_00066;66;;Impasse de la Garenne;69430;69162;Quincié-en-Beaujolais;;;4.593175;46.113276
+69162_0019_00936;936;;Route des Hauts de Chavanne;69430;69162;Quincié-en-Beaujolais;;;4.64642;46.109775
+69162_0056_00188;188;;Chemin des Jonnerys;69430;69162;Quincié-en-Beaujolais;;Les Jonnerys;4.608767;46.115887
+69162_0005_00038;38;;Impasse de l’Ardieres;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.610791;46.138485
+69162_0082_00049;49;;Impasse du Maquis;69430;69162;Quincié-en-Beaujolais;;;4.60584;46.122698
+69162_0026_02936;2936;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.601603;46.094717
+69162_0151_00154;154;;Route des 4 Chemins;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.6293;46.122808
+69162_0017_01326;1326;;Route du Chavagnon;69430;69162;Quincié-en-Beaujolais;;le Serroir;4.595137;46.111181
+69162_0004_00033;33;;Rue de l'Ancienne Gare;69430;69162;Quincié-en-Beaujolais;;La Roche;4.62278;46.120127
+69162_0014_00274;274;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615633;46.118502
+69162_0032_00026;26;;Chemin de la Creuse;69430;69162;Quincié-en-Beaujolais;;Les Jonnerys;4.609749;46.114994
+69162_0016_00115;115;;Rue des Chamaries;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.617148;46.118369
+69162_0047_00060;60;;Rue de la Forge;69430;69162;Quincié-en-Beaujolais;;;4.61598;46.120303
+69162_0200_01064;1064;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;Vitry;4.600818;46.114535
+69162_0112_00165;165;;Route du Petit Montmay;69430;69162;Quincié-en-Beaujolais;;;4.621398;46.126779
+69162_0193_00886;886;;Chemin de Trouilly;69430;69162;Quincié-en-Beaujolais;;Cherves;4.60241;46.10363
+69162_0070_00651;651;;Route de la Palud;69430;69162;Quincié-en-Beaujolais;;;4.619149;46.115184
+69162_0089_00137;137;;Impasse du Moulin à Eau;69430;69162;Quincié-en-Beaujolais;;;4.624269;46.131174
+69162_0050_00156;156;;Route du Grand Saint-cyr;69430;69162;Quincié-en-Beaujolais;;les Jacquets;4.6158;46.12227
+69162_0070_01306;1306;;Route de la Palud;69430;69162;Quincié-en-Beaujolais;;;4.625453;46.115056
+69162_0070_00370;370;;Route de la Palud;69430;69162;Quincié-en-Beaujolais;;;4.617022;46.117239
+69162_0014_00035;35;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.613319;46.117196
+69162_0200_00691;691;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;le Champ;4.60566;46.113863
+69162_0163_00104;104;;Impasse de la Roche;69430;69162;Quincié-en-Beaujolais;;;4.624562;46.118205
+69162_0031_00083;83;;Chemin de Crêt;69430;69162;Quincié-en-Beaujolais;;;4.605607;46.118987
+69162_0131_00028;28;;Route de Poncharra;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.627799;46.123985
+69162_0054_00977;977;;Route d'Huire;69430;69162;Quincié-en-Beaujolais;;Huire;4.597296;46.136509
+69162_0131_00173;173;;Route de Poncharra;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.626271;46.124934
+69162_0155_00139;139;;Impasse des Quatre Mesures;69430;69162;Quincié-en-Beaujolais;;Les Samsons;4.640811;46.118087
+69162_0200_01189;1189;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;Vitry;4.599875;46.113979
+69162_0014_00450;450;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616581;46.119945
+69162_a010_00117;117;;Lotissement de Saint Cyr;69430;69162;Quincié-en-Beaujolais;;;4.60589;46.121443
+69162_0176_01401;1401;;Route de Saburin;69430;69162;Quincié-en-Beaujolais;;;4.62963;46.107981
+69162_0191_00100;100;;Route des Treilles;69430;69162;Quincié-en-Beaujolais;;les Treilles;4.603474;46.141007
+69162_0080_00090;90;;Impasse de la Maison Rouge;69430;69162;Quincié-en-Beaujolais;;;4.610389;46.122763
+69162_0026_02082;2082;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.606107;46.101533
+69162_0026_01712;1712;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.608431;46.104271
+69162_0112_00109;109;;Route du Petit Montmay;69430;69162;Quincié-en-Beaujolais;;;4.621818;46.127069
+69162_0011_00045;45;;Chemin des Blains;69430;69162;Quincié-en-Beaujolais;;Cherves;4.609664;46.104872
+69162_0021_00383;383;;Route de la Cime d'Huire;69430;69162;Quincié-en-Beaujolais;;Huire;4.593423;46.134778
+69162_0006_00165;165;;Rue des Artisans;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.610504;46.139125
+69162_a030_00077;77;;Lotissement des Jacquets;69430;69162;Quincié-en-Beaujolais;;;4.616731;46.121146
+69162_0211_00056;56;;Ruelle de Vitry;69430;69162;Quincié-en-Beaujolais;;Vitry;4.600459;46.113995
+69162_0193_00066;66;;Chemin de Trouilly;69430;69162;Quincié-en-Beaujolais;;Cherves;4.606005;46.102515
+69162_5h7zvu_00030;30;;impasse de la Tonnelle;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616133;46.118627
+69162_0014_00073;73;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.613649;46.11737
+69162_0083_00303;303;;Chemin du Marronnier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.627109;46.123184
+69162_0145_00094;94;;Impasse du Puits;69430;69162;Quincié-en-Beaujolais;;;4.643104;46.111352
+69162_0014_00334;334;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616035;46.118991
+69162_0191_00138;138;;Route des Treilles;69430;69162;Quincié-en-Beaujolais;;les Treilles;4.603779;46.140769
+69162_0085_00281;281;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.622795;46.124002
+69162_0012_00029;29;;Rue Bouchon;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629789;46.122961
+69162_0211_00004;4;;Ruelle de Vitry;69430;69162;Quincié-en-Beaujolais;;Vitry;4.600777;46.114338
+69162_0200_01203;1203;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.599736;46.113914
+69162_0089_00109;109;;Impasse du Moulin à Eau;69430;69162;Quincié-en-Beaujolais;;;4.624327;46.130903
+69162_0166_00598;598;;Route de Romarand;69430;69162;Quincié-en-Beaujolais;;;4.589036;46.118341
+69162_0145_00145;145;;Impasse du Puits;69430;69162;Quincié-en-Beaujolais;;;4.643526;46.111408
+69162_0113_00014;14;;Route du Petit Saint-cyr;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.614647;46.118029
+69162_0026_00844;844;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.611326;46.110955
+69162_0054_00142;142;;Route d'Huire;69430;69162;Quincié-en-Beaujolais;;Huire;4.605464;46.139558
+69162_0014_00332;332;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616006;46.118918
+69162_0166_02128;2128;;Route de Romarand;69430;69162;Quincié-en-Beaujolais;;;4.584698;46.121167
+69162_0050_01366;1366;;Route du Grand Saint-cyr;69430;69162;Quincié-en-Beaujolais;;Petit Saint Cyr;4.604822;46.121634
+69162_0162_00169;169;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.620131;46.120468
+69162_0014_00365;365;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616047;46.119262
+69162_0017_01774;1774;;Route du Chavagnon;69430;69162;Quincié-en-Beaujolais;;Cherfeux;4.589876;46.109791
+69162_0011_00030;30;;Chemin des Blains;69430;69162;Quincié-en-Beaujolais;;Cherves;4.609527;46.104817
+69162_0070_00325;325;;Route de la Palud;69430;69162;Quincié-en-Beaujolais;;;4.617065;46.117362
+69162_0026_02016;2016;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.606245;46.101666
+69162_0162_00100;100;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.619177;46.120473
+69162_0212_00087;87;;Chemin de la voûte;69430;69162;Quincié-en-Beaujolais;;Les Jonnerys;4.608434;46.115952
+69162_0070_00185;185;;Route de la Palud;69430;69162;Quincié-en-Beaujolais;;;4.618422;46.118828
+69162_0056_00257;257;;Chemin des Jonnerys;69430;69162;Quincié-en-Beaujolais;;Les Jonnerys;4.609232;46.115364
+69162_0113_00266;266;;Route du Petit Saint-cyr;69430;69162;Quincié-en-Beaujolais;;Ecussol;4.611811;46.118904
+69162_0050_00585;585;;Route du Grand Saint-cyr;69430;69162;Quincié-en-Beaujolais;;les Vayvolets;4.612627;46.122472
+69162_0181_00228;228;;Route de Saint-Nizier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.625575;46.122248
+69162_0211_00058_b;58;b;Ruelle de Vitry;69430;69162;Quincié-en-Beaujolais;;Vitry;4.600327;46.113959
+69162_0006_00037;37;;Rue des Artisans;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.609481;46.13938
+69162_0083_00186_b;186;b;Chemin du Marronnier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.628481;46.122567
+69162_0200_00611;611;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;le Champ;4.606777;46.114126
+69162_0120_00177;177;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615386;46.119824
+69162_0120_00211;211;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615331;46.120114
+69162_0002_00040;40;;Chemin de l'Ancien Bistrot;69430;69162;Quincié-en-Beaujolais;;Cherves;4.605692;46.100394
+69162_0105_00452;452;;Rue de la Papéterie;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.61212;46.138186
+69162_0162_00331;331;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.622038;46.120051
+69162_0050_00021;21;;Route du Grand Saint-cyr;69430;69162;Quincié-en-Beaujolais;;les Jacquets;4.617173;46.122988
+69162_0012_00090;90;;Rue Bouchon;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.630571;46.122939
+69162_0181_00325;325;;Route de Saint-Nizier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.626337;46.122941
+69162_0100_00710;710;;Chemin des Oliviers;69430;69162;Quincié-en-Beaujolais;;;4.613434;46.127244
+69162_0087_00404;404;;Chemin de Montoux;69430;69162;Quincié-en-Beaujolais;;Cherves;4.60907;46.108414
+69162_0014_00208;208;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615196;46.118029
+69162_0151_00158;158;;Route des 4 Chemins;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629354;46.12273
+69162_0200_01177;1177;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.600133;46.114101
+69162_0140_00031;31;;Impasse du Prieuré;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629385;46.12358
+69162_a015_00053;53;;Lotissement les Samsons;69430;69162;Quincié-en-Beaujolais;;;4.629283;46.113742
+69162_0182_04372;4372;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.601711;46.142683
+69162_0006_00160;160;;Rue des Artisans;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.610471;46.138904
+69162_0026_01445;1445;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.610626;46.105924
+69162_0026_00971;971;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.611961;46.109817
+69162_0145_00146;146;;Impasse du Puits;69430;69162;Quincié-en-Beaujolais;;;4.643522;46.111354
+69162_0200_00637;637;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;le Champ;4.606332;46.113956
+69162_0089_00127;127;;Impasse du Moulin à Eau;69430;69162;Quincié-en-Beaujolais;;;4.624292;46.13106
+69162_0132_00035;35;;Chemin du Poyet;69430;69162;Quincié-en-Beaujolais;;;4.605901;46.119483
+69162_0047_00066;66;;Rue de la Forge;69430;69162;Quincié-en-Beaujolais;;;4.615988;46.120357
+69162_a010_00002;2;;Lotissement de Saint Cyr;69430;69162;Quincié-en-Beaujolais;;;4.607211;46.121319
+69162_0041_00034_c;34;c;Route d'Ecussol;69430;69162;Quincié-en-Beaujolais;;;4.607376;46.118777
+69162_0050_00070;70;;Route du Grand Saint-cyr;69430;69162;Quincié-en-Beaujolais;;les Jacquets;4.616651;46.122682
+69162_0090_00071;71;;Impasse du Clos de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.622366;46.126471
+69162_0014_00396;396;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616325;46.11949
+69162_0200_00444;444;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.60705;46.115885
+69162_0183_00792;792;;Route des Samsons;69430;69162;Quincié-en-Beaujolais;;Les Samsons;4.627476;46.11356
+69162_0189_00098;98;;Chemin du Thiélas;69430;69162;Quincié-en-Beaujolais;;Cherves;4.605331;46.102041
+69162_0009_00918;918;;Route des Bateaux;69430;69162;Quincié-en-Beaujolais;;;4.618696;46.127215
+69162_0011_00265;265;;Chemin des Blains;69430;69162;Quincié-en-Beaujolais;;Cherves;4.609406;46.102886
+69162_0006_00104;104;;Rue des Artisans;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.609571;46.139126
+69162_0018_00194;194;;Impasse de Cherfeux;69430;69162;Quincié-en-Beaujolais;;;4.592333;46.109539
+69162_0082_00033;33;;Impasse du Maquis;69430;69162;Quincié-en-Beaujolais;;;4.605668;46.1226
+69162_0012_00359;359;;Rue Bouchon;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.633307;46.124105
+69162_n5gbnu_00020;20;;Impasse du Verpelan;69430;69162;Quincié-en-Beaujolais;;Huire;4.593585;46.135009
+69162_a030_00002;2;;Lotissement des Jacquets;69430;69162;Quincié-en-Beaujolais;;;4.615948;46.120931
+69162_0007_00643;643;;Route des Balloquets;69430;69162;Quincié-en-Beaujolais;;;4.635833;46.108013
+69162_0200_00597;597;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;le Champ;4.606875;46.114194
+69162_0016_00029;29;;Rue des Chamaries;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616092;46.118533
+69162_a030_00034;34;;Lotissement des Jacquets;69430;69162;Quincié-en-Beaujolais;;;4.616287;46.120942
+69162_0008_00173;173;;Chemin de Bataillon;69430;69162;Quincié-en-Beaujolais;;Bataillon;4.603743;46.135022
+69162_0110_00070;70;;Impasse des Perreuses;69430;69162;Quincié-en-Beaujolais;;Cherves;4.610541;46.104986
+69162_0053_00021;21;;Rue de Guignol;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629153;46.123302
+69162_0086_00067;67;;Route de Montmay l'Etang;69430;69162;Quincié-en-Beaujolais;;;4.623132;46.129311
+69162_0105_00435;435;;Rue de la Papéterie;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.612354;46.138369
+69162_0054_00489;489;;Route d'Huire;69430;69162;Quincié-en-Beaujolais;;Huire;4.602168;46.138179
+69162_0182_02350;2350;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.621616;46.130697
+69162_0188_00091;91;;Impasse des Terres Blanches;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.618586;46.121239
+69162_0162_00061;61;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.618734;46.120659
+69162_a010_00118;118;;Lotissement de Saint Cyr;69430;69162;Quincié-en-Beaujolais;;;4.605749;46.12146
+69162_0211_00080;80;;Ruelle de Vitry;69430;69162;Quincié-en-Beaujolais;;Vitry;4.600385;46.113795
+69162_0182_04311;4311;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.602115;46.142048
+69162_0200_01185;1185;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.60016;46.114014
+69162_0162_00120;120;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.619466;46.120439
+69162_0056_00006;6;;Chemin des Jonnerys;69430;69162;Quincié-en-Beaujolais;;Les Jonnerys;4.610311;46.11621
+69162_0070_00354;354;;Route de la Palud;69430;69162;Quincié-en-Beaujolais;;;4.616695;46.117278
+69162_0082_00056;56;;Impasse du Maquis;69430;69162;Quincié-en-Beaujolais;;;4.605946;46.122714
+69162_0145_00200;200;;Impasse du Puits;69430;69162;Quincié-en-Beaujolais;;;4.644039;46.111289
+69162_0004_00241;241;;Rue de l'Ancienne Gare;69430;69162;Quincié-en-Beaujolais;;La Roche;4.623355;46.121785
+69162_0211_00071;71;;Ruelle de Vitry;69430;69162;Quincié-en-Beaujolais;;Vitry;4.600586;46.113855
+69162_0026_01679;1679;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.608813;46.104431
+69162_0006_00054;54;;Rue des Artisans;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.609398;46.139256
+69162_0056_00064;64;;Chemin des Jonnerys;69430;69162;Quincié-en-Beaujolais;;Les Jonnerys;4.609537;46.116318
+69162_0012_00103;103;;Rue Bouchon;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.630649;46.123136
+69162_0140_00052;52;;Impasse du Prieuré;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629568;46.123719
+69162_0033_00060;60;;Ruelle de la Cure;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616494;46.117933
+69162_0049_00121;121;;Impasse de la Garenne;69430;69162;Quincié-en-Beaujolais;;;4.594315;46.113514
+69162_0026_01753;1753;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.608117;46.103831
+69162_0014_00349;349;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.61598;46.119092
+69162_0200_00698;698;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;le Champ;4.605545;46.11395
+69162_0026_01730;1730;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.608498;46.104485
+69162_0009_00734;734;;Route des Bateaux;69430;69162;Quincié-en-Beaujolais;;;4.616912;46.126373
+69162_0016_00068;68;;Rue des Chamaries;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616544;46.118388
+69162_0160_00020;20;;Chemin de Revolon;69430;69162;Quincié-en-Beaujolais;;;4.599306;46.139636
+69162_0181_00362;362;;Route de Saint-Nizier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.626744;46.123043
+69162_0094_00240;240;;Chemin des Grandes Nivaudières;69430;69162;Quincié-en-Beaujolais;;les Nivaudières;4.63611;46.122111
+69162_0085_00455_b;455;b;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.622261;46.124898
+69162_0200_01140;1140;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.600304;46.114298
+69162_0085_00657;657;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.623337;46.126487
+69162_0162_00257;257;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.62115;46.120259
+69162_0009_01293;1293;;Route des Bateaux;69430;69162;Quincié-en-Beaujolais;;;4.617979;46.130166
+69162_0163_00079;79;;Impasse de la Roche;69430;69162;Quincié-en-Beaujolais;;;4.624509;46.118409
+69162_0056_00124;124;;Chemin des Jonnerys;69430;69162;Quincié-en-Beaujolais;;Les Jonnerys;4.608798;46.11649
+69162_0010_00136;136;;Impasse du Bief;69430;69162;Quincié-en-Beaujolais;;;4.636045;46.118121
+69162_0050_01379;1379;;Route du Grand Saint-cyr;69430;69162;Quincié-en-Beaujolais;;Petit Saint Cyr;4.604912;46.121808
+69162_a040_00044;44;;Lotissement les Vignes du Mont Joly;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.626719;46.123641
+69162_0183_00804;804;;Route des Samsons;69430;69162;Quincié-en-Beaujolais;;Les Samsons;4.627687;46.113473
+69162_0182_01143;1143;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.633444;46.124435
+69162_0024_00090;90;;Chemin de la Cime de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.60322;46.097933
+69162_0043_01331;1331;;Route d'Epinay;69430;69162;Quincié-en-Beaujolais;;;4.595892;46.132887
+69162_0050_00509;509;;Route du Grand Saint-cyr;69430;69162;Quincié-en-Beaujolais;;les Vayvolets;4.613721;46.122416
+69162_0167_00062;62;;Chemin de la Rotonde;69430;69162;Quincié-en-Beaujolais;;le Souzy;4.612;46.131187
+69162_0131_00240;240;;Route de Poncharra;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.626169;46.125563
+69162_0200_01566;1566;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.595596;46.112934
+69162_0041_00063;63;;Route d'Ecussol;69430;69162;Quincié-en-Beaujolais;;;4.608335;46.119131
+69162_0087_00234;234;;Chemin de Montoux;69430;69162;Quincié-en-Beaujolais;;Cherves;4.608927;46.106879
+69162_0010_00108;108;;Impasse du Bief;69430;69162;Quincié-en-Beaujolais;;;4.635506;46.117946
+69162_0014_00017;17;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.613157;46.117076
+69162_0083_00057;57;;Chemin du Marronnier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.62919;46.122255
+69162_0009_00149;149;;Route des Bateaux;69430;69162;Quincié-en-Beaujolais;;;4.616527;46.121507
+69162_0095_00165;165;;Route des Nivaudières;69430;69162;Quincié-en-Beaujolais;;les Nivaudières;4.63507;46.119862
+69162_0105_00415;415;;Rue de la Papéterie;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.612047;46.138579
+69162_0190_00079;79;;Impasse des Treilles;69430;69162;Quincié-en-Beaujolais;;;4.602766;46.139254
+69162_0120_00117;117;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615299;46.119241
+69162_0009_01408;1408;;Route des Bateaux;69430;69162;Quincié-en-Beaujolais;;;4.618142;46.130994
+69162_0120_00225;225;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;les Jacquets;4.615263;46.120227
+69162_0026_00948;948;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.61151;46.109937
+69162_0130_00059;59;;Chemin de Polérin;69430;69162;Quincié-en-Beaujolais;;Huire;4.597131;46.137519
+69162_0175_00009;9;;Chemin du Sabot;69430;69162;Quincié-en-Beaujolais;;Cherves;4.605389;46.102671
+69162_0004_00111;111;;Rue de l'Ancienne Gare;69430;69162;Quincié-en-Beaujolais;;La Roche;4.623718;46.120652
+69162_0166_02103;2103;;Route de Romarand;69430;69162;Quincié-en-Beaujolais;;;4.584722;46.121336
+69162_0120_00033;33;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615239;46.118489
+69162_0085_00238;238;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.623267;46.122948
+69162_0016_00043_a;43;a;Rue des Chamaries;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616242;46.118528
+69162_0014_00238;238;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615378;46.118235
+69162_0200_02344;2344;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.58834;46.111917
+69162_0083_00078;78;;Chemin du Marronnier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.628982;46.122138
+69162_0182_04503;4503;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.600501;46.144026
+69162_0094_00070;70;;Chemin des Grandes Nivaudières;69430;69162;Quincié-en-Beaujolais;;les Nivaudières;4.635906;46.121029
+69162_0008_00149;149;;Chemin de Bataillon;69430;69162;Quincié-en-Beaujolais;;Bataillon;4.603584;46.134875
+69162_0007_00709;709;;Route des Balloquets;69430;69162;Quincié-en-Beaujolais;;;4.635806;46.107416
+69162_0021_00160;160;;Route de la Cime d'Huire;69430;69162;Quincié-en-Beaujolais;;Huire;4.595532;46.136164
+69162_0007_00661;661;;Route des Balloquets;69430;69162;Quincié-en-Beaujolais;;;4.635856;46.107688
+69162_0006_00006;6;;Rue des Artisans;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.609028;46.139661
+69162_0083_00159;159;;Chemin du Marronnier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.628283;46.122183
+69162_5h7zvu_00024;24;;impasse de la Tonnelle;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616087;46.118605
+69162_0200_00739;739;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;le Champ;4.604748;46.113876
+69162_0050_00763;763;;Route du Grand Saint-cyr;69430;69162;Quincié-en-Beaujolais;;les Vayvolets;4.610551;46.122441
+69162_0012_00279;279;;Rue Bouchon;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.63283;46.123677
+69162_0054_00941;941;;Route d'Huire;69430;69162;Quincié-en-Beaujolais;;Huire;4.597758;46.137298
+69162_0007_00004;4;;Route des Balloquets;69430;69162;Quincié-en-Beaujolais;;;4.63642;46.112394
+69162_0182_01185;1185;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.633076;46.124597
+69162_0017_00872;872;;Route du Chavagnon;69430;69162;Quincié-en-Beaujolais;;Chavagnon;4.600795;46.111567
+69162_0094_00046;46;;Chemin des Grandes Nivaudières;69430;69162;Quincié-en-Beaujolais;;les Nivaudières;4.635333;46.120397
+69162_0193_00068;68;;Chemin de Trouilly;69430;69162;Quincié-en-Beaujolais;;Cherves;4.606114;46.102627
+69162_0041_00053;53;;Route d'Ecussol;69430;69162;Quincié-en-Beaujolais;;;4.608117;46.119153
+69162_0024_00058;58;;Chemin de la Cime de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.603536;46.097701
+69162_0047_00072;72;;Rue de la Forge;69430;69162;Quincié-en-Beaujolais;;;4.615839;46.120281
+69162_a030_00080;80;;Lotissement des Jacquets;69430;69162;Quincié-en-Beaujolais;;;4.616793;46.121135
+69162_0085_00346;346;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.622955;46.124027
+69162_0212_00035;35;;Chemin de la voûte;69430;69162;Quincié-en-Beaujolais;;Les Jonnerys;4.608448;46.116285
+69162_0009_01262;1262;;Route des Bateaux;69430;69162;Quincié-en-Beaujolais;;;4.618282;46.129964
+69162_0056_00059;59;;Chemin des Jonnerys;69430;69162;Quincié-en-Beaujolais;;Les Jonnerys;4.609547;46.116241
+69162_0183_00331;331;;Route des Samsons;69430;69162;Quincié-en-Beaujolais;;La Roche;4.624965;46.117147
+69162_0019_01041;1041;;Route des Hauts de Chavanne;69430;69162;Quincié-en-Beaujolais;;;4.645161;46.109362
+69162_0085_00275;275;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.623044;46.123186
+69162_0200_00696;696;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;le Champ;4.605563;46.113928
+69162_0166_02180;2180;;Route de Romarand;69430;69162;Quincié-en-Beaujolais;;;4.585201;46.121106
+69162_0026_01004;1004;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.611556;46.109548
+69162_0130_00199;199;;Chemin de Polérin;69430;69162;Quincié-en-Beaujolais;;Huire;4.597343;46.138273
+69162_0053_00061;61;;Rue de Guignol;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629572;46.123253
+69162_0033_00017;17;;Ruelle de la Cure;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616319;46.118366
+69162_0111_00106;106;;Chemin Perrichon;69430;69162;Quincié-en-Beaujolais;;Romarand;4.591011;46.121571
+69162_0051_00106;106;;Route des Grandes Granges;69430;69162;Quincié-en-Beaujolais;;;4.622217;46.118855
+69162_0033_00013;13;;Ruelle de la Cure;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616295;46.118384
+69162_0162_00093;93;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.619184;46.120606
+69162_0011_00084;84;;Chemin des Blains;69430;69162;Quincié-en-Beaujolais;;Cherves;4.609413;46.104537
+69162_0095_00011;11;;Route des Nivaudières;69430;69162;Quincié-en-Beaujolais;;les Nivaudières;4.633831;46.118954
+69162_0160_00049;49;;Chemin de Revolon;69430;69162;Quincié-en-Beaujolais;;;4.599083;46.140024
+69162_0120_00239;239;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;les Jacquets;4.615212;46.120306
+69162_0085_00760;760;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.623283;46.127536
+69162_0181_00810;810;;Route de Saint-Nizier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.631154;46.125158
+69162_0047_00015;15;;Rue de la Forge;69430;69162;Quincié-en-Beaujolais;;;4.616431;46.12018
+69162_0033_00021;21;;Ruelle de la Cure;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616387;46.118314
+69162_0145_00162;162;;Impasse du Puits;69430;69162;Quincié-en-Beaujolais;;;4.643742;46.111328
+69162_0120_00168;168;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615527;46.119771
+69162_0200_00737;737;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;le Champ;4.604939;46.113859
+69162_0014_00220;220;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615252;46.1181
+69162_0033_00008;8;;Ruelle de la Cure;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616171;46.11842
+69162_0051_00162;162;;Route des Grandes Granges;69430;69162;Quincié-en-Beaujolais;;;4.622114;46.11829
+69162_0014_00373;373;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616092;46.119346
+69162_0012_00148;148;;Rue Bouchon;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.631277;46.123145
+69162_0083_00186_c;186;c;Chemin du Marronnier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.628366;46.122578
+69162_0182_01177;1177;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.633143;46.124551
+69162_0162_00175;175;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.620406;46.120439
+69162_n5gbnu_00048;48;;Impasse du Verpelan;69430;69162;Quincié-en-Beaujolais;;Huire;4.593732;46.13518
+69162_0090_00069;69;;Impasse du Clos de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.622219;46.126509
+69162_yisiy2_00049;49;;Chemin des Vignes;69430;69162;Quincié-en-Beaujolais;;;4.618243;46.11816
+69162_a010_00027;27;;Lotissement de Saint Cyr;69430;69162;Quincié-en-Beaujolais;;;4.606776;46.121373
+69162_0047_00035;35;;Rue de la Forge;69430;69162;Quincié-en-Beaujolais;;;4.616176;46.120203
+69162_0162_00287;287;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.621576;46.120162
+69162_0120_00197_a;197;a;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;;4.615385;46.120009
+69162_0024_00132;132;;Chemin de la Cime de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.603018;46.098233
+69162_0200_00281;281;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.61001;46.115434
+69162_0083_00263;263;;Chemin du Marronnier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.627622;46.122821
+69162_0009_01350;1350;;Route des Bateaux;69430;69162;Quincié-en-Beaujolais;;;4.617954;46.130363
+69162_0193_00149;149;;Chemin de Trouilly;69430;69162;Quincié-en-Beaujolais;;Cherves;4.605036;46.102634
+69162_0012_00181_a;181;a;Rue Bouchon;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.631711;46.123387
+69162_0014_00390;390;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616293;46.11945
+69162_0083_00113;113;;Chemin du Marronnier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.628668;46.121809
+69162_0205_00049;49;;Impasse du viala;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629958;46.122341
+69162_0200_01042;1042;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;Vitry;4.601214;46.114656
+69162_0083_00015;15;;Chemin du Marronnier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629388;46.122536
+69162_0019_01083;1083;;Route des Hauts de Chavanne;69430;69162;Quincié-en-Beaujolais;;;4.644731;46.109568
+69162_0021_00656;656;;Route de la Cime d'Huire;69430;69162;Quincié-en-Beaujolais;;Huire;4.591028;46.133406
+69162_0014_00240;240;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615405;46.11826
+69162_0151_00120;120;;Route des 4 Chemins;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629024;46.123031
+69162_0181_00175;175;;Route de Saint-Nizier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.624981;46.121853
+69162_0026_00155;155;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.614068;46.116542
+69162_0200_01035;1035;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.601482;46.114575
+69162_0012_00060;60;;Rue Bouchon;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.630159;46.122896
+69162_0187_01475;1475;;Route du Souzy;69430;69162;Quincié-en-Beaujolais;;le Souzy;4.607425;46.136558
+69162_0155_00119;119;;Impasse des Quatre Mesures;69430;69162;Quincié-en-Beaujolais;;Les Samsons;4.641961;46.118034
+69162_0200_01222;1222;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.599241;46.113797
+69162_0026_00809;809;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.611596;46.111213
+69162_0188_00058;58;;Impasse des Terres Blanches;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.618624;46.12128
+69162_0012_00094;94;;Rue Bouchon;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.630675;46.122898
+69162_0140_00029;29;;Impasse du Prieuré;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629351;46.123545
+69162_0113_01017;1017;;Route du Petit Saint-cyr;69430;69162;Quincié-en-Beaujolais;;Petit Saint Cyr;4.606832;46.119215
+69162_0120_00173;173;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615409;46.119785
+69162_0166_00570;570;;Route de Romarand;69430;69162;Quincié-en-Beaujolais;;;4.589151;46.118236
+69162_0089_00129;129;;Impasse du Moulin à Eau;69430;69162;Quincié-en-Beaujolais;;;4.624309;46.131092
+69162_0200_00862;862;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.603512;46.114287
+69162_0132_00085;85;;Chemin du Poyet;69430;69162;Quincié-en-Beaujolais;;;4.605276;46.119452
+69162_0156_00025;25;;Place Quincius Vinum;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615739;46.118823
+69162_0120_00148;148;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615512;46.119607
+69162_0111_00050;50;;Chemin Perrichon;69430;69162;Quincié-en-Beaujolais;;Romarand;4.591609;46.121191
+69162_0026_00282;282;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.612835;46.115625
+69162_0167_00049;49;;Chemin de la Rotonde;69430;69162;Quincié-en-Beaujolais;;le Souzy;4.612117;46.131031
+69162_0019_00508;508;;Route des Hauts de Chavanne;69430;69162;Quincié-en-Beaujolais;;;4.649069;46.112828
+69162_0043_00727;727;;Route d'Epinay;69430;69162;Quincié-en-Beaujolais;;;4.601631;46.134764
+69162_0017_01430;1430;;Route du Chavagnon;69430;69162;Quincié-en-Beaujolais;;le Serroir;4.594314;46.111296
+69162_0008_00157_a;157;a;Chemin de Bataillon;69430;69162;Quincié-en-Beaujolais;;Bataillon;4.603702;46.134932
+69162_0202_00062;62;;Impasse des Vayvolets;69430;69162;Quincié-en-Beaujolais;;;4.611945;46.123178
+69162_yisiy2_00030;30;;Chemin des Vignes;69430;69162;Quincié-en-Beaujolais;;;4.618059;46.118084
+69162_a003_00032;32;;Lotissement de l'Ancien Lavoir;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.61767;46.120709
+69162_0004_00171;171;;Rue de l'Ancienne Gare;69430;69162;Quincié-en-Beaujolais;;La Roche;4.62317;46.121177
+69162_0014_00470;470;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616879;46.120167
+69162_0046_00037;37;;Ruelle de la Ferme;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615708;46.119117
+69162_0083_00028;28;;Chemin du Marronnier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629204;46.122424
+69162_0165_00065;65;;Impasse des Roches de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.590817;46.113191
+69162_0002_00108;108;;Chemin de l'Ancien Bistrot;69430;69162;Quincié-en-Beaujolais;;Cherves;4.605893;46.100993
+69162_0048_00049;49;;Impasse du Gamay;69430;69162;Quincié-en-Beaujolais;;;4.624485;46.119092
+69162_0011_00119;119;;Chemin des Blains;69430;69162;Quincié-en-Beaujolais;;Cherves;4.609442;46.104245
+69162_0083_00186_a;186;a;Chemin du Marronnier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.628264;46.12231
+69162_0001_00143;143;;Chemin des Acacias;69430;69162;Quincié-en-Beaujolais;;Romarand;4.590952;46.121846
+69162_0162_00341;341;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.622248;46.120002
+69162_0181_00319;319;;Route de Saint-Nizier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.626317;46.122919
+69162_0151_00138;138;;Route des 4 Chemins;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629156;46.122922
+69162_a030_00060;60;;Lotissement des Jacquets;69430;69162;Quincié-en-Beaujolais;;résidence les Jacquets;4.61666;46.120941
+69162_0026_01529;1529;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.610173;46.105507
+69162_0050_00474;474;;Route du Grand Saint-cyr;69430;69162;Quincié-en-Beaujolais;;les Vayvolets;4.614024;46.1225
+69162_0008_00037;37;;Chemin de Bataillon;69430;69162;Quincié-en-Beaujolais;;Bataillon;4.602999;46.135688
+69162_0211_00058_a;58;a;Ruelle de Vitry;69430;69162;Quincié-en-Beaujolais;;Vitry;4.600513;46.113898
+69162_0080_00080;80;;Impasse de la Maison Rouge;69430;69162;Quincié-en-Beaujolais;;;4.610087;46.122696
+69162_0050_01129;1129;;Route du Grand Saint-cyr;69430;69162;Quincié-en-Beaujolais;;grand Saint-Cyr;4.606098;46.122232
+69162_0054_00500;500;;Route d'Huire;69430;69162;Quincié-en-Beaujolais;;Huire;4.601815;46.13816
+69162_0162_00340;340;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.622288;46.119884
+69162_0163_00116;116;;Impasse de la Roche;69430;69162;Quincié-en-Beaujolais;;;4.624524;46.118013
+69162_0110_00071;71;;Impasse des Perreuses;69430;69162;Quincié-en-Beaujolais;;Cherves;4.610641;46.105015
+69162_0014_00380;380;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.61623;46.119343
+69162_0056_00170;170;;Chemin des Jonnerys;69430;69162;Quincié-en-Beaujolais;;Les Jonnerys;4.608892;46.116117
+69162_0181_00361;361;;Route de Saint-Nizier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.626733;46.123187
+69162_0016_00064;64;;Rue des Chamaries;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616397;46.118412
+69162_0086_00019;19;;Route de Montmay l'Etang;69430;69162;Quincié-en-Beaujolais;;;4.622956;46.129025
+69162_0051_00361;361;;Route des Grandes Granges;69430;69162;Quincié-en-Beaujolais;;;4.623625;46.116945
+69162_0047_00029;29;;Rue de la Forge;69430;69162;Quincié-en-Beaujolais;;;4.616226;46.120205
+69162_0131_00123;123;;Route de Poncharra;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.626616;46.124522
+69162_a015_00062;62;;Lotissement les Samsons;69430;69162;Quincié-en-Beaujolais;;;4.62889;46.113686
+69162_0030_00456;456;;Chemin de la Combe Janin;69430;69162;Quincié-en-Beaujolais;;;4.605035;46.123517
+69162_0120_00108;108;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615472;46.11926
+69162_0140_00032;32;;Impasse du Prieuré;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629487;46.1236
+69162_0162_00169_b;169;b;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.620121;46.120475
+69162_0183_00010;10;;Route des Samsons;69430;69162;Quincié-en-Beaujolais;;La Roche;4.622925;46.119677
+69162_0183_00554;554;;Route des Samsons;69430;69162;Quincié-en-Beaujolais;;Les Samsons;4.626142;46.115511
+69162_0212_00055;55;;Chemin de la voûte;69430;69162;Quincié-en-Beaujolais;;Les Jonnerys;4.60842;46.116108
+69162_0089_00125;125;;Impasse du Moulin à Eau;69430;69162;Quincié-en-Beaujolais;;;4.624335;46.131047
+69162_0182_01163;1163;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.6333;46.124512
+69162_0183_00025;25;;Route des Samsons;69430;69162;Quincié-en-Beaujolais;;La Roche;4.623139;46.119596
+69162_0086_00334;334;;Route de Montmay l'Etang;69430;69162;Quincié-en-Beaujolais;;;4.625553;46.130818
+69162_0160_00222;222;;Chemin de Revolon;69430;69162;Quincié-en-Beaujolais;;;4.599335;46.141359
+69162_0056_00051;51;;Chemin des Jonnerys;69430;69162;Quincié-en-Beaujolais;;Les Jonnerys;4.609687;46.116219
+69162_0085_00188;188;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.623468;46.122495
+69162_0009_00382;382;;Route des Bateaux;69430;69162;Quincié-en-Beaujolais;;;4.617519;46.123426
+69162_0162_00173;173;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.620187;46.120449
+69162_0132_00079;79;;Chemin du Poyet;69430;69162;Quincié-en-Beaujolais;;;4.605401;46.119445
+69162_0004_00235;235;;Rue de l'Ancienne Gare;69430;69162;Quincié-en-Beaujolais;;La Roche;4.623495;46.12164
+69162_0200_00695;695;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;le Champ;4.605543;46.113837
+69162_0021_00473;473;;Route de la Cime d'Huire;69430;69162;Quincié-en-Beaujolais;;Huire;4.592661;46.134535
+69162_0105_00222;222;;Rue de la Papéterie;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.610113;46.139559
+69162_0014_00549;549;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.617592;46.12045
+69162_0090_00073;73;;Impasse du Clos de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.622107;46.126433
+69162_0009_00344;344;;Route des Bateaux;69430;69162;Quincié-en-Beaujolais;;;4.617358;46.123014
+69162_0050_00582;582;;Route du Grand Saint-cyr;69430;69162;Quincié-en-Beaujolais;;les Vayvolets;4.612693;46.122576
+69162_0193_00035;35;;Chemin de Trouilly;69430;69162;Quincié-en-Beaujolais;;Cherves;4.606411;46.102236
+69162_0086_00134;134;;Route de Montmay l'Etang;69430;69162;Quincié-en-Beaujolais;;;4.624013;46.129519
+69162_0151_00080;80;;Route des 4 Chemins;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.628451;46.123187
+69162_0026_00826;826;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.61128;46.11112
+69162_0183_01039;1039;;Route des Samsons;69430;69162;Quincié-en-Beaujolais;;Les Samsons;4.630326;46.114447
+69162_0014_00386;386;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616262;46.119401
+69162_0164_00099;99;;Impasse de la Roche Qui Tourne;69430;69162;Quincié-en-Beaujolais;;;4.605416;46.140137
+69162_0183_00787;787;;Route des Samsons;69430;69162;Quincié-en-Beaujolais;;Les Samsons;4.627612;46.113672
+69162_0041_00034_b;34;b;Route d'Ecussol;69430;69162;Quincié-en-Beaujolais;;;4.607469;46.118889
+69162_0161_00120;120;;Chemin de Riboudon;69430;69162;Quincié-en-Beaujolais;;;4.639701;46.11309
+69162_0014_00368;368;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616169;46.119222
+69162_0047_00084;84;;Rue de la Forge;69430;69162;Quincié-en-Beaujolais;;;4.615738;46.120279
+69162_0004_00231;231;;Rue de l'Ancienne Gare;69430;69162;Quincié-en-Beaujolais;;La Roche;4.623479;46.121654
+69162_0041_00034_a;34;a;Route d'Ecussol;69430;69162;Quincié-en-Beaujolais;;;4.607625;46.118949
+69162_0031_00080;80;;Chemin de Crêt;69430;69162;Quincié-en-Beaujolais;;;4.60547;46.11906
+69162_0054_00303;303;;Route d'Huire;69430;69162;Quincié-en-Beaujolais;;Huire;4.603779;46.13907
+69162_0002_00107;107;;Chemin de l'Ancien Bistrot;69430;69162;Quincié-en-Beaujolais;;Cherves;4.605794;46.100978
+69162_0056_00047;47;;Chemin des Jonnerys;69430;69162;Quincié-en-Beaujolais;;Les Jonnerys;4.609776;46.116206
+69162_0110_00023;23;;Impasse des Perreuses;69430;69162;Quincié-en-Beaujolais;;Cherves;4.610186;46.105168
+69162_0007_00595;595;;Route des Balloquets;69430;69162;Quincié-en-Beaujolais;;;4.635658;46.108503
+69162_0200_02020;2020;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;Vitry;4.590171;46.114262
+69162_0009_00827;827;;Route des Bateaux;69430;69162;Quincié-en-Beaujolais;;;4.617756;46.126909
+69162_0043_00471;471;;Route d'Epinay;69430;69162;Quincié-en-Beaujolais;;;4.603602;46.136448
+69162_0011_00287;287;;Chemin des Blains;69430;69162;Quincié-en-Beaujolais;;Cherves;4.609456;46.102758
+69162_2zv08z_00600;600;;Route de la casse froide;69430;69162;Quincié-en-Beaujolais;;Pierre Moulin;4.583972;46.11489
+69162_0130_00014;14;;Chemin de Polérin;69430;69162;Quincié-en-Beaujolais;;Huire;4.597208;46.137199
+69162_0015_01125;1125;;Route de Brouilly;69430;69162;Quincié-en-Beaujolais;;;4.641198;46.110754
+69162_0016_00047;47;;Rue des Chamaries;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616208;46.118693
+69162_0176_00976;976;;Route de Saburin;69430;69162;Quincié-en-Beaujolais;;;4.630902;46.111259
+69162_n5gbnu_00084;84;;Impasse du Verpelan;69430;69162;Quincié-en-Beaujolais;;Huire;4.593879;46.135367
+69162_0012_00056;56;;Rue Bouchon;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629796;46.122855
+69162_0166_00537;537;;Route de Romarand;69430;69162;Quincié-en-Beaujolais;;;4.589329;46.118111
+69162_0019_00526;526;;Route des Hauts de Chavanne;69430;69162;Quincié-en-Beaujolais;;;4.648863;46.112697
+69162_0070_00731;731;;Route de la Palud;69430;69162;Quincié-en-Beaujolais;;;4.619631;46.114638
+69162_0183_00909;909;;Route des Samsons;69430;69162;Quincié-en-Beaujolais;;Les Samsons;4.628609;46.114021
+69162_0026_02123;2123;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.605803;46.101101
+69162_0090_00075;75;;Impasse du Clos de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.621932;46.126169
+69162_0190_00053;53;;Impasse des Treilles;69430;69162;Quincié-en-Beaujolais;;;4.602631;46.139125
+69162_0187_00671;671;;Route du Souzy;69430;69162;Quincié-en-Beaujolais;;le Souzy;4.612694;46.131184
+69162_0094_00044;44;;Chemin des Grandes Nivaudières;69430;69162;Quincié-en-Beaujolais;;les Nivaudières;4.635569;46.120329
+69162_0048_00071;71;;Impasse du Gamay;69430;69162;Quincié-en-Beaujolais;;;4.6248;46.119188
+69162_0200_00398;398;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.608845;46.115064
+69162_0166_00536;536;;Route de Romarand;69430;69162;Quincié-en-Beaujolais;;;4.589515;46.118129
+69162_0105_00207;207;;Rue de la Papéterie;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.609904;46.139798
+69162_0183_00099;99;;Route des Samsons;69430;69162;Quincié-en-Beaujolais;;La Roche;4.623683;46.119042
+69162_0161_00057;57;;Chemin de Riboudon;69430;69162;Quincié-en-Beaujolais;;;4.639488;46.113796
+69162_0095_00079;79;;Route des Nivaudières;69430;69162;Quincié-en-Beaujolais;;les Nivaudières;4.634235;46.119432
+69162_0090_00022;22;;Impasse du Clos de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.621486;46.126318
+69162_0176_00869;869;;Route de Saburin;69430;69162;Quincié-en-Beaujolais;;;4.632091;46.111316
+69162_a003_00059;59;;Lotissement de l'Ancien Lavoir;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.617357;46.120774
+69162_0183_00077;77;;Route des Samsons;69430;69162;Quincié-en-Beaujolais;;La Roche;4.623518;46.11919
+69162_0043_01270;1270;;Route d'Epinay;69430;69162;Quincié-en-Beaujolais;;;4.595635;46.133136
+69162_0050_01175;1175;;Route du Grand Saint-cyr;69430;69162;Quincié-en-Beaujolais;;grand Saint-Cyr;4.605383;46.122174
+69162_0014_00372;372;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616212;46.119315
+69162_0085_00575;575;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.623184;46.125879
+69162_0163_00057;57;;Impasse de la Roche;69430;69162;Quincié-en-Beaujolais;;;4.624396;46.118522
+69162_0120_00130;130;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.6155;46.119482
+69162_0084_00163;163;;Impasse du Mas des Oliviers;69430;69162;Quincié-en-Beaujolais;;;4.617113;46.127904
+69162_0006_00134;134;;Rue des Artisans;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.609998;46.138942
+69162_0162_00319;319;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.62192;46.120077
+69162_0183_00781;781;;Route des Samsons;69430;69162;Quincié-en-Beaujolais;;Les Samsons;4.627563;46.113753
+69162_0083_00013;13;;Chemin du Marronnier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629391;46.122565
+69162_0002_00097;97;;Chemin de l'Ancien Bistrot;69430;69162;Quincié-en-Beaujolais;;Cherves;4.605763;46.100885
+69162_0095_00211;211;;Route des Nivaudières;69430;69162;Quincié-en-Beaujolais;;les Nivaudières;4.635435;46.120169
+69162_0050_00644;644;;Route du Grand Saint-cyr;69430;69162;Quincié-en-Beaujolais;;les Vayvolets;4.611963;46.122695
+69162_245xgw_01040;1040;;Route des Saignes;69430;69162;Quincié-en-Beaujolais;;Bois Merlin;4.583731;46.135738
+69162_0163_00084;84;;Impasse de la Roche;69430;69162;Quincié-en-Beaujolais;;;4.624458;46.118317
+69162_0112_00201;201;;Route du Petit Montmay;69430;69162;Quincié-en-Beaujolais;;;4.620991;46.126579
+69162_0140_00015;15;;Impasse du Prieuré;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629336;46.123458
+69162_0051_00151;151;;Route des Grandes Granges;69430;69162;Quincié-en-Beaujolais;;;4.622295;46.118464
+69162_a003_00058;58;;Lotissement de l'Ancien Lavoir;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.617226;46.121044
+69162_a003_00056;56;;Lotissement de l'Ancien Lavoir;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.617446;46.120999
+69162_0200_00744;744;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;le Champ;4.60493;46.11397
+69162_5h7zvu_00006;6;;impasse de la Tonnelle;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.61583;46.118646
+69162_0012_00096;96;;Rue Bouchon;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.630711;46.123031
+69162_a040_00094;94;;Lotissement les Vignes du Mont Joly;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.626308;46.123972
+69162_0105_00454;454;;Rue de la Papéterie;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.612337;46.138091
+69162_0094_00007;7;;Chemin des Grandes Nivaudières;69430;69162;Quincié-en-Beaujolais;;les Nivaudières;4.635105;46.120039
+69162_0113_01323_b;1323;b;Route du Petit Saint-cyr;69430;69162;Quincié-en-Beaujolais;;grand Saint-Cyr;4.604407;46.121765
+69162_a040_00082;82;;Lotissement les Vignes du Mont Joly;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.62646;46.123911
+69162_a015_00088;88;;Lotissement les Samsons;69430;69162;Quincié-en-Beaujolais;;;4.628999;46.113658
+69162_a010_00071;71;;Lotissement de Saint Cyr;69430;69162;Quincié-en-Beaujolais;;;4.606408;46.121458
+69162_0011_00114;114;;Chemin des Blains;69430;69162;Quincié-en-Beaujolais;;Cherves;4.609328;46.104288
+69162_0019_00480;480;;Route des Hauts de Chavanne;69430;69162;Quincié-en-Beaujolais;;;4.649132;46.112996
+69162_0094_00040;40;;Chemin des Grandes Nivaudières;69430;69162;Quincié-en-Beaujolais;;les Nivaudières;4.635408;46.120288
+69162_0085_00890;890;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.622998;46.128573
+69162_0176_00918;918;;Route de Saburin;69430;69162;Quincié-en-Beaujolais;;;4.631447;46.111513
+69162_0014_00222;222;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615287;46.118138
+69162_0193_00143;143;;Chemin de Trouilly;69430;69162;Quincié-en-Beaujolais;;Cherves;4.605144;46.102606
+69162_0120_00240;240;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;résidence du Ribouillon;4.615401;46.12028
+69162_0167_00024;24;;Chemin de la Rotonde;69430;69162;Quincié-en-Beaujolais;;le Souzy;4.612441;46.131124
+69162_a040_00092;92;;Lotissement les Vignes du Mont Joly;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.626375;46.124008
+69162_0145_00028;28;;Impasse du Puits;69430;69162;Quincié-en-Beaujolais;;;4.642033;46.111257
+69162_0014_00223;223;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615162;46.118193
+69162_0042_00110;110;;Impasse Emichel;69430;69162;Quincié-en-Beaujolais;;Romarand;4.591528;46.120139
+69162_0051_00022;22;;Route des Grandes Granges;69430;69162;Quincié-en-Beaujolais;;;4.622454;46.119554
+69162_0120_00203;203;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615374;46.120051
+69162_yisiy2_00111;111;;Chemin des Vignes;69430;69162;Quincié-en-Beaujolais;;;4.618978;46.117964
+69162_0043_01415;1415;;Route d'Epinay;69430;69162;Quincié-en-Beaujolais;;;4.595596;46.132436
+69162_0212_00078;78;;Chemin de la voûte;69430;69162;Quincié-en-Beaujolais;;Les Jonnerys;4.608339;46.115917
+69162_0160_00112;112;;Chemin de Revolon;69430;69162;Quincié-en-Beaujolais;;;4.599133;46.140431
+69162_0019_00481;481;;Route des Hauts de Chavanne;69430;69162;Quincié-en-Beaujolais;;;4.649308;46.112987
+69162_0004_00189;189;;Rue de l'Ancienne Gare;69430;69162;Quincié-en-Beaujolais;;La Roche;4.623697;46.121361
+69162_0187_00749;749;;Route du Souzy;69430;69162;Quincié-en-Beaujolais;;le Souzy;4.61172;46.131484
+69162_0014_00344;344;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616082;46.119038
+69162_0183_00863;863;;Route des Samsons;69430;69162;Quincié-en-Beaujolais;;Les Samsons;4.628284;46.113743
+69162_0200_00914;914;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.602809;46.114535
+69162_0050_00572;572;;Route du Grand Saint-cyr;69430;69162;Quincié-en-Beaujolais;;les Vayvolets;4.612973;46.122563
+69162_0166_02175;2175;;Route de Romarand;69430;69162;Quincié-en-Beaujolais;;;4.585257;46.121252
+69162_0053_00067;67;;Rue de Guignol;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.629761;46.123205
+69162_0176_00937;937;;Route de Saburin;69430;69162;Quincié-en-Beaujolais;;;4.631351;46.111305
+69162_0120_00025;25;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615231;46.118462
+69162_0113_01323_d;1323;d;Route du Petit Saint-cyr;69430;69162;Quincié-en-Beaujolais;;grand Saint-Cyr;4.604694;46.121924
+69162_0110_00046;46;;Impasse des Perreuses;69430;69162;Quincié-en-Beaujolais;;Cherves;4.610363;46.105038
+69162_0002_00064;64;;Chemin de l'Ancien Bistrot;69430;69162;Quincié-en-Beaujolais;;Cherves;4.605676;46.100642
+69162_0033_00020;20;;Ruelle de la Cure;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616291;46.118291
+69162_0181_00441;441;;Route de Saint-Nizier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.627541;46.123664
+69162_0182_00085;85;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.644642;46.118791
+69162_0120_00244;244;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;résidence du Ribouillon;4.615306;46.120368
+69162_0113_01073;1073;;Route du Petit Saint-cyr;69430;69162;Quincié-en-Beaujolais;;Petit Saint Cyr;4.606267;46.119641
+69162_0181_00394;394;;Route de Saint-Nizier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.627122;46.123281
+69162_0009_00676;676;;Route des Bateaux;69430;69162;Quincié-en-Beaujolais;;;4.616879;46.125929
+69162_0183_00893;893;;Route des Samsons;69430;69162;Quincié-en-Beaujolais;;Les Samsons;4.628464;46.113931
+69162_0145_00090;90;;Impasse du Puits;69430;69162;Quincié-en-Beaujolais;;;4.642839;46.111301
+69162_0085_01100;1100;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.62181;46.13022
+69162_0070_01320;1320;;Route de la Palud;69430;69162;Quincié-en-Beaujolais;;;4.62557;46.115307
+69162_0151_00089;89;;Route des 4 Chemins;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.62887;46.123297
+69162_0014_00460;460;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.6166;46.119994
+69162_0031_00078;78;;Chemin de Crêt;69430;69162;Quincié-en-Beaujolais;;;4.605599;46.118863
+69162_0015_00133;133;;Route de Brouilly;69430;69162;Quincié-en-Beaujolais;;;4.644747;46.117432
+69162_0113_01012;1012;;Route du Petit Saint-cyr;69430;69162;Quincié-en-Beaujolais;;Petit Saint Cyr;4.606896;46.119295
+69162_0012_00369;369;;Rue Bouchon;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.633427;46.124213
+69162_0082_00067;67;;Impasse du Maquis;69430;69162;Quincié-en-Beaujolais;;;4.605938;46.122838
+69162_0212_00004;4;;Chemin de la voûte;69430;69162;Quincié-en-Beaujolais;;Les Jonnerys;4.608707;46.116447
+69162_0026_02508;2508;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.604178;46.097928
+69162_0009_00350;350;;Route des Bateaux;69430;69162;Quincié-en-Beaujolais;;;4.617376;46.123084
+69162_a015_00089;89;;Lotissement les Samsons;69430;69162;Quincié-en-Beaujolais;;;4.629029;46.113673
+69162_0120_00003;3;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615212;46.118298
+69162_0021_00725;725;;Route de la Cime d'Huire;69430;69162;Quincié-en-Beaujolais;;Huire;4.591048;46.132653
+69162_5h7zvu_00014;14;;impasse de la Tonnelle;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615952;46.118624
+69162_0189_00120;120;;Chemin du Thiélas;69430;69162;Quincié-en-Beaujolais;;Cherves;4.605169;46.102085
+69162_0021_00186;186;;Route de la Cime d'Huire;69430;69162;Quincié-en-Beaujolais;;Huire;4.59535;46.13599
+69162_0211_00033;33;;Ruelle de Vitry;69430;69162;Quincié-en-Beaujolais;;Vitry;4.600766;46.114107
+69162_0200_01119;1119;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.600561;46.114293
+69162_0009_00310;310;;Route des Bateaux;69430;69162;Quincié-en-Beaujolais;;;4.617328;46.12285
+69162_0085_00846;846;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.623123;46.128117
+69162_0005_00037_a;37;a;Impasse de l’Ardieres;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.611221;46.138236
+69162_0033_00061;61;;Ruelle de la Cure;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616439;46.118079
+69162_0105_00189;189;;Rue de la Papéterie;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.609037;46.139881
+69162_a015_00060;60;;Lotissement les Samsons;69430;69162;Quincié-en-Beaujolais;;;4.628849;46.113738
+69162_0151_00046;46;;Route des 4 Chemins;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.628495;46.123479
+69162_0151_00086;86;;Route des 4 Chemins;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.628755;46.123287
+69162_0189_00063;63;;Chemin du Thiélas;69430;69162;Quincié-en-Beaujolais;;Cherves;4.605592;46.101872
+69162_0162_00359;359;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.622555;46.119943
+69162_0162_00078;78;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.619013;46.120499
+69162_yisiy2_00039;39;;Chemin des Vignes;69430;69162;Quincié-en-Beaujolais;;;4.618053;46.118158
+69162_0026_01739;1739;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.608384;46.10398
+69162_0009_00346;346;;Route des Bateaux;69430;69162;Quincié-en-Beaujolais;;;4.617367;46.123055
+69162_0014_00404;404;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.61636;46.119574
+69162_0185_00032;32;;Impasse de la Serve;69430;69162;Quincié-en-Beaujolais;;;4.634715;46.120015
+69162_0031_00047;47;;Chemin de Crêt;69430;69162;Quincié-en-Beaujolais;;;4.60587;46.119045
+69162_0041_00034;34;;Route d'Ecussol;69430;69162;Quincié-en-Beaujolais;;;4.607785;46.119052
+69162_0043_00860;860;;Route d'Epinay;69430;69162;Quincié-en-Beaujolais;;;4.599839;46.134523
+69162_0086_00199;199;;Route de Montmay l'Etang;69430;69162;Quincié-en-Beaujolais;;;4.624778;46.129887
+69162_0156_00001;1;;Place Quincius Vinum;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615425;46.118879
+69162_0181_00299;299;;Route de Saint-Nizier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.626149;46.12282
+69162_0165_00089;89;;Impasse des Roches de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.590353;46.113634
+69162_0043_00587;587;;Route d'Epinay;69430;69162;Quincié-en-Beaujolais;;;4.602809;46.135462
+69162_0050_00541;541;;Route du Grand Saint-cyr;69430;69162;Quincié-en-Beaujolais;;les Vayvolets;4.613136;46.122443
+69162_0113_01323_a;1323;a;Route du Petit Saint-cyr;69430;69162;Quincié-en-Beaujolais;;grand Saint-Cyr;4.604256;46.121685
+69162_0120_00094;94;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615459;46.119147
+69162_0051_00066;66;;Route des Grandes Granges;69430;69162;Quincié-en-Beaujolais;;;4.622305;46.119148
+69162_0043_00605;605;;Route d'Epinay;69430;69162;Quincié-en-Beaujolais;;;4.602666;46.135318
+69162_0211_00016;16;;Ruelle de Vitry;69430;69162;Quincié-en-Beaujolais;;Vitry;4.600739;46.11414
+69162_0120_00013;13;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615216;46.118348
+69162_0014_00348;348;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616098;46.119093
+69162_0182_02016;2016;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.624422;46.128974
+69162_0088_00011;11;;Rue du Monument;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615686;46.118914
+69162_0183_00031;31;;Route des Samsons;69430;69162;Quincié-en-Beaujolais;;La Roche;4.623216;46.11953
+69162_0166_02093;2093;;Route de Romarand;69430;69162;Quincié-en-Beaujolais;;;4.585053;46.121488
+69162_0026_01797;1797;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.607843;46.103557
+69162_0016_00049;49;;Rue des Chamaries;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.61627;46.118504
+69162_0011_00175;175;;Chemin des Blains;69430;69162;Quincié-en-Beaujolais;;Cherves;4.60947;46.103775
+69162_0182_02544;2544;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.619627;46.132284
+69162_0113_00859;859;;Route du Petit Saint-cyr;69430;69162;Quincié-en-Beaujolais;;Petit Saint Cyr;4.607872;46.119814
+69162_0176_01421;1421;;Route de Saburin;69430;69162;Quincié-en-Beaujolais;;;4.629644;46.10791
+69162_0053_00105;105;;Rue de Guignol;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.630243;46.123166
+69162_0120_00126;126;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615522;46.119382
+69162_0042_00094;94;;Impasse Emichel;69430;69162;Quincié-en-Beaujolais;;Romarand;4.591539;46.120304
+69162_0212_00030;30;;Chemin de la voûte;69430;69162;Quincié-en-Beaujolais;;Les Jonnerys;4.608396;46.116334
+69162_0187_00542;542;;Route du Souzy;69430;69162;Quincié-en-Beaujolais;;le Souzy;4.613027;46.131532
+69162_0160_00072;72;;Chemin de Revolon;69430;69162;Quincié-en-Beaujolais;;;4.599147;46.140288
+69162_0181_00287;287;;Route de Saint-Nizier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.626002;46.122734
+69162_0015_00132;132;;Route de Brouilly;69430;69162;Quincié-en-Beaujolais;;;4.64455;46.117475
+69162_0085_00006;6;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.624094;46.12092
+69162_0182_03275;3275;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.613063;46.13692
+69162_0031_00108;108;;Chemin de Crêt;69430;69162;Quincié-en-Beaujolais;;;4.605215;46.119
+69162_0053_00107;107;;Rue de Guignol;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.630634;46.123511
+69162_0009_00360;360;;Route des Bateaux;69430;69162;Quincié-en-Beaujolais;;;4.617429;46.123331
+69162_0031_00741;741;;Chemin de Crêt;69430;69162;Quincié-en-Beaujolais;;;4.599557;46.117327
+69162_0031_00107;107;;Chemin de Crêt;69430;69162;Quincié-en-Beaujolais;;;4.605283;46.118969
+69162_0131_00290;290;;Route de Poncharra;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.626081;46.125763
+69162_0167_00048;48;;Chemin de la Rotonde;69430;69162;Quincié-en-Beaujolais;;le Souzy;4.612222;46.131102
+69162_0085_00455_c;455;c;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.6219;46.12497
+69162_0183_00908;908;;Route des Samsons;69430;69162;Quincié-en-Beaujolais;;Les Samsons;4.62861;46.113939
+69162_0113_01323_c;1323;c;Route du Petit Saint-cyr;69430;69162;Quincié-en-Beaujolais;;grand Saint-Cyr;4.604561;46.12183
+69162_0120_00206;206;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615477;46.120066
+69162_0043_01290;1290;;Route d'Epinay;69430;69162;Quincié-en-Beaujolais;;;4.595316;46.132896
+69162_0183_01127;1127;;Route des Samsons;69430;69162;Quincié-en-Beaujolais;;Les Samsons;4.631202;46.114715
+69162_0120_00001;1;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615201;46.118285
+69162_0016_00020;20;;Rue des Chamaries;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615933;46.118496
+69162_0007_00385;385;;Route des Balloquets;69430;69162;Quincié-en-Beaujolais;;;4.635412;46.110231
+69162_0166_00600;600;;Route de Romarand;69430;69162;Quincié-en-Beaujolais;;;4.588909;46.11849
+69162_0186_00031;31;;Chemin de la Sorbière;69430;69162;Quincié-en-Beaujolais;;La Roche;4.624091;46.118857
+69162_0131_00031;31;;Route de Poncharra;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.627669;46.12393
+69162_0087_00029;29;;Chemin de Montoux;69430;69162;Quincié-en-Beaujolais;;Cherves;4.610039;46.105839
+69162_0182_01189;1189;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.632987;46.124631
+69162_0004_00035;35;;Rue de l'Ancienne Gare;69430;69162;Quincié-en-Beaujolais;;La Roche;4.623305;46.120268
+69162_0051_00448;448;;Route des Grandes Granges;69430;69162;Quincié-en-Beaujolais;;;4.624092;46.116279
+69162_0087_00227;227;;Chemin de Montoux;69430;69162;Quincié-en-Beaujolais;;Cherves;4.608837;46.106796
+69162_0156_00013;13;;Place Quincius Vinum;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615571;46.118854
+69162_0203_00054;54;;Impasse du Vergnat;69430;69162;Quincié-en-Beaujolais;;Cherves;4.609687;46.103027
+69162_0131_00067;67;;Route de Poncharra;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.627357;46.124082
+69162_0047_00064;64;;Rue de la Forge;69430;69162;Quincié-en-Beaujolais;;;4.615984;46.120339
+69162_0054_00957;957;;Route d'Huire;69430;69162;Quincié-en-Beaujolais;;Huire;4.59731;46.136709
+69162_yisiy2_00043;43;;Chemin des Vignes;69430;69162;Quincié-en-Beaujolais;;;4.618145;46.118174
+69162_0162_00267;267;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.621237;46.120241
+69162_0016_00027;27;;Rue des Chamaries;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616003;46.118548
+69162_0026_02002;2002;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.606564;46.101947
+69162_0211_00092;92;;Ruelle de Vitry;69430;69162;Quincié-en-Beaujolais;;Vitry;4.600288;46.113682
+69162_0105_00233;233;;Rue de la Papéterie;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.610583;46.139641
+69162_0095_00129;129;;Route des Nivaudières;69430;69162;Quincié-en-Beaujolais;;les Nivaudières;4.634663;46.119706
+69162_0085_00619;619;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.62332;46.126234
+69162_0113_00002;2;;Route du Petit Saint-cyr;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.614815;46.117987
+69162_0090_00024;24;;Impasse du Clos de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.621407;46.126076
+69162_0167_00033;33;;Chemin de la Rotonde;69430;69162;Quincié-en-Beaujolais;;le Souzy;4.613895;46.129097
+69162_0187_00887;887;;Route du Souzy;69430;69162;Quincié-en-Beaujolais;;le Souzy;4.611118;46.132739
+69162_0162_00268;268;;Rue du Ribouillon;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.621267;46.120109
+69162_0085_00525;525;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.622972;46.125422
+69162_0017_01426;1426;;Route du Chavagnon;69430;69162;Quincié-en-Beaujolais;;le Serroir;4.594314;46.111296
+69162_0200_00647;647;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;le Champ;4.606243;46.113913
+69162_0005_00037_b;37;b;Impasse de l’Ardieres;69430;69162;Quincié-en-Beaujolais;;ZA des Treilles;4.611115;46.138284
+69162_0163_00132;132;;Impasse de la Roche;69430;69162;Quincié-en-Beaujolais;;;4.624765;46.117993
+69162_0026_01817;1817;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.607755;46.103439
+69162_0082_00017;17;;Impasse du Maquis;69430;69162;Quincié-en-Beaujolais;;;4.605467;46.122533
+69162_0085_00193;193;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.623272;46.122526
+69162_0186_00039;39;;Chemin de la Sorbière;69430;69162;Quincié-en-Beaujolais;;La Roche;4.624599;46.118798
+69162_0014_00188;188;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615121;46.11797
+69162_0189_00087;87;;Chemin du Thiélas;69430;69162;Quincié-en-Beaujolais;;Cherves;4.605369;46.101801
+69162_0120_00015;15;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615222;46.118406
+69162_0182_04079;4079;;Route de Saint-vincent;69430;69162;Quincié-en-Beaujolais;;;4.604629;46.140903
+69162_0008_00052;52;;Chemin de Bataillon;69430;69162;Quincié-en-Beaujolais;;Bataillon;4.603135;46.135204
+69162_0033_00025;25;;Ruelle de la Cure;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616407;46.118243
+69162_0085_00730;730;;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.623366;46.127196
+69162_0113_01315;1315;;Route du Petit Saint-cyr;69430;69162;Quincié-en-Beaujolais;;grand Saint-Cyr;4.60463;46.121312
+69162_0019_00440;440;;Route des Hauts de Chavanne;69430;69162;Quincié-en-Beaujolais;;;4.649114;46.113313
+69162_0015_00810;810;;Route de Brouilly;69430;69162;Quincié-en-Beaujolais;;;4.642399;46.11306
+69162_0120_00041;41;;Rue des Maisons Neuves;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.61524;46.118578
+69162_0043_01366;1366;;Route d'Epinay;69430;69162;Quincié-en-Beaujolais;;;4.595399;46.132693
+69162_0054_00090;90;;Route d'Huire;69430;69162;Quincié-en-Beaujolais;;Huire;4.606463;46.139592
+69162_0083_00214;214;;Chemin du Marronnier;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.627945;46.122644
+69162_0014_00182;182;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.614866;46.117853
+69162_0200_00946;946;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.60256;46.114613
+69162_0033_00026;26;;Ruelle de la Cure;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616333;46.118201
+69162_0031_00131;131;;Chemin de Crêt;69430;69162;Quincié-en-Beaujolais;;;4.605017;46.11888
+69162_0200_01040;1040;;Route de Varennes;69430;69162;Quincié-en-Beaujolais;;;4.601315;46.114723
+69162_0054_01135;1135;;Route d'Huire;69430;69162;Quincié-en-Beaujolais;;Huire;4.597216;46.135525
+69162_0213_00011;11;;Allée des Grisemottes;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.617837;46.119977
+69162_0188_00028;28;;Impasse des Terres Blanches;69430;69162;Quincié-en-Beaujolais;;le Ribouillon;4.61914;46.120825
+69162_0012_00181_b;181;b;Rue Bouchon;69430;69162;Quincié-en-Beaujolais;;Saint Nizier;4.631581;46.12333
+69162_0014_00318;318;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.615946;46.118829
+69162_0164_00092;92;;Impasse de la Roche Qui Tourne;69430;69162;Quincié-en-Beaujolais;;;4.605153;46.140143
+69162_0085_00237_a;237;a;Route de Montmay;69430;69162;Quincié-en-Beaujolais;;;4.622272;46.123059
+69162_0011_00059;59;;Chemin des Blains;69430;69162;Quincié-en-Beaujolais;;Cherves;4.609617;46.104734
+69162_0014_00438;438;;Rue du Bourg;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616521;46.119847
+69162_0024_00133;133;;Chemin de la Cime de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.603001;46.098067
+69162_0026_01752;1752;;Route de Cherves;69430;69162;Quincié-en-Beaujolais;;Cherves;4.607949;46.103884
+69162_0033_00038;38;;Ruelle de la Cure;69430;69162;Quincié-en-Beaujolais;;le Bourg;4.616314;46.118106
+69162_0030_00380;380;;Chemin de la Combe Janin;69430;69162;Quincié-en-Beaujolais;;;4.605302;46.123515

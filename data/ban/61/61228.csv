@@ -1,0 +1,557 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+61228_0025_00010;10;;route des Brousses;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.059855;48.523238
+61228_0132_00006;6;;rue de la Raterie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.011663;48.528704
+61228_0132_00019;19;;rue de la Raterie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.014444;48.532204
+61228_0141_00005;5;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.020118;48.521779
+61228_0141_00010;10;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.007455;48.526183
+61228_0141_00017;17;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.008275;48.5259
+61228_0141_00035;35;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.002885;48.529373
+61228_0051_00008;8;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.04001;48.535546
+61228_0051_00016;16;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.037123;48.536623
+61228_0051_00036;36;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.038349;48.53814
+61228_0016_00001;1;;impasse de la Blotière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.0435;48.514989
+61228_0102_00013;13;;route de la Marinerie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.001606;48.526687
+61228_0116_00008;8;;route du Patis;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.070757;48.518549
+61228_0116_00011;11;;route du Patis;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.070768;48.518502
+61228_0056_00004;4;;impasse de l'Être Gasnier;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.007647;48.537449
+61228_0034_00006;6;;impasse de la Chaunière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.053296;48.5185
+61228_0071_00001;1;;impasse de la Guiltière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.007658;48.522475
+61228_0025_00004;4;;route des Brousses;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.059415;48.523358
+61228_0132_00001;1;;rue de la Raterie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.013029;48.524372
+61228_0141_00030;30;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.007764;48.536698
+61228_0051_00005;5;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.041009;48.535505
+61228_0051_00013;13;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.038755;48.536004
+61228_0051_00020;20;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.037111;48.536866
+61228_0051_00025;25;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.038235;48.536183
+61228_0040_00005;5;;impasse de la Croimière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.004555;48.534092
+61228_0102_00001;1;;route de la Marinerie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.003641;48.528588
+61228_0102_00009;9;;route de la Marinerie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.002192;48.527458
+61228_0014_00009;9;;route de la Biochère;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.056283;48.534447
+61228_0014_00014;14;;route de la Biochère;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.056581;48.535082
+61228_0043_00005;5;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Livaie;;-0.03065;48.514102
+61228_0043_00039;39;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.033091;48.532842
+61228_0022_00014;14;;route du Bourg;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.066577;48.517802
+61228_0052_00021;21;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.033144;48.515463
+61228_0036_00011;11;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.013379;48.531542
+61228_0055_00001;1;;impasse de l'Être Bourg;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.064318;48.518876
+61228_0103_00003;3;;rue du Moulin;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.022428;48.516117
+61228_0046_00001;1;;impasse des Défas;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.059966;48.516074
+61228_0117_00004;4;;impasse du Pissot;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.046056;48.535224
+61228_0056_00001;1;;impasse de l'Être Gasnier;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.007832;48.536921
+61228_0061_00006;6;;route de la Frelonnière;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.028052;48.53868
+61228_0061_00011;11;;route de la Frelonnière;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.034138;48.53862
+61228_0043_00011;11;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Livaie;;-0.030328;48.514448
+61228_0043_00023;23;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Livaie;;-0.024663;48.525571
+61228_0043_00031;31;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Livaie;;-0.029732;48.53015
+61228_0121_00008;8;;route de la Potence;61320;61228;L'Orée-d'Écouves;Livaie;;-0.049326;48.522913
+61228_0121_00011;11;;route de la Potence;61320;61228;L'Orée-d'Écouves;Livaie;;-0.049632;48.523105
+61228_0052_00008;8;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.032468;48.514493
+61228_0052_00011;11;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.032779;48.514611
+61228_0028_00003;3;;impasse des Buttes;61420;61228;L'Orée-d'Écouves;Livaie;;-0.037194;48.520429
+61228_0054_00001;1;;impasse des Essaisses;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.01157;48.539898
+61228_0101_00001;1;;impasse de la Mairie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.032415;48.515168
+61228_0068_00003;3;;impasse des Gaudinières;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.021521;48.515644
+61228_0024_00006;6;;rue de Bousance;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.036606;48.537973
+61228_0035_00003;3;;impasse des Communes;61420;61228;L'Orée-d'Écouves;Livaie;;-0.044335;48.51405
+61228_0106_00003;3;;impasse des Noës;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.013618;48.524949
+61228_0036_00003;3;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.003455;48.527149
+61228_0036_00014;14;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.006507;48.52956
+61228_0036_00019;19;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.015826;48.538965
+61228_0118_00003;3;;impasse du Plessis;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.073058;48.519382
+61228_0023_00001;1;;impasse de Bousance;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.025769;48.54452
+61228_0017_00002;2;;route du Bois de la Haie;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.067668;48.517218
+61228_0017_00005;5;;route du Bois de la Haie;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.064311;48.509002
+61228_0123_00001;1;;impasse du Pouillolet;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.00621;48.536236
+61228_0032_00001;1;;impasse de la Cassine;61420;61228;L'Orée-d'Écouves;Livaie;;-0.041683;48.487963
+61228_0087_00005;5;;impasse du Jardin;61420;61228;L'Orée-d'Écouves;Livaie;;-0.046376;48.498002
+61228_0132_00009;9;;rue de la Raterie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.017366;48.532445
+61228_0132_00025;25;;rue de la Raterie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.007878;48.526679
+61228_0141_00014;14;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.006592;48.526491
+61228_0141_00022;22;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.002998;48.529008
+61228_0141_00051;51;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.004964;48.534523
+61228_0141_00061;61;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.007505;48.53627
+61228_0141_00067;67;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.016235;48.541854
+61228_0136_00005;5;;route de la Roche Elie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.044152;48.49798
+61228_0136_00008;8;;route de la Roche Elie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.044274;48.500028
+61228_0051_00028;28;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.037955;48.537625
+61228_0051_00033;33;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.03803;48.537557
+61228_0051_00045;45;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.038067;48.542866
+61228_0016_00006;6;;impasse de la Blotière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.041984;48.515644
+61228_0016_00009;9;;impasse de la Blotière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.046778;48.515889
+61228_0040_00002;2;;impasse de la Croimière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.005336;48.534023
+61228_0102_00004;4;;route de la Marinerie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.002631;48.527694
+61228_0102_00019;19;;route de la Marinerie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.000349;48.524374
+61228_0116_00003;3;;route du Patis;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.068255;48.517279
+61228_0013_00001;1;;rue de la Baudrière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.044506;48.525267
+61228_0141_00025;25;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.003798;48.528702
+61228_0141_00045;45;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.002496;48.529666
+61228_0051_00001;1;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.054622;48.532115
+61228_0056_00011;11;;impasse de l'Être Gasnier;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.007322;48.538156
+61228_0013_00006;6;;rue de la Baudrière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.045561;48.525017
+61228_0015_00004;4;;impasse du Bisson;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.060026;48.512628
+61228_0061_00001;1;;route de la Frelonnière;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.036946;48.536888
+61228_0098_00005;5;;impasse de la Loge;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.001115;48.520027
+61228_0121_00003;3;;route de la Potence;61320;61228;L'Orée-d'Écouves;Livaie;;-0.029566;48.512676
+61228_0022_00004;4;;route du Bourg;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.064961;48.518192
+61228_0022_00007;7;;route du Bourg;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.066917;48.517603
+61228_0052_00015;15;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.033192;48.514599
+61228_0086_00001;1;;impasse de la Jâle;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.012626;48.524171
+61228_0086_00004;4;;impasse de la Jâle;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.01134;48.522173
+61228_0054_00004;4;;impasse des Essaisses;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.009986;48.541328
+61228_0057_00006;6;;impasse de l'Être Pitois;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.063176;48.517249
+61228_0012_00002;2;;impasse de la Baudrière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.046095;48.525938
+61228_0107_00002;2;;impasse des Noëtes;61420;61228;L'Orée-d'Écouves;Livaie;;-0.031011;48.514129
+61228_0036_00006;6;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.002729;48.526868
+61228_0096_00003;3;;impasse de la Lande;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.061664;48.508524
+61228_0151_00004;4;;Route des Vallees;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.050797;48.54465
+61228_0013_00009;9;;rue de la Baudrière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.046743;48.524767
+61228_0119_00001;1;;rue de Pompierre;61420;61228;L'Orée-d'Écouves;Livaie;;-0.036163;48.520044
+61228_0119_00005;5;;rue de Pompierre;61420;61228;L'Orée-d'Écouves;Livaie;;-0.03303;48.519926
+61228_0015_00001;1;;impasse du Bisson;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.061158;48.512958
+61228_0037_00002;2;;impasse de la Corbinière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.013842;48.525277
+61228_0061_00021;21;;route de la Frelonnière;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.028046;48.538741
+61228_0034_00001;1;;impasse de la Chaunière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.052928;48.518699
+61228_0014_00001;1;;route de la Biochère;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.055066;48.533376
+61228_0014_00006;6;;route de la Biochère;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.055317;48.533768
+61228_0138_00005;5;;impasse des Rues;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.000046;48.538404
+61228_0138_00011;11;;impasse des Rues;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.000497;48.538723
+61228_0052_00003;3;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.032326;48.513968
+61228_0057_00002;2;;impasse de l'Être Pitois;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.064028;48.517864
+61228_0088_00001;1;;impasse du Jarriot;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.069236;48.522608
+61228_0101_00006;6;;impasse de la Mairie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.031998;48.515516
+61228_0024_00002;2;;rue de Bousance;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.037179;48.537374
+61228_0137_00005;5;;impasse des Rochers;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.034304;48.543603
+61228_0096_00010;10;;impasse de la Lande;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.061864;48.508302
+61228_0079_00002;2;;impasse de la Huverie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.020021;48.526084
+61228_0019_00002;2;;impasse de la Boularderie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.007189;48.529784
+61228_0131_00009;9;;route de Raisne;61420;61228;L'Orée-d'Écouves;Livaie;;-0.054623;48.494936
+61228_0120_00004;4;;impasse du Pont;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.076968;48.518509
+61228_0077_00001;1;;impasse du Haut Bois;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.065216;48.521482
+61228_0097_00001;1;;impasse de la Landrée;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.026415;48.540583
+61228_0131_00001;1;;route de Raisne;61420;61228;L'Orée-d'Écouves;Livaie;;-0.047327;48.493622
+61228_0131_00004;4;;route de Raisne;61420;61228;L'Orée-d'Écouves;Livaie;;-0.049975;48.494057
+61228_0018_00002;2;;route du Bois Mallet;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.005095;48.530839
+61228_0031_00003;3;;impasse du Canard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.021299;48.539239
+61228_0070_00002;2;;rue de la Gonterie;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.040858;48.540941
+61228_0067_00002;2;;route de Gatenoë;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.066296;48.531341
+61228_0067_00005;5;;route de Gatenoë;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.067652;48.531483
+61228_0067_00013;13;;route de Gatenoë;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.070599;48.531398
+61228_0078_00003;3;;route du Haut de Gatenoë;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.068049;48.532715
+61228_0076_00003;3;;impasse de la Hamonière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.0265;48.520284
+61228_0141_00002;2;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Livaie;;-0.036772;48.518319
+61228_0136_00002;2;;route de la Roche Elie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.034547;48.511021
+61228_0136_00007;7;;route de la Roche Elie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.044832;48.497582
+61228_0051_00019;19;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.038042;48.536264
+61228_0051_00022;22;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.03719;48.536936
+61228_0016_00011;11;;impasse de la Blotière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.046725;48.51608
+61228_0102_00002;2;;route de la Marinerie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.003623;48.528479
+61228_0102_00017;17;;route de la Marinerie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.000182;48.524251
+61228_0025_00008;8;;route des Brousses;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.059124;48.523526
+61228_0141_00007;7;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.013829;48.524054
+61228_0141_00016;16;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.004094;48.528211
+61228_0141_00019;19;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.005827;48.526879
+61228_0141_00024;24;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.002797;48.528814
+61228_0051_00011;11;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.039279;48.535844
+61228_0051_00014;14;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.037427;48.536351
+61228_0051_00027;27;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.037528;48.536519
+61228_0051_00039;39;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.038543;48.538107
+61228_0116_00004;4;;route du Patis;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.069565;48.518181
+61228_0056_00005;5;;impasse de l'Être Gasnier;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.007468;48.537478
+61228_0013_00002;2;;rue de la Baudrière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.045147;48.524985
+61228_0013_00005;5;;rue de la Baudrière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.046033;48.524491
+61228_0013_00015;15;;rue de la Baudrière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.047256;48.523809
+61228_0119_00007;7;;rue de Pompierre;61420;61228;L'Orée-d'Écouves;Livaie;;-0.031374;48.518975
+61228_0015_00005;5;;impasse du Bisson;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.060437;48.512557
+61228_0037_00004;4;;impasse de la Corbinière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.014347;48.525487
+61228_0061_00007;7;;route de la Frelonnière;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.03641;48.53704
+61228_0026_00002;2;;impasse des Brûlis;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.013986;48.532114
+61228_0116_00012;12;;route du Patis;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.07498;48.523593
+61228_0116_00017;17;;route du Patis;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.071324;48.51955
+61228_0013_00010;10;;rue de la Baudrière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.049326;48.524532
+61228_0034_00004;4;;impasse de la Chaunière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.053912;48.519541
+61228_0043_00003;3;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Livaie;;-0.031931;48.513292
+61228_0121_00010;10;;route de la Potence;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.063359;48.531511
+61228_0052_00007;7;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.032368;48.514121
+61228_0052_00016;16;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.033337;48.516039
+61228_0054_00006;6;;impasse des Essaisses;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.009964;48.541387
+61228_0057_00004;4;;impasse de l'Être Pitois;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.06334;48.517353
+61228_0068_00002;2;;impasse des Gaudinières;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.021699;48.51563
+61228_0068_00007;7;;impasse des Gaudinières;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.019959;48.515174
+61228_0024_00004;4;;rue de Bousance;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.036863;48.537708
+61228_0137_00007;7;;impasse des Rochers;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.033901;48.543463
+61228_0096_00014;14;;impasse de la Lande;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.06108;48.50892
+61228_0103_00007;7;;rue du Moulin;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.022999;48.514576
+61228_0151_00001;1;;Route des Vallees;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.036668;48.544538
+61228_0018_00005;5;;route du Bois Mallet;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.004105;48.529576
+61228_0017_00004;4;;route du Bois de la Haie;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.064356;48.509149
+61228_0017_00008;8;;route du Bois de la Haie;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.064654;48.508627
+61228_0123_00005;5;;impasse du Pouillolet;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.005535;48.536268
+61228_0078_00002;2;;route du Haut de Gatenoë;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.067072;48.531584
+61228_0014_00011;11;;route de la Biochère;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.056437;48.534622
+61228_0043_00027;27;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Livaie;;-0.02893;48.530531
+61228_0043_00037;37;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.031964;48.532321
+61228_0138_00002;2;;impasse des Rues;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.003082;48.536965
+61228_0121_00005;5;;route de la Potence;61320;61228;L'Orée-d'Écouves;Livaie;;-0.041865;48.519175
+61228_0022_00003;3;;route du Bourg;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.065598;48.518036
+61228_0022_00008;8;;route du Bourg;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.065442;48.518156
+61228_0022_00012;12;;route du Bourg;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.06582;48.51806
+61228_0052_00012;12;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.032972;48.515266
+61228_0086_00002;2;;impasse de la Jâle;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.011692;48.522618
+61228_0086_00006;6;;impasse de la Jâle;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.010236;48.517988
+61228_0054_00003;3;;impasse des Essaisses;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.011337;48.539811
+61228_0106_00006;6;;impasse des Noës;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.012864;48.525889
+61228_0036_00016;16;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.013779;48.531837
+61228_0036_00021;21;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.016115;48.539364
+61228_0055_00003;3;;impasse de l'Être Bourg;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.064584;48.519099
+61228_0079_00001;1;;impasse de la Huverie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.020021;48.526084
+61228_0131_00003;3;;route de Raisne;61420;61228;L'Orée-d'Écouves;Livaie;;-0.049217;48.494113
+61228_0018_00001;1;;route du Bois Mallet;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.003983;48.529396
+61228_0070_00005;5;;rue de la Gonterie;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.04236;48.541731
+61228_0025_00002;2;;route des Brousses;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.05967;48.523225
+61228_0141_00004;4;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.022462;48.52062
+61228_0141_00020;20;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.00322;48.528883
+61228_0141_00023;23;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.003927;48.52861
+61228_0141_00041;41;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.002962;48.53006
+61228_0136_00014;14;;route de la Roche Elie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.044894;48.497606
+61228_0087_00004;4;;impasse du Jardin;61420;61228;L'Orée-d'Écouves;Livaie;;-0.044948;48.49859
+61228_0141_00008;8;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.012201;48.524356
+61228_0141_00012;12;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.007091;48.526331
+61228_0141_00015;15;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.01054;48.525269
+61228_0141_00028;28;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.005207;48.534546
+61228_0141_00031;31;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.003692;48.528836
+61228_0136_00006;6;;route de la Roche Elie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.034193;48.510936
+61228_0051_00007;7;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.040259;48.535594
+61228_0087_00002;2;;impasse du Jardin;61420;61228;L'Orée-d'Écouves;Livaie;;-0.044866;48.497969
+61228_0132_00003;3;;rue de la Raterie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.01617;48.530568
+61228_0132_00008;8;;rue de la Raterie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.007916;48.526639
+61228_0132_00023;23;;rue de la Raterie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.008072;48.526786
+61228_0141_00011;11;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.012477;48.524584
+61228_0141_00027;27;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.003739;48.528742
+61228_0141_00055;55;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.005829;48.534818
+61228_0141_00065;65;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.015551;48.541335
+61228_0136_00012;12;;route de la Roche Elie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.044133;48.49814
+61228_0051_00003;3;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.04161;48.53538
+61228_0051_00030;30;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.038034;48.53765
+61228_0011_00002;2;;impasse de la Basse Plesse;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.034149;48.532491
+61228_0016_00003;3;;impasse de la Blotière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.045874;48.515535
+61228_0040_00004;4;;impasse de la Croimière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.00506;48.534039
+61228_0102_00006;6;;route de la Marinerie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.002526;48.527616
+61228_0102_00010;10;;route de la Marinerie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.002006;48.527142
+61228_0061_00017;17;;route de la Frelonnière;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.028524;48.538955
+61228_0014_00003;3;;route de la Biochère;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.055183;48.533549
+61228_0014_00008;8;;route de la Biochère;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.056263;48.534494
+61228_0121_00002;2;;route de la Potence;61320;61228;L'Orée-d'Écouves;Livaie;;-0.033977;48.512581
+61228_0052_00023;23;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.03346;48.516157
+61228_0028_00002;2;;impasse des Buttes;61420;61228;L'Orée-d'Écouves;Livaie;;-0.0369;48.520757
+61228_0057_00010;10;;impasse de l'Être Pitois;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.060366;48.516707
+61228_0088_00005;5;;impasse du Jarriot;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.070083;48.522979
+61228_0101_00003;3;;impasse de la Mairie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.032115;48.515536
+61228_0036_00008;8;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.002378;48.526747
+61228_0036_00013;13;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.014863;48.536941
+61228_0096_00005;5;;impasse de la Lande;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.061402;48.50871
+61228_0046_00003;3;;impasse des Défas;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.054525;48.5144
+61228_0019_00001;1;;impasse de la Boularderie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.007006;48.530167
+61228_0131_00006;6;;route de Raisne;61420;61228;L'Orée-d'Écouves;Livaie;;-0.054213;48.494921
+61228_0067_00004;4;;route de Gatenoë;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.06941;48.531604
+61228_0067_00007;7;;route de Gatenoë;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.068491;48.53126
+61228_0077_00003;3;;impasse du Haut Bois;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.064684;48.521442
+61228_0076_00001;1;;impasse de la Hamonière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.026728;48.520024
+61228_0087_00008;8;;impasse du Jardin;61420;61228;L'Orée-d'Écouves;Livaie;;-0.046663;48.499035
+61228_0132_00013;13;;rue de la Raterie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.016414;48.53227
+61228_0141_00033;33;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.003329;48.529113
+61228_0141_00039;39;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.002753;48.52978
+61228_0141_00049;49;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.004728;48.534431
+61228_0051_00006;6;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.041842;48.535291
+61228_0051_00035;35;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.038215;48.537642
+61228_0016_00008;8;;impasse de la Blotière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.042606;48.515509
+61228_0040_00007;7;;impasse de la Croimière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.003929;48.534083
+61228_0102_00014;14;;route de la Marinerie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.000437;48.523406
+61228_0116_00007;7;;route du Patis;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.068811;48.517589
+61228_0056_00009;9;;impasse de l'Être Gasnier;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.007453;48.537843
+61228_0119_00013;13;;rue de Pompierre;61420;61228;L'Orée-d'Écouves;Livaie;;-0.0312;48.518824
+61228_0037_00001;1;;impasse de la Corbinière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.01385;48.525238
+61228_0061_00004;4;;route de la Frelonnière;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.033186;48.53699
+61228_0061_00023;23;;route de la Frelonnière;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.027956;48.538758
+61228_0071_00004;4;;impasse de la Guiltière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.007715;48.522439
+61228_0043_00007;7;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Livaie;;-0.030553;48.514161
+61228_0043_00021;21;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Livaie;;-0.028649;48.515238
+61228_0138_00009;9;;impasse des Rues;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.000374;48.53809
+61228_0138_00015;15;;impasse des Rues;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.001159;48.539036
+61228_0121_00013;13;;route de la Potence;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.062901;48.53121
+61228_0052_00004;4;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.032015;48.513913
+61228_0012_00003;3;;impasse de la Baudrière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.04597;48.525305
+61228_0024_00012;12;;rue de Bousance;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.03537;48.539409
+61228_0107_00004;4;;impasse des Noëtes;61420;61228;L'Orée-d'Écouves;Livaie;;-0.031346;48.514266
+61228_0137_00003;3;;impasse des Rochers;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.03449;48.543721
+61228_0036_00005;5;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.002654;48.526884
+61228_0096_00002;2;;impasse de la Lande;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.063429;48.508783
+61228_0019_00004;4;;impasse de la Boularderie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.006473;48.531824
+61228_0031_00002;2;;impasse du Canard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.017342;48.538417
+61228_0031_00006;6;;impasse du Canard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.017549;48.538487
+61228_0078_00007;7;;route du Haut de Gatenoë;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.066906;48.533586
+61228_0152_00002;2;;impasse des Vaux;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.054292;48.541146
+61228_0033_00002;2;;impasse du Champ Rond;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.007082;48.532685
+61228_0132_00002;2;;rue de la Raterie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.016724;48.531327
+61228_0132_00005;5;;rue de la Raterie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.016864;48.531414
+61228_0132_00017;17;;rue de la Raterie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.015102;48.532474
+61228_0141_00001;1;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.024475;48.51986
+61228_0141_00063;63;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.012129;48.539396
+61228_0136_00003;3;;route de la Roche Elie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.043856;48.498198
+61228_0087_00001;1;;impasse du Jardin;61420;61228;L'Orée-d'Écouves;Livaie;;-0.045025;48.497846
+61228_0132_00011;11;;rue de la Raterie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.017092;48.532777
+61228_0141_00047;47;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.00107;48.531887
+61228_0141_00057;57;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.007305;48.535687
+61228_0051_00002;2;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.0456;48.534187
+61228_0051_00023;23;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.037751;48.536337
+61228_0011_00001;1;;impasse de la Basse Plesse;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.03481;48.532658
+61228_0016_00007;7;;impasse de la Blotière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.04653;48.515726
+61228_0016_00012;12;;impasse de la Blotière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.046368;48.51574
+61228_0040_00003;3;;impasse de la Croimière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.004779;48.53413
+61228_0116_00005;5;;route du Patis;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.068368;48.517337
+61228_0061_00013;13;;route de la Frelonnière;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.03442;48.538614
+61228_0034_00002;2;;impasse de la Chaunière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.053495;48.519628
+61228_0014_00007;7;;route de la Biochère;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.055638;48.533877
+61228_0043_00008;8;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.035136;48.5348
+61228_0098_00001;1;;impasse de la Loge;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.004733;48.520348
+61228_0057_00008;8;;impasse de l'Être Pitois;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.061721;48.516803
+61228_0068_00001;1;;impasse des Gaudinières;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.021985;48.515721
+61228_0024_00003;3;;rue de Bousance;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.0367;48.537975
+61228_0024_00010;10;;rue de Bousance;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.036377;48.538246
+61228_0106_00001;1;;impasse des Noës;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.010882;48.527772
+61228_0036_00002;2;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.004227;48.527126
+61228_0036_00010;10;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.001962;48.526727
+61228_0036_00022;22;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.016163;48.539343
+61228_0103_00005;5;;rue du Moulin;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.022659;48.515592
+61228_0151_00006;6;;Route des Vallees;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.053067;48.543954
+61228_0120_00001;1;;impasse du Pont;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.072058;48.518269
+61228_0070_00003;3;;rue de la Gonterie;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.042754;48.541473
+61228_0067_00003;3;;route de Gatenoë;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.065982;48.53131
+61228_0067_00009;9;;route de Gatenoë;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.068101;48.531459
+61228_0078_00001;1;;route du Haut de Gatenoë;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.06763;48.532411
+61228_0097_00003;3;;impasse de la Landrée;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.025932;48.541493
+61228_0051_00010;10;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.039582;48.53567
+61228_0051_00015;15;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.038534;48.536069
+61228_0051_00018;18;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.036992;48.536793
+61228_0051_00026;26;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.037557;48.537295
+61228_0051_00041;41;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.038735;48.538129
+61228_0016_00004;4;;impasse de la Blotière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.041471;48.515498
+61228_0040_00008;8;;impasse de la Croimière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.004003;48.533252
+61228_0102_00003;3;;route de la Marinerie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.003182;48.52823
+61228_0102_00007;7;;route de la Marinerie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.002434;48.527674
+61228_0102_00015;15;;route de la Marinerie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.001025;48.525751
+61228_0116_00002;2;;route du Patis;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.068271;48.517582
+61228_0116_00010;10;;route du Patis;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.071235;48.520553
+61228_0116_00013;13;;route du Patis;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.072541;48.519067
+61228_0013_00008;8;;rue de la Baudrière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.047999;48.524537
+61228_0037_00003;3;;impasse de la Corbinière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.014112;48.525324
+61228_0026_00003;3;;impasse des Brûlis;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.012721;48.53198
+61228_0014_00004;4;;route de la Biochère;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.054481;48.533055
+61228_0043_00001;1;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Livaie;;-0.032726;48.512809
+61228_0043_00029;29;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Livaie;;-0.029142;48.53025
+61228_0138_00007;7;;impasse des Rues;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.000163;48.538515
+61228_0121_00006;6;;route de la Potence;61320;61228;L'Orée-d'Écouves;Livaie;;-0.047247;48.520996
+61228_0121_00009;9;;route de la Potence;61320;61228;L'Orée-d'Écouves;Livaie;;-0.043069;48.519388
+61228_0022_00010;10;;route du Bourg;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.065566;48.518128
+61228_0052_00001;1;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.032161;48.51381
+61228_0052_00009;9;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.032749;48.514573
+61228_0052_00025;25;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.033548;48.51652
+61228_0028_00007;7;;impasse des Buttes;61420;61228;L'Orée-d'Écouves;Livaie;;-0.037249;48.521423
+61228_0054_00005;5;;impasse des Essaisses;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.010725;48.539837
+61228_0101_00004;4;;impasse de la Mairie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.032129;48.515035
+61228_0035_00001;1;;impasse des Communes;61420;61228;L'Orée-d'Écouves;Livaie;;-0.043346;48.514682
+61228_0036_00015;15;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.015183;48.538205
+61228_0096_00001;1;;impasse de la Lande;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.063673;48.509025
+61228_0151_00002;2;;Route des Vallees;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.048311;48.544705
+61228_0131_00007;7;;route de Raisne;61420;61228;L'Orée-d'Écouves;Livaie;;-0.052623;48.494196
+61228_0131_00010;10;;route de Raisne;61420;61228;L'Orée-d'Écouves;Livaie;;-0.055516;48.49525
+61228_0152_00004;4;;impasse des Vaux;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.054082;48.540881
+61228_0053_00003;3;;impasse de l'Epart;61420;61228;L'Orée-d'Écouves;Livaie;;-0.02037;48.48917
+61228_0132_00004;4;;rue de la Raterie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.016381;48.532018
+61228_0141_00003;3;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.022955;48.520526
+61228_0141_00006;6;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.012045;48.524257
+61228_0141_00013;13;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.012012;48.524874
+61228_0141_00037;37;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.002817;48.529746
+61228_0141_00059;59;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.00742;48.536043
+61228_0051_00017;17;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.038301;48.536141
+61228_0016_00010;10;;impasse de la Blotière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.043281;48.515553
+61228_0102_00005;5;;route de la Marinerie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.00237;48.527935
+61228_0102_00008;8;;route de la Marinerie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.00215;48.527319
+61228_0102_00016;16;;route de la Marinerie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.00064;48.523183
+61228_0116_00001;1;;route du Patis;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.068231;48.517452
+61228_0116_00009;9;;route du Patis;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.069874;48.518154
+61228_0056_00007;7;;impasse de l'Être Gasnier;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.007464;48.53763
+61228_0119_00002;2;;rue de Pompierre;61420;61228;L'Orée-d'Écouves;Livaie;;-0.031249;48.518752
+61228_0061_00009;9;;route de la Frelonnière;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.033716;48.538369
+61228_0061_00025;25;;route de la Frelonnière;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.025105;48.540338
+61228_0014_00005;5;;route de la Biochère;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.055793;48.533636
+61228_0014_00010;10;;route de la Biochère;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.055965;48.535235
+61228_0043_00033;33;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.031808;48.532371
+61228_0138_00001;1;;impasse des Rues;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.002427;48.536756
+61228_0022_00001;1;;route du Bourg;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.065061;48.518121
+61228_0022_00009;9;;route du Bourg;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.067287;48.517475
+61228_0052_00002;2;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.032002;48.513847
+61228_0086_00007;7;;impasse de la Jâle;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.008382;48.517403
+61228_0054_00007;7;;impasse des Essaisses;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.010634;48.539964
+61228_0012_00001;1;;impasse de la Baudrière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.045976;48.525049
+61228_0101_00002;2;;impasse de la Mairie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.032564;48.51491
+61228_0103_00001;1;;rue du Moulin;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.022746;48.516644
+61228_0046_00002;2;;impasse des Défas;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.054476;48.51432
+61228_0151_00003;3;;Route des Vallees;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.049257;48.544691
+61228_0067_00006;6;;route de Gatenoë;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.071312;48.531742
+61228_0087_00003;3;;impasse du Jardin;61420;61228;L'Orée-d'Écouves;Livaie;;-0.045412;48.497757
+61228_0132_00007;7;;rue de la Raterie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.016911;48.531481
+61228_0141_00018;18;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.003449;48.528905
+61228_0136_00004;4;;route de la Roche Elie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.034136;48.511027
+61228_0136_00016;16;;route de la Roche Elie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.045115;48.49768
+61228_0051_00012;12;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.038977;48.535895
+61228_0051_00029;29;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.037454;48.537104
+61228_0016_00002;2;;impasse de la Blotière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.040991;48.515323
+61228_0040_00001;1;;impasse de la Croimière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.005052;48.534158
+61228_0040_00006;6;;impasse de la Croimière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.004561;48.534043
+61228_0056_00002;2;;impasse de l'Être Gasnier;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.007952;48.537071
+61228_0013_00004;4;;rue de la Baudrière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.045281;48.525014
+61228_0013_00007;7;;rue de la Baudrière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.0463;48.524817
+61228_0013_00013;13;;rue de la Baudrière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.048086;48.524151
+61228_0119_00011;11;;rue de Pompierre;61420;61228;L'Orée-d'Écouves;Livaie;;-0.030616;48.519044
+61228_0015_00002;2;;impasse du Bisson;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.060502;48.512421
+61228_0015_00009;9;;impasse du Bisson;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.059759;48.512863
+61228_0061_00015;15;;route de la Frelonnière;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.02885;48.538357
+61228_0014_00002;2;;route de la Biochère;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.054629;48.533041
+61228_0043_00006;6;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.031107;48.532145
+61228_0043_00010;10;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.036567;48.536665
+61228_0043_00025;25;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Livaie;;-0.028519;48.530475
+61228_0138_00004;4;;impasse des Rues;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.000356;48.538712
+61228_0138_00013;13;;impasse des Rues;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.000878;48.538868
+61228_0121_00007;7;;route de la Potence;61320;61228;L'Orée-d'Écouves;Livaie;;-0.042781;48.519304
+61228_0022_00006;6;;route du Bourg;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.06529;48.518184
+61228_0052_00010;10;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.032678;48.514767
+61228_0052_00013;13;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.033381;48.514519
+61228_0057_00003;3;;impasse de l'Être Pitois;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.060181;48.516721
+61228_0068_00005;5;;impasse des Gaudinières;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.021082;48.515592
+61228_0024_00001;1;;rue de Bousance;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.037133;48.537519
+61228_0107_00001;1;;impasse des Noëtes;61420;61228;L'Orée-d'Écouves;Livaie;;-0.031072;48.514078
+61228_0137_00001;1;;impasse des Rochers;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.034346;48.543989
+61228_0137_00004;4;;impasse des Rochers;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.034482;48.54363
+61228_0106_00002;2;;impasse des Noës;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.008653;48.529165
+61228_0118_00001;1;;impasse du Plessis;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.073288;48.519355
+61228_0096_00008;8;;impasse de la Lande;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.062009;48.5082
+61228_0055_00002;2;;impasse de l'Être Bourg;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.063903;48.519148
+61228_0046_00007;7;;impasse des Défas;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.053847;48.514397
+61228_0041_00002;2;;route de la Croix Béziers;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.067951;48.518296
+61228_0019_00003;3;;impasse de la Boularderie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.006651;48.530435
+61228_0143_00004;4;;impasse des Sources;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.050253;48.542595
+61228_0017_00001;1;;route du Bois de la Haie;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.066165;48.515269
+61228_0120_00002;2;;impasse du Pont;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.071802;48.51844
+61228_0031_00004;4;;impasse du Canard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.017311;48.538271
+61228_0123_00003;3;;impasse du Pouillolet;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.005706;48.536242
+61228_0038_00002;2;;impasse de la Coucouterie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.012713;48.520582
+61228_0069_00002;2;;route de la Gélinière;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.05884;48.534007
+61228_0051_00031;31;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.037897;48.537457
+61228_0051_00034;34;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.038227;48.53796
+61228_0056_00006;6;;impasse de l'Être Gasnier;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.008162;48.538201
+61228_0119_00009;9;;rue de Pompierre;61420;61228;L'Orée-d'Écouves;Livaie;;-0.031089;48.519187
+61228_0061_00002;2;;route de la Frelonnière;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.036195;48.53693
+61228_0061_00005;5;;route de la Frelonnière;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.036609;48.537046
+61228_0061_00019;19;;route de la Frelonnière;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.028474;48.538965
+61228_0014_00012;12;;route de la Biochère;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.056499;48.535074
+61228_0138_00003;3;;impasse des Rues;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.000239;48.53757
+61228_0121_00001;1;;route de la Potence;61320;61228;L'Orée-d'Écouves;Livaie;;-0.028273;48.511978
+61228_0022_00002;2;;route du Bourg;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.064068;48.518251
+61228_0022_00005;5;;route du Bourg;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.066172;48.517878
+61228_0052_00006;6;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.032326;48.514232
+61228_0052_00014;14;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.033151;48.515634
+61228_0052_00017;17;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.032866;48.514726
+61228_0086_00008;8;;impasse de la Jâle;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.01257;48.516278
+61228_0012_00004;4;;impasse de la Baudrière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.046146;48.52604
+61228_0137_00002;2;;impasse des Rochers;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.034559;48.543641
+61228_0036_00007;7;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.002036;48.526802
+61228_0036_00018;18;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.014306;48.532113
+61228_0096_00012;12;;impasse de la Lande;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.061523;48.508565
+61228_0131_00002;2;;route de Raisne;61420;61228;L'Orée-d'Écouves;Livaie;;-0.049637;48.494095
+61228_0018_00007;7;;route du Bois Mallet;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.006682;48.538867
+61228_0123_00007;7;;impasse du Pouillolet;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.00523;48.536294
+61228_0038_00001;1;;impasse de la Coucouterie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.012576;48.520568
+61228_0077_00002;2;;impasse du Haut Bois;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.06548;48.521299
+61228_0102_00012;12;;route de la Marinerie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.001876;48.526973
+61228_0056_00003;3;;impasse de l'Être Gasnier;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.007611;48.537395
+61228_0056_00015;15;;impasse de l'Être Gasnier;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.008118;48.538232
+61228_0013_00003;3;;rue de la Baudrière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.044962;48.524885
+61228_0013_00011;11;;rue de la Baudrière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.047039;48.524742
+61228_0119_00003;3;;rue de Pompierre;61420;61228;L'Orée-d'Écouves;Livaie;;-0.033138;48.519971
+61228_0015_00003;3;;impasse du Bisson;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.060932;48.512616
+61228_0015_00007;7;;impasse du Bisson;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.060116;48.512733
+61228_0071_00002;2;;impasse de la Guiltière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.005906;48.521162
+61228_0043_00019;19;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Livaie;;-0.028769;48.515197
+61228_0043_00035;35;;route de la Croix Chevreuil;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.031827;48.532186
+61228_0086_00005;5;;impasse de la Jâle;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.011005;48.521569
+61228_0057_00001;1;;impasse de l'Être Pitois;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.063096;48.517267
+61228_0088_00003;3;;impasse du Jarriot;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.069933;48.523083
+61228_0068_00009;9;;impasse des Gaudinières;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.015608;48.51546
+61228_0106_00004;4;;impasse des Noës;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.011529;48.527264
+61228_0096_00006;6;;impasse de la Lande;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.062097;48.508182
+61228_0055_00004;4;;impasse de l'Être Bourg;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.06408;48.519115
+61228_0046_00005;5;;impasse des Défas;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.05413;48.514161
+61228_0023_00002;2;;impasse de Bousance;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.025334;48.544857
+61228_0143_00002;2;;impasse des Sources;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.050615;48.544516
+61228_0017_00003;3;;route du Bois de la Haie;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.065894;48.51393
+61228_0031_00001;1;;impasse du Canard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.017782;48.538712
+61228_0031_00008;8;;impasse du Canard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.018396;48.538828
+61228_0025_00006;6;;route des Brousses;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.059517;48.523426
+61228_0132_00015;15;;rue de la Raterie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.016253;48.531989
+61228_0132_00021;21;;rue de la Raterie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.008744;48.527155
+61228_0141_00021;21;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.003965;48.528536
+61228_0141_00053;53;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.005251;48.534624
+61228_0136_00010;10;;route de la Roche Elie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.046925;48.499885
+61228_0051_00004;4;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.045764;48.53418
+61228_0051_00009;9;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.039715;48.535679
+61228_0051_00021;21;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.037943;48.536272
+61228_0051_00032;32;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.038161;48.537861
+61228_0051_00037;37;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.038187;48.537687
+61228_0051_00043;43;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.038656;48.540089
+61228_0016_00005;5;;impasse de la Blotière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.046312;48.515668
+61228_0040_00009;9;;impasse de la Croimière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.003803;48.533988
+61228_0102_00011;11;;route de la Marinerie;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.001881;48.527139
+61228_0116_00006;6;;route du Patis;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.070023;48.518306
+61228_0116_00015;15;;route du Patis;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.071916;48.519083
+61228_0037_00005;5;;impasse de la Corbinière;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.014389;48.525486
+61228_0052_00005;5;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.032346;48.514065
+61228_0052_00019;19;;rue de l'Eglise;61420;61228;L'Orée-d'Écouves;Livaie;;-0.033012;48.515222
+61228_0028_00001;1;;impasse des Buttes;61420;61228;L'Orée-d'Écouves;Livaie;;-0.03666;48.520449
+61228_0028_00005;5;;impasse des Buttes;61420;61228;L'Orée-d'Écouves;Livaie;;-0.037064;48.52101
+61228_0086_00003;3;;impasse de la Jâle;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.011345;48.522245
+61228_0101_00005;5;;impasse de la Mairie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.031895;48.515681
+61228_0024_00008;8;;rue de Bousance;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.036429;48.538072
+61228_0036_00001;1;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.004253;48.527186
+61228_0036_00004;4;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.003201;48.527055
+61228_0036_00012;12;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.000131;48.52764
+61228_0036_00020;20;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.016041;48.539136
+61228_0067_00001;1;;route de Gatenoë;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.065435;48.531349
+61228_0067_00011;11;;route de Gatenoë;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.068975;48.531597
+61228_0078_00005;5;;route du Haut de Gatenoë;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.066571;48.532574
+61228_0027_00001;1;;impasse des Bruyères;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.023437;48.53691
+61228_0087_00006;6;;impasse du Jardin;61420;61228;L'Orée-d'Écouves;Livaie;;-0.045066;48.498536
+61228_0141_00009;9;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.012596;48.524512
+61228_0141_00026;26;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.002419;48.529194
+61228_0141_00029;29;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.003701;48.528771
+61228_0141_00043;43;;route de la Savatte;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.00268;48.529855
+61228_0136_00001;1;;route de la Roche Elie;61420;61228;L'Orée-d'Écouves;Livaie;;-0.033563;48.511279
+61228_0051_00024;24;;route des Ecoles;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.037338;48.537089
+61228_0056_00013;13;;impasse de l'Être Gasnier;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.007551;48.538362
+61228_0061_00003;3;;route de la Frelonnière;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.036835;48.536943
+61228_0026_00001;1;;impasse des Brûlis;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.012953;48.532234
+61228_0026_00004;4;;impasse des Brûlis;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.013823;48.532143
+61228_0014_00013;13;;route de la Biochère;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.05651;48.534822
+61228_0098_00003;3;;impasse de la Loge;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.001349;48.520182
+61228_0121_00004;4;;route de la Potence;61320;61228;L'Orée-d'Écouves;Livaie;;-0.043196;48.519691
+61228_0054_00002;2;;impasse des Essaisses;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.011335;48.539882
+61228_0012_00005;5;;impasse de la Baudrière;61420;61228;L'Orée-d'Écouves;Livaie;;-0.046338;48.525913
+61228_0036_00009;9;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.000861;48.528377
+61228_0036_00017;17;;route du Conier Boulard;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;0.01563;48.538707
+61228_0096_00004;4;;impasse de la Lande;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.062299;48.508196
+61228_0131_00005;5;;route de Raisne;61420;61228;L'Orée-d'Écouves;Livaie;;-0.051571;48.494169
+61228_0131_00008;8;;route de Raisne;61420;61228;L'Orée-d'Écouves;Livaie;;-0.054701;48.495045
+61228_0018_00003;3;;route du Bois Mallet;61420;61228;L'Orée-d'Écouves;Fontenai-les-Louvets;;-0.004026;48.529463
+61228_0017_00006;6;;route du Bois de la Haie;61320;61228;L'Orée-d'Écouves;Longuenoë;;-0.064494;48.508887
+61228_0070_00001;1;;rue de la Gonterie;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.042516;48.541457
+61228_0117_00002;2;;impasse du Pissot;61320;61228;L'Orée-d'Écouves;Saint-Didier-sous-Écouves;;-0.045713;48.534881
+61228_0053_00001;1;;impasse de l'Epart;61420;61228;L'Orée-d'Écouves;Livaie;;-0.020277;48.48914

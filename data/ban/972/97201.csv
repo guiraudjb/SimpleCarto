@@ -1,0 +1,913 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+97201_3bl0i9_00070;70;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111942;14.819045
+97201_rr8en8_00927;927;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.103282;14.831615
+97201_ancrgq_00588;588;;Route des Pommes Roses;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.114524;14.817765
+97201_rr8en8_00760;760;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.106071;14.830551
+97201_rr8en8_00897;897;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.105152;14.831443
+97201_mle5mk_00334;334;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.114328;14.820342
+97201_zz25lo_00170;170;;Rue des Pipirit;97216;97201;L'Ajoupa-Bouillon;;;-61.111509;14.819986
+97201_1m2wxu_00073;73;;Chemin Koussou;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.114029;14.819182
+97201_col3jg_00595;595;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112362;14.82189
+97201_fe7ed1_00122;122;;Cour des Balisiers;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.120576;14.823462
+97201_pmnbs4_00732;732;;Chemin des Gorges;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.129447;14.820338
+97201_eq3uy2_00011;11;;Allée Grandvisir-Clerc;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.114365;14.817638
+97201_rr8en8_00540;540;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.107926;14.829759
+97201_kit05d_00061;61;;Cour Landally;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.115075;14.820874
+97201_hju26w_00179;179;;Impasse Abel;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.115993;14.816637
+97201_uyun2a_00097;97;;Impasse des Anthuriums;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.119913;14.823972
+97201_p7v7ul_00011;11;;Impasse Eden;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.122439;14.81296
+97201_abohhp_00057;57;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.11121;14.821825
+97201_y7ob15_00050;50;;Impasse Nol;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.103335;14.816306
+97201_1m2wxu_00091;91;;Chemin Koussou;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.114177;14.819221
+97201_col3jg_02131;2131;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.106769;14.814452
+97201_rr8en8_00149;149;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110495;14.827443
+97201_f9werx_00256;256;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.113393;14.827301
+97201_mmkck0_00089;89;;Impasse Sinnama;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.115024;14.817138
+97201_o7l1zj_00041;41;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112562;14.820069
+97201_6rc4mh_00058;58;;Rue du Temple;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.117002;14.823896
+97201_3ok0dl_00139;139;;Allée Déruel;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.113823;14.816262
+97201_lfv80l_01150;1150;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117902;14.820264
+97201_x64fq5_00168;168;;Impasse Aboulaï;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.11724;14.825608
+97201_rr8en8_00889;889;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.105214;14.831353
+97201_2jma0j_00007;7;;Allée de la Bananeraie;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110656;14.821024
+97201_x024fu_00056;56;;Allée des Palmiers;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.110158;14.814678
+97201_col3jg_01265;1265;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.112378;14.817107
+97201_gzbx1s_00055;55;;Cour Marceau;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.110589;14.824377
+97201_2jma0j_00003;3;;Allée de la Bananeraie;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110388;14.821444
+97201_gzbx1s_00053;53;;Cour Marceau;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.110593;14.824303
+97201_yq5gf5_00028;28;;Cour Suzette;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.110768;14.815617
+97201_xmih8x_00062;62;;Impasse Démaré;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.104398;14.830734
+97201_moeyvj_00183;183;;Impasse Mayo;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.119786;14.818738
+97201_gedbkf_00039;39;;Ruelle Sonson;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11576;14.819955
+97201_vcfmks_00972;972;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.107027;14.818651
+97201_lfv80l_01067;1067;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117377;14.820651
+97201_rr8en8_01387;1387;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.103263;14.831275
+97201_col3jg_00093;93;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.113444;14.824703
+97201_col3jg_01212;1212;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.1126;14.817403
+97201_o7l1zj_00218;218;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11111;14.819325
+97201_col3jg_02031;2031;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.107572;14.814086
+97201_3bl0i9_00051;51;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111696;14.81919
+97201_lfv80l_01048;1048;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117627;14.820794
+97201_f9werx_00268;268;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.113422;14.827156
+97201_6z78gf_00119;119;;Impasse Allaguy-Salachy;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.108308;14.827707
+97201_x024fu_00097;97;;Allée des Palmiers;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.109783;14.814566
+97201_vcfmks_00976;976;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.106777;14.818474
+97201_col3jg_01875;1875;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.108346;14.814755
+97201_yips4m_00210;210;;Chemin Marchal;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.109434;14.825866
+97201_o7l1zj_00087;87;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112183;14.819954
+97201_3bl0i9_00029;29;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111654;14.8194
+97201_f9werx_00921;921;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.117467;14.824362
+97201_col3jg_01995;1995;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.107878;14.814
+97201_rr8en8_00890;890;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.105107;14.831271
+97201_lfv80l_00389;389;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.114564;14.824862
+97201_lfv80l_00734;734;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117266;14.823337
+97201_lfv80l_00354;354;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.114385;14.825188
+97201_qlggje_00227;227;;Impasse Man Armongon;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.115499;14.822112
+97201_xmih8x_00583;583;;Impasse Démaré;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.106638;14.829143
+97201_onhgdj_00184;184;;Impasse Mercédès;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110373;14.828194
+97201_mle5mk_00211;211;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11548;14.820393
+97201_col3jg_02476;2476;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.104236;14.815462
+97201_col3jg_02038;2038;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.107467;14.813936
+97201_o7l1zj_00186;186;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111389;14.81946
+97201_7yxh35_00209;209;;Chemin Moothamah;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.125593;14.817119
+97201_1m67uj_03050;3050;;Route Nationale 3;97216;97201;L'Ajoupa-Bouillon;;Capote;-61.127975;14.802734
+97201_vcfmks_00974;974;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.106983;14.818246
+97201_lfv80l_00856;856;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.118354;14.822388
+97201_7yxh35_00796;796;;Chemin Moothamah;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.130994;14.816871
+97201_vcfmks_01128;1128;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.105633;14.818472
+97201_mle5mk_00427;427;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.113491;14.820553
+97201_abohhp_00061;61;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.111245;14.821785
+97201_fe7ed1_00062;62;;Cour des Balisiers;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.119981;14.823494
+97201_lfv80l_00822;822;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.118196;14.823
+97201_col3jg_01100;1100;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.113414;14.817719
+97201_v0fjxj_00097;97;;Allée des Cocotiers;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.106392;14.813857
+97201_lfv80l_01053;1053;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117035;14.820883
+97201_6z78gf_00012;12;;Impasse Allaguy-Salachy;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.108895;14.828419
+97201_col3jg_01245;1245;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.112313;14.817288
+97201_lfv80l_00371;371;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.114452;14.824967
+97201_lfv80l_01274;1274;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.119044;14.820313
+97201_a2esd4_00076;76;;Cour Mouzouké;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.112188;14.816498
+97201_ij1qlk_00073;73;;Rue du Cimetière;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.113898;14.825883
+97201_rr8en8_00920;920;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.104672;14.831251
+97201_lfv80l_00750;750;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117426;14.823277
+97201_col3jg_01903;1903;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.1084;14.814486
+97201_col3jg_00164;164;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.112992;14.824235
+97201_poqtge_00227;227;;Rue du Cordonnier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.109557;14.824597
+97201_o7l1zj_00123;123;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111852;14.819824
+97201_o7l1zj_00198;198;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111268;14.819421
+97201_uyun2a_00057;57;;Impasse des Anthuriums;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.119613;14.823699
+97201_o7l1zj_00135;135;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111735;14.819793
+97201_lfv80l_00520;520;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.11557;14.824222
+97201_1m67uj_00231;231;;Route Nationale 3;97216;97201;L'Ajoupa-Bouillon;;;-61.123218;14.817319
+97201_rr8en8_00456;456;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.108455;14.829275
+97201_f9werx_00696;696;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.115985;14.825512
+97201_7qi8xq_00118;118;;Allée Boudou;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.123288;14.812055
+97201_fk8lv7_00008;8;;Cour Voisin;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.10712;14.814307
+97201_zioftc_00067;67;;Impasse Nolas;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110492;14.826606
+97201_1m67uj_01590;1590;;Route Nationale 3;97216;97201;L'Ajoupa-Bouillon;;;-61.122716;14.807612
+97201_2jma0j_00009;9;;Allée de la Bananeraie;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110843;14.820787
+97201_o7l1zj_00427;427;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.109469;14.818531
+97201_bzsuji_00036;36;;Allée des Acacias;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.11958;14.82272
+97201_zioftc_00083;83;;Impasse Nolas;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110374;14.8265
+97201_col3jg_01345;1345;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.112598;14.816407
+97201_lfv80l_01049;1049;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117435;14.820816
+97201_yips4m_00076;76;;Chemin Marchal;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.109649;14.825285
+97201_9uqq2k_00007;7;;Chemin Misié Jéniis;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.113034;14.82451
+97201_o7l1zj_00149;149;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111626;14.81973
+97201_lfv80l_00140;140;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.113123;14.826559
+97201_lfv80l_00111;111;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.112637;14.82637
+97201_7y63i9_00011;11;;Allée des Alpinias;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.111511;14.825653
+97201_2jma0j_00001;1;;Allée de la Bananeraie;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110492;14.821395
+97201_uyun2a_00095;95;;Impasse des Anthuriums;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.119904;14.823931
+97201_xmih8x_00076;76;;Impasse Démaré;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.104573;14.830626
+97201_3bl0i9_00060;60;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11192;14.819132
+97201_o7l1zj_00077;77;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112271;14.819977
+97201_lfv80l_00521;521;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.115462;14.824158
+97201_col3jg_01040;1040;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.113434;14.818242
+97201_33lho3_00149;149;;Chemin Josapha;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.107955;14.81969
+97201_gw95yk_00066;66;;Impasse Manzè Fina;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.116532;14.824245
+97201_lfv80l_00406;406;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.114821;14.824899
+97201_lfv80l_00499;499;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.11534;14.824289
+97201_lfv80l_00445;445;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.114887;14.824432
+97201_col3jg_00492;492;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111681;14.822632
+97201_zz25lo_00035;35;;Rue des Pipirit;97216;97201;L'Ajoupa-Bouillon;;;-61.112534;14.820777
+97201_y7ob15_00064;64;;Impasse Nol;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.103442;14.816497
+97201_yq5gf5_00040;40;;Cour Suzette;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.110712;14.815741
+97201_yzaj2m_00125;125;;Impasse Tino;97216;97201;L'Ajoupa-Bouillon;;La Racine;-61.119134;14.821254
+97201_o7l1zj_00199;199;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11124;14.819506
+97201_mle5mk_00339;339;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11429;14.820459
+97201_u5x6le_00114;114;;Rue Adrien Rustal;97216;97201;L'Ajoupa-Bouillon;;;-61.112348;14.825264
+97201_lfv80l_00627;627;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.11632;14.823624
+97201_abohhp_00188;188;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.112271;14.821224
+97201_3bl0i9_00130;130;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112016;14.818528
+97201_mmkck0_00127;127;;Impasse Sinnama;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.115105;14.816809
+97201_nilt6u_00003;3;;Impasse Jean-Joseph;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.117129;14.818696
+97201_vcfmks_01026;1026;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.106503;14.81868
+97201_3bl0i9_00135;135;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111944;14.818644
+97201_col3jg_01329;1329;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.112528;14.816557
+97201_rr8en8_00146;146;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110343;14.827178
+97201_lfv80l_00207;207;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.113187;14.825746
+97201_zz25lo_00104;104;;Rue des Pipirit;97216;97201;L'Ajoupa-Bouillon;;;-61.112;14.820422
+97201_bnzwyj_02962;2962;;Route de l'Aileron;97216;97201;L'Ajoupa-Bouillon;;;-61.151983;14.806274
+97201_6rc4mh_00074;74;;Rue du Temple;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.11715;14.824017
+97201_eq3uy2_00065;65;;Allée Grandvisir-Clerc;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.114437;14.817155
+97201_x64fq5_00042;42;;Impasse Aboulaï;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.116243;14.826275
+97201_o7l1zj_00303;303;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110385;14.819043
+97201_zz25lo_00063;63;;Rue des Pipirit;97216;97201;L'Ajoupa-Bouillon;;;-61.112294;14.820671
+97201_abohhp_00234;234;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.112621;14.820983
+97201_o7l1zj_00432;432;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.109483;14.818413
+97201_fk8lv7_00062;62;;Cour Voisin;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.107375;14.814864
+97201_s0q7bg_00145;145;;Impasse Babin;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.104671;14.813881
+97201_lfv80l_01015;1015;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117318;14.821153
+97201_lfv80l_01013;1013;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117538;14.821133
+97201_1m67uj_00114;114;;Route Nationale 3;97216;97201;L'Ajoupa-Bouillon;;;-61.124057;14.818226
+97201_rr8en8_00245;245;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.109775;14.827948
+97201_col3jg_00387;387;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.110906;14.823115
+97201_col3jg_00353;353;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.11135;14.823499
+97201_mmkck0_00139;139;;Impasse Sinnama;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.115133;14.816699
+97201_col3jg_00389;389;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.11084;14.823068
+97201_rr8en8_01619;1619;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.103157;14.830966
+97201_bik6t3_00144;144;;Impasse Franciné;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.114159;14.821533
+97201_uyun2a_00119;119;;Impasse des Anthuriums;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.119988;14.824136
+97201_f9werx_00705;705;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.116032;14.825394
+97201_0045_00129;129;;Chemin Mondzi;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.111151;14.817194
+97201_col3jg_00883;883;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.113058;14.819609
+97201_col3jg_00061;61;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.113723;14.824842
+97201_pmnbs4_00756;756;;Chemin des Gorges;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.129638;14.820218
+97201_ekxoaf_00259;259;;Chemin de la Distillerie;97216;97201;L'Ajoupa-Bouillon;;;-61.106106;14.823498
+97201_rr8en8_01435;1435;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.1037;14.831291
+97201_poqtge_00033;33;;Rue du Cordonnier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.111076;14.823689
+97201_0035_00023;23;;Rue Ilmany et Marie-Louise;97216;97201;L'Ajoupa-Bouillon;;;-61.115576;14.824577
+97201_col3jg_02621;2621;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.103078;14.815971
+97201_col3jg_01488;1488;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.111978;14.81566
+97201_pmnbs4_01385;1385;;Chemin des Gorges;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.13431;14.816917
+97201_lfv80l_00127;127;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.112755;14.826288
+97201_3bl0i9_00136;136;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11195;14.818561
+97201_7y63i9_00007;7;;Allée des Alpinias;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.111734;14.825881
+97201_fe7ed1_00072;72;;Cour des Balisiers;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.120201;14.823502
+97201_rr8en8_00126;126;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110523;14.82718
+97201_o7l1zj_00065;65;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112361;14.820002
+97201_6z78gf_00065;65;;Impasse Allaguy-Salachy;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.10852;14.828147
+97201_f9werx_00523;523;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.115546;14.826424
+97201_lfv80l_01156;1156;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117953;14.820217
+97201_lio5sp_00090;90;;Cour Man Adrien;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.113506;14.821538
+97201_jjvz1x_00076;76;;Impasse Valliamé;97216;97201;L'Ajoupa-Bouillon;;La Racine;-61.118126;14.820981
+97201_pmnbs4_00380;380;;Chemin des Gorges;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.126245;14.820951
+97201_lfv80l_00752;752;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117685;14.823566
+97201_o7l1zj_00311;311;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110293;14.818988
+97201_rr8en8_00071;71;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110994;14.827076
+97201_col3jg_00573;573;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112207;14.821994
+97201_f9werx_01116;1116;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.118994;14.82355
+97201_mmkck0_00023;23;;Impasse Sinnama;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.114986;14.817744
+97201_3bl0i9_00142;142;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111884;14.818515
+97201_yzaj2m_00148;148;;Impasse Tino;97216;97201;L'Ajoupa-Bouillon;;La Racine;-61.11913;14.82151
+97201_vcfmks_00162;162;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.110215;14.821645
+97201_mle5mk_00116;116;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.116356;14.820378
+97201_yips4m_00125;125;;Chemin Marchal;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.110304;14.825281
+97201_lfv80l_00645;645;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.116434;14.823579
+97201_lfv80l_01522;1522;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.12131;14.820046
+97201_mmkck0_00053;53;;Impasse Sinnama;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.114993;14.817485
+97201_lfv80l_01070;1070;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117538;14.820562
+97201_yq5gf5_00027;27;;Cour Suzette;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.110844;14.815606
+97201_6rc4mh_00100;100;;Rue du Temple;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.117222;14.824218
+97201_0qvaiu_00018;18;;Rue de Quenty;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.117604;14.823116
+97201_rr8en8_00275;275;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.109527;14.828088
+97201_2jma0j_00011;11;;Allée de la Bananeraie;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110928;14.820677
+97201_o7l1zj_00167;167;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111478;14.819643
+97201_zz25lo_00122;122;;Rue des Pipirit;97216;97201;L'Ajoupa-Bouillon;;;-61.111829;14.82033
+97201_1m67uj_02827;2827;;Route Nationale 3;97216;97201;L'Ajoupa-Bouillon;;Capote;-61.125759;14.802787
+97201_o7l1zj_00382;382;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.109925;14.818567
+97201_dwxz9w_00081;81;;Impasse des Coquelicots;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.118185;14.825054
+97201_o7l1zj_00295;295;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110441;14.819087
+97201_lfv80l_00157;157;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.112809;14.826032
+97201_6rc4mh_00012;12;;Rue du Temple;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.116953;14.823496
+97201_lfv80l_00517;517;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.115259;14.824017
+97201_rr8en8_00399;399;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.108958;14.828985
+97201_col3jg_00487;487;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111559;14.822457
+97201_col3jg_00326;326;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.111726;14.823468
+97201_bnzwyj_02888;2888;;Route de l'Aileron;97216;97201;L'Ajoupa-Bouillon;;;-61.151286;14.8064
+97201_rr8en8_01247;1247;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.102006;14.83145
+97201_col3jg_02073;2073;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.107237;14.81421
+97201_pmnbs4_00032;32;;Chemin des Gorges;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.123274;14.81985
+97201_ekxoaf_01108;1108;;Chemin de la Distillerie;97216;97201;L'Ajoupa-Bouillon;;;-61.102046;14.829798
+97201_yh013t_00043;43;;Chemin du Muletier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.110326;14.824368
+97201_o7l1zj_00177;177;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111397;14.819607
+97201_rr8en8_00063;63;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.111128;14.827027
+97201_bik6t3_00116;116;;Impasse Franciné;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.114264;14.82129
+97201_x64fq5_00146;146;;Impasse Aboulaï;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.11708;14.825689
+97201_f9werx_00945;945;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.117607;14.824311
+97201_6rc4mh_00075;75;;Rue du Temple;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.117415;14.823988
+97201_o7l1zj_00257;257;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11076;14.81925
+97201_3bl0i9_00150;150;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111818;14.818543
+97201_3q1cek_00004;4;;Impasse des Bougainvilliers;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.11828;14.823993
+97201_gedbkf_00073;73;;Ruelle Sonson;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.115796;14.819652
+97201_49rhb7_00049;49;;Impasse Sévérin;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.108346;14.818855
+97201_lfv80l_01105;1105;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.11745;14.820254
+97201_col3jg_01920;1920;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.108687;14.814218
+97201_col3jg_01615;1615;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.110813;14.815448
+97201_1m67uj_02327;2327;;Route Nationale 3;97216;97201;L'Ajoupa-Bouillon;;Morne Coco;-61.121622;14.804665
+97201_fk8lv7_00026;26;;Cour Voisin;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.107172;14.814477
+97201_nilt6u_00135;135;;Impasse Jean-Joseph;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.117546;14.817631
+97201_rr7y0n_00058;58;;Impasse Man Émile;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.114945;14.827365
+97201_ancrgq_00193;193;;Route des Pommes Roses;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.117923;14.819166
+97201_33lho3_00189;189;;Chemin Josapha;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.108177;14.819328
+97201_3bl0i9_00089;89;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111837;14.818877
+97201_mwjvfr_00172;172;;Impasse Virassamy;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.121778;14.81817
+97201_9uqq2k_00042;42;;Chemin Misié Jéniis;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.112752;14.824662
+97201_ancrgq_00523;523;;Route des Pommes Roses;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.115444;14.817249
+97201_mmkck0_00155;155;;Impasse Sinnama;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.115098;14.816597
+97201_f9werx_00562;562;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.115772;14.826234
+97201_col3jg_02585;2585;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.103531;14.815886
+97201_col3jg_00505;505;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111733;14.822359
+97201_col3jg_00647;647;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112755;14.821591
+97201_vcfmks_00283;283;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.109391;14.822376
+97201_7y63i9_00003;3;;Allée des Alpinias;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.111748;14.826146
+97201_ancrgq_00589;589;;Route des Pommes Roses;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.114486;14.817895
+97201_3bl0i9_00022;22;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111865;14.819469
+97201_f9werx_01144;1144;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.119233;14.823416
+97201_npb296_01242;1242;;Chemin Trianon;97216;97201;L'Ajoupa-Bouillon;;;-61.139337;14.809978
+97201_f9werx_00244;244;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.113284;14.827239
+97201_hxlhpt_00015;15;;Impasse Chérubin;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.123215;14.819029
+97201_rptcpy_00036;36;;Cour Suzanne;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.113102;14.827625
+97201_rr8en8_00834;834;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.105473;14.830942
+97201_rr8en8_00566;566;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.107709;14.829836
+97201_poqtge_00375;375;;Rue du Cordonnier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.108581;14.825489
+97201_col3jg_02635;2635;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.103101;14.816296
+97201_col3jg_01820;1820;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.109088;14.814515
+97201_f9werx_00543;543;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.11571;14.826356
+97201_f9werx_00568;568;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.115668;14.826139
+97201_uph08t_00010;10;;Cour Boulon;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.124698;14.82024
+97201_f9werx_00321;321;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.113841;14.826844
+97201_col3jg_01877;1877;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.108336;14.814689
+97201_f9werx_01130;1130;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.119142;14.823516
+97201_jjvz1x_00017;17;;Impasse Valliamé;97216;97201;L'Ajoupa-Bouillon;;La Racine;-61.117898;14.82135
+97201_uyun2a_00050;50;;Impasse des Anthuriums;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.119358;14.823889
+97201_84nqm0_00024;24;;Rue des Sucriers;97216;97201;L'Ajoupa-Bouillon;;;-61.110614;14.821641
+97201_rr8en8_01093;1093;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.103668;14.831822
+97201_3bl0i9_00021;21;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111656;14.819485
+97201_o7l1zj_00383;383;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.109853;14.818852
+97201_bzsuji_00020;20;;Allée des Acacias;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.11966;14.822866
+97201_vcfmks_00107;107;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.110573;14.822025
+97201_0045_00600;600;;Chemin Mondzi;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.107162;14.816308
+97201_0qvaiu_00036;36;;Rue de Quenty;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.117724;14.823283
+97201_1m67uj_00410;410;;Route Nationale 3;97216;97201;L'Ajoupa-Bouillon;;;-61.123567;14.816508
+97201_zz25lo_00010;10;;Rue des Pipirit;97216;97201;L'Ajoupa-Bouillon;;;-61.112778;14.82075
+97201_col3jg_00108;108;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.113368;14.824443
+97201_o7l1zj_00060;60;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112438;14.819914
+97201_pmnbs4_00036;36;;Chemin des Gorges;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.123464;14.820144
+97201_3bl0i9_00156;156;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111742;14.818499
+97201_qlggje_00031;31;;Impasse Man Armongon;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.116466;14.820703
+97201_col3jg_02522;2522;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.103928;14.815627
+97201_o7l1zj_00342;342;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110391;14.818661
+97201_lfv80l_00271;271;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.113564;14.825263
+97201_abohhp_00039;39;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.110936;14.821788
+97201_poqtge_00213;213;;Rue du Cordonnier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.109671;14.824531
+97201_rptcpy_00004;4;;Cour Suzanne;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.112988;14.827373
+97201_f9werx_01074;1074;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.118838;14.823863
+97201_bnzwyj_02156;2156;;Route de l'Aileron;97216;97201;L'Ajoupa-Bouillon;;Trianon;-61.146284;14.805107
+97201_col3jg_02070;2070;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.107074;14.813853
+97201_col3jg_02544;2544;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.103743;14.815696
+97201_lfv80l_00057;57;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.113388;14.826346
+97201_p7v7ul_00351;351;;Impasse Eden;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.119558;14.811226
+97201_lfv80l_00046;46;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.112238;14.826851
+97201_col3jg_01074;1074;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.113455;14.817916
+97201_vcfmks_01176;1176;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.105306;14.818299
+97201_lfv80l_00161;161;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.112997;14.826103
+97201_vamqjc_00098;98;;Impasse des Orchidées;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.118851;14.822715
+97201_f9werx_01141;1141;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.119122;14.823343
+97201_zz25lo_00038;38;;Rue des Pipirit;97216;97201;L'Ajoupa-Bouillon;;;-61.11253;14.820658
+97201_gzbx1s_00039;39;;Cour Marceau;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.110459;14.824249
+97201_mfwzgy_00046;46;;Impasse Solo-Renard;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.109173;14.82752
+97201_col3jg_01954;1954;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.108294;14.813818
+97201_lfv80l_00093;93;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.112487;14.826462
+97201_vcfmks_01075;1075;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.106056;14.818751
+97201_pmnbs4_00008;8;;Chemin des Gorges;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.123116;14.819609
+97201_ij1qlk_00131;131;;Rue du Cimetière;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.114187;14.826327
+97201_rr8en8_01405;1405;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.103416;14.831277
+97201_col3jg_00173;173;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.11278;14.824357
+97201_f9werx_00816;816;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.117053;14.825135
+97201_abohhp_00180;180;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.112219;14.821268
+97201_rr7y0n_00152;152;;Impasse Man Émile;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.115788;14.827082
+97201_25396o_00078;78;;Impasse Hillion;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.111223;14.824108
+97201_rr8en8_01105;1105;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.103276;14.831799
+97201_jjvz1x_00016;16;;Impasse Valliamé;97216;97201;L'Ajoupa-Bouillon;;La Racine;-61.117935;14.821445
+97201_abohhp_00248;248;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.112718;14.820874
+97201_388g75_00003;3;;Impasse Cadol;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11612;14.820337
+97201_lfv80l_00120;120;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.112779;14.826403
+97201_25396o_00014;14;;Impasse Hillion;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.111704;14.823738
+97201_moeyvj_00250;250;;Impasse Mayo;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.119854;14.818087
+97201_lfv80l_01617;1617;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.122101;14.819632
+97201_npb296_01246;1246;;Chemin Trianon;97216;97201;L'Ajoupa-Bouillon;;;-61.139132;14.810342
+97201_0045_00308;308;;Chemin Mondzi;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.109593;14.81645
+97201_f9werx_01098;1098;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.118845;14.823623
+97201_2jma0j_00002;2;;Allée de la Bananeraie;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110755;14.821173
+97201_3bl0i9_00032;32;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111879;14.819387
+97201_6z78gf_00077;77;;Impasse Allaguy-Salachy;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.10844;14.828038
+97201_bik6t3_00052;52;;Impasse Franciné;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.114539;14.820763
+97201_mwjvfr_00221;221;;Impasse Virassamy;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.121392;14.817752
+97201_ancrgq_00665;665;;Route des Pommes Roses;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.113884;14.81784
+97201_lfv80l_00595;595;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.116044;14.823776
+97201_xmih8x_00299;299;;Impasse Démaré;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.104358;14.830157
+97201_lfv80l_01354;1354;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.119744;14.820402
+97201_gzbx1s_00011;11;;Cour Marceau;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.110301;14.824034
+97201_jjvz1x_00038;38;;Impasse Valliamé;97216;97201;L'Ajoupa-Bouillon;;La Racine;-61.118136;14.821358
+97201_84nqm0_00116;116;;Rue des Sucriers;97216;97201;L'Ajoupa-Bouillon;;;-61.111308;14.821144
+97201_84nqm0_00170;170;;Rue des Sucriers;97216;97201;L'Ajoupa-Bouillon;;;-61.111608;14.820696
+97201_abohhp_00094;94;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.111553;14.821759
+97201_f9werx_00950;950;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.117732;14.824311
+97201_col3jg_01855;1855;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.1087;14.814811
+97201_33lho3_00201;201;;Chemin Josapha;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.1084;14.819427
+97201_v0fjxj_00041;41;;Allée des Cocotiers;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.106022;14.814247
+97201_onhgdj_00128;128;;Impasse Mercédès;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110855;14.827953
+97201_1m67uj_00116;116;;Route Nationale 3;97216;97201;L'Ajoupa-Bouillon;;;-61.124722;14.818515
+97201_col3jg_01170;1170;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.113029;14.817393
+97201_col3jg_00744;744;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112932;14.820838
+97201_qlggje_00060;60;;Impasse Man Armongon;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.116393;14.821
+97201_rr8en8_01437;1437;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.103806;14.831049
+97201_ij1qlk_00038;38;;Rue du Cimetière;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.1136;14.825632
+97201_25396o_00039;39;;Impasse Hillion;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.111577;14.823959
+97201_uyun2a_00025;25;;Impasse des Anthuriums;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.119436;14.823481
+97201_col3jg_00545;545;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11201;14.822128
+97201_3bl0i9_00108;108;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112104;14.818833
+97201_poqtge_00293;293;;Rue du Cordonnier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.109011;14.824937
+97201_bik6t3_00097;97;;Impasse Franciné;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11441;14.821181
+97201_lfv80l_00600;600;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.116186;14.823867
+97201_v0fjxj_00109;109;;Allée des Cocotiers;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.106496;14.813836
+97201_o7l1zj_00103;103;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112027;14.819872
+97201_vcfmks_01144;1144;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.10547;14.818365
+97201_f9werx_00976;976;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.117905;14.82421
+97201_3bl0i9_00157;157;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111728;14.818629
+97201_rr8en8_00640;640;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.107075;14.830086
+97201_lio5sp_00011;11;;Cour Man Adrien;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.113072;14.821351
+97201_gw95yk_00040;40;;Impasse Manzè Fina;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.116435;14.824026
+97201_qlggje_00046;46;;Impasse Man Armongon;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.116397;14.820862
+97201_f9werx_00821;821;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.11695;14.82488
+97201_mle5mk_00294;294;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.114705;14.820294
+97201_84nqm0_00200;200;;Rue des Sucriers;97216;97201;L'Ajoupa-Bouillon;;;-61.111926;14.820701
+97201_9mlrk9_00110;110;;Allée Bellechasse;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.109203;14.813752
+97201_ancrgq_00499;499;;Route des Pommes Roses;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.115269;14.818184
+97201_s0q7bg_00083;83;;Impasse Babin;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.104739;14.81426
+97201_3bl0i9_00014;14;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111854;14.819548
+97201_rr8en8_00686;686;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.106671;14.830267
+97201_mwjvfr_00130;130;;Impasse Virassamy;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.121636;14.818491
+97201_mle5mk_00188;188;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.115696;14.820327
+97201_o7l1zj_00249;249;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110832;14.819286
+97201_3q1cek_00227;227;;Impasse des Bougainvilliers;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.119874;14.824879
+97201_o7l1zj_00159;159;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111553;14.819681
+97201_84nqm0_00158;158;;Rue des Sucriers;97216;97201;L'Ajoupa-Bouillon;;;-61.111626;14.820914
+97201_o7l1zj_00034;34;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112686;14.820001
+97201_twi4h4_00081;81;;Impasse des Mandariniers;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.108481;14.818425
+97201_rr8en8_00922;922;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.104821;14.831465
+97201_zioftc_00051;51;;Impasse Nolas;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110591;14.826712
+97201_9uqq2k_00130;130;;Chemin Misié Jéniis;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.112159;14.824977
+97201_lfv80l_00002;2;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.111842;14.827
+97201_mle5mk_00257;257;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.115054;14.820373
+97201_jjvz1x_00050;50;;Impasse Valliamé;97216;97201;L'Ajoupa-Bouillon;;La Racine;-61.118248;14.821221
+97201_pmnbs4_00110;110;;Chemin des Gorges;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.123997;14.819842
+97201_0035_00048;48;;Rue Ilmany et Marie-Louise;97216;97201;L'Ajoupa-Bouillon;;;-61.115557;14.824829
+97201_fe7ed1_00068;68;;Cour des Balisiers;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.120208;14.823652
+97201_vcfmks_00948;948;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.107206;14.818943
+97201_zz25lo_00144;144;;Rue des Pipirit;97216;97201;L'Ajoupa-Bouillon;;;-61.111666;14.820247
+97201_col3jg_00465;465;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111406;14.822545
+97201_f3m2rw_00064;64;;Impasse de la Plantation;97216;97201;L'Ajoupa-Bouillon;;;-61.111053;14.820456
+97201_0045_00073;73;;Chemin Mondzi;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.11169;14.817262
+97201_lfv80l_00149;149;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.112809;14.826032
+97201_chgu6l_00036;36;;Impasse Rosette;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.116561;14.824864
+97201_lfv80l_00519;519;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.11536;14.824068
+97201_ancrgq_00650;650;;Route des Pommes Roses;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.114023;14.81757
+97201_f9werx_00934;934;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.117595;14.824456
+97201_f9werx_00962;962;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.117852;14.824397
+97201_lfv80l_00296;296;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.113858;14.825329
+97201_lfv80l_00355;355;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.114311;14.825044
+97201_yips4m_00214;214;;Chemin Marchal;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.109561;14.826046
+97201_rr8en8_00144;144;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110429;14.827329
+97201_abohhp_00142;142;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.111919;14.821483
+97201_f9werx_00882;882;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.117565;14.824764
+97201_yzaj2m_00081;81;;Impasse Tino;97216;97201;L'Ajoupa-Bouillon;;La Racine;-61.119194;14.820809
+97201_lfv80l_00293;293;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.11373;14.825212
+97201_3bl0i9_00126;126;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11214;14.818568
+97201_col3jg_01676;1676;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.110366;14.815104
+97201_rr8en8_00624;624;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.107199;14.830018
+97201_lfv80l_01494;1494;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.12112;14.820356
+97201_ancrgq_00088;88;;Route des Pommes Roses;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.118852;14.819264
+97201_lfv80l_01446;1446;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.120636;14.820249
+97201_mle5mk_00449;449;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.113289;14.820553
+97201_lfv80l_00154;154;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.113176;14.826441
+97201_qlggje_00057;57;;Impasse Man Armongon;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.116455;14.820965
+97201_qlggje_00045;45;;Impasse Man Armongon;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.116498;14.820844
+97201_2jma0j_00006;6;;Allée de la Bananeraie;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111025;14.821007
+97201_col3jg_00853;853;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112935;14.819864
+97201_lfv80l_00179;179;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.113108;14.82596
+97201_abohhp_00056;56;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.111265;14.82195
+97201_col3jg_01576;1576;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.111235;14.815308
+97201_0035_00011;11;;Rue Ilmany et Marie-Louise;97216;97201;L'Ajoupa-Bouillon;;;-61.115507;14.82449
+97201_ekxoaf_01437;1437;;Chemin de la Distillerie;97216;97201;L'Ajoupa-Bouillon;;;-61.102973;14.829548
+97201_lfv80l_00384;384;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.114634;14.825015
+97201_col3jg_01758;1758;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.109575;14.814975
+97201_col3jg_01918;1918;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.108612;14.81427
+97201_mle5mk_00145;145;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.116078;14.820454
+97201_v0fjxj_00023;23;;Allée des Cocotiers;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.106151;14.814376
+97201_rr8en8_00428;428;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.108652;14.829094
+97201_yh013t_00085;85;;Chemin du Muletier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.110633;14.824606
+97201_f9werx_00864;864;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.117476;14.824982
+97201_lfv80l_00136;136;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.112913;14.826303
+97201_7y63i9_00005;5;;Allée des Alpinias;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.111836;14.825985
+97201_qlggje_00016;16;;Impasse Man Armongon;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.116362;14.820622
+97201_rr8en8_00800;800;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.105744;14.830729
+97201_yh013t_00140;140;;Chemin du Muletier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.110872;14.825046
+97201_lfv80l_00545;545;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.115538;14.823993
+97201_yh013t_00071;71;;Chemin du Muletier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.110516;14.824528
+97201_ij1qlk_00140;140;;Rue du Cimetière;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.114089;14.826473
+97201_rr8en8_00525;525;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.108115;14.82983
+97201_col3jg_00708;708;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.113132;14.821153
+97201_vamqjc_00082;82;;Impasse des Orchidées;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.11884;14.82284
+97201_col3jg_02055;2055;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.107363;14.814124
+97201_o7l1zj_00115;115;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111939;14.819856
+97201_lfv80l_00512;512;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.115539;14.824288
+97201_col3jg_01707;1707;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.11;14.815225
+97201_f9werx_00227;227;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.113046;14.8272
+97201_lfv80l_00060;60;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.112364;14.826786
+97201_poqtge_00377;377;;Rue du Cordonnier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.108483;14.825488
+97201_84nqm0_00132;132;;Rue des Sucriers;97216;97201;L'Ajoupa-Bouillon;;;-61.111447;14.821036
+97201_pmnbs4_00232;232;;Chemin des Gorges;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.125037;14.820334
+97201_col3jg_00293;293;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.111865;14.82376
+97201_o7l1zj_00022;22;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11277;14.820025
+97201_pmnbs4_00446;446;;Chemin des Gorges;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.12689;14.820976
+97201_lfv80l_01050;1050;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117595;14.820693
+97201_o7l1zj_00223;223;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111019;14.81939
+97201_vcfmks_00184;184;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.110016;14.821784
+97201_bw7t0b_00294;294;;Chemin Toulouse;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.1215;14.822345
+97201_rr8en8_00353;353;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.109132;14.828574
+97201_x64fq5_00100;100;;Impasse Aboulaï;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.116683;14.825852
+97201_fk8lv7_00056;56;;Cour Voisin;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.107214;14.814724
+97201_rr8en8_00060;60;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.111072;14.826836
+97201_abohhp_00034;34;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.111106;14.822077
+97201_rr8en8_01225;1225;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.102092;14.83172
+97201_mfwzgy_00060;60;;Impasse Solo-Renard;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.10896;14.827568
+97201_abohhp_00106;106;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.111646;14.821684
+97201_rptcpy_00064;64;;Cour Suzanne;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.11334;14.827764
+97201_73mr1t_00044;44;;Ruelle du 22 Mai;97216;97201;L'Ajoupa-Bouillon;;;-61.113353;14.826367
+97201_col3jg_01134;1134;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.113338;14.81741
+97201_mle5mk_00485;485;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112981;14.820606
+97201_jjvz1x_00098;98;;Impasse Valliamé;97216;97201;L'Ajoupa-Bouillon;;La Racine;-61.118035;14.820802
+97201_col3jg_02547;2547;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.103743;14.81583
+97201_25396o_00124;124;;Impasse Hillion;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.111475;14.824537
+97201_fe7ed1_00095;95;;Cour des Balisiers;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.120353;14.823441
+97201_73mr1t_00036;36;;Ruelle du 22 Mai;97216;97201;L'Ajoupa-Bouillon;;;-61.11329;14.826278
+97201_poqtge_00015;15;;Rue du Cordonnier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.111089;14.823424
+97201_3q1cek_00205;205;;Impasse des Bougainvilliers;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.119669;14.824776
+97201_f9werx_00957;957;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.117693;14.824203
+97201_lfv80l_00145;145;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.112897;14.826182
+97201_2jma0j_00004;4;;Allée de la Bananeraie;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110858;14.821128
+97201_lfv80l_00824;824;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.118058;14.822796
+97201_vcfmks_00083;83;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.110688;14.822269
+97201_abohhp_00173;173;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.112075;14.821203
+97201_lfv80l_01681;1681;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.122673;14.819493
+97201_moeyvj_00172;172;;Impasse Mayo;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.119862;14.818829
+97201_uyun2a_00099;99;;Impasse des Anthuriums;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.119854;14.82402
+97201_x024fu_00050;50;;Allée des Palmiers;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.110239;14.814689
+97201_mfwzgy_00118;118;;Impasse Solo-Renard;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.108685;14.82791
+97201_rr8en8_00120;120;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110515;14.827009
+97201_2jma0j_00008;8;;Allée de la Bananeraie;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111127;14.820917
+97201_yips4m_00232;232;;Chemin Marchal;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.109391;14.826117
+97201_o7l1zj_00052;52;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112521;14.819936
+97201_x64fq5_00048;48;;Impasse Aboulaï;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.116227;14.826024
+97201_rr8en8_00214;214;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.109894;14.827642
+97201_o7l1zj_00042;42;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.1126;14.819964
+97201_3bl0i9_00120;120;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11212;14.818676
+97201_poqtge_00277;277;;Rue du Cordonnier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.109129;14.824839
+97201_f9werx_00132;132;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.11225;14.827566
+97201_col3jg_01522;1522;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.111674;14.815572
+97201_2549kr_00052;52;;Impasse Man Gaston;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.107865;14.819201
+97201_lfv80l_00940;940;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.11832;14.821554
+97201_rr8en8_00485;485;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.10845;14.829623
+97201_f9werx_00038;38;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.111526;14.827229
+97201_npb296_01244;1244;;Chemin Trianon;97216;97201;L'Ajoupa-Bouillon;;;-61.139204;14.810217
+97201_lfv80l_01238;1238;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.118745;14.820535
+97201_col3jg_01108;1108;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.113433;14.817631
+97201_lfv80l_00441;441;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.115008;14.824659
+97201_onhgdj_00216;216;;Impasse Mercédès;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110127;14.828372
+97201_lfv80l_00411;411;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.11476;14.824782
+97201_84nqm0_00176;176;;Rue des Sucriers;97216;97201;L'Ajoupa-Bouillon;;;-61.111769;14.820805
+97201_twi4h4_00037;37;;Impasse des Mandariniers;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.108718;14.818784
+97201_col3jg_01972;1972;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.108114;14.813881
+97201_84nqm0_00078;78;;Rue des Sucriers;97216;97201;L'Ajoupa-Bouillon;;;-61.111013;14.821356
+97201_abohhp_00160;160;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.11206;14.821369
+97201_pmnbs4_00320;320;;Chemin des Gorges;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.12576;14.820776
+97201_col3jg_00187;187;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.112675;14.824271
+97201_3q1cek_00228;228;;Impasse des Bougainvilliers;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.119747;14.824968
+97201_rr8en8_00118;118;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110645;14.827161
+97201_abohhp_00147;147;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.111891;14.821346
+97201_ancrgq_00671;671;;Route des Pommes Roses;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.113757;14.817653
+97201_poqtge_00073;73;;Rue du Cordonnier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.110894;14.824223
+97201_abohhp_00222;222;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.112512;14.821056
+97201_zioftc_00025;25;;Impasse Nolas;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110751;14.82683
+97201_s0q7bg_00120;120;;Impasse Babin;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.104972;14.813966
+97201_33lho3_00243;243;;Chemin Josapha;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.108687;14.819183
+97201_xmih8x_00247;247;;Impasse Démaré;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.10391;14.830249
+97201_s0q7bg_00097;97;;Impasse Babin;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.104819;14.814159
+97201_lfv80l_01389;1389;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.120098;14.820206
+97201_dwxz9w_00049;49;;Impasse des Coquelicots;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.118415;14.824908
+97201_7y63i9_00001;1;;Allée des Alpinias;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.111608;14.826212
+97201_col3jg_01441;1441;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.112387;14.815882
+97201_xc28tt_00081;81;;Impasse Louis-Achille;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.122412;14.818722
+97201_col3jg_02643;2643;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.102901;14.816022
+97201_col3jg_01811;1811;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.109084;14.814926
+97201_lfv80l_00538;538;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.11569;14.82413
+97201_lfv80l_00548;548;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.115881;14.824256
+97201_f9werx_00635;635;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.115236;14.825433
+97201_col3jg_02529;2529;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.103921;14.815788
+97201_o7l1zj_00319;319;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110264;14.818909
+97201_388g75_00091;91;;Impasse Cadol;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.116217;14.81957
+97201_zioftc_00013;13;;Impasse Nolas;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110805;14.826935
+97201_zz25lo_00090;90;;Rue des Pipirit;97216;97201;L'Ajoupa-Bouillon;;;-61.11212;14.820467
+97201_73mr1t_00108;108;;Ruelle du 22 Mai;97216;97201;L'Ajoupa-Bouillon;;;-61.113899;14.826198
+97201_3bl0i9_00163;163;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11166;14.818606
+97201_f9werx_00281;281;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.113498;14.827034
+97201_ancrgq_00459;459;;Route des Pommes Roses;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.115619;14.81837
+97201_3bl0i9_00090;90;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111956;14.818875
+97201_mwjvfr_00204;204;;Impasse Virassamy;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.121662;14.8179
+97201_ancrgq_00424;424;;Route des Pommes Roses;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.115964;14.818268
+97201_3bl0i9_00052;52;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111915;14.819214
+97201_zioftc_00085;85;;Impasse Nolas;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110374;14.826407
+97201_ekxoaf_00478;478;;Chemin de la Distillerie;97216;97201;L'Ajoupa-Bouillon;;;-61.104441;14.824652
+97201_6z78gf_00041;41;;Impasse Allaguy-Salachy;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.10867;14.828333
+97201_pmnbs4_00605;605;;Chemin des Gorges;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.128259;14.820561
+97201_lio5sp_00025;25;;Cour Man Adrien;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.113175;14.821473
+97201_col3jg_01307;1307;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.1125;14.816756
+97201_lfv80l_00526;526;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.115611;14.824166
+97201_1m2wxu_00121;121;;Chemin Koussou;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.114465;14.819222
+97201_0qvaiu_00114;114;;Rue de Quenty;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.118138;14.823836
+97201_col3jg_01848;1848;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.108782;14.814737
+97201_kit05d_00066;66;;Cour Landally;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11503;14.820917
+97201_zz25lo_00056;56;;Rue des Pipirit;97216;97201;L'Ajoupa-Bouillon;;;-61.112384;14.820599
+97201_o7l1zj_00360;360;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110095;14.818588
+97201_0035_00104;104;;Rue Ilmany et Marie-Louise;97216;97201;L'Ajoupa-Bouillon;;;-61.115488;14.825396
+97201_lfv80l_00024;24;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.112057;14.826903
+97201_f9werx_00739;739;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.116329;14.825303
+97201_f9werx_00752;752;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.116481;14.825335
+97201_yh013t_00120;120;;Chemin du Muletier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.11065;14.825097
+97201_mmkck0_00111;111;;Impasse Sinnama;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.115097;14.816957
+97201_x64fq5_00040;40;;Impasse Aboulaï;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.116145;14.826167
+97201_xmih8x_00078;78;;Impasse Démaré;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.104779;14.83063
+97201_hju26w_00175;175;;Impasse Abel;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.116332;14.816774
+97201_o7l1zj_00095;95;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112105;14.819915
+97201_hju26w_00023;23;;Impasse Abel;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.116191;14.818147
+97201_abohhp_00111;111;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.111604;14.821535
+97201_lfv80l_00812;812;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117884;14.822906
+97201_pmnbs4_00603;603;;Chemin des Gorges;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.128293;14.820728
+97201_col3jg_01879;1879;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.108439;14.814651
+97201_2jma0j_00005;5;;Allée de la Bananeraie;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110571;14.82113
+97201_o7l1zj_00414;414;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.109632;14.818505
+97201_84nqm0_00042;42;;Rue des Sucriers;97216;97201;L'Ajoupa-Bouillon;;;-61.110751;14.821542
+97201_x64fq5_00031;31;;Impasse Aboulaï;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.116125;14.825945
+97201_lfv80l_00072;72;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.112471;14.826697
+97201_rr8en8_00559;559;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.107808;14.829937
+97201_moeyvj_00139;139;;Impasse Mayo;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.119585;14.818998
+97201_col3jg_01356;1356;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.112736;14.816356
+97201_lfv80l_01132;1132;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117749;14.820263
+97201_rr8en8_00503;503;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.108328;14.829742
+97201_0035_00108;108;;Rue Ilmany et Marie-Louise;97216;97201;L'Ajoupa-Bouillon;;;-61.115749;14.825339
+97201_rr7y0n_00054;54;;Impasse Man Émile;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.114833;14.827412
+97201_7y63i9_00013;13;;Allée des Alpinias;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.111341;14.825715
+97201_84nqm0_00098;98;;Rue des Sucriers;97216;97201;L'Ajoupa-Bouillon;;;-61.111169;14.821253
+97201_abohhp_00089;89;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.11145;14.821663
+97201_ancrgq_00315;315;;Route des Pommes Roses;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.116879;14.818778
+97201_3bl0i9_00151;151;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111797;14.818627
+97201_col3jg_00457;457;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111335;14.822614
+97201_pmnbs4_00038;38;;Chemin des Gorges;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.124957;14.821325
+97201_vcfmks_00956;956;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.107288;14.818808
+97201_u5x6le_00030;30;;Rue Adrien Rustal;97216;97201;L'Ajoupa-Bouillon;;;-61.112979;14.825668
+97201_o7l1zj_00486;486;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.109186;14.818075
+97201_col3jg_02009;2009;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.107735;14.814007
+97201_qlggje_00203;203;;Impasse Man Armongon;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.115873;14.822071
+97201_col3jg_00700;700;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112987;14.821253
+97201_moeyvj_00200;200;;Impasse Mayo;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.11986;14.818584
+97201_f9werx_00967;967;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.117746;14.824134
+97201_f9werx_00964;964;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.117909;14.824459
+97201_col3jg_01500;1500;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.111899;14.815483
+97201_rr8en8_00710;710;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.106482;14.830344
+97201_izojgb_00234;234;;Chemin de Reynal;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.125074;14.812175
+97201_col3jg_01789;1789;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.109271;14.81498
+97201_ancrgq_00667;667;;Route des Pommes Roses;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.113818;14.81789
+97201_yh013t_00164;164;;Chemin du Muletier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.111033;14.8252
+97201_col3jg_00851;851;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.113022;14.819907
+97201_u5x6le_00147;147;;Rue Adrien Rustal;97216;97201;L'Ajoupa-Bouillon;;;-61.112004;14.825221
+97201_bik6t3_00041;41;;Impasse Franciné;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11468;14.820747
+97201_poqtge_00071;71;;Rue du Cordonnier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.111035;14.824115
+97201_rr8en8_00645;645;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.107081;14.830241
+97201_lfv80l_00303;303;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.113858;14.825171
+97201_o7l1zj_00033;33;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112644;14.820095
+97201_col3jg_02500;2500;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.104096;14.815565
+97201_rr8en8_00089;89;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110947;14.827122
+97201_vcfmks_00815;815;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.106418;14.819795
+97201_yzaj2m_00147;147;;Impasse Tino;97216;97201;L'Ajoupa-Bouillon;;La Racine;-61.11918;14.821449
+97201_rr8en8_00664;664;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.106853;14.830178
+97201_col3jg_01235;1235;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.112313;14.817432
+97201_lfv80l_01759;1759;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.123239;14.819235
+97201_col3jg_02530;2530;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.103815;14.815648
+97201_lio5sp_00008;8;;Cour Man Adrien;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.113039;14.821409
+97201_0035_00103;103;;Rue Ilmany et Marie-Louise;97216;97201;L'Ajoupa-Bouillon;;;-61.115835;14.825255
+97201_yips4m_00122;122;;Chemin Marchal;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.109956;14.825558
+97201_yzaj2m_00083;83;;Impasse Tino;97216;97201;L'Ajoupa-Bouillon;;La Racine;-61.119474;14.820707
+97201_o7l1zj_00284;284;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11058;14.819056
+97201_33lho3_00183;183;;Chemin Josapha;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.108242;14.819522
+97201_abohhp_00011;11;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.110835;14.822053
+97201_3bl0i9_00035;35;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111669;14.819337
+97201_gzbx1s_00024;24;;Cour Marceau;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.110322;14.824188
+97201_lfv80l_00173;173;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.112977;14.825947
+97201_lfv80l_00925;925;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117789;14.821887
+97201_rr8en8_00472;472;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.108402;14.829419
+97201_lfv80l_00753;753;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117318;14.823105
+97201_ancrgq_00615;615;;Route des Pommes Roses;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.114262;14.817805
+97201_mle5mk_00193;193;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.115641;14.820424
+97201_rr8en8_00148;148;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110089;14.826826
+97201_3bl0i9_00082;82;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111956;14.818963
+97201_col3jg_02589;2589;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.103814;14.816454
+97201_poqtge_00035;35;;Rue du Cordonnier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.111172;14.823838
+97201_rr8en8_00726;726;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.106329;14.830421
+97201_col3jg_00241;241;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.111991;14.824347
+97201_hxlhpt_00018;18;;Impasse Chérubin;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.123311;14.818992
+97201_rr8en8_01131;1131;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.103041;14.831786
+97201_col3jg_00351;351;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.111335;14.823602
+97201_49rhb7_00081;81;;Impasse Sévérin;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.10821;14.818616
+97201_lvfxf8_00098;98;;Impasse des Calebassiers;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.115068;14.819348
+97201_f9werx_00211;211;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.112913;14.82729
+97201_col3jg_00527;527;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111839;14.822223
+97201_fe7ed1_00036;36;;Cour des Balisiers;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.119825;14.823304
+97201_mle5mk_00269;269;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.114907;14.82041
+97201_ancrgq_00279;279;;Route des Pommes Roses;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.117199;14.819016
+97201_rr8en8_00251;251;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.109706;14.827984
+97201_col3jg_01871;1871;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.108549;14.814951
+97201_col3jg_02448;2448;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.104398;14.815272
+97201_pmnbs4_00992;992;;Chemin des Gorges;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.131305;14.818887
+97201_0045_00335;335;;Chemin Mondzi;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.109393;14.816478
+97201_rr7y0n_00025;25;;Impasse Man Émile;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.114818;14.827027
+97201_lfv80l_00088;88;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.112583;14.826583
+97201_lio5sp_00043;43;;Cour Man Adrien;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.113231;14.82161
+97201_lfv80l_01463;1463;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.120517;14.819646
+97201_9uqq2k_00054;54;;Chemin Misié Jéniis;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.112678;14.824758
+97201_3bl0i9_00143;143;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111866;14.818632
+97201_lfv80l_00405;405;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.114528;14.824599
+97201_o7l1zj_00283;283;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110528;14.819133
+97201_33lho3_00279;279;;Chemin Josapha;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.109087;14.818989
+97201_col3jg_01280;1280;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.112553;14.817036
+97201_lfv80l_01236;1236;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.118625;14.820275
+97201_col3jg_01334;1334;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.112709;14.816565
+97201_xc28tt_00009;9;;Impasse Louis-Achille;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.122464;14.819476
+97201_2549kr_00030;30;;Impasse Man Gaston;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.107967;14.819372
+97201_col3jg_00339;339;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.111499;14.823543
+97201_lfv80l_00854;854;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.118103;14.822505
+97201_7y63i9_00009;9;;Allée des Alpinias;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.111617;14.825768
+97201_lfv80l_00582;582;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.116044;14.823977
+97201_col3jg_02430;2430;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.104461;14.815133
+97201_lfv80l_00502;502;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.115483;14.82435
+97201_xmih8x_00381;381;;Impasse Démaré;97216;97201;L'Ajoupa-Bouillon;;;-61.10515;14.830092
+97201_6rc4mh_00116;116;;Rue du Temple;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.117294;14.824371
+97201_f9werx_00857;857;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.117372;14.824898
+97201_0035_00122;122;;Rue Ilmany et Marie-Louise;97216;97201;L'Ajoupa-Bouillon;;;-61.115807;14.825454
+97201_fk8lv7_00044;44;;Cour Voisin;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.107255;14.814587
+97201_o7l1zj_00275;275;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110603;14.819174
+97201_a2esd4_00024;24;;Cour Mouzouké;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.112373;14.816067
+97201_onhgdj_00116;116;;Impasse Mercédès;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110928;14.827865
+97201_3bl0i9_00097;97;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111858;14.818813
+97201_3bl0i9_00081;81;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111823;14.818943
+97201_f9werx_01002;1002;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.118127;14.824112
+97201_eq3uy2_00083;83;;Allée Grandvisir-Clerc;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.11445;14.816995
+97201_xmih8x_00309;309;;Impasse Démaré;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.104483;14.830171
+97201_f9werx_00518;518;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.115565;14.826581
+97201_mle5mk_00037;37;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.117079;14.820574
+97201_lfv80l_00138;138;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.113049;14.826456
+97201_mle5mk_00463;463;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.113207;14.82078
+97201_lfv80l_01159;1159;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117954;14.820052
+97201_lfv80l_00999;999;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.11758;14.821243
+97201_col3jg_01575;1575;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.111159;14.815696
+97201_lfv80l_00904;904;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.118122;14.822011
+97201_lfv80l_00235;235;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.113315;14.825512
+97201_col3jg_00292;292;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.11202;14.82357
+97201_hxlhpt_00067;67;;Impasse Chérubin;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.123157;14.818592
+97201_mle5mk_00212;212;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.115473;14.820272
+97201_f9werx_00820;820;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.117181;14.825431
+97201_p7v7ul_00313;313;;Impasse Eden;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.120141;14.81173
+97201_f9werx_00007;7;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.111724;14.827027
+97201_abohhp_00137;137;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.111764;14.82139
+97201_rr8en8_00943;943;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.10482;14.831697
+97201_9nvvor_00079;79;;Allée des Bambous;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110956;14.826065
+97201_fe7ed1_00106;106;;Cour des Balisiers;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.120399;14.823532
+97201_25396o_00064;64;;Impasse Hillion;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.111322;14.824048
+97201_0035_00059;59;;Rue Ilmany et Marie-Louise;97216;97201;L'Ajoupa-Bouillon;;;-61.115708;14.824865
+97201_col3jg_01913;1913;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.108206;14.814501
+97201_0qvaiu_00082;82;;Rue de Quenty;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.117951;14.823593
+97201_poqtge_00249;249;;Rue du Cordonnier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.109348;14.824688
+97201_84nqm0_00009;9;;Rue des Sucriers;97216;97201;L'Ajoupa-Bouillon;;;-61.110439;14.821669
+97201_vamqjc_00110;110;;Impasse des Orchidées;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.118692;14.822632
+97201_0035_00102;102;;Rue Ilmany et Marie-Louise;97216;97201;L'Ajoupa-Bouillon;;;-61.1157;14.825252
+97201_3bl0i9_00114;114;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112112;14.818745
+97201_o7l1zj_00023;23;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112718;14.820129
+97201_col3jg_00327;327;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.111598;14.823598
+97201_col3jg_02586;2586;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.103348;14.815751
+97201_o7l1zj_00292;292;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110511;14.819013
+97201_9mlrk9_00111;111;;Allée Bellechasse;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.10891;14.813678
+97201_kit05d_00009;9;;Cour Landally;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.115189;14.820408
+97201_rr8en8_00486;486;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.108332;14.829516
+97201_mle5mk_00049;49;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11697;14.820553
+97201_mle5mk_00405;405;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.113732;14.820529
+97201_uph08t_00040;40;;Cour Boulon;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.124838;14.820574
+97201_6z78gf_00011;11;;Impasse Allaguy-Salachy;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.108875;14.828488
+97201_hju26w_00177;177;;Impasse Abel;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.116137;14.816706
+97201_rr8en8_01261;1261;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.102066;14.831286
+97201_rr8en8_00858;858;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.105338;14.831074
+97201_uyun2a_00054;54;;Impasse des Anthuriums;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.119578;14.823774
+97201_lfv80l_01196;1196;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.118307;14.820216
+97201_col3jg_00609;609;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112462;14.821803
+97201_mle5mk_00162;162;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.115908;14.820317
+97201_lfv80l_01515;1515;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.120916;14.819309
+97201_x64fq5_00154;154;;Impasse Aboulaï;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.117147;14.825659
+97201_col3jg_01663;1663;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.11038;14.815314
+97201_qlggje_00225;225;;Impasse Man Armongon;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.115626;14.822111
+97201_25396o_00086;86;;Impasse Hillion;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.11118;14.82424
+97201_xmih8x_00347;347;;Impasse Démaré;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.104804;14.830079
+97201_ekxoaf_01174;1174;;Chemin de la Distillerie;97216;97201;L'Ajoupa-Bouillon;;;-61.102745;14.828954
+97201_moeyvj_00075;75;;Impasse Mayo;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.119552;14.819572
+97201_84nqm0_00147;147;;Rue des Sucriers;97216;97201;L'Ajoupa-Bouillon;;;-61.111448;14.82083
+97201_col3jg_02043;2043;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.107455;14.814074
+97201_84nqm0_00058;58;;Rue des Sucriers;97216;97201;L'Ajoupa-Bouillon;;;-61.110869;14.821447
+97201_col3jg_02072;2072;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.107145;14.814063
+97201_o7l1zj_00015;15;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112808;14.820154
+97201_uyun2a_00036;36;;Impasse des Anthuriums;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.119374;14.823638
+97201_9uqq2k_00142;142;;Chemin Misié Jéniis;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.112038;14.825078
+97201_lfv80l_00866;866;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.11811;14.822359
+97201_25396o_00122;122;;Impasse Hillion;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.111403;14.824495
+97201_lfv80l_00515;515;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.11533;14.824146
+97201_bik6t3_00078;78;;Impasse Franciné;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.114426;14.820999
+97201_o7l1zj_00080;80;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112271;14.819849
+97201_pmnbs4_00510;510;;Chemin des Gorges;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.127504;14.821044
+97201_lfv80l_00148;148;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.112997;14.826251
+97201_o7l1zj_00443;443;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.109334;14.81844
+97201_lfv80l_01035;1035;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117494;14.820919
+97201_lfv80l_01051;1051;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117192;14.820849
+97201_0qvaiu_00099;99;;Rue de Quenty;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.118195;14.823566
+97201_f9werx_00988;988;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.118021;14.82422
+97201_3ok0dl_00009;9;;Allée Déruel;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.113855;14.817448
+97201_col3jg_00385;385;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.110984;14.823235
+97201_9uqq2k_00117;117;;Chemin Misié Jéniis;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.112281;14.825079
+97201_col3jg_02167;2167;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.106457;14.814566
+97201_lfv80l_00442;442;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.115063;14.82476
+97201_lfv80l_00937;937;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117774;14.821769
+97201_col3jg_00716;716;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112952;14.821095
+97201_ancrgq_00629;629;;Route des Pommes Roses;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.11412;14.817749
+97201_o7l1zj_00267;267;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110678;14.819214
+97201_1m67uj_02430;2430;;Route Nationale 3;97216;97201;L'Ajoupa-Bouillon;;Morne Coco;-61.122623;14.804302
+97201_1m67uj_03145;3145;;Route Nationale 3;97216;97201;L'Ajoupa-Bouillon;;Capote;-61.128547;14.802295
+97201_x024fu_00052;52;;Allée des Palmiers;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.110277;14.814471
+97201_1m2wxu_00147;147;;Chemin Koussou;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.114696;14.819193
+97201_bpkm48_00040;40;;Impasse Dérond;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.11468;14.818273
+97201_col3jg_01774;1774;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.109429;14.81494
+97201_rr8en8_00115;115;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110725;14.827298
+97201_mle5mk_00303;303;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.114639;14.820416
+97201_3bl0i9_00164;164;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111656;14.818519
+97201_3bl0i9_00043;43;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111683;14.819279
+97201_o7l1zj_00208;208;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111193;14.819355
+97201_mle5mk_00063;63;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.116842;14.820541
+97201_ekxoaf_01412;1412;;Chemin de la Distillerie;97216;97201;L'Ajoupa-Bouillon;;;-61.10277;14.829353
+97201_9uqq2k_00043;43;;Chemin Misié Jéniis;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.112826;14.82471
+97201_col3jg_01979;1979;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.108023;14.814007
+97201_col3jg_02539;2539;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.104152;14.81621
+97201_col3jg_00259;259;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.112139;14.82393
+97201_col3jg_00161;161;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.112948;14.824412
+97201_ekxoaf_00158;158;;Chemin de la Distillerie;97216;97201;L'Ajoupa-Bouillon;;;-61.106555;14.822633
+97201_col3jg_02099;2099;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.106995;14.814318
+97201_lfv80l_01362;1362;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.119856;14.820386
+97201_col3jg_01552;1552;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.111415;14.815493
+97201_poqtge_00075;75;;Rue du Cordonnier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.110898;14.824013
+97201_pmnbs4_00090;90;;Chemin des Gorges;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.123955;14.820195
+97201_b14va5_00119;119;;Impasse Siger;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.11469;14.816943
+97201_mwjvfr_00170;170;;Impasse Virassamy;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.121565;14.818245
+97201_poqtge_00349;349;;Rue du Cordonnier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.108663;14.825356
+97201_poqtge_00361;361;;Rue du Cordonnier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.108465;14.825252
+97201_f9werx_00230;230;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.113135;14.82731
+97201_fk8lv7_00060;60;;Cour Voisin;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.107333;14.814742
+97201_rr8en8_00473;473;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.108548;14.829529
+97201_jjvz1x_00035;35;;Impasse Valliamé;97216;97201;L'Ajoupa-Bouillon;;La Racine;-61.118049;14.821301
+97201_onhgdj_00171;171;;Impasse Mercédès;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110548;14.82819
+97201_col3jg_01822;1822;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.108948;14.814723
+97201_col3jg_01577;1577;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.111149;14.81554
+97201_mmkck0_00011;11;;Impasse Sinnama;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.114944;14.817896
+97201_3bl0i9_00040;40;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111887;14.819302
+97201_col3jg_01952;1952;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.108393;14.813881
+97201_ancrgq_00039;39;;Route des Pommes Roses;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.118901;14.81984
+97201_abohhp_00072;72;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.111397;14.821866
+97201_npb296_00968;968;;Chemin Trianon;97216;97201;L'Ajoupa-Bouillon;;;-61.141515;14.807871
+97201_388g75_00009;9;;Impasse Cadol;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.116152;14.820263
+97201_o7l1zj_00348;348;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110347;14.818569
+97201_3bl0i9_00169;169;;Allée des Moubins;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.111587;14.818596
+97201_f9werx_01003;1003;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.118062;14.824027
+97201_poqtge_00057;57;;Rue du Cordonnier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.11078;14.823636
+97201_col3jg_00635;635;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112675;14.821659
+97201_f9werx_00510;510;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.115478;14.826592
+97201_col3jg_00185;185;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Ravine des Saints;-61.112509;14.824459
+97201_rr8en8_00857;857;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.102643;14.831615
+97201_1m2wxu_00139;139;;Chemin Koussou;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.114576;14.819141
+97201_lfv80l_00906;906;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.118102;14.821925
+97201_3q1cek_00038;38;;Impasse des Bougainvilliers;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.118393;14.824246
+97201_abohhp_00037;37;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.111007;14.821889
+97201_o7l1zj_00070;70;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112357;14.819885
+97201_rr8en8_01018;1018;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.104075;14.831691
+97201_bpkm48_00033;33;;Impasse Dérond;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.114787;14.818276
+97201_1m2wxu_00037;37;;Chemin Koussou;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.11374;14.819101
+97201_lfv80l_00619;619;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.116252;14.823691
+97201_1m2wxu_00107;107;;Chemin Koussou;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.114323;14.819234
+97201_rptcpy_00048;48;;Cour Suzanne;97216;97201;L'Ajoupa-Bouillon;;Derrière Cimetière;-61.113187;14.827736
+97201_f9werx_00203;203;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.112835;14.82734
+97201_col3jg_01404;1404;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.112733;14.815873
+97201_rr8en8_01946;1946;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.100716;14.831786
+97201_lfv80l_01543;1543;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.121472;14.819811
+97201_uyun2a_00052;52;;Impasse des Anthuriums;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.119481;14.823828
+97201_f9werx_00114;114;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.112035;14.827598
+97201_rr8en8_00999;999;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.104285;14.831848
+97201_rr8en8_00590;590;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.107489;14.829895
+97201_0035_00081;81;;Rue Ilmany et Marie-Louise;97216;97201;L'Ajoupa-Bouillon;;;-61.115749;14.825067
+97201_lfv80l_01023;1023;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117498;14.821045
+97201_f3m2rw_00042;42;;Impasse de la Plantation;97216;97201;L'Ajoupa-Bouillon;;;-61.111181;14.820626
+97201_bik6t3_00064;64;;Impasse Franciné;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.114469;14.820868
+97201_moeyvj_00043;43;;Impasse Mayo;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.119536;14.819866
+97201_onhgdj_00206;206;;Impasse Mercédès;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.110213;14.828288
+97201_3ok0dl_00105;105;;Allée Déruel;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.113991;14.816632
+97201_poqtge_00343;343;;Rue du Cordonnier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.108652;14.825157
+97201_7y63i9_00015;15;;Allée des Alpinias;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.111297;14.825914
+97201_uyun2a_00049;49;;Impasse des Anthuriums;97216;97201;L'Ajoupa-Bouillon;;Abondance;-61.119646;14.823591
+97201_col3jg_01994;1994;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.107895;14.81386
+97201_col3jg_01499;1499;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.111864;14.815745
+97201_gzbx1s_00008;8;;Cour Marceau;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.110222;14.82408
+97201_yips4m_00085;85;;Chemin Marchal;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.109764;14.825259
+97201_abohhp_00014;14;;Rue des Colibris;97216;97201;L'Ajoupa-Bouillon;;;-61.110958;14.822185
+97201_yh013t_00100;100;;Chemin du Muletier;97216;97201;L'Ajoupa-Bouillon;;Mille Pas;-61.110593;14.824764
+97201_3ok0dl_00141;141;;Allée Déruel;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.114042;14.816325
+97201_yzaj2m_00069;69;;Impasse Tino;97216;97201;L'Ajoupa-Bouillon;;La Racine;-61.118946;14.820813
+97201_f9werx_00818;818;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.117138;14.825276
+97201_col3jg_02418;2418;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Vieux Cacao;-61.10451;14.814985
+97201_o7l1zj_00090;90;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112184;14.819821
+97201_f9werx_00303;303;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.113675;14.826948
+97201_npb296_00184;184;;Chemin Trianon;97216;97201;L'Ajoupa-Bouillon;;Semaine;-61.144846;14.805271
+97201_rr8en8_00414;414;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.108701;14.828984
+97201_lfv80l_00716;716;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117105;14.823387
+97201_vcfmks_00968;968;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.107095;14.818791
+97201_lfv80l_01304;1304;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.119286;14.82033
+97201_lfv80l_00634;634;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.116437;14.823685
+97201_col3jg_01521;1521;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.111652;14.815676
+97201_mle5mk_00160;160;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.115923;14.819818
+97201_2549kr_00068;68;;Impasse Man Gaston;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.107805;14.819049
+97201_o7l1zj_00341;341;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.110202;14.818729
+97201_vcfmks_01100;1100;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.10586;14.818602
+97201_mle5mk_00023;23;;Avenue Man Dèdette;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.117212;14.820579
+97201_xc28tt_00053;53;;Impasse Louis-Achille;97216;97201;L'Ajoupa-Bouillon;;Croix Laurence;-61.122421;14.819067
+97201_lfv80l_00811;811;;Boulevard de l'Unité;97216;97201;L'Ajoupa-Bouillon;;;-61.117687;14.822743
+97201_vcfmks_00721;721;;Route des Jardins;97216;97201;L'Ajoupa-Bouillon;;Dufailly;-61.106751;14.820627
+97201_mmkck0_00156;156;;Impasse Sinnama;97216;97201;L'Ajoupa-Bouillon;;Adinet;-61.115229;14.816422
+97201_o7l1zj_00215;215;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.11109;14.819433
+97201_rr8en8_00916;916;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Rosalie;-61.104926;14.831423
+97201_rr8en8_00401;401;;Avenue des Fromagers;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.108949;14.829086
+97201_f9werx_00738;738;;Route Joachim Omère;97216;97201;L'Ajoupa-Bouillon;;Sancé;-61.11635;14.825373
+97201_col3jg_01681;1681;;Route Madeleine Jouyé de Grandmaison;97216;97201;L'Ajoupa-Bouillon;;Grande-Savane;-61.110223;14.815323
+97201_o7l1zj_00098;98;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.112119;14.8198
+97201_o7l1zj_00415;415;;Avenue de la Résistance;97216;97201;L'Ajoupa-Bouillon;;Deschamps;-61.109574;14.818579

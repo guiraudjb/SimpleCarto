@@ -1,0 +1,779 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+46156_0324_00085;85;;Chemin des Granges;46090;46156;Bellefont-La Rauze;Cours;Les Granges;1.53772;44.5199
+46156_0279_02502;2502;;Route de Monphelin;46090;46156;Bellefont-La Rauze;Valroufié;Monphelin;1.47551;44.5352
+46156_0316_00064;64;;Rue Ronde;46090;46156;Bellefont-La Rauze;Cours;Les Granges;1.54006;44.5191
+46156_s15wfd_00236;236;;Chemin de la Prade;46090;46156;Bellefont-La Rauze;Valroufié;Che de la Prade;1.48328;44.5137
+46156_2phmmv_00032;32;;Place du Pech;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Pl du Pech;1.46714;44.4756
+46156_0130_00042;42;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46817;44.4755
+46156_b017_00378;378;;Combe Nègre;46090;46156;Bellefont-La Rauze;Valroufié;Combe Negre;1.47821;44.4971
+46156_0315_00401;401;;Route de Cours;46090;46156;Bellefont-La Rauze;Cours;Cours;1.53971;44.5181
+46156_9f34fa_01405;1405;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46601;44.4812
+46156_0325_00406;406;;Rue de la Boissières;46090;46156;Bellefont-La Rauze;Cours;La Boissiere;1.54533;44.5142
+46156_bwbonr_00473;473;;Route de Montcoutié;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Moncoutie;1.47089;44.5351
+46156_0315_00512;512;;Route de Cours;46090;46156;Bellefont-La Rauze;Cours;Le Pech;1.53955;44.5172
+46156_0337_00610;610;;Route Pradelle de Babours;46090;46156;Bellefont-La Rauze;Cours;La Pradelle de Babours;1.55348;44.5294
+46156_kcf1s5_00391;391;;Route du Stade;46090;46156;Bellefont-La Rauze;Valroufié;;1.49292;44.506
+46156_0120_00033;33;;Passage du Pech;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Pas du Pech;1.46655;44.4752
+46156_od5s5e_00245;245;;Lagarde - Constans;46090;46156;Bellefont-La Rauze;Valroufié;Le Barry;1.49979;44.4987
+46156_b067_00281;281;;Pech de Clary;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Riviere de Lamagdelaine;1.47721;44.4727
+46156_0030_00194;194;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.466217;44.475074
+46156_hs42p2_00229;229;;Chemin de Bellefont;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de Bellefont;1.46955;44.4775
+46156_0335_00457;457;;Chemin de la Devèze;46090;46156;Bellefont-La Rauze;Cours;La Deveze;1.51201;44.5133
+46156_0090_00071;71;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46742;44.4749
+46156_0160_00045;45;;Rue des Récollets;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Recollets;1.46753;44.476
+46156_0328_00781;781;;Route du Pech Delluc;46090;46156;Bellefont-La Rauze;Cours;Pech Delluc;1.54269;44.5072
+46156_0305_00088;88;;Rue de l'Ecole;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51852;44.5282
+46156_9f34fa_00289;289;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45515;44.4858
+46156_81dp9k_00460;460;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Combe de Magnes;1.46383;44.4793
+46156_b017_00285;285;;Combe Nègre;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Combe Negre;1.47931;44.4965
+46156_0030_00150;150;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.465754;44.47504
+46156_od5s5e_00485;485;;Lagarde - Constans;46090;46156;Bellefont-La Rauze;Valroufié;Le Barry;1.50206;44.4974
+46156_qmwcgu_00405;405;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.48926;44.5012
+46156_0030_00170;170;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46592;44.475057
+46156_5wz14s_00551;551;;Route de Valroufié;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rte de Valroufie;1.46752;44.4884
+46156_0334_00027;27;;Chemin du Circaète;46090;46156;Bellefont-La Rauze;Cours;Vacquies;1.54557;44.5336
+46156_26263c_00141;141;;lagarde;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Tour de Peage;1.47009;44.4752
+46156_81dp9k_00347;347;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Combes;1.46402;44.4783
+46156_qmwcgu_00365;365;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.4894;44.501
+46156_939di6_00146;146;;Route des Ruffians;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Ruffians;1.48827;44.5152
+46156_0331_01711;1711;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Gironde;1.53748;44.537
+46156_939di6_00750;750;;Route des Ruffians;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Ruffians;1.48584;44.5202
+46156_0030_00376;376;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46794;44.4756
+46156_0331_01870;1870;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Gironde;1.53791;44.5385
+46156_0273_00086;86;;Impasse du Lavoir;46090;46156;Bellefont-La Rauze;Valroufié;Imp du Lavoir;1.48631;44.5189
+46156_0325_00001;1;;Rue de la Boissières;46090;46156;Bellefont-La Rauze;Cours;La Boissiere;1.54061;44.5151
+46156_8e4uit_00060;60;;Chemin des Vignes;46090;46156;Bellefont-La Rauze;Valroufié;Che des Vignes;1.48685;44.5197
+46156_939di6_00474;474;;Route des Ruffians;46090;46156;Bellefont-La Rauze;Valroufié;Valroufie;1.48786;44.5181
+46156_b243_00279;279;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.49611;44.501
+46156_od5s5e_00668;668;;Lagarde - Constans;46090;46156;Bellefont-La Rauze;Valroufié;Lagarde;1.50274;44.4978
+46156_0025_00085;85;;Chemin des Cabasses;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che des Cabasses;1.47084;44.4783
+46156_0316_00179;179;;Rue Ronde;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54161;44.5189
+46156_0302_00608;608;;Route du Bout du Lieu;46090;46156;Bellefont-La Rauze;Cours;Combel des Peyrous;1.51258;44.5265
+46156_0nvw67_00322;322;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.47956;44.501
+46156_9f34fa_00482;482;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45705;44.4848
+46156_0130_00393;393;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46802;44.4786
+46156_hs42p2_00026;26;;Chemin de Bellefont;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de Bellefont;1.46898;44.4756
+46156_0315_00017;17;;Route de Cours;46090;46156;Bellefont-La Rauze;Cours;Les Boules;1.53996;44.5215
+46156_bwbonr_00297;297;;Route de Montcoutié;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Moncoutie;1.47223;44.5361
+46156_9f34fa_01181;1181;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46498;44.4829
+46156_0030_00073;73;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.464692;44.475026
+46156_geufx6_00486;486;;Les Jasses;46090;46156;Bellefont-La Rauze;Valroufié;Les Jasses;1.48606;44.4987
+46156_0030_00185;185;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.466173;44.475145
+46156_2dyx4r_00234;234;;Chemin d'Al Chaï;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che d’Al Chai;1.46321;44.4882
+46156_0030_00266;266;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.467129;44.475049
+46156_0334_00089;89;;Chemin du Circaète;46090;46156;Bellefont-La Rauze;Cours;Souleillan de Babours;1.54581;44.5341
+46156_0070_00023;23;;Chemin des Counailles;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che des Counailles;1.46971;44.479
+46156_0335_00452;452;;Chemin de la Devèze;46090;46156;Bellefont-La Rauze;Cours;Laborie Rouge;1.51185;44.5133
+46156_nca30g_00100;100;;Chemin de Saint-Michel;46090;46156;Bellefont-La Rauze;Valroufié;Che de Saint Michel;1.48816;44.5192
+46156_9f34fa_00742;742;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46012;44.4841
+46156_0030_00246;246;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.466897;44.475058
+46156_q3e191_00510;510;;Lieu dit Bellefont;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Laux;1.4736;44.5084
+46156_2dyx4r_00111;111;;Chemin d'Al Chaï;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che d’Al Chai;1.46553;44.4891
+46156_0090_00022;22;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46796;44.4752
+46156_671195_00163;163;;Le Courpoux;46090;46156;Bellefont-La Rauze;Valroufié;Che de Courpoux;1.48667;44.5024
+46156_0302_00409;409;;Route du Bout du Lieu;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51541;44.5282
+46156_0307_00189;189;;Rue de la Caminade;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.52059;44.5257
+46156_0332_01310;1310;;Chemin du Château;46090;46156;Bellefont-La Rauze;Cours;Gironde;1.54328;44.5399
+46156_939di6_00332;332;;Route des Ruffians;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Ruffians;1.48827;44.5168
+46156_0160_00052;52;;Rue des Récollets;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Recollets;1.46743;44.4759
+46156_0nvw67_00311;311;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.4798;44.5007
+46156_b028_00362;362;;Combe de Coutiou;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Combe de Coutiou;1.4889;44.4864
+46156_nca30g_00021;21;;Chemin de Saint-Michel;46090;46156;Bellefont-La Rauze;Valroufié;Che de Saint Michel;1.48736;44.5193
+46156_0030_00262;262;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.467066;44.475049
+46156_0030_00120;120;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.465353;44.475019
+46156_0300_00259;259;;Clos de Pommier;46090;46156;Bellefont-La Rauze;Cours;Champs des Parques;1.51401;44.5319
+46156_9f34fa_01266;1266;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46542;44.4822
+46156_0318_00028;28;;Rue du Clocher;46090;46156;Bellefont-La Rauze;Cours;Martin;1.54059;44.5187
+46156_b082_00086;86;;Rivière Lamagdeleine;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Riviere de Lamagdelaine;1.47512;44.4737
+46156_0090_00055;55;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46767;44.475
+46156_0090_00043;43;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46779;44.475
+46156_lrkvw7_00058;58;;Place de l'Eglise;46090;46156;Bellefont-La Rauze;Valroufié;Pl de l’Eglise;1.49085;44.4977
+46156_qmwcgu_00593;593;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.48836;44.5028
+46156_0030_00117;117;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Laroque des Arcs;1.46519;44.4751
+46156_b243_00242;242;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.49662;44.501
+46156_qmwcgu_00280;280;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.49057;44.5005
+46156_0327_00015;15;;Chemin du Pradel;46090;46156;Bellefont-La Rauze;Cours;Bos Negre;1.53737;44.5109
+46156_0325_00166;166;;Rue de la Boissières;46090;46156;Bellefont-La Rauze;Cours;La Boissiere;1.54224;44.5142
+46156_s372uy_00036;36;;Chemin de la Chapelle;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de la Chapelle Saint-Roch;1.46938;44.4754
+46156_0090_00329;329;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46423;44.4748
+46156_wc8ql8_00509;509;;Les Fraysses;46090;46156;Bellefont-La Rauze;Valroufié;Les Fraysses;1.48528;44.5065
+46156_9f34fa_00794;794;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46088;44.4846
+46156_0325_00480;480;;Rue de la Boissières;46090;46156;Bellefont-La Rauze;Cours;La Boissiere;1.54634;44.5144
+46156_0306_00021;21;;Place du Couderc;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51879;44.5284
+46156_4aygmx_00050;50;;Chemin du Coustalou;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Ruffians;1.48792;44.5188
+46156_0090_00552;552;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46145;44.4745
+46156_0318_00010;10;;Rue du Clocher;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54075;44.5188
+46156_kcf1s5_00491;491;;Route du Stade;46090;46156;Bellefont-La Rauze;Valroufié;Rte du Stade;1.49397;44.5069
+46156_0nvw67_00108;108;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.48197;44.4998
+46156_939di6_00650;650;;Route des Ruffians;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Ruffians;1.48679;44.5194
+46156_0335_00362;362;;Chemin de la Devèze;46090;46156;Bellefont-La Rauze;Cours;La Borie Rouge;1.51137;44.514
+46156_0270_00225;225;;Chemin des Tuileries;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che des Tuileries;1.45994;44.4735
+46156_kl6w3w_00104;104;;Route des Corniers;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Corniers;1.49249;44.4991
+46156_geufx6_00518;518;;Les Jasses;46090;46156;Bellefont-La Rauze;Valroufié;Les Jasses;1.48571;44.4988
+46156_9f34fa_00760;760;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.4603;44.4841
+46156_0130_01130;1130;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46823;44.4849
+46156_9f34fa_01548;1548;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46605;44.4798
+46156_hs42p2_00106;106;;Chemin de Bellefont;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de Bellefont;1.46939;44.4763
+46156_0030_00229;229;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Pas du Pech;1.466673;44.475161
+46156_81dp9k_00777;777;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Les Combes;1.46279;44.4815
+46156_0331_00034;34;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Travers Droit;1.54019;44.5244
+46156_5gt2pi_00401;401;;Chemin du Bourtoulou;46090;46156;Bellefont-La Rauze;Cours;Bourtoulou;1.50882;44.5357
+46156_671195_00024;24;;Le Courpoux;46090;46156;Bellefont-La Rauze;Valroufié;Che de Courpoux;1.48815;44.5029
+46156_b243_00019;19;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.49671;44.4994
+46156_7nunk2_00473;473;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51947;44.5256
+46156_0336_00220;220;;Chemin de la Borie Rouge;46090;46156;Bellefont-La Rauze;Cours;La Borie Rouge;1.5098;44.5141
+46156_939di6_00367;367;;Route des Ruffians;46090;46156;Bellefont-La Rauze;Valroufié;Le Verdie;1.48811;44.5172
+46156_b243_00352;352;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.4966;44.5016
+46156_0321_00336;336;;Rue du Puech des Bruyères;46090;46156;Bellefont-La Rauze;Cours;Le Pech (cours);1.53624;44.5174
+46156_0090_00134;134;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46665;44.475
+46156_0325_00634;634;;Rue de la Boissières;46090;46156;Bellefont-La Rauze;Cours;Vigne Grande;1.54673;44.5155
+46156_b243_00385;385;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.49688;44.5018
+46156_0282_00469;469;;Chemin de Vernoly;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de Vernoly;1.48274;44.4957
+46156_9f34fa_00567;567;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.4581;44.4849
+46156_0321_00306;306;;Rue du Puech des Bruyères;46090;46156;Bellefont-La Rauze;Cours;Le Pech;1.53654;44.5172
+46156_kcf1s5_00055;55;;Route du Stade;46090;46156;Bellefont-La Rauze;Valroufié;Rte du Stade;1.49017;44.5042
+46156_0282_00238;238;;Chemin de Vernoly;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de Vernoly;1.48375;44.4974
+46156_0130_00331;331;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46779;44.4782
+46156_0316_00205;205;;Rue Ronde;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54164;44.5187
+46156_hygpep_00042;42;;Chemin du Pigeonnier;46090;46156;Bellefont-La Rauze;Valroufié;Che du Pigeonnier;1.47284;44.5367
+46156_0130_00477;477;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46824;44.4793
+46156_od5s5e_00386;386;;Lagarde - Constans;46090;46156;Bellefont-La Rauze;Valroufié;Lagarde;1.50104;44.4979
+46156_9f34fa_00514;514;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45768;44.4848
+46156_0nvw67_00750;750;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.47536;44.503
+46156_s15wfd_00112;112;;Chemin de la Prade;46090;46156;Bellefont-La Rauze;Valroufié;Che de la Prade;1.48531;44.5137
+46156_4aygmx_00038;38;;Chemin du Coustalou;46090;46156;Bellefont-La Rauze;Valroufié;Che du Coustalou;1.48788;44.5193
+46156_0030_00045;45;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.4643;44.475
+46156_0090_00093;93;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46715;44.4749
+46156_b243_00429;429;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.49736;44.5019
+46156_0323_00060;60;;Route des Granges;46090;46156;Bellefont-La Rauze;Cours;Les Granges;1.53829;44.5192
+46156_0270_00120;120;;Chemin des Tuileries;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che des Tuileries;1.46114;44.4741
+46156_0199_00001;1;;Place Saint-Roch;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;;1.4689;44.4755
+46156_wc8ql8_00565;565;;Les Fraysses;46090;46156;Bellefont-La Rauze;Valroufié;Combel de la Boule;1.4848;44.5067
+46156_81dp9k_00725;725;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Les Combes;1.46301;44.4809
+46156_0130_00048;48;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46813;44.4756
+46156_0307_00180;180;;Rue de la Caminade;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.52038;44.5257
+46156_0300_00217;217;;Clos de Pommier;46090;46156;Bellefont-La Rauze;Cours;Champs des Parques;1.51451;44.532
+46156_0030_00178;178;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.466043;44.475058
+46156_q3e191_01150;1150;;Lieu dit Bellefont;46090;46156;Bellefont-La Rauze;Valroufié;Combel des Cayroux;1.48399;44.5127
+46156_939di6_00811;811;;Route des Ruffians;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Ruffians;1.48562;44.5203
+46156_0030_00182;182;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.466122;44.475062
+46156_0314_00295;295;;Chemin des Naudils;46090;46156;Bellefont-La Rauze;Cours;Les Naudils;1.52538;44.532
+46156_0324_00120;120;;Chemin des Granges;46090;46156;Bellefont-La Rauze;Cours;Les Granges;1.53775;44.5201
+46156_s15wfd_00026;26;;Chemin de la Prade;46090;46156;Bellefont-La Rauze;Valroufié;rue de bellefont;1.48636;44.5137
+46156_qmwcgu_00118;118;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.49157;44.4994
+46156_9f34fa_00278;278;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45499;44.4858
+46156_0293_00260;260;;Chemin du Barry;46090;46156;Bellefont-La Rauze;Valroufié;Che du Barry;1.4983;44.5004
+46156_0331_01672;1672;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Gironde;1.53756;44.5367
+46156_939di6_00554;554;;Route des Ruffians;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Ruffians;1.48751;44.5188
+46156_nca30g_00087;87;;Chemin de Saint-Michel;46090;46156;Bellefont-La Rauze;Valroufié;Che de Saint Michel;1.4881;44.5193
+46156_0300_00091;91;;Clos de Pommier;46090;46156;Bellefont-La Rauze;Cours;Champs des Parques;1.51593;44.5315
+46156_0130_00861;861;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46884;44.4827
+46156_7nunk2_00684;684;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;La Font;1.51968;44.5236
+46156_0327_00074;74;;Chemin du Pradel;46090;46156;Bellefont-La Rauze;Cours;Le Pradel;1.53671;44.5111
+46156_0316_00397;397;;Rue Ronde;46090;46156;Bellefont-La Rauze;Cours;Cours;1.5398;44.5176
+46156_9f34fa_00558;558;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45803;44.4848
+46156_939di6_00586;586;;Route des Ruffians;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Ruffians;1.48746;44.519
+46156_0311_00054;54;;Route des Crozes;46090;46156;Bellefont-La Rauze;Cours;Les Naudils;1.51967;44.5313
+46156_b243_00345;345;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.49633;44.5017
+46156_0313_00714;714;;Route des Plaines;46090;46156;Bellefont-La Rauze;Cours;Pl de Cours;1.52489;44.5293
+46156_0070_00050;50;;Chemin des Counailles;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che des Counailles;1.46981;44.4792
+46156_0293_00202;202;;Chemin du Barry;46090;46156;Bellefont-La Rauze;Valroufié;Che du Barry;1.49837;44.501
+46156_0313_00432;432;;Route des Plaines;46090;46156;Bellefont-La Rauze;Cours;Les Naudils;1.52168;44.53
+46156_0090_00033;33;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Laroque des Arcs;1.46789;44.475
+46156_0nvw67_00510;510;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.47794;44.5018
+46156_9f34fa_00700;700;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45968;44.4846
+46156_0293_00099;99;;Chemin du Barry;46090;46156;Bellefont-La Rauze;Valroufié;Che du Barry;1.49843;44.5019
+46156_0nvw67_00236;236;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.4803;44.5007
+46156_0160_00141;141;;Rue des Récollets;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Pas du Pech;1.46753;44.4754
+46156_0315_00302;302;;Route de Cours;46090;46156;Bellefont-La Rauze;Cours;Les Granges;1.5395;44.519
+46156_0316_00111;111;;Rue Ronde;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54051;44.519
+46156_9f34fa_00415;415;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45646;44.4852
+46156_0313_00384;384;;Route des Plaines;46090;46156;Bellefont-La Rauze;Cours;Les Naudils;1.52131;44.5302
+46156_0030_00029;29;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46416;44.4749
+46156_f0se4v_00020;20;;Chemin de Palanché;46090;46156;Bellefont-La Rauze;Valroufié;Che du Palanche;1.48777;44.5197
+46156_0273_00042;42;;Impasse du Lavoir;46090;46156;Bellefont-La Rauze;Valroufié;Imp du Lavoir;1.4866;44.5189
+46156_0030_00293;293;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.467418;44.475087
+46156_0030_00076;76;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.464767;44.474965
+46156_od5s5e_00469;469;;Lagarde - Constans;46090;46156;Bellefont-La Rauze;Valroufié;Le Barry;1.50188;44.4975
+46156_0140_00051;51;;Chemin du presbytère;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che du Presbytere;1.46653;44.4772
+46156_0030_00239;239;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46684;44.475138
+46156_0090_00649;649;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46035;44.4741
+46156_0331_01398;1398;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Gironde;1.53749;44.5343
+46156_hygpep_00122;122;;Chemin du Pigeonnier;46090;46156;Bellefont-La Rauze;Valroufié;Che du Pigeonnier;1.47322;44.5372
+46156_0199_00021;21;;Place Saint-Roch;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;;1.46903;44.4755
+46156_0313_00757;757;;Route des Plaines;46090;46156;Bellefont-La Rauze;Cours;Pech Palat;1.52557;44.5294
+46156_qpddtr_00030;30;;Impasse Merle Castel;46090;46156;Bellefont-La Rauze;Valroufié;Imp Merle Castel;1.46331;44.4994
+46156_0090_00111;111;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46691;44.4749
+46156_kl6w3w_00241;241;;Route des Corniers;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Corniers;1.49376;44.5
+46156_b017_00087;87;;Combe Nègre;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Combe Negre;1.48161;44.4962
+46156_qmwcgu_00731;731;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Constans Bas;1.48919;44.504
+46156_9f34fa_00869;869;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46353;44.4841
+46156_0030_00097;97;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46499;44.4751
+46156_od5s5e_00419;419;;Lagarde - Constans;46090;46156;Bellefont-La Rauze;Valroufié;Le Barry;1.50148;44.4978
+46156_2phmmv_00011;11;;Place du Pech;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Pl du Pech;1.46726;44.4757
+46156_0321_00148;148;;Rue du Puech des Bruyères;46090;46156;Bellefont-La Rauze;Cours;Le Pech;1.53828;44.5167
+46156_0090_00454;454;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46269;44.4747
+46156_0331_01630;1630;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Gironde;1.5375;44.5363
+46156_7nunk2_00521;521;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51961;44.5253
+46156_0316_00159;159;;Rue Ronde;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54125;44.519
+46156_b067_00051;51;;Pech de Clary;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Riviere de Lamagdelaine;1.47491;44.474
+46156_0130_00571;571;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46855;44.4801
+46156_0130_00277;277;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46774;44.4776
+46156_7nunk2_00303;303;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51882;44.5272
+46156_0335_00411;411;;Chemin de la Devèze;46090;46156;Bellefont-La Rauze;Cours;La Deveze;1.51191;44.5136
+46156_b243_00112;112;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.49761;44.4999
+46156_9f34fa_00865;865;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46348;44.4843
+46156_9f34fa_00669;669;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45934;44.4847
+46156_b015_01130;1130;;Combe Saint-Michel;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Combe de Saint Michel;1.47462;44.4914
+46156_0130_00109;109;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46779;44.4761
+46156_0270_00242;242;;Chemin des Tuileries;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che des Tuileries;1.45965;44.4735
+46156_sroyhy_00026;26;;Impasse Lausies;46090;46156;Bellefont-La Rauze;Valroufié;Imp Lauzies;1.49011;44.5009
+46156_0030_00175;175;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.465958;44.475124
+46156_wc8ql8_00274;274;;Les Fraysses;46090;46156;Bellefont-La Rauze;Valroufié;Constans (valroufie);1.48682;44.5047
+46156_hs42p2_00080;80;;Chemin de Bellefont;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de Bellefont;1.4693;44.476
+46156_0090_00422;422;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46302;44.4748
+46156_wc8ql8_00580;580;;Les Fraysses;46090;46156;Bellefont-La Rauze;Valroufié;Les Fraysses;1.48478;44.5068
+46156_9f34fa_01308;1308;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46562;44.4819
+46156_0030_00316;316;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46773;44.475109
+46156_0279_02933;2933;;Route de Monphelin;46090;46156;Bellefont-La Rauze;Valroufié;Moncoutie;1.47349;44.5385
+46156_xqfdbc_00057;57;;Chemin du Lac;46090;46156;Bellefont-La Rauze;Valroufié;Che du Lac;1.47232;44.5376
+46156_avj70s_00200;200;;Chemin des bois;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rte de Valroufie;1.47087;44.4951
+46156_b243_00303;303;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.49599;44.5013
+46156_0302_00362;362;;Route du Bout du Lieu;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51583;44.5285
+46156_0331_01745;1745;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Gironde;1.53756;44.5375
+46156_kl6w3w_00111;111;;Route des Corniers;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Corniers;1.4924;44.4992
+46156_kl6w3w_00041;41;;Route des Corniers;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Corniers;1.49176;44.4987
+46156_81dp9k_00066;66;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Combes;1.46687;44.4767
+46156_kcf1s5_00110;110;;Route du Stade;46090;46156;Bellefont-La Rauze;Valroufié;Constans (valroufie);1.49062;44.5046
+46156_x6r49t_00019;19;;Passage du Ruisseau;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che du Ruisseau;1.46883;44.4759
+46156_0090_00088;88;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46726;44.475
+46156_hs42p2_00138;138;;Chemin de Bellefont;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de Bellefont;1.46949;44.4766
+46156_0337_00120;120;;Route Pradelle de Babours;46090;46156;Bellefont-La Rauze;Cours;Le Bout de la Cote;1.55515;44.5325
+46156_0315_00053;53;;Route de Cours;46090;46156;Bellefont-La Rauze;Cours;Les Boules;1.53981;44.5213
+46156_0313_00592;592;;Route des Plaines;46090;46156;Bellefont-La Rauze;Cours;Les Naudils;1.52348;44.5295
+46156_geufx6_00349;349;;Les Jasses;46090;46156;Bellefont-La Rauze;Valroufié;Les Jasses;1.48783;44.4984
+46156_7tmo3x_00154;154;;Rue de la Vigne Grande;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54304;44.5181
+46156_0279_02500;2500;;Route de Monphelin;46090;46156;Bellefont-La Rauze;Valroufié;Monphelin;1.47595;44.5351
+46156_9f34fa_01136;1136;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46453;44.4831
+46156_b111_00001;1;;Champ des Parques;46090;46156;Bellefont-La Rauze;Cours;Bourtoulou;1.50792;44.5323
+46156_kl6w3w_00882;882;;Route des Corniers;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Corniers;1.4994;44.5036
+46156_0130_00421;421;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46811;44.479
+46156_kcf1s5_00229;229;;Route du Stade;46090;46156;Bellefont-La Rauze;Valroufié;Rte du Stade;1.49189;44.505
+46156_s372uy_00025;25;;Chemin de la Chapelle;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de la Chapelle Saint-Roch;1.46924;44.4754
+46156_hs42p2_00315;315;;Chemin de Bellefont;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de Bellefont;1.46962;44.4783
+46156_f0se4v_00050;50;;Chemin de Palanché;46090;46156;Bellefont-La Rauze;Valroufié;Che du Palanche;1.488;44.52
+46156_0321_00358;358;;Rue du Puech des Bruyères;46090;46156;Bellefont-La Rauze;Cours;Le Pech;1.53597;44.5175
+46156_0321_00311;311;;Rue du Puech des Bruyères;46090;46156;Bellefont-La Rauze;Cours;Le Pech (cours);1.53634;44.5171
+46156_wc8ql8_00423;423;;Les Fraysses;46090;46156;Bellefont-La Rauze;Valroufié;Les Fraysses;1.48568;44.5059
+46156_9f34fa_01374;1374;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46573;44.4816
+46156_7nunk2_00338;338;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51872;44.5269
+46156_kcf1s5_00427;427;;Route du Stade;46090;46156;Bellefont-La Rauze;Valroufié;Rte du Stade;1.4933;44.5063
+46156_0070_00126;126;;Chemin des Counailles;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che des Counailles;1.47022;44.4801
+46156_0334_00010;10;;Chemin du Circaète;46090;46156;Bellefont-La Rauze;Cours;Souleillan de Babours;1.54568;44.5334
+46156_0311_00051;51;;Route des Crozes;46090;46156;Bellefont-La Rauze;Cours;Les Naudils;1.51948;44.5314
+46156_qmwcgu_00288;288;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.49033;44.5006
+46156_od5s5e_00193;193;;Lagarde - Constans;46090;46156;Bellefont-La Rauze;Valroufié;Le Barry;1.49917;44.499
+46156_hs42p2_00057;57;;Chemin de Bellefont;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de Bellefont;1.46922;44.4759
+46156_0316_00218;218;;Rue Ronde;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54143;44.5187
+46156_939di6_00334;334;;Route des Ruffians;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Ruffians;1.48828;44.5169
+46156_7nunk2_00261;261;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51869;44.5276
+46156_81dp9k_00640;640;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;;1.46349;44.4806
+46156_0317_00007;7;;Rue du Fournil;46090;46156;Bellefont-La Rauze;Cours;;1.54024;44.5189
+46156_kl6w3w_00223;223;;Route des Corniers;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Corniers;1.4935;44.4998
+46156_wc8ql8_00588;588;;Les Fraysses;46090;46156;Bellefont-La Rauze;Valroufié;Les Fraysses;1.48458;44.5069
+46156_wc8ql8_00323;323;;Les Fraysses;46090;46156;Bellefont-La Rauze;Valroufié;Les Fraysses;1.48617;44.505
+46156_0nvw67_00666;666;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.47624;44.5026
+46156_0302_00009;9;;Route du Bout du Lieu;46090;46156;Bellefont-La Rauze;Cours;Les Naudils;1.51899;44.5307
+46156_81dp9k_00214;214;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Combes;1.46563;44.4772
+46156_0300_00237;237;;Clos de Pommier;46090;46156;Bellefont-La Rauze;Cours;Champs des Parques;1.51427;44.5319
+46156_0321_00357;357;;Rue du Puech des Bruyères;46090;46156;Bellefont-La Rauze;Cours;Le Pech;1.53593;44.5174
+46156_8e4uit_00063;63;;Chemin des Vignes;46090;46156;Bellefont-La Rauze;Valroufié;Che des Vignes;1.48678;44.5197
+46156_0311_00116;116;;Route des Crozes;46090;46156;Bellefont-La Rauze;Cours;Les Naudils;1.52007;44.5318
+46156_0339_00001;1;;Pont du Gendarme;46090;46156;Bellefont-La Rauze;Cours;Le Bout de la Cote;1.55585;44.5375
+46156_b243_00026;26;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.49693;44.4994
+46156_0293_00249;249;;Chemin du Barry;46090;46156;Bellefont-La Rauze;Valroufié;Che du Barry;1.49855;44.5006
+46156_9f34fa_00668;668;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45932;44.4846
+46156_0329_00233;233;;Chemin de Marsat;46090;46156;Bellefont-La Rauze;Cours;Marsat;1.54423;44.5045
+46156_s15wfd_00188;188;;Chemin de la Prade;46090;46156;Bellefont-La Rauze;Valroufié;Che de la Prade;1.48435;44.5138
+46156_b017_00450;450;;Combe Nègre;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.47732;44.497
+46156_b028_00426;426;;Combe de Coutiou;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Combe de Coutiou;1.48798;44.486
+46156_0330_00288;288;;Route du Travers Droit;46090;46156;Bellefont-La Rauze;Cours;Travers Droit;1.54031;44.5239
+46156_vhacnq_00220;220;;Crabo Bayro;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Crabo Bayro;1.49069;44.4873
+46156_geufx6_00460;460;;Les Jasses;46090;46156;Bellefont-La Rauze;Valroufié;Les Jasses;1.48635;44.4987
+46156_81dp9k_00558;558;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Combes;1.46383;44.48
+46156_s372uy_00049;49;;Chemin de la Chapelle;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de la Chapelle Saint-Roch;1.46935;44.4755
+46156_5wz14s_00585;585;;Route de Valroufié;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rte de Valroufie;1.4675;44.4887
+46156_b015_00027;27;;Combe Saint-Michel;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de la Combe St Michel;1.46844;44.4854
+46156_7nunk2_00166;166;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51812;44.5283
+46156_9f34fa_00247;247;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45474;44.4861
+46156_0270_00150;150;;Chemin des Tuileries;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che des Tuileries;1.46072;44.4739
+46156_81dp9k_00029;29;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Esc du Pech;1.46726;44.4753
+46156_0293_00248;248;;Chemin du Barry;46090;46156;Bellefont-La Rauze;Valroufié;Che du Barry;1.49834;44.5006
+46156_0030_00257;257;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.467073;44.475103
+46156_0315_00239;239;;Route de Cours;46090;46156;Bellefont-La Rauze;Cours;Cours;1.53933;44.5197
+46156_0030_00303;303;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.467587;44.475094
+46156_9f34fa_01098;1098;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46407;44.4833
+46156_939di6_00598;598;;Route des Ruffians;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Ruffians;1.48735;44.5191
+46156_9f34fa_00740;740;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46005;44.4846
+46156_0333_00455;455;;Chemin du Bout de la Côte;46090;46156;Bellefont-La Rauze;Cours;Vacquies;1.54532;44.5332
+46156_9f34fa_00495;495;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45727;44.4849
+46156_0140_00061;61;;Chemin du presbytère;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che du Presbytere;1.46687;44.4769
+46156_0160_00096;96;;Rue des Récollets;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Recollets;1.46752;44.4757
+46156_0329_00133;133;;Chemin de Marsat;46090;46156;Bellefont-La Rauze;Cours;Pech Delluc;1.54325;44.505
+46156_kcf1s5_00140;140;;Route du Stade;46090;46156;Bellefont-La Rauze;Valroufié;Rte du Stade;1.49159;44.5049
+46156_0284_00173;173;;Impasse du Stade;46090;46156;Bellefont-La Rauze;Valroufié;Imp du Stade;1.49582;44.5065
+46156_0325_00468;468;;Rue de la Boissières;46090;46156;Bellefont-La Rauze;Cours;La Boissiere;1.5461;44.5142
+46156_0090_00097;97;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.4671;44.4749
+46156_0307_00053;53;;Rue de la Caminade;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51945;44.5266
+46156_0331_00187;187;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Travers Droit;1.53975;44.5258
+46156_0130_00193;193;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46765;44.4769
+46156_81dp9k_00712;712;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Combes;1.46314;44.481
+46156_hs42p2_00378;378;;Chemin de Bellefont;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de Bellefont;1.4699;44.4788
+46156_0090_00168;168;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.4662;44.475
+46156_7nunk2_00356;356;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51881;44.5268
+46156_7nunk2_00577;577;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Lamillere;1.51968;44.5247
+46156_0200_00042;42;;Ruelle Saint-Roch;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rle Saint-Roch;1.46924;44.4758
+46156_7nunk2_00278;278;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51856;44.5273
+46156_0090_00067;67;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46754;44.4749
+46156_0130_00062;62;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46807;44.4757
+46156_0070_00074;74;;Chemin des Counailles;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che des Counailles;1.46994;44.4795
+46156_0307_00060;60;;Rue de la Caminade;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51939;44.5264
+46156_kl6w3w_00188;188;;Route des Corniers;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Corniers;1.49323;44.4996
+46156_81dp9k_00751;751;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;;1.46282;44.4812
+46156_0130_00627;627;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46876;44.4806
+46156_eomf6k_00120;120;;Chemin du Champ de Courtet;46090;46156;Bellefont-La Rauze;Valroufié;Che du Champ de Courtet;1.48701;44.5173
+46156_0nvw67_00783;783;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.47483;44.5031
+46156_0293_00080;80;;Chemin du Barry;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.49818;44.5021
+46156_b243_00445;445;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.4976;44.5019
+46156_671195_00137;137;;Le Courpoux;46090;46156;Bellefont-La Rauze;Valroufié;Che de Courpoux;1.48712;44.5024
+46156_0337_00680;680;;Route Pradelle de Babours;46090;46156;Bellefont-La Rauze;Cours;La Pradelle de Babours;1.55286;44.5287
+46156_pzj5s5_00010;10;;Raidillon du Pech;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Raid du Pech;1.46737;44.4756
+46156_kl6w3w_00208;208;;Route des Corniers;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Corniers;1.49349;44.4997
+46156_z9ouv2_00620;620;;Chemin du Périé;46090;46156;Bellefont-La Rauze;Valroufié;Perie;1.46569;44.5044
+46156_hs42p2_00388;388;;Chemin de Bellefont;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che des Cabasses;1.46965;44.4791
+46156_0030_00131;131;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46553;44.4751
+46156_7tmo3x_00112;112;;Rue de la Vigne Grande;46090;46156;Bellefont-La Rauze;Cours;Vigne Grande;1.542568;44.518692
+46156_0nvw67_00440;440;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.47862;44.5015
+46156_b243_00190;190;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.4972;44.5007
+46156_0316_00256;256;;Rue Ronde;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54081;44.5185
+46156_0090_00190;190;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46592;44.475
+46156_0279_00061;61;;Route de Monphelin;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Montphelin;1.48543;44.5196
+46156_0160_00155;155;;Rue des Récollets;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Escalier des Recollets;1.46756;44.4753
+46156_0130_00014;14;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46827;44.4754
+46156_0331_00133;133;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Travers Droit;1.53989;44.5253
+46156_7nunk2_00459;459;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51946;44.5259
+46156_qmwcgu_00015;15;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Les Jasses;1.49143;44.4984
+46156_81dp9k_00023;23;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Combes;1.46741;44.4765
+46156_wc8ql8_00181;181;;Les Fraysses;46090;46156;Bellefont-La Rauze;Valroufié;;1.48791;44.5043
+46156_2dyx4r_00108;108;;Chemin d'Al Chaï;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che d’Al Chai;1.46672;44.4898
+46156_671195_00261;261;;Le Courpoux;46090;46156;Bellefont-La Rauze;Valroufié;Le Courpoux;1.48547;44.5026
+46156_0331_01326;1326;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Gironde;1.53741;44.5337
+46156_9f34fa_00705;705;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45975;44.4847
+46156_b082_00012;12;;Rivière Lamagdeleine;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Riviere de Lamagdelaine;1.47443;44.4741
+46156_0279_02885;2885;;Route de Monphelin;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Montphelin;1.47415;44.5384
+46156_81dp9k_00007;7;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Recollets;1.46757;44.4766
+46156_0321_00426;426;;Rue du Puech des Bruyères;46090;46156;Bellefont-La Rauze;Cours;Cours;1.53539;44.5179
+46156_81dp9k_00353;353;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Combes;1.46404;44.4783
+46156_kl6w3w_00872;872;;Route des Corniers;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Corniers;1.49919;44.5035
+46156_0307_00110;110;;Rue de la Caminade;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.5198;44.5262
+46156_0090_00032;32;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46785;44.4751
+46156_bwbonr_00203;203;;Route de Montcoutié;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Moncoutie;1.47224;44.537
+46156_7nunk2_00370;370;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.5189;44.5267
+46156_qmwcgu_00175;175;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.49131;44.4997
+46156_0321_00008;8;;Rue du Puech des Bruyères;46090;46156;Bellefont-La Rauze;Cours;Le Pech (cours);1.53942;44.5174
+46156_0199_00027;27;;Place Saint-Roch;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;;1.46902;44.4754
+46156_0130_00403;403;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46808;44.4788
+46156_939di6_00614;614;;Route des Ruffians;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Ruffians;1.48706;44.5192
+46156_0337_01201;1201;;Route Pradelle de Babours;46090;46156;Bellefont-La Rauze;Cours;Le Moulinet;1.5556;44.5253
+46156_26263c_00122;122;;lagarde;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de la Chapelle Saint-Roch;1.46971;44.4751
+46156_0030_00297;297;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.467491;44.475085
+46156_0316_00294;294;;Rue Ronde;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54049;44.5184
+46156_0030_00088;88;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.464905;44.474977
+46156_0325_00296;296;;Rue de la Boissières;46090;46156;Bellefont-La Rauze;Cours;La Boissiere;1.54407;44.5141
+46156_0200_00007;7;;Ruelle Saint-Roch;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rle Saint-Roch;1.4691;44.4755
+46156_kcf1s5_00479;479;;Route du Stade;46090;46156;Bellefont-La Rauze;Valroufié;Rte du Stade;1.49388;44.5067
+46156_0090_00120;120;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46681;44.475
+46156_5wz14s_00501;501;;Route de Valroufié;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rte de Valroufie;1.46755;44.488
+46156_b017_00236;236;;Combe Nègre;46090;46156;Bellefont-La Rauze;Valroufié;Combe Negre;1.47997;44.4968
+46156_0279_00031;31;;Route de Monphelin;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Montphelin;1.48555;44.5195
+46156_0333_01036;1036;;Chemin du Bout de la Côte;46090;46156;Bellefont-La Rauze;Cours;Le Bout de la Cote;1.55149;44.5346
+46156_9f34fa_00300;300;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45522;44.4857
+46156_b028_00358;358;;Combe de Coutiou;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Combe de Coutiou;1.48917;44.4865
+46156_kl6w3w_00075;75;;Route des Corniers;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Corniers;1.49205;44.499
+46156_0325_00320;320;;Rue de la Boissières;46090;46156;Bellefont-La Rauze;Cours;La Boissiere;1.54436;44.5141
+46156_qpddtr_00029;29;;Impasse Merle Castel;46090;46156;Bellefont-La Rauze;Valroufié;Imp Merle Castel;1.4632;44.499
+46156_9f34fa_00556;556;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.4579;44.4848
+46156_0130_00293;293;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46778;44.4777
+46156_0030_00235;235;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46672;44.4752
+46156_8e4uit_00084;84;;Chemin des Vignes;46090;46156;Bellefont-La Rauze;Valroufié;Che des Vignes;1.48642;44.5199
+46156_0329_00295;295;;Chemin de Marsat;46090;46156;Bellefont-La Rauze;Cours;Marsat;1.54476;44.5047
+46156_0314_00022;22;;Chemin des Naudils;46090;46156;Bellefont-La Rauze;Cours;Les Pessettes;1.52362;44.5298
+46156_0316_00392;392;;Rue Ronde;46090;46156;Bellefont-La Rauze;Cours;Cours;1.53978;44.5178
+46156_0130_00035;35;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46809;44.4755
+46156_0065_00001;1;;Place du Coq;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Pl du Coq;1.46811;44.4764
+46156_0130_00599;599;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46866;44.4803
+46156_lrkvw7_00072;72;;Place de l'Eglise;46090;46156;Bellefont-La Rauze;Valroufié;Pl de l’Eglise;1.49082;44.4975
+46156_0130_00077;77;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46791;44.4758
+46156_0030_00284;284;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Pas du Pech;1.467326;44.475022
+46156_4aygmx_00186;186;;Chemin du Coustalou;46090;46156;Bellefont-La Rauze;Valroufié;Che du Coustalou;1.48797;44.5178
+46156_0319_00023;23;;Impasse du Travail;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54164;44.5191
+46156_0300_00111;111;;Clos de Pommier;46090;46156;Bellefont-La Rauze;Cours;Champs des Parques;1.51571;44.5317
+46156_0333_00296;296;;Chemin du Bout de la Côte;46090;46156;Bellefont-La Rauze;Cours;Vacquies;1.54399;44.5321
+46156_b067_00233;233;;Pech de Clary;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Riviere de Lamagdelaine;1.47671;44.473
+46156_0335_00221;221;;Chemin de la Devèze;46090;46156;Bellefont-La Rauze;Cours;La Penele;1.51052;44.5152
+46156_0314_00065;65;;Chemin des Naudils;46090;46156;Bellefont-La Rauze;Cours;Les Naudils;1.52372;44.5303
+46156_9f34fa_00600;600;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45851;44.4847
+46156_kcf1s5_00023;23;;Route du Stade;46090;46156;Bellefont-La Rauze;Valroufié;Constans Bas;1.48992;44.5041
+46156_0302_00375;375;;Route du Bout du Lieu;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51578;44.5283
+46156_0282_00470;470;;Chemin de Vernoly;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Combe Negre;1.48258;44.4956
+46156_0090_00090;90;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46721;44.475
+46156_0090_00157;157;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46654;44.4749
+46156_7tmo3x_00001;1;;Rue de la Vigne Grande;46090;46156;Bellefont-La Rauze;Cours;Cours;1.5417;44.5188
+46156_qmwcgu_00091;91;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Corniers;1.4913;44.499
+46156_b067_00001;1;;Pech de Clary;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Riviere de Lamagdelaine;1.47446;44.4743
+46156_bwbonr_00253;253;;Route de Montcoutié;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Moncoutie;1.47246;44.5366
+46156_kcf1s5_00016;16;;Route du Stade;46090;46156;Bellefont-La Rauze;Valroufié;Rte du Stade;1.48994;44.5039
+46156_0160_00085;85;;Rue des Récollets;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Recollets;1.46759;44.4758
+46156_7nunk2_00426;426;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51906;44.5261
+46156_pzj5s5_00011;11;;Raidillon du Pech;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Raid du Pech;1.4673;44.4756
+46156_b082_00242;242;;Rivière Lamagdeleine;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Riviere de Lamagdelaine;1.47663;44.4728
+46156_rrexla_01608;1608;;Les Pountiès;46090;46156;Bellefont-La Rauze;Valroufié;Les Pounties;1.46509;44.4998
+46156_b015_00257;257;;Combe Saint-Michel;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Combe de Saint Michel;1.47092;44.4857
+46156_0325_00126;126;;Rue de la Boissières;46090;46156;Bellefont-La Rauze;Cours;La Boissiere;1.54176;44.5144
+46156_0090_00156;156;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46642;44.475
+46156_0030_00289;289;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.467336;44.475088
+46156_b243_00464;464;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.4978;44.5018
+46156_0325_00064;64;;Rue de la Boissières;46090;46156;Bellefont-La Rauze;Cours;La Boissiere;1.54111;44.5147
+46156_0335_00420;420;;Chemin de la Devèze;46090;46156;Bellefont-La Rauze;Cours;La Borie Rouge;1.51178;44.5135
+46156_kl6w3w_00099;99;;Route des Corniers;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Corniers;1.49226;44.4991
+46156_0120_00001;1;;Passage du Pech;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Pas du Pech;1.46634;44.4751
+46156_sroyhy_00060;60;;Impasse Lausies;46090;46156;Bellefont-La Rauze;Valroufié;Lausies;1.4902;44.5012
+46156_0300_00069;69;;Clos de Pommier;46090;46156;Bellefont-La Rauze;Cours;Champs des Parques;1.51615;44.5314
+46156_b082_00230;230;;Rivière Lamagdeleine;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Riviere de Lamagdelaine;1.47656;44.4728
+46156_qmwcgu_00445;445;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.4889;44.5017
+46156_b243_00169;169;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.49726;44.5005
+46156_0319_00021;21;;Impasse du Travail;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54159;44.5191
+46156_7nunk2_00373;373;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51905;44.5267
+46156_od5s5e_00488;488;;Lagarde - Constans;46090;46156;Bellefont-La Rauze;Valroufié;Lagarde;1.502;44.4973
+46156_b243_00259;259;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.49629;44.5009
+46156_0331_00112;112;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Travers Droit;1.54018;44.5251
+46156_26263c_00077;77;;lagarde;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Tour de Peage;1.46924;44.4753
+46156_kcf1s5_00018;18;;Route du Stade;46090;46156;Bellefont-La Rauze;Valroufié;Rte du Stade;1.49011;44.5037
+46156_7nunk2_00400;400;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51898;44.5263
+46156_hygpep_00199;199;;Chemin du Pigeonnier;46090;46156;Bellefont-La Rauze;Valroufié;Che du Pigeonnier;1.47278;44.537
+46156_0030_00102;102;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46506;44.475
+46156_0030_00119;119;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Laroque des Arcs;1.46527;44.4751
+46156_0308_00040;40;;Rue du Silence;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51981;44.5258
+46156_0300_00137;137;;Clos de Pommier;46090;46156;Bellefont-La Rauze;Cours;Champs des Parques;1.51544;44.5318
+46156_qmwcgu_00317;317;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.48989;44.5007
+46156_36q3a4_00195;195;;Combel del Peyrous;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51541;44.5299
+46156_8k19ll_00107;107;;Chemin du Cayrou;46090;46156;Bellefont-La Rauze;Valroufié;Les Fraysses;1.48528;44.5075
+46156_b028_00314;314;;Combe de Coutiou;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Combe de Coutiou;1.49007;44.4869
+46156_qmwcgu_00025;25;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Les Jasses;1.49138;44.4985
+46156_ivt21g_00041;41;;Lac Haut;46090;46156;Bellefont-La Rauze;Valroufié;Lac Haut;1.49995;44.5046
+46156_0279_00010;10;;Route de Monphelin;46090;46156;Bellefont-La Rauze;Valroufié;Lieu Dit Clos de Pommier;1.4858;44.5196
+46156_0279_02518;2518;;Route de Monphelin;46090;46156;Bellefont-La Rauze;Valroufié;Monphelin;1.47779;44.5337
+46156_9f34fa_00758;758;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46045;44.4845
+46156_b017_00292;292;;Combe Nègre;46090;46156;Bellefont-La Rauze;Valroufié;Combe Negre;1.47931;44.497
+46156_geufx6_00370;370;;Les Jasses;46090;46156;Bellefont-La Rauze;Valroufié;Les Jasses;1.48743;44.4986
+46156_b243_00081;81;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.49707;44.4999
+46156_od5s5e_00270;270;;Lagarde - Constans;46090;46156;Bellefont-La Rauze;Valroufié;Lagarde;1.49985;44.4985
+46156_0316_00253;253;;Rue Ronde;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54093;44.5184
+46156_0313_00360;360;;Route des Plaines;46090;46156;Bellefont-La Rauze;Cours;Les Naudils;1.52085;44.5303
+46156_b017_00316;316;;Combe Nègre;46090;46156;Bellefont-La Rauze;Valroufié;Combe Negre;1.47881;44.4971
+46156_b243_00152;152;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.49754;44.5003
+46156_26263c_00121;121;;lagarde;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Tour de Peage;1.46975;44.4752
+46156_0312_00038;38;;Chemin de la Martinesque;46090;46156;Bellefont-La Rauze;Cours;Les Naudils;1.52036;44.5324
+46156_0307_00191;191;;Rue de la Caminade;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.52063;44.5257
+46156_81dp9k_00541;541;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Combes;1.46366;44.4799
+46156_0333_00440;440;;Chemin du Bout de la Côte;46090;46156;Bellefont-La Rauze;Cours;Vacquies;1.54537;44.533
+46156_0160_00026;26;;Rue des Récollets;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Recollets;1.4674;44.4764
+46156_0333_00446;446;;Chemin du Bout de la Côte;46090;46156;Bellefont-La Rauze;Cours;Souleillan de Babours;1.5455;44.5331
+46156_81dp9k_00600;600;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Combe de Magnes;1.46374;44.4803
+46156_0327_00171;171;;Chemin du Pradel;46090;46156;Bellefont-La Rauze;Cours;Bos Negre;1.53544;44.5113
+46156_sroyhy_00115;115;;Impasse Lausies;46090;46156;Bellefont-La Rauze;Valroufié;Imp Lauzies;1.4897;44.5017
+46156_0030_00129;129;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46538;44.4751
+46156_geufx6_00293;293;;Les Jasses;46090;46156;Bellefont-La Rauze;Valroufié;Les Jasses;1.48843;44.4982
+46156_0090_00680;680;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.45991;44.4742
+46156_0130_00319;319;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46778;44.478
+46156_26263c_00091;91;;lagarde;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rle Saint-Roch;1.46952;44.4752
+46156_0090_00094;94;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46714;44.475
+46156_0090_00118;118;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46685;44.475
+46156_9f34fa_01241;1241;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46542;44.4824
+46156_hygpep_00032;32;;Chemin du Pigeonnier;46090;46156;Bellefont-La Rauze;Valroufié;Che du Pigeonnier;1.47273;44.5366
+46156_rrexla_01664;1664;;Les Pountiès;46090;46156;Bellefont-La Rauze;Valroufié;Les Pounties;1.46429;44.4994
+46156_0331_01735;1735;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Gironde;1.53756;44.5373
+46156_qmwcgu_00115;115;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.49129;44.4993
+46156_26263c_00060;60;;lagarde;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Tour de Peage;1.46906;44.4752
+46156_0334_00055;55;;Chemin du Circaète;46090;46156;Bellefont-La Rauze;Cours;Vacquies;1.5457;44.5338
+46156_0090_00197;197;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46587;44.4749
+46156_lb8eop_00204;204;;Chemin de Marty;46090;46156;Bellefont-La Rauze;Cours;Riviere de Marty;1.5571;44.5188
+46156_81dp9k_00059;59;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Combes;1.46691;44.4766
+46156_0315_00485;485;;Route de Cours;46090;46156;Bellefont-La Rauze;Cours;Cours;1.53969;44.5174
+46156_81dp9k_00633;633;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Les Combes;1.46353;44.4804
+46156_kcf1s5_00327;327;;Route du Stade;46090;46156;Bellefont-La Rauze;Valroufié;Rte du Stade;1.49271;44.5057
+46156_qmwcgu_00200;200;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.49124;44.5001
+46156_qmwcgu_00590;590;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.48857;44.5027
+46156_ivt21g_00075;75;;Lac Haut;46090;46156;Bellefont-La Rauze;Valroufié;Lac Haut;1.50038;44.5049
+46156_0030_00238;238;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.466794;44.47506
+46156_0030_00007;7;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46383;44.4749
+46156_0316_00335;335;;Rue Ronde;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54014;44.518
+46156_0090_00010;10;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46812;44.4752
+46156_4aygmx_00059;59;;Chemin du Coustalou;46090;46156;Bellefont-La Rauze;Valroufié;Che du Coustalou;1.48805;44.5188
+46156_7nunk2_00393;393;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51911;44.5264
+46156_qpddtr_00024;24;;Impasse Merle Castel;46090;46156;Bellefont-La Rauze;Valroufié;Merle-Castel;1.46342;44.4994
+46156_qmwcgu_00041;41;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.49136;44.4987
+46156_0315_00236;236;;Route de Cours;46090;46156;Bellefont-La Rauze;Cours;Les Granges;1.5392;44.5197
+46156_7tmo3x_00116;116;;Rue de la Vigne Grande;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54278;44.5185
+46156_0293_00027;27;;Chemin du Barry;46090;46156;Bellefont-La Rauze;Valroufié;Le Barry;1.49835;44.5025
+46156_9f34fa_00256;256;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45471;44.486
+46156_0nvw67_00218;218;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.48087;44.5003
+46156_7tmo3x_00204;204;;Rue de la Vigne Grande;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54327;44.5179
+46156_xqfdbc_00075;75;;Chemin du Lac;46090;46156;Bellefont-La Rauze;Valroufié;Che du Lac;1.47274;44.5377
+46156_hs42p2_00283;283;;Chemin de Bellefont;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de Bellefont;1.46961;44.4779
+46156_0331_01282;1282;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Gironde;1.53765;44.5333
+46156_0316_00035;35;;Rue Ronde;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54002;44.5196
+46156_0306_00001;1;;Place du Couderc;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51866;44.5285
+46156_3lkqun_00086;86;;Chemin de la Milière;46090;46156;Bellefont-La Rauze;Cours;Lamillere;1.52038;44.5244
+46156_939di6_00608;608;;Route des Ruffians;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Ruffians;1.48718;44.5192
+46156_0337_01811;1811;;Route Pradelle de Babours;46090;46156;Bellefont-La Rauze;Cours;Pres Grands;1.55543;44.5197
+46156_b082_00186;186;;Rivière Lamagdeleine;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Riviere de Lamagdelaine;1.47608;44.4731
+46156_f0se4v_00069;69;;Chemin de Palanché;46090;46156;Bellefont-La Rauze;Valroufié;Valroufie;1.48806;44.5201
+46156_0318_00008;8;;Rue du Clocher;46090;46156;Bellefont-La Rauze;Cours;Mairie De Cours;1.54061;44.5188
+46156_hs42p2_00049;49;;Chemin de Bellefont;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de Bellefont;1.46915;44.476
+46156_0030_00344;344;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46776;44.4754
+46156_0327_00178;178;;Chemin du Pradel;46090;46156;Bellefont-La Rauze;Cours;Le Pradel;1.53542;44.5115
+46156_od5s5e_00361;361;;Lagarde - Constans;46090;46156;Bellefont-La Rauze;Valroufié;Le Barry;1.50085;44.4982
+46156_0090_00307;307;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46457;44.4748
+46156_wc8ql8_00231;231;;Les Fraysses;46090;46156;Bellefont-La Rauze;Valroufié;Les Fraysses;1.48716;44.5045
+46156_0030_00330;330;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Laroque;1.46774;44.4752
+46156_0319_00005;5;;Impasse du Travail;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54149;44.519
+46156_9f34fa_00624;624;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45878;44.4847
+46156_0090_00538;538;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46166;44.4745
+46156_0030_00151;151;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46576;44.4751
+46156_0090_00438;438;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46279;44.4747
+46156_geufx6_00163;163;;Les Jasses;46090;46156;Bellefont-La Rauze;Valroufié;Les Jasses;1.4897;44.4977
+46156_s372uy_00100;100;;Chemin de la Chapelle;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Chemin de la Chapelle;1.46941;44.4759
+46156_0330_00224;224;;Route du Travers Droit;46090;46156;Bellefont-La Rauze;Cours;Travers Droit;1.54045;44.5234
+46156_0302_00114;114;;Route du Bout du Lieu;46090;46156;Bellefont-La Rauze;Cours;Pech Gelat;1.51806;44.5301
+46156_9f34fa_00490;490;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45719;44.4848
+46156_b017_00321;321;;Combe Nègre;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Binnac;1.47869;44.497
+46156_9f34fa_00457;457;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45686;44.4851
+46156_0nvw67_00235;235;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.48035;44.5004
+46156_0090_00616;616;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.4606;44.4743
+46156_671195_00243;243;;Le Courpoux;46090;46156;Bellefont-La Rauze;Valroufié;Che de Courpoux;1.48581;44.5025
+46156_0300_00199;199;;Clos de Pommier;46090;46156;Bellefont-La Rauze;Cours;Champs des Parques;1.51475;44.532
+46156_s372uy_00090;90;;Chemin de la Chapelle;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de la Chapelle Saint-Roch;1.4696;44.4758
+46156_geufx6_00422;422;;Les Jasses;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Les Jasses;1.48683;44.4986
+46156_bwbonr_00215;215;;Route de Montcoutié;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Moncoutie;1.47235;44.5369
+46156_0090_00588;588;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46097;44.4744
+46156_kcf1s5_00119;119;;Route du Stade;46090;46156;Bellefont-La Rauze;Valroufié;Rte du Stade;1.49064;44.5047
+46156_9f34fa_01501;1501;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46615;44.4802
+46156_0199_00017;17;;Place Saint-Roch;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;;1.46897;44.4755
+46156_b243_00384;384;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.4969;44.5017
+46156_0130_00181;181;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46763;44.4767
+46156_qmwcgu_00501;501;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.48862;44.5019
+46156_od5s5e_00454;454;;Lagarde - Constans;46090;46156;Bellefont-La Rauze;Valroufié;Lagarde;1.50167;44.4975
+46156_0331_01528;1528;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Gironde;1.53784;44.5355
+46156_qmwcgu_00480;480;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.48892;44.5019
+46156_od5s5e_00590;590;;Lagarde - Constans;46090;46156;Bellefont-La Rauze;Valroufié;Lagarde;1.50329;44.4973
+46156_3lkqun_00114;114;;Chemin de la Milière;46090;46156;Bellefont-La Rauze;Cours;Lamillere;1.52083;44.5244
+46156_0090_00210;210;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46577;44.475
+46156_0316_00135;135;;Rue Ronde;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54092;44.519
+46156_rrexla_01644;1644;;Les Pountiès;46090;46156;Bellefont-La Rauze;Valroufié;Imp Merle Castel;1.46461;44.4995
+46156_0318_00029;29;;Rue du Clocher;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54071;44.5186
+46156_939di6_00184;184;;Route des Ruffians;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Ruffians;1.48822;44.5156
+46156_0308_00044;44;;Rue du Silence;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51995;44.5258
+46156_0025_00093;93;;Chemin des Cabasses;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che des Cabasses;1.47097;44.4783
+46156_36q3a4_00031;31;;Combel del Peyrous;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51642;44.5292
+46156_kcf1s5_00783;783;;Route du Stade;46090;46156;Bellefont-La Rauze;Valroufié;Rte du Stade;1.49363;44.5092
+46156_0328_00845;845;;Route du Pech Delluc;46090;46156;Bellefont-La Rauze;Cours;Pech Delluc;1.54288;44.5064
+46156_0300_00179;179;;Clos de Pommier;46090;46156;Bellefont-La Rauze;Cours;Champs des Parques;1.51498;44.5319
+46156_bwbonr_00413;413;;Route de Montcoutié;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Moncoutie;1.47133;44.5354
+46156_0322_00051;51;;Chemin du Petit Pech;46090;46156;Bellefont-La Rauze;Cours;Le Pech (cours);1.53812;44.5161
+46156_2phmmv_00006;6;;Place du Pech;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Pl du Pech;1.46718;44.4758
+46156_0030_00321;321;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46766;44.4752
+46156_0130_00188;188;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46776;44.4768
+46156_81dp9k_00014;14;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Pas du Pech;1.46721;44.4754
+46156_0030_00273;273;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46719;44.4751
+46156_b028_00420;420;;Combe de Coutiou;46090;46156;Bellefont-La Rauze;;Combe de Coutiou;1.48844;44.4861
+46156_rrexla_01665;1665;;Les Pountiès;46090;46156;Bellefont-La Rauze;Valroufié;Les Pounties;1.46444;44.4994
+46156_0327_00094;94;;Chemin du Pradel;46090;46156;Bellefont-La Rauze;Cours;Le Pradel;1.53628;44.5112
+46156_0331_00001;1;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Champ Del Prat;1.54005;44.5241
+46156_0301_00051;51;;Rue de la croix vieille;46090;46156;Bellefont-La Rauze;Cours;Pech Gelat;1.5173;44.5309
+46156_81dp9k_00416;416;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Les Combes;1.46384;44.4788
+46156_0279_03023;3023;;Route de Monphelin;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Montphelin;1.4724;44.5386
+46156_0313_00213;213;;Route des Plaines;46090;46156;Bellefont-La Rauze;Cours;Les Croses;1.51918;44.5309
+46156_qmwcgu_00733;733;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Constans (valroufie);1.4894;44.504
+46156_b067_00163;163;;Pech de Clary;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Riviere de Lamagdelaine;1.47604;44.4734
+46156_0302_00315;315;;Route du Bout du Lieu;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51635;44.5287
+46156_rrexla_01687;1687;;Les Pountiès;46090;46156;Bellefont-La Rauze;Valroufié;;1.46406;44.4993
+46156_b017_00253;253;;Combe Nègre;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Combe Negre;1.47968;44.4967
+46156_0nvw67_00002;2;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.48292;44.4994
+46156_0090_00646;646;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46029;44.4742
+46156_0030_00061;61;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.4645;44.475
+46156_671195_00092;92;;Le Courpoux;46090;46156;Bellefont-La Rauze;Valroufié;Che de Courpoux;1.4876;44.5024
+46156_0130_00070;70;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46803;44.4758
+46156_9f34fa_01226;1226;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46521;44.4824
+46156_671195_00154;154;;Le Courpoux;46090;46156;Bellefont-La Rauze;Valroufié;Che de Courpoux;1.48695;44.5025
+46156_0337_01600;1600;;Route Pradelle de Babours;46090;46156;Bellefont-La Rauze;Cours;Pres Grands;1.55516;44.5226
+46156_kl6w3w_00081;81;;Route des Corniers;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Corniers;1.49213;44.499
+46156_kl6w3w_00211;211;;Route des Corniers;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Corniers;1.49336;44.4997
+46156_0045_00108;108;;Chemin des Coumbellous;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che des Coumbellous;1.46591;44.4765
+46156_9f34fa_00607;607;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45859;44.4849
+46156_sroyhy_00053;53;;Impasse Lausies;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.49002;44.5011
+46156_qmwcgu_00586;586;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Constans Bas;1.48856;44.5027
+46156_0311_00105;105;;Route des Crozes;46090;46156;Bellefont-La Rauze;Cours;Lacrose;1.51984;44.5317
+46156_kl6w3w_00189;189;;Route des Corniers;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Corniers;1.49312;44.4996
+46156_81dp9k_00610;610;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Les Combes;1.46363;44.4804
+46156_b017_00312;312;;Combe Nègre;46090;46156;Bellefont-La Rauze;Valroufié;Combe Negre;1.47898;44.4971
+46156_0305_00056;56;;Rue de l'Ecole;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.5184;44.5285
+46156_od5s5e_00388;388;;Lagarde - Constans;46090;46156;Bellefont-La Rauze;Valroufié;Lagarde;1.50107;44.4979
+46156_x8q46c_00458;458;;Chemin de Sauliès;46090;46156;Bellefont-La Rauze;Cours;Bos Negre;1.53676;44.5105
+46156_0030_00345;345;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46771;44.4754
+46156_s15wfd_00032;32;;Chemin de la Prade;46090;46156;Bellefont-La Rauze;Valroufié;Che de la Prade;1.48602;44.5137
+46156_5gt2pi_00110;110;;Chemin du Bourtoulou;46090;46156;Bellefont-La Rauze;Cours;;1.50867;44.5336
+46156_0200_00015;15;;Ruelle Saint-Roch;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Place Saint-Roch;1.46916;44.4756
+46156_geufx6_00394;394;;Les Jasses;46090;46156;Bellefont-La Rauze;Valroufié;Les Jasses;1.48707;44.4986
+46156_0030_00337;337;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46768;44.4753
+46156_0293_00116;116;;Chemin du Barry;46090;46156;Bellefont-La Rauze;Valroufié;Che du Barry;1.49825;44.5017
+46156_0322_00045;45;;Chemin du Petit Pech;46090;46156;Bellefont-La Rauze;Cours;Le Pech (cours);1.53803;44.5163
+46156_0130_00204;204;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Recollets;1.46774;44.4769
+46156_b067_00271;271;;Pech de Clary;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Riviere de Lamagdelaine;1.47715;44.4727
+46156_0090_00432;432;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46294;44.4748
+46156_od5s5e_00539;539;;Lagarde - Constans;46090;46156;Bellefont-La Rauze;Valroufié;Le Barry;1.50269;44.4973
+46156_7tmo3x_00091;91;;Rue de la Vigne Grande;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54268;44.5188
+46156_0331_01468;1468;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Gironde;1.53756;44.5349
+46156_9f34fa_00870;870;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46176;44.4844
+46156_0045_00019;19;;Chemin des Coumbellous;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Recollets;1.4676;44.4763
+46156_hs42p2_00044;44;;Chemin de Bellefont;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de Bellefont;1.46917;44.4759
+46156_0325_00201;201;;Rue de la Boissières;46090;46156;Bellefont-La Rauze;Cours;La Boissiere;1.54264;44.5143
+46156_0nvw67_00636;636;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.47655;44.5024
+46156_0nvw67_00780;780;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.47496;44.5033
+46156_wc8ql8_00015;15;;Les Fraysses;46090;46156;Bellefont-La Rauze;Valroufié;Les Fraysses;1.48956;44.5042
+46156_nca30g_00095;95;;Chemin de Saint-Michel;46090;46156;Bellefont-La Rauze;Valroufié;Che de Saint Michel;1.48794;44.5194
+46156_0090_00077;77;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46729;44.4749
+46156_0323_00122;122;;Route des Granges;46090;46156;Bellefont-La Rauze;Cours;Les Granges;1.538;44.5189
+46156_s372uy_00068;68;;Chemin de la Chapelle;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de la Chapelle Saint-Roch;1.46955;44.4756
+46156_0282_00382;382;;Chemin de Vernoly;46090;46156;Bellefont-La Rauze;Valroufié;Che de Vernoly;1.48251;44.4965
+46156_b067_00133;133;;Pech de Clary;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Tour de Peage;1.475515;44.473643
+46156_qmwcgu_00695;695;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Constans (valroufie);1.48865;44.5034
+46156_0090_00110;110;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46705;44.475
+46156_0324_00141;141;;Chemin des Granges;46090;46156;Bellefont-La Rauze;Cours;Les Granges;1.53719;44.5201
+46156_0030_00230;230;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.466641;44.475068
+46156_0329_00065;65;;Chemin de Marsat;46090;46156;Bellefont-La Rauze;Cours;Pech Delluc;1.54322;44.5057
+46156_8e4uit_00072;72;;Chemin des Vignes;46090;46156;Bellefont-La Rauze;Valroufié;Che des Vignes;1.48672;44.5198
+46156_mqq6nc_00001;1;;Place du Roc;46090;46156;Bellefont-La Rauze;Valroufié;;1.47706;44.5423
+46156_b028_00226;226;;Combe de Coutiou;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Crabo Bayro;1.49045;44.4871
+46156_0307_00204;204;;Rue de la Caminade;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.52078;44.5256
+46156_4aygmx_00086;86;;Chemin du Coustalou;46090;46156;Bellefont-La Rauze;Valroufié;Che du Coustalou;1.48817;44.5186
+46156_0130_00535;535;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46843;44.4799
+46156_7nunk2_00427;427;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51918;44.5261
+46156_7nunk2_00287;287;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51877;44.5273
+46156_0316_00320;320;;Rue Ronde;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54013;44.5182
+46156_0130_00089;89;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46786;44.4759
+46156_kl6w3w_00841;841;;Route des Corniers;46090;46156;Bellefont-La Rauze;Valroufié;Les Curades;1.49873;44.5034
+46156_qmwcgu_00301;301;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.49018;44.5004
+46156_0302_00259;259;;Route du Bout du Lieu;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51719;44.5289
+46156_eb6t3q_00052;52;;Escalier des Récollets;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Recollets;1.46755;44.4753
+46156_0030_00015;15;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46402;44.4749
+46156_0321_00025;25;;Rue du Puech des Bruyères;46090;46156;Bellefont-La Rauze;Cours;;1.53941;44.5173
+46156_81dp9k_00264;264;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Combes;1.46486;44.4777
+46156_0130_00120;120;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46787;44.4762
+46156_0293_00207;207;;Chemin du Barry;46090;46156;Bellefont-La Rauze;Valroufié;Che du Barry;1.49858;44.5009
+46156_0330_00180;180;;Route du Travers Droit;46090;46156;Bellefont-La Rauze;Cours;Travers Droit;1.54056;44.5224
+46156_0331_01485;1485;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Gironde;1.53748;44.5352
+46156_kl6w3w_00068;68;;Route des Corniers;46090;46156;Bellefont-La Rauze;Valroufié;Rte des Corniers;1.49208;44.4987
+46156_0nvw67_00296;296;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.47996;44.5008
+46156_26263c_00061;61;;lagarde;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Tour de Peage;1.46907;44.4753
+46156_0130_00065;65;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46796;44.4757
+46156_0331_01809;1809;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Gironde;1.53764;44.538
+46156_rrexla_01729;1729;;Les Pountiès;46090;46156;Bellefont-La Rauze;Valroufié;Les Pounties;1.46372;44.4992
+46156_0315_00411;411;;Route de Cours;46090;46156;Bellefont-La Rauze;Cours;Cours;1.53972;44.518
+46156_9f34fa_01420;1420;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46595;44.4809
+46156_0nvw67_00189;189;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.48076;44.5002
+46156_0090_00408;408;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46319;44.4748
+46156_0030_00220;220;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.466514;44.475078
+46156_9f34fa_00629;629;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45886;44.4848
+46156_0070_00007;7;;Chemin des Counailles;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che des Counailles;1.46968;44.4789
+46156_b015_00215;215;;Combe Saint-Michel;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Combe de Saint Michel;1.47041;44.4855
+46156_b015_00264;264;;Combe Saint-Michel;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Combe de Saint Michel;1.47114;44.4858
+46156_0130_00215;215;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46768;44.4771
+46156_0313_00608;608;;Route des Plaines;46090;46156;Bellefont-La Rauze;Cours;Pl de Cours;1.52378;44.5294
+46156_0130_00052;52;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46811;44.4757
+46156_0nvw67_00090;90;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.48219;44.4996
+46156_ivt21g_00067;67;;Lac Haut;46090;46156;Bellefont-La Rauze;Valroufié;Lac Haut;1.50015;44.5048
+46156_939di6_00579;579;;Route des Ruffians;46090;46156;Bellefont-La Rauze;Valroufié;Valroufie;1.48725;44.519
+46156_0316_00224;224;;Rue Ronde;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54132;44.5187
+46156_0130_00086;86;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46798;44.4759
+46156_0030_00359;359;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46774;44.4755
+46156_qmwcgu_00611;611;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Constans (valroufie);1.48839;44.503
+46156_0325_00590;590;;Rue de la Boissières;46090;46156;Bellefont-La Rauze;Cours;La Boissiere;1.54713;44.5151
+46156_qmwcgu_00531;531;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.48847;44.5022
+46156_od5s5e_00289;289;;Lagarde - Constans;46090;46156;Bellefont-La Rauze;Valroufié;Lagarde;1.500401;44.498552
+46156_0nvw67_00089;89;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.48213;44.4996
+46156_0279_02602;2602;;Route de Monphelin;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Montphelin;1.47509;44.5363
+46156_0130_00817;817;;Rue du Porche;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R du Porche;1.46882;44.4823
+46156_qmwcgu_00729;729;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.48916;44.5039
+46156_rm2s6o_00430;430;;Chemin du Mercadal;46090;46156;Bellefont-La Rauze;Valroufié;Mercadal;1.46973;44.526
+46156_7nunk2_00244;244;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51845;44.5278
+46156_0282_00282;282;;Chemin de Vernoly;46090;46156;Bellefont-La Rauze;Valroufié;Che de Vernoly;1.48329;44.4972
+46156_0090_00460;460;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46238;44.4747
+46156_qmwcgu_00232;232;;Route de Constans Bas;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Constans Bas;1.49092;44.5003
+46156_0090_00175;175;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46621;44.4749
+46156_0313_00915;915;;Route des Plaines;46090;46156;Bellefont-La Rauze;Cours;Pech Palat;1.52759;44.5288
+46156_0293_00169;169;;Chemin du Barry;46090;46156;Bellefont-La Rauze;Valroufié;Che du Barry;1.49849;44.5013
+46156_0nvw67_00596;596;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.47695;44.5023
+46156_81dp9k_00089;89;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Combes;1.46664;44.4767
+46156_26263c_00046;46;;lagarde;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Tour de Peage;1.46883;44.4752
+46156_0316_00223;223;;Rue Ronde;46090;46156;Bellefont-La Rauze;Cours;Cours;1.54135;44.5186
+46156_0282_00050;50;;Chemin de Vernoly;46090;46156;Bellefont-La Rauze;Valroufié;Che de Vernoly;1.48541;44.4986
+46156_hygpep_00124;124;;Chemin du Pigeonnier;46090;46156;Bellefont-La Rauze;Valroufié;Moncoutie;1.47331;44.5371
+46156_7nunk2_00033;33;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Les Naudils;1.51841;44.5294
+46156_0090_00355;355;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.463992;44.474759
+46156_0030_00371;371;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.46785;44.4756
+46156_9f34fa_01534;1534;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46603;44.4802
+46156_0293_00065;65;;Chemin du Barry;46090;46156;Bellefont-La Rauze;Valroufié;Che du Barry;1.49837;44.5022
+46156_nca30g_00112;112;;Chemin de Saint-Michel;46090;46156;Bellefont-La Rauze;Valroufié;Che de Saint Michel;1.48836;44.5191
+46156_0282_00120;120;;Chemin de Vernoly;46090;46156;Bellefont-La Rauze;Valroufié;Vernoly;1.48459;44.4981
+46156_od5s5e_00612;612;;Lagarde - Constans;46090;46156;Bellefont-La Rauze;Valroufié;Lagarde;1.50354;44.4974
+46156_0337_01950;1950;;Route Pradelle de Babours;46090;46156;Bellefont-La Rauze;Cours;Riviere de Marty;1.55505;44.5185
+46156_7nunk2_00468;468;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;Saint-Michel de Cours;1.51934;44.5257
+46156_b082_00054;54;;Rivière Lamagdeleine;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Riviere de Lamagdelaine;1.47481;44.4739
+46156_0030_00256;256;;Rue de la Carrière;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R de la Carriere;1.467003;44.475049
+46156_9f34fa_00531;531;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.45766;44.4849
+46156_0337_02021;2021;;Route Pradelle de Babours;46090;46156;Bellefont-La Rauze;Cours;Riviere de Marty;1.55505;44.5176
+46156_kcf1s5_00449;449;;Route du Stade;46090;46156;Bellefont-La Rauze;Valroufié;Rte du Stade;1.49364;44.5065
+46156_9f34fa_00908;908;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46213;44.4842
+46156_vhacnq_00010;10;;Crabo Bayro;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Crabo Bayro;1.49227;44.4883
+46156_0070_00026;26;;Chemin des Counailles;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che des Counailles;1.46983;44.4791
+46156_7nunk2_00586;586;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;La Font;1.51954;44.5247
+46156_26263c_00101;101;;lagarde;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Che de Bellefont;1.4696;44.4752
+46156_wc8ql8_00287;287;;Les Fraysses;46090;46156;Bellefont-La Rauze;Valroufié;Les Fraysses;1.48647;44.5048
+46156_0090_00200;200;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46584;44.475
+46156_0316_00303;303;;Rue Ronde;46090;46156;Bellefont-La Rauze;Cours;Cours;1.5405;44.5183
+46156_0331_01032;1032;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Combe Megere;1.53857;44.5317
+46156_0160_00016;16;;Rue des Récollets;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Esc de l’Acqueduc;1.46755;44.4755
+46156_5wz14s_01400;1400;;Route de Valroufié;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rte de Valroufie;1.46791;44.4953
+46156_0300_00159;159;;Clos de Pommier;46090;46156;Bellefont-La Rauze;Cours;Champs des Parques;1.51521;44.5319
+46156_0284_00105;105;;Impasse du Stade;46090;46156;Bellefont-La Rauze;Valroufié;Imp du Stade;1.49494;44.5071
+46156_sroyhy_00095;95;;Impasse Lausies;46090;46156;Bellefont-La Rauze;Valroufié;Imp Lauzies;1.48991;44.5014
+46156_9f34fa_01319;1319;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46583;44.4818
+46156_0nvw67_00390;390;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.4791;44.5012
+46156_0279_02516;2516;;Route de Monphelin;46090;46156;Bellefont-La Rauze;Valroufié;Monphelin;1.4778;44.534
+46156_0282_00184;184;;Chemin de Vernoly;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Vernoly;1.4842;44.4977
+46156_9f34fa_01476;1476;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46603;44.4805
+46156_7nunk2_00658;658;;Rue Traversière;46090;46156;Bellefont-La Rauze;Cours;La Font;1.51949;44.5241
+46156_0333_00297;297;;Chemin du Bout de la Côte;46090;46156;Bellefont-La Rauze;Cours;Vacquies;1.54391;44.5322
+46156_0nvw67_00544;544;;Binnac;46090;46156;Bellefont-La Rauze;Valroufié;Binnac;1.47747;44.502
+46156_geufx6_00580;580;;Les Jasses;46090;46156;Bellefont-La Rauze;Valroufié;Les Jasses;1.48538;44.499
+46156_0090_00392;392;;Grand Rue;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Grand Rue;1.46339;44.4748
+46156_b243_00193;193;;Pech de Lagarde;46090;46156;Bellefont-La Rauze;Valroufié;Pech de Lagarde;1.49685;44.5007
+46156_81dp9k_00042;42;;Rue des Combes;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;R des Combes;1.46716;44.4767
+46156_b067_00097;97;;Pech de Clary;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Riviere de Lamagdelaine;1.4754;44.4738
+46156_0317_00033;33;;Rue du Fournil;46090;46156;Bellefont-La Rauze;Cours;Rousilhe;1.54035;44.5187
+46156_9f34fa_01184;1184;;Rue Sainte-Marguerite;46090;46156;Bellefont-La Rauze;Laroque-des-Arcs;Rue Sainte-Marguerite;1.46469;44.4829
+46156_0331_01808;1808;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Gironde;1.53778;44.538
+46156_bwbonr_00295;295;;Route de Montcoutié;46090;46156;Bellefont-La Rauze;Valroufié;Rte de Moncoutie;1.47238;44.5362
+46156_0331_00146;146;;Route de Gironde;46090;46156;Bellefont-La Rauze;Cours;Travers Droit;1.54001;44.5255
+46156_0325_00204;204;;Rue de la Boissières;46090;46156;Bellefont-La Rauze;Cours;La Boissiere;1.54276;44.5142

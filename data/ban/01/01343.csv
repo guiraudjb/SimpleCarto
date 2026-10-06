@@ -1,0 +1,956 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+01343_onro1t_00286;286;;l'Île;01380;01343;Saint-Cyr-sur-Menthon;;;4.989822;46.274361
+01343_fu19md_01006;1006;;Marillat;01380;01343;Saint-Cyr-sur-Menthon;;;4.966661;46.255475
+01343_tblqeb_00118;118;;la Manche;01380;01343;Saint-Cyr-sur-Menthon;;;4.972981;46.28553
+01343_biqcve_00868;868;;les Merlières;01380;01343;Saint-Cyr-sur-Menthon;;;4.979423;46.28853
+01343_xkkwvn_00224;224;;Les Teppes;01380;01343;Saint-Cyr-sur-Menthon;;;4.95822;46.276393
+01343_56q3m5_00096;96;;la Poipe;01380;01343;Saint-Cyr-sur-Menthon;;;4.973201;46.276946
+01343_2os3t9_00064;64;;la Baraque;01380;01343;Saint-Cyr-sur-Menthon;;;4.953991;46.266481
+01343_0182_00736;736;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.944241;46.262767
+01343_a010_00001;1;;Clos les Jardins de Saint Cyr;01380;01343;Saint-Cyr-sur-Menthon;;;4.958314;46.278636
+01343_0530_00740;740;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.954513;46.272218
+01343_0061_00017;17;;Clos Boutaron;01380;01343;Saint-Cyr-sur-Menthon;;;4.973705;46.274338
+01343_0235_00336;336;;Route de Gréziat;01380;01343;Saint-Cyr-sur-Menthon;;;4.94714;46.282901
+01343_0235_00959;959;;Route de Gréziat;01380;01343;Saint-Cyr-sur-Menthon;;;4.953401;46.284089
+01343_0178_00290;290;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.956292;46.265655
+01343_0178_00390;390;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.964498;46.270417
+01343_0178_00593;593;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.96179;46.269412
+01343_0085_00015;15;;Rue du Centre;01380;01343;Saint-Cyr-sur-Menthon;;;4.972851;46.274644
+01343_0502_00295;295;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.960148;46.27943
+01343_0502_00369;369;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.95961;46.279233
+01343_0340_00012;12;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.971017;46.272378
+01343_0340_00025;25;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.970952;46.272745
+01343_0340_00028;28;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.970833;46.272832
+01343_0257_00027;27;;Allee Lamartine;01380;01343;Saint-Cyr-sur-Menthon;;;4.97152;46.275338
+01343_0343_00990;990;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.977273;46.282735
+01343_0343_01565;1565;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.982618;46.284791
+01343_0091_00031;31;;Route du Chanelet;01380;01343;Saint-Cyr-sur-Menthon;;;4.977995;46.275908
+01343_0091_00091;91;;Route du Chanelet;01380;01343;Saint-Cyr-sur-Menthon;;;4.978566;46.275962
+01343_0088_00055;55;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.956022;46.271523
+01343_0088_00125;125;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.955446;46.271168
+01343_onro1t_00465;465;;l'Île;01380;01343;Saint-Cyr-sur-Menthon;;;4.989822;46.274361
+01343_onro1t_00774;774;;l'Île;01380;01343;Saint-Cyr-sur-Menthon;;;4.989822;46.274361
+01343_ly1ci8_00082;82;;Boucle des Bonnieres;01380;01343;Saint-Cyr-sur-Menthon;;;4.977239;46.278297
+01343_tblqeb_00105;105;;la Manche;01380;01343;Saint-Cyr-sur-Menthon;;;4.972981;46.28553
+01343_xkkwvn_00135;135;;Les Teppes;01380;01343;Saint-Cyr-sur-Menthon;;;4.957118;46.276527
+01343_xkkwvn_00354;354;;Les Teppes;01380;01343;Saint-Cyr-sur-Menthon;;;4.95822;46.276393
+01343_56q3m5_00058;58;;la Poipe;01380;01343;Saint-Cyr-sur-Menthon;;;4.973201;46.276946
+01343_0085_00041;41;;Rue du Centre;01380;01343;Saint-Cyr-sur-Menthon;;;4.973184;46.27471
+01343_0502_00344;344;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.959688;46.279788
+01343_0343_00078;78;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.977993;46.275652
+01343_0343_00200;200;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.977463;46.276424
+01343_0091_00070;70;;Route du Chanelet;01380;01343;Saint-Cyr-sur-Menthon;;;4.978368;46.275877
+01343_0088_00032;32;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.956154;46.271706
+01343_b096_00482;482;;Teppe Nayet;01380;01343;Saint-Cyr-sur-Menthon;;;4.95092;46.265786
+01343_0058_00096;96;;Route de Bourg;01380;01343;Saint-Cyr-sur-Menthon;;;4.973349;46.276036
+01343_0188_00025;25;;Passage des Ecoles;01380;01343;Saint-Cyr-sur-Menthon;;;4.973801;46.275655
+01343_0486_00639;639;;Route des Thibaudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.96234;46.271655
+01343_0280_00419;419;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.96785;46.279946
+01343_0010_00710;710;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.979803;46.268727
+01343_0010_00939;939;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.98081;46.267037
+01343_0010_01036;1036;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.981157;46.266264
+01343_0010_01178;1178;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.981814;46.26511
+01343_0292_00800;800;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.961918;46.277254
+01343_0292_00860;860;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.961009;46.277331
+01343_0292_01010;1010;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.95916;46.277484
+01343_0292_02147;2147;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.946284;46.280302
+01343_m4tzzv_00038;38;;le Sorbier;01380;01343;Saint-Cyr-sur-Menthon;;;4.953677;46.264544
+01343_onro1t_00519;519;;l'Île;01380;01343;Saint-Cyr-sur-Menthon;;;4.989822;46.274361
+01343_wb4g4q_00052;52;;Buchet;01380;01343;Saint-Cyr-sur-Menthon;;;4.952719;46.267824
+01343_tblqeb_00080;80;;la Manche;01380;01343;Saint-Cyr-sur-Menthon;;;4.972548;46.285688
+01343_zg0p9v_00509;509;;les Guillemières;01380;01343;Saint-Cyr-sur-Menthon;;;4.939601;46.288327
+01343_xkkwvn_00366;366;;Les Teppes;01380;01343;Saint-Cyr-sur-Menthon;;;4.95822;46.276393
+01343_v2nd10_00078;78;;La Mulatiere;01380;01343;Saint-Cyr-sur-Menthon;;;4.981229;46.283204
+01343_52m94o_00029;29;;Le Pelou;01380;01343;Saint-Cyr-sur-Menthon;;;4.954501;46.272146
+01343_0530_00904;904;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.954504;46.272166
+01343_0061_00075;75;;Clos Boutaron;01380;01343;Saint-Cyr-sur-Menthon;;;4.973569;46.274207
+01343_0178_00438;438;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.96326;46.270503
+01343_0178_00986;986;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.958194;46.26742
+01343_0502_00107;107;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.960759;46.278093
+01343_0340_00001;1;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.971431;46.27227
+01343_0340_00017;17;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.970968;46.272565
+01343_0257_00042;42;;Allee Lamartine;01380;01343;Saint-Cyr-sur-Menthon;;;4.97158;46.275479
+01343_0343_01175;1175;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.978558;46.284002
+01343_m4tzzv_00092;92;;le Sorbier;01380;01343;Saint-Cyr-sur-Menthon;;;4.953677;46.264544
+01343_wb4g4q_00025;25;;Buchet;01380;01343;Saint-Cyr-sur-Menthon;;;4.952719;46.267824
+01343_tblqeb_00190;190;;la Manche;01380;01343;Saint-Cyr-sur-Menthon;;;4.972981;46.28553
+01343_biqcve_00835;835;;les Merlières;01380;01343;Saint-Cyr-sur-Menthon;;;4.979423;46.28853
+01343_52m94o_00057;57;;Le Pelou;01380;01343;Saint-Cyr-sur-Menthon;;;4.954501;46.272146
+01343_2os3t9_01262;1262;;la Baraque;01380;01343;Saint-Cyr-sur-Menthon;;;4.953345;46.26648
+01343_3160s6_00939;939;;Arringe;01380;01343;Saint-Cyr-sur-Menthon;;;4.981095;46.267058
+01343_0182_00117;117;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.951769;46.263953
+01343_0530_01000;1000;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.953934;46.26872
+01343_0530_01277;1277;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.953647;46.266369
+01343_0178_00340;340;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.964216;46.271099
+01343_0178_00423;423;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.963456;46.27058
+01343_0178_00538;538;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.962343;46.270003
+01343_0178_00574;574;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.961165;46.270121
+01343_0178_01540;1540;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.953874;46.2646
+01343_0502_00080;80;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.961497;46.278106
+01343_0502_00423;423;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.958867;46.279317
+01343_0502_00469;469;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.9578;46.278677
+01343_0340_00014;14;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.970966;46.272422
+01343_0340_00022;22;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.970842;46.272617
+01343_0340_00055;55;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.970734;46.273521
+01343_0343_01181;1181;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.978649;46.284201
+01343_0283_00080;80;;Route du Logis;01380;01343;Saint-Cyr-sur-Menthon;;;4.974754;46.276443
+01343_0153_00056;56;;Allée des Cours;01380;01343;Saint-Cyr-sur-Menthon;;;4.960999;46.268928
+01343_0058_00387;387;;Route de Bourg;01380;01343;Saint-Cyr-sur-Menthon;;;4.976785;46.275189
+01343_0058_02612;2612;;Route de Bourg;01380;01343;Saint-Cyr-sur-Menthon;;;4.972282;46.276387
+01343_0127_00065;65;;Chemin des Cochatières;01380;01343;Saint-Cyr-sur-Menthon;;;4.941703;46.264239
+01343_0486_00836;836;;Route des Thibaudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.961947;46.270011
+01343_0394_00108;108;;Allée du Pré Molard;01380;01343;Saint-Cyr-sur-Menthon;;;4.952834;46.285276
+01343_0263_00005;5;;Clos le Lavoir;01380;01343;Saint-Cyr-sur-Menthon;;;4.971409;46.27365
+01343_0263_00013;13;;Clos le Lavoir;01380;01343;Saint-Cyr-sur-Menthon;;;4.972223;46.273423
+01343_0433_00052;52;;Chemin de Ruillat;01380;01343;Saint-Cyr-sur-Menthon;;;4.952298;46.273391
+01343_pmqmgw_00053;53;;Tournaz;01380;01343;Saint-Cyr-sur-Menthon;;;4.95845;46.267152
+01343_dsz96v_00130;130;;La Pilleuse;01380;01343;Saint-Cyr-sur-Menthon;;;4.988112;46.286461
+01343_0182_00071;71;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.952362;46.263975
+01343_0182_00143;143;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.951446;46.263935
+01343_0182_00600;600;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.945806;46.263293
+01343_0182_00650;650;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.945211;46.263146
+01343_0182_00920;920;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.942241;46.263403
+01343_a010_00006;6;;Clos les Jardins de Saint Cyr;01380;01343;Saint-Cyr-sur-Menthon;;;4.958431;46.278224
+01343_0530_00028;28;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.955422;46.277492
+01343_0530_01094;1094;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.9538;46.267927
+01343_0530_02340;2340;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.954929;46.255626
+01343_0178_01119;1119;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.958439;46.265938
+01343_0167_00052;52;;Route des Croix Vieilles;01380;01343;Saint-Cyr-sur-Menthon;;;4.944124;46.280695
+01343_0085_00246;246;;Rue du Centre;01380;01343;Saint-Cyr-sur-Menthon;;;4.974569;46.275649
+01343_0502_00486;486;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.958127;46.279697
+01343_0340_00009;9;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.971197;46.27238
+01343_0343_01260;1260;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.979786;46.283504
+01343_0283_00187;187;;Route du Logis;01380;01343;Saint-Cyr-sur-Menthon;;;4.975551;46.277036
+01343_0088_00014;14;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.956285;46.271859
+01343_fu19md_01284;1284;;Marillat;01380;01343;Saint-Cyr-sur-Menthon;;;4.966661;46.255475
+01343_0182_00842;842;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.942986;46.262982
+01343_0182_00978;978;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.94154;46.263528
+01343_a010_00008;8;;Clos les Jardins de Saint Cyr;01380;01343;Saint-Cyr-sur-Menthon;;;4.958112;46.278071
+01343_0530_00664;664;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.954517;46.272243
+01343_0061_00014;14;;Clos Boutaron;01380;01343;Saint-Cyr-sur-Menthon;;;4.973705;46.274338
+01343_0235_00371;371;;Route de Gréziat;01380;01343;Saint-Cyr-sur-Menthon;;;4.946996;46.283348
+01343_0235_01217;1217;;Route de Gréziat;01380;01343;Saint-Cyr-sur-Menthon;;;4.95647;46.284969
+01343_0178_00628;628;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.960603;46.269705
+01343_0178_00796;796;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.958635;46.269264
+01343_fu19md_01346;1346;;Marillat;01380;01343;Saint-Cyr-sur-Menthon;;;4.966661;46.255475
+01343_56q3m5_00044;44;;la Poipe;01380;01343;Saint-Cyr-sur-Menthon;;;4.973201;46.276946
+01343_v3r0pe_00240;240;;les Milandes;01380;01343;Saint-Cyr-sur-Menthon;;;4.941203;46.285445
+01343_0182_00489;489;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.947066;46.263407
+01343_0530_00504;504;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.954699;46.273314
+01343_0178_00565;565;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.962208;46.269635
+01343_0178_00721;721;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.960491;46.268997
+01343_0178_00860;860;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.958397;46.268557
+01343_0502_00455;455;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.958557;46.279579
+01343_0340_00004;4;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.971309;46.272227
+01343_0340_00020;20;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.970852;46.272556
+01343_0343_00043;43;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.977594;46.275424
+01343_0343_00146;146;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.977295;46.276303
+01343_0343_00386;386;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.976393;46.277931
+01343_0343_00699;699;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.976909;46.280385
+01343_0343_01218;1218;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.979409;46.283473
+01343_0088_00095;95;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.955484;46.271222
+01343_0088_00174;174;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.954986;46.270514
+01343_0088_00199;199;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.955171;46.270425
+01343_et5wov_00006;6;;la Platière;01380;01343;Saint-Cyr-sur-Menthon;;;4.965159;46.264187
+01343_m4tzzv_00034;34;;le Sorbier;01380;01343;Saint-Cyr-sur-Menthon;;;4.953677;46.264544
+01343_dsz96v_00069;69;;La Pilleuse;01380;01343;Saint-Cyr-sur-Menthon;;;4.988112;46.286461
+01343_b3s7pi_00091;91;;Chemin des Landes;01380;01343;Saint-Cyr-sur-Menthon;;;4.982591;46.268504
+01343_v2nd10_01175;1175;;La Mulatiere;01380;01343;Saint-Cyr-sur-Menthon;;;4.981186;46.283546
+01343_8w9p4o_00012;12;;Chemin la Semaria;01380;01343;Saint-Cyr-sur-Menthon;;;4.975862;46.278407
+01343_0182_00153;153;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.951316;46.263932
+01343_0182_00564;564;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.946256;46.263356
+01343_0182_00614;614;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.945638;46.263261
+01343_0182_00690;690;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.944564;46.263164
+01343_a010_00003;3;;Clos les Jardins de Saint Cyr;01380;01343;Saint-Cyr-sur-Menthon;;;4.958483;46.278386
+01343_0530_00194;194;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.953447;46.267879
+01343_0530_00841;841;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.954307;46.270264
+01343_0061_00057;57;;Clos Boutaron;01380;01343;Saint-Cyr-sur-Menthon;;;4.973705;46.274338
+01343_0235_00331;331;;Route de Gréziat;01380;01343;Saint-Cyr-sur-Menthon;;;4.946666;46.282627
+01343_0167_00265;265;;Route des Croix Vieilles;01380;01343;Saint-Cyr-sur-Menthon;;;4.945485;46.277473
+01343_0502_00145;145;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.960991;46.278464
+01343_0502_00499;499;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.957851;46.279034
+01343_0343_00755;755;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.976872;46.28089
+01343_0343_01140;1140;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.978512;46.283694
+01343_0088_00064;64;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.955847;46.271526
+01343_0088_00119;119;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.955476;46.271203
+01343_0088_00141;141;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.955291;46.270899
+01343_0088_00205;205;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.955156;46.270387
+01343_0088_00064_c;64;c;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.955671;46.271423
+01343_0088_00032_c;32;c;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.955924;46.27157
+01343_0058_00041;41;;Route de Bourg;01380;01343;Saint-Cyr-sur-Menthon;;;4.972715;46.276287
+01343_0178_00898;898;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.958612;46.268099
+01343_0178_01096;1096;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.958569;46.266418
+01343_0340_00003;3;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.971375;46.272293
+01343_0340_00006;6;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.971252;46.272249
+01343_0340_00011;11;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.971151;46.272406
+01343_0340_00019;19;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.970958;46.272615
+01343_0340_00027;27;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.97095;46.272789
+01343_0257_00039;39;;Allee Lamartine;01380;01343;Saint-Cyr-sur-Menthon;;;4.971478;46.275432
+01343_0257_00052;52;;Allee Lamartine;01380;01343;Saint-Cyr-sur-Menthon;;;4.971538;46.275571
+01343_0343_00655;655;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.976934;46.28
+01343_0343_01240;1240;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.978407;46.28364
+01343_0343_01332;1332;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.980343;46.283433
+01343_0091_00151;151;;Route du Chanelet;01380;01343;Saint-Cyr-sur-Menthon;;;4.979361;46.276231
+01343_0088_00198;198;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.954959;46.270481
+01343_b096_00402;402;;Teppe Nayet;01380;01343;Saint-Cyr-sur-Menthon;;;4.95092;46.265786
+01343_0105_00063;63;;Route du Chêne;01380;01343;Saint-Cyr-sur-Menthon;;;4.954932;46.269019
+01343_0127_00160;160;;Chemin des Cochatières;01380;01343;Saint-Cyr-sur-Menthon;;;4.942472;46.264592
+01343_0486_00155;155;;Route des Thibaudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.963648;46.275861
+01343_0280_00072;72;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.965309;46.277541
+01343_0280_00136;136;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.965792;46.277974
+01343_0280_00903;903;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.970609;46.283975
+01343_0005_00095;95;;Route de l'Amitié;01380;01343;Saint-Cyr-sur-Menthon;;;4.961003;46.262227
+01343_0263_00008;8;;Clos le Lavoir;01380;01343;Saint-Cyr-sur-Menthon;;;4.97182;46.273217
+01343_0010_00081;81;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.978209;46.274024
+01343_0010_00825;825;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.980689;46.268031
+01343_0292_00286;286;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.968447;46.276727
+01343_0292_00920;920;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.960321;46.277387
+01343_0292_01124;1124;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.957911;46.277588
+01343_0015_00037;37;;Route de Bâgé;01380;01343;Saint-Cyr-sur-Menthon;;;4.957434;46.286368
+01343_0058_00305;305;;Route de Bourg;01380;01343;Saint-Cyr-sur-Menthon;;;4.975884;46.275434
+01343_0027_00183;183;;Allée de Belin;01380;01343;Saint-Cyr-sur-Menthon;;;4.939278;46.288252
+01343_0318_00177;177;;Route des Merlieres;01380;01343;Saint-Cyr-sur-Menthon;;;4.985899;46.285956
+01343_0512_00009;9;;Allee Verney;01380;01343;Saint-Cyr-sur-Menthon;;;4.955287;46.277122
+01343_0486_00118;118;;Route des Thibaudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.963809;46.27614
+01343_0280_00246;246;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.966622;46.278727
+01343_0280_01197;1197;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.972261;46.286345
+01343_0292_01250;1250;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.956187;46.277762
+01343_0292_02360;2360;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.943047;46.281609
+01343_0161_00070;70;;Allee des Croisettes;01380;01343;Saint-Cyr-sur-Menthon;;;4.980152;46.283835
+01343_0105_00015;15;;Route du Chêne;01380;01343;Saint-Cyr-sur-Menthon;;;4.958459;46.268395
+01343_0127_00174;174;;Chemin des Cochatières;01380;01343;Saint-Cyr-sur-Menthon;;;4.942517;46.264891
+01343_0280_00105;105;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.965441;46.277787
+01343_0005_00055;55;;Route de l'Amitié;01380;01343;Saint-Cyr-sur-Menthon;;;4.961765;46.261872
+01343_0263_00003;3;;Clos le Lavoir;01380;01343;Saint-Cyr-sur-Menthon;;;4.971637;46.273555
+01343_0263_00006;6;;Clos le Lavoir;01380;01343;Saint-Cyr-sur-Menthon;;;4.971545;46.273505
+01343_0263_00014;14;;Clos le Lavoir;01380;01343;Saint-Cyr-sur-Menthon;;;4.972187;46.273678
+01343_0292_00590;590;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.963311;46.27714
+01343_0292_00835;835;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.961394;46.277219
+01343_0292_00934;934;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.960337;46.277386
+01343_0292_01104;1104;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.957911;46.277588
+01343_0292_02216;2216;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.944656;46.28093
+01343_0292_01365_bis;1365;bis;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.954954;46.277828
+01343_0520_00025;25;;Allée des Vignes Rouges;01380;01343;Saint-Cyr-sur-Menthon;;;4.963851;46.269496
+01343_0415_00071;71;;Allee Rimbaud;01380;01343;Saint-Cyr-sur-Menthon;;;4.971105;46.27505
+01343_0073_00052;52;;Allee En Buchet;01380;01343;Saint-Cyr-sur-Menthon;;;4.951741;46.265826
+01343_0415_00035;35;;Allee Rimbaud;01380;01343;Saint-Cyr-sur-Menthon;;;4.971151;46.275035
+01343_0415_00068;68;;Allee Rimbaud;01380;01343;Saint-Cyr-sur-Menthon;;;4.970851;46.275604
+01343_0073_00048;48;;Allee En Buchet;01380;01343;Saint-Cyr-sur-Menthon;;;4.952165;46.265892
+01343_0477_00201;201;;Allée des Teppes;01380;01343;Saint-Cyr-sur-Menthon;;;4.95316;46.276804
+01343_0477_00366;366;;Allée des Teppes;01380;01343;Saint-Cyr-sur-Menthon;;;4.951614;46.277756
+01343_0315_00120;120;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972354;46.275237
+01343_0140_00066;66;;Route du Cordonnier;01380;01343;Saint-Cyr-sur-Menthon;;;4.957552;46.26958
+01343_0170_00037;37;;Allée des Cruizettes;01380;01343;Saint-Cyr-sur-Menthon;;;4.979573;46.26814
+01343_0165_00397;397;;Route de la Croix;01380;01343;Saint-Cyr-sur-Menthon;;;4.967929;46.272277
+01343_0165_00635;635;;Route de la Croix;01380;01343;Saint-Cyr-sur-Menthon;;;4.966399;46.273472
+01343_0023_00065;65;;Route de Bécalet;01380;01343;Saint-Cyr-sur-Menthon;;;4.971812;46.276962
+01343_0224_00226;226;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.956232;46.263294
+01343_0224_01405;1405;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.955976;46.265264
+01343_0420_00035;35;;Allée des Rippes;01380;01343;Saint-Cyr-sur-Menthon;;;4.970959;46.254431
+01343_0465_00109;109;;Rue du Stade;01380;01343;Saint-Cyr-sur-Menthon;;;4.971182;46.275014
+01343_fuz56d_00172;172;;les Feuilles;01380;01343;Saint-Cyr-sur-Menthon;;;4.960958;46.283667
+01343_onro1t_00563;563;;l'Île;01380;01343;Saint-Cyr-sur-Menthon;;;4.989822;46.274361
+01343_0273_00225;225;;Route des Lévrières;01380;01343;Saint-Cyr-sur-Menthon;;;4.953073;46.268235
+01343_0337_00289;289;;Route de la Motte Castrale;01380;01343;Saint-Cyr-sur-Menthon;;;4.97344;46.277562
+01343_0473_00402;402;;Route de Teppe Nayet;01380;01343;Saint-Cyr-sur-Menthon;;;4.947382;46.264756
+01343_b096_00366;366;;Teppe Nayet;01380;01343;Saint-Cyr-sur-Menthon;;;4.95092;46.265786
+01343_b096_00434;434;;Teppe Nayet;01380;01343;Saint-Cyr-sur-Menthon;;;4.95092;46.265786
+01343_0127_00056;56;;Chemin des Cochatières;01380;01343;Saint-Cyr-sur-Menthon;;;4.941828;46.264128
+01343_0318_00835;835;;Route des Merlieres;01380;01343;Saint-Cyr-sur-Menthon;;;4.979559;46.288332
+01343_0486_00204;204;;Route des Thibaudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.963283;46.275522
+01343_0280_00292;292;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.966964;46.279039
+01343_0280_00795;795;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.970038;46.283093
+01343_0263_00011;11;;Clos le Lavoir;01380;01343;Saint-Cyr-sur-Menthon;;;4.971937;46.273189
+01343_0292_00906;906;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.960503;46.277372
+01343_0433_00088;88;;Chemin de Ruillat;01380;01343;Saint-Cyr-sur-Menthon;;;4.952347;46.27254
+01343_0015_00187;187;;Route de Bâgé;01380;01343;Saint-Cyr-sur-Menthon;;;4.95663;46.279431
+01343_0520_00058;58;;Allée des Vignes Rouges;01380;01343;Saint-Cyr-sur-Menthon;;;4.963506;46.269688
+01343_0073_00025;25;;Allee En Buchet;01380;01343;Saint-Cyr-sur-Menthon;;;4.951475;46.265647
+01343_0315_00041;41;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972362;46.27596
+01343_0015_00180;180;;Route de Bâgé;01380;01343;Saint-Cyr-sur-Menthon;;;4.95826;46.287483
+01343_0015_00245;245;;Route de Bâgé;01380;01343;Saint-Cyr-sur-Menthon;;;4.956868;46.27985
+01343_0520_00038;38;;Allée des Vignes Rouges;01380;01343;Saint-Cyr-sur-Menthon;;;4.963758;46.269612
+01343_0415_00085;85;;Allee Rimbaud;01380;01343;Saint-Cyr-sur-Menthon;;;4.971088;46.275057
+01343_0436_00233;233;;Chemin du Ruty;01380;01343;Saint-Cyr-sur-Menthon;;;4.983849;46.267602
+01343_0372_00861;861;;Route des Planons;01380;01343;Saint-Cyr-sur-Menthon;;;4.983112;46.285649
+01343_0165_00060;60;;Route de la Croix;01380;01343;Saint-Cyr-sur-Menthon;;;4.970942;46.271805
+01343_0165_00279;279;;Route de la Croix;01380;01343;Saint-Cyr-sur-Menthon;;;4.968564;46.27148
+01343_0136_00049;49;;Route des Communaux;01380;01343;Saint-Cyr-sur-Menthon;;;4.960748;46.27697
+01343_0525_00009;9;;Clos du Village;01380;01343;Saint-Cyr-sur-Menthon;;;4.971567;46.274938
+01343_0224_00307;307;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.957376;46.263564
+01343_0224_00555;555;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.959688;46.262104
+01343_0238_00215;215;;Route des Guillemières;01380;01343;Saint-Cyr-sur-Menthon;;;4.937622;46.284408
+01343_onro1t_00256;256;;l'Île;01380;01343;Saint-Cyr-sur-Menthon;;;4.989822;46.274361
+01343_fu19md_00974;974;;Marillat;01380;01343;Saint-Cyr-sur-Menthon;;;4.966469;46.255441
+01343_ly1ci8_00097;97;;Boucle des Bonnieres;01380;01343;Saint-Cyr-sur-Menthon;;;4.976936;46.277737
+01343_f9pr1j_00180;180;;les Mirtanges;01380;01343;Saint-Cyr-sur-Menthon;;;4.970895;46.287514
+01343_52m94o_00841;841;;Le Pelou;01380;01343;Saint-Cyr-sur-Menthon;;;4.954843;46.270062
+01343_0480_00032;32;;Chemin Terre de Vent;01380;01343;Saint-Cyr-sur-Menthon;;;4.98353;46.284955
+01343_0273_00404;404;;Route des Lévrières;01380;01343;Saint-Cyr-sur-Menthon;;;4.953026;46.266388
+01343_0285_00048;48;;Chemin des Louvieres;01380;01343;Saint-Cyr-sur-Menthon;;;4.986047;46.287065
+01343_0094_00252;252;;Chemin de la Chapelle;01380;01343;Saint-Cyr-sur-Menthon;;;4.969264;46.272874
+01343_0350_00435;435;;Chemin du Pavillon;01380;01343;Saint-Cyr-sur-Menthon;;;4.951661;46.289206
+01343_0425_00755;755;;Chemin En Romagne;01380;01343;Saint-Cyr-sur-Menthon;;;4.977525;46.283875
+01343_0124_00099;99;;Allee du Clou;01380;01343;Saint-Cyr-sur-Menthon;;;4.98659;46.28555
+01343_0385_00044;44;;Allée de la Poype;01380;01343;Saint-Cyr-sur-Menthon;;;4.973784;46.276312
+01343_0436_00178;178;;Chemin du Ruty;01380;01343;Saint-Cyr-sur-Menthon;;;4.983125;46.267498
+01343_0372_00988;988;;Route des Planons;01380;01343;Saint-Cyr-sur-Menthon;;;4.983996;46.285411
+01343_0403_00056;56;;Allée Prétière;01380;01343;Saint-Cyr-sur-Menthon;;;4.980348;46.269233
+01343_0140_00221;221;;Route du Cordonnier;01380;01343;Saint-Cyr-sur-Menthon;;;4.958476;46.268723
+01343_0165_00478;478;;Route de la Croix;01380;01343;Saint-Cyr-sur-Menthon;;;4.96836;46.273109
+01343_0136_00096;96;;Route des Communaux;01380;01343;Saint-Cyr-sur-Menthon;;;4.960387;46.276433
+01343_0136_00124;124;;Route des Communaux;01380;01343;Saint-Cyr-sur-Menthon;;;4.960347;46.27619
+01343_0023_00351;351;;Route de Bécalet;01380;01343;Saint-Cyr-sur-Menthon;;;4.970142;46.279167
+01343_0224_00286;286;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.956865;46.263195
+01343_0224_00335;335;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.957657;46.263473
+01343_0224_00458;458;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.95909;46.262481
+01343_0224_00518;518;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.959526;46.262337
+01343_0224_00793;793;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.960164;46.260693
+01343_0224_00907;907;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.960903;46.259464
+01343_0465_00007;7;;Rue du Stade;01380;01343;Saint-Cyr-sur-Menthon;;;4.972367;46.275237
+01343_0465_00135;135;;Rue du Stade;01380;01343;Saint-Cyr-sur-Menthon;;;4.970912;46.274984
+01343_0273_00014;14;;Route des Lévrières;01380;01343;Saint-Cyr-sur-Menthon;;;4.953214;46.269323
+01343_0273_00254;254;;Route des Lévrières;01380;01343;Saint-Cyr-sur-Menthon;;;4.952787;46.267885
+01343_0273_00366;366;;Route des Lévrières;01380;01343;Saint-Cyr-sur-Menthon;;;4.952679;46.266819
+01343_0175_00050;50;;Allee Curtil Budin;01380;01343;Saint-Cyr-sur-Menthon;;;4.978669;46.27547
+01343_0497_00014;14;;Allee du Tripier;01380;01343;Saint-Cyr-sur-Menthon;;;4.963933;46.276303
+01343_0150_00611;611;;Route des Coudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.963404;46.264539
+01343_0300_00190;190;;Allée de la Manche;01380;01343;Saint-Cyr-sur-Menthon;;;4.974311;46.285102
+01343_esqpd0_00075;75;;la Perrière;01380;01343;Saint-Cyr-sur-Menthon;;;4.967683;46.274518
+01343_0182_00647;647;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.94522;46.263058
+01343_0182_00790;790;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.943579;46.262819
+01343_a010_00002;2;;Clos les Jardins de Saint Cyr;01380;01343;Saint-Cyr-sur-Menthon;;;4.958613;46.278644
+01343_0061_00071;71;;Clos Boutaron;01380;01343;Saint-Cyr-sur-Menthon;;;4.973668;46.274048
+01343_0178_00496;496;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.962494;46.270287
+01343_0178_00956;956;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.958227;46.267729
+01343_0178_01405;1405;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.955948;46.265259
+01343_0502_00203;203;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.961036;46.279196
+01343_0502_00491;491;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.958065;46.279621
+01343_0340_00024;24;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.970838;46.27272
+01343_0088_00161;161;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.955223;46.270753
+01343_0088_00204;204;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.955;46.270436
+01343_0088_00209;209;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.95507;46.270378
+01343_0058_00108;108;;Route de Bourg;01380;01343;Saint-Cyr-sur-Menthon;;;4.97348;46.276001
+01343_0105_00155;155;;Route du Chêne;01380;01343;Saint-Cyr-sur-Menthon;;;4.956006;46.268766
+01343_0318_00868;868;;Route des Merlieres;01380;01343;Saint-Cyr-sur-Menthon;;;4.979166;46.288579
+01343_0486_00148;148;;Route des Thibaudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.963567;46.275921
+01343_0486_00185;185;;Route des Thibaudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.963471;46.275625
+01343_0486_00762;762;;Route des Thibaudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.962221;46.270554
+01343_0280_00130;130;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.965746;46.277933
+01343_0280_01192;1192;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.972235;46.286304
+01343_0280_01214;1214;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.97235;46.286481
+01343_0010_00870;870;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.980622;46.267561
+01343_0015_00029;29;;Route de Bâgé;01380;01343;Saint-Cyr-sur-Menthon;;;4.9557;46.277953
+01343_0015_00099;99;;Route de Bâgé;01380;01343;Saint-Cyr-sur-Menthon;;;4.956118;46.278611
+01343_0015_00964;964;;Route de Bâgé;01380;01343;Saint-Cyr-sur-Menthon;;;4.952359;46.292522
+01343_0456_00024;24;;Chemin des Sivaudieres;01380;01343;Saint-Cyr-sur-Menthon;;;4.957403;46.262926
+01343_0520_00118;118;;Allée des Vignes Rouges;01380;01343;Saint-Cyr-sur-Menthon;;;4.962776;46.269951
+01343_0415_00051;51;;Allee Rimbaud;01380;01343;Saint-Cyr-sur-Menthon;;;4.971131;46.275042
+01343_0477_00135;135;;Allée des Teppes;01380;01343;Saint-Cyr-sur-Menthon;;;4.952548;46.276676
+01343_0315_00109;109;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.97251;46.275421
+01343_0315_00190;190;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972601;46.27468
+01343_0315_00213;213;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972735;46.274436
+01343_0315_00233;233;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972697;46.274303
+01343_0140_00096;96;;Route du Cordonnier;01380;01343;Saint-Cyr-sur-Menthon;;;4.957939;46.269715
+01343_0165_00442;442;;Route de la Croix;01380;01343;Saint-Cyr-sur-Menthon;;;4.968652;46.272887
+01343_0136_00069;69;;Route des Communaux;01380;01343;Saint-Cyr-sur-Menthon;;;4.960507;46.27669
+01343_0429_00055;55;;Allee du Ronjon;01380;01343;Saint-Cyr-sur-Menthon;;;4.963207;46.277188
+01343_0224_00113;113;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.95475;46.263547
+01343_0224_00529;529;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.959814;46.26274
+01343_0040_00041;41;;Route du Bief Chanot;01380;01343;Saint-Cyr-sur-Menthon;;;4.969141;46.27138
+01343_0273_00321;321;;Route des Lévrières;01380;01343;Saint-Cyr-sur-Menthon;;;4.953466;46.267151
+01343_0150_00618;618;;Route des Coudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.963564;46.264584
+01343_0311_00081;81;;Chemin Mayer;01380;01343;Saint-Cyr-sur-Menthon;;;4.956037;46.273423
+01343_0330_00040;40;;Allée Moiroud;01380;01343;Saint-Cyr-sur-Menthon;;;4.946948;46.283524
+01343_0473_00482;482;;Route de Teppe Nayet;01380;01343;Saint-Cyr-sur-Menthon;;;4.947101;46.264157
+01343_0050_00097;97;;Voie Boucle des Bonnières;01380;01343;Saint-Cyr-sur-Menthon;;;4.976936;46.277738
+01343_0353_00057;57;;Allée du Pelou;01380;01343;Saint-Cyr-sur-Menthon;;;4.955231;46.271788
+01343_0450_00012;12;;Allée de la Sémaria;01380;01343;Saint-Cyr-sur-Menthon;;;4.975905;46.278612
+01343_0315_00160;160;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972546;46.274911
+01343_0315_00221;221;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972722;46.274383
+01343_0315_00229;229;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972705;46.27433
+01343_b030_00169;169;;Les Croix Vieilles;01380;01343;Saint-Cyr-sur-Menthon;;;4.947262;46.279064
+01343_0436_00057;57;;Chemin du Ruty;01380;01343;Saint-Cyr-sur-Menthon;;;4.981552;46.267873
+01343_0372_00798;798;;Route des Planons;01380;01343;Saint-Cyr-sur-Menthon;;;4.982386;46.285411
+01343_0165_00178;178;;Route de la Croix;01380;01343;Saint-Cyr-sur-Menthon;;;4.969865;46.271539
+01343_0023_00123;123;;Route de Bécalet;01380;01343;Saint-Cyr-sur-Menthon;;;4.971739;46.277369
+01343_0224_00627;627;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.959079;46.261317
+01343_0224_00599_bis;599;bis;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.959359;46.261777
+01343_0290_00111;111;;Route des Lys;01380;01343;Saint-Cyr-sur-Menthon;;;4.956565;46.271904
+01343_0056_00515;515;;Route de Bourbouillon;01380;01343;Saint-Cyr-sur-Menthon;;;4.950626;46.282304
+01343_hd7h8e_00161;161;;Émerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.970939;46.258094
+01343_xncipy_00050;50;;Le Chanelet;01380;01343;Saint-Cyr-sur-Menthon;;;4.978433;46.275352
+01343_0182_00451;451;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.947613;46.263563
+01343_0182_00611;611;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.946321;46.263097
+01343_0182_00902;902;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.942627;46.263448
+01343_a010_00005;5;;Clos les Jardins de Saint Cyr;01380;01343;Saint-Cyr-sur-Menthon;;;4.958204;46.278251
+01343_0530_00800;800;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.95451;46.272199
+01343_0061_00020;20;;Clos Boutaron;01380;01343;Saint-Cyr-sur-Menthon;;;4.973705;46.274338
+01343_0235_00646;646;;Route de Gréziat;01380;01343;Saint-Cyr-sur-Menthon;;;4.950348;46.283163
+01343_0178_00378;378;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.963584;46.270849
+01343_0178_00543;543;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.962443;46.26983
+01343_0178_01589_a;1589;a;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.954049;46.264209
+01343_0502_00375;375;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.959352;46.278656
+01343_0340_00008;8;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.97119;46.272282
+01343_0340_00013;13;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.971059;46.272469
+01343_0340_00016;16;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.970912;46.272478
+01343_0257_00047;47;;Allee Lamartine;01380;01343;Saint-Cyr-sur-Menthon;;;4.971437;46.275524
+01343_0343_00175;175;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.976903;46.27637
+01343_0343_00348;348;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.97633;46.277478
+01343_0343_01199;1199;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.979463;46.284061
+01343_0343_01295;1295;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.980528;46.283953
+01343_0153_00037;37;;Allée des Cours;01380;01343;Saint-Cyr-sur-Menthon;;;4.960959;46.269001
+01343_0153_00106;106;;Allée des Cours;01380;01343;Saint-Cyr-sur-Menthon;;;4.960999;46.268928
+01343_0334_00804;804;;Chemin de Montepin;01380;01343;Saint-Cyr-sur-Menthon;;;4.951516;46.284265
+01343_0080_00086;86;;Allée de Casse Vesce;01380;01343;Saint-Cyr-sur-Menthon;;;4.972553;46.271252
+01343_0191_00031;31;;Place de l’Eglise;01380;01343;Saint-Cyr-sur-Menthon;;;4.972622;46.274124
+01343_0350_00420;420;;Chemin du Pavillon;01380;01343;Saint-Cyr-sur-Menthon;;;4.952115;46.289476
+01343_0357_00120;120;;Route du Petit Meumain;01380;01343;Saint-Cyr-sur-Menthon;;;4.961764;46.275196
+01343_0295_00043;43;;Place de la Mairie;01380;01343;Saint-Cyr-sur-Menthon;;;4.973999;46.275051
+01343_0425_00655;655;;Chemin En Romagne;01380;01343;Saint-Cyr-sur-Menthon;;;4.976311;46.283994
+01343_0245_00465;465;;Route de l'Isle;01380;01343;Saint-Cyr-sur-Menthon;;;4.988963;46.273843
+01343_0088_00132;132;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.955215;46.270995
+01343_0088_00064_b;64;b;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.95573;46.271457
+01343_b096_00322;322;;Teppe Nayet;01380;01343;Saint-Cyr-sur-Menthon;;;4.95092;46.265786
+01343_0058_00094;94;;Route de Bourg;01380;01343;Saint-Cyr-sur-Menthon;;;4.973327;46.276041
+01343_0058_00410;410;;Route de Bourg;01380;01343;Saint-Cyr-sur-Menthon;;;4.977112;46.275013
+01343_0105_00041;41;;Route du Chêne;01380;01343;Saint-Cyr-sur-Menthon;;;4.954655;46.269055
+01343_0127_00061;61;;Chemin des Cochatières;01380;01343;Saint-Cyr-sur-Menthon;;;4.941706;46.264204
+01343_0188_00019;19;;Passage des Ecoles;01380;01343;Saint-Cyr-sur-Menthon;;;4.9727;46.27552
+01343_0280_00350;350;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.967418;46.279442
+01343_0263_00002;2;;Clos le Lavoir;01380;01343;Saint-Cyr-sur-Menthon;;;4.971771;46.273419
+01343_0263_00007;7;;Clos le Lavoir;01380;01343;Saint-Cyr-sur-Menthon;;;4.971685;46.273362
+01343_0263_00010;10;;Clos le Lavoir;01380;01343;Saint-Cyr-sur-Menthon;;;4.971837;46.273093
+01343_0263_00015;15;;Clos le Lavoir;01380;01343;Saint-Cyr-sur-Menthon;;;4.971619;46.273462
+01343_0010_00572;572;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.979627;46.269867
+01343_0010_01068;1068;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.981728;46.266119
+01343_0292_00950;950;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.95993;46.277419
+01343_0292_02612;2612;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.939679;46.282317
+01343_0015_00300;300;;Route de Bâgé;01380;01343;Saint-Cyr-sur-Menthon;;;4.95836;46.288531
+01343_0100_00252;252;;Allée du Château;01380;01343;Saint-Cyr-sur-Menthon;;;4.973303;46.292564
+01343_0100_00281_a;281;a;Allée du Château;01380;01343;Saint-Cyr-sur-Menthon;;;4.973431;46.292438
+01343_0276_00080;80;;Route de Lingent;01380;01343;Saint-Cyr-sur-Menthon;;;4.953682;46.273155
+01343_0436_00072;72;;Chemin du Ruty;01380;01343;Saint-Cyr-sur-Menthon;;;4.981608;46.267785
+01343_0146_00410;410;;Route des Couardes;01380;01343;Saint-Cyr-sur-Menthon;;;4.951597;46.277066
+01343_0023_00080;80;;Route de Bécalet;01380;01343;Saint-Cyr-sur-Menthon;;;4.97207;46.277158
+01343_0023_00381;381;;Route de Bécalet;01380;01343;Saint-Cyr-sur-Menthon;;;4.970154;46.279167
+01343_0525_00055;55;;Clos du Village;01380;01343;Saint-Cyr-sur-Menthon;;;4.971534;46.274561
+01343_0224_00218;218;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.955966;46.263328
+01343_0224_00391;391;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.958489;46.26295
+01343_0273_00096;96;;Route des Lévrières;01380;01343;Saint-Cyr-sur-Menthon;;;4.952411;46.269045
+01343_0290_00151;151;;Route des Lys;01380;01343;Saint-Cyr-sur-Menthon;;;4.956278;46.272098
+01343_et5wov_00360;360;;la Platière;01380;01343;Saint-Cyr-sur-Menthon;;;4.965159;46.264187
+01343_pmqmgw_00060;60;;Tournaz;01380;01343;Saint-Cyr-sur-Menthon;;;4.95845;46.267152
+01343_onro1t_00330;330;;l'Île;01380;01343;Saint-Cyr-sur-Menthon;;;4.989822;46.274361
+01343_d5ps6x_00160;160;;Travernay;01380;01343;Saint-Cyr-sur-Menthon;;;4.974979;46.294116
+01343_zg0p9v_00124;124;;les Guillemières;01380;01343;Saint-Cyr-sur-Menthon;;;4.939601;46.288327
+01343_xkkwvn_00201;201;;Les Teppes;01380;01343;Saint-Cyr-sur-Menthon;;;4.95795;46.276486
+01343_xkkwvn_00296;296;;Les Teppes;01380;01343;Saint-Cyr-sur-Menthon;;;4.95822;46.276393
+01343_ba2saq_00101;101;;Rte du Chatelet;01380;01343;Saint-Cyr-sur-Menthon;;;4.978876;46.27634
+01343_0182_00085;85;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.95218;46.263967
+01343_0182_00631;631;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.945395;46.263119
+01343_0182_00684;684;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.944828;46.262991
+01343_0167_00169;169;;Route des Croix Vieilles;01380;01343;Saint-Cyr-sur-Menthon;;;4.944093;46.279425
+01343_0502_00153;153;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.960841;46.278846
+01343_0502_00500;500;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.957782;46.279728
+01343_0257_00030;30;;Allee Lamartine;01380;01343;Saint-Cyr-sur-Menthon;;;4.971622;46.275384
+01343_0343_01185;1185;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.979121;46.284215
+01343_0153_00065;65;;Allée des Cours;01380;01343;Saint-Cyr-sur-Menthon;;;4.960999;46.268928
+01343_0088_00175;175;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.955148;46.270496
+01343_0088_00032_a;32;a;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.956154;46.271706
+01343_0486_00211;211;;Route des Thibaudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.963333;46.275413
+01343_0486_00850;850;;Route des Thibaudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.961947;46.270011
+01343_0280_00684;684;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.96946;46.282019
+01343_0280_01208;1208;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.972319;46.286433
+01343_0005_00079;79;;Route de l'Amitié;01380;01343;Saint-Cyr-sur-Menthon;;;4.961277;46.261743
+01343_0010_00910;910;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.980649;46.267217
+01343_0292_01052;1052;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.958618;46.27753
+01343_0433_00028;28;;Chemin de Ruillat;01380;01343;Saint-Cyr-sur-Menthon;;;4.952298;46.273391
+01343_0015_00256;256;;Route de Bâgé;01380;01343;Saint-Cyr-sur-Menthon;;;4.957039;46.279992
+01343_0520_00033;33;;Allée des Vignes Rouges;01380;01343;Saint-Cyr-sur-Menthon;;;4.963747;46.269528
+01343_0520_00188;188;;Allée des Vignes Rouges;01380;01343;Saint-Cyr-sur-Menthon;;;4.963865;46.26913
+01343_0477_00354;354;;Allée des Teppes;01380;01343;Saint-Cyr-sur-Menthon;;;4.952066;46.277922
+01343_0276_00050;50;;Route de Lingent;01380;01343;Saint-Cyr-sur-Menthon;;;4.954027;46.273057
+01343_0276_00153;153;;Route de Lingent;01380;01343;Saint-Cyr-sur-Menthon;;;4.952872;46.273289
+01343_0372_00768;768;;Route des Planons;01380;01343;Saint-Cyr-sur-Menthon;;;4.981992;46.285749
+01343_0130_00033;33;;Clos de la Colline;01380;01343;Saint-Cyr-sur-Menthon;;;4.970738;46.272025
+01343_0130_00070;70;;Clos de la Colline;01380;01343;Saint-Cyr-sur-Menthon;;;4.970271;46.272059
+01343_0170_00026;26;;Allée des Cruizettes;01380;01343;Saint-Cyr-sur-Menthon;;;4.979642;46.268232
+01343_0165_00494;494;;Route de la Croix;01380;01343;Saint-Cyr-sur-Menthon;;;4.968797;46.27318
+01343_0136_00099;99;;Route des Communaux;01380;01343;Saint-Cyr-sur-Menthon;;;4.960504;46.276441
+01343_0136_00216;216;;Route des Communaux;01380;01343;Saint-Cyr-sur-Menthon;;;4.95986;46.275326
+01343_0088_00032_b;32;b;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.956057;46.271647
+01343_0133_00108;108;;Allee Combe Giroud;01380;01343;Saint-Cyr-sur-Menthon;;;4.981941;46.26774
+01343_0473_00322;322;;Route de Teppe Nayet;01380;01343;Saint-Cyr-sur-Menthon;;;4.948159;46.265836
+01343_0050_00092;92;;Voie Boucle des Bonnières;01380;01343;Saint-Cyr-sur-Menthon;;;4.976766;46.278133
+01343_0245_00256;256;;Route de l'Isle;01380;01343;Saint-Cyr-sur-Menthon;;;4.986856;46.273497
+01343_0353_00042;42;;Allée du Pelou;01380;01343;Saint-Cyr-sur-Menthon;;;4.954807;46.272123
+01343_0355_00034;34;;Allée Perrin;01380;01343;Saint-Cyr-sur-Menthon;;;4.970439;46.270891
+01343_0385_00058;58;;Allée de la Poype;01380;01343;Saint-Cyr-sur-Menthon;;;4.974061;46.276614
+01343_0058_00110;110;;Route de Bourg;01380;01343;Saint-Cyr-sur-Menthon;;;4.973502;46.275995
+01343_0058_00581;581;;Route de Bourg;01380;01343;Saint-Cyr-sur-Menthon;;;4.979298;46.274506
+01343_0105_00255;255;;Route du Chêne;01380;01343;Saint-Cyr-sur-Menthon;;;4.95581;46.268805
+01343_0486_00067;67;;Route des Thibaudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.964398;46.276484
+01343_0486_00124;124;;Route des Thibaudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.963744;46.276085
+01343_0486_00649;649;;Route des Thibaudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.962321;46.271568
+01343_0280_00021;21;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.964432;46.277477
+01343_0005_00137;137;;Route de l'Amitié;01380;01343;Saint-Cyr-sur-Menthon;;;4.961502;46.26219
+01343_0010_00624;624;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.979514;46.269455
+01343_0292_01140;1140;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.957496;46.277621
+01343_0292_02041;2041;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.94687;46.280143
+01343_0015_00133;133;;Route de Bâgé;01380;01343;Saint-Cyr-sur-Menthon;;;4.956042;46.278966
+01343_0015_00305;305;;Route de Bâgé;01380;01343;Saint-Cyr-sur-Menthon;;;4.955635;46.280782
+01343_0520_00139;139;;Allée des Vignes Rouges;01380;01343;Saint-Cyr-sur-Menthon;;;4.964211;46.269473
+01343_0415_00052;52;;Allee Rimbaud;01380;01343;Saint-Cyr-sur-Menthon;;;4.970909;46.275482
+01343_0520_00098;98;;Allée des Vignes Rouges;01380;01343;Saint-Cyr-sur-Menthon;;;4.963014;46.269858
+01343_0315_00167;167;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972657;46.274938
+01343_0315_00202;202;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972458;46.274514
+01343_0315_00226;226;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972602;46.274377
+01343_0315_00236;236;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972576;46.274294
+01343_b030_00052;52;;Les Croix Vieilles;01380;01343;Saint-Cyr-sur-Menthon;;;4.947262;46.279064
+01343_0276_00020;20;;Route de Lingent;01380;01343;Saint-Cyr-sur-Menthon;;;4.954381;46.272961
+01343_0436_00025;25;;Chemin du Ruty;01380;01343;Saint-Cyr-sur-Menthon;;;4.981185;46.267908
+01343_0436_00078;78;;Chemin du Ruty;01380;01343;Saint-Cyr-sur-Menthon;;;4.981672;46.267778
+01343_0372_00778;778;;Route des Planons;01380;01343;Saint-Cyr-sur-Menthon;;;4.982462;46.285507
+01343_0130_00030;30;;Clos de la Colline;01380;01343;Saint-Cyr-sur-Menthon;;;4.970763;46.272105
+01343_0130_00100;100;;Clos de la Colline;01380;01343;Saint-Cyr-sur-Menthon;;;4.970185;46.272011
+01343_0140_00123;123;;Route du Cordonnier;01380;01343;Saint-Cyr-sur-Menthon;;;4.958125;46.269453
+01343_0136_00119;119;;Route des Communaux;01380;01343;Saint-Cyr-sur-Menthon;;;4.960477;46.276267
+01343_0136_00174;174;;Route des Communaux;01380;01343;Saint-Cyr-sur-Menthon;;;4.96003;46.275713
+01343_0023_00026;26;;Route de Bécalet;01380;01343;Saint-Cyr-sur-Menthon;;;4.972488;46.276481
+01343_0224_00110;110;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.954466;46.263264
+01343_0224_00130;130;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.95486;46.263448
+01343_0224_00848;848;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.959934;46.259909
+01343_m4tzzv_00086;86;;le Sorbier;01380;01343;Saint-Cyr-sur-Menthon;;;4.953677;46.264544
+01343_fu19md_01412;1412;;Marillat;01380;01343;Saint-Cyr-sur-Menthon;;;4.966661;46.255475
+01343_wb4g4q_00048;48;;Buchet;01380;01343;Saint-Cyr-sur-Menthon;;;4.952719;46.267824
+01343_ly1ci8_00021;21;;Boucle des Bonnieres;01380;01343;Saint-Cyr-sur-Menthon;;;4.977129;46.278563
+01343_tblqeb_00134;134;;la Manche;01380;01343;Saint-Cyr-sur-Menthon;;;4.972981;46.28553
+01343_zg0p9v_00215;215;;les Guillemières;01380;01343;Saint-Cyr-sur-Menthon;;;4.939601;46.288327
+01343_xkkwvn_00218;218;;Les Teppes;01380;01343;Saint-Cyr-sur-Menthon;;;4.958144;46.276397
+01343_b3s7pi_00038;38;;Chemin des Landes;01380;01343;Saint-Cyr-sur-Menthon;;;4.982591;46.268504
+01343_0273_00312;312;;Route des Lévrières;01380;01343;Saint-Cyr-sur-Menthon;;;4.95237;46.267227
+01343_m4tzzv_00325;325;;le Sorbier;01380;01343;Saint-Cyr-sur-Menthon;;;4.953677;46.264544
+01343_fu19md_00930;930;;Marillat;01380;01343;Saint-Cyr-sur-Menthon;;;4.966661;46.255475
+01343_wb4g4q_00034;34;;Buchet;01380;01343;Saint-Cyr-sur-Menthon;;;4.952719;46.267824
+01343_ly1ci8_00092;92;;Boucle des Bonnieres;01380;01343;Saint-Cyr-sur-Menthon;;;4.977129;46.278563
+01343_0182_00534;534;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.946645;46.263411
+01343_0182_00860;860;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.942798;46.263066
+01343_0150_00603;603;;Route des Coudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.963359;46.264476
+01343_0150_00633;633;;Route des Coudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.963531;46.264707
+01343_0300_00118;118;;Allée de la Manche;01380;01343;Saint-Cyr-sur-Menthon;;;4.973334;46.28534
+01343_0102_00060;60;;Route du Château d'Eau;01380;01343;Saint-Cyr-sur-Menthon;;;4.952369;46.266137
+01343_0056_00454;454;;Route de Bourbouillon;01380;01343;Saint-Cyr-sur-Menthon;;;4.951949;46.282098
+01343_0076_00042;42;;Allee des Carrons;01380;01343;Saint-Cyr-sur-Menthon;;;4.987523;46.286428
+01343_0517_00373;373;;Allee du Vierre;01380;01343;Saint-Cyr-sur-Menthon;;;4.993268;46.273822
+01343_0309_00974;974;;Route de Marillat;01380;01343;Saint-Cyr-sur-Menthon;;;4.966394;46.255417
+01343_0295_00065;65;;Place de la Mairie;01380;01343;Saint-Cyr-sur-Menthon;;;4.973999;46.275051
+01343_0195_00161;161;;Route d'Emerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.970989;46.258049
+01343_0245_00286;286;;Route de l'Isle;01380;01343;Saint-Cyr-sur-Menthon;;;4.987214;46.273498
+01343_0245_00774;774;;Route de l'Isle;01380;01343;Saint-Cyr-sur-Menthon;;;4.99075;46.274256
+01343_0436_00256;256;;Chemin du Ruty;01380;01343;Saint-Cyr-sur-Menthon;;;4.98399;46.267494
+01343_0372_00761;761;;Route des Planons;01380;01343;Saint-Cyr-sur-Menthon;;;4.982384;46.285876
+01343_0130_00082;82;;Clos de la Colline;01380;01343;Saint-Cyr-sur-Menthon;;;4.970185;46.272011
+01343_0410_00062;62;;Allee des 4 Vents;01380;01343;Saint-Cyr-sur-Menthon;;;4.954664;46.273118
+01343_0165_00320;320;;Route de la Croix;01380;01343;Saint-Cyr-sur-Menthon;;;4.968379;46.272002
+01343_0146_00300;300;;Route des Couardes;01380;01343;Saint-Cyr-sur-Menthon;;;4.952129;46.276181
+01343_0453_00044;44;;Allee de la Serve Saint Vincent;01380;01343;Saint-Cyr-sur-Menthon;;;4.962083;46.275547
+01343_0250_00082;82;;Allee du Jardin;01380;01343;Saint-Cyr-sur-Menthon;;;4.993246;46.275078
+01343_0429_00090;90;;Allee du Ronjon;01380;01343;Saint-Cyr-sur-Menthon;;;4.963207;46.277188
+01343_0525_00031;31;;Clos du Village;01380;01343;Saint-Cyr-sur-Menthon;;;4.971591;46.274762
+01343_0224_00111;111;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.954692;46.263559
+01343_0273_00171;171;;Route des Lévrières;01380;01343;Saint-Cyr-sur-Menthon;;;4.953073;46.268235
+01343_0337_00209;209;;Route de la Motte Castrale;01380;01343;Saint-Cyr-sur-Menthon;;;4.974565;46.277615
+01343_0300_00098;98;;Allée de la Manche;01380;01343;Saint-Cyr-sur-Menthon;;;4.972261;46.285358
+01343_0400_00110;110;;Chemin des Preles;01380;01343;Saint-Cyr-sur-Menthon;;;4.951538;46.270525
+01343_8w9p4o_00004;4;;Chemin la Semaria;01380;01343;Saint-Cyr-sur-Menthon;;;4.974625;46.278862
+01343_0182_00149;149;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.951368;46.263934
+01343_0530_00129;129;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.955317;46.276291
+01343_0530_00498;498;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.954291;46.273382
+01343_0530_01262;1262;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.953556;46.266511
+01343_0178_00612;612;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.960949;46.27001
+01343_0085_00033;33;;Rue du Centre;01380;01343;Saint-Cyr-sur-Menthon;;;4.973095;46.274687
+01343_0502_00112;112;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.961382;46.278202
+01343_0340_00005;5;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.971317;46.272317
+01343_0340_00021;21;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.970957;46.272658
+01343_0343_00749;749;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.976875;46.280837
+01343_0343_01495;1495;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.981742;46.284394
+01343_0088_00061;61;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.955973;46.271494
+01343_0182_00974;974;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.94156;46.263556
+01343_0530_00624;624;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.954519;46.272256
+01343_0530_01280;1280;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.953506;46.266208
+01343_0530_02430;2430;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.953506;46.266208
+01343_0178_00539;539;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.96183;46.269442
+01343_0178_00739;739;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.960227;46.268889
+01343_0178_00910;910;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.958576;46.267939
+01343_0340_00002;2;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.971364;46.272204
+01343_0340_00010;10;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.971073;46.272347
+01343_0340_00023;23;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.970954;46.272702
+01343_0340_00026;26;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.970836;46.272776
+01343_0343_00074;74;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.978027;46.275179
+01343_0343_00481;481;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.976816;46.278672
+01343_0343_01412;1412;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.981667;46.28384
+01343_0091_00164;164;;Route du Chanelet;01380;01343;Saint-Cyr-sur-Menthon;;;4.979543;46.276214
+01343_0088_00208;208;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.954969;46.2704
+01343_b096_00510;510;;Teppe Nayet;01380;01343;Saint-Cyr-sur-Menthon;;;4.95092;46.265786
+01343_0161_00080;80;;Allee des Croisettes;01380;01343;Saint-Cyr-sur-Menthon;;;4.980152;46.283835
+01343_0058_01219;1219;;Route de Bourg;01380;01343;Saint-Cyr-sur-Menthon;;;4.986964;46.272424
+01343_0253_00057;57;;Allee Jonchay;01380;01343;Saint-Cyr-sur-Menthon;;;4.977211;46.27527
+01343_0512_00044;44;;Allee Verney;01380;01343;Saint-Cyr-sur-Menthon;;;4.955287;46.277122
+01343_0486_00175;175;;Route des Thibaudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.963523;46.275707
+01343_0263_00001;1;;Clos le Lavoir;01380;01343;Saint-Cyr-sur-Menthon;;;4.9719;46.27328
+01343_0263_00012;12;;Clos le Lavoir;01380;01343;Saint-Cyr-sur-Menthon;;;4.971977;46.273217
+01343_0010_00510;510;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.979269;46.270303
+01343_0010_01059;1059;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.981573;46.266297
+01343_0292_00744;744;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.96255;46.277204
+01343_0292_00874;874;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.960855;46.277343
+01343_0292_00914;914;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.960399;46.27738
+01343_0292_01365;1365;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.954397;46.278
+01343_0292_02059;2059;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.946429;46.28027
+01343_b096_00458;458;;Teppe Nayet;01380;01343;Saint-Cyr-sur-Menthon;;;4.95092;46.265786
+01343_0161_00060;60;;Allee des Croisettes;01380;01343;Saint-Cyr-sur-Menthon;;;4.980598;46.284283
+01343_0058_00385;385;;Route de Bourg;01380;01343;Saint-Cyr-sur-Menthon;;;4.976762;46.275195
+01343_0512_00048;48;;Allee Verney;01380;01343;Saint-Cyr-sur-Menthon;;;4.955287;46.277122
+01343_0280_00184;184;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.966151;46.278302
+01343_0280_00767;767;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.969893;46.28287
+01343_0005_00162;162;;Route de l'Amitié;01380;01343;Saint-Cyr-sur-Menthon;;;4.961743;46.262093
+01343_0292_00846;846;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.961191;46.277483
+01343_0292_00889;889;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.960778;46.277269
+01343_0292_01200;1200;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.956855;46.277911
+01343_0292_02018;2018;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.947264;46.280179
+01343_0292_02300;2300;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.943822;46.281359
+01343_0520_00077;77;;Allée des Vignes Rouges;01380;01343;Saint-Cyr-sur-Menthon;;;4.963164;46.269707
+01343_0415_00080;80;;Allee Rimbaud;01380;01343;Saint-Cyr-sur-Menthon;;;4.970787;46.275729
+01343_0315_00144;144;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972471;46.275165
+01343_0315_00245;245;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.97267;46.274223
+01343_b030_00265;265;;Les Croix Vieilles;01380;01343;Saint-Cyr-sur-Menthon;;;4.947262;46.279064
+01343_0436_00160;160;;Chemin du Ruty;01380;01343;Saint-Cyr-sur-Menthon;;;4.982784;46.267552
+01343_0436_00275;275;;Chemin du Ruty;01380;01343;Saint-Cyr-sur-Menthon;;;4.984292;46.267495
+01343_0372_00745;745;;Route des Planons;01380;01343;Saint-Cyr-sur-Menthon;;;4.982051;46.286045
+01343_0372_00874;874;;Route des Planons;01380;01343;Saint-Cyr-sur-Menthon;;;4.982981;46.285201
+01343_0403_00066;66;;Allée Prétière;01380;01343;Saint-Cyr-sur-Menthon;;;4.980348;46.269233
+01343_0115_00077;77;;Allee des Chevaudieres;01380;01343;Saint-Cyr-sur-Menthon;;;4.959838;46.259296
+01343_0140_00196;196;;Route du Cordonnier;01380;01343;Saint-Cyr-sur-Menthon;;;4.958169;46.268851
+01343_0165_00349;349;;Route de la Croix;01380;01343;Saint-Cyr-sur-Menthon;;;4.968172;46.271911
+01343_0136_00147;147;;Route des Communaux;01380;01343;Saint-Cyr-sur-Menthon;;;4.960395;46.275925
+01343_0224_00266;266;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.956491;46.263131
+01343_0224_00830;830;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.959789;46.260212
+01343_0420_00023;23;;Allée des Rippes;01380;01343;Saint-Cyr-sur-Menthon;;;4.967071;46.253845
+01343_0238_00124;124;;Route des Guillemières;01380;01343;Saint-Cyr-sur-Menthon;;;4.936637;46.283672
+01343_0508_00025;25;;Allee En Verdet;01380;01343;Saint-Cyr-sur-Menthon;;;4.950969;46.265551
+01343_0273_00152;152;;Route des Lévrières;01380;01343;Saint-Cyr-sur-Menthon;;;4.952609;46.268559
+01343_0175_00084;84;;Allee Curtil Budin;01380;01343;Saint-Cyr-sur-Menthon;;;4.978692;46.275182
+01343_0497_00006;6;;Allee du Tripier;01380;01343;Saint-Cyr-sur-Menthon;;;4.963933;46.276303
+01343_0337_00186;186;;Route de la Motte Castrale;01380;01343;Saint-Cyr-sur-Menthon;;;4.973721;46.277354
+01343_0285_00004;4;;Chemin des Louvieres;01380;01343;Saint-Cyr-sur-Menthon;;;4.986848;46.287343
+01343_0300_00080;80;;Allée de la Manche;01380;01343;Saint-Cyr-sur-Menthon;;;4.972501;46.285664
+01343_0292_02470;2470;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.941725;46.281908
+01343_0015_00050;50;;Route de Bâgé;01380;01343;Saint-Cyr-sur-Menthon;;;4.956083;46.278365
+01343_0520_00110;110;;Allée des Vignes Rouges;01380;01343;Saint-Cyr-sur-Menthon;;;4.962874;46.269914
+01343_0100_00281;281;;Allée du Château;01380;01343;Saint-Cyr-sur-Menthon;;;4.973435;46.292504
+01343_0315_00224;224;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972607;46.274395
+01343_0315_00274;274;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972384;46.274019
+01343_0436_00091;91;;Chemin du Ruty;01380;01343;Saint-Cyr-sur-Menthon;;;4.981949;46.267822
+01343_0372_00740;740;;Route des Planons;01380;01343;Saint-Cyr-sur-Menthon;;;4.981295;46.28587
+01343_0140_00162;162;;Route du Cordonnier;01380;01343;Saint-Cyr-sur-Menthon;;;4.958089;46.269141
+01343_0453_00051;51;;Allee de la Serve Saint Vincent;01380;01343;Saint-Cyr-sur-Menthon;;;4.961894;46.275294
+01343_0136_00050;50;;Route des Communaux;01380;01343;Saint-Cyr-sur-Menthon;;;4.960395;46.27684
+01343_0088_00064_a;64;a;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.955859;46.271533
+01343_0058_00050;50;;Route de Bourg;01380;01343;Saint-Cyr-sur-Menthon;;;4.973544;46.275983
+01343_0058_00363;363;;Route de Bourg;01380;01343;Saint-Cyr-sur-Menthon;;;4.97652;46.275261
+01343_0127_00116;116;;Chemin des Cochatières;01380;01343;Saint-Cyr-sur-Menthon;;;4.942115;46.264561
+01343_0253_00036;36;;Allee Jonchay;01380;01343;Saint-Cyr-sur-Menthon;;;4.977175;46.275518
+01343_0280_00233;233;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.966409;46.278666
+01343_0280_00955;955;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.970872;46.284386
+01343_0010_00725;725;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.980002;46.2686
+01343_0010_00891;891;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.980742;46.267461
+01343_0010_00985;985;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.980891;46.266702
+01343_0010_01125;1125;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.981717;46.266238
+01343_0010_01182;1182;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.982379;46.265362
+01343_0015_00942;942;;Route de Bâgé;01380;01343;Saint-Cyr-sur-Menthon;;;4.958777;46.285746
+01343_0270_00037;37;;Allee la Levee;01380;01343;Saint-Cyr-sur-Menthon;;;4.977114;46.27869
+01343_0415_00107;107;;Allee Rimbaud;01380;01343;Saint-Cyr-sur-Menthon;;;4.971064;46.27507
+01343_0100_00240;240;;Allée du Château;01380;01343;Saint-Cyr-sur-Menthon;;;4.973303;46.292564
+01343_0477_00296;296;;Allée des Teppes;01380;01343;Saint-Cyr-sur-Menthon;;;4.952607;46.27808
+01343_0015_00938;938;;Route de Bâgé;01380;01343;Saint-Cyr-sur-Menthon;;;4.952702;46.292448
+01343_0015_01349;1349;;Route de Bâgé;01380;01343;Saint-Cyr-sur-Menthon;;;4.956021;46.288392
+01343_0270_00012;12;;Allee la Levee;01380;01343;Saint-Cyr-sur-Menthon;;;4.977114;46.27869
+01343_0100_00228;228;;Allée du Château;01380;01343;Saint-Cyr-sur-Menthon;;;4.973303;46.292565
+01343_0100_00268;268;;Allée du Château;01380;01343;Saint-Cyr-sur-Menthon;;;4.97353;46.292547
+01343_0372_00675;675;;Route des Planons;01380;01343;Saint-Cyr-sur-Menthon;;;4.981106;46.286428
+01343_0403_00043;43;;Allée Prétière;01380;01343;Saint-Cyr-sur-Menthon;;;4.980348;46.269233
+01343_0130_00078;78;;Clos de la Colline;01380;01343;Saint-Cyr-sur-Menthon;;;4.970206;46.272051
+01343_0146_00488;488;;Route des Couardes;01380;01343;Saint-Cyr-sur-Menthon;;;4.951107;46.277675
+01343_0453_00055;55;;Allee de la Serve Saint Vincent;01380;01343;Saint-Cyr-sur-Menthon;;;4.961894;46.275294
+01343_0023_00300;300;;Route de Bécalet;01380;01343;Saint-Cyr-sur-Menthon;;;4.971367;46.27915
+01343_0325_00031;31;;Allée des Mirtanges;01380;01343;Saint-Cyr-sur-Menthon;;;4.972205;46.286985
+01343_0525_00080;80;;Clos du Village;01380;01343;Saint-Cyr-sur-Menthon;;;4.971216;46.274427
+01343_0224_00193;193;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.960201;46.260724
+01343_0224_00412;412;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.958207;46.262816
+01343_0224_00472;472;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.958519;46.262653
+01343_0224_00790;790;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.959653;46.260401
+01343_et5wov_00670;670;;la Platière;01380;01343;Saint-Cyr-sur-Menthon;;;4.965159;46.264187
+01343_xkkwvn_00129;129;;Les Teppes;01380;01343;Saint-Cyr-sur-Menthon;;;4.955754;46.276802
+01343_52m94o_00042;42;;Le Pelou;01380;01343;Saint-Cyr-sur-Menthon;;;4.954501;46.272146
+01343_0273_00132;132;;Route des Lévrières;01380;01343;Saint-Cyr-sur-Menthon;;;4.952602;46.268739
+01343_0175_00090;90;;Allee Curtil Budin;01380;01343;Saint-Cyr-sur-Menthon;;;4.978699;46.275131
+01343_0290_00099;99;;Route des Lys;01380;01343;Saint-Cyr-sur-Menthon;;;4.955794;46.27243
+01343_0290_00541;541;;Route des Lys;01380;01343;Saint-Cyr-sur-Menthon;;;4.955358;46.272571
+01343_0133_00011;11;;Allee Combe Giroud;01380;01343;Saint-Cyr-sur-Menthon;;;4.981941;46.26774
+01343_0447_01115;1115;;Chemin des Seiglieres;01380;01343;Saint-Cyr-sur-Menthon;;;4.986057;46.283523
+01343_0309_01412;1412;;Route de Marillat;01380;01343;Saint-Cyr-sur-Menthon;;;4.963881;46.253765
+01343_0035_01167;1167;;Route de Bergemot;01380;01343;Saint-Cyr-sur-Menthon;;;4.959622;46.290218
+01343_0460_00086;86;;Route du Sorbier;01380;01343;Saint-Cyr-sur-Menthon;;;4.958814;46.265334
+01343_0050_00021;21;;Voie Boucle des Bonnières;01380;01343;Saint-Cyr-sur-Menthon;;;4.977731;46.278439
+01343_0375_00006;6;;Route de la Platiére;01380;01343;Saint-Cyr-sur-Menthon;;;4.958807;46.265963
+01343_0490_00060;60;;Allée de Tournaz;01380;01343;Saint-Cyr-sur-Menthon;;;4.95799;46.265297
+01343_0315_00174;174;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972569;46.274809
+01343_0315_00252;252;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972516;46.274157
+01343_0276_00105;105;;Route de Lingent;01380;01343;Saint-Cyr-sur-Menthon;;;4.953407;46.273143
+01343_0130_00066;66;;Clos de la Colline;01380;01343;Saint-Cyr-sur-Menthon;;;4.97031;46.272122
+01343_0140_00088;88;;Route du Cordonnier;01380;01343;Saint-Cyr-sur-Menthon;;;4.957904;46.269835
+01343_0170_00073;73;;Allée des Cruizettes;01380;01343;Saint-Cyr-sur-Menthon;;;4.97927;46.268167
+01343_0453_00058;58;;Allee de la Serve Saint Vincent;01380;01343;Saint-Cyr-sur-Menthon;;;4.961894;46.275294
+01343_0023_00033;33;;Route de Bécalet;01380;01343;Saint-Cyr-sur-Menthon;;;4.97172;46.276712
+01343_0525_00112;112;;Clos du Village;01380;01343;Saint-Cyr-sur-Menthon;;;4.971233;46.27412
+01343_0224_00160;160;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.955148;46.263193
+01343_0224_00199;199;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.955985;46.263695
+01343_0508_00035;35;;Allee En Verdet;01380;01343;Saint-Cyr-sur-Menthon;;;4.950969;46.265551
+01343_0290_00018;18;;Route des Lys;01380;01343;Saint-Cyr-sur-Menthon;;;4.954925;46.272727
+01343_0045_00031;31;;Allee des Bois;01380;01343;Saint-Cyr-sur-Menthon;;;4.9612;46.279419
+01343_0530_00870;870;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.954506;46.272177
+01343_0530_01353;1353;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.953845;46.266019
+01343_0235_00367;367;;Route de Gréziat;01380;01343;Saint-Cyr-sur-Menthon;;;4.946884;46.283088
+01343_0178_00312;312;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.964194;46.27149
+01343_0178_00671;671;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.960834;46.269377
+01343_0178_00890;890;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.958399;46.268219
+01343_0085_00071;71;;Rue du Centre;01380;01343;Saint-Cyr-sur-Menthon;;;4.973686;46.274007
+01343_0502_00452;452;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.958392;46.279675
+01343_0502_00569;569;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.95699;46.279709
+01343_0340_00029;29;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.97075;46.272775
+01343_0257_00018;18;;Allee Lamartine;01380;01343;Saint-Cyr-sur-Menthon;;;4.971676;46.275263
+01343_0257_00064;64;;Allee Lamartine;01380;01343;Saint-Cyr-sur-Menthon;;;4.971487;46.275686
+01343_0343_00957;957;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.976733;46.282358
+01343_0343_01180;1180;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.978823;46.283572
+01343_0091_00101;101;;Route du Chanelet;01380;01343;Saint-Cyr-sur-Menthon;;;4.97881;46.276043
+01343_0088_00013;13;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.956378;46.271733
+01343_0088_00082;82;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.95561;46.271388
+01343_0127_00099;99;;Chemin des Cochatières;01380;01343;Saint-Cyr-sur-Menthon;;;4.941845;46.264501
+01343_0253_00023;23;;Allee Jonchay;01380;01343;Saint-Cyr-sur-Menthon;;;4.977404;46.275451
+01343_0500_00210;210;;Allee des 3 Poiriers;01380;01343;Saint-Cyr-sur-Menthon;;;4.953063;46.260853
+01343_0010_00803;803;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.980471;46.268103
+01343_0010_00999;999;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.980922;46.266506
+01343_0292_00037;37;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.955886;46.278175
+01343_0292_00314;314;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.968092;46.276753
+01343_0292_01098;1098;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.958311;46.277751
+01343_0015_00235;235;;Route de Bâgé;01380;01343;Saint-Cyr-sur-Menthon;;;4.956315;46.279765
+01343_0415_00023;23;;Allee Rimbaud;01380;01343;Saint-Cyr-sur-Menthon;;;4.971166;46.27503
+01343_0415_00096;96;;Allee Rimbaud;01380;01343;Saint-Cyr-sur-Menthon;;;4.97073;46.275837
+01343_0477_00224;224;;Allée des Teppes;01380;01343;Saint-Cyr-sur-Menthon;;;4.952921;46.277853
+01343_0372_00823;823;;Route des Planons;01380;01343;Saint-Cyr-sur-Menthon;;;4.982694;46.285499
+01343_0130_00036;36;;Clos de la Colline;01380;01343;Saint-Cyr-sur-Menthon;;;4.970687;46.272126
+01343_0130_00094;94;;Clos de la Colline;01380;01343;Saint-Cyr-sur-Menthon;;;4.970185;46.272011
+01343_0165_00033;33;;Route de la Croix;01380;01343;Saint-Cyr-sur-Menthon;;;4.970474;46.271933
+01343_0165_00175;175;;Route de la Croix;01380;01343;Saint-Cyr-sur-Menthon;;;4.969644;46.271113
+01343_0453_00022;22;;Allee de la Serve Saint Vincent;01380;01343;Saint-Cyr-sur-Menthon;;;4.962022;46.275333
+01343_0136_00038;38;;Route des Communaux;01380;01343;Saint-Cyr-sur-Menthon;;;4.960396;46.276947
+01343_0136_00254;254;;Route des Communaux;01380;01343;Saint-Cyr-sur-Menthon;;;4.95976;46.275058
+01343_0023_00060;60;;Route de Bécalet;01380;01343;Saint-Cyr-sur-Menthon;;;4.972134;46.276894
+01343_0525_00099;99;;Clos du Village;01380;01343;Saint-Cyr-sur-Menthon;;;4.971366;46.274279
+01343_0224_00157;157;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.955342;46.263466
+01343_0224_00451;451;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.959148;46.262995
+01343_0224_00599;599;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.960065;46.261813
+01343_0224_00880;880;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.960559;46.259898
+01343_0273_00275;275;;Route des Lévrières;01380;01343;Saint-Cyr-sur-Menthon;;;4.953229;46.267523
+01343_0438_00080;80;;Place Saint Cyr;01380;01343;Saint-Cyr-sur-Menthon;;;4.971889;46.275755
+01343_0300_01192;1192;;Allée de la Manche;01380;01343;Saint-Cyr-sur-Menthon;;;4.972328;46.286073
+01343_0309_00930;930;;Route de Marillat;01380;01343;Saint-Cyr-sur-Menthon;;;4.966157;46.255753
+01343_0309_01012;1012;;Route de Marillat;01380;01343;Saint-Cyr-sur-Menthon;;;4.96624;46.25487
+01343_0035_00021;21;;Route de Bergemot;01380;01343;Saint-Cyr-sur-Menthon;;;4.973507;46.288916
+01343_0215_00047;47;;Allee de la Foret;01380;01343;Saint-Cyr-sur-Menthon;;;4.976169;46.295257
+01343_0020_00064;64;;Route de la Baraque;01380;01343;Saint-Cyr-sur-Menthon;;;4.955766;46.266022
+01343_0375_00670;670;;Route de la Platiére;01380;01343;Saint-Cyr-sur-Menthon;;;4.965321;46.264131
+01343_0400_00094;94;;Chemin des Preles;01380;01343;Saint-Cyr-sur-Menthon;;;4.948051;46.266193
+01343_0311_00020;20;;Chemin Mayer;01380;01343;Saint-Cyr-sur-Menthon;;;4.954887;46.273742
+01343_0366_00130;130;;Allée de la Pilleuse;01380;01343;Saint-Cyr-sur-Menthon;;;4.988355;46.286825
+01343_0473_00458;458;;Route de Teppe Nayet;01380;01343;Saint-Cyr-sur-Menthon;;;4.947292;46.264365
+01343_0460_00325;325;;Route du Sorbier;01380;01343;Saint-Cyr-sur-Menthon;;;4.958157;46.2633
+01343_0089_00002;2;;Clos du Champ Fleuri;01380;01343;Saint-Cyr-sur-Menthon;;;4.96271;46.270875
+01343_0490_00053;53;;Allée de Tournaz;01380;01343;Saint-Cyr-sur-Menthon;;;4.958399;46.265464
+01343_fu19md_01012;1012;;Marillat;01380;01343;Saint-Cyr-sur-Menthon;;;4.966661;46.255475
+01343_biqcve_00177;177;;les Merlières;01380;01343;Saint-Cyr-sur-Menthon;;;4.979423;46.28853
+01343_f9pr1j_00031;31;;les Mirtanges;01380;01343;Saint-Cyr-sur-Menthon;;;4.970895;46.287514
+01343_v2nd10_00200;200;;La Mulatiere;01380;01343;Saint-Cyr-sur-Menthon;;;4.97746;46.276425
+01343_0182_00287;287;;Route des Druillets;01380;01343;Saint-Cyr-sur-Menthon;;;4.949642;46.263819
+01343_a010_00004;4;;Clos les Jardins de Saint Cyr;01380;01343;Saint-Cyr-sur-Menthon;;;4.958256;46.278412
+01343_0530_00950;950;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.954502;46.272151
+01343_0061_00067;67;;Clos Boutaron;01380;01343;Saint-Cyr-sur-Menthon;;;4.973754;46.274262
+01343_0235_00462;462;;Route de Gréziat;01380;01343;Saint-Cyr-sur-Menthon;;;4.947956;46.283032
+01343_0235_01026;1026;;Route de Gréziat;01380;01343;Saint-Cyr-sur-Menthon;;;4.954512;46.284162
+01343_0178_00344;344;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.964092;46.271038
+01343_0178_00395;395;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.96378;46.270537
+01343_0178_00572;572;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.961266;46.27026
+01343_0178_00659;659;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.961314;46.26959
+01343_0502_00300;300;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.960337;46.279682
+01343_0502_00465;465;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.957583;46.278181
+01343_0340_00015;15;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.971014;46.272516
+01343_0257_00061;61;;Allee Lamartine;01380;01343;Saint-Cyr-sur-Menthon;;;4.971393;46.275623
+01343_0343_01127;1127;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.977986;46.283951
+01343_0343_01239;1239;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.979962;46.284079
+01343_0283_00063;63;;Route du Logis;01380;01343;Saint-Cyr-sur-Menthon;;;4.974597;46.27635
+01343_0091_00053;53;;Route du Chanelet;01380;01343;Saint-Cyr-sur-Menthon;;;4.978239;46.275941
+01343_0088_00069;69;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.955908;46.271456
+01343_0088_00108;108;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.955461;46.271302
+01343_0088_00144;144;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.955168;46.270898
+01343_0058_00098;98;;Route de Bourg;01380;01343;Saint-Cyr-sur-Menthon;;;4.973371;46.27603
+01343_0027_00133;133;;Allée de Belin;01380;01343;Saint-Cyr-sur-Menthon;;;4.939768;46.28831
+01343_0127_00073;73;;Chemin des Cochatières;01380;01343;Saint-Cyr-sur-Menthon;;;4.941713;46.264303
+01343_0127_00135;135;;Chemin des Cochatières;01380;01343;Saint-Cyr-sur-Menthon;;;4.942179;46.264718
+01343_0253_00019;19;;Allee Jonchay;01380;01343;Saint-Cyr-sur-Menthon;;;4.977409;46.275804
+01343_0486_00081;81;;Route des Thibaudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.964143;46.276284
+01343_0263_00004;4;;Clos le Lavoir;01380;01343;Saint-Cyr-sur-Menthon;;;4.971507;46.273693
+01343_0010_00651;651;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.979547;46.269187
+01343_0010_00832;832;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.980718;46.267974
+01343_0010_01172;1172;;Route d'Arringes;01380;01343;Saint-Cyr-sur-Menthon;;;4.982336;46.26544
+01343_0015_00930;930;;Route de Bâgé;01380;01343;Saint-Cyr-sur-Menthon;;;4.950399;46.292944
+01343_0456_00007;7;;Chemin des Sivaudieres;01380;01343;Saint-Cyr-sur-Menthon;;;4.954475;46.261411
+01343_0415_00040;40;;Allee Rimbaud;01380;01343;Saint-Cyr-sur-Menthon;;;4.970974;46.275349
+01343_0415_00061;61;;Allee Rimbaud;01380;01343;Saint-Cyr-sur-Menthon;;;4.971118;46.275046
+01343_0415_00093;93;;Allee Rimbaud;01380;01343;Saint-Cyr-sur-Menthon;;;4.971078;46.275061
+01343_0415_00108;108;;Allee Rimbaud;01380;01343;Saint-Cyr-sur-Menthon;;;4.970668;46.275981
+01343_0073_00034;34;;Allee En Buchet;01380;01343;Saint-Cyr-sur-Menthon;;;4.952153;46.265578
+01343_0477_00218;218;;Allée des Teppes;01380;01343;Saint-Cyr-sur-Menthon;;;4.953825;46.277461
+01343_0315_00207;207;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972975;46.274498
+01343_0505_00053;53;;Route des Vercheres;01380;01343;Saint-Cyr-sur-Menthon;;;4.960806;46.285215
+01343_0165_00066;66;;Route de la Croix;01380;01343;Saint-Cyr-sur-Menthon;;;4.970894;46.271429
+01343_0146_00594;594;;Route des Couardes;01380;01343;Saint-Cyr-sur-Menthon;;;4.951067;46.278558
+01343_tblqeb_00098;98;;la Manche;01380;01343;Saint-Cyr-sur-Menthon;;;4.972981;46.28553
+01343_52m94o_00090;90;;Le Pelou;01380;01343;Saint-Cyr-sur-Menthon;;;4.954501;46.272146
+01343_56q3m5_00053;53;;la Poipe;01380;01343;Saint-Cyr-sur-Menthon;;;4.973201;46.276946
+01343_8w9p4o_00038;38;;Chemin la Semaria;01380;01343;Saint-Cyr-sur-Menthon;;;4.974625;46.278862
+01343_2os3t9_00193;193;;la Baraque;01380;01343;Saint-Cyr-sur-Menthon;;;4.953991;46.266481
+01343_a010_00007;7;;Clos les Jardins de Saint Cyr;01380;01343;Saint-Cyr-sur-Menthon;;;4.958393;46.27805
+01343_0530_00486;486;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.954744;46.273541
+01343_0530_00867;867;;Route de Vonnas;01380;01343;Saint-Cyr-sur-Menthon;;;4.954269;46.270038
+01343_0235_00243;243;;Route de Gréziat;01380;01343;Saint-Cyr-sur-Menthon;;;4.946785;46.282241
+01343_0178_01006;1006;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.958405;46.267069
+01343_0178_01589;1589;;Route des Deschamps;01380;01343;Saint-Cyr-sur-Menthon;;;4.954049;46.264209
+01343_0085_00050;50;;Rue du Centre;01380;01343;Saint-Cyr-sur-Menthon;;;4.973338;46.274665
+01343_0502_00077;77;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.961149;46.278157
+01343_0502_00430;430;;Route de la Tuilerie;01380;01343;Saint-Cyr-sur-Menthon;;;4.958805;46.27983
+01343_0340_00007;7;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.971257;46.272348
+01343_0340_00018;18;;Clos du Moulin;01380;01343;Saint-Cyr-sur-Menthon;;;4.970857;46.272536
+01343_0257_00017;17;;Allee Lamartine;01380;01343;Saint-Cyr-sur-Menthon;;;4.971567;46.275232
+01343_0343_00269;269;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.975844;46.27696
+01343_0343_00757;757;;Route de la Mulatière;01380;01343;Saint-Cyr-sur-Menthon;;;4.976871;46.280908
+01343_0088_00025;25;;Clos des Champs;01380;01343;Saint-Cyr-sur-Menthon;;;4.956274;46.271672
+01343_b096_00164;164;;Teppe Nayet;01380;01343;Saint-Cyr-sur-Menthon;;;4.95092;46.265786
+01343_b096_00376;376;;Teppe Nayet;01380;01343;Saint-Cyr-sur-Menthon;;;4.95092;46.265786
+01343_0058_00128;128;;Route de Bourg;01380;01343;Saint-Cyr-sur-Menthon;;;4.97364;46.275958
+01343_0058_00400;400;;Route de Bourg;01380;01343;Saint-Cyr-sur-Menthon;;;4.976997;46.275045
+01343_0105_00115;115;;Route du Chêne;01380;01343;Saint-Cyr-sur-Menthon;;;4.955521;46.268865
+01343_0280_00050;50;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.965141;46.277395
+01343_0280_00159;159;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.965852;46.278161
+01343_0280_00238;238;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.966494;46.278613
+01343_0280_00853;853;;Route de Loëze;01380;01343;Saint-Cyr-sur-Menthon;;;4.970345;46.283567
+01343_0263_00009;9;;Clos le Lavoir;01380;01343;Saint-Cyr-sur-Menthon;;;4.971797;46.273049
+01343_0292_00292;292;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.964815;46.277019
+01343_0292_01114;1114;;Route de Mâcon;01380;01343;Saint-Cyr-sur-Menthon;;;4.957911;46.277588
+01343_0015_00163;163;;Route de Bâgé;01380;01343;Saint-Cyr-sur-Menthon;;;4.956255;46.279333
+01343_0315_00139;139;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972589;46.275173
+01343_0315_00164;164;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972553;46.274882
+01343_0315_00244;244;;Rue du Menthon;01380;01343;Saint-Cyr-sur-Menthon;;;4.972286;46.27445
+01343_0436_00210;210;;Chemin du Ruty;01380;01343;Saint-Cyr-sur-Menthon;;;4.983427;46.267486
+01343_0372_00864;864;;Route des Planons;01380;01343;Saint-Cyr-sur-Menthon;;;4.983268;46.285
+01343_0403_00035;35;;Allée Prétière;01380;01343;Saint-Cyr-sur-Menthon;;;4.979902;46.269021
+01343_0185_00053;53;;Allee des Echazeaux;01380;01343;Saint-Cyr-sur-Menthon;;;4.966063;46.25622
+01343_0165_00218;218;;Route de la Croix;01380;01343;Saint-Cyr-sur-Menthon;;;4.969164;46.271564
+01343_0165_00432;432;;Route de la Croix;01380;01343;Saint-Cyr-sur-Menthon;;;4.968359;46.272558
+01343_0429_00184;184;;Allee du Ronjon;01380;01343;Saint-Cyr-sur-Menthon;;;4.963207;46.277188
+01343_0023_00007;7;;Route de Bécalet;01380;01343;Saint-Cyr-sur-Menthon;;;4.971998;46.27654
+01343_0525_00136;136;;Clos du Village;01380;01343;Saint-Cyr-sur-Menthon;;;4.971417;46.273978
+01343_0224_00155;155;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.955244;46.263737
+01343_0224_00265;265;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.956759;46.263552
+01343_0224_00918;918;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.960515;46.259588
+01343_0273_00218;218;;Route des Lévrières;01380;01343;Saint-Cyr-sur-Menthon;;;4.952564;46.268149
+01343_0273_00316;316;;Route des Lévrières;01380;01343;Saint-Cyr-sur-Menthon;;;4.952903;46.267001
+01343_0337_00037;37;;Route de la Motte Castrale;01380;01343;Saint-Cyr-sur-Menthon;;;4.972434;46.277609
+01343_0133_00047;47;;Allee Combe Giroud;01380;01343;Saint-Cyr-sur-Menthon;;;4.981941;46.26774
+01343_0473_00376;376;;Route de Teppe Nayet;01380;01343;Saint-Cyr-sur-Menthon;;;4.947536;46.265057
+01343_0321_00240;240;;Allée des Milandes;01380;01343;Saint-Cyr-sur-Menthon;;;4.937617;46.28664
+01343_0309_01006;1006;;Route de Marillat;01380;01343;Saint-Cyr-sur-Menthon;;;4.965941;46.255431
+01343_0425_00175;175;;Chemin En Romagne;01380;01343;Saint-Cyr-sur-Menthon;;;4.971209;46.281713
+01343_0460_00038;38;;Route du Sorbier;01380;01343;Saint-Cyr-sur-Menthon;;;4.958794;46.26559
+01343_0224_00586;586;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.959351;46.261904
+01343_0273_00149;149;;Route des Lévrières;01380;01343;Saint-Cyr-sur-Menthon;;;4.953488;46.268586
+01343_0290_00047;47;;Route des Lys;01380;01343;Saint-Cyr-sur-Menthon;;;4.955281;46.272683
+01343_0337_00231;231;;Route de la Motte Castrale;01380;01343;Saint-Cyr-sur-Menthon;;;4.972672;46.276988
+01343_0056_00061;61;;Route de Bourbouillon;01380;01343;Saint-Cyr-sur-Menthon;;;4.951899;46.279598
+01343_0076_00056;56;;Allee des Carrons;01380;01343;Saint-Cyr-sur-Menthon;;;4.987523;46.286428
+01343_0473_00164;164;;Route de Teppe Nayet;01380;01343;Saint-Cyr-sur-Menthon;;;4.950399;46.265765
+01343_0473_00510;510;;Route de Teppe Nayet;01380;01343;Saint-Cyr-sur-Menthon;;;4.947246;46.26379
+01343_0425_00749;749;;Chemin En Romagne;01380;01343;Saint-Cyr-sur-Menthon;;;4.977055;46.283722
+01343_0143_00982;982;;Route de Cormorey;01380;01343;Saint-Cyr-sur-Menthon;;;4.960131;46.287105
+01343_0020_01540;1540;;Route de la Baraque;01380;01343;Saint-Cyr-sur-Menthon;;;4.953815;46.264635
+01343_0089_00004;4;;Clos du Champ Fleuri;01380;01343;Saint-Cyr-sur-Menthon;;;4.963115;46.271271
+01343_0245_00563;563;;Route de l'Isle;01380;01343;Saint-Cyr-sur-Menthon;;;4.989297;46.274944
+01343_0385_00053;53;;Allée de la Poype;01380;01343;Saint-Cyr-sur-Menthon;;;4.973576;46.276904
+01343_0493_00160;160;;Allée de Travernay;01380;01343;Saint-Cyr-sur-Menthon;;;4.975071;46.294091
+01343_0094_00261;261;;Chemin de la Chapelle;01380;01343;Saint-Cyr-sur-Menthon;;;4.968149;46.272328
+01343_0357_00194;194;;Route du Petit Meumain;01380;01343;Saint-Cyr-sur-Menthon;;;4.962624;46.275092
+01343_0309_01284;1284;;Route de Marillat;01380;01343;Saint-Cyr-sur-Menthon;;;4.965421;46.253401
+01343_0460_00034;34;;Route du Sorbier;01380;01343;Saint-Cyr-sur-Menthon;;;4.959362;46.265717
+01343_0020_00193;193;;Route de la Baraque;01380;01343;Saint-Cyr-sur-Menthon;;;4.954;46.266031
+01343_0050_00082;82;;Voie Boucle des Bonnières;01380;01343;Saint-Cyr-sur-Menthon;;;4.976942;46.27831
+01343_0089_00003;3;;Clos du Champ Fleuri;01380;01343;Saint-Cyr-sur-Menthon;;;4.963024;46.271034
+01343_0425_00757;757;;Chemin En Romagne;01380;01343;Saint-Cyr-sur-Menthon;;;4.977219;46.283554
+01343_0210_00172;172;;Allée des Feuilles;01380;01343;Saint-Cyr-sur-Menthon;;;4.96074;46.28359
+01343_0353_00029;29;;Allée du Pelou;01380;01343;Saint-Cyr-sur-Menthon;;;4.955666;46.272114
+01343_0355_00048;48;;Allée Perrin;01380;01343;Saint-Cyr-sur-Menthon;;;4.969876;46.270673
+01343_0385_00096;96;;Allée de la Poype;01380;01343;Saint-Cyr-sur-Menthon;;;4.973879;46.277107
+01343_0325_00180;180;;Allée des Mirtanges;01380;01343;Saint-Cyr-sur-Menthon;;;4.970436;46.287876
+01343_0224_00448;448;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.958861;46.262359
+01343_0224_00731;731;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.95943;46.26103
+01343_0420_00067;67;;Allée des Rippes;01380;01343;Saint-Cyr-sur-Menthon;;;4.970959;46.254431
+01343_0238_00509;509;;Route des Guillemières;01380;01343;Saint-Cyr-sur-Menthon;;;4.941248;46.28547
+01343_0273_00386;386;;Route des Lévrières;01380;01343;Saint-Cyr-sur-Menthon;;;4.952155;46.26651
+01343_0290_00551;551;;Route des Lys;01380;01343;Saint-Cyr-sur-Menthon;;;4.959512;46.269441
+01343_0150_00568;568;;Route des Coudes;01380;01343;Saint-Cyr-sur-Menthon;;;4.963613;46.263696
+01343_0285_00106;106;;Chemin des Louvieres;01380;01343;Saint-Cyr-sur-Menthon;;;4.986223;46.287906
+01343_0300_00105;105;;Allée de la Manche;01380;01343;Saint-Cyr-sur-Menthon;;;4.973149;46.285725
+01343_0309_01346;1346;;Route de Marillat;01380;01343;Saint-Cyr-sur-Menthon;;;4.96488;46.25338
+01343_0089_00001;1;;Clos du Champ Fleuri;01380;01343;Saint-Cyr-sur-Menthon;;;4.962479;46.271133
+01343_0365_00075;75;;Allée de la Pierrière;01380;01343;Saint-Cyr-sur-Menthon;;;4.967916;46.274568
+01343_0450_00004;4;;Allée de la Sémaria;01380;01343;Saint-Cyr-sur-Menthon;;;4.97651;46.278711
+01343_0023_00074;74;;Route de Bécalet;01380;01343;Saint-Cyr-sur-Menthon;;;4.972104;46.27703
+01343_0023_00131;131;;Route de Bécalet;01380;01343;Saint-Cyr-sur-Menthon;;;4.971642;46.277611
+01343_0525_00084;84;;Clos du Village;01380;01343;Saint-Cyr-sur-Menthon;;;4.971223;46.274394
+01343_0224_00186;186;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.955477;46.263276
+01343_0224_00289;289;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.957033;46.263477
+01343_0224_00469;469;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.959366;46.262807
+01343_0224_00863;863;;Route des Gambys;01380;01343;Saint-Cyr-sur-Menthon;;;4.960709;46.260208
+01343_0465_00015;15;;Rue du Stade;01380;01343;Saint-Cyr-sur-Menthon;;;4.972359;46.274845
+01343_0480_00021;21;;Chemin Terre de Vent;01380;01343;Saint-Cyr-sur-Menthon;;;4.98353;46.284955
+01343_0438_00042;42;;Place Saint Cyr;01380;01343;Saint-Cyr-sur-Menthon;;;4.971889;46.275755
+01343_0400_00015;15;;Chemin des Preles;01380;01343;Saint-Cyr-sur-Menthon;;;4.951538;46.270525
+01343_0311_00029;29;;Chemin Mayer;01380;01343;Saint-Cyr-sur-Menthon;;;4.955318;46.273995
+01343_0447_00987;987;;Chemin des Seiglieres;01380;01343;Saint-Cyr-sur-Menthon;;;4.986729;46.282489
+01343_0350_00479;479;;Chemin du Pavillon;01380;01343;Saint-Cyr-sur-Menthon;;;4.951198;46.289236
+01343_0517_00371;371;;Allee du Vierre;01380;01343;Saint-Cyr-sur-Menthon;;;4.993294;46.273815
+01343_0266_00050;50;;Sentier de la Lechere;01380;01343;Saint-Cyr-sur-Menthon;;;4.979943;46.267632
+01343_0245_00330;330;;Route de l'Isle;01380;01343;Saint-Cyr-sur-Menthon;;;4.987618;46.273581
+01343_0353_00090;90;;Allée du Pelou;01380;01343;Saint-Cyr-sur-Menthon;;;4.954767;46.271542
+01343_0473_00366;366;;Route de Teppe Nayet;01380;01343;Saint-Cyr-sur-Menthon;;;4.947561;46.265238
+01343_0191_00050;50;;Place de l’Eglise;01380;01343;Saint-Cyr-sur-Menthon;;;4.972622;46.274124
+01343_0200_00058;58;;Allee des Essards;01380;01343;Saint-Cyr-sur-Menthon;;;4.971952;46.279393
+01343_0375_00360;360;;Route de la Platiére;01380;01343;Saint-Cyr-sur-Menthon;;;4.961846;46.265264
+01343_0311_00025;25;;Chemin Mayer;01380;01343;Saint-Cyr-sur-Menthon;;;4.954887;46.273742
+01343_0366_00069;69;;Allée de la Pilleuse;01380;01343;Saint-Cyr-sur-Menthon;;;4.987143;46.286329
+01343_0447_00911;911;;Chemin des Seiglieres;01380;01343;Saint-Cyr-sur-Menthon;;;4.987145;46.281842
+01343_0417_00296;296;;Route des Ripettes;01380;01343;Saint-Cyr-sur-Menthon;;;4.94712;46.278881
+01343_0473_00434;434;;Route de Teppe Nayet;01380;01343;Saint-Cyr-sur-Menthon;;;4.948199;46.265494
+01343_0368_00160;160;;Allee En Piquerand;01380;01343;Saint-Cyr-sur-Menthon;;;4.97149;46.281639
+01343_0425_00699;699;;Chemin En Romagne;01380;01343;Saint-Cyr-sur-Menthon;;;4.976448;46.283603
+01343_0460_00092;92;;Route du Sorbier;01380;01343;Saint-Cyr-sur-Menthon;;;4.958688;46.265154
+01343_0245_00519;519;;Route de l'Isle;01380;01343;Saint-Cyr-sur-Menthon;;;4.988874;46.274357
+01343_0450_00038;38;;Allée de la Sémaria;01380;01343;Saint-Cyr-sur-Menthon;;;4.975421;46.278661

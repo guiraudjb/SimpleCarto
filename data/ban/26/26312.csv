@@ -1,0 +1,645 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+26312_0055_00077;77;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805533;44.595236
+26312_0044_00195;195;;Rue du Plein Sud;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803503;44.600706
+26312_0067_00885;885;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798808;44.602388
+26312_0055_00179;179;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805972;44.594283
+26312_0004_00280;280;;Chemin des Boeufs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.811382;44.597668
+26312_0004_00237;237;;Chemin des Boeufs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810871;44.597554
+26312_0010_00030;30;;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805626;44.593345
+26312_0062_00011;11;;Impasse des Jardins;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804511;44.595665
+26312_0048_00620;620;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809292;44.605594
+26312_0061_00255;255;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.79864;44.606238
+26312_0034_00014;14;;Rue des Métairies;26740;26312;Saint-Marcel-lès-Sauzet;;;4.81301;44.602473
+26312_0067_00660;660;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.800674;44.600854
+26312_0052_00010;10;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810185;44.600754
+26312_0023_00060;60;;Rue de la Feria;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806072;44.593025
+26312_0004_00050;50;;Chemin des Boeufs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808781;44.597324
+26312_0011_00040;40;;Chemin du Château;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808734;44.600973
+26312_0021_00009;9;;Rue de l’Eglise;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805915;44.596166
+26312_0041_00380;380;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.802975;44.601228
+26312_0010_00320;320;;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804496;44.590929
+26312_0053_00240;240;;Rue des Sources;26740;26312;Saint-Marcel-lès-Sauzet;;;4.81088;44.602288
+26312_0030_00057;57;;Place de la Mairie;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805382;44.595865
+26312_0083_00120;120;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.802178;44.600648
+26312_0036_00122;122;;Chemin de Milune;26740;26312;Saint-Marcel-lès-Sauzet;;;4.796722;44.60739
+26312_0041_00215;215;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803128;44.601272
+26312_0041_00230;230;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.801421;44.601935
+26312_0061_00085;85;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797401;44.605247
+26312_0067_00050;50;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805539;44.596702
+26312_0076_00375;375;;Chemin de Laulagnier;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808246;44.610036
+26312_0002_00345;345;;Route des Andrans;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808904;44.598365
+26312_0042_00011_a;11;a;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806472;44.600485
+26312_0061_00385;385;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797909;44.607346
+26312_0067_00005;5;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805682;44.596345
+26312_0023_00045;45;;Rue de la Feria;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806028;44.593286
+26312_0035_00002;2;;Rue des Micocouliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804502;44.597878
+26312_0032_00235;235;;Chemin du Merdary;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80303;44.592186
+26312_0013_00013;13;;Rue du Clos Fleuri;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804221;44.594242
+26312_0044_00165;165;;Rue du Plein Sud;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803758;44.60056
+26312_0037_00019;19;;Rue des Moines;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806064;44.595944
+26312_0070_00025;25;;Impasse Jeanne Constant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805329;44.59713
+26312_0017_00515;515;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.800629;44.606732
+26312_xbnc4u_00110;110;;Mont C Vaisseau de Maisonneuve;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805466;44.598061
+26312_0057_00012;12;;Rue du Vieux Moulin;26740;26312;Saint-Marcel-lès-Sauzet;;;4.8056;44.595355
+26312_0047_00037;37;;Impasse des Rossignols;26740;26312;Saint-Marcel-lès-Sauzet;;;4.8073;44.59969
+26312_0032_00335;335;;Chemin du Merdary;26740;26312;Saint-Marcel-lès-Sauzet;;;4.802935;44.591371
+26312_0082_00050;50;;Rue des Ramières;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803612;44.592787
+26312_0040_00125;125;;Rue des Muriers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804551;44.594864
+26312_0021_00032;32;;Rue de l’Eglise;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805776;44.596006
+26312_0036_00120;120;;Chemin de Milune;26740;26312;Saint-Marcel-lès-Sauzet;;;4.796739;44.607378
+26312_0034_00002_bis;2;bis;Rue des Métairies;26740;26312;Saint-Marcel-lès-Sauzet;;;4.813238;44.602099
+26312_0068_00235;235;;Chemin de Lavalenche;26740;26312;Saint-Marcel-lès-Sauzet;;;4.81113;44.60596
+26312_0078_00010;10;;Allee des Cerisiers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.813883;44.604926
+26312_0015_00010;10;;Chemin du Collet;26740;26312;Saint-Marcel-lès-Sauzet;;;4.801965;44.612116
+26312_xbnc4u_00135;135;;Mont C Vaisseau de Maisonneuve;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805577;44.59833
+26312_0037_00039;39;;Rue des Moines;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806242;44.595986
+26312_0035_00011;11;;Rue des Micocouliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804786;44.598098
+26312_0030_00009;9;;Place de la Mairie;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805606;44.596081
+26312_0067_00605;605;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80091;44.600391
+26312_0005_00120;120;;Chemin des Bois;26740;26312;Saint-Marcel-lès-Sauzet;;;4.802771;44.602236
+26312_0005_00115;115;;Chemin des Bois;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803149;44.601228
+26312_0034_00005;5;;Rue des Métairies;26740;26312;Saint-Marcel-lès-Sauzet;;;4.813236;44.601387
+26312_0082_00100;100;;Rue des Ramières;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803988;44.592656
+26312_0039_00060;60;;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805113;44.596044
+26312_0008_00052;52;;Rue du Chareyron;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80563;44.595179
+26312_0002_00034;34;;Route des Andrans;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806238;44.596337
+26312_0067_00700;700;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80043;44.601144
+26312_0013_00009;9;;Rue du Clos Fleuri;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803956;44.593787
+26312_0004_00135;135;;Chemin des Boeufs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809885;44.597464
+26312_0034_00004;4;;Rue des Métairies;26740;26312;Saint-Marcel-lès-Sauzet;;;4.813201;44.601671
+26312_0055_00012;12;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805219;44.595725
+26312_0010_00180;180;;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805057;44.592127
+26312_0055_00006;6;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805226;44.595752
+26312_0019_00002;2;;Place des Ecoles;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807843;44.597035
+26312_0061_00035;35;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797153;44.604832
+26312_0035_00012;12;;Rue des Micocouliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804701;44.598004
+26312_0033_00029;29;;Impasse des Mesanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807128;44.60011
+26312_0071_00410;410;;Impasse Plegnieux;26740;26312;Saint-Marcel-lès-Sauzet;;;4.796553;44.609269
+26312_0070_00100;100;;Impasse Jeanne Constant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806163;44.597441
+26312_0047_00038;38;;Impasse des Rossignols;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807442;44.59977
+26312_0058_00014;14;;Rue du Vieux Canal;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804528;44.594714
+26312_0043_00008;8;;Impasse des Papillons;26740;26312;Saint-Marcel-lès-Sauzet;;;4.81012;44.600432
+26312_0048_00460;460;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808879;44.604164
+26312_0083_00100;100;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.802351;44.600448
+26312_0039_00097;97;;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804763;44.595814
+26312_0041_00265;265;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803127;44.601273
+26312_0041_00490_a;490;a;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.802975;44.601228
+26312_0031_00115;115;;Impasse du Merdary;26740;26312;Saint-Marcel-lès-Sauzet;;;4.801411;44.594892
+26312_0052_00025;25;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810731;44.601425
+26312_0048_00420;420;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808665;44.603835
+26312_0055_00029;29;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80531;44.595588
+26312_0083_00170;170;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.801754;44.600968
+26312_0082_00070;70;;Rue des Ramières;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803663;44.592664
+26312_0039_00330;330;;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.802402;44.594852
+26312_0034_00003;3;;Rue des Métairies;26740;26312;Saint-Marcel-lès-Sauzet;;;4.813249;44.601956
+26312_0013_00010;10;;Rue du Clos Fleuri;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803447;44.593759
+26312_0033_00021;21;;Impasse des Mesanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807877;44.599935
+26312_0034_00011;11;;Rue des Métairies;26740;26312;Saint-Marcel-lès-Sauzet;;;4.813133;44.601912
+26312_0052_00027;27;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810145;44.600843
+26312_0083_00040;40;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.801902;44.600034
+26312_0067_00080;80;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805331;44.596873
+26312_0083_00190;190;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.801554;44.601057
+26312_0072_00025;25;;Impasse du Serret;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807741;44.597414
+26312_0036_00096;96;;Chemin de Milune;26740;26312;Saint-Marcel-lès-Sauzet;;;4.796639;44.607114
+26312_0066_00053;53;;Impasse du Prieure;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806392;44.594662
+26312_0037_00033;33;;Rue des Moines;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806195;44.595975
+26312_0017_00875;875;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798767;44.608912
+26312_0052_00029;29;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809732;44.600532
+26312_0002_00050;50;;Route des Andrans;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806398;44.596379
+26312_0020_00038;38;;Place de l’Eglise;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805493;44.595643
+26312_0058_00009;9;;Rue du Vieux Canal;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80467;44.59473
+26312_0052_00018;18;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.811371;44.602279
+26312_0055_00115;115;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805733;44.594914
+26312_0048_00760;760;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808634;44.605616
+26312_0028_00056;56;;Rue du Lavoir;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804901;44.595038
+26312_0082_00025;25;;Rue des Ramières;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803549;44.593102
+26312_0067_00855;855;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.799053;44.602188
+26312_0042_00020;20;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808078;44.599943
+26312_0042_00004;4;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807001;44.60089
+26312_0004_00185;185;;Chemin des Boeufs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810301;44.597403
+26312_0052_00023;23;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810815;44.601529
+26312_0047_00039;39;;Impasse des Rossignols;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807621;44.599867
+26312_0036_00250;250;;Chemin de Milune;26740;26312;Saint-Marcel-lès-Sauzet;;;4.796028;44.608284
+26312_0031_00085;85;;Impasse du Merdary;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80174;44.594951
+26312_0048_00008;8;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805926;44.600858
+26312_0048_00215;215;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805878;44.600964
+26312_0031_00090;90;;Impasse du Merdary;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80169;44.595025
+26312_0061_00345;345;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798313;44.606931
+26312_0052_00016;16;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.811143;44.601846
+26312_0041_00117;117;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.800254;44.60257
+26312_0017_00110;110;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.799517;44.60345
+26312_0048_00009;9;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805806;44.600829
+26312_0055_00145;145;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805865;44.594696
+26312_0039_00115_a;115;a;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804654;44.595771
+26312_0013_00008;8;;Rue du Clos Fleuri;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804264;44.59384
+26312_0067_00440;440;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.802116;44.599199
+26312_0048_00380;380;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808359;44.603542
+26312_0075_00065;65;;Impasse des Violettes;26740;26312;Saint-Marcel-lès-Sauzet;;;4.796952;44.605888
+26312_0061_00365;365;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798182;44.607126
+26312_0017_00327;327;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.800394;44.604989
+26312_0067_00410;410;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.802349;44.599009
+26312_0071_00015;15;;Impasse Plegnieux;26740;26312;Saint-Marcel-lès-Sauzet;;;4.795557;44.612531
+26312_0067_01390;1390;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.795912;44.606261
+26312_0042_00012;12;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806641;44.600577
+26312_0042_00010;10;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808617;44.600764
+26312_0013_00014;14;;Rue du Clos Fleuri;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804547;44.594224
+26312_0031_00117;117;;Impasse du Merdary;26740;26312;Saint-Marcel-lès-Sauzet;;;4.801396;44.594889
+26312_0055_00062;62;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805375;44.595295
+26312_0061_00200;200;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798698;44.605834
+26312_0005_00015;15;;Chemin des Bois;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803171;44.601184
+26312_0033_00022;22;;Impasse des Mesanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807465;44.600191
+26312_0038_00145;145;;Impasse de la Montagne;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805794;44.60085
+26312_0066_00049;49;;Impasse du Prieure;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806359;44.594645
+26312_0083_00200;200;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.80142;44.601019
+26312_0017_00610;610;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.800536;44.607099
+26312_0083_00080;80;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.80227;44.600235
+26312_0048_00023;23;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805809;44.600839
+26312_0067_00915;915;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798552;44.6026
+26312_0062_00040;40;;Impasse des Jardins;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804802;44.595632
+26312_0048_00080;80;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806261;44.6014
+26312_0052_00017;17;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.811421;44.602206
+26312_0005_00145_b;145;b;Chemin des Bois;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803142;44.601242
+26312_0052_00028;28;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809834;44.600612
+26312_0082_00030;30;;Rue des Ramières;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803549;44.592946
+26312_0061_00185;185;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798345;44.605755
+26312_0008_00047;47;;Rue du Chareyron;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805717;44.595126
+26312_0010_00045;45;;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805709;44.593221
+26312_0010_00060;60;;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805447;44.592969
+26312_0072_00055;55;;Impasse du Serret;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807238;44.597715
+26312_0052_00034;34;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80933;44.599898
+26312_0044_00080_a;80;a;Rue du Plein Sud;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804903;44.600504
+26312_0055_00126;126;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805681;44.5948
+26312_0048_00230;230;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807062;44.602632
+26312_0077_00080;80;;Chemin des Cedres;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806037;44.611731
+26312_0010_00101_a;101;a;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80548;44.592782
+26312_0001_00055;55;;Impasse des Acacias;26740;26312;Saint-Marcel-lès-Sauzet;;;4.795864;44.607362
+26312_0048_00710;710;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808768;44.605871
+26312_0041_00375;375;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803239;44.601233
+26312_0041_00072;72;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.799906;44.602594
+26312_0073_00155;155;;Impasse Valbert Manson;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807265;44.598719
+26312_0034_00009;9;;Rue des Métairies;26740;26312;Saint-Marcel-lès-Sauzet;;;4.813094;44.601475
+26312_0013_00001;1;;Rue du Clos Fleuri;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80574;44.593995
+26312_0023_00085;85;;Rue de la Feria;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80623;44.593025
+26312_0073_00060;60;;Impasse Valbert Manson;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807955;44.598362
+26312_0036_00040;40;;Chemin de Milune;26740;26312;Saint-Marcel-lès-Sauzet;;;4.796122;44.606798
+26312_0035_00008;8;;Rue des Micocouliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804667;44.598359
+26312_0052_00019;19;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.811264;44.602229
+26312_0083_00310;310;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.801521;44.600258
+26312_0020_00060;60;;Place de l’Eglise;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805536;44.59549
+26312_0027_00021;21;;Impasse des Grillons;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810817;44.601863
+26312_0081_00045;45;;Impasse des Lauriers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798394;44.607649
+26312_0001_00070;70;;Impasse des Acacias;26740;26312;Saint-Marcel-lès-Sauzet;;;4.7959;44.607525
+26312_0052_00005;5;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809716;44.600404
+26312_0021_00001;1;;Rue de l’Eglise;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805895;44.596207
+26312_0083_00160;160;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.801791;44.600928
+26312_0002_00265;265;;Route des Andrans;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808226;44.597775
+26312_0048_00028;28;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806013;44.60098
+26312_0055_00023;23;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805315;44.595629
+26312_0017_00130;130;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.799602;44.603536
+26312_0015_00012;12;;Chemin du Collet;26740;26312;Saint-Marcel-lès-Sauzet;;;4.802926;44.61239
+26312_0001_00040;40;;Impasse des Acacias;26740;26312;Saint-Marcel-lès-Sauzet;;;4.796016;44.607294
+26312_0017_00170;170;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.799863;44.603884
+26312_0070_00060;60;;Impasse Jeanne Constant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805825;44.597183
+26312_0035_00007;7;;Rue des Micocouliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80399;44.598375
+26312_0014_00039;39;;Impasse des Coccinelles;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808654;44.600141
+26312_0003_00125;125;;Rue des Biches;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806976;44.603767
+26312_0048_00024;24;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805991;44.600947
+26312_0042_00011;11;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806341;44.600423
+26312_0042_00015;15;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807655;44.601125
+26312_0047_00034;34;;Impasse des Rossignols;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806687;44.599355
+26312_0083_00135;135;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.801915;44.600709
+26312_0019_00001;1;;Place des Ecoles;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807889;44.596676
+26312_0065_00035;35;;Impasse des Cerfs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806482;44.603167
+26312_0001_00240;240;;Impasse des Acacias;26740;26312;Saint-Marcel-lès-Sauzet;;;4.79509;44.608797
+26312_0039_00247;247;;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80308;44.595188
+26312_0048_00170;170;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806722;44.602147
+26312_0052_00014;14;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810884;44.601457
+26312_0034_00001;1;;Rue des Métairies;26740;26312;Saint-Marcel-lès-Sauzet;;;4.813121;44.602482
+26312_0042_00003;3;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80673;44.600733
+26312_0035_00003;3;;Rue des Micocouliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804466;44.597911
+26312_0070_00115;115;;Impasse Jeanne Constant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805932;44.597464
+26312_0033_00023;23;;Impasse des Mesanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.8078;44.600526
+26312_0017_00615;615;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80051;44.607218
+26312_0020_00020;20;;Place de l’Eglise;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805544;44.595733
+26312_0052_00011;11;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810444;44.600958
+26312_0002_00355;355;;Route des Andrans;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808971;44.598424
+26312_0078_00012;12;;Allee des Cerisiers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.813716;44.6049
+26312_0017_00100;100;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.799449;44.603381
+26312_0055_00084;84;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805479;44.595127
+26312_0039_00170;170;;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803894;44.595563
+26312_0035_00010;10;;Rue des Micocouliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804859;44.598196
+26312_0055_00195;195;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805958;44.594171
+26312_0004_00060;60;;Chemin des Boeufs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808892;44.597315
+26312_0005_00210;210;;Chemin des Bois;26740;26312;Saint-Marcel-lès-Sauzet;;;4.802399;44.60298
+26312_0059_00920;920;;Chemin de Vinasque;26740;26312;Saint-Marcel-lès-Sauzet;;;4.814964;44.595972
+26312_0004_00110;110;;Chemin des Boeufs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809468;44.597408
+26312_0061_00095;95;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797461;44.605322
+26312_0055_00063;63;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805513;44.59528
+26312_0048_00375;375;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806942;44.602651
+26312_0017_00140;140;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.79963;44.603566
+26312_0010_00190;190;;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805014;44.592041
+26312_0055_00207;207;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805945;44.594092
+26312_0083_00260;260;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.801191;44.600677
+26312_0052_00013;13;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810856;44.601422
+26312_0048_00011;11;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805806;44.600831
+26312_0042_00005;5;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807235;44.601036
+26312_0048_00075;75;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805824;44.600874
+26312_0044_00080_b;80;b;Rue du Plein Sud;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804638;44.600578
+26312_0021_00040;40;;Rue de l’Eglise;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805781;44.595953
+26312_0059_00535;535;;Chemin de Vinasque;26740;26312;Saint-Marcel-lès-Sauzet;;;4.811018;44.594283
+26312_0061_00440;440;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797581;44.607615
+26312_0082_00170;170;;Rue des Ramières;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804746;44.592857
+26312_0001_00290;290;;Impasse des Acacias;26740;26312;Saint-Marcel-lès-Sauzet;;;4.794905;44.609068
+26312_0003_00205;205;;Rue des Biches;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807243;44.604403
+26312_0042_00018;18;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808527;44.600638
+26312_0034_00010;10;;Rue des Métairies;26740;26312;Saint-Marcel-lès-Sauzet;;;4.813089;44.601684
+26312_0057_00040;40;;Rue du Vieux Moulin;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805787;44.595379
+26312_0020_00032;32;;Place de l’Eglise;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805487;44.595684
+26312_0061_00435;435;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797487;44.607562
+26312_0076_00365;365;;Chemin de Laulagnier;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808155;44.609992
+26312_0010_00345;345;;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804426;44.590649
+26312_0048_00130;130;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806523;44.601815
+26312_0061_00350;350;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798402;44.607003
+26312_0067_00662;662;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.800662;44.60087
+26312_0034_00008;8;;Rue des Métairies;26740;26312;Saint-Marcel-lès-Sauzet;;;4.813182;44.601276
+26312_0026_00016;16;;Impasse des Lavandieres;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805035;44.595553
+26312_0035_00004;4;;Rue des Micocouliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804082;44.598165
+26312_0083_00030;30;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.801859;44.600015
+26312_0061_00090;90;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797501;44.605213
+26312_0004_00285;285;;Chemin des Boeufs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.811389;44.597765
+26312_0048_00475;475;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806956;44.602665
+26312_0055_00095;95;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805646;44.595055
+26312_0010_00255;255;;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804803;44.591333
+26312_0010_00055;55;;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805615;44.593079
+26312_0055_00245;245;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805884;44.593745
+26312_0059_00055;55;;Chemin de Vinasque;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805824;44.592417
+26312_0042_00040;40;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808477;44.599521
+26312_0052_00003;3;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809418;44.599805
+26312_0039_00050;50;;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80523;44.596091
+26312_0065_00060;60;;Impasse des Cerfs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806575;44.603233
+26312_0039_00115_d;115;d;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804616;44.595756
+26312_0035_00005;5;;Rue des Micocouliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803645;44.597991
+26312_0067_00490_c;490;c;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.801696;44.599551
+26312_0041_00255;255;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803156;44.601263
+26312_0048_00029;29;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805811;44.600843
+26312_0004_00195;195;;Chemin des Boeufs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810396;44.597418
+26312_0004_00187;187;;Chemin des Boeufs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.81032;44.597405
+26312_0010_00105_a;105;a;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805466;44.592752
+26312_0037_00005;5;;Rue des Moines;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805975;44.595922
+26312_0017_00190;190;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.800008;44.604022
+26312_0082_00090;90;;Rue des Ramières;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803921;44.592653
+26312_0005_00050;50;;Chemin des Bois;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803085;44.601663
+26312_0048_00017;17;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805808;44.600835
+26312_0028_00022;22;;Rue du Lavoir;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805075;44.595261
+26312_0067_00060;60;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805471;44.596761
+26312_0083_00305_a;305;a;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.801637;44.600296
+26312_0070_00110;110;;Impasse Jeanne Constant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806059;44.597495
+26312_0041_00125;125;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80034;44.602537
+26312_0048_00015;15;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805807;44.600833
+26312_0048_00012;12;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80593;44.600845
+26312_0030_00023;23;;Place de la Mairie;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805364;44.595828
+26312_0083_00130;130;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.80212;44.600689
+26312_0062_00030;30;;Impasse des Jardins;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804645;44.595634
+26312_0039_00160;160;;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803999;44.595605
+26312_0014_00037;37;;Impasse des Coccinelles;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808782;44.600298
+26312_0072_00030;30;;Impasse du Serret;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807631;44.597649
+26312_0044_00130;130;;Rue du Plein Sud;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804356;44.600607
+26312_0042_00006;6;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80755;44.601186
+26312_0013_00004;4;;Rue du Clos Fleuri;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804882;44.593876
+26312_0082_00055;55;;Rue des Ramières;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803859;44.593032
+26312_0068_00130;130;;Chemin de Lavalenche;26740;26312;Saint-Marcel-lès-Sauzet;;;4.812473;44.605892
+26312_0042_00002;2;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80646;44.600578
+26312_0005_00220;220;;Chemin des Bois;26740;26312;Saint-Marcel-lès-Sauzet;;;4.802371;44.603066
+26312_0048_00340;340;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807915;44.603357
+26312_0041_00252;252;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.801643;44.601823
+26312_0047_00033;33;;Impasse des Rossignols;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806621;44.59942
+26312_0028_00049;49;;Rue du Lavoir;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805021;44.595022
+26312_0008_00035;35;;Rue du Chareyron;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80582;44.595169
+26312_0047_00032;32;;Impasse des Rossignols;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806938;44.599588
+26312_0026_00025;25;;Impasse des Lavandieres;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805034;44.595459
+26312_0039_00115_b;115;b;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804642;44.595766
+26312_0080_00050;50;;Impasse des Bleuets;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798117;44.605188
+26312_0013_00003;3;;Rue du Clos Fleuri;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805261;44.593936
+26312_0017_00350;350;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.800585;44.604961
+26312_0044_00135;135;;Rue du Plein Sud;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804124;44.600533
+26312_0020_00078;78;;Place de l’Eglise;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805717;44.595514
+26312_0004_00235;235;;Chemin des Boeufs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810849;44.597548
+26312_0048_00026;26;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806001;44.600964
+26312_0030_00049;49;;Place de la Mairie;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805408;44.595901
+26312_0001_00250;250;;Impasse des Acacias;26740;26312;Saint-Marcel-lès-Sauzet;;;4.795067;44.608878
+26312_0048_00013;13;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805807;44.600832
+26312_0020_00010;10;;Place de l’Eglise;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805648;44.595745
+26312_0055_00083;83;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805546;44.595214
+26312_0003_00220;220;;Rue des Biches;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807401;44.604488
+26312_0076_00395;395;;Chemin de Laulagnier;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808367;44.610445
+26312_0067_00490_a;490;a;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.801702;44.599545
+26312_0021_00004;4;;Rue de l’Eglise;26740;26312;Saint-Marcel-lès-Sauzet;;;4.8058;44.596159
+26312_0030_00009_a;9;a;Place de la Mairie;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805462;44.595959
+26312_0008_00014;14;;Rue du Chareyron;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806039;44.595361
+26312_0017_00150;150;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.799737;44.603705
+26312_0079_00050;50;;Impasse des Lavandes;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797583;44.604477
+26312_0065_00055;55;;Impasse des Cerfs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.8063;44.603207
+26312_0073_00135;135;;Impasse Valbert Manson;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807164;44.598754
+26312_0067_00492;492;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80169;44.599557
+26312_0048_00765;765;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806985;44.602694
+26312_0061_00075;75;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797352;44.605163
+26312_0051_00165;165;;Rue du Soleil Couchant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.799431;44.602614
+26312_0083_00145;145;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.801871;44.600744
+26312_0042_00008;8;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808223;44.601155
+26312_0012_00032;32;;Impasse des Cigales;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809478;44.600491
+26312_0004_00200;200;;Chemin des Boeufs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810501;44.597359
+26312_0013_00017;17;;Rue du Clos Fleuri;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805433;44.59429
+26312_0071_00019;19;;Impasse Plegnieux;26740;26312;Saint-Marcel-lès-Sauzet;;;4.795551;44.612496
+26312_0014_00036;36;;Impasse des Coccinelles;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808837;44.600207
+26312_0052_00026;26;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810473;44.601116
+26312_0052_00004;4;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809428;44.599844
+26312_0067_00006;6;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805783;44.59638
+26312_0058_00046;46;;Rue du Vieux Canal;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80424;44.594548
+26312_0003_00060;60;;Rue des Biches;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806974;44.603146
+26312_xbnc4u_00180;180;;Mont C Vaisseau de Maisonneuve;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805729;44.598647
+26312_0004_00115;115;;Chemin des Boeufs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809479;44.597495
+26312_0042_00014;14;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807296;44.600968
+26312_0026_00017;17;;Impasse des Lavandieres;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805077;44.595478
+26312_0001_00150;150;;Impasse des Acacias;26740;26312;Saint-Marcel-lès-Sauzet;;;4.795586;44.608149
+26312_0012_00031;31;;Impasse des Cigales;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809478;44.600491
+26312_0017_00520;520;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.800824;44.6063
+26312_0048_00500;500;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809016;44.604491
+26312_0047_00030;30;;Impasse des Rossignols;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807517;44.599911
+26312_0014_00042;42;;Impasse des Coccinelles;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808841;44.599812
+26312_0013_00006;6;;Rue du Clos Fleuri;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80453;44.594003
+26312_0083_00230;230;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.801211;44.600901
+26312_0044_00085;85;;Rue du Plein Sud;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804712;44.600477
+26312_0072_00130;130;;Impasse du Serret;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806362;44.598389
+26312_0010_00380;380;;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804108;44.590481
+26312_0010_00107_a;107;a;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80546;44.592737
+26312_0041_00195;195;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.801057;44.602197
+26312_0067_01765;1765;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.794666;44.609452
+26312_0039_00110;110;;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804565;44.595826
+26312_0010_00040;40;;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805557;44.593212
+26312_0017_00325;325;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80037;44.604982
+26312_0059_00115;115;;Chemin de Vinasque;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806331;44.592688
+26312_0031_00200;200;;Impasse du Merdary;26740;26312;Saint-Marcel-lès-Sauzet;;;4.801696;44.595026
+26312_0008_00029;29;;Rue du Chareyron;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80587;44.595193
+26312_0004_00320;320;;Chemin des Boeufs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.811849;44.597794
+26312_0039_00115_c;115;c;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804629;44.595761
+26312_0003_00230;230;;Rue des Biches;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807401;44.604488
+26312_0010_00150;150;;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805173;44.59236
+26312_0041_00250;250;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.801623;44.601834
+26312_0081_00085;85;;Impasse des Lauriers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.79852;44.607857
+26312_0067_00490;490;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.801705;44.599542
+26312_0072_00090;90;;Impasse du Serret;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806993;44.597981
+26312_0015_00020;20;;Chemin du Collet;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80398;44.612603
+26312_0042_00017;17;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808398;44.600924
+26312_0013_00018;18;;Rue du Clos Fleuri;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805759;44.594265
+26312_0039_00115;115;;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804667;44.595776
+26312_0020_00064;64;;Place de l’Eglise;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805577;44.595495
+26312_0017_00575;575;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.800438;44.606912
+26312_0075_00020;20;;Impasse des Violettes;26740;26312;Saint-Marcel-lès-Sauzet;;;4.79646;44.605629
+26312_0038_00005_c;5;c;Impasse de la Montagne;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805845;44.60086
+26312_0005_00105;105;;Chemin des Bois;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803151;44.601224
+26312_0071_00017;17;;Impasse Plegnieux;26740;26312;Saint-Marcel-lès-Sauzet;;;4.79558;44.612653
+26312_0032_00205;205;;Chemin du Merdary;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803142;44.592402
+26312_0061_00390;390;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798391;44.607022
+26312_0029_00024_a;24;a;Impasse des Lucioles;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810671;44.601541
+26312_0010_00102_a;102;a;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805334;44.592718
+26312_0047_00031;31;;Impasse des Rossignols;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807249;44.599763
+26312_0061_00340;340;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798423;44.606948
+26312_0013_00007;7;;Rue du Clos Fleuri;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804658;44.593848
+26312_0052_00001;1;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809161;44.599331
+26312_0066_00068;68;;Impasse du Prieure;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806772;44.594729
+26312_0043_00007;7;;Impasse des Papillons;26740;26312;Saint-Marcel-lès-Sauzet;;;4.81005;44.600369
+26312_0017_00160;160;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.79978;44.603741
+26312_0070_00090;90;;Impasse Jeanne Constant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806108;44.597378
+26312_0035_00013;13;;Rue des Micocouliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804615;44.597911
+26312_0083_00070;70;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.802235;44.600214
+26312_0061_00160;160;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798232;44.605639
+26312_0071_00275;275;;Impasse Plegnieux;26740;26312;Saint-Marcel-lès-Sauzet;;;4.795734;44.61037
+26312_0045_00205;205;;Chemin de Pras Magnat;26740;26312;Saint-Marcel-lès-Sauzet;;;4.814187;44.599499
+26312_0041_00115;115;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.800231;44.602579
+26312_0083_00240;240;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.801143;44.600827
+26312_0061_00030;30;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797117;44.604713
+26312_0051_00105;105;;Rue du Soleil Couchant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.799869;44.602258
+26312_0055_00056;56;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805375;44.595295
+26312_0048_00155;155;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805853;44.600926
+26312_0013_00005;5;;Rue du Clos Fleuri;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805035;44.594024
+26312_0032_00395;395;;Chemin du Merdary;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803125;44.590872
+26312_0061_00070;70;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797426;44.605077
+26312_0010_00106_a;106;a;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805321;44.592688
+26312_0075_00050;50;;Impasse des Violettes;26740;26312;Saint-Marcel-lès-Sauzet;;;4.796869;44.605757
+26312_0039_00090;90;;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804883;44.595954
+26312_0048_00014;14;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805938;44.600865
+26312_0048_00010;10;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805921;44.600826
+26312_0017_00550;550;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.800849;44.606648
+26312_0055_00069;69;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805521;44.59526
+26312_0073_00120;120;;Impasse Valbert Manson;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807636;44.598552
+26312_0039_00080;80;;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803927;44.595514
+26312_0053_00050;50;;Rue des Sources;26740;26312;Saint-Marcel-lès-Sauzet;;;4.813033;44.602596
+26312_0061_00320;320;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798432;44.606777
+26312_0048_00330;330;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807793;44.603333
+26312_0083_00305_b;305;b;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.802221;44.600462
+26312_0040_00009;9;;Rue des Muriers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80361;44.595317
+26312_0083_00210;210;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.801373;44.600997
+26312_0061_00145;145;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797911;44.605623
+26312_0002_00020;20;;Route des Andrans;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806102;44.596303
+26312_0020_00058;58;;Place de l’Eglise;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805517;44.595487
+26312_0032_00265;265;;Chemin du Merdary;26740;26312;Saint-Marcel-lès-Sauzet;;;4.802908;44.591956
+26312_0048_00580;580;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80913;44.605245
+26312_0014_00040;40;;Impasse des Coccinelles;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808543;44.599975
+26312_0010_00020;20;;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805679;44.59348
+26312_0076_00345;345;;Chemin de Laulagnier;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808543;44.609742
+26312_0053_00155;155;;Rue des Sources;26740;26312;Saint-Marcel-lès-Sauzet;;;4.81198;44.60236
+26312_0002_00165;165;;Route des Andrans;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807498;44.597129
+26312_0055_00173;173;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80597;44.594322
+26312_0002_00145;145;;Route des Andrans;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807334;44.596992
+26312_0081_00050;50;;Impasse des Lauriers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798544;44.607641
+26312_0058_00021;21;;Rue du Vieux Canal;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804468;44.594569
+26312_0061_00155;155;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798017;44.605662
+26312_0036_00090;90;;Chemin de Milune;26740;26312;Saint-Marcel-lès-Sauzet;;;4.796579;44.607079
+26312_0004_00180;180;;Chemin des Boeufs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810252;44.597315
+26312_0048_00016;16;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805948;44.600881
+26312_0051_00175;175;;Rue du Soleil Couchant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.799366;44.602674
+26312_0076_00355;355;;Chemin de Laulagnier;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808344;44.609826
+26312_0032_00365;365;;Chemin du Merdary;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80303;44.591122
+26312_0048_00740;740;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808634;44.605616
+26312_0061_00190;190;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798616;44.60577
+26312_0010_00300;300;;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804575;44.591099
+26312_0042_00007;7;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807891;44.60122
+26312_0010_00082_a;82;a;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805262;44.5927
+26312_0055_00098;98;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805546;44.595019
+26312_0041_00350;350;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.802634;44.601323
+26312_0075_00060;60;;Impasse des Violettes;26740;26312;Saint-Marcel-lès-Sauzet;;;4.796972;44.605803
+26312_xbnc4u_00120;120;;Mont C Vaisseau de Maisonneuve;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805542;44.598138
+26312_0004_00080;80;;Chemin des Boeufs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809129;44.597338
+26312_0056_00080;80;;Impasse des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80679;44.594154
+26312_0052_00033;33;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809419;44.60015
+26312_0042_00009;9;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808475;44.600988
+26312_0048_00530;530;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809002;44.60481
+26312_0044_00015;15;;Rue du Plein Sud;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805453;44.600202
+26312_0014_00035;35;;Impasse des Coccinelles;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808846;44.600011
+26312_0036_00092;92;;Chemin de Milune;26740;26312;Saint-Marcel-lès-Sauzet;;;4.796598;44.60709
+26312_0048_00685;685;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806985;44.602694
+26312_0038_00080;80;;Impasse de la Montagne;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805615;44.60157
+26312_0055_00125;125;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805778;44.594843
+26312_0082_00150;150;;Rue des Ramières;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804406;44.592872
+26312_0042_00041;41;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808477;44.599521
+26312_0083_00270;270;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.801222;44.600637
+26312_0017_00487;487;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.800696;44.606265
+26312_0033_00027;27;;Impasse des Mesanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807306;44.600189
+26312_0042_00019;19;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808519;44.600598
+26312_0044_00145;145;;Rue du Plein Sud;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804004;44.600541
+26312_0070_00075;75;;Impasse Jeanne Constant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805786;44.597268
+26312_0039_00140;140;;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804227;44.595694
+26312_0021_00007;7;;Rue de l’Eglise;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805914;44.596171
+26312_0038_00005_b;5;b;Impasse de la Montagne;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805787;44.60089
+26312_0048_00190;190;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806822;44.602312
+26312_0005_00145_a;145;a;Chemin des Bois;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803142;44.601242
+26312_0041_00217;217;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80313;44.601272
+26312_0034_00006;6;;Rue des Métairies;26740;26312;Saint-Marcel-lès-Sauzet;;;4.813438;44.601139
+26312_0082_00110;110;;Rue des Ramières;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803996;44.592684
+26312_0082_00120;120;;Rue des Ramières;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804043;44.59291
+26312_0063_00019;19;;Impasse des Muriers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80392;44.595264
+26312_0003_00165;165;;Rue des Biches;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807102;44.60409
+26312_0048_00260;260;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807263;44.602875
+26312_0014_00041;41;;Impasse des Coccinelles;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808659;44.599814
+26312_0067_00475;475;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.801697;44.599416
+26312_0044_00225;225;;Rue du Plein Sud;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803434;44.600962
+26312_0048_00031;31;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805812;44.600844
+26312_0061_00022;22;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797187;44.604746
+26312_0001_00145;145;;Impasse des Acacias;26740;26312;Saint-Marcel-lès-Sauzet;;;4.795499;44.60809
+26312_0028_00012;12;;Rue du Lavoir;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805139;44.595319
+26312_0038_00082;82;;Impasse de la Montagne;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805608;44.601584
+26312_0048_00425;425;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806949;44.602658
+26312_0041_00300;300;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.802108;44.60156
+26312_0017_00522;522;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.800901;44.606421
+26312_0010_00104_a;104;a;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805327;44.592703
+26312_0052_00043;43;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809295;44.599779
+26312_0003_00150;150;;Rue des Biches;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807139;44.603908
+26312_0035_00001;1;;Rue des Micocouliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804852;44.597627
+26312_0041_00127;127;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.800359;44.602529
+26312_0028_00043;43;;Rue du Lavoir;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805048;44.595062
+26312_0055_00030;30;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805225;44.595482
+26312_0036_00310;310;;Chemin de Milune;26740;26312;Saint-Marcel-lès-Sauzet;;;4.7958;44.608739
+26312_0051_00075;75;;Rue du Soleil Couchant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.800086;44.602072
+26312_0039_00245;245;;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803105;44.595195
+26312_0061_00352;352;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798371;44.607053
+26312_0079_00030;30;;Impasse des Lavandes;26740;26312;Saint-Marcel-lès-Sauzet;;;4.79743;44.604575
+26312_0083_00225;225;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.801371;44.600879
+26312_0057_00015;15;;Rue du Vieux Moulin;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805571;44.595433
+26312_0032_00345;345;;Chemin du Merdary;26740;26312;Saint-Marcel-lès-Sauzet;;;4.802966;44.591288
+26312_0075_00010;10;;Impasse des Violettes;26740;26312;Saint-Marcel-lès-Sauzet;;;4.796386;44.605612
+26312_0047_00035;35;;Impasse des Rossignols;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806887;44.599459
+26312_0061_00015;15;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797151;44.604831
+26312_0001_00160;160;;Impasse des Acacias;26740;26312;Saint-Marcel-lès-Sauzet;;;4.795385;44.608313
+26312_0039_00180;180;;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803788;44.595522
+26312_0012_00030;30;;Impasse des Cigales;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809385;44.600651
+26312_0052_00002;2;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809322;44.599537
+26312_0083_00290;290;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.801353;44.600463
+26312_0071_00250;250;;Impasse Plegnieux;26740;26312;Saint-Marcel-lès-Sauzet;;;4.795457;44.610501
+26312_0082_00040;40;;Rue des Ramières;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803475;44.592882
+26312_0029_00024;24;;Impasse des Lucioles;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810658;44.601545
+26312_0038_00130;130;;Impasse de la Montagne;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804922;44.601503
+26312_0082_00020;20;;Rue des Ramières;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803428;44.593066
+26312_0082_00035;35;;Rue des Ramières;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803679;44.593136
+26312_0053_00120;120;;Rue des Sources;26740;26312;Saint-Marcel-lès-Sauzet;;;4.812314;44.602534
+26312_0082_00130;130;;Rue des Ramières;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804145;44.592893
+26312_0067_00835;835;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.799215;44.602056
+26312_0061_00300;300;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.79842;44.606596
+26312_0067_00490_d;490;d;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.801693;44.599554
+26312_0017_00070;70;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.799243;44.603168
+26312_0036_00210;210;;Chemin de Milune;26740;26312;Saint-Marcel-lès-Sauzet;;;4.796202;44.607973
+26312_0061_00395;395;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797909;44.607346
+26312_0052_00012;12;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.81067;44.601181
+26312_0027_00020;20;;Impasse des Grillons;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810863;44.601936
+26312_0033_00025;25;;Impasse des Mesanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807485;44.60042
+26312_0040_00081;81;;Rue des Muriers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804115;44.59487
+26312_0070_00050;50;;Impasse Jeanne Constant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805747;44.597134
+26312_0055_00001;1;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805351;44.595789
+26312_0013_00011;11;;Rue du Clos Fleuri;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803728;44.593962
+26312_0056_00056;56;;Impasse des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806479;44.594071
+26312_0048_00027;27;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805811;44.600841
+26312_0075_00025;25;;Impasse des Violettes;26740;26312;Saint-Marcel-lès-Sauzet;;;4.796586;44.605715
+26312_0010_00080;80;;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804646;44.593285
+26312_0051_00050;50;;Rue du Soleil Couchant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.799475;44.602705
+26312_0048_00125;125;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805841;44.600907
+26312_0010_00250;250;;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804773;44.591514
+26312_0013_00012;12;;Rue du Clos Fleuri;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804032;44.594149
+26312_0028_00027;27;;Rue du Lavoir;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805118;44.595165
+26312_0055_00225;225;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805923;44.593917
+26312_0017_00485_a;485;a;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.800691;44.606248
+26312_0004_00197;197;;Chemin des Boeufs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810419;44.597423
+26312_0083_00215;215;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.801411;44.600906
+26312_0010_00100;100;;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80534;44.592731
+26312_0068_00215;215;;Chemin de Lavalenche;26740;26312;Saint-Marcel-lès-Sauzet;;;4.81137;44.605957
+26312_0036_00094;94;;Chemin de Milune;26740;26312;Saint-Marcel-lès-Sauzet;;;4.796618;44.607102
+26312_0041_00070;70;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.799884;44.6026
+26312_0081_00060;60;;Impasse des Lauriers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798592;44.607691
+26312_0017_00915;915;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798626;44.609245
+26312_0002_00220;220;;Route des Andrans;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80797;44.597393
+26312_0045_00230;230;;Chemin de Pras Magnat;26740;26312;Saint-Marcel-lès-Sauzet;;;4.814229;44.599068
+26312_0048_00335;335;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806937;44.602645
+26312_0061_00205;205;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798558;44.60584
+26312_0013_00002;2;;Rue du Clos Fleuri;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80553;44.593922
+26312_0041_00200;200;;Rue du Noyer;26740;26312;Saint-Marcel-lès-Sauzet;;;4.801128;44.60207
+26312_0010_00044;44;;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805515;44.593098
+26312_0061_00009;9;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797151;44.604831
+26312_0067_01075;1075;;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797054;44.603579
+26312_0030_00097;97;;Place de la Mairie;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805015;44.595868
+26312_0047_00036;36;;Impasse des Rossignols;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807083;44.599566
+26312_0079_00035;35;;Impasse des Lavandes;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797552;44.604605
+26312_0048_00025;25;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80581;44.60084
+26312_0083_00285;285;;Allée du Gauguier;26740;26312;Saint-Marcel-lès-Sauzet;;Lotissement des coteaux du Noyer;4.801423;44.600579
+26312_0017_00200;200;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.79995;44.604765
+26312_0035_00009;9;;Rue des Micocouliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804773;44.598304
+26312_0039_00030;30;;Route de Montélimar;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805451;44.596176
+26312_0040_00043;43;;Rue des Muriers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803921;44.595026
+26312_0052_00015;15;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.81112;44.601809
+26312_0002_00030;30;;Route des Andrans;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806197;44.596327
+26312_0061_00006;6;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797187;44.604746
+26312_0061_00202;202;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798712;44.605847
+26312_0003_00200;200;;Rue des Biches;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807324;44.604319
+26312_0010_00103_a;103;a;Rue de Charmanjon;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805473;44.592767
+26312_0033_00024;24;;Impasse des Mesanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807721;44.600583
+26312_0052_00044;44;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809069;44.599378
+26312_0061_00060;60;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797398;44.60501
+26312_0040_00084;84;;Rue des Muriers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804034;44.594782
+26312_0017_00715;715;;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.799991;44.607842
+26312_0082_00060;60;;Rue des Ramières;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803522;44.5927
+26312_0031_00135;135;;Impasse du Merdary;26740;26312;Saint-Marcel-lès-Sauzet;;;4.801288;44.594871
+26312_0051_00115;115;;Rue du Soleil Couchant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.799797;44.602317
+26312_0017_00485_b;485;b;Chemin de Coulanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.800754;44.606223
+26312_0023_00025;25;;Rue de la Feria;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805938;44.593486
+26312_0048_00022;22;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80598;44.600931
+26312_0057_00057;57;;Rue du Vieux Moulin;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805553;44.595431
+26312_0080_00045;45;;Impasse des Bleuets;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798162;44.605266
+26312_0001_00005;5;;Impasse des Acacias;26740;26312;Saint-Marcel-lès-Sauzet;;;4.796079;44.606972
+26312_0014_00038;38;;Impasse des Coccinelles;26740;26312;Saint-Marcel-lès-Sauzet;;;4.808684;44.600176
+26312_0061_00220;220;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798796;44.605985
+26312_0005_00080;80;;Chemin des Bois;26740;26312;Saint-Marcel-lès-Sauzet;;;4.802948;44.601919
+26312_0035_00006;6;;Rue des Micocouliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.804244;44.598222
+26312_0020_00042;42;;Place de l’Eglise;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805499;44.595615
+26312_0034_00002;2;;Rue des Métairies;26740;26312;Saint-Marcel-lès-Sauzet;;;4.813202;44.602241
+26312_0048_00030;30;;Rue des Sangliers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806021;44.600996
+26312_xbnc4u_00385;385;;Mont C Vaisseau de Maisonneuve;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805808;44.600439
+26312_0034_00012;12;;Rue des Métairies;26740;26312;Saint-Marcel-lès-Sauzet;;;4.813123;44.602101
+26312_0030_00045;45;;Place de la Mairie;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805424;44.595919
+26312_0061_00105;105;;Rue des Coquelicots;26740;26312;Saint-Marcel-lès-Sauzet;;;4.797542;44.605399
+26312_0034_00007;7;;Rue des Métairies;26740;26312;Saint-Marcel-lès-Sauzet;;;4.813339;44.601098
+26312_0052_00009;9;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809953;44.600586
+26312_0067_00490_b;490;b;Route de la Coucourde;26740;26312;Saint-Marcel-lès-Sauzet;;;4.801699;44.599548
+26312_0063_00015;15;;Impasse des Muriers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803893;44.595253
+26312_0042_00001;1;;Rue du Panorama;26740;26312;Saint-Marcel-lès-Sauzet;;;4.806313;44.600485
+26312_0034_00013;13;;Rue des Métairies;26740;26312;Saint-Marcel-lès-Sauzet;;;4.813062;44.602307
+26312_0038_00005_a;5;a;Impasse de la Montagne;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805845;44.600856
+26312_0055_00148;148;;Rue des Tilleuls;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805795;44.594602
+26312_0044_00220;220;;Rue du Plein Sud;26740;26312;Saint-Marcel-lès-Sauzet;;;4.80358;44.600883
+26312_0063_00009;9;;Impasse des Muriers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.803852;44.595235
+26312_0081_00075;75;;Impasse des Lauriers;26740;26312;Saint-Marcel-lès-Sauzet;;;4.798511;44.607802
+26312_0071_00175;175;;Impasse Plegnieux;26740;26312;Saint-Marcel-lès-Sauzet;;;4.795352;44.611255
+26312_0072_00120;120;;Impasse du Serret;26740;26312;Saint-Marcel-lès-Sauzet;;Le Serret;4.806637;44.598252
+26312_0033_00026;26;;Impasse des Mesanges;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807354;44.600211
+26312_0073_00150;150;;Impasse Valbert Manson;26740;26312;Saint-Marcel-lès-Sauzet;;;4.807378;44.598659
+26312_0030_00091;91;;Place de la Mairie;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805382;44.595865
+26312_0052_00022;22;;Rue du Soleil Levant;26740;26312;Saint-Marcel-lès-Sauzet;;;4.810995;44.601805
+26312_0004_00250;250;;Chemin des Boeufs;26740;26312;Saint-Marcel-lès-Sauzet;;;4.81107;44.59753
+26312_0030_00053;53;;Place de la Mairie;26740;26312;Saint-Marcel-lès-Sauzet;;;4.805391;44.595882
+26312_0043_00006;6;;Impasse des Papillons;26740;26312;Saint-Marcel-lès-Sauzet;;;4.809879;44.60047

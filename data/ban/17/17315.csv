@@ -1,0 +1,773 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+17315_0405_00004_a;4;a;Chemin des Sablières;17220;17315;Saint-Christophe;;Cugné;-0.969155;46.140598
+17315_0140_00004;4;;Rue des Chênes;17220;17315;Saint-Christophe;;;-0.944593;46.142566
+17315_0355_00022;22;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.965678;46.142336
+17315_0289_00001;1;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.945363;46.145604
+17315_0071_00003;3;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.983435;46.127092
+17315_0334_00003;3;;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.929044;46.152393
+17315_0074_00008_a;8;a;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.945386;46.14518
+17315_0220_00011;11;;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.97109;46.142026
+17315_0280_00025;25;;Route de Marans;17220;17315;Saint-Christophe;;;-0.94945;46.145817
+17315_0074_00014;14;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.944337;46.144618
+17315_0366_00005;5;;Chemin des Renfermis;17220;17315;Saint-Christophe;;;-0.945523;46.144034
+17315_0070_00006;6;;Rue des Affaneurs;17220;17315;Saint-Christophe;;;-0.94271;46.147519
+17315_0214_00010_logt 3;10;logt 3;Chemin des Fous;17220;17315;Saint-Christophe;;Puyvineux;-0.985494;46.129159
+17315_0366_00006;6;;Chemin des Renfermis;17220;17315;Saint-Christophe;;;-0.945458;46.143793
+17315_0227_00004;4;;Impasse Gate Chien;17220;17315;Saint-Christophe;;;-0.946284;46.142362
+17315_0071_00031;31;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.979875;46.125956
+17315_0157_00041;41;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.956601;46.140863
+17315_0157_00032;32;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.955021;46.141684
+17315_0246_00008;8;;Chemin du Gué;17220;17315;Saint-Christophe;;Le Péré;-0.905339;46.139798
+17315_0355_00011;11;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.967745;46.141837
+17315_0334_00008;8;;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.92808;46.152573
+17315_0377_00001;1;;Impasse des Renfermis;17220;17315;Saint-Christophe;;;-0.945085;46.143999
+17315_0241_00004;4;;Chemin des Grands Champs;17220;17315;Saint-Christophe;;La Panonnière;-0.924464;46.132538
+17315_0149_00028;28;;Route de Croix Fort;17220;17315;Saint-Christophe;;;-1.003169;46.135887
+17315_0157_00029;29;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.954428;46.142207
+17315_0465_00007;7;;Impasse de l’Union;17220;17315;Saint-Christophe;;;-0.947409;46.145075
+17315_b065_00001;1;;Moulin du Marais;17220;17315;Saint-Christophe;;;-0.913744;46.159069
+17315_0226_00003;3;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.946916;46.143865
+17315_0105_00003;3;;Chemin des Busards;17220;17315;Saint-Christophe;;Cugné;-0.964798;46.141619
+17315_0280_00023_bis;23;bis;Route de Marans;17220;17315;Saint-Christophe;;;-0.949265;46.145786
+17315_0245_00004;4;;Rue du Gué;17220;17315;Saint-Christophe;;Le Péré;-0.907198;46.139927
+17315_0465_00003;3;;Impasse de l’Union;17220;17315;Saint-Christophe;;;-0.947354;46.145201
+17315_0289_00014;14;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.942031;46.147758
+17315_0214_00002_bis;2;bis;Chemin des Fous;17220;17315;Saint-Christophe;;Puyvineux;-0.985647;46.128608
+17315_0074_00005;5;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.944425;46.144486
+17315_0149_00002;2;;Route de Croix Fort;17220;17315;Saint-Christophe;;;-1.007659;46.135879
+17315_0487_00009;9;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.984283;46.127481
+17315_0105_00001;1;;Chemin des Busards;17220;17315;Saint-Christophe;;Cugné;-0.964754;46.141857
+17315_0478_00003;3;;Chemin Vert;17220;17315;Saint-Christophe;;;-0.950554;46.143115
+17315_0498_00006;6;;Chemin de Virson;17220;17315;Saint-Christophe;;Puyvineux;-0.982738;46.12745
+17315_0389_00031;31;;Rue du Rivaud;17220;17315;Saint-Christophe;;Cugné;-0.969319;46.142436
+17315_0074_00016;16;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.943607;46.143768
+17315_0398_00001;1;;Route de la Rochelle;17220;17315;Saint-Christophe;;Le Péré;-0.906791;46.140972
+17315_0344_00001;1;;Cour de la Poste;17220;17315;Saint-Christophe;;;-0.948402;46.145561
+17315_0431_00002_bis;2;bis;Impasse du Souterrain;17220;17315;Saint-Christophe;;;-0.948039;46.145548
+17315_0334_00002;2;;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.929476;46.152456
+17315_0457_00003;3;;Chemin du Treuil du Roy;17220;17315;Saint-Christophe;;;-0.957971;46.139993
+17315_0149_00030;30;;Route de Croix Fort;17220;17315;Saint-Christophe;;;-1.002921;46.135876
+17315_0220_00024;24;;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.974684;46.142029
+17315_0334_00005;5;;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.928839;46.152389
+17315_0268_00009;9;;Rue des Malettes;17220;17315;Saint-Christophe;;Cugné;-0.969593;46.140985
+17315_0344_00002;2;;Cour de la Poste;17220;17315;Saint-Christophe;;;-0.948217;46.145479
+17315_0289_00008;8;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.944338;46.147341
+17315_0074_00012_bis;12;bis;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.944284;46.144646
+17315_0355_00005;5;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.968674;46.141569
+17315_0223_00006;6;;Rue de la Fusterie;17220;17315;Saint-Christophe;;;-0.942747;46.146352
+17315_0444_00001_logt 3;1;logt 3;Chemin de Tesson;17220;17315;Saint-Christophe;;Le Péré;-0.907318;46.140787
+17315_0241_00005;5;;Chemin des Grands Champs;17220;17315;Saint-Christophe;;La Panonnière;-0.924492;46.132798
+17315_0398_00013;13;;Route de la Rochelle;17220;17315;Saint-Christophe;;Le Péré;-0.908667;46.140115
+17315_0220_00004_bis;4;bis;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.97047;46.141958
+17315_0226_00008;8;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.94713;46.14271
+17315_0246_00002;2;;Chemin du Gué;17220;17315;Saint-Christophe;;Le Péré;-0.907998;46.139864
+17315_0074_00028;28;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.943582;46.142705
+17315_0071_00031_f;31;f;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.979757;46.126215
+17315_0157_00034_f;34;f;Route de Cugné;17220;17315;Saint-Christophe;;;-0.954249;46.141217
+17315_0179_00002_logt 2;2;logt 2;Chemin de l'Eglise;17220;17315;Saint-Christophe;;;-0.94788;46.146204
+17315_0334_00010;10;;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.927774;46.152548
+17315_0280_00044;44;;Route de Marans;17220;17315;Saint-Christophe;;;-0.950283;46.146584
+17315_0074_00012;12;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.944265;46.144682
+17315_0074_00030;30;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.943569;46.14248
+17315_0302_00005;5;;Chemin Moulin du Rompis;17220;17315;Saint-Christophe;;;-0.942613;46.143865
+17315_0246_00006;6;;Chemin du Gué;17220;17315;Saint-Christophe;;Le Péré;-0.905571;46.13977
+17315_0157_00035;35;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.955502;46.141524
+17315_0097_00001;1;;Chemin des Bois Rousseau;17220;17315;Saint-Christophe;;;-0.942142;46.148186
+17315_0431_00001;1;;Impasse du Souterrain;17220;17315;Saint-Christophe;;;-0.948116;46.145503
+17315_0355_00016;16;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.966217;46.14227
+17315_0334_00014;14;;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.926973;46.152522
+17315_0157_00043;43;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.957216;46.140725
+17315_0149_00010;10;;Route de Croix Fort;17220;17315;Saint-Christophe;;;-1.007196;46.135899
+17315_0071_00031_e;31;e;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.979713;46.126317
+17315_0415_00001;1;;Rue Saint Exupery;17220;17315;Saint-Christophe;;;-1.002002;46.135619
+17315_0071_00011;11;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.983041;46.126972
+17315_0126_00006;6;;Impasse du Charcutier;17220;17315;Saint-Christophe;;;-0.949462;46.145347
+17315_0487_00045;45;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.986604;46.128223
+17315_0280_00016;16;;Route de Marans;17220;17315;Saint-Christophe;;;-0.946903;46.145364
+17315_0214_00005;5;;Chemin des Fous;17220;17315;Saint-Christophe;;Puyvineux;-0.985812;46.129022
+17315_0071_00015;15;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.982705;46.126855
+17315_0074_00008_b;8;b;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.945311;46.145134
+17315_0241_00019_d;19;d;Chemin des Grands Champs;17220;17315;Saint-Christophe;;La Panonnière;-0.925745;46.133052
+17315_0280_00028_ter;28;ter;Route de Marans;17220;17315;Saint-Christophe;;;-0.948578;46.145534
+17315_0487_00017_bis;17;bis;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.984594;46.128056
+17315_0075_00003;3;;Rue de l'Albergeur;17220;17315;Saint-Christophe;;;-0.943873;46.14709
+17315_0257_00006;6;;Rue du Guichet;17220;17315;Saint-Christophe;;Cugné;-0.970436;46.141192
+17315_0157_00027;27;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.954182;46.142378
+17315_0344_00005;5;;Cour de la Poste;17220;17315;Saint-Christophe;;;-0.948484;46.145313
+17315_0105_00002;2;;Chemin des Busards;17220;17315;Saint-Christophe;;Cugné;-0.964821;46.142005
+17315_0487_00063;63;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.987911;46.128632
+17315_0377_00002;2;;Impasse des Renfermis;17220;17315;Saint-Christophe;;;-0.945002;46.14406
+17315_0209_00007;7;;Impasse de la Forge;17220;17315;Saint-Christophe;;;-0.945988;46.14471
+17315_0214_00004;4;;Chemin des Fous;17220;17315;Saint-Christophe;;Puyvineux;-0.985619;46.128666
+17315_0071_00031_b;31;b;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.979713;46.126101
+17315_0431_00002;2;;Impasse du Souterrain;17220;17315;Saint-Christophe;;;-0.948065;46.145495
+17315_0280_00022;22;;Route de Marans;17220;17315;Saint-Christophe;;;-0.947376;46.145415
+17315_0280_00021;21;;Route de Marans;17220;17315;Saint-Christophe;;;-0.948893;46.145723
+17315_0109_00024;24;;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.94668;46.144137
+17315_0280_00004;4;;Route de Marans;17220;17315;Saint-Christophe;;;-0.946003;46.145245
+17315_0487_00011_bis;11;bis;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.984379;46.127786
+17315_0246_00004_bis;4;bis;Chemin du Gué;17220;17315;Saint-Christophe;;Le Péré;-0.905722;46.139845
+17315_0289_00020_bis;20;bis;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.940914;46.147913
+17315_0226_00015;15;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.947357;46.142182
+17315_0214_00009;9;;Chemin des Fous;17220;17315;Saint-Christophe;;Puyvineux;-0.985766;46.128907
+17315_0398_00010;10;;Route de la Rochelle;17220;17315;Saint-Christophe;;Le Péré;-0.910187;46.139505
+17315_0109_00006;6;;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.948494;46.144497
+17315_0157_00010_bis;10;bis;Route de Cugné;17220;17315;Saint-Christophe;;;-0.951199;46.143923
+17315_0487_00037;37;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.986202;46.128106
+17315_0398_00007;7;;Route de la Rochelle;17220;17315;Saint-Christophe;;Le Péré;-0.907891;46.14037
+17315_0398_00009;9;;Route de la Rochelle;17220;17315;Saint-Christophe;;Le Péré;-0.908305;46.140237
+17315_0268_00003_bis;3;bis;Rue des Malettes;17220;17315;Saint-Christophe;;Cugné;-0.969518;46.141456
+17315_0377_00003;3;;Impasse des Renfermis;17220;17315;Saint-Christophe;;;-0.944722;46.143922
+17315_0149_00012;12;;Route de Croix Fort;17220;17315;Saint-Christophe;;;-1.006633;46.135926
+17315_0439_00001;1;;Rue du Tamelier;17220;17315;Saint-Christophe;;;-0.942874;46.14703
+17315_0071_00055_a;55;a;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.97741;46.124947
+17315_0071_00029;29;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.9803;46.126083
+17315_0108_00005;5;;Chemin du Chamou;17220;17315;Saint-Christophe;;La Girardière;-0.928263;46.152171
+17315_0389_00020;20;;Rue du Rivaud;17220;17315;Saint-Christophe;;Cugné;-0.969271;46.142595
+17315_0074_00036;36;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.943518;46.141248
+17315_0109_00018_a;18;a;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.947246;46.144732
+17315_0157_00003;3;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.949281;46.145046
+17315_0355_00049_bis;49;bis;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.960434;46.14148
+17315_0366_00009;9;;Chemin des Renfermis;17220;17315;Saint-Christophe;;;-0.945663;46.143578
+17315_0398_00003;3;;Route de la Rochelle;17220;17315;Saint-Christophe;;Le Péré;-0.906933;46.140815
+17315_0157_00030_bis;30;bis;Route de Cugné;17220;17315;Saint-Christophe;;;-0.954765;46.141849
+17315_0074_00008_d;8;d;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.945037;46.14498
+17315_0334_00001;1;;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.929247;46.152401
+17315_0209_00001;1;;Impasse de la Forge;17220;17315;Saint-Christophe;;;-0.945848;46.145068
+17315_0179_00001;1;;Chemin de l'Eglise;17220;17315;Saint-Christophe;;;-0.947691;46.145974
+17315_0220_00022;22;;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.974336;46.142075
+17315_0188_00009;9;;Rue des Faures;17220;17315;Saint-Christophe;;;-0.94238;46.146978
+17315_0199_00003;3;;Rue des Fleurs;17220;17315;Saint-Christophe;;La Girardière;-0.928335;46.152995
+17315_0487_00047;47;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.986819;46.12828
+17315_0214_00010_logt 7;10;logt 7;Chemin des Fous;17220;17315;Saint-Christophe;;Puyvineux;-0.985304;46.128939
+17315_0157_00011;11;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.951103;46.144041
+17315_0157_00037_bis;37;bis;Route de Cugné;17220;17315;Saint-Christophe;;;-0.956067;46.141147
+17315_0487_00003;3;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.984232;46.127461
+17315_0199_00006;6;;Rue des Fleurs;17220;17315;Saint-Christophe;;La Girardière;-0.928127;46.153065
+17315_0355_00024;24;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.965269;46.142359
+17315_0334_00022;22;;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.92764;46.15345
+17315_0071_00051;51;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.97837;46.125388
+17315_0457_00013;13;;Chemin du Treuil du Roy;17220;17315;Saint-Christophe;;;-0.958502;46.136675
+17315_0410_00002;2;;Route de Saint-Christophe;17220;17315;Saint-Christophe;;La Girardière;-0.929763;46.152342
+17315_0070_00004;4;;Rue des Affaneurs;17220;17315;Saint-Christophe;;;-0.942895;46.147507
+17315_0257_00008;8;;Rue du Guichet;17220;17315;Saint-Christophe;;Cugné;-0.970137;46.141105
+17315_0068_00005;5;;Rue des Acacias;17220;17315;Saint-Christophe;;;-0.944132;46.142071
+17315_0487_00019;19;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.984781;46.127686
+17315_0157_00039;39;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.956246;46.141047
+17315_0157_00001;1;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.949052;46.145318
+17315_0071_00013;13;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.982834;46.126905
+17315_0226_00017;17;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.947398;46.141963
+17315_0157_00006;6;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.949299;46.144884
+17315_0431_00006;6;;Impasse du Souterrain;17220;17315;Saint-Christophe;;;-0.948225;46.14526
+17315_0310_00003;3;;Rue de l'Orée du Bois;17220;17315;Saint-Christophe;;;-0.944137;46.145165
+17315_0071_00027;27;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.980727;46.126223
+17315_0074_00034;34;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.943513;46.141332
+17315_0220_00001;1;;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.969578;46.14189
+17315_0487_00033_bis;33;bis;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.985549;46.127981
+17315_0289_00023;23;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.940638;46.147882
+17315_0074_00009;9;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.943943;46.144146
+17315_0280_00013;13;;Route de Marans;17220;17315;Saint-Christophe;;;-0.94787;46.145582
+17315_0280_00015;15;;Route de Marans;17220;17315;Saint-Christophe;;;-0.948026;46.145607
+17315_0355_00005_bis;5;bis;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.968509;46.141527
+17315_0220_00010_bis;10;bis;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.97132;46.141989
+17315_0149_00022;22;;Route de Croix Fort;17220;17315;Saint-Christophe;;;-1.004718;46.135939
+17315_0241_00019_c;19;c;Chemin des Grands Champs;17220;17315;Saint-Christophe;;La Panonnière;-0.925862;46.133092
+17315_0444_00003;3;;Chemin de Tesson;17220;17315;Saint-Christophe;;Le Péré;-0.907735;46.14107
+17315_0280_00006;6;;Route de Marans;17220;17315;Saint-Christophe;;;-0.946194;46.145276
+17315_0220_00002;2;;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.969802;46.141874
+17315_0179_00008;8;;Chemin de l'Eglise;17220;17315;Saint-Christophe;;;-0.94749;46.14626
+17315_0268_00004_a;4;a;Rue des Malettes;17220;17315;Saint-Christophe;;Cugné;-0.969479;46.140647
+17315_0179_00003;3;;Chemin de l'Eglise;17220;17315;Saint-Christophe;;;-0.947156;46.146153
+17315_0157_00019_bis;19;bis;Route de Cugné;17220;17315;Saint-Christophe;;;-0.951858;46.143763
+17315_0157_00026;26;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.953502;46.142655
+17315_0227_00001;1;;Impasse Gate Chien;17220;17315;Saint-Christophe;;;-0.946826;46.142321
+17315_0280_00011;11;;Route de Marans;17220;17315;Saint-Christophe;;;-0.947007;46.14548
+17315_0355_00007_bis;7;bis;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.967909;46.14148
+17315_0109_00022;22;;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.947044;46.144193
+17315_0389_00029;29;;Rue du Rivaud;17220;17315;Saint-Christophe;;Cugné;-0.96938;46.142628
+17315_0498_00021;21;;Chemin de Virson;17220;17315;Saint-Christophe;;Puyvineux;-0.981509;46.127556
+17315_0226_00027;27;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.947585;46.141098
+17315_0157_00031_bis;31;bis;Route de Cugné;17220;17315;Saint-Christophe;;;-0.95488;46.141933
+17315_0246_00001;1;;Chemin du Gué;17220;17315;Saint-Christophe;;Le Péré;-0.905638;46.139659
+17315_0109_00018;18;;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.947345;46.144647
+17315_0302_00001;1;;Chemin Moulin du Rompis;17220;17315;Saint-Christophe;;;-0.943261;46.143991
+17315_0075_00001;1;;Rue de l'Albergeur;17220;17315;Saint-Christophe;;;-0.943945;46.147136
+17315_0355_00033;33;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.966006;46.14219
+17315_0280_00036;36;;Route de Marans;17220;17315;Saint-Christophe;;;-0.949677;46.145772
+17315_0355_00043;43;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.964857;46.14225
+17315_0285_00004;4;;Rue des Marronniers;17220;17315;Saint-Christophe;;;-0.944979;46.14337
+17315_0071_00027_quater;27;quater;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.980584;46.126177
+17315_0157_00035_bis;35;bis;Route de Cugné;17220;17315;Saint-Christophe;;;-0.955792;46.141326
+17315_0410_00007;7;;Route de Saint-Christophe;17220;17315;Saint-Christophe;;La Girardière;-0.930505;46.152267
+17315_0148_00002_bis;2;bis;Impasse du Clair Matin;17220;17315;Saint-Christophe;;Cugné;-0.969578;46.142307
+17315_0280_00001;1;;Route de Marans;17220;17315;Saint-Christophe;;;-0.946036;46.14536
+17315_0179_00006;6;;Chemin de l'Eglise;17220;17315;Saint-Christophe;;;-0.947768;46.146364
+17315_0487_00071;71;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.989591;46.129158
+17315_0289_00023_bis;23;bis;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.940548;46.147896
+17315_0289_00004;4;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.945851;46.145641
+17315_0188_00015;15;;Rue des Faures;17220;17315;Saint-Christophe;;;-0.942379;46.146572
+17315_0149_00026;26;;Route de Croix Fort;17220;17315;Saint-Christophe;;;-1.003869;46.135894
+17315_0410_00010;10;;Route de Saint-Christophe;17220;17315;Saint-Christophe;;La Girardière;-0.931265;46.151888
+17315_0226_00023;23;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.947516;46.141408
+17315_0214_00010_logt 4;10;logt 4;Chemin des Fous;17220;17315;Saint-Christophe;;Puyvineux;-0.985447;46.129028
+17315_0099_00006;6;;Impasse des Bouquillons;17220;17315;Saint-Christophe;;;-0.942685;46.145924
+17315_0109_00002_bis;2;bis;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.949044;46.144613
+17315_0214_00010_logt 5;10;logt 5;Chemin des Fous;17220;17315;Saint-Christophe;;Puyvineux;-0.985525;46.128983
+17315_0431_00004;4;;Impasse du Souterrain;17220;17315;Saint-Christophe;;;-0.948091;46.145407
+17315_0289_00020;20;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.941193;46.147865
+17315_0071_00009;9;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.983129;46.126992
+17315_0074_00020;20;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.943589;46.143384
+17315_0289_00005;5;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.945655;46.145806
+17315_0109_00004;4;;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.948605;46.144519
+17315_0502_00004_bis;4;bis;Route de Virson;17220;17315;Saint-Christophe;;La Panonnière;-0.923484;46.132544
+17315_s26kmo_00001;1;;Chemin de Babedec;17220;17315;Saint-Christophe;;La Girardière;-0.925631;46.152934
+17315_0344_00003;3;;Cour de la Poste;17220;17315;Saint-Christophe;;;-0.948412;46.145511
+17315_0157_00015;15;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.951318;46.14397
+17315_0410_00004;4;;Route de Saint-Christophe;17220;17315;Saint-Christophe;;La Girardière;-0.93005;46.152275
+17315_0389_00024;24;;Rue du Rivaud;17220;17315;Saint-Christophe;;Cugné;-0.969208;46.142128
+17315_0226_00025;25;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.947549;46.141244
+17315_0285_00006;6;;Rue des Marronniers;17220;17315;Saint-Christophe;;;-0.94468;46.143306
+17315_0478_00002;2;;Chemin Vert;17220;17315;Saint-Christophe;;;-0.95013;46.144128
+17315_0465_00002;2;;Impasse de l’Union;17220;17315;Saint-Christophe;;;-0.947249;46.145304
+17315_0223_00005;5;;Rue de la Fusterie;17220;17315;Saint-Christophe;;;-0.942573;46.146463
+17315_0214_00008;8;;Chemin des Fous;17220;17315;Saint-Christophe;;Puyvineux;-0.985415;46.128628
+17315_0355_00006;6;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.967927;46.141804
+17315_0487_00043;43;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.986462;46.128181
+17315_0366_00003;3;;Chemin des Renfermis;17220;17315;Saint-Christophe;;;-0.945461;46.144246
+17315_0214_00006;6;;Chemin des Fous;17220;17315;Saint-Christophe;;Puyvineux;-0.985516;46.128643
+17315_0099_00008;8;;Impasse des Bouquillons;17220;17315;Saint-Christophe;;;-0.942516;46.145844
+17315_0487_00001;1;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.984025;46.127389
+17315_0487_00013;13;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.98448;46.127801
+17315_0366_00011;11;;Chemin des Renfermis;17220;17315;Saint-Christophe;;;-0.945747;46.14335
+17315_0314_00009;9;;Chemin des Parts;17220;17315;Saint-Christophe;;;-0.951286;46.14465
+17315_0502_00004;4;;Route de Virson;17220;17315;Saint-Christophe;;La Panonnière;-0.923449;46.132331
+17315_0068_00023;23;;Rue des Acacias;17220;17315;Saint-Christophe;;;-0.944038;46.143481
+17315_0135_00004;4;;Impasse des Charrons;17220;17315;Saint-Christophe;;;-0.948217;46.145982
+17315_0157_00036_bis;36;bis;Route de Cugné;17220;17315;Saint-Christophe;;;-0.955261;46.141542
+17315_0109_00026;26;;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.946657;46.144228
+17315_0157_00040;40;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.95613;46.141009
+17315_0179_00004;4;;Chemin de l'Eglise;17220;17315;Saint-Christophe;;;-0.947737;46.146169
+17315_0487_00011;11;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.984499;46.127549
+17315_0140_00006;6;;Rue des Chênes;17220;17315;Saint-Christophe;;;-0.944608;46.1425
+17315_0149_00016;16;;Route de Croix Fort;17220;17315;Saint-Christophe;;;-1.005407;46.135973
+17315_0405_00004_c;4;c;Chemin des Sablières;17220;17315;Saint-Christophe;;Cugné;-0.969184;46.140539
+17315_0109_00028;28;;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.946677;46.144288
+17315_0226_00001;1;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.946904;46.143894
+17315_0268_00008;8;;Rue des Malettes;17220;17315;Saint-Christophe;;Cugné;-0.970141;46.139885
+17315_0070_00001;1;;Rue des Affaneurs;17220;17315;Saint-Christophe;;;-0.943209;46.147224
+17315_0334_00004;4;;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.92918;46.152487
+17315_0415_00001_bis;1;bis;Rue Saint Exupery;17220;17315;Saint-Christophe;;;-1.002009;46.135556
+17315_0439_00004;4;;Rue du Tamelier;17220;17315;Saint-Christophe;;;-0.943757;46.146505
+17315_0157_00021_ter;21;ter;Route de Cugné;17220;17315;Saint-Christophe;;;-0.952468;46.143383
+17315_0185_00001;1;;Rue des Erables;17220;17315;Saint-Christophe;;;-0.945246;46.142645
+17315_0068_00021;21;;Rue des Acacias;17220;17315;Saint-Christophe;;;-0.944048;46.143335
+17315_0188_00013;13;;Rue des Faures;17220;17315;Saint-Christophe;;;-0.942391;46.146679
+17315_0241_00027;27;;Chemin des Grands Champs;17220;17315;Saint-Christophe;;La Panonnière;-0.925877;46.132238
+17315_0157_00034;34;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.955101;46.141641
+17315_0140_00013;13;;Rue des Chênes;17220;17315;Saint-Christophe;;;-0.944865;46.141979
+17315_0498_00010_bis;10;bis;Chemin de Virson;17220;17315;Saint-Christophe;;Puyvineux;-0.981777;46.12757
+17315_0502_00006;6;;Route de Virson;17220;17315;Saint-Christophe;;La Panonnière;-0.923261;46.132649
+17315_0149_00008;8;;Route de Croix Fort;17220;17315;Saint-Christophe;;;-1.007205;46.135763
+17315_0071_00055;55;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.97725;46.124877
+17315_0071_00017;17;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.98241;46.126755
+17315_0241_00019;19;;Chemin des Grands Champs;17220;17315;Saint-Christophe;;La Panonnière;-0.92574;46.132893
+17315_0220_00009;9;;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.970672;46.142016
+17315_0157_00045;45;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.957284;46.140731
+17315_0089_00002;2;;Chemin Bas;17220;17315;Saint-Christophe;;La Girardière;-0.929717;46.152611
+17315_0389_00016;16;;Rue du Rivaud;17220;17315;Saint-Christophe;;Cugné;-0.969375;46.142858
+17315_0280_00034;34;;Route de Marans;17220;17315;Saint-Christophe;;;-0.949457;46.145725
+17315_0076_00002;2;;Rue des Amourettes;17220;17315;Saint-Christophe;;;-0.944391;46.147035
+17315_0280_00028_bis;28;bis;Route de Marans;17220;17315;Saint-Christophe;;;-0.948154;46.145538
+17315_0268_00002;2;;Rue des Malettes;17220;17315;Saint-Christophe;;Cugné;-0.969314;46.141675
+17315_0071_00053;53;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.977722;46.125143
+17315_48sc37_00003;3;;Chemin du Moulin du Frêne;17220;17315;Saint-Christophe;;;-0.911869;46.138006
+17315_0214_00002;2;;Chemin des Fous;17220;17315;Saint-Christophe;;Puyvineux;-0.985784;46.128365
+17315_0302_00007;7;;Chemin Moulin du Rompis;17220;17315;Saint-Christophe;;;-0.94202;46.143751
+17315_0157_00034_d;34;d;Route de Cugné;17220;17315;Saint-Christophe;;;-0.954404;46.141265
+17315_0439_00008;8;;Rue du Tamelier;17220;17315;Saint-Christophe;;;-0.943509;46.146677
+17315_0289_00024;24;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.940465;46.148038
+17315_s26kmo_00004;4;;Chemin de Babedec;17220;17315;Saint-Christophe;;La Girardière;-0.925069;46.153077
+17315_0498_00005;5;;Chemin de Virson;17220;17315;Saint-Christophe;;Puyvineux;-0.982979;46.127328
+17315_0226_00002_bis;2;bis;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.946875;46.143649
+17315_0157_00034_e;34;e;Route de Cugné;17220;17315;Saint-Christophe;;;-0.954368;46.141249
+17315_0268_00003;3;;Rue des Malettes;17220;17315;Saint-Christophe;;Cugné;-0.969515;46.141606
+17315_0280_00032;32;;Route de Marans;17220;17315;Saint-Christophe;;;-0.948969;46.145651
+17315_0377_00005;5;;Impasse des Renfermis;17220;17315;Saint-Christophe;;;-0.944613;46.143896
+17315_0487_00067;67;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.988538;46.128821
+17315_0220_00011_bis;11;bis;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.971261;46.142176
+17315_0487_00045_bis;45;bis;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.98671;46.12825
+17315_0487_00041;41;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.986375;46.128155
+17315_0068_00015;15;;Rue des Acacias;17220;17315;Saint-Christophe;;;-0.944113;46.142842
+17315_0199_00002;2;;Rue des Fleurs;17220;17315;Saint-Christophe;;La Girardière;-0.928431;46.152796
+17315_0223_00004;4;;Rue de la Fusterie;17220;17315;Saint-Christophe;;;-0.943128;46.146304
+17315_0157_00028_bis;28;bis;Route de Cugné;17220;17315;Saint-Christophe;;;-0.954139;46.142283
+17315_0502_00001_bis;1;bis;Route de Virson;17220;17315;Saint-Christophe;;La Panonnière;-0.923521;46.132162
+17315_0487_00059;59;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.987201;46.128392
+17315_0366_00002;2;;Chemin des Renfermis;17220;17315;Saint-Christophe;;;-0.945307;46.144238
+17315_0157_00044;44;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.957013;46.140603
+17315_0074_00018;18;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.943595;46.143589
+17315_0071_00025;25;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.981092;46.126329
+17315_0280_00012_e;12;e;Route de Marans;17220;17315;Saint-Christophe;;;-0.946758;46.144873
+17315_0241_00019_ter;19;ter;Chemin des Grands Champs;17220;17315;Saint-Christophe;;La Panonnière;-0.925836;46.133024
+17315_0214_00010_logt 1;10;logt 1;Chemin des Fous;17220;17315;Saint-Christophe;;Puyvineux;-0.985266;46.129049
+17315_0109_00008;8;;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.948354;46.144472
+17315_0199_00004;4;;Rue des Fleurs;17220;17315;Saint-Christophe;;La Girardière;-0.928395;46.152951
+17315_0070_00008;8;;Rue des Affaneurs;17220;17315;Saint-Christophe;;;-0.942528;46.14754
+17315_0109_00001;1;;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.948436;46.1444
+17315_s26kmo_00009;9;;Chemin de Babedec;17220;17315;Saint-Christophe;;La Girardière;-0.925039;46.153003
+17315_0188_00007;7;;Rue des Faures;17220;17315;Saint-Christophe;;;-0.942337;46.147242
+17315_0366_00007;7;;Chemin des Renfermis;17220;17315;Saint-Christophe;;;-0.945613;46.143796
+17315_0075_00007;7;;Rue de l'Albergeur;17220;17315;Saint-Christophe;;;-0.943589;46.146874
+17315_0268_00004_c;4;c;Rue des Malettes;17220;17315;Saint-Christophe;;Cugné;-0.969657;46.140383
+17315_0109_00005;5;;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.947752;46.144263
+17315_0457_00007;7;;Chemin du Treuil du Roy;17220;17315;Saint-Christophe;;;-0.958236;46.138686
+17315_0157_00038_bis;38;bis;Route de Cugné;17220;17315;Saint-Christophe;;;-0.955911;46.141137
+17315_0444_00006;6;;Chemin de Tesson;17220;17315;Saint-Christophe;;Le Péré;-0.914937;46.148022
+17315_0280_00030;30;;Route de Marans;17220;17315;Saint-Christophe;;;-0.948676;46.145603
+17315_0071_00021;21;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.981768;46.12658
+17315_0280_00002;2;;Route de Marans;17220;17315;Saint-Christophe;;;-0.945823;46.145227
+17315_0280_00012_b;12;b;Route de Marans;17220;17315;Saint-Christophe;;;-0.946649;46.145115
+17315_0227_00005;5;;Impasse Gate Chien;17220;17315;Saint-Christophe;;;-0.946077;46.142172
+17315_0157_00014;14;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.951507;46.143805
+17315_0227_00003;3;;Impasse Gate Chien;17220;17315;Saint-Christophe;;;-0.946559;46.142285
+17315_0310_00009;9;;Rue de l'Orée du Bois;17220;17315;Saint-Christophe;;;-0.943946;46.145632
+17315_0444_00004;4;;Chemin de Tesson;17220;17315;Saint-Christophe;;Le Péré;-0.907979;46.141067
+17315_0071_00055_b;55;b;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.977373;46.124936
+17315_0157_00010_logt 4;10;logt 4;Route de Cugné;17220;17315;Saint-Christophe;;;-0.95111;46.143959
+17315_0280_00008;8;;Route de Marans;17220;17315;Saint-Christophe;;;-0.94636;46.145295
+17315_0241_00011;11;;Chemin des Grands Champs;17220;17315;Saint-Christophe;;La Panonnière;-0.925215;46.132322
+17315_0257_00010;10;;Rue du Guichet;17220;17315;Saint-Christophe;;Cugné;-0.970516;46.141185
+17315_0280_00009;9;;Route de Marans;17220;17315;Saint-Christophe;;;-0.946842;46.145457
+17315_0280_00005;5;;Route de Marans;17220;17315;Saint-Christophe;;;-0.946559;46.145423
+17315_0108_00001;1;;Chemin du Chamou;17220;17315;Saint-Christophe;;La Girardière;-0.928314;46.152416
+17315_0071_00001;1;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.983582;46.127148
+17315_0498_00007;7;;Chemin de Virson;17220;17315;Saint-Christophe;;Puyvineux;-0.982885;46.127343
+17315_0280_00023;23;;Route de Marans;17220;17315;Saint-Christophe;;;-0.948993;46.145741
+17315_0289_00019;19;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.941376;46.147752
+17315_0157_00041_ter;41;ter;Route de Cugné;17220;17315;Saint-Christophe;;;-0.956837;46.140764
+17315_0355_00026;26;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.965103;46.142333
+17315_0157_00016;16;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.951866;46.143641
+17315_0327_00001_bis;1;bis;Chemin du Péré;17220;17315;Saint-Christophe;;La Panonnière;-0.924403;46.132248
+17315_0444_00008;8;;Chemin de Tesson;17220;17315;Saint-Christophe;;Le Péré;-0.914419;46.147979
+17315_0268_00006;6;;Rue des Malettes;17220;17315;Saint-Christophe;;Cugné;-0.969841;46.140193
+17315_0074_00010;10;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.944895;46.144903
+17315_0226_00010;10;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.947166;46.142537
+17315_0355_00049;49;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.96138;46.14196
+17315_0074_00024;24;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.943582;46.143059
+17315_0289_00010;10;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.943501;46.147776
+17315_0140_00009;9;;Rue des Chênes;17220;17315;Saint-Christophe;;;-0.94486;46.142323
+17315_0185_00003;3;;Rue des Erables;17220;17315;Saint-Christophe;;;-0.945128;46.142641
+17315_0355_00014;14;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.966533;46.142231
+17315_0310_00010;10;;Rue de l'Orée du Bois;17220;17315;Saint-Christophe;;;-0.943931;46.145202
+17315_0226_00002;2;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.946755;46.144086
+17315_0487_00057;57;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.986962;46.128323
+17315_0355_00003;3;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.96909;46.14166
+17315_0439_00006;6;;Rue du Tamelier;17220;17315;Saint-Christophe;;;-0.943576;46.146629
+17315_0280_00040_bis;40;bis;Route de Marans;17220;17315;Saint-Christophe;;;-0.950052;46.146018
+17315_0355_00008;8;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.967858;46.141875
+17315_0220_00010;10;;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.971282;46.141947
+17315_0105_00002_bis;2;bis;Chemin des Busards;17220;17315;Saint-Christophe;;Cugné;-0.964837;46.141955
+17315_0169_00002;2;;Place des Ecoles;17220;17315;Saint-Christophe;;;-0.947783;46.145878
+17315_0310_00007;7;;Rue de l'Orée du Bois;17220;17315;Saint-Christophe;;;-0.944091;46.145587
+17315_0071_00023;23;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.981501;46.126464
+17315_0157_00002;2;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.948764;46.145492
+17315_0285_00001;1;;Rue des Marronniers;17220;17315;Saint-Christophe;;;-0.945079;46.143307
+17315_0226_00014;14;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.947225;46.141986
+17315_0334_00012;12;;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.927208;46.152474
+17315_0157_00019;19;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.951613;46.143854
+17315_0355_00002_ter;2;ter;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.96885;46.14169
+17315_0444_00010;10;;Chemin de Tesson;17220;17315;Saint-Christophe;;Le Péré;-0.913948;46.147891
+17315_0366_00001;1;;Chemin des Renfermis;17220;17315;Saint-Christophe;;;-0.94515;46.144904
+17315_0355_00036;36;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.963311;46.142257
+17315_0126_00004;4;;Impasse du Charcutier;17220;17315;Saint-Christophe;;;-0.949351;46.145509
+17315_0314_00007;7;;Chemin des Parts;17220;17315;Saint-Christophe;;;-0.951102;46.14457
+17315_0268_00004_b;4;b;Rue des Malettes;17220;17315;Saint-Christophe;;Cugné;-0.969544;46.140496
+17315_0135_00001_bis;1;bis;Impasse des Charrons;17220;17315;Saint-Christophe;;;-0.94816;46.146037
+17315_0220_00018;18;;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.973432;46.142165
+17315_0410_00016;16;;Route de Saint-Christophe;17220;17315;Saint-Christophe;;La Girardière;-0.931973;46.151622
+17315_0280_00017;17;;Route de Marans;17220;17315;Saint-Christophe;;;-0.948354;46.145681
+17315_0214_00003;3;;Chemin des Fous;17220;17315;Saint-Christophe;;Puyvineux;-0.985644;46.129228
+17315_0076_00006;6;;Rue des Amourettes;17220;17315;Saint-Christophe;;;-0.944138;46.146855
+17315_0209_00005;5;;Impasse de la Forge;17220;17315;Saint-Christophe;;;-0.94597;46.144645
+17315_0257_00004;4;;Rue du Guichet;17220;17315;Saint-Christophe;;Cugné;-0.970098;46.141059
+17315_0502_00003;3;;Route de Virson;17220;17315;Saint-Christophe;;La Panonnière;-0.923553;46.132491
+17315_0223_00002;2;;Rue de la Fusterie;17220;17315;Saint-Christophe;;;-0.943199;46.146358
+17315_0280_00018;18;;Route de Marans;17220;17315;Saint-Christophe;;;-0.946998;46.145372
+17315_0355_00053;53;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.959573;46.141032
+17315_0135_00008;8;;Impasse des Charrons;17220;17315;Saint-Christophe;;;-0.948215;46.146253
+17315_0366_00015;15;;Chemin des Renfermis;17220;17315;Saint-Christophe;;;-0.945927;46.142881
+17315_0410_00011;11;;Route de Saint-Christophe;17220;17315;Saint-Christophe;;La Girardière;-0.931053;46.152074
+17315_0227_00002;2;;Impasse Gate Chien;17220;17315;Saint-Christophe;;;-0.946398;46.142371
+17315_0148_00004;4;;Impasse du Clair Matin;17220;17315;Saint-Christophe;;Cugné;-0.969799;46.142469
+17315_0487_00061;61;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.987716;46.128566
+17315_0487_00017;17;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.984687;46.127915
+17315_0109_00002;2;;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.949267;46.144665
+17315_0157_00031;31;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.954658;46.142052
+17315_0157_00013;13;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.951185;46.144015
+17315_0498_00001;1;;Chemin de Virson;17220;17315;Saint-Christophe;;Puyvineux;-0.983475;46.127237
+17315_s26kmo_00007;7;;Chemin de Babedec;17220;17315;Saint-Christophe;;La Girardière;-0.925259;46.152765
+17315_0289_00025;25;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.940482;46.147924
+17315_0070_00003;3;;Rue des Affaneurs;17220;17315;Saint-Christophe;;;-0.943224;46.147275
+17315_0074_00022;22;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.943583;46.143183
+17315_0214_00010_logt 6;10;logt 6;Chemin des Fous;17220;17315;Saint-Christophe;;Puyvineux;-0.985384;46.128953
+17315_0439_00010;10;;Rue du Tamelier;17220;17315;Saint-Christophe;;;-0.943198;46.146857
+17315_0439_00014;14;;Rue du Tamelier;17220;17315;Saint-Christophe;;;-0.94289;46.146975
+17315_0487_00023;23;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.985172;46.12776
+17315_0223_00003;3;;Rue de la Fusterie;17220;17315;Saint-Christophe;;;-0.942722;46.146426
+17315_0157_00025;25;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.953887;46.142546
+17315_0157_00021_q logt 6;21;q logt 6;Route de Cugné;17220;17315;Saint-Christophe;;;-0.953145;46.14298
+17315_0487_00005;5;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.984267;46.127472
+17315_0302_00003;3;;Chemin Moulin du Rompis;17220;17315;Saint-Christophe;;;-0.942672;46.143881
+17315_0214_00007;7;;Chemin des Fous;17220;17315;Saint-Christophe;;Puyvineux;-0.985895;46.128961
+17315_0268_00001_bis;1;bis;Rue des Malettes;17220;17315;Saint-Christophe;;Cugné;-0.969504;46.1417
+17315_0191_00002_bis;2;bis;Chemin du Fief Goulu;17220;17315;Saint-Christophe;;;-0.956166;46.140645
+17315_0334_00010_bis;10;bis;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.927602;46.152533
+17315_0214_00010_logt 2;10;logt 2;Chemin des Fous;17220;17315;Saint-Christophe;;Puyvineux;-0.985353;46.129067
+17315_0377_00007;7;;Impasse des Renfermis;17220;17315;Saint-Christophe;;;-0.944515;46.144063
+17315_0444_00001_logt 1;1;logt 1;Chemin de Tesson;17220;17315;Saint-Christophe;;Le Péré;-0.907488;46.140909
+17315_0068_00003;3;;Rue des Acacias;17220;17315;Saint-Christophe;;;-0.94426;46.142071
+17315_0478_00005;5;;Chemin Vert;17220;17315;Saint-Christophe;;;-0.950581;46.143062
+17315_0310_00001;1;;Rue de l'Orée du Bois;17220;17315;Saint-Christophe;;;-0.944178;46.144983
+17315_0289_00021_bis;21;bis;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.940898;46.14784
+17315_0439_00016;16;;Rue du Tamelier;17220;17315;Saint-Christophe;;;-0.942651;46.146995
+17315_0245_00006;6;;Rue du Gué;17220;17315;Saint-Christophe;;Le Péré;-0.907178;46.139944
+17315_0280_00014;14;;Route de Marans;17220;17315;Saint-Christophe;;;-0.946722;46.145337
+17315_0334_00006;6;;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.928855;46.152451
+17315_0439_00012;12;;Rue du Tamelier;17220;17315;Saint-Christophe;;;-0.943066;46.146924
+17315_0398_00011;11;;Route de la Rochelle;17220;17315;Saint-Christophe;;Le Péré;-0.908202;46.140284
+17315_0109_00003;3;;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.948018;46.144302
+17315_0280_00012_a;12;a;Route de Marans;17220;17315;Saint-Christophe;;;-0.946633;46.145163
+17315_0415_00011;11;;Rue Saint Exupery;17220;17315;Saint-Christophe;;;-1.002308;46.134565
+17315_b065_00003;3;;Moulin du Marais;17220;17315;Saint-Christophe;;;-0.915069;46.158706
+17315_0478_00004;4;;Chemin Vert;17220;17315;Saint-Christophe;;;-0.950192;46.143819
+17315_0199_00001_b logt 2;1;b logt 2;Rue des Fleurs;17220;17315;Saint-Christophe;;La Girardière;-0.928348;46.152873
+17315_0157_00037;37;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.95599;46.141206
+17315_0070_00002;2;;Rue des Affaneurs;17220;17315;Saint-Christophe;;;-0.943036;46.147508
+17315_0241_00006_logt 2;6;logt 2;Chemin des Grands Champs;17220;17315;Saint-Christophe;;La Panonnière;-0.924455;46.132479
+17315_0157_00030_ter;30;ter;Route de Cugné;17220;17315;Saint-Christophe;;;-0.954702;46.14191
+17315_0188_00003;3;;Rue des Faures;17220;17315;Saint-Christophe;;;-0.942262;46.147566
+17315_0220_00006;6;;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.970657;46.141941
+17315_0135_00006;6;;Impasse des Charrons;17220;17315;Saint-Christophe;;;-0.94831;46.146084
+17315_0157_00007_bis;7;bis;Route de Cugné;17220;17315;Saint-Christophe;;;-0.949588;46.144701
+17315_0070_00005;5;;Rue des Affaneurs;17220;17315;Saint-Christophe;;;-0.94332;46.147495
+17315_0149_00012_bis;12;bis;Route de Croix Fort;17220;17315;Saint-Christophe;;;-1.006174;46.135967
+17315_0257_00002;2;;Rue du Guichet;17220;17315;Saint-Christophe;;Cugné;-0.97004;46.141123
+17315_0410_00008;8;;Route de Saint-Christophe;17220;17315;Saint-Christophe;;La Girardière;-0.931074;46.151944
+17315_0355_00004_bis;4;bis;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.968506;46.141611
+17315_0071_00019;19;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.982069;46.12666
+17315_0405_00006;6;;Chemin des Sablières;17220;17315;Saint-Christophe;;Cugné;-0.968588;46.140702
+17315_0227_00012;12;;Impasse Gate Chien;17220;17315;Saint-Christophe;;;-0.94592;46.142014
+17315_0149_00004;4;;Route de Croix Fort;17220;17315;Saint-Christophe;;;-1.007527;46.135826
+17315_0245_00002;2;;Rue du Gué;17220;17315;Saint-Christophe;;Le Péré;-0.907212;46.139878
+17315_0227_00006;6;;Impasse Gate Chien;17220;17315;Saint-Christophe;;;-0.945896;46.142621
+17315_0220_00013_bis;13;bis;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.971453;46.142382
+17315_0157_00017;17;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.951558;46.144067
+17315_0410_00015;15;;Route de Saint-Christophe;17220;17315;Saint-Christophe;;La Girardière;-0.931688;46.151838
+17315_0241_00015;15;;Chemin des Grands Champs;17220;17315;Saint-Christophe;;La Panonnière;-0.925491;46.13276
+17315_0268_00011;11;;Rue des Malettes;17220;17315;Saint-Christophe;;Cugné;-0.96987;46.140362
+17315_0071_00005;5;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.983344;46.127075
+17315_0074_00004;4;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.945623;46.14528
+17315_0209_00004;4;;Impasse de la Forge;17220;17315;Saint-Christophe;;;-0.945876;46.144844
+17315_0398_00002;2;;Route de la Rochelle;17220;17315;Saint-Christophe;;Le Péré;-0.907215;46.140576
+17315_0157_00034_c;34;c;Route de Cugné;17220;17315;Saint-Christophe;;;-0.954496;46.141341
+17315_0487_00069;69;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.988839;46.128906
+17315_0268_00010;10;;Rue des Malettes;17220;17315;Saint-Christophe;;Cugné;-0.970349;46.139647
+17315_0280_00020;20;;Route de Marans;17220;17315;Saint-Christophe;;;-0.947168;46.145389
+17315_0169_00001;1;;Place des Ecoles;17220;17315;Saint-Christophe;;;-0.947421;46.145912
+17315_0355_00009;9;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.967864;46.141738
+17315_0179_00002_logt 4;2;logt 4;Chemin de l'Eglise;17220;17315;Saint-Christophe;;;-0.947922;46.146052
+17315_0410_00005;5;;Route de Saint-Christophe;17220;17315;Saint-Christophe;;La Girardière;-0.930319;46.152305
+17315_0149_00018;18;;Route de Croix Fort;17220;17315;Saint-Christophe;;;-1.00525;46.135955
+17315_0355_00002;2;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.969013;46.141729
+17315_0157_00036;36;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.95539;46.141432
+17315_0487_00015_bis;15;bis;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.984699;46.127883
+17315_0444_00002;2;;Chemin de Tesson;17220;17315;Saint-Christophe;;Le Péré;-0.907599;46.14093
+17315_0157_00009;9;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.951005;46.144093
+17315_0148_00002;2;;Impasse du Clair Matin;17220;17315;Saint-Christophe;;Cugné;-0.96965;46.142331
+17315_0227_00010;10;;Impasse Gate Chien;17220;17315;Saint-Christophe;;;-0.945892;46.142211
+17315_0137_00001;1;;Impasse du Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.986874;46.128519
+17315_0220_00012;12;;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.971565;46.14232
+17315_0241_00006_logt 1;6;logt 1;Chemin des Grands Champs;17220;17315;Saint-Christophe;;La Panonnière;-0.92445;46.132434
+17315_0478_00006;6;;Chemin Vert;17220;17315;Saint-Christophe;;;-0.950302;46.14334
+17315_0280_00003;3;;Route de Marans;17220;17315;Saint-Christophe;;;-0.946373;46.145402
+17315_0074_00008_c;8;c;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.945142;46.145027
+17315_0074_00003_bis;3;bis;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.94469;46.144656
+17315_0355_00007;7;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.967993;46.14149
+17315_48sc37_00001;1;;Chemin du Moulin du Frêne;17220;17315;Saint-Christophe;;;-0.912175;46.137863
+17315_0068_00021_bis;21;bis;Rue des Acacias;17220;17315;Saint-Christophe;;;-0.944015;46.143465
+17315_0498_00012;12;;Chemin de Virson;17220;17315;Saint-Christophe;;Puyvineux;-0.98162;46.12761
+17315_0157_00038;38;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.955712;46.141255
+17315_s26kmo_00003;3;;Chemin de Babedec;17220;17315;Saint-Christophe;;La Girardière;-0.92543;46.15254
+17315_0157_00023_bis;23;bis;Route de Cugné;17220;17315;Saint-Christophe;;;-0.953747;46.142644
+17315_0188_00005;5;;Rue des Faures;17220;17315;Saint-Christophe;;;-0.942347;46.14742
+17315_0209_00002;2;;Impasse de la Forge;17220;17315;Saint-Christophe;;;-0.945742;46.145166
+17315_0071_00031_d;31;d;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.979646;46.126294
+17315_0071_00027_ter;27;ter;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.980841;46.12626
+17315_0140_00002;2;;Rue des Chênes;17220;17315;Saint-Christophe;;;-0.94452;46.142792
+17315_0355_00029;29;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.966261;46.142177
+17315_0241_00013;13;;Chemin des Grands Champs;17220;17315;Saint-Christophe;;La Panonnière;-0.925301;46.132779
+17315_0498_00015;15;;Chemin de Virson;17220;17315;Saint-Christophe;;Puyvineux;-0.982178;46.127444
+17315_0502_00002;2;;Route de Virson;17220;17315;Saint-Christophe;;La Panonnière;-0.923415;46.132214
+17315_0148_00001;1;;Impasse du Clair Matin;17220;17315;Saint-Christophe;;Cugné;-0.969526;46.142345
+17315_0071_00015_bis;15;bis;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.982564;46.126808
+17315_0457_00002;2;;Chemin du Treuil du Roy;17220;17315;Saint-Christophe;;;-0.957419;46.140427
+17315_0435_00001;1;;Rue du Stade;17220;17315;Saint-Christophe;;;-0.943953;46.14178
+17315_0280_00012_c;12;c;Route de Marans;17220;17315;Saint-Christophe;;;-0.946691;46.144981
+17315_0157_00033;33;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.955093;46.141805
+17315_0334_00023;23;;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.927552;46.153323
+17315_0444_00001_logt 2;1;logt 2;Chemin de Tesson;17220;17315;Saint-Christophe;;Le Péré;-0.907365;46.140824
+17315_0355_00019;19;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.967258;46.141868
+17315_0498_00004;4;;Chemin de Virson;17220;17315;Saint-Christophe;;Puyvineux;-0.983175;46.127381
+17315_0241_00009;9;;Chemin des Grands Champs;17220;17315;Saint-Christophe;;La Panonnière;-0.924997;46.132348
+17315_0068_00013;13;;Rue des Acacias;17220;17315;Saint-Christophe;;;-0.944103;46.142635
+17315_0071_00057;57;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.976932;46.124723
+17315_0280_00038;38;;Route de Marans;17220;17315;Saint-Christophe;;;-0.950041;46.145804
+17315_0314_00002;2;;Chemin des Parts;17220;17315;Saint-Christophe;;;-0.951522;46.144641
+17315_0071_00007;7;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.983246;46.127033
+17315_0487_00035;35;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.985864;46.128009
+17315_0310_00008;8;;Rue de l'Orée du Bois;17220;17315;Saint-Christophe;;;-0.944008;46.144895
+17315_0498_00014;14;;Chemin de Virson;17220;17315;Saint-Christophe;;Puyvineux;-0.981404;46.12765
+17315_0334_00016;16;;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.926828;46.153142
+17315_0157_00005;5;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.949515;46.144768
+17315_0389_00022;22;;Rue du Rivaud;17220;17315;Saint-Christophe;;Cugné;-0.969197;46.142364
+17315_0355_00002_bis;2;bis;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.969213;46.141777
+17315_0415_00007;7;;Rue Saint Exupery;17220;17315;Saint-Christophe;;;-1.002138;46.135033
+17315_0179_00002_logt 5;2;logt 5;Chemin de l'Eglise;17220;17315;Saint-Christophe;;;-0.947879;46.14626
+17315_0149_00006;6;;Route de Croix Fort;17220;17315;Saint-Christophe;;;-1.007408;46.135781
+17315_0334_00007;7;;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.927965;46.152501
+17315_0355_00035;35;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.965882;46.142223
+17315_0398_00004;4;;Route de la Rochelle;17220;17315;Saint-Christophe;;Le Péré;-0.907579;46.140415
+17315_0226_00009;9;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.947236;46.14272
+17315_0157_00021;21;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.952112;46.143637
+17315_0457_00009;9;;Chemin du Treuil du Roy;17220;17315;Saint-Christophe;;;-0.958191;46.138449
+17315_0355_00007_ter;7;ter;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.968049;46.141648
+17315_0280_00029;29;;Route de Marans;17220;17315;Saint-Christophe;;;-0.949794;46.145939
+17315_0241_00007;7;;Chemin des Grands Champs;17220;17315;Saint-Christophe;;La Panonnière;-0.924784;46.132342
+17315_0191_00001;1;;Chemin du Fief Goulu;17220;17315;Saint-Christophe;;;-0.955918;46.140467
+17315_0074_00014_bis;14;bis;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.943791;46.144405
+17315_0157_00023;23;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.953467;46.142791
+17315_0220_00020;20;;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.973981;46.142122
+17315_0487_00021;21;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.984969;46.127692
+17315_0355_00051;51;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.95986;46.141069
+17315_0289_00018;18;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.941388;46.14783
+17315_0502_00001;1;;Route de Virson;17220;17315;Saint-Christophe;;La Panonnière;-0.923583;46.13243
+17315_0487_00031;31;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.985547;46.1279
+17315_0241_00002;2;;Chemin des Grands Champs;17220;17315;Saint-Christophe;;La Panonnière;-0.923928;46.132738
+17315_0289_00022;22;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.94076;46.147957
+17315_0157_00041_bis;41;bis;Route de Cugné;17220;17315;Saint-Christophe;;;-0.95673;46.140807
+17315_0157_00039_bis;39;bis;Route de Cugné;17220;17315;Saint-Christophe;;;-0.956123;46.141114
+17315_0465_00009;9;;Impasse de l’Union;17220;17315;Saint-Christophe;;;-0.947453;46.144957
+17315_0280_00010_bis;10;bis;Route de Marans;17220;17315;Saint-Christophe;;;-0.946616;46.145221
+17315_0268_00005;5;;Rue des Malettes;17220;17315;Saint-Christophe;;Cugné;-0.969543;46.141276
+17315_0137_00001_bis;1;bis;Impasse du Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.986821;46.128633
+17315_0280_00040;40;;Route de Marans;17220;17315;Saint-Christophe;;;-0.949995;46.145955
+17315_0157_00004;4;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.948916;46.145274
+17315_0226_00011;11;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.947285;46.142475
+17315_0410_00009_bis;9;bis;Route de Saint-Christophe;17220;17315;Saint-Christophe;;La Girardière;-0.931215;46.152349
+17315_0214_00011;11;;Chemin des Fous;17220;17315;Saint-Christophe;;Puyvineux;-0.985903;46.128434
+17315_0191_00004;4;;Chemin du Fief Goulu;17220;17315;Saint-Christophe;;;-0.955724;46.140449
+17315_0415_00003;3;;Rue Saint Exupery;17220;17315;Saint-Christophe;;;-1.002056;46.135394
+17315_0355_00031;31;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.966083;46.142185
+17315_0227_00014;14;;Impasse Gate Chien;17220;17315;Saint-Christophe;;;-0.945964;46.141975
+17315_0498_00023;23;;Chemin de Virson;17220;17315;Saint-Christophe;;Puyvineux;-0.981292;46.127598
+17315_0140_00003;3;;Rue des Chênes;17220;17315;Saint-Christophe;;;-0.944592;46.143052
+17315_0487_00059_bis;59;bis;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.987282;46.128405
+17315_0498_00002;2;;Chemin de Virson;17220;17315;Saint-Christophe;;Puyvineux;-0.983582;46.127313
+17315_0289_00021;21;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.941159;46.147777
+17315_0389_00018;18;;Rue du Rivaud;17220;17315;Saint-Christophe;;Cugné;-0.969299;46.142706
+17315_0076_00008;8;;Rue des Amourettes;17220;17315;Saint-Christophe;;;-0.943996;46.14675
+17315_0074_00006;6;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.945472;46.145223
+17315_0074_00007_bis;7;bis;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.944071;46.144237
+17315_0457_00011;11;;Chemin du Treuil du Roy;17220;17315;Saint-Christophe;;;-0.958582;46.136669
+17315_0366_00013;13;;Chemin des Renfermis;17220;17315;Saint-Christophe;;;-0.945617;46.142874
+17315_0268_00001;1;;Rue des Malettes;17220;17315;Saint-Christophe;;Cugné;-0.969573;46.141832
+17315_0310_00013;13;;Rue de l'Orée du Bois;17220;17315;Saint-Christophe;;;-0.94374;46.145565
+17315_0157_00034_b;34;b;Route de Cugné;17220;17315;Saint-Christophe;;;-0.954687;46.141321
+17315_0149_00024;24;;Route de Croix Fort;17220;17315;Saint-Christophe;;;-1.004359;46.135931
+17315_0157_00042;42;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.956713;46.140739
+17315_0137_00005;5;;Impasse du Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.986788;46.128693
+17315_0223_00001;1;;Rue de la Fusterie;17220;17315;Saint-Christophe;;;-0.942808;46.146404
+17315_0280_00010;10;;Route de Marans;17220;17315;Saint-Christophe;;;-0.946498;46.145309
+17315_0487_00065;65;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.988158;46.128717
+17315_0071_00031_a;31;a;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.979766;46.125885
+17315_0157_00008;8;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.949633;46.14453
+17315_0109_00010;10;;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.948172;46.144432
+17315_0498_00017;17;;Chemin de Virson;17220;17315;Saint-Christophe;;Puyvineux;-0.981595;46.127536
+17315_0074_00026;26;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.943587;46.142905
+17315_0191_00006;6;;Chemin du Fief Goulu;17220;17315;Saint-Christophe;;;-0.954574;46.140022
+17315_0280_00042;42;;Route de Marans;17220;17315;Saint-Christophe;;;-0.950245;46.146392
+17315_0226_00004;4;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.946925;46.143407
+17315_0280_00014_bis;14;bis;Route de Marans;17220;17315;Saint-Christophe;;;-0.946809;46.145347
+17315_0465_00001;1;;Impasse de l’Union;17220;17315;Saint-Christophe;;;-0.947343;46.145268
+17315_0280_00019;19;;Route de Marans;17220;17315;Saint-Christophe;;;-0.948598;46.145689
+17315_0355_00021;21;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.967219;46.141751
+17315_0074_00002;2;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.945764;46.145311
+17315_0241_00019_bis;19;bis;Chemin des Grands Champs;17220;17315;Saint-Christophe;;La Panonnière;-0.925814;46.132976
+17315_0289_00003;3;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.945704;46.145603
+17315_0334_00015;15;;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.926635;46.152948
+17315_0487_00015;15;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.984682;46.1276
+17315_0310_00011;11;;Rue de l'Orée du Bois;17220;17315;Saint-Christophe;;;-0.943839;46.145639
+17315_s26kmo_00005;5;;Chemin de Babedec;17220;17315;Saint-Christophe;;La Girardière;-0.925491;46.152368
+17315_0280_00026;26;;Route de Marans;17220;17315;Saint-Christophe;;;-0.947789;46.145483
+17315_0241_00023;23;;Chemin des Grands Champs;17220;17315;Saint-Christophe;;La Panonnière;-0.925573;46.132631
+17315_0280_00003_bis;3;bis;Route de Marans;17220;17315;Saint-Christophe;;;-0.946456;46.14541
+17315_0157_00028_ter;28;ter;Route de Cugné;17220;17315;Saint-Christophe;;;-0.954205;46.142227
+17315_0415_00009;9;;Rue Saint Exupery;17220;17315;Saint-Christophe;;;-1.002385;46.134679
+17315_0405_00004;4;;Chemin des Sablières;17220;17315;Saint-Christophe;;Cugné;-0.969066;46.140763
+17315_0068_00009;9;;Rue des Acacias;17220;17315;Saint-Christophe;;;-0.944101;46.142256
+17315_0157_00024;24;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.953158;46.142848
+17315_0241_00025;25;;Chemin des Grands Champs;17220;17315;Saint-Christophe;;La Panonnière;-0.925594;46.132267
+17315_0398_00008;8;;Route de la Rochelle;17220;17315;Saint-Christophe;;Le Péré;-0.907868;46.140299
+17315_0502_00010;10;;Route de Virson;17220;17315;Saint-Christophe;;La Panonnière;-0.923651;46.133197
+17315_0157_00022;22;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.952981;46.142935
+17315_0280_00024;24;;Route de Marans;17220;17315;Saint-Christophe;;;-0.947621;46.145451
+17315_0410_00013;13;;Route de Saint-Christophe;17220;17315;Saint-Christophe;;La Girardière;-0.931452;46.151929
+17315_0223_00010;10;;Rue de la Fusterie;17220;17315;Saint-Christophe;;;-0.942421;46.146414
+17315_0157_00034_a;34;a;Route de Cugné;17220;17315;Saint-Christophe;;;-0.954854;46.141392
+17315_0157_00018;18;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.952122;46.143511
+17315_0071_00031_c;31;c;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.979693;46.126153
+17315_0285_00002;2;;Rue des Marronniers;17220;17315;Saint-Christophe;;;-0.945146;46.143383
+17315_0344_00006;6;;Cour de la Poste;17220;17315;Saint-Christophe;;;-0.948322;46.145394
+17315_0108_00003;3;;Chemin du Chamou;17220;17315;Saint-Christophe;;La Girardière;-0.928296;46.1523
+17315_0487_00027;27;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.98547;46.127868
+17315_0355_00004;4;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.96862;46.141634
+17315_0109_00007;7;;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.94725;46.144168
+17315_0140_00008;8;;Rue des Chênes;17220;17315;Saint-Christophe;;;-0.944643;46.142311
+17315_0223_00008;8;;Rue de la Fusterie;17220;17315;Saint-Christophe;;;-0.942665;46.146374
+17315_0135_00001;1;;Impasse des Charrons;17220;17315;Saint-Christophe;;;-0.948066;46.14597
+17315_0068_00019;19;;Rue des Acacias;17220;17315;Saint-Christophe;;;-0.944062;46.143287
+17315_0214_00001;1;;Chemin des Fous;17220;17315;Saint-Christophe;;Puyvineux;-0.985468;46.129747
+17315_0220_00006_bis;6;bis;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.97097;46.141919
+17315_0191_00002;2;;Chemin du Fief Goulu;17220;17315;Saint-Christophe;;;-0.956328;46.140743
+17315_0137_00006;6;;Impasse du Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.986633;46.128624
+17315_0157_00021_bis;21;bis;Route de Cugné;17220;17315;Saint-Christophe;;;-0.952294;46.143516
+17315_0227_00008;8;;Impasse Gate Chien;17220;17315;Saint-Christophe;;;-0.945901;46.142379
+17315_0344_00004;4;;Cour de la Poste;17220;17315;Saint-Christophe;;;-0.948249;46.145429
+17315_0366_00019;19;;Chemin des Renfermis;17220;17315;Saint-Christophe;;;-0.946452;46.14292
+17315_0334_00013;13;;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.926846;46.152583
+17315_0439_00003;3;;Rue du Tamelier;17220;17315;Saint-Christophe;;;-0.942773;46.147033
+17315_0280_00027;27;;Route de Marans;17220;17315;Saint-Christophe;;;-0.949567;46.145845
+17315_0157_00007;7;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.949541;46.144732
+17315_0355_00001;1;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.969172;46.141671
+17315_0280_00031;31;;Route de Marans;17220;17315;Saint-Christophe;;;-0.950107;46.146429
+17315_0465_00004;4;;Impasse de l’Union;17220;17315;Saint-Christophe;;;-0.947346;46.145078
+17315_0209_00003_bis;3;bis;Impasse de la Forge;17220;17315;Saint-Christophe;;;-0.94591;46.144902
+17315_0137_00005_bis;5;bis;Impasse du Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.986757;46.12866
+17315_0334_00021;21;;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.927323;46.153254
+17315_0068_00017;17;;Rue des Acacias;17220;17315;Saint-Christophe;;;-0.944117;46.143025
+17315_0068_00011;11;;Rue des Acacias;17220;17315;Saint-Christophe;;;-0.944103;46.142448
+17315_0075_00005;5;;Rue de l'Albergeur;17220;17315;Saint-Christophe;;;-0.943653;46.146927
+17315_0487_00007;7;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.984277;46.127481
+17315_0327_00001;1;;Chemin du Péré;17220;17315;Saint-Christophe;;La Panonnière;-0.924392;46.132219
+17315_0140_00005;5;;Rue des Chênes;17220;17315;Saint-Christophe;;;-0.94464;46.142883
+17315_0220_00004;4;;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.970029;46.141928
+17315_0487_00039;39;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.98634;46.128155
+17315_0157_00007_ter;7;ter;Route de Cugné;17220;17315;Saint-Christophe;;;-0.949805;46.144496
+17315_0355_00017;17;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.967341;46.14199
+17315_0435_00003;3;;Rue du Stade;17220;17315;Saint-Christophe;;;-0.945607;46.141803
+17315_0071_00017_bis;17;bis;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.982278;46.126718
+17315_0220_00013;13;;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.971342;46.142269
+17315_0148_00006;6;;Impasse du Clair Matin;17220;17315;Saint-Christophe;;Cugné;-0.969999;46.142484
+17315_0498_00010;10;;Chemin de Virson;17220;17315;Saint-Christophe;;Puyvineux;-0.981865;46.127564
+17315_0355_00041;41;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.965226;46.142255
+17315_0157_00021_q logt 1;21;q logt 1;Route de Cugné;17220;17315;Saint-Christophe;;;-0.952785;46.143178
+17315_0334_00010_ter;10;ter;Rue du Pont;17220;17315;Saint-Christophe;;La Girardière;-0.927422;46.1525
+17315_0366_00021;21;;Chemin des Renfermis;17220;17315;Saint-Christophe;;;-0.946681;46.142915
+17315_0410_00007_bis;7;bis;Route de Saint-Christophe;17220;17315;Saint-Christophe;;La Girardière;-0.930822;46.152142
+17315_0076_00004;4;;Rue des Amourettes;17220;17315;Saint-Christophe;;;-0.944253;46.146937
+17315_0405_00008;8;;Chemin des Sablières;17220;17315;Saint-Christophe;;Cugné;-0.968363;46.14064
+17315_0355_00013;13;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.967635;46.141775
+17315_0487_00033;33;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.985725;46.12796
+17315_0289_00002;2;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.945846;46.145644
+17315_0487_00025;25;;Chemin de la Ville;17220;17315;Saint-Christophe;;Puyvineux;-0.985278;46.127799
+17315_0366_00017;17;;Chemin des Renfermis;17220;17315;Saint-Christophe;;;-0.94617;46.142893
+17315_0068_00025;25;;Rue des Acacias;17220;17315;Saint-Christophe;;;-0.944084;46.143432
+17315_0135_00003;3;;Impasse des Charrons;17220;17315;Saint-Christophe;;;-0.948206;46.146156
+17315_0157_00010_logt 3;10;logt 3;Route de Cugné;17220;17315;Saint-Christophe;;;-0.950814;46.144029
+17315_0209_00003;3;;Impasse de la Forge;17220;17315;Saint-Christophe;;;-0.945947;46.144843
+17315_0310_00006;6;;Rue de l'Orée du Bois;17220;17315;Saint-Christophe;;;-0.944026;46.144833
+17315_0226_00012;12;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.947207;46.142237
+17315_0355_00018;18;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.966082;46.142281
+17315_0157_00030;30;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.95443;46.142076
+17315_0140_00007;7;;Rue des Chênes;17220;17315;Saint-Christophe;;;-0.944854;46.142501
+17315_0157_00010_logt 2;10;logt 2;Route de Cugné;17220;17315;Saint-Christophe;;;-0.950655;46.144078
+17315_0280_00012_d;12;d;Route de Marans;17220;17315;Saint-Christophe;;;-0.946722;46.144911
+17315_0355_00012;12;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.9667;46.142198
+17315_0410_00012;12;;Route de Saint-Christophe;17220;17315;Saint-Christophe;;La Girardière;-0.931464;46.151806
+17315_0289_00016;16;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.941677;46.147801
+17315_0109_00016;16;;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.947523;46.144287
+17315_0280_00004_bis;4;bis;Route de Marans;17220;17315;Saint-Christophe;;;-0.946063;46.145255
+17315_0289_00006;6;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.945224;46.146972
+17315_0268_00002_b;2;b;Rue des Malettes;17220;17315;Saint-Christophe;;Cugné;-0.969464;46.141012
+17315_0109_00014;14;;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.94765;46.14432
+17315_0439_00002;2;;Rue du Tamelier;17220;17315;Saint-Christophe;;;-0.943821;46.146466
+17315_0188_00011;11;;Rue des Faures;17220;17315;Saint-Christophe;;;-0.942376;46.146869
+17315_0355_00044;44;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.962483;46.142222
+17315_0220_00005;5;;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.97012;46.142004
+17315_0149_00020;20;;Route de Croix Fort;17220;17315;Saint-Christophe;;;-1.005035;46.135941
+17315_0157_00028;28;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.953996;46.142356
+17315_0314_00011;11;;Chemin des Parts;17220;17315;Saint-Christophe;;;-0.95144;46.144669
+17315_0140_00015;15;;Rue des Chênes;17220;17315;Saint-Christophe;;;-0.94486;46.141929
+17315_0109_00020;20;;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.947324;46.144246
+17315_0310_00012;12;;Rue de l'Orée du Bois;17220;17315;Saint-Christophe;;;-0.943915;46.145268
+17315_0439_00005;5;;Rue du Tamelier;17220;17315;Saint-Christophe;;;-0.942597;46.147067
+17315_0280_00028;28;;Route de Marans;17220;17315;Saint-Christophe;;;-0.947902;46.1455
+17315_0099_00002;2;;Impasse des Bouquillons;17220;17315;Saint-Christophe;;;-0.942861;46.146139
+17315_0226_00019;19;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.947427;46.14184
+17315_0246_00002_bis;2;bis;Chemin du Gué;17220;17315;Saint-Christophe;;Le Péré;-0.905757;46.139684
+17315_0280_00016_bis;16;bis;Route de Marans;17220;17315;Saint-Christophe;;;-0.946828;46.145355
+17315_0226_00021;21;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.947466;46.141648
+17315_0109_00012;12;;Petite Rue du Bourg;17220;17315;Saint-Christophe;;;-0.947769;46.144328
+17315_0355_00015;15;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.967479;46.141942
+17315_0148_00003;3;;Impasse du Clair Matin;17220;17315;Saint-Christophe;;Cugné;-0.969779;46.14249
+17315_0415_00005;5;;Rue Saint Exupery;17220;17315;Saint-Christophe;;;-1.002087;46.135204
+17315_0220_00003;3;;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.969815;46.141942
+17315_0355_00020;20;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.965881;46.142324
+17315_0149_00014;14;;Route de Croix Fort;17220;17315;Saint-Christophe;;;-1.005758;46.135964
+17315_0314_00005;5;;Chemin des Parts;17220;17315;Saint-Christophe;;;-0.9509;46.144515
+17315_s26kmo_00006;6;;Chemin de Babedec;17220;17315;Saint-Christophe;;La Girardière;-0.924887;46.153094
+17315_0226_00013;13;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.947327;46.142367
+17315_0157_00002_bis;2;bis;Route de Cugné;17220;17315;Saint-Christophe;;;-0.948837;46.145391
+17315_0310_00005;5;;Rue de l'Orée du Bois;17220;17315;Saint-Christophe;;;-0.94411;46.145366
+17315_0302_00009;9;;Chemin Moulin du Rompis;17220;17315;Saint-Christophe;;;-0.941291;46.143624
+17315_0268_00006_bis;6;bis;Rue des Malettes;17220;17315;Saint-Christophe;;Cugné;-0.969818;46.140235
+17315_0157_00021_quater;21;quater;Route de Cugné;17220;17315;Saint-Christophe;;;-0.953044;46.143048
+17315_0478_00001;1;;Chemin Vert;17220;17315;Saint-Christophe;;;-0.950272;46.144178
+17315_0099_00004;4;;Impasse des Bouquillons;17220;17315;Saint-Christophe;;;-0.94279;46.146089
+17315_0226_00006;6;;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.946962;46.143311
+17315_0185_00002;2;;Rue des Erables;17220;17315;Saint-Christophe;;;-0.945062;46.142753
+17315_0410_00009;9;;Route de Saint-Christophe;17220;17315;Saint-Christophe;;La Girardière;-0.931095;46.152366
+17315_0157_00047;47;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.957327;46.140745
+17315_0355_00010;10;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.967369;46.142081
+17315_0140_00011;11;;Rue des Chênes;17220;17315;Saint-Christophe;;;-0.94486;46.14227
+17315_0226_00002_ter;2;ter;Chemin de Gâte Chien;17220;17315;Saint-Christophe;;;-0.946901;46.143491
+17315_0179_00002_logt 1;2;logt 1;Chemin de l'Eglise;17220;17315;Saint-Christophe;;;-0.947931;46.14598
+17315_0076_00010;10;;Rue des Amourettes;17220;17315;Saint-Christophe;;;-0.943886;46.146682
+17315_0327_00005;5;;Chemin du Péré;17220;17315;Saint-Christophe;;La Panonnière;-0.92443;46.132379
+17315_0355_00008_bis;8;bis;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.967624;46.141994
+17315_0140_00001;1;;Rue des Chênes;17220;17315;Saint-Christophe;;;-0.944571;46.143173
+17315_0074_00007;7;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.944211;46.144359
+17315_0071_00033;33;;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.979512;46.125819
+17315_0498_00019;19;;Chemin de Virson;17220;17315;Saint-Christophe;;Puyvineux;-0.981522;46.127555
+17315_0280_00007;7;;Route de Marans;17220;17315;Saint-Christophe;;;-0.946673;46.145437
+17315_0199_00001;1;;Rue des Fleurs;17220;17315;Saint-Christophe;;La Girardière;-0.928402;46.152562
+17315_0268_00002_a;2;a;Rue des Malettes;17220;17315;Saint-Christophe;;Cugné;-0.969412;46.141221
+17315_0410_00014;14;;Route de Saint-Christophe;17220;17315;Saint-Christophe;;La Girardière;-0.931782;46.151696
+17315_0502_00005;5;;Route de Virson;17220;17315;Saint-Christophe;;La Panonnière;-0.923618;46.132672
+17315_0502_00008;8;;Route de Virson;17220;17315;Saint-Christophe;;La Panonnière;-0.923581;46.132946
+17315_0220_00007;7;;Rue du Frêne;17220;17315;Saint-Christophe;;Cugné;-0.970301;46.142028
+17315_0071_00027_bis;27;bis;Chemin d'Aigrefeuille;17220;17315;Saint-Christophe;;Puyvineux;-0.980848;46.126265
+17315_0068_00001;1;;Rue des Acacias;17220;17315;Saint-Christophe;;;-0.944635;46.142069
+17315_0398_00005;5;;Route de la Rochelle;17220;17315;Saint-Christophe;;Le Péré;-0.907526;46.140519
+17315_0199_00001_bis;1;bis;Rue des Fleurs;17220;17315;Saint-Christophe;;La Girardière;-0.928355;46.152798
+17315_0268_00004;4;;Rue des Malettes;17220;17315;Saint-Christophe;;Cugné;-0.969501;46.140814
+17315_0157_00013_bis;13;bis;Route de Cugné;17220;17315;Saint-Christophe;;;-0.95131;46.144163
+17315_0157_00010_logt 1;10;logt 1;Route de Cugné;17220;17315;Saint-Christophe;;;-0.950611;46.144093
+17315_0355_00047;47;;Rue des Prairies;17220;17315;Saint-Christophe;;Cugné;-0.964372;46.142217
+17315_0246_00004;4;;Chemin du Gué;17220;17315;Saint-Christophe;;Le Péré;-0.905754;46.139795
+17315_0074_00032;32;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.943536;46.141695
+17315_0099_00010;10;;Impasse des Bouquillons;17220;17315;Saint-Christophe;;;-0.942493;46.146057
+17315_0179_00002_logt 3;2;logt 3;Chemin de l'Eglise;17220;17315;Saint-Christophe;;;-0.947848;46.146298
+17315_0074_00003;3;;Route d'Aigrefeuille;17220;17315;Saint-Christophe;;;-0.944825;46.144739
+17315_0157_00012;12;;Route de Cugné;17220;17315;Saint-Christophe;;;-0.951259;46.143903
+17315_0289_00012;12;;Route de la Mazurie;17220;17315;Saint-Christophe;;;-0.942418;46.147724

@@ -1,0 +1,803 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+07207_m7d9y2_00185;185;;Impasse de la Vista;07120;07207;Saint-Alban-Auriolles;;;4.283424;44.417694
+07207_m7d9y2_00230;230;;Impasse de la Vista;07120;07207;Saint-Alban-Auriolles;;;4.283358;44.417992
+07207_z6kn38_00030;30;;Impasse de la Rameille;07120;07207;Saint-Alban-Auriolles;;;4.289302;44.422177
+07207_0201_00035;35;;Passage de la Resurgence;07120;07207;Saint-Alban-Auriolles;;;4.296688;44.427905
+07207_0010_00115;115;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.300987;44.428479
+07207_0010_00175;175;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.301427;44.428968
+07207_1ytzv9_00075;75;;Chemin de Bousseyron;07120;07207;Saint-Alban-Auriolles;;;4.317954;44.435834
+07207_oyzidm_00060;60;;Impasse des Ecureuils;07120;07207;Saint-Alban-Auriolles;;;4.307133;44.432519
+07207_65806g_00025;25;;Le Carrièrou;07120;07207;Saint-Alban-Auriolles;;;4.298895;44.42543
+07207_0010_00370;370;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.30314;44.43019
+07207_0010_00540;540;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.303997;44.431647
+07207_0163_00170;170;;Chemin de Chavetourte;07120;07207;Saint-Alban-Auriolles;;;4.32562;44.445207
+07207_0037_00485;485;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.311223;44.436558
+07207_0037_00660;660;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.308636;44.436965
+07207_0037_00730;730;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.307496;44.437129
+07207_0037_01150;1150;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.306057;44.439596
+07207_0063_00245;245;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.287355;44.419243
+07207_0197_00745;745;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295741;44.438289
+07207_0197_00870;870;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295583;44.439643
+07207_0137_00030;30;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.298585;44.425295
+07207_b080_00420;420;;Combe de la Rameille;07120;07207;Saint-Alban-Auriolles;;;4.290573;44.422376
+07207_0199_00125;125;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.314915;44.434848
+07207_0038_00070;70;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.324526;44.442778
+07207_9wj1fh_00020;20;;Calade de la Rouisserie;07120;07207;Saint-Alban-Auriolles;;;4.299043;44.425024
+07207_0010_00240;240;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.301874;44.429308
+07207_0010_00485;485;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.30384;44.431132
+07207_0163_00240;240;;Chemin de Chavetourte;07120;07207;Saint-Alban-Auriolles;;;4.325499;44.445855
+07207_0152_00130;130;;Rue de Bourgène;07120;07207;Saint-Alban-Auriolles;;;4.303737;44.428646
+07207_0063_00300;300;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.286434;44.418713
+07207_0063_00375;375;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.285818;44.41828
+07207_0197_00240;240;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295915;44.433254
+07207_0197_00525;525;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295639;44.435657
+07207_0197_00910;910;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.29547;44.439963
+07207_0197_01160;1160;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.29507;44.440981
+07207_0137_00085;85;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.298744;44.425828
+07207_0137_00145;145;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.299185;44.426365
+07207_0199_00300;300;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.316316;44.436232
+07207_0199_00470;470;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.315327;44.437472
+07207_0199_01190;1190;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.316317;44.443264
+07207_0038_00280;280;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.322892;44.442734
+07207_0010_00330;330;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.302674;44.429931
+07207_0163_00315;315;;Chemin de Chavetourte;07120;07207;Saint-Alban-Auriolles;;;4.32431;44.446101
+07207_0163_00430;430;;Chemin de Chavetourte;07120;07207;Saint-Alban-Auriolles;;;4.323524;44.446465
+07207_0152_00045;45;;Rue de Bourgène;07120;07207;Saint-Alban-Auriolles;;;4.303626;44.427968
+07207_0037_00005;5;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.313051;44.433162
+07207_0037_00415;415;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.311397;44.436344
+07207_0197_00370;370;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.29571;44.434369
+07207_0197_00465;465;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295559;44.435157
+07207_0137_00060;60;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.298602;44.425519
+07207_b080_00130;130;;Combe de la Rameille;07120;07207;Saint-Alban-Auriolles;;;4.289297;44.421056
+07207_b080_00245;245;;Combe de la Rameille;07120;07207;Saint-Alban-Auriolles;;;4.288951;44.421679
+07207_0199_00170;170;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.31559;44.435433
+07207_0199_00655;655;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.315389;44.439015
+07207_0026_00130;130;;Chemin de Cassagne;07120;07207;Saint-Alban-Auriolles;;;4.314444;44.432231
+07207_0038_00325;325;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.321972;44.442565
+07207_0038_00465;465;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.320275;44.442406
+07207_0141_00010;10;;Avenue Jean Jaurés;07120;07207;Saint-Alban-Auriolles;;;4.295687;44.423104
+07207_0141_00070;70;;Avenue Jean Jaurés;07120;07207;Saint-Alban-Auriolles;;;4.296086;44.423383
+07207_6uhrg1_00040;40;;Place Basse;07120;07207;Saint-Alban-Auriolles;;;4.299535;44.425129
+07207_vkrlkx_00050;50;;Impasse de la Renardière;07120;07207;Saint-Alban-Auriolles;;;4.28404;44.417803
+07207_vkrlkx_00065;65;;Impasse de la Renardière;07120;07207;Saint-Alban-Auriolles;;;4.283918;44.418035
+07207_0152_00220;220;;Rue de Bourgène;07120;07207;Saint-Alban-Auriolles;;;4.303116;44.429356
+07207_0037_00250;250;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.312865;44.435283
+07207_0037_00285;285;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.312725;44.435418
+07207_0063_00010;10;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.288789;44.419196
+07207_0063_00430;430;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.285483;44.418796
+07207_0197_00720;720;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.296119;44.437708
+07207_0197_01220;1220;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.294883;44.44142
+07207_0137_00100;100;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.298914;44.425931
+07207_0199_00805;805;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.314942;44.440268
+07207_0026_00035;35;;Chemin de Cassagne;07120;07207;Saint-Alban-Auriolles;;;4.31419;44.433038
+07207_0038_00440;440;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.320783;44.442645
+07207_0141_00165;165;;Avenue Jean Jaurés;07120;07207;Saint-Alban-Auriolles;;;4.294542;44.425573
+07207_0141_00265;265;;Avenue Jean Jaurés;07120;07207;Saint-Alban-Auriolles;;;4.297645;44.424763
+07207_0013_00265;265;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.295494;44.429407
+07207_0034_00460;460;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.310444;44.444474
+07207_0034_00530;530;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.311242;44.444422
+07207_0194_00630;630;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.312005;44.432412
+07207_0194_01025;1025;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.316203;44.434195
+07207_0194_01565;1565;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.320706;44.437712
+07207_0200_00435;435;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.309096;44.433873
+07207_0179_00650;650;;Chemin de Pérouse;07120;07207;Saint-Alban-Auriolles;;;4.30827;44.436699
+07207_0176_00080;80;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.299425;44.425428
+07207_0176_00205;205;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.300574;44.426191
+07207_0176_00440;440;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.30291;44.427433
+07207_0176_00575;575;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.304264;44.42824
+07207_0032_00785;785;;Chemin du Courbier;07120;07207;Saint-Alban-Auriolles;;;4.308304;44.440615
+07207_0032_00955;955;;Chemin du Courbier;07120;07207;Saint-Alban-Auriolles;;;4.305859;44.441082
+07207_0162_01430;1430;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.283887;44.416277
+07207_0162_01550;1550;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.285136;44.416681
+07207_0140_00125;125;;Rue du Dolmen;07120;07207;Saint-Alban-Auriolles;;;4.297815;44.427041
+07207_0044_00070;70;;Impasse de Bourgène;07120;07207;Saint-Alban-Auriolles;;;4.301922;44.427966
+07207_0136_00125;125;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.300512;44.42731
+07207_0136_00355;355;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.298142;44.427925
+07207_0136_00495;495;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.296923;44.427359
+07207_0134_00395;395;;Rue du Docteur Boissin;07120;07207;Saint-Alban-Auriolles;;;4.299806;44.425373
+07207_0191_00170;170;;Chemin du Robert;07120;07207;Saint-Alban-Auriolles;;;4.295851;44.442205
+07207_0191_00535;535;;Chemin du Robert;07120;07207;Saint-Alban-Auriolles;;;4.299547;44.441699
+07207_0191_00655;655;;Chemin du Robert;07120;07207;Saint-Alban-Auriolles;;;4.301598;44.442334
+07207_0180_00020;20;;Impasse du Pigeonnier;07120;07207;Saint-Alban-Auriolles;;;4.2975;44.425674
+07207_0016_00115;115;;Chemin de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.325092;44.446665
+07207_0135_00050;50;;Rue René Cassin;07120;07207;Saint-Alban-Auriolles;;;4.298003;44.425308
+07207_0133_00265;265;;Rue du Château;07120;07207;Saint-Alban-Auriolles;;;4.295173;44.426027
+07207_0189_00005;5;;Place de la République;07120;07207;Saint-Alban-Auriolles;;;4.29849;44.42501
+07207_0166_00015;15;;Impasse du Docteur Boissin;07120;07207;Saint-Alban-Auriolles;;;4.30282;44.426509
+07207_0196_00090;90;;Impasse du Savel;07120;07207;Saint-Alban-Auriolles;;;4.308786;44.440485
+07207_0160_00155;155;;Impasse des Campanes;07120;07207;Saint-Alban-Auriolles;;;4.29439;44.430318
+07207_0174_00030;30;;Rue des Herbousses;07120;07207;Saint-Alban-Auriolles;;;4.297553;44.42599
+07207_0172_00110;110;;Rue du Grand Champ;07120;07207;Saint-Alban-Auriolles;;;4.297836;44.425694
+07207_0195_00005;5;;Impasse du Sartre;07120;07207;Saint-Alban-Auriolles;;;4.31519;44.434594
+07207_0184_00120;120;;Impasse du Poncet;07120;07207;Saint-Alban-Auriolles;;;4.306789;44.443044
+07207_0178_00040;40;;Rue des Pères;07120;07207;Saint-Alban-Auriolles;;;4.296047;44.427138
+07207_0183_00010;10;;Chemin de la Pompe;07120;07207;Saint-Alban-Auriolles;;;4.298174;44.424735
+07207_0013_00010;10;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.296445;44.427525
+07207_0013_00070;70;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.296221;44.427976
+07207_0013_00235;235;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.295482;44.429133
+07207_0013_00440;440;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.296438;44.430981
+07207_0194_01455;1455;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.319785;44.436807
+07207_0194_02350;2350;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.326094;44.443573
+07207_0200_00555;555;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.310014;44.433998
+07207_0179_00345;345;;Chemin de Pérouse;07120;07207;Saint-Alban-Auriolles;;;4.309818;44.435028
+07207_0176_00020;20;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.298811;44.424936
+07207_0176_00040;40;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.299124;44.425286
+07207_0176_00190;190;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.300314;44.425922
+07207_0032_00705;705;;Chemin du Courbier;07120;07207;Saint-Alban-Auriolles;;;4.308714;44.440703
+07207_0162_01368;1368;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.282988;44.416361
+07207_0162_02270;2270;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.291758;44.420755
+07207_0187_00025;25;;Passage de la Rampette;07120;07207;Saint-Alban-Auriolles;;;4.298113;44.42518
+07207_0136_00200;200;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.299906;44.427917
+07207_0192_00460;460;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.29701;44.431073
+07207_0191_00590;590;;Chemin du Robert;07120;07207;Saint-Alban-Auriolles;;;4.300315;44.441882
+07207_0046_00050;50;;Impasse des Cades;07120;07207;Saint-Alban-Auriolles;;;4.295356;44.432528
+07207_0023_00165;165;;Chemin des Blaches;07120;07207;Saint-Alban-Auriolles;;;4.303265;44.441683
+07207_0016_00265;265;;Chemin de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.326306;44.447826
+07207_0135_00015;15;;Rue René Cassin;07120;07207;Saint-Alban-Auriolles;;;4.297962;44.425056
+07207_0041_00165;165;;Chemin de la Chandelette;07120;07207;Saint-Alban-Auriolles;;;4.317028;44.446224
+07207_0177_00090;90;;Rue de la Pastourelle;07120;07207;Saint-Alban-Auriolles;;;4.29999;44.426748
+07207_0169_00020;20;;Chemin du Four;07120;07207;Saint-Alban-Auriolles;;;4.324981;44.443003
+07207_0011_00055;55;;Rue des Ayres;07120;07207;Saint-Alban-Auriolles;;;4.299498;44.426924
+07207_0057_00035;35;;Impasse du Puits;07120;07207;Saint-Alban-Auriolles;;;4.296792;44.427662
+07207_0019_00070;70;;Impasse de Belvezet;07120;07207;Saint-Alban-Auriolles;;;4.323229;44.440745
+07207_0047_00030;30;;Place de l'Église;07120;07207;Saint-Alban-Auriolles;;;4.298385;44.425707
+07207_0142_00030;30;;Place de la Resistance;07120;07207;Saint-Alban-Auriolles;;;4.298161;44.425353
+07207_oyzidm_00010;10;;Impasse des Ecureuils;07120;07207;Saint-Alban-Auriolles;;;4.306325;44.43245
+07207_0201_00005;5;;Passage de la Resurgence;07120;07207;Saint-Alban-Auriolles;;;4.296572;44.427825
+07207_1ytzv9_00180;180;;Chemin de Bousseyron;07120;07207;Saint-Alban-Auriolles;;;4.317314;44.435766
+07207_m7d9y2_00045;45;;Impasse de la Vista;07120;07207;Saint-Alban-Auriolles;;;4.284235;44.416726
+07207_vkrlkx_00030;30;;Impasse de la Renardière;07120;07207;Saint-Alban-Auriolles;;;4.283768;44.417751
+07207_bhji5a_00025;25;;Traverse de l’Ancienne Poste;07120;07207;Saint-Alban-Auriolles;;;4.297717;44.425166
+07207_0013_00405;405;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.296169;44.4305
+07207_0034_00750;750;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.31384;44.444554
+07207_0034_00835;835;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.314879;44.444884
+07207_0034_00890;890;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.315246;44.444757
+07207_0194_02415;2415;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.326254;44.444042
+07207_0200_00025;25;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.304526;44.432685
+07207_0200_00110;110;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.305442;44.432295
+07207_0200_00285;285;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.307351;44.43323
+07207_0179_00385;385;;Chemin de Pérouse;07120;07207;Saint-Alban-Auriolles;;;4.309721;44.435233
+07207_0176_00105;105;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.299571;44.425623
+07207_0176_00355;355;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.302056;44.427035
+07207_0032_00480;480;;Chemin du Courbier;07120;07207;Saint-Alban-Auriolles;;;4.310792;44.439534
+07207_0053_00025;25;;Impasse du Bourdaric;07120;07207;Saint-Alban-Auriolles;;;4.303511;44.429086
+07207_0173_00250;250;;Chemin de Haute Rive;07120;07207;Saint-Alban-Auriolles;;;4.319548;44.428684
+07207_0018_00045;45;;Chemin du Béal;07120;07207;Saint-Alban-Auriolles;;;4.318808;44.435272
+07207_0192_00255;255;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.297964;44.43013
+07207_0192_00360;360;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.298283;44.431058
+07207_0054_00045;45;;Chemin des Fontaines;07120;07207;Saint-Alban-Auriolles;;;4.301286;44.42603
+07207_0134_00070;70;;Rue du Docteur Boissin;07120;07207;Saint-Alban-Auriolles;;;4.302468;44.426767
+07207_0134_00155;155;;Rue du Docteur Boissin;07120;07207;Saint-Alban-Auriolles;;;4.302095;44.425979
+07207_0168_00085;85;;Impasse des Falaises;07120;07207;Saint-Alban-Auriolles;;;4.325144;44.449395
+07207_0165_01220;1220;;Chemin de la Croix;07120;07207;Saint-Alban-Auriolles;;;4.315784;44.429431
+07207_0023_00035;35;;Chemin des Blaches;07120;07207;Saint-Alban-Auriolles;;;4.301885;44.442152
+07207_0023_00075;75;;Chemin des Blaches;07120;07207;Saint-Alban-Auriolles;;;4.302388;44.442245
+07207_0056_00065;65;;Impasse du Gour du Drague;07120;07207;Saint-Alban-Auriolles;;;4.28213;44.416343
+07207_0196_00155;155;;Impasse du Savel;07120;07207;Saint-Alban-Auriolles;;;4.30775;44.439991
+07207_0022_00135;135;;Impasse de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.327062;44.44972
+07207_0014_00020;20;;Impasse de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.29593;44.428143
+07207_0019_00250;250;;Impasse de Belvezet;07120;07207;Saint-Alban-Auriolles;;;4.321369;44.440949
+07207_0174_00150;150;;Rue des Herbousses;07120;07207;Saint-Alban-Auriolles;;;4.296756;44.426102
+07207_0175_00105;105;;Chemin des Oliviers;07120;07207;Saint-Alban-Auriolles;;;4.326823;44.446695
+07207_m7d9y2_00245;245;;Impasse de la Vista;07120;07207;Saint-Alban-Auriolles;;;4.28299;44.418107
+07207_65806g_00010;10;;Le Carrièrou;07120;07207;Saint-Alban-Auriolles;;;4.29893;44.425552
+07207_0010_00120;120;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.301208;44.428533
+07207_0151_00115;115;;Impasse Bouchet;07120;07207;Saint-Alban-Auriolles;;;4.325744;44.44437
+07207_0141_00305;305;;Avenue Jean Jaurés;07120;07207;Saint-Alban-Auriolles;;;4.29775;44.424957
+07207_0013_00135;135;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.296142;44.428413
+07207_0034_00700;700;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.312853;44.444025
+07207_0200_00230;230;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.306551;44.432655
+07207_0049_00040;40;;Impasse des Clapas;07120;07207;Saint-Alban-Auriolles;;;4.295331;44.434459
+07207_0162_01605;1605;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.285559;44.417015
+07207_0162_01800;1800;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.27804;44.415135
+07207_0140_00025;25;;Rue du Dolmen;07120;07207;Saint-Alban-Auriolles;;;4.29893;44.426541
+07207_0140_00075;75;;Rue du Dolmen;07120;07207;Saint-Alban-Auriolles;;;4.298347;44.426863
+07207_0044_00055;55;;Impasse de Bourgène;07120;07207;Saint-Alban-Auriolles;;;4.30208;44.427743
+07207_0136_00340;340;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.298357;44.428291
+07207_0192_00035;35;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.299141;44.428476
+07207_0192_00170;170;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.298782;44.42967
+07207_0168_00045;45;;Impasse des Falaises;07120;07207;Saint-Alban-Auriolles;;;4.325584;44.449089
+07207_0165_00085;85;;Chemin de la Croix;07120;07207;Saint-Alban-Auriolles;;;4.302795;44.426154
+07207_0046_00155;155;;Impasse des Cades;07120;07207;Saint-Alban-Auriolles;;;4.294294;44.432891
+07207_0016_00210;210;;Chemin de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.325899;44.447261
+07207_0135_00075;75;;Rue René Cassin;07120;07207;Saint-Alban-Auriolles;;;4.297643;44.425474
+07207_0133_00020;20;;Rue du Château;07120;07207;Saint-Alban-Auriolles;;;4.297389;44.424835
+07207_0041_00095;95;;Chemin de la Chandelette;07120;07207;Saint-Alban-Auriolles;;;4.316254;44.44534
+07207_0022_00045;45;;Impasse de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.32642;44.449161
+07207_0160_00025;25;;Impasse des Campanes;07120;07207;Saint-Alban-Auriolles;;;4.295606;44.430153
+07207_0019_00135;135;;Impasse de Belvezet;07120;07207;Saint-Alban-Auriolles;;;4.322596;44.440981
+07207_0182_00050;50;;Impasse du Planas;07120;07207;Saint-Alban-Auriolles;;;4.312741;44.444996
+07207_0172_00030;30;;Rue du Grand Champ;07120;07207;Saint-Alban-Auriolles;;;4.297337;44.425208
+07207_0170_00030;30;;Impasse des Fraysses;07120;07207;Saint-Alban-Auriolles;;;4.312058;44.444196
+07207_9wj1fh_00010;10;;Calade de la Rouisserie;07120;07207;Saint-Alban-Auriolles;;;4.298941;44.425163
+07207_m7d9y2_00170;170;;Impasse de la Vista;07120;07207;Saint-Alban-Auriolles;;;4.283724;44.417596
+07207_z6kn38_00050;50;;Impasse de la Rameille;07120;07207;Saint-Alban-Auriolles;;;4.289233;44.422455
+07207_0010_00160;160;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.301453;44.428795
+07207_0163_00060;60;;Chemin de Chavetourte;07120;07207;Saint-Alban-Auriolles;;;4.326706;44.445601
+07207_0163_00310;310;;Chemin de Chavetourte;07120;07207;Saint-Alban-Auriolles;;;4.324858;44.446048
+07207_0037_00315;315;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.312605;44.435547
+07207_0037_00385;385;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.311569;44.436227
+07207_0197_00200;200;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.296011;44.432845
+07207_0137_00010;10;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.298472;44.425155
+07207_0137_00080;80;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.298752;44.425718
+07207_b080_00235;235;;Combe de la Rameille;07120;07207;Saint-Alban-Auriolles;;;4.288817;44.421589
+07207_0199_00185;185;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.315623;44.435574
+07207_0199_00630;630;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.315638;44.438798
+07207_0013_00035;35;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.296298;44.427637
+07207_0013_00060;60;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.296278;44.427879
+07207_0013_00215;215;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.295592;44.428999
+07207_0034_00755;755;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.313894;44.444654
+07207_0194_01385;1385;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.31925;44.436274
+07207_0194_01700;1700;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.32176;44.438614
+07207_0176_00075;75;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.299136;44.425514
+07207_0176_00450;450;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.303111;44.427545
+07207_0032_00805;805;;Chemin du Courbier;07120;07207;Saint-Alban-Auriolles;;;4.307622;44.440773
+07207_0140_00070;70;;Rue du Dolmen;07120;07207;Saint-Alban-Auriolles;;;4.298576;44.426801
+07207_0192_00265;265;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.297966;44.43026
+07207_0134_00090;90;;Rue du Docteur Boissin;07120;07207;Saint-Alban-Auriolles;;;4.302518;44.426582
+07207_0191_00540;540;;Chemin du Robert;07120;07207;Saint-Alban-Auriolles;;;4.299561;44.441525
+07207_0191_00570;570;;Chemin du Robert;07120;07207;Saint-Alban-Auriolles;;;4.300077;44.441823
+07207_0165_00055;55;;Chemin de la Croix;07120;07207;Saint-Alban-Auriolles;;;4.30272;44.426038
+07207_0045_00040;40;;Impasse de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.307986;44.43661
+07207_0016_00120;120;;Chemin de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.325283;44.446685
+07207_0016_00275;275;;Chemin de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.32629;44.447925
+07207_0135_00010;10;;Rue René Cassin;07120;07207;Saint-Alban-Auriolles;;;4.298106;44.425
+07207_0135_00055;55;;Rue René Cassin;07120;07207;Saint-Alban-Auriolles;;;4.297903;44.425294
+07207_0133_00180;180;;Rue du Château;07120;07207;Saint-Alban-Auriolles;;;4.295816;44.425626
+07207_0196_00165;165;;Impasse du Savel;07120;07207;Saint-Alban-Auriolles;;;4.307607;44.44
+07207_0160_00150;150;;Impasse des Campanes;07120;07207;Saint-Alban-Auriolles;;;4.294532;44.430434
+07207_0019_00215;215;;Impasse de Belvezet;07120;07207;Saint-Alban-Auriolles;;;4.321552;44.440926
+07207_0174_00050;50;;Rue des Herbousses;07120;07207;Saint-Alban-Auriolles;;;4.297321;44.426085
+07207_0161_00070;70;;Impasse de la Carrière;07120;07207;Saint-Alban-Auriolles;;;4.322436;44.440003
+07207_0151_00085;85;;Impasse Bouchet;07120;07207;Saint-Alban-Auriolles;;;4.325977;44.444479
+07207_0010_00245;245;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.301738;44.429379
+07207_0010_00320;320;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.302583;44.429876
+07207_0163_00255;255;;Chemin de Chavetourte;07120;07207;Saint-Alban-Auriolles;;;4.32513;44.445637
+07207_0163_00470;470;;Chemin de Chavetourte;07120;07207;Saint-Alban-Auriolles;;;4.323217;44.446594
+07207_0152_00015;15;;Rue de Bourgène;07120;07207;Saint-Alban-Auriolles;;;4.303147;44.427802
+07207_0152_00205;205;;Rue de Bourgène;07120;07207;Saint-Alban-Auriolles;;;4.303197;44.429196
+07207_0037_00225;225;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.312798;44.435084
+07207_0037_00810;810;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.307133;44.437105
+07207_0063_00190;190;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.287044;44.41938
+07207_0063_00320;320;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.286256;44.41858
+07207_0063_00365;365;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.286026;44.418293
+07207_0197_00400;400;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295683;44.434684
+07207_0197_00455;455;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295536;44.435111
+07207_0197_00640;640;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.296098;44.437269
+07207_0137_00135;135;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.299127;44.426308
+07207_0199_00050;50;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.315093;44.434364
+07207_0026_00065;65;;Chemin de Cassagne;07120;07207;Saint-Alban-Auriolles;;;4.314407;44.43281
+07207_0038_00145;145;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.32424;44.442338
+07207_0038_00760;760;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.317533;44.443536
+07207_0141_00160;160;;Avenue Jean Jaurés;07120;07207;Saint-Alban-Auriolles;;;4.296601;44.424142
+07207_0141_00275;275;;Avenue Jean Jaurés;07120;07207;Saint-Alban-Auriolles;;;4.297682;44.424874
+07207_0013_00280;280;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.295808;44.429492
+07207_0013_00445;445;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.296218;44.430985
+07207_0034_00550;550;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.311471;44.444435
+07207_0034_00690;690;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.312806;44.444462
+07207_0194_02750;2750;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.328659;44.446428
+07207_0200_00120;120;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.30552;44.432293
+07207_0200_00155;155;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.306065;44.432593
+07207_0200_00315;315;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.307677;44.433308
+07207_0200_00560;560;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.310014;44.433852
+07207_0179_00295;295;;Chemin de Pérouse;07120;07207;Saint-Alban-Auriolles;;;4.310005;44.434706
+07207_0179_00595;595;;Chemin de Pérouse;07120;07207;Saint-Alban-Auriolles;;;4.308231;44.436477
+07207_0176_00010;10;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.298585;44.425051
+07207_0176_00175;175;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.300281;44.426013
+07207_0032_00520;520;;Chemin du Courbier;07120;07207;Saint-Alban-Auriolles;;;4.310491;44.439795
+07207_0032_00685;685;;Chemin du Courbier;07120;07207;Saint-Alban-Auriolles;;;4.309094;44.440664
+07207_0032_00915;915;;Chemin du Courbier;07120;07207;Saint-Alban-Auriolles;;;4.306112;44.440902
+07207_0162_01460;1460;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.284049;44.416306
+07207_0162_01675;1675;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.286402;44.417343
+07207_0187_00010;10;;Passage de la Rampette;07120;07207;Saint-Alban-Auriolles;;;4.298331;44.42513
+07207_0140_00045;45;;Rue du Dolmen;07120;07207;Saint-Alban-Auriolles;;;4.298686;44.426668
+07207_0044_00050;50;;Impasse de Bourgène;07120;07207;Saint-Alban-Auriolles;;;4.302254;44.427868
+07207_0044_00100;100;;Impasse de Bourgène;07120;07207;Saint-Alban-Auriolles;;;4.301577;44.427767
+07207_0018_00075;75;;Chemin du Béal;07120;07207;Saint-Alban-Auriolles;;;4.318987;44.435056
+07207_0136_00360;360;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.298056;44.428031
+07207_0192_00465;465;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.297029;44.430965
+07207_0154_00020;20;;Place Aristide Briand;07120;07207;Saint-Alban-Auriolles;;;4.299704;44.426005
+07207_0023_00080;80;;Chemin des Blaches;07120;07207;Saint-Alban-Auriolles;;;4.302407;44.442136
+07207_0133_00040;40;;Rue du Château;07120;07207;Saint-Alban-Auriolles;;;4.297302;44.424881
+07207_0189_00015;15;;Place de la République;07120;07207;Saint-Alban-Auriolles;;;4.298385;44.424958
+07207_0041_00500;500;;Chemin de la Chandelette;07120;07207;Saint-Alban-Auriolles;;;4.318357;44.446669
+07207_0177_00080;80;;Rue de la Pastourelle;07120;07207;Saint-Alban-Auriolles;;;4.300176;44.426709
+07207_0011_00035;35;;Rue des Ayres;07120;07207;Saint-Alban-Auriolles;;;4.29935;44.42679
+07207_0166_00040;40;;Impasse du Docteur Boissin;07120;07207;Saint-Alban-Auriolles;;;4.302796;44.426444
+07207_0057_00030;30;;Impasse du Puits;07120;07207;Saint-Alban-Auriolles;;;4.296767;44.427556
+07207_0019_00065;65;;Impasse de Belvezet;07120;07207;Saint-Alban-Auriolles;;;4.323066;44.440735
+07207_0019_00175;175;;Impasse de Belvezet;07120;07207;Saint-Alban-Auriolles;;;4.32194;44.441099
+07207_0174_00110;110;;Rue des Herbousses;07120;07207;Saint-Alban-Auriolles;;;4.296766;44.426291
+07207_0047_00040;40;;Place de l'Église;07120;07207;Saint-Alban-Auriolles;;;4.298277;44.425769
+07207_0047_00105;105;;Place de l'Église;07120;07207;Saint-Alban-Auriolles;;;4.298269;44.425406
+07207_0036_00025;25;;Impasse de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.30794;44.444381
+07207_0010_00465;465;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.303753;44.430934
+07207_0152_00165;165;;Rue de Bourgène;07120;07207;Saint-Alban-Auriolles;;;4.303589;44.428757
+07207_0037_00060;60;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.313056;44.433608
+07207_0037_00655;655;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.308748;44.436862
+07207_0063_00060;60;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.288314;44.419556
+07207_0063_00435;435;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.285341;44.418762
+07207_0197_00535;535;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295657;44.435948
+07207_0197_00755;755;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295692;44.438432
+07207_0197_00940;940;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295456;44.440016
+07207_0197_01120;1120;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295248;44.44053
+07207_0137_00065;65;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.298608;44.425647
+07207_0199_00480;480;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.315155;44.437593
+07207_0199_00835;835;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.315294;44.440867
+07207_0026_00115;115;;Chemin de Cassagne;07120;07207;Saint-Alban-Auriolles;;;4.314632;44.432463
+07207_0038_00510;510;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.320052;44.442549
+07207_0141_00295;295;;Avenue Jean Jaurés;07120;07207;Saint-Alban-Auriolles;;;4.29772;44.425005
+07207_0013_00155;155;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.295999;44.428656
+07207_0034_00330;330;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.309024;44.444057
+07207_0034_00815;815;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.314562;44.444891
+07207_0034_00905;905;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.315764;44.444786
+07207_0194_02345;2345;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.325824;44.443383
+07207_0194_02455;2455;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.326497;44.444411
+07207_0200_00415;415;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.308839;44.433718
+07207_0179_00395;395;;Chemin de Pérouse;07120;07207;Saint-Alban-Auriolles;;;4.309598;44.435395
+07207_0049_00045;45;;Impasse des Clapas;07120;07207;Saint-Alban-Auriolles;;;4.295037;44.434387
+07207_0176_00215;215;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.300755;44.426295
+07207_0176_00290;290;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.301501;44.426615
+07207_0176_00540;540;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.304;44.428016
+07207_0162_01355;1355;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.282881;44.416353
+07207_0162_01620;1620;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.285577;44.416925
+07207_0162_02520;2520;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.294022;44.421839
+07207_0140_00130;130;;Rue du Dolmen;07120;07207;Saint-Alban-Auriolles;;;4.297902;44.427064
+07207_0173_00200;200;;Chemin de Haute Rive;07120;07207;Saint-Alban-Auriolles;;;4.31911;44.428997
+07207_0136_00025;25;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.301384;44.426929
+07207_0136_00335;335;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.298404;44.428173
+07207_0192_00080;80;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.299174;44.428814
+07207_0054_00015;15;;Chemin des Fontaines;07120;07207;Saint-Alban-Auriolles;;;4.301067;44.426204
+07207_0168_00100;100;;Impasse des Falaises;07120;07207;Saint-Alban-Auriolles;;;4.324967;44.449284
+07207_0168_00180;180;;Impasse des Falaises;07120;07207;Saint-Alban-Auriolles;;;4.325771;44.449918
+07207_0191_00810;810;;Chemin du Robert;07120;07207;Saint-Alban-Auriolles;;;4.303267;44.442646
+07207_0045_00060;60;;Impasse de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.30819;44.435753
+07207_0016_00205;205;;Chemin de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.325759;44.447317
+07207_0189_00080;80;;Place de la République;07120;07207;Saint-Alban-Auriolles;;;4.298304;44.425018
+07207_0160_00060;60;;Impasse des Campanes;07120;07207;Saint-Alban-Auriolles;;;4.295523;44.430377
+07207_0172_00035;35;;Rue du Grand Champ;07120;07207;Saint-Alban-Auriolles;;;4.297258;44.425257
+07207_0172_00090;90;;Rue du Grand Champ;07120;07207;Saint-Alban-Auriolles;;;4.297744;44.425612
+07207_0142_00020;20;;Place de la Resistance;07120;07207;Saint-Alban-Auriolles;;;4.298114;44.425311
+07207_0010_00385;385;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.303198;44.430412
+07207_0010_00575;575;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.30398;44.432051
+07207_0037_00490;490;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.311223;44.43683
+07207_0037_00970;970;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.306543;44.438246
+07207_0197_00850;850;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295771;44.439199
+07207_0137_00025;25;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.298465;44.425246
+07207_0137_00115;115;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.298972;44.4261
+07207_b080_00195;195;;Combe de la Rameille;07120;07207;Saint-Alban-Auriolles;;;4.288573;44.42114
+07207_b080_00430;430;;Combe de la Rameille;07120;07207;Saint-Alban-Auriolles;;;4.290907;44.422519
+07207_0199_00235;235;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.316157;44.436126
+07207_0199_01020;1020;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.315886;44.44172
+07207_0038_00210;210;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.323297;44.442783
+07207_0038_00340;340;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.322016;44.442888
+07207_0038_00430;430;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.321051;44.442688
+07207_0141_00090;90;;Avenue Jean Jaurés;07120;07207;Saint-Alban-Auriolles;;;4.296212;44.42362
+07207_0013_00390;390;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.296159;44.430194
+07207_0194_00375;375;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.308985;44.430868
+07207_0194_01225;1225;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.318038;44.43519
+07207_0176_00045;45;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.298964;44.425296
+07207_0176_00110;110;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.299652;44.425569
+07207_0053_00030;30;;Impasse du Bourdaric;07120;07207;Saint-Alban-Auriolles;;;4.303766;44.429108
+07207_0162_01535;1535;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.284825;44.416605
+07207_0136_00245;245;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.299301;44.428062
+07207_0136_00455;455;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.297457;44.427499
+07207_0192_00155;155;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.298725;44.42943
+07207_0192_00320;320;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.298448;44.430713
+07207_0134_00145;145;;Rue du Docteur Boissin;07120;07207;Saint-Alban-Auriolles;;;4.302193;44.426118
+07207_0134_00410;410;;Rue du Docteur Boissin;07120;07207;Saint-Alban-Auriolles;;;4.299147;44.425235
+07207_0168_00025;25;;Impasse des Falaises;07120;07207;Saint-Alban-Auriolles;;;4.325897;44.44897
+07207_0046_00045;45;;Impasse des Cades;07120;07207;Saint-Alban-Auriolles;;;4.295683;44.432464
+07207_0023_00150;150;;Chemin des Blaches;07120;07207;Saint-Alban-Auriolles;;;4.303035;44.44165
+07207_0056_00075;75;;Impasse du Gour du Drague;07120;07207;Saint-Alban-Auriolles;;;4.281858;44.416372
+07207_0180_00015;15;;Impasse du Pigeonnier;07120;07207;Saint-Alban-Auriolles;;;4.297453;44.425611
+07207_0135_00070;70;;Rue René Cassin;07120;07207;Saint-Alban-Auriolles;;;4.297835;44.425415
+07207_0169_00035;35;;Chemin du Four;07120;07207;Saint-Alban-Auriolles;;;4.324961;44.443108
+07207_0196_00085;85;;Impasse du Savel;07120;07207;Saint-Alban-Auriolles;;;4.30868;44.440068
+07207_0022_00035;35;;Impasse de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.326345;44.449103
+07207_0022_00150;150;;Impasse de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.327281;44.44974
+07207_0138_00065;65;;Rue du Docteur Chalvet;07120;07207;Saint-Alban-Auriolles;;;4.299472;44.42632
+07207_0182_00055;55;;Impasse du Planas;07120;07207;Saint-Alban-Auriolles;;;4.312894;44.444998
+07207_0175_00075;75;;Chemin des Oliviers;07120;07207;Saint-Alban-Auriolles;;;4.326529;44.446857
+07207_0195_00025;25;;Impasse du Sartre;07120;07207;Saint-Alban-Auriolles;;;4.315312;44.434533
+07207_0052_00070;70;;Impasse des Raymonds;07120;07207;Saint-Alban-Auriolles;;;4.300181;44.428796
+07207_vkrlkx_00055;55;;Impasse de la Renardière;07120;07207;Saint-Alban-Auriolles;;;4.283723;44.417945
+07207_0201_00045;45;;Passage de la Resurgence;07120;07207;Saint-Alban-Auriolles;;;4.296798;44.427931
+07207_0010_00135;135;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.301178;44.428692
+07207_0010_00335;335;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.302614;44.430057
+07207_0010_00720;720;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.304598;44.43323
+07207_0163_00175;175;;Chemin de Chavetourte;07120;07207;Saint-Alban-Auriolles;;;4.325477;44.445368
+07207_0163_00365;365;;Chemin de Chavetourte;07120;07207;Saint-Alban-Auriolles;;;4.323781;44.44629
+07207_0163_00675;675;;Chemin de Chavetourte;07120;07207;Saint-Alban-Auriolles;;;4.321229;44.447952
+07207_0037_00195;195;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.311747;44.43483
+07207_0037_00920;920;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.306746;44.438074
+07207_0037_01180;1180;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.305879;44.440313
+07207_0197_00280;280;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295849;44.433572
+07207_0197_00450;450;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295692;44.435128
+07207_0197_00505;505;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295557;44.435235
+07207_0197_01175;1175;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.294969;44.441006
+07207_0137_00020;20;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.298524;44.425207
+07207_b080_00230;230;;Combe de la Rameille;07120;07207;Saint-Alban-Auriolles;;;4.288804;44.42141
+07207_b080_00300;300;;Combe de la Rameille;07120;07207;Saint-Alban-Auriolles;;;4.28968;44.421973
+07207_6uhrg1_00030;30;;Place Basse;07120;07207;Saint-Alban-Auriolles;;;4.299374;44.425068
+07207_m7d9y2_00110;110;;Impasse de la Vista;07120;07207;Saint-Alban-Auriolles;;;4.284111;44.417189
+07207_6wsgjq_00060;60;;Impasse d’Authijol;07120;07207;Saint-Alban-Auriolles;;;4.305477;44.433356
+07207_vkrlkx_00060;60;;Impasse de la Renardière;07120;07207;Saint-Alban-Auriolles;;;4.284251;44.417876
+07207_0152_00100;100;;Rue de Bourgène;07120;07207;Saint-Alban-Auriolles;;;4.303842;44.428228
+07207_0063_00080;80;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.288148;44.419641
+07207_0063_00265;265;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.286652;44.418833
+07207_0063_00415;415;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.285629;44.418452
+07207_0197_00095;95;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.296097;44.431715
+07207_0197_00415;415;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.29552;44.434767
+07207_0197_00510;510;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295709;44.435387
+07207_0197_00785;785;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295663;44.438754
+07207_1ytzv9_00230;230;;Chemin de Bousseyron;07120;07207;Saint-Alban-Auriolles;;;4.316499;44.435962
+07207_m7d9y2_00190;190;;Impasse de la Vista;07120;07207;Saint-Alban-Auriolles;;;4.283621;44.417728
+07207_6wsgjq_00030;30;;Impasse d’Authijol;07120;07207;Saint-Alban-Auriolles;;;4.305102;44.433177
+07207_0010_00190;190;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.301639;44.429048
+07207_0010_00450;450;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.303612;44.430611
+07207_0163_00285;285;;Chemin de Chavetourte;07120;07207;Saint-Alban-Auriolles;;;4.324811;44.445876
+07207_0152_00195;195;;Rue de Bourgène;07120;07207;Saint-Alban-Auriolles;;;4.3033;44.429071
+07207_0037_00665;665;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.30783;44.436995
+07207_0063_00180;180;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.287288;44.419399
+07207_0197_00115;115;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.296033;44.43195
+07207_0197_00605;605;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295911;44.437179
+07207_0197_00735;735;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.296025;44.437531
+07207_0197_00885;885;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295469;44.439727
+07207_0197_01115;1115;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295125;44.440494
+07207_b080_00100;100;;Combe de la Rameille;07120;07207;Saint-Alban-Auriolles;;;4.28961;44.420864
+07207_0199_00020;20;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.31516;44.434198
+07207_0199_00710;710;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.315548;44.439266
+07207_0026_00015;15;;Chemin de Cassagne;07120;07207;Saint-Alban-Auriolles;;;4.313889;44.43334
+07207_0137_00120;120;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.29908;44.426149
+07207_b080_00215;215;;Combe de la Rameille;07120;07207;Saint-Alban-Auriolles;;;4.288509;44.421304
+07207_0199_00200;200;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.315853;44.435576
+07207_0199_00960;960;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.316126;44.441323
+07207_0026_00075;75;;Chemin de Cassagne;07120;07207;Saint-Alban-Auriolles;;;4.314528;44.432604
+07207_0038_00195;195;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.323721;44.442449
+07207_0038_00345;345;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.321287;44.442602
+07207_0038_00515;515;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.319669;44.442427
+07207_0141_00040;40;;Avenue Jean Jaurés;07120;07207;Saint-Alban-Auriolles;;;4.295783;44.423162
+07207_0141_00110;110;;Avenue Jean Jaurés;07120;07207;Saint-Alban-Auriolles;;;4.296284;44.423744
+07207_0141_00225;225;;Avenue Jean Jaurés;07120;07207;Saint-Alban-Auriolles;;;4.297565;44.424741
+07207_0013_00245;245;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.295395;44.429205
+07207_0034_00565;565;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.311951;44.444573
+07207_0034_00720;720;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.31345;44.44451
+07207_0194_00865;865;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.314068;44.433644
+07207_0194_01250;1250;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.318455;44.435357
+07207_0200_00065;65;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.305271;44.43244
+07207_0200_00335;335;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.307995;44.433407
+07207_0179_00430;430;;Chemin de Pérouse;07120;07207;Saint-Alban-Auriolles;;;4.309548;44.435725
+07207_0176_00055;55;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.299031;44.425336
+07207_0176_00220;220;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.300908;44.426205
+07207_0038_00030;30;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.325091;44.442752
+07207_0038_00200;200;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.323617;44.442813
+07207_0141_00120;120;;Avenue Jean Jaurés;07120;07207;Saint-Alban-Auriolles;;;4.296358;44.423844
+07207_0013_00055;55;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.296195;44.427847
+07207_0013_00240;240;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.295625;44.429247
+07207_0013_00375;375;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.296021;44.430263
+07207_0013_00430;430;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.296374;44.430566
+07207_0194_02375;2375;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.325985;44.44365
+07207_0194_02725;2725;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.328427;44.446415
+07207_0179_00165;165;;Chemin de Pérouse;07120;07207;Saint-Alban-Auriolles;;;4.310488;44.433682
+07207_0176_00025;25;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.298773;44.425191
+07207_0032_00895;895;;Chemin du Courbier;07120;07207;Saint-Alban-Auriolles;;;4.306833;44.440829
+07207_0032_00985;985;;Chemin du Courbier;07120;07207;Saint-Alban-Auriolles;;;4.305933;44.441468
+07207_0162_01585;1585;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.285183;44.416786
+07207_0136_00150;150;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.300157;44.427588
+07207_0136_00400;400;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.297721;44.427789
+07207_0054_00085;85;;Chemin des Fontaines;07120;07207;Saint-Alban-Auriolles;;;4.301583;44.425784
+07207_0168_00015;15;;Impasse des Falaises;07120;07207;Saint-Alban-Auriolles;;;4.326007;44.448898
+07207_0191_00565;565;;Chemin du Robert;07120;07207;Saint-Alban-Auriolles;;;4.30035;44.44198
+07207_0154_00040;40;;Place Aristide Briand;07120;07207;Saint-Alban-Auriolles;;;4.299461;44.425822
+07207_0046_00110;110;;Impasse des Cades;07120;07207;Saint-Alban-Auriolles;;;4.294769;44.432782
+07207_0181_00160;160;;Chemin de la Plaine;07120;07207;Saint-Alban-Auriolles;;;4.318641;44.431295
+07207_0016_00055;55;;Chemin de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.324675;44.446499
+07207_0135_00045;45;;Rue René Cassin;07120;07207;Saint-Alban-Auriolles;;;4.297957;44.425261
+07207_0164_00055;55;;Impasse du Courbier;07120;07207;Saint-Alban-Auriolles;;;4.309709;44.440826
+07207_0133_00335;335;;Rue du Château;07120;07207;Saint-Alban-Auriolles;;;4.295632;44.426549
+07207_0177_00110;110;;Rue de la Pastourelle;07120;07207;Saint-Alban-Auriolles;;;4.29961;44.42691
+07207_0196_00145;145;;Impasse du Savel;07120;07207;Saint-Alban-Auriolles;;;4.30787;44.439983
+07207_0022_00095;95;;Impasse de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.326647;44.449526
+07207_0022_00165;165;;Impasse de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.327232;44.449806
+07207_0019_00085;85;;Impasse de Belvezet;07120;07207;Saint-Alban-Auriolles;;;4.323074;44.441005
+07207_0174_00225;225;;Rue des Herbousses;07120;07207;Saint-Alban-Auriolles;;;4.295991;44.426475
+07207_0172_00020;20;;Rue du Grand Champ;07120;07207;Saint-Alban-Auriolles;;;4.297289;44.425194
+07207_6uhrg1_00010;10;;Place Basse;07120;07207;Saint-Alban-Auriolles;;;4.299123;44.425083
+07207_m7d9y2_00285;285;;Impasse de la Vista;07120;07207;Saint-Alban-Auriolles;;;4.282699;44.418371
+07207_r0yenr_00070;70;;impasse de la grotte;07120;07207;Saint-Alban-Auriolles;;;4.327308;44.448496
+07207_0010_00275;275;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.302179;44.42974
+07207_0010_00510;510;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.30404;44.431243
+07207_0152_00065;65;;Rue de Bourgène;07120;07207;Saint-Alban-Auriolles;;;4.30371;44.428013
+07207_0037_00265;265;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.312736;44.435287
+07207_0037_00420;420;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.311718;44.436435
+07207_0063_00255;255;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.286909;44.419057
+07207_0063_00400;400;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.285816;44.418399
+07207_0199_00140;140;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.315248;44.435057
+07207_9wj1fh_00035;35;;Calade de la Rouisserie;07120;07207;Saint-Alban-Auriolles;;;4.299153;44.42484
+07207_m7d9y2_00135;135;;Impasse de la Vista;07120;07207;Saint-Alban-Auriolles;;;4.283771;44.417342
+07207_z37xkl_00120;120;;Impasse des Gras;07120;07207;Saint-Alban-Auriolles;;;4.282057;44.416992
+07207_0152_00245;245;;Rue de Bourgène;07120;07207;Saint-Alban-Auriolles;;;4.302934;44.429434
+07207_0037_00355;355;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.311496;44.435889
+07207_0037_00635;635;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.30937;44.436621
+07207_0063_00345;345;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.286145;44.418352
+07207_0197_00790;790;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295881;44.438623
+07207_0137_00040;40;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.298589;44.425381
+07207_0137_00075;75;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.298689;44.425745
+07207_0137_00090;90;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.298813;44.425793
+07207_0137_00125;125;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.299035;44.42621
+07207_0199_00225;225;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.316068;44.435976
+07207_0199_00305;305;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.316154;44.436248
+07207_0199_00540;540;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.315139;44.437887
+07207_0199_01000;1000;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.315993;44.441512
+07207_1ytzv9_00195;195;;Chemin de Bousseyron;07120;07207;Saint-Alban-Auriolles;;;4.316636;44.435747
+07207_m7d9y2_00205;205;;Impasse de la Vista;07120;07207;Saint-Alban-Auriolles;;;4.283339;44.417827
+07207_0010_00130;130;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.301305;44.428627
+07207_0010_00435;435;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.303396;44.430605
+07207_0010_00630;630;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.304184;44.432368
+07207_0163_00230;230;;Chemin de Chavetourte;07120;07207;Saint-Alban-Auriolles;;;4.32564;44.445721
+07207_0163_00260;260;;Chemin de Chavetourte;07120;07207;Saint-Alban-Auriolles;;;4.325228;44.445923
+07207_0163_00670;670;;Chemin de Chavetourte;07120;07207;Saint-Alban-Auriolles;;;4.321459;44.447627
+07207_0152_00325;325;;Rue de Bourgène;07120;07207;Saint-Alban-Auriolles;;;4.302614;44.429703
+07207_0037_00185;185;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.312846;44.43472
+07207_0037_00270;270;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.312824;44.435517
+07207_0037_00515;515;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.310422;44.436673
+07207_0037_00900;900;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.306952;44.437802
+07207_0197_00330;330;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295772;44.434008
+07207_0197_00565;565;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295659;44.436778
+07207_0197_00740;740;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.296112;44.43791
+07207_0137_00015;15;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.298427;44.425195
+07207_0137_00095;95;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.298812;44.425938
+07207_b080_00115;115;;Combe de la Rameille;07120;07207;Saint-Alban-Auriolles;;;4.289213;44.420793
+07207_b080_00370;370;;Combe de la Rameille;07120;07207;Saint-Alban-Auriolles;;;4.289992;44.422215
+07207_0199_00005;5;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.314932;44.434035
+07207_0199_00785;785;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.314973;44.440034
+07207_0038_00315;315;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.32224;44.442508
+07207_0013_00045;45;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.29625;44.427734
+07207_0013_00100;100;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.296287;44.428264
+07207_0013_00435;435;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.296197;44.430836
+07207_0034_00095;95;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.306236;44.443766
+07207_0194_01745;1745;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.321801;44.438814
+07207_0194_02385;2385;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.326135;44.443845
+07207_0194_02460;2460;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.326692;44.444435
+07207_0176_00120;120;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.2999;44.425709
+07207_0176_00500;500;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.303483;44.42771
+07207_0032_00035;35;;Chemin du Courbier;07120;07207;Saint-Alban-Auriolles;;;4.312956;44.435777
+07207_0141_00290;290;;Avenue Jean Jaurés;07120;07207;Saint-Alban-Auriolles;;;4.297928;44.424827
+07207_0013_00190;190;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.295924;44.428946
+07207_0034_00705;705;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.313436;44.444611
+07207_0194_01335;1335;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.318873;44.435895
+07207_0194_01475;1475;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.319957;44.436969
+07207_0194_01835;1835;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.322679;44.439669
+07207_0200_00045;45;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.304887;44.432544
+07207_0200_00145;145;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.305954;44.432559
+07207_0200_00410;410;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.308905;44.433532
+07207_0176_00150;150;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.300163;44.425854
+07207_0162_01400;1400;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.283275;44.41634
+07207_0162_01530;1530;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.284921;44.416553
+07207_0162_01655;1655;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.286082;44.417236
+07207_0140_00150;150;;Rue du Dolmen;07120;07207;Saint-Alban-Auriolles;;;4.29777;44.427136
+07207_0173_00275;275;;Chemin de Haute Rive;07120;07207;Saint-Alban-Auriolles;;;4.319831;44.428643
+07207_z37xkl_00060;60;;Impasse des Gras;07120;07207;Saint-Alban-Auriolles;;;4.282517;44.416568
+07207_0010_00110;110;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.300929;44.428291
+07207_0010_00260;260;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.302088;44.429474
+07207_0010_00535;535;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.303923;44.4315
+07207_0163_00390;390;;Chemin de Chavetourte;07120;07207;Saint-Alban-Auriolles;;;4.324178;44.446437
+07207_0152_00175;175;;Rue de Bourgène;07120;07207;Saint-Alban-Auriolles;;;4.303495;44.428869
+07207_0037_00425;425;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.31111;44.435505
+07207_0063_00005;5;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.28865;44.419149
+07207_0063_00325;325;;Impasse du Mas;07120;07207;Saint-Alban-Auriolles;;;4.286323;44.418448
+07207_0197_01205;1205;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.294854;44.441294
+07207_0137_00070;70;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.298697;44.425653
+07207_0199_00535;535;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.315001;44.437936
+07207_0013_00005;5;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.29639;44.427434
+07207_0013_00290;290;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.295978;44.429692
+07207_0034_00510;510;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.310876;44.444412
+07207_0200_00135;135;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.305726;44.43248
+07207_0176_00035;35;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.298829;44.425217
+07207_0176_00425;425;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.302844;44.427467
+07207_0032_00755;755;;Chemin du Courbier;07120;07207;Saint-Alban-Auriolles;;;4.308359;44.440659
+07207_0026_00110;110;;Chemin de Cassagne;07120;07207;Saint-Alban-Auriolles;;;4.313923;44.432736
+07207_0038_00310;310;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.322292;44.442634
+07207_0038_00360;360;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.3215;44.442723
+07207_0038_00445;445;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.320751;44.44249
+07207_0013_00085;85;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.296191;44.428191
+07207_0034_00590;590;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.311889;44.444387
+07207_0034_00800;800;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.314453;44.444796
+07207_0200_00245;245;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.306876;44.433047
+07207_0049_00015;15;;Impasse des Clapas;07120;07207;Saint-Alban-Auriolles;;;4.295429;44.434411
+07207_0049_00085;85;;Impasse des Clapas;07120;07207;Saint-Alban-Auriolles;;;4.29489;44.434383
+07207_0176_00090;90;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.29952;44.425487
+07207_0176_00195;195;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.300171;44.426412
+07207_0176_00530;530;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.303872;44.427949
+07207_0053_00050;50;;Impasse du Bourdaric;07120;07207;Saint-Alban-Auriolles;;;4.303994;44.429242
+07207_0162_02020;2020;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.289218;44.419547
+07207_0162_02560;2560;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.294572;44.422339
+07207_0140_00065;65;;Rue du Dolmen;07120;07207;Saint-Alban-Auriolles;;;4.298475;44.426779
+07207_0140_00090;90;;Rue du Dolmen;07120;07207;Saint-Alban-Auriolles;;;4.298372;44.426911
+07207_0192_00195;195;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.298529;44.429677
+07207_0192_00305;305;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.298271;44.430652
+07207_0134_00140;140;;Rue du Docteur Boissin;07120;07207;Saint-Alban-Auriolles;;;4.302227;44.426226
+07207_0134_00265;265;;Rue du Docteur Boissin;07120;07207;Saint-Alban-Auriolles;;;4.300845;44.425681
+07207_0168_00145;145;;Impasse des Falaises;07120;07207;Saint-Alban-Auriolles;;;4.3254;44.449777
+07207_0191_00200;200;;Chemin du Robert;07120;07207;Saint-Alban-Auriolles;;;4.296537;44.441901
+07207_0016_00250;250;;Chemin de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.326221;44.447599
+07207_0135_00060;60;;Rue René Cassin;07120;07207;Saint-Alban-Auriolles;;;4.29788;44.425379
+07207_0133_00050;50;;Rue du Château;07120;07207;Saint-Alban-Auriolles;;;4.297142;44.42497
+07207_0174_00020;20;;Rue des Herbousses;07120;07207;Saint-Alban-Auriolles;;;4.297663;44.425896
+07207_0175_00060;60;;Chemin des Oliviers;07120;07207;Saint-Alban-Auriolles;;;4.32625;44.446958
+07207_0136_00320;320;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.29855;44.428341
+07207_0136_00500;500;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.296738;44.427402
+07207_0192_00390;390;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.298008;44.431187
+07207_0192_00500;500;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.296463;44.431136
+07207_0168_00060;60;;Impasse des Falaises;07120;07207;Saint-Alban-Auriolles;;;4.325394;44.449351
+07207_0191_00620;620;;Chemin du Robert;07120;07207;Saint-Alban-Auriolles;;;4.30086;44.442038
+07207_0191_00995;995;;Chemin du Robert;07120;07207;Saint-Alban-Auriolles;;;4.304706;44.443584
+07207_0045_00045;45;;Impasse de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.307963;44.436208
+07207_0189_00035;35;;Place de la République;07120;07207;Saint-Alban-Auriolles;;;4.298255;44.424804
+07207_0041_00145;145;;Chemin de la Chandelette;07120;07207;Saint-Alban-Auriolles;;;4.316944;44.445794
+07207_0177_00015;15;;Rue de la Pastourelle;07120;07207;Saint-Alban-Auriolles;;;4.300641;44.426447
+07207_0169_00180;180;;Chemin du Four;07120;07207;Saint-Alban-Auriolles;;;4.325754;44.443998
+07207_0166_00060;60;;Impasse du Docteur Boissin;07120;07207;Saint-Alban-Auriolles;;;4.302648;44.426263
+07207_0196_00175;175;;Impasse du Savel;07120;07207;Saint-Alban-Auriolles;;;4.307538;44.440025
+07207_0138_00075;75;;Rue du Docteur Chalvet;07120;07207;Saint-Alban-Auriolles;;;4.299291;44.426382
+07207_0174_00070;70;;Rue des Herbousses;07120;07207;Saint-Alban-Auriolles;;;4.297132;44.426182
+07207_1ytzv9_00015;15;;Chemin de Bousseyron;07120;07207;Saint-Alban-Auriolles;;;4.318404;44.435592
+07207_m7d9y2_00270;270;;Impasse de la Vista;07120;07207;Saint-Alban-Auriolles;;;4.283012;44.418283
+07207_bhji5a_00040;40;;Traverse de l’Ancienne Poste;07120;07207;Saint-Alban-Auriolles;;;4.297544;44.425264
+07207_0010_00210;210;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.301752;44.429217
+07207_0010_00340;340;;Rue d'Authijol;07120;07207;Saint-Alban-Auriolles;;;4.302724;44.429991
+07207_0037_00345;345;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.311919;44.436031
+07207_0037_00720;720;;Chemin de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.308152;44.437107
+07207_0197_00890;890;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.295484;44.439882
+07207_0197_00985;985;;Chemin du Silhol;07120;07207;Saint-Alban-Auriolles;;;4.29534;44.440067
+07207_0137_00050;50;;Rue du Chazal;07120;07207;Saint-Alban-Auriolles;;;4.298592;44.425451
+07207_0199_00155;155;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.315231;44.435406
+07207_0199_00355;355;;Chemin de la Vignasse;07120;07207;Saint-Alban-Auriolles;;;4.316184;44.436832
+07207_0026_00025;25;;Chemin de Cassagne;07120;07207;Saint-Alban-Auriolles;;;4.31403;44.433239
+07207_0038_00050;50;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.324773;44.44287
+07207_0038_00455;455;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.320539;44.442452
+07207_0141_00285;285;;Avenue Jean Jaurés;07120;07207;Saint-Alban-Auriolles;;;4.297662;44.424938
+07207_0013_00170;170;;Montée de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.296068;44.428768
+07207_0034_00795;795;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.314208;44.444772
+07207_0034_00865;865;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.315347;44.444836
+07207_0034_00910;910;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.31575;44.444697
+07207_0194_01525;1525;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.320548;44.437551
+07207_0200_00250;250;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.306964;44.432885
+07207_0200_00470;470;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.309614;44.433889
+07207_0179_00155;155;;Chemin de Pérouse;07120;07207;Saint-Alban-Auriolles;;;4.310541;44.43323
+07207_0179_00380;380;;Chemin de Pérouse;07120;07207;Saint-Alban-Auriolles;;;4.309991;44.435329
+07207_0049_00025;25;;Impasse des Clapas;07120;07207;Saint-Alban-Auriolles;;;4.295265;44.434401
+07207_0049_00050;50;;Impasse des Clapas;07120;07207;Saint-Alban-Auriolles;;;4.294944;44.434437
+07207_0176_00100;100;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.299603;44.425535
+07207_0176_00200;200;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.300715;44.425977
+07207_0032_00605;605;;Chemin du Courbier;07120;07207;Saint-Alban-Auriolles;;;4.309672;44.439917
+07207_0038_00615;615;;Chemin de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.317904;44.442789
+07207_0141_00030;30;;Avenue Jean Jaurés;07120;07207;Saint-Alban-Auriolles;;;4.29586;44.423217
+07207_0141_00180;180;;Avenue Jean Jaurés;07120;07207;Saint-Alban-Auriolles;;;4.296795;44.424287
+07207_0141_00315;315;;Avenue Jean Jaurés;07120;07207;Saint-Alban-Auriolles;;;4.29796;44.424894
+07207_0034_00325;325;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.308499;44.444069
+07207_0034_00485;485;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.310706;44.444541
+07207_0034_00850;850;;Chemin de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.314976;44.444806
+07207_0194_00285;285;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.30703;44.430199
+07207_0194_00770;770;;Route de Ruoms;07120;07207;Saint-Alban-Auriolles;;;4.313226;44.433084
+07207_0200_00440;440;;Chemin des Hauts de Brugères;07120;07207;Saint-Alban-Auriolles;;;4.309262;44.433746
+07207_0179_00360;360;;Chemin de Pérouse;07120;07207;Saint-Alban-Auriolles;;;4.310045;44.435241
+07207_0179_00490;490;;Chemin de Pérouse;07120;07207;Saint-Alban-Auriolles;;;4.309155;44.436054
+07207_0176_00070;70;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.299281;44.425362
+07207_0176_00275;275;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.301213;44.426553
+07207_0176_00415;415;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.302633;44.427348
+07207_0176_00630;630;;Avenue Pasteur;07120;07207;Saint-Alban-Auriolles;;;4.304488;44.428306
+07207_0032_00655;655;;Chemin du Courbier;07120;07207;Saint-Alban-Auriolles;;;4.309468;44.440248
+07207_0032_00725;725;;Chemin du Courbier;07120;07207;Saint-Alban-Auriolles;;;4.308501;44.440698
+07207_0033_00095;95;;Impasse de Cassagne;07120;07207;Saint-Alban-Auriolles;;;4.314386;44.431366
+07207_0044_00060;60;;Impasse de Bourgène;07120;07207;Saint-Alban-Auriolles;;;4.302149;44.427935
+07207_0173_00180;180;;Chemin de Haute Rive;07120;07207;Saint-Alban-Auriolles;;;4.318824;44.429176
+07207_0136_00020;20;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.301482;44.427003
+07207_0136_00345;345;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.298297;44.428056
+07207_0192_00125;125;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.298825;44.429158
+07207_0165_00090;90;;Chemin de la Croix;07120;07207;Saint-Alban-Auriolles;;;4.303145;44.426227
+07207_0023_00060;60;;Chemin des Blaches;07120;07207;Saint-Alban-Auriolles;;;4.302052;44.442062
+07207_0023_00100;100;;Chemin des Blaches;07120;07207;Saint-Alban-Auriolles;;;4.30267;44.44207
+07207_0056_00105;105;;Impasse du Gour du Drague;07120;07207;Saint-Alban-Auriolles;;;4.281649;44.416339
+07207_0016_00160;160;;Chemin de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.325724;44.447004
+07207_0016_00280;280;;Chemin de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.326398;44.447954
+07207_0011_00080;80;;Rue des Ayres;07120;07207;Saint-Alban-Auriolles;;;4.299765;44.427133
+07207_0057_00050;50;;Impasse du Puits;07120;07207;Saint-Alban-Auriolles;;;4.296905;44.427697
+07207_0160_00070;70;;Impasse des Campanes;07120;07207;Saint-Alban-Auriolles;;;4.295374;44.430342
+07207_0014_00005;5;;Impasse de la Barnerie;07120;07207;Saint-Alban-Auriolles;;;4.296087;44.428032
+07207_0019_00190;190;;Impasse de Belvezet;07120;07207;Saint-Alban-Auriolles;;;4.321828;44.441195
+07207_0047_00050;50;;Place de l'Église;07120;07207;Saint-Alban-Auriolles;;;4.298153;44.425762
+07207_0184_00040;40;;Impasse du Poncet;07120;07207;Saint-Alban-Auriolles;;;4.305829;44.443172
+07207_0195_00035;35;;Impasse du Sartre;07120;07207;Saint-Alban-Auriolles;;;4.315413;44.434465
+07207_0052_00075;75;;Impasse des Raymonds;07120;07207;Saint-Alban-Auriolles;;;4.300118;44.428755
+07207_0053_00035;35;;Impasse du Bourdaric;07120;07207;Saint-Alban-Auriolles;;;4.303719;44.429171
+07207_0140_00135;135;;Rue du Dolmen;07120;07207;Saint-Alban-Auriolles;;;4.297705;44.427085
+07207_0192_00020;20;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.299371;44.428355
+07207_0192_00235;235;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.298259;44.429933
+07207_0134_00050;50;;Rue du Docteur Boissin;07120;07207;Saint-Alban-Auriolles;;;4.302465;44.426846
+07207_0168_00010;10;;Impasse des Falaises;07120;07207;Saint-Alban-Auriolles;;;4.326144;44.448885
+07207_0168_00065;65;;Impasse des Falaises;07120;07207;Saint-Alban-Auriolles;;;4.325293;44.449178
+07207_0191_00975;975;;Chemin du Robert;07120;07207;Saint-Alban-Auriolles;;;4.304291;44.443416
+07207_0165_01160;1160;;Chemin de la Croix;07120;07207;Saint-Alban-Auriolles;;;4.315418;44.42931
+07207_0154_00030;30;;Place Aristide Briand;07120;07207;Saint-Alban-Auriolles;;;4.299532;44.425888
+07207_0046_00065;65;;Impasse des Cades;07120;07207;Saint-Alban-Auriolles;;;4.295011;44.432538
+07207_0180_00010;10;;Impasse du Pigeonnier;07120;07207;Saint-Alban-Auriolles;;;4.297582;44.425606
+07207_0016_00230;230;;Chemin de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.326053;44.447436
+07207_0016_00320;320;;Chemin de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.326211;44.448267
+07207_0164_00010;10;;Impasse du Courbier;07120;07207;Saint-Alban-Auriolles;;;4.309484;44.440677
+07207_0177_00030;30;;Rue de la Pastourelle;07120;07207;Saint-Alban-Auriolles;;;4.300596;44.426545
+07207_0177_00100;100;;Rue de la Pastourelle;07120;07207;Saint-Alban-Auriolles;;;4.299818;44.426838
+07207_0166_00070;70;;Impasse du Docteur Boissin;07120;07207;Saint-Alban-Auriolles;;;4.302729;44.426211
+07207_0178_00070;70;;Rue des Pères;07120;07207;Saint-Alban-Auriolles;;;4.295893;44.42687
+07207_0036_00050;50;;Impasse de Champagnac;07120;07207;Saint-Alban-Auriolles;;;4.308258;44.444461
+07207_0032_00865;865;;Chemin du Courbier;07120;07207;Saint-Alban-Auriolles;;;4.307088;44.440835
+07207_0053_00020;20;;Impasse du Bourdaric;07120;07207;Saint-Alban-Auriolles;;;4.303573;44.429024
+07207_0162_01425;1425;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.283409;44.416359
+07207_0044_00065;65;;Impasse de Bourgène;07120;07207;Saint-Alban-Auriolles;;;4.301889;44.427732
+07207_0136_00265;265;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.298728;44.428236
+07207_0192_00100;100;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.29901;44.429033
+07207_0134_00365;365;;Rue du Docteur Boissin;07120;07207;Saint-Alban-Auriolles;;;4.29997;44.425458
+07207_0191_00280;280;;Chemin du Robert;07120;07207;Saint-Alban-Auriolles;;;4.297208;44.441583
+07207_0045_00050;50;;Impasse de Champelplot;07120;07207;Saint-Alban-Auriolles;;;4.308438;44.435894
+07207_0023_00045;45;;Chemin des Blaches;07120;07207;Saint-Alban-Auriolles;;;4.302224;44.442189
+07207_0189_00040;40;;Place de la République;07120;07207;Saint-Alban-Auriolles;;;4.298192;44.424875
+07207_0196_00125;125;;Impasse du Savel;07120;07207;Saint-Alban-Auriolles;;;4.308161;44.439955
+07207_0172_00040;40;;Rue du Grand Champ;07120;07207;Saint-Alban-Auriolles;;;4.297404;44.425265
+07207_0047_00020;20;;Place de l'Église;07120;07207;Saint-Alban-Auriolles;;;4.298496;44.425667
+07207_0170_00115;115;;Impasse des Fraysses;07120;07207;Saint-Alban-Auriolles;;;4.312539;44.443643
+07207_0162_01480;1480;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.284294;44.416329
+07207_0162_01595;1595;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.285381;44.416916
+07207_0162_01645;1645;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.285908;44.417171
+07207_0140_00020;20;;Rue du Dolmen;07120;07207;Saint-Alban-Auriolles;;;4.299033;44.426572
+07207_0136_00010;10;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.3016;44.426951
+07207_0136_00385;385;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.297905;44.427757
+07207_0181_00120;120;;Chemin de la Plaine;07120;07207;Saint-Alban-Auriolles;;;4.318353;44.430944
+07207_0016_00040;40;;Chemin de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.324559;44.446281
+07207_0135_00025;25;;Rue René Cassin;07120;07207;Saint-Alban-Auriolles;;;4.298032;44.425186
+07207_0133_00060;60;;Rue du Château;07120;07207;Saint-Alban-Auriolles;;;4.297036;44.425021
+07207_0041_00115;115;;Chemin de la Chandelette;07120;07207;Saint-Alban-Auriolles;;;4.316677;44.445618
+07207_0011_00065;65;;Rue des Ayres;07120;07207;Saint-Alban-Auriolles;;;4.299662;44.427071
+07207_0022_00010;10;;Impasse de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.326298;44.448827
+07207_0162_02265;2265;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.292886;44.419653
+07207_0162_02540;2540;;Route de Chandolas;07120;07207;Saint-Alban-Auriolles;;;4.294542;44.422272
+07207_0140_00055;55;;Rue du Dolmen;07120;07207;Saint-Alban-Auriolles;;;4.298598;44.426723
+07207_0140_00095;95;;Rue du Dolmen;07120;07207;Saint-Alban-Auriolles;;;4.298165;44.426901
+07207_0173_00010;10;;Chemin de Haute Rive;07120;07207;Saint-Alban-Auriolles;;;4.317751;44.430252
+07207_0018_00005;5;;Chemin du Béal;07120;07207;Saint-Alban-Auriolles;;;4.3187;44.4354
+07207_0136_00165;165;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.299982;44.427576
+07207_0136_00350;350;;Rue Marius Perbost;07120;07207;Saint-Alban-Auriolles;;;4.298239;44.428207
+07207_0192_00290;290;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.298431;44.430431
+07207_0192_00430;430;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.297414;44.431155
+07207_0192_00480;480;;Montée du Rochas;07120;07207;Saint-Alban-Auriolles;;;4.296788;44.4311
+07207_0134_00135;135;;Rue du Docteur Boissin;07120;07207;Saint-Alban-Auriolles;;;4.302424;44.426286
+07207_0168_00140;140;;Impasse des Falaises;07120;07207;Saint-Alban-Auriolles;;;4.325571;44.449702
+07207_0191_00555;555;;Chemin du Robert;07120;07207;Saint-Alban-Auriolles;;;4.299925;44.441852
+07207_0191_00640;640;;Chemin du Robert;07120;07207;Saint-Alban-Auriolles;;;4.301131;44.442102
+07207_0023_00140;140;;Chemin des Blaches;07120;07207;Saint-Alban-Auriolles;;;4.302435;44.441718
+07207_0016_00165;165;;Chemin de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.325636;44.447126
+07207_0135_00065;65;;Rue René Cassin;07120;07207;Saint-Alban-Auriolles;;;4.297775;44.425386
+07207_0133_00325;325;;Rue du Château;07120;07207;Saint-Alban-Auriolles;;;4.295381;44.42636
+07207_0011_00005;5;;Rue des Ayres;07120;07207;Saint-Alban-Auriolles;;;4.299199;44.42652
+07207_0022_00075;75;;Impasse de Bizac;07120;07207;Saint-Alban-Auriolles;;;4.326468;44.449421
+07207_0057_00025;25;;Impasse du Puits;07120;07207;Saint-Alban-Auriolles;;;4.296708;44.427586
+07207_0160_00170;170;;Impasse des Campanes;07120;07207;Saint-Alban-Auriolles;;;4.294272;44.43039
+07207_0019_00080;80;;Impasse de Belvezet;07120;07207;Saint-Alban-Auriolles;;;4.323209;44.440893
+07207_0175_00070;70;;Chemin des Oliviers;07120;07207;Saint-Alban-Auriolles;;;4.326417;44.446845
+07207_0188_00500;500;;Chemin du Ranc Davaine;07120;07207;Saint-Alban-Auriolles;;;4.271043;44.413936
+07207_0170_00040;40;;Impasse des Fraysses;07120;07207;Saint-Alban-Auriolles;;;4.312248;44.444034
+07207_0184_00010;10;;Impasse du Poncet;07120;07207;Saint-Alban-Auriolles;;;4.305467;44.44326
+07207_0160_00130;130;;Impasse des Campanes;07120;07207;Saint-Alban-Auriolles;;;4.294879;44.430428
+07207_0019_00210;210;;Impasse de Belvezet;07120;07207;Saint-Alban-Auriolles;;;4.321498;44.44109
+07207_0172_00070;70;;Rue du Grand Champ;07120;07207;Saint-Alban-Auriolles;;;4.297485;44.425368
+07207_0057_00040;40;;Impasse du Puits;07120;07207;Saint-Alban-Auriolles;;;4.29689;44.427636
+07207_0174_00195;195;;Rue des Herbousses;07120;07207;Saint-Alban-Auriolles;;;4.296402;44.426229
+07207_0172_00010;10;;Rue du Grand Champ;07120;07207;Saint-Alban-Auriolles;;;4.297199;44.42516
+07207_0047_00060;60;;Place de l'Église;07120;07207;Saint-Alban-Auriolles;;;4.298153;44.425702
+07207_0142_00010;10;;Place de la Resistance;07120;07207;Saint-Alban-Auriolles;;;4.298073;44.42527
+07207_0052_00080;80;;Impasse des Raymonds;07120;07207;Saint-Alban-Auriolles;;;4.3001;44.428839
+07207_0178_00065;65;;Rue des Pères;07120;07207;Saint-Alban-Auriolles;;;4.29602;44.426766
+07207_0039_00020;20;;Impasse de Champtressac;07120;07207;Saint-Alban-Auriolles;;;4.316541;44.444603
+07207_0138_00080;80;;Rue du Docteur Chalvet;07120;07207;Saint-Alban-Auriolles;;;4.299456;44.426387
+07207_0174_00010;10;;Rue des Herbousses;07120;07207;Saint-Alban-Auriolles;;;4.297728;44.425873
+07207_0174_00090;90;;Rue des Herbousses;07120;07207;Saint-Alban-Auriolles;;;4.297001;44.426172

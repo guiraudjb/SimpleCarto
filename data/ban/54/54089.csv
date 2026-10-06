@@ -1,0 +1,661 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+54089_tvt8qu_00001;1;;Les Longères;54770;54089;Bouxières-aux-Chênes;;;6.278516;48.773582
+54089_0262_00037;37;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252072;48.764044
+54089_0160_00002;2;;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.254344;48.765123
+54089_0040_00045;45;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260175;48.773925
+54089_0183_00012;12;;Rue des Mez;54770;54089;Bouxières-aux-Chênes;;;6.267096;48.772268
+54089_0079_00007;7;;Place du Chene;54770;54089;Bouxières-aux-Chênes;;;6.259657;48.770935
+54089_0245_00013;13;;Rue des Ormes;54770;54089;Bouxières-aux-Chênes;;;6.268174;48.771552
+54089_x001_00003;3;;Cour de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.247296;48.761771
+54089_0265_00003;3;;Rue du Haut des Roches;54770;54089;Bouxières-aux-Chênes;;;6.268764;48.778008
+54089_0100_00019;19;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.264839;48.77175
+54089_0051_00012;12;;Rue du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.261587;48.772232
+54089_0048_00010;10;;Rue de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.249256;48.763122
+54089_0256_00008;8;;Rue du Plateau;54770;54089;Bouxières-aux-Chênes;;;6.257425;48.770181
+54089_0160_00008;8;;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.25458;48.765891
+54089_0255_00008;8;;Rue Pierre Curie;54770;54089;Bouxières-aux-Chênes;;;6.250953;48.765021
+54089_0040_00065;65;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.262062;48.774056
+54089_0240_00007;7;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.259753;48.774311
+54089_0284_00002;2;;Clos Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.264284;48.76971
+54089_0300_00008;8;;Rue des Violettes;54770;54089;Bouxières-aux-Chênes;;;6.253148;48.766013
+54089_0158_00002;2;;Ruelle Ferrée;54770;54089;Bouxières-aux-Chênes;;;6.264819;48.775511
+54089_0100_00009_bis;9;bis;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.264105;48.7726
+54089_0300_00013;13;;Rue des Violettes;54770;54089;Bouxières-aux-Chênes;;;6.251538;48.766495
+54089_0280_00026_ter;26;ter;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.263215;48.770338
+54089_0245_00004;4;;Rue des Ormes;54770;54089;Bouxières-aux-Chênes;;;6.26607;48.770969
+54089_0252_00021;21;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.259318;48.771163
+54089_0040_00005;5;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260068;48.771651
+54089_0151_00006;6;;Sentier des Greffins;54770;54089;Bouxières-aux-Chênes;;;6.25837;48.775045
+54089_0264_00004;4;;Impasse du General Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.2561;48.763055
+54089_0300_00015;15;;Rue des Violettes;54770;54089;Bouxières-aux-Chênes;;;6.250733;48.766956
+54089_0262_00020_bis;20;bis;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.25296;48.764807
+54089_0048_00001;1;;Rue de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.251105;48.763274
+54089_0245_00002;2;;Rue des Ormes;54770;54089;Bouxières-aux-Chênes;;;6.265779;48.770925
+54089_0151_00007;7;;Sentier des Greffins;54770;54089;Bouxières-aux-Chênes;;;6.257924;48.77481
+54089_0156_00043;43;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256774;48.77382
+54089_0101_00009;9;;Rue de Neuviller;54770;54089;Bouxières-aux-Chênes;;;6.263062;48.769354
+54089_0262_00024;24;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252704;48.764669
+54089_0252_00027;27;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.25898;48.771608
+54089_0183_00007;7;;Rue des Mez;54770;54089;Bouxières-aux-Chênes;;;6.267469;48.771927
+54089_0048_00014;14;;Rue de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.248429;48.762712
+54089_0120_00014;14;;Rue des Eaux;54770;54089;Bouxières-aux-Chênes;;;6.253368;48.765743
+54089_0040_00047;47;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260264;48.773938
+54089_0280_00002_bis;2;bis;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.260312;48.770653
+54089_0255_00006;6;;Rue Pierre Curie;54770;54089;Bouxières-aux-Chênes;;;6.251166;48.764918
+54089_0280_00003;3;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.260496;48.77079
+54089_0262_00007;7;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.255001;48.764164
+54089_0256_00017;17;;Rue du Plateau;54770;54089;Bouxières-aux-Chênes;;;6.256822;48.770359
+54089_0100_00017;17;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.26474;48.771863
+54089_0240_00011;11;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.25963;48.774683
+54089_0245_00007;7;;Rue des Ormes;54770;54089;Bouxières-aux-Chênes;;;6.266858;48.771188
+54089_0280_00019;19;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.262572;48.770709
+54089_0040_00062;62;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.26212;48.773849
+54089_0040_00018_bis;18;bis;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260448;48.771938
+54089_0256_00011;11;;Rue du Plateau;54770;54089;Bouxières-aux-Chênes;;;6.257463;48.770046
+54089_0048_00002;2;;Rue de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.251159;48.763331
+54089_0183_00011;11;;Rue des Mez;54770;54089;Bouxières-aux-Chênes;;;6.267136;48.772134
+54089_0079_00003;3;;Place du Chene;54770;54089;Bouxières-aux-Chênes;;;6.260176;48.770833
+54089_0040_00053;53;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260579;48.774008
+54089_0262_00030;30;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.2524;48.764512
+54089_0156_00001;1;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.258249;48.769939
+54089_z8ttcc_00006;6;;Impasse Joseph Peltier;54770;54089;Bouxières-aux-Chênes;;;6.262032;48.771703
+54089_0245_00006;6;;Rue des Ormes;54770;54089;Bouxières-aux-Chênes;;;6.266312;48.77069
+54089_0245_00014;14;;Rue des Ormes;54770;54089;Bouxières-aux-Chênes;;;6.267114;48.771143
+54089_0246_00001;1;;Rue de la Forge;54770;54089;Bouxières-aux-Chênes;;;6.260979;48.770937
+54089_ie3qik_00001;1;;Chemin des Tournants;54770;54089;Bouxières-aux-Chênes;;;6.270996;48.776303
+54089_0040_00028;28;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.259882;48.773075
+54089_z8ttcc_00009;9;;Impasse Joseph Peltier;54770;54089;Bouxières-aux-Chênes;;;6.262313;48.77158
+54089_0250_00010;10;;Rue de la Paix;54770;54089;Bouxières-aux-Chênes;;;6.259115;48.769863
+54089_0148_00024;24;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.268725;48.776207
+54089_0156_00050;50;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256898;48.773954
+54089_0040_00025;25;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.259837;48.772461
+54089_0040_00059;59;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.261559;48.77413
+54089_0040_00046;46;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260453;48.773866
+54089_0240_00025;25;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.258337;48.776077
+54089_0060_00015;15;;Rue du Château;54770;54089;Bouxières-aux-Chênes;;;6.269775;48.77711
+54089_0040_00038;38;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260306;48.773325
+54089_84alqh_00005;5;;Chemin du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.262779;48.771198
+54089_0151_00002;2;;Sentier des Greffins;54770;54089;Bouxières-aux-Chênes;;;6.259013;48.775145
+54089_0251_00004;4;;Impasse Moulin le Duc;54770;54089;Bouxières-aux-Chênes;;;6.255539;48.765048
+54089_0264_00008;8;;Impasse du General Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.255814;48.762624
+54089_0281_00013;13;;Rue des Vergers;54770;54089;Bouxières-aux-Chênes;;;6.270286;48.776803
+54089_0156_00047;47;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256764;48.774207
+54089_0252_00001;1;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.259625;48.770253
+54089_0060_00008_ter;8;ter;Rue du Château;54770;54089;Bouxières-aux-Chênes;;;6.26946;48.776821
+54089_0048_00003;3;;Rue de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.250737;48.763333
+54089_0020_00010;10;;Rue d’Agincourt;54770;54089;Bouxières-aux-Chênes;;;6.264967;48.768143
+54089_0262_00041;41;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.251958;48.763909
+54089_0252_00023;23;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.259282;48.771235
+54089_0040_00051;51;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260431;48.773975
+54089_0262_00002;2;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.256818;48.763361
+54089_0262_00004;4;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.254934;48.764297
+54089_0048_00011;11;;Rue de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.248651;48.762754
+54089_0252_00006;6;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.25962;48.77069
+54089_0251_00002;2;;Impasse Moulin le Duc;54770;54089;Bouxières-aux-Chênes;;;6.255362;48.764962
+54089_45b8hf_00003;3;;Route Departementale 913;54770;54089;Bouxières-aux-Chênes;;;6.266358;48.768022
+54089_z8ttcc_00007;7;;Impasse Joseph Peltier;54770;54089;Bouxières-aux-Chênes;;;6.262268;48.771669
+54089_0060_00009;9;;Rue du Château;54770;54089;Bouxières-aux-Chênes;;;6.26917;48.776903
+54089_0252_00015_bis;15;bis;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.25946;48.770913
+54089_0040_00057_bis;57;bis;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.26128;48.774076
+54089_0100_00014;14;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.264405;48.772148
+54089_0281_00001;1;;Rue des Vergers;54770;54089;Bouxières-aux-Chênes;;;6.274231;48.775549
+54089_0156_00056;56;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.25675;48.774528
+54089_84alqh_00009;9;;Chemin du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.262762;48.771634
+54089_0262_00043;43;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.251849;48.763795
+54089_0256_00003;3;;Rue du Plateau;54770;54089;Bouxières-aux-Chênes;;;6.25842;48.769704
+54089_0040_00010;10;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260282;48.7715
+54089_0151_00003;3;;Sentier des Greffins;54770;54089;Bouxières-aux-Chênes;;;6.258767;48.775017
+54089_0048_00012;12;;Rue de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.248925;48.762976
+54089_0120_00007;7;;Rue des Eaux;54770;54089;Bouxières-aux-Chênes;;;6.253167;48.765705
+54089_45b8hf_00011;11;;Route Departementale 913;54770;54089;Bouxières-aux-Chênes;;;6.271064;48.772354
+54089_0156_00036;36;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256922;48.772961
+54089_0051_00016;16;;Rue du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.261204;48.772154
+54089_rfv001_00002;2;;Rue du Puits;54770;54089;Bouxières-aux-Chênes;;;6.270321;48.777491
+54089_0256_00019;19;;Rue du Plateau;54770;54089;Bouxières-aux-Chênes;;;6.256877;48.770068
+54089_0100_00016;16;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.264347;48.771976
+54089_0079_00002;2;;Place du Chene;54770;54089;Bouxières-aux-Chênes;;;6.259961;48.77079
+54089_0040_00016;16;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260167;48.771797
+54089_45b8hf_00004;4;;Route Departementale 913;54770;54089;Bouxières-aux-Chênes;;;6.265725;48.767284
+54089_0261_00001;1;;Rue du Puits;54770;54089;Bouxières-aux-Chênes;;;6.270353;48.777409
+54089_0240_00023;23;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.258491;48.775927
+54089_0262_00014;14;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.253658;48.764905
+54089_0300_00014;14;;Rue des Violettes;54770;54089;Bouxières-aux-Chênes;;;6.251746;48.766417
+54089_0020_00001;1;;Rue d’Agincourt;54770;54089;Bouxières-aux-Chênes;;;6.265067;48.770227
+54089_0050_00006;6;;Rue du Béché;54770;54089;Bouxières-aux-Chênes;;;6.261918;48.773375
+54089_0156_00055;55;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256369;48.774724
+54089_0252_00029_bis;29;bis;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.258474;48.771614
+54089_0160_00014;14;;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.255013;48.766257
+54089_0090_00002;2;;Chemin de la Corvee Fripon;54770;54089;Bouxières-aux-Chênes;;;6.247221;48.762398
+54089_0156_00034;34;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256974;48.772839
+54089_0040_00014;14;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260179;48.771725
+54089_0085_00002;2;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.270041;48.777131
+54089_0020_00013_bis;13;bis;Rue d’Agincourt;54770;54089;Bouxières-aux-Chênes;;;6.264935;48.76874
+54089_0085_00014;14;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.271123;48.777488
+54089_z8ttcc_00001;1;;Impasse Joseph Peltier;54770;54089;Bouxières-aux-Chênes;;;6.261908;48.772114
+54089_0101_00001;1;;Rue de Neuviller;54770;54089;Bouxières-aux-Chênes;;;6.264343;48.768952
+54089_0160_00012;12;;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.254667;48.766062
+54089_0148_00021;21;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.268766;48.776391
+54089_0280_00004;4;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.260496;48.77057
+54089_0085_00034;34;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.272363;48.778907
+54089_0060_00008_bis;8;bis;Rue du Château;54770;54089;Bouxières-aux-Chênes;;;6.269364;48.776742
+54089_0085_00030;30;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.272012;48.778671
+54089_0156_00028;28;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256986;48.772484
+54089_0280_00020;20;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.26206;48.770759
+54089_0020_00021;21;;Rue d’Agincourt;54770;54089;Bouxières-aux-Chênes;;;6.265453;48.768029
+54089_0262_00028;28;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252507;48.764575
+54089_0020_00005;5;;Rue d’Agincourt;54770;54089;Bouxières-aux-Chênes;;;6.265019;48.769807
+54089_0252_00029;29;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.258731;48.771616
+54089_0100_00022;22;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.264978;48.77095
+54089_0156_00031;31;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256823;48.773008
+54089_0162_00022;22;;Ruelle de l’Huile;54770;54089;Bouxières-aux-Chênes;;;6.269145;48.777354
+54089_0060_00011;11;;Rue du Château;54770;54089;Bouxières-aux-Chênes;;;6.269555;48.777008
+54089_0262_00002;2;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.256663;48.763512
+54089_0040_00060;60;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.261687;48.77408
+54089_0040_00043;43;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260011;48.773768
+54089_0262_00026;26;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252615;48.764619
+54089_0140_00013;13;;Rue du Fort;54770;54089;Bouxières-aux-Chênes;;;6.265717;48.778132
+54089_0020_00016;16;;Rue d’Agincourt;54770;54089;Bouxières-aux-Chênes;;;6.265575;48.767891
+54089_0160_00006_bis;6;bis;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.25456;48.765766
+54089_0280_00012;12;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.261273;48.770693
+54089_0100_00031;31;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.26509;48.770389
+54089_0252_00007;7;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.25955;48.770517
+54089_0060_00002;2;;Rue du Château;54770;54089;Bouxières-aux-Chênes;;;6.268384;48.776994
+54089_0148_00028;28;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.269097;48.776504
+54089_0300_00004;4;;Rue des Violettes;54770;54089;Bouxières-aux-Chênes;;;6.253773;48.765899
+54089_0100_00013;13;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.264384;48.772305
+54089_0160_00015;15;;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.254537;48.766005
+54089_0040_00053_bis;53;bis;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260926;48.774027
+54089_0250_00003;3;;Rue de la Paix;54770;54089;Bouxières-aux-Chênes;;;6.259522;48.770071
+54089_0048_00015;15;;Rue de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.247862;48.762361
+54089_0051_00002;2;;Rue du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.263128;48.772606
+54089_0140_00002;2;;Rue du Fort;54770;54089;Bouxières-aux-Chênes;;;6.267148;48.777481
+54089_0048_00004;4;;Rue de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.250341;48.763403
+54089_0048_00013;13;;Rue de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.248176;48.762485
+54089_0040_00022;22;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.259975;48.772472
+54089_0263_00001;1;;Place du Pére Gérard;54770;54089;Bouxières-aux-Chênes;;;6.262598;48.77365
+54089_0020_00006;6;;Rue d’Agincourt;54770;54089;Bouxières-aux-Chênes;;;6.264479;48.76914
+54089_0140_00007;7;;Rue du Fort;54770;54089;Bouxières-aux-Chênes;;;6.266455;48.777685
+54089_0040_00068;68;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.262352;48.773626
+54089_0148_00007;7;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.267696;48.776683
+54089_0040_00063;63;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.261905;48.774147
+54089_0280_00026;26;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.262501;48.770612
+54089_0160_00003;3;;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.254343;48.765206
+54089_0264_00002;2;;Impasse du General Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.25634;48.763304
+54089_0156_00032;32;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256953;48.77275
+54089_0140_00006;6;;Rue du Fort;54770;54089;Bouxières-aux-Chênes;;;6.266423;48.777908
+54089_0256_00002;2;;Rue du Plateau;54770;54089;Bouxières-aux-Chênes;;;6.25896;48.769737
+54089_0040_00007;7;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260037;48.771764
+54089_0252_00012;12;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.258115;48.771942
+54089_0262_00035;35;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252129;48.764123
+54089_0120_00012_bis;12;bis;Rue des Eaux;54770;54089;Bouxières-aux-Chênes;;;6.253324;48.765666
+54089_0280_00018;18;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.262013;48.770738
+54089_0280_00012_bis;12;bis;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.261422;48.770589
+54089_0085_00001;1;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.270038;48.777224
+54089_0160_00010;10;;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.254628;48.765989
+54089_0183_00010;10;;Rue des Mez;54770;54089;Bouxières-aux-Chênes;;;6.267323;48.772109
+54089_b175_00001;1;;Ruelle d’Amance;54770;54089;Bouxières-aux-Chênes;;;6.268795;48.775963
+54089_0262_00042;42;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.251663;48.763701
+54089_0040_00056;56;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.261271;48.774027
+54089_0250_00008_bis;8;bis;Rue de la Paix;54770;54089;Bouxières-aux-Chênes;;;6.259242;48.77002
+54089_0120_00002;2;;Rue des Eaux;54770;54089;Bouxières-aux-Chênes;;;6.253583;48.765139
+54089_0040_00003;3;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260054;48.771634
+54089_0048_00008;8;;Rue de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.249632;48.763235
+54089_0252_00013;13;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.259536;48.770785
+54089_0040_00006;6;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260236;48.771283
+54089_84alqh_00003;3;;Chemin du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.262795;48.770951
+54089_0085_00021;21;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.271836;48.77873
+54089_0281_00008;8;;Rue des Vergers;54770;54089;Bouxières-aux-Chênes;;;6.27329;48.775954
+54089_0160_00013;13;;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.254504;48.765945
+54089_0140_00005;5;;Rue du Fort;54770;54089;Bouxières-aux-Chênes;;;6.266942;48.777478
+54089_0100_00018_bis;18;bis;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.26465;48.771818
+54089_0054_00001;1;;Rue d’Haussonvigne;54770;54089;Bouxières-aux-Chênes;;;6.255267;48.765881
+54089_0156_00025;25;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256918;48.772416
+54089_0120_00012;12;;Rue des Eaux;54770;54089;Bouxières-aux-Chênes;;;6.253296;48.765712
+54089_b175_00002;2;;Ruelle d’Amance;54770;54089;Bouxières-aux-Chênes;;;6.270928;48.774154
+54089_0100_00024;24;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.265033;48.770779
+54089_0300_00009;9;;Rue des Violettes;54770;54089;Bouxières-aux-Chênes;;;6.252044;48.766139
+54089_0245_00016;16;;Rue des Ormes;54770;54089;Bouxières-aux-Chênes;;;6.267431;48.771207
+54089_0061_00001;1;;Rue de Chaxau;54770;54089;Bouxières-aux-Chênes;;;6.263871;48.766652
+54089_0040_00036;36;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260405;48.773116
+54089_0262_00005;5;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.255276;48.764056
+54089_0280_00008;8;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.260788;48.770614
+54089_0051_00001;1;;Rue du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.263287;48.772585
+54089_0148_00016;16;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.268201;48.776129
+54089_0060_00012;12;;Rue du Château;54770;54089;Bouxières-aux-Chênes;;;6.269677;48.776952
+54089_0300_00011;11;;Rue des Violettes;54770;54089;Bouxières-aux-Chênes;;;6.251775;48.766264
+54089_0250_00016;16;;Rue de la Paix;54770;54089;Bouxières-aux-Chênes;;;6.259173;48.769322
+54089_0040_00027;27;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.259831;48.772585
+54089_0050_00012;12;;Rue du Béché;54770;54089;Bouxières-aux-Chênes;;;6.261921;48.772865
+54089_x001_00005;5;;Cour de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.247007;48.76138
+54089_0256_00004;4;;Rue du Plateau;54770;54089;Bouxières-aux-Chênes;;;6.258485;48.769745
+54089_0148_00004;4;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.267629;48.77669
+54089_0148_00017_bis;17;bis;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.268246;48.776194
+54089_0281_00011;11;;Rue des Vergers;54770;54089;Bouxières-aux-Chênes;;;6.270421;48.776759
+54089_0160_00017;17;;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.254597;48.766092
+54089_0140_00003;3;;Rue du Fort;54770;54089;Bouxières-aux-Chênes;;;6.267118;48.777367
+54089_0050_00007;7;;Rue du Béché;54770;54089;Bouxières-aux-Chênes;;;6.262035;48.772853
+54089_0040_00021;21;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.259939;48.772299
+54089_0100_00008;8;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.263878;48.772573
+54089_0245_00012;12;;Rue des Ormes;54770;54089;Bouxières-aux-Chênes;;;6.266794;48.771085
+54089_0246_00003;3;;Rue de la Forge;54770;54089;Bouxières-aux-Chênes;;;6.260553;48.771347
+54089_0252_00004;4;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.259641;48.770559
+54089_0140_00004;4;;Rue du Fort;54770;54089;Bouxières-aux-Chênes;;;6.26711;48.778141
+54089_0183_00009;9;;Rue des Mez;54770;54089;Bouxières-aux-Chênes;;;6.267254;48.77206
+54089_0252_00017;17;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.259385;48.771025
+54089_0245_00011;11;;Rue des Ormes;54770;54089;Bouxières-aux-Chênes;;;6.267807;48.771804
+54089_0280_00001;1;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.260371;48.770783
+54089_0264_00006;6;;Impasse du General Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.255949;48.762799
+54089_0262_00017_bis;17;bis;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.253257;48.764769
+54089_0156_00035;35;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256785;48.773235
+54089_0262_00002_d;2;d;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.255867;48.763895
+54089_0120_00006;6;;Rue des Eaux;54770;54089;Bouxières-aux-Chênes;;;6.253252;48.765277
+54089_0040_00017;17;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.259982;48.772155
+54089_0060_00006;6;;Rue du Château;54770;54089;Bouxières-aux-Chênes;;;6.269209;48.776604
+54089_0281_00014;14;;Rue des Vergers;54770;54089;Bouxières-aux-Chênes;;;6.272522;48.776191
+54089_0148_00002;2;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.26773;48.776759
+54089_0256_00007;7;;Rue du Plateau;54770;54089;Bouxières-aux-Chênes;;;6.257945;48.769808
+54089_0120_00005;5;;Rue des Eaux;54770;54089;Bouxières-aux-Chênes;;;6.253027;48.765377
+54089_0250_00006;6;;Rue de la Paix;54770;54089;Bouxières-aux-Chênes;;;6.259867;48.770422
+54089_0262_00022;22;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252763;48.764698
+54089_0262_00016;16;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.253429;48.764878
+54089_0148_00019;19;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.268697;48.776294
+54089_0262_00033;33;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252181;48.764192
+54089_0051_00007;7;;Rue du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.261378;48.77209
+54089_0140_00012;12;;Rue du Fort;54770;54089;Bouxières-aux-Chênes;;;6.265945;48.778437
+54089_0255_00004;4;;Rue Pierre Curie;54770;54089;Bouxières-aux-Chênes;;;6.251571;48.764739
+54089_0040_00033;33;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.259665;48.773131
+54089_0280_00026_bis;26;bis;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.262937;48.770542
+54089_0085_00011;11;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.271417;48.777718
+54089_0250_00001;1;;Rue de la Paix;54770;54089;Bouxières-aux-Chênes;;;6.259679;48.770169
+54089_0120_00010;10;;Rue des Eaux;54770;54089;Bouxières-aux-Chênes;;;6.253284;48.765613
+54089_0240_00004;4;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.259781;48.774601
+54089_0183_00016;16;;Rue des Mez;54770;54089;Bouxières-aux-Chênes;;;6.266722;48.77256
+54089_0262_00029;29;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252349;48.764345
+54089_0300_00011_bis;11;bis;Rue des Violettes;54770;54089;Bouxières-aux-Chênes;;;6.251505;48.765963
+54089_0156_00011;11;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.257779;48.770739
+54089_0040_00004;4;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260406;48.77118
+54089_0162_00004;4;;Ruelle de l’Huile;54770;54089;Bouxières-aux-Chênes;;;6.269719;48.777759
+54089_0160_00004;4;;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.254503;48.765305
+54089_0060_00008;8;;Rue du Château;54770;54089;Bouxières-aux-Chênes;;;6.269271;48.776659
+54089_0040_00039;39;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260054;48.773644
+54089_0120_00003;3;;Rue des Eaux;54770;54089;Bouxières-aux-Chênes;;;6.253327;48.76516
+54089_0252_00005;5;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.259536;48.770429
+54089_84alqh_00000;0;;Chemin du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.262695;48.770564
+54089_0040_00013;13;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.26001;48.772022
+54089_0140_00001;1;;Rue du Fort;54770;54089;Bouxières-aux-Chênes;;;6.266719;48.776966
+54089_0263_00006;6;;Place du Pére Gérard;54770;54089;Bouxières-aux-Chênes;;;6.262614;48.773932
+54089_0158_00009;9;;Ruelle Ferrée;54770;54089;Bouxières-aux-Chênes;;;6.266784;48.776141
+54089_0051_00008;8;;Rue du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.262062;48.772345
+54089_0262_00048;48;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.251353;48.763424
+54089_0040_00031;31;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.259538;48.772994
+54089_0250_00014;14;;Rue de la Paix;54770;54089;Bouxières-aux-Chênes;;;6.259164;48.769406
+54089_0246_00002;2;;Rue de la Forge;54770;54089;Bouxières-aux-Chênes;;;6.260854;48.771156
+54089_0130_00004;4;;Rue des Eglantiers;54770;54089;Bouxières-aux-Chênes;;;6.26888;48.770668
+54089_0262_00012;12;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.253872;48.764763
+54089_0280_00002;2;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.260152;48.770451
+54089_0040_00001;1;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260062;48.771512
+54089_0051_00006;6;;Rue du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.2623;48.772469
+54089_0040_00040;40;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260286;48.77338
+54089_0262_00011;11;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.254649;48.764314
+54089_0040_00034;34;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260536;48.773132
+54089_0280_00010_bis;10;bis;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.260772;48.770746
+54089_0100_00007;7;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.263568;48.772869
+54089_0262_00010;10;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.254176;48.764606
+54089_0156_00020;20;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.257148;48.772025
+54089_0262_00003;3;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.255682;48.763893
+54089_0158_00005;5;;Ruelle Ferrée;54770;54089;Bouxières-aux-Chênes;;;6.262824;48.774819
+54089_0280_00013;13;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.261944;48.770863
+54089_0040_00009;9;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260027;48.771847
+54089_0262_00038;38;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.251871;48.763985
+54089_0085_00019;19;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.271681;48.778026
+54089_0148_00003;3;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.267864;48.776816
+54089_b175_00003;3;;Ruelle d’Amance;54770;54089;Bouxières-aux-Chênes;;;6.270046;48.774489
+54089_8b5bht_00002;2;;Chemin de l’Aulnoy;54770;54089;Bouxières-aux-Chênes;;;6.259946;48.775351
+54089_0262_00031;31;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252253;48.764262
+54089_z8ttcc_00003;3;;Impasse Joseph Peltier;54770;54089;Bouxières-aux-Chênes;;;6.26199;48.771983
+54089_0250_00005;5;;Rue de la Paix;54770;54089;Bouxières-aux-Chênes;;;6.259219;48.769826
+54089_0266_00001;1;;Chemin du Pont de l’Arche;54770;54089;Bouxières-aux-Chênes;;;6.267662;48.767366
+54089_0240_00014;14;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.25859;48.775945
+54089_0140_00010;10;;Rue du Fort;54770;54089;Bouxières-aux-Chênes;;;6.266051;48.778133
+54089_0280_00015;15;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.262155;48.770841
+54089_0040_00012;12;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260212;48.771617
+54089_0252_00019;19;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.259348;48.77109
+54089_0284_00005;5;;Clos Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.264704;48.769846
+54089_0280_00024;24;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.26237;48.770674
+54089_0262_00002;2;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.256428;48.76358
+54089_0265_00007;7;;Rue du Haut des Roches;54770;54089;Bouxières-aux-Chênes;;;6.269251;48.77777
+54089_0040_00025_bis;25;bis;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.25981;48.772519
+54089_0160_00007;7;;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.254395;48.765749
+54089_0101_00004;4;;Rue de Neuviller;54770;54089;Bouxières-aux-Chênes;;;6.263487;48.768619
+54089_0251_00007;7;;Impasse Moulin le Duc;54770;54089;Bouxières-aux-Chênes;;;6.255284;48.764771
+54089_0060_00013;13;;Rue du Château;54770;54089;Bouxières-aux-Chênes;;;6.269675;48.777049
+54089_0085_00010;10;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.270849;48.777398
+54089_0100_00020;20;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.264855;48.771504
+54089_0240_00013;13;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.259546;48.774806
+54089_0280_00030;30;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.263555;48.770308
+54089_0048_00011_b;11;b;Rue de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.248424;48.762639
+54089_0061_00002;2;;Rue de Chaxau;54770;54089;Bouxières-aux-Chênes;;;6.2644;48.767749
+54089_0240_00012;12;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.25881;48.775664
+54089_0140_00009;9;;Rue du Fort;54770;54089;Bouxières-aux-Chênes;;;6.26601;48.77799
+54089_0284_00001;1;;Clos Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.264658;48.769707
+54089_0148_00001;1;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.267961;48.776881
+54089_0040_00024;24;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.25993;48.772588
+54089_0050_00003;3;;Rue du Béché;54770;54089;Bouxières-aux-Chênes;;;6.262059;48.773502
+54089_0252_00009;9;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.25952;48.77057
+54089_0160_00011;11;;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.254487;48.765912
+54089_0020_00003;3;;Rue d’Agincourt;54770;54089;Bouxières-aux-Chênes;;;6.265062;48.770061
+54089_0040_00044;44;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260309;48.773854
+54089_0280_00017;17;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.262418;48.770754
+54089_0101_00002;2;;Rue de Neuviller;54770;54089;Bouxières-aux-Chênes;;;6.264252;48.768572
+54089_0040_00040_bis;40;bis;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260239;48.773492
+54089_0085_00022;22;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.272027;48.777777
+54089_0100_00009;9;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.263808;48.772748
+54089_0100_00027;27;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.265136;48.770702
+54089_0085_00007;7;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.270965;48.777505
+54089_x001_00006;6;;Cour de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.24697;48.76159
+54089_0160_00019;19;;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.256088;48.767031
+54089_0240_00002;2;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.259947;48.773983
+54089_0156_00001_bis;1;bis;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.258286;48.770005
+54089_0040_00032;32;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260747;48.773161
+54089_0040_00023;23;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.259913;48.772366
+54089_0040_00041;41;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260033;48.773703
+54089_0280_00022;22;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.262175;48.770722
+54089_0251_00005;5;;Impasse Moulin le Duc;54770;54089;Bouxières-aux-Chênes;;;6.255618;48.764998
+54089_0140_00008;8;;Rue du Fort;54770;54089;Bouxières-aux-Chênes;;;6.266844;48.778607
+54089_0040_00029_bis;29;bis;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.259717;48.77285
+54089_0020_00013;13;;Rue d’Agincourt;54770;54089;Bouxières-aux-Chênes;;;6.2648;48.768996
+54089_z8ttcc_00008;8;;Impasse Joseph Peltier;54770;54089;Bouxières-aux-Chênes;;;6.262124;48.771597
+54089_0151_00010;10;;Sentier des Greffins;54770;54089;Bouxières-aux-Chênes;;;6.257341;48.774819
+54089_0281_00003;3;;Rue des Vergers;54770;54089;Bouxières-aux-Chênes;;;6.273452;48.775724
+54089_0252_00025;25;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.259245;48.771318
+54089_0156_00045;45;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256793;48.774027
+54089_45b8hf_00005;5;;Route Departementale 913;54770;54089;Bouxières-aux-Chênes;;;6.266757;48.76839
+54089_0148_00020_ter;20;ter;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.268074;48.77593
+54089_0040_00057;57;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.26143;48.77411
+54089_0120_00001_bis;1;bis;Rue des Eaux;54770;54089;Bouxières-aux-Chênes;;;6.253406;48.765131
+54089_0085_00024;24;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.271772;48.778012
+54089_0252_00003;3;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.2596;48.770353
+54089_0183_00001;1;;Rue des Mez;54770;54089;Bouxières-aux-Chênes;;;6.267888;48.771608
+54089_0240_00006;6;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.259634;48.774815
+54089_0245_00018;18;;Rue des Ormes;54770;54089;Bouxières-aux-Chênes;;;6.267762;48.77127
+54089_0265_00001;1;;Rue du Haut des Roches;54770;54089;Bouxières-aux-Chênes;;;6.268949;48.777857
+54089_0020_00011;11;;Rue d’Agincourt;54770;54089;Bouxières-aux-Chênes;;;6.264784;48.769237
+54089_0262_00044;44;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.251556;48.763584
+54089_0040_00049;49;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260352;48.773958
+54089_0262_00021;21;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252751;48.764573
+54089_0160_00001_bis;1;bis;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.254098;48.765088
+54089_0281_00010;10;;Rue des Vergers;54770;54089;Bouxières-aux-Chênes;;;6.273027;48.776036
+54089_0020_00012;12;;Rue d’Agincourt;54770;54089;Bouxières-aux-Chênes;;;6.265143;48.767993
+54089_0086_00001;1;;Place de la Chapelle;54770;54089;Bouxières-aux-Chênes;;;6.26852;48.777404
+54089_45b8hf_00008;8;;Route Departementale 913;54770;54089;Bouxières-aux-Chênes;;;6.266598;48.767806
+54089_0048_00016;16;;Rue de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.247604;48.762368
+54089_0280_00016;16;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.261791;48.770746
+54089_0085_00032;32;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.272184;48.778827
+54089_0252_00023_bis;23;bis;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.259267;48.771248
+54089_0040_00011;11;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260019;48.771935
+54089_rfv001_00004;4;;Rue du Puits;54770;54089;Bouxières-aux-Chênes;;;6.270265;48.777558
+54089_0240_00027;27;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.258178;48.776232
+54089_0085_00023;23;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.272579;48.779122
+54089_z8ttcc_00004;4;;Impasse Joseph Peltier;54770;54089;Bouxières-aux-Chênes;;;6.261958;48.77182
+54089_0240_00015;15;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.259401;48.775018
+54089_0148_00014;14;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.268034;48.77621
+54089_0156_00016_bis;16;bis;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.257311;48.771177
+54089_0101_00005;5;;Rue de Neuviller;54770;54089;Bouxières-aux-Chênes;;;6.263381;48.76908
+54089_0020_00015;15;;Rue d’Agincourt;54770;54089;Bouxières-aux-Chênes;;;6.26496;48.76852
+54089_0156_00046;46;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256833;48.773675
+54089_0042_00002;2;;Ancien Chemin de Metz;54770;54089;Bouxières-aux-Chênes;;;6.27425;48.776056
+54089_0255_00002;2;;Rue Pierre Curie;54770;54089;Bouxières-aux-Chênes;;;6.25188;48.76463
+54089_0160_00001;1;;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.253951;48.765005
+54089_0100_00010;10;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.264111;48.772457
+54089_0280_00014;14;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.261539;48.770733
+54089_0020_00009;9;;Rue d’Agincourt;54770;54089;Bouxières-aux-Chênes;;;6.264864;48.769477
+54089_0048_00007;7;;Rue de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.249597;48.763175
+54089_0262_00049;49;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.251524;48.763438
+54089_0040_00015;15;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.259996;48.772099
+54089_0156_00040;40;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256868;48.773354
+54089_0280_00028;28;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.263377;48.770327
+54089_0050_00001;1;;Rue du Béché;54770;54089;Bouxières-aux-Chênes;;;6.262178;48.773601
+54089_0162_00020;20;;Ruelle de l’Huile;54770;54089;Bouxières-aux-Chênes;;;6.269358;48.777506
+54089_0262_00032;32;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252129;48.76429
+54089_0156_00053;53;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256675;48.774521
+54089_0051_00004;4;;Rue du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.262899;48.772516
+54089_0040_00055;55;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.261165;48.774056
+54089_0101_00020;20;;Rue de Neuviller;54770;54089;Bouxières-aux-Chênes;;;6.260853;48.769094
+54089_0281_00012;12;;Rue des Vergers;54770;54089;Bouxières-aux-Chênes;;;6.272771;48.776114
+54089_0280_00023;23;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.263621;48.770384
+54089_0160_00005;5;;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.254203;48.765504
+54089_0060_00002_bis;2;bis;Rue du Château;54770;54089;Bouxières-aux-Chênes;;;6.268456;48.776967
+54089_0256_00005;5;;Rue du Plateau;54770;54089;Bouxières-aux-Chênes;;;6.258161;48.769745
+54089_0251_00003;3;;Impasse Moulin le Duc;54770;54089;Bouxières-aux-Chênes;;;6.255349;48.765101
+54089_0256_00013;13;;Rue du Plateau;54770;54089;Bouxières-aux-Chênes;;;6.257355;48.770163
+54089_0148_00006;6;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.267541;48.7766
+54089_0151_00008;8;;Sentier des Greffins;54770;54089;Bouxières-aux-Chênes;;;6.258008;48.774931
+54089_0085_00008_bis;8;bis;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.270686;48.777366
+54089_0085_00026;26;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.271862;48.778243
+54089_0281_00018;18;;Rue des Vergers;54770;54089;Bouxières-aux-Chênes;;;6.271687;48.776446
+54089_0280_00027;27;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.264363;48.770381
+54089_0120_00008;8;;Rue des Eaux;54770;54089;Bouxières-aux-Chênes;;;6.253167;48.76549
+54089_0256_00006;6;;Rue du Plateau;54770;54089;Bouxières-aux-Chênes;;;6.257779;48.769973
+54089_0085_00020;20;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.271715;48.777756
+54089_0281_00004;4;;Rue des Vergers;54770;54089;Bouxières-aux-Chênes;;;6.273737;48.775816
+54089_0240_00021;21;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.258636;48.775783
+54089_0100_00018;18;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.264729;48.771723
+54089_0040_00048;48;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260627;48.773918
+54089_45b8hf_00002;2;;Route Departementale 913;54770;54089;Bouxières-aux-Chênes;;;6.265482;48.767058
+54089_z8ttcc_00002;2;;Impasse Joseph Peltier;54770;54089;Bouxières-aux-Chênes;;;6.261867;48.772069
+54089_x001_00008;8;;Cour de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.246846;48.761434
+54089_0262_00001;1;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.256219;48.76361
+54089_0156_00003;3;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.258312;48.770119
+54089_0040_00029;29;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.259809;48.772678
+54089_0262_00036;36;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.251989;48.764123
+54089_0240_00016;16;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.258352;48.776173
+54089_0246_00004;4;;Rue de la Forge;54770;54089;Bouxières-aux-Chênes;;;6.26073;48.771299
+54089_0183_00003;3;;Rue des Mez;54770;54089;Bouxières-aux-Chênes;;;6.26775;48.771713
+54089_0240_00005;5;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.259797;48.774199
+54089_84alqh_00011;11;;Chemin du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.262707;48.771903
+54089_0280_00010;10;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.260994;48.770645
+54089_0060_00007;7;;Rue du Château;54770;54089;Bouxières-aux-Chênes;;;6.269051;48.776713
+54089_0020_00014;14;;Rue d’Agincourt;54770;54089;Bouxières-aux-Chênes;;;6.265363;48.767903
+54089_0245_00005;5;;Rue des Ormes;54770;54089;Bouxières-aux-Chênes;;;6.266456;48.771123
+54089_0156_00051;51;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256718;48.774377
+54089_0262_00006;6;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.254701;48.764377
+54089_0085_00009;9;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.271258;48.777629
+54089_0048_00014_bis;14;bis;Rue de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.247864;48.762455
+54089_0156_00030;30;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256964;48.772656
+54089_0148_00026;26;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.268903;48.776337
+54089_0158_00013;13;;Ruelle Ferrée;54770;54089;Bouxières-aux-Chênes;;;6.267313;48.776378
+54089_0256_00010;10;;Rue du Plateau;54770;54089;Bouxières-aux-Chênes;;;6.257258;48.770303
+54089_0240_00033;33;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.257896;48.776681
+54089_0151_00005;5;;Sentier des Greffins;54770;54089;Bouxières-aux-Chênes;;;6.258375;48.774938
+54089_0252_00029_ter;29;ter;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.258272;48.771619
+54089_0262_00040_bis;40;bis;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.251759;48.763825
+54089_0156_00048;48;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256853;48.773766
+54089_0262_00002_bis;2;bis;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.255268;48.764132
+54089_0240_00019;19;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.258748;48.775657
+54089_0263_00004;4;;Place du Pére Gérard;54770;54089;Bouxières-aux-Chênes;;;6.262728;48.773925
+54089_0148_00013;13;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.267954;48.776356
+54089_0240_00018;18;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.258115;48.776736
+54089_0040_00019;19;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.259967;48.772218
+54089_0280_00029;29;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.261348;48.770766
+54089_0100_00026;26;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.264996;48.770564
+54089_0148_00023_bis;23;bis;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.268975;48.776543
+54089_0240_00010;10;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.259125;48.775363
+54089_0051_00003;3;;Rue du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.262866;48.77247
+54089_0255_00001;1;;Rue Pierre Curie;54770;54089;Bouxières-aux-Chênes;;;6.251596;48.764597
+54089_0050_00008;8;;Rue du Béché;54770;54089;Bouxières-aux-Chênes;;;6.261944;48.773294
+54089_0040_00018;18;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260159;48.771853
+54089_0183_00014;14;;Rue des Mez;54770;54089;Bouxières-aux-Chênes;;;6.266916;48.772408
+54089_8qkv1t_00020;20;;Vieux Chemin d’Ecuelle;54770;54089;Bouxières-aux-Chênes;;;6.275289;48.778978
+54089_0085_00003;3;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.27051;48.77739
+54089_0300_00002;2;;Rue des Violettes;54770;54089;Bouxières-aux-Chênes;;;6.254003;48.765785
+54089_0262_00009;9;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.254873;48.764215
+54089_0148_00023;23;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.268926;48.776504
+54089_0148_00008;8;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.267574;48.776556
+54089_0050_00002;2;;Rue du Béché;54770;54089;Bouxières-aux-Chênes;;;6.262041;48.773557
+54089_0245_00003;3;;Rue des Ormes;54770;54089;Bouxières-aux-Chênes;;;6.265929;48.771043
+54089_0101_00003;3;;Rue de Neuviller;54770;54089;Bouxières-aux-Chênes;;;6.263699;48.769026
+54089_0156_00018;18;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.257251;48.77135
+54089_0100_00006;6;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.263388;48.772776
+54089_x001_00004;4;;Cour de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.247044;48.761683
+54089_0156_00041;41;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256741;48.773565
+54089_0130_00002;2;;Rue des Eglantiers;54770;54089;Bouxières-aux-Chênes;;;6.26854;48.770888
+54089_0160_00006;6;;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.254553;48.765641
+54089_ie3qik_00004;4;;Chemin des Tournants;54770;54089;Bouxières-aux-Chênes;;;6.270783;48.776237
+54089_0262_00046;46;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.251354;48.763464
+54089_0148_00020_bis;20;bis;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.268647;48.776131
+54089_0079_00011;11;;Place du Chene;54770;54089;Bouxières-aux-Chênes;;;6.259871;48.770986
+54089_0281_00009;9;;Rue des Vergers;54770;54089;Bouxières-aux-Chênes;;;6.272432;48.776042
+54089_0262_00027;27;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252448;48.764416
+54089_0148_00018_bis;18;bis;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.26849;48.776056
+54089_0256_00009_bis;9;bis;Rue du Plateau;54770;54089;Bouxières-aux-Chênes;;;6.257545;48.769967
+54089_0100_00012;12;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.264304;48.772275
+54089_0140_00002_bis;2;bis;Rue du Fort;54770;54089;Bouxières-aux-Chênes;;;6.267348;48.777329
+54089_0280_00025;25;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.263957;48.770379
+54089_0020_00023;23;;Rue d’Agincourt;54770;54089;Bouxières-aux-Chênes;;;6.265719;48.767927
+54089_0262_00017;17;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.253014;48.764689
+54089_0140_00011;11;;Rue du Fort;54770;54089;Bouxières-aux-Chênes;;;6.265843;48.778065
+54089_0251_00006;6;;Impasse Moulin le Duc;54770;54089;Bouxières-aux-Chênes;;;6.2554;48.764869
+54089_0262_00023_bis;23;bis;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.253261;48.764855
+54089_0100_00003;3;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.262922;48.773575
+54089_0090_00001;1;;Chemin de la Corvee Fripon;54770;54089;Bouxières-aux-Chênes;;;6.247482;48.762556
+54089_0262_00047;47;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.251699;48.763622
+54089_0156_00016;16;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.257465;48.770955
+54089_0060_00010;10;;Rue du Château;54770;54089;Bouxières-aux-Chênes;;;6.269557;48.776884
+54089_0158_00004;4;;Ruelle Ferrée;54770;54089;Bouxières-aux-Chênes;;;6.266693;48.775741
+54089_0245_00008;8;;Rue des Ormes;54770;54089;Bouxières-aux-Chênes;;;6.266395;48.770699
+54089_0079_00013;13;;Place du Chene;54770;54089;Bouxières-aux-Chênes;;;6.260126;48.771001
+54089_0256_00009;9;;Rue du Plateau;54770;54089;Bouxières-aux-Chênes;;;6.257771;48.76988
+54089_0262_00040;40;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.251812;48.76391
+54089_0250_00008;8;;Rue de la Paix;54770;54089;Bouxières-aux-Chênes;;;6.259173;48.769961
+54089_0148_00012;12;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.267779;48.776381
+54089_0060_00004;4;;Rue du Château;54770;54089;Bouxières-aux-Chênes;;;6.268797;48.776755
+54089_0158_00007;7;;Ruelle Ferrée;54770;54089;Bouxières-aux-Chênes;;;6.265618;48.775903
+54089_0262_00019;19;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252827;48.764609
+54089_0280_00008_bis;8;bis;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.260778;48.77065
+54089_84alqh_00007;7;;Chemin du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.262779;48.771431
+54089_0100_00005;5;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.263191;48.773132
+54089_x001_00001;1;;Cour de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.247261;48.761936
+54089_0040_00032_bis;32;bis;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260874;48.773162
+54089_0281_00016;16;;Rue des Vergers;54770;54089;Bouxières-aux-Chênes;;;6.272239;48.77628
+54089_0251_00001;1;;Impasse Moulin le Duc;54770;54089;Bouxières-aux-Chênes;;;6.255171;48.764792
+54089_0040_00035;35;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260113;48.773428
+54089_0156_00052;52;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256857;48.774186
+54089_0040_00052;52;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260829;48.77395
+54089_0079_00005;5;;Place du Chene;54770;54089;Bouxières-aux-Chênes;;;6.25967;48.77084
+54089_09b2pn_00000;0;;Fonteny;54770;54089;Bouxières-aux-Chênes;;;6.28666;48.774533
+54089_45b8hf_00010;10;;Route Departementale 913;54770;54089;Bouxières-aux-Chênes;;;6.272381;48.773329
+54089_0085_00016;16;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.271407;48.777624
+54089_0156_00029;29;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256855;48.772821
+54089_0040_00030;30;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260043;48.773131
+54089_0050_00014;14;;Rue du Béché;54770;54089;Bouxières-aux-Chênes;;;6.262004;48.772708
+54089_0281_00018_bis;18;bis;Rue des Vergers;54770;54089;Bouxières-aux-Chênes;;;6.271497;48.776498
+54089_0280_00011;11;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.261788;48.770845
+54089_0156_00054;54;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256807;48.774346
+54089_0020_00007;7;;Rue d’Agincourt;54770;54089;Bouxières-aux-Chênes;;;6.264924;48.769587
+54089_0262_00039;39;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252028;48.763987
+54089_0265_00005;5;;Rue du Haut des Roches;54770;54089;Bouxières-aux-Chênes;;;6.269069;48.777918
+54089_0262_00030_bis;30;bis;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252199;48.764369
+54089_0085_00005;5;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.270763;48.777444
+54089_0040_00054;54;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.261055;48.773994
+54089_0250_00004;4;;Rue de la Paix;54770;54089;Bouxières-aux-Chênes;;;6.259937;48.770601
+54089_0284_00004;4;;Clos Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.264512;48.769898
+54089_0240_00008;8;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.259471;48.775019
+54089_0156_00038;38;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256903;48.773115
+54089_0245_00010;10;;Rue des Ormes;54770;54089;Bouxières-aux-Chênes;;;6.266471;48.771034
+54089_0262_00045;45;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.251762;48.763691
+54089_0048_00005;5;;Rue de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.250085;48.763308
+54089_0240_00031;31;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.257854;48.77653
+54089_0250_00012_bis;12;bis;Rue de la Paix;54770;54089;Bouxières-aux-Chênes;;;6.259121;48.769545
+54089_0240_00009;9;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.259694;48.774519
+54089_0148_00020;20;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.268614;48.776111
+54089_z8ttcc_00005;5;;Impasse Joseph Peltier;54770;54089;Bouxières-aux-Chênes;;;6.262168;48.771863
+54089_0262_00023;23;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252645;48.764537
+54089_0156_00015;15;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.257336;48.770893
+54089_45b8hf_00006;6;;Route Departementale 913;54770;54089;Bouxières-aux-Chênes;;;6.266025;48.767563
+54089_0148_00016_bis;16;bis;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.268314;48.776061
+54089_0158_00011;11;;Ruelle Ferrée;54770;54089;Bouxières-aux-Chênes;;;6.267019;48.776216
+54089_45b8hf_00001;1;;Route Departementale 913;54770;54089;Bouxières-aux-Chênes;;;6.265668;48.767404
+54089_0051_00014;14;;Rue du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.261324;48.772391
+54089_0040_00020;20;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260254;48.772027
+54089_0256_00001;1;;Rue du Plateau;54770;54089;Bouxières-aux-Chênes;;;6.259013;48.769667
+54089_z8ttcc_00010;10;;Impasse Joseph Peltier;54770;54089;Bouxières-aux-Chênes;;;6.26224;48.771566
+54089_0050_00010;10;;Rue du Béché;54770;54089;Bouxières-aux-Chênes;;;6.261944;48.773127
+54089_0040_00037;37;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260085;48.773553
+54089_0280_00005;5;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.260772;48.770746
+54089_0262_00018;18;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.253261;48.764855
+54089_0252_00011;11;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.259541;48.770656
+54089_0183_00005;5;;Rue des Mez;54770;54089;Bouxières-aux-Chênes;;;6.267595;48.771828
+54089_0281_00020;20;;Rue des Vergers;54770;54089;Bouxières-aux-Chênes;;;6.271215;48.776605
+54089_0162_00002;2;;Ruelle de l’Huile;54770;54089;Bouxières-aux-Chênes;;;6.271536;48.778576
+54089_0262_00034;34;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252055;48.764204
+54089_0054_00003;3;;Rue d’Haussonvigne;54770;54089;Bouxières-aux-Chênes;;;6.255251;48.76551
+54089_0100_00029;29;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.265128;48.770572
+54089_84alqh_00013;13;;Chemin du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.262668;48.772132
+54089_ie3qik_00003;3;;Chemin des Tournants;54770;54089;Bouxières-aux-Chênes;;;6.271517;48.775879
+54089_0262_00020;20;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252908;48.764779
+54089_0156_00023;23;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256949;48.772263
+54089_0020_00017;17;;Rue d’Agincourt;54770;54089;Bouxières-aux-Chênes;;;6.264992;48.768255
+54089_0040_00058;58;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.261472;48.774058
+54089_0262_00002_c;2;c;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.255757;48.763946
+54089_0240_00003;3;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.259854;48.77406
+54089_45b8hf_00009;9;;Route Departementale 913;54770;54089;Bouxières-aux-Chênes;;;6.267169;48.768772
+54089_rfv001_00006;6;;Rue du Puits;54770;54089;Bouxières-aux-Chênes;;;6.270034;48.777718
+54089_0156_00013;13;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.257386;48.770756
+54089_0048_00009;9;;Rue de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.248889;48.762902
+54089_45b8hf_00012;12;;Route Departementale 913;54770;54089;Bouxières-aux-Chênes;;;6.278493;48.778907
+54089_0156_00044;44;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256842;48.773462
+54089_0280_00007;7;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.261427;48.770844
+54089_0100_00021;21;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.264883;48.771625
+54089_0040_00042;42;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.260206;48.773727
+54089_0085_00028;28;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.272044;48.778419
+54089_0158_00003;3;;Ruelle Ferrée;54770;54089;Bouxières-aux-Chênes;;;6.262382;48.774197
+54089_0300_00016;16;;Rue des Violettes;54770;54089;Bouxières-aux-Chênes;;;6.251513;48.76656
+54089_0156_00027;27;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.256884;48.772626
+54089_0101_00007;7;;Rue de Neuviller;54770;54089;Bouxières-aux-Chênes;;;6.26331;48.769334
+54089_0300_00007;7;;Rue des Violettes;54770;54089;Bouxières-aux-Chênes;;;6.252308;48.766026
+54089_0252_00016;16;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.257871;48.771917
+54089_0252_00014;14;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.258015;48.771982
+54089_0148_00018;18;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.26836;48.776039
+54089_0156_00017;17;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.25725;48.771086
+54089_0160_00009;9;;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.254453;48.765814
+54089_0262_00025;25;;Rue du Général Leclerc;54770;54089;Bouxières-aux-Chênes;;;6.252497;48.764451
+54089_0281_00002;2;;Rue des Vergers;54770;54089;Bouxières-aux-Chênes;;;6.274184;48.775683
+54089_0100_00025;25;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.265043;48.771269
+54089_0101_00024;24;;Rue de Neuviller;54770;54089;Bouxières-aux-Chênes;;;6.260543;48.769087
+54089_0280_00021;21;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.262897;48.770592
+54089_0280_00030_bis;30;bis;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.263922;48.770197
+54089_0085_00013;13;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.271567;48.77785
+54089_0148_00011;11;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.267773;48.776445
+54089_0252_00031;31;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.257952;48.771676
+54089_0060_00001;1;;Rue du Château;54770;54089;Bouxières-aux-Chênes;;;6.268139;48.777146
+54089_0120_00001;1;;Rue des Eaux;54770;54089;Bouxières-aux-Chênes;;;6.253506;48.765117
+54089_x001_00002;2;;Cour de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.247146;48.761815
+54089_rfv001_00001;1;;Rue du Puits;54770;54089;Bouxières-aux-Chênes;;;6.270333;48.777395
+54089_0158_00001;1;;Ruelle Ferrée;54770;54089;Bouxières-aux-Chênes;;;6.262136;48.774185
+54089_0040_00026;26;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.259768;48.772919
+54089_0151_00004;4;;Sentier des Greffins;54770;54089;Bouxières-aux-Chênes;;;6.258695;48.77507
+54089_0048_00018;18;;Rue de Blanzey;54770;54089;Bouxières-aux-Chênes;;;6.246962;48.76211
+54089_0120_00004;4;;Rue des Eaux;54770;54089;Bouxières-aux-Chênes;;;6.253414;48.765202
+54089_0051_00010;10;;Rue du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.261798;48.772264
+54089_0148_00015;15;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.268404;48.776083
+54089_0085_00008;8;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.270586;48.777334
+54089_0040_00061;61;;Rue de l’Armée Patton;54770;54089;Bouxières-aux-Chênes;;;6.26171;48.774141
+54089_0086_00002;2;;Place de la Chapelle;54770;54089;Bouxières-aux-Chênes;;;6.268627;48.777034
+54089_0020_00008;8;;Rue d’Agincourt;54770;54089;Bouxières-aux-Chênes;;;6.264408;48.769467
+54089_45b8hf_00007;7;;Route Departementale 913;54770;54089;Bouxières-aux-Chênes;;;6.266981;48.768597
+54089_0160_00012_bis;12;bis;Rue Lyautey;54770;54089;Bouxières-aux-Chênes;;;6.254751;48.766124
+54089_0246_00006;6;;Rue de la Forge;54770;54089;Bouxières-aux-Chênes;;;6.260676;48.77133
+54089_0100_00015;15;;Rue de la Cure;54770;54089;Bouxières-aux-Chênes;;;6.264489;48.772176
+54089_0085_00004;4;;Rue du Cheval Rouge;54770;54089;Bouxières-aux-Chênes;;;6.270372;48.77725
+54089_0148_00005;5;;Rue du Général de Gaulle;54770;54089;Bouxières-aux-Chênes;;;6.267764;48.776735
+54089_0252_00015;15;;Rue Pasteur;54770;54089;Bouxières-aux-Chênes;;;6.259492;48.770865
+54089_0284_00003;3;;Clos Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.264469;48.769845
+54089_0255_00002_bis;2;bis;Rue Pierre Curie;54770;54089;Bouxières-aux-Chênes;;;6.252324;48.764495
+54089_0051_00005;5;;Rue du Béchot;54770;54089;Bouxières-aux-Chênes;;;6.262422;48.772365
+54089_0156_00019;19;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.257065;48.771761
+54089_0156_00009;9;;Rue des Grouantes;54770;54089;Bouxières-aux-Chênes;;;6.258257;48.770481
+54089_0280_00006;6;;Rue Victor Hugo;54770;54089;Bouxières-aux-Chênes;;;6.260599;48.770587
+54089_0261_00001;1;;Rue du Puits;54770;54089;Bouxières-aux-Chênes;;;6.270339;48.777413
+54089_0240_00001;1;;Rue des Noisetiers;54770;54089;Bouxières-aux-Chênes;;;6.259941;48.773898
+54089_0300_00012;12;;Rue des Violettes;54770;54089;Bouxières-aux-Chênes;;;6.251942;48.766208
+54089_veacll_00002;2;;Chemin de la Justice;54770;54089;Bouxières-aux-Chênes;;;6.275077;48.775198

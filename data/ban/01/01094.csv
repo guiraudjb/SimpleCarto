@@ -1,0 +1,411 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+01094_0350_00342;342;;Route de Geffe;01190;01094;Chavannes-sur-Reyssouze;;;4.999868;46.449524
+01094_0420_00555;555;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.00816;46.436239
+01094_0420_01751;1751;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.011952;46.446251
+01094_0420_01892;1892;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.013167;46.447117
+01094_0345_01207;1207;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;4.99804;46.439756
+01094_0345_01415;1415;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;4.999003;46.441505
+01094_0345_01830;1830;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;5.003037;46.444168
+01094_0280_00137;137;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.999639;46.432548
+01094_0280_00169;169;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.999644;46.432708
+01094_0280_00235;235;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.999247;46.433213
+01094_0280_00462;462;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.999049;46.435043
+01094_0385_01093;1093;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.020168;46.429
+01094_0385_01318;1318;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.017651;46.429652
+01094_0385_02440;2440;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.005241;46.432032
+01094_0385_02545;2545;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.002622;46.431609
+01094_0385_04270;4270;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.983679;46.429195
+01094_0395_01148;1148;;Route Mollard Gaillard;01190;01094;Chavannes-sur-Reyssouze;;;4.984108;46.437373
+01094_0265_00328;328;;Route de Corcelles;01190;01094;Chavannes-sur-Reyssouze;;;5.01618;46.432519
+01094_0265_00448;448;;Route de Corcelles;01190;01094;Chavannes-sur-Reyssouze;;;5.017626;46.432422
+01094_0415_00043;43;;Route du Mulfier;01190;01094;Chavannes-sur-Reyssouze;;;4.991466;46.43021
+01094_0415_00045;45;;Route du Mulfier;01190;01094;Chavannes-sur-Reyssouze;;;4.991467;46.430226
+01094_0415_00490;490;;Route du Mulfier;01190;01094;Chavannes-sur-Reyssouze;;;4.992718;46.433513
+01094_0415_00750;750;;Route du Mulfier;01190;01094;Chavannes-sur-Reyssouze;;;4.992418;46.436001
+01094_0465_00024;24;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;4.979663;46.442054
+01094_0465_02089;2089;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;5.006068;46.446791
+01094_0465_02305;2305;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;5.00879;46.447264
+01094_0465_02329;2329;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;5.009256;46.447346
+01094_0335_00017;17;;Route de la Flechere;01190;01094;Chavannes-sur-Reyssouze;;;4.999876;46.431004
+01094_0335_00677;677;;Route de la Flechere;01190;01094;Chavannes-sur-Reyssouze;;;5.007943;46.430134
+01094_0335_00715;715;;Route de la Flechere;01190;01094;Chavannes-sur-Reyssouze;;;5.008534;46.430126
+01094_0335_00739;739;;Route de la Flechere;01190;01094;Chavannes-sur-Reyssouze;;;5.008961;46.430071
+01094_0445_00019;19;;Impasse des Pres;01190;01094;Chavannes-sur-Reyssouze;;;4.994023;46.433375
+01094_0420_00013;13;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.007909;46.431861
+01094_0420_00493;493;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.008392;46.435562
+01094_0420_00499;499;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.008404;46.435628
+01094_0420_00915;915;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.008412;46.439516
+01094_0345_01209;1209;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;4.997908;46.439443
+01094_0345_01477;1477;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;4.999335;46.441907
+01094_0280_00382;382;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.999039;46.43493
+01094_0280_00445;445;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.99893;46.435012
+01094_0280_00506;506;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.999073;46.43544
+01094_0385_01450;1450;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.016876;46.429802
+01094_0350_00115;115;;Route de Geffe;01190;01094;Chavannes-sur-Reyssouze;;;5.000866;46.449361
+01094_0350_00545;545;;Route de Geffe;01190;01094;Chavannes-sur-Reyssouze;;;4.998108;46.449656
+01094_0420_00034;34;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.008001;46.431808
+01094_0420_02008;2008;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.01435;46.448062
+01094_0345_00265;265;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;4.993547;46.432571
+01094_0345_00445;445;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;4.993351;46.434037
+01094_0345_00571;571;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;4.993839;46.435255
+01094_0280_00065;65;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.999616;46.431994
+01094_0385_01157;1157;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.018697;46.429355
+01094_0385_01235;1235;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.018743;46.429343
+01094_0385_01248;1248;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.018508;46.42948
+01094_0385_01297;1297;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.017984;46.429505
+01094_0385_01556;1556;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.014695;46.430103
+01094_0385_01709;1709;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.010341;46.430664
+01094_0385_01870;1870;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.010431;46.430724
+01094_0385_02032;2032;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.008872;46.431395
+01094_0395_00590;590;;Route Mollard Gaillard;01190;01094;Chavannes-sur-Reyssouze;;;4.985067;46.433645
+01094_0395_01273;1273;;Route Mollard Gaillard;01190;01094;Chavannes-sur-Reyssouze;;;4.983446;46.438344
+01094_0265_00210;210;;Route de Corcelles;01190;01094;Chavannes-sur-Reyssouze;;;5.0148;46.43283
+01094_0265_00278;278;;Route de Corcelles;01190;01094;Chavannes-sur-Reyssouze;;;5.015539;46.432591
+01094_0265_00300;300;;Route de Corcelles;01190;01094;Chavannes-sur-Reyssouze;;;5.01572;46.432565
+01094_0265_00356;356;;Route de Corcelles;01190;01094;Chavannes-sur-Reyssouze;;;5.016734;46.432473
+01094_0265_00398;398;;Route de Corcelles;01190;01094;Chavannes-sur-Reyssouze;;;5.017229;46.43244
+01094_0265_00452;452;;Route de Corcelles;01190;01094;Chavannes-sur-Reyssouze;;;5.017897;46.432432
+01094_0300_00131;131;;Route des Donguys;01190;01094;Chavannes-sur-Reyssouze;;;4.991916;46.450146
+01094_0415_00121;121;;Route du Mulfier;01190;01094;Chavannes-sur-Reyssouze;;;4.9912;46.430741
+01094_0415_01110;1110;;Route du Mulfier;01190;01094;Chavannes-sur-Reyssouze;;;4.992213;46.439142
+01094_0465_00032;32;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;4.979663;46.442054
+01094_0465_00751;751;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;4.989172;46.443824
+01094_0465_00780;780;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;4.989149;46.443737
+01094_0465_01248;1248;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;4.995388;46.444828
+01094_0465_01733;1733;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;5.001404;46.445964
+01094_0465_02033;2033;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;5.004928;46.446589
+01094_0465_03994;3994;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;5.030287;46.450955
+01094_0335_00507;507;;Route de la Flechere;01190;01094;Chavannes-sur-Reyssouze;;;5.005878;46.430398
+01094_0350_00344;344;;Route de Geffe;01190;01094;Chavannes-sur-Reyssouze;;;5.000674;46.449454
+01094_0350_00513;513;;Route de Geffe;01190;01094;Chavannes-sur-Reyssouze;;;4.999778;46.44945
+01094_0420_00069;69;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.008387;46.432348
+01094_0420_00090;90;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.008434;46.432259
+01094_0420_00503;503;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.008213;46.436161
+01094_0420_01983;1983;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.013979;46.447802
+01094_0345_00129;129;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;4.994766;46.431832
+01094_0345_02063;2063;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;5.004482;46.445863
+01094_0280_00029;29;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.999673;46.431541
+01094_0280_00504;504;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.999074;46.435453
+01094_0280_00538;538;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.999101;46.435752
+01094_0230_00051;51;;Route du Boidet;01190;01094;Chavannes-sur-Reyssouze;;;5.019053;46.434546
+01094_0385_01575;1575;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.013359;46.43007
+01094_0385_01656;1656;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.01385;46.430125
+01094_0385_02299;2299;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.006362;46.431762
+01094_0385_02511;2511;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.003062;46.431609
+01094_0385_02543;2543;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.002648;46.431609
+01094_0385_02864;2864;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.998702;46.431141
+01094_0385_03120;3120;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.995673;46.430754
+01094_0395_00118;118;;Route Mollard Gaillard;01190;01094;Chavannes-sur-Reyssouze;;;4.986515;46.430344
+01094_0395_00888;888;;Route Mollard Gaillard;01190;01094;Chavannes-sur-Reyssouze;;;4.985841;46.435731
+01094_0395_01381;1381;;Route Mollard Gaillard;01190;01094;Chavannes-sur-Reyssouze;;;4.982572;46.439435
+01094_0300_00041;41;;Route des Donguys;01190;01094;Chavannes-sur-Reyssouze;;;4.990599;46.450511
+01094_0300_00234;234;;Route des Donguys;01190;01094;Chavannes-sur-Reyssouze;;;4.992786;46.449811
+01094_0300_00286;286;;Route des Donguys;01190;01094;Chavannes-sur-Reyssouze;;;4.993597;46.449565
+01094_0415_00047;47;;Route du Mulfier;01190;01094;Chavannes-sur-Reyssouze;;;4.99146;46.430034
+01094_0415_00127;127;;Route du Mulfier;01190;01094;Chavannes-sur-Reyssouze;;;4.991291;46.430904
+01094_0415_00378;378;;Route du Mulfier;01190;01094;Chavannes-sur-Reyssouze;;;4.992311;46.432429
+01094_0415_00950;950;;Route du Mulfier;01190;01094;Chavannes-sur-Reyssouze;;;4.99247;46.437488
+01094_0465_00399;399;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;4.984464;46.442986
+01094_0465_00539;539;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;4.986014;46.443263
+01094_0465_00541;541;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;4.986558;46.443355
+01094_0335_00713;713;;Route de la Flechere;01190;01094;Chavannes-sur-Reyssouze;;;5.008249;46.430143
+01094_0335_00732;732;;Route de la Flechere;01190;01094;Chavannes-sur-Reyssouze;;;5.008668;46.429898
+01094_0335_00672;672;;Route de la Flechere;01190;01094;Chavannes-sur-Reyssouze;;;5.008274;46.430061
+01094_0385_01472;1472;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.01645;46.429876
+01094_0385_01650;1650;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.014289;46.430116
+01094_0385_01710;1710;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.998808;46.430994
+01094_0385_01925;1925;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.00946;46.431028
+01094_0385_02893;2893;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.998654;46.431057
+01094_0385_03123;3123;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.995777;46.430699
+01094_0385_03763;3763;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.99;46.428761
+01094_0385_03771;3771;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.99;46.428761
+01094_0385_04165;4165;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.983577;46.42913
+01094_0395_00192;192;;Route Mollard Gaillard;01190;01094;Chavannes-sur-Reyssouze;;;4.986689;46.430723
+01094_0395_00581;581;;Route Mollard Gaillard;01190;01094;Chavannes-sur-Reyssouze;;;4.985011;46.43343
+01094_0265_00202;202;;Route de Corcelles;01190;01094;Chavannes-sur-Reyssouze;;;5.014526;46.432873
+01094_0410_00165;165;;Impasse Mourissier;01190;01094;Chavannes-sur-Reyssouze;;;4.984213;46.430616
+01094_0415_00101;101;;Route du Mulfier;01190;01094;Chavannes-sur-Reyssouze;;;4.991213;46.430555
+01094_0415_00129;129;;Route du Mulfier;01190;01094;Chavannes-sur-Reyssouze;;;4.991291;46.430904
+01094_0415_00392;392;;Route du Mulfier;01190;01094;Chavannes-sur-Reyssouze;;;4.992431;46.432953
+01094_0415_00653;653;;Route du Mulfier;01190;01094;Chavannes-sur-Reyssouze;;;4.992759;46.435097
+01094_0415_00674;674;;Route du Mulfier;01190;01094;Chavannes-sur-Reyssouze;;;4.992885;46.435237
+01094_0415_00743;743;;Route du Mulfier;01190;01094;Chavannes-sur-Reyssouze;;;4.992395;46.435714
+01094_0415_00950_a;950;a;Route du Mulfier;01190;01094;Chavannes-sur-Reyssouze;;;4.992476;46.437386
+01094_0465_00494;494;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;4.986008;46.443179
+01094_0465_01222;1222;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;4.995077;46.444773
+01094_0465_01373;1373;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;4.997151;46.445222
+01094_0465_01731;1731;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;5.001404;46.445964
+01094_0465_02236;2236;;Route de Saint Trivier;01190;01094;Chavannes-sur-Reyssouze;;;5.007897;46.447026
+01094_0335_00012;12;;Route de la Flechere;01190;01094;Chavannes-sur-Reyssouze;;;4.99976;46.430962
+01094_0335_00662;662;;Route de la Flechere;01190;01094;Chavannes-sur-Reyssouze;;;5.007611;46.430024
+01094_0335_00675;675;;Route de la Flechere;01190;01094;Chavannes-sur-Reyssouze;;;5.00782;46.430126
+01094_0350_00202;202;;Route de Geffe;01190;01094;Chavannes-sur-Reyssouze;;;5.000936;46.449438
+01094_0350_00451;451;;Route de Geffe;01190;01094;Chavannes-sur-Reyssouze;;;4.999778;46.44945
+01094_0350_00638;638;;Route de Geffe;01190;01094;Chavannes-sur-Reyssouze;;;4.999867;46.449524
+01094_0350_00664;664;;Route de Geffe;01190;01094;Chavannes-sur-Reyssouze;;;4.999867;46.449524
+01094_0420_01928;1928;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.0137;46.447452
+01094_0420_00069_a;69;a;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.008128;46.432112
+01094_0345_00305;305;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;4.992549;46.432687
+01094_0345_00390;390;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;4.993316;46.433577
+01094_0345_01712;1712;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;5.001802;46.443417
+01094_0345_02097;2097;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;5.004716;46.446234
+01094_0345_01830_a;1830;a;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;5.002975;46.444126
+01094_0280_00131;131;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.999628;46.432366
+01094_0280_00443;443;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.998917;46.434852
+01094_0230_00068;68;;Route du Boidet;01190;01094;Chavannes-sur-Reyssouze;;;5.019345;46.434756
+01094_0385_01293;1293;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.013359;46.43007
+01094_0385_01348;1348;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.017286;46.429724
+01094_0385_01420;1420;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.996019;46.429881
+01094_0385_01526;1526;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.016023;46.429947
+01094_0385_01584;1584;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.015164;46.430073
+01094_0385_01624;1624;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.014727;46.430103
+01094_0385_01670;1670;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.013305;46.430153
+01094_0385_01940;1940;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.009576;46.431075
+01094_0385_02938;2938;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.998702;46.431141
+01094_0395_00478;478;;Route Mollard Gaillard;01190;01094;Chavannes-sur-Reyssouze;;;4.985994;46.432769
+01094_0395_00826;826;;Route Mollard Gaillard;01190;01094;Chavannes-sur-Reyssouze;;;4.985981;46.435018
+01094_0395_01179;1179;;Route Mollard Gaillard;01190;01094;Chavannes-sur-Reyssouze;;;4.983898;46.437531
+01094_0350_00173;173;;Route de Geffe;01190;01094;Chavannes-sur-Reyssouze;;;5.000866;46.449361
+01094_0420_00065;65;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.007767;46.432233
+01094_0420_00501;501;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.008404;46.435645
+01094_0420_00548;548;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.008332;46.436181
+01094_0420_01383;1383;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.009491;46.443566
+01094_0420_01726;1726;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.012053;46.446209
+01094_0345_00091;91;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;4.995129;46.431415
+01094_0345_00927;927;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;4.996454;46.437318
+01094_0345_01008;1008;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;5.002888;46.443835
+01094_0345_01808;1808;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;5.00272;46.443954
+01094_0280_00508;508;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.999072;46.43546
+01094_0385_02410;2410;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.005241;46.432032
+01094_0385_02539;2539;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.0027;46.431609
+01094_0385_02541;2541;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.002674;46.431609
+01094_0385_02769;2769;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.999826;46.431225
+01094_0385_02789;2789;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.999607;46.431155
+01094_0385_03605;3605;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.99;46.428761
+01094_0385_03837;3837;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.99;46.428761
+01094_0385_04015;4015;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.984569;46.429022
+01094_0395_00238;238;;Route Mollard Gaillard;01190;01094;Chavannes-sur-Reyssouze;;;4.986676;46.430681
+01094_0395_00864;864;;Route Mollard Gaillard;01190;01094;Chavannes-sur-Reyssouze;;;4.985949;46.435308
+01094_0395_01424;1424;;Route Mollard Gaillard;01190;01094;Chavannes-sur-Reyssouze;;;4.982427;46.439744
+01094_0265_00276;276;;Route de Corcelles;01190;01094;Chavannes-sur-Reyssouze;;;5.015445;46.432614
+01094_0350_00363;363;;Route de Geffe;01190;01094;Chavannes-sur-Reyssouze;;;4.999897;46.449439
+01094_0420_00533;533;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.008349;46.435953
+01094_0345_01354;1354;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;4.99879;46.440955
+01094_0345_01370;1370;;Route de la Gare;01190;01094;Chavannes-sur-Reyssouze;;;4.998966;46.441263
+01094_0280_00069;69;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.999631;46.431836
+01094_0280_00428;428;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.999032;46.434832
+01094_0385_01218;1218;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.018779;46.42942
+01094_0385_01534;1534;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.015595;46.430016
+01094_0385_02009;2009;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.008805;46.431329
+01094_0385_02300;2300;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.00661;46.431764
+01094_0385_03021;3021;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.996966;46.430943
+01094_0395_01190;1190;;Route Mollard Gaillard;01190;01094;Chavannes-sur-Reyssouze;;;4.983923;46.437714
+01094_0265_00187;187;;Route de Corcelles;01190;01094;Chavannes-sur-Reyssouze;;;5.014486;46.43297
+01094_0420_00054;54;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.008221;46.432061
+01094_0420_00112;112;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.008767;46.43258
+01094_0420_00154;154;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.008961;46.432761
+01094_0420_01956;1956;;Route des Nugons;01190;01094;Chavannes-sur-Reyssouze;;;5.014019;46.447704
+01094_0280_00175;175;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.999648;46.432828
+01094_0280_00225;225;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.99953;46.43315
+01094_0280_00471;471;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.998942;46.435146
+01094_0280_00475;475;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.99895;46.435312
+01094_0280_00515;515;;Route de la Cunière;01190;01094;Chavannes-sur-Reyssouze;;;4.999652;46.433086
+01094_0230_00059;59;;Route du Boidet;01190;01094;Chavannes-sur-Reyssouze;;;5.019288;46.434857
+01094_0385_01233;1233;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.018697;46.429355
+01094_0385_01256;1256;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.018145;46.429556
+01094_0385_01703;1703;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.010341;46.430664
+01094_0385_01712;1712;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.010431;46.430724
+01094_0385_01814;1814;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;5.010431;46.430724
+01094_0385_03206;3206;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.99436;46.430377
+01094_0385_04297;4297;;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.983577;46.42913
+01094_0385_04015_a;4015;a;Route de Mantenay;01190;01094;Chavannes-sur-Reyssouze;;;4.984572;46.429021
+01094_0335_00760;760;;Route de la Flechere;01190;01094;Chavannes-sur-Reyssouze;;;5.009192;46.429825
+01094_0325_00026;26;;Route de l’Etang;01190;01094;Chavannes-sur-Reyssouze;;;4.996825;46.437357
+01094_0335_00766;766;;Route de la Flechere;01190;01094;Chavannes-sur-Reyssouze;;;5.009765;46.429922
+01094_0390_00259;259;;Route de Marmont;01190;01094;Chavannes-sur-Reyssouze;;;5.00515;46.448901
+01094_0390_00440;440;;Route de Marmont;01190;01094;Chavannes-sur-Reyssouze;;;5.005403;46.450344
+01094_0250_00160;160;;Route des Champs;01190;01094;Chavannes-sur-Reyssouze;;;4.998558;46.446812
+01094_0325_00140;140;;Route de l’Etang;01190;01094;Chavannes-sur-Reyssouze;;;4.998494;46.436785
+01094_0325_00232;232;;Route de l’Etang;01190;01094;Chavannes-sur-Reyssouze;;;4.999896;46.436674
+01094_0325_00288;288;;Route de l’Etang;01190;01094;Chavannes-sur-Reyssouze;;;5.000165;46.436667
+01094_0325_01643;1643;;Route de l’Etang;01190;01094;Chavannes-sur-Reyssouze;;;5.015996;46.437179
+01094_0430_00024;24;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;4.997008;46.431208
+01094_0430_00354;354;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;5.000401;46.432261
+01094_0430_00369;369;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;5.000648;46.432376
+01094_0430_00419;419;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;5.001143;46.432483
+01094_0430_00504;504;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;5.002448;46.433515
+01094_0430_00924;924;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;5.007892;46.43315
+01094_0430_00926;926;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;5.007973;46.43313
+01094_0240_00488;488;;Route des Boutonniers;01190;01094;Chavannes-sur-Reyssouze;;;5.026644;46.432086
+01094_0240_00568;568;;Route des Boutonniers;01190;01094;Chavannes-sur-Reyssouze;;;5.026644;46.432086
+01094_0240_00816;816;;Route des Boutonniers;01190;01094;Chavannes-sur-Reyssouze;;;5.026296;46.430398
+01094_0240_01008;1008;;Route des Boutonniers;01190;01094;Chavannes-sur-Reyssouze;;;5.026248;46.430364
+01094_0240_01252;1252;;Route des Boutonniers;01190;01094;Chavannes-sur-Reyssouze;;;5.026242;46.430358
+01094_0425_00222;222;;Route de l’Orme;01190;01094;Chavannes-sur-Reyssouze;;;5.018521;46.431432
+01094_0310_00080;80;;Route de l’Eau;01190;01094;Chavannes-sur-Reyssouze;;;4.998035;46.441109
+01094_0310_00495;495;;Route de l’Eau;01190;01094;Chavannes-sur-Reyssouze;;;4.997918;46.444753
+01094_0305_00027;27;;Impasse du Drillet;01190;01094;Chavannes-sur-Reyssouze;;;5.021324;46.44582
+01094_0340_00081;81;;Chemin de la Foret;01190;01094;Chavannes-sur-Reyssouze;;;4.99522;46.429644
+01094_0340_00085;85;;Chemin de la Foret;01190;01094;Chavannes-sur-Reyssouze;;;4.995202;46.429673
+01094_0245_00206;206;;Route du Buchet;01190;01094;Chavannes-sur-Reyssouze;;;5.01514;46.442596
+01094_0245_00301;301;;Route du Buchet;01190;01094;Chavannes-sur-Reyssouze;;;5.016006;46.443034
+01094_0355_00612;612;;Route des Grandes Bruyeres;01190;01094;Chavannes-sur-Reyssouze;;;4.994143;46.449644
+01094_0355_00646;646;;Route des Grandes Bruyeres;01190;01094;Chavannes-sur-Reyssouze;;;4.994397;46.449972
+01094_0295_00098;98;;Route des Darbonnets;01190;01094;Chavannes-sur-Reyssouze;;;5.011353;46.438159
+01094_0290_00041;41;;Route des Curveurs;01190;01094;Chavannes-sur-Reyssouze;;;5.01495;46.433204
+01094_0290_00243;243;;Route des Curveurs;01190;01094;Chavannes-sur-Reyssouze;;;5.015355;46.434835
+01094_0255_00297;297;;Route de Charnay;01190;01094;Chavannes-sur-Reyssouze;;;5.014189;46.432794
+01094_0220_00046;46;;Route de la Besace;01190;01094;Chavannes-sur-Reyssouze;;;5.010158;46.430396
+01094_0220_00813;813;;Route de la Besace;01190;01094;Chavannes-sur-Reyssouze;;;5.008401;46.423257
+01094_0380_00266;266;;Impasse des Longerettes;01190;01094;Chavannes-sur-Reyssouze;;;5.005572;46.439747
+01094_0405_00085;85;;Chemin de la Motte;01190;01094;Chavannes-sur-Reyssouze;;;4.989654;46.42817
+01094_0375_00307;307;;Route des Justices;01190;01094;Chavannes-sur-Reyssouze;;;5.002294;46.44488
+01094_0235_00092;92;;Route des Bois;01190;01094;Chavannes-sur-Reyssouze;;;5.021866;46.437627
+01094_0475_00037;37;;Route des Vanniers;01190;01094;Chavannes-sur-Reyssouze;;;5.013329;46.429779
+01094_0215_00108;108;;Impasse Barlaton;01190;01094;Chavannes-sur-Reyssouze;;;5.029315;46.432533
+01094_0215_00108_a;108;a;Impasse Barlaton;01190;01094;Chavannes-sur-Reyssouze;;;5.029327;46.432538
+01094_0320_00012;12;;Route de l’Eglise;01190;01094;Chavannes-sur-Reyssouze;;;4.992095;46.430135
+01094_0320_00382;382;;Route de l’Eglise;01190;01094;Chavannes-sur-Reyssouze;;;4.992289;46.430378
+01094_0365_01398;1398;;Route de Haute Serve;01190;01094;Chavannes-sur-Reyssouze;;;5.023932;46.424658
+01094_0400_00598;598;;Route de la Morande;01190;01094;Chavannes-sur-Reyssouze;;;4.989946;46.437052
+01094_0270_00383;383;;Impasse Cordeau;01190;01094;Chavannes-sur-Reyssouze;;;4.986625;46.440078
+01094_0315_00027;27;;Place de l’Ecole;01190;01094;Chavannes-sur-Reyssouze;;;4.992468;46.430607
+01094_0315_00039;39;;Place de l’Ecole;01190;01094;Chavannes-sur-Reyssouze;;;4.992468;46.430607
+01094_0440_00030;30;;Chemin de la Prairie;01190;01094;Chavannes-sur-Reyssouze;;;4.998675;46.430769
+01094_0210_00146;146;;Impasse des Badoux;01190;01094;Chavannes-sur-Reyssouze;;;4.979017;46.434662
+01094_0260_00015;15;;Impasse du Cimetiere;01190;01094;Chavannes-sur-Reyssouze;;;4.992234;46.431261
+01094_0155_00210;210;;Rte des Paccauds;01190;01094;Chavannes-sur-Reyssouze;;;5.010218;46.462811
+01094_0325_00036;36;;Route de l’Etang;01190;01094;Chavannes-sur-Reyssouze;;;4.997427;46.437169
+01094_0325_00066;66;;Route de l’Etang;01190;01094;Chavannes-sur-Reyssouze;;;4.997427;46.437169
+01094_0325_00788;788;;Route de l’Etang;01190;01094;Chavannes-sur-Reyssouze;;;5.005826;46.436382
+01094_0325_01101;1101;;Route de l’Etang;01190;01094;Chavannes-sur-Reyssouze;;;5.010573;46.437206
+01094_0430_00356;356;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;5.000401;46.432261
+01094_0430_00406;406;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;5.00082;46.432325
+01094_0430_00503;503;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;5.002415;46.432836
+01094_0430_00165_a;165;a;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;4.998118;46.431957
+01094_0275_00618;618;;Route Croix Chardon;01190;01094;Chavannes-sur-Reyssouze;;;5.007457;46.451975
+01094_0240_00420;420;;Route des Boutonniers;01190;01094;Chavannes-sur-Reyssouze;;;5.026644;46.432086
+01094_0425_00267;267;;Route de l’Orme;01190;01094;Chavannes-sur-Reyssouze;;;5.018269;46.431966
+01094_0425_00585;585;;Route de l’Orme;01190;01094;Chavannes-sur-Reyssouze;;;5.01876;46.434516
+01094_0425_00615;615;;Route de l’Orme;01190;01094;Chavannes-sur-Reyssouze;;;5.018738;46.434852
+01094_0425_01970;1970;;Route de l’Orme;01190;01094;Chavannes-sur-Reyssouze;;;5.02274;46.446002
+01094_0310_00128;128;;Route de l’Eau;01190;01094;Chavannes-sur-Reyssouze;;;4.998021;46.441887
+01094_0340_00028;28;;Chemin de la Foret;01190;01094;Chavannes-sur-Reyssouze;;;4.994758;46.43023
+01094_0340_00093;93;;Chemin de la Foret;01190;01094;Chavannes-sur-Reyssouze;;;4.995241;46.429607
+01094_0245_00322;322;;Route du Buchet;01190;01094;Chavannes-sur-Reyssouze;;;5.016112;46.44299
+01094_0245_00664;664;;Route du Buchet;01190;01094;Chavannes-sur-Reyssouze;;;5.020339;46.443583
+01094_0245_00795;795;;Route du Buchet;01190;01094;Chavannes-sur-Reyssouze;;;5.020766;46.444719
+01094_0245_01125;1125;;Route du Buchet;01190;01094;Chavannes-sur-Reyssouze;;;5.020445;46.447101
+01094_0435_00029;29;;Impasse de la Planche;01190;01094;Chavannes-sur-Reyssouze;;;5.003371;46.433501
+01094_0295_00026;26;;Route des Darbonnets;01190;01094;Chavannes-sur-Reyssouze;;;5.010962;46.437555
+01094_0255_00160;160;;Route de Charnay;01190;01094;Chavannes-sur-Reyssouze;;;5.01363;46.431578
+01094_0255_00245;245;;Route de Charnay;01190;01094;Chavannes-sur-Reyssouze;;;5.01387;46.432238
+01094_0220_01603;1603;;Route de la Besace;01190;01094;Chavannes-sur-Reyssouze;;;5.010372;46.416901
+01094_0380_00094;94;;Impasse des Longerettes;01190;01094;Chavannes-sur-Reyssouze;;;5.00604;46.439168
+01094_0455_00073;73;;Route des Rivons;01190;01094;Chavannes-sur-Reyssouze;;;5.010583;46.431202
+01094_0450_00341;341;;Route des Ripettes;01190;01094;Chavannes-sur-Reyssouze;;;4.983539;46.443942
+01094_0205_00176;176;;Route de l’Alouette;01190;01094;Chavannes-sur-Reyssouze;;;4.995243;46.447841
+01094_0270_00238;238;;Impasse Cordeau;01190;01094;Chavannes-sur-Reyssouze;;;4.986651;46.439962
+01094_0285_00045;45;;Impasse Curtil Loup;01190;01094;Chavannes-sur-Reyssouze;;;4.986411;46.434706
+01094_0390_00280;280;;Route de Marmont;01190;01094;Chavannes-sur-Reyssouze;;;5.005272;46.448955
+01094_0390_00530;530;;Route de Marmont;01190;01094;Chavannes-sur-Reyssouze;;;5.005513;46.451452
+01094_0460_00018;18;;Chemin Rochet;01190;01094;Chavannes-sur-Reyssouze;;;5.019742;46.443103
+01094_0250_00309;309;;Route des Champs;01190;01094;Chavannes-sur-Reyssouze;;;4.999119;46.44814
+01094_0250_00354;354;;Route des Champs;01190;01094;Chavannes-sur-Reyssouze;;;4.999148;46.447954
+01094_0250_00380;380;;Route des Champs;01190;01094;Chavannes-sur-Reyssouze;;;4.999062;46.44778
+01094_0325_00122;122;;Route de l’Etang;01190;01094;Chavannes-sur-Reyssouze;;;4.997457;46.437159
+01094_0325_00908;908;;Route de l’Etang;01190;01094;Chavannes-sur-Reyssouze;;;5.007802;46.436471
+01094_0430_00070;70;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;4.997;46.431632
+01094_0430_00165;165;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;4.997998;46.431931
+01094_0430_00218;218;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;4.99855;46.431952
+01094_0430_00224;224;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;4.998871;46.432032
+01094_0430_00404;404;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;5.000924;46.432349
+01094_0430_00934;934;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;5.008521;46.432974
+01094_0275_00468;468;;Route Croix Chardon;01190;01094;Chavannes-sur-Reyssouze;;;5.008963;46.451605
+01094_0275_00530;530;;Route Croix Chardon;01190;01094;Chavannes-sur-Reyssouze;;;5.008816;46.452096
+01094_0275_00682;682;;Route Croix Chardon;01190;01094;Chavannes-sur-Reyssouze;;;5.007143;46.451937
+01094_0240_00030;30;;Route des Boutonniers;01190;01094;Chavannes-sur-Reyssouze;;;5.020754;46.432633
+01094_0240_00111;111;;Route des Boutonniers;01190;01094;Chavannes-sur-Reyssouze;;;5.020773;46.432713
+01094_0425_00220;220;;Route de l’Orme;01190;01094;Chavannes-sur-Reyssouze;;;5.018535;46.431376
+01094_0425_00670;670;;Route de l’Orme;01190;01094;Chavannes-sur-Reyssouze;;;5.018807;46.435216
+01094_0425_00799;799;;Route de l’Orme;01190;01094;Chavannes-sur-Reyssouze;;;5.01857;46.436292
+01094_0425_00858;858;;Route de l’Orme;01190;01094;Chavannes-sur-Reyssouze;;;5.018786;46.437031
+01094_0310_00053;53;;Route de l’Eau;01190;01094;Chavannes-sur-Reyssouze;;;4.997929;46.441064
+01094_0310_00120;120;;Route de l’Eau;01190;01094;Chavannes-sur-Reyssouze;;;4.998046;46.441593
+01094_0340_00033;33;;Chemin de la Foret;01190;01094;Chavannes-sur-Reyssouze;;;4.994967;46.430084
+01094_0245_00382;382;;Route du Buchet;01190;01094;Chavannes-sur-Reyssouze;;;5.016952;46.442965
+01094_0245_00416;416;;Route du Buchet;01190;01094;Chavannes-sur-Reyssouze;;;5.017718;46.443089
+01094_0245_00839;839;;Route du Buchet;01190;01094;Chavannes-sur-Reyssouze;;;5.020834;46.445129
+01094_0370_00007;7;;Impasse Jarland;01190;01094;Chavannes-sur-Reyssouze;;;4.996062;46.441047
+01094_0370_00082;82;;Impasse Jarland;01190;01094;Chavannes-sur-Reyssouze;;;4.995853;46.440345
+01094_0355_00425;425;;Route des Grandes Bruyeres;01190;01094;Chavannes-sur-Reyssouze;;;4.992912;46.448202
+01094_0295_00022;22;;Route des Darbonnets;01190;01094;Chavannes-sur-Reyssouze;;;5.010762;46.437269
+01094_0295_00090;90;;Route des Darbonnets;01190;01094;Chavannes-sur-Reyssouze;;;5.011165;46.437842
+01094_0295_00266;266;;Route des Darbonnets;01190;01094;Chavannes-sur-Reyssouze;;;5.01141;46.437402
+01094_0290_00251;251;;Route des Curveurs;01190;01094;Chavannes-sur-Reyssouze;;;5.015375;46.435099
+01094_0255_00040;40;;Route de Charnay;01190;01094;Chavannes-sur-Reyssouze;;;5.013317;46.43052
+01094_0255_00154;154;;Route de Charnay;01190;01094;Chavannes-sur-Reyssouze;;;5.013556;46.431416
+01094_0255_00289;289;;Route de Charnay;01190;01094;Chavannes-sur-Reyssouze;;;5.014025;46.432512
+01094_0220_00070;70;;Route de la Besace;01190;01094;Chavannes-sur-Reyssouze;;;5.01009;46.430164
+01094_0220_00950;950;;Route de la Besace;01190;01094;Chavannes-sur-Reyssouze;;;5.007689;46.42263
+01094_0380_00092;92;;Impasse des Longerettes;01190;01094;Chavannes-sur-Reyssouze;;;5.007174;46.439006
+01094_0380_00285;285;;Impasse des Longerettes;01190;01094;Chavannes-sur-Reyssouze;;;5.005523;46.439892
+01094_0455_00107;107;;Route des Rivons;01190;01094;Chavannes-sur-Reyssouze;;;5.010716;46.431818
+01094_0455_01383;1383;;Route des Rivons;01190;01094;Chavannes-sur-Reyssouze;;;5.012603;46.441496
+01094_0455_02072;2072;;Route des Rivons;01190;01094;Chavannes-sur-Reyssouze;;;5.01177;46.447426
+01094_0455_02093;2093;;Route des Rivons;01190;01094;Chavannes-sur-Reyssouze;;;5.011733;46.447123
+01094_0330_00023;23;;Impasse de Fayolay;01190;01094;Chavannes-sur-Reyssouze;;;5.000717;46.449633
+01094_0450_00283;283;;Route des Ripettes;01190;01094;Chavannes-sur-Reyssouze;;;4.983417;46.443557
+01094_0375_00224;224;;Route des Justices;01190;01094;Chavannes-sur-Reyssouze;;;5.001231;46.444935
+01094_0235_00078;78;;Route des Bois;01190;01094;Chavannes-sur-Reyssouze;;;5.020808;46.437437
+01094_0475_00055;55;;Route des Vanniers;01190;01094;Chavannes-sur-Reyssouze;;;5.013286;46.429571
+01094_0320_00019;19;;Route de l’Eglise;01190;01094;Chavannes-sur-Reyssouze;;;4.991972;46.430177
+01094_0320_00095;95;;Route de l’Eglise;01190;01094;Chavannes-sur-Reyssouze;;;4.991861;46.430604
+01094_0360_00750;750;;Route de la Grange;01190;01094;Chavannes-sur-Reyssouze;;;5.00732;46.423248
+01094_0360_00760;760;;Route de la Grange;01190;01094;Chavannes-sur-Reyssouze;;;5.007314;46.423006
+01094_0270_00220;220;;Impasse Cordeau;01190;01094;Chavannes-sur-Reyssouze;;;4.986723;46.440033
+01094_0480_00112;112;;impasse verdey;01190;01094;Chavannes-sur-Reyssouze;;;4.989985;46.451898
+01094_0335_00771;771;;Route de la Flechere;01190;01094;Chavannes-sur-Reyssouze;;;5.009605;46.430003
+01094_0390_00208;208;;Route de Marmont;01190;01094;Chavannes-sur-Reyssouze;;;5.005213;46.448468
+01094_0390_01190;1190;;Route de Marmont;01190;01094;Chavannes-sur-Reyssouze;;;4.984215;46.437792
+01094_0250_00218;218;;Route des Champs;01190;01094;Chavannes-sur-Reyssouze;;;4.998941;46.44754
+01094_0325_00124;124;;Route de l’Etang;01190;01094;Chavannes-sur-Reyssouze;;;4.997938;46.436965
+01094_0430_00061;61;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;4.996884;46.431633
+01094_0430_00191;191;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;4.998526;46.432033
+01094_0430_00263;263;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;4.999186;46.432194
+01094_0430_00515;515;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;5.002178;46.432751
+01094_0430_00625;625;;Route de Planaise;01190;01094;Chavannes-sur-Reyssouze;;;5.003467;46.433203
+01094_0275_00623;623;;Route Croix Chardon;01190;01094;Chavannes-sur-Reyssouze;;;5.007663;46.451918
+01094_0275_00773;773;;Route Croix Chardon;01190;01094;Chavannes-sur-Reyssouze;;;5.005798;46.451686
+01094_0240_00478;478;;Route des Boutonniers;01190;01094;Chavannes-sur-Reyssouze;;;5.026644;46.432086
+01094_0240_01265;1265;;Route des Boutonniers;01190;01094;Chavannes-sur-Reyssouze;;;5.026344;46.430317
+01094_0425_00833;833;;Route de l’Orme;01190;01094;Chavannes-sur-Reyssouze;;;5.018661;46.436839
+01094_0425_01922;1922;;Route de l’Orme;01190;01094;Chavannes-sur-Reyssouze;;;5.022508;46.445588
+01094_0485_00066;66;;Impasse Vernay Jacquet;01190;01094;Chavannes-sur-Reyssouze;;;4.996884;46.452337
+01094_0485_00197;197;;Impasse Vernay Jacquet;01190;01094;Chavannes-sur-Reyssouze;;;4.998573;46.452471
+01094_0340_00115;115;;Chemin de la Foret;01190;01094;Chavannes-sur-Reyssouze;;;4.99536;46.429407
+01094_0245_00490;490;;Route du Buchet;01190;01094;Chavannes-sur-Reyssouze;;;5.018439;46.442952
+01094_0245_00934;934;;Route du Buchet;01190;01094;Chavannes-sur-Reyssouze;;;5.021127;46.445904
+01094_0435_00011;11;;Impasse de la Planche;01190;01094;Chavannes-sur-Reyssouze;;;5.003417;46.433296
+01094_0370_00006;6;;Impasse Jarland;01190;01094;Chavannes-sur-Reyssouze;;;4.995981;46.440976
+01094_0370_00061;61;;Impasse Jarland;01190;01094;Chavannes-sur-Reyssouze;;;4.995969;46.440424
+01094_0355_00791;791;;Route des Grandes Bruyeres;01190;01094;Chavannes-sur-Reyssouze;;;4.99516;46.451137
+01094_0295_00140;140;;Route des Darbonnets;01190;01094;Chavannes-sur-Reyssouze;;;5.011353;46.438159
+01094_0290_00188;188;;Route des Curveurs;01190;01094;Chavannes-sur-Reyssouze;;;5.01555;46.43468
+01094_0290_00275;275;;Route des Curveurs;01190;01094;Chavannes-sur-Reyssouze;;;5.015427;46.435303
+01094_0255_00028;28;;Route de Charnay;01190;01094;Chavannes-sur-Reyssouze;;;5.013281;46.430334
+01094_0255_00032;32;;Route de Charnay;01190;01094;Chavannes-sur-Reyssouze;;;5.01396;46.430364
+01094_0255_00182;182;;Route de Charnay;01190;01094;Chavannes-sur-Reyssouze;;;5.013692;46.431693
+01094_0255_00196;196;;Route de Charnay;01190;01094;Chavannes-sur-Reyssouze;;;5.013817;46.43192
+01094_0255_00207;207;;Route de Charnay;01190;01094;Chavannes-sur-Reyssouze;;;5.013623;46.431798
+01094_0255_00221;221;;Route de Charnay;01190;01094;Chavannes-sur-Reyssouze;;;5.013788;46.432092
+01094_0255_00224;224;;Route de Charnay;01190;01094;Chavannes-sur-Reyssouze;;;5.013919;46.432102
+01094_0220_00012;12;;Route de la Besace;01190;01094;Chavannes-sur-Reyssouze;;;5.010202;46.4306
+01094_0220_00781;781;;Route de la Besace;01190;01094;Chavannes-sur-Reyssouze;;;5.009067;46.424155
+01094_0330_00092;92;;Impasse de Fayolay;01190;01094;Chavannes-sur-Reyssouze;;;5.001105;46.450128
+01094_0375_00357;357;;Route des Justices;01190;01094;Chavannes-sur-Reyssouze;;;5.002969;46.444947
+01094_0400_00650;650;;Route de la Morande;01190;01094;Chavannes-sur-Reyssouze;;;4.990461;46.436924
+01094_0440_00033;33;;Chemin de la Prairie;01190;01094;Chavannes-sur-Reyssouze;;;4.998993;46.4305
+01094_0440_00044;44;;Chemin de la Prairie;01190;01094;Chavannes-sur-Reyssouze;;;4.998664;46.430443
+01094_0225_00132;132;;Impasse du Biez;01190;01094;Chavannes-sur-Reyssouze;;;5.00202;46.435569
+01094_0470_00412;412;;Route du Tronchay;01190;01094;Chavannes-sur-Reyssouze;;;4.995899;46.441205

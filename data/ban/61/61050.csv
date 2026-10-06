@@ -1,0 +1,700 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+61050_3ws6sy_00084;84;;Impasse de la Haize;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.715488;48.44152
+61050_3qlw83_00034;34;;Impasse du Colombier;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713027;48.442498
+61050_e2mhqe_00929;929;;Chemin de l'Émière;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.683929;48.466423
+61050_494i99_00079;79;;Chemin de la Miauserie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.675354;48.454958
+61050_p929dt_00251;251;;Chemin de la Tonnelière;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.672181;48.45245
+61050_7q4suy_00510;510;;Chemin de la Brouillère;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.656397;48.448356
+61050_alq6gg_00125;125;;Route du Verger;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.661654;48.455376
+61050_alq6gg_00856;856;;Route du Verger;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.664747;48.461774
+61050_alq6gg_01060;1060;;Route du Verger;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.665703;48.462977
+61050_mjvwc5_00521;521;;Chemin de l'Hôtel Fourmy;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.651657;48.436892
+61050_kuv8n1_00014;14;;Route de Colonard;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.6584;48.436801
+61050_rifkw2_00031;31;;Cour du Moulin de Melleray;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711125;48.439825
+61050_rifkw2_00041;41;;Cour du Moulin de Melleray;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.7109;48.439788
+61050_mzzlvy_00061;61;;Chemin de la Hutinière;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.693558;48.464078
+61050_mzzlvy_00346;346;;Chemin de la Hutinière;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.689179;48.464149
+61050_ptgnhp_00199;199;;Chemin de la Chartrie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.67721;48.454408
+61050_p929dt_00253;253;;Chemin de la Tonnelière;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.672214;48.452264
+61050_nvsluo_00227;227;;Chemin de la Maison de Paille;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.664979;48.449476
+61050_alq6gg_00167;167;;Route du Verger;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.661824;48.455752
+61050_wkfnv8_00427;427;;Chemin de l'Hôtel Guéret;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.663159;48.434993
+61050_z9yvkl_00285;285;;Chemin de Bernuche;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.650082;48.443312
+61050_mjvwc5_00298;298;;Chemin de l'Hôtel Fourmy;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.648947;48.436799
+61050_4qm75a_00335;335;;Chemin de la Ramonerie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.654559;48.432881
+61050_4qm75a_00347;347;;Chemin de la Ramonerie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.654148;48.432768
+61050_kuv8n1_00100;100;;Route de Colonard;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658097;48.436014
+61050_3ws6sy_00053;53;;Impasse de la Haize;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.71502;48.441624
+61050_3ws6sy_00061;61;;Impasse de la Haize;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.715132;48.441555
+61050_3ws6sy_00078;78;;Impasse de la Haize;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.715385;48.441515
+61050_wvzkg5_00023;23;;Cour de la Haize;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.715124;48.441681
+61050_rifkw2_00012;12;;Cour du Moulin de Melleray;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711408;48.439741
+61050_rifkw2_00064;64;;Cour du Moulin de Melleray;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.710953;48.440157
+61050_e2mhqe_00695;695;;Chemin de l'Émière;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.68124;48.464435
+61050_494i99_00095;95;;Chemin de la Miauserie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.675362;48.454659
+61050_453edg_01550;1550;;Route de Saint Benoît;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.656652;48.454255
+61050_alq6gg_00068;68;;Route du Verger;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.661792;48.454863
+61050_kuv8n1_00025;25;;Route de Colonard;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658517;48.436691
+61050_1uvuqi_00107;107;;Impasse du Pont César;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.710784;48.44102
+61050_3ws6sy_00011;11;;Impasse de la Haize;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.714465;48.441452
+61050_3ws6sy_00091;91;;Impasse de la Haize;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.715595;48.441737
+61050_wvzkg5_00030;30;;Cour de la Haize;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.715323;48.441834
+61050_3qlw83_00069;69;;Impasse du Colombier;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713928;48.442467
+61050_hj93ko_00032;32;;Route de la Fosse aux Loups;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.676953;48.477385
+61050_g5cw6y_00297;297;;Chemin de la Contrie;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.67235;48.460237
+61050_453edg_00156;156;;Route de Saint Benoît;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.675289;48.4559
+61050_453edg_00638;638;;Route de Saint Benoît;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.668832;48.454704
+61050_kuv8n1_00093;93;;Route de Colonard;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.659167;48.436106
+61050_k49f5b_00136;136;;Chemin du Haut Sauret;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.642215;48.419041
+61050_kuv8n1_00275;275;;Route de Colonard;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658123;48.434272
+61050_piy3a3_00671;671;;Chemin des Noës;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.646733;48.428959
+61050_3stcgh_00849;849;;Route de la Bonnetière;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.640782;48.421658
+61050_gimohn_00075;75;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658435;48.437609
+61050_gimohn_00121;121;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658931;48.437972
+61050_a7mjru_00514;514;;Allée des Marronniers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702974;48.452976
+61050_q8itsc_00031;31;;Impasse du Moulin Bouscaud;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.70339;48.453126
+61050_9dok1c_00043;43;;Chemin du Champ Hariel;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.659317;48.436557
+61050_rd40sd_00097;97;;Chemin de Courcessin;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.664069;48.451241
+61050_4x38ig_00058;58;;Impasse du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.662013;48.450972
+61050_k1g87d_00015;15;;Impasse du Four à Pain;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658832;48.437503
+61050_fba21m_00433;433;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.703117;48.453294
+61050_fba21m_00528;528;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702558;48.45405
+61050_x75siv_00143;143;;Chemin de Franvilliers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702187;48.447237
+61050_3v3w13_01190;1190;;Route de Mortagne;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.699252;48.450892
+61050_3ew769_02575;2575;;Route de Mortagne;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.681781;48.454437
+61050_wxg891_00251;251;;Chemin de la Simardière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.717259;48.495179
+61050_u0x4l2_00791;791;;Chemin des Belles Fosses;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.720129;48.48727
+61050_8bscvj_00191;191;;Chemin de la Coupilière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.717951;48.472776
+61050_8bscvj_00326;326;;Chemin de la Coupilière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.719758;48.473074
+61050_l8376g_00314;314;;Chemin de la Diardière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.71344;48.47161
+61050_l8376g_00354;354;;Chemin de la Diardière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713047;48.471679
+61050_gn1dcj_02417;2417;;Route de Pontgirard;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711104;48.47579
+61050_a9rzp4_00273;273;;Chemin des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713059;48.459043
+61050_54nxfw_00068;68;;Route des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.70763;48.453233
+61050_5221ir_00030;30;;Chemin de Gagné;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.706195;48.458687
+61050_2c0xor_00094;94;;Impasse de Pomerai;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.708531;48.455684
+61050_2c0xor_00108;108;;Impasse de Pomerai;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.708706;48.455812
+61050_o4pdby_00356;356;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711308;48.446306
+61050_09tzop_00451;451;;Chemin de la Céberderie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.633441;48.422158
+61050_3stcgh_01293;1293;;Route de la Bonnetière;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.638959;48.423844
+61050_gimohn_00076;76;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658746;48.43758
+61050_gimohn_00185;185;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.659416;48.438431
+61050_gimohn_00192;192;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.660213;48.438442
+61050_gimohn_01297;1297;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.663116;48.447721
+61050_y5scdr_00088;88;;Chemin de la Montagne;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702048;48.453166
+61050_y5scdr_00259;259;;Chemin de la Montagne;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.700034;48.453933
+61050_a7mjru_00369;369;;Allée des Marronniers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702319;48.45159
+61050_q8itsc_00103;103;;Impasse du Moulin Bouscaud;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.70367;48.452537
+61050_9dok1c_00081;81;;Chemin du Champ Hariel;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.659651;48.435983
+61050_56u57d_00060;60;;Impasse des Gaudinières;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.662068;48.450301
+61050_k1g87d_00010;10;;Impasse du Four à Pain;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658793;48.437453
+61050_mslpiv_00053;53;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.708023;48.452741
+61050_fba21m_00388;388;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.703648;48.453534
+61050_fba21m_00390;390;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.703649;48.45362
+61050_fba21m_01276;1276;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.697912;48.459938
+61050_x75siv_00048;48;;Chemin de Franvilliers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702959;48.447845
+61050_x75siv_00122;122;;Chemin de Franvilliers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702286;48.447449
+61050_x75siv_00133;133;;Chemin de Franvilliers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702267;48.447307
+61050_3v3w13_01892;1892;;Route de Mortagne;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.691192;48.45308
+61050_myi1mj_00239;239;;Chemin de la Gelousière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.714928;48.494134
+61050_8bscvj_00996;996;;Chemin de la Coupilière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.726447;48.475867
+61050_0ya6de_00198;198;;Chemin de la Pilatrière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.719846;48.468851
+61050_0ya6de_00200;200;;Chemin de la Pilatrière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.719945;48.468889
+61050_l9szt9_00328;328;;Chemin de la Mourandière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.72078;48.468459
+61050_54nxfw_00192;192;;Route des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.708627;48.453656
+61050_5221ir_00107;107;;Chemin de Gagné;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.705946;48.459934
+61050_2c0xor_00051;51;;Impasse de Pomerai;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.707996;48.455856
+61050_2c0xor_00065;65;;Impasse de Pomerai;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.708177;48.45597
+61050_2vr5mg_00048;48;;Chemin de la Moisière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.707611;48.457339
+61050_o4pdby_01600;1600;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.707897;48.4566
+61050_o4pdby_03130;3130;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.699469;48.46817
+61050_n9o0pr_00079;79;;Chemin du Mesnil;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.72208;48.450667
+61050_kuv8n1_00648;648;;Route de Colonard;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.656535;48.431365
+61050_vuf42i_00196;196;;Chemin de la Bonnetière;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.635724;48.427424
+61050_piy3a3_00521;521;;Chemin des Noës;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.646257;48.429982
+61050_gimohn_00030;30;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658631;48.437178
+61050_gimohn_00031;31;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658485;48.437206
+61050_gimohn_00133;133;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.659025;48.438071
+61050_gimohn_00274;274;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.659904;48.439099
+61050_gimohn_00965;965;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.660517;48.445279
+61050_gimohn_01107;1107;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.661453;48.446423
+61050_gimohn_01296;1296;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.663353;48.447588
+61050_8l3nrb_00385;385;;Chemin de la Galaisière;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.698068;48.451731
+61050_q8itsc_00067;67;;Impasse du Moulin Bouscaud;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.703466;48.452802
+61050_fba21m_00473;473;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702715;48.45356
+61050_x75siv_00073;73;;Chemin de Franvilliers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702916;48.447593
+61050_myi1mj_00178;178;;Chemin de la Gelousière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.715606;48.493673
+61050_myi1mj_00185;185;;Chemin de la Gelousière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.715451;48.493629
+61050_j633q0_00463;463;;Chemin de la Martinière Mirabon;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.710668;48.481936
+61050_8bscvj_00328;328;;Chemin de la Coupilière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.720498;48.473212
+61050_8bscvj_01850;1850;;Chemin de la Coupilière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.731352;48.48325
+61050_8bscvj_01889;1889;;Chemin de la Coupilière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.731901;48.483431
+61050_a9rzp4_00168;168;;Chemin des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.714936;48.458512
+61050_a9rzp4_00261;261;;Chemin des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713479;48.45893
+61050_a9rzp4_00295;295;;Chemin des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713166;48.459098
+61050_a9rzp4_00320;320;;Chemin des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713756;48.459375
+61050_a9rzp4_00334;334;;Chemin des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713967;48.459449
+61050_54nxfw_01721;1721;;Route des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.726058;48.459806
+61050_54nxfw_01754;1754;;Route des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.726536;48.459731
+61050_2vr5mg_00922;922;;Chemin de la Moisière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.71472;48.463418
+61050_o4pdby_00801;801;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.710121;48.449617
+61050_o4pdby_01197;1197;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.708353;48.453007
+61050_o4pdby_01554;1554;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.707662;48.456213
+61050_o4pdby_01753;1753;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.706213;48.457641
+61050_n9o0pr_00080;80;;Chemin du Mesnil;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.721828;48.450268
+61050_3pugqb_00079;79;;Cour de la Villette;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.726131;48.453614
+61050_f4bza1_00399;399;;Chemin de l'Hôtel Hatry;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.631635;48.431899
+61050_gimohn_00263;263;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.659715;48.439082
+61050_y5scdr_00100;100;;Chemin de la Montagne;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.701937;48.453244
+61050_a7mjru_00513;513;;Allée des Marronniers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702752;48.45298
+61050_a7mjru_00543;543;;Allée des Marronniers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702737;48.453239
+61050_jakl0k_00029;29;;Place de l'Église Saint-Pierre;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658933;48.437119
+61050_rd40sd_00007;7;;Chemin de Courcessin;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.662727;48.450779
+61050_4x38ig_00059;59;;Impasse du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.661639;48.45098
+61050_6txps1_00040;40;;Impasse de la Grande Cour;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658059;48.43711
+61050_mslpiv_00270;270;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.705304;48.453505
+61050_fba21m_00418;418;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.703257;48.453451
+61050_fba21m_00462;462;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.70293;48.453503
+61050_fba21m_00523;523;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702423;48.453966
+61050_fba21m_01372;1372;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.697122;48.460632
+61050_x75siv_00211;211;;Chemin de Franvilliers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.701544;48.446522
+61050_x75siv_00224;224;;Chemin de Franvilliers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.70166;48.446893
+61050_3v3w13_03802;3802;;Route de Mortagne;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.670085;48.461927
+61050_u0x4l2_00792;792;;Chemin des Belles Fosses;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.72045;48.486977
+61050_l9szt9_00324;324;;Chemin de la Mourandière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.721803;48.468147
+61050_5221ir_00040;40;;Chemin de Gagné;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.706439;48.459055
+61050_2c0xor_00078;78;;Impasse de Pomerai;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.708154;48.455703
+61050_o4pdby_00837;837;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.70998;48.449947
+61050_o4pdby_01241;1241;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.708003;48.453361
+61050_o4pdby_01561;1561;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.706952;48.456229
+61050_o4pdby_01591;1591;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.707189;48.456496
+61050_o4pdby_01815;1815;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.705434;48.457738
+61050_o4pdby_03086;3086;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.699341;48.46802
+61050_n9o0pr_00253;253;;Chemin du Mesnil;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.724005;48.449022
+61050_n9o0pr_00544;544;;Chemin du Mesnil;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.726454;48.447881
+61050_3pugqb_00055;55;;Cour de la Villette;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.725805;48.453689
+61050_0dmwdf_00055;55;;Impasse de la Grande Foucaudière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.738412;48.473133
+61050_l5a6jl_00006;6;;Chemin de la Grande Foucaudière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.739341;48.473434
+61050_6ijtkq_00125;125;;Chemin du Ruisseau;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.750952;48.457149
+61050_fo0uz1_00239;239;;Chemin des Louvetières;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.748411;48.456953
+61050_iz7n94_00050;50;;Chemin de Sauné;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.741304;48.477975
+61050_pt4a97_00074;74;;Chemin de la Cochonnière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.726685;48.459208
+61050_vuuguv_00133;133;;Route de la Chignonnière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.729523;48.459037
+61050_vuuguv_02212;2212;;Route de la Chignonnière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.752582;48.453276
+61050_mchtrt_01283;1283;;Chemin de Vauperdu;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.762699;48.466997
+61050_m0nqug_00575;575;;Chemin de la Grande Maison;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.745833;48.439621
+61050_8k4n38_01028;1028;;Chemin de la Peltrie;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.738478;48.443544
+61050_mcbhwd_00723;723;;Chemin du Dyoron;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.675817;48.439105
+61050_x1m12d_01382;1382;;Chemin de la Blatisserie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.686917;48.437285
+61050_pwowmz_00348;348;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.699991;48.440854
+61050_22ytl0_02028;2028;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.681987;48.448196
+61050_22ytl0_03464;3464;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.667805;48.439157
+61050_tfzyt5_00004;4;;Place de l'Église Saint Maurice;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.699226;48.441479
+61050_tfzyt5_00030;30;;Place de l'Église Saint Maurice;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.69966;48.441571
+61050_tfzyt5_00032;32;;Place de l'Église Saint Maurice;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.699716;48.441502
+61050_hofw8t_00148;148;;Chemin de la Fosse;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.706892;48.429182
+61050_s11uo4_00191;191;;Route de la Troche;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.705585;48.433848
+61050_s11uo4_01120;1120;;Route de la Troche;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.710696;48.424906
+61050_qasi6y_01346;1346;;Route de la Chataigneraie;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.696545;48.428844
+61050_6pryx4_00021;21;;Place Jean Marais;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712943;48.441967
+61050_x9svrw_00034;34;;Chemin de l'Aunay Boucher;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.734125;48.464771
+61050_0020_00019;19;;Impasse du Vieux Four;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713175;48.44102
+61050_0006_00123;123;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712377;48.44123
+61050_0006_00130;130;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712188;48.441091
+61050_0006_00199;199;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712569;48.440508
+61050_0006_00260;260;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711688;48.440258
+61050_0018_00064;64;;Rue Saint Germain;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.71326;48.441251
+61050_0018_00070;70;;Rue Saint Germain;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713182;48.441242
+61050_0018_00088;88;;Rue Saint Germain;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712977;48.441177
+61050_0018_00125;125;;Rue Saint Germain;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712621;48.440885
+61050_b641_00022;22;;Cour aux Berriers;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.714142;48.441612
+61050_l5a6jl_00108;108;;Chemin de la Grande Foucaudière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.738081;48.474109
+61050_iz7n94_00006;6;;Chemin de Sauné;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.741804;48.477769
+61050_pt4a97_00084;84;;Chemin de la Cochonnière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.726577;48.45923
+61050_8wignx_00201;201;;Chemin de Figny;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.755456;48.455589
+61050_mchtrt_00291;291;;Chemin de Vauperdu;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.760762;48.460915
+61050_8k4n38_00499;499;;Chemin de la Peltrie;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.737739;48.439796
+61050_d2l8il_00426;426;;Chemin de Bouillan;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.73357;48.443117
+61050_d2l8il_00470;470;;Chemin de Bouillan;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.733557;48.443574
+61050_x1m12d_00219;219;;Chemin de la Blatisserie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.695579;48.441819
+61050_pwowmz_00012;12;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.702767;48.438506
+61050_pwowmz_00511;511;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.697961;48.441616
+61050_22ytl0_04077;4077;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.659764;48.438073
+61050_98s9wo_00047;47;;Route d'Yversay;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.703172;48.438061
+61050_98s9wo_00096;96;;Route d'Yversay;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.703493;48.43742
+61050_98s9wo_00490;490;;Route d'Yversay;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.707518;48.434962
+61050_dh23k1_00310;310;;Chemin des Perrignes;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.705508;48.434501
+61050_ov5ra1_00314;314;;Chemin de l'Hôtel Brouai;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.692855;48.429825
+61050_tfzyt5_00069;69;;Place de l'Église Saint Maurice;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.6998;48.441854
+61050_tfzyt5_00073;73;;Place de l'Église Saint Maurice;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.69986;48.441807
+61050_hofw8t_00013;13;;Chemin de la Fosse;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.705978;48.428399
+61050_0006_00039;39;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711636;48.441831
+61050_0006_00118;118;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712079;48.441176
+61050_0006_00156;156;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712376;48.440908
+61050_0006_00170;170;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712238;48.440778
+61050_0006_00209;209;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712384;48.440456
+61050_0006_00235;235;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712387;48.440186
+61050_0006_00697;697;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.706574;48.439415
+61050_0018_00021;21;;Rue Saint Germain;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713877;48.441253
+61050_b641_00049;49;;Cour aux Berriers;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713823;48.441851
+61050_ni9fyr_00025;25;;Impasse de la Repinçonnière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.706929;48.456973
+61050_3pugqb_00086;86;;Cour de la Villette;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.726116;48.45347
+61050_ni9fyr_00062;62;;Impasse de la Repinçonnière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.70653;48.45677
+61050_iz7n94_00097;97;;Chemin de Sauné;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.740628;48.478067
+61050_8wignx_00217;217;;Chemin de Figny;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.755644;48.455665
+61050_vuuguv_00400;400;;Route de la Chignonnière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.731319;48.456577
+61050_m0nqug_00479;479;;Chemin de la Grande Maison;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.744281;48.43912
+61050_8k4n38_01056;1056;;Chemin de la Peltrie;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.738146;48.443651
+61050_8k4n38_01060;1060;;Chemin de la Peltrie;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.738062;48.443674
+61050_x1m12d_00720;720;;Chemin de la Blatisserie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.691953;48.442544
+61050_x1m12d_01480;1480;;Chemin de la Blatisserie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.687451;48.43712
+61050_pwowmz_00328;328;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.700099;48.440715
+61050_pwowmz_00409;409;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.69922;48.44114
+61050_pwowmz_00462;462;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.699136;48.441625
+61050_22ytl0_00882;882;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.696717;48.445337
+61050_22ytl0_01584;1584;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.687265;48.448446
+61050_22ytl0_04045;4045;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.660105;48.437988
+61050_dh23k1_00120;120;;Chemin des Perrignes;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.704332;48.435316
+61050_ov5ra1_00102;102;;Chemin de l'Hôtel Brouai;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.69527;48.430319
+61050_4issn5_00554;554;;Route de Bellême;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.694463;48.415971
+61050_q3xu82_00346;346;;Chemin du Bouillon;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.705189;48.418971
+61050_hofw8t_00236;236;;Chemin de la Fosse;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.707543;48.429807
+61050_s11uo4_01460;1460;;Route de la Troche;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.713543;48.423103
+61050_qasi6y_00741;741;;Route de la Chataigneraie;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.701031;48.432034
+61050_qasi6y_02788;2788;;Route de la Chataigneraie;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.690653;48.417778
+61050_rjbxkf_00000;0;;Chemin des Galannières;61110;61050;Cour-Maugis sur Huisne;;;0.635633;48.440191
+61050_0006_00016;16;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711338;48.441973
+61050_0006_00097;97;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712074;48.44141
+61050_0006_00142;142;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712283;48.441007
+61050_0006_00183;183;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712521;48.440674
+61050_0006_00292;292;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711653;48.439867
+61050_0006_00310;310;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711519;48.439755
+61050_0006_00751;751;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.705871;48.439333
+61050_0006_00774;774;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.705517;48.43941
+61050_0018_00095;95;;Rue Saint Germain;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712934;48.441087
+61050_0018_00105;105;;Rue Saint Germain;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712802;48.441046
+61050_b641_00030;30;;Cour aux Berriers;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.714104;48.441698
+61050_b6p55q_00506;506;;Chemin de la Fossevillion;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.745158;48.471008
+61050_0dmwdf_00102;102;;Impasse de la Grande Foucaudière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.737598;48.473296
+61050_ni9fyr_00049;49;;Impasse de la Repinçonnière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.706884;48.456674
+61050_6ijtkq_00205;205;;Chemin du Ruisseau;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.751819;48.457387
+61050_fo0uz1_00333;333;;Chemin des Louvetières;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.747934;48.457531
+61050_vuuguv_02210;2210;;Route de la Chignonnière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.752097;48.453374
+61050_mchtrt_00977;977;;Chemin de Vauperdu;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.764935;48.465421
+61050_d2l8il_00391;391;;Chemin de Bouillan;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.729649;48.44389
+61050_a4uri9_00071;71;;Route d'Épcé;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.699133;48.440653
+61050_a4uri9_01374;1374;;Route d'Épcé;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.687992;48.431546
+61050_a4uri9_01427;1427;;Route d'Épcé;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.688758;48.431003
+61050_a4uri9_01511;1511;;Route d'Épcé;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.688256;48.430292
+61050_22ytl0_00884;884;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.696511;48.445425
+61050_22ytl0_03655;3655;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.665452;48.438466
+61050_98s9wo_00095;95;;Route d'Yversay;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.703498;48.437697
+61050_dh23k1_00269;269;;Chemin des Perrignes;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.705912;48.434831
+61050_ov5ra1_00115;115;;Chemin de l'Hôtel Brouai;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.695176;48.430144
+61050_tfzyt5_00083;83;;Place de l'Église Saint Maurice;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.700161;48.441548
+61050_avk4mq_00271;271;;Chemin de la Gassotière;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.693612;48.421458
+61050_avk4mq_00890;890;;Chemin de la Gassotière;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.687305;48.424879
+61050_hofw8t_00224;224;;Chemin de la Fosse;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.707457;48.429714
+61050_0yiqj2_00300;300;;Chemin de la Vallée;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.70504;48.423617
+61050_qasi6y_02288;2288;;Route de la Chataigneraie;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.696046;48.420915
+61050_0006_00062;62;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711618;48.441571
+61050_0006_00080;80;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711778;48.44145
+61050_0006_00758;758;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.703707;48.440852
+61050_0018_00047;47;;Rue Saint Germain;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713524;48.441186
+61050_b641_00053;53;;Cour aux Berriers;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713919;48.441888
+61050_0016_00051;51;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711281;48.442314
+61050_b026_00000;0;;Le Bois de Cornilly;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;;0.742867;48.45819
+61050_0027_00006;6;;Chemin du Lavoir;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658412;48.436936
+61050_0025_00037;37;;Cour de la Métairie;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.65881;48.438372
+61050_0001_00057;57;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.71191;48.442616
+61050_0001_00620;620;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.716041;48.446428
+61050_0001_01979;1979;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.725696;48.456212
+61050_6pryx4_00011;11;;Place Jean Marais;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712697;48.441753
+61050_xtnje4_00000;0;;Chemin des Gouptières;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;;0.761074;48.473466
+61050_0006_00021;21;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711499;48.441963
+61050_0006_00065;65;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711818;48.441636
+61050_0006_00148;148;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712334;48.440958
+61050_0006_00237;237;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.71255;48.440051
+61050_0006_00269;269;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711964;48.439977
+61050_0006_00752;752;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.705297;48.439847
+61050_0018_00005;5;;Rue Saint Germain;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.71406;48.440976
+61050_0018_00056;56;;Rue Saint Germain;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713395;48.441271
+61050_0016_00734;734;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.72006;48.440897
+61050_b780_00051;51;;Cour aux Boeufs;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.660273;48.43891
+61050_0025_00044;44;;Cour de la Métairie;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658907;48.438583
+61050_0024_00048;48;;Cour du Ruisseau;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.657933;48.437468
+61050_0001_00162;162;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713308;48.442997
+61050_0001_02001;2001;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.725953;48.456422
+61050_0001_02877;2877;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.729574;48.463482
+61050_0001_04247;4247;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.739435;48.473469
+61050_6e0c1h_00073;73;;Les Canonnieres;61110;61050;Cour-Maugis sur Huisne;;;0.676339;48.465287
+61050_rifkw2_00024;24;;Cour du Moulin de Melleray;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.71149;48.439952
+61050_hj93ko_01287;1287;;Route de la Fosse aux Loups;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.689014;48.484377
+61050_ptgnhp_00206;206;;Chemin de la Chartrie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.677466;48.453717
+61050_494i99_00185;185;;Chemin de la Miauserie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.675384;48.45388
+61050_7q4suy_00226;226;;Chemin de la Brouillère;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658997;48.44716
+61050_kuv8n1_00079;79;;Route de Colonard;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658721;48.436244
+61050_kuv8n1_00084;84;;Route de Colonard;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658179;48.436171
+61050_kuv8n1_00119;119;;Route de Colonard;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658348;48.435849
+61050_piy3a3_00304;304;;Chemin des Noës;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.64303;48.427468
+61050_0016_01159;1159;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.725946;48.44187
+61050_b780_00027;27;;Cour aux Boeufs;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.65997;48.43879
+61050_0024_00047;47;;Cour du Ruisseau;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.657917;48.437385
+61050_0001_01357;1357;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.721219;48.452464
+61050_0001_01795;1795;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.725219;48.454581
+61050_0001_03594;3594;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.737236;48.4681
+61050_0001_04538;4538;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.74176;48.475359
+61050_qasi6y_02389;2389;;Route de la Chataigneraie;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.697261;48.419175
+61050_6pryx4_00039;39;;Place Jean Marais;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713165;48.441849
+61050_x9svrw_00058;58;;Chemin de l'Aunay Boucher;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.734115;48.464979
+61050_x9svrw_00129;129;;Chemin de l'Aunay Boucher;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.734733;48.465391
+61050_0006_00175;175;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712544;48.440742
+61050_0006_00206;206;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.71224;48.440521
+61050_b641_00044;44;;Cour aux Berriers;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.714092;48.441796
+61050_0016_00013;13;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.710886;48.442523
+61050_0016_00247;247;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713542;48.441521
+61050_0025_00017;17;;Cour de la Métairie;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.659079;48.438251
+61050_0001_00054;54;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712717;48.442189
+61050_0001_00145;145;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712966;48.442961
+61050_0001_01780;1780;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.726523;48.453835
+61050_0001_03367;3367;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.735033;48.466676
+61050_1uvuqi_00028;28;;Impasse du Pont César;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.710868;48.441554
+61050_3ws6sy_00071;71;;Impasse de la Haize;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.715269;48.441569
+61050_wvzkg5_00029;29;;Cour de la Haize;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.715219;48.441809
+61050_rifkw2_00030;30;;Cour du Moulin de Melleray;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711326;48.439934
+61050_rifkw2_00054;54;;Cour du Moulin de Melleray;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711007;48.440037
+61050_3qlw83_00050;50;;Impasse du Colombier;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713251;48.442271
+61050_mzzlvy_00056;56;;Chemin de la Hutinière;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.693607;48.464362
+61050_ptgnhp_00209;209;;Chemin de la Chartrie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.677797;48.453955
+61050_494i99_00266;266;;Chemin de la Miauserie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.674943;48.453194
+61050_alq6gg_00106;106;;Route du Verger;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.662273;48.455145
+61050_alq6gg_00198;198;;Route du Verger;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.662195;48.455944
+61050_4qm75a_00177;177;;Chemin de la Ramonerie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.654627;48.432069
+61050_2hjonr_00208;208;;Chemin du Parc;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.634181;48.430129
+61050_3stcgh_00031;31;;Route de la Bonnetière;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.650145;48.419793
+61050_gimohn_00007;7;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658437;48.436988
+61050_gimohn_00095;95;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658761;48.437787
+61050_gimohn_00151;151;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.659173;48.438194
+61050_gimohn_00320;320;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.660071;48.439318
+61050_gimohn_00410;410;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.66029;48.44035
+61050_gimohn_01231;1231;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.662232;48.447391
+61050_gimohn_02018;2018;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.661273;48.453793
+61050_y5scdr_00229;229;;Chemin de la Montagne;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.700365;48.453802
+61050_a7mjru_00328;328;;Allée des Marronniers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.703385;48.451336
+61050_a7mjru_00540;540;;Allée des Marronniers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.70308;48.453233
+61050_rd40sd_00089;89;;Chemin de Courcessin;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.663695;48.451105
+61050_fba21m_00400;400;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.703495;48.453495
+61050_fba21m_00638;638;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702337;48.454774
+61050_3v3w13_00601;601;;Route de Mortagne;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.705025;48.446334
+61050_myi1mj_00148;148;;Chemin de la Gelousière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.716826;48.494573
+61050_8bscvj_00994;994;;Chemin de la Coupilière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.726055;48.475998
+61050_l8376g_00364;364;;Chemin de la Diardière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713217;48.471901
+61050_0ya6de_00470;470;;Chemin de la Pilatrière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.721973;48.46915
+61050_tbwb7e_00205;205;;Chemin de la Chevalerie;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.719894;48.461742
+61050_a9rzp4_00276;276;;Chemin des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713621;48.459144
+61050_a9rzp4_00294;294;;Chemin des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713618;48.459284
+61050_a9rzp4_00340;340;;Chemin des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.714193;48.459594
+61050_2c0xor_00067;67;;Impasse de Pomerai;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.708481;48.455881
+61050_2vr5mg_00095;95;;Chemin de la Moisière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.707432;48.458001
+61050_o4pdby_00662;662;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.71076;48.448432
+61050_o4pdby_01573;1573;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.707222;48.456291
+61050_3pugqb_00027;27;;Cour de la Villette;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.725424;48.453759
+61050_3pugqb_00068;68;;Cour de la Villette;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.725911;48.453509
+61050_l5a6jl_00040;40;;Chemin de la Grande Foucaudière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.738864;48.473634
+61050_0dmwdf_00096;96;;Impasse de la Grande Foucaudière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.737782;48.473117
+61050_ni9fyr_00048;48;;Impasse de la Repinçonnière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.706713;48.456852
+61050_fo0uz1_00741;741;;Chemin des Louvetières;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.747371;48.460481
+61050_fo0uz1_00742;742;;Chemin des Louvetières;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.747838;48.460446
+61050_iz7n94_00125;125;;Chemin de Sauné;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.740578;48.478344
+61050_pt4a97_00088;88;;Chemin de la Cochonnière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.726504;48.45926
+61050_mchtrt_00329;329;;Chemin de Vauperdu;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.760271;48.46094
+61050_m0nqug_00611;611;;Chemin de la Grande Maison;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.746033;48.439901
+61050_8k4n38_01044;1044;;Chemin de la Peltrie;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.738279;48.443589
+61050_8k4n38_01080;1080;;Chemin de la Peltrie;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.737792;48.443856
+61050_d2l8il_00438;438;;Chemin de Bouillan;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.73366;48.443254
+61050_7r1r7e_00391;391;;Chemin du Val;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.684842;48.444445
+61050_a4uri9_00806;806;;Route d'Épcé;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.692516;48.436801
+61050_a4uri9_01509;1509;;Route d'Épcé;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.688436;48.430399
+61050_pwowmz_00027;27;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.702393;48.438519
+61050_22ytl0_02997;2997;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.672143;48.441974
+61050_22ytl0_04022;4022;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.660579;48.438088
+61050_98s9wo_00066;66;;Route d'Yversay;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.703182;48.437856
+61050_dh23k1_00222;222;;Chemin des Perrignes;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.705278;48.434887
+61050_zyl7xr_00168;168;;Impasse de la Fontaine;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.694151;48.43207
+61050_hofw8t_00094;94;;Chemin de la Fosse;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.706888;48.428766
+61050_hofw8t_00245;245;;Chemin de la Fosse;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.707474;48.429914
+61050_qasi6y_01616;1616;;Route de la Chataigneraie;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.697274;48.426922
+61050_qasi6y_02387;2387;;Route de la Chataigneraie;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.696906;48.419577
+61050_qasi6y_02890;2890;;Route de la Chataigneraie;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.69126;48.416665
+61050_6pryx4_00057;57;;Place Jean Marais;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713433;48.441747
+61050_0018_00069;69;;Rue Saint Germain;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713264;48.441158
+61050_0018_00091;91;;Rue Saint Germain;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712988;48.441104
+61050_0018_00115;115;;Rue Saint Germain;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712707;48.440982
+61050_0016_00064;64;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711226;48.442112
+61050_0016_00121;121;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712026;48.441966
+61050_0016_00263;263;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713768;48.441497
+61050_0016_00410;410;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.715901;48.44124
+61050_0016_00480;480;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.716672;48.441153
+61050_k49f5b_00132;132;;Chemin du Haut Sauret;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.642262;48.419246
+61050_y5scdr_00124;124;;Chemin de la Montagne;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.70164;48.453382
+61050_q8itsc_00019;19;;Impasse du Moulin Bouscaud;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.703383;48.453254
+61050_q8itsc_00108;108;;Impasse du Moulin Bouscaud;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.703484;48.452412
+61050_k1g87d_00023;23;;Impasse du Four à Pain;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658944;48.437546
+61050_fba21m_01569;1569;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.695525;48.461983
+61050_x75siv_00115;115;;Chemin de Franvilliers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702434;48.447425
+61050_x75siv_00205;205;;Chemin de Franvilliers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.70178;48.446722
+61050_x75siv_00295;295;;Chemin de Franvilliers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.701254;48.447477
+61050_3v3w13_02218;2218;;Route de Mortagne;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.6864;48.453457
+61050_myi1mj_00021;21;;Chemin de la Gelousière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.717178;48.49282
+61050_myi1mj_00225;225;;Chemin de la Gelousière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.71494;48.493849
+61050_a9rzp4_00303;303;;Chemin des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713422;48.459375
+61050_54nxfw_00679;679;;Route des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712557;48.457264
+61050_5221ir_00100;100;;Chemin de Gagné;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.706516;48.45945
+61050_5221ir_00110;110;;Chemin de Gagné;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.706155;48.459517
+61050_o4pdby_00868;868;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713093;48.451025
+61050_o4pdby_01681;1681;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.706302;48.457121
+61050_n9o0pr_00055;55;;Chemin du Mesnil;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.721516;48.450531
+61050_n9o0pr_00128;128;;Chemin du Mesnil;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.722172;48.450119
+61050_pt4a97_00017;17;;Chemin de la Cochonnière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.726854;48.45865
+61050_vuuguv_01750;1750;;Route de la Chignonnière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.74575;48.45485
+61050_m0nqug_00627;627;;Chemin de la Grande Maison;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.746229;48.440038
+61050_8k4n38_01037;1037;;Chemin de la Peltrie;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.738309;48.443449
+61050_x1m12d_00222;222;;Chemin de la Blatisserie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.695158;48.441716
+61050_x1m12d_00295;295;;Chemin de la Blatisserie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.696482;48.440782
+61050_pwowmz_00351;351;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.699557;48.440457
+61050_pwowmz_00375;375;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.699246;48.440892
+61050_22ytl0_00607;607;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.697755;48.442558
+61050_22ytl0_02030;2030;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.681604;48.448442
+61050_98s9wo_00028;28;;Route d'Yversay;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.702813;48.438082
+61050_dh23k1_00336;336;;Chemin des Perrignes;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.705819;48.434289
+61050_ov5ra1_00130;130;;Chemin de l'Hôtel Brouai;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.694942;48.43028
+61050_tfzyt5_00015;15;;Place de l'Église Saint Maurice;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.699356;48.441816
+61050_tfzyt5_00034;34;;Place de l'Église Saint Maurice;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.699802;48.441439
+61050_tfzyt5_00061;61;;Place de l'Église Saint Maurice;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.699833;48.442081
+61050_hofw8t_00170;170;;Chemin de la Fosse;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.707032;48.429357
+61050_15ksa3_00000;0;;Chemin du Haut Désiré;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;;0.723347;48.488769
+61050_0020_00031;31;;Impasse du Vieux Four;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.71332;48.440885
+61050_0006_00162;162;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712415;48.440867
+61050_0006_00301;301;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711774;48.43971
+61050_0006_00760;760;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.703285;48.441331
+61050_0018_00030;30;;Rue Saint Germain;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713709;48.441318
+61050_b641_00029;29;;Cour aux Berriers;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713816;48.441634
+61050_b641_00050;50;;Cour aux Berriers;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.714067;48.441928
+61050_0016_00167;167;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712543;48.441749
+61050_0016_00818;818;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.721249;48.441626
+61050_0031_00027;27;;Impasse du Prieuré;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.65896;48.43669
+61050_0027_00030;30;;Chemin du Lavoir;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658089;48.436917
+61050_b780_00030;30;;Cour aux Boeufs;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.660023;48.438632
+61050_0016_00143;143;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.71226;48.441853
+61050_0016_00298;298;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.714362;48.440854
+61050_0016_00408;408;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.715948;48.440981
+61050_0016_00529;529;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.717142;48.441612
+61050_0001_02885;2885;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.731538;48.463345
+61050_qasi6y_01642;1642;;Route de la Chataigneraie;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.697322;48.426235
+61050_qasi6y_02888;2888;;Route de la Chataigneraie;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.690312;48.417145
+61050_6pryx4_00061;61;;Place Jean Marais;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713452;48.441627
+61050_0020_00011;11;;Impasse du Vieux Four;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713202;48.441113
+61050_0020_00028;28;;Impasse du Vieux Four;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713069;48.440918
+61050_0006_00110;110;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712018;48.441233
+61050_0006_00229;229;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712278;48.440286
+61050_0018_00080;80;;Rue Saint Germain;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713081;48.441218
+61050_0018_00100;100;;Rue Saint Germain;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712823;48.441139
+61050_b641_00007;7;;Cour aux Berriers;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.714027;48.441461
+61050_0016_00439;439;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.716212;48.441766
+61050_0016_01776;1776;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.733272;48.439305
+61050_0031_00049;49;;Impasse du Prieuré;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.65899;48.43656
+61050_0001_00258;258;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.714117;48.443731
+61050_3ws6sy_00025;25;;Impasse de la Haize;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.714644;48.441479
+61050_3ws6sy_00049;49;;Impasse de la Haize;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.714891;48.441729
+61050_3ws6sy_00077;77;;Impasse de la Haize;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.715362;48.441587
+61050_rifkw2_00042;42;;Cour du Moulin de Melleray;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711111;48.439945
+61050_g5cw6y_00208;208;;Chemin de la Contrie;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.677179;48.459685
+61050_g5cw6y_00281;281;;Chemin de la Contrie;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.672846;48.459628
+61050_453edg_00044;44;;Route de Saint Benoît;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.676575;48.455897
+61050_453edg_00130;130;;Route de Saint Benoît;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.6756;48.455835
+61050_453edg_01548;1548;;Route de Saint Benoît;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.657002;48.45432
+61050_7q4suy_00224;224;;Chemin de la Brouillère;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658897;48.44695
+61050_alq6gg_00078;78;;Route du Verger;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.661761;48.454978
+61050_4qm75a_00348;348;;Chemin de la Ramonerie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.654295;48.432963
+61050_piy3a3_00130;130;;Chemin des Noës;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.642045;48.426115
+61050_3stcgh_00501;501;;Route de la Bonnetière;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.64442;48.419751
+61050_0001_00150;150;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713369;48.442776
+61050_0001_02298;2298;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.7274;48.458857
+61050_0001_03801;3801;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.7371;48.470224
+61050_0004_00000;0;;Place de l'Abbé Amiraux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;;0.712078;48.441612
+61050_qasi6y_02374;2374;;Route de la Chataigneraie;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.695673;48.420201
+61050_0006_00125;125;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712304;48.441202
+61050_0006_00335;335;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711393;48.439508
+61050_0016_00099;99;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711745;48.442035
+61050_0016_00343;343;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.714822;48.441405
+61050_0027_00268;268;;Chemin du Lavoir;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.655337;48.43583
+61050_0024_00045;45;;Cour du Ruisseau;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.657963;48.437304
+61050_0001_00100;100;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712678;48.442578
+61050_3ws6sy_00086;86;;Impasse de la Haize;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.715775;48.441533
+61050_3ws6sy_00088;88;;Impasse de la Haize;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.715936;48.441514
+61050_wvzkg5_00027;27;;Cour de la Haize;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.715141;48.441783
+61050_3qlw83_00066;66;;Impasse du Colombier;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713529;48.442324
+61050_hj93ko_00300;300;;Route de la Fosse aux Loups;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.6776;48.476966
+61050_e2mhqe_00957;957;;Chemin de l'Émière;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.684203;48.46617
+61050_453edg_01074;1074;;Route de Saint Benoît;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.662683;48.454819
+61050_wkfnv8_00386;386;;Chemin de l'Hôtel Guéret;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.662942;48.434857
+61050_wkfnv8_00401;401;;Chemin de l'Hôtel Guéret;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.66347;48.435245
+61050_mo84la_00424;424;;Chemin de la Drujonnière;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.64191;48.443033
+61050_mjvwc5_00260;260;;Chemin de l'Hôtel Fourmy;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.648601;48.436899
+61050_4qm75a_00173;173;;Chemin de la Ramonerie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.654769;48.431871
+61050_ewlkto_00363;363;;Chemin de la Taheurdière;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658283;48.422293
+61050_kuv8n1_00278;278;;Route de Colonard;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.657701;48.434463
+61050_2hjonr_00158;158;;Chemin du Parc;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.633915;48.430612
+61050_k49f5b_00066;66;;Chemin du Haut Sauret;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.642852;48.419632
+61050_3stcgh_02088;2088;;Route de la Bonnetière;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.640123;48.435092
+61050_gimohn_00056;56;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658693;48.437402
+61050_gimohn_00169;169;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.659307;48.438331
+61050_gimohn_01123;1123;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.661349;48.44652
+61050_a7mjru_00425;425;;Allée des Marronniers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702725;48.452148
+61050_9dok1c_00007;7;;Chemin du Champ Hariel;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.659328;48.436872
+61050_9dok1c_00303;303;;Chemin du Champ Hariel;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.659599;48.434305
+61050_jakl0k_00014;14;;Place de l'Église Saint-Pierre;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658759;48.436845
+61050_6txps1_00029;29;;Impasse de la Grande Cour;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658209;48.436964
+61050_fba21m_00360;360;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.70408;48.453508
+61050_fba21m_00438;438;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.703018;48.453387
+61050_fba21m_00495;495;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702595;48.453736
+61050_fba21m_01716;1716;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.696196;48.463504
+61050_x75siv_00127;127;;Chemin de Franvilliers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702311;48.44735
+61050_x75siv_00171;171;;Chemin de Franvilliers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702024;48.447035
+61050_3v3w13_02180;2180;;Route de Mortagne;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.686855;48.453748
+61050_myi1mj_00217;217;;Chemin de la Gelousière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.715062;48.493781
+61050_1fx90e_00174;174;;Chemin de la Rose;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711695;48.486599
+61050_u0x4l2_00729;729;;Chemin des Belles Fosses;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.719281;48.487556
+61050_8bscvj_00208;208;;Chemin de la Coupilière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.7188;48.472505
+61050_8bscvj_01540;1540;;Chemin de la Coupilière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.730712;48.480868
+61050_8bscvj_01548;1548;;Chemin de la Coupilière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.730317;48.481055
+61050_l8376g_00359;359;;Chemin de la Diardière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712712;48.471312
+61050_0ya6de_00202;202;;Chemin de la Pilatrière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.719595;48.469277
+61050_l9szt9_00329;329;;Chemin de la Mourandière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.720124;48.468185
+61050_a9rzp4_00230;230;;Chemin des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.714159;48.459191
+61050_a9rzp4_00336;336;;Chemin des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.714049;48.459371
+61050_74mrbc_00191;191;;Chemin de la Coudorière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.702363;48.469514
+61050_2c0xor_00038;38;;Impasse de Pomerai;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.707823;48.455751
+61050_2c0xor_00069;69;;Impasse de Pomerai;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.708304;48.455866
+61050_o4pdby_00769;769;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.710283;48.449371
+61050_o4pdby_01432;1432;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.707637;48.455046
+61050_3pugqb_00043;43;;Cour de la Villette;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.725638;48.453726
+61050_b6p55q_00243;243;;Chemin de la Fossevillion;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.742501;48.472585
+61050_l5a6jl_00081;81;;Chemin de la Grande Foucaudière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.73831;48.473562
+61050_0dmwdf_00071;71;;Impasse de la Grande Foucaudière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.738108;48.472972
+61050_ni9fyr_00039;39;;Impasse de la Repinçonnière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.707026;48.456821
+61050_fo0uz1_00217;217;;Chemin des Louvetières;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.748337;48.456713
+61050_fo0uz1_00224;224;;Chemin des Louvetières;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.749208;48.456994
+61050_8wignx_00365;365;;Chemin de Figny;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.756207;48.456876
+61050_vuuguv_00085;85;;Route de la Chignonnière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.728908;48.459197
+61050_vuuguv_01234;1234;;Route de la Chignonnière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.739936;48.45651
+61050_vuuguv_03056;3056;;Route de la Chignonnière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.754573;48.448706
+61050_mchtrt_00275;275;;Chemin de Vauperdu;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.760565;48.460783
+61050_x1m12d_01389;1389;;Chemin de la Blatisserie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.687076;48.437292
+61050_a4uri9_01429;1429;;Route d'Épcé;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.688767;48.43079
+61050_pwowmz_00100;100;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.702168;48.439192
+61050_pwowmz_00493;493;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.698786;48.441818
+61050_22ytl0_01136;1136;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.693928;48.446613
+61050_22ytl0_04007;4007;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.660733;48.437936
+61050_98s9wo_00175;175;;Route d'Yversay;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.704028;48.43789
+61050_98s9wo_00230;230;;Route d'Yversay;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.704235;48.436983
+61050_tfzyt5_00079;79;;Place de l'Église Saint Maurice;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.699934;48.441692
+61050_4issn5_00900;900;;Route de Bellême;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.690523;48.414471
+61050_q3xu82_00318;318;;Chemin du Bouillon;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.705278;48.418658
+61050_hofw8t_00337;337;;Chemin de la Fosse;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.708437;48.430672
+61050_s11uo4_00915;915;;Route de la Troche;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.708169;48.425774
+61050_s11uo4_01118;1118;;Route de la Troche;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.709962;48.424715
+61050_0006_00053;53;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.71174;48.441723
+61050_0006_00120;120;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712092;48.441161
+61050_0006_00136;136;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712241;48.441049
+61050_0006_00194;194;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712335;48.440597
+61050_0016_00046;46;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711078;48.44224
+61050_0016_00303;303;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.71428;48.441426
+61050_0016_01198;1198;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.726282;48.44133
+61050_gimohn_00048;48;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658666;48.437338
+61050_gimohn_00096;96;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658911;48.43771
+61050_gimohn_00221;221;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.6596;48.438728
+61050_gimohn_00230;230;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.65977;48.438743
+61050_gimohn_01707;1707;;Route du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.661906;48.451167
+61050_a7mjru_00368;368;;Allée des Marronniers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.703429;48.451708
+61050_a7mjru_00532;532;;Allée des Marronniers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.70306;48.453141
+61050_q8itsc_00051;51;;Impasse du Moulin Bouscaud;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.703404;48.452964
+61050_rd40sd_00091;91;;Chemin de Courcessin;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.66353;48.451195
+61050_56u57d_00068;68;;Impasse des Gaudinières;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.662;48.450187
+61050_4x38ig_00019;19;;Impasse du Moulin de la Vove;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.662339;48.45069
+61050_6txps1_00036;36;;Impasse de la Grande Cour;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658138;48.437168
+61050_6txps1_00061;61;;Impasse de la Grande Cour;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.657704;48.437007
+61050_mslpiv_00048;48;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.70818;48.452903
+61050_fba21m_00387;387;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.703711;48.453401
+61050_fba21m_00403;403;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.703505;48.453366
+61050_fba21m_00459;459;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702787;48.453442
+61050_fba21m_00492;492;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702758;48.45375
+61050_fba21m_00561;561;;Route de Saint Victor;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.702212;48.454273
+61050_x75siv_00110;110;;Chemin de Franvilliers;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.70251;48.447555
+61050_x2jg5t_00315;315;;Route du Manoir du Gué;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.714553;48.490754
+61050_j633q0_00370;370;;Chemin de la Martinière Mirabon;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711397;48.480823
+61050_8bscvj_00280;280;;Chemin de la Coupilière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.719473;48.473035
+61050_8bscvj_00330;330;;Chemin de la Coupilière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.720145;48.473325
+61050_l8376g_00121;121;;Chemin de la Diardière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.714734;48.469605
+61050_l8376g_00303;303;;Chemin de la Diardière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713409;48.471135
+61050_a9rzp4_00260;260;;Chemin des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713692;48.459041
+61050_54nxfw_00193;193;;Route des Augerets;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.708834;48.454105
+61050_74mrbc_00194;194;;Chemin de la Coudorière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.702433;48.469361
+61050_2c0xor_00096;96;;Impasse de Pomerai;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.708659;48.455571
+61050_2c0xor_00106;106;;Impasse de Pomerai;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.708936;48.45567
+61050_2vr5mg_00877;877;;Chemin de la Moisière;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.71396;48.463194
+61050_o4pdby_01122;1122;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.708965;48.452424
+61050_o4pdby_01464;1464;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.707497;48.455226
+61050_o4pdby_01580;1580;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.707439;48.456341
+61050_o4pdby_01608;1608;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.707615;48.456668
+61050_o4pdby_02575;2575;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.69979;48.463473
+61050_o4pdby_02650;2650;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.700371;48.463882
+61050_o4pdby_03787;3787;;Route de Monceaux;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.701711;48.473785
+61050_n9o0pr_00132;132;;Chemin du Mesnil;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.722297;48.449979
+61050_3pugqb_00092;92;;Cour de la Villette;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.726647;48.453173
+61050_6ijtkq_00031;31;;Chemin du Ruisseau;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.749049;48.457305
+61050_6ijtkq_00033;33;;Chemin du Ruisseau;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.749579;48.457267
+61050_iz7n94_00085;85;;Chemin de Sauné;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.740772;48.478023
+61050_8wignx_00177;177;;Chemin de Figny;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.755328;48.4553
+61050_176j1b_02560;2560;;Chemin de Saint Laurent;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.756536;48.476073
+61050_176j1b_02610;2610;;Chemin de Saint Laurent;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.755908;48.476934
+61050_d2l8il_00380;380;;Chemin de Bouillan;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.733203;48.442885
+61050_7r1r7e_00344;344;;Chemin du Val;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.683513;48.444527
+61050_x1m12d_01399;1399;;Chemin de la Blatisserie;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.68748;48.437329
+61050_a4uri9_00131;131;;Route d'Épcé;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.69914;48.440145
+61050_22ytl0_00880;880;;Route de Sublaine;61110;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.696553;48.445154
+61050_98s9wo_00081;81;;Route d'Yversay;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.703393;48.43779
+61050_dh23k1_00200;200;;Chemin des Perrignes;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.705008;48.435002
+61050_ov5ra1_00288;288;;Chemin de l'Hôtel Brouai;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.693204;48.429844
+61050_tfzyt5_00018;18;;Place de l'Église Saint Maurice;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.699361;48.441568
+61050_tfzyt5_00081;81;;Place de l'Église Saint Maurice;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.700047;48.441611
+61050_avk4mq_00850;850;;Chemin de la Gassotière;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.689777;48.425358
+61050_avk4mq_00856;856;;Chemin de la Gassotière;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.687987;48.425027
+61050_hofw8t_00076;76;;Chemin de la Fosse;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.706436;48.428602
+61050_qasi6y_00047;47;;Route de la Chataigneraie;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.702522;48.437991
+61050_qasi6y_00172;172;;Route de la Chataigneraie;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.702144;48.436754
+61050_qasi6y_02030;2030;;Route de la Chataigneraie;61110;61050;Cour-Maugis sur Huisne;Saint-Maurice-sur-Huisne;Saint-Maurice-sur-Huisne;0.697432;48.423047
+61050_x9svrw_00107;107;;Chemin de l'Aunay Boucher;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.734482;48.465306
+61050_0016_02780;2780;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.744475;48.43362
+61050_0031_00068;68;;Impasse du Prieuré;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658714;48.436357
+61050_0028_00034;34;;Route de Mauves;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.65864;48.438102
+61050_b780_00063;63;;Cour aux Boeufs;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.660494;48.438919
+61050_0006_00096;96;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711893;48.441343
+61050_0006_00222;222;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712197;48.440383
+61050_0006_00246;246;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.712026;48.440206
+61050_0006_00708;708;;Rue de la Commeauche;61110;61050;Cour-Maugis sur Huisne;Maison-Maugis;Maison-Maugis;0.706191;48.439648
+61050_0016_00366;366;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.715131;48.441213
+61050_0016_00573;573;;Rue du Perche;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.717906;48.441614
+61050_0024_00036;36;;Cour du Ruisseau;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.658154;48.437454
+61050_0001_00676;676;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.716567;48.446959
+61050_0001_00043;43;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.711947;48.442413
+61050_0001_00144;144;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713084;48.442884
+61050_0001_00228;228;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.713606;48.443567
+61050_0001_02236;2236;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.727296;48.458341
+61050_0001_03725;3725;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.736326;48.469917
+61050_0001_01903;1903;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.7241;48.455819
+61050_0001_02323;2323;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.727027;48.459149
+61050_0001_05326;5326;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.744307;48.481727
+61050_b780_00071;71;;Cour aux Boeufs;61340;61050;Cour-Maugis sur Huisne;Courcerault;Courcerault;0.660601;48.43873
+61050_0001_02879;2879;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.73017;48.463722
+61050_0001_03274;3274;;Route de Bizou;61110;61050;Cour-Maugis sur Huisne;Boissy-Maugis;Boissy-Maugis;0.735253;48.46581

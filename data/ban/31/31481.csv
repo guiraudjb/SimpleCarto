@@ -1,0 +1,913 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+31481_0020_00006;6;;Place Henri Dunant;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144813;43.492157
+31481_0070_00011;11;;Rue des Violettes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150483;43.493242
+31481_0011_00025;25;;Route de Beaufort;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142673;43.460777
+31481_0007_00685;685;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.159424;43.491133
+31481_0083_00210;210;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144495;43.483738
+31481_0064_01725;1725;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.138693;43.499407
+31481_0031_00011;11;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149655;43.496845
+31481_0004_00006;6;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146296;43.49338
+31481_0096_01420;1420;;Route de Peguilhan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.127277;43.466923
+31481_0076_00660;660;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.152481;43.484299
+31481_0035_00001;1;;Place de la Poste;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145218;43.492641
+31481_0064_01315;1315;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143497;43.499791
+31481_0005_00009_bis;9;bis;Avenue du 8 Mai 1945;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145156;43.492495
+31481_0040_01110;1110;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147729;43.486293
+31481_0003_00009;9;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143779;43.492237
+31481_0064_01185;1185;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144974;43.500158
+31481_0061_01210;1210;;Route de Saiguede;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137228;43.500136
+31481_0035_00009;9;;Place de la Poste;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145046;43.492379
+31481_0098_00430;430;;Chemin d’En Mazeris;31470;31481;Sainte-Foy-de-Peyrolières;;;1.121971;43.489375
+31481_0035_00002;2;;Place de la Poste;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145335;43.492665
+31481_0035_00001_bis;1;bis;Place de la Poste;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14524;43.492618
+31481_0003_00019;19;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142375;43.491971
+31481_0007_01660;1660;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.170799;43.488882
+31481_0082_01850;1850;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.128442;43.478418
+31481_0030_00430;430;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.135694;43.491306
+31481_0027_02990;2990;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.099229;43.498326
+31481_0085_00003;3;;Place Notre Dame du lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141447;43.492117
+31481_0004_00014;14;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147159;43.493769
+31481_0076_00100;100;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148718;43.487743
+31481_0010_00020;20;;Rue des Coquelicots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.151134;43.494153
+31481_0026_01340;1340;;Chemin de Gratussous;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147078;43.447949
+31481_xp0lvf_00150;150;;Chemin de Faoussely;31470;31481;Sainte-Foy-de-Peyrolières;;;1.170001;43.504269
+31481_0031_00005;5;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14877;43.496779
+31481_0034_00003;3;;Allee des Platanes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145271;43.493329
+31481_0083_00060;60;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144169;43.482389
+31481_0091_01620;1620;;Chemin de Bajoly;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137483;43.507299
+31481_0010_00010;10;;Rue des Coquelicots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149573;43.493811
+31481_0082_01090;1090;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.131241;43.483111
+31481_0043_00001;1;;Rue des Pyrenees;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14587;43.492014
+31481_0003_00020;20;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142686;43.491833
+31481_0034_00014_b;14;b;Allee des Platanes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145325;43.493583
+31481_0005_00007_bis;7;bis;Avenue du 8 Mai 1945;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144968;43.49248
+31481_0027_00265;265;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.099586;43.498417
+31481_0082_01545;1545;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.127206;43.480067
+31481_0018_00150;150;;Chemin de Couillet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.133199;43.492503
+31481_0064_00850;850;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149053;43.500541
+31481_0083_00560;560;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14421;43.486463
+31481_0096_00680;680;;Route de Peguilhan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.135546;43.464703
+31481_bebjgs_01350;1350;;Chemin du Gatge;31470;31481;Sainte-Foy-de-Peyrolières;;;1.172937;43.481776
+31481_0061_01570;1570;;Route de Saiguede;31470;31481;Sainte-Foy-de-Peyrolières;;;1.136722;43.504136
+31481_0087_00020;20;;Chemin de Mestroun;31470;31481;Sainte-Foy-de-Peyrolières;;;1.13785;43.495846
+31481_0069_01220;1220;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.16351;43.502
+31481_0004_00036;36;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149492;43.494305
+31481_0045_00006;6;;Rue du Chemin de Ronde;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144222;43.491885
+31481_0010_00024;24;;Rue des Coquelicots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.151461;43.494125
+31481_0010_00005;5;;Rue des Coquelicots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150013;43.493807
+31481_0011_00420;420;;Route de Beaufort;31470;31481;Sainte-Foy-de-Peyrolières;;;1.138134;43.460522
+31481_0003_00030;30;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141407;43.491783
+31481_0040_01175;1175;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146452;43.485586
+31481_0040_01120;1120;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147705;43.486169
+31481_si5nwv_03180;3180;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.102932;43.472169
+31481_0030_00685;685;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.132585;43.49122
+31481_0007_02395;2395;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.17744;43.485044
+31481_0070_00006;6;;Rue des Violettes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149912;43.493212
+31481_0031_00007;7;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149114;43.496817
+31481_0076_00395;395;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150289;43.48548
+31481_0010_00007;7;;Rue des Coquelicots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150426;43.493898
+31481_0011_00680;680;;Route de Beaufort;31470;31481;Sainte-Foy-de-Peyrolières;;;1.134766;43.461016
+31481_0029_00010;10;;Impasse du Jardin des fées;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148448;43.491052
+31481_0069_00150;150;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.153457;43.495879
+31481_0029_00002;2;;Impasse du Jardin des fées;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148128;43.490864
+31481_0059_00001_bis;1;bis;Rue de Saint Jude;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145369;43.491388
+31481_0025_00390;390;;Chemin du Martinoun;31470;31481;Sainte-Foy-de-Peyrolières;;;1.170508;43.491616
+31481_0011_00765;765;;Route de Beaufort;31470;31481;Sainte-Foy-de-Peyrolières;;;1.133808;43.461073
+31481_0040_01020;1020;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147177;43.486867
+31481_0064_03455;3455;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.12014;43.505746
+31481_0076_00115;115;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148658;43.487627
+31481_0027_00595;595;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.124196;43.493951
+31481_0027_02995;2995;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.099073;43.498188
+31481_0030_03510;3510;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.098675;43.488782
+31481_si5nwv_03405;3405;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.100299;43.472427
+31481_si5nwv_00860;860;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.121836;43.485801
+31481_0064_01240;1240;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144468;43.49994
+31481_0002_00004;4;;Chemin du Barrat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146626;43.493955
+31481_0082_01700;1700;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.128666;43.479559
+31481_0044_00001;1;;Impasse du Clos du Trujol;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147805;43.490362
+31481_0007_01295;1295;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.16643;43.489478
+31481_0040_01260;1260;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146594;43.48501
+31481_0006_00014;14;;Rue de l’Albergue;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146868;43.492482
+31481_0040_04590;4590;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141626;43.456744
+31481_0065_00005;5;;Impasse des Sarments;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149508;43.494925
+31481_0067_00011;11;;Rue Sauvignon;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149646;43.49586
+31481_0027_01285;1285;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.117608;43.497964
+31481_0046_00725;725;;Chemin des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.190181;43.488091
+31481_0031_00002;2;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147947;43.496812
+31481_0006_00010;10;;Rue de l’Albergue;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146525;43.492727
+31481_0042_00016;16;;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141124;43.494448
+31481_0006_00002;2;;Rue de l’Albergue;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146267;43.493058
+31481_0049_00430;430;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141228;43.483935
+31481_0076_00110;110;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148731;43.487731
+31481_0049_00040;40;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145677;43.484394
+31481_0095_00080;80;;Chemin de Ricard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.136698;43.460391
+31481_si5nwv_01210;1210;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.119404;43.483413
+31481_0047_00145;145;;Impasse des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.192757;43.489066
+31481_0075_00180;180;;Impasse de la Tote;31470;31481;Sainte-Foy-de-Peyrolières;;;1.120905;43.506707
+31481_0083_00150;150;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144286;43.483151
+31481_0059_00014;14;;Rue de Saint Jude;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146978;43.491498
+31481_0039_00003;3;;Impasse des Peupliers;31470;31481;Sainte-Foy-de-Peyrolières;;;1.138882;43.496047
+31481_si5nwv_01050;1050;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.120368;43.484609
+31481_0034_00012;12;;Allee des Platanes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145059;43.493487
+31481_0006_00016;16;;Rue de l’Albergue;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147145;43.492175
+31481_0021_00001;1;;Impasse Jurancon;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147902;43.496061
+31481_0069_00240;240;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.154541;43.496493
+31481_si5nwv_03100;3100;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.103883;43.472404
+31481_0029_00001;1;;Impasse du Jardin des fées;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148102;43.490932
+31481_si5nwv_03665;3665;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.097624;43.475167
+31481_0076_00035;35;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147915;43.488239
+31481_0061_00045;45;;Route de Saiguede;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143502;43.4925
+31481_0035_00005;5;;Place de la Poste;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145253;43.492468
+31481_0094_01190;1190;;Chemin de Bezombes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150844;43.443081
+31481_0003_00021;21;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142169;43.491966
+31481_0030_00815;815;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.131034;43.491077
+31481_0009_00002;2;;Rue Jean Baptiste Clement;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147648;43.492326
+31481_0081_00560;560;;Chemin d’En Caillaouet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14052;43.486548
+31481_0040_02715;2715;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142026;43.472733
+31481_0040_04460;4460;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142367;43.457496
+31481_0025_00345;345;;Chemin du Martinoun;31470;31481;Sainte-Foy-de-Peyrolières;;;1.171022;43.491462
+31481_si5nwv_02385;2385;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.110948;43.476034
+31481_0010_00018;18;;Rue des Coquelicots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150832;43.494104
+31481_0059_00004;4;;Rue de Saint Jude;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145512;43.491486
+31481_0083_00185;185;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144558;43.483428
+31481_16i522_00020;20;;Le Parayre;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146333;43.46131
+31481_si5nwv_02650;2650;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.108444;43.474925
+31481_0096_02235;2235;;Route de Peguilhan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.117599;43.468686
+31481_0004_00026;26;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148258;43.494
+31481_0083_00215;215;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14466;43.483726
+31481_0083_00040;40;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144148;43.482163
+31481_0046_00715;715;;Chemin des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.189897;43.48799
+31481_0082_01860;1860;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.128911;43.478312
+31481_0011_00870;870;;Route de Beaufort;31470;31481;Sainte-Foy-de-Peyrolières;;;1.131312;43.461657
+31481_0082_01605_bis;1605;bis;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.126809;43.47931
+31481_0047_00055;55;;Impasse des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.191864;43.489105
+31481_0031_00017;17;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150121;43.496534
+31481_0092_00180;180;;Chemin de Penelle;31470;31481;Sainte-Foy-de-Peyrolières;;;1.139863;43.501192
+31481_bebjgs_00985;985;;Chemin du Gatge;31470;31481;Sainte-Foy-de-Peyrolières;;;1.170359;43.480485
+31481_0030_00670;670;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.13268;43.490984
+31481_0029_00005;5;;Impasse du Jardin des fées;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148403;43.491079
+31481_0042_00014;14;;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140747;43.493967
+31481_xp0lvf_00100;100;;Chemin de Faoussely;31470;31481;Sainte-Foy-de-Peyrolières;;;1.169822;43.504702
+31481_0076_00545;545;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.15036;43.484137
+31481_0031_00006;6;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148703;43.496894
+31481_si5nwv_03195;3195;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.10267;43.472312
+31481_0082_02080;2080;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.130713;43.478143
+31481_0059_00013;13;;Rue de Saint Jude;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146256;43.491383
+31481_0042_00016_ter;16;ter;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141286;43.494665
+31481_0021_00003;3;;Impasse Jurancon;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147606;43.496077
+31481_0069_01240;1240;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.163809;43.502178
+31481_0003_00024;24;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142372;43.491878
+31481_0028_00225;225;;Chemin de Monge;31470;31481;Sainte-Foy-de-Peyrolières;;;1.151606;43.486591
+31481_0069_01230;1230;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.163972;43.502286
+31481_0045_00003;3;;Rue du Chemin de Ronde;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143893;43.491909
+31481_0083_00525;525;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144395;43.486169
+31481_0078_01215;1215;;Chemin du Payroule;31470;31481;Sainte-Foy-de-Peyrolières;;;1.157487;43.452696
+31481_0075_00100;100;;Impasse de la Tote;31470;31481;Sainte-Foy-de-Peyrolières;;;1.121331;43.506237
+31481_0070_00001;1;;Rue des Violettes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149009;43.492926
+31481_0034_00001_bis;1;bis;Allee des Platanes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144897;43.493201
+31481_0040_02310;2310;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143252;43.476259
+31481_0069_01720;1720;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.168075;43.504768
+31481_0014_00001;1;;Impasse des Chenes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140207;43.495368
+31481_0067_00002;2;;Rue Sauvignon;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148606;43.496315
+31481_0096_02075;2075;;Route de Peguilhan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.119726;43.467984
+31481_0005_00008;8;;Avenue du 8 Mai 1945;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145003;43.492686
+31481_0037_00002;2;;Impasse Marcel Pagnol;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147874;43.491921
+31481_0024_00135;135;;Chemin de Guerin;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146808;43.494772
+31481_0034_00008_q;8;q;Allee des Platanes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144689;43.493351
+31481_0049_00028;28;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146007;43.484365
+31481_0075_00230;230;;Impasse de la Tote;31470;31481;Sainte-Foy-de-Peyrolières;;;1.120246;43.507105
+31481_0096_01780;1780;;Route de Peguilhan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.122661;43.467264
+31481_0046_01085;1085;;Chemin des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.190866;43.490759
+31481_0016_00105;105;;Impasse des Berdots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.164162;43.503976
+31481_0014_00002;2;;Impasse des Chenes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140085;43.49538
+31481_0075_00240;240;;Impasse de la Tote;31470;31481;Sainte-Foy-de-Peyrolières;;;1.120032;43.507164
+31481_0064_01300;1300;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143752;43.499778
+31481_0024_00175;175;;Chemin de Guerin;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14694;43.495202
+31481_0078_00655;655;;Chemin du Payroule;31470;31481;Sainte-Foy-de-Peyrolières;;;1.156423;43.4574
+31481_0069_01850;1850;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.169145;43.505617
+31481_0031_00016;16;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.15031;43.496853
+31481_0083_00340;340;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144233;43.484812
+31481_0030_00900;900;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.130045;43.49086
+31481_0009_00067;67;;Rue Jean Baptiste Clement;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148681;43.492621
+31481_0046_01070;1070;;Chemin des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.190684;43.490685
+31481_0083_00510;510;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144108;43.486215
+31481_0004_00020;20;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14744;43.493812
+31481_0083_00105;105;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144369;43.482753
+31481_0064_00780;780;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149947;43.500586
+31481_0083_00130;130;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144255;43.483001
+31481_0007_01385;1385;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.167517;43.489396
+31481_0047_00020;20;;Impasse des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.191492;43.489237
+31481_0064_00465;465;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.151543;43.498836
+31481_0007_01590;1590;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.169915;43.489107
+31481_0040_01170;1170;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147157;43.48546
+31481_0030_03470;3470;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.098786;43.488757
+31481_0082_01625;1625;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.127535;43.47944
+31481_0040_01035;1035;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146911;43.486877
+31481_0096_03310;3310;;Route de Peguilhan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.106816;43.473626
+31481_0007_01325;1325;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.166806;43.489427
+31481_0002_00005;5;;Chemin du Barrat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146514;43.494428
+31481_0061_00250;250;;Route de Saiguede;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14238;43.494192
+31481_0010_00006;6;;Rue des Coquelicots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149089;43.493696
+31481_0091_01420;1420;;Chemin de Bajoly;31470;31481;Sainte-Foy-de-Peyrolières;;;1.139938;43.507166
+31481_0064_00110;110;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150728;43.495557
+31481_0021_00004;4;;Impasse Jurancon;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147664;43.495881
+31481_0035_00008;8;;Place de la Poste;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144988;43.492106
+31481_0096_01850;1850;;Route de Peguilhan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.122428;43.467349
+31481_0096_00800;800;;Route de Peguilhan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.12155;43.467183
+31481_0027_00265;265;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.127817;43.492725
+31481_0069_01700;1700;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.168006;43.504752
+31481_0004_00032_bis;32;bis;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149066;43.494185
+31481_0076_02705;2705;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.16712;43.471572
+31481_0004_00012;12;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147016;43.493714
+31481_0049_00225;225;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143791;43.484177
+31481_0049_00045;45;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14578;43.484444
+31481_0070_00008;8;;Rue des Violettes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150239;43.493289
+31481_0040_01685;1685;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144056;43.481622
+31481_si5nwv_02935;2935;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.105606;43.473252
+31481_0030_02700;2700;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.107927;43.488982
+31481_0012_00001;1;;Chemin du Couloume;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14745;43.491896
+31481_0004_00034;34;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149243;43.494248
+31481_0087_00780;780;;Chemin de Mestroun;31470;31481;Sainte-Foy-de-Peyrolières;;;1.129282;43.495822
+31481_0030_01955;1955;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.117014;43.489776
+31481_0007_00830;830;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.161162;43.490916
+31481_0045_00001;1;;Rue du Chemin de Ronde;31470;31481;Sainte-Foy-de-Peyrolières;;;1.1439;43.491936
+31481_0041_00990;990;;Route de la Poque;31470;31481;Sainte-Foy-de-Peyrolières;;;1.17856;43.493414
+31481_0023_00002;2;;Place du 14 Juillet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144283;43.492542
+31481_0004_00018;18;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147351;43.4938
+31481_0082_01560;1560;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.127322;43.479838
+31481_0040_04405_bis;4405;bis;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142675;43.458058
+31481_0059_00005;5;;Rue de Saint Jude;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145592;43.49142
+31481_si5nwv_01100;1100;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.12012;43.484153
+31481_0045_00004;4;;Rue du Chemin de Ronde;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144093;43.491906
+31481_0011_00505;505;;Route de Beaufort;31470;31481;Sainte-Foy-de-Peyrolières;;;1.136887;43.460846
+31481_0020_00010;10;;Place Henri Dunant;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145238;43.491802
+31481_0083_00020;20;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144148;43.482049
+31481_0069_00625;625;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.158265;43.498661
+31481_0042_00016_bis;16;bis;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141259;43.494628
+31481_0014_00003;3;;Impasse des Chenes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140322;43.495256
+31481_16i522_00110;110;;Le Parayre;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145885;43.461838
+31481_0042_00002;2;;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140682;43.49226
+31481_si5nwv_03170;3170;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.103259;43.471961
+31481_0010_00011;11;;Rue des Coquelicots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.151081;43.494053
+31481_0019_01675;1675;;Chemin du Fariech;31470;31481;Sainte-Foy-de-Peyrolières;;;1.159254;43.451264
+31481_0064_00910;910;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148107;43.500477
+31481_0091_00830;830;;Chemin de Bajoly;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147286;43.506871
+31481_0076_00060;60;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148419;43.488023
+31481_0005_00002;2;;Avenue du 8 Mai 1945;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144712;43.492564
+31481_0033_00002;2;;Rue du Moulin;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146743;43.494349
+31481_0081_00665;665;;Chemin d’En Caillaouet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14038;43.485685
+31481_0027_01590;1590;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.114369;43.49791
+31481_0025_00215;215;;Chemin du Martinoun;31470;31481;Sainte-Foy-de-Peyrolières;;;1.171818;43.490436
+31481_0004_00022;22;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147511;43.493829
+31481_0027_02240;2240;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.106771;43.498431
+31481_0004_00002;2;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145993;43.493266
+31481_0064_00095;95;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150898;43.495457
+31481_0087_00090;90;;Chemin de Mestroun;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137709;43.495825
+31481_0007_00880;880;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.16167;43.490822
+31481_0026_01510;1510;;Chemin de Gratussous;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147472;43.446462
+31481_0040_05700;5700;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137968;43.449241
+31481_0005_00009;9;;Avenue du 8 Mai 1945;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145026;43.492583
+31481_0049_00115;115;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145035;43.484468
+31481_0030_00780;780;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.131462;43.490936
+31481_0002_00008;8;;Chemin du Barrat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14592;43.494387
+31481_0005_00005;5;;Avenue du 8 Mai 1945;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144867;43.492517
+31481_0020_00008;8;;Place Henri Dunant;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144988;43.491996
+31481_bebjgs_00245;245;;Chemin du Gatge;31470;31481;Sainte-Foy-de-Peyrolières;;;1.161617;43.479876
+31481_0046_00805;805;;Chemin des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.190891;43.488786
+31481_0030_00660;660;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.132896;43.491074
+31481_0069_01715;1715;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.168555;43.504949
+31481_16i522_00010;10;;Le Parayre;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146519;43.461344
+31481_0040_04165;4165;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143184;43.459934
+31481_0012_00002;2;;Chemin du Couloume;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147528;43.491819
+31481_0070_00002;2;;Rue des Violettes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149158;43.493101
+31481_0004_00028_bis;28;bis;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148476;43.494039
+31481_0096_02500;2500;;Route de Peguilhan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.112865;43.467608
+31481_16i522_00085;85;;Le Parayre;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146282;43.46191
+31481_0064_00930;930;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147754;43.500236
+31481_0040_01895;1895;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14361;43.479877
+31481_0030_03520;3520;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.098568;43.488773
+31481_0101_00001;1;;place des deux ormeaux;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146987;43.492853
+31481_0064_02490;2490;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.129423;43.500661
+31481_0010_00001;1;;Rue des Coquelicots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149353;43.493661
+31481_0062_00205;205;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145726;43.460904
+31481_0062_00335;335;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147075;43.461117
+31481_0029_00004;4;;Impasse du Jardin des fées;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148321;43.490926
+31481_0049_00510;510;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140429;43.483872
+31481_0064_01545;1545;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140578;43.499598
+31481_0064_01035;1035;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147;43.500509
+31481_0069_00002;2;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.152103;43.495045
+31481_0011_00125;125;;Route de Beaufort;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141522;43.460586
+31481_0085_00007;7;;Place Notre Dame du lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140932;43.492099
+31481_0082_02025;2025;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.130441;43.478103
+31481_0082_02340;2340;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.134572;43.478157
+31481_0011_00085;85;;Route de Beaufort;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141898;43.460666
+31481_0005_00003;3;;Avenue du 8 Mai 1945;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144771;43.49248
+31481_0064_01525;1525;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142509;43.499634
+31481_0030_00530;530;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.134513;43.491212
+31481_0042_00012;12;;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140661;43.493864
+31481_si5nwv_03410;3410;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.100038;43.472375
+31481_0045_00005;5;;Rue du Chemin de Ronde;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144022;43.491848
+31481_0046_00955;955;;Chemin des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.191727;43.489809
+31481_0062_00200;200;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145498;43.460946
+31481_0034_00002_bis;2;bis;Allee des Platanes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144349;43.493199
+31481_si5nwv_03165;3165;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.102961;43.472377
+31481_16i522_00030;30;;Le Parayre;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146315;43.461496
+31481_0083_00530;530;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144112;43.486298
+31481_0083_00605;605;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143906;43.486745
+31481_0083_00420;420;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143875;43.48539
+31481_0024_00185;185;;Chemin de Guerin;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146976;43.495309
+31481_0062_01880;1880;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.165412;43.463225
+31481_0064_01785;1785;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137731;43.499313
+31481_0016_00040;40;;Impasse des Berdots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.164332;43.503636
+31481_0003_00018;18;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142752;43.491839
+31481_0064_01500;1500;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141416;43.499503
+31481_0064_00770;770;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150016;43.500597
+31481_0027_00620;620;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.123815;43.494041
+31481_0070_00013;13;;Rue des Violettes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.15078;43.49331
+31481_0045_00002;2;;Rue du Chemin de Ronde;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14393;43.492024
+31481_0076_00210;210;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149414;43.487016
+31481_0034_00008_t;8;t;Allee des Platanes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144466;43.493423
+31481_0002_00003;3;;Chemin du Barrat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146368;43.494267
+31481_0035_00006;6;;Place de la Poste;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145277;43.492247
+31481_0083_00090;90;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144203;43.482711
+31481_0005_00015;15;;Avenue du 8 Mai 1945;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145758;43.492951
+31481_0096_02490;2490;;Route de Peguilhan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.114528;43.468393
+31481_0027_00590;590;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.124117;43.493871
+31481_0082_01495;1495;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.127468;43.480611
+31481_0067_00013;13;;Rue Sauvignon;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150085;43.495897
+31481_0067_00006;6;;Rue Sauvignon;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149241;43.495938
+31481_0004_00032;32;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14886;43.494141
+31481_0083_00270;270;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144444;43.483555
+31481_0064_01735;1735;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.138396;43.499395
+31481_0040_01100;1100;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146939;43.48625
+31481_0040_00420;420;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.151209;43.491002
+31481_0082_01525;1525;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.127351;43.480359
+31481_0009_00145;145;;Rue Jean Baptiste Clement;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148048;43.49372
+31481_0069_01020;1020;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.161956;43.501054
+31481_0082_01930;1930;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.129298;43.478298
+31481_0004_00011;11;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146662;43.493454
+31481_0015_00003;3;;Impasse du Chasselas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148958;43.495229
+31481_0059_00001;1;;Rue de Saint Jude;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145289;43.491378
+31481_0034_00008;8;;Allee des Platanes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144429;43.493487
+31481_0064_01095;1095;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146688;43.500425
+31481_0027_00450;450;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.125606;43.493351
+31481_0027_00925;925;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.122202;43.495328
+31481_0083_00175;175;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144548;43.483368
+31481_0062_00660;660;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150751;43.462097
+31481_0040_01215;1215;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145578;43.48545
+31481_0061_00040;40;;Route de Saiguede;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143333;43.492585
+31481_si5nwv_03215;3215;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.10248;43.472268
+31481_0046_01115;1115;;Chemin des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.190812;43.491046
+31481_0009_00004;4;;Rue Jean Baptiste Clement;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147862;43.49228
+31481_0082_01685;1685;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.128091;43.479314
+31481_0062_00010;10;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143209;43.460733
+31481_si5nwv_03345;3345;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.100943;43.472514
+31481_0064_00830;830;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149376;43.500566
+31481_0082_01605_ter;1605;ter;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.126925;43.479514
+31481_0083_00255;255;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144739;43.484053
+31481_0042_00018;18;;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141559;43.494774
+31481_0007_01365;1365;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.167299;43.489228
+31481_0034_00001;1;;Allee des Platanes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144407;43.493027
+31481_0087_00615;615;;Chemin de Mestroun;31470;31481;Sainte-Foy-de-Peyrolières;;;1.131012;43.495745
+31481_0041_00750;750;;Route de la Poque;31470;31481;Sainte-Foy-de-Peyrolières;;;1.179641;43.491734
+31481_0003_00025;25;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14197;43.491959
+31481_0062_00140;140;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144717;43.460846
+31481_0098_00365;365;;Chemin d’En Mazeris;31470;31481;Sainte-Foy-de-Peyrolières;;;1.122768;43.489483
+31481_0020_00001;1;;Place Henri Dunant;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144528;43.492198
+31481_0006_00006_ter;6;ter;Rue de l’Albergue;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146393;43.49289
+31481_0091_00685;685;;Chemin de Bajoly;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149019;43.506774
+31481_0059_00009;9;;Rue de Saint Jude;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145955;43.491416
+31481_0007_00635;635;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.158799;43.491201
+31481_0076_00260;260;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149792;43.486609
+31481_0041_00710;710;;Route de la Poque;31470;31481;Sainte-Foy-de-Peyrolières;;;1.179976;43.491558
+31481_0064_01005;1005;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147077;43.500473
+31481_0081_00500;500;;Chemin d’En Caillaouet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140444;43.487308
+31481_0092_00270;270;;Chemin de Penelle;31470;31481;Sainte-Foy-de-Peyrolières;;;1.139873;43.501291
+31481_si5nwv_03020;3020;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.104753;43.472649
+31481_0040_04175;4175;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143171;43.459839
+31481_0005_00011;11;;Avenue du 8 Mai 1945;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145365;43.492748
+31481_0003_00028;28;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141137;43.49176
+31481_0030_03075;3075;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.103498;43.489248
+31481_0083_00565;565;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14425;43.486756
+31481_0049_00335;335;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142723;43.484289
+31481_0004_00015;15;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147103;43.493646
+31481_0027_00575;575;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.124621;43.493816
+31481_0042_00004;4;;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140398;43.49285
+31481_0067_00004;4;;Rue Sauvignon;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148762;43.495954
+31481_0006_00006;6;;Rue de l’Albergue;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146329;43.492976
+31481_0049_00325;325;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142742;43.484298
+31481_0040_02235;2235;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143234;43.476854
+31481_0082_02120;2120;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.131754;43.478378
+31481_si5nwv_03310;3310;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.101315;43.472111
+31481_0083_00515;515;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144445;43.485981
+31481_0010_00012;12;;Rue des Coquelicots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14989;43.493889
+31481_0064_00820;820;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149761;43.500588
+31481_0064_00035;35;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150989;43.494943
+31481_0091_00165;165;;Chemin de Bajoly;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148956;43.502107
+31481_0042_00008;8;;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14033;43.493096
+31481_xp0lvf_00030;30;;Chemin de Faoussely;31470;31481;Sainte-Foy-de-Peyrolières;;;1.169613;43.505184
+31481_0003_00007;7;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143853;43.492256
+31481_0062_00250;250;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14608;43.461034
+31481_0003_00015;15;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142899;43.492041
+31481_0010_00008;8;;Rue des Coquelicots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14928;43.493744
+31481_0061_00590;590;;Route de Saiguede;31470;31481;Sainte-Foy-de-Peyrolières;;;1.139416;43.4961
+31481_0059_00003;3;;Rue de Saint Jude;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145465;43.491403
+31481_0031_00001;1;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147743;43.496688
+31481_0082_01905;1905;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.128979;43.478119
+31481_0031_00010;10;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.1496;43.496931
+31481_0064_01625;1625;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.139826;43.499495
+31481_si5nwv_00615;615;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.124095;43.486809
+31481_0031_00020;20;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150251;43.496515
+31481_0046_00475;475;;Chemin des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.187507;43.48697
+31481_0079_00420;420;;Chemin de Sauvage;31470;31481;Sainte-Foy-de-Peyrolières;;;1.115795;43.473154
+31481_0027_01715;1715;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.112767;43.498259
+31481_0082_02055;2055;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.130929;43.478004
+31481_0067_00009;9;;Rue Sauvignon;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149275;43.495837
+31481_0040_04145;4145;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143082;43.46015
+31481_bebjgs_00965;965;;Chemin du Gatge;31470;31481;Sainte-Foy-de-Peyrolières;;;1.169816;43.479888
+31481_0083_00400;400;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143955;43.485222
+31481_0070_00009;9;;Rue des Violettes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150184;43.493156
+31481_0069_01775;1775;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.169025;43.505227
+31481_0031_00004;4;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148304;43.496854
+31481_0082_01945;1945;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.12956;43.47814
+31481_0049_00125;125;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144897;43.484448
+31481_0070_00005;5;;Rue des Violettes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149575;43.493025
+31481_si5nwv_03265;3265;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.101828;43.472213
+31481_0081_00530;530;;Chemin d’En Caillaouet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140574;43.486938
+31481_0040_01160;1160;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14713;43.485531
+31481_0003_00013;13;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143052;43.492072
+31481_0040_01185;1185;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145929;43.485613
+31481_0040_01125;1125;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146149;43.486067
+31481_0070_00010;10;;Rue des Violettes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150614;43.493379
+31481_0007_00720;720;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.15943;43.491261
+31481_0098_00325;325;;Chemin d’En Mazeris;31470;31481;Sainte-Foy-de-Peyrolières;;;1.123302;43.48951
+31481_0007_01985;1985;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.174174;43.488048
+31481_0010_00002;2;;Rue des Coquelicots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149074;43.493429
+31481_0064_01510;1510;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141413;43.498948
+31481_0047_00135;135;;Impasse des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.192606;43.489095
+31481_0082_01585;1585;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.126519;43.479981
+31481_0009_00065;65;;Rue Jean Baptiste Clement;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148598;43.492595
+31481_0059_00010;10;;Rue de Saint Jude;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145917;43.49148
+31481_0040_01960;1960;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143712;43.479015
+31481_0039_00002;2;;Impasse des Peupliers;31470;31481;Sainte-Foy-de-Peyrolières;;;1.138932;43.496065
+31481_0091_00240;240;;Chemin de Bajoly;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148032;43.503029
+31481_0070_00003;3;;Rue des Violettes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149321;43.492992
+31481_0011_00035;35;;Route de Beaufort;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142626;43.46077
+31481_0100_00180;180;;Chemin de Lartigole;31470;31481;Sainte-Foy-de-Peyrolières;;;1.129123;43.484357
+31481_0029_00003;3;;Impasse du Jardin des fées;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148315;43.491052
+31481_0036_00008;8;;Impasse Jacques Prevert;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148227;43.49193
+31481_0040_01815;1815;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143392;43.480883
+31481_0034_00002;2;;Allee des Platanes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144288;43.493173
+31481_0096_00400_bis;400;bis;Route de Peguilhan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137665;43.463536
+31481_0049_00035;35;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14599;43.484415
+31481_0020_00005;5;;Place Henri Dunant;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145003;43.491688
+31481_0027_00540;540;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.124809;43.493697
+31481_0030_00565;565;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.13417;43.491406
+31481_0096_00400;400;;Route de Peguilhan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137524;43.463355
+31481_0083_00265;265;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144703;43.484191
+31481_0083_00135;135;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14442;43.482993
+31481_0091_00050;50;;Chemin de Bajoly;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14849;43.500855
+31481_0064_01615;1615;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.139972;43.499524
+31481_0064_01715;1715;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.138827;43.499421
+31481_0003_00027;27;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14184;43.491945
+31481_0048_00350;350;;Chemin du Pigail;31470;31481;Sainte-Foy-de-Peyrolières;;;1.131716;43.488056
+31481_0042_00011;11;;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140416;43.493291
+31481_0089_00865;865;;Chemin de Montauriol;31470;31481;Sainte-Foy-de-Peyrolières;;;1.129453;43.507734
+31481_0042_00010;10;;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140418;43.493514
+31481_si5nwv_03680;3680;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.097148;43.473176
+31481_0082_01605;1605;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.127075;43.479788
+31481_0040_02010;2010;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143697;43.478625
+31481_0062_01170;1170;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.156764;43.463534
+31481_0041_00855;855;;Route de la Poque;31470;31481;Sainte-Foy-de-Peyrolières;;;1.179347;43.492493
+31481_0062_01430;1430;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.160086;43.463522
+31481_0035_00011;11;;Place de la Poste;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145047;43.492359
+31481_0096_01790;1790;;Route de Peguilhan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.122032;43.467394
+31481_0030_03130;3130;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.10253;43.488947
+31481_0082_01615;1615;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.126786;43.479078
+31481_0030_00075;75;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.139906;43.491884
+31481_0069_01060;1060;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.162241;43.501196
+31481_0046_00055;55;;Chemin des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.182559;43.485914
+31481_0009_00135;135;;Rue Jean Baptiste Clement;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148132;43.493572
+31481_si5nwv_03675;3675;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.097472;43.474991
+31481_0040_04155;4155;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143136;43.45999
+31481_0030_00710;710;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.132189;43.491029
+31481_0028_00185;185;;Chemin de Monge;31470;31481;Sainte-Foy-de-Peyrolières;;;1.152108;43.486031
+31481_0046_00070;70;;Chemin des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.183035;43.486149
+31481_0064_00020;20;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150974;43.494759
+31481_0061_01235;1235;;Route de Saiguede;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137299;43.500957
+31481_0003_00012;12;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143036;43.491954
+31481_0010_00009;9;;Rue des Coquelicots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.15076;43.49396
+31481_0040_04865;4865;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.13984;43.454618
+31481_0036_00002;2;;Impasse Jacques Prevert;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148179;43.492256
+31481_0095_00165;165;;Chemin de Ricard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.136448;43.459463
+31481_0007_01355;1355;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.167118;43.489405
+31481_16i522_00040;40;;Le Parayre;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146126;43.461577
+31481_0009_00001;1;;Rue Jean Baptiste Clement;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147646;43.492601
+31481_0064_00826;826;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149583;43.500582
+31481_0064_01195;1195;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144901;43.500153
+31481_0030_00680;680;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.132632;43.490211
+31481_0003_00010;10;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143253;43.492009
+31481_0069_01170;1170;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.163293;43.501855
+31481_0030_00630;630;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.133297;43.491081
+31481_0007_01625;1625;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.17021;43.488898
+31481_0003_00003;3;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144024;43.492307
+31481_0042_00006;6;;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140325;43.49306
+31481_0047_00025;25;;Impasse des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.191612;43.4891
+31481_0068_00004;4;;Allee des Tilleuls;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14557;43.491994
+31481_0002_00006;6;;Chemin du Barrat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14646;43.494104
+31481_0083_00555;555;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144339;43.486483
+31481_0076_00525;525;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150276;43.484935
+31481_0004_00009;9;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146552;43.493384
+31481_0059_00011;11;;Rue de Saint Jude;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146102;43.491397
+31481_0062_00860;860;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.153156;43.462692
+31481_0005_00001;1;;Avenue du 8 Mai 1945;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144657;43.492412
+31481_si5nwv_04395;4395;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.089035;43.473024
+31481_0027_02925;2925;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.099981;43.498579
+31481_0003_00017;17;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142629;43.491984
+31481_0091_01615;1615;;Chemin de Bajoly;31470;31481;Sainte-Foy-de-Peyrolières;;;1.13747;43.507393
+31481_0076_00130;130;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14875;43.487688
+31481_0093_00410;410;;Chemin d’Arnadjouan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142204;43.473287
+31481_0064_00610;610;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.151292;43.500037
+31481_0046_00735;735;;Chemin des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.190236;43.488156
+31481_0035_00004;4;;Place de la Poste;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145356;43.492433
+31481_si5nwv_03045;3045;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.104062;43.472558
+31481_0042_00003;3;;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140557;43.492591
+31481_0062_00060;60;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143755;43.460785
+31481_0044_00003;3;;Impasse du Clos du Trujol;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147904;43.490256
+31481_si5nwv_03340;3340;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.10113;43.471588
+31481_0010_00022;22;;Rue des Coquelicots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.151336;43.494328
+31481_xp0lvf_00010;10;;Chemin de Faoussely;31470;31481;Sainte-Foy-de-Peyrolières;;;1.169447;43.505495
+31481_0030_00535;535;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.134485;43.491431
+31481_0076_02715;2715;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.167241;43.471528
+31481_0082_01730;1730;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.128738;43.479299
+31481_0018_00100;100;;Chemin de Couillet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.133224;43.492074
+31481_0042_00009;9;;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140362;43.493038
+31481_0059_00002;2;;Rue de Saint Jude;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145425;43.491484
+31481_0049_00315;315;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14277;43.484285
+31481_si5nwv_03540;3540;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.098832;43.47282
+31481_0068_00002;2;;Allee des Tilleuls;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145455;43.491927
+31481_0037_00001;1;;Impasse Marcel Pagnol;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147868;43.492069
+31481_0076_00045;45;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148232;43.488019
+31481_0049_00310;310;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143074;43.484183
+31481_0040_02725;2725;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142056;43.472635
+31481_0076_00090;90;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148724;43.487725
+31481_0034_00004;4;;Allee des Platanes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144399;43.493227
+31481_0041_00610;610;;Route de la Poque;31470;31481;Sainte-Foy-de-Peyrolières;;;1.180492;43.49092
+31481_0042_00013;13;;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140877;43.493905
+31481_0040_01825;1825;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142791;43.481133
+31481_0009_00115;115;;Rue Jean Baptiste Clement;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148335;43.4931
+31481_0040_04490;4490;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142076;43.457196
+31481_0004_00010;10;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146821;43.493672
+31481_0012_00004;4;;Chemin du Couloume;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14788;43.491795
+31481_0006_00008;8;;Rue de l’Albergue;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146421;43.492848
+31481_0062_02020;2020;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.167121;43.463585
+31481_0036_00004;4;;Impasse Jacques Prevert;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148232;43.492159
+31481_0069_01070;1070;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.162348;43.50132
+31481_0075_00150;150;;Impasse de la Tote;31470;31481;Sainte-Foy-de-Peyrolières;;;1.121271;43.506406
+31481_0082_01710;1710;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.128748;43.479681
+31481_0069_00375;375;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.15554;43.496944
+31481_bebjgs_00385;385;;Chemin du Gatge;31470;31481;Sainte-Foy-de-Peyrolières;;;1.163386;43.479718
+31481_0087_00060;60;;Chemin de Mestroun;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137891;43.495762
+31481_0095_00020;20;;Chemin de Ricard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.136724;43.460631
+31481_0030_01880;1880;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.117987;43.489718
+31481_0081_00535;535;;Chemin d’En Caillaouet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140371;43.486827
+31481_0030_03460;3460;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.098927;43.488736
+31481_0069_01380;1380;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.165067;43.50296
+31481_0064_01585;1585;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140228;43.499563
+31481_0069_00530;530;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.157156;43.498105
+31481_0027_00140;140;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.128816;43.492115
+31481_0005_00004;4;;Avenue du 8 Mai 1945;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144781;43.492722
+31481_0004_00008;8;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146506;43.493492
+31481_0016_00195;195;;Impasse des Berdots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.16341;43.504181
+31481_0027_02060;2060;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.108831;43.498829
+31481_bebjgs_00880;880;;Chemin du Gatge;31470;31481;Sainte-Foy-de-Peyrolières;;;1.169027;43.47931
+31481_0064_01910;1910;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.136262;43.499184
+31481_si5nwv_02955;2955;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.105025;43.473413
+31481_0064_00900;900;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148696;43.500547
+31481_0031_00014;14;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150286;43.496974
+31481_0030_00435;435;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.13579;43.491575
+31481_0031_00012;12;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.15003;43.496957
+31481_0007_00530;530;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.157749;43.491899
+31481_0027_00705;705;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.123536;43.494396
+31481_0099_00045;45;;Chemin des Miaou;31470;31481;Sainte-Foy-de-Peyrolières;;;1.119911;43.484877
+31481_si5nwv_00105;105;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.12696;43.489812
+31481_0061_00290;290;;Route de Saiguede;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142179;43.494613
+31481_0085_00005;5;;Place Notre Dame du lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141299;43.492099
+31481_0067_00001;1;;Rue Sauvignon;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148441;43.496243
+31481_si5nwv_03630;3630;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.097862;43.473062
+31481_0040_00350;350;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150745;43.491512
+31481_0064_00750;750;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150327;43.500612
+31481_0004_00001;1;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146284;43.493219
+31481_xp0lvf_00035;35;;Chemin de Faoussely;31470;31481;Sainte-Foy-de-Peyrolières;;;1.169484;43.505147
+31481_0070_00004;4;;Rue des Violettes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149573;43.493136
+31481_0069_01350;1350;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.164803;43.50279
+31481_0078_00810;810;;Chemin du Payroule;31470;31481;Sainte-Foy-de-Peyrolières;;;1.156792;43.455922
+31481_0016_00050;50;;Impasse des Berdots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.164135;43.503769
+31481_0006_00004;4;;Rue de l’Albergue;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146299;43.493022
+31481_0064_01535;1535;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141625;43.499616
+31481_0010_00003;3;;Rue des Coquelicots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149671;43.493717
+31481_0087_00045;45;;Chemin de Mestroun;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137714;43.495922
+31481_0031_00009;9;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149376;43.496835
+31481_si5nwv_01495;1495;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.116751;43.481099
+31481_0061_00005;5;;Route de Saiguede;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143636;43.492306
+31481_0081_00450;450;;Chemin d’En Caillaouet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140454;43.487702
+31481_0030_00665;665;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.132746;43.491202
+31481_0049_00265;265;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143262;43.484241
+31481_0021_00006;6;;Impasse Jurancon;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147572;43.49592
+31481_0069_00325;325;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.155208;43.496762
+31481_0042_00003_bis;3;bis;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140486;43.492716
+31481_0047_00070;70;;Impasse des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.192111;43.489139
+31481_0087_00080;80;;Chemin de Mestroun;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137862;43.495751
+31481_0042_00005;5;;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140462;43.492789
+31481_0040_01340;1340;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146502;43.484236
+31481_0069_01100;1100;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.162507;43.501403
+31481_0040_01030;1030;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147171;43.486815
+31481_0027_00190;190;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.128462;43.492419
+31481_0062_00115;115;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144443;43.460768
+31481_0064_01065;1065;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146688;43.500458
+31481_xp0lvf_00060;60;;Chemin de Faoussely;31470;31481;Sainte-Foy-de-Peyrolières;;;1.169688;43.505039
+31481_0029_00008;8;;Impasse du Jardin des fées;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148491;43.491036
+31481_0046_00250;250;;Chemin des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.185427;43.486377
+31481_0064_01515;1515;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143183;43.499736
+31481_0004_00016;16;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147249;43.49379
+31481_0089_01485;1485;;Chemin de Montauriol;31470;31481;Sainte-Foy-de-Peyrolières;;;1.122956;43.507785
+31481_0006_00006_bis;6;bis;Rue de l’Albergue;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146369;43.49294
+31481_0027_00630;630;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.123652;43.494139
+31481_0094_01160;1160;;Chemin de Bezombes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150878;43.443057
+31481_0069_00250;250;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.154887;43.496692
+31481_0067_00005;5;;Rue Sauvignon;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148625;43.495833
+31481_0016_00185;185;;Impasse des Berdots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.163497;43.504153
+31481_0027_00550;550;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.124563;43.493724
+31481_bebjgs_00950;950;;Chemin du Gatge;31470;31481;Sainte-Foy-de-Peyrolières;;;1.169696;43.479774
+31481_0064_02855;2855;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.126481;43.503118
+31481_0069_01005;1005;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.162082;43.500856
+31481_0031_00022;22;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150183;43.496217
+31481_0083_00030;30;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144148;43.482121
+31481_0083_00585;585;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143857;43.486892
+31481_0040_03615;3615;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142509;43.465255
+31481_0026_00275;275;;Chemin de Gratussous;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145739;43.457107
+31481_0064_01115;1115;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145882;43.500318
+31481_0040_01130;1130;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146775;43.485804
+31481_0064_00960;960;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147684;43.499999
+31481_0004_00005;5;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146393;43.493289
+31481_0061_00970;970;;Route de Saiguede;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137289;43.498834
+31481_0005_00013;13;;Avenue du 8 Mai 1945;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145553;43.492826
+31481_0076_02120;2120;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.164085;43.47573
+31481_0009_00125;125;;Rue Jean Baptiste Clement;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148267;43.493274
+31481_0029_00006;6;;Impasse du Jardin des fées;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148459;43.490975
+31481_0083_00455;455;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143922;43.485697
+31481_0020_00002;2;;Place Henri Dunant;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144675;43.492285
+31481_0042_00007;7;;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140423;43.492875
+31481_si5nwv_02660;2660;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.10834;43.474836
+31481_0064_00730;730;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150609;43.500596
+31481_0034_00006;6;;Allee des Platanes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144378;43.493508
+31481_0007_00420;420;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.156989;43.492568
+31481_0064_00975;975;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147081;43.500458
+31481_0064_01270;1270;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144121;43.499847
+31481_si5nwv_03180_bis;3180;bis;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.102968;43.471984
+31481_0003_00014;14;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142953;43.491889
+31481_0021_00002;2;;Impasse Jurancon;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147912;43.49595
+31481_0005_00006;6;;Avenue du 8 Mai 1945;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144848;43.492756
+31481_0018_00040;40;;Chemin de Couillet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.133257;43.491544
+31481_0031_00003;3;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148103;43.496754
+31481_0003_00016;16;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14287;43.491886
+31481_si5nwv_03350;3350;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.100753;43.471934
+31481_0003_00008;8;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143985;43.49217
+31481_0040_02510;2510;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14237;43.474393
+31481_0024_00205;205;;Chemin de Guerin;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147011;43.495443
+31481_0003_00026;26;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142056;43.491846
+31481_0082_01845;1845;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.12835;43.47826
+31481_0035_00001_ter;1;ter;Place de la Poste;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145266;43.492603
+31481_0040_01725;1725;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143898;43.481085
+31481_0003_00011;11;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143277;43.492127
+31481_0067_00003;3;;Rue Sauvignon;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148507;43.495913
+31481_0082_01510;1510;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.127597;43.480417
+31481_0083_00010;10;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144213;43.48191
+31481_0076_01245;1245;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.156016;43.479222
+31481_0030_00190;190;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.138424;43.491661
+31481_0061_01065;1065;;Route de Saiguede;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137317;43.499827
+31481_0089_01355;1355;;Chemin de Montauriol;31470;31481;Sainte-Foy-de-Peyrolières;;;1.124859;43.507704
+31481_0010_00014;14;;Rue des Coquelicots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150238;43.493966
+31481_0062_00265;265;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14612;43.460976
+31481_0089_00450;450;;Chemin de Montauriol;31470;31481;Sainte-Foy-de-Peyrolières;;;1.133828;43.50587
+31481_si5nwv_03000;3000;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.104965;43.472757
+31481_0007_01405;1405;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.167808;43.48929
+31481_0030_00085;85;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.139809;43.491877
+31481_0049_00305;305;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14279;43.48429
+31481_0030_01885;1885;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.117937;43.489897
+31481_0042_00015;15;;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141751;43.49478
+31481_0082_01575;1575;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.127128;43.479858
+31481_0040_01220;1220;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146659;43.485352
+31481_0040_01300;1300;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146537;43.484602
+31481_0065_00001;1;;Impasse des Sarments;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149599;43.494757
+31481_0064_00880;880;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14879;43.500551
+31481_0043_00003;3;;Rue des Pyrenees;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146087;43.491695
+31481_0031_00018;18;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.1503;43.496735
+31481_0004_00030;30;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148686;43.494102
+31481_0076_00120;120;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148709;43.487742
+31481_0046_01005;1005;;Chemin des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.191354;43.490215
+31481_0049_00245;245;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143462;43.484212
+31481_0099_00085;85;;Chemin des Miaou;31470;31481;Sainte-Foy-de-Peyrolières;;;1.119198;43.485087
+31481_0085_00009;9;;Place Notre Dame du lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140746;43.492058
+31481_0069_01745;1745;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.168747;43.505061
+31481_0083_00065;65;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144327;43.482388
+31481_0040_01195;1195;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146452;43.485445
+31481_0061_00800;800;;Route de Saiguede;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137687;43.497369
+31481_0062_00255;255;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145988;43.460938
+31481_0011_00890;890;;Route de Beaufort;31470;31481;Sainte-Foy-de-Peyrolières;;;1.12983;43.46197
+31481_0088_00065;65;;Chemin du Lac;31470;31481;Sainte-Foy-de-Peyrolières;;;1.136642;43.498275
+31481_0004_00004;4;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146146;43.493317
+31481_0003_00012_ter;12;ter;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142978;43.492004
+31481_0064_01330;1330;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143337;43.499712
+31481_0062_01530;1530;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.161204;43.463302
+31481_0064_01380;1380;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142882;43.499638
+31481_0012_00180;180;;Chemin du Couloume;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150135;43.491311
+31481_0087_00070;70;;Chemin de Mestroun;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137865;43.495831
+31481_16i522_00065;65;;Le Parayre;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146756;43.461797
+31481_0039_00004;4;;Impasse des Peupliers;31470;31481;Sainte-Foy-de-Peyrolières;;;1.138923;43.496062
+31481_0059_00017;17;;Rue de Saint Jude;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146787;43.491382
+31481_0004_00024;24;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147629;43.493853
+31481_0067_00008;8;;Rue Sauvignon;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149702;43.495978
+31481_0040_01270;1270;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147358;43.484729
+31481_0008_00470;470;;Chemin de la Cigale;31470;31481;Sainte-Foy-de-Peyrolières;;;1.162287;43.455486
+31481_0040_01040;1040;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147102;43.486615
+31481_0064_01350;1350;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143173;43.499675
+31481_0011_00150;150;;Route de Beaufort;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141262;43.460441
+31481_0059_00006;6;;Rue de Saint Jude;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145601;43.491499
+31481_0015_00004;4;;Impasse du Chasselas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148864;43.495166
+31481_0040_04405;4405;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142758;43.458095
+31481_0042_00014_bis;14;bis;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140851;43.494098
+31481_0067_00007;7;;Rue Sauvignon;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148893;43.495815
+31481_0068_00008;8;;Allee des Tilleuls;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146029;43.492222
+31481_0007_01965;1965;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.174263;43.488024
+31481_0049_00312;312;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142852;43.484217
+31481_0031_00008;8;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149172;43.496921
+31481_0011_00045;45;;Route de Beaufort;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142349;43.46074
+31481_0003_00006;6;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144151;43.492215
+31481_0065_00003;3;;Impasse des Sarments;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149567;43.494897
+31481_0048_00350_bis;350;bis;Chemin du Pigail;31470;31481;Sainte-Foy-de-Peyrolières;;;1.13218;43.487939
+31481_0040_04915;4915;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.139739;43.454291
+31481_xp0lvf_00095;95;;Chemin de Faoussely;31470;31481;Sainte-Foy-de-Peyrolières;;;1.169673;43.504779
+31481_0040_01855;1855;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143682;43.480211
+31481_0099_00250;250;;Chemin des Miaou;31470;31481;Sainte-Foy-de-Peyrolières;;;1.117636;43.484854
+31481_0030_00795;795;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.131495;43.491151
+31481_0078_01305;1305;;Chemin du Payroule;31470;31481;Sainte-Foy-de-Peyrolières;;;1.157709;43.451588
+31481_0030_00920;920;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.129803;43.490783
+31481_0004_00028;28;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148425;43.494042
+31481_0027_02870;2870;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.100567;43.498639
+31481_0093_00150;150;;Chemin d’Arnadjouan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142229;43.473339
+31481_0091_00100;100;;Chemin de Bajoly;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148759;43.501449
+31481_0062_01220;1220;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.157358;43.463594
+31481_0042_00002_bis;2;bis;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140546;43.492381
+31481_0048_00075;75;;Chemin du Pigail;31470;31481;Sainte-Foy-de-Peyrolières;;;1.128111;43.48786
+31481_0083_00355;355;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14423;43.484978
+31481_0040_01350;1350;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146385;43.483912
+31481_0098_00415;415;;Chemin d’En Mazeris;31470;31481;Sainte-Foy-de-Peyrolières;;;1.122351;43.489451
+31481_0042_00002_ter;2;ter;Chemin de Notre Dame du Lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140555;43.492439
+31481_0049_00075;75;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145439;43.484479
+31481_0011_00210;210;;Route de Beaufort;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140677;43.460338
+31481_0068_00001;1;;Allee des Tilleuls;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145219;43.492023
+31481_0041_00720;720;;Route de la Poque;31470;31481;Sainte-Foy-de-Peyrolières;;;1.179814;43.491647
+31481_0069_01050;1050;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.162057;43.50116
+31481_0007_02385;2385;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.176949;43.485168
+31481_0015_00002;2;;Impasse du Chasselas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14893;43.494944
+31481_0069_01140;1140;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.162766;43.501527
+31481_0076_02140;2140;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.164131;43.475702
+31481_0040_04105;4105;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14301;43.460594
+31481_si5nwv_05025;5025;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.08189;43.474901
+31481_0075_00175;175;;Impasse de la Tote;31470;31481;Sainte-Foy-de-Peyrolières;;;1.121014;43.506692
+31481_0076_02130;2130;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.164164;43.475634
+31481_0083_00435;435;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143944;43.485499
+31481_0040_01280;1280;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147242;43.484715
+31481_0027_01740;1740;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.112665;43.498093
+31481_0076_01255;1255;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.156793;43.480399
+31481_0040_02280;2280;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143354;43.47656
+31481_0034_00008_b;8;b;Allee des Platanes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144711;43.493404
+31481_0069_01150;1150;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.163059;43.501724
+31481_0027_00635;635;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.123716;43.494243
+31481_0007_01375;1375;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.16747;43.488887
+31481_0016_00155;155;;Impasse des Berdots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.163809;43.50402
+31481_0083_00165;165;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144528;43.483325
+31481_0096_00410;410;;Route de Peguilhan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.135259;43.464555
+31481_0003_00005;5;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143927;43.492277
+31481_0030_00740;740;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.131858;43.490944
+31481_0009_00003;3;;Rue Jean Baptiste Clement;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147016;43.492393
+31481_0030_00485;485;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.134994;43.491481
+31481_0076_01410;1410;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.158846;43.480445
+31481_0062_00295;295;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146644;43.461047
+31481_0041_00580;580;;Route de la Poque;31470;31481;Sainte-Foy-de-Peyrolières;;;1.180522;43.490621
+31481_0083_00120;120;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144232;43.482894
+31481_0082_01420;1420;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.127937;43.480741
+31481_0027_02250;2250;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.106615;43.498442
+31481_0093_00450;450;;Chemin d’Arnadjouan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142242;43.473257
+31481_0083_00230;230;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144547;43.484084
+31481_0091_00950;950;;Chemin de Bajoly;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14568;43.507028
+31481_0003_00004;4;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14429;43.492228
+31481_0031_00015;15;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150164;43.496776
+31481_0062_00150;150;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144859;43.460887
+31481_0059_00015;15;;Rue de Saint Jude;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146361;43.491375
+31481_0075_00110;110;;Impasse de la Tote;31470;31481;Sainte-Foy-de-Peyrolières;;;1.121288;43.506342
+31481_0082_00890;890;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.131825;43.48458
+31481_0046_00785;785;;Chemin des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.190649;43.48855
+31481_0005_00007;7;;Avenue du 8 Mai 1945;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14495;43.492559
+31481_0013_00001;1;;Chemin des Craberes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144247;43.491176
+31481_si5nwv_02600;2600;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.108758;43.475156
+31481_0040_04480;4480;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142116;43.457251
+31481_si5nwv_02395;2395;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.110641;43.476003
+31481_0064_01285;1285;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143989;43.499877
+31481_0035_00003;3;;Place de la Poste;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14524;43.492485
+31481_0061_01115;1115;;Route de Saiguede;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137351;43.500075
+31481_0040_00410;410;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150899;43.49114
+31481_0004_00038;38;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150583;43.494542
+31481_0062_00385;385;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147689;43.461087
+31481_0096_00390;390;;Route de Peguilhan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.138475;43.463762
+31481_0036_00006;6;;Impasse Jacques Prevert;31470;31481;Sainte-Foy-de-Peyrolières;;;1.148215;43.492029
+31481_0040_04860;4860;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140157;43.454618
+31481_0083_00080;80;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144239;43.482947
+31481_0028_00205;205;;Chemin de Monge;31470;31481;Sainte-Foy-de-Peyrolières;;;1.151988;43.486145
+31481_0039_00001;1;;Impasse des Peupliers;31470;31481;Sainte-Foy-de-Peyrolières;;;1.138867;43.496059
+31481_0027_00045;45;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.129218;43.491161
+31481_16i522_00095;95;;Le Parayre;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146199;43.461865
+31481_0033_00003;3;;Rue du Moulin;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14688;43.494209
+31481_0003_00023;23;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142063;43.491958
+31481_0033_00005;5;;Rue du Moulin;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146795;43.494396
+31481_0034_00010;10;;Allee des Platanes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144858;43.493421
+31481_0069_01260;1260;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.164284;43.502466
+31481_si5nwv_03235;3235;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.102261;43.472219
+31481_0070_00012;12;;Rue des Violettes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.151243;43.493672
+31481_0030_03480;3480;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.098808;43.48881
+31481_0076_00505;505;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150302;43.484957
+31481_0030_01925;1925;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.117441;43.489855
+31481_0030_02495;2495;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.110542;43.489231
+31481_0006_00018;18;;Rue de l’Albergue;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147232;43.492095
+31481_0010_00004;4;;Rue des Coquelicots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149034;43.493615
+31481_0047_00015;15;;Impasse des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.191415;43.489147
+31481_0030_01480;1480;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.122666;43.490172
+31481_0040_04405_ter;4405;ter;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142656;43.457994
+31481_xp0lvf_00090;90;;Chemin de Faoussely;31470;31481;Sainte-Foy-de-Peyrolières;;;1.16979;43.504808
+31481_0062_00370;370;;Route de Saint Clar de Riviere;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147541;43.461185
+31481_0069_00990;990;;Route de Toulouse;31470;31481;Sainte-Foy-de-Peyrolières;;;1.161284;43.500686
+31481_0070_00007;7;;Rue des Violettes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149882;43.493079
+31481_0004_00003;3;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146304;43.493236
+31481_0091_01120;1120;;Chemin de Bajoly;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143585;43.507227
+31481_0100_00170;170;;Chemin de Lartigole;31470;31481;Sainte-Foy-de-Peyrolières;;;1.129585;43.48449
+31481_0046_00935;935;;Chemin des Nozes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.191628;43.489648
+31481_si5nwv_03470;3470;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.099314;43.472673
+31481_0035_00007;7;;Place de la Poste;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145173;43.49239
+31481_0064_01410;1410;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142501;43.499555
+31481_0064_00415;415;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.15151;43.498329
+31481_0040_04245;4245;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143238;43.459219
+31481_0015_00001;1;;Impasse du Chasselas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149013;43.495
+31481_0085_00001;1;;Place Notre Dame du lait;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141693;43.492081
+31481_0007_01245;1245;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.165783;43.489568
+31481_0004_00013;13;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146803;43.49353
+31481_0075_00225;225;;Impasse de la Tote;31470;31481;Sainte-Foy-de-Peyrolières;;;1.120218;43.507195
+31481_0023_00006;6;;Place du 14 Juillet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144175;43.493078
+31481_si5nwv_03240;3240;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.102509;43.472133
+31481_0010_00016;16;;Rue des Coquelicots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150521;43.494029
+31481_0045_00012;12;;Rue du Chemin de Ronde;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14467;43.491905
+31481_0082_01765;1765;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.128212;43.478653
+31481_0059_00011_bis;11;bis;Rue de Saint Jude;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146243;43.491377
+31481_0061_01055;1055;;Route de Saiguede;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137302;43.49968
+31481_0034_00014;14;;Allee des Platanes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145236;43.493552
+31481_0011_00175;175;;Route de Beaufort;31470;31481;Sainte-Foy-de-Peyrolières;;;1.140892;43.460453
+31481_0082_01965;1965;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.129964;43.478176
+31481_0004_00007;7;;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146466;43.493333
+31481_0016_00180;180;;Impasse des Berdots;31470;31481;Sainte-Foy-de-Peyrolières;;;1.163698;43.503987
+31481_0040_01115;1115;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146671;43.486102
+31481_0044_00002;2;;Impasse du Clos du Trujol;31470;31481;Sainte-Foy-de-Peyrolières;;;1.147809;43.490329
+31481_0049_00030;30;;Chemin du Moulin de Rouaix;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145721;43.484376
+31481_si5nwv_03085;3085;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.103571;43.472469
+31481_0007_01620;1620;;Route de Cambernard;31470;31481;Sainte-Foy-de-Peyrolières;;;1.170409;43.489002
+31481_0082_01720;1720;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.128811;43.479615
+31481_0061_01940;1940;;Route de Saiguede;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137147;43.507426
+31481_0041_00540;540;;Route de la Poque;31470;31481;Sainte-Foy-de-Peyrolières;;;1.180649;43.490279
+31481_0076_00220;220;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14953;43.486891
+31481_0027_00510;510;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.125057;43.493598
+31481_0004_00026_bis;26;bis;Avenue du 19 Mars 1962;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14837;43.494033
+31481_0011_00160;160;;Route de Beaufort;31470;31481;Sainte-Foy-de-Peyrolières;;;1.141055;43.460406
+31481_0040_04295;4295;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143201;43.458867
+31481_0041_00480;480;;Route de la Poque;31470;31481;Sainte-Foy-de-Peyrolières;;;1.180711;43.489794
+31481_0014_00004;4;;Impasse des Chenes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14071;43.495346
+31481_si5nwv_04725;4725;;Route de la Salvetat;31470;31481;Sainte-Foy-de-Peyrolières;;;1.085497;43.474525
+31481_0040_01205;1205;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146013;43.485445
+31481_0040_01360;1360;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.146278;43.483472
+31481_0076_00140;140;;Chemin de la Saudrune;31470;31481;Sainte-Foy-de-Peyrolières;;;1.149036;43.487442
+31481_0067_00015;15;;Rue Sauvignon;31470;31481;Sainte-Foy-de-Peyrolières;;;1.150437;43.495928
+31481_0082_01970;1970;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.130021;43.478272
+31481_0083_00505;505;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144045;43.485982
+31481_0030_03500;3500;;Route de Lombez;31470;31481;Sainte-Foy-de-Peyrolières;;;1.098628;43.488904
+31481_0011_00460;460;;Route de Beaufort;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137528;43.460648
+31481_0040_01045;1045;;Route de Rieumes;31470;31481;Sainte-Foy-de-Peyrolières;;;1.14632;43.486863
+31481_0091_01585;1585;;Chemin de Bajoly;31470;31481;Sainte-Foy-de-Peyrolières;;;1.137987;43.507351
+31481_0018_00095;95;;Chemin de Couillet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.133286;43.49226
+31481_0005_00017;17;;Avenue du 8 Mai 1945;31470;31481;Sainte-Foy-de-Peyrolières;;;1.145929;43.493009
+31481_0027_02915;2915;;Chemin du Minjoulet;31470;31481;Sainte-Foy-de-Peyrolières;;;1.1004;43.498694
+31481_0083_00517;517;;Chemin d’En Castagne;31470;31481;Sainte-Foy-de-Peyrolières;;;1.144564;43.485997
+31481_0003_00022;22;;Avenue du 11 Novembre 1918;31470;31481;Sainte-Foy-de-Peyrolières;;;1.142562;43.491878
+31481_0082_01985;1985;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.13012;43.478156
+31481_0064_01320;1320;;Route de Saint Thomas;31470;31481;Sainte-Foy-de-Peyrolières;;;1.143638;43.499746
+31481_0096_02480;2480;;Route de Peguilhan;31470;31481;Sainte-Foy-de-Peyrolières;;;1.116174;43.469852
+31481_0031_00019;19;;Rue Merlot;31470;31481;Sainte-Foy-de-Peyrolières;;;1.15008;43.496299
+31481_0099_00165;165;;Chemin des Miaou;31470;31481;Sainte-Foy-de-Peyrolières;;;1.118548;43.485233
+31481_0082_01660;1660;;Chemin de Bourrieu;31470;31481;Sainte-Foy-de-Peyrolières;;;1.12783;43.479496

@@ -1,0 +1,764 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+79259_0135_00018;18;;Chemin du Pré Chambert;79100;79259;Saint-Jean-de-Thouars;;;-0.21319;46.972078
+79259_0052_00008;8;;Route de la Gare;79100;79259;Saint-Jean-de-Thouars;;;-0.230292;46.946868
+79259_0135_00022;22;;Chemin du Pré Chambert;79100;79259;Saint-Jean-de-Thouars;;;-0.212304;46.97213
+79259_0095_00082;82;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211962;46.96969
+79259_0120_00006;6;;Rue Philippe Chasteigner;79100;79259;Saint-Jean-de-Thouars;;;-0.212844;46.964522
+79259_0025_00055;55;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.218219;46.95676
+79259_0055_00006;6;;Rue de la Grande Coeille;79100;79259;Saint-Jean-de-Thouars;;;-0.215844;46.963666
+79259_0075_00008;8;;Route de Missé;79100;79259;Saint-Jean-de-Thouars;;;-0.205677;46.959029
+79259_0025_00047;47;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.216625;46.957984
+79259_0137_00005;5;;Clos de la République;79100;79259;Saint-Jean-de-Thouars;;;-0.218124;46.957489
+79259_0135_00042;42;;Chemin du Pré Chambert;79100;79259;Saint-Jean-de-Thouars;;;-0.208825;46.972452
+79259_0135_00054;54;;Chemin du Pré Chambert;79100;79259;Saint-Jean-de-Thouars;;;-0.207104;46.972525
+79259_0115_00093;93;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.220263;46.956009
+79259_0005_00010;10;;Place de l'Abbaye;79100;79259;Saint-Jean-de-Thouars;;;-0.213328;46.964234
+79259_0058_00005;5;;Rue des Gruches;79100;79259;Saint-Jean-de-Thouars;;;-0.211148;46.959524
+79259_0045_00050;50;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.202577;46.964517
+79259_0137_00018;18;;Clos de la République;79100;79259;Saint-Jean-de-Thouars;;;-0.217725;46.95875
+79259_0100_00075;75;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.20992;46.963815
+79259_0052_00012;12;;Route de la Gare;79100;79259;Saint-Jean-de-Thouars;;;-0.229916;46.945802
+79259_0100_00054;54;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210817;46.966593
+79259_0039_00008;8;;Rue du Chêne Vert;79100;79259;Saint-Jean-de-Thouars;;;-0.217139;46.959861
+79259_0055_00007;7;;Rue de la Grande Coeille;79100;79259;Saint-Jean-de-Thouars;;;-0.215992;46.963623
+79259_a002_00005;5;;Lotissement Bellevue;79100;79259;Saint-Jean-de-Thouars;;;-0.209496;46.968035
+79259_a010_00006;6;;Lotissement les Maisons Blanches;79100;79259;Saint-Jean-de-Thouars;;;-0.210987;46.962238
+79259_a002_00004;4;;Lotissement Bellevue;79100;79259;Saint-Jean-de-Thouars;;;-0.209428;46.968263
+79259_0049_00001;1;;Rue de l'Ecole;79100;79259;Saint-Jean-de-Thouars;;;-0.219733;46.96199
+79259_0138_00005;5;;Rue René Arnault;79100;79259;Saint-Jean-de-Thouars;;;-0.218866;46.962963
+79259_0067_00015;15;;Avenue Louis Chêne;79100;79259;Saint-Jean-de-Thouars;;;-0.208771;46.956636
+79259_0047_00006;6;;Rue des Ducs d'Aquitaine;79100;79259;Saint-Jean-de-Thouars;;;-0.207031;46.971768
+79259_0095_00026;26;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.21195;46.96453
+79259_0115_00055;55;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.218475;46.959434
+79259_0050_00002;2;;Chemin des Fonds Jarry;79100;79259;Saint-Jean-de-Thouars;;;-0.21046;46.965687
+79259_0037_00009;9;;Rue Charles Ragot;79100;79259;Saint-Jean-de-Thouars;;;-0.218298;46.962295
+79259_0060_00008;8;;Rue Haute;79100;79259;Saint-Jean-de-Thouars;;;-0.212371;46.963182
+79259_0037_00008;8;;Rue Charles Ragot;79100;79259;Saint-Jean-de-Thouars;;;-0.217988;46.962611
+79259_0052_00009;9;;Route de la Gare;79100;79259;Saint-Jean-de-Thouars;;;-0.229275;46.946267
+79259_0150_00016;16;;Chemin du Tour Girault;79100;79259;Saint-Jean-de-Thouars;;;-0.213864;46.961023
+79259_0040_00005;5;;Route du Chatellier;79100;79259;Saint-Jean-de-Thouars;;;-0.210454;46.96146
+79259_a006_00013;13;;Lotissement la Cornière;79100;79259;Saint-Jean-de-Thouars;;;-0.206132;46.959816
+79259_a008_00003;3;;Lotissement les Fileries;79100;79259;Saint-Jean-de-Thouars;;;-0.20948;46.97142
+79259_0045_00025;25;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.206303;46.967945
+79259_0039_00003;3;;Rue du Chêne Vert;79100;79259;Saint-Jean-de-Thouars;;;-0.217604;46.960245
+79259_0020_00014;14;;Rue Bonneval;79100;79259;Saint-Jean-de-Thouars;;;-0.2133;46.965525
+79259_0115_00044;44;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.217733;46.961479
+79259_0066_00004;4;;Rue Jean Derouitteau;79100;79259;Saint-Jean-de-Thouars;;;-0.217816;46.963146
+79259_0010_00012;12;;Rue Agnès de Rochechouart;79100;79259;Saint-Jean-de-Thouars;;;-0.210207;46.970938
+79259_0068_00004;4;;Clos Louise de This;79100;79259;Saint-Jean-de-Thouars;;;-0.216794;46.962993
+79259_0018_00010;10;;Chemin des Barrières;79100;79259;Saint-Jean-de-Thouars;;;-0.21696;46.956327
+79259_0040_00031;31;;Route du Chatellier;79100;79259;Saint-Jean-de-Thouars;;;-0.206013;46.961208
+79259_0110_00022;22;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.21079;46.970299
+79259_0043_00002;2;;Chemin du 19 Mars 1962;79100;79259;Saint-Jean-de-Thouars;;;-0.214129;46.960795
+79259_0025_00011;11;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.211255;46.962181
+79259_0135_00020;20;;Chemin du Pré Chambert;79100;79259;Saint-Jean-de-Thouars;;;-0.212737;46.972104
+79259_0137_00007;7;;Clos de la République;79100;79259;Saint-Jean-de-Thouars;;;-0.218094;46.957528
+79259_0095_00044;44;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211747;46.96541
+79259_0037_00011;11;;Rue Charles Ragot;79100;79259;Saint-Jean-de-Thouars;;;-0.219787;46.962867
+79259_a004_00005;5;;Lotissement le Clos du Vicomte;79100;79259;Saint-Jean-de-Thouars;;;-0.210143;46.966908
+79259_0025_00021;21;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.212494;46.961222
+79259_0025_00008;8;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.211065;46.962453
+79259_0069_00005;5;;Rue Maître Pierre Bellanger;79100;79259;Saint-Jean-de-Thouars;;;-0.210917;46.955278
+79259_0068_00009;9;;Clos Louise de This;79100;79259;Saint-Jean-de-Thouars;;;-0.21722;46.963129
+79259_0127_00006;6;;Rue de la Plaine;79100;79259;Saint-Jean-de-Thouars;;;-0.219251;46.962438
+79259_0135_00038;38;;Chemin du Pré Chambert;79100;79259;Saint-Jean-de-Thouars;;;-0.209273;46.972408
+79259_0095_00062;62;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211733;46.967995
+79259_a006_00004;4;;Lotissement la Cornière;79100;79259;Saint-Jean-de-Thouars;;;-0.206186;46.96009
+79259_0105_00003;3;;Avenue Paul Gallot;79100;79259;Saint-Jean-de-Thouars;;;-0.213131;46.964183
+79259_0010_00010;10;;Rue Agnès de Rochechouart;79100;79259;Saint-Jean-de-Thouars;;;-0.210399;46.970952
+79259_0095_00079;79;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.212274;46.970101
+79259_0045_00003;3;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.208417;46.969054
+79259_0025_00010;10;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.211377;46.962208
+79259_0060_00014;14;;Rue Haute;79100;79259;Saint-Jean-de-Thouars;;;-0.212307;46.963901
+79259_0155_00009;9;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.208706;46.971084
+79259_0115_00065;65;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.219011;46.95819
+79259_0115_00027;27;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.21703;46.961601
+79259_0049_00002;2;;Rue de l'Ecole;79100;79259;Saint-Jean-de-Thouars;;;-0.220417;46.962011
+79259_0135_00006;6;;Chemin du Pré Chambert;79100;79259;Saint-Jean-de-Thouars;;;-0.2139;46.971121
+79259_0055_00008;8;;Rue de la Grande Coeille;79100;79259;Saint-Jean-de-Thouars;;;-0.216013;46.963714
+79259_0039_00005;5;;Rue du Chêne Vert;79100;79259;Saint-Jean-de-Thouars;;;-0.216932;46.959974
+79259_0095_00069;69;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.21199;46.969521
+79259_0095_00052;52;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211467;46.966565
+79259_0135_00025;25;;Chemin du Pré Chambert;79100;79259;Saint-Jean-de-Thouars;;;-0.211929;46.972204
+79259_0095_00084;84;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.212039;46.969858
+79259_a006_00006;6;;Lotissement la Cornière;79100;79259;Saint-Jean-de-Thouars;;;-0.206399;46.960522
+79259_0025_00103;103;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.227907;46.95135
+79259_0075_00007;7;;Route de Missé;79100;79259;Saint-Jean-de-Thouars;;;-0.207936;46.960302
+79259_0060_00011;11;;Rue Haute;79100;79259;Saint-Jean-de-Thouars;;;-0.212345;46.963739
+79259_0145_00002;2;;Route de Saint-Varent;79100;79259;Saint-Jean-de-Thouars;;;-0.211721;46.961666
+79259_0095_00086;86;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.212097;46.970035
+79259_0110_00003;3;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.212991;46.970071
+79259_0095_00073;73;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.212057;46.9697
+79259_0095_00033;33;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.212111;46.964863
+79259_0156_00002;2;;Impasse du Clos de la Vigne;79100;79259;Saint-Jean-de-Thouars;;;-0.208321;46.970725
+79259_0115_00023;23;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.216476;46.962044
+79259_0100_00049;49;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210663;46.967334
+79259_0066_00009;9;;Rue Jean Derouitteau;79100;79259;Saint-Jean-de-Thouars;;;-0.217927;46.963252
+79259_0052_00004;4;;Route de la Gare;79100;79259;Saint-Jean-de-Thouars;;;-0.230408;46.948012
+79259_a004_00003;3;;Lotissement le Clos du Vicomte;79100;79259;Saint-Jean-de-Thouars;;;-0.210133;46.966697
+79259_0052_00005;5;;Route de la Gare;79100;79259;Saint-Jean-de-Thouars;;;-0.229463;46.947382
+79259_0156_00005;5;;Impasse du Clos de la Vigne;79100;79259;Saint-Jean-de-Thouars;;;-0.208416;46.970331
+79259_0100_00047_bis;47;bis;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210016;46.967489
+79259_0095_00049;49;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211851;46.968171
+79259_0100_00079;79;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.209894;46.963617
+79259_0039_00006;6;;Rue du Chêne Vert;79100;79259;Saint-Jean-de-Thouars;;;-0.216711;46.959893
+79259_0095_00016;16;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.21163;46.963774
+79259_0025_00005;5;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.210706;46.962613
+79259_0023_00004;4;;Avenue du Bois de la Dame;79100;79259;Saint-Jean-de-Thouars;;;-0.210115;46.95835
+79259_0155_00022;22;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.206855;46.970667
+79259_0025_00013;13;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.211424;46.962047
+79259_0022_00001;1;;Chemin des Baucains;79100;79259;Saint-Jean-de-Thouars;;;-0.220483;46.954899
+79259_0100_00082;82;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.209733;46.962007
+79259_0156_00006;6;;Impasse du Clos de la Vigne;79100;79259;Saint-Jean-de-Thouars;;;-0.208239;46.970666
+79259_0125_00013;13;;Rue des Pineaux;79100;79259;Saint-Jean-de-Thouars;;;-0.208747;46.962824
+79259_a008_00008;8;;Lotissement les Fileries;79100;79259;Saint-Jean-de-Thouars;;;-0.209146;46.971847
+79259_0050_00005;5;;Chemin des Fonds Jarry;79100;79259;Saint-Jean-de-Thouars;;;-0.20978;46.965658
+79259_0137_00016;16;;Clos de la République;79100;79259;Saint-Jean-de-Thouars;;;-0.217797;46.958499
+79259_0138_00007;7;;Rue René Arnault;79100;79259;Saint-Jean-de-Thouars;;;-0.218294;46.962927
+79259_0039_00010;10;;Rue du Chêne Vert;79100;79259;Saint-Jean-de-Thouars;;;-0.217923;46.959916
+79259_0025_00056;56;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.219188;46.956135
+79259_0135_00046;46;;Chemin du Pré Chambert;79100;79259;Saint-Jean-de-Thouars;;;-0.208262;46.972476
+79259_0150_00006;6;;Chemin du Tour Girault;79100;79259;Saint-Jean-de-Thouars;;;-0.215425;46.961937
+79259_0025_00053;53;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.217775;46.957082
+79259_0069_00003;3;;Rue Maître Pierre Bellanger;79100;79259;Saint-Jean-de-Thouars;;;-0.210778;46.955847
+79259_0155_00023;23;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.206154;46.970435
+79259_0020_00006;6;;Rue Bonneval;79100;79259;Saint-Jean-de-Thouars;;;-0.213204;46.964873
+79259_0025_00024;24;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.214068;46.960117
+79259_0060_00015;15;;Rue Haute;79100;79259;Saint-Jean-de-Thouars;;;-0.212417;46.964011
+79259_0100_00070;70;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210333;46.964465
+79259_0064_00008;8;;Chemin de Laveau;79100;79259;Saint-Jean-de-Thouars;;;-0.20667;46.957384
+79259_0115_00042;42;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.217582;46.961675
+79259_0142_00013;13;;Rue du Roi Lothaire;79100;79259;Saint-Jean-de-Thouars;;;-0.207809;46.972422
+79259_0110_00024;24;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.210398;46.970116
+79259_0100_00080;80;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.209714;46.962131
+79259_0052_00010;10;;Route de la Gare;79100;79259;Saint-Jean-de-Thouars;;;-0.230145;46.946374
+79259_0095_00038;38;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211808;46.965176
+79259_0155_00025;25;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.205892;46.970277
+79259_0127_00015;15;;Rue de la Plaine;79100;79259;Saint-Jean-de-Thouars;;;-0.219394;46.961823
+79259_0100_00062;62;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210619;46.965396
+79259_0069_00008;8;;Rue Maître Pierre Bellanger;79100;79259;Saint-Jean-de-Thouars;;;-0.211197;46.955342
+79259_0125_00005;5;;Rue des Pineaux;79100;79259;Saint-Jean-de-Thouars;;;-0.208346;46.96367
+79259_0047_00014;14;;Rue des Ducs d'Aquitaine;79100;79259;Saint-Jean-de-Thouars;;;-0.207317;46.972211
+79259_0095_00088;88;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.212199;46.970192
+79259_0095_00071;71;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.212008;46.969571
+79259_0095_00024;24;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211957;46.96435
+79259_0115_00011;11;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.214949;46.963437
+79259_0085_00009;9;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.214391;46.965142
+79259_0040_00033;33;;Route du Chatellier;79100;79259;Saint-Jean-de-Thouars;;;-0.205504;46.961232
+79259_0100_00050;50;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210877;46.967205
+79259_0115_00091;91;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.2202;46.956299
+79259_0110_00003_bis;3;bis;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.212907;46.970111
+79259_0025_00030;30;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.214608;46.959737
+79259_0155_00007;7;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.208864;46.971086
+79259_0142_00011;11;;Rue du Roi Lothaire;79100;79259;Saint-Jean-de-Thouars;;;-0.207823;46.972105
+79259_0075_00025;25;;Route de Missé;79100;79259;Saint-Jean-de-Thouars;;;-0.204639;46.959726
+79259_0130_00004_bis;4;bis;Rue du Pont des Chouans;79100;79259;Saint-Jean-de-Thouars;;;-0.212726;46.970488
+79259_0105_00007;7;;Avenue Paul Gallot;79100;79259;Saint-Jean-de-Thouars;;;-0.213091;46.964009
+79259_0140_00008;8;;Chemin de la Rivière;79100;79259;Saint-Jean-de-Thouars;;;-0.2138;46.965167
+79259_0045_00008;8;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.207624;46.968723
+79259_0022_00003;3;;Chemin des Baucains;79100;79259;Saint-Jean-de-Thouars;;;-0.220129;46.95478
+79259_0115_00075;75;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.219634;46.957293
+79259_0045_00028;28;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.205456;46.966942
+79259_a010_00001;1;;Lotissement les Maisons Blanches;79100;79259;Saint-Jean-de-Thouars;;;-0.21069;46.962026
+79259_0115_00043;43;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.216681;46.960569
+79259_0060_00022;22;;Rue Haute;79100;79259;Saint-Jean-de-Thouars;;;-0.212434;46.964222
+79259_0025_00048;48;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.216675;46.958074
+79259_0025_00137;137;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.230473;46.947623
+79259_0060_00010;10;;Rue Haute;79100;79259;Saint-Jean-de-Thouars;;;-0.212329;46.963467
+79259_0110_00029;29;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.210127;46.971133
+79259_0025_00141;141;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.231498;46.946826
+79259_0145_00007;7;;Route de Saint-Varent;79100;79259;Saint-Jean-de-Thouars;;;-0.211546;46.960268
+79259_0130_00005;5;;Rue du Pont des Chouans;79100;79259;Saint-Jean-de-Thouars;;;-0.213231;46.970583
+79259_0085_00006;6;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.2147;46.965472
+79259_0045_00035;35;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.205499;46.96711
+79259_0005_00003;3;;Place de l'Abbaye;79100;79259;Saint-Jean-de-Thouars;;;-0.214066;46.964591
+79259_0095_00021;21;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211682;46.963821
+79259_0018_00006;6;;Chemin des Barrières;79100;79259;Saint-Jean-de-Thouars;;;-0.217098;46.956759
+79259_0068_00007;7;;Clos Louise de This;79100;79259;Saint-Jean-de-Thouars;;;-0.217131;46.963307
+79259_xq3scf_00003;3;;La Montracée;79100;79259;Saint-Jean-de-Thouars;;;-0.238024;46.93916
+79259_0100_00086;86;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.20966;46.961684
+79259_0110_00009_bis;9;bis;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.21244;46.971276
+79259_0035_00003;3;;Rue du Champ de la Cave;79100;79259;Saint-Jean-de-Thouars;;;-0.211144;46.968977
+79259_xq3scf_00002;2;;La Montracée;79100;79259;Saint-Jean-de-Thouars;;;-0.238127;46.939163
+79259_0047_00008;8;;Rue des Ducs d'Aquitaine;79100;79259;Saint-Jean-de-Thouars;;;-0.206987;46.971952
+79259_0095_00041;41;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211725;46.965737
+79259_0067_00013;13;;Avenue Louis Chêne;79100;79259;Saint-Jean-de-Thouars;;;-0.209461;46.956807
+79259_0150_00008;8;;Chemin du Tour Girault;79100;79259;Saint-Jean-de-Thouars;;;-0.214956;46.962069
+79259_0115_00005;5;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.214785;46.963674
+79259_0025_00125;125;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.228359;46.949291
+79259_0022_00011;11;;Chemin des Baucains;79100;79259;Saint-Jean-de-Thouars;;;-0.218627;46.954484
+79259_0085_00027;27;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.216291;46.966464
+79259_0065_00006;6;;Rue Isabelle de Vivonne;79100;79259;Saint-Jean-de-Thouars;;;-0.212894;46.965795
+79259_a010_00004;4;;Lotissement les Maisons Blanches;79100;79259;Saint-Jean-de-Thouars;;;-0.210497;46.961943
+79259_0066_00005;5;;Rue Jean Derouitteau;79100;79259;Saint-Jean-de-Thouars;;;-0.217769;46.963323
+79259_0052_00002;2;;Route de la Gare;79100;79259;Saint-Jean-de-Thouars;;;-0.230202;46.948153
+79259_0040_00020;20;;Route du Chatellier;79100;79259;Saint-Jean-de-Thouars;;;-0.209621;46.961314
+79259_0037_00013;13;;Rue Charles Ragot;79100;79259;Saint-Jean-de-Thouars;;;-0.219791;46.962606
+79259_0085_00015;15;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.214855;46.965487
+79259_0142_00003;3;;Rue du Roi Lothaire;79100;79259;Saint-Jean-de-Thouars;;;-0.207695;46.971356
+79259_0045_00032;32;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.20532;46.966573
+79259_0052_00001;1;;Route de la Gare;79100;79259;Saint-Jean-de-Thouars;;;-0.228318;46.951298
+79259_0155_00035;35;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.204709;46.969174
+79259_0085_00001;1;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.214054;46.964683
+79259_0095_00005;5;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211744;46.962751
+79259_5ax3bi_00001;1;;La Loge;79100;79259;Saint-Jean-de-Thouars;;;-0.238215;46.941169
+79259_a006_00011;11;;Lotissement la Cornière;79100;79259;Saint-Jean-de-Thouars;;;-0.206051;46.960247
+79259_0125_00011;11;;Rue des Pineaux;79100;79259;Saint-Jean-de-Thouars;;;-0.208706;46.962886
+79259_0045_00039;39;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.205312;46.966772
+79259_0067_00010;10;;Avenue Louis Chêne;79100;79259;Saint-Jean-de-Thouars;;;-0.208903;46.956505
+79259_0142_00001;1;;Rue du Roi Lothaire;79100;79259;Saint-Jean-de-Thouars;;;-0.207698;46.97116
+79259_0030_00009;9;;Route du Canton de Juillet;79100;79259;Saint-Jean-de-Thouars;;;-0.20995;46.960331
+79259_0045_00031;31;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.205847;46.967477
+79259_0060_00017;17;;Rue Haute;79100;79259;Saint-Jean-de-Thouars;;;-0.212505;46.964158
+79259_0025_00055_bis;55;bis;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.218508;46.956497
+79259_0015_00005;5;;Rue Ambroise Joubert;79100;79259;Saint-Jean-de-Thouars;;;-0.211561;46.97199
+79259_0095_00013;13;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.21167;46.963408
+79259_0095_00080;80;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.2119;46.96952
+79259_0095_00040;40;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211649;46.965275
+79259_0045_00010_bis;10;bis;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.207003;46.968412
+79259_0120_00033;33;;Rue Philippe Chasteigner;79100;79259;Saint-Jean-de-Thouars;;;-0.212139;46.967776
+79259_0055_00025;25;;Rue de la Grande Coeille;79100;79259;Saint-Jean-de-Thouars;;;-0.218742;46.964055
+79259_0095_00053;53;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211835;46.968336
+79259_0035_00005;5;;Rue du Champ de la Cave;79100;79259;Saint-Jean-de-Thouars;;;-0.210728;46.969021
+79259_0010_00011;11;;Rue Agnès de Rochechouart;79100;79259;Saint-Jean-de-Thouars;;;-0.21035;46.971029
+79259_0025_00019;19;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.212289;46.961379
+79259_0118_00004;4;;Impasse des Peupliers;79100;79259;Saint-Jean-de-Thouars;;;-0.208444;46.960636
+79259_0125_00016;16;;Rue des Pineaux;79100;79259;Saint-Jean-de-Thouars;;;-0.208928;46.962675
+79259_0137_00014;14;;Clos de la République;79100;79259;Saint-Jean-de-Thouars;;;-0.217875;46.958306
+79259_0130_00007;7;;Rue du Pont des Chouans;79100;79259;Saint-Jean-de-Thouars;;;-0.213392;46.970628
+79259_0066_00001;1;;Rue Jean Derouitteau;79100;79259;Saint-Jean-de-Thouars;;;-0.217946;46.962767
+79259_0055_00011;11;;Rue de la Grande Coeille;79100;79259;Saint-Jean-de-Thouars;;;-0.216527;46.963788
+79259_0137_00015;15;;Clos de la République;79100;79259;Saint-Jean-de-Thouars;;;-0.217488;46.958715
+79259_0120_00011;11;;Rue Philippe Chasteigner;79100;79259;Saint-Jean-de-Thouars;;;-0.212805;46.965588
+79259_0066_00006;6;;Rue Jean Derouitteau;79100;79259;Saint-Jean-de-Thouars;;;-0.217726;46.963471
+79259_0115_00038;38;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.216464;46.96222
+79259_0120_00029;29;;Rue Philippe Chasteigner;79100;79259;Saint-Jean-de-Thouars;;;-0.212475;46.9673
+79259_0100_00068;68;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210429;46.96476
+79259_0095_00065;65;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211908;46.969315
+79259_0045_00018;18;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.206249;46.967785
+79259_0140_00029;29;;Chemin de la Rivière;79100;79259;Saint-Jean-de-Thouars;;;-0.212907;46.969585
+79259_0050_00007;7;;Chemin des Fonds Jarry;79100;79259;Saint-Jean-de-Thouars;;;-0.209508;46.965593
+79259_0067_00017;17;;Avenue Louis Chêne;79100;79259;Saint-Jean-de-Thouars;;;-0.208654;46.956595
+79259_0125_00012;12;;Rue des Pineaux;79100;79259;Saint-Jean-de-Thouars;;;-0.208744;46.96306
+79259_0115_00021;21;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.21629;46.962124
+79259_0095_00055_bis;55;bis;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.21184;46.968605
+79259_a006_00010;10;;Lotissement la Cornière;79100;79259;Saint-Jean-de-Thouars;;;-0.205931;46.960415
+79259_0060_00019;19;;Rue Haute;79100;79259;Saint-Jean-de-Thouars;;;-0.212598;46.964255
+79259_0115_00037;37;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.216903;46.960742
+79259_0040_00007;7;;Route du Chatellier;79100;79259;Saint-Jean-de-Thouars;;;-0.210149;46.961422
+79259_a008_00007;7;;Lotissement les Fileries;79100;79259;Saint-Jean-de-Thouars;;;-0.209599;46.971806
+79259_0120_00021;21;;Rue Philippe Chasteigner;79100;79259;Saint-Jean-de-Thouars;;;-0.212843;46.966307
+79259_0005_00006;6;;Place de l'Abbaye;79100;79259;Saint-Jean-de-Thouars;;;-0.213892;46.964508
+79259_0135_00008;8;;Chemin du Pré Chambert;79100;79259;Saint-Jean-de-Thouars;;;-0.213937;46.971138
+79259_0058_00001;1;;Rue des Gruches;79100;79259;Saint-Jean-de-Thouars;;;-0.211478;46.959888
+79259_0100_00067;67;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210369;46.96523
+79259_0100_00085;85;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.209669;46.962924
+79259_0115_00049;49;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.217909;46.9609
+79259_0015_00002;2;;Rue Ambroise Joubert;79100;79259;Saint-Jean-de-Thouars;;;-0.21145;46.971852
+79259_0110_00018;18;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.209906;46.970802
+79259_0066_00003;3;;Rue Jean Derouitteau;79100;79259;Saint-Jean-de-Thouars;;;-0.217865;46.963044
+79259_a004_00006;6;;Lotissement le Clos du Vicomte;79100;79259;Saint-Jean-de-Thouars;;;-0.210118;46.966516
+79259_a004_00002;2;;Lotissement le Clos du Vicomte;79100;79259;Saint-Jean-de-Thouars;;;-0.210403;46.96639
+79259_0040_00028;28;;Route du Chatellier;79100;79259;Saint-Jean-de-Thouars;;;-0.206853;46.960826
+79259_0095_00065_bis;65;bis;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211943;46.969357
+79259_0137_00002;2;;Clos de la République;79100;79259;Saint-Jean-de-Thouars;;;-0.218913;46.957199
+79259_0125_00001_ter;1;ter;Rue des Pineaux;79100;79259;Saint-Jean-de-Thouars;;;-0.207998;46.964009
+79259_0018_00004;4;;Chemin des Barrières;79100;79259;Saint-Jean-de-Thouars;;;-0.217102;46.956974
+79259_0023_00013;13;;Avenue du Bois de la Dame;79100;79259;Saint-Jean-de-Thouars;;;-0.209812;46.957843
+79259_a008_00012;12;;Lotissement les Fileries;79100;79259;Saint-Jean-de-Thouars;;;-0.209521;46.972085
+79259_0068_00001;1;;Clos Louise de This;79100;79259;Saint-Jean-de-Thouars;;;-0.217079;46.962474
+79259_0055_00014;14;;Rue de la Grande Coeille;79100;79259;Saint-Jean-de-Thouars;;;-0.217218;46.964025
+79259_0025_00035;35;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.214652;46.959517
+79259_0047_00005;5;;Rue des Ducs d'Aquitaine;79100;79259;Saint-Jean-de-Thouars;;;-0.207183;46.972066
+79259_0095_00042;42;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211575;46.965292
+79259_0075_00023;23;;Route de Missé;79100;79259;Saint-Jean-de-Thouars;;;-0.205187;46.958943
+79259_0025_00143;143;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.231604;46.946652
+79259_0110_00009;9;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.212225;46.97126
+79259_a010_00002;2;;Lotissement les Maisons Blanches;79100;79259;Saint-Jean-de-Thouars;;;-0.210386;46.962028
+79259_0023_00011;11;;Avenue du Bois de la Dame;79100;79259;Saint-Jean-de-Thouars;;;-0.209727;46.958341
+79259_0056_00001;1;;Impasse du Grand Cornet;79100;79259;Saint-Jean-de-Thouars;;;-0.223168;46.953029
+79259_0110_00019;19;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.210771;46.97135
+79259_0115_00022;22;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.215337;46.963196
+79259_0095_00057;57;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211814;46.968799
+79259_0100_00077;77;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.209732;46.963766
+79259_0095_00003;3;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211824;46.9623
+79259_0010_00006_bis;6;bis;Rue Agnès de Rochechouart;79100;79259;Saint-Jean-de-Thouars;;;-0.210941;46.970206
+79259_0085_00018;18;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.215741;46.966315
+79259_a008_00009;9;;Lotissement les Fileries;79100;79259;Saint-Jean-de-Thouars;;;-0.209632;46.971959
+79259_0137_00003;3;;Clos de la République;79100;79259;Saint-Jean-de-Thouars;;;-0.218483;46.957468
+79259_0040_00022;22;;Route du Chatellier;79100;79259;Saint-Jean-de-Thouars;;;-0.208631;46.961142
+79259_0118_00001;1;;Impasse des Peupliers;79100;79259;Saint-Jean-de-Thouars;;;-0.20863;46.960394
+79259_0025_00053_bis;53;bis;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.218056;46.956865
+79259_0130_00016;16;;Rue du Pont des Chouans;79100;79259;Saint-Jean-de-Thouars;;;-0.213155;46.97071
+79259_0100_00045;45;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210169;46.968369
+79259_a010_00003;3;;Lotissement les Maisons Blanches;79100;79259;Saint-Jean-de-Thouars;;;-0.210223;46.961898
+79259_0135_00010;10;;Chemin du Pré Chambert;79100;79259;Saint-Jean-de-Thouars;;;-0.214233;46.971472
+79259_0037_00006;6;;Rue Charles Ragot;79100;79259;Saint-Jean-de-Thouars;;;-0.217763;46.962439
+79259_0066_00010;10;;Rue Jean Derouitteau;79100;79259;Saint-Jean-de-Thouars;;;-0.217974;46.963114
+79259_0095_00035;35;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211911;46.965155
+79259_0115_00053;53;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.218427;46.959682
+79259_0069_00006;6;;Rue Maître Pierre Bellanger;79100;79259;Saint-Jean-de-Thouars;;;-0.210935;46.955983
+79259_0025_00146;146;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.231933;46.945801
+79259_0054_00005;5;;Chemin du Grand Cornet;79100;79259;Saint-Jean-de-Thouars;;;-0.221811;46.955045
+79259_0130_00014;14;;Rue du Pont des Chouans;79100;79259;Saint-Jean-de-Thouars;;;-0.213048;46.970656
+79259_0145_00020;20;;Route de Saint-Varent;79100;79259;Saint-Jean-de-Thouars;;;-0.211915;46.959759
+79259_0145_00016;16;;Route de Saint-Varent;79100;79259;Saint-Jean-de-Thouars;;;-0.211781;46.960122
+79259_0100_00064;64;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210675;46.965216
+79259_0100_00081;81;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.209781;46.963284
+79259_a006_00005;5;;Lotissement la Cornière;79100;79259;Saint-Jean-de-Thouars;;;-0.206261;46.96032
+79259_0052_00007;7;;Route de la Gare;79100;79259;Saint-Jean-de-Thouars;;;-0.229949;46.946787
+79259_0052_00006;6;;Route de la Gare;79100;79259;Saint-Jean-de-Thouars;;;-0.230281;46.947325
+79259_a002_00006;6;;Lotissement Bellevue;79100;79259;Saint-Jean-de-Thouars;;;-0.209618;46.967976
+79259_0005_00008;8;;Place de l'Abbaye;79100;79259;Saint-Jean-de-Thouars;;;-0.213644;46.96429
+79259_0120_00002;2;;Rue Philippe Chasteigner;79100;79259;Saint-Jean-de-Thouars;;;-0.21313;46.964317
+79259_0125_00009;9;;Rue des Pineaux;79100;79259;Saint-Jean-de-Thouars;;;-0.208652;46.963065
+79259_0023_00002;2;;Avenue du Bois de la Dame;79100;79259;Saint-Jean-de-Thouars;;;-0.209957;46.958733
+79259_0085_00016;16;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.215581;46.966157
+79259_0120_00019;19;;Rue Philippe Chasteigner;79100;79259;Saint-Jean-de-Thouars;;;-0.212843;46.966102
+79259_0025_00027;27;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.213182;46.960687
+79259_0035_00008;8;;Rue du Champ de la Cave;79100;79259;Saint-Jean-de-Thouars;;;-0.210326;46.969023
+79259_0040_00024;24;;Route du Chatellier;79100;79259;Saint-Jean-de-Thouars;;;-0.207365;46.960843
+79259_0047_00001;1;;Rue des Ducs d'Aquitaine;79100;79259;Saint-Jean-de-Thouars;;;-0.207343;46.97154
+79259_0138_00003;3;;Rue René Arnault;79100;79259;Saint-Jean-de-Thouars;;;-0.218932;46.963089
+79259_0025_00014;14;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.212552;46.961291
+79259_a006_00009;9;;Lotissement la Cornière;79100;79259;Saint-Jean-de-Thouars;;;-0.205634;46.96065
+79259_0100_00091;91;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.209326;46.961988
+79259_0138_00002;2;;Rue René Arnault;79100;79259;Saint-Jean-de-Thouars;;;-0.218688;46.963044
+79259_0127_00002;2;;Rue de la Plaine;79100;79259;Saint-Jean-de-Thouars;;;-0.219154;46.962647
+79259_0085_00004;4;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.214142;46.96494
+79259_g8t7up_00001;1;;Beaupreau;79100;79259;Saint-Jean-de-Thouars;;;-0.218002;46.948612
+79259_0085_00010;10;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.215179;46.965829
+79259_0110_00026;26;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.209498;46.970144
+79259_0055_00015;15;;Rue de la Grande Coeille;79100;79259;Saint-Jean-de-Thouars;;;-0.21716;46.963925
+79259_0130_00010;10;;Rue du Pont des Chouans;79100;79259;Saint-Jean-de-Thouars;;;-0.212896;46.970592
+79259_0025_00020;20;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.213812;46.960306
+79259_0125_00014;14;;Rue des Pineaux;79100;79259;Saint-Jean-de-Thouars;;;-0.208814;46.962903
+79259_0045_00024;24;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.205657;46.967167
+79259_0025_00039;39;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.215237;46.959077
+79259_0137_00008;8;;Clos de la République;79100;79259;Saint-Jean-de-Thouars;;;-0.218381;46.957732
+79259_0140_00004;4;;Chemin de la Rivière;79100;79259;Saint-Jean-de-Thouars;;;-0.213865;46.964794
+79259_0045_00027;27;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.206162;46.967792
+79259_0054_00001;1;;Chemin du Grand Cornet;79100;79259;Saint-Jean-de-Thouars;;;-0.220842;46.955577
+79259_0055_00012;12;;Rue de la Grande Coeille;79100;79259;Saint-Jean-de-Thouars;;;-0.216924;46.963997
+79259_0140_00006;6;;Chemin de la Rivière;79100;79259;Saint-Jean-de-Thouars;;;-0.213848;46.965045
+79259_0045_00007;7;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.207671;46.968794
+79259_0120_00025;25;;Rue Philippe Chasteigner;79100;79259;Saint-Jean-de-Thouars;;;-0.212752;46.966743
+79259_0140_00030;30;;Chemin de la Rivière;79100;79259;Saint-Jean-de-Thouars;;;-0.212831;46.96944
+79259_0085_00019;19;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.215097;46.965666
+79259_0115_00032;32;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.215846;46.962728
+79259_0045_00014;14;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.206487;46.968046
+79259_0056_00002;2;;Impasse du Grand Cornet;79100;79259;Saint-Jean-de-Thouars;;;-0.223555;46.952728
+79259_0145_00010;10;;Route de Saint-Varent;79100;79259;Saint-Jean-de-Thouars;;;-0.211575;46.960682
+79259_0115_00019;19;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.216071;46.962306
+79259_0023_00019;19;;Avenue du Bois de la Dame;79100;79259;Saint-Jean-de-Thouars;;;-0.210169;46.957141
+79259_0050_00015;15;;Chemin des Fonds Jarry;79100;79259;Saint-Jean-de-Thouars;;;-0.208952;46.965485
+79259_g8t7up_00004;4;;Beaupreau;79100;79259;Saint-Jean-de-Thouars;;;-0.215133;46.948545
+79259_0030_00007;7;;Route du Canton de Juillet;79100;79259;Saint-Jean-de-Thouars;;;-0.210109;46.96041
+79259_0110_00005;5;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.212682;46.970187
+79259_0155_00013;13;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.208085;46.971068
+79259_0045_00041;41;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.205213;46.966499
+79259_0127_00003;3;;Rue de la Plaine;79100;79259;Saint-Jean-de-Thouars;;;-0.219064;46.962539
+79259_0155_00033;33;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.204861;46.969424
+79259_0105_00015;15;;Avenue Paul Gallot;79100;79259;Saint-Jean-de-Thouars;;;-0.212988;46.963601
+79259_0130_00003;3;;Rue du Pont des Chouans;79100;79259;Saint-Jean-de-Thouars;;;-0.21286;46.970458
+79259_0145_00001;1;;Route de Saint-Varent;79100;79259;Saint-Jean-de-Thouars;;;-0.211522;46.961795
+79259_0085_00021;21;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.215509;46.96599
+79259_0142_00005;5;;Rue du Roi Lothaire;79100;79259;Saint-Jean-de-Thouars;;;-0.207737;46.971567
+79259_0051_00021;21;;Rue Henri de France;79100;79259;Saint-Jean-de-Thouars;;;-0.217441;46.96438
+79259_0100_00025;25;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.207624;46.970467
+79259_0095_00019;19;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211682;46.963685
+79259_0125_00003;3;;Rue des Pineaux;79100;79259;Saint-Jean-de-Thouars;;;-0.208196;46.963869
+79259_a006_00012;12;;Lotissement la Cornière;79100;79259;Saint-Jean-de-Thouars;;;-0.206113;46.960025
+79259_a004_00009;9;;Lotissement le Clos du Vicomte;79100;79259;Saint-Jean-de-Thouars;;;-0.209794;46.966997
+79259_0100_00027;27;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.208203;46.970022
+79259_0105_00011;11;;Avenue Paul Gallot;79100;79259;Saint-Jean-de-Thouars;;;-0.213056;46.963837
+79259_0155_00005;5;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.209;46.971084
+79259_0110_00027;27;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.210219;46.971199
+79259_0047_00012;12;;Rue des Ducs d'Aquitaine;79100;79259;Saint-Jean-de-Thouars;;;-0.207188;46.972173
+79259_0039_00009;9;;Rue du Chêne Vert;79100;79259;Saint-Jean-de-Thouars;;;-0.217514;46.959871
+79259_0095_00039;39;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.21179;46.965505
+79259_0068_00006;6;;Clos Louise de This;79100;79259;Saint-Jean-de-Thouars;;;-0.217094;46.963148
+79259_0010_00008;8;;Rue Agnès de Rochechouart;79100;79259;Saint-Jean-de-Thouars;;;-0.21083;46.970967
+79259_0155_00024;24;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.206215;46.970264
+79259_0155_00029;29;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.205334;46.969892
+79259_0120_00027;27;;Rue Philippe Chasteigner;79100;79259;Saint-Jean-de-Thouars;;;-0.212621;46.96702
+79259_0135_00004;4;;Chemin du Pré Chambert;79100;79259;Saint-Jean-de-Thouars;;;-0.213706;46.97102
+79259_0115_00008;8;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.214744;46.963798
+79259_0055_00021;21;;Rue de la Grande Coeille;79100;79259;Saint-Jean-de-Thouars;;;-0.218202;46.964011
+79259_0135_00002;2;;Chemin du Pré Chambert;79100;79259;Saint-Jean-de-Thouars;;;-0.213371;46.970827
+79259_0025_00002_bis;2;bis;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.210505;46.962884
+79259_0115_00073;73;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.219515;46.957546
+79259_0105_00019;19;;Avenue Paul Gallot;79100;79259;Saint-Jean-de-Thouars;;;-0.212781;46.963506
+79259_0095_00076;76;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211804;46.969348
+79259_0043_00011;11;;Chemin du 19 Mars 1962;79100;79259;Saint-Jean-de-Thouars;;;-0.216595;46.959626
+79259_0115_00069;69;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.219257;46.957871
+79259_0045_00009;9;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.207279;46.968671
+79259_0066_00008;8;;Rue Jean Derouitteau;79100;79259;Saint-Jean-de-Thouars;;;-0.217916;46.963415
+79259_0030_00006;6;;Route du Canton de Juillet;79100;79259;Saint-Jean-de-Thouars;;;-0.209396;46.959984
+79259_0023_00007;7;;Avenue du Bois de la Dame;79100;79259;Saint-Jean-de-Thouars;;;-0.210042;46.95912
+79259_0025_00018;18;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.213513;46.960539
+79259_0005_00005;5;;Place de l'Abbaye;79100;79259;Saint-Jean-de-Thouars;;;-0.213934;46.964572
+79259_0145_00009;9;;Route de Saint-Varent;79100;79259;Saint-Jean-de-Thouars;;;-0.211826;46.959553
+79259_0095_00009;9;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211783;46.963056
+79259_0025_00046;46;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.21624;46.958424
+79259_0130_00004;4;;Rue du Pont des Chouans;79100;79259;Saint-Jean-de-Thouars;;;-0.212667;46.970453
+79259_0045_00037;37;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.205392;46.966942
+79259_0115_00025;25;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.216473;46.961524
+79259_0085_00012;12;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.215242;46.965887
+79259_0100_00087;87;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.209613;46.962755
+79259_0095_00064;64;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211734;46.968225
+79259_a006_00002;2;;Lotissement la Cornière;79100;79259;Saint-Jean-de-Thouars;;;-0.20622;46.959702
+79259_a008_00004;4;;Lotissement les Fileries;79100;79259;Saint-Jean-de-Thouars;;;-0.209399;46.9714
+79259_0145_00012;12;;Route de Saint-Varent;79100;79259;Saint-Jean-de-Thouars;;;-0.211646;46.960507
+79259_0045_00002_bis;2;bis;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.208357;46.968984
+79259_0137_00011;11;;Clos de la République;79100;79259;Saint-Jean-de-Thouars;;;-0.218013;46.957955
+79259_0067_00009;9;;Avenue Louis Chêne;79100;79259;Saint-Jean-de-Thouars;;;-0.21068;46.957077
+79259_0050_00003;3;;Chemin des Fonds Jarry;79100;79259;Saint-Jean-de-Thouars;;;-0.210047;46.965731
+79259_0030_00001;1;;Route du Canton de Juillet;79100;79259;Saint-Jean-de-Thouars;;;-0.211033;46.961029
+79259_0095_00008;8;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211644;46.962855
+79259_0045_00016;16;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.206422;46.967941
+79259_0025_00028;28;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.214444;46.959868
+79259_0142_00009;9;;Rue du Roi Lothaire;79100;79259;Saint-Jean-de-Thouars;;;-0.207892;46.97195
+79259_0020_00012;12;;Rue Bonneval;79100;79259;Saint-Jean-de-Thouars;;;-0.213214;46.965301
+79259_a006_00007;7;;Lotissement la Cornière;79100;79259;Saint-Jean-de-Thouars;;;-0.206345;46.960652
+79259_0030_00004;4;;Route du Canton de Juillet;79100;79259;Saint-Jean-de-Thouars;;;-0.210248;46.960301
+79259_0045_00013;13;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.20718;46.968613
+79259_0070_00002;2;;Rue Marcheteau;79100;79259;Saint-Jean-de-Thouars;;;-0.212016;46.963003
+79259_0105_00001;1;;Avenue Paul Gallot;79100;79259;Saint-Jean-de-Thouars;;;-0.213137;46.964243
+79259_0040_00024_bis;24;bis;Route du Chatellier;79100;79259;Saint-Jean-de-Thouars;;;-0.207164;46.960667
+79259_0120_00022;22;;Rue Philippe Chasteigner;79100;79259;Saint-Jean-de-Thouars;;;-0.212562;46.966928
+79259_0005_00004;4;;Place de l'Abbaye;79100;79259;Saint-Jean-de-Thouars;;;-0.213963;46.964613
+79259_0115_00031;31;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.217234;46.961444
+79259_g8t7up_00002;2;;Beaupreau;79100;79259;Saint-Jean-de-Thouars;;;-0.216983;46.948522
+79259_0095_00015;15;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211663;46.963484
+79259_0055_00013;13;;Rue de la Grande Coeille;79100;79259;Saint-Jean-de-Thouars;;;-0.216846;46.96386
+79259_0105_00017;17;;Avenue Paul Gallot;79100;79259;Saint-Jean-de-Thouars;;;-0.212797;46.963532
+79259_0095_00051;51;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211826;46.968255
+79259_0120_00015;15;;Rue Philippe Chasteigner;79100;79259;Saint-Jean-de-Thouars;;;-0.212817;46.965859
+79259_0045_00036;36;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.204848;46.966116
+79259_0115_00033;33;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.217409;46.961334
+79259_0127_00008;8;;Rue de la Plaine;79100;79259;Saint-Jean-de-Thouars;;;-0.219287;46.962359
+79259_0040_00001;1;;Route du Chatellier;79100;79259;Saint-Jean-de-Thouars;;;-0.211196;46.961571
+79259_0156_00004;4;;Impasse du Clos de la Vigne;79100;79259;Saint-Jean-de-Thouars;;;-0.208389;46.970445
+79259_a006_00003;3;;Lotissement la Cornière;79100;79259;Saint-Jean-de-Thouars;;;-0.206181;46.95993
+79259_0058_00006;6;;Rue des Gruches;79100;79259;Saint-Jean-de-Thouars;;;-0.211477;46.959839
+79259_0115_00061;61;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.218767;46.958618
+79259_0030_00011;11;;Route du Canton de Juillet;79100;79259;Saint-Jean-de-Thouars;;;-0.209653;46.960185
+79259_0137_00009;9;;Clos de la République;79100;79259;Saint-Jean-de-Thouars;;;-0.218172;46.957784
+79259_0115_00002;2;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.214462;46.964129
+79259_a002_00003;3;;Lotissement Bellevue;79100;79259;Saint-Jean-de-Thouars;;;-0.209366;46.968382
+79259_0023_00015;15;;Avenue du Bois de la Dame;79100;79259;Saint-Jean-de-Thouars;;;-0.209997;46.957474
+79259_0075_00015;15;;Route de Missé;79100;79259;Saint-Jean-de-Thouars;;;-0.206606;46.959421
+79259_a004_00010;10;;Lotissement le Clos du Vicomte;79100;79259;Saint-Jean-de-Thouars;;;-0.209985;46.966916
+79259_0047_00007;7;;Rue des Ducs d'Aquitaine;79100;79259;Saint-Jean-de-Thouars;;;-0.207578;46.972212
+79259_0018_00012;12;;Chemin des Barrières;79100;79259;Saint-Jean-de-Thouars;;;-0.216916;46.956211
+79259_0137_00013;13;;Clos de la République;79100;79259;Saint-Jean-de-Thouars;;;-0.21752;46.958469
+79259_0120_00023;23;;Rue Philippe Chasteigner;79100;79259;Saint-Jean-de-Thouars;;;-0.212846;46.96656
+79259_0105_00005;5;;Avenue Paul Gallot;79100;79259;Saint-Jean-de-Thouars;;;-0.213106;46.964096
+79259_0025_00007;7;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.210848;46.962502
+79259_0045_00038;38;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.20464;46.966002
+79259_a008_00005;5;;Lotissement les Fileries;79100;79259;Saint-Jean-de-Thouars;;;-0.209479;46.971671
+79259_0045_00022;22;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.205964;46.967471
+79259_0030_00011_bis;11;bis;Route du Canton de Juillet;79100;79259;Saint-Jean-de-Thouars;;;-0.209399;46.960054
+79259_a008_00011;11;;Lotissement les Fileries;79100;79259;Saint-Jean-de-Thouars;;;-0.20983;46.972153
+79259_0025_00134;134;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.228432;46.947789
+79259_0135_00044;44;;Chemin du Pré Chambert;79100;79259;Saint-Jean-de-Thouars;;;-0.208507;46.972461
+79259_0110_00035;35;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.209364;46.970243
+79259_0060_00020;20;;Rue Haute;79100;79259;Saint-Jean-de-Thouars;;;-0.212176;46.964192
+79259_0035_00009;9;;Rue du Champ de la Cave;79100;79259;Saint-Jean-de-Thouars;;;-0.210178;46.969257
+79259_0140_00024;24;;Chemin de la Rivière;79100;79259;Saint-Jean-de-Thouars;;;-0.212798;46.968593
+79259_0100_00078;78;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.209689;46.962385
+79259_0045_00033;33;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.205673;46.967294
+79259_0155_00008;8;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.208863;46.97102
+79259_0145_00014;14;;Route de Saint-Varent;79100;79259;Saint-Jean-de-Thouars;;;-0.211704;46.960331
+79259_0068_00011;11;;Clos Louise de This;79100;79259;Saint-Jean-de-Thouars;;;-0.217353;46.962849
+79259_0125_00008;8;;Rue des Pineaux;79100;79259;Saint-Jean-de-Thouars;;;-0.208567;46.963439
+79259_0095_00048;48;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211459;46.966438
+79259_0045_00049;49;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.204355;46.965858
+79259_0039_00004;4;;Rue du Chêne Vert;79100;79259;Saint-Jean-de-Thouars;;;-0.217099;46.960066
+79259_0095_00067;67;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211956;46.969389
+79259_0025_00029;29;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.213623;46.960341
+79259_0067_00008;8;;Avenue Louis Chêne;79100;79259;Saint-Jean-de-Thouars;;;-0.209739;46.956718
+79259_0075_00001;1;;Route de Missé;79100;79259;Saint-Jean-de-Thouars;;;-0.208346;46.959879
+79259_0065_00007;7;;Rue Isabelle de Vivonne;79100;79259;Saint-Jean-de-Thouars;;;-0.212946;46.965885
+79259_0055_00017;17;;Rue de la Grande Coeille;79100;79259;Saint-Jean-de-Thouars;;;-0.217511;46.963955
+79259_0115_00016;16;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.215026;46.963584
+79259_0045_00030;30;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.205512;46.966724
+79259_0127_00007;7;;Rue de la Plaine;79100;79259;Saint-Jean-de-Thouars;;;-0.219155;46.962342
+79259_0095_00055;55;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211844;46.968511
+79259_0045_00045;45;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.204883;46.966181
+79259_a002_00008;8;;Lotissement Bellevue;79100;79259;Saint-Jean-de-Thouars;;;-0.209467;46.968368
+79259_0156_00001;1;;Impasse du Clos de la Vigne;79100;79259;Saint-Jean-de-Thouars;;;-0.208246;46.970894
+79259_0115_00004;4;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.214616;46.963999
+79259_0045_00015;15;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.206997;46.968526
+79259_0035_00013;13;;Rue du Champ de la Cave;79100;79259;Saint-Jean-de-Thouars;;;-0.209726;46.96951
+79259_0060_00002;2;;Rue Haute;79100;79259;Saint-Jean-de-Thouars;;;-0.212492;46.962906
+79259_0075_00003;3;;Route de Missé;79100;79259;Saint-Jean-de-Thouars;;;-0.207761;46.959763
+79259_0045_00010;10;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.207135;46.968506
+79259_0045_00005;5;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.20814;46.968974
+79259_0115_00067;67;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.219132;46.958031
+79259_0115_00006;6;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.214711;46.963866
+79259_0140_00007;7;;Chemin de la Rivière;79100;79259;Saint-Jean-de-Thouars;;;-0.213556;46.965644
+79259_0155_00031;31;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.205098;46.969684
+79259_0075_00017;17;;Route de Missé;79100;79259;Saint-Jean-de-Thouars;;;-0.206167;46.959305
+79259_0155_00030;30;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.205245;46.969727
+79259_0010_00006;6;;Rue Agnès de Rochechouart;79100;79259;Saint-Jean-de-Thouars;;;-0.21117;46.970256
+79259_0120_00014;14;;Rue Philippe Chasteigner;79100;79259;Saint-Jean-de-Thouars;;;-0.212717;46.965486
+79259_0156_00003;3;;Impasse du Clos de la Vigne;79100;79259;Saint-Jean-de-Thouars;;;-0.208365;46.97059
+79259_0090_00004;4;;Impasse de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211457;46.963086
+79259_0115_00034;34;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.215915;46.962626
+79259_0138_00006;6;;Rue René Arnault;79100;79259;Saint-Jean-de-Thouars;;;-0.218422;46.962942
+79259_a008_00006;6;;Lotissement les Fileries;79100;79259;Saint-Jean-de-Thouars;;;-0.209321;46.971595
+79259_0115_00051;51;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.218327;46.959929
+79259_0110_00037;37;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.209275;46.969833
+79259_0023_00006;6;;Avenue du Bois de la Dame;79100;79259;Saint-Jean-de-Thouars;;;-0.210056;46.957773
+79259_0095_00074;74;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.21164;46.969001
+79259_0145_00013;13;;Route de Saint-Varent;79100;79259;Saint-Jean-de-Thouars;;;-0.211961;46.959068
+79259_0090_00002;2;;Impasse de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211139;46.96322
+79259_0085_00017;17;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.214976;46.965575
+79259_0095_00072;72;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211688;46.968867
+79259_0045_00047;47;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.204603;46.966025
+79259_0135_00028;28;;Chemin du Pré Chambert;79100;79259;Saint-Jean-de-Thouars;;;-0.210998;46.972065
+79259_0058_00003;3;;Rue des Gruches;79100;79259;Saint-Jean-de-Thouars;;;-0.210979;46.959773
+79259_0055_00005;5;;Rue de la Grande Coeille;79100;79259;Saint-Jean-de-Thouars;;;-0.215658;46.963521
+79259_0005_00002;2;;Place de l'Abbaye;79100;79259;Saint-Jean-de-Thouars;;;-0.214141;46.96444
+79259_0115_00035;35;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.217673;46.96115
+79259_0125_00007_bis;7;bis;Rue des Pineaux;79100;79259;Saint-Jean-de-Thouars;;;-0.208502;46.963313
+79259_0025_00004;4;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.210639;46.962781
+79259_0023_00012;12;;Avenue du Bois de la Dame;79100;79259;Saint-Jean-de-Thouars;;;-0.21034;46.957189
+79259_0127_00010;10;;Rue de la Plaine;79100;79259;Saint-Jean-de-Thouars;;;-0.219355;46.962208
+79259_0025_00023;23;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.212658;46.961088
+79259_a006_00008;8;;Lotissement la Cornière;79100;79259;Saint-Jean-de-Thouars;;;-0.206129;46.960427
+79259_0110_00015;15;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.211269;46.971367
+79259_0135_00016;16;;Chemin du Pré Chambert;79100;79259;Saint-Jean-de-Thouars;;;-0.213546;46.972066
+79259_0047_00004;4;;Rue des Ducs d'Aquitaine;79100;79259;Saint-Jean-de-Thouars;;;-0.20718;46.97161
+79259_0085_00008;8;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.214873;46.965605
+79259_0025_00032;32;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.2149;46.959505
+79259_0115_00029;29;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.217136;46.961525
+79259_0142_00004;4;;Rue du Roi Lothaire;79100;79259;Saint-Jean-de-Thouars;;;-0.20769;46.971868
+79259_0025_00132;132;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.228401;46.947887
+79259_0058_00004;4;;Rue des Gruches;79100;79259;Saint-Jean-de-Thouars;;;-0.211062;46.959549
+79259_a002_00007;7;;Lotissement Bellevue;79100;79259;Saint-Jean-de-Thouars;;;-0.209545;46.968188
+79259_0095_00006;6;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211691;46.962586
+79259_0040_00003;3;;Route du Chatellier;79100;79259;Saint-Jean-de-Thouars;;;-0.210723;46.961498
+79259_0025_00031;31;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.214254;46.959831
+79259_0025_00026;26;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.21427;46.960007
+79259_0125_00001_bis;1;bis;Rue des Pineaux;79100;79259;Saint-Jean-de-Thouars;;;-0.207799;46.96417
+79259_0045_00029;29;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.205992;46.967627
+79259_0127_00011;11;;Rue de la Plaine;79100;79259;Saint-Jean-de-Thouars;;;-0.219286;46.962057
+79259_0067_00002;2;;Avenue Louis Chêne;79100;79259;Saint-Jean-de-Thouars;;;-0.2123;46.957279
+79259_0110_00001;1;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.213161;46.970022
+79259_0045_00004;4;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.208192;46.968945
+79259_0140_00012;12;;Chemin de la Rivière;79100;79259;Saint-Jean-de-Thouars;;;-0.213558;46.9656
+79259_0155_00026;26;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.205735;46.970113
+79259_0068_00010;10;;Clos Louise de This;79100;79259;Saint-Jean-de-Thouars;;;-0.217265;46.962962
+79259_0068_00012;12;;Clos Louise de This;79100;79259;Saint-Jean-de-Thouars;;;-0.217193;46.962798
+79259_0085_00014;14;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.215341;46.965976
+79259_0085_00033;33;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.217462;46.966614
+79259_0085_00035;35;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.217805;46.966654
+79259_0067_00012;12;;Avenue Louis Chêne;79100;79259;Saint-Jean-de-Thouars;;;-0.208477;46.956309
+79259_0085_00020;20;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.215992;46.966465
+79259_0055_00010;10;;Rue de la Grande Coeille;79100;79259;Saint-Jean-de-Thouars;;;-0.216403;46.963836
+79259_0100_00066;66;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210476;46.964909
+79259_0100_00079_bis;79;bis;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.20984;46.963445
+79259_0085_00031;31;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.21711;46.966564
+79259_0127_00013;13;;Rue de la Plaine;79100;79259;Saint-Jean-de-Thouars;;;-0.219345;46.961931
+79259_0100_00063;63;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210588;46.965925
+79259_0137_00010;10;;Clos de la République;79100;79259;Saint-Jean-de-Thouars;;;-0.218195;46.957993
+79259_0127_00004;4;;Rue de la Plaine;79100;79259;Saint-Jean-de-Thouars;;;-0.219215;46.962511
+79259_0140_00010;10;;Chemin de la Rivière;79100;79259;Saint-Jean-de-Thouars;;;-0.213738;46.965296
+79259_0115_00059;59;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.218644;46.95883
+79259_a002_00010;10;;Lotissement Bellevue;79100;79259;Saint-Jean-de-Thouars;;;-0.209168;46.968756
+79259_0040_00035;35;;Route du Chatellier;79100;79259;Saint-Jean-de-Thouars;;;-0.205072;46.961187
+79259_a008_00010;10;;Lotissement les Fileries;79100;79259;Saint-Jean-de-Thouars;;;-0.209217;46.97199
+79259_0025_00016;16;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.212993;46.960944
+79259_0045_00042;42;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.204156;46.965577
+79259_0066_00002;2;;Rue Jean Derouitteau;79100;79259;Saint-Jean-de-Thouars;;;-0.217893;46.962884
+79259_0095_00046;46;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211579;46.965851
+79259_0115_00039;39;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.216479;46.960581
+79259_0155_00021;21;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.206596;46.970623
+79259_0040_00030;30;;Route du Chatellier;79100;79259;Saint-Jean-de-Thouars;;;-0.20623;46.960993
+79259_0155_00006;6;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.20904;46.971029
+79259_0095_00023;23;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211708;46.963922
+79259_0115_00036;36;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.216169;46.962445
+79259_0052_00003;3;;Route de la Gare;79100;79259;Saint-Jean-de-Thouars;;;-0.22955;46.949849
+79259_0135_00040;40;;Chemin du Pré Chambert;79100;79259;Saint-Jean-de-Thouars;;;-0.209041;46.972446
+79259_0055_00019;19;;Rue de la Grande Coeille;79100;79259;Saint-Jean-de-Thouars;;;-0.21777;46.963975
+79259_0137_00001;1;;Clos de la République;79100;79259;Saint-Jean-de-Thouars;;;-0.218707;46.957201
+79259_0130_00002;2;;Rue du Pont des Chouans;79100;79259;Saint-Jean-de-Thouars;;;-0.212445;46.970322
+79259_0110_00017;17;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.211073;46.971368
+79259_0115_00071;71;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.219389;46.957708
+79259_0005_00001;1;;Place de l'Abbaye;79100;79259;Saint-Jean-de-Thouars;;;-0.214299;46.964305
+79259_0015_00004;4;;Rue Ambroise Joubert;79100;79259;Saint-Jean-de-Thouars;;;-0.211421;46.972079
+79259_0100_00061;61;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210606;46.9661
+79259_0095_00063;63;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211838;46.969042
+79259_0115_00030;30;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.215647;46.962924
+79259_0155_00028;28;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.205476;46.969933
+79259_0145_00004;4;;Route de Saint-Varent;79100;79259;Saint-Jean-de-Thouars;;;-0.211486;46.961297
+79259_0025_00029;29;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.213623;46.960341
+79259_0120_00017;17;;Rue Philippe Chasteigner;79100;79259;Saint-Jean-de-Thouars;;;-0.212831;46.965994
+79259_0025_00006;6;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.210809;46.962651
+79259_a004_00001;1;;Lotissement le Clos du Vicomte;79100;79259;Saint-Jean-de-Thouars;;;-0.210269;46.966454
+79259_0095_00014;14;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211552;46.963401
+79259_a004_00004;4;;Lotissement le Clos du Vicomte;79100;79259;Saint-Jean-de-Thouars;;;-0.210214;46.966418
+79259_0067_00003;3;;Avenue Louis Chêne;79100;79259;Saint-Jean-de-Thouars;;;-0.212145;46.957388
+79259_0039_00011;11;;Rue du Chêne Vert;79100;79259;Saint-Jean-de-Thouars;;;-0.218;46.960199
+79259_0039_00002;2;;Rue du Chêne Vert;79100;79259;Saint-Jean-de-Thouars;;;-0.217836;46.960299
+79259_0105_00023;23;;Avenue Paul Gallot;79100;79259;Saint-Jean-de-Thouars;;;-0.212478;46.962566
+79259_0068_00005;5;;Clos Louise de This;79100;79259;Saint-Jean-de-Thouars;;;-0.216756;46.963054
+79259_0127_00001;1;;Rue de la Plaine;79100;79259;Saint-Jean-de-Thouars;;;-0.21902;46.962642
+79259_0100_00069;69;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210337;46.965016
+79259_0120_00004;4;;Rue Philippe Chasteigner;79100;79259;Saint-Jean-de-Thouars;;;-0.21301;46.964449
+79259_0145_00018;18;;Route de Saint-Varent;79100;79259;Saint-Jean-de-Thouars;;;-0.211845;46.959945
+79259_0067_00005;5;;Avenue Louis Chêne;79100;79259;Saint-Jean-de-Thouars;;;-0.211233;46.957193
+79259_0066_00007;7;;Rue Jean Derouitteau;79100;79259;Saint-Jean-de-Thouars;;;-0.217829;46.963564
+79259_0025_00101;101;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.227747;46.951563
+79259_0095_00022;22;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211917;46.964228
+79259_0025_00010_bis;10;bis;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.211523;46.962148
+79259_0055_00009;9;;Rue de la Grande Coeille;79100;79259;Saint-Jean-de-Thouars;;;-0.216328;46.963727
+79259_0145_00017;17;;Route de Saint-Varent;79100;79259;Saint-Jean-de-Thouars;;;-0.212305;46.958168
+79259_0040_00034;34;;Route du Chatellier;79100;79259;Saint-Jean-de-Thouars;;;-0.205641;46.961087
+79259_0058_00002;2;;Rue des Gruches;79100;79259;Saint-Jean-de-Thouars;;;-0.211046;46.959833
+79259_0115_00018;18;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.215088;46.963544
+79259_a006_00014;14;;Lotissement la Cornière;79100;79259;Saint-Jean-de-Thouars;;;-0.206188;46.959645
+79259_0023_00003;3;;Avenue du Bois de la Dame;79100;79259;Saint-Jean-de-Thouars;;;-0.209849;46.959677
+79259_0075_00005;5;;Route de Missé;79100;79259;Saint-Jean-de-Thouars;;;-0.207392;46.959626
+79259_0069_00002;2;;Rue Maître Pierre Bellanger;79100;79259;Saint-Jean-de-Thouars;;;-0.210712;46.956579
+79259_0040_00032;32;;Route du Chatellier;79100;79259;Saint-Jean-de-Thouars;;;-0.205954;46.961053
+79259_0137_00004;4;;Clos de la République;79100;79259;Saint-Jean-de-Thouars;;;-0.21872;46.957405
+79259_0095_00070;70;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211697;46.968687
+79259_0045_00019;19;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.206699;46.968285
+79259_0070_00002_bis;2;bis;Rue Marcheteau;79100;79259;Saint-Jean-de-Thouars;;;-0.212038;46.963017
+79259_0045_00012;12;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.206834;46.968281
+79259_0017_00002;2;;Rue Audebert;79100;79259;Saint-Jean-de-Thouars;;;-0.212071;46.963873
+79259_0125_00001;1;;Rue des Pineaux;79100;79259;Saint-Jean-de-Thouars;;;-0.208418;46.963819
+79259_0075_00010;10;;Route de Missé;79100;79259;Saint-Jean-de-Thouars;;;-0.205024;46.958726
+79259_a002_00009;9;;Lotissement Bellevue;79100;79259;Saint-Jean-de-Thouars;;;-0.209352;46.968531
+79259_0055_00023;23;;Rue de la Grande Coeille;79100;79259;Saint-Jean-de-Thouars;;;-0.218467;46.964033
+79259_0095_00017;17;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211652;46.963587
+79259_0045_00017;17;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.206837;46.968382
+79259_0047_00010;10;;Rue des Ducs d'Aquitaine;79100;79259;Saint-Jean-de-Thouars;;;-0.207052;46.972041
+79259_0025_00006_bis;6;bis;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.211045;46.962516
+79259_0110_00023;23;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.2101;46.971529
+79259_0047_00016;16;;Rue des Ducs d'Aquitaine;79100;79259;Saint-Jean-de-Thouars;;;-0.207633;46.972286
+79259_0145_00005;5;;Route de Saint-Varent;79100;79259;Saint-Jean-de-Thouars;;;-0.211427;46.96063
+79259_0125_00015;15;;Rue des Pineaux;79100;79259;Saint-Jean-de-Thouars;;;-0.208803;46.962697
+79259_0025_00022;22;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.213937;46.960211
+79259_0120_00003;3;;Rue Philippe Chasteigner;79100;79259;Saint-Jean-de-Thouars;;;-0.212922;46.964666
+79259_0155_00032;32;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.205083;46.96949
+79259_0137_00006;6;;Clos de la République;79100;79259;Saint-Jean-de-Thouars;;;-0.218556;46.957589
+79259_0095_00075;75;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.212128;46.96982
+79259_0025_00051;51;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.217492;46.957302
+79259_0085_00003;3;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.214108;46.964806
+79259_0035_00006;6;;Rue du Champ de la Cave;79100;79259;Saint-Jean-de-Thouars;;;-0.211061;46.968941
+79259_0110_00025;25;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.21036;46.971274
+79259_0085_00013;13;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.214712;46.965381
+79259_0125_00006;6;;Rue des Pineaux;79100;79259;Saint-Jean-de-Thouars;;;-0.208895;46.963763
+79259_0095_00028;28;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211942;46.96468
+79259_a010_00005;5;;Lotissement les Maisons Blanches;79100;79259;Saint-Jean-de-Thouars;;;-0.210814;46.961997
+79259_0095_00032;32;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.212014;46.964888
+79259_0105_00013;13;;Avenue Paul Gallot;79100;79259;Saint-Jean-de-Thouars;;;-0.213025;46.963695
+79259_0080_00001;1;;Rue Mondevie;79100;79259;Saint-Jean-de-Thouars;;;-0.211555;46.963964
+79259_0120_00031;31;;Rue Philippe Chasteigner;79100;79259;Saint-Jean-de-Thouars;;;-0.212361;46.967439
+79259_0010_00001;1;;Rue Agnès de Rochechouart;79100;79259;Saint-Jean-de-Thouars;;;-0.211614;46.970995
+79259_0110_00002;2;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.212184;46.970337
+79259_0125_00007;7;;Rue des Pineaux;79100;79259;Saint-Jean-de-Thouars;;;-0.208454;46.963442
+79259_0095_00034;34;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211976;46.965025
+79259_0010_00004;4;;Rue Agnès de Rochechouart;79100;79259;Saint-Jean-de-Thouars;;;-0.211277;46.970926
+79259_0156_00007;7;;Impasse du Clos de la Vigne;79100;79259;Saint-Jean-de-Thouars;;;-0.20819;46.970861
+79259_0110_00007;7;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.21258;46.970221
+79259_0100_00060;60;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210712;46.965672
+79259_0037_00004;4;;Rue Charles Ragot;79100;79259;Saint-Jean-de-Thouars;;;-0.217296;46.962344
+79259_0025_00049;49;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.216788;46.957856
+79259_g8t7up_00003;3;;Beaupreau;79100;79259;Saint-Jean-de-Thouars;;;-0.216553;46.948237
+79259_0025_00002;2;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.210162;46.963162
+79259_0005_00007;7;;Place de l'Abbaye;79100;79259;Saint-Jean-de-Thouars;;;-0.213715;46.964439
+79259_0145_00015;15;;Route de Saint-Varent;79100;79259;Saint-Jean-de-Thouars;;;-0.212206;46.958444
+79259_0115_00010;10;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.214804;46.96373
+79259_0045_00002;2;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.208603;46.969039
+79259_0155_00003;3;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.209218;46.971075
+79259_0100_00076;76;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210133;46.962874
+79259_0075_00011;11;;Route de Missé;79100;79259;Saint-Jean-de-Thouars;;;-0.20707;46.959545
+79259_0095_00025;25;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211962;46.964266
+79259_0118_00002;2;;Impasse des Peupliers;79100;79259;Saint-Jean-de-Thouars;;;-0.208453;46.96039
+79259_0137_00012;12;;Clos de la République;79100;79259;Saint-Jean-de-Thouars;;;-0.218028;46.958143
+79259_0130_00012;12;;Rue du Pont des Chouans;79100;79259;Saint-Jean-de-Thouars;;;-0.21299;46.970634
+79259_0130_00010_bis;10;bis;Rue du Pont des Chouans;79100;79259;Saint-Jean-de-Thouars;;;-0.212939;46.970612
+79259_0068_00002;2;;Clos Louise de This;79100;79259;Saint-Jean-de-Thouars;;;-0.216933;46.962743
+79259_0039_00001;1;;Rue du Chêne Vert;79100;79259;Saint-Jean-de-Thouars;;;-0.218095;46.960385
+79259_0050_00009;9;;Chemin des Fonds Jarry;79100;79259;Saint-Jean-de-Thouars;;;-0.208428;46.965803
+79259_0054_00003;3;;Chemin du Grand Cornet;79100;79259;Saint-Jean-de-Thouars;;;-0.221014;46.955464
+79259_0040_00026;26;;Route du Chatellier;79100;79259;Saint-Jean-de-Thouars;;;-0.207154;46.960506
+79259_0110_00009_ter;9;ter;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.212465;46.971255
+79259_0110_00007_bis;7;bis;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.212327;46.970394
+79259_0020_00016;16;;Rue Bonneval;79100;79259;Saint-Jean-de-Thouars;;;-0.213364;46.965625
+79259_0110_00033;33;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.209589;46.970634
+79259_0138_00001;1;;Rue René Arnault;79100;79259;Saint-Jean-de-Thouars;;;-0.21841;46.963006
+79259_0125_00010;10;;Rue des Pineaux;79100;79259;Saint-Jean-de-Thouars;;;-0.208647;46.963272
+79259_0065_00004;4;;Rue Isabelle de Vivonne;79100;79259;Saint-Jean-de-Thouars;;;-0.212933;46.965664
+79259_0100_00084;84;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.209685;46.961862
+79259_0110_00018_bis;18;bis;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.20976;46.970628
+79259_0120_00020;20;;Rue Philippe Chasteigner;79100;79259;Saint-Jean-de-Thouars;;;-0.212705;46.966146
+79259_5ax3bi_00002;2;;La Loge;79100;79259;Saint-Jean-de-Thouars;;;-0.238631;46.940835
+79259_0155_00023_bis;23;bis;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.205535;46.971043
+79259_0100_00083;83;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.20972;46.963086
+79259_0138_00004;4;;Rue René Arnault;79100;79259;Saint-Jean-de-Thouars;;;-0.218949;46.963004
+79259_0060_00012;12;;Rue Haute;79100;79259;Saint-Jean-de-Thouars;;;-0.212215;46.963766
+79259_0115_00063;63;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.218853;46.958439
+79259_0095_00011;11;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211687;46.963324
+79259_0110_00021;21;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.210493;46.971545
+79259_0030_00003;3;;Route du Canton de Juillet;79100;79259;Saint-Jean-de-Thouars;;;-0.210915;46.960787
+79259_0039_00007;7;;Rue du Chêne Vert;79100;79259;Saint-Jean-de-Thouars;;;-0.216746;46.959795
+79259_0110_00012;12;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.210978;46.971019
+79259_0110_00020;20;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.209601;46.970432
+79259_0025_00057;57;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.218904;46.956217
+79259_0130_00008;8;;Rue du Pont des Chouans;79100;79259;Saint-Jean-de-Thouars;;;-0.212826;46.970553
+79259_0100_00105;105;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.208386;46.959068
+79259_0140_00009;9;;Chemin de la Rivière;79100;79259;Saint-Jean-de-Thouars;;;-0.213494;46.965735
+79259_0095_00043;43;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211539;46.966539
+79259_0100_00088;88;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.209566;46.961501
+79259_0115_00023_bis;23;bis;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.216679;46.96185
+79259_0085_00008_bis;8;bis;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.215092;46.96574
+79259_0018_00008;8;;Chemin des Barrières;79100;79259;Saint-Jean-de-Thouars;;;-0.217017;46.956502
+79259_0100_00074;74;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210217;46.963972
+79259_0034_00002;2;;Impasse du Champ de la Cave;79100;79259;Saint-Jean-de-Thouars;;;-0.211012;46.968366
+79259_0030_00005;5;;Route du Canton de Juillet;79100;79259;Saint-Jean-de-Thouars;;;-0.210763;46.960659
+79259_0145_00008;8;;Route de Saint-Varent;79100;79259;Saint-Jean-de-Thouars;;;-0.211505;46.960867
+79259_a004_00008;8;;Lotissement le Clos du Vicomte;79100;79259;Saint-Jean-de-Thouars;;;-0.21006;46.966706
+79259_0100_00073;73;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.209938;46.963959
+79259_0115_00057;57;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.218591;46.959086
+79259_0127_00009;9;;Rue de la Plaine;79100;79259;Saint-Jean-de-Thouars;;;-0.219234;46.96217
+79259_0125_00005_bis;5;bis;Rue des Pineaux;79100;79259;Saint-Jean-de-Thouars;;;-0.2084;46.96355
+79259_0085_00002;2;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.214054;46.96483
+79259_0068_00003;3;;Clos Louise de This;79100;79259;Saint-Jean-de-Thouars;;;-0.217141;46.963006
+79259_0015_00003;3;;Rue Ambroise Joubert;79100;79259;Saint-Jean-de-Thouars;;;-0.211594;46.971719
+79259_0100_00072;72;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210234;46.964116
+79259_0075_00009;9;;Route de Missé;79100;79259;Saint-Jean-de-Thouars;;;-0.207259;46.960298
+79259_0045_00043;43;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.205084;46.966329
+79259_a002_00002;2;;Lotissement Bellevue;79100;79259;Saint-Jean-de-Thouars;;;-0.209186;46.968621
+79259_0115_00012;12;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.214914;46.963641
+79259_0100_00047;47;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210622;46.967562
+79259_0115_00023_ter;23;ter;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.216826;46.961736
+79259_0127_00005;5;;Rue de la Plaine;79100;79259;Saint-Jean-de-Thouars;;;-0.219106;46.962448
+79259_0115_00095;95;;Rue des Petits Bournais;79100;79259;Saint-Jean-de-Thouars;;;-0.220331;46.955619
+79259_0155_00010;10;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.208718;46.971024
+79259_0037_00001;1;;Rue Charles Ragot;79100;79259;Saint-Jean-de-Thouars;;;-0.216989;46.962153
+79259_0068_00008;8;;Clos Louise de This;79100;79259;Saint-Jean-de-Thouars;;;-0.217178;46.96324
+79259_0047_00003;3;;Rue des Ducs d'Aquitaine;79100;79259;Saint-Jean-de-Thouars;;;-0.207149;46.971757
+79259_0142_00007;7;;Rue du Roi Lothaire;79100;79259;Saint-Jean-de-Thouars;;;-0.207792;46.971751
+79259_0085_00011;11;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.214564;46.965272
+79259_0140_00017;17;;Chemin de la Rivière;79100;79259;Saint-Jean-de-Thouars;;;-0.21385;46.96661
+79259_0023_00010;10;;Avenue du Bois de la Dame;79100;79259;Saint-Jean-de-Thouars;;;-0.210158;46.957504
+79259_0118_00003;3;;Impasse des Peupliers;79100;79259;Saint-Jean-de-Thouars;;;-0.208572;46.96056
+79259_0045_00023;23;;Route de Doret;79100;79259;Saint-Jean-de-Thouars;;;-0.206499;46.968127
+79259_0010_00004_bis;4;bis;Rue Agnès de Rochechouart;79100;79259;Saint-Jean-de-Thouars;;;-0.211219;46.970386
+79259_0100_00071;71;;Route de Parthenay;79100;79259;Saint-Jean-de-Thouars;;;-0.210198;46.964572
+79259_0095_00066;66;;Rue de la Morinière;79100;79259;Saint-Jean-de-Thouars;;;-0.211691;46.968402
+79259_0075_00013;13;;Route de Missé;79100;79259;Saint-Jean-de-Thouars;;;-0.206899;46.959499
+79259_0025_00139;139;;Route de Bressuire;79100;79259;Saint-Jean-de-Thouars;;;-0.23057;46.947357
+79259_0155_00027;27;;Chemin des Varannes;79100;79259;Saint-Jean-de-Thouars;;;-0.205597;46.970091
+79259_0030_00008;8;;Route du Canton de Juillet;79100;79259;Saint-Jean-de-Thouars;;;-0.208995;46.959844
+79259_0085_00029;29;;Rue du Mont Savart;79100;79259;Saint-Jean-de-Thouars;;;-0.216738;46.966527
+79259_0105_00021;21;;Avenue Paul Gallot;79100;79259;Saint-Jean-de-Thouars;;;-0.212572;46.962718
+79259_0040_00036;36;;Route du Chatellier;79100;79259;Saint-Jean-de-Thouars;;;-0.205354;46.961067
+79259_0110_00011;11;;Avenue du Petit Saint - Jean;79100;79259;Saint-Jean-de-Thouars;;;-0.211719;46.971286

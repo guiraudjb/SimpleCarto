@@ -1,0 +1,840 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+16300_0490_00006;6;;Rue de la Poterie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Poterie St-Amant-de-Bonnieure;0.305399;45.869036
+16300_0500_00010;10;;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.309693;45.853826
+16300_b172_02003;2003;;Au Grand Chemin;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;;0.322332;45.866069
+16300_0107_00030;30;;Route de la Bonnieure;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Picoteau Ste-Colombe;0.313451;45.83633
+16300_0080_00026;26;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287995;45.848532
+16300_0500_00015;15;;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.310095;45.854537
+16300_b05vhg_00008;8;;Saint-Amant-de-Bonnieure;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;;0.291654;45.852942
+16300_0530_00002;2;;Rue des Renclos;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.282775;45.863898
+16300_0086_00006;6;;Route de la Tardoire;16230;16300;Val-de-Bonnieure;Saint-Angeau;;0.255086;45.845723
+16300_0063_00026;26;;Rue des Perdrix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.255935;45.833049
+16300_b05vhg_00016;16;;Saint-Amant-de-Bonnieure;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;;0.289327;45.854074
+16300_0005_00005;5;;Place Arsène ROUDY;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28699;45.848509
+16300_0088_00011;11;;Rue des Tilleuls;16230;16300;Val-de-Bonnieure;Saint-Angeau;La Berthière St-Angeau;0.30039;45.826938
+16300_0080_00018;18;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288534;45.848407
+16300_0045_00002;2;;Rue Jean Caboche;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290626;45.845277
+16300_0035_00001;1;;Impasse du Lac;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Puyclavaud St-Amant-de-Bonnieure;0.313064;45.857753
+16300_0050_00010;10;;Rue Marcel Guillot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286527;45.848639
+16300_0058_00012;12;;Rue de la Mare;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.25574;45.834851
+16300_0582_00007;7;;Rue des Serysous;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.331566;45.831046
+16300_0139_00010;10;;Rue du Château;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.318545;45.832747
+16300_b012_00008;8;;Bois GIRAUD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Bois Giraud St-Angeau;0.269717;45.842981
+16300_0072_00021;21;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287903;45.847409
+16300_y9r8i4_00010;10;;Rue de Neufgrange;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288907;45.847651
+16300_0040_00021;21;;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283501;45.845
+16300_0500_00003;3;;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.309203;45.854192
+16300_0060_00027;27;;Rue des Plantes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286281;45.843888
+16300_0475_00004;4;;impasse des petits prés;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Cluzeau Ste-Colombe;0.307505;45.840443
+16300_0003_00003;3;;Rue de la Billette;16230;16300;Val-de-Bonnieure;Saint-Angeau;Fougère St-Angeau;0.288478;45.829952
+16300_0139_00003;3;;Rue du Château;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.319961;45.832839
+16300_0086_00003;3;;Route de la Tardoire;16230;16300;Val-de-Bonnieure;Saint-Angeau;;0.254962;45.845359
+16300_0091_00003;3;;Rue Froide;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.319113;45.833525
+16300_0080_00010;10;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.289318;45.848484
+16300_0026_00001;1;;Rue de la Croix VERGNAUD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28037;45.844881
+16300_0080_00027;27;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286128;45.848929
+16300_0310_00003;3;;Impasse du Génicot;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.283547;45.864278
+16300_0086_00004;4;;Route de la Tardoire;16230;16300;Val-de-Bonnieure;Saint-Angeau;;0.255161;45.845375
+16300_0061_00014;14;;Rue des Praviots;16230;16300;Val-de-Bonnieure;Saint-Angeau;Biagne St-Angeau;0.265933;45.840317
+16300_0100_00010;10;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284188;45.867543
+16300_0042_00005;5;;Impasse de la Grande Croix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290284;45.84545
+16300_0040_00008;8;;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.285559;45.846658
+16300_0700_00001;1;;Rue des Vergers;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Cluzeau Ste-Colombe;0.306229;45.840055
+16300_0045_00007;7;;Rue Jean Caboche;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290817;45.845266
+16300_0080_00025;25;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286266;45.849036
+16300_0055_00004;4;;Rue des Mosellans;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.293088;45.852377
+16300_0110_00017;17;;Rue de la Borde;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.297064;45.846467
+16300_0260_00012;12;;Rue des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.309912;45.855213
+16300_kkr5ih_00513;513;;Le Pont;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;;0.292213;45.849334
+16300_0140_00002;2;;Rue de la Chaudellerie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Chaudellerie St-Amant-de-Bonnieure;0.30999;45.848394
+16300_0080_00011;11;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288576;45.848301
+16300_0058_00016;16;;Rue de la Mare;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.25674;45.834678
+16300_0400_00004;4;;Rue du Moulin du Pont;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.298119;45.846842
+16300_b012_00012;12;;Bois GIRAUD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Bois Giraud St-Angeau;0.267551;45.842904
+16300_0061_00010;10;;Rue des Praviots;16230;16300;Val-de-Bonnieure;Saint-Angeau;Biagne St-Angeau;0.265577;45.840548
+16300_0475_00015;15;;impasse des petits prés;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Cluzeau Ste-Colombe;0.308999;45.841297
+16300_0066_00002;2;;Route de Puymerle;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Baige St-Angeau;0.260295;45.831109
+16300_0027_00012;12;;Square Edmond Tétaud;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.285642;45.849095
+16300_0060_00012;12;;Rue des Plantes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286625;45.845686
+16300_0410_00005;5;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.28876;45.854747
+16300_0100_00020;20;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284232;45.871077
+16300_a001_00003;3;;Lot Ernest Le Léon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288958;45.849891
+16300_0072_00025;25;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287666;45.847403
+16300_0072_00013;13;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288554;45.847329
+16300_0072_00049;49;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;;0.284602;45.847611
+16300_0072_00061;61;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.281866;45.846937
+16300_0097_00021;21;;Route des Abrieux;16230;16300;Val-de-Bonnieure;Sainte-Colombe;La Chapelle Ste-Colombe;0.345817;45.832617
+16300_0107_00006;6;;Route de la Bonnieure;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.317862;45.833822
+16300_0029_00002;2;;Chemin de la Côte;16230;16300;Val-de-Bonnieure;;;0.255157;45.846239
+16300_0500_00016;16;;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.310374;45.854421
+16300_0090_00001;1;;Rue de l'Église;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.319026;45.833325
+16300_0054_00001;1;;Rue du Logis;16230;16300;Val-de-Bonnieure;Saint-Angeau;Devezeau St-Angeau;0.27041;45.84034
+16300_0590_00007;7;;Impasse des Taillis;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Picoteau Ste-Colombe;0.3138;45.837185
+16300_itix2t_00004;4;;Cour Marchande;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288017;45.847253
+16300_0140_00006;6;;Rue de la Chaudellerie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Chaudellerie St-Amant-de-Bonnieure;0.313978;45.85123
+16300_0025_00009;9;;Rue des Croisettes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.279878;45.845304
+16300_0080_00030;30;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287961;45.848695
+16300_0072_00035;35;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;;0.285811;45.847261
+16300_0066_00001;1;;Route de Puymerle;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Baige St-Angeau;0.260839;45.830798
+16300_0400_00003;3;;Rue du Moulin du Pont;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.298007;45.847125
+16300_0080_00016;16;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288629;45.848385
+16300_0260_00002_bis;2;bis;Rue des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.306922;45.852759
+16300_0052_00019;19;;Rue des Lauriers;16230;16300;Val-de-Bonnieure;Saint-Angeau;La Berthière St-Angeau;0.303275;45.82597
+16300_0087_00003;3;;Rue Traversière;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287356;45.84835
+16300_0107_00010;10;;Route de la Bonnieure;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.317201;45.834281
+16300_0091_00011;11;;Rue Froide;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.319515;45.833481
+16300_0006_00010;10;;Rue de la Caille;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.256058;45.833704
+16300_0410_00022;22;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.289118;45.854939
+16300_0100_00011;11;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.283848;45.867178
+16300_0055_00012;12;;Rue des Mosellans;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.294156;45.852185
+16300_0139_00018;18;;Rue du Château;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.317641;45.831791
+16300_0060_00007;7;;Rue des Plantes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286887;45.846134
+16300_0410_00010;10;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.290588;45.853101
+16300_0135_00016;16;;Route de la Chapelle;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Monfoucaud Ste-Colombe;0.329721;45.832601
+16300_0040_00002;2;;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286157;45.847279
+16300_alwd2m_00002;2;;Impasse du Four;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288672;45.84666
+16300_0080_00003;3;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.291519;45.848815
+16300_0020_00006;6;;Rue du Champ de Foire;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287718;45.847892
+16300_0067_00012;12;;Route des Ponts;16230;16300;Val-de-Bonnieure;Saint-Angeau;Biagne St-Angeau;0.264039;45.840819
+16300_0500_00017;17;;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.309672;45.855074
+16300_0061_00012;12;;Rue des Praviots;16230;16300;Val-de-Bonnieure;Saint-Angeau;Biagne St-Angeau;0.265805;45.84038
+16300_0450_00003;3;;Rue des Ouches;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Chez David St-Amant-de-Bonnieure;0.306197;45.85715
+16300_0024_00004;4;;Impasse de la Charbonnière;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290823;45.844064
+16300_0100_00005_bis;5;bis;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.283415;45.866907
+16300_0380_00002;2;;Rue du Logis du Châtenet;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284746;45.863411
+16300_0072_00022_bis;22;bis;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287101;45.847574
+16300_0042_00007;7;;Impasse de la Grande Croix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290192;45.845436
+16300_0730_00011;11;;Route des Versennes;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Guy-Ste Colombe;0.31005;45.830428
+16300_0330_00002;2;;Rue des Grands Bois;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Puyclavaud St-Amant-de-Bonnieure;0.312673;45.858015
+16300_0088_00013;13;;Rue des Tilleuls;16230;16300;Val-de-Bonnieure;Saint-Angeau;La Berthière St-Angeau;0.300545;45.826342
+16300_0003_00008;8;;Rue de la Billette;16230;16300;Val-de-Bonnieure;Saint-Angeau;Fougère St-Angeau;0.287966;45.8298
+16300_0097_00003;3;;Route des Abrieux;16230;16300;Val-de-Bonnieure;Sainte-Colombe;La Chapelle Ste-Colombe;0.342067;45.832114
+16300_0067_00006;6;;Route des Ponts;16230;16300;Val-de-Bonnieure;Saint-Angeau;Biagne St-Angeau;0.2651;45.841064
+16300_0410_00014;14;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.289974;45.854566
+16300_0229_00010;10;;Rue des Courades;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Seygelard Ste-Colombe;0.321938;45.830042
+16300_g5r58x_00002;2;;Le Cheminou;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Pouillat St-Angeau;0.256658;45.838897
+16300_0170_00006;6;;Rue de Chez David;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Chez David St-Amant-de-Bonnieure;0.306828;45.857735
+16300_0022_00010;10;;Impasse Champ Redon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.285003;45.845131
+16300_0005_00003;3;;Place Arsène ROUDY;16230;16300;Val-de-Bonnieure;Saint-Angeau;;0.287219;45.848609
+16300_0250_00002;2;;Rue d’Eole;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Poterie St-Amant-de-Bonnieure;0.306205;45.869329
+16300_0700_00002;2;;Rue des Vergers;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Cluzeau Ste-Colombe;0.306473;45.840164
+16300_0040_00009;9;;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28448;45.84592
+16300_0055_00006;6;;Rue des Mosellans;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.293517;45.852134
+16300_0050_00005;5;;Rue Marcel Guillot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28658;45.848413
+16300_0004_00002;2;;Rue des Bouchauds;16230;16300;Val-de-Bonnieure;Saint-Angeau;Fougère St-Angeau;0.289141;45.831703
+16300_0150_00004;4;;Rue de la Chaume;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.297089;45.846755
+16300_9y8hvp_00019;19;;Route du Cheminou;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.251728;45.835191
+16300_0072_00057;57;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28267;45.847264
+16300_0058_00014;14;;Rue de la Mare;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.256213;45.834782
+16300_0097_00009;9;;Route des Abrieux;16230;16300;Val-de-Bonnieure;Sainte-Colombe;La Chapelle Ste-Colombe;0.342928;45.832134
+16300_0052_00002;2;;Rue des Lauriers;16230;16300;Val-de-Bonnieure;Saint-Angeau;La Berthière St-Angeau;0.298198;45.826894
+16300_0100_00016_bis;16;bis;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284341;45.868839
+16300_0080_00058;58;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28466;45.848545
+16300_l7ghvn_00006;6;;Rue du Puits;16230;16300;Val-de-Bonnieure;;Fougère St-Angeau;0.288547;45.829418
+16300_a002_00008;8;;Lot Les hauts de Saint-Angeau;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283638;45.843445
+16300_0050_00011;11;;Rue Marcel Guillot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286533;45.84816
+16300_b05vhg_00003;3;;Saint-Amant-de-Bonnieure;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;;0.288889;45.85385
+16300_0061_00005;5;;Rue des Praviots;16230;16300;Val-de-Bonnieure;Saint-Angeau;Biagne St-Angeau;0.265605;45.840629
+16300_0082_00001;1;;Rue du Stade;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.289397;45.845867
+16300_a002_00002;2;;Lot Les hauts de Saint-Angeau;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283336;45.843829
+16300_0140_00004;4;;Rue de la Chaudellerie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Chaudellerie St-Amant-de-Bonnieure;0.31359;45.850328
+16300_0120_00002;2;;Chemin du Bourg;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.318983;45.83347
+16300_b012_00018;18;;Bois GIRAUD;16230;16300;Val-de-Bonnieure;Saint-Angeau;;0.268557;45.842394
+16300_0260_00003;3;;Rue des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.310242;45.855743
+16300_0420_00004;4;;Rue des Nérats;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Monfoucaud Ste-Colombe;0.329038;45.832241
+16300_0022_00006;6;;Impasse Champ Redon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.285288;45.8454
+16300_0080_00064;64;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284389;45.848174
+16300_0100_00006;6;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.283595;45.866905
+16300_0510_00004;4;;Rue de Puyclavaud;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Puyclavaud St-Amant-de-Bonnieure;0.313198;45.858038
+16300_0139_00012;12;;Rue du Château;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.318328;45.832473
+16300_itix2t_00005;5;;Cour Marchande;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287897;45.847086
+16300_0060_00011;11;;Rue des Plantes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286848;45.845756
+16300_0310_00006;6;;Impasse du Génicot;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.283629;45.864215
+16300_0410_00026;26;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.288747;45.85507
+16300_alwd2m_00011;11;;Impasse du Four;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287769;45.84668
+16300_0170_00004;4;;Rue de Chez David;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Chez David St-Amant-de-Bonnieure;0.306771;45.857624
+16300_0410_00034;34;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.28836;45.856495
+16300_0510_00006;6;;Rue de Puyclavaud;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Puyclavaud St-Amant-de-Bonnieure;0.313532;45.8582
+16300_0420_00016;16;;Rue des Nérats;16230;16300;Val-de-Bonnieure;Sainte-Colombe;La Porte Ste-Colombe;0.329985;45.829794
+16300_0300_00002;2;;Rue de la Gare;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.290767;45.849423
+16300_0105_00002;2;;Chemin du bois;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Sainte-Colombe;0.316253;45.831826
+16300_0410_00007;7;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.288358;45.856166
+16300_0340_00006;6;;route de la Joubalot;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Ballot Ste-Colombe;0.307521;45.82491
+16300_0091_00001;1;;Rue Froide;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.318822;45.833386
+16300_0059_00002;2;;Route des Murailles;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Baige St-Angeau;0.261515;45.830641
+16300_0066_00004;4;;Route de Puymerle;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Baige St-Angeau;0.260163;45.830494
+16300_a002_00012;12;;Lot Les hauts de Saint-Angeau;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284265;45.843164
+16300_0082_00003;3;;Rue du Stade;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.289327;45.845759
+16300_0009_00013;13;;Route des Canepetières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.253387;45.834831
+16300_0107_00008;8;;Route de la Bonnieure;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.317178;45.834179
+16300_0061_00001;1;;Rue des Praviots;16230;16300;Val-de-Bonnieure;Saint-Angeau;Biagne St-Angeau;0.265181;45.840831
+16300_0110_00008;8;;Rue de la Borde;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.296741;45.84645
+16300_0063_00007;7;;Rue des Perdrix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.255093;45.833618
+16300_0410_00018;18;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.288847;45.854809
+16300_0160_00005;5;;Rue de Chez Changeur;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284903;45.867886
+16300_0009_00003;3;;Route des Canepetières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.25552;45.836301
+16300_0107_00001;1;;Route de la Bonnieure;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.318146;45.833423
+16300_0525_00003;3;;Rue Rambeaud;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Puycharaud-Ste Colombe;0.336377;45.828946
+16300_0066_00005;5;;Route de Puymerle;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Baige St-Angeau;0.260592;45.830638
+16300_0410_00016;16;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.289079;45.853938
+16300_0120_00004;4;;Chemin du Bourg;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.318816;45.833665
+16300_0500_00012_bis;12;bis;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.310103;45.853865
+16300_0072_00015;15;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288286;45.847361
+16300_0410_00030;30;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.28902;45.856068
+16300_0135_00015;15;;Route de la Chapelle;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.330809;45.832412
+16300_a001_00002;2;;Lot Ernest Le Léon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288434;45.849763
+16300_0072_00012;12;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290594;45.847047
+16300_0080_00024;24;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288145;45.848484
+16300_0093_00008;8;;Rue de la Poulette;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.317441;45.833255
+16300_0011_00016;16;;Route des Carrières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Pouillat St-Angeau;0.257323;45.838626
+16300_0050_00014;14;;Rue Marcel Guillot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286445;45.848303
+16300_0310_00004;4;;Impasse du Génicot;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.283874;45.864229
+16300_0072_00006;6;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.291023;45.846867
+16300_0072_00003;3;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.29199;45.84573
+16300_0054_00002;2;;Rue du Logis;16230;16300;Val-de-Bonnieure;Saint-Angeau;Devezeau St-Angeau;0.270146;45.83988
+16300_0410_00006;6;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.291821;45.852918
+16300_0340_00021;21;;route de la Joubalot;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Ballot Ste-Colombe;0.304894;45.828146
+16300_0059_00013;13;;Route des Murailles;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Baige St-Angeau;0.262066;45.830702
+16300_0080_00042;42;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286889;45.849046
+16300_0080_00008;8;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.289775;45.848554
+16300_0110_00005;5;;Rue de la Borde;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.291877;45.846761
+16300_0054_00005;5;;Rue du Logis;16230;16300;Val-de-Bonnieure;Saint-Angeau;Devezeau St-Angeau;0.270503;45.83972
+16300_0042_00001;1;;Impasse de la Grande Croix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290427;45.845512
+16300_0170_00002;2;;Rue de Chez David;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Chez David St-Amant-de-Bonnieure;0.306536;45.857142
+16300_0042_00002;2;;Impasse de la Grande Croix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290236;45.845605
+16300_0072_00001;1;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.292195;45.845367
+16300_0021_00005;5;;Impasse Champs Doulant;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.280642;45.845665
+16300_0050_00016;16;;Rue Marcel Guillot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286449;45.848014
+16300_0058_00010;10;;Rue de la Mare;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.255306;45.834922
+16300_0008_00006;6;;Rue des Châtaigniers;16230;16300;Val-de-Bonnieure;Saint-Angeau;La Berthière St-Angeau;0.299736;45.82864
+16300_0082_00013;13;;Rue du Stade;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.289103;45.844825
+16300_0080_00082;82;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.29239;45.852132
+16300_0080_00085;85;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.291853;45.849039
+16300_0011_00009;9;;Route des Carrières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Pouillat St-Angeau;0.25726;45.838446
+16300_0110_00004;4;;Rue de la Borde;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.296109;45.846531
+16300_0021_00003;3;;Impasse Champs Doulant;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.280808;45.845463
+16300_0022_00002;2;;Impasse Champ Redon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286015;45.845486
+16300_0180_00002;2;;Rue de Chez Naudou;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Chez Naudou St-Amant-de-Bonnieure;0.303578;45.858591
+16300_b012_00010_bis;10;bis;Bois GIRAUD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Bois Giraud St-Angeau;0.269351;45.842748
+16300_0061_00002;2;;Rue des Praviots;16230;16300;Val-de-Bonnieure;Saint-Angeau;Biagne St-Angeau;0.265053;45.840816
+16300_0082_00011;11;;Rue du Stade;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.289152;45.844994
+16300_0180_00003;3;;Rue de Chez Naudou;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Chez Naudou St-Amant-de-Bonnieure;0.303856;45.8589
+16300_0009_00002;2;;Route des Canepetières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.255904;45.836844
+16300_0410_00012;12;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.290134;45.853225
+16300_0410_00002;2;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.292583;45.852954
+16300_0340_00002;2;;route de la Joubalot;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Ballot Ste-Colombe;0.30828;45.824315
+16300_0100_00009;9;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.283867;45.867136
+16300_0470_00001;1;;Route Paul Mairat;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.300782;45.867332
+16300_0082_00009;9;;Rue du Stade;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.289195;45.845177
+16300_0340_00005;5;;route de la Joubalot;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Ballot Ste-Colombe;0.306898;45.825054
+16300_0070_00004;4;;Place Robert Joubert;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28835;45.847684
+16300_0420_00002;2;;Rue des Nérats;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Monfoucaud Ste-Colombe;0.329044;45.832516
+16300_a002_00001;1;;Lot Les hauts de Saint-Angeau;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283778;45.843644
+16300_cddb2f_00004;4;;Saint-Angeau;16230;16300;Val-de-Bonnieure;Saint-Angeau;;0.283147;45.843638
+16300_0063_00003;3;;Rue des Perdrix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.253963;45.834437
+16300_0500_00005;5;;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.309356;45.854099
+16300_0004_00004;4;;Rue des Bouchauds;16230;16300;Val-de-Bonnieure;Saint-Angeau;Fougère St-Angeau;0.289202;45.831304
+16300_0570_00004;4;;Rue du Sargnat;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.288464;45.864185
+16300_0080_00068;68;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283822;45.84793
+16300_0072_00056;56;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;;0.279968;45.846401
+16300_b012_00006;6;;Bois GIRAUD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Bois Giraud St-Angeau;0.269994;45.843155
+16300_0060_00026_ter;26;ter;Rue des Plantes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286051;45.843737
+16300_0059_00012;12;;Route des Murailles;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Baige St-Angeau;0.263361;45.830408
+16300_0110_00023;23;;Rue de la Borde;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.298205;45.846105
+16300_0480_00001;1;;Impasse des Pierres Blanches;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.289164;45.854281
+16300_0001_00008;8;;Rue de l'Ancienne École;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.255534;45.834438
+16300_0072_00004;4;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.291155;45.846829
+16300_0107_00003;3;;Route de la Bonnieure;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.317832;45.833682
+16300_0560_00001;1;;Rue de la Salamandre;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284056;45.867039
+16300_0560_00002;2;;Rue de la Salamandre;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.283974;45.866982
+16300_0150_00002;2;;Rue de la Chaume;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.297504;45.847309
+16300_0570_00003;3;;Rue du Sargnat;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.288262;45.865575
+16300_0730_00009;9;;Route des Versennes;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Guy-Ste Colombe;0.310308;45.831217
+16300_0050_00008;8;;Rue Marcel Guillot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28659;45.848802
+16300_0110_00011;11;;Rue de la Borde;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.295185;45.846742
+16300_0022_00003;3;;Impasse Champ Redon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.2854;45.845158
+16300_0040_00001;1;;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286272;45.847221
+16300_0072_00010;10;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290736;45.846976
+16300_0001_00002;2;;Rue de l'Ancienne École;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.255451;45.834523
+16300_0520_00004;4;;Impasse de Puygelier;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.331315;45.832716
+16300_0059_00003;3;;Route des Murailles;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Baige St-Angeau;0.260793;45.831022
+16300_0035_00004;4;;Impasse du Lac;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Puyclavaud St-Amant-de-Bonnieure;0.313192;45.857519
+16300_0300_00004;4;;Rue de la Gare;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.289997;45.849635
+16300_0050_00007;7;;Rue Marcel Guillot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28658;45.848338
+16300_0093_00010;10;;Rue de la Poulette;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.317353;45.833185
+16300_0170_00001;1;;Rue de Chez David;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Chez David St-Amant-de-Bonnieure;0.306286;45.857218
+16300_0410_00014_bis;14;bis;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.289749;45.853494
+16300_0058_00022;22;;Rue de la Mare;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.25727;45.83392
+16300_l7ghvn_00004;4;;Rue du Puits;16230;16300;Val-de-Bonnieure;;Fougère St-Angeau;0.288388;45.82935
+16300_0340_00004;4;;route de la Joubalot;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Ballot Ste-Colombe;0.307699;45.82481
+16300_0042_00003;3;;Impasse de la Grande Croix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.29034;45.845496
+16300_0080_00084;84;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.291873;45.851587
+16300_0130_00005;5;;Rue du Cantou;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.296794;45.846896
+16300_0050_00022;22;;Rue Marcel Guillot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286336;45.847729
+16300_0045_00004;4;;Rue Jean Caboche;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290547;45.845133
+16300_0045_00003;3;;Rue Jean Caboche;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.291053;45.845914
+16300_0055_00010;10;;Rue des Mosellans;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.293821;45.852146
+16300_0022_00014;14;;Impasse Champ Redon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284816;45.844738
+16300_0072_00023;23;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287673;45.847419
+16300_0011_00007;7;;Route des Carrières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Pouillat St-Angeau;0.258024;45.839164
+16300_0410_00009;9;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.28805;45.856663
+16300_0590_00005;5;;Impasse des Taillis;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Picoteau Ste-Colombe;0.313688;45.83719
+16300_0046_00001;1;;Impasse des Lavandes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283172;45.847355
+16300_itix2t_00007;7;;Cour Marchande;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288007;45.847176
+16300_0250_00004;4;;Rue d’Eole;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Poterie St-Amant-de-Bonnieure;0.307226;45.86915
+16300_a001_00010;10;;Lot Ernest Le Léon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287634;45.849741
+16300_0100_00001;1;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.282814;45.866481
+16300_0115_00006;6;;Rue du Bouquet;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Cluzeau Ste-Colombe;0.30682;45.84103
+16300_b189_00000;0;;Moulin de PATARY;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.262348;45.858877
+16300_0072_00027;27;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287525;45.84744
+16300_0500_00012;12;;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.309764;45.853816
+16300_0340_00007;7;;route de la Joubalot;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Ballot Ste-Colombe;0.306761;45.825127
+16300_0600_00001;1;;Route de la Tuilerie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.289055;45.864814
+16300_0139_00004;4;;Rue du Château;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.320709;45.832814
+16300_0107_00040;40;;Route de la Bonnieure;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Cluzeau Ste-Colombe;0.307187;45.839982
+16300_0490_00003;3;;Rue de la Poterie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Poterie St-Amant-de-Bonnieure;0.305508;45.869172
+16300_0500_00001;1;;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.309108;45.854252
+16300_0040_00013;13;;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284017;45.845606
+16300_0055_00002;2;;Rue des Mosellans;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.292835;45.852426
+16300_a001_00009;9;;Lot Ernest Le Léon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287511;45.849774
+16300_0066_00007;7;;Route de Puymerle;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Baige St-Angeau;0.260571;45.830346
+16300_0580_00001;1;;Rue de la Scierie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.28421;45.864028
+16300_0100_00015;15;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284028;45.868362
+16300_0025_00006;6;;Rue des Croisettes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.279738;45.845538
+16300_0072_00035_bis;35;bis;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284554;45.847612
+16300_0072_00029;29;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287343;45.847458
+16300_0067_00002;2;;Route des Ponts;16230;16300;Val-de-Bonnieure;Saint-Angeau;Biagne St-Angeau;0.265619;45.841147
+16300_b05vhg_00030;30;;Saint-Amant-de-Bonnieure;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;;0.289143;45.856162
+16300_0046_00003;3;;Impasse des Lavandes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283142;45.846763
+16300_0100_00016;16;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284229;45.868737
+16300_0395_00001;1;;Impasse des Monges;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.331453;45.831272
+16300_0500_00011;11;;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.309847;45.853944
+16300_0093_00006;6;;Rue de la Poulette;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.317481;45.833294
+16300_0135_00014;14;;Route de la Chapelle;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Monfoucaud Ste-Colombe;0.329393;45.832559
+16300_l7ghvn_00008;8;;Rue du Puits;16230;16300;Val-de-Bonnieure;Saint-Angeau;Fougère St-Angeau;0.28821;45.8298
+16300_0067_00001;1;;Route des Ponts;16230;16300;Val-de-Bonnieure;Saint-Angeau;Biagne St-Angeau;0.265828;45.841065
+16300_0310_00002;2;;Impasse du Génicot;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.283731;45.863987
+16300_0011_00006;6;;Route des Carrières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Pouillat St-Angeau;0.257747;45.839466
+16300_a001_00005;5;;Lot Ernest Le Léon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288345;45.849931
+16300_0110_00002;2;;Rue de la Borde;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.291612;45.846605
+16300_0230_00003;3;;Route de Coutumat;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.293146;45.8642
+16300_0060_00026;26;;Rue des Plantes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286148;45.843986
+16300_b05vhg_00032;32;;Saint-Amant-de-Bonnieure;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;;0.288791;45.856111
+16300_0530_00004;4;;Rue des Renclos;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.283089;45.863881
+16300_0045_00011;11;;Rue Jean Caboche;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290275;45.844419
+16300_0097_00007;7;;Route des Abrieux;16230;16300;Val-de-Bonnieure;Sainte-Colombe;La Chapelle Ste-Colombe;0.342692;45.832183
+16300_0310_00008;8;;Impasse du Génicot;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.283632;45.864345
+16300_0330_00001;1;;Rue des Grands Bois;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Puyclavaud St-Amant-de-Bonnieure;0.312377;45.858067
+16300_0074_00001;1;;Route de Rochelot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284559;45.849239
+16300_0100_00021;21;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284441;45.870066
+16300_0008_00010;10;;Rue des Châtaigniers;16230;16300;Val-de-Bonnieure;Saint-Angeau;La Berthière St-Angeau;0.30073;45.829193
+16300_0240_00004;4;;Impasse de la Duchesse;16230;16300;Val-de-Bonnieure;Sainte-Colombe;La Chapelle Ste-Colombe;0.343366;45.832721
+16300_0080_00048;48;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286462;45.849135
+16300_0010_00004;4;;Rue de la Barraude;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28445;45.848951
+16300_0050_00009;9;;Rue Marcel Guillot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286549;45.848243
+16300_0088_00001;1;;Rue des Tilleuls;16230;16300;Val-de-Bonnieure;Saint-Angeau;La Berthière St-Angeau;0.298694;45.827602
+16300_0080_00083;83;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.291891;45.849416
+16300_0063_00002;2;;Rue des Perdrix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.253295;45.834658
+16300_0025_00005;5;;Rue des Croisettes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.280142;45.845873
+16300_0054_00007;7;;Rue du Logis;16230;16300;Val-de-Bonnieure;Saint-Angeau;Devezeau St-Angeau;0.270949;45.839525
+16300_0072_00002;2;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.291422;45.846767
+16300_0490_00001;1;;Rue de la Poterie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Poterie St-Amant-de-Bonnieure;0.305482;45.869322
+16300_0059_00014;14;;Route des Murailles;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Baige St-Angeau;0.263438;45.830342
+16300_0025_00002;2;;Rue des Croisettes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.279934;45.845994
+16300_0097_00019;19;;Route des Abrieux;16230;16300;Val-de-Bonnieure;Sainte-Colombe;La Chapelle Ste-Colombe;0.345343;45.832596
+16300_0590_00001;1;;Impasse des Taillis;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Picoteau Ste-Colombe;0.313434;45.836796
+16300_0001_00003;3;;Rue de l'Ancienne École;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.256054;45.834532
+16300_0110_00009;9;;Rue de la Borde;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.294584;45.846736
+16300_0510_00001;1;;Rue de Puyclavaud;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Puyclavaud St-Amant-de-Bonnieure;0.312152;45.857444
+16300_0580_00007;7;;Rue de la Scierie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.285736;45.866403
+16300_0560_00003;3;;Rue de la Salamandre;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284311;45.866952
+16300_0070_00002;2;;Place Robert Joubert;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288467;45.847657
+16300_0063_00008;8;;Rue des Perdrix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.253917;45.834253
+16300_0023_00007;7;;Chemin des Combes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Fougère St-Angeau;0.288095;45.830539
+16300_0009_00005;5;;Route des Canepetières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.255222;45.836132
+16300_0080_00044;44;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286793;45.849066
+16300_0010_00001;1;;Rue de la Barraude;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284174;45.848647
+16300_0160_00007;7;;Rue de Chez Changeur;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.285026;45.867901
+16300_b012_00004;4;;Bois GIRAUD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Bois Giraud St-Angeau;0.270452;45.843493
+16300_0082_00002;2;;Rue du Stade;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.289285;45.847154
+16300_0107_00043;43;;Route de la Bonnieure;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Cluzeau Ste-Colombe;0.306316;45.840687
+16300_0046_00002;2;;Impasse des Lavandes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283247;45.84701
+16300_0135_00012;12;;Route de la Chapelle;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Monfoucaud Ste-Colombe;0.328475;45.832527
+16300_0080_00009;9;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288724;45.848286
+16300_0580_00003;3;;Rue de la Scierie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284434;45.864621
+16300_0009_00010;10;;Route des Canepetières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.253895;45.835524
+16300_0160_00009;9;;Rue de Chez Changeur;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.28538;45.867942
+16300_0059_00019;19;;Route des Murailles;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Baige St-Angeau;0.263651;45.830604
+16300_0040_00018;18;;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283539;45.845426
+16300_0580_00002;2;;Rue de la Scierie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284828;45.864985
+16300_0730_00010;10;;Route des Versennes;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Guy-Ste Colombe;0.310075;45.830825
+16300_0140_00007;7;;Rue de la Chaudellerie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Chaudellerie St-Amant-de-Bonnieure;0.313763;45.850944
+16300_0500_00008;8;;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.309506;45.853888
+16300_0110_00007;7;;Rue de la Borde;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.292349;45.846727
+16300_0490_00002;2;;Rue de la Poterie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Poterie St-Amant-de-Bonnieure;0.304555;45.869633
+16300_0072_00065;65;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.281409;45.846316
+16300_0009_00006;6;;Route des Canepetières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.254992;45.836225
+16300_0005_00007;7;;Place Arsène ROUDY;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286691;45.848541
+16300_0063_00011;11;;Rue des Perdrix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.255628;45.833302
+16300_0045_00009;9;;Rue Jean Caboche;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290666;45.844966
+16300_0110_00015;15;;Rue de la Borde;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.296805;45.846539
+16300_0087_00002;2;;Rue Traversière;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287283;45.848391
+16300_0009_00008;8;;Route des Canepetières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.254171;45.835686
+16300_0088_00002;2;;Rue des Tilleuls;16230;16300;Val-de-Bonnieure;Saint-Angeau;La Berthière St-Angeau;0.299155;45.827087
+16300_0221_00002;2;;Rue des Combeaux;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Guy-Ste Colombe;0.310571;45.830432
+16300_0022_00008;8;;Impasse Champ Redon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.285084;45.845329
+16300_a001_00008;8;;Lot Ernest Le Léon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287501;45.849876
+16300_0410_00036;36;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.288061;45.856898
+16300_b012_00016;16;;Bois GIRAUD;16230;16300;Val-de-Bonnieure;Saint-Angeau;;0.267709;45.842623
+16300_0100_00012;12;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284206;45.867624
+16300_0260_00006;6;;Rue des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.308425;45.854249
+16300_0080_00060;60;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284729;45.848421
+16300_y9r8i4_00015;15;;Rue de Neufgrange;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.289544;45.847463
+16300_0025_00004;4;;Rue des Croisettes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.279682;45.845609
+16300_0080_00013;13;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288545;45.848261
+16300_0595_00001;1;;Impasse des Taux;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.321571;45.833317
+16300_0072_00039;39;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.285293;45.847553
+16300_0006_00007;7;;Rue de la Caille;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.25629;45.832773
+16300_0082_00007;7;;Rue du Stade;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.289242;45.845378
+16300_0007_00006;6;;Rue du Camping;16230;16300;Val-de-Bonnieure;Saint-Angeau;Devezeau St-Angeau;0.273039;45.84119
+16300_y9r8i4_00009;9;;Rue de Neufgrange;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.289257;45.847587
+16300_0107_00044;44;;Route de la Bonnieure;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Cluzeau Ste-Colombe;0.306729;45.840441
+16300_0080_00052;52;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.285152;45.848715
+16300_0280_00002;2;;Rue des Fosses;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Poterie St-Amant-de-Bonnieure;0.30636;45.869104
+16300_0080_00062;62;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284538;45.848249
+16300_0099_00006;6;;Impasse de Bayou;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Puycharaud-Ste Colombe;0.336564;45.829906
+16300_0042_00011;11;;Impasse de la Grande Croix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290032;45.845408
+16300_0080_00081;81;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.291953;45.849659
+16300_0050_00013;13;;Rue Marcel Guillot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286505;45.847939
+16300_0055_00008;8;;Rue des Mosellans;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.293896;45.85187
+16300_0107_00048;48;;Route de la Bonnieure;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Cluzeau Ste-Colombe;0.306113;45.841089
+16300_y9r8i4_00004;4;;Rue de Neufgrange;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288042;45.848113
+16300_0100_00013;13;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284031;45.867514
+16300_0093_00002;2;;Rue de la Poulette;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.317956;45.833467
+16300_0398_00002;2;;Impasse du Moulin de Jaulay;16230;16300;Val-de-Bonnieure;Sainte-Colombe;;0.335142;45.835639
+16300_0060_00001;1;;Rue des Plantes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286238;45.846409
+16300_0063_00009;9;;Rue des Perdrix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.255415;45.833396
+16300_0040_00002_bis;2;bis;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286137;45.847194
+16300_0080_00034;34;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287505;45.848848
+16300_0036_00006;6;;Rue des Grands Champs;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.25394;45.836384
+16300_0080_00086;86;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.291729;45.849547
+16300_0200_00001;1;;Route de Chez Troubat;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.264991;45.861124
+16300_0027_00002;2;;Square Edmond Tétaud;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.2862;45.849161
+16300_alwd2m_00003;3;;Impasse du Four;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288886;45.846455
+16300_0410_00011;11;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.28775;45.85708
+16300_0590_00009;9;;Impasse des Taillis;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Picoteau Ste-Colombe;0.314201;45.837399
+16300_alwd2m_00005;5;;Impasse du Four;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288608;45.846506
+16300_0072_00030;30;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284942;45.847682
+16300_itix2t_00002;2;;Cour Marchande;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288024;45.847319
+16300_b05vhg_00001;1;;Saint-Amant-de-Bonnieure;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;;0.288941;45.85382
+16300_0080_00020;20;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288446;45.848419
+16300_0340_00009;9;;route de la Joubalot;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Ballot Ste-Colombe;0.306715;45.825218
+16300_0107_00007;7;;Route de la Bonnieure;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.317104;45.834095
+16300_0080_00014;14;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288702;45.848382
+16300_0582_00008;8;;Rue des Serysous;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.331413;45.831122
+16300_0054_00009;9;;Rue du Logis;16230;16300;Val-de-Bonnieure;Saint-Angeau;Devezeau St-Angeau;0.271659;45.839314
+16300_0042_00004;4;;Impasse de la Grande Croix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290155;45.845612
+16300_b05vhg_00002;2;;Saint-Amant-de-Bonnieure;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;;0.292648;45.853003
+16300_0082_00015;15;;Rue du Stade;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.289168;45.844431
+16300_0160_00003;3;;Rue de Chez Changeur;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284704;45.867855
+16300_0395_00003;3;;Impasse des Monges;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.331704;45.831354
+16300_0008_00008;8;;Rue des Châtaigniers;16230;16300;Val-de-Bonnieure;Saint-Angeau;La Berthière St-Angeau;0.300113;45.828863
+16300_0098_00005;5;;Rue de l'Age;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Guy-Ste Colombe;0.310337;45.82961
+16300_0110_00003;3;;Rue de la Borde;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.291714;45.84677
+16300_0520_00005;5;;Impasse de Puygelier;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.331554;45.833019
+16300_0500_00006;6;;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.309322;45.85403
+16300_0080_00031;31;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286147;45.848818
+16300_0040_00016;16;;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283923;45.845724
+16300_0400_00001;1;;Rue du Moulin du Pont;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.293451;45.849335
+16300_0072_00064;64;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.278298;45.846114
+16300_0011_00001;1;;Route des Carrières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Pouillat St-Angeau;0.257763;45.839299
+16300_0007_00002;2;;Rue du Camping;16230;16300;Val-de-Bonnieure;Saint-Angeau;Devezeau St-Angeau;0.272538;45.842269
+16300_0525_00001;1;;Rue Rambeaud;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Puycharaud-Ste Colombe;0.336053;45.829426
+16300_0520_00001;1;;Impasse de Puygelier;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.331207;45.832766
+16300_0107_00016;16;;Route de la Bonnieure;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.317186;45.834427
+16300_0091_00007;7;;Rue Froide;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.319363;45.833608
+16300_0072_00026;26;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286219;45.847606
+16300_a002_00004;4;;Lot Les hauts de Saint-Angeau;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283533;45.843606
+16300_0027_00010;10;;Square Edmond Tétaud;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.285732;45.849111
+16300_alwd2m_00004;4;;Impasse du Four;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288353;45.846708
+16300_0510_00002;2;;Rue de Puyclavaud;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Puyclavaud St-Amant-de-Bonnieure;0.312358;45.857486
+16300_a002_00010;10;;Lot Les hauts de Saint-Angeau;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283935;45.843308
+16300_alwd2m_00007;7;;Impasse du Four;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288328;45.846556
+16300_0310_00001;1;;Impasse du Génicot;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.28364;45.864051
+16300_0240_00007;7;;Impasse de la Duchesse;16230;16300;Val-de-Bonnieure;Sainte-Colombe;La Chapelle Ste-Colombe;0.343326;45.832961
+16300_0058_00002;2;;Rue de la Mare;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.254532;45.835465
+16300_0060_00009;9;;Rue des Plantes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286872;45.845999
+16300_0024_00002;2;;Impasse de la Charbonnière;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.291041;45.843934
+16300_0180_00001;1;;Rue de Chez Naudou;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Chez Naudou St-Amant-de-Bonnieure;0.303226;45.858807
+16300_0080_00015;15;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288486;45.848338
+16300_0005_00001;1;;Place Arsène ROUDY;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287176;45.848599
+16300_0085_00002;2;;Rue du Tailleur;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28647;45.848784
+16300_0228_00002;2;;rue du cormier;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Cluzeau Ste-Colombe;0.306632;45.840292
+16300_0100_00014;14;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.28417;45.868122
+16300_0072_00014;14;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290234;45.847157
+16300_8lprtr_00001;1;;Rue de la Trimouille;16230;16300;Val-de-Bonnieure;Saint-Angeau;La Trimouille St-Angeau;0.289966;45.838661
+16300_0140_00005;5;;Rue de la Chaudellerie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Chaudellerie St-Amant-de-Bonnieure;0.313051;45.850237
+16300_0100_00005;5;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.283273;45.866832
+16300_0150_00001;1;;Rue de la Chaume;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.297541;45.847167
+16300_0020_00004;4;;Rue du Champ de Foire;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287722;45.848005
+16300_0066_00011;11;;Route de Puymerle;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Baige St-Angeau;0.260322;45.830057
+16300_0027_00006;6;;Square Edmond Tétaud;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.285957;45.849128
+16300_0082_00004;4;;Rue du Stade;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.289334;45.847011
+16300_0011_00008;8;;Route des Carrières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Pouillat St-Angeau;0.257477;45.839059
+16300_0080_00005;5;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.291293;45.848706
+16300_0091_00005;5;;Rue Froide;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.319241;45.833608
+16300_0590_00006;6;;Impasse des Taillis;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Picoteau Ste-Colombe;0.314041;45.837214
+16300_a001_00007;7;;Lot Ernest Le Léon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287616;45.849927
+16300_0015_00005;5;;Rue des Charrons;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288573;45.847516
+16300_0025_00003;3;;Rue des Croisettes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.280249;45.846094
+16300_0072_00037;37;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.285499;45.847476
+16300_0061_00004;4;;Rue des Praviots;16230;16300;Val-de-Bonnieure;Saint-Angeau;Biagne St-Angeau;0.265252;45.840658
+16300_0500_00014;14;;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.310108;45.854118
+16300_0080_00050;50;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28509;45.848793
+16300_itix2t_00006;6;;Cour Marchande;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287969;45.847092
+16300_0085_00005;5;;Rue du Tailleur;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28593;45.848733
+16300_0080_00019;19;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287705;45.84859
+16300_0200_00003;3;;Route de Chez Troubat;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.264847;45.861208
+16300_0190_00002;2;;Impasse de Chez Perrou;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.2847;45.8686
+16300_0750_00002;2;;Rue du Villars;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.331134;45.832553
+16300_0290_00002;2;;Route de la Fourlière;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Ballot Ste-Colombe;0.307502;45.824659
+16300_0410_00024;24;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.288988;45.854952
+16300_0399_00004;4;;Impasse du Moulin Neuf;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.317282;45.835995
+16300_0220_00002;2;;Chemin de la Combe;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.288212;45.855117
+16300_0100_00023;23;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284288;45.872133
+16300_0135_00005;5;;Route de la Chapelle;16230;16300;Val-de-Bonnieure;Sainte-Colombe;;0.323538;45.832843
+16300_0005_00002;2;;Place Arsène ROUDY;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287297;45.848756
+16300_0087_00001;1;;Rue Traversière;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28751;45.848485
+16300_0088_00003;3;;Rue des Tilleuls;16230;16300;Val-de-Bonnieure;Saint-Angeau;La Berthière St-Angeau;0.298966;45.827488
+16300_y9r8i4_00007;7;;Rue de Neufgrange;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.289164;45.847651
+16300_0320_00001;1;;Rue du Got;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.295547;45.846949
+16300_0072_00051;51;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284209;45.847586
+16300_0050_00020;20;;Rue Marcel Guillot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28639;45.847908
+16300_0107_00041;41;;Route de la Bonnieure;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Cluzeau Ste-Colombe;0.307003;45.839993
+16300_0015_00001;1;;Rue des Charrons;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288682;45.84766
+16300_0021_00004;4;;Impasse Champs Doulant;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.280723;45.84562
+16300_0035_00002;2;;Impasse du Lac;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Puyclavaud St-Amant-de-Bonnieure;0.312952;45.857757
+16300_b05vhg_00012;12;;Saint-Amant-de-Bonnieure;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;;0.29015;45.853212
+16300_0006_00008;8;;Rue de la Caille;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.256498;45.833531
+16300_0490_00010;10;;Rue de la Poterie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Poterie St-Amant-de-Bonnieure;0.30531;45.868689
+16300_0072_00053;53;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284231;45.847182
+16300_0340_00003;3;;route de la Joubalot;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Ballot Ste-Colombe;0.307116;45.824949
+16300_0058_00013;13;;Rue de la Mare;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.257369;45.835111
+16300_0080_00012;12;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288904;45.848397
+16300_0080_00054;54;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.285086;45.848639
+16300_0590_00004;4;;Impasse des Taillis;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Picoteau Ste-Colombe;0.313751;45.837029
+16300_0100_00019;19;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284646;45.869784
+16300_y9r8i4_00003;3;;Rue de Neufgrange;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28836;45.848054
+16300_0042_00009;9;;Impasse de la Grande Croix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290097;45.845438
+16300_0011_00012;12;;Route des Carrières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Pouillat St-Angeau;0.257197;45.839142
+16300_0085_00009;9;;Rue du Tailleur;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.285813;45.848713
+16300_0060_00010;10;;Rue des Plantes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28671;45.845953
+16300_0085_00001;1;;Rue du Tailleur;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28651;45.848736
+16300_0500_00004;4;;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.309165;45.85412
+16300_0100_00017;17;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284714;45.869376
+16300_0001_00016;16;;Rue de l'Ancienne École;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.256402;45.834503
+16300_0025_00007;7;;Rue des Croisettes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.280074;45.845774
+16300_0074_00002;2;;Route de Rochelot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284649;45.849303
+16300_0005_00004;4;;Place Arsène ROUDY;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287056;45.848735
+16300_0100_00018;18;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284642;45.86992
+16300_0520_00003;3;;Impasse de Puygelier;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.331271;45.83289
+16300_0074_00004;4;;Route de Rochelot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284077;45.849474
+16300_0500_00013;13;;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.310154;45.854303
+16300_0600_00002;2;;Route de la Tuilerie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.290847;45.86593
+16300_0582_00004;4;;Rue des Serysous;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.331182;45.831433
+16300_0730_00012;12;;Route des Versennes;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Guy-Ste Colombe;0.309925;45.830407
+16300_0420_00014;14;;Rue des Nérats;16230;16300;Val-de-Bonnieure;Sainte-Colombe;La Porte Ste-Colombe;0.330065;45.829679
+16300_itix2t_00003;3;;Cour Marchande;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287861;45.847341
+16300_0022_00001;1;;Impasse Champ Redon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.285534;45.845142
+16300_0160_00015;15;;Rue de Chez Changeur;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.290915;45.866856
+16300_0100_00003;3;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.283144;45.866774
+16300_0080_00046;46;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286704;45.849077
+16300_0100_00022;22;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284424;45.872094
+16300_0500_00007;7;;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.309458;45.854042
+16300_0093_00001;1;;Rue de la Poulette;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.317545;45.833245
+16300_a001_00001;1;;Lot Ernest Le Léon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288245;45.849745
+16300_0080_00032;32;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287904;45.84873
+16300_0007_00005;5;;Rue du Camping;16230;16300;Val-de-Bonnieure;Saint-Angeau;Devezeau St-Angeau;0.272966;45.840247
+16300_0072_00054;54;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;La Cerisaie Saint-Angeau;0.279984;45.846513
+16300_0410_00032;32;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.288706;45.85603
+16300_0045_00005;5;;Rue Jean Caboche;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.291012;45.845631
+16300_0099_00002;2;;Impasse de Bayou;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Puycharaud-Ste Colombe;0.336242;45.829866
+16300_0397_00001;1;;Rue des Moulins;16230;16300;Val-de-Bonnieure;Sainte-Colombe;;0.339923;45.836312
+16300_0080_00021;21;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287073;45.848921
+16300_0260_00010;10;;Rue des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.309143;45.854782
+16300_0004_00006;6;;Rue des Bouchauds;16230;16300;Val-de-Bonnieure;Saint-Angeau;Fougère St-Angeau;0.289607;45.830195
+16300_0050_00002;2;;Rue Marcel Guillot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286592;45.848999
+16300_0080_00040;40;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286983;45.849028
+16300_0063_00005;5;;Rue des Perdrix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.254638;45.833976
+16300_0080_00080;80;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.292488;45.852734
+16300_0001_00005;5;;Rue de l'Ancienne École;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.256379;45.834608
+16300_b012_00002;2;;Bois GIRAUD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Bois Giraud St-Angeau;0.270805;45.843615
+16300_0490_00008;8;;Rue de la Poterie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Poterie St-Amant-de-Bonnieure;0.30522;45.868809
+16300_0107_00002;2;;Route de la Bonnieure;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.318629;45.833359
+16300_0072_00016;16;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.289956;45.847287
+16300_0260_00008;8;;Rue des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.308855;45.854567
+16300_0065_00004;4;;Rue des Agriers;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.282772;45.867599
+16300_0011_00002;2;;Route des Carrières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Pouillat St-Angeau;0.258302;45.839849
+16300_0066_00009;9;;Route de Puymerle;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Baige St-Angeau;0.260511;45.8303
+16300_0080_00028;28;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28803;45.848596
+16300_0091_00009;9;;Rue Froide;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.31941;45.833547
+16300_0100_00004;4;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.28348;45.866829
+16300_0026_00003;3;;Rue de la Croix VERGNAUD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.280689;45.844886
+16300_0027_00004;4;;Square Edmond Tétaud;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286057;45.849134
+16300_cddb2f_00010;10;;Saint-Angeau;16230;16300;Val-de-Bonnieure;Saint-Angeau;;0.283981;45.8434
+16300_0290_00001;1;;Route de la Fourlière;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Ballot Ste-Colombe;0.307602;45.82464
+16300_0080_00066;66;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283974;45.847989
+16300_0107_00050;50;;Route de la Bonnieure;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Cluzeau Ste-Colombe;0.305649;45.841622
+16300_0007_00001;1;;Rue du Camping;16230;16300;Val-de-Bonnieure;Saint-Angeau;Devezeau St-Angeau;0.273172;45.840984
+16300_0050_00004;4;;Rue Marcel Guillot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286591;45.848942
+16300_0340_00016;16;;route de la Joubalot;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Ballot Ste-Colombe;0.306002;45.826918
+16300_0072_00059;59;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.282278;45.847121
+16300_0110_00021;21;;Rue de la Borde;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.297986;45.846166
+16300_0160_00013;13;;Rue de Chez Changeur;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.290396;45.866972
+16300_0088_00005;5;;Rue des Tilleuls;16230;16300;Val-de-Bonnieure;Saint-Angeau;La Berthière St-Angeau;0.299036;45.827242
+16300_0020_00008;8;;Rue du Champ de Foire;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287705;45.847747
+16300_0054_00004;4;;Rue du Logis;16230;16300;Val-de-Bonnieure;Saint-Angeau;Devezeau St-Angeau;0.27037;45.839639
+16300_0050_00001;1;;Rue Marcel Guillot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286694;45.84884
+16300_0082_00006;6;;Rue du Stade;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.289339;45.846948
+16300_0410_00001;1;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.28891;45.853783
+16300_0072_00022;22;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287324;45.847559
+16300_y9r8i4_00008;8;;Rue de Neufgrange;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288603;45.847819
+16300_0600_00003;3;;Route de la Tuilerie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.289349;45.864943
+16300_0330_00004;4;;Rue des Grands Bois;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Puyclavaud St-Amant-de-Bonnieure;0.312323;45.858162
+16300_0009_00012;12;;Route des Canepetières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.25338;45.835096
+16300_0280_00001;1;;Rue des Fosses;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Poterie St-Amant-de-Bonnieure;0.306346;45.869212
+16300_0007_00004;4;;Rue du Camping;16230;16300;Val-de-Bonnieure;Saint-Angeau;Devezeau St-Angeau;0.272875;45.841455
+16300_0582_00001;1;;Rue des Serysous;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.331222;45.831611
+16300_b012_00010;10;;Bois GIRAUD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Bois Giraud St-Angeau;0.269347;45.842744
+16300_0099_00004;4;;Impasse de Bayou;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Puycharaud-Ste Colombe;0.336201;45.829832
+16300_0085_00003;3;;Rue du Tailleur;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286317;45.848728
+16300_0150_00007;7;;Rue de la Chaume;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.29708;45.846665
+16300_0110_00019;19;;Rue de la Borde;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.297354;45.846386
+16300_0015_00002;2;;Rue des Charrons;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288599;45.847661
+16300_0410_00008;8;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.291522;45.852957
+16300_0139_00002;2;;Rue du Château;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.321236;45.832732
+16300_0006_00005;5;;Rue de la Caille;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.256326;45.83293
+16300_0090_00003;3;;Rue de l'Église;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.319371;45.833168
+16300_0040_00020;20;;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283244;45.845022
+16300_0080_00006;6;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290058;45.848603
+16300_b05vhg_00007;7;;Saint-Amant-de-Bonnieure;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;;0.288472;45.856169
+16300_0020_00001;1;;Rue du Champ de Foire;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287846;45.848071
+16300_0021_00001;1;;Impasse Champs Doulant;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.2805;45.845359
+16300_0080_00029;29;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286143;45.848871
+16300_0011_00003;3;;Route des Carrières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Pouillat St-Angeau;0.25764;45.83913
+16300_0001_00012;12;;Rue de l'Ancienne École;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.256192;45.834453
+16300_0160_00011;11;;Rue de Chez Changeur;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.285777;45.867991
+16300_0045_00006;6;;Rue Jean Caboche;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290478;45.844966
+16300_0700_00005;5;;Rue des Vergers;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Cluzeau Ste-Colombe;0.306543;45.840338
+16300_0056_00003;3;;Impasse du Magnolia;16230;16300;Val-de-Bonnieure;Saint-Angeau;La Berthière St-Angeau;0.300574;45.826861
+16300_0240_00005;5;;Impasse de la Duchesse;16230;16300;Val-de-Bonnieure;Sainte-Colombe;La Chapelle Ste-Colombe;0.343289;45.832848
+16300_0072_00008;8;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290884;45.846921
+16300_0060_00022;22;;Rue des Plantes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286201;45.844436
+16300_0570_00006;6;;Rue du Sargnat;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.288432;45.864819
+16300_0080_00017;17;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288153;45.848412
+16300_0040_00007;7;;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284791;45.846167
+16300_0115_00008;8;;Rue du Bouquet;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Cluzeau Ste-Colombe;0.306872;45.841391
+16300_0040_00010;10;;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.285221;45.84647
+16300_0730_00013;13;;Route des Versennes;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Guy-Ste Colombe;0.309993;45.830197
+16300_0072_00062;62;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;;0.278484;45.846141
+16300_0540_00001;1;;Chemin de Rochelot;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.28135;45.852302
+16300_0410_00003;3;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.288829;45.853811
+16300_0072_00028;28;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.285386;45.847648
+16300_0135_00024;24;;Route de la Chapelle;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.331918;45.831873
+16300_0001_00014;14;;Rue de l'Ancienne École;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.256304;45.834414
+16300_0180_00004;4;;Rue de Chez Naudou;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Chez Naudou St-Amant-de-Bonnieure;0.303836;45.85874
+16300_b05vhg_00010;10;;Saint-Amant-de-Bonnieure;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;;0.290579;45.853093
+16300_0080_00038;38;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287134;45.84902
+16300_0072_00032;32;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284631;45.847695
+16300_0180_00006;6;;Rue de Chez Naudou;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Chez Naudou St-Amant-de-Bonnieure;0.303976;45.858874
+16300_y9r8i4_00005;5;;Rue de Neufgrange;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.289044;45.847714
+16300_0010_00006;6;;Rue de la Barraude;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284009;45.848867
+16300_0024_00003;3;;Impasse de la Charbonnière;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.291072;45.844117
+16300_alwd2m_00009;9;;Impasse du Four;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288011;45.846574
+16300_0022_00004;4;;Impasse Champ Redon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28549;45.845419
+16300_0086_00002;2;;Route de la Tardoire;16230;16300;Val-de-Bonnieure;Saint-Angeau;;0.254896;45.844913
+16300_0022_00016;16;;Impasse Champ Redon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284732;45.844543
+16300_0050_00018;18;;Rue Marcel Guillot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286411;45.848059
+16300_0570_00002;2;;Rue du Sargnat;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.288217;45.864077
+16300_a001_00006;6;;Lot Ernest Le Léon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288033;45.849996
+16300_0260_00002;2;;Rue des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.308081;45.853943
+16300_0066_00013;13;;Route de Puymerle;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Baige St-Angeau;0.259926;45.830021
+16300_0009_00011;11;;Route des Canepetières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.253778;45.835161
+16300_0046_00005;5;;Impasse des Lavandes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283574;45.846855
+16300_0160_00001;1;;Rue de Chez Changeur;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284293;45.867814
+16300_0020_00002;2;;Rue du Champ de Foire;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287732;45.848068
+16300_0015_00003;3;;Rue des Charrons;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288629;45.847587
+16300_cddb2f_00012;12;;Saint-Angeau;16230;16300;Val-de-Bonnieure;Saint-Angeau;;0.28438;45.84325
+16300_0100_00008;8;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284049;45.86728
+16300_0221_00001;1;;Rue des Combeaux;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Guy-Ste Colombe;0.310822;45.830517
+16300_0011_00005;5;;Route des Carrières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Pouillat St-Angeau;0.257828;45.838969
+16300_0110_00001;1;;Rue de la Borde;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.291623;45.846819
+16300_0150_00005;5;;Rue de la Chaume;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.297315;45.846847
+16300_0340_00012;12;;route de la Joubalot;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Ballot Ste-Colombe;0.306834;45.825453
+16300_0060_00014;14;;Rue des Plantes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286468;45.845291
+16300_0088_00007;7;;Rue des Tilleuls;16230;16300;Val-de-Bonnieure;Saint-Angeau;La Berthière St-Angeau;0.299772;45.827153
+16300_0340_00010;10;;route de la Joubalot;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Ballot Ste-Colombe;0.307003;45.825129
+16300_0058_00011;11;;Rue de la Mare;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.257212;45.834698
+16300_0590_00003;3;;Impasse des Taillis;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Picoteau Ste-Colombe;0.313614;45.836898
+16300_0025_00008;8;;Rue des Croisettes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.279673;45.8454
+16300_0410_00020;20;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.289083;45.854916
+16300_0046_00004;4;;Impasse des Lavandes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283669;45.846558
+16300_0400_00002;2;;Rue du Moulin du Pont;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.298023;45.846955
+16300_0080_00056;56;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284653;45.848789
+16300_0100_00002;2;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.282994;45.866567
+16300_0040_00015;15;;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283879;45.845499
+16300_0100_00002_bis;2;bis;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.282949;45.866154
+16300_0027_00008;8;;Square Edmond Tétaud;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.285831;45.849109
+16300_b05vhg_00006;6;;Saint-Amant-de-Bonnieure;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;;0.291776;45.852933
+16300_0074_00019;19;;Route de Rochelot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.276825;45.850373
+16300_0582_00006;6;;Rue des Serysous;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.33128;45.831295
+16300_alwd2m_00013;13;;Impasse du Four;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287528;45.846688
+16300_0072_00017;17;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.2881;45.847391
+16300_0110_00013;13;;Rue de la Borde;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.296198;45.846601
+16300_0399_00001;1;;Impasse du Moulin Neuf;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.31682;45.83499
+16300_0067_00010;10;;Route des Ponts;16230;16300;Val-de-Bonnieure;Saint-Angeau;Biagne St-Angeau;0.264544;45.840943
+16300_0490_00012;12;;Rue de la Poterie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Poterie St-Amant-de-Bonnieure;0.306742;45.868092
+16300_0007_00007;7;;Rue du Camping;16230;16300;Val-de-Bonnieure;Saint-Angeau;Devezeau St-Angeau;0.27251;45.83968
+16300_0500_00009;9;;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.309646;45.85392
+16300_a002_00005;5;;Lot Les hauts de Saint-Angeau;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284388;45.843411
+16300_0008_00001;1;;Rue des Châtaigniers;16230;16300;Val-de-Bonnieure;Saint-Angeau;La Berthière St-Angeau;0.2978;45.82749
+16300_0107_00004;4;;Route de la Bonnieure;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.318869;45.833485
+16300_0087_00007;7;;Rue Traversière;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286921;45.848187
+16300_0340_00008;8;;route de la Joubalot;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Ballot Ste-Colombe;0.30732;45.824981
+16300_b012_00014;14;;Bois GIRAUD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Bois Giraud St-Angeau;0.269288;45.842732
+16300_a001_00004;4;;Lot Ernest Le Léon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288516;45.849868
+16300_0139_00008;8;;Rue du Château;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.320016;45.832944
+16300_0054_00003;3;;Rue du Logis;16230;16300;Val-de-Bonnieure;Saint-Angeau;Devezeau St-Angeau;0.270318;45.839886
+16300_0024_00001;1;;Impasse de la Charbonnière;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290851;45.843907
+16300_0072_00066;66;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.277962;45.846078
+16300_0750_00004;4;;Rue du Villars;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.331309;45.832128
+16300_0072_00031;31;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;;0.287204;45.847475
+16300_yxph6z_00001;1;;Lieu Dit les Seygelards;16230;16300;Val-de-Bonnieure;Sainte-Colombe;;0.322081;45.830115
+16300_0066_00006;6;;Route de Puymerle;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Baige St-Angeau;0.259935;45.830231
+16300_alwd2m_00001;1;;Impasse du Four;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28926;45.846393
+16300_0480_00003;3;;Impasse des Pierres Blanches;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.289469;45.854292
+16300_0450_00001_bis;1;bis;Rue des Ouches;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Chez David St-Amant-de-Bonnieure;0.306647;45.85705
+16300_0130_00002;2;;Rue du Cantou;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.296547;45.846951
+16300_0490_00004;4;;Rue de la Poterie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Poterie St-Amant-de-Bonnieure;0.305132;45.869441
+16300_0010_00002;2;;Rue de la Barraude;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284674;45.849004
+16300_a002_00009;9;;Lot Les hauts de Saint-Angeau;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28426;45.843959
+16300_0060_00026_bis;26;bis;Rue des Plantes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286073;45.843795
+16300_p7mumo_02004;2004;;Les Brandaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;;0.317528;45.865585
+16300_0130_00001;1;;Rue du Cantou;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.296327;45.847223
+16300_0582_00005;5;;Rue des Serysous;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.331373;45.831275
+16300_0107_00032;32;;Route de la Bonnieure;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Picoteau Ste-Colombe;0.313043;45.836622
+16300_0082_00008;8;;Rue du Stade;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28936;45.846701
+16300_0035_00003;3;;Impasse du Lac;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Puyclavaud St-Amant-de-Bonnieure;0.313411;45.857337
+16300_0080_00007;7;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290878;45.848635
+16300_0087_00005;5;;Rue Traversière;16230;16300;Val-de-Bonnieure;Saint-Angeau;;0.287327;45.848325
+16300_0730_00017;17;;Route des Versennes;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Guy-Ste Colombe;0.30935;45.829522
+16300_0063_00014;14;;Rue des Perdrix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.254912;45.833575
+16300_0060_00016;16;;Rue des Plantes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28646;45.845172
+16300_0510_00005;5;;Rue de Puyclavaud;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Puyclavaud St-Amant-de-Bonnieure;0.313138;45.85808
+16300_0004_00010;10;;Rue des Bouchauds;16230;16300;Val-de-Bonnieure;Saint-Angeau;Fougère St-Angeau;0.289634;45.829595
+16300_0007_00008;8;;Rue du Camping;16230;16300;Val-de-Bonnieure;Saint-Angeau;Devezeau St-Angeau;0.272979;45.840817
+16300_0570_00008;8;;Rue du Sargnat;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.288271;45.864973
+16300_0380_00001;1;;Rue du Logis du Châtenet;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284716;45.863535
+16300_0580_00005;5;;Rue de la Scierie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284663;45.865082
+16300_0067_00004;4;;Route des Ponts;16230;16300;Val-de-Bonnieure;Saint-Angeau;Biagne St-Angeau;0.265417;45.841121
+16300_0009_00001;1;;Route des Canepetières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.25597;45.836529
+16300_0110_00006;6;;Rue de la Borde;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.296342;45.846497
+16300_0130_00003;3;;Rue du Cantou;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.29666;45.846969
+16300_0080_00022;22;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288303;45.848445
+16300_0500_00020;20;;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.31039;45.854715
+16300_0240_00003;3;;Impasse de la Duchesse;16230;16300;Val-de-Bonnieure;Sainte-Colombe;La Chapelle Ste-Colombe;0.343266;45.832593
+16300_0087_00006;6;;Rue Traversière;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286741;45.848296
+16300_0115_00010;10;;Rue du Bouquet;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Cluzeau Ste-Colombe;0.306922;45.841468
+16300_0470_00002;2;;Route Paul Mairat;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.30234;45.869266
+16300_0107_00012;12;;Route de la Bonnieure;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.3175;45.834132
+16300_0410_00004;4;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.292129;45.852915
+16300_0080_00036;36;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287359;45.848907
+16300_y9r8i4_00001;1;;Rue de Neufgrange;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288152;45.848159
+16300_0040_00017;17;;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283678;45.845364
+16300_0006_00012;12;;Rue de la Caille;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.256398;45.83354
+16300_0730_00014;14;;Route des Versennes;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Guy-Ste Colombe;0.309841;45.830165
+16300_0110_00010;10;;Rue de la Borde;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.297046;45.846373
+16300_0009_00001_bis;1;bis;Route des Canepetières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.256224;45.836236
+16300_0067_00008;8;;Route des Ponts;16230;16300;Val-de-Bonnieure;Saint-Angeau;Biagne St-Angeau;0.264763;45.840985
+16300_0025_00011;11;;Rue des Croisettes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.279926;45.845
+16300_0180_00008;8;;Rue de Chez Naudou;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Chez Naudou St-Amant-de-Bonnieure;0.304136;45.858986
+16300_0040_00022;22;;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283153;45.84471
+16300_y9r8i4_00002;2;;Rue de Neufgrange;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.287896;45.848191
+16300_0040_00011;11;;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284297;45.845804
+16300_l7ghvn_00011;11;;Rue du Puits;16230;16300;Val-de-Bonnieure;Saint-Angeau;Fougère St-Angeau;0.288572;45.829681
+16300_0088_00009;9;;Rue des Tilleuls;16230;16300;Val-de-Bonnieure;Saint-Angeau;La Berthière St-Angeau;0.300194;45.827026
+16300_0067_00003;3;;Route des Ponts;16230;16300;Val-de-Bonnieure;Saint-Angeau;Biagne St-Angeau;0.264391;45.840792
+16300_0021_00002;2;;Impasse Champs Doulant;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.280721;45.845336
+16300_0052_00001;1;;Rue des Lauriers;16230;16300;Val-de-Bonnieure;Saint-Angeau;La Berthière St-Angeau;0.297461;45.827515
+16300_0072_00018;18;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28974;45.84737
+16300_0072_00055;55;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283787;45.847596
+16300_0080_00001;1;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.291668;45.848893
+16300_0140_00003;3;;Rue de la Chaudellerie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Chaudellerie St-Amant-de-Bonnieure;0.312906;45.85017
+16300_0570_00001;1;;Rue du Sargnat;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.288161;45.8642
+16300_0410_00028;28;;Rue de Muzenangle;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.288741;45.855379
+16300_0260_00004;4;;Rue des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.308186;45.854086
+16300_0139_00002_bis;2;bis;Rue du Château;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.321154;45.832753
+16300_0022_00005;5;;Impasse Champ Redon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284955;45.844619
+16300_0006_00002;2;;Rue de la Caille;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.257381;45.834228
+16300_0050_00006;6;;Rue Marcel Guillot;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286535;45.848875
+16300_0397_00002;2;;Rue des Moulins;16230;16300;Val-de-Bonnieure;;;0.340128;45.836652
+16300_0045_00013;13;;Rue Jean Caboche;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.290095;45.844098
+16300_0139_00001;1;;Rue du Château;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.320644;45.832661
+16300_0072_00024;24;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286954;45.847562
+16300_0135_00003;3;;Route de la Chapelle;16230;16300;Val-de-Bonnieure;Sainte-Colombe;;0.32294;45.832839
+16300_0025_00001;1;;Rue des Croisettes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.280346;45.846184
+16300_y9r8i4_00006;6;;Rue de Neufgrange;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288472;45.847888
+16300_0072_00058;58;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.278974;45.846225
+16300_0001_00006;6;;Rue de l'Ancienne École;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.255438;45.834477
+16300_0003_00001;1;;Rue de la Billette;16230;16300;Val-de-Bonnieure;Saint-Angeau;Fougère St-Angeau;0.289133;45.830285
+16300_0490_00005;5;;Rue de la Poterie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Poterie St-Amant-de-Bonnieure;0.305704;45.868894
+16300_0100_00007;7;;Rue des Blondeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.283614;45.867002
+16300_0230_00001;1;;Route de Coutumat;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Saint-Amant-de-Bonnieure;0.29314;45.8641
+16300_0063_00013;13;;Rue des Perdrix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.255823;45.833224
+16300_0093_00012;12;;Rue de la Poulette;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.317258;45.833014
+16300_0580_00009;9;;Rue de la Scierie;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.285772;45.86738
+16300_0066_00015;15;;Route de Puymerle;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Baige St-Angeau;0.25982;45.829608
+16300_0082_00005;5;;Rue du Stade;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.289279;45.845563
+16300_0500_00018;18;;Rue du Puits des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.310569;45.854634
+16300_0063_00004;4;;Rue des Perdrix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.253485;45.834527
+16300_0060_00018;18;;Rue des Plantes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286277;45.844758
+16300_0010_00021;21;;Rue de la Barraude;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.280628;45.848566
+16300_0011_00004;4;;Route des Carrières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Pouillat St-Angeau;0.257903;45.839514
+16300_0072_00007;7;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.291417;45.846487
+16300_0029_00001;1;;Chemin de la Côte;16230;16300;Val-de-Bonnieure;;;0.254791;45.846169
+16300_0060_00020;20;;Rue des Plantes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286245;45.844665
+16300_0395_00005;5;;Impasse des Monges;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.331959;45.831442
+16300_0067_00014;14;;Route des Ponts;16230;16300;Val-de-Bonnieure;Saint-Angeau;Biagne St-Angeau;0.263769;45.840775
+16300_0063_00006;6;;Rue des Perdrix;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.253802;45.834359
+16300_0190_00003;3;;Impasse de Chez Perrou;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284854;45.868733
+16300_0150_00003;3;;Rue de la Chaume;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;La Borde St-Amant-de-Bonnieure;0.297592;45.84693
+16300_0160_00002;2;;Rue de Chez Changeur;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.284834;45.867788
+16300_0022_00018;18;;Impasse Champ Redon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284626;45.844374
+16300_0011_00014;14;;Route des Carrières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Pouillat St-Angeau;0.257327;45.838944
+16300_0098_00001;1;;Rue de l'Age;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Guy-Ste Colombe;0.310636;45.830017
+16300_0260_00001;1;;Rue des Épardeaux;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Les Épardeaux St-Amant-de-Bonnieure;0.309206;45.854979
+16300_0480_00005;5;;Impasse des Pierres Blanches;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Muzenangle St-Amant-de-Bonnieure;0.289487;45.85426
+16300_0061_00008;8;;Rue des Praviots;16230;16300;Val-de-Bonnieure;Saint-Angeau;Biagne St-Angeau;0.26541;45.840567
+16300_0040_00023;23;;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283288;45.844613
+16300_0060_00024;24;;Rue des Plantes;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.286128;45.844231
+16300_0011_00010;10;;Route des Carrières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Pouillat St-Angeau;0.257213;45.839171
+16300_a002_00028;28;;Lot Les hauts de Saint-Angeau;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.2842;45.844145
+16300_0022_00012;12;;Impasse Champ Redon;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.284886;45.8449
+16300_0080_00002;2;;Rue des Saint-Amants;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.291553;45.849164
+16300_0530_00006;6;;Rue des Renclos;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.282285;45.864195
+16300_0011_00018;18;;Route des Carrières;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Pouillat St-Angeau;0.25696;45.838476
+16300_0065_00002;2;;Rue des Agriers;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Le Châtenet St-Amant-de-Bonnieure;0.282745;45.86693
+16300_0340_00011;11;;route de la Joubalot;16230;16300;Val-de-Bonnieure;Sainte-Colombe;L'Age Ballot Ste-Colombe;0.306688;45.825379
+16300_0582_00003;3;;Rue des Serysous;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.331279;45.831411
+16300_0058_00009;9;;Rue de la Mare;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.256702;45.834753
+16300_0139_00005;5;;Rue du Château;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.319867;45.832857
+16300_0040_00003;3;;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.28617;45.847075
+16300_0001_00010;10;;Rue de l'Ancienne École;16230;16300;Val-de-Bonnieure;Saint-Angeau;Terrebourg St-Angeau;0.255807;45.834387
+16300_0038_00005;5;;Chemin du Gué;16230;16300;Val-de-Bonnieure;Saint-Angeau;Chez Baige St-Angeau;0.264404;45.831234
+16300_0072_00011;11;;Rue de LA ROCHEFOUCAULD;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.288749;45.847311
+16300_0093_00004;4;;Rue de la Poulette;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Le Bourg Ste-Colombe;0.317685;45.833371
+16300_l7ghvn_00002;2;;Rue du Puits;16230;16300;Val-de-Bonnieure;;Fougère St-Angeau;0.287889;45.829678
+16300_0582_00002;2;;Rue des Serysous;16230;16300;Val-de-Bonnieure;Sainte-Colombe;Chez Bouillaud Ste-Colombe;0.331097;45.83161
+16300_0040_00019;19;;Rue de la Gendarmerie;16230;16300;Val-de-Bonnieure;Saint-Angeau;Saint-Angeau;0.283582;45.845191
+16300_0450_00001;1;;Rue des Ouches;16230;16300;Val-de-Bonnieure;Saint-Amant-de-Bonnieure;Chez David St-Amant-de-Bonnieure;0.307721;45.856928
+16300_0135_00001;1;;Route de la Chapelle;16230;16300;Val-de-Bonnieure;Sainte-Colombe;;0.32253;45.832805

@@ -1,0 +1,559 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+69257_0200_00087;87;;rue du sotison;69460;69257;Vaux-en-Beaujolais;;;4.579051;46.053737
+69257_0110_00060;60;;rue du mathy;69460;69257;Vaux-en-Beaujolais;;;4.587702;46.050755
+69257_0008_01183;1183;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.600954;46.045559
+69257_0575_00057;57;;chemin du lora;69460;69257;Vaux-en-Beaujolais;;;4.583874;46.049925
+69257_0393_00016;16;;route de la bourdissonne;69460;69257;Vaux-en-Beaujolais;;;4.594081;46.056258
+69257_0392_00982;982;;rue de blacé;69460;69257;Vaux-en-Beaujolais;;;4.605892;46.041801
+69257_0388_00419;419;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.574377;46.048671
+69257_0110_00116;116;;rue du mathy;69460;69257;Vaux-en-Beaujolais;;;4.588145;46.050351
+69257_0436_00665;665;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.601773;46.058791
+69257_0438_00139;139;;impasse du clos;69460;69257;Vaux-en-Beaujolais;;;4.589686;46.055755
+69257_0504_00027;27;;chemin de geingeat;69460;69257;Vaux-en-Beaujolais;;;4.607559;46.050072
+69257_0658_02792;2792;;route de la papilloud;69460;69257;Vaux-en-Beaujolais;;;4.558646;46.049218
+69257_0388_00013;13;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.578765;46.050061
+69257_0370_01709;1709;;route d'arbuissonnas;69460;69257;Vaux-en-Beaujolais;;;4.601595;46.052379
+69257_0393_00494;494;;route de la bourdissonne;69460;69257;Vaux-en-Beaujolais;;;4.594448;46.055489
+69257_0530_01623;1623;;rue du jean thomas;69460;69257;Vaux-en-Beaujolais;;;4.555684;46.055638
+69257_0382_00033;33;;rue barthélémy piéchut;69460;69257;Vaux-en-Beaujolais;;;4.591381;46.055945
+69257_0750_00090;90;;rue de la valla;69460;69257;Vaux-en-Beaujolais;;;4.603937;46.058202
+69257_0432_00542;542;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.591362;46.057537
+69257_0021_00876;876;;rue du chavel;69460;69257;Vaux-en-Beaujolais;;;4.597902;46.05382
+69257_0432_00472;472;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.592213;46.057764
+69257_0392_00950;950;;rue de blacé;69460;69257;Vaux-en-Beaujolais;;;4.606091;46.042067
+69257_0393_00101;101;;route de la bourdissonne;69460;69257;Vaux-en-Beaujolais;;;4.593273;46.055804
+69257_0436_00095;95;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.59535;46.056572
+69257_0382_00214;214;;rue barthélémy piéchut;69460;69257;Vaux-en-Beaujolais;;;4.5893;46.055247
+69257_0019_00024;24;;rue du château;69460;69257;Vaux-en-Beaujolais;;;4.589587;46.056874
+69257_0019_00185;185;;rue du château;69460;69257;Vaux-en-Beaujolais;;;4.591562;46.056571
+69257_0017_00175;175;;rue du chardon;69460;69257;Vaux-en-Beaujolais;;;4.604783;46.0415
+69257_0510_00075;75;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.58813;46.056582
+69257_0437_00065;65;;impasse des coteaux;69460;69257;Vaux-en-Beaujolais;;;4.586381;46.050685
+69257_0008_00622;622;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.607204;46.047259
+69257_0010_00069;69;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.592642;46.056311
+69257_0436_00593;593;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.600948;46.058481
+69257_0753_00040;40;;impasse du villard;69460;69257;Vaux-en-Beaujolais;;;4.601141;46.049813
+69257_0480_00055;55;;rue des eaux;69460;69257;Vaux-en-Beaujolais;;;4.600174;46.048257
+69257_0658_01971;1971;;route de la papilloud;69460;69257;Vaux-en-Beaujolais;;;4.567111;46.051775
+69257_0388_00491;491;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.573706;46.048241
+69257_0756_00594;594;;chemin vers le bois;69460;69257;Vaux-en-Beaujolais;;;4.597819;46.060576
+69257_0325_00056;56;;rue du vieux bourg;69460;69257;Vaux-en-Beaujolais;;;4.592218;46.057229
+69257_0350_00022;22;;Allée Albert Dubout;69460;69257;Vaux-en-Beaujolais;;;4.592479;46.05604
+69257_0384_00067;67;;impasse du bas des balmes;69460;69257;Vaux-en-Beaujolais;;;4.599927;46.046135
+69257_0010_00056;56;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.592508;46.056234
+69257_0510_01085;1085;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.576744;46.053107
+69257_0492_00011;11;;rue de fromental;69460;69257;Vaux-en-Beaujolais;;;4.589237;46.057116
+69257_0432_00396;396;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.593178;46.057933
+69257_0439_00340;340;;rue du crêt polettes;69460;69257;Vaux-en-Beaujolais;;;4.596134;46.053063
+69257_0017_00089;89;;rue du chardon;69460;69257;Vaux-en-Beaujolais;;;4.605572;46.041986
+69257_0510_00195;195;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.58659;46.056399
+69257_0492_00033;33;;rue de fromental;69460;69257;Vaux-en-Beaujolais;;;4.589055;46.057266
+69257_0003_00120;120;;rue claude braillon;69460;69257;Vaux-en-Beaujolais;;;4.592355;46.056888
+69257_0428_00022;22;;allée de chatel;69460;69257;Vaux-en-Beaujolais;;;4.588835;46.049967
+69257_0661_00043;43;;rue des peupliers;69460;69257;Vaux-en-Beaujolais;;;4.596942;46.053091
+69257_0510_00862;862;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.579099;46.054017
+69257_0432_00555;555;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.591247;46.057437
+69257_0510_00900;900;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.578608;46.054004
+69257_0436_00103;103;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.595451;46.056597
+69257_0575_00046;46;;chemin du lora;69460;69257;Vaux-en-Beaujolais;;;4.583823;46.050038
+69257_0017_00180;180;;rue du chardon;69460;69257;Vaux-en-Beaujolais;;;4.604681;46.041482
+69257_0575_00055;55;;chemin du lora;69460;69257;Vaux-en-Beaujolais;;;4.583878;46.049947
+69257_0614_00023;23;;rue des muids;69460;69257;Vaux-en-Beaujolais;;;4.595929;46.052527
+69257_0754_00028;28;;impasse du verger;69460;69257;Vaux-en-Beaujolais;;;4.589567;46.051596
+69257_0480_00044;44;;rue des eaux;69460;69257;Vaux-en-Beaujolais;;;4.600037;46.048309
+69257_0720_00862;862;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.580326;46.050454
+69257_0510_00357;357;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.584673;46.055891
+69257_0017_00097;97;;rue du chardon;69460;69257;Vaux-en-Beaujolais;;;4.605478;46.041958
+69257_0428_00119;119;;allée de chatel;69460;69257;Vaux-en-Beaujolais;;;4.589535;46.050135
+69257_0602_00660;660;;rue de la mine;69460;69257;Vaux-en-Beaujolais;;;4.570173;46.046385
+69257_0025_00058;58;;rue louis de vermont;69460;69257;Vaux-en-Beaujolais;;;4.590834;46.055147
+69257_0393_00088;88;;route de la bourdissonne;69460;69257;Vaux-en-Beaujolais;;;4.593359;46.055919
+69257_0509_00230;230;;chemin de gunthey;69460;69257;Vaux-en-Beaujolais;;;4.603308;46.053764
+69257_0388_00125;125;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.577397;46.04995
+69257_0010_00117;117;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.59326;46.056386
+69257_0432_00083;83;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.592482;46.056576
+69257_0669_00029;29;;impasse de poizut;69460;69257;Vaux-en-Beaujolais;;;4.576519;46.047117
+69257_0436_00609;609;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.601111;46.058588
+69257_0019_00009;9;;rue du château;69460;69257;Vaux-en-Beaujolais;;;4.589488;46.057006
+69257_0530_01662;1662;;rue du jean thomas;69460;69257;Vaux-en-Beaujolais;;;4.555719;46.055997
+69257_0427_00054;54;;impasse des châtaigniers;69460;69257;Vaux-en-Beaujolais;;;4.55709;46.042124
+69257_0510_00263;263;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.585743;46.056278
+69257_0510_00920;920;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.57834;46.05399
+69257_0003_00108;108;;rue claude braillon;69460;69257;Vaux-en-Beaujolais;;;4.592497;46.056927
+69257_0439_00496;496;;rue du crêt polettes;69460;69257;Vaux-en-Beaujolais;;;4.597915;46.052879
+69257_0604_00075;75;;impasse des miracles;69460;69257;Vaux-en-Beaujolais;;;4.591742;46.055603
+69257_0432_00658;658;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.58996;46.057179
+69257_0510_00325;325;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.585072;46.055995
+69257_0424_00098;98;;chemin de charodet;69460;69257;Vaux-en-Beaujolais;;;4.611708;46.049609
+69257_0530_00066;66;;rue du jean thomas;69460;69257;Vaux-en-Beaujolais;;;4.565903;46.051853
+69257_0510_01108;1108;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.576409;46.053093
+69257_0200_00093;93;;rue du sotison;69460;69257;Vaux-en-Beaujolais;;;4.579066;46.053788
+69257_0393_00025;25;;route de la bourdissonne;69460;69257;Vaux-en-Beaujolais;;;4.594115;46.056152
+69257_0754_00071;71;;impasse du verger;69460;69257;Vaux-en-Beaujolais;;;4.589023;46.051347
+69257_0436_00189;189;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.596328;46.057041
+69257_0710_00011;11;;Chemin de Rochefolle;69460;69257;Vaux-en-Beaujolais;;;4.605302;46.042027
+69257_0510_00897;897;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.578648;46.053972
+69257_0010_00141;141;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.593573;46.056408
+69257_0604_00029;29;;impasse des miracles;69460;69257;Vaux-en-Beaujolais;;;4.591148;46.055521
+69257_0103_00251;251;;rue de la maison jaune;69460;69257;Vaux-en-Beaujolais;;;4.579512;46.049077
+69257_0424_00068;68;;chemin de charodet;69460;69257;Vaux-en-Beaujolais;;;4.611727;46.049331
+69257_0754_00056;56;;impasse du verger;69460;69257;Vaux-en-Beaujolais;;;4.589125;46.051462
+69257_0720_01124;1124;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.578125;46.048842
+69257_0436_00601;601;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.601019;46.058533
+69257_0021_00933;933;;rue du chavel;69460;69257;Vaux-en-Beaujolais;;;4.597757;46.053317
+69257_0021_00054;54;;rue du chavel;69460;69257;Vaux-en-Beaujolais;;;4.605694;46.058513
+69257_0382_00043;43;;rue barthélémy piéchut;69460;69257;Vaux-en-Beaujolais;;;4.591292;46.055906
+69257_0021_00863;863;;rue du chavel;69460;69257;Vaux-en-Beaujolais;;;4.59802;46.053916
+69257_0432_00010;10;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.591814;46.056186
+69257_0666_00001;1;;chemin des plagnes;69460;69257;Vaux-en-Beaujolais;;;4.597656;46.05292
+69257_0610_00111;111;;chemin de montrichard;69460;69257;Vaux-en-Beaujolais;;;4.576991;46.046734
+69257_0432_00489;489;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.592041;46.057649
+69257_0200_00028;28;;rue du sotison;69460;69257;Vaux-en-Beaujolais;;;4.578635;46.053366
+69257_0432_00007;7;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.591721;46.056158
+69257_0509_00035;35;;chemin de gunthey;69460;69257;Vaux-en-Beaujolais;;;4.602055;46.052257
+69257_0658_03060;3060;;route de la papilloud;69460;69257;Vaux-en-Beaujolais;;;4.555415;46.048706
+69257_0041_00200;200;;impasse des écoles;69460;69257;Vaux-en-Beaujolais;;;4.595021;46.057275
+69257_0690_00103;103;;impasse des quatre vents;69460;69257;Vaux-en-Beaujolais;;;4.609763;46.050208
+69257_0750_00057;57;;rue de la valla;69460;69257;Vaux-en-Beaujolais;;;4.603534;46.057839
+69257_0430_00187;187;;rue des chouettes;69460;69257;Vaux-en-Beaujolais;;;4.571391;46.032027
+69257_0382_00007;7;;rue barthélémy piéchut;69460;69257;Vaux-en-Beaujolais;;;4.591708;46.056047
+69257_0754_00096;96;;impasse du verger;69460;69257;Vaux-en-Beaujolais;;;4.588698;46.051373
+69257_0010_00100;100;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.593049;46.056317
+69257_0604_00061;61;;impasse des miracles;69460;69257;Vaux-en-Beaujolais;;;4.591559;46.055574
+69257_0392_00072;72;;rue de blacé;69460;69257;Vaux-en-Beaujolais;;;4.614269;46.045351
+69257_0530_00065;65;;rue du jean thomas;69460;69257;Vaux-en-Beaujolais;;;4.565914;46.051797
+69257_0010_00108;108;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.593148;46.056325
+69257_0010_00008;8;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.591919;46.056075
+69257_0422_00290;290;;Chemin des Charmilles;69460;69257;Vaux-en-Beaujolais;;;4.608984;46.042176
+69257_0510_01023;1023;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.577235;46.05357
+69257_0424_00144;144;;chemin de charodet;69460;69257;Vaux-en-Beaujolais;;;4.611569;46.050014
+69257_0658_02698;2698;;route de la papilloud;69460;69257;Vaux-en-Beaujolais;;;4.559797;46.049121
+69257_0120_01707;1707;;chemin du montmain;69460;69257;Vaux-en-Beaujolais;;;4.549818;46.05399
+69257_0052_00191;191;;rue du fagolet;69460;69257;Vaux-en-Beaujolais;;;4.607786;46.04981
+69257_0110_00106;106;;rue du mathy;69460;69257;Vaux-en-Beaujolais;;;4.588059;46.05042
+69257_0120_01725;1725;;chemin du montmain;69460;69257;Vaux-en-Beaujolais;;;4.549987;46.054087
+69257_0382_00218;218;;rue barthélémy piéchut;69460;69257;Vaux-en-Beaujolais;;;4.589254;46.055234
+69257_0017_00130;130;;rue du chardon;69460;69257;Vaux-en-Beaujolais;;;4.605084;46.041846
+69257_0439_00400;400;;rue du crêt polettes;69460;69257;Vaux-en-Beaujolais;;;4.596753;46.052733
+69257_0614_00042;42;;rue des muids;69460;69257;Vaux-en-Beaujolais;;;4.596242;46.052521
+69257_0030_00077;77;;chemin des buis;69460;69257;Vaux-en-Beaujolais;;;4.564628;46.050901
+69257_0103_00249;249;;rue de la maison jaune;69460;69257;Vaux-en-Beaujolais;;;4.579509;46.049096
+69257_0350_00021;21;;Allée Albert Dubout;69460;69257;Vaux-en-Beaujolais;;;4.59254;46.056057
+69257_0325_00081;81;;rue du vieux bourg;69460;69257;Vaux-en-Beaujolais;;;4.592173;46.057024
+69257_0384_00033;33;;impasse du bas des balmes;69460;69257;Vaux-en-Beaujolais;;;4.600305;46.04609
+69257_0388_00469;469;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.573884;46.048387
+69257_0041_00042;42;;impasse des écoles;69460;69257;Vaux-en-Beaujolais;;;4.595008;46.058033
+69257_0008_00047;47;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.613561;46.045795
+69257_0003_00096;96;;rue claude braillon;69460;69257;Vaux-en-Beaujolais;;;4.592645;46.056966
+69257_0030_00044;44;;chemin des buis;69460;69257;Vaux-en-Beaujolais;;;4.564992;46.051046
+69257_0388_00181;181;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.576831;46.049724
+69257_0424_00542;542;;chemin de charodet;69460;69257;Vaux-en-Beaujolais;;;4.614305;46.050858
+69257_0669_00017;17;;impasse de poizut;69460;69257;Vaux-en-Beaujolais;;;4.576619;46.047204
+69257_0436_00146;146;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.595882;46.056699
+69257_0671_00137;137;;chemin du poyet;69460;69257;Vaux-en-Beaujolais;;;4.579553;46.046756
+69257_0388_00227;227;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.576673;46.049317
+69257_0438_00076;76;;impasse du clos;69460;69257;Vaux-en-Beaujolais;;;4.589198;46.055381
+69257_0388_00009;9;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.578808;46.050035
+69257_0610_00023;23;;chemin de montrichard;69460;69257;Vaux-en-Beaujolais;;;4.576623;46.04745
+69257_0103_00324;324;;rue de la maison jaune;69460;69257;Vaux-en-Beaujolais;;;4.579539;46.048432
+69257_0200_00079;79;;rue du sotison;69460;69257;Vaux-en-Beaujolais;;;4.57905;46.053661
+69257_0510_01088;1088;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.576628;46.053173
+69257_0017_00137;137;;rue du chardon;69460;69257;Vaux-en-Beaujolais;;;4.605057;46.041779
+69257_0510_00136;136;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.587333;46.056528
+69257_0052_00218;218;;rue du fagolet;69460;69257;Vaux-en-Beaujolais;;;4.608073;46.049663
+69257_0510_00046;46;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.588471;46.056688
+69257_0393_01347;1347;;route de la bourdissonne;69460;69257;Vaux-en-Beaujolais;;;4.604214;46.058423
+69257_0604_00005;5;;impasse des miracles;69460;69257;Vaux-en-Beaujolais;;;4.590845;46.055474
+69257_0392_01014;1014;;rue de blacé;69460;69257;Vaux-en-Beaujolais;;;4.605578;46.041639
+69257_0017_00155;155;;rue du chardon;69460;69257;Vaux-en-Beaujolais;;;4.604907;46.041655
+69257_0370_00529;529;;route d'arbuissonnas;69460;69257;Vaux-en-Beaujolais;;;4.588299;46.051562
+69257_0608_01210;1210;;rue du montanay;69460;69257;Vaux-en-Beaujolais;;;4.561161;46.045109
+69257_0110_00285;285;;rue du mathy;69460;69257;Vaux-en-Beaujolais;;;4.589537;46.050863
+69257_0370_02932;2932;;route d'arbuissonnas;69460;69257;Vaux-en-Beaujolais;;;4.608708;46.048852
+69257_0382_00227;227;;rue barthélémy piéchut;69460;69257;Vaux-en-Beaujolais;;;4.58919;46.055135
+69257_0370_01903;1903;;route d'arbuissonnas;69460;69257;Vaux-en-Beaujolais;;;4.601487;46.050335
+69257_0432_00456;456;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.592414;46.05782
+69257_0325_00041;41;;rue du vieux bourg;69460;69257;Vaux-en-Beaujolais;;;4.592296;46.057357
+69257_0432_00443;443;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.592604;46.057781
+69257_0530_00018;18;;rue du jean thomas;69460;69257;Vaux-en-Beaujolais;;;4.566539;46.051804
+69257_0019_00191;191;;rue du château;69460;69257;Vaux-en-Beaujolais;;;4.591635;46.056552
+69257_0008_01356;1356;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.598855;46.04577
+69257_0025_00009;9;;rue louis de vermont;69460;69257;Vaux-en-Beaujolais;;;4.59064;46.055563
+69257_0010_00166;166;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.593899;46.056375
+69257_0428_00116;116;;allée de chatel;69460;69257;Vaux-en-Beaujolais;;;4.589618;46.05016
+69257_0509_00024;24;;chemin de gunthey;69460;69257;Vaux-en-Beaujolais;;;4.60206;46.052173
+69257_0110_00301;301;;rue du mathy;69460;69257;Vaux-en-Beaujolais;;;4.589484;46.051195
+69257_0602_00362;362;;rue de la mine;69460;69257;Vaux-en-Beaujolais;;;4.573537;46.047499
+69257_0392_00959;959;;rue de blacé;69460;69257;Vaux-en-Beaujolais;;;4.60614;46.041995
+69257_0003_00172;172;;rue claude braillon;69460;69257;Vaux-en-Beaujolais;;;4.591706;46.056803
+69257_0436_00016;16;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.594362;46.05642
+69257_0510_00387;387;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.584297;46.055841
+69257_0437_00076;76;;impasse des coteaux;69460;69257;Vaux-en-Beaujolais;;;4.586229;46.050669
+69257_0427_00023;23;;impasse des châtaigniers;69460;69257;Vaux-en-Beaujolais;;;4.557451;46.04237
+69257_0392_00973;973;;rue de blacé;69460;69257;Vaux-en-Beaujolais;;;4.606094;46.041936
+69257_0690_00085;85;;impasse des quatre vents;69460;69257;Vaux-en-Beaujolais;;;4.609787;46.05005
+69257_0594_00089;89;;impasse du marronnier;69460;69257;Vaux-en-Beaujolais;;;4.595167;46.056878
+69257_0382_00179;179;;rue barthélémy piéchut;69460;69257;Vaux-en-Beaujolais;;;4.589753;46.055341
+69257_0750_00083;83;;rue de la valla;69460;69257;Vaux-en-Beaujolais;;;4.603757;46.058045
+69257_0110_00006;6;;rue du mathy;69460;69257;Vaux-en-Beaujolais;;;4.587284;46.05114
+69257_0753_00083;83;;impasse du villard;69460;69257;Vaux-en-Beaujolais;;;4.601546;46.050095
+69257_0754_00097;97;;impasse du verger;69460;69257;Vaux-en-Beaujolais;;;4.588666;46.051329
+69257_0370_03239;3239;;route d'arbuissonnas;69460;69257;Vaux-en-Beaujolais;;;4.611897;46.048262
+69257_0021_00126;126;;rue du chavel;69460;69257;Vaux-en-Beaujolais;;;4.604843;46.058109
+69257_0540_00902;902;;rue du haut bussière;69460;69257;Vaux-en-Beaujolais;;;4.557924;46.042742
+69257_0510_01074;1074;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.576804;46.053579
+69257_0510_00977;977;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.577653;46.053841
+69257_0594_00025;25;;impasse du marronnier;69460;69257;Vaux-en-Beaujolais;;;4.594574;46.056536
+69257_0602_00680;680;;rue de la mine;69460;69257;Vaux-en-Beaujolais;;;4.569975;46.046271
+69257_0010_00002;2;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.591842;46.056066
+69257_0530_00083;83;;rue du jean thomas;69460;69257;Vaux-en-Beaujolais;;;4.565686;46.051797
+69257_0428_00108;108;;allée de chatel;69460;69257;Vaux-en-Beaujolais;;;4.589685;46.050106
+69257_0010_00114;114;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.593236;46.05633
+69257_0432_00427;427;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.592803;46.057802
+69257_0504_00058;58;;chemin de geingeat;69460;69257;Vaux-en-Beaujolais;;;4.607784;46.050309
+69257_0754_00067;67;;impasse du verger;69460;69257;Vaux-en-Beaujolais;;;4.589073;46.051355
+69257_0030_00032;32;;chemin des buis;69460;69257;Vaux-en-Beaujolais;;;4.565151;46.051065
+69257_0610_00049;49;;chemin de montrichard;69460;69257;Vaux-en-Beaujolais;;;4.576896;46.047277
+69257_0602_00776;776;;rue de la mine;69460;69257;Vaux-en-Beaujolais;;;4.568886;46.045881
+69257_0432_00157;157;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.593294;46.05694
+69257_0604_00063;63;;impasse des miracles;69460;69257;Vaux-en-Beaujolais;;;4.591592;46.055576
+69257_0436_00085;85;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.595236;46.056548
+69257_0003_00098;98;;rue claude braillon;69460;69257;Vaux-en-Beaujolais;;;4.592621;46.056953
+69257_0008_01314;1314;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.599399;46.045804
+69257_0612_00194;194;;chemin du moulin;69460;69257;Vaux-en-Beaujolais;;;4.587546;46.052321
+69257_0510_01020;1020;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.577192;46.053625
+69257_0439_00305;305;;rue du crêt polettes;69460;69257;Vaux-en-Beaujolais;;;4.596039;46.053174
+69257_0608_01580;1580;;rue du montanay;69460;69257;Vaux-en-Beaujolais;;;4.565552;46.044817
+69257_0010_00063;63;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.592568;46.056295
+69257_0510_00887;887;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.578772;46.053974
+69257_0432_00079;79;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.592445;46.05656
+69257_0600_00061;61;;impasse des mésanges;69460;69257;Vaux-en-Beaujolais;;;4.578235;46.05376
+69257_0594_00035;35;;impasse du marronnier;69460;69257;Vaux-en-Beaujolais;;;4.59471;46.056555
+69257_0393_00655;655;;route de la bourdissonne;69460;69257;Vaux-en-Beaujolais;;;4.596299;46.055793
+69257_0575_00074;74;;chemin du lora;69460;69257;Vaux-en-Beaujolais;;;4.583776;46.049791
+69257_0594_00090;90;;impasse du marronnier;69460;69257;Vaux-en-Beaujolais;;;4.595211;46.056869
+69257_0021_00906;906;;rue du chavel;69460;69257;Vaux-en-Beaujolais;;;4.597787;46.053559
+69257_0325_00013;13;;rue du vieux bourg;69460;69257;Vaux-en-Beaujolais;;;4.592323;46.057612
+69257_0019_00010;10;;rue du château;69460;69257;Vaux-en-Beaujolais;;;4.589453;46.056965
+69257_0003_00244;244;;rue claude braillon;69460;69257;Vaux-en-Beaujolais;;;4.590799;46.056642
+69257_0003_00141;141;;rue claude braillon;69460;69257;Vaux-en-Beaujolais;;;4.592114;46.056778
+69257_0110_00082;82;;rue du mathy;69460;69257;Vaux-en-Beaujolais;;;4.587882;46.050595
+69257_0436_00710;710;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.602342;46.058919
+69257_0437_00032;32;;impasse des coteaux;69460;69257;Vaux-en-Beaujolais;;;4.586188;46.050937
+69257_0008_01320;1320;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.599319;46.045796
+69257_0572_00010;10;;impasse des lièvres;69460;69257;Vaux-en-Beaujolais;;;4.603749;46.059039
+69257_0504_00013;13;;chemin de geingeat;69460;69257;Vaux-en-Beaujolais;;;4.60754;46.049944
+69257_0439_00539;539;;rue du crêt polettes;69460;69257;Vaux-en-Beaujolais;;;4.598479;46.052917
+69257_0439_00351;351;;rue du crêt polettes;69460;69257;Vaux-en-Beaujolais;;;4.596295;46.053043
+69257_0439_00363;363;;rue du crêt polettes;69460;69257;Vaux-en-Beaujolais;;;4.596408;46.052972
+69257_0664_00055;55;;allée du plageret;69460;69257;Vaux-en-Beaujolais;;;4.61414;46.046407
+69257_0003_00074;74;;rue claude braillon;69460;69257;Vaux-en-Beaujolais;;;4.592908;46.057037
+69257_0432_00115;115;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.592839;46.056736
+69257_0669_00037;37;;impasse de poizut;69460;69257;Vaux-en-Beaujolais;;;4.576454;46.047064
+69257_0010_00081;81;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.592798;46.056353
+69257_0715_00200;200;;impasse du ruisseau;69460;69257;Vaux-en-Beaujolais;;;4.60265;46.051339
+69257_0439_00470;470;;rue du crêt polettes;69460;69257;Vaux-en-Beaujolais;;;4.597301;46.052772
+69257_0658_02082;2082;;route de la papilloud;69460;69257;Vaux-en-Beaujolais;;;4.565861;46.051291
+69257_0509_00506;506;;chemin de gunthey;69460;69257;Vaux-en-Beaujolais;;;4.605118;46.055882
+69257_0432_00250;250;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.594206;46.057467
+69257_0008_01079;1079;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.601727;46.046082
+69257_0753_00070;70;;impasse du villard;69460;69257;Vaux-en-Beaujolais;;;4.601484;46.049875
+69257_0720_01089;1089;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.578368;46.049103
+69257_0382_00019;19;;rue barthélémy piéchut;69460;69257;Vaux-en-Beaujolais;;;4.591555;46.056006
+69257_0439_00289;289;;rue du crêt polettes;69460;69257;Vaux-en-Beaujolais;;;4.595539;46.053266
+69257_0754_00049;49;;impasse du verger;69460;69257;Vaux-en-Beaujolais;;;4.589455;46.051425
+69257_0432_00668;668;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.589785;46.057225
+69257_0436_00671;671;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.601839;46.058811
+69257_0008_01337;1337;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.59911;46.045753
+69257_0021_00144;144;;rue du chavel;69460;69257;Vaux-en-Beaujolais;;;4.604661;46.058012
+69257_0720_01490;1490;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.575662;46.047137
+69257_0428_00036;36;;allée de chatel;69460;69257;Vaux-en-Beaujolais;;;4.588914;46.049883
+69257_0610_00025;25;;chemin de montrichard;69460;69257;Vaux-en-Beaujolais;;;4.576649;46.047441
+69257_0010_00006;6;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.591893;46.056073
+69257_0530_01652;1652;;rue du jean thomas;69460;69257;Vaux-en-Beaujolais;;;4.555772;46.055913
+69257_0019_00021;21;;rue du château;69460;69257;Vaux-en-Beaujolais;;;4.589662;46.05693
+69257_0010_00094;94;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.592967;46.056313
+69257_0019_00051;51;;rue du château;69460;69257;Vaux-en-Beaujolais;;;4.589904;46.056774
+69257_0370_02005;2005;;route d'arbuissonnas;69460;69257;Vaux-en-Beaujolais;;;4.601066;46.049897
+69257_0019_00053;53;;rue du château;69460;69257;Vaux-en-Beaujolais;;;4.589922;46.056755
+69257_0594_00063;63;;impasse du marronnier;69460;69257;Vaux-en-Beaujolais;;;4.594955;46.056701
+69257_0754_00069;69;;impasse du verger;69460;69257;Vaux-en-Beaujolais;;;4.589051;46.051353
+69257_0510_00172;172;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.586881;46.056466
+69257_0530_01658;1658;;rue du jean thomas;69460;69257;Vaux-en-Beaujolais;;;4.555738;46.05596
+69257_0010_00126;126;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.593382;46.056339
+69257_0370_00385;385;;route d'arbuissonnas;69460;69257;Vaux-en-Beaujolais;;;4.587325;46.051243
+69257_0010_00012;12;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.59197;46.056087
+69257_0432_00678;678;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.589708;46.057143
+69257_0432_00683;683;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.589665;46.057102
+69257_0669_00066;66;;impasse de poizut;69460;69257;Vaux-en-Beaujolais;;;4.576143;46.046905
+69257_0661_00023;23;;rue des peupliers;69460;69257;Vaux-en-Beaujolais;;;4.596843;46.052923
+69257_0103_00281;281;;rue de la maison jaune;69460;69257;Vaux-en-Beaujolais;;;4.579609;46.048815
+69257_0510_00109;109;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.587699;46.056522
+69257_0393_00957;957;;route de la bourdissonne;69460;69257;Vaux-en-Beaujolais;;;4.599649;46.057057
+69257_0010_00173;173;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.593982;46.056463
+69257_0480_00068;68;;rue des eaux;69460;69257;Vaux-en-Beaujolais;;;4.600235;46.048135
+69257_0388_00012;12;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.578811;46.050074
+69257_0436_00058;58;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.594912;46.056455
+69257_0750_00086;86;;rue de la valla;69460;69257;Vaux-en-Beaujolais;;;4.603858;46.058083
+69257_0437_00008;8;;impasse des coteaux;69460;69257;Vaux-en-Beaujolais;;;4.585903;46.050999
+69257_0370_01311;1311;;route d'arbuissonnas;69460;69257;Vaux-en-Beaujolais;;;4.59708;46.051746
+69257_0436_00522;522;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.600327;46.058005
+69257_0388_00167;167;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.576928;46.049789
+69257_0021_00125;125;;rue du chavel;69460;69257;Vaux-en-Beaujolais;;;4.604916;46.058047
+69257_0530_01612;1612;;rue du jean thomas;69460;69257;Vaux-en-Beaujolais;;;4.555826;46.055552
+69257_0666_00068;68;;chemin des plagnes;69460;69257;Vaux-en-Beaujolais;;;4.598356;46.053279
+69257_0392_00068;68;;rue de blacé;69460;69257;Vaux-en-Beaujolais;;;4.614327;46.045385
+69257_0602_00508;508;;rue de la mine;69460;69257;Vaux-en-Beaujolais;;;4.571734;46.047182
+69257_0436_00728;728;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.602521;46.059027
+69257_0720_01140;1140;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.577982;46.048744
+69257_0008_01276;1276;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.599884;46.045846
+69257_0370_01783;1783;;route d'arbuissonnas;69460;69257;Vaux-en-Beaujolais;;;4.601973;46.05177
+69257_0715_00108;108;;impasse du ruisseau;69460;69257;Vaux-en-Beaujolais;;;4.602535;46.051991
+69257_0510_00884;884;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.578815;46.054023
+69257_0575_00049;49;;chemin du lora;69460;69257;Vaux-en-Beaujolais;;;4.583891;46.049995
+69257_0003_00192;192;;rue claude braillon;69460;69257;Vaux-en-Beaujolais;;;4.591446;46.056763
+69257_0010_00070;70;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.592669;46.056266
+69257_0370_01315;1315;;route d'arbuissonnas;69460;69257;Vaux-en-Beaujolais;;;4.597129;46.051766
+69257_0393_00086;86;;route de la bourdissonne;69460;69257;Vaux-en-Beaujolais;;;4.593373;46.055935
+69257_0610_00076;76;;chemin de montrichard;69460;69257;Vaux-en-Beaujolais;;;4.576971;46.047045
+69257_0103_00243;243;;rue de la maison jaune;69460;69257;Vaux-en-Beaujolais;;;4.579488;46.049145
+69257_0388_00223;223;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.5767;46.049358
+69257_0690_00007;7;;impasse des quatre vents;69460;69257;Vaux-en-Beaujolais;;;4.609824;46.04935
+69257_0103_00370;370;;rue de la maison jaune;69460;69257;Vaux-en-Beaujolais;;;4.57941;46.04803
+69257_0388_00211;211;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.576767;46.049471
+69257_0052_00210;210;;rue du fagolet;69460;69257;Vaux-en-Beaujolais;;;4.607976;46.049695
+69257_0602_00217;217;;rue de la mine;69460;69257;Vaux-en-Beaujolais;;;4.575299;46.047905
+69257_0017_00109;109;;rue du chardon;69460;69257;Vaux-en-Beaujolais;;;4.605214;46.041901
+69257_0017_00082;82;;rue du chardon;69460;69257;Vaux-en-Beaujolais;;;4.605628;46.042048
+69257_0666_00086;86;;chemin des plagnes;69460;69257;Vaux-en-Beaujolais;;;4.598533;46.053391
+69257_0500_00040;40;;impasse du gamay;69460;69257;Vaux-en-Beaujolais;;;4.607066;46.049872
+69257_0010_00119;119;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.593367;46.056412
+69257_0530_01616;1616;;rue du jean thomas;69460;69257;Vaux-en-Beaujolais;;;4.555797;46.055593
+69257_0715_00138;138;;impasse du ruisseau;69460;69257;Vaux-en-Beaujolais;;;4.602671;46.051829
+69257_0388_00165;165;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.576955;46.049806
+69257_0388_00242;242;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.576475;46.049288
+69257_0432_00389;389;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.593288;46.057837
+69257_0428_00020;20;;allée de chatel;69460;69257;Vaux-en-Beaujolais;;;4.588803;46.050005
+69257_0103_00282;282;;rue de la maison jaune;69460;69257;Vaux-en-Beaujolais;;;4.579528;46.048798
+69257_0480_00107;107;;rue des eaux;69460;69257;Vaux-en-Beaujolais;;;4.600549;46.047861
+69257_0019_00107;107;;rue du château;69460;69257;Vaux-en-Beaujolais;;;4.590571;46.056647
+69257_0021_00100;100;;rue du chavel;69460;69257;Vaux-en-Beaujolais;;;4.60513;46.05823
+69257_0008_00882;882;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.604117;46.046365
+69257_0710_00030;30;;Chemin de Rochefolle;69460;69257;Vaux-en-Beaujolais;;;4.605361;46.042193
+69257_0160_00128;128;;rue des platures;69460;69257;Vaux-en-Beaujolais;;;4.610488;46.047929
+69257_0510_00857;857;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.579161;46.053987
+69257_0540_00862;862;;rue du haut bussière;69460;69257;Vaux-en-Beaujolais;;;4.557484;46.042564
+69257_0052_00098;98;;rue du fagolet;69460;69257;Vaux-en-Beaujolais;;;4.606726;46.049445
+69257_0510_00229;229;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.586161;46.056345
+69257_0614_00073;73;;rue des muids;69460;69257;Vaux-en-Beaujolais;;;4.596299;46.052804
+69257_0003_00070;70;;rue claude braillon;69460;69257;Vaux-en-Beaujolais;;;4.592951;46.057046
+69257_0384_00003;3;;impasse du bas des balmes;69460;69257;Vaux-en-Beaujolais;;;4.600361;46.045859
+69257_0480_00108;108;;rue des eaux;69460;69257;Vaux-en-Beaujolais;;;4.600476;46.047817
+69257_0750_00050;50;;rue de la valla;69460;69257;Vaux-en-Beaujolais;;;4.603628;46.05779
+69257_0010_00121;121;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.593463;46.056391
+69257_0598_00053;53;;rue du mérin;69460;69257;Vaux-en-Beaujolais;;;4.608173;46.04923
+69257_0720_00620;620;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.583193;46.051287
+69257_0021_00913;913;;rue du chavel;69460;69257;Vaux-en-Beaujolais;;;4.597854;46.053483
+69257_0575_00051;51;;chemin du lora;69460;69257;Vaux-en-Beaujolais;;;4.583883;46.049979
+69257_0019_00032;32;;rue du château;69460;69257;Vaux-en-Beaujolais;;;4.589659;46.056826
+69257_0008_00076;76;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.613641;46.046054
+69257_0021_00031;31;;rue du chavel;69460;69257;Vaux-en-Beaujolais;;;4.605841;46.058596
+69257_0003_00154;154;;rue claude braillon;69460;69257;Vaux-en-Beaujolais;;;4.591923;46.056821
+69257_0019_00229;229;;rue du château;69460;69257;Vaux-en-Beaujolais;;;4.592102;46.056541
+69257_0010_00130;130;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.593436;46.056342
+69257_0021_00186;186;;rue du chavel;69460;69257;Vaux-en-Beaujolais;;;4.604205;46.057792
+69257_0608_01359;1359;;rue du montanay;69460;69257;Vaux-en-Beaujolais;;;4.562907;46.044579
+69257_0602_00281;281;;rue de la mine;69460;69257;Vaux-en-Beaujolais;;;4.5745;46.047764
+69257_uacaa8_00027;27;;chemin de Très Sec;69460;69257;Vaux-en-Beaujolais;;Très Sec;4.56688;46.052157
+69257_0436_00040;40;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.594665;46.056441
+69257_0350_00011;11;;Allée Albert Dubout;69460;69257;Vaux-en-Beaujolais;;;4.592496;46.056142
+69257_0437_00091;91;;impasse des coteaux;69460;69257;Vaux-en-Beaujolais;;;4.586251;46.050515
+69257_0602_00038;38;;rue de la mine;69460;69257;Vaux-en-Beaujolais;;;4.57741;46.048453
+69257_0428_00088;88;;allée de chatel;69460;69257;Vaux-en-Beaujolais;;;4.589518;46.049973
+69257_0438_00046;46;;impasse du clos;69460;69257;Vaux-en-Beaujolais;;;4.588901;46.055195
+69257_0030_00045;45;;chemin des buis;69460;69257;Vaux-en-Beaujolais;;;4.565003;46.05097
+69257_0720_01120;1120;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.578163;46.048881
+69257_0510_00162;162;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.587012;46.056478
+69257_0010_00155;155;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.593751;46.056433
+69257_0432_00541;541;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.591419;46.057487
+69257_0440_00308;308;;impasse du crêt vorion;69460;69257;Vaux-en-Beaujolais;;;4.61445;46.042896
+69257_0750_00011;11;;rue de la valla;69460;69257;Vaux-en-Beaujolais;;;4.603735;46.057451
+69257_0530_00117;117;;rue du jean thomas;69460;69257;Vaux-en-Beaujolais;;;4.565262;46.051744
+69257_0437_00096;96;;impasse des coteaux;69460;69257;Vaux-en-Beaujolais;;;4.586128;46.0505
+69257_0370_01966;1966;;route d'arbuissonnas;69460;69257;Vaux-en-Beaujolais;;;4.601192;46.050246
+69257_0432_00365;365;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.593574;46.0578
+69257_0021_00145;145;;rue du chavel;69460;69257;Vaux-en-Beaujolais;;;4.604699;46.057957
+69257_0604_00019;19;;impasse des miracles;69460;69257;Vaux-en-Beaujolais;;;4.591027;46.055499
+69257_0388_00221;221;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.576721;46.049368
+69257_0370_00710;710;;route d'arbuissonnas;69460;69257;Vaux-en-Beaujolais;;;4.590211;46.052446
+69257_0504_00015;15;;chemin de geingeat;69460;69257;Vaux-en-Beaujolais;;;4.607532;46.049959
+69257_0670_00021;21;;place ponosse;69460;69257;Vaux-en-Beaujolais;;;4.591602;46.056443
+69257_0444_00025;25;;escalier de la croix-rousse;69460;69257;Vaux-en-Beaujolais;;;4.59174;46.056702
+69257_0008_01312;1312;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.599428;46.045807
+69257_0510_01021;1021;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.577251;46.053582
+69257_0752_00130;130;;chemin des verchères;69460;69257;Vaux-en-Beaujolais;;;4.568979;46.051637
+69257_0720_01034;1034;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.578551;46.049581
+69257_0008_01257;1257;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.600136;46.045814
+69257_0510_00837;837;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.579421;46.053989
+69257_0370_00186;186;;route d'arbuissonnas;69460;69257;Vaux-en-Beaujolais;;;4.584941;46.050683
+69257_0350_00012;12;;Allée Albert Dubout;69460;69257;Vaux-en-Beaujolais;;;4.592423;46.056117
+69257_0439_00514;514;;rue du crêt polettes;69460;69257;Vaux-en-Beaujolais;;;4.598154;46.052881
+69257_0017_00032;32;;rue du chardon;69460;69257;Vaux-en-Beaujolais;;;4.605878;46.042442
+69257_0103_00016;16;;rue de la maison jaune;69460;69257;Vaux-en-Beaujolais;;;4.581393;46.050541
+69257_0720_01122;1122;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.578138;46.048863
+69257_0010_00076;76;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.592745;46.056287
+69257_0350_00016;16;;Allée Albert Dubout;69460;69257;Vaux-en-Beaujolais;;;4.592445;46.056085
+69257_0432_00502;502;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.591847;46.057683
+69257_0017_00077;77;;rue du chardon;69460;69257;Vaux-en-Beaujolais;;;4.605717;46.042046
+69257_0432_00579;579;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.590963;46.057355
+69257_0182_00013;13;;impasse du pullion;69460;69257;Vaux-en-Beaujolais;;;4.587682;46.05669
+69257_0025_00024;24;;rue louis de vermont;69460;69257;Vaux-en-Beaujolais;;;4.59066;46.055422
+69257_0021_00890;890;;rue du chavel;69460;69257;Vaux-en-Beaujolais;;;4.597842;46.0537
+69257_0045_00017;17;;place ephrem merville;69460;69257;Vaux-en-Beaujolais;;;4.591117;46.057647
+69257_0010_00040;40;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.592308;46.056183
+69257_0750_00070;70;;rue de la valla;69460;69257;Vaux-en-Beaujolais;;;4.603693;46.05793
+69257_0392_00999;999;;rue de blacé;69460;69257;Vaux-en-Beaujolais;;;4.605774;46.041665
+69257_0017_00149;149;;rue du chardon;69460;69257;Vaux-en-Beaujolais;;;4.60496;46.041699
+69257_0720_00567;567;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.583864;46.051397
+69257_0393_00490;490;;route de la bourdissonne;69460;69257;Vaux-en-Beaujolais;;;4.594394;46.055485
+69257_0021_00077;77;;rue du chavel;69460;69257;Vaux-en-Beaujolais;;;4.605428;46.058291
+69257_0370_00238;238;;route d'arbuissonnas;69460;69257;Vaux-en-Beaujolais;;;4.585525;46.05092
+69257_0370_02041;2041;;route d'arbuissonnas;69460;69257;Vaux-en-Beaujolais;;;4.600911;46.049592
+69257_0504_00021;21;;chemin de geingeat;69460;69257;Vaux-en-Beaujolais;;;4.607495;46.05002
+69257_0436_00485;485;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.599847;46.057975
+69257_0019_00059;59;;rue du château;69460;69257;Vaux-en-Beaujolais;;;4.589994;46.056725
+69257_0010_00010;10;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.591949;46.056085
+69257_0200_00082;82;;rue du sotison;69460;69257;Vaux-en-Beaujolais;;;4.579117;46.053691
+69257_0008_01357;1357;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.598842;46.045736
+69257_0010_00038;38;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.592281;46.056178
+69257_0575_00018;18;;chemin du lora;69460;69257;Vaux-en-Beaujolais;;;4.583897;46.050286
+69257_0608_01534;1534;;rue du montanay;69460;69257;Vaux-en-Beaujolais;;;4.565093;46.044575
+69257_0570_00084;84;;impasse de lachard;69460;69257;Vaux-en-Beaujolais;;;4.56156;46.044137
+69257_0432_00349;349;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.593811;46.057856
+69257_0392_00930;930;;rue de blacé;69460;69257;Vaux-en-Beaujolais;;;4.606098;46.042229
+69257_0510_01095;1095;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.576593;46.053091
+69257_0720_01456;1456;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.576011;46.04732
+69257_0510_00996;996;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.577391;46.053791
+69257_0592_00816;816;;chemin de la marbrière;69460;69257;Vaux-en-Beaujolais;;;4.562543;46.057483
+69257_0610_00050;50;;chemin de montrichard;69460;69257;Vaux-en-Beaujolais;;;4.576837;46.047246
+69257_0388_00217;217;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.576756;46.049398
+69257_0370_01891;1891;;route d'arbuissonnas;69460;69257;Vaux-en-Beaujolais;;;4.601753;46.050794
+69257_0432_00647;647;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.590038;46.057134
+69257_0610_00037;37;;chemin de montrichard;69460;69257;Vaux-en-Beaujolais;;;4.576784;46.047362
+69257_0003_00204;204;;rue claude braillon;69460;69257;Vaux-en-Beaujolais;;;4.591301;46.056734
+69257_0754_00036;36;;impasse du verger;69460;69257;Vaux-en-Beaujolais;;;4.589314;46.051532
+69257_0008_01300;1300;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.59958;46.045814
+69257_0384_00032;32;;impasse du bas des balmes;69460;69257;Vaux-en-Beaujolais;;;4.600356;46.046112
+69257_0500_00074;74;;impasse du gamay;69460;69257;Vaux-en-Beaujolais;;;4.606612;46.049848
+69257_0021_00899;899;;rue du chavel;69460;69257;Vaux-en-Beaujolais;;;4.597918;46.053604
+69257_0600_00048;48;;impasse des mésanges;69460;69257;Vaux-en-Beaujolais;;;4.57824;46.053636
+69257_0021_00168;168;;rue du chavel;69460;69257;Vaux-en-Beaujolais;;;4.604396;46.057897
+69257_0670_00017;17;;place ponosse;69460;69257;Vaux-en-Beaujolais;;;4.591618;46.056404
+69257_0428_00021;21;;allée de chatel;69460;69257;Vaux-en-Beaujolais;;;4.588966;46.05003
+69257_0017_00075;75;;rue du chardon;69460;69257;Vaux-en-Beaujolais;;;4.605794;46.042111
+69257_0669_00068;68;;impasse de poizut;69460;69257;Vaux-en-Beaujolais;;;4.576122;46.046877
+69257_0510_00030;30;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.588642;46.056751
+69257_0110_00288;288;;rue du mathy;69460;69257;Vaux-en-Beaujolais;;;4.589615;46.050885
+69257_0504_00033;33;;chemin de geingeat;69460;69257;Vaux-en-Beaujolais;;;4.607602;46.050112
+69257_0382_00013;13;;rue barthélémy piéchut;69460;69257;Vaux-en-Beaujolais;;;4.591628;46.056028
+69257_0110_00312;312;;rue du mathy;69460;69257;Vaux-en-Beaujolais;;;4.589599;46.0511
+69257_0182_00041;41;;impasse du pullion;69460;69257;Vaux-en-Beaujolais;;;4.587677;46.056933
+69257_0720_01070;1070;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.578357;46.04928
+69257_0575_00053;53;;chemin du lora;69460;69257;Vaux-en-Beaujolais;;;4.583881;46.049964
+69257_0432_00371;371;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.593475;46.057413
+69257_0200_00045;45;;rue du sotison;69460;69257;Vaux-en-Beaujolais;;;4.578798;46.053462
+69257_0754_00026;26;;impasse du verger;69460;69257;Vaux-en-Beaujolais;;;4.589567;46.051596
+69257_0182_00034;34;;impasse du pullion;69460;69257;Vaux-en-Beaujolais;;;4.587771;46.056878
+69257_0720_01402;1402;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.576418;46.047686
+69257_0200_00023;23;;rue du sotison;69460;69257;Vaux-en-Beaujolais;;;4.578548;46.053359
+69257_0604_00039;39;;impasse des miracles;69460;69257;Vaux-en-Beaujolais;;;4.591287;46.05553
+69257_0720_00100;100;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.587262;46.054622
+69257_0440_00310;310;;impasse du crêt vorion;69460;69257;Vaux-en-Beaujolais;;;4.614469;46.042903
+69257_0432_00511;511;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.59177;46.057589
+69257_0008_01361;1361;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.598799;46.045734
+69257_0160_00156;156;;rue des platures;69460;69257;Vaux-en-Beaujolais;;;4.610394;46.047691
+69257_0382_00031;31;;rue barthélémy piéchut;69460;69257;Vaux-en-Beaujolais;;;4.59142;46.055961
+69257_0382_00205;205;;rue barthélémy piéchut;69460;69257;Vaux-en-Beaujolais;;;4.589434;46.055249
+69257_0720_01523;1523;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.575297;46.046966
+69257_0436_00499;499;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.599992;46.057993
+69257_0510_00036;36;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.588594;46.056712
+69257_0530_01701;1701;;rue du jean thomas;69460;69257;Vaux-en-Beaujolais;;;4.555453;46.056294
+69257_0664_00040;40;;allée du plageret;69460;69257;Vaux-en-Beaujolais;;;4.614309;46.046481
+69257_0612_00125;125;;chemin du moulin;69460;69257;Vaux-en-Beaujolais;;;4.586838;46.052696
+69257_0600_00005;5;;impasse des mésanges;69460;69257;Vaux-en-Beaujolais;;;4.578122;46.053284
+69257_0103_00021;21;;rue de la maison jaune;69460;69257;Vaux-en-Beaujolais;;;4.581427;46.050483
+69257_0509_00641;641;;chemin de gunthey;69460;69257;Vaux-en-Beaujolais;;;4.605507;46.057063
+69257_0666_00101;101;;chemin des plagnes;69460;69257;Vaux-en-Beaujolais;;;4.598678;46.053478
+69257_0428_00065;65;;allée de chatel;69460;69257;Vaux-en-Beaujolais;;;4.589241;46.049955
+69257_0720_01044;1044;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.578489;46.049498
+69257_0388_00039;39;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.578454;46.050108
+69257_0753_00061;61;;impasse du villard;69460;69257;Vaux-en-Beaujolais;;;4.601385;46.049891
+69257_0008_00020;20;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.613499;46.045555
+69257_0003_00191;191;;rue claude braillon;69460;69257;Vaux-en-Beaujolais;;;4.59147;46.056726
+69257_0602_00080;80;;rue de la mine;69460;69257;Vaux-en-Beaujolais;;;4.576911;46.048427
+69257_0750_00071;71;;rue de la valla;69460;69257;Vaux-en-Beaujolais;;;4.603656;46.057956
+69257_0008_00624;624;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.607172;46.047237
+69257_0103_00541;541;;rue de la maison jaune;69460;69257;Vaux-en-Beaujolais;;;4.578241;46.047432
+69257_0103_00247;247;;rue de la maison jaune;69460;69257;Vaux-en-Beaujolais;;;4.579502;46.049115
+69257_0510_00175;175;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.586766;46.056402
+69257_0370_00045;45;;route d'arbuissonnas;69460;69257;Vaux-en-Beaujolais;;;4.58379;46.050972
+69257_0003_00019;19;;rue claude braillon;69460;69257;Vaux-en-Beaujolais;;;4.5936;46.057145
+69257_0019_00179;179;;rue du château;69460;69257;Vaux-en-Beaujolais;;;4.591492;46.056599
+69257_0658_02051;2051;;route de la papilloud;69460;69257;Vaux-en-Beaujolais;;;4.566242;46.051405
+69257_0030_00186;186;;chemin des buis;69460;69257;Vaux-en-Beaujolais;;;4.563292;46.050616
+69257_0388_00542;542;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.573052;46.048173
+69257_0384_00060;60;;impasse du bas des balmes;69460;69257;Vaux-en-Beaujolais;;;4.599994;46.046181
+69257_0008_01227;1227;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.600496;46.045777
+69257_0393_00649;649;;route de la bourdissonne;69460;69257;Vaux-en-Beaujolais;;;4.596251;46.055754
+69257_0754_00004;4;;impasse du verger;69460;69257;Vaux-en-Beaujolais;;;4.589792;46.051613
+69257_0393_00337;337;;route de la bourdissonne;69460;69257;Vaux-en-Beaujolais;;;4.592481;46.055219
+69257_0392_00997;997;;rue de blacé;69460;69257;Vaux-en-Beaujolais;;;4.605799;46.04168
+69257_0003_00212;212;;rue claude braillon;69460;69257;Vaux-en-Beaujolais;;;4.591196;46.056717
+69257_0008_01362;1362;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.598779;46.045764
+69257_0509_00021;21;;chemin de gunthey;69460;69257;Vaux-en-Beaujolais;;;4.601951;46.052152
+69257_0030_00075;75;;chemin des buis;69460;69257;Vaux-en-Beaujolais;;;4.564647;46.050913
+69257_0510_00694;694;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.58078;46.054782
+69257_uacaa8_00065;65;;chemin de Très Sec;69460;69257;Vaux-en-Beaujolais;;Très Sec;4.566836;46.052414
+69257_0671_00007;7;;chemin du poyet;69460;69257;Vaux-en-Beaujolais;;;4.579419;46.047776
+69257_0432_00227;227;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.593945;46.057336
+69257_0666_00081;81;;chemin des plagnes;69460;69257;Vaux-en-Beaujolais;;;4.598466;46.05337
+69257_0103_00267;267;;rue de la maison jaune;69460;69257;Vaux-en-Beaujolais;;;4.57955;46.048934
+69257_0666_00110;110;;chemin des plagnes;69460;69257;Vaux-en-Beaujolais;;;4.59878;46.053513
+69257_0720_00286;286;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.585903;46.053374
+69257_0750_00031;31;;rue de la valla;69460;69257;Vaux-en-Beaujolais;;;4.603639;46.057623
+69257_0510_01067;1067;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.576894;46.053244
+69257_0103_00336;336;;rue de la maison jaune;69460;69257;Vaux-en-Beaujolais;;;4.579526;46.048326
+69257_uacaa8_00045;45;;chemin de Très Sec;69460;69257;Vaux-en-Beaujolais;;Très Sec;4.566858;46.052305
+69257_0432_00446;446;;route de la cime;69460;69257;Vaux-en-Beaujolais;;;4.59254;46.057835
+69257_0510_01000;1000;;rue de la madone;69460;69257;Vaux-en-Beaujolais;;;4.577345;46.053768
+69257_0003_00230;230;;rue claude braillon;69460;69257;Vaux-en-Beaujolais;;;4.590971;46.056672
+69257_0110_00150;150;;rue du mathy;69460;69257;Vaux-en-Beaujolais;;;4.588456;46.050131
+69257_0021_00167;167;;rue du chavel;69460;69257;Vaux-en-Beaujolais;;;4.60446;46.057846
+69257_0530_00070;70;;rue du jean thomas;69460;69257;Vaux-en-Beaujolais;;;4.565852;46.051851
+69257_0350_00083;83;;Allée Albert Dubout;69460;69257;Vaux-en-Beaujolais;;;4.593244;46.056074
+69257_0614_00081;81;;rue des muids;69460;69257;Vaux-en-Beaujolais;;;4.596337;46.052878
+69257_0388_00089;89;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.577856;46.050029
+69257_0720_00528;528;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.584283;46.051578
+69257_0720_01216;1216;;route de saint-cyr;69460;69257;Vaux-en-Beaujolais;;;4.578111;46.048103
+69257_0610_00069;69;;chemin de montrichard;69460;69257;Vaux-en-Beaujolais;;;4.57703;46.047121
+69257_0370_00057;57;;route d'arbuissonnas;69460;69257;Vaux-en-Beaujolais;;;4.583838;46.050864
+69257_0602_00058;58;;rue de la mine;69460;69257;Vaux-en-Beaujolais;;;4.57719;46.048408
+69257_0388_00022;22;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.578685;46.050111
+69257_0017_00046;46;;rue du chardon;69460;69257;Vaux-en-Beaujolais;;;4.605816;46.042319
+69257_0658_01983;1983;;route de la papilloud;69460;69257;Vaux-en-Beaujolais;;;4.566974;46.051715
+69257_0436_00067;67;;route de clochemerle;69460;69257;Vaux-en-Beaujolais;;;4.595;46.056524
+69257_0025_00041;41;;rue louis de vermont;69460;69257;Vaux-en-Beaujolais;;;4.590856;46.055319
+69257_0602_00140;140;;rue de la mine;69460;69257;Vaux-en-Beaujolais;;;4.576163;46.048256
+69257_0428_00037;37;;allée de chatel;69460;69257;Vaux-en-Beaujolais;;;4.589004;46.049932
+69257_0658_01041;1041;;route de la papilloud;69460;69257;Vaux-en-Beaujolais;;;4.578186;46.053185
+69257_0052_00214;214;;rue du fagolet;69460;69257;Vaux-en-Beaujolais;;;4.608017;46.049676
+69257_0388_00443;443;;rue du berchoux;69460;69257;Vaux-en-Beaujolais;;;4.574136;46.048543
+69257_0382_00023;23;;rue barthélémy piéchut;69460;69257;Vaux-en-Beaujolais;;;4.591516;46.055995
+69257_0439_00490;490;;rue du crêt polettes;69460;69257;Vaux-en-Beaujolais;;;4.597516;46.05287
+69257_0003_00220;220;;rue claude braillon;69460;69257;Vaux-en-Beaujolais;;;4.591097;46.056698
+69257_0008_00074;74;;rue des balmes;69460;69257;Vaux-en-Beaujolais;;;4.613644;46.046032
+69257_0382_00063;63;;rue barthélémy piéchut;69460;69257;Vaux-en-Beaujolais;;;4.591079;46.055811
+69257_0103_00577;577;;rue de la maison jaune;69460;69257;Vaux-en-Beaujolais;;;4.578171;46.047752
+69257_0200_00017;17;;rue du sotison;69460;69257;Vaux-en-Beaujolais;;;4.578245;46.053315
+69257_0570_00087;87;;impasse de lachard;69460;69257;Vaux-en-Beaujolais;;;4.561562;46.044094
+69257_0010_00082;82;;rue Gabriel Chevallier;69460;69257;Vaux-en-Beaujolais;;;4.592822;46.0563

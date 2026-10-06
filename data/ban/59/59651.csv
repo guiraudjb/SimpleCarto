@@ -1,0 +1,764 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+59651_0150_00038;38;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415155;50.332561
+59651_1wy174_00003;3;;Résidence Douce Vie;59220;59651;Wavrechain-sous-Denain;;;3.418369;50.331324
+59651_0040_00010;10;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411119;50.330098
+59651_0040_00015;15;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.410804;50.330123
+59651_0040_00018;18;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411759;50.330279
+59651_0040_00023;23;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411046;50.33019
+59651_0040_00026;26;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412188;50.330404
+59651_0040_00059;59;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412103;50.330482
+59651_0140_00008;8;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.413817;50.329124
+59651_0140_00035;35;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.415712;50.3291
+59651_0140_00041;41;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.415892;50.329087
+59651_0240_00003;3;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413694;50.333166
+59651_0215_00009;9;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.419177;50.331294
+59651_0215_00029;29;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.42104;50.330726
+59651_0150_00006;6;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.416214;50.332237
+59651_0150_00017;17;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415904;50.331654
+59651_0150_00033;33;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.414886;50.332208
+59651_1wy174_00008;8;;Résidence Douce Vie;59220;59651;Wavrechain-sous-Denain;;;3.418741;50.331004
+59651_0040_00031;31;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411092;50.330381
+59651_0040_00062;62;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.4142;50.330464
+59651_0040_00087;87;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.414327;50.330737
+59651_0040_00124;124;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.425591;50.329445
+59651_0040_00148;148;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.426266;50.329314
+59651_0040_00002_bis;2;bis;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.410556;50.32996
+59651_0040_00004_bis;4;bis;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.410757;50.329998
+59651_0140_00002;2;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.413479;50.329117
+59651_0140_00018;18;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.414179;50.329124
+59651_0140_00027;27;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.415344;50.329136
+59651_0140_00046;46;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.415745;50.32902
+59651_0240_00031;31;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413641;50.33192
+59651_0165_00004;4;;Rue Joseph Bernard;59220;59651;Wavrechain-sous-Denain;;;3.410268;50.330831
+59651_0150_00009;9;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.416162;50.331857
+59651_0150_00025;25;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.414875;50.331712
+59651_0150_00030;30;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415069;50.332197
+59651_0040_00040;40;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412938;50.330615
+59651_0040_00044;44;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412562;50.3306
+59651_0040_00051;51;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411789;50.330398
+59651_0040_00054;54;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.413831;50.33065
+59651_0040_00067;67;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412359;50.330551
+59651_0040_00076;76;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.414853;50.330616
+59651_0040_00079;79;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.413811;50.330767
+59651_0040_00084;84;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.415351;50.330582
+59651_0040_00109;109;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.418873;50.330602
+59651_0040_00112;112;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.425047;50.329551
+59651_0040_00160;160;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.426691;50.329235
+59651_0140_00021;21;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.415004;50.329168
+59651_0140_00001_bis;1;bis;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.414023;50.329166
+59651_0240_00014;14;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413568;50.332922
+59651_0240_00019;19;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413666;50.332504
+59651_0215_00014;14;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.42064;50.330864
+59651_0165_00001;1;;Rue Joseph Bernard;59220;59651;Wavrechain-sous-Denain;;;3.410123;50.331193
+59651_0150_00001;1;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.416387;50.332074
+59651_0150_00014;14;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415505;50.331786
+59651_0150_00022;22;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415035;50.331962
+59651_0150_00042;42;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415225;50.332686
+59651_0150_00004_p;4;p;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415715;50.331814
+59651_0040_00002;2;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.410405;50.329915
+59651_0040_00007;7;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.410541;50.33005
+59651_0040_00035;35;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411309;50.330264
+59651_0040_00071;71;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412526;50.330598
+59651_0040_00092;92;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.415642;50.330563
+59651_0040_00095;95;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.414789;50.330705
+59651_0040_00101;101;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.418458;50.330652
+59651_0040_00104;104;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.42426;50.329703
+59651_0040_00130;130;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.425792;50.329406
+59651_0040_00062_bis;62;bis;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.414311;50.330658
+59651_0040_00100_quater;100;quater;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.421901;50.329954
+59651_0140_00013;13;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.414618;50.329168
+59651_0240_00008;8;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413581;50.333148
+59651_0240_00025;25;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413656;50.33223
+59651_0215_00002;2;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.419349;50.330885
+59651_0215_00005;5;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.418765;50.33141
+59651_0215_00017;17;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.419588;50.330938
+59651_0215_00021;21;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.420555;50.330986
+59651_0215_00034;34;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.421343;50.330474
+59651_0150_00024;24;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415046;50.332019
+59651_0150_00035;35;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.414908;50.332352
+59651_1wy174_00002;2;;Résidence Douce Vie;59220;59651;Wavrechain-sous-Denain;;;3.418189;50.33112
+59651_1wy174_00005;5;;Résidence Douce Vie;59220;59651;Wavrechain-sous-Denain;;;3.418551;50.331271
+59651_0040_00017;17;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.41086;50.330139
+59651_0040_00025;25;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411105;50.330208
+59651_0040_00064;64;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.414257;50.330462
+59651_0040_00078;78;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.415107;50.330434
+59651_0150_00003;3;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.416353;50.332021
+59651_0150_00040;40;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415192;50.332632
+59651_0150_00046;46;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.4153;50.332805
+59651_0040_00004;4;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.410618;50.329965
+59651_0040_00020;20;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411981;50.330348
+59651_0040_00034;34;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412389;50.330462
+59651_0040_00037;37;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411262;50.33039
+59651_0040_00053;53;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411886;50.330421
+59651_0040_00073;73;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412562;50.3306
+59651_0150_00008;8;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.416138;50.332151
+59651_0150_00011;11;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.416131;50.331809
+59651_0150_00016;16;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415408;50.331791
+59651_0150_00027;27;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.414827;50.331771
+59651_0150_00032;32;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.41508;50.332261
+59651_0040_00028;28;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412241;50.330421
+59651_0040_00043;43;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411429;50.330296
+59651_0040_00047;47;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411604;50.330343
+59651_0040_00056;56;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.413887;50.330648
+59651_0150_00019;19;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415874;50.331611
+59651_0040_00001;1;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.410322;50.32999
+59651_0040_00009;9;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.410606;50.330068
+59651_0040_00012;12;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411278;50.330143
+59651_0040_00061;61;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412169;50.3305
+59651_0040_00070;70;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.414472;50.330639
+59651_0040_00086;86;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.415453;50.330577
+59651_0040_00083_bis;83;bis;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.414083;50.330763
+59651_0140_00014;14;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.414061;50.329127
+59651_0140_00036;36;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.415173;50.329079
+59651_0140_00039;39;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.415829;50.329088
+59651_0240_00010;10;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413577;50.33305
+59651_0240_00027;27;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413651;50.332114
+59651_0160_00013;13;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412827;50.329675
+59651_0160_00025;25;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412801;50.329938
+59651_0160_00037;37;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412742;50.330315
+59651_0160_00047;47;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412734;50.33049
+59651_0020_00016;16;;Rue Ambroise Croizat;59220;59651;Wavrechain-sous-Denain;;;3.412077;50.332145
+59651_0245_00009;9;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.417072;50.332119
+59651_0060_00007_p;7;p;Cité des Chefs;59220;59651;Wavrechain-sous-Denain;;;3.42053;50.333711
+59651_0340_00042;42;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.413027;50.327978
+59651_0280_00022;22;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.409549;50.332783
+59651_0280_00025;25;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.411769;50.333291
+59651_0280_00034;34;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.410452;50.33293
+59651_0280_00006_p;6;p;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.411139;50.333058
+59651_0260_00004;4;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.415005;50.330354
+59651_0260_00013;13;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414953;50.329765
+59651_0260_00025;25;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.41456;50.32988
+59651_0260_00032;32;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414533;50.330123
+59651_0260_00037;37;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.41451;50.329839
+59651_0120_00001;1;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.411654;50.332874
+59651_0150_00002;2;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.416367;50.332402
+59651_0150_00005;5;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.416281;50.331966
+59651_0150_00044;44;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.41526;50.332742
+59651_0040_00011;11;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.41068;50.330088
+59651_0040_00014;14;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411364;50.330169
+59651_0040_00027;27;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411231;50.330241
+59651_0040_00030;30;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412296;50.330437
+59651_0040_00036;36;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412625;50.33053
+59651_0040_00046;46;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412562;50.3306
+59651_0040_00063;63;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412231;50.330517
+59651_0040_00066;66;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.414285;50.330651
+59651_0120_00018;18;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.411093;50.332429
+59651_0220_00004;4;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.410029;50.332306
+59651_0220_00040;40;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.412414;50.331105
+59651_0200_00005;5;;Rue Marcel Cachin;59220;59651;Wavrechain-sous-Denain;;;3.409302;50.33235
+59651_0063_00009;9;;Rue du Clos des Poètes;59220;59651;Wavrechain-sous-Denain;;;3.418432;50.333396
+59651_0180_00009;9;;Rue Louise Michel;59220;59651;Wavrechain-sous-Denain;;;3.412255;50.33285
+59651_0030_00004;4;;Impasse Blignieres;59220;59651;Wavrechain-sous-Denain;;;3.423747;50.330989
+59651_0320_00001;1;;Vieux Chemin Vieux Chem de Douai;59220;59651;Wavrechain-sous-Denain;;;3.410978;50.334677
+59651_0040_00080;80;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.415233;50.330589
+59651_0040_00114;114;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.42526;50.329534
+59651_0040_00122;122;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.425486;50.329466
+59651_0040_00156;156;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.426538;50.329262
+59651_0040_01005;1005;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.42236;50.329818
+59651_0040_00002_ter;2;ter;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.410885;50.329762
+59651_0140_00006;6;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.413736;50.329122
+59651_0140_00019;19;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.41481;50.329166
+59651_0140_00053;53;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.416688;50.329014
+59651_0240_00012;12;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413572;50.332979
+59651_0240_00023;23;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413661;50.332341
+59651_0215_00001;1;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.418465;50.331492
+59651_0215_00027;27;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.420929;50.330801
+59651_0165_00005;5;;Rue Joseph Bernard;59220;59651;Wavrechain-sous-Denain;;;3.410179;50.33106
+59651_0160_00004;4;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412964;50.329464
+59651_0160_00036;36;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412859;50.330368
+59651_0020_00007;7;;Rue Ambroise Croizat;59220;59651;Wavrechain-sous-Denain;;;3.412396;50.332354
+59651_0020_00012;12;;Rue Ambroise Croizat;59220;59651;Wavrechain-sous-Denain;;;3.41218;50.332248
+59651_0245_00005;5;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.417196;50.332048
+59651_0245_00018;18;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.417534;50.332081
+59651_0245_00038;38;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.416684;50.3325
+59651_0340_00004;4;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412854;50.329009
+59651_0340_00009;9;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412942;50.328327
+59651_0340_00034;34;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412895;50.328254
+59651_0280_00001;1;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.409725;50.332899
+59651_0280_00018;18;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.408594;50.332634
+59651_0280_00025_bis;25;bis;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.412035;50.333345
+59651_0260_00014;14;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.415083;50.330231
+59651_0260_00022;22;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414575;50.330044
+59651_0260_00027;27;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414553;50.329788
+59651_0260_00035;35;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414518;50.329952
+59651_0120_00007;7;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.411495;50.332713
+59651_0100_00026;26;;Place Ferrer;59220;59651;Wavrechain-sous-Denain;;;3.413229;50.32913
+59651_0220_00001;1;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.409974;50.332415
+59651_0220_00034;34;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.412422;50.331273
+59651_0202_00003;3;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417994;50.332876
+59651_0202_00027;27;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417494;50.333457
+59651_0063_00010;10;;Rue du Clos des Poètes;59220;59651;Wavrechain-sous-Denain;;;3.418253;50.333336
+59651_0300_00007;7;;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.419176;50.332527
+59651_0300_00023;23;;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.420411;50.333565
+59651_0300_00009_bis;9;bis;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.419494;50.332769
+59651_0180_00019;19;;Rue Louise Michel;59220;59651;Wavrechain-sous-Denain;;;3.412728;50.33266
+59651_0205_01493;1493;;Route d'Oisy;59220;59651;Wavrechain-sous-Denain;;;3.419016;50.341962
+59651_0040_00089;89;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.414459;50.330755
+59651_0040_00094;94;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.415697;50.330559
+59651_0040_00103;103;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.418558;50.330656
+59651_0040_00053_bis;53;bis;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411897;50.330408
+59651_0040_00100_ter;100;ter;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.421732;50.329967
+59651_0140_00003;3;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.414231;50.329171
+59651_0140_00022;22;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.414305;50.32912
+59651_0240_00017;17;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.41367;50.332595
+59651_0215_00003;3;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.418613;50.331451
+59651_0165_00003;3;;Rue Joseph Bernard;59220;59651;Wavrechain-sous-Denain;;;3.410143;50.331116
+59651_0165_00020;20;;Rue Joseph Bernard;59220;59651;Wavrechain-sous-Denain;;;3.411287;50.331113
+59651_0160_00004_bis;4;bis;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412951;50.329546
+59651_0020_00005;5;;Rue Ambroise Croizat;59220;59651;Wavrechain-sous-Denain;;;3.412459;50.332418
+59651_0020_00011;11;;Rue Ambroise Croizat;59220;59651;Wavrechain-sous-Denain;;;3.412267;50.332222
+59651_0245_00001;1;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.417361;50.331999
+59651_0245_00025;25;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.415005;50.333104
+59651_0060_00009;9;;Cité des Chefs;59220;59651;Wavrechain-sous-Denain;;;3.421981;50.332933
+59651_0340_00021;21;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.413717;50.327923
+59651_0340_00035;35;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.414644;50.328667
+59651_0340_00029_bis;29;bis;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.414553;50.32829
+59651_0280_00002;2;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.407765;50.332499
+59651_0280_00008;8;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.408072;50.332546
+59651_0280_00030;30;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.410153;50.332882
+59651_0280_00042;42;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.412363;50.333323
+59651_0280_00013_quater;13;quater;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.410853;50.333109
+59651_0260_00021;21;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.41458;50.330114
+59651_0260_00029;29;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414549;50.330289
+59651_0260_00041;41;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414921;50.32948
+59651_0120_00010;10;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.411338;50.332674
+59651_0150_00010;10;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.416061;50.332067
+59651_0150_00013;13;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.416034;50.331757
+59651_0150_00026;26;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415053;50.332077
+59651_0150_00034;34;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415086;50.332326
+59651_1wy174_00007;7;;Résidence Douce Vie;59220;59651;Wavrechain-sous-Denain;;;3.418743;50.331256
+59651_0040_00006;6;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.410859;50.330029
+59651_0120_00030;30;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.41062;50.331954
+59651_0100_00016;16;;Place Ferrer;59220;59651;Wavrechain-sous-Denain;;;3.412846;50.32938
+59651_0100_00002_b;2;b;Place Ferrer;59220;59651;Wavrechain-sous-Denain;;;3.413459;50.329244
+59651_0220_00008;8;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.410244;50.332216
+59651_0220_00011;11;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.411221;50.332121
+59651_0220_00016;16;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.411259;50.33181
+59651_0202_00001;1;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.418019;50.332844
+59651_0202_00006;6;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.41793;50.333147
+59651_0202_00039;39;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.41731;50.333655
+59651_0200_00002;2;;Rue Marcel Cachin;59220;59651;Wavrechain-sous-Denain;;;3.409314;50.332482
+59651_0300_00021;21;;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.420196;50.333349
+59651_0180_00017;17;;Rue Louise Michel;59220;59651;Wavrechain-sous-Denain;;;3.412644;50.332693
+59651_0040_00083;83;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.414007;50.330764
+59651_0040_00091;91;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.414558;50.330751
+59651_0040_00100;100;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.422591;50.329967
+59651_0040_00146;146;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.426163;50.329333
+59651_0040_00087_bis;87;bis;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.413969;50.330742
+59651_0140_00010;10;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.413938;50.329129
+59651_0240_00005;5;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413695;50.333113
+59651_0240_00016;16;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413561;50.332858
+59651_0240_00033;33;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413635;50.331779
+59651_0215_00035;35;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.421445;50.330529
+59651_0160_00010;10;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412939;50.329668
+59651_0040_00116;116;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.425215;50.329518
+59651_0040_00003_p;3;p;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412562;50.3306
+59651_0140_00007;7;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.414384;50.32917
+59651_0140_00044;44;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.415603;50.329043
+59651_0140_00054;54;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.416111;50.329009
+59651_0240_00001;1;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413702;50.333281
+59651_0240_00006;6;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413583;50.333212
+59651_0215_00010;10;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.420234;50.33068
+59651_0160_00005;5;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412828;50.329566
+59651_0160_00016;16;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412923;50.329789
+59651_0160_00022;22;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.413542;50.329996
+59651_0160_00033;33;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412787;50.33009
+59651_0020_00008;8;;Rue Ambroise Croizat;59220;59651;Wavrechain-sous-Denain;;;3.412313;50.332385
+59651_0245_00032;32;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.416892;50.332387
+59651_0340_00018;18;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412883;50.328634
+59651_0245_00010;10;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.417928;50.331978
+59651_0245_00013;13;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.41637;50.332583
+59651_0245_00030;30;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.416992;50.332331
+59651_0060_00015;15;;Cité des Chefs;59220;59651;Wavrechain-sous-Denain;;;3.422396;50.33264
+59651_0340_00031;31;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.41458;50.328393
+59651_0280_00011;11;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.410217;50.332989
+59651_0280_00014;14;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.408438;50.332608
+59651_0280_00021;21;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.411408;50.333222
+59651_0280_00026;26;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.409862;50.332834
+59651_0280_00040;40;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.410889;50.333017
+59651_0260_00043;43;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414912;50.3294
+59651_0120_00012;12;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.41127;50.332608
+59651_0120_00015;15;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.411259;50.332471
+59651_0120_00020;20;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.411028;50.332364
+59651_0120_00028;28;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.410835;50.332169
+59651_0100_00004;4;;Place Ferrer;59220;59651;Wavrechain-sous-Denain;;;3.413462;50.329286
+59651_0100_00018;18;;Place Ferrer;59220;59651;Wavrechain-sous-Denain;;;3.412848;50.329325
+59651_0220_00014;14;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.411132;50.331861
+59651_0220_00026;26;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.411826;50.331584
+59651_0202_00033;33;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417343;50.333658
+59651_0063_00002;2;;Rue du Clos des Poètes;59220;59651;Wavrechain-sous-Denain;;;3.418576;50.33332
+59651_0163_00004;4;;Place Jean Moulin;59220;59651;Wavrechain-sous-Denain;;;3.419441;50.331684
+59651_0300_00085;85;;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.419027;50.33232
+59651_b010_00003;3;;Vieux Chemin de Douai;59220;59651;Wavrechain-sous-Denain;;;3.411976;50.33431
+59651_0040_00081;81;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.413938;50.330741
+59651_0040_00097;97;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.414945;50.330696
+59651_0040_00106;106;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.424575;50.329641
+59651_0040_00111;111;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.418977;50.330606
+59651_0040_00128;128;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.425727;50.329418
+59651_0040_00142;142;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.42601;50.329364
+59651_0040_00154;154;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.426471;50.329275
+59651_0040_01006;1006;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.422433;50.329822
+59651_0140_00017;17;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.414631;50.329188
+59651_0140_00025;25;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.415196;50.329149
+59651_0240_00021;21;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413661;50.332403
+59651_0240_00033_bis;33;bis;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413634;50.331736
+59651_0215_00013;13;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.419283;50.331056
+59651_0215_00018;18;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.420995;50.330653
+59651_0215_00023;23;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.420705;50.330927
+59651_0215_00033;33;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.421271;50.330576
+59651_0215_00036;36;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.421535;50.330445
+59651_0165_00008;8;;Rue Joseph Bernard;59220;59651;Wavrechain-sous-Denain;;;3.410537;50.330905
+59651_0165_00011;11;;Rue Joseph Bernard;59220;59651;Wavrechain-sous-Denain;;;3.410892;50.331177
+59651_0245_00006;6;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.418446;50.331913
+59651_0245_00014;14;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.417754;50.332022
+59651_0245_00017;17;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.416023;50.332827
+59651_0245_00022;22;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.417376;50.332127
+59651_0060_00003;3;;Cité des Chefs;59220;59651;Wavrechain-sous-Denain;;;3.421522;50.333257
+59651_0340_00005;5;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.414665;50.328772
+59651_0340_00008;8;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.41285;50.328909
+59651_0340_00030;30;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412695;50.328391
+59651_0340_00038_bis;38;bis;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.413027;50.327978
+59651_0280_00012;12;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.408354;50.332593
+59651_0280_00048;48;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.412784;50.333389
+59651_0260_00010;10;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414968;50.329946
+59651_0120_00006;6;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.411474;50.332813
+59651_0040_00055;55;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411962;50.330442
+59651_0040_00075;75;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.413553;50.33075
+59651_0220_00019;19;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.411702;50.331932
+59651_0220_00024;24;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.411753;50.331615
+59651_0220_00027;27;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.412119;50.33155
+59651_0220_00032;32;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.412062;50.33149
+59651_0202_00014;14;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417813;50.333303
+59651_0202_00029;29;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417473;50.333486
+59651_0080_00016;16;;Rue Etienne Dolet;59220;59651;Wavrechain-sous-Denain;;;3.41856;50.32513
+59651_0200_00010;10;;Rue Marcel Cachin;59220;59651;Wavrechain-sous-Denain;;;3.409127;50.332289
+59651_0065_00003;3;;Place du Colonel Fabien;59220;59651;Wavrechain-sous-Denain;;;3.420055;50.33127
+59651_0065_00007;7;;Place du Colonel Fabien;59220;59651;Wavrechain-sous-Denain;;;3.420184;50.33138
+59651_0180_00025;25;;Rue Louise Michel;59220;59651;Wavrechain-sous-Denain;;;3.413029;50.332543
+59651_b010_00025;25;;Vieux Chemin de Douai;59220;59651;Wavrechain-sous-Denain;;;3.419421;50.334005
+59651_0040_00105;105;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.418674;50.330629
+59651_0040_00004_ter;4;ter;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.410757;50.329998
+59651_0040_00081_bis;81;bis;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.414015;50.330741
+59651_0140_00016;16;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.414123;50.329125
+59651_0140_00029;29;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.41541;50.329129
+59651_0140_00045;45;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.416465;50.329088
+59651_0240_00020;20;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413551;50.332597
+59651_0215_00006;6;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.419891;50.330696
+59651_0215_00011;11;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.419224;50.33119
+59651_0215_00016;16;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.420831;50.330763
+59651_0215_00019;19;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.419804;50.330922
+59651_0215_00040;40;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.421823;50.330459
+59651_0160_00018;18;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.413;50.329827
+59651_0160_00024;24;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.413535;50.330079
+59651_0160_00039;39;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412762;50.330257
+59651_0160_00022_bis;22;bis;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412911;50.329967
+59651_0020_00002;2;;Rue Ambroise Croizat;59220;59651;Wavrechain-sous-Denain;;;3.412476;50.332547
+59651_0245_00002;2;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.418551;50.332026
+59651_0245_00021;21;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.415187;50.333054
+59651_0245_00026;26;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.417132;50.332255
+59651_0060_00005;5;;Cité des Chefs;59220;59651;Wavrechain-sous-Denain;;;3.421661;50.333151
+59651_0340_00023;23;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.413891;50.327921
+59651_0340_00026;26;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412883;50.328503
+59651_0340_00037;37;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.414753;50.329075
+59651_0340_00033_bis;33;bis;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.414607;50.328526
+59651_0280_00004;4;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.407885;50.33252
+59651_0280_00029;29;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.412416;50.333416
+59651_0280_00035;35;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.413039;50.333507
+59651_0280_00013_bis;13;bis;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.410432;50.333031
+59651_0260_00001;1;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.415019;50.330521
+59651_0260_00005;5;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.415002;50.330295
+59651_0260_00009;9;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414971;50.330006
+59651_0260_00017;17;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414694;50.33042
+59651_0120_00003;3;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.411599;50.332821
+59651_0220_00009;9;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.41111;50.33217
+59651_0220_00022;22;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.411664;50.331648
+59651_0202_00011;11;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417422;50.332955
+59651_0202_00016;16;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417816;50.333415
+59651_0080_00002;2;;Rue Etienne Dolet;59220;59651;Wavrechain-sous-Denain;;;3.416996;50.330083
+59651_0080_00014;14;;Rue Etienne Dolet;59220;59651;Wavrechain-sous-Denain;;;3.41823;50.325428
+59651_0063_00007;7;;Rue du Clos des Poètes;59220;59651;Wavrechain-sous-Denain;;;3.418753;50.333571
+59651_0300_00002;2;;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.420873;50.334117
+59651_0300_00013;13;;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.420033;50.333216
+59651_0180_00003;3;;Rue Louise Michel;59220;59651;Wavrechain-sous-Denain;;;3.411963;50.332967
+59651_0030_00002;2;;Impasse Blignieres;59220;59651;Wavrechain-sous-Denain;;;3.423915;50.33086
+59651_0030_00006;6;;Impasse Blignieres;59220;59651;Wavrechain-sous-Denain;;;3.423636;50.330929
+59651_0320_00002;2;;Vieux Chemin Vieux Chem de Douai;59220;59651;Wavrechain-sous-Denain;;;3.411688;50.331062
+59651_0340_00027;27;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.414339;50.327923
+59651_0280_00017;17;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.411112;50.333163
+59651_0260_00018;18;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.4146;50.330351
+59651_0260_00014_c;14;c;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.415065;50.32993
+59651_0150_00018;18;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415306;50.331799
+59651_0150_00021;21;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415347;50.331684
+59651_0150_00029;29;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.414841;50.331878
+59651_0150_00037;37;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.414939;50.332494
+59651_0150_00050;50;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415368;50.332911
+59651_1wy174_00004;4;;Résidence Douce Vie;59220;59651;Wavrechain-sous-Denain;;;3.418455;50.331298
+59651_0040_00003;3;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.410423;50.330015
+59651_0040_00019;19;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.410919;50.330156
+59651_0040_00022;22;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412033;50.330362
+59651_0040_00039;39;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411227;50.330435
+59651_0040_00050;50;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.413689;50.33066
+59651_0040_00058;58;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.413996;50.330656
+59651_0040_00072;72;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.414545;50.330635
+59651_0120_00013;13;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.411316;50.332532
+59651_0120_00021;21;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.410418;50.331624
+59651_0120_00026;26;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.410891;50.332229
+59651_0120_00036;36;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.410482;50.331809
+59651_0100_00006;6;;Place Ferrer;59220;59651;Wavrechain-sous-Denain;;;3.413469;50.329331
+59651_0100_00028;28;;Place Ferrer;59220;59651;Wavrechain-sous-Denain;;;3.413363;50.329126
+59651_0220_00035;35;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.412499;50.331396
+59651_0202_00009;9;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.41745;50.332963
+59651_0202_00017;17;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417288;50.333109
+59651_0202_00023;23;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417576;50.3332
+59651_0080_00003;3;;Rue Etienne Dolet;59220;59651;Wavrechain-sous-Denain;;;3.417063;50.32852
+59651_0080_00010;10;;Rue Etienne Dolet;59220;59651;Wavrechain-sous-Denain;;;3.417687;50.325993
+59651_0200_00013;13;;Rue Marcel Cachin;59220;59651;Wavrechain-sous-Denain;;;3.408915;50.332111
+59651_0063_00001;1;;Rue du Clos des Poètes;59220;59651;Wavrechain-sous-Denain;;;3.418322;50.333236
+59651_0063_00004;4;;Rue du Clos des Poètes;59220;59651;Wavrechain-sous-Denain;;;3.418954;50.3334
+59651_0163_00002;2;;Place Jean Moulin;59220;59651;Wavrechain-sous-Denain;;;3.419337;50.331599
+59651_0300_00005;5;;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.419024;50.332422
+59651_0300_00011;11;;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.419985;50.333177
+59651_0300_00015;15;;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.420069;50.333245
+59651_0300_00009_ter;9;ter;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.419774;50.332997
+59651_0180_00001;1;;Rue Louise Michel;59220;59651;Wavrechain-sous-Denain;;;3.411842;50.333014
+59651_0040_00088;88;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.41552;50.330572
+59651_0040_00096;96;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.415749;50.330556
+59651_0040_00108;108;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.424711;50.329615
+59651_0040_00140;140;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.425895;50.329385
+59651_0040_00036_bis;36;bis;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412625;50.33053
+59651_0140_00024;24;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.414393;50.329118
+59651_0140_00038;38;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.415344;50.329062
+59651_0240_00002;2;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413592;50.33334
+59651_0215_00008;8;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.420108;50.330671
+59651_0165_00010;10;;Rue Joseph Bernard;59220;59651;Wavrechain-sous-Denain;;;3.410672;50.330941
+59651_0165_00014;14;;Rue Joseph Bernard;59220;59651;Wavrechain-sous-Denain;;;3.410942;50.331014
+59651_0160_00015;15;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412822;50.329725
+59651_0160_00029;29;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412792;50.330021
+59651_0020_00015;15;;Rue Ambroise Croizat;59220;59651;Wavrechain-sous-Denain;;;3.412174;50.332125
+59651_0340_00001;1;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412926;50.328614
+59651_0340_00016;16;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412868;50.328711
+59651_0340_00027_bis;27;bis;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.414513;50.328169
+59651_0260_00030;30;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414546;50.330239
+59651_0260_00040;40;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.41455;50.329691
+59651_0260_00014_e;14;e;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.415041;50.329729
+59651_0120_00023;23;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.410374;50.331582
+59651_0120_00038;38;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.410439;50.331762
+59651_0220_00005;5;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.410212;50.332319
+59651_0220_00017;17;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.411588;50.331977
+59651_0220_00029;29;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.412264;50.331492
+59651_0220_00037;37;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.412569;50.33137
+59651_0220_00044;44;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.412406;50.330993
+59651_0202_00008;8;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.41793;50.333147
+59651_0202_00019;19;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417335;50.333125
+59651_0080_00005;5;;Rue Etienne Dolet;59220;59651;Wavrechain-sous-Denain;;;3.417084;50.328078
+59651_0080_00010_bis;10;bis;Rue Etienne Dolet;59220;59651;Wavrechain-sous-Denain;;;3.417803;50.325837
+59651_0200_00003;3;;Rue Marcel Cachin;59220;59651;Wavrechain-sous-Denain;;;3.409344;50.332393
+59651_0200_00008;8;;Rue Marcel Cachin;59220;59651;Wavrechain-sous-Denain;;;3.409168;50.332331
+59651_0200_00011;11;;Rue Marcel Cachin;59220;59651;Wavrechain-sous-Denain;;;3.409149;50.332196
+59651_0200_00019;19;;Rue Marcel Cachin;59220;59651;Wavrechain-sous-Denain;;;3.408495;50.332121
+59651_0065_00005;5;;Place du Colonel Fabien;59220;59651;Wavrechain-sous-Denain;;;3.420105;50.331309
+59651_0300_00019;19;;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.420152;50.333312
+59651_0300_00004_bis;4;bis;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.420286;50.333329
+59651_0180_00007;7;;Rue Louise Michel;59220;59651;Wavrechain-sous-Denain;;;3.41218;50.332881
+59651_0180_00011;11;;Rue Louise Michel;59220;59651;Wavrechain-sous-Denain;;;3.412355;50.33281
+59651_0180_00015;15;;Rue Louise Michel;59220;59651;Wavrechain-sous-Denain;;;3.412569;50.332723
+59651_0180_00023;23;;Rue Louise Michel;59220;59651;Wavrechain-sous-Denain;;;3.412952;50.332572
+59651_0180_00027;27;;Rue Louise Michel;59220;59651;Wavrechain-sous-Denain;;;3.413122;50.332505
+59651_b010_00002_p;2;p;Vieux Chemin de Douai;59220;59651;Wavrechain-sous-Denain;;;3.411688;50.331062
+59651_0320_00025;25;;Vieux Chemin Vieux Chem de Douai;59220;59651;Wavrechain-sous-Denain;;;3.419421;50.334006
+59651_0150_00004;4;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.416299;50.332325
+59651_0150_00048;48;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415337;50.332861
+59651_1wy174_00006;6;;Résidence Douce Vie;59220;59651;Wavrechain-sous-Denain;;;3.418668;50.331276
+59651_0040_00024;24;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412125;50.330386
+59651_0040_00029;29;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411125;50.330334
+59651_0040_00033;33;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411049;50.330444
+59651_0040_00057;57;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412028;50.330461
+59651_0040_00069;69;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412443;50.330575
+59651_0020_00001;1;;Rue Ambroise Croizat;59220;59651;Wavrechain-sous-Denain;;;3.412557;50.332521
+59651_0020_00017;17;;Rue Ambroise Croizat;59220;59651;Wavrechain-sous-Denain;;;3.41213;50.332078
+59651_0245_00012;12;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.417845;50.331998
+59651_0245_00015;15;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.416171;50.332786
+59651_0245_00020;20;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.417455;50.332102
+59651_0340_00003;3;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.41293;50.328521
+59651_0340_00014;14;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412867;50.328771
+59651_0340_00028;28;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412883;50.328457
+59651_0280_00015;15;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.411015;50.333144
+59651_0260_00011;11;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414965;50.329882
+59651_0260_00023;23;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414569;50.329992
+59651_0260_00042;42;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414916;50.329437
+59651_0120_00014;14;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.411231;50.332568
+59651_0220_00006;6;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.410142;50.332259
+59651_0220_00042;42;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.412409;50.331052
+59651_0080_00010_ter;10;ter;Rue Etienne Dolet;59220;59651;Wavrechain-sous-Denain;;;3.417893;50.325741
+59651_0200_00007;7;;Rue Marcel Cachin;59220;59651;Wavrechain-sous-Denain;;;3.409252;50.3323
+59651_0200_00017;17;;Rue Marcel Cachin;59220;59651;Wavrechain-sous-Denain;;;3.408583;50.332082
+59651_0163_00001;1;;Place Jean Moulin;59220;59651;Wavrechain-sous-Denain;;;3.419074;50.331674
+59651_0040_00093;93;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.414799;50.330732
+59651_0040_00110;110;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.424928;50.329573
+59651_0140_00015;15;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.41469;50.329167
+59651_0140_00031;31;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.415521;50.329118
+59651_0240_00035;35;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.41363;50.331673
+59651_0215_00015;15;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.419386;50.33097
+59651_0215_00031;31;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.421152;50.33065
+59651_0165_00002;2;;Rue Joseph Bernard;59220;59651;Wavrechain-sous-Denain;;;3.410135;50.330797
+59651_0165_00006;6;;Rue Joseph Bernard;59220;59651;Wavrechain-sous-Denain;;;3.410402;50.330869
+59651_0165_00016;16;;Rue Joseph Bernard;59220;59651;Wavrechain-sous-Denain;;;3.411071;50.331047
+59651_0160_00019;19;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412814;50.329806
+59651_0160_00023;23;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412805;50.329893
+59651_0160_00035;35;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412779;50.330129
+59651_0020_00006;6;;Rue Ambroise Croizat;59220;59651;Wavrechain-sous-Denain;;;3.412376;50.332446
+59651_0245_00008;8;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.418013;50.331954
+59651_0245_00019;19;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.415893;50.332865
+59651_0340_00007;7;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412936;50.3284
+59651_0340_00029;29;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.414553;50.32829
+59651_0340_00036;36;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412898;50.328182
+59651_0340_00040;40;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.413027;50.327978
+59651_0280_00024;24;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.409669;50.332803
+59651_0260_00007;7;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414984;50.330139
+59651_0260_00012;12;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414957;50.329823
+59651_0260_00016;16;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414719;50.33048
+59651_0260_00028;28;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414553;50.330343
+59651_0260_00033;33;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414527;50.33006
+59651_0260_00041_bis;41;bis;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414926;50.329616
+59651_0120_00008;8;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.411412;50.332749
+59651_0120_00016;16;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.411167;50.332503
+59651_0120_00024;24;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.410939;50.332275
+59651_0120_00027;27;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.410272;50.331477
+59651_0120_00040;40;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.410385;50.331701
+59651_0220_00002;2;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.409915;50.332353
+59651_0220_00012;12;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.410998;50.331912
+59651_0220_00015;15;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.411476;50.332024
+59651_0220_00020;20;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.41149;50.331717
+59651_0202_00002;2;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.41827;50.332848
+59651_0202_00013;13;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417277;50.332984
+59651_0202_00021;21;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417532;50.333188
+59651_0080_00004;4;;Rue Etienne Dolet;59220;59651;Wavrechain-sous-Denain;;;3.416971;50.327943
+59651_0080_00008;8;;Rue Etienne Dolet;59220;59651;Wavrechain-sous-Denain;;;3.417149;50.327052
+59651_0200_00009;9;;Rue Marcel Cachin;59220;59651;Wavrechain-sous-Denain;;;3.40921;50.332257
+59651_0163_00003;3;;Place Jean Moulin;59220;59651;Wavrechain-sous-Denain;;;3.41918;50.331768
+59651_0300_00004;4;;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.424766;50.338402
+59651_0300_00006;6;;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.418354;50.331941
+59651_0300_00001_p;1;p;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.417996;50.330964
+59651_0180_00005;5;;Rue Louise Michel;59220;59651;Wavrechain-sous-Denain;;;3.412082;50.332919
+59651_0150_00023;23;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415067;50.331698
+59651_0150_00031;31;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.414862;50.332038
+59651_0150_00036;36;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415095;50.332388
+59651_0150_00039;39;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415048;50.332718
+59651_0040_00077;77;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.413708;50.330767
+59651_0160_00012;12;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412931;50.329714
+59651_0160_00032;32;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412883;50.330183
+59651_0160_00038;38;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412853;50.330416
+59651_0020_00009;9;;Rue Ambroise Croizat;59220;59651;Wavrechain-sous-Denain;;;3.412327;50.332281
+59651_0020_00014;14;;Rue Ambroise Croizat;59220;59651;Wavrechain-sous-Denain;;;3.412137;50.332206
+59651_0245_00004;4;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.418494;50.331959
+59651_0245_00028;28;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.417069;50.332292
+59651_0340_00006;6;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412856;50.328961
+59651_0280_00031;31;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.412676;50.333463
+59651_0280_00036;36;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.410593;50.332957
+59651_0280_00046;46;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.412633;50.33337
+59651_0280_00011_bis;11;bis;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.410218;50.33299
+59651_0260_00002;2;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.415015;50.330474
+59651_0260_00015;15;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414699;50.330512
+59651_0260_00026;26;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414553;50.329826
+59651_0260_00014_d;14;d;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.415057;50.329817
+59651_0120_00002;2;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.411564;50.332904
+59651_0120_00025;25;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.410329;50.331534
+59651_0220_00010;10;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.410895;50.331956
+59651_0220_00013;13;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.411344;50.332074
+59651_0220_00021;21;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.411871;50.33165
+59651_0202_00004;4;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.41793;50.333147
+59651_0202_00020;20;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417719;50.333573
+59651_0202_00035;35;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417333;50.333657
+59651_0200_00004;4;;Rue Marcel Cachin;59220;59651;Wavrechain-sous-Denain;;;3.40926;50.332425
+59651_0040_00082;82;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.41532;50.330643
+59651_0040_00085;85;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.414181;50.330762
+59651_0040_00098;98;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.41582;50.33055
+59651_0040_00126;126;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.425659;50.329432
+59651_0040_00144;144;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.4261;50.329346
+59651_0040_00152;152;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.426387;50.329291
+59651_0140_00001;1;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.41353;50.329204
+59651_0140_00005;5;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.414307;50.329169
+59651_0140_00011;11;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.414516;50.329166
+59651_0140_00023;23;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.415091;50.329159
+59651_0140_00043_bis;43;bis;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.416312;50.329089
+59651_0215_00020;20;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.421189;50.33053
+59651_0160_00014;14;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412927;50.32975
+59651_0160_00040;40;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412849;50.330463
+59651_0020_00003;3;;Rue Ambroise Croizat;59220;59651;Wavrechain-sous-Denain;;;3.412499;50.33246
+59651_0020_00013;13;;Rue Ambroise Croizat;59220;59651;Wavrechain-sous-Denain;;;3.412219;50.332172
+59651_0245_00016;16;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.417623;50.332057
+59651_0245_00036;36;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.416752;50.332461
+59651_0340_00002;2;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412854;50.329049
+59651_0340_00010;10;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412853;50.328845
+59651_0340_00040_bis;40;bis;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.413027;50.327978
+59651_0280_00006;6;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.407966;50.332532
+59651_0280_00013;13;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.410304;50.333004
+59651_0280_00019;19;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.411267;50.333193
+59651_0280_00027;27;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.41224;50.333382
+59651_0280_00032;32;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.410287;50.332904
+59651_0280_00019_bis;19;bis;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.411271;50.333194
+59651_0260_00003;3;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.41501;50.330412
+59651_0260_00019;19;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414701;50.330257
+59651_0260_00039;39;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414501;50.329734
+59651_0120_00011;11;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.41136;50.332574
+59651_0100_00014;14;;Place Ferrer;59220;59651;Wavrechain-sous-Denain;;;3.413289;50.329385
+59651_0220_00007;7;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.410305;50.332282
+59651_0220_00023;23;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.411975;50.331608
+59651_0220_00031;31;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.412349;50.331459
+59651_0220_00036;36;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.412415;50.331203
+59651_0202_00010;10;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.418021;50.333132
+59651_0200_00001;1;;Rue Marcel Cachin;59220;59651;Wavrechain-sous-Denain;;;3.409393;50.332442
+59651_0300_00001;1;;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.417997;50.330964
+59651_0300_00017;17;;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.420107;50.333277
+59651_0180_00013;13;;Rue Louise Michel;59220;59651;Wavrechain-sous-Denain;;;3.412476;50.332761
+59651_b010_00001;1;;Vieux Chemin de Douai;59220;59651;Wavrechain-sous-Denain;;;3.410871;50.334582
+59651_0030_00002_bis;2;bis;Impasse Blignieres;59220;59651;Wavrechain-sous-Denain;;;3.423844;50.330913
+59651_0320_00003;3;;Vieux Chemin Vieux Chem de Douai;59220;59651;Wavrechain-sous-Denain;;;3.411943;50.334503
+59651_0150_00007;7;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.416247;50.331916
+59651_0150_00012;12;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415978;50.331983
+59651_0150_00015;15;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.416001;50.33171
+59651_0150_00020;20;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415152;50.331808
+59651_1wy174_00001;1;;Résidence Douce Vie;59220;59651;Wavrechain-sous-Denain;;;3.418158;50.331071
+59651_0040_00005;5;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.410481;50.330032
+59651_0040_00008;8;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.410986;50.330063
+59651_0040_00013;13;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.410741;50.330106
+59651_0040_00016;16;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411589;50.330233
+59651_0040_00021;21;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.410978;50.33017
+59651_0040_00048;48;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.413609;50.330661
+59651_0040_00060;60;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.414103;50.330654
+59651_0040_00065;65;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412288;50.330532
+59651_0040_00074;74;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.414626;50.330632
+59651_0160_00008;8;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412955;50.329594
+59651_0160_00017;17;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412821;50.329769
+59651_0150_00028;28;;Rue Jacques Duclos;59220;59651;Wavrechain-sous-Denain;;;3.415063;50.332139
+59651_1wy174_00009;9;;Résidence Douce Vie;59220;59651;Wavrechain-sous-Denain;;;3.418846;50.331006
+59651_0040_00038;38;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.412587;50.33052
+59651_0040_00041;41;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.411206;50.330466
+59651_0040_00052;52;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.413769;50.330652
+59651_0165_00007;7;;Rue Joseph Bernard;59220;59651;Wavrechain-sous-Denain;;;3.410223;50.330999
+59651_0165_00012;12;;Rue Joseph Bernard;59220;59651;Wavrechain-sous-Denain;;;3.410808;50.330978
+59651_0165_00018;18;;Rue Joseph Bernard;59220;59651;Wavrechain-sous-Denain;;;3.411202;50.331084
+59651_0160_00020;20;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412914;50.329943
+59651_0020_00004;4;;Rue Ambroise Croizat;59220;59651;Wavrechain-sous-Denain;;;3.412422;50.332493
+59651_0245_00007;7;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.417139;50.332081
+59651_0245_00023;23;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.415102;50.333077
+59651_0245_00034;34;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.416812;50.332429
+59651_0060_00017;17;;Cité des Chefs;59220;59651;Wavrechain-sous-Denain;;;3.422558;50.33252
+59651_0340_00025;25;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.414128;50.327923
+59651_0340_00033;33;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.414607;50.328527
+59651_0340_00052;52;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.414751;50.328742
+59651_0340_00019_bis;19;bis;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.41349;50.327923
+59651_0340_00005_p;5;p;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.414665;50.328772
+59651_0280_00010;10;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.408243;50.332572
+59651_0280_00023;23;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.411596;50.333258
+59651_0260_00008;8;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414982;50.330052
+59651_0260_00031;31;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.41454;50.330185
+59651_0260_00034;34;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414523;50.330001
+59651_0120_00005;5;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.411558;50.332776
+59651_0120_00017;17;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.41052;50.331726
+59651_0100_00002;2;;Place Ferrer;59220;59651;Wavrechain-sous-Denain;;;3.413528;50.329243
+59651_0100_00008;8;;Place Ferrer;59220;59651;Wavrechain-sous-Denain;;;3.413474;50.329376
+59651_0160_00027;27;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412796;50.329986
+59651_0160_00041;41;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412735;50.330411
+59651_0060_00001;1;;Cité des Chefs;59220;59651;Wavrechain-sous-Denain;;;3.420862;50.333717
+59651_0060_00011;11;;Cité des Chefs;59220;59651;Wavrechain-sous-Denain;;;3.422123;50.332829
+59651_0340_00019;19;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412951;50.328164
+59651_0340_00038;38;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412901;50.328062
+59651_0280_00005;5;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.410095;50.332966
+59651_0280_00020;20;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.408699;50.332649
+59651_0280_00028;28;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.40999;50.332856
+59651_0280_00013_ter;13;ter;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.410622;50.333064
+59651_0260_00020;20;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414584;50.330183
+59651_0260_00038;38;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414504;50.329786
+59651_0120_00009;9;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.411418;50.332634
+59651_0120_00022;22;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.410983;50.332321
+59651_0120_00032;32;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.410569;50.331899
+59651_0220_00003;3;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.410089;50.33237
+59651_0220_00025;25;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.412044;50.331582
+59651_0220_00033;33;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.41243;50.331427
+59651_0202_00012;12;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417934;50.33326
+59651_0202_00015;15;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417247;50.333013
+59651_0080_00001;1;;Rue Etienne Dolet;59220;59651;Wavrechain-sous-Denain;;;3.418716;50.32796
+59651_0080_00006;6;;Rue Etienne Dolet;59220;59651;Wavrechain-sous-Denain;;;3.416989;50.32787
+59651_0080_00012;12;;Rue Etienne Dolet;59220;59651;Wavrechain-sous-Denain;;;3.418042;50.325601
+59651_0200_00012;12;;Rue Marcel Cachin;59220;59651;Wavrechain-sous-Denain;;;3.409071;50.332233
+59651_0063_00006;6;;Rue du Clos des Poètes;59220;59651;Wavrechain-sous-Denain;;;3.418937;50.333549
+59651_0065_00001;1;;Place du Colonel Fabien;59220;59651;Wavrechain-sous-Denain;;;3.420042;50.331237
+59651_0065_00004;4;;Place du Colonel Fabien;59220;59651;Wavrechain-sous-Denain;;;3.420378;50.33127
+59651_0040_00102;102;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.424113;50.32973
+59651_0040_00118;118;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.425348;50.329491
+59651_0040_00100_bis;100;bis;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.416831;50.330452
+59651_0140_00020;20;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.414243;50.329122
+59651_0140_00037;37;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.415773;50.329093
+59651_0240_00007;7;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413688;50.333028
+59651_0240_00015;15;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413685;50.332832
+59651_0240_00018;18;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413556;50.332693
+59651_0240_00022;22;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413512;50.331941
+59651_0240_00029;29;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413649;50.332043
+59651_0215_00004;4;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.419651;50.330859
+59651_0215_00012;12;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.420366;50.330976
+59651_0215_00038;38;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.421693;50.330423
+59651_0160_00001;1;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412849;50.329437
+59651_0160_00011;11;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412832;50.329634
+59651_0160_00024_bis;24;bis;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412902;50.330045
+59651_0245_00011;11;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.417009;50.332152
+59651_0340_00024;24;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412652;50.328547
+59651_0280_00003;3;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.409898;50.332929
+59651_0280_00038;38;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.41075;50.332988
+59651_0280_00044;44;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.412478;50.333344
+59651_0260_00036;36;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414512;50.329894
+59651_0100_00024;24;;Place Ferrer;59220;59651;Wavrechain-sous-Denain;;;3.41283;50.32915
+59651_0100_00030;30;;Place Ferrer;59220;59651;Wavrechain-sous-Denain;;;3.413421;50.329125
+59651_0220_00018;18;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.411385;50.331759
+59651_0220_00030;30;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.411968;50.331527
+59651_0220_00038;38;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.412414;50.331157
+59651_0202_00007;7;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417664;50.33303
+59651_0202_00025;25;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417576;50.33334
+59651_0063_00003;3;;Rue du Clos des Poètes;59220;59651;Wavrechain-sous-Denain;;;3.418805;50.333357
+59651_0040_00090;90;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.415579;50.330568
+59651_0040_00107;107;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.418766;50.330629
+59651_0040_00158;158;;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.426602;50.329251
+59651_0040_00075_bis;75;bis;Rue Charles Isbergues;59220;59651;Wavrechain-sous-Denain;;;3.413553;50.33075
+59651_0140_00043;43;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.416048;50.329103
+59651_0140_00052;52;;Rue Henri Durre;59220;59651;Wavrechain-sous-Denain;;;3.415996;50.329013
+59651_0240_00004;4;;Rue Pierre et Marie Curie;59220;59651;Wavrechain-sous-Denain;;;3.413586;50.333267
+59651_0215_00007;7;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.418906;50.331367
+59651_0215_00025;25;;Avenue de la Paix;59220;59651;Wavrechain-sous-Denain;;;3.420827;50.330866
+59651_0165_00009;9;;Rue Joseph Bernard;59220;59651;Wavrechain-sous-Denain;;;3.410851;50.331113
+59651_0160_00031;31;;Rue Jean Jaures;59220;59651;Wavrechain-sous-Denain;;;3.412788;50.330056
+59651_0020_00010;10;;Rue Ambroise Croizat;59220;59651;Wavrechain-sous-Denain;;;3.412243;50.33231
+59651_0020_00019;19;;Rue Ambroise Croizat;59220;59651;Wavrechain-sous-Denain;;;3.412072;50.332018
+59651_0245_00003;3;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.417288;50.33202
+59651_0245_00024;24;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.417196;50.332222
+59651_0245_00027;27;;Avenue du 1er Mai;59220;59651;Wavrechain-sous-Denain;;;3.414871;50.333138
+59651_0060_00007;7;;Cité des Chefs;59220;59651;Wavrechain-sous-Denain;;;3.4218;50.333054
+59651_0060_00013;13;;Cité des Chefs;59220;59651;Wavrechain-sous-Denain;;;3.422269;50.332724
+59651_0340_00020;20;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412755;50.328569
+59651_0340_00032;32;;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412578;50.32843
+59651_0340_00036_bis;36;bis;Rue Voltaire;59220;59651;Wavrechain-sous-Denain;;;3.412875;50.328114
+59651_0280_00016;16;;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.408514;50.332621
+59651_0280_00023_bis;23;bis;Rue Paul Vaillant Couturier;59220;59651;Wavrechain-sous-Denain;;;3.411594;50.333257
+59651_0260_00024;24;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414566;50.329943
+59651_0260_00044;44;;Rue Roger Salengro;59220;59651;Wavrechain-sous-Denain;;;3.414904;50.32936
+59651_0120_00034;34;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.410528;50.331856
+59651_0100_00002_a;2;a;Place Ferrer;59220;59651;Wavrechain-sous-Denain;;;3.413459;50.329244
+59651_0220_00039;39;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.412641;50.331329
+59651_0202_00018;18;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417813;50.333303
+59651_0202_00037;37;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417322;50.333656
+59651_0080_00018;18;;Rue Etienne Dolet;59220;59651;Wavrechain-sous-Denain;;;3.418457;50.325224
+59651_0200_00006;6;;Rue Marcel Cachin;59220;59651;Wavrechain-sous-Denain;;;3.409218;50.33238
+59651_0200_00015;15;;Rue Marcel Cachin;59220;59651;Wavrechain-sous-Denain;;;3.408833;50.332144
+59651_0063_00008;8;;Rue du Clos des Poètes;59220;59651;Wavrechain-sous-Denain;;;3.418667;50.333534
+59651_0180_00021;21;;Rue Louise Michel;59220;59651;Wavrechain-sous-Denain;;;3.412861;50.332609
+59651_0120_00004;4;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.411519;50.332859
+59651_0120_00019;19;;Rue Gabriel Peri;59220;59651;Wavrechain-sous-Denain;;;3.410462;50.331671
+59651_0100_00020;20;;Place Ferrer;59220;59651;Wavrechain-sous-Denain;;;3.412843;50.329221
+59651_0220_00028;28;;Rue Paul Langevin;59220;59651;Wavrechain-sous-Denain;;;3.411898;50.331556
+59651_0202_00005;5;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417694;50.333043
+59651_0202_00031;31;;Rue la Montagne;59220;59651;Wavrechain-sous-Denain;;;3.417386;50.333601
+59651_0200_00551;551;;Rue Marcel Cachin;59220;59651;Wavrechain-sous-Denain;;;3.408402;50.332157
+59651_0063_00005;5;;Rue du Clos des Poètes;59220;59651;Wavrechain-sous-Denain;;;3.418982;50.333488
+59651_0065_00002;2;;Place du Colonel Fabien;59220;59651;Wavrechain-sous-Denain;;;3.420316;50.331212
+59651_0300_00009;9;;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.419299;50.332624
+59651_0300_00025;25;;Rue Victor Hugo;59220;59651;Wavrechain-sous-Denain;;;3.420472;50.333658
+59651_b010_00025_bis;25;bis;Vieux Chemin de Douai;59220;59651;Wavrechain-sous-Denain;;;3.419106;50.333972

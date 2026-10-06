@@ -1,0 +1,722 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+57600_0200_00006;6;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.195147;49.462322
+57600_0200_00011_b;11;b;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.194352;49.46074
+57600_0200_00020_a;20;a;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.194449;49.460563
+57600_0340_00001;1;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.174693;49.457041
+57600_0340_00009;9;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.174226;49.457521
+57600_0340_00013;13;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173897;49.457613
+57600_0340_00022;22;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173224;49.458947
+57600_0340_00025;25;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173483;49.458685
+57600_0340_00027;27;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173454;49.458758
+57600_0180_00010;10;;Grand Rue;57330;57600;Roussy-le-Village;;;6.185185;49.461607
+57600_0180_00030;30;;Grand Rue;57330;57600;Roussy-le-Village;;;6.189784;49.46192
+57600_0180_00045;45;;Grand Rue;57330;57600;Roussy-le-Village;;;6.192078;49.462628
+57600_0180_00048;48;;Grand Rue;57330;57600;Roussy-le-Village;;;6.19353;49.462806
+57600_0180_00049;49;;Grand Rue;57330;57600;Roussy-le-Village;;;6.193025;49.462858
+57600_0180_00053;53;;Grand Rue;57330;57600;Roussy-le-Village;;;6.193697;49.462918
+57600_0180_00057;57;;Grand Rue;57330;57600;Roussy-le-Village;;;6.195303;49.462961
+57600_0180_00058;58;;Grand Rue;57330;57600;Roussy-le-Village;;;6.195393;49.462974
+57600_0180_00066;66;;Grand Rue;57330;57600;Roussy-le-Village;;;6.197649;49.463405
+57600_0180_00076;76;;Grand Rue;57330;57600;Roussy-le-Village;;;6.198723;49.463609
+57600_0180_00062_a;62;a;Grand Rue;57330;57600;Roussy-le-Village;;;6.197232;49.46334
+57600_0180_00058_a;58;a;Grand Rue;57330;57600;Roussy-le-Village;;;6.195393;49.462974
+57600_0180_00063_a;63;a;Grand Rue;57330;57600;Roussy-le-Village;;;6.19538;49.463402
+57600_0180_00056_bis;56;bis;Grand Rue;57330;57600;Roussy-le-Village;;;6.195321;49.462964
+57600_0110_00004;4;;Rue des Eglantines;57330;57600;Roussy-le-Village;;;6.17517;49.454732
+57600_0110_00013;13;;Rue des Eglantines;57330;57600;Roussy-le-Village;;;6.17514;49.453775
+57600_0360_00041;41;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.169374;49.461094
+57600_0360_00006_c;6;c;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.170136;49.461005
+57600_0025_00009;9;;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.189968;49.45571
+57600_0025_00008_a;8;a;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.190032;49.455641
+57600_0261_00006;6;;Rue des Pommiers;57330;57600;Roussy-le-Village;;;6.174983;49.456471
+57600_0040_00001;1;;Rue des Champs;57330;57600;Roussy-le-Village;;;6.19711;49.463839
+57600_0215_00012;12;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.174755;49.451057
+57600_0215_00018;18;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.173586;49.450916
+57600_0215_00028;28;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.174056;49.452032
+57600_0215_00030;30;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.174056;49.452032
+57600_0106_00001;1;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.187604;49.455688
+57600_0106_00021;21;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.189156;49.455431
+57600_0020_00006;6;;Rue du Bourg;57330;57600;Roussy-le-Village;;;6.197517;49.45029
+57600_0020_00011;11;;Rue du Bourg;57330;57600;Roussy-le-Village;;;6.193243;49.452143
+57600_0020_00016;16;;Rue du Bourg;57330;57600;Roussy-le-Village;;;6.193348;49.451996
+57600_0220_00009;9;;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.1783;49.457423
+57600_0140_00005;5;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192702;49.455281
+57600_0140_00013_b;13;b;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.19262;49.458324
+57600_0140_00002_b;2;b;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.191977;49.455986
+57600_0260_00010;10;;Rue Neuve;57330;57600;Roussy-le-Village;;;6.176186;49.457188
+57600_0260_00011_b;11;b;Rue Neuve;57330;57600;Roussy-le-Village;;;6.177042;49.457324
+57600_0260_00011_f;11;f;Rue Neuve;57330;57600;Roussy-le-Village;;;6.177383;49.457189
+57600_0320_00010;10;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.173667;49.454949
+57600_0320_00026;26;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.175119;49.45311
+57600_0200_00017;17;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.194209;49.460636
+57600_0340_00005;5;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.17452;49.457267
+57600_0340_00014;14;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173493;49.458176
+57600_0340_00016;16;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.17346;49.4583
+57600_0340_00028;28;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.172922;49.459306
+57600_0340_00033;33;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173318;49.459031
+57600_0340_00039;39;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.172898;49.459503
+57600_0340_00041;41;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173246;49.459689
+57600_0340_00023_a;23;a;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173511;49.458587
+57600_0180_00018;18;;Grand Rue;57330;57600;Roussy-le-Village;;;6.186383;49.461544
+57600_0180_00019;19;;Grand Rue;57330;57600;Roussy-le-Village;;;6.187694;49.461792
+57600_0180_00022;22;;Grand Rue;57330;57600;Roussy-le-Village;;;6.187266;49.461525
+57600_0180_00033;33;;Grand Rue;57330;57600;Roussy-le-Village;;;6.190453;49.462184
+57600_0180_00041;41;;Grand Rue;57330;57600;Roussy-le-Village;;;6.191497;49.462482
+57600_0180_00044;44;;Grand Rue;57330;57600;Roussy-le-Village;;;6.192854;49.462739
+57600_0180_00054;54;;Grand Rue;57330;57600;Roussy-le-Village;;;6.19547;49.462924
+57600_0180_00062;62;;Grand Rue;57330;57600;Roussy-le-Village;;;6.197008;49.463288
+57600_0180_00063;63;;Grand Rue;57330;57600;Roussy-le-Village;;;6.195438;49.463213
+57600_0180_00071;71;;Grand Rue;57330;57600;Roussy-le-Village;;;6.196409;49.4632
+57600_0180_00089;89;;Grand Rue;57330;57600;Roussy-le-Village;;;6.19934;49.463626
+57600_0180_00091;91;;Grand Rue;57330;57600;Roussy-le-Village;;;6.200153;49.46362
+57600_0180_00054_a;54;a;Grand Rue;57330;57600;Roussy-le-Village;;;6.195468;49.462923
+57600_0180_00004_bis;4;bis;Grand Rue;57330;57600;Roussy-le-Village;;;6.185922;49.461499
+57600_0180_00025_a;25;a;Grand Rue;57330;57600;Roussy-le-Village;;;6.188918;49.462229
+57600_0110_00008;8;;Rue des Eglantines;57330;57600;Roussy-le-Village;;;6.17559;49.454681
+57600_0110_00009;9;;Rue des Eglantines;57330;57600;Roussy-le-Village;;;6.175281;49.454093
+57600_0110_00016;16;;Rue des Eglantines;57330;57600;Roussy-le-Village;;;6.175314;49.453964
+57600_0360_00012;12;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.168449;49.461063
+57600_0360_00020;20;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.164226;49.461799
+57600_0360_00027;27;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.168555;49.461113
+57600_0360_00031;31;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.16806;49.461206
+57600_0360_00037;37;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.167313;49.461891
+57600_0360_00025_a;25;a;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.169374;49.461094
+57600_0025_00004;4;;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.191381;49.455636
+57600_0025_00013;13;;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.191185;49.455739
+57600_0025_00016;16;;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.192254;49.455726
+57600_0261_00007;7;;Rue des Pommiers;57330;57600;Roussy-le-Village;;;6.17431;49.456075
+57600_0215_00009;9;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.17538;49.451209
+57600_0215_00016;16;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.173586;49.450916
+57600_0215_00033_bis;33;bis;boucle du lanne;57330;57600;Roussy-le-Village;;;6.173758;49.451892
+57600_0106_00009;9;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.188356;49.456067
+57600_0106_00017;17;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.189361;49.455865
+57600_0220_00011_c;11;c;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.178299;49.457426
+57600_0140_00013;13;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.19262;49.458324
+57600_0140_00020;20;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192494;49.458196
+57600_0260_00002;2;;Rue Neuve;57330;57600;Roussy-le-Village;;;6.17535;49.456989
+57600_0260_00015;15;;Rue Neuve;57330;57600;Roussy-le-Village;;;6.176888;49.457453
+57600_0030_00005;5;;Rue Centrale;57330;57600;Roussy-le-Village;;;6.191049;49.453606
+57600_0030_00002_a;2;a;Rue Centrale;57330;57600;Roussy-le-Village;;;6.191655;49.454529
+57600_0030_00003_a;3;a;Rue Centrale;57330;57600;Roussy-le-Village;;;6.19086;49.454425
+57600_0290_00005;5;;Rue Saint Denis;57330;57600;Roussy-le-Village;;;6.173629;49.456807
+57600_0108_00003;3;;ruelle des coquelicots;57330;57600;Roussy-le-Village;;;6.17341;49.45129
+57600_gdccdq_00002;2;;Aux 4 Vents;57330;57600;Roussy-le-Village;;;6.183035;49.462774
+57600_gdccdq_00008;8;;Aux 4 Vents;57330;57600;Roussy-le-Village;;;6.183663;49.462433
+57600_0200_00002;2;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.195252;49.462722
+57600_0200_00003;3;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.195109;49.46261
+57600_0200_00026;26;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.193905;49.46016
+57600_0340_00010;10;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173533;49.457915
+57600_0340_00018;18;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173424;49.458446
+57600_0340_00019;19;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173617;49.458265
+57600_0340_00031;31;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173405;49.458907
+57600_0340_00011_a;11;a;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.174091;49.457567
+57600_0340_00015_b;15;b;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173667;49.458001
+57600_0340_00043_a;43;a;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.172835;49.459912
+57600_0180_00003;3;;Grand Rue;57330;57600;Roussy-le-Village;;;6.184083;49.462225
+57600_0180_00007;7;;Grand Rue;57330;57600;Roussy-le-Village;;;6.184733;49.461853
+57600_0180_00011;11;;Grand Rue;57330;57600;Roussy-le-Village;;;6.185592;49.461583
+57600_0180_00023;23;;Grand Rue;57330;57600;Roussy-le-Village;;;6.188473;49.461869
+57600_0180_00026;26;;Grand Rue;57330;57600;Roussy-le-Village;;;6.187771;49.461721
+57600_0180_00027;27;;Grand Rue;57330;57600;Roussy-le-Village;;;6.189453;49.461955
+57600_0180_00037;37;;Grand Rue;57330;57600;Roussy-le-Village;;;6.190977;49.462345
+57600_0180_00040;40;;Grand Rue;57330;57600;Roussy-le-Village;;;6.192162;49.462593
+57600_0180_00070;70;;Grand Rue;57330;57600;Roussy-le-Village;;;6.198252;49.46347
+57600_0180_00074;74;;Grand Rue;57330;57600;Roussy-le-Village;;;6.198502;49.463513
+57600_0180_00079;79;;Grand Rue;57330;57600;Roussy-le-Village;;;6.197575;49.46352
+57600_0180_00081;81;;Grand Rue;57330;57600;Roussy-le-Village;;;6.198331;49.463581
+57600_0180_00044_a;44;a;Grand Rue;57330;57600;Roussy-le-Village;;;6.192854;49.462739
+57600_0180_00058_b;58;b;Grand Rue;57330;57600;Roussy-le-Village;;;6.195339;49.462966
+57600_0110_00005;5;;Rue des Eglantines;57330;57600;Roussy-le-Village;;;6.175298;49.454653
+57600_0360_00002;2;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.171804;49.459656
+57600_0360_00008;8;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.16917;49.460996
+57600_0360_00011;11;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.170774;49.460726
+57600_0360_00017;17;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.170298;49.461019
+57600_0360_00003_a;3;a;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.171495;49.460123
+57600_0025_00008;8;;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.190032;49.455641
+57600_0025_00009_a;9;a;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.190114;49.455763
+57600_0261_00003;3;;Rue des Pommiers;57330;57600;Roussy-le-Village;;;6.174468;49.455756
+57600_0040_00005;5;;Rue des Champs;57330;57600;Roussy-le-Village;;;6.197008;49.4642
+57600_0215_00014;14;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.174363;49.45101
+57600_0215_00022;22;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.173586;49.450916
+57600_0106_00005;5;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.187946;49.455908
+57600_0106_00013;13;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.189263;49.45561
+57600_0220_00001;1;;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.178079;49.457454
+57600_0220_00019;19;;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.178404;49.456752
+57600_0140_00010;10;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192125;49.457048
+57600_0140_00009_a;9;a;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192196;49.456792
+57600_0140_00013_d;13;d;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192538;49.45764
+57600_0260_00018;18;;Rue Neuve;57330;57600;Roussy-le-Village;;;6.17708;49.457678
+57600_0290_00007_a;7;a;Rue Saint Denis;57330;57600;Roussy-le-Village;;;6.17418;49.456967
+57600_0320_00001;1;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.172645;49.456431
+57600_0320_00005;5;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.173175;49.455823
+57600_0320_00013;13;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.175814;49.452252
+57600_gdccdq_00003;3;;Aux 4 Vents;57330;57600;Roussy-le-Village;;;6.183368;49.462694
+57600_gdccdq_00010;10;;Aux 4 Vents;57330;57600;Roussy-le-Village;;;6.183875;49.46228
+57600_25n26u_00041;41;;Diessenterhag;57330;57600;Roussy-le-Village;;;6.166379;49.467643
+57600_1gwibd_00001;1;;Allee de l’Abbe Pax;57330;57600;Roussy-le-Village;;;6.172993;49.457326
+57600_0200_00007;7;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.194863;49.461918
+57600_0200_00010;10;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.194958;49.461881
+57600_0200_00011;11;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.194517;49.460943
+57600_0200_00014;14;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.194792;49.461224
+57600_0200_00024;24;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.193979;49.460235
+57600_0200_00007_b;7;b;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.194809;49.461589
+57600_0200_00003_bis;3;bis;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.195088;49.46254
+57600_0200_00007_a;7;a;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.19482;49.461784
+57600_0340_00004;4;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173611;49.457438
+57600_0340_00047;47;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.171909;49.459794
+57600_0180_00002;2;;Grand Rue;57330;57600;Roussy-le-Village;;;6.184052;49.462127
+57600_0180_00006;6;;Grand Rue;57330;57600;Roussy-le-Village;;;6.184474;49.46185
+57600_0180_00014;14;;Grand Rue;57330;57600;Roussy-le-Village;;;6.192621;49.46277
+57600_0180_00015;15;;Grand Rue;57330;57600;Roussy-le-Village;;;6.186695;49.461659
+57600_0180_00032;32;;Grand Rue;57330;57600;Roussy-le-Village;;;6.190403;49.462099
+57600_0180_00036;36;;Grand Rue;57330;57600;Roussy-le-Village;;;6.191705;49.462474
+57600_0180_00067;67;;Grand Rue;57330;57600;Roussy-le-Village;;;6.196054;49.463144
+57600_0180_00065_b;65;b;Grand Rue;57330;57600;Roussy-le-Village;;;6.195248;49.463036
+57600_0180_00044_b;44;b;Grand Rue;57330;57600;Roussy-le-Village;;;6.192824;49.462733
+57600_0110_00001;1;;Rue des Eglantines;57330;57600;Roussy-le-Village;;;6.174786;49.454744
+57600_0110_00012;12;;Rue des Eglantines;57330;57600;Roussy-le-Village;;;6.175485;49.454398
+57600_0360_00004;4;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.171276;49.460087
+57600_0360_00007;7;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.171079;49.460475
+57600_0360_00018;18;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.167101;49.461134
+57600_0360_00018_a;18;a;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.165826;49.461319
+57600_0025_00001;1;;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.192157;49.455622
+57600_0025_00005;5;;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.191026;49.455657
+57600_0025_00012;12;;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.190936;49.455746
+57600_0261_00002;2;;Rue des Pommiers;57330;57600;Roussy-le-Village;;;6.174496;49.456074
+57600_0261_00004_a;4;a;Rue des Pommiers;57330;57600;Roussy-le-Village;;;6.175262;49.456498
+57600_0215_00001;1;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.174743;49.452208
+57600_0215_00005;5;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.175289;49.451642
+57600_0215_00020;20;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.173586;49.450916
+57600_0215_00024;24;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.174056;49.452032
+57600_0215_00026;26;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.174056;49.452032
+57600_0215_00032;32;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.174056;49.452032
+57600_0106_00003;3;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.187733;49.455809
+57600_0020_00002;2;;Rue du Bourg;57330;57600;Roussy-le-Village;;;6.190508;49.454577
+57600_0220_00013;13;;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.178182;49.457023
+57600_0220_00027;27;;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.178835;49.455492
+57600_0140_00001;1;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192232;49.454812
+57600_0260_00007;7;;Rue Neuve;57330;57600;Roussy-le-Village;;;6.176034;49.457035
+57600_0030_00001;1;;Rue Centrale;57330;57600;Roussy-le-Village;;;6.191109;49.454693
+57600_0290_00009;9;;Rue Saint Denis;57330;57600;Roussy-le-Village;;;6.173968;49.456905
+57600_0320_00017;17;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.176796;49.451106
+57600_0320_00022;22;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.174836;49.453451
+57600_0320_00015_a;15;a;Rue des Sports;57330;57600;Roussy-le-Village;;;6.175814;49.452252
+57600_0300_00026;26;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.17194;49.459402
+57600_0300_00016_a;16;a;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.171159;49.458445
+57600_0266_00006;6;;Impasse des Prunelliers;57330;57600;Roussy-le-Village;;;6.176773;49.456087
+57600_0243_00003;3;;Impasse des Graminées;57330;57600;Roussy-le-Village;;;6.180745;49.457826
+57600_0320_00019_a;19;a;Rue des Sports;57330;57600;Roussy-le-Village;;;6.17604;49.451786
+57600_0320_00019_c;19;c;Rue des Sports;57330;57600;Roussy-le-Village;;;6.176156;49.451644
+57600_0300_00019;19;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172071;49.459507
+57600_0300_00013_e;13;e;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172171;49.458837
+57600_0300_00005;5;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172666;49.457978
+57600_0300_00010;10;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172348;49.457721
+57600_0300_00013;13;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172178;49.458918
+57600_0300_00004_a;4;a;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172477;49.457264
+57600_0300_00013_g;13;g;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172168;49.458784
+57600_0300_00009_d;9;d;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.17214;49.458446
+57600_0243_00007;7;;Impasse des Graminées;57330;57600;Roussy-le-Village;;;6.180319;49.457923
+57600_0320_00003_a;3;a;Rue des Sports;57330;57600;Roussy-le-Village;;;6.173051;49.455976
+57600_0060_00005;5;;Rue de la Chapelle;57330;57600;Roussy-le-Village;;;6.192002;49.454473
+57600_0060_00008_a;8;a;Rue de la Chapelle;57330;57600;Roussy-le-Village;;;6.192205;49.454276
+57600_0266_00003;3;;Impasse des Prunelliers;57330;57600;Roussy-le-Village;;;6.176271;49.45599
+57600_0140_00012;12;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192209;49.457511
+57600_0140_00013_a;13;a;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.19262;49.458324
+57600_0140_00009_b;9;b;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192209;49.457052
+57600_0140_00015_a;15;a;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.19262;49.458324
+57600_0140_00002_a;2;a;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.191972;49.455914
+57600_0260_00002_a;2;a;Rue Neuve;57330;57600;Roussy-le-Village;;;6.175062;49.457362
+57600_0290_00004;4;;Rue Saint Denis;57330;57600;Roussy-le-Village;;;6.173772;49.456919
+57600_0108_00002;2;;ruelle des coquelicots;57330;57600;Roussy-le-Village;;;6.1731;49.451542
+57600_0320_00006;6;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.173312;49.455783
+57600_0320_00018;18;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.174294;49.454261
+57600_0320_00028;28;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.175256;49.452957
+57600_0140_00008_bis;8;bis;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.191899;49.456847
+57600_0260_00003;3;;Rue Neuve;57330;57600;Roussy-le-Village;;;6.175571;49.456932
+57600_0260_00009;9;;Rue Neuve;57330;57600;Roussy-le-Village;;;6.176345;49.457144
+57600_0260_00017;17;;Rue Neuve;57330;57600;Roussy-le-Village;;;6.177072;49.457431
+57600_0290_00008_b;8;b;Rue Saint Denis;57330;57600;Roussy-le-Village;;;6.174062;49.457019
+57600_0108_00006;6;;ruelle des coquelicots;57330;57600;Roussy-le-Village;;;6.173486;49.450984
+57600_0320_00014;14;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.174345;49.454657
+57600_0320_00021;21;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.176465;49.451507
+57600_0140_00007;7;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192476;49.455473
+57600_0140_00015;15;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192666;49.458496
+57600_0260_00012;12;;Rue Neuve;57330;57600;Roussy-le-Village;;;6.176465;49.457285
+57600_0260_00011_d;11;d;Rue Neuve;57330;57600;Roussy-le-Village;;;6.17714;49.457132
+57600_0290_00008;8;;Rue Saint Denis;57330;57600;Roussy-le-Village;;;6.173959;49.456994
+57600_0320_00009;9;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.173828;49.454773
+57600_0320_00017_a;17;a;Rue des Sports;57330;57600;Roussy-le-Village;;;6.176796;49.451106
+57600_0320_00005_c;5;c;Rue des Sports;57330;57600;Roussy-le-Village;;;6.173392;49.455054
+57600_0190_00001;1;;Chemin des Gries;57330;57600;Roussy-le-Village;;;6.195263;49.461687
+57600_0030_00002;2;;Rue Centrale;57330;57600;Roussy-le-Village;;;6.191433;49.454435
+57600_0290_00001;1;;Rue Saint Denis;57330;57600;Roussy-le-Village;;;6.173348;49.456724
+57600_0320_00001_a;1;a;Rue des Sports;57330;57600;Roussy-le-Village;;;6.172808;49.456228
+57600_63g9zh_00005;5;;Ruelle du Reverend Pere Medert;57330;57600;Roussy-le-Village;;;6.172663;49.458018
+57600_0200_00001;1;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.195159;49.462685
+57600_0200_00013;13;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.194209;49.460598
+57600_0200_00020;20;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.194439;49.460739
+57600_0200_00034;34;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.195303;49.462961
+57600_0300_00012_a;12;a;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172193;49.457964
+57600_0300_00013_b;13;b;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172162;49.458707
+57600_0266_00002;2;;Impasse des Prunelliers;57330;57600;Roussy-le-Village;;;6.176227;49.455885
+57600_0243_00006;6;;Impasse des Graminées;57330;57600;Roussy-le-Village;;;6.180927;49.457676
+57600_0080_00005;5;;Place du Chateau;57330;57600;Roussy-le-Village;;;6.191449;49.453834
+57600_0285_00001;1;;Rue Saint Christophe;57330;57600;Roussy-le-Village;;;6.179207;49.458003
+57600_0285_00003;3;;Rue Saint Christophe;57330;57600;Roussy-le-Village;;;6.179602;49.45809
+57600_0285_00012;12;;Rue Saint Christophe;57330;57600;Roussy-le-Village;;;6.182779;49.457353
+57600_0285_00015;15;;Rue Saint Christophe;57330;57600;Roussy-le-Village;;;6.184547;49.456721
+57600_0100_00001;1;;Rue du Chateau d’Eau;57330;57600;Roussy-le-Village;;;6.176372;49.450302
+57600_0280_00008;8;;Rue du Ruisseau;57330;57600;Roussy-le-Village;;;6.194204;49.463717
+57600_0160_00002;2;;Rue de la Foret;57330;57600;Roussy-le-Village;;;6.17227;49.45653
+57600_0242_00001;1;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.175568;49.455065
+57600_0242_00015;15;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.176643;49.455456
+57600_0120_00002;2;;Place de l’Eglise;57330;57600;Roussy-le-Village;;;6.172003;49.456582
+57600_0120_00004;4;;Place de l’Eglise;57330;57600;Roussy-le-Village;;;6.17233;49.456536
+57600_0120_00005_a;5;a;Place de l’Eglise;57330;57600;Roussy-le-Village;;;6.172948;49.45662
+57600_0107_00003;3;;Impasse de la Citadelle;57330;57600;Roussy-le-Village;;;6.189971;49.455151
+57600_0268_00003;3;;Impasse du Relais de Poste;57330;57600;Roussy-le-Village;;;6.177287;49.457233
+57600_0015_00007;7;;ruelle des bleuets;57330;57600;Roussy-le-Village;;;6.174768;49.451142
+57600_0270_00007;7;;Impasse des Roses;57330;57600;Roussy-le-Village;;;6.175673;49.453244
+57600_0270_00011;11;;Impasse des Roses;57330;57600;Roussy-le-Village;;;6.175912;49.453481
+57600_gdccdq_00004;4;;Aux 4 Vents;57330;57600;Roussy-le-Village;;;6.18325;49.462657
+57600_gdccdq_00006;6;;Aux 4 Vents;57330;57600;Roussy-le-Village;;;6.183286;49.462655
+57600_0200_00004;4;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.195167;49.462421
+57600_0200_00012;12;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.194826;49.461286
+57600_0200_00022;22;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.194139;49.460403
+57600_0300_00016_b;16;b;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.17203;49.45858
+57600_0300_00013_d;13;d;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172174;49.458865
+57600_0285_00005;5;;Rue Saint Christophe;57330;57600;Roussy-le-Village;;;6.180073;49.458195
+57600_0285_00009;9;;Rue Saint Christophe;57330;57600;Roussy-le-Village;;;6.180945;49.45819
+57600_0285_00002_a;2;a;Rue Saint Christophe;57330;57600;Roussy-le-Village;;;6.178774;49.457808
+57600_0285_00004_a;4;a;Rue Saint Christophe;57330;57600;Roussy-le-Village;;;6.179313;49.457934
+57600_0100_00009;9;;Rue du Chateau d’Eau;57330;57600;Roussy-le-Village;;;6.174643;49.450179
+57600_0160_00004;4;;Rue de la Foret;57330;57600;Roussy-le-Village;;;6.171684;49.45648
+57600_0242_00005;5;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.175928;49.454894
+57600_0242_00009;9;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.176651;49.454694
+57600_0242_00011;11;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.17681;49.454909
+57600_0242_00013;13;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.176863;49.455306
+57600_0242_00021;21;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.175858;49.455787
+57600_0242_00023;23;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.175447;49.45562
+57600_0268_00001;1;;Impasse du Relais de Poste;57330;57600;Roussy-le-Village;;;6.177484;49.457319
+57600_0268_00005;5;;Impasse du Relais de Poste;57330;57600;Roussy-le-Village;;;6.177214;49.457197
+57600_0015_00003;3;;ruelle des bleuets;57330;57600;Roussy-le-Village;;;6.174145;49.451584
+57600_0270_00015;15;;Impasse des Roses;57330;57600;Roussy-le-Village;;;6.176137;49.453784
+57600_63g9zh_00006_a;6;a;Ruelle du Reverend Pere Medert;57330;57600;Roussy-le-Village;;;6.172805;49.458528
+57600_1gwibd_00002;2;;Allee de l’Abbe Pax;57330;57600;Roussy-le-Village;;;6.17298;49.457169
+57600_0200_00005;5;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.195059;49.462451
+57600_0200_00008;8;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.195097;49.462241
+57600_0300_00007;7;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172224;49.458125
+57600_0300_00012;12;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172185;49.457941
+57600_0300_00016;16;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.17202;49.458453
+57600_0300_00024;24;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.171831;49.459223
+57600_0060_00004;4;;Rue de la Chapelle;57330;57600;Roussy-le-Village;;;6.191367;49.454866
+57600_0243_00002;2;;Impasse des Graminées;57330;57600;Roussy-le-Village;;;6.181309;49.457699
+57600_0243_00010;10;;Impasse des Graminées;57330;57600;Roussy-le-Village;;;6.18024;49.457811
+57600_0080_00001;1;;Place du Chateau;57330;57600;Roussy-le-Village;;;6.191996;49.454244
+57600_0080_00010;10;;Place du Chateau;57330;57600;Roussy-le-Village;;;6.192291;49.454093
+57600_0100_00001_a;1;a;Rue du Chateau d’Eau;57330;57600;Roussy-le-Village;;;6.176114;49.450017
+57600_0280_00003;3;;Rue du Ruisseau;57330;57600;Roussy-le-Village;;;6.194854;49.464046
+57600_0242_00003;3;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.175745;49.454988
+57600_0242_00007;7;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.176128;49.454761
+57600_0242_00017;17;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.176389;49.455584
+57600_0242_00019;19;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.176152;49.455676
+57600_gdccdq_00001;1;;Aux 4 Vents;57330;57600;Roussy-le-Village;;;6.183662;49.462533
+57600_0200_00009;9;;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.194769;49.461361
+57600_0300_00004;4;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172477;49.457263
+57600_0300_00018_a;18;a;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.171391;49.458657
+57600_0060_00006_bis;6;bis;Rue de la Chapelle;57330;57600;Roussy-le-Village;;;6.192091;49.454655
+57600_0266_00007;7;;Impasse des Prunelliers;57330;57600;Roussy-le-Village;;;6.176722;49.456154
+57600_0080_00008;8;;Place du Chateau;57330;57600;Roussy-le-Village;;;6.191688;49.453784
+57600_0285_00004_c;4;c;Rue Saint Christophe;57330;57600;Roussy-le-Village;;;6.179072;49.457888
+57600_0100_00005;5;;Rue du Chateau d’Eau;57330;57600;Roussy-le-Village;;;6.175228;49.450159
+57600_0100_00015;15;;Rue du Chateau d’Eau;57330;57600;Roussy-le-Village;;;6.173802;49.450099
+57600_0100_00023;23;;Rue du Chateau d’Eau;57330;57600;Roussy-le-Village;;;6.172483;49.45018
+57600_0280_00005;5;;Rue du Ruisseau;57330;57600;Roussy-le-Village;;;6.194788;49.464224
+57600_0160_00008;8;;Rue de la Foret;57330;57600;Roussy-le-Village;;;6.170802;49.456484
+57600_0242_00025;25;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.175274;49.455496
+57600_0015_00005;5;;ruelle des bleuets;57330;57600;Roussy-le-Village;;;6.174516;49.451382
+57600_0170_00001;1;;Chemin des Galopins;57330;57600;Roussy-le-Village;;;6.192124;49.464928
+57600_0005_00002;2;;Ruelle Abbé Pax;57330;57600;Roussy-le-Village;;;6.173004;49.457422
+57600_0267_00002;2;;Rue aux Quatre Vents;57330;57600;Roussy-le-Village;;;6.183018;49.462766
+57600_0267_00008;8;;Rue aux Quatre Vents;57330;57600;Roussy-le-Village;;;6.183651;49.462434
+57600_0215_00011;11;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.174973;49.451091
+57600_0215_00015;15;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.173974;49.450963
+57600_0215_00031;31;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.173758;49.451892
+57600_0106_00004;4;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.188263;49.455617
+57600_0106_00010;10;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.188993;49.455308
+57600_0106_00014;14;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.189004;49.455401
+57600_0106_00016;16;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.188637;49.455991
+57600_0020_00001;1;;Rue du Bourg;57330;57600;Roussy-le-Village;;;6.190659;49.454512
+57600_0020_00009;9;;Rue du Bourg;57330;57600;Roussy-le-Village;;;6.193154;49.452248
+57600_0220_00010;10;;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.178573;49.457126
+57600_0220_00012;12;;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.178661;49.456869
+57600_0220_00015;15;;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.178309;49.456874
+57600_0220_00025;25;;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.178803;49.455868
+57600_0220_00029;29;;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.17882;49.455282
+57600_0140_00002;2;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192343;49.455091
+57600_0140_00008;8;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192073;49.456831
+57600_0140_00011;11;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192339;49.457566
+57600_0260_00008;8;;Rue Neuve;57330;57600;Roussy-le-Village;;;6.175931;49.457103
+57600_0260_00011_h;11;h;Rue Neuve;57330;57600;Roussy-le-Village;;;6.177564;49.457283
+57600_0320_00002;2;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.172929;49.45625
+57600_0320_00011;11;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.174428;49.45385
+57600_0200_00026_a;26;a;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.192498;49.459494
+57600_0340_00002;2;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.174367;49.457267
+57600_0340_00026;26;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.172986;49.459217
+57600_0340_00029;29;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173428;49.458828
+57600_0340_00030;30;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.172869;49.45938
+57600_0340_00045;45;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.172329;49.459774
+57600_0340_00041_a;41;a;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.172809;49.459597
+57600_0180_00001;1;;Grand Rue;57330;57600;Roussy-le-Village;;;6.18391;49.462378
+57600_0180_00004;4;;Grand Rue;57330;57600;Roussy-le-Village;;;6.184194;49.462016
+57600_0180_00039;39;;Grand Rue;57330;57600;Roussy-le-Village;;;6.191197;49.462406
+57600_0180_00042;42;;Grand Rue;57330;57600;Roussy-le-Village;;;6.192607;49.46269
+57600_0180_00060;60;;Grand Rue;57330;57600;Roussy-le-Village;;;6.196461;49.463036
+57600_0180_00064;64;;Grand Rue;57330;57600;Roussy-le-Village;;;6.197313;49.463354
+57600_0180_00083;83;;Grand Rue;57330;57600;Roussy-le-Village;;;6.198372;49.463584
+57600_0180_00087;87;;Grand Rue;57330;57600;Roussy-le-Village;;;6.19886;49.463615
+57600_0180_00064_a;64;a;Grand Rue;57330;57600;Roussy-le-Village;;;6.195339;49.462966
+57600_0180_00016_a;16;a;Grand Rue;57330;57600;Roussy-le-Village;;;6.187278;49.461664
+57600_0180_00063_b;63;b;Grand Rue;57330;57600;Roussy-le-Village;;;6.195442;49.46306
+57600_0180_00026_a;26;a;Grand Rue;57330;57600;Roussy-le-Village;;;6.188355;49.461794
+57600_0180_00065_c;65;c;Grand Rue;57330;57600;Roussy-le-Village;;;6.195855;49.463118
+57600_0110_00007;7;;Rue des Eglantines;57330;57600;Roussy-le-Village;;;6.175357;49.454269
+57600_0110_00014;14;;Rue des Eglantines;57330;57600;Roussy-le-Village;;;6.175407;49.454182
+57600_0360_00010;10;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.16891;49.460994
+57600_0360_00013;13;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.170629;49.460831
+57600_0360_00016;16;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.16723;49.461133
+57600_0360_00033;33;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.167824;49.461241
+57600_0360_00006_b;6;b;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.169761;49.46104
+57600_0360_00025_c;25;c;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.169315;49.461367
+57600_0025_00002;2;;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.191974;49.455599
+57600_0025_00006;6;;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.190665;49.455692
+57600_0040_00006;6;;Rue des Champs;57330;57600;Roussy-le-Village;;;6.197036;49.463962
+57600_0215_00002;2;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.17492;49.451861
+57600_0215_00008;8;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.175576;49.45128
+57600_0215_00010;10;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.175184;49.451138
+57600_0320_00030;30;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.175391;49.452802
+57600_0320_00015_b;15;b;Rue des Sports;57330;57600;Roussy-le-Village;;;6.175814;49.452252
+57600_0320_00005_a;5;a;Rue des Sports;57330;57600;Roussy-le-Village;;;6.173094;49.455741
+57600_0300_00011;11;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172747;49.458297
+57600_0300_00017;17;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172087;49.459324
+57600_0300_00022;22;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172058;49.458947
+57600_0300_00011_bis;11;bis;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172182;49.458211
+57600_0266_00005;5;;Impasse des Prunelliers;57330;57600;Roussy-le-Village;;;6.176503;49.456087
+57600_0080_00007;7;;Place du Chateau;57330;57600;Roussy-le-Village;;;6.191599;49.453774
+57600_0285_00004;4;;Rue Saint Christophe;57330;57600;Roussy-le-Village;;;6.179314;49.457934
+57600_0285_00011;11;;Rue Saint Christophe;57330;57600;Roussy-le-Village;;;6.181171;49.458094
+57600_0285_00004_b;4;b;Rue Saint Christophe;57330;57600;Roussy-le-Village;;;6.179187;49.457917
+57600_0280_00002;2;;Rue du Ruisseau;57330;57600;Roussy-le-Village;;;6.194479;49.463161
+57600_0040_00003;3;;Rue des Champs;57330;57600;Roussy-le-Village;;;6.197148;49.463897
+57600_0215_00003;3;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.175045;49.451885
+57600_0215_00019;19;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.173154;49.45085
+57600_0106_00008;8;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.188745;49.455414
+57600_0106_00020;20;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.189162;49.455666
+57600_0106_00001_a;1;a;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.187517;49.455739
+57600_0020_00007;7;;Rue du Bourg;57330;57600;Roussy-le-Village;;;6.190659;49.454512
+57600_0020_00015;15;;Rue du Bourg;57330;57600;Roussy-le-Village;;;6.194229;49.450786
+57600_0020_00005_b;5;b;Rue du Bourg;57330;57600;Roussy-le-Village;;;6.190105;49.454178
+57600_0220_00021;21;;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.178623;49.456462
+57600_0220_00018_a;18;a;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.178997;49.455453
+57600_0220_00011_a;11;a;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.178025;49.457185
+57600_0220_00013_a;13;a;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.177397;49.456451
+57600_0140_00016;16;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.19234;49.457818
+57600_0140_00013_f;13;f;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192595;49.457845
+57600_0260_00013;13;;Rue Neuve;57330;57600;Roussy-le-Village;;;6.176794;49.457416
+57600_0260_00012_b;12;b;Rue Neuve;57330;57600;Roussy-le-Village;;;6.176715;49.457384
+57600_0030_00003_b;3;b;Rue Centrale;57330;57600;Roussy-le-Village;;;6.190965;49.454094
+57600_0200_00002_a;2;a;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.195346;49.462792
+57600_0200_00010_b;10;b;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.194921;49.461662
+57600_0200_00010_a;10;a;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.195027;49.461739
+57600_0340_00006;6;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173588;49.457594
+57600_0340_00015;15;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173667;49.458001
+57600_0340_00021;21;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173605;49.458306
+57600_0340_00023;23;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173572;49.458428
+57600_0340_00035;35;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.17327;49.459093
+57600_0340_00043;43;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.172764;49.459882
+57600_0180_00012;12;;Grand Rue;57330;57600;Roussy-le-Village;;;6.185721;49.461501
+57600_0180_00020;20;;Grand Rue;57330;57600;Roussy-le-Village;;;6.18682;49.461447
+57600_0180_00021;21;;Grand Rue;57330;57600;Roussy-le-Village;;;6.188192;49.46184
+57600_0180_00043;43;;Grand Rue;57330;57600;Roussy-le-Village;;;6.191765;49.462551
+57600_0180_00047;47;;Grand Rue;57330;57600;Roussy-le-Village;;;6.192021;49.46263
+57600_0180_00052;52;;Grand Rue;57330;57600;Roussy-le-Village;;;6.195125;49.462847
+57600_0180_00072;72;;Grand Rue;57330;57600;Roussy-le-Village;;;6.19849;49.463478
+57600_0180_00078;78;;Grand Rue;57330;57600;Roussy-le-Village;;;6.200026;49.463544
+57600_0180_00016_b;16;b;Grand Rue;57330;57600;Roussy-le-Village;;;6.185922;49.461481
+57600_0180_00023_a;23;a;Grand Rue;57330;57600;Roussy-le-Village;;;6.187987;49.461842
+57600_0180_00017_bis;17;bis;Grand Rue;57330;57600;Roussy-le-Village;;;6.187421;49.461753
+57600_0110_00006;6;;Rue des Eglantines;57330;57600;Roussy-le-Village;;;6.175435;49.454682
+57600_0110_00010;10;;Rue des Eglantines;57330;57600;Roussy-le-Village;;;6.175569;49.454565
+57600_0110_00011;11;;Rue des Eglantines;57330;57600;Roussy-le-Village;;;6.175205;49.453919
+57600_0360_00006;6;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.170871;49.460561
+57600_0360_00019;19;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.170168;49.461074
+57600_0360_00035;35;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.167692;49.461241
+57600_0360_00006_d;6;d;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.170413;49.460872
+57600_0025_00003;3;;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.191624;49.455604
+57600_0025_00010;10;;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.190273;49.455796
+57600_0025_00015;15;;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.191658;49.455684
+57600_0261_00009;9;;Rue des Pommiers;57330;57600;Roussy-le-Village;;;6.174595;49.456187
+57600_0320_00024;24;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.17499;49.453258
+57600_0300_00009_c;9;c;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172147;49.458382
+57600_0300_00009_a;9;a;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172185;49.458252
+57600_0060_00008_b;8;b;Rue de la Chapelle;57330;57600;Roussy-le-Village;;;6.192205;49.454276
+57600_0266_00003_a;3;a;Impasse des Prunelliers;57330;57600;Roussy-le-Village;;;6.17604;49.456131
+57600_0243_00008;8;;Impasse des Graminées;57330;57600;Roussy-le-Village;;;6.180666;49.457786
+57600_0243_00009_b;9;b;Impasse des Graminées;57330;57600;Roussy-le-Village;;;6.179998;49.457979
+57600_0080_00003;3;;Place du Chateau;57330;57600;Roussy-le-Village;;;6.191598;49.453985
+57600_0100_00003;3;;Rue du Chateau d’Eau;57330;57600;Roussy-le-Village;;;6.175479;49.450116
+57600_0100_00019;19;;Rue du Chateau d’Eau;57330;57600;Roussy-le-Village;;;6.173136;49.450045
+57600_0100_00027;27;;Rue du Chateau d’Eau;57330;57600;Roussy-le-Village;;;6.172108;49.45035
+57600_0160_00010;10;;Rue de la Foret;57330;57600;Roussy-le-Village;;;6.170844;49.456504
+57600_0215_00007;7;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.175542;49.451401
+57600_0215_00023;23;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.172534;49.451058
+57600_0215_00001_bis;1;bis;boucle du lanne;57330;57600;Roussy-le-Village;;;6.175021;49.452128
+57600_0106_00018;18;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.188891;49.455925
+57600_0020_00003;3;;Rue du Bourg;57330;57600;Roussy-le-Village;;;6.190659;49.454512
+57600_0020_00005_a;5;a;Rue du Bourg;57330;57600;Roussy-le-Village;;;6.190213;49.454298
+57600_0220_00002;2;;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.177848;49.459261
+57600_0140_00013_c;13;c;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192492;49.457578
+57600_0260_00004;4;;Rue Neuve;57330;57600;Roussy-le-Village;;;6.175498;49.457003
+57600_0290_00008_a;8;a;Rue Saint Denis;57330;57600;Roussy-le-Village;;;6.173921;49.457064
+57600_0108_00005;5;;ruelle des coquelicots;57330;57600;Roussy-le-Village;;;6.17361;49.451002
+57600_0200_00011_a;11;a;Rue des Jardins;57330;57600;Roussy-le-Village;;;6.194209;49.460636
+57600_0340_00003;3;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.174603;49.457155
+57600_0340_00008;8;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173671;49.457657
+57600_0340_00020;20;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173195;49.458995
+57600_0340_00037;37;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173062;49.459339
+57600_0340_00049;49;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.171761;49.459776
+57600_0340_00015_a;15;a;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173667;49.458001
+57600_0180_00005;5;;Grand Rue;57330;57600;Roussy-le-Village;;;6.184254;49.46209
+57600_0180_00008;8;;Grand Rue;57330;57600;Roussy-le-Village;;;6.184768;49.461737
+57600_0180_00013;13;;Grand Rue;57330;57600;Roussy-le-Village;;;6.192084;49.462568
+57600_0180_00016;16;;Grand Rue;57330;57600;Roussy-le-Village;;;6.185922;49.461499
+57600_0180_00017;17;;Grand Rue;57330;57600;Roussy-le-Village;;;6.187063;49.461705
+57600_0180_00025;25;;Grand Rue;57330;57600;Roussy-le-Village;;;6.188741;49.46189
+57600_0180_00028;28;;Grand Rue;57330;57600;Roussy-le-Village;;;6.188785;49.461826
+57600_0180_00029;29;;Grand Rue;57330;57600;Roussy-le-Village;;;6.189866;49.462016
+57600_0180_00038;38;;Grand Rue;57330;57600;Roussy-le-Village;;;6.191942;49.462533
+57600_0180_00046;46;;Grand Rue;57330;57600;Roussy-le-Village;;;6.193357;49.462796
+57600_0180_00050;50;;Grand Rue;57330;57600;Roussy-le-Village;;;6.194064;49.462807
+57600_0180_00055;55;;Grand Rue;57330;57600;Roussy-le-Village;;;6.193848;49.463004
+57600_0180_00061;61;;Grand Rue;57330;57600;Roussy-le-Village;;;6.194952;49.463065
+57600_0180_00068;68;;Grand Rue;57330;57600;Roussy-le-Village;;;6.197901;49.463433
+57600_0180_00073;73;;Grand Rue;57330;57600;Roussy-le-Village;;;6.196583;49.463288
+57600_0180_00025_b;25;b;Grand Rue;57330;57600;Roussy-le-Village;;;6.18911;49.461945
+57600_0180_00083_a;83;a;Grand Rue;57330;57600;Roussy-le-Village;;;6.198607;49.463934
+57600_0110_00003;3;;Rue des Eglantines;57330;57600;Roussy-le-Village;;;6.1751;49.454689
+57600_0360_00001;1;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.166359;49.461205
+57600_0360_00009;9;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.170941;49.460596
+57600_0360_00023;23;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.169812;49.461126
+57600_0360_00025;25;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.169374;49.461094
+57600_0360_00039;39;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.167173;49.461573
+57600_0025_00007;7;;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.190496;49.455709
+57600_0025_00014;14;;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.191372;49.455721
+57600_0025_00008_c;8;c;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.190032;49.455641
+57600_0261_00005;5;;Rue des Pommiers;57330;57600;Roussy-le-Village;;;6.174342;49.455895
+57600_0261_00011;11;;Rue des Pommiers;57330;57600;Roussy-le-Village;;;6.17479;49.456263
+57600_0040_00002;2;;Rue des Champs;57330;57600;Roussy-le-Village;;;6.197125;49.463507
+57600_0040_00004;4;;Rue des Champs;57330;57600;Roussy-le-Village;;;6.19709;49.46367
+57600_0040_00010;10;;Rue des Champs;57330;57600;Roussy-le-Village;;;6.196997;49.46425
+57600_0215_00004;4;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.175172;49.45161
+57600_0215_00006;6;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.175416;49.451522
+57600_0300_00013_a;13;a;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172168;49.458789
+57600_0300_00028_b;28;b;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.17203;49.458582
+57600_0060_00008;8;;Rue de la Chapelle;57330;57600;Roussy-le-Village;;;6.192205;49.454276
+57600_0243_00005;5;;Impasse des Graminées;57330;57600;Roussy-le-Village;;;6.180488;49.457939
+57600_0100_00011;11;;Rue du Chateau d’Eau;57330;57600;Roussy-le-Village;;;6.174354;49.450158
+57600_0242_00004;4;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.176775;49.454659
+57600_0242_00012;12;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.177047;49.455272
+57600_0040_00008;8;;Rue des Champs;57330;57600;Roussy-le-Village;;;6.197233;49.463925
+57600_0215_00027;27;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.172705;49.451504
+57600_0106_00012;12;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.188993;49.455308
+57600_0020_00005;5;;Rue du Bourg;57330;57600;Roussy-le-Village;;;6.190417;49.454518
+57600_0020_00012;12;;Rue du Bourg;57330;57600;Roussy-le-Village;;;6.19237;49.453431
+57600_0220_00006;6;;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.178464;49.457457
+57600_0220_00018;18;;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.178999;49.455453
+57600_0140_00004;4;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192005;49.456401
+57600_0140_00006;6;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.191991;49.456514
+57600_0140_00022;22;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192573;49.458424
+57600_0140_00012_a;12;a;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.19217;49.457285
+57600_0140_00009_c;9;c;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192274;49.457309
+57600_0260_00016;16;;Rue Neuve;57330;57600;Roussy-le-Village;;;6.176815;49.457437
+57600_0260_00011_e;11;e;Rue Neuve;57330;57600;Roussy-le-Village;;;6.177261;49.457156
+57600_0030_00003;3;;Rue Centrale;57330;57600;Roussy-le-Village;;;6.191001;49.454154
+57600_0290_00003;3;;Rue Saint Denis;57330;57600;Roussy-le-Village;;;6.173469;49.45676
+57600_0290_00006;6;;Rue Saint Denis;57330;57600;Roussy-le-Village;;;6.173886;49.456947
+57600_0290_00012;12;;Rue Saint Denis;57330;57600;Roussy-le-Village;;;6.174318;49.457149
+57600_0320_00008;8;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.173346;49.455356
+57600_0340_00011;11;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173998;49.457585
+57600_0340_00012;12;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173501;49.458149
+57600_0340_00017;17;;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173647;49.45811
+57600_0340_00033_a;33;a;Rue des 3 Fontaines;57330;57600;Roussy-le-Village;;;6.173527;49.459084
+57600_0180_00009;9;;Grand Rue;57330;57600;Roussy-le-Village;;;6.185068;49.461725
+57600_0180_00024;24;;Grand Rue;57330;57600;Roussy-le-Village;;;6.187447;49.461682
+57600_0180_00031;31;;Grand Rue;57330;57600;Roussy-le-Village;;;6.190249;49.462119
+57600_0180_00034;34;;Grand Rue;57330;57600;Roussy-le-Village;;;6.190849;49.462242
+57600_0180_00035;35;;Grand Rue;57330;57600;Roussy-le-Village;;;6.190717;49.462266
+57600_0180_00056;56;;Grand Rue;57330;57600;Roussy-le-Village;;;6.19586;49.462947
+57600_0180_00065;65;;Grand Rue;57330;57600;Roussy-le-Village;;;6.195637;49.463115
+57600_0180_00069;69;;Grand Rue;57330;57600;Roussy-le-Village;;;6.196177;49.463166
+57600_0180_00077;77;;Grand Rue;57330;57600;Roussy-le-Village;;;6.197278;49.463512
+57600_0180_00054_b;54;b;Grand Rue;57330;57600;Roussy-le-Village;;;6.195469;49.462923
+57600_0180_00065_a;65;a;Grand Rue;57330;57600;Roussy-le-Village;;;6.195922;49.463125
+57600_0110_00002;2;;Rue des Eglantines;57330;57600;Roussy-le-Village;;;6.174885;49.454782
+57600_0110_00018;18;;Rue des Eglantines;57330;57600;Roussy-le-Village;;;6.17523;49.453773
+57600_0360_00005;5;;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.171155;49.46037
+57600_0360_00006_a;6;a;Rue de Zoufftgen;57330;57600;Roussy-le-Village;;;6.169426;49.461017
+57600_0025_00011;11;;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.190628;49.455778
+57600_0025_00008_b;8;b;impasse de la carrière;57330;57600;Roussy-le-Village;;;6.190124;49.455676
+57600_0261_00001;1;;Rue des Pommiers;57330;57600;Roussy-le-Village;;;6.174599;49.455616
+57600_0261_00004;4;;Rue des Pommiers;57330;57600;Roussy-le-Village;;;6.174779;49.456184
+57600_0320_00016;16;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.174217;49.454456
+57600_0320_00019;19;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.175909;49.452084
+57600_0300_00001;1;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172782;49.457278
+57600_0300_00003;3;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172483;49.457715
+57600_0300_00008;8;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172466;49.457504
+57600_0060_00003;3;;Rue de la Chapelle;57330;57600;Roussy-le-Village;;;6.191386;49.454796
+57600_0080_00006_bis;6;bis;Place du Chateau;57330;57600;Roussy-le-Village;;;6.191371;49.453771
+57600_0285_00004_d;4;d;Rue Saint Christophe;57330;57600;Roussy-le-Village;;;6.178936;49.457856
+57600_0280_00006;6;;Rue du Ruisseau;57330;57600;Roussy-le-Village;;;6.194294;49.463553
+57600_0160_00003;3;;Rue de la Foret;57330;57600;Roussy-le-Village;;;6.171769;49.456565
+57600_0242_00008;8;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.177029;49.455002
+57600_0242_00016;16;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.176634;49.455553
+57600_0107_00002;2;;Impasse de la Citadelle;57330;57600;Roussy-le-Village;;;6.189752;49.455073
+57600_0170_00002;2;;Chemin des Galopins;57330;57600;Roussy-le-Village;;;6.193158;49.464109
+57600_0267_00001;1;;Rue aux Quatre Vents;57330;57600;Roussy-le-Village;;;6.183663;49.462534
+57600_0267_00010;10;;Rue aux Quatre Vents;57330;57600;Roussy-le-Village;;;6.183873;49.462272
+57600_0215_00025;25;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.17239;49.451331
+57600_0215_00029;29;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.173101;49.451633
+57600_0106_00002;2;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.187982;49.455729
+57600_0106_00011;11;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.18861;49.456085
+57600_0106_00015;15;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.189211;49.455524
+57600_0020_00004;4;;Rue du Bourg;57330;57600;Roussy-le-Village;;;6.196371;49.450275
+57600_0220_00011_d;11;d;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.178277;49.457491
+57600_0140_00009;9;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192295;49.455849
+57600_0140_00011_a;11;a;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192393;49.457731
+57600_0260_00011_g;11;g;Rue Neuve;57330;57600;Roussy-le-Village;;;6.177465;49.457245
+57600_0290_00007;7;;Rue Saint Denis;57330;57600;Roussy-le-Village;;;6.173765;49.456846
+57600_0320_00015;15;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.175303;49.452814
+57600_0320_00023;23;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.176684;49.451245
+57600_0300_00015;15;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172135;49.459226
+57600_0300_00013_f;13;f;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172169;49.458794
+57600_0300_00013_c;13;c;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172159;49.458661
+57600_0243_00009;9;;Impasse des Graminées;57330;57600;Roussy-le-Village;;;6.18007;49.457896
+57600_0080_00006;6;;Place du Chateau;57330;57600;Roussy-le-Village;;;6.191383;49.453809
+57600_0285_00007;7;;Rue Saint Christophe;57330;57600;Roussy-le-Village;;;6.18977;49.454637
+57600_0285_00001_a;1;a;Rue Saint Christophe;57330;57600;Roussy-le-Village;;;6.178927;49.457942
+57600_0100_00007;7;;Rue du Chateau d’Eau;57330;57600;Roussy-le-Village;;;6.174863;49.45018
+57600_0100_00021;21;;Rue du Chateau d’Eau;57330;57600;Roussy-le-Village;;;6.172874;49.450063
+57600_0100_00025;25;;Rue du Chateau d’Eau;57330;57600;Roussy-le-Village;;;6.172322;49.450226
+57600_0160_00006;6;;Rue de la Foret;57330;57600;Roussy-le-Village;;;6.17227;49.45653
+57600_0242_00006;6;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.176901;49.454828
+57600_0015_00006;6;;ruelle des bleuets;57330;57600;Roussy-le-Village;;;6.174372;49.451376
+57600_0270_00008;8;;Impasse des Roses;57330;57600;Roussy-le-Village;;;6.176066;49.45381
+57600_0270_00014;14;;Impasse des Roses;57330;57600;Roussy-le-Village;;;6.176192;49.454321
+57600_0270_00016;16;;Impasse des Roses;57330;57600;Roussy-le-Village;;;6.176351;49.454191
+57600_0267_00004;4;;Rue aux Quatre Vents;57330;57600;Roussy-le-Village;;;6.183273;49.46264
+57600_0125_00001;1;;Place de l'Europe;57330;57600;Roussy-le-Village;;;6.177346;49.453556
+57600_0242_00020;20;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.175446;49.455708
+57600_0242_00024;24;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.175031;49.45515
+57600_0120_00007;7;;Place de l’Eglise;57330;57600;Roussy-le-Village;;;6.17322;49.456524
+57600_0015_00004;4;;ruelle des bleuets;57330;57600;Roussy-le-Village;;;6.174034;49.451546
+57600_0105_00001;1;;Chemin de la Cheneraie;57330;57600;Roussy-le-Village;;;6.167127;49.461735
+57600_0267_00006;6;;Rue aux Quatre Vents;57330;57600;Roussy-le-Village;;;6.18331;49.462411
+57600_0106_00006;6;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.188461;49.455534
+57600_0020_00013_a;13;a;Rue du Bourg;57330;57600;Roussy-le-Village;;;6.193515;49.451695
+57600_0220_00017;17;;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.177885;49.456696
+57600_0140_00003;3;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192419;49.454945
+57600_0140_00013_e;13;e;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192575;49.457765
+57600_0260_00014;14;;Rue Neuve;57330;57600;Roussy-le-Village;;;6.176596;49.457344
+57600_0260_00012_a;12;a;Rue Neuve;57330;57600;Roussy-le-Village;;;6.176635;49.457353
+57600_0190_00002;2;;Chemin des Gries;57330;57600;Roussy-le-Village;;;6.195586;49.462017
+57600_0030_00006;6;;Rue Centrale;57330;57600;Roussy-le-Village;;;6.191075;49.454075
+57600_0290_00010;10;;Rue Saint Denis;57330;57600;Roussy-le-Village;;;6.174224;49.457102
+57600_0108_00004;4;;ruelle des coquelicots;57330;57600;Roussy-le-Village;;;6.173293;49.451263
+57600_0320_00012;12;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.174083;49.454711
+57600_0320_00020;20;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.174451;49.453957
+57600_0320_00032;32;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.1768;49.451825
+57600_0320_00017_b;17;b;Rue des Sports;57330;57600;Roussy-le-Village;;;6.175336;49.452776
+57600_0320_00005_b;5;b;Rue des Sports;57330;57600;Roussy-le-Village;;;6.173324;49.455123
+57600_0320_00019_b;19;b;Rue des Sports;57330;57600;Roussy-le-Village;;;6.176093;49.451776
+57600_0300_00028;28;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.171614;49.459695
+57600_0300_00002_a;2;a;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172485;49.456993
+57600_0243_00001;1;;Impasse des Graminées;57330;57600;Roussy-le-Village;;;6.180985;49.457724
+57600_0080_00002;2;;Place du Chateau;57330;57600;Roussy-le-Village;;;6.191652;49.454037
+57600_0242_00002;2;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.176658;49.454506
+57600_0242_00018;18;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.175631;49.455849
+57600_0107_00001;1;;Impasse de la Citadelle;57330;57600;Roussy-le-Village;;;6.189573;49.455183
+57600_0107_00005;5;;Impasse de la Citadelle;57330;57600;Roussy-le-Village;;;6.190531;49.455136
+57600_0015_00002;2;;ruelle des bleuets;57330;57600;Roussy-le-Village;;;6.173778;49.451801
+57600_0270_00010;10;;Impasse des Roses;57330;57600;Roussy-le-Village;;;6.176154;49.454016
+57600_0120_00003;3;;Place de l’Eglise;57330;57600;Roussy-le-Village;;;6.172512;49.456554
+57600_0120_00007_a;7;a;Place de l’Eglise;57330;57600;Roussy-le-Village;;;6.17322;49.456524
+57600_0268_00004;4;;Impasse du Relais de Poste;57330;57600;Roussy-le-Village;;;6.177358;49.457268
+57600_0270_00009;9;;Impasse des Roses;57330;57600;Roussy-le-Village;;;6.175717;49.453414
+57600_0270_00013;13;;Impasse des Roses;57330;57600;Roussy-le-Village;;;6.17607;49.45363
+57600_0270_00017;17;;Impasse des Roses;57330;57600;Roussy-le-Village;;;6.176314;49.454005
+57600_0267_00003;3;;Rue aux Quatre Vents;57330;57600;Roussy-le-Village;;;6.183369;49.462694
+57600_0125_00002;2;;Place de l'Europe;57330;57600;Roussy-le-Village;;;6.176683;49.453551
+57600_0215_00017;17;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.173586;49.450916
+57600_0106_00007;7;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.188186;49.456013
+57600_0106_00019;19;;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.189302;49.455679
+57600_0106_00002_a;2;a;Boucle des Chevaliers;57330;57600;Roussy-le-Village;;;6.18718;49.455191
+57600_0020_00008;8;;Rue du Bourg;57330;57600;Roussy-le-Village;;;6.199243;49.45003
+57600_0220_00011;11;;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.178335;49.457316
+57600_0220_00011_b;11;b;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.178322;49.457355
+57600_0140_00014;14;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192299;49.457714
+57600_0140_00011_b;11;b;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192471;49.457946
+57600_0140_00011_c;11;c;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192542;49.458136
+57600_0260_00001;1;;Rue Neuve;57330;57600;Roussy-le-Village;;;6.175035;49.456876
+57600_0260_00011_a;11;a;Rue Neuve;57330;57600;Roussy-le-Village;;;6.176943;49.45729
+57600_0030_00001_bis;1;bis;Rue Centrale;57330;57600;Roussy-le-Village;;;6.191107;49.454693
+57600_0290_00002;2;;Rue Saint Denis;57330;57600;Roussy-le-Village;;;6.173625;49.456892
+57600_0320_00003;3;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.172969;49.456033
+57600_0320_00007;7;;Rue des Sports;57330;57600;Roussy-le-Village;;;6.173481;49.454993
+57600_0300_00009;9;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172186;49.458253
+57600_0300_00018;18;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.17203;49.458582
+57600_0060_00006;6;;Rue de la Chapelle;57330;57600;Roussy-le-Village;;;6.19209;49.454638
+57600_0266_00001;1;;Impasse des Prunelliers;57330;57600;Roussy-le-Village;;;6.176096;49.455884
+57600_0266_00004;4;;Impasse des Prunelliers;57330;57600;Roussy-le-Village;;;6.176475;49.456013
+57600_0243_00011;11;;Impasse des Graminées;57330;57600;Roussy-le-Village;;;6.180096;49.457825
+57600_0243_00009_a;9;a;Impasse des Graminées;57330;57600;Roussy-le-Village;;;6.181508;49.457886
+57600_0285_00002;2;;Rue Saint Christophe;57330;57600;Roussy-le-Village;;;6.182779;49.457353
+57600_0285_00011_a;11;a;Rue Saint Christophe;57330;57600;Roussy-le-Village;;;6.181648;49.458374
+57600_0100_00013;13;;Rue du Chateau d’Eau;57330;57600;Roussy-le-Village;;;6.174089;49.450131
+57600_0100_00017;17;;Rue du Chateau d’Eau;57330;57600;Roussy-le-Village;;;6.173518;49.450068
+57600_0100_00029;29;;Rue du Chateau d’Eau;57330;57600;Roussy-le-Village;;;6.171629;49.449891
+57600_0242_00014;14;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.176883;49.455388
+57600_0242_00027;27;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.175039;49.455255
+57600_0120_00005;5;;Place de l’Eglise;57330;57600;Roussy-le-Village;;;6.173137;49.456587
+57600_0250_00006;6;;Ruelle du Révérend Père Meder;57330;57600;Roussy-le-Village;;;6.172807;49.458529
+57600_0107_00004;4;;Impasse de la Citadelle;57330;57600;Roussy-le-Village;;;6.189939;49.455071
+57600_0107_00006;6;;Impasse de la Citadelle;57330;57600;Roussy-le-Village;;;6.190521;49.455055
+57600_0015_00008;8;;ruelle des bleuets;57330;57600;Roussy-le-Village;;;6.174636;49.451125
+57600_0250_00005;5;;Ruelle du Révérend Père Meder;57330;57600;Roussy-le-Village;;;6.172663;49.458018
+57600_0215_00013;13;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.174752;49.451057
+57600_0215_00021;21;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.172939;49.450899
+57600_0215_00033;33;;boucle du lanne;57330;57600;Roussy-le-Village;;;6.173758;49.451892
+57600_0020_00013;13;;Rue du Bourg;57330;57600;Roussy-le-Village;;;6.193451;49.451852
+57600_0220_00003;3;;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.177677;49.459395
+57600_0220_00023;23;;Voie de la Liberte;57330;57600;Roussy-le-Village;;;6.178727;49.456143
+57600_0140_00018;18;;Rue des Faisans;57330;57600;Roussy-le-Village;;;6.192421;49.458025
+57600_0260_00006;6;;Rue Neuve;57330;57600;Roussy-le-Village;;;6.175799;49.457063
+57600_0260_00011;11;;Rue Neuve;57330;57600;Roussy-le-Village;;;6.176657;49.457268
+57600_0108_00001;1;;ruelle des coquelicots;57330;57600;Roussy-le-Village;;;6.17321;49.451579
+57600_0300_00002;2;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172485;49.457189
+57600_0300_00006;6;;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172475;49.457369
+57600_0300_00028_a;28;a;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.171614;49.459694
+57600_0300_00009_b;9;b;Rue Sainte Anne;57330;57600;Roussy-le-Village;;;6.172163;49.458317
+57600_0243_00004;4;;Impasse des Graminées;57330;57600;Roussy-le-Village;;;6.181122;49.457502
+57600_0080_00004;4;;Place du Chateau;57330;57600;Roussy-le-Village;;;6.191524;49.453909
+57600_0080_00009;9;;Place du Chateau;57330;57600;Roussy-le-Village;;;6.192621;49.452814
+57600_0285_00013;13;;Rue Saint Christophe;57330;57600;Roussy-le-Village;;;6.181612;49.45791
+57600_0350_00002;2;;Impasse du Vieux Moulin;57330;57600;Roussy-le-Village;;;6.192991;49.451681
+57600_0280_00004;4;;Rue du Ruisseau;57330;57600;Roussy-le-Village;;;6.194574;49.463387
+57600_0280_00005_a;5;a;Rue du Ruisseau;57330;57600;Roussy-le-Village;;;6.194893;49.465089
+57600_0242_00010;10;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.177113;49.455136
+57600_0242_00022;22;;Boucle des Mirabelliers;57330;57600;Roussy-le-Village;;;6.175235;49.455551
+57600_0268_00002;2;;Impasse du Relais de Poste;57330;57600;Roussy-le-Village;;;6.177404;49.457287
+57600_0270_00006;6;;Impasse des Roses;57330;57600;Roussy-le-Village;;;6.175802;49.453502
+57600_0270_00012;12;;Impasse des Roses;57330;57600;Roussy-le-Village;;;6.176177;49.454243
+57600_0270_00019;19;;Impasse des Roses;57330;57600;Roussy-le-Village;;;6.17647;49.454081
+57600_0070_00001;1;;Impasse des Chardons;57330;57600;Roussy-le-Village;;;6.177631;49.456555

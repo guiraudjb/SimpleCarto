@@ -1,0 +1,948 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+50239_tovbio_00001;1;;La Herbiniere;50180;50239;Thèreval;Hébécrevon;;-1.15141;49.109635
+50239_fx0fvl_00005;5;;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.172048;49.126559
+50239_fx0fvl_00010;10;;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.173037;49.127504
+50239_fx0fvl_00016;16;;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.17419;49.126416
+50239_fx0fvl_00006_a;6;a;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.172032;49.127403
+50239_fx0fvl_00004_a;4;a;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.171761;49.127055
+50239_d1jx54_00001;1;;Rue de Groucy;50180;50239;Thèreval;La Chapelle-en-Juger;;-1.215159;49.124917
+50239_d1jx54_00005;5;;Rue de Groucy;50180;50239;Thèreval;La Chapelle-en-Juger;;-1.215731;49.124917
+50239_l7irw3_00001;1;;La Vacellerie;50180;50239;Thèreval;Hébécrevon;;-1.162548;49.124053
+50239_l7irw3_00005;5;;La Vacellerie;50180;50239;Thèreval;Hébécrevon;;-1.162912;49.124353
+50239_l7irw3_00006;6;;La Vacellerie;50180;50239;Thèreval;Hébécrevon;;-1.161859;49.123723
+50239_l7irw3_00010;10;;La Vacellerie;50180;50239;Thèreval;Hébécrevon;;-1.162652;49.124288
+50239_d126md_00001;1;;Survire;50180;50239;Thèreval;Hébécrevon;;-1.152689;49.129886
+50239_4ecrk4_00001;1;;La Cauviniere;50180;50239;Thèreval;Hébécrevon;;-1.162281;49.129649
+50239_4ecrk4_00007;7;;La Cauviniere;50180;50239;Thèreval;Hébécrevon;;-1.162248;49.129275
+50239_4ecrk4_00018;18;;La Cauviniere;50180;50239;Thèreval;Hébécrevon;;-1.162084;49.131309
+50239_v4qjm5_00001;1;;La Nouillerie;50180;50239;Thèreval;Hébécrevon;;-1.163805;49.135625
+50239_awn0k6_00001;1;;La Corbiniere;50180;50239;Thèreval;Hébécrevon;;-1.168889;49.114045
+50239_awn0k6_00008;8;;La Corbiniere;50180;50239;Thèreval;Hébécrevon;;-1.170457;49.113993
+50239_kn9ruo_00005;5;;Lotissement la Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.169882;49.125243
+50239_7vq1kp_00003;3;;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.158655;49.120665
+50239_7vq1kp_00004;4;;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.158878;49.120259
+50239_7vq1kp_00009;9;;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.15686;49.119682
+50239_7vq1kp_00010;10;;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.159039;49.119194
+50239_7vq1kp_00013;13;;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.156814;49.119408
+50239_7vq1kp_00002_c;2;c;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.159074;49.120711
+50239_7vq1kp_00011_bis;11;bis;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.158915;49.119754
+50239_fx0fvl_00014;14;;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.173622;49.126521
+50239_dz8vym_00002;2;;La Couesnerie;50180;50239;Thèreval;Hébécrevon;;-1.17293;49.132359
+50239_d1jx54_00004;4;;Rue de Groucy;50180;50239;Thèreval;La Chapelle-en-Juger;;-1.215588;49.124997
+50239_d126md_00002_bis;2;bis;Survire;50180;50239;Thèreval;Hébécrevon;;-1.155247;49.128767
+50239_06vnmv_00003;3;;La Planquette;50180;50239;Thèreval;Hébécrevon;;-1.17241;49.131034
+50239_06vnmv_00006;6;;La Planquette;50180;50239;Thèreval;Hébécrevon;;-1.171031;49.130212
+50239_4ecrk4_00009;9;;La Cauviniere;50180;50239;Thèreval;Hébécrevon;;-1.162351;49.129032
+50239_4ecrk4_00014;14;;La Cauviniere;50180;50239;Thèreval;Hébécrevon;;-1.161879;49.130805
+50239_v4qjm5_00002;2;;La Nouillerie;50180;50239;Thèreval;Hébécrevon;;-1.16289;49.135221
+50239_v4qjm5_00016;16;;La Nouillerie;50180;50239;Thèreval;Hébécrevon;;-1.162326;49.13556
+50239_7fp7jj_00004;4;;La Hersiere;50180;50239;Thèreval;Hébécrevon;;-1.188648;49.118083
+50239_nkiyqb_00002;2;;La Variniere;50180;50239;Thèreval;Hébécrevon;;-1.162676;49.135098
+50239_tmyqin_00006;6;;La Picardiere;50180;50239;Thèreval;Hébécrevon;;-1.173309;49.130531
+50239_tmyqin_00008;8;;La Picardiere;50180;50239;Thèreval;Hébécrevon;;-1.17284;49.130646
+50239_5m768y_00008;8;;La Haye;50180;50239;Thèreval;Hébécrevon;;-1.172946;49.12219
+50239_33ulnv_00001;1;;La Gendriere;50180;50239;Thèreval;Hébécrevon;;-1.197572;49.106734
+50239_o43oq6_00005;5;;Les Bruyeres;50180;50239;Thèreval;Hébécrevon;;-1.17569;49.1327
+50239_zt9hno_00001_b;1;b;La Scierie;50180;50239;Thèreval;Hébécrevon;;-1.19548;49.110609
+50239_p84wd9_00002;2;;La Huberderie;50180;50239;Thèreval;Hébécrevon;;-1.167553;49.130989
+50239_c5a9wh_00006;6;;La Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.169883;49.125369
+50239_c5a9wh_00011;11;;La Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.169124;49.126026
+50239_0879_00005;5;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.191588;49.134613
+50239_0879_00018;18;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.226787;49.149545
+50239_0879_00023;23;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.226881;49.149435
+50239_0110_00003;3;;Impasse du Vieux Chêne;50180;50239;Thèreval;Hébécrevon;;-1.171047;49.128508
+50239_0110_00004;4;;Impasse du Vieux Chêne;50180;50239;Thèreval;Hébécrevon;;-1.171766;49.128397
+50239_0878_00021;21;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.211704;49.12618
+50239_b116_00010;10;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.179292;49.119197
+50239_b116_00017;17;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.179258;49.119516
+50239_b116_00027;27;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.178414;49.117987
+50239_0045_00003;3;;Rue de l'Eglise;50180;50239;Thèreval;Hébécrevon;;-1.167132;49.126622
+50239_0045_00017;17;;Rue de l'Eglise;50180;50239;Thèreval;Hébécrevon;;-1.165654;49.122158
+50239_a040_00009;9;;Cité du Printemps;50180;50239;Thèreval;Hébécrevon;;-1.167614;49.128525
+50239_a040_00015;15;;Cité du Printemps;50180;50239;Thèreval;Hébécrevon;;-1.167904;49.128432
+50239_0875_00011;11;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.208695;49.13314
+50239_0875_00022;22;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213519;49.128959
+50239_0875_00025;25;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.199423;49.14365
+50239_0875_00034;34;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.201217;49.132073
+50239_0875_00038;38;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.195859;49.132924
+50239_0043_00001;1;;Impasse des Eglantiers;50180;50239;Thèreval;Hébécrevon;;-1.171612;49.129462
+50239_0043_00006;6;;Impasse des Eglantiers;50180;50239;Thèreval;Hébécrevon;;-1.171174;49.129601
+50239_0872_00012;12;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215712;49.127251
+50239_0872_00017;17;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216705;49.126983
+50239_0876_00004;4;;Rue de la Mare Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.203334;49.119136
+50239_0876_00016;16;;Rue de la Mare Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214407;49.112828
+50239_0876_00028;28;;Rue de la Mare Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.220544;49.112304
+50239_a021_00001;1;;Cité des Fontenelles;50180;50239;Thèreval;Hébécrevon;;-1.170047;49.126547
+50239_a021_00010;10;;Cité des Fontenelles;50180;50239;Thèreval;Hébécrevon;;-1.170063;49.126626
+50239_0874_00006;6;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216134;49.128604
+50239_0874_00007;7;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215504;49.127824
+50239_0874_00010;10;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216175;49.129017
+50239_0874_00015;15;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216924;49.128426
+50239_0874_00019;19;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.217264;49.128608
+50239_0874_00041;41;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.21802;49.128788
+50239_0874_00046;46;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.221929;49.134179
+50239_0874_00053;53;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.221568;49.129607
+50239_0874_00069;69;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.226837;49.131561
+50239_0874_00073;73;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.22857;49.133958
+50239_0874_00080;80;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.228547;49.134622
+50239_tmyqin_00001;1;;La Picardiere;50180;50239;Thèreval;Hébécrevon;;-1.174064;49.130262
+50239_tmyqin_00002;2;;La Picardiere;50180;50239;Thèreval;Hébécrevon;;-1.174104;49.130453
+50239_tmyqin_00006_b;6;b;La Picardiere;50180;50239;Thèreval;Hébécrevon;;-1.173309;49.130531
+50239_crb9hn_00004;4;;Le Palluel;50180;50239;Thèreval;Hébécrevon;;-1.155646;49.128246
+50239_crb9hn_00006;6;;Le Palluel;50180;50239;Thèreval;Hébécrevon;;-1.155622;49.128048
+50239_raqrw5_00001;1;;La Pepiniere;50180;50239;Thèreval;Hébécrevon;;-1.16067;49.115179
+50239_5m768y_00004;4;;La Haye;50180;50239;Thèreval;Hébécrevon;;-1.171588;49.123377
+50239_33ulnv_00002;2;;La Gendriere;50180;50239;Thèreval;Hébécrevon;;-1.197906;49.107886
+50239_51zfa7_00002;2;;la Bucaille;50180;50239;Thèreval;Hébécrevon;;-1.172999;49.13261
+50239_fzwv8p_00005;5;;Le Boscq;50180;50239;Thèreval;Hébécrevon;;-1.190341;49.115227
+50239_b6nfth_00002;2;;La Besnardiere;50180;50239;Thèreval;Hébécrevon;;-1.186216;49.111968
+50239_b6nfth_00004;4;;La Besnardiere;50180;50239;Thèreval;Hébécrevon;;-1.188383;49.110929
+50239_mabwf5_00003;3;;La Girandiere;50180;50239;Thèreval;Hébécrevon;;-1.177162;49.117836
+50239_lehzmq_00001;1;;Le Campart;50180;50239;Thèreval;Hébécrevon;;-1.153103;49.116081
+50239_zt9hno_00003;3;;La Scierie;50180;50239;Thèreval;Hébécrevon;;-1.195801;49.11039
+50239_0879_00010;10;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215721;49.153085
+50239_0879_00022;22;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.23321;49.150867
+50239_a001_00002;2;;Résidence des Pommiers;50180;50239;Thèreval;Hébécrevon;;-1.167959;49.129151
+50239_a001_00009;9;;Résidence des Pommiers;50180;50239;Thèreval;Hébécrevon;;-1.168119;49.129203
+50239_0878_00003;3;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214458;49.127852
+50239_0878_00019;19;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.212281;49.126509
+50239_b116_00002;2;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.178571;49.121171
+50239_b116_00009;9;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.17959;49.120609
+50239_b116_00014;14;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.179198;49.119292
+50239_b116_00008_c;8;c;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.179946;49.118987
+50239_0001_00005;5;;Impasse des Primevères;50180;50239;Thèreval;Hébécrevon;;-1.172445;49.128994
+50239_0001_00007;7;;Impasse des Primevères;50180;50239;Thèreval;Hébécrevon;;-1.172571;49.128766
+50239_0045_00004;4;;Rue de l'Eglise;50180;50239;Thèreval;Hébécrevon;;-1.166122;49.123302
+50239_0045_00007;7;;Rue de l'Eglise;50180;50239;Thèreval;Hébécrevon;;-1.167311;49.126248
+50239_0045_00016;16;;Rue de l'Eglise;50180;50239;Thèreval;Hébécrevon;;-1.166729;49.120839
+50239_a040_00010;10;;Cité du Printemps;50180;50239;Thèreval;Hébécrevon;;-1.167813;49.128648
+50239_0875_00007;7;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214107;49.128768
+50239_0875_00016;16;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213854;49.128853
+50239_0872_00013;13;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216409;49.12696
+50239_0876_00011;11;;Rue de la Mare Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.204717;49.117512
+50239_a021_00004;4;;Cité des Fontenelles;50180;50239;Thèreval;Hébécrevon;;-1.170711;49.126651
+50239_0874_00001;1;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215193;49.127766
+50239_0874_00014;14;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216247;49.128791
+50239_0874_00023;23;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.217938;49.128248
+50239_0874_00029;29;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218072;49.128275
+50239_0874_00031;31;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.21792;49.128446
+50239_0874_00034;34;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.219817;49.129574
+50239_0874_00061;61;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.223967;49.129932
+50239_0874_00062;62;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.225765;49.132099
+50239_0874_00066;66;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.226504;49.131755
+50239_0874_00075;75;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.228767;49.134089
+50239_0874_00059_c;59;c;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.222741;49.129146
+50239_0874_00032_bis;32;bis;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.219296;49.129426
+50239_0035_00006;6;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.171405;49.129058
+50239_0035_00010;10;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.170615;49.128788
+50239_0035_00014;14;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.170151;49.128396
+50239_kn9ruo_00009;9;;Lotissement la Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.169773;49.125852
+50239_7vq1kp_00006;6;;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.159032;49.119815
+50239_fx0fvl_00001;1;;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.171122;49.126433
+50239_q9m17v_00001;1;;Le Chatel;50180;50239;Thèreval;Hébécrevon;;-1.183093;49.125581
+50239_l7irw3_00002;2;;La Vacellerie;50180;50239;Thèreval;Hébécrevon;;-1.161164;49.123226
+50239_i3k4a9_00004;4;;La Communiere;50180;50239;Thèreval;Hébécrevon;;-1.178364;49.113796
+50239_i3k4a9_00005;5;;La Communiere;50180;50239;Thèreval;Hébécrevon;;-1.178472;49.113843
+50239_i0hhev_00003;3;;La Doriere;50180;50239;Thèreval;Hébécrevon;;-1.186581;49.122108
+50239_06vnmv_00002;2;;La Planquette;50180;50239;Thèreval;Hébécrevon;;-1.170559;49.130128
+50239_4ecrk4_00003;3;;La Cauviniere;50180;50239;Thèreval;Hébécrevon;;-1.162127;49.130136
+50239_kn9ruo_00003;3;;Lotissement la Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.169503;49.125513
+50239_kn9ruo_00008;8;;Lotissement la Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.169776;49.125735
+50239_kn9ruo_00012;12;;Lotissement la Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.169314;49.125894
+50239_7vq1kp_00015;15;;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.158939;49.119428
+50239_7vq1kp_00002_a;2;a;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.158594;49.121132
+50239_7vq1kp_00004_bis;4;bis;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.158793;49.120527
+50239_fx0fvl_00002;2;;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.171192;49.126496
+50239_fx0fvl_00006;6;;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.171744;49.127177
+50239_fx0fvl_00011;11;;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.172853;49.127436
+50239_d126md_00002;2;;Survire;50180;50239;Thèreval;Hébécrevon;;-1.152757;49.130085
+50239_i3k4a9_00001;1;;La Communiere;50180;50239;Thèreval;Hébécrevon;;-1.177315;49.113711
+50239_i3k4a9_00004_bis;4;bis;La Communiere;50180;50239;Thèreval;Hébécrevon;;-1.178702;49.113929
+50239_4ecrk4_00004;4;;La Cauviniere;50180;50239;Thèreval;Hébécrevon;;-1.162217;49.129171
+50239_4ecrk4_00010;10;;La Cauviniere;50180;50239;Thèreval;Hébécrevon;;-1.162005;49.130181
+50239_7fp7jj_00003;3;;La Hersiere;50180;50239;Thèreval;Hébécrevon;;-1.188124;49.118166
+50239_7fp7jj_00007;7;;La Hersiere;50180;50239;Thèreval;Hébécrevon;;-1.183881;49.11619
+50239_awn0k6_00003;3;;La Corbiniere;50180;50239;Thèreval;Hébécrevon;;-1.169515;49.112823
+50239_awn0k6_00010;10;;La Corbiniere;50180;50239;Thèreval;Hébécrevon;;-1.169727;49.113093
+50239_awn0k6_00008_bis;8;bis;La Corbiniere;50180;50239;Thèreval;Hébécrevon;;-1.170007;49.113457
+50239_tmyqin_00003_bis;3;bis;La Picardiere;50180;50239;Thèreval;Hébécrevon;;-1.17284;49.130872
+50239_jgh3tv_00002;2;;La Juganniere;50180;50239;Thèreval;Hébécrevon;;-1.16224;49.143935
+50239_51zfa7_00001;1;;la Bucaille;50180;50239;Thèreval;Hébécrevon;;-1.187541;49.132179
+50239_o43oq6_00006;6;;Les Bruyeres;50180;50239;Thèreval;Hébécrevon;;-1.174977;49.132947
+50239_fzwv8p_00003_bis;3;bis;Le Boscq;50180;50239;Thèreval;Hébécrevon;;-1.19097;49.115178
+50239_b6nfth_00001;1;;La Besnardiere;50180;50239;Thèreval;Hébécrevon;;-1.186051;49.110572
+50239_b6nfth_00003;3;;La Besnardiere;50180;50239;Thèreval;Hébécrevon;;-1.186509;49.110604
+50239_b6nfth_00006;6;;La Besnardiere;50180;50239;Thèreval;Hébécrevon;;-1.188088;49.110567
+50239_dvub5o_00001;1;;Le Castillon;50180;50239;Thèreval;Hébécrevon;;-1.16382;49.106238
+50239_mabwf5_00006;6;;La Girandiere;50180;50239;Thèreval;Hébécrevon;;-1.177871;49.118316
+50239_t6khla_00006;6;;La Crevonniere;50180;50239;Thèreval;Hébécrevon;;-1.1528;49.12315
+50239_zt9hno_00001;1;;La Scierie;50180;50239;Thèreval;Hébécrevon;;-1.194305;49.111214
+50239_zt9hno_00001_a;1;a;La Scierie;50180;50239;Thèreval;Hébécrevon;;-1.19471;49.11101
+50239_bul6a1_00002;2;;La Lande;50180;50239;Thèreval;Hébécrevon;;-1.162173;49.119918
+50239_yldxef_00002;2;;La Campagnette;50180;50239;Thèreval;Hébécrevon;;-1.16461;49.127299
+50239_c5a9wh_00007;7;;La Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.169887;49.125568
+50239_0879_00004;4;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.20723;49.149943
+50239_0879_00009;9;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.189371;49.139504
+50239_0879_00017;17;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.220159;49.147966
+50239_a001_00006;6;;Résidence des Pommiers;50180;50239;Thèreval;Hébécrevon;;-1.168764;49.12916
+50239_a001_00010;10;;Résidence des Pommiers;50180;50239;Thèreval;Hébécrevon;;-1.168131;49.129162
+50239_0878_00004;4;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214406;49.127667
+50239_0878_00009;9;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213724;49.12768
+50239_0878_00010;10;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.2137;49.127571
+50239_0878_00014;14;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213053;49.127175
+50239_0878_00029;29;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.204687;49.124656
+50239_0045_00011;11;;Rue de l'Eglise;50180;50239;Thèreval;Hébécrevon;;-1.166487;49.124397
+50239_a040_00005;5;;Cité du Printemps;50180;50239;Thèreval;Hébécrevon;;-1.167263;49.128794
+50239_a040_00006;6;;Cité du Printemps;50180;50239;Thèreval;Hébécrevon;;-1.167528;49.128805
+50239_a040_00017;17;;Cité du Printemps;50180;50239;Thèreval;Hébécrevon;;-1.168097;49.128585
+50239_0875_00002;2;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214908;49.127917
+50239_0875_00012;12;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213923;49.128797
+50239_0875_00019;19;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.210615;49.139596
+50239_0875_00050;50;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.197488;49.140238
+50239_0872_00001;1;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215179;49.1268
+50239_0872_00004;4;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215497;49.126929
+50239_0876_00003;3;;Rue de la Mare Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.201904;49.118881
+50239_0876_00008;8;;Rue de la Mare Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.208506;49.1145
+50239_0876_00021;21;;Rue de la Mare Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.205545;49.116294
+50239_a021_00005;5;;Cité des Fontenelles;50180;50239;Thèreval;Hébécrevon;;-1.170762;49.126561
+50239_a021_00008;8;;Cité des Fontenelles;50180;50239;Thèreval;Hébécrevon;;-1.170577;49.126771
+50239_0874_00003;3;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215309;49.127787
+50239_0874_00035;35;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218142;49.128661
+50239_0874_00040;40;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.222195;49.130027
+50239_0874_00049;49;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.219658;49.129457
+50239_0874_00010_c;10;c;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216094;49.129161
+50239_0874_00060_ter;60;ter;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.22604;49.13116
+50239_0885_00009;9;;Rue des Bois;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.19736;49.154479
+50239_0035_00002;2;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.171892;49.128812
+50239_0035_00007;7;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.170319;49.128765
+50239_0874_00046_a;46;a;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.222302;49.134365
+50239_0885_00004;4;;Rue des Bois;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.199051;49.146274
+50239_0885_00011;11;;Rue des Bois;50570;50239;Thèreval;;;-1.197297;49.157379
+50239_0035_00001;1;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.172057;49.129489
+50239_0035_00015;15;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.170006;49.128398
+50239_i0hhev_00002;2;;La Doriere;50180;50239;Thèreval;Hébécrevon;;-1.185567;49.12212
+50239_06vnmv_00007;7;;La Planquette;50180;50239;Thèreval;Hébécrevon;;-1.174063;49.132198
+50239_v4qjm5_00006;6;;La Nouillerie;50180;50239;Thèreval;Hébécrevon;;-1.163715;49.135683
+50239_crb9hn_00002;2;;Le Palluel;50180;50239;Thèreval;Hébécrevon;;-1.155557;49.127673
+50239_5m768y_00003;3;;La Haye;50180;50239;Thèreval;Hébécrevon;;-1.17203;49.122587
+50239_5m768y_00006_bis;6;bis;La Haye;50180;50239;Thèreval;Hébécrevon;;-1.17343;49.121735
+50239_jgh3tv_00001;1;;La Juganniere;50180;50239;Thèreval;Hébécrevon;;-1.161964;49.143328
+50239_fzwv8p_00007;7;;Le Boscq;50180;50239;Thèreval;Hébécrevon;;-1.189556;49.1153
+50239_b6nfth_00001_a;1;a;La Besnardiere;50180;50239;Thèreval;Hébécrevon;;-1.185665;49.110599
+50239_yiwhnq_00001;1;;La Marcandiere;50180;50239;Thèreval;Hébécrevon;;-1.156008;49.11224
+50239_dvub5o_00003;3;;Le Castillon;50180;50239;Thèreval;Hébécrevon;;-1.157188;49.104933
+50239_p84wd9_00001;1;;La Huberderie;50180;50239;Thèreval;Hébécrevon;;-1.167729;49.131169
+50239_c5a9wh_00001;1;;La Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.16922;49.12509
+50239_c5a9wh_00003;3;;La Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.169508;49.125371
+50239_c5a9wh_00010;10;;La Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.16958;49.125854
+50239_0879_00013;13;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.200052;49.143948
+50239_0879_00014;14;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.219449;49.148138
+50239_a001_00005;5;;Résidence des Pommiers;50180;50239;Thèreval;Hébécrevon;;-1.168796;49.129122
+50239_0878_00013;13;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.212702;49.127325
+50239_0878_00027;27;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.204606;49.124986
+50239_b116_00001;1;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.177881;49.121007
+50239_b116_00005;5;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.178782;49.121071
+50239_b116_00006;6;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.180498;49.121054
+50239_b116_00013;13;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.179485;49.120213
+50239_b116_00019;19;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.179137;49.119198
+50239_b116_00025;25;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.178739;49.118368
+50239_b116_00008_b;8;b;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.179656;49.119276
+50239_0045_00013;13;;Rue de l'Eglise;50180;50239;Thèreval;Hébécrevon;;-1.166101;49.123473
+50239_a040_00002;2;;Cité du Printemps;50180;50239;Thèreval;Hébécrevon;;-1.167298;49.128879
+50239_0875_00003;3;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214631;49.128448
+50239_0875_00008;8;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213973;49.128446
+50239_0875_00046;46;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.194002;49.137234
+50239_0043_00002;2;;Impasse des Eglantiers;50180;50239;Thèreval;Hébécrevon;;-1.17123;49.129498
+50239_0043_00005;5;;Impasse des Eglantiers;50180;50239;Thèreval;Hébécrevon;;-1.171577;49.129492
+50239_0872_00002;2;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.21526;49.126931
+50239_0872_00005;5;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215179;49.1268
+50239_0872_00008;8;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.21545;49.127159
+50239_0872_00009;9;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216114;49.126927
+50239_0872_00015;15;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216547;49.126972
+50239_0876_00012;12;;Rue de la Mare Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.209505;49.11403
+50239_0876_00017;17;;Rue de la Mare Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.208117;49.114346
+50239_0876_00019;19;;Rue de la Mare Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.205551;49.117138
+50239_0874_00012;12;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216256;49.128932
+50239_0874_00025;25;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.21808;49.128099
+50239_0874_00054;54;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.223327;49.130176
+50239_0874_00059;59;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.222905;49.129609
+50239_0874_00065;65;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.226129;49.13112
+50239_0874_00070;70;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.22753;49.132104
+50239_0874_00059_e;59;e;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.223045;49.129594
+50239_0885_00002;2;;Rue des Bois;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.198181;49.14401
+50239_0035_00011;11;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.170145;49.128697
+50239_0877_00022;22;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214838;49.134254
+50239_0877_00035;35;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.219129;49.139193
+50239_0877_00043;43;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.221129;49.135067
+50239_0877_00045;45;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218762;49.144741
+50239_0877_00015_bis;15;bis;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216223;49.135485
+50239_0070_00002;2;;Rue des Noisetiers;50180;50239;Thèreval;Hébécrevon;;-1.166016;49.128688
+50239_0070_00005;5;;Rue des Noisetiers;50180;50239;Thèreval;Hébécrevon;;-1.165678;49.128989
+50239_0070_00012;12;;Rue des Noisetiers;50180;50239;Thèreval;Hébécrevon;;-1.165668;49.127958
+50239_0877_00023;23;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.221514;49.1352
+50239_0877_00029;29;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.223176;49.137852
+50239_0877_00031;31;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218955;49.138773
+50239_0877_00034;34;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216758;49.140194
+50239_0877_00036;36;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216904;49.140613
+50239_0877_00039;39;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218408;49.141672
+50239_0877_00041;41;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218483;49.141926
+50239_0877_00042;42;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218156;49.145097
+50239_0877_00019_bis;19;bis;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.22229;49.134571
+50239_0070_00001;1;;Rue des Noisetiers;50180;50239;Thèreval;Hébécrevon;;-1.165913;49.128941
+50239_0070_00008;8;;Rue des Noisetiers;50180;50239;Thèreval;Hébécrevon;;-1.165378;49.128313
+50239_0070_00009;9;;Rue des Noisetiers;50180;50239;Thèreval;Hébécrevon;;-1.165023;49.128864
+50239_0070_00016;16;;Rue des Noisetiers;50180;50239;Thèreval;Hébécrevon;;-1.16637;49.127576
+50239_0070_00017;17;;Rue des Noisetiers;50180;50239;Thèreval;Hébécrevon;;-1.165246;49.128341
+50239_0070_00019;19;;Rue des Noisetiers;50180;50239;Thèreval;Hébécrevon;;-1.165483;49.128064
+50239_0881_00003;3;;Rue des Jonquilles;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.204229;49.120868
+50239_0881_00018;18;;Rue des Jonquilles;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.196787;49.114508
+50239_0882_00002;2;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215342;49.127554
+50239_0882_00004;4;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215137;49.127517
+50239_0882_00007;7;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215034;49.127407
+50239_0882_00009;9;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215017;49.12718
+50239_0882_00013;13;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214992;49.126995
+50239_0882_00015;15;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215011;49.126974
+50239_0882_00024;24;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.219026;49.117281
+50239_0882_00028;28;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.219378;49.121115
+50239_0882_00032;32;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218948;49.117109
+50239_0882_00036;36;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.219451;49.116052
+50239_0882_00041;41;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218593;49.116276
+50239_0883_00006;6;;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.225633;49.128837
+50239_0883_00008;8;;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.226095;49.127444
+50239_0883_00009;9;;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.225568;49.126888
+50239_0883_00011;11;;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.225776;49.126665
+50239_0883_00012;12;;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.22972;49.12075
+50239_0883_00013;13;;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.225735;49.1263
+50239_0883_00022;22;;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.227782;49.116297
+50239_0883_00024;24;;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.22808;49.116324
+50239_0883_00001_bis;1;bis;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.22553;49.12849
+50239_0883_00004_bis;4;bis;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.22554;49.130005
+50239_a015_00001;1;;Cite des Jardins Fleuris;50180;50239;Thèreval;Hébécrevon;;-1.165371;49.125922
+50239_a015_00007;7;;Cite des Jardins Fleuris;50180;50239;Thèreval;Hébécrevon;;-1.165918;49.125481
+50239_a015_00013;13;;Cite des Jardins Fleuris;50180;50239;Thèreval;Hébécrevon;;-1.166531;49.125093
+50239_0070_00015;15;;Rue des Noisetiers;50180;50239;Thèreval;Hébécrevon;;-1.165077;49.128547
+50239_0881_00006;6;;Rue des Jonquilles;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.21067;49.120972
+50239_0881_00008;8;;Rue des Jonquilles;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.19896;49.115689
+50239_0882_00003;3;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214927;49.12754
+50239_0882_00016;16;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216955;49.119364
+50239_0882_00019;19;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214919;49.126437
+50239_0882_00021;21;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214879;49.125814
+50239_0882_00031;31;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213072;49.116639
+50239_0882_00037;37;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218078;49.117269
+50239_0882_00039;39;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218289;49.117148
+50239_0883_00007;7;;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.225277;49.127068
+50239_0883_00020;20;;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.227852;49.116106
+50239_0883_00002_bis;2;bis;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.232871;49.114124
+50239_a015_00006;6;;Cite des Jardins Fleuris;50180;50239;Thèreval;Hébécrevon;;-1.166368;49.125713
+50239_a015_00008;8;;Cite des Jardins Fleuris;50180;50239;Thèreval;Hébécrevon;;-1.166743;49.125706
+50239_a015_00009;9;;Cite des Jardins Fleuris;50180;50239;Thèreval;Hébécrevon;;-1.166085;49.125375
+50239_a015_00011;11;;Cite des Jardins Fleuris;50180;50239;Thèreval;Hébécrevon;;-1.16633;49.125221
+50239_a015_00015;15;;Cite des Jardins Fleuris;50180;50239;Thèreval;Hébécrevon;;-1.166498;49.125206
+50239_a015_00017;17;;Cite des Jardins Fleuris;50180;50239;Thèreval;Hébécrevon;;-1.166276;49.125317
+50239_b346_00007;7;;Hotel Torquet;50180;50239;Thèreval;Hébécrevon;;-1.169483;49.143557
+50239_b346_00007_a;7;a;Hotel Torquet;50180;50239;Thèreval;Hébécrevon;;-1.169786;49.14359
+50239_b346_00009_bis;9;bis;Hotel Torquet;50180;50239;Thèreval;Hébécrevon;;-1.170555;49.143854
+50239_0100_00001;1;;Rue du Vey;50180;50239;Thèreval;Hébécrevon;;-1.165075;49.126302
+50239_0100_00004;4;;Rue du Vey;50180;50239;Thèreval;Hébécrevon;;-1.164038;49.125987
+50239_0100_00005;5;;Rue du Vey;50180;50239;Thèreval;Hébécrevon;;-1.164412;49.12614
+50239_b131_00001;1;;Le Clos David;50180;50239;Thèreval;Hébécrevon;;-1.175401;49.107306
+50239_b131_00006;6;;Le Clos David;50180;50239;Thèreval;Hébécrevon;;-1.175497;49.106549
+50239_0880_00011;11;;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.217168;49.126409
+50239_0880_00013;13;;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.217348;49.126359
+50239_a003_00002;2;;Lotissement Hebert;50180;50239;Thèreval;Hébécrevon;;-1.165166;49.121804
+50239_0050_00002;2;;Rue de la Grotte;50180;50239;Thèreval;Hébécrevon;;-1.166986;49.127704
+50239_0050_00006;6;;Rue de la Grotte;50180;50239;Thèreval;Hébécrevon;;-1.166827;49.128113
+50239_0873_00001;1;;Impasse des Forsythias;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215342;49.126438
+50239_0873_00002;2;;Impasse des Forsythias;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215337;49.126357
+50239_0047_00001;1;;Place de la Fontaine;50180;50239;Thèreval;Hébécrevon;;-1.167084;49.127906
+50239_0100_00007;7;;Rue du Vey;50180;50239;Thèreval;Hébécrevon;;-1.164099;49.126063
+50239_0100_00009;9;;Rue du Vey;50180;50239;Thèreval;Hébécrevon;;-1.163875;49.126003
+50239_b131_00004;4;;Le Clos David;50180;50239;Thèreval;Hébécrevon;;-1.17421;49.106678
+50239_b131_00005;5;;Le Clos David;50180;50239;Thèreval;Hébécrevon;;-1.174236;49.106534
+50239_0880_00001;1;;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215888;49.127981
+50239_0880_00003;3;;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216287;49.127555
+50239_0880_00004;4;;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216171;49.127786
+50239_0880_00009;9;;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216849;49.126816
+50239_0880_00012;12;;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.217961;49.126424
+50239_0880_00028;28;;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.220031;49.12475
+50239_0880_00010_bis;10;bis;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.217185;49.127256
+50239_a003_00001;1;;Lotissement Hebert;50180;50239;Thèreval;Hébécrevon;;-1.165513;49.121757
+50239_a003_00004;4;;Lotissement Hebert;50180;50239;Thèreval;Hébécrevon;;-1.165142;49.121651
+50239_0050_00004;4;;Rue de la Grotte;50180;50239;Thèreval;Hébécrevon;;-1.166853;49.128038
+50239_0050_00008;8;;Rue de la Grotte;50180;50239;Thèreval;Hébécrevon;;-1.166504;49.128787
+50239_0873_00005;5;;Impasse des Forsythias;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215342;49.126438
+50239_c150_00012;12;;Lieu Dit l’Hotel Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.245051;49.111054
+50239_0047_00006;6;;Place de la Fontaine;50180;50239;Thèreval;Hébécrevon;;-1.167705;49.128096
+50239_0886_00002;2;;Rue du Cimetiere Allemand;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.232857;49.114147
+50239_0075_00005;5;;Impasse des Religieuses;50180;50239;Thèreval;Hébécrevon;;-1.165948;49.124763
+50239_0065_00002;2;;Rue du Mesnil Guillaume;50180;50239;Thèreval;Hébécrevon;;-1.166052;49.127205
+50239_0065_00003;3;;Rue du Mesnil Guillaume;50180;50239;Thèreval;Hébécrevon;;-1.165217;49.127576
+50239_a020_00004;4;;Cité Laurence;50180;50239;Thèreval;Hébécrevon;;-1.171965;49.129937
+50239_a020_00006;6;;Cité Laurence;50180;50239;Thèreval;Hébécrevon;;-1.172247;49.129742
+50239_0060_00004;4;;Rue des Magnolias;50180;50239;Thèreval;Hébécrevon;;-1.168486;49.127064
+50239_0060_00004_bis;4;bis;Rue des Magnolias;50180;50239;Thèreval;Hébécrevon;;-1.168486;49.127064
+50239_0098_00003;3;;Rue du Val;50180;50239;Thèreval;Hébécrevon;;-1.170638;49.125828
+50239_0098_00007;7;;Rue du Val;50180;50239;Thèreval;Hébécrevon;;-1.170737;49.125249
+50239_0098_00008;8;;Rue du Val;50180;50239;Thèreval;Hébécrevon;;-1.170845;49.125346
+50239_a050_00002;2;;Cite des Rossignols;50180;50239;Thèreval;Hébécrevon;;-1.164245;49.128232
+50239_kn9ruo_00006;6;;Lotissement la Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.169885;49.125369
+50239_7vq1kp_00002_b;2;b;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.159095;49.120932
+50239_7vq1kp_00019_a;19;a;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.15963;49.118501
+50239_7vq1kp_00005_b;5;b;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.157681;49.120641
+50239_fx0fvl_00004;4;;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.171973;49.126607
+50239_fx0fvl_00012;12;;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.173309;49.126517
+50239_d1jx54_00002;2;;Rue de Groucy;50180;50239;Thèreval;La Chapelle-en-Juger;;-1.215225;49.124998
+50239_d1jx54_00007;7;;Rue de Groucy;50180;50239;Thèreval;La Chapelle-en-Juger;;-1.215937;49.124918
+50239_0888_00003;3;;Impasse Dagobert;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215948;49.125833
+50239_0888_00004;4;;Impasse Dagobert;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215768;49.126113
+50239_0888_00005;5;;Impasse Dagobert;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215954;49.125833
+50239_0888_00008;8;;Impasse Dagobert;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216601;49.125885
+50239_b515_00001;1;;Le Perdriel de Bas;50180;50239;Thèreval;Hébécrevon;;-1.152221;49.120675
+50239_0095_00001;1;;Place des Tilleuls;50180;50239;Thèreval;Hébécrevon;;-1.166962;49.126934
+50239_0095_00003;3;;Place des Tilleuls;50180;50239;Thèreval;Hébécrevon;;-1.167029;49.127017
+50239_a005_00001;1;;Cite la Campagnette;50180;50239;Thèreval;Hébécrevon;;-1.164677;49.127448
+50239_a005_00002;2;;Cite la Campagnette;50180;50239;Thèreval;Hébécrevon;;-1.164185;49.126973
+50239_a005_00003;3;;Cite la Campagnette;50180;50239;Thèreval;Hébécrevon;;-1.164491;49.127258
+50239_a005_00004;4;;Cite la Campagnette;50180;50239;Thèreval;Hébécrevon;;-1.164023;49.127164
+50239_a005_00005;5;;Cite la Campagnette;50180;50239;Thèreval;Hébécrevon;;-1.163945;49.127558
+50239_a005_00006;6;;Cite la Campagnette;50180;50239;Thèreval;Hébécrevon;;-1.163815;49.127434
+50239_a005_00009;9;;Cite la Campagnette;50180;50239;Thèreval;Hébécrevon;;-1.163802;49.127563
+50239_a005_00002_e;2;e;Cite la Campagnette;50180;50239;Thèreval;Hébécrevon;;-1.164449;49.127105
+50239_b233_00001;1;;la Fontaine des Bains;50180;50239;Thèreval;Hébécrevon;;-1.175741;49.142151
+50239_0074_00040;40;;Rue des Ombelles;50180;50239;Thèreval;Hébécrevon;;-1.164474;49.130011
+50239_0080_00002;2;;Route de Saint Gilles;50180;50239;Thèreval;Hébécrevon;;-1.187991;49.135589
+50239_0889_00003;3;;Rue de Groucy - Chap. Juger;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215428;49.12479
+50239_d126md_00006;6;;Survire;50180;50239;Thèreval;Hébécrevon;;-1.152447;49.130648
+50239_i3k4a9_00002;2;;La Communiere;50180;50239;Thèreval;Hébécrevon;;-1.177954;49.113706
+50239_06vnmv_00001;1;;La Planquette;50180;50239;Thèreval;Hébécrevon;;-1.172142;49.13085
+50239_06vnmv_00004;4;;La Planquette;50180;50239;Thèreval;Hébécrevon;;-1.170668;49.129961
+50239_4ecrk4_00005;5;;La Cauviniere;50180;50239;Thèreval;Hébécrevon;;-1.162145;49.130395
+50239_4ecrk4_00006;6;;La Cauviniere;50180;50239;Thèreval;Hébécrevon;;-1.162114;49.129436
+50239_4ecrk4_00008_bis;8;bis;La Cauviniere;50180;50239;Thèreval;Hébécrevon;;-1.162052;49.130013
+50239_7fp7jj_00002;2;;La Hersiere;50180;50239;Thèreval;Hébécrevon;;-1.188663;49.118789
+50239_7fp7jj_00005;5;;La Hersiere;50180;50239;Thèreval;Hébécrevon;;-1.187756;49.118221
+50239_7fp7jj_00006;6;;La Hersiere;50180;50239;Thèreval;Hébécrevon;;-1.188343;49.117862
+50239_awn0k6_00002;2;;La Corbiniere;50180;50239;Thèreval;Hébécrevon;;-1.16888;49.114592
+50239_nkiyqb_00003;3;;La Variniere;50180;50239;Thèreval;Hébécrevon;;-1.162224;49.134676
+50239_tmyqin_00002_a;2;a;La Picardiere;50180;50239;Thèreval;Hébécrevon;;-1.173479;49.130185
+50239_nrb1vb_00001;1;;La Rairie;50180;50239;Thèreval;Hébécrevon;;-1.18004;49.138533
+50239_jgh3tv_00003;3;;La Juganniere;50180;50239;Thèreval;Hébécrevon;;-1.162383;49.143513
+50239_fzwv8p_00009;9;;Le Boscq;50180;50239;Thèreval;Hébécrevon;;-1.188842;49.115241
+50239_yiwhnq_00004;4;;La Marcandiere;50180;50239;Thèreval;Hébécrevon;;-1.155707;49.112589
+50239_0889_00005;5;;Rue de Groucy - Chap. Juger;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215752;49.124921
+50239_0889_00007;7;;Rue de Groucy - Chap. Juger;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216047;49.124916
+50239_b840_00002;2;;Village Palluel;50180;50239;Thèreval;Hébécrevon;;-1.155557;49.127673
+50239_b840_00003;3;;Village Palluel;50180;50239;Thèreval;Hébécrevon;;-1.153915;49.126706
+50239_b840_00005;5;;Village Palluel;50180;50239;Thèreval;Hébécrevon;;-1.153768;49.127488
+50239_b844_00002_bis;2;bis;L’Hotel au Dolley;50180;50239;Thèreval;Hébécrevon;;-1.19399;49.10466
+50239_t6khla_00004;4;;La Crevonniere;50180;50239;Thèreval;Hébécrevon;;-1.151788;49.123636
+50239_a7z7e7_00001;1;;Le Tanguet;50180;50239;Thèreval;Hébécrevon;;-1.174236;49.137439
+50239_bul6a1_00001;1;;La Lande;50180;50239;Thèreval;Hébécrevon;;-1.161205;49.119943
+50239_c5a9wh_00008;8;;La Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.169774;49.125735
+50239_0879_00019;19;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.22108;49.14822
+50239_a001_00003;3;;Résidence des Pommiers;50180;50239;Thèreval;Hébécrevon;;-1.168492;49.128906
+50239_0878_00001;1;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.21475;49.127849
+50239_b116_00003;3;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.178147;49.121024
+50239_b116_00007;7;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.179521;49.121234
+50239_0001_00001;1;;Impasse des Primevères;50180;50239;Thèreval;Hébécrevon;;-1.172207;49.129226
+50239_0001_00003;3;;Impasse des Primevères;50180;50239;Thèreval;Hébécrevon;;-1.172352;49.129063
+50239_0047_00008;8;;Place de la Fontaine;50180;50239;Thèreval;Hébécrevon;;-1.167599;49.128163
+50239_b338_00001;1;;Hotel Carruel;50180;50239;Thèreval;Hébécrevon;;-1.172911;49.140307
+50239_0886_00004;4;;Rue du Cimetiere Allemand;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.233179;49.114197
+50239_0075_00001;1;;Impasse des Religieuses;50180;50239;Thèreval;Hébécrevon;;-1.166416;49.12459
+50239_0884_00001;1;;Rue de Bohon;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.225104;49.155768
+50239_0884_00003;3;;Rue de Bohon;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.22517;49.158276
+50239_a020_00002;2;;Cité Laurence;50180;50239;Thèreval;Hébécrevon;;-1.171451;49.130275
+50239_a020_00008;8;;Cité Laurence;50180;50239;Thèreval;Hébécrevon;;-1.172522;49.129543
+50239_0060_00001_bis;1;bis;Rue des Magnolias;50180;50239;Thèreval;Hébécrevon;;-1.169528;49.126442
+50239_0098_00002;2;;Rue du Val;50180;50239;Thèreval;Hébécrevon;;-1.17072;49.1262
+50239_0098_00004;4;;Rue du Val;50180;50239;Thèreval;Hébécrevon;;-1.170993;49.125953
+50239_0098_00006;6;;Rue du Val;50180;50239;Thèreval;Hébécrevon;;-1.170791;49.125705
+50239_a050_00004;4;;Cite des Rossignols;50180;50239;Thèreval;Hébécrevon;;-1.163928;49.12835
+50239_a050_00005;5;;Cite des Rossignols;50180;50239;Thèreval;Hébécrevon;;-1.16439;49.128219
+50239_a050_00006;6;;Cite des Rossignols;50180;50239;Thèreval;Hébécrevon;;-1.16373;49.128449
+50239_a050_00007;7;;Cite des Rossignols;50180;50239;Thèreval;Hébécrevon;;-1.164253;49.128383
+50239_a050_00008;8;;Cite des Rossignols;50180;50239;Thèreval;Hébécrevon;;-1.163683;49.128516
+50239_a050_00011;11;;Cite des Rossignols;50180;50239;Thèreval;Hébécrevon;;-1.163996;49.128634
+50239_kn9ruo_00001;1;;Lotissement la Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.169045;49.125088
+50239_7vq1kp_00008;8;;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.159008;49.11933
+50239_7vq1kp_00017;17;;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.158943;49.119234
+50239_fx0fvl_00008;8;;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.172762;49.127503
+50239_fx0fvl_00013;13;;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.173859;49.127721
+50239_fx0fvl_00018;18;;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.174665;49.126321
+50239_fx0fvl_00006_c;6;c;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.171781;49.127406
+50239_q9m17v_00002;2;;Le Chatel;50180;50239;Thèreval;Hébécrevon;;-1.185333;49.124863
+50239_dz8vym_00001;1;;La Couesnerie;50180;50239;Thèreval;Hébécrevon;;-1.172226;49.133895
+50239_d1jx54_00003;3;;Rue de Groucy;50180;50239;Thèreval;La Chapelle-en-Juger;;-1.215454;49.124915
+50239_d1jx54_00006;6;;Rue de Groucy;50180;50239;Thèreval;La Chapelle-en-Juger;;-1.215935;49.124999
+50239_0033_00002;2;;Rue des Chemins Verts;50180;50239;Thèreval;Hébécrevon;;-1.170572;49.129332
+50239_0888_00001;1;;Impasse Dagobert;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215635;49.126035
+50239_0095_00005;5;;Place des Tilleuls;50180;50239;Thèreval;Hébécrevon;;-1.167114;49.127137
+50239_b336_00004;4;;L’Hotel au Doley;50180;50239;Thèreval;Hébécrevon;;-1.193917;49.104278
+50239_b483_00001;1;;Le Malais du Midi;50180;50239;Thèreval;Hébécrevon;;-1.165082;49.132578
+50239_b475_00004_bis;4;bis;La Maison Neuve;50180;50239;Thèreval;Hébécrevon;;-1.19073;49.10413
+50239_a005_00002_c;2;c;Cite la Campagnette;50180;50239;Thèreval;Hébécrevon;;-1.164302;49.126892
+50239_a005_00002_b;2;b;Cite la Campagnette;50180;50239;Thèreval;Hébécrevon;;-1.164625;49.127293
+50239_b340_00001;1;;Hotel Denier de Haut;50180;50239;Thèreval;Hébécrevon;;-1.175059;49.140196
+50239_c143_00001;1;;l'Hôtel Champagne;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.20893;49.114045
+50239_0074_00015;15;;Rue des Ombelles;50180;50239;Thèreval;Hébécrevon;;-1.163296;49.129709
+50239_0074_00020;20;;Rue des Ombelles;50180;50239;Thèreval;Hébécrevon;;-1.163923;49.129168
+50239_0074_00030;30;;Rue des Ombelles;50180;50239;Thèreval;Hébécrevon;;-1.163155;49.129773
+50239_0074_00034;34;;Rue des Ombelles;50180;50239;Thèreval;Hébécrevon;;-1.163546;49.129843
+50239_0074_00042;42;;Rue des Ombelles;50180;50239;Thèreval;Hébécrevon;;-1.164894;49.130081
+50239_i3k4a9_00006;6;;La Communiere;50180;50239;Thèreval;Hébécrevon;;-1.17831;49.113674
+50239_i3k4a9_00008;8;;La Communiere;50180;50239;Thèreval;Hébécrevon;;-1.17925;49.114155
+50239_06vnmv_00003_bis;3;bis;La Planquette;50180;50239;Thèreval;Hébécrevon;;-1.17236;49.131031
+50239_awn0k6_00004;4;;La Corbiniere;50180;50239;Thèreval;Hébécrevon;;-1.169291;49.114049
+50239_awn0k6_00012;12;;La Corbiniere;50180;50239;Thèreval;Hébécrevon;;-1.169261;49.114525
+50239_crb9hn_00005;5;;Le Palluel;50180;50239;Thèreval;Hébécrevon;;-1.153768;49.127488
+50239_5m768y_00005;5;;La Haye;50180;50239;Thèreval;Hébécrevon;;-1.171705;49.122302
+50239_nrb1vb_00002;2;;La Rairie;50180;50239;Thèreval;Hébécrevon;;-1.179401;49.138296
+50239_33ulnv_00003;3;;La Gendriere;50180;50239;Thèreval;Hébécrevon;;-1.197587;49.106429
+50239_33ulnv_00004;4;;La Gendriere;50180;50239;Thèreval;Hébécrevon;;-1.197879;49.107192
+50239_o43oq6_00002;2;;Les Bruyeres;50180;50239;Thèreval;Hébécrevon;;-1.175371;49.13299
+50239_mabwf5_00001;1;;La Girandiere;50180;50239;Thèreval;Hébécrevon;;-1.177477;49.118154
+50239_0889_00004;4;;Rue de Groucy - Chap. Juger;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215587;49.125188
+50239_b370_00002;2;;Hôtel Christine;50180;50239;Thèreval;Hébécrevon;;-1.172999;49.13261
+50239_b840_00001;1;;Village Palluel;50180;50239;Thèreval;Hébécrevon;;-1.154747;49.127429
+50239_b840_00006;6;;Village Palluel;50180;50239;Thèreval;Hébécrevon;;-1.155622;49.128048
+50239_b839_00001;1;;Village Champagne;50180;50239;Thèreval;Hébécrevon;;-1.1597;49.123531
+50239_c5a9wh_00005;5;;La Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.170163;49.125074
+50239_0879_00006;6;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.21507;49.147836
+50239_0879_00008;8;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215203;49.147967
+50239_0879_00012;12;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213958;49.150701
+50239_0879_00016;16;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.219867;49.148316
+50239_0879_00020;20;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.227016;49.149628
+50239_a001_00007;7;;Résidence des Pommiers;50180;50239;Thèreval;Hébécrevon;;-1.168535;49.129283
+50239_0878_00002;2;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214741;49.127693
+50239_0878_00006;6;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214002;49.127452
+50239_0878_00011;11;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213509;49.12762
+50239_0878_00022;22;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.200173;49.123526
+50239_0878_00023;23;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.207524;49.126112
+50239_b116_00012;12;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.178861;49.118285
+50239_b116_00021;21;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.178934;49.118701
+50239_b116_00023;23;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.178864;49.118564
+50239_0877_00020;20;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214482;49.133989
+50239_0877_00024;24;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214921;49.134436
+50239_0877_00033;33;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218886;49.139084
+50239_0877_00021_bis;21;bis;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.222076;49.134962
+50239_0030_00001;1;;Rue de la Cabine;50180;50239;Thèreval;Hébécrevon;;-1.168519;49.126399
+50239_0070_00007;7;;Rue des Noisetiers;50180;50239;Thèreval;Hébécrevon;;-1.165321;49.128923
+50239_0070_00010;10;;Rue des Noisetiers;50180;50239;Thèreval;Hébécrevon;;-1.16553;49.128128
+50239_0070_00011;11;;Rue des Noisetiers;50180;50239;Thèreval;Hébécrevon;;-1.164885;49.128858
+50239_0070_00014;14;;Rue des Noisetiers;50180;50239;Thèreval;Hébécrevon;;-1.165778;49.127704
+50239_0881_00010;10;;Rue des Jonquilles;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.200777;49.113131
+50239_0881_00020;20;;Rue des Jonquilles;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.196757;49.114716
+50239_0882_00010;10;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215048;49.125777
+50239_0882_00012;12;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215049;49.12555
+50239_0882_00018;18;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.217098;49.119069
+50239_0882_00022;22;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218532;49.117198
+50239_0882_00040;40;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.219774;49.115623
+50239_0882_00044;44;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.220985;49.114634
+50239_0883_00001;1;;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.22553;49.12849
+50239_0883_00005;5;;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.225573;49.12709
+50239_0883_00010;10;;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.226214;49.12647
+50239_0883_00016;16;;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.225633;49.128837
+50239_0883_00006_bis;6;bis;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.225584;49.12971
+50239_a015_00002;2;;Cite des Jardins Fleuris;50180;50239;Thèreval;Hébécrevon;;-1.165719;49.125849
+50239_a015_00003;3;;Cite des Jardins Fleuris;50180;50239;Thèreval;Hébécrevon;;-1.16557;49.125788
+50239_a015_00004;4;;Cite des Jardins Fleuris;50180;50239;Thèreval;Hébécrevon;;-1.166019;49.125776
+50239_a015_00019;19;;Cite des Jardins Fleuris;50180;50239;Thèreval;Hébécrevon;;-1.165828;49.125606
+50239_a015_00021;21;;Cite des Jardins Fleuris;50180;50239;Thèreval;Hébécrevon;;-1.166196;49.125688
+50239_a015_00025;25;;Cite des Jardins Fleuris;50180;50239;Thèreval;Hébécrevon;;-1.166701;49.125569
+50239_b346_00001;1;;Hotel Torquet;50180;50239;Thèreval;Hébécrevon;;-1.170868;49.141776
+50239_b346_00003;3;;Hotel Torquet;50180;50239;Thèreval;Hébécrevon;;-1.170259;49.142363
+50239_b346_00005;5;;Hotel Torquet;50180;50239;Thèreval;Hébécrevon;;-1.169959;49.143066
+50239_b346_00009;9;;Hotel Torquet;50180;50239;Thèreval;Hébécrevon;;-1.170555;49.143854
+50239_0877_00021;21;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.221129;49.135067
+50239_0877_00028;28;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214316;49.137835
+50239_0877_00032;32;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215007;49.134666
+50239_0877_00037;37;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.221556;49.139842
+50239_0877_00038;38;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.21867;49.143583
+50239_0877_00040;40;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218828;49.144134
+50239_0877_00044;44;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.217469;49.145967
+50239_0030_00002;2;;Rue de la Cabine;50180;50239;Thèreval;Hébécrevon;;-1.168261;49.126016
+50239_0070_00003;3;;Rue des Noisetiers;50180;50239;Thèreval;Hébécrevon;;-1.165866;49.128988
+50239_0070_00004;4;;Rue des Noisetiers;50180;50239;Thèreval;Hébécrevon;;-1.165517;49.128882
+50239_0070_00006;6;;Rue des Noisetiers;50180;50239;Thèreval;Hébécrevon;;-1.165215;49.128727
+50239_0070_00013;13;;Rue des Noisetiers;50180;50239;Thèreval;Hébécrevon;;-1.164955;49.128698
+50239_0881_00014;14;;Rue des Jonquilles;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.20144;49.112575
+50239_0882_00008;8;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215161;49.127399
+50239_0882_00023;23;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214874;49.125092
+50239_0882_00025;25;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214857;49.124828
+50239_0882_00026;26;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218938;49.121191
+50239_0882_00035;35;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.21802;49.117428
+50239_0882_00042;42;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.220074;49.115516
+50239_0882_00045;45;;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.219486;49.11574
+50239_0882_00039_bis;39;bis;Rue du Preche;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218362;49.117056
+50239_0883_00002;2;;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.225449;49.13059
+50239_0883_00004;4;;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.225709;49.130555
+50239_0883_00018;18;;Rue de la Losquette;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.230832;49.117236
+50239_a015_00005;5;;Cite des Jardins Fleuris;50180;50239;Thèreval;Hébécrevon;;-1.165747;49.125598
+50239_a015_00023;23;;Cite des Jardins Fleuris;50180;50239;Thèreval;Hébécrevon;;-1.166464;49.125625
+50239_0100_00002;2;;Rue du Vey;50180;50239;Thèreval;Hébécrevon;;-1.164537;49.126015
+50239_0100_00006;6;;Rue du Vey;50180;50239;Thèreval;Hébécrevon;;-1.163484;49.125851
+50239_0100_00011;11;;Rue du Vey;50180;50239;Thèreval;Hébécrevon;;-1.163514;49.125917
+50239_b131_00002;2;;Le Clos David;50180;50239;Thèreval;Hébécrevon;;-1.175693;49.107639
+50239_b131_00003;3;;Le Clos David;50180;50239;Thèreval;Hébécrevon;;-1.175457;49.106917
+50239_0880_00007;7;;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216903;49.126795
+50239_0880_00015;15;;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.217892;49.125937
+50239_0880_00016;16;;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218448;49.125677
+50239_0880_00018;18;;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218809;49.12552
+50239_0880_00022;22;;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.220052;49.126881
+50239_a003_00003;3;;Lotissement Hebert;50180;50239;Thèreval;Hébécrevon;;-1.165089;49.12177
+50239_a003_00005;5;;Lotissement Hebert;50180;50239;Thèreval;Hébécrevon;;-1.165563;49.121657
+50239_0050_00001;1;;Rue de la Grotte;50180;50239;Thèreval;Hébécrevon;;-1.166958;49.127996
+50239_0050_00005;5;;Rue de la Grotte;50180;50239;Thèreval;Hébécrevon;;-1.166911;49.127895
+50239_0873_00003;3;;Impasse des Forsythias;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215342;49.126438
+50239_0873_00004;4;;Impasse des Forsythias;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215337;49.126357
+50239_c150_00008;8;;Lieu Dit l’Hotel Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.244825;49.110293
+50239_0047_00004;4;;Place de la Fontaine;50180;50239;Thèreval;Hébécrevon;;-1.167366;49.128052
+50239_0047_00007;7;;Place de la Fontaine;50180;50239;Thèreval;Hébécrevon;;-1.16774;49.128075
+50239_0047_00012;12;;Place de la Fontaine;50180;50239;Thèreval;Hébécrevon;;-1.167116;49.127815
+50239_b338_00002;2;;Hotel Carruel;50180;50239;Thèreval;Hébécrevon;;-1.173718;49.137844
+50239_b338_00004;4;;Hotel Carruel;50180;50239;Thèreval;Hébécrevon;;-1.174035;49.137852
+50239_b338_00006;6;;Hotel Carruel;50180;50239;Thèreval;Hébécrevon;;-1.173477;49.137088
+50239_0886_00008;8;;Rue du Cimetiere Allemand;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.232683;49.114576
+50239_0075_00003;3;;Impasse des Religieuses;50180;50239;Thèreval;Hébécrevon;;-1.166048;49.124722
+50239_0075_00007;7;;Impasse des Religieuses;50180;50239;Thèreval;Hébécrevon;;-1.165932;49.124741
+50239_0065_00001;1;;Rue du Mesnil Guillaume;50180;50239;Thèreval;Hébécrevon;;-1.165622;49.127421
+50239_0065_00004;4;;Rue du Mesnil Guillaume;50180;50239;Thèreval;Hébécrevon;;-1.165608;49.127366
+50239_0065_00005;5;;Rue du Mesnil Guillaume;50180;50239;Thèreval;Hébécrevon;;-1.162904;49.128529
+50239_0884_00004;4;;Rue de Bohon;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.224301;49.152926
+50239_a020_00001;1;;Cité Laurence;50180;50239;Thèreval;Hébécrevon;;-1.172554;49.129479
+50239_a020_00003;3;;Cité Laurence;50180;50239;Thèreval;Hébécrevon;;-1.17291;49.129227
+50239_0060_00001;1;;Rue des Magnolias;50180;50239;Thèreval;Hébécrevon;;-1.169101;49.126449
+50239_0060_00002;2;;Rue des Magnolias;50180;50239;Thèreval;Hébécrevon;;-1.167747;49.126911
+50239_0060_00006;6;;Rue des Magnolias;50180;50239;Thèreval;Hébécrevon;;-1.168129;49.126751
+50239_b337_00001;1;;Hotel Bedavoine;50180;50239;Thèreval;Hébécrevon;;-1.176599;49.120043
+50239_0098_00005;5;;Rue du Val;50180;50239;Thèreval;Hébécrevon;;-1.170696;49.12558
+50239_0098_00010;10;;Rue du Val;50180;50239;Thèreval;Hébécrevon;;-1.170848;49.125197
+50239_a050_00001;1;;Cite des Rossignols;50180;50239;Thèreval;Hébécrevon;;-1.164738;49.127807
+50239_a050_00009;9;;Cite des Rossignols;50180;50239;Thèreval;Hébécrevon;;-1.164073;49.128596
+50239_kn9ruo_00010;10;;Lotissement la Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.16958;49.125854
+50239_7vq1kp_00001;1;;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.158564;49.120939
+50239_7vq1kp_00002;2;;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.158586;49.121116
+50239_7vq1kp_00005;5;;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.158836;49.120126
+50239_7vq1kp_00007;7;;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.158884;49.11995
+50239_7vq1kp_00011;11;;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.158953;49.119624
+50239_7vq1kp_00012;12;;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.159666;49.118549
+50239_fx0fvl_00003;3;;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.171649;49.126515
+50239_fx0fvl_00006_b;6;b;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.172258;49.12744
+50239_0888_00002;2;;Impasse Dagobert;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215868;49.126298
+50239_0888_00006;6;;Impasse Dagobert;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216502;49.126214
+50239_0888_00009;9;;Impasse Dagobert;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.21655;49.125831
+50239_0095_00007;7;;Place des Tilleuls;50180;50239;Thèreval;Hébécrevon;;-1.167185;49.127223
+50239_0095_00009;9;;Place des Tilleuls;50180;50239;Thèreval;Hébécrevon;;-1.167187;49.1273
+50239_b336_00002;2;;L’Hotel au Doley;50180;50239;Thèreval;Hébécrevon;;-1.193721;49.104304
+50239_b483_00002;2;;Le Malais du Midi;50180;50239;Thèreval;Hébécrevon;;-1.165677;49.132674
+50239_b483_00003;3;;Le Malais du Midi;50180;50239;Thèreval;Hébécrevon;;-1.164932;49.132434
+50239_a005_00008;8;;Cite la Campagnette;50180;50239;Thèreval;Hébécrevon;;-1.163791;49.127518
+50239_a005_00002_d;2;d;Cite la Campagnette;50180;50239;Thèreval;Hébécrevon;;-1.164356;49.126921
+50239_b345_00001;1;;L’Hotel Tanqueray;50180;50239;Thèreval;Hébécrevon;;-1.186714;49.117427
+50239_b136_00001;1;;Le Clos des Ronces;50180;50239;Thèreval;;;-1.147774;49.104854
+50239_0020_00001;1;;Cheminement des Bruyères;50180;50239;Thèreval;Hébécrevon;;-1.175234;49.13352
+50239_0074_00014;14;;Rue des Ombelles;50180;50239;Thèreval;Hébécrevon;;-1.164828;49.129355
+50239_0889_00001;1;;Rue de Groucy - Chap. Juger;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215192;49.124913
+50239_0889_00002;2;;Rue de Groucy - Chap. Juger;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215144;49.125119
+50239_l7irw3_00007;7;;La Vacellerie;50180;50239;Thèreval;Hébécrevon;;-1.162923;49.124319
+50239_l7irw3_00008;8;;La Vacellerie;50180;50239;Thèreval;Hébécrevon;;-1.162226;49.123977
+50239_i3k4a9_00003;3;;La Communiere;50180;50239;Thèreval;Hébécrevon;;-1.177178;49.113763
+50239_i0hhev_00005;5;;La Doriere;50180;50239;Thèreval;Hébécrevon;;-1.186308;49.122456
+50239_06vnmv_00005;5;;La Planquette;50180;50239;Thèreval;Hébécrevon;;-1.173606;49.131843
+50239_4ecrk4_00008;8;;La Cauviniere;50180;50239;Thèreval;Hébécrevon;;-1.162056;49.129766
+50239_4ecrk4_00011;11;;La Cauviniere;50180;50239;Thèreval;Hébécrevon;;-1.16244;49.131337
+50239_4ecrk4_00012;12;;La Cauviniere;50180;50239;Thèreval;Hébécrevon;;-1.161906;49.1305
+50239_4ecrk4_00020;20;;La Cauviniere;50180;50239;Thèreval;Hébécrevon;;-1.16247;49.131383
+50239_7fp7jj_00001;1;;La Hersiere;50180;50239;Thèreval;Hébécrevon;;-1.188083;49.118396
+50239_awn0k6_00016;16;;La Corbiniere;50180;50239;Thèreval;Hébécrevon;;-1.170226;49.113053
+50239_nkiyqb_00004;4;;La Variniere;50180;50239;Thèreval;Hébécrevon;;-1.161613;49.134173
+50239_tmyqin_00003;3;;La Picardiere;50180;50239;Thèreval;Hébécrevon;;-1.17275;49.130821
+50239_tmyqin_00004;4;;La Picardiere;50180;50239;Thèreval;Hébécrevon;;-1.173166;49.130616
+50239_5m768y_00006;6;;La Haye;50180;50239;Thèreval;Hébécrevon;;-1.171985;49.12307
+50239_fzwv8p_00001;1;;Le Boscq;50180;50239;Thèreval;Hébécrevon;;-1.191184;49.115655
+50239_fzwv8p_00003;3;;Le Boscq;50180;50239;Thèreval;Hébécrevon;;-1.190611;49.115198
+50239_b370_00001;1;;Hôtel Christine;50180;50239;Thèreval;Hébécrevon;;-1.172539;49.132814
+50239_b841_00004;4;;Village Survire;50180;50239;Thèreval;Hébécrevon;;-1.152618;49.130812
+50239_b841_00006;6;;Village Survire;50180;50239;Thèreval;Hébécrevon;;-1.152447;49.130648
+50239_b845_00002;2;;Les Maisons Neuves;50180;50239;Thèreval;Hébécrevon;;-1.190114;49.103896
+50239_lehzmq_00002;2;;Le Campart;50180;50239;Thèreval;Hébécrevon;;-1.152911;49.115974
+50239_p84wd9_00004;4;;La Huberderie;50180;50239;Thèreval;Hébécrevon;;-1.167265;49.131444
+50239_elbm28_00001;1;;La Girardiere;50180;50239;Thèreval;Hébécrevon;;-1.159293;49.12175
+50239_0879_00001;1;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.185614;49.140389
+50239_0879_00015;15;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.20589;49.145054
+50239_a001_00001;1;;Résidence des Pommiers;50180;50239;Thèreval;Hébécrevon;;-1.167656;49.12922
+50239_a001_00004;4;;Résidence des Pommiers;50180;50239;Thèreval;Hébécrevon;;-1.168542;49.128941
+50239_a001_00008;8;;Résidence des Pommiers;50180;50239;Thèreval;Hébécrevon;;-1.16816;49.129661
+50239_0110_00002;2;;Impasse du Vieux Chêne;50180;50239;Thèreval;Hébécrevon;;-1.17113;49.128595
+50239_0878_00012;12;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213603;49.12729
+50239_0878_00018;18;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.212696;49.126751
+50239_0878_00031;31;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.204224;49.124518
+50239_0878_00011_bis;11;bis;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213637;49.127656
+50239_b116_00004;4;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.179474;49.121318
+50239_b116_00008;8;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.179656;49.119276
+50239_b116_00016;16;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.178947;49.117135
+50239_b116_00008_a;8;a;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.179998;49.119045
+50239_b116_00003_bis;3;bis;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.178379;49.121069
+50239_0045_00002;2;;Rue de l'Eglise;50180;50239;Thèreval;Hébécrevon;;-1.166636;49.124574
+50239_0045_00006;6;;Rue de l'Eglise;50180;50239;Thèreval;Hébécrevon;;-1.165963;49.123
+50239_0045_00009;9;;Rue de l'Eglise;50180;50239;Thèreval;Hébécrevon;;-1.167151;49.125918
+50239_0100_00003;3;;Rue du Vey;50180;50239;Thèreval;Hébécrevon;;-1.164659;49.126202
+50239_0100_00010;10;;Rue du Vey;50180;50239;Thèreval;Hébécrevon;;-1.1633;49.12603
+50239_0880_00002;2;;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216304;49.128126
+50239_0880_00006;6;;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216358;49.127627
+50239_0880_00010;10;;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218219;49.127447
+50239_0880_00020;20;;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.220139;49.126776
+50239_0880_00026;26;;Rue des Landes;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.219716;49.124842
+50239_a003_00006;6;;Lotissement Hebert;50180;50239;Thèreval;Hébécrevon;;-1.165965;49.12158
+50239_0050_00003;3;;Rue de la Grotte;50180;50239;Thèreval;Hébécrevon;;-1.166807;49.128428
+50239_0047_00002;2;;Place de la Fontaine;50180;50239;Thèreval;Hébécrevon;;-1.167891;49.128019
+50239_0047_00003;3;;Place de la Fontaine;50180;50239;Thèreval;Hébécrevon;;-1.167291;49.128002
+50239_0047_00005;5;;Place de la Fontaine;50180;50239;Thèreval;Hébécrevon;;-1.167615;49.128152
+50239_0047_00009;9;;Place de la Fontaine;50180;50239;Thèreval;Hébécrevon;;-1.167548;49.128026
+50239_0047_00010;10;;Place de la Fontaine;50180;50239;Thèreval;Hébécrevon;;-1.167475;49.127957
+50239_0886_00001;1;;Rue du Cimetiere Allemand;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.236637;49.112789
+50239_0886_00010;10;;Rue du Cimetiere Allemand;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.23447;49.113021
+50239_0065_00006;6;;Rue du Mesnil Guillaume;50180;50239;Thèreval;Hébécrevon;;-1.16512;49.127543
+50239_0065_00007;7;;Rue du Mesnil Guillaume;50180;50239;Thèreval;Hébécrevon;;-1.162795;49.128844
+50239_0884_00010;10;;Rue de Bohon;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.224196;49.15322
+50239_0884_00012;12;;Rue de Bohon;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.225071;49.155515
+50239_a020_00010;10;;Cité Laurence;50180;50239;Thèreval;Hébécrevon;;-1.172932;49.129263
+50239_0060_00003;3;;Rue des Magnolias;50180;50239;Thèreval;Hébécrevon;;-1.169918;49.126357
+50239_0098_00001;1;;Rue du Val;50180;50239;Thèreval;Hébécrevon;;-1.170613;49.126091
+50239_0098_00009;9;;Rue du Val;50180;50239;Thèreval;Hébécrevon;;-1.170606;49.125021
+50239_a050_00003;3;;Cite des Rossignols;50180;50239;Thèreval;Hébécrevon;;-1.164616;49.127969
+50239_a050_00010;10;;Cite des Rossignols;50180;50239;Thèreval;Hébécrevon;;-1.16387;49.128588
+50239_kn9ruo_00002;2;;Lotissement la Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.169083;49.125509
+50239_kn9ruo_00004;4;;Lotissement la Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.169791;49.125242
+50239_kn9ruo_00007;7;;Lotissement la Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.169889;49.125568
+50239_kn9ruo_00011;11;;Lotissement la Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.169056;49.126008
+50239_7vq1kp_00019;19;;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.159703;49.118329
+50239_7vq1kp_00005_a;5;a;Le Couvert;50180;50239;Thèreval;Hébécrevon;;-1.157572;49.12017
+50239_fx0fvl_00007;7;;La Viesrie;50180;50239;Thèreval;Hébécrevon;;-1.172579;49.126335
+50239_l7irw3_00003;3;;La Vacellerie;50180;50239;Thèreval;Hébécrevon;;-1.162774;49.124049
+50239_l7irw3_00004;4;;La Vacellerie;50180;50239;Thèreval;Hébécrevon;;-1.161471;49.123453
+50239_0033_00004;4;;Rue des Chemins Verts;50180;50239;Thèreval;Hébécrevon;;-1.170816;49.129112
+50239_0888_00007;7;;Impasse Dagobert;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216526;49.125798
+50239_0887_00013;13;;Rue de la Duquerie;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.232464;49.126926
+50239_b848_00001;1;;La Villa Franck;50180;50239;Thèreval;Hébécrevon;;-1.189195;49.103351
+50239_b475_00002;2;;La Maison Neuve;50180;50239;Thèreval;Hébécrevon;;-1.190114;49.103896
+50239_b475_00004;4;;La Maison Neuve;50180;50239;Thèreval;Hébécrevon;;-1.190378;49.103541
+50239_b475_00006;6;;La Maison Neuve;50180;50239;Thèreval;Hébécrevon;;-1.19091;49.103569
+50239_a005_00007;7;;Cite la Campagnette;50180;50239;Thèreval;Hébécrevon;;-1.163881;49.127559
+50239_b340_00002;2;;Hotel Denier de Haut;50180;50239;Thèreval;Hébécrevon;;-1.174967;49.139411
+50239_b340_00001_a;1;a;Hotel Denier de Haut;50180;50239;Thèreval;Hébécrevon;;-1.176116;49.139176
+50239_b341_00001;1;;Hotel Glinel;50180;50239;Thèreval;Hébécrevon;;-1.17524;49.125701
+50239_0074_00003;3;;Rue des Ombelles;50180;50239;Thèreval;Hébécrevon;;-1.164559;49.129414
+50239_0074_00029;29;;Rue des Ombelles;50180;50239;Thèreval;Hébécrevon;;-1.165189;49.129659
+50239_0101_00002;2;;Rue des Veys;50180;50239;Thèreval;Hébécrevon;;-1.164537;49.126016
+50239_l7irw3_00003_bis;3;bis;La Vacellerie;50180;50239;Thèreval;Hébécrevon;;-1.162853;49.123899
+50239_d126md_00004;4;;Survire;50180;50239;Thèreval;Hébécrevon;;-1.152618;49.130812
+50239_i0hhev_00001;1;;La Doriere;50180;50239;Thèreval;Hébécrevon;;-1.185636;49.121476
+50239_4ecrk4_00002;2;;La Cauviniere;50180;50239;Thèreval;Hébécrevon;;-1.162342;49.128864
+50239_v4qjm5_00003;3;;La Nouillerie;50180;50239;Thèreval;Hébécrevon;;-1.162296;49.135595
+50239_v4qjm5_00004;4;;La Nouillerie;50180;50239;Thèreval;Hébécrevon;;-1.162188;49.135556
+50239_awn0k6_00006;6;;La Corbiniere;50180;50239;Thèreval;Hébécrevon;;-1.169739;49.113904
+50239_tmyqin_00006_a;6;a;La Picardiere;50180;50239;Thèreval;Hébécrevon;;-1.173309;49.130531
+50239_sea8pk_00004;4;;La Roque;50180;50239;Thèreval;Hébécrevon;;-1.178136;49.133702
+50239_crb9hn_00001;1;;Le Palluel;50180;50239;Thèreval;Hébécrevon;;-1.154747;49.127429
+50239_crb9hn_00003;3;;Le Palluel;50180;50239;Thèreval;Hébécrevon;;-1.153915;49.126706
+50239_5m768y_00001;1;;La Haye;50180;50239;Thèreval;Hébécrevon;;-1.171585;49.122782
+50239_5m768y_00002;2;;La Haye;50180;50239;Thèreval;Hébécrevon;;-1.169969;49.124255
+50239_jgh3tv_00002_bis;2;bis;La Juganniere;50180;50239;Thèreval;Hébécrevon;;-1.161895;49.143702
+50239_o43oq6_00001;1;;Les Bruyeres;50180;50239;Thèreval;Hébécrevon;;-1.175235;49.133519
+50239_fzwv8p_00011;11;;Le Boscq;50180;50239;Thèreval;Hébécrevon;;-1.189169;49.1151
+50239_yiwhnq_00002;2;;La Marcandiere;50180;50239;Thèreval;Hébécrevon;;-1.156145;49.113855
+50239_mabwf5_00002;2;;La Girandiere;50180;50239;Thèreval;Hébécrevon;;-1.17815;49.118299
+50239_0889_00006;6;;Rue de Groucy - Chap. Juger;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215942;49.125077
+50239_b840_00004;4;;Village Palluel;50180;50239;Thèreval;Hébécrevon;;-1.155646;49.128246
+50239_b841_00001;1;;Village Survire;50180;50239;Thèreval;Hébécrevon;;-1.152689;49.129886
+50239_b841_00002;2;;Village Survire;50180;50239;Thèreval;Hébécrevon;;-1.152769;49.13007
+50239_b845_00006;6;;Les Maisons Neuves;50180;50239;Thèreval;Hébécrevon;;-1.19091;49.103569
+50239_b844_00002;2;;L’Hotel au Dolley;50180;50239;Thèreval;Hébécrevon;;-1.19384;49.104368
+50239_b844_00004;4;;L’Hotel au Dolley;50180;50239;Thèreval;Hébécrevon;;-1.19348;49.104912
+50239_t6khla_00002;2;;La Crevonniere;50180;50239;Thèreval;Hébécrevon;;-1.151906;49.123548
+50239_lehzmq_00004;4;;Le Campart;50180;50239;Thèreval;Hébécrevon;;-1.152696;49.115762
+50239_zt9hno_00004;4;;La Scierie;50180;50239;Thèreval;Hébécrevon;;-1.195666;49.110951
+50239_zt9hno_00006;6;;La Scierie;50180;50239;Thèreval;Hébécrevon;;-1.19614;49.110707
+50239_1nbmxf_00001;1;;Le Rajon;50180;50239;Thèreval;Hébécrevon;;-1.147987;49.125824
+50239_nuhsyo_00001;1;;La Paumerie;50180;50239;Thèreval;Hébécrevon;;-1.152129;49.112467
+50239_c5a9wh_00002;2;;La Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.16904;49.125385
+50239_c5a9wh_00004;4;;La Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.16979;49.125242
+50239_c5a9wh_00009;9;;La Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.169773;49.125852
+50239_c5a9wh_00012;12;;La Roseraie;50180;50239;Thèreval;Hébécrevon;;-1.169314;49.125895
+50239_0879_00011;11;;Rue de la Resistance;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.190371;49.139099
+50239_0110_00001;1;;Impasse du Vieux Chêne;50180;50239;Thèreval;Hébécrevon;;-1.17096;49.128533
+50239_0878_00007;7;;Rue du Pont Crochu;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214121;49.127781
+50239_b116_00011;11;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.179559;49.120487
+50239_b116_00015;15;;Le Chene a Loup;50180;50239;Thèreval;Hébécrevon;;-1.179326;49.11972
+50239_0045_00001;1;;Rue de l'Eglise;50180;50239;Thèreval;Hébécrevon;;-1.166714;49.126807
+50239_0045_00005;5;;Rue de l'Eglise;50180;50239;Thèreval;Hébécrevon;;-1.16732;49.126366
+50239_0045_00015;15;;Rue de l'Eglise;50180;50239;Thèreval;Hébécrevon;;-1.165629;49.122587
+50239_a040_00003;3;;Cité du Printemps;50180;50239;Thèreval;Hébécrevon;;-1.167092;49.128863
+50239_a040_00008;8;;Cité du Printemps;50180;50239;Thèreval;Hébécrevon;;-1.167771;49.128672
+50239_0875_00005;5;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.21437;49.128536
+50239_0875_00020;20;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213431;49.128717
+50239_0875_00021;21;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.210246;49.139588
+50239_0875_00008_bis;8;bis;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213973;49.128446
+50239_0872_00016;16;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216023;49.127105
+50239_0876_00013;13;;Rue de la Mare Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.204615;49.117642
+50239_0876_00015;15;;Rue de la Mare Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.204441;49.117869
+50239_0876_00024;24;;Rue de la Mare Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.220199;49.112708
+50239_0874_00016;16;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216613;49.1285
+50239_0874_00026;26;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.217621;49.12882
+50239_0045_00014;14;;Rue de l'Eglise;50180;50239;Thèreval;Hébécrevon;;-1.166507;49.12113
+50239_0875_00009;9;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213899;49.129011
+50239_0875_00010;10;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214056;49.128679
+50239_0875_00054;54;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.199005;49.143018
+50239_0043_00003;3;;Impasse des Eglantiers;50180;50239;Thèreval;Hébécrevon;;-1.171675;49.129408
+50239_0043_00004;4;;Impasse des Eglantiers;50180;50239;Thèreval;Hébécrevon;;-1.171157;49.129522
+50239_0043_00009;9;;Impasse des Eglantiers;50180;50239;Thèreval;Hébécrevon;;-1.1713;49.129671
+50239_0872_00006;6;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215556;49.126893
+50239_0872_00007;7;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215179;49.1268
+50239_0872_00014;14;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215807;49.127187
+50239_0876_00005;5;;Rue de la Mare Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.204412;49.117744
+50239_0876_00007;7;;Rue de la Mare Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.20449;49.117657
+50239_0876_00018;18;;Rue de la Mare Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214384;49.112702
+50239_0876_00022;22;;Rue de la Mare Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.220118;49.112693
+50239_a021_00002;2;;Cité des Fontenelles;50180;50239;Thèreval;Hébécrevon;;-1.170225;49.12659
+50239_a021_00011;11;;Cité des Fontenelles;50180;50239;Thèreval;Hébécrevon;;-1.169987;49.126604
+50239_0874_00005;5;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.21538;49.127803
+50239_0874_00008;8;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216167;49.128826
+50239_0874_00009;9;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215666;49.127872
+50239_0874_00022;22;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.217111;49.128643
+50239_0874_00027;27;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218229;49.128046
+50239_a040_00004;4;;Cité du Printemps;50180;50239;Thèreval;Hébécrevon;;-1.167337;49.128858
+50239_a040_00007;7;;Cité du Printemps;50180;50239;Thèreval;Hébécrevon;;-1.167356;49.128647
+50239_a040_00013;13;;Cité du Printemps;50180;50239;Thèreval;Hébécrevon;;-1.167867;49.128407
+50239_0875_00001;1;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214645;49.128448
+50239_0875_00004;4;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214465;49.128319
+50239_0875_00040;40;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.19566;49.133415
+50239_0875_00042;42;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.205301;49.132529
+50239_0872_00018;18;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216204;49.127119
+50239_0872_00020;20;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216554;49.127118
+50239_0876_00009;9;;Rue de la Mare Menant;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.204882;49.117211
+50239_a021_00007_a;7;a;Cité des Fontenelles;50180;50239;Thèreval;Hébécrevon;;-1.170742;49.126799
+50239_0874_00013;13;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216682;49.128409
+50239_0874_00017;17;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.217101;49.128447
+50239_0874_00033;33;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.217876;49.128528
+50239_a040_00001;1;;Cité du Printemps;50180;50239;Thèreval;Hébécrevon;;-1.167051;49.128885
+50239_a040_00011;11;;Cité du Printemps;50180;50239;Thèreval;Hébécrevon;;-1.167655;49.1285
+50239_a040_00019;19;;Cité du Printemps;50180;50239;Thèreval;Hébécrevon;;-1.168135;49.128613
+50239_0875_00014;14;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213888;49.128824
+50239_0875_00015;15;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.202829;49.137741
+50239_0875_00028;28;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.210972;49.128024
+50239_0875_00032;32;;Rue du Mercure;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.205879;49.132392
+50239_0043_00007;7;;Impasse des Eglantiers;50180;50239;Thèreval;Hébécrevon;;-1.171411;49.129643
+50239_0872_00003;3;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215179;49.1268
+50239_0872_00010;10;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215548;49.127224
+50239_0872_00011;11;;Rue des Sorbiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216251;49.126938
+50239_a021_00003;3;;Cité des Fontenelles;50180;50239;Thèreval;Hébécrevon;;-1.170407;49.126638
+50239_a021_00006;6;;Cité des Fontenelles;50180;50239;Thèreval;Hébécrevon;;-1.170889;49.126593
+50239_a021_00007;7;;Cité des Fontenelles;50180;50239;Thèreval;Hébécrevon;;-1.170842;49.126672
+50239_0874_00004;4;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216058;49.128328
+50239_0874_00032;32;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218921;49.129284
+50239_0874_00047;47;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.219081;49.129255
+50239_0874_00060;60;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.225805;49.130992
+50239_0874_00064;64;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.22613;49.132029
+50239_0874_00068;68;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.226857;49.13169
+50239_0874_00072;72;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.227697;49.132213
+50239_0874_00076;76;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.227799;49.134923
+50239_0874_00059_d;59;d;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.222862;49.129129
+50239_0874_00059_b;59;b;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.222906;49.129608
+50239_0885_00007;7;;Rue des Bois;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.198478;49.152134
+50239_0885_00013;13;;Rue des Bois;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.202207;49.156211
+50239_0885_00015;15;;Rue des Bois;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.202233;49.156672
+50239_0035_00009;9;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.170207;49.128721
+50239_0035_00012;12;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.170543;49.128615
+50239_0085_00001;1;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.16334;49.124638
+50239_0085_00003;3;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.163897;49.125029
+50239_0085_00009;9;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.164798;49.125663
+50239_0085_00010;10;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.164868;49.125851
+50239_0085_00013;13;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.165053;49.125812
+50239_0085_00015;15;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.167593;49.127623
+50239_0085_00016;16;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.165372;49.126222
+50239_0085_00017;17;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.16817;49.128051
+50239_0085_00018;18;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.165564;49.126343
+50239_0085_00023;23;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.169889;49.129273
+50239_0085_00030;30;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.166777;49.127229
+50239_b785_00008;8;;Saint Vast;50180;50239;Thèreval;Hébécrevon;;-1.192633;49.109018
+50239_b195_00006;6;;La Croix Pirou;50180;50239;Thèreval;Hébécrevon;;-1.168678;49.116098
+50239_b195_00010;10;;La Croix Pirou;50180;50239;Thèreval;Hébécrevon;;-1.172465;49.118333
+50239_b195_00003_a;3;a;La Croix Pirou;50180;50239;Thèreval;Hébécrevon;;-1.1677;49.116649
+50239_0877_00003;3;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213885;49.129579
+50239_0877_00004;4;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213758;49.129683
+50239_0877_00005;5;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214355;49.131505
+50239_0877_00010;10;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.21392;49.132051
+50239_0877_00014;14;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214377;49.132917
+50239_0877_00017;17;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.220442;49.13479
+50239_0877_00018;18;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214155;49.133555
+50239_0874_00039;39;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.21782;49.128754
+50239_0874_00042;42;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.222553;49.129974
+50239_0874_00052;52;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.222812;49.129926
+50239_0874_00063;63;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.225922;49.130976
+50239_0035_00003;3;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.170729;49.128902
+50239_0035_00005;5;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.17061;49.128854
+50239_0035_00008;8;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.171202;49.128957
+50239_0035_00017;17;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.170158;49.128174
+50239_0035_00018;18;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.170739;49.128037
+50239_0035_00019;19;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.170427;49.127824
+50239_0085_00002;2;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.16279;49.124383
+50239_0085_00004;4;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.163304;49.124741
+50239_0085_00011;11;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.164974;49.125769
+50239_0085_00012;12;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.165041;49.125984
+50239_0085_00020;20;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.166169;49.1268
+50239_0085_00021;21;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.169295;49.128857
+50239_0085_00024;24;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.16633;49.126914
+50239_0085_00034;34;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.168252;49.128247
+50239_0085_00040;40;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.168524;49.128437
+50239_0085_00044;44;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.169556;49.129173
+50239_0085_00014_bis;14;bis;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.165223;49.126115
+50239_b785_00001;1;;Saint Vast;50180;50239;Thèreval;Hébécrevon;;-1.191609;49.108529
+50239_b785_00004;4;;Saint Vast;50180;50239;Thèreval;Hébécrevon;;-1.191787;49.109278
+50239_b785_00005;5;;Saint Vast;50180;50239;Thèreval;Hébécrevon;;-1.193192;49.108171
+50239_b195_00001;1;;La Croix Pirou;50180;50239;Thèreval;Hébécrevon;;-1.168276;49.117047
+50239_b195_00002;2;;La Croix Pirou;50180;50239;Thèreval;Hébécrevon;;-1.168496;49.116992
+50239_b195_00003;3;;La Croix Pirou;50180;50239;Thèreval;Hébécrevon;;-1.168166;49.116709
+50239_b195_00004;4;;La Croix Pirou;50180;50239;Thèreval;Hébécrevon;;-1.168641;49.116686
+50239_b195_00008;8;;La Croix Pirou;50180;50239;Thèreval;Hébécrevon;;-1.172325;49.118265
+50239_b195_00012;12;;La Croix Pirou;50180;50239;Thèreval;Hébécrevon;;-1.171782;49.118681
+50239_0877_00001;1;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213837;49.129362
+50239_0877_00002;2;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.213692;49.129369
+50239_0877_00007;7;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214046;49.130221
+50239_0877_00015;15;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216223;49.135485
+50239_0877_00019;19;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.222271;49.134644
+50239_0874_00037;37;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.217831;49.12867
+50239_0874_00055;55;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.222309;49.129796
+50239_0874_00067;67;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.226488;49.131364
+50239_0874_00082;82;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.228702;49.134472
+50239_0874_00010_a;10;a;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.215889;49.129281
+50239_0874_00012_bis;12;bis;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216277;49.129193
+50239_0035_00016;16;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.170377;49.128133
+50239_0085_00008;8;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.164431;49.125544
+50239_0085_00014;14;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.165223;49.126115
+50239_0085_00026;26;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.166439;49.126993
+50239_0085_00028;28;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.166603;49.127104
+50239_b785_00002;2;;Saint Vast;50180;50239;Thèreval;Hébécrevon;;-1.191389;49.10952
+50239_b785_00006;6;;Saint Vast;50180;50239;Thèreval;Hébécrevon;;-1.191984;49.108985
+50239_b195_00007;7;;La Croix Pirou;50180;50239;Thèreval;Hébécrevon;;-1.165969;49.113967
+50239_b195_00009;9;;La Croix Pirou;50180;50239;Thèreval;Hébécrevon;;-1.168639;49.115142
+50239_b195_00002_b;2;b;La Croix Pirou;50180;50239;Thèreval;Hébécrevon;;-1.168352;49.117399
+50239_b195_00002_a;2;a;La Croix Pirou;50180;50239;Thèreval;Hébécrevon;;-1.168992;49.117425
+50239_0874_00045;45;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.218973;49.129219
+50239_0874_00057;57;;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.221737;49.129144
+50239_0874_00010_b;10;b;Rue de la Source;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.216195;49.129232
+50239_0885_00001;1;;Rue des Bois;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.199544;49.144174
+50239_0885_00005;5;;Rue des Bois;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.19911;49.151935
+50239_0035_00013;13;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.1699;49.128596
+50239_0035_00021;21;;Rue des Charmilles;50180;50239;Thèreval;Hébécrevon;;-1.170777;49.127958
+50239_0085_00006;6;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.16394;49.125193
+50239_0085_00019;19;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.167857;49.127816
+50239_0085_00036;36;;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.165564;49.126343
+50239_0085_00015_bis;15;bis;Rue Saint Martin;50180;50239;Thèreval;Hébécrevon;;-1.168039;49.127642
+50239_b785_00003;3;;Saint Vast;50180;50239;Thèreval;Hébécrevon;;-1.192479;49.108654
+50239_b785_00001_bis;1;bis;Saint Vast;50180;50239;Thèreval;Hébécrevon;;-1.191232;49.108815
+50239_b195_00005;5;;La Croix Pirou;50180;50239;Thèreval;Hébécrevon;;-1.168539;49.116147
+50239_b195_00011;11;;La Croix Pirou;50180;50239;Thèreval;Hébécrevon;;-1.168823;49.114523
+50239_0877_00012;12;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.214101;49.132335
+50239_0877_00013;13;;Rue des Potiers;50570;50239;Thèreval;La Chapelle-en-Juger;;-1.217468;49.132493

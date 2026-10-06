@@ -1,0 +1,862 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+25424_b017_00001;1;;les Bouts de Nods;25580;25424;Les Premiers Sapins;Nods;;6.376913;47.071857
+25424_a041_00012;12;;Hameau du Fourney;25580;25424;Les Premiers Sapins;Athose;;6.332831;47.071099
+25424_0180_00007;7;;Rue de la Paule;25580;25424;Les Premiers Sapins;Vanclans;;6.366257;47.102648
+25424_0005_00009_bis;9;bis;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.293817;47.049191
+25424_0118_00008;8;;Rue du Presbytère;25580;25424;Les Premiers Sapins;Athose;;6.310592;47.078927
+25424_0113_00009;9;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.308663;47.078121
+25424_a041_00001;1;;Hameau du Fourney;25580;25424;Les Premiers Sapins;Athose;;6.333243;47.07284
+25424_0176_00003;3;;Rue de Loyon;25580;25424;Les Premiers Sapins;Vanclans;;6.364818;47.099178
+25424_0146_00008;8;;Chemin du Petit Paris;25580;25424;Les Premiers Sapins;Chasnans;;6.342681;47.072266
+25424_0161_00007;7;;Rue des Tilleuls;25580;25424;Les Premiers Sapins;Rantechaux;;6.370094;47.110758
+25424_0160_00014;14;;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.376352;47.111776
+25424_0040_00033;33;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.339427;47.09522
+25424_0033_00006;6;;Rue de la Forge;25580;25424;Les Premiers Sapins;Nods;;6.339913;47.095478
+25424_0066_00008;8;;Rue Pergaud;25580;25424;Les Premiers Sapins;Nods;;6.333031;47.096608
+25424_0110_00020;20;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.33205;47.095845
+25424_0129_00009;9;;Chemin de la Coulanges;25580;25424;Les Premiers Sapins;Chasnans;;6.31132;47.08712
+25424_0040_00028;28;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.339429;47.094963
+25424_0033_00008;8;;Rue de la Forge;25580;25424;Les Premiers Sapins;Nods;;6.340058;47.095655
+25424_0075_00005;5;;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.333721;47.099258
+25424_0134_00009;9;;Route de la Vallée;25580;25424;Les Premiers Sapins;Chasnans;;6.314618;47.085052
+25424_0148_00013;13;;Chemin des Pieces;25580;25424;Les Premiers Sapins;Chasnans;;6.315961;47.088782
+25424_avwrix_00010;10;;Rue de l’Eglise;25580;25424;Les Premiers Sapins;Rantechaux;;6.371524;47.110208
+25424_0040_00056_a;56;a;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.334547;47.0978
+25424_0160_00019_f;19;f;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.3759;47.112386
+25424_0064_00008;8;;Rue du Pelerot;25580;25424;Les Premiers Sapins;Nods;;6.338006;47.098889
+25424_0171_00005;5;;Rue des Ormeaux;25580;25424;Les Premiers Sapins;Vanclans;;6.363872;47.103425
+25424_0121_00001;1;;chemin des Mûriers;25580;25424;Les Premiers Sapins;Athose;;6.31102;47.081873
+25424_0050_00002_ter;2;ter;Place de la Mairie;25580;25424;Les Premiers Sapins;Nods;;6.337638;47.094382
+25424_0090_00001;1;;Rue du Tilleul;25580;25424;Les Premiers Sapins;Nods;;6.338694;47.09507
+25424_0066_00001;1;;Rue Pergaud;25580;25424;Les Premiers Sapins;Nods;;6.335486;47.097335
+25424_0056_00001;1;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.335101;47.097423
+25424_0135_00016;16;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.312266;47.08608
+25424_0138_00007;7;;Chemin du Parterre;25580;25424;Les Premiers Sapins;Chasnans;;6.312689;47.08793
+25424_avwrix_00003;3;;Rue de l’Eglise;25580;25424;Les Premiers Sapins;Rantechaux;;6.373996;47.111436
+25424_0112_00001_a;1;a;Rue de la Salle des Fêtes;25580;25424;Les Premiers Sapins;Athose;;6.309246;47.077381
+25424_0150_00008;8;;Rue de la Roche;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.290301;47.050762
+25424_0076_00018;18;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.361236;47.099256
+25424_0075_00016;16;;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.331672;47.100666
+25424_0005_00012;12;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.287801;47.048446
+25424_0052_00003;3;;Rue de la Mare;25580;25424;Les Premiers Sapins;Nods;;6.338455;47.097546
+25424_0082_00012;12;;Rue des Rochets;25580;25424;Les Premiers Sapins;Nods;;6.330119;47.095821
+25424_0040_00056_bis;56;bis;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.334497;47.097865
+25424_0076_00025;25;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.364139;47.102373
+25424_0042_00002_bis;2;bis;Chemin de la Grosse Aige;25580;25424;Les Premiers Sapins;Nods;;6.345737;47.090224
+25424_0164_00002;2;;Rue des Chênes;25580;25424;Les Premiers Sapins;Rantechaux;;6.374217;47.115605
+25424_0056_00002;2;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.33455;47.097531
+25424_0033_00012;12;;Rue de la Forge;25580;25424;Les Premiers Sapins;Nods;;6.340949;47.09585
+25424_0167_00003;3;;Rue du Potet;25580;25424;Les Premiers Sapins;Rantechaux;;6.374221;47.114954
+25424_0160_00019_b;19;b;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.376015;47.112584
+25424_avwrix_00004;4;;Rue de l’Eglise;25580;25424;Les Premiers Sapins;Rantechaux;;6.373767;47.111599
+25424_0040_00034;34;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.33886;47.095532
+25424_0005_00016;16;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.285879;47.047889
+25424_bgqbym_00003;3;;Le Coin du Bois;25580;25424;Les Premiers Sapins;Nods;;6.349691;47.079873
+25424_0081_00005;5;;Chemin des Roches;25580;25424;Les Premiers Sapins;Nods;;6.344225;47.088991
+25424_0160_00018;18;;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.376531;47.112069
+25424_0055_00011;11;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.339859;47.096838
+25424_1pygp5_00004;4;;Rue du Repos;25580;25424;Les Premiers Sapins;Athose;;6.310721;47.079415
+25424_0075_00002;2;;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.335445;47.099236
+25424_0044_00003;3;;Impasse des Jardins;25580;25424;Les Premiers Sapins;Nods;;6.339308;47.096552
+25424_0173_00003;3;;Rue du Réservoir;25580;25424;Les Premiers Sapins;Vanclans;;6.362599;47.100808
+25424_0167_00010;10;;Rue du Potet;25580;25424;Les Premiers Sapins;Rantechaux;;6.373391;47.114122
+25424_0005_00001_a;1;a;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.307607;47.052705
+25424_0062_00006;6;;Rue Notre Dame;25580;25424;Les Premiers Sapins;Vanclans;;6.359309;47.099226
+25424_0080_00003;3;;Rue du Repos;25580;25424;Les Premiers Sapins;Nods;;6.338237;47.097708
+25424_0175_00003;3;;Rue de la Mairie;25580;25424;Les Premiers Sapins;Vanclans;;6.359904;47.098362
+25424_r3yjnv_00001;1;;Le Sapey;25580;25424;Les Premiers Sapins;Athose;;6.335417;47.06506
+25424_0173_00009;9;;Rue du Réservoir;25580;25424;Les Premiers Sapins;Vanclans;;6.36101;47.100279
+25424_0062_00011;11;;Rue Notre Dame;25580;25424;Les Premiers Sapins;Vanclans;;6.359515;47.099503
+25424_0163_00006;6;;Rue des Trembles;25580;25424;Les Premiers Sapins;Rantechaux;;6.376615;47.112752
+25424_a041_00002;2;;Hameau du Fourney;25580;25424;Les Premiers Sapins;Athose;;6.332655;47.072755
+25424_0160_00019_a;19;a;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.375916;47.112508
+25424_0163_00004;4;;Rue des Trembles;25580;25424;Les Premiers Sapins;Rantechaux;;6.376353;47.112789
+25424_0040_00050;50;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.336264;47.097485
+25424_0055_00015;15;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.340026;47.097164
+25424_0111_00001_bis;1;bis;Route des Fermes;25580;25424;Les Premiers Sapins;Athose;;6.308223;47.076485
+25424_0055_00017;17;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.339943;47.097421
+25424_0033_00001;1;;Rue de la Forge;25580;25424;Les Premiers Sapins;Nods;;6.339278;47.095479
+25424_0026_00001;1;;Rue de la Cure;25580;25424;Les Premiers Sapins;Nods;;6.337446;47.095427
+25424_0176_00002;2;;Rue de Loyon;25580;25424;Les Premiers Sapins;Vanclans;;6.365;47.09882
+25424_0145_00001;1;;Chemin de la Grange de Reine;25580;25424;Les Premiers Sapins;Chasnans;;6.340361;47.08168
+25424_0112_00006;6;;Rue de la Salle des Fêtes;25580;25424;Les Premiers Sapins;Athose;;6.308946;47.077094
+25424_0040_00031;31;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.339459;47.095178
+25424_0110_00008;8;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.335506;47.096781
+25424_0110_00027;27;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.330273;47.094536
+25424_0135_00004;4;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.314585;47.087052
+25424_g6avf8_00001;1;;Sémont;25580;25424;Les Premiers Sapins;Athose;;6.321381;47.067033
+25424_0086_00007;7;;rue Soldat Liechti;25580;25424;Les Premiers Sapins;Nods;;6.340618;47.099154
+25424_0173_00007;7;;Rue du Réservoir;25580;25424;Les Premiers Sapins;Vanclans;;6.361424;47.100404
+25424_0064_00010;10;;Rue du Pelerot;25580;25424;Les Premiers Sapins;Nods;;6.337607;47.099358
+25424_0134_00012;12;;Route de la Vallée;25580;25424;Les Premiers Sapins;Chasnans;;6.313894;47.084462
+25424_0051_00005;5;;Rue des Maisonnettes;25580;25424;Les Premiers Sapins;Nods;;6.335822;47.096382
+25424_0075_00018_a;18;a;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.331146;47.100009
+25424_7esmth_00006;6;;Impasse des Noyers;25580;25424;Les Premiers Sapins;Chasnans;;6.313035;47.086315
+25424_0161_00003;3;;Rue des Tilleuls;25580;25424;Les Premiers Sapins;Rantechaux;;6.371065;47.111071
+25424_0026_00002;2;;Rue de la Cure;25580;25424;Les Premiers Sapins;Nods;;6.338302;47.096065
+25424_0005_00019;19;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.291085;47.049101
+25424_0075_00004;4;;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.335121;47.099449
+25424_0160_00013_c;13;c;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.374563;47.113084
+25424_b707_00069_bis;69;bis;Cicon du Bas;25580;25424;Les Premiers Sapins;Vanclans;;6.373904;47.102778
+25424_avwrix_00009_b;9;b;Rue de l’Eglise;25580;25424;Les Premiers Sapins;Rantechaux;;6.372269;47.110611
+25424_0027_00008;8;;Rue des Coudres;25580;25424;Les Premiers Sapins;Nods;;6.338595;47.099019
+25424_0142_00002;2;;Route du Haut Doubs;25580;25424;Les Premiers Sapins;Chasnans;;6.349808;47.074618
+25424_0031_00006;6;;Route des Fermes de Cicon;25580;25424;Les Premiers Sapins;Vanclans;;6.363725;47.099216
+25424_0113_00014;14;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.309257;47.078595
+25424_0156_00005;5;;Rue du Murot;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.29317;47.048845
+25424_0120_00014;14;;Chemin des Grands Champs;25580;25424;Les Premiers Sapins;Athose;;6.30504;47.076915
+25424_0135_00031;31;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.305324;47.084963
+25424_0150_00006;6;;Rue de la Roche;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.290034;47.049779
+25424_0154_00003;3;;Rue de la Pistolette;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.292093;47.050475
+25424_0150_00013;13;;Rue de la Roche;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.289768;47.050482
+25424_avwrix_00012;12;;Rue de l’Eglise;25580;25424;Les Premiers Sapins;Rantechaux;;6.371374;47.110023
+25424_0172_00008;8;;Rue du Petit Mont;25580;25424;Les Premiers Sapins;Vanclans;;6.357272;47.098439
+25424_0066_00006;6;;Rue Pergaud;25580;25424;Les Premiers Sapins;Nods;;6.333343;47.096722
+25424_0150_00007;7;;Rue de la Roche;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.289488;47.049685
+25424_0040_00040;40;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.337876;47.096387
+25424_0040_00004;4;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.34541;47.090708
+25424_0135_00002_b;2;b;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.314825;47.087219
+25424_0086_00009;9;;rue Soldat Liechti;25580;25424;Les Premiers Sapins;Nods;;6.340312;47.099269
+25424_0160_00013_a;13;a;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.374522;47.113093
+25424_0173_00013;13;;Rue du Réservoir;25580;25424;Les Premiers Sapins;Vanclans;;6.360334;47.099825
+25424_0171_00007;7;;Rue des Ormeaux;25580;25424;Les Premiers Sapins;Vanclans;;6.363956;47.103094
+25424_0069_00001;1;;rue de la Pie Grièche;25580;25424;Les Premiers Sapins;Nods;;6.335084;47.099874
+25424_0005_00011;11;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.293461;47.049084
+25424_0167_00002;2;;Rue du Potet;25580;25424;Les Premiers Sapins;Rantechaux;;6.37336;47.115349
+25424_0146_00007;7;;Chemin du Petit Paris;25580;25424;Les Premiers Sapins;Chasnans;;6.3422;47.071824
+25424_0050_00006;6;;Place de la Mairie;25580;25424;Les Premiers Sapins;Nods;;6.339452;47.094369
+25424_0138_00003;3;;Chemin du Parterre;25580;25424;Les Premiers Sapins;Chasnans;;6.312789;47.086918
+25424_ifpbaq_00001;1;;le Séminaire;25580;25424;Les Premiers Sapins;Nods;;6.384633;47.076604
+25424_0040_00015;15;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.341032;47.093404
+25424_0040_00006;6;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.34317;47.09169
+25424_0040_00029;29;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.339995;47.094816
+25424_0110_00003;3;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.33719;47.097007
+25424_0055_00024;24;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.340609;47.098016
+25424_0112_00003_a;3;a;Rue de la Salle des Fêtes;25580;25424;Les Premiers Sapins;Athose;;6.309093;47.077079
+25424_0163_00003_b;3;b;Rue des Trembles;25580;25424;Les Premiers Sapins;Rantechaux;;6.377022;47.112901
+25424_0171_00002;2;;Rue des Ormeaux;25580;25424;Les Premiers Sapins;Vanclans;;6.364487;47.103927
+25424_0151_00010;10;;Rue Emile Lonchampt;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.287349;47.047266
+25424_0056_00017;17;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.332505;47.097035
+25424_0111_00010;10;;Route des Fermes;25580;25424;Les Premiers Sapins;Athose;;6.308038;47.07614
+25424_0138_00005;5;;Chemin du Parterre;25580;25424;Les Premiers Sapins;Chasnans;;6.312709;47.087237
+25424_0137_00004;4;;Chemin de la Scie;25580;25424;Les Premiers Sapins;Chasnans;;6.315323;47.085337
+25424_0056_00003;3;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.334584;47.097308
+25424_0132_00006;6;;Chemin de l’Etang;25580;25424;Les Premiers Sapins;Chasnans;;6.310767;47.08468
+25424_0026_00003;3;;Rue de la Cure;25580;25424;Les Premiers Sapins;Nods;;6.337661;47.095671
+25424_0151_00002;2;;Rue Emile Lonchampt;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.286157;47.047245
+25424_0055_00001;1;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.340963;47.096467
+25424_0134_00008;8;;Route de la Vallée;25580;25424;Les Premiers Sapins;Chasnans;;6.314353;47.08526
+25424_0040_00032;32;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.339252;47.095159
+25424_0163_00001_c;1;c;Rue des Trembles;25580;25424;Les Premiers Sapins;Rantechaux;;6.376198;47.113178
+25424_0113_00013;13;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.308959;47.07826
+25424_0178_00002;2;;Rue Devant Velle;25580;25424;Les Premiers Sapins;Vanclans;;6.360127;47.098681
+25424_0135_00002;2;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.315258;47.087575
+25424_0129_00005;5;;Chemin de la Coulanges;25580;25424;Les Premiers Sapins;Chasnans;;6.310972;47.086869
+25424_0113_00021;21;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.310671;47.080382
+25424_0116_00003;3;;Rue de la Craye;25580;25424;Les Premiers Sapins;Athose;;6.311179;47.077388
+25424_0133_00013;13;;Route de la Vierge;25580;25424;Les Premiers Sapins;Chasnans;;6.318476;47.089153
+25424_0086_00008;8;;rue Soldat Liechti;25580;25424;Les Premiers Sapins;Nods;;6.341061;47.099134
+25424_0082_00004;4;;Rue des Rochets;25580;25424;Les Premiers Sapins;Nods;;6.331019;47.095724
+25424_0064_00014;14;;Rue du Pelerot;25580;25424;Les Premiers Sapins;Nods;;6.336766;47.100332
+25424_0111_00003;3;;Route des Fermes;25580;25424;Les Premiers Sapins;Athose;;6.308414;47.076476
+25424_0076_00027;27;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.364398;47.102681
+25424_0164_00002_b;2;b;Rue des Chênes;25580;25424;Les Premiers Sapins;Rantechaux;;6.374173;47.116033
+25424_0171_00012;12;;Rue des Ormeaux;25580;25424;Les Premiers Sapins;Vanclans;;6.363326;47.103376
+25424_0086_00001;1;;rue Soldat Liechti;25580;25424;Les Premiers Sapins;Nods;;6.340995;47.098718
+25424_0110_00014;14;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.33399;47.096451
+25424_0163_00006_bis;6;bis;Rue des Trembles;25580;25424;Les Premiers Sapins;Rantechaux;;6.378171;47.11271
+25424_0163_00001_b;1;b;Rue des Trembles;25580;25424;Les Premiers Sapins;Rantechaux;;6.376051;47.113294
+25424_avwrix_00009;9;;Rue de l’Eglise;25580;25424;Les Premiers Sapins;Rantechaux;;6.372571;47.110881
+25424_0076_00048;48;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.365194;47.104198
+25424_0040_00047;47;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.338393;47.09652
+25424_0113_00011;11;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.308809;47.078275
+25424_0110_00018_bis;18;bis;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.332636;47.096157
+25424_0154_00011;11;;Rue de la Pistolette;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.307105;47.060324
+25424_0160_00012;12;;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.375793;47.112034
+25424_0076_00013;13;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.36148;47.099507
+25424_0075_00022;22;;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.332102;47.099298
+25424_0040_00031_bis;31;bis;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.339476;47.095157
+25424_0135_00012;12;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.312886;47.085907
+25424_0040_00001;1;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.348994;47.089023
+25424_0171_00004;4;;Rue des Ormeaux;25580;25424;Les Premiers Sapins;Vanclans;;6.364102;47.104189
+25424_b581_00001;1;;Hameau du Châtelet;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.297942;47.035895
+25424_0033_00002;2;;Rue de la Forge;25580;25424;Les Premiers Sapins;Nods;;6.339335;47.095371
+25424_0148_00011;11;;Chemin des Pieces;25580;25424;Les Premiers Sapins;Chasnans;;6.315327;47.088708
+25424_0076_00010;10;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.358891;47.098645
+25424_0129_00002;2;;Chemin de la Coulanges;25580;25424;Les Premiers Sapins;Chasnans;;6.311111;47.086184
+25424_0113_00017;17;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.309456;47.079628
+25424_0139_00005;5;;Chemin du Grand Clos;25580;25424;Les Premiers Sapins;Chasnans;;6.314161;47.085588
+25424_0062_00023;23;;Rue Notre Dame;25580;25424;Les Premiers Sapins;Vanclans;;6.36088;47.099266
+25424_kk2nj9_00003_a;3;a;Rue du Rétameur;25580;25424;Les Premiers Sapins;Nods;;6.335921;47.097264
+25424_0040_00051;51;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.338335;47.096819
+25424_0090_00004;4;;Rue du Tilleul;25580;25424;Les Premiers Sapins;Nods;;6.338605;47.095309
+25424_0076_00037;37;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.364846;47.104529
+25424_0111_00017;17;;Route des Fermes;25580;25424;Les Premiers Sapins;Athose;;6.3108;47.077165
+25424_0085_00001;1;;Rue de la Scierie;25580;25424;Les Premiers Sapins;Nods;;6.336472;47.098192
+25424_0118_00002;2;;Rue du Presbytère;25580;25424;Les Premiers Sapins;Athose;;6.309829;47.078288
+25424_b620_00004;4;;Route d’Hautepierre;25580;25424;Les Premiers Sapins;Chasnans;;6.343243;47.075147
+25424_0160_00010;10;;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.373428;47.113238
+25424_0140_00005_a;5;a;Chemin de la Combotte;25580;25424;Les Premiers Sapins;Chasnans;;6.313196;47.086217
+25424_0076_00002;2;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.356725;47.099747
+25424_0160_00004;4;;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.372827;47.113551
+25424_0135_00010;10;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.313404;47.085996
+25424_0151_00008;8;;Rue Emile Lonchampt;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.286748;47.047163
+25424_0076_00016;16;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.360671;47.098956
+25424_0151_00001;1;;Rue Emile Lonchampt;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.286202;47.047677
+25424_0055_00016;16;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.342099;47.097757
+25424_0062_00004;4;;Rue Notre Dame;25580;25424;Les Premiers Sapins;Vanclans;;6.359163;47.099198
+25424_a041_00003;3;;Hameau du Fourney;25580;25424;Les Premiers Sapins;Athose;;6.333121;47.07275
+25424_0062_00012;12;;Rue Notre Dame;25580;25424;Les Premiers Sapins;Vanclans;;6.36052;47.099267
+25424_0086_00014;14;;rue Soldat Liechti;25580;25424;Les Premiers Sapins;Nods;;6.34038;47.099528
+25424_avwrix_00001;1;;Rue de l’Eglise;25580;25424;Les Premiers Sapins;Rantechaux;;6.374349;47.1117
+25424_avwrix_00007;7;;Rue de l’Eglise;25580;25424;Les Premiers Sapins;Rantechaux;;6.373123;47.111055
+25424_0005_00002;2;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.293342;47.049424
+25424_b707_00069;69;;Cicon du Bas;25580;25424;Les Premiers Sapins;Vanclans;;6.373413;47.104118
+25424_0082_00005;5;;Rue des Rochets;25580;25424;Les Premiers Sapins;Nods;;6.330367;47.095644
+25424_0031_00005;5;;Route des Fermes de Cicon;25580;25424;Les Premiers Sapins;Vanclans;;6.363428;47.099682
+25424_0167_00004;4;;Rue du Potet;25580;25424;Les Premiers Sapins;Rantechaux;;6.373696;47.115089
+25424_0146_00012;12;;Chemin du Petit Paris;25580;25424;Les Premiers Sapins;Chasnans;;6.340508;47.071963
+25424_0150_00009;9;;Rue de la Roche;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.289748;47.049999
+25424_0023_00004;4;;Chemin de la Chenaux;25580;25424;Les Premiers Sapins;Nods;;6.347981;47.090535
+25424_0080_00009;9;;Rue du Repos;25580;25424;Les Premiers Sapins;Nods;;6.33907;47.098175
+25424_0150_00004;4;;Rue de la Roche;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.289756;47.049369
+25424_0051_00003;3;;Rue des Maisonnettes;25580;25424;Les Premiers Sapins;Nods;;6.336348;47.096581
+25424_vtym6f_00002;2;;Chemin du Bois de l’Allier;25580;25424;Les Premiers Sapins;Rantechaux;;6.372148;47.109595
+25424_0085_00010;10;;Rue de la Scierie;25580;25424;Les Premiers Sapins;Nods;;6.336426;47.099005
+25424_0146_00005;5;;Chemin du Petit Paris;25580;25424;Les Premiers Sapins;Chasnans;;6.348137;47.074022
+25424_0055_00032;32;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.340749;47.097345
+25424_0005_00010;10;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.288737;47.048721
+25424_0113_00023;23;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.310888;47.080896
+25424_0176_00001;1;;Rue de Loyon;25580;25424;Les Premiers Sapins;Vanclans;;6.364476;47.098727
+25424_0055_00003;3;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.340581;47.096771
+25424_0140_00001;1;;Chemin de la Combotte;25580;25424;Les Premiers Sapins;Chasnans;;6.312922;47.085964
+25424_0082_00011;11;;Rue des Rochets;25580;25424;Les Premiers Sapins;Nods;;6.329515;47.095045
+25424_6h72vy_00071;71;;Les Coudres;25580;25424;Les Premiers Sapins;Vanclans;;6.348333;47.104222
+25424_0040_00045;45;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.338621;47.096362
+25424_0040_00030;30;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.339356;47.095052
+25424_0111_00004;4;;Route des Fermes;25580;25424;Les Premiers Sapins;Athose;;6.307708;47.076049
+25424_0172_00002;2;;Rue du Petit Mont;25580;25424;Les Premiers Sapins;Vanclans;;6.358364;47.098603
+25424_0110_00012;12;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.334271;47.096518
+25424_0040_00058_a;58;a;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.334257;47.097923
+25424_0054_00003;3;;Rue du Mont;25580;25424;Les Premiers Sapins;Nods;;6.33968;47.094278
+25424_0180_00002;2;;Rue de la Paule;25580;25424;Les Premiers Sapins;Vanclans;;6.365899;47.102373
+25424_avwrix_00011;11;;Rue de l’Eglise;25580;25424;Les Premiers Sapins;Rantechaux;;6.372054;47.110031
+25424_0110_00025;25;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.330841;47.094778
+25424_0115_00005;5;;Rue de Lavans-Vuillafans;25580;25424;Les Premiers Sapins;Athose;;6.306422;47.077018
+25424_0064_00009;9;;Rue du Pelerot;25580;25424;Les Premiers Sapins;Nods;;6.336896;47.099757
+25424_0055_00018;18;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.341736;47.097831
+25424_0090_00001_bis;1;bis;Rue du Tilleul;25580;25424;Les Premiers Sapins;Nods;;6.338845;47.095222
+25424_0076_00029;29;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.364419;47.102949
+25424_0110_00028;28;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.329933;47.094892
+25424_0113_00003;3;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.307533;47.076943
+25424_0119_00001_c;1;c;Rue de la Perrière;25580;25424;Les Premiers Sapins;Athose;;6.306283;47.075681
+25424_0161_00005;5;;Rue des Tilleuls;25580;25424;Les Premiers Sapins;Rantechaux;;6.370637;47.110903
+25424_24zrvj_00001;1;;Rue du Monument;25580;25424;Les Premiers Sapins;Rantechaux;;6.374611;47.112405
+25424_0131_00006;6;;Chemin de la Vie;25580;25424;Les Premiers Sapins;Chasnans;;6.309451;47.087036
+25424_0040_00018;18;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.340566;47.093866
+25424_0080_00004;4;;Rue du Repos;25580;25424;Les Premiers Sapins;Nods;;6.339246;47.097876
+25424_0112_00002;2;;Rue de la Salle des Fêtes;25580;25424;Les Premiers Sapins;Athose;;6.309029;47.077823
+25424_0179_00003;3;;Route de Cicon;25580;25424;Les Premiers Sapins;Vanclans;;6.364062;47.099949
+25424_0031_00011;11;;Route des Fermes de Cicon;25580;25424;Les Premiers Sapins;Vanclans;;6.364513;47.099455
+25424_0177_00006;6;;Rue de la Fromagerie;25580;25424;Les Premiers Sapins;Vanclans;;6.358937;47.099047
+25424_0151_00006;6;;Rue Emile Lonchampt;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.286195;47.047012
+25424_0116_00001;1;;Rue de la Craye;25580;25424;Les Premiers Sapins;Athose;;6.309918;47.078068
+25424_0076_00041;41;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.36503;47.104813
+25424_0085_00002;2;;Rue de la Scierie;25580;25424;Les Premiers Sapins;Nods;;6.336462;47.097889
+25424_0082_00018;18;;Rue des Rochets;25580;25424;Les Premiers Sapins;Nods;;6.32928;47.095302
+25424_0076_00035;35;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.364759;47.104355
+25424_0075_00012;12;;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.333555;47.100192
+25424_0027_00005;5;;Rue des Coudres;25580;25424;Les Premiers Sapins;Nods;;6.338321;47.099943
+25424_0171_00010;10;;Rue des Ormeaux;25580;25424;Les Premiers Sapins;Vanclans;;6.363482;47.10355
+25424_0069_00004;4;;rue de la Pie Grièche;25580;25424;Les Premiers Sapins;Nods;;6.33586;47.099696
+25424_0064_00001_b;1;b;Rue du Pelerot;25580;25424;Les Premiers Sapins;Nods;;6.337039;47.097768
+25424_0056_00009;9;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.333755;47.097186
+25424_0173_00012;12;;Rue du Réservoir;25580;25424;Les Premiers Sapins;Vanclans;;6.361997;47.100792
+25424_0040_00002;2;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.346483;47.090298
+25424_0160_00013;13;;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.37451;47.113061
+25424_0120_00005;5;;Chemin des Grands Champs;25580;25424;Les Premiers Sapins;Athose;;6.305334;47.077413
+25424_0151_00016;16;;Rue Emile Lonchampt;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.288949;47.047755
+25424_a041_00006;6;;Hameau du Fourney;25580;25424;Les Premiers Sapins;Athose;;6.333426;47.072286
+25424_0120_00010;10;;Chemin des Grands Champs;25580;25424;Les Premiers Sapins;Athose;;6.306026;47.077729
+25424_0086_00018;18;;rue Soldat Liechti;25580;25424;Les Premiers Sapins;Nods;;6.339981;47.099879
+25424_0160_00019_e;19;e;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.37582;47.11233
+25424_0118_00012;12;;Rue du Presbytère;25580;25424;Les Premiers Sapins;Athose;;6.310963;47.078974
+25424_0056_00006;6;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.333833;47.09753
+25424_0132_00001_bis;1;bis;Chemin de l’Etang;25580;25424;Les Premiers Sapins;Chasnans;;6.311342;47.085267
+25424_0040_00005;5;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.343054;47.091985
+25424_0135_00029;29;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.308452;47.085471
+25424_0115_00002;2;;Rue de Lavans-Vuillafans;25580;25424;Les Premiers Sapins;Athose;;6.308009;47.077922
+25424_0136_00001;1;;Chemin des Fontaines;25580;25424;Les Premiers Sapins;Chasnans;;6.314385;47.086127
+25424_0082_00014;14;;Rue des Rochets;25580;25424;Les Premiers Sapins;Nods;;6.329777;47.095677
+25424_0165_00006;6;;Rue de la Croix de Bois;25580;25424;Les Premiers Sapins;Rantechaux;;6.370602;47.111869
+25424_0160_00013_b;13;b;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.374536;47.113073
+25424_0177_00004;4;;Rue de la Fromagerie;25580;25424;Les Premiers Sapins;Vanclans;;6.359045;47.098859
+25424_0173_00010;10;;Rue du Réservoir;25580;25424;Les Premiers Sapins;Vanclans;;6.362193;47.100863
+25424_0119_00005;5;;Rue de la Perrière;25580;25424;Les Premiers Sapins;Athose;;6.305723;47.075432
+25424_0056_00019;19;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.332059;47.097048
+25424_0135_00009;9;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.313129;47.085272
+25424_0119_00003;3;;Rue de la Perrière;25580;25424;Les Premiers Sapins;Athose;;6.305991;47.075601
+25424_0dt2em_00001;1;;Champey;25580;25424;Les Premiers Sapins;Athose;;6.325076;47.070731
+25424_0005_00014;14;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.287409;47.048408
+25424_0056_00018;18;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.331723;47.097835
+25424_0153_00004;4;;Rue du Parc;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.290894;47.049565
+25424_0055_00008;8;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.3416;47.097523
+25424_0122_00004;4;;Rue des Epinettes;25580;25424;Les Premiers Sapins;Athose;;6.308212;47.079903
+25424_0113_00014_bis;14;bis;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.309458;47.078749
+25424_rsbtwc_00001;1;;Rue du Cerf;25580;25424;Les Premiers Sapins;Rantechaux;;6.375729;47.11344
+25424_0166_00001;1;;Chemin de Traverse;25580;25424;Les Premiers Sapins;Rantechaux;;6.374374;47.112911
+25424_0055_00006;6;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.341188;47.097234
+25424_0062_00015;15;;Rue Notre Dame;25580;25424;Les Premiers Sapins;Vanclans;;6.359901;47.099719
+25424_0139_00001;1;;Chemin du Grand Clos;25580;25424;Les Premiers Sapins;Chasnans;;6.314286;47.085787
+25424_0173_00004;4;;Rue du Réservoir;25580;25424;Les Premiers Sapins;Vanclans;;6.362812;47.101449
+25424_0135_00011;11;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.312929;47.085605
+25424_0086_00011_b;11;b;rue Soldat Liechti;25580;25424;Les Premiers Sapins;Nods;;6.339505;47.099239
+25424_0122_00001;1;;Rue des Epinettes;25580;25424;Les Premiers Sapins;Athose;;6.30921;47.078944
+25424_0110_00011;11;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.334285;47.096155
+25424_0113_00012;12;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.309551;47.078376
+25424_0171_00001;1;;Rue des Ormeaux;25580;25424;Les Premiers Sapins;Vanclans;;6.364305;47.103697
+25424_0040_00065;65;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.332537;47.099011
+25424_0115_00006;6;;Rue de Lavans-Vuillafans;25580;25424;Les Premiers Sapins;Athose;;6.306882;47.077514
+25424_0040_00030_bis;30;bis;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.33937;47.095028
+25424_0162_00004;4;;Rue du Village;25580;25424;Les Premiers Sapins;Rantechaux;;6.373777;47.112684
+25424_0132_00002;2;;Chemin de l’Etang;25580;25424;Les Premiers Sapins;Chasnans;;6.31091;47.085119
+25424_0027_00006;6;;Rue des Coudres;25580;25424;Les Premiers Sapins;Nods;;6.338797;47.098834
+25424_0075_00010;10;;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.333971;47.099603
+25424_0151_00001_a;1;a;Rue Emile Lonchampt;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.286609;47.047685
+25424_0156_00001;1;;Rue du Murot;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.293245;47.048513
+25424_0005_00017;17;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.291492;47.049317
+25424_0146_00004;4;;Chemin du Petit Paris;25580;25424;Les Premiers Sapins;Chasnans;;6.34834;47.074542
+25424_bgqbym_00001;1;;Le Coin du Bois;25580;25424;Les Premiers Sapins;Nods;;6.349669;47.080122
+25424_0064_00002;2;;Rue du Pelerot;25580;25424;Les Premiers Sapins;Nods;;6.337477;47.097733
+25424_0056_00012;12;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.332841;47.097267
+25424_0055_00030;30;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.340893;47.097547
+25424_0171_00006;6;;Rue des Ormeaux;25580;25424;Les Premiers Sapins;Vanclans;;6.363744;47.103931
+25424_0076_00044;44;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.365001;47.10316
+25424_0164_00004_bis;4;bis;Rue des Chênes;25580;25424;Les Premiers Sapins;Rantechaux;;6.374992;47.116578
+25424_0150_00003;3;;Rue de la Roche;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.288957;47.049246
+25424_0132_00001;1;;Chemin de l’Etang;25580;25424;Les Premiers Sapins;Chasnans;;6.311529;47.085335
+25424_0027_00001;1;;Rue des Coudres;25580;25424;Les Premiers Sapins;Nods;;6.338281;47.098378
+25424_0111_00006;6;;Route des Fermes;25580;25424;Les Premiers Sapins;Athose;;6.30783;47.076117
+25424_0082_00007;7;;Rue des Rochets;25580;25424;Les Premiers Sapins;Nods;;6.330093;47.095463
+25424_0090_00005;5;;Rue du Tilleul;25580;25424;Les Premiers Sapins;Nods;;6.338206;47.095397
+25424_avwrix_00002_bis;2;bis;Rue de l’Eglise;25580;25424;Les Premiers Sapins;Rantechaux;;6.375258;47.112423
+25424_0135_00008;8;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.313647;47.086232
+25424_0085_00008;8;;Rue de la Scierie;25580;25424;Les Premiers Sapins;Nods;;6.336804;47.098546
+25424_0113_00002;2;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.307114;47.076074
+25424_0133_00015;15;;Route de la Vierge;25580;25424;Les Premiers Sapins;Chasnans;;6.318708;47.089226
+25424_0148_00009;9;;Chemin des Pieces;25580;25424;Les Premiers Sapins;Chasnans;;6.314991;47.088665
+25424_0086_00011_a;11;a;rue Soldat Liechti;25580;25424;Les Premiers Sapins;Nods;;6.33975;47.09903
+25424_0005_00009_a;9;a;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.29384;47.049183
+25424_0120_00004;4;;Chemin des Grands Champs;25580;25424;Les Premiers Sapins;Athose;;6.305493;47.077827
+25424_0135_00017;17;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.312369;47.085727
+25424_0069_00008;8;;rue de la Pie Grièche;25580;25424;Les Premiers Sapins;Nods;;6.336356;47.099944
+25424_0173_00008;8;;Rue du Réservoir;25580;25424;Les Premiers Sapins;Vanclans;;6.362662;47.101089
+25424_0176_00006;6;;Rue de Loyon;25580;25424;Les Premiers Sapins;Vanclans;;6.365624;47.099463
+25424_0131_00001;1;;Chemin de la Vie;25580;25424;Les Premiers Sapins;Chasnans;;6.310193;47.085939
+25424_0076_00023;23;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.364035;47.101945
+25424_0151_00012;12;;Rue Emile Lonchampt;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.288363;47.047585
+25424_0115_00004;4;;Rue de Lavans-Vuillafans;25580;25424;Les Premiers Sapins;Athose;;6.307552;47.078098
+25424_0064_00007;7;;Rue du Pelerot;25580;25424;Les Premiers Sapins;Nods;;6.336901;47.099482
+25424_0080_00015;15;;Rue du Repos;25580;25424;Les Premiers Sapins;Nods;;6.340208;47.098528
+25424_0160_00007_b;7;b;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.373704;47.113587
+25424_0138_00001;1;;Chemin du Parterre;25580;25424;Les Premiers Sapins;Chasnans;;6.313208;47.086777
+25424_0055_00004;4;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.340954;47.097035
+25424_0075_00007;7;;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.332738;47.099874
+25424_0135_00002_a;2;a;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.314898;47.087278
+25424_0005_00008;8;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.289536;47.04894
+25424_0066_00004;4;;Rue Pergaud;25580;25424;Les Premiers Sapins;Nods;;6.333589;47.096804
+25424_0113_00008;8;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.308464;47.077682
+25424_0112_00003;3;;Rue de la Salle des Fêtes;25580;25424;Les Premiers Sapins;Athose;;6.30917;47.077024
+25424_0090_00001_ter;1;ter;Rue du Tilleul;25580;25424;Les Premiers Sapins;Nods;;6.338799;47.095111
+25424_0162_00008;8;;Rue du Village;25580;25424;Les Premiers Sapins;Rantechaux;;6.37359;47.111936
+25424_0160_00010_ter;10;ter;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.375373;47.112051
+25424_0115_00009;9;;Rue de Lavans-Vuillafans;25580;25424;Les Premiers Sapins;Athose;;6.305356;47.076746
+25424_0132_00004;4;;Chemin de l’Etang;25580;25424;Les Premiers Sapins;Chasnans;;6.310857;47.084805
+25424_0040_00017;17;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.34091;47.093609
+25424_0120_00003;3;;Chemin des Grands Champs;25580;25424;Les Premiers Sapins;Athose;;6.305748;47.077567
+25424_b581_00010;10;;Hameau du Châtelet;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.301354;47.037257
+25424_0113_00004;4;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.30752;47.076513
+25424_0110_00024;24;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.330518;47.095052
+25424_0040_00029_bis;29;bis;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.340061;47.094706
+25424_0180_00004;4;;Rue de la Paule;25580;25424;Les Premiers Sapins;Vanclans;;6.366207;47.102228
+25424_0050_00002;2;;Place de la Mairie;25580;25424;Les Premiers Sapins;Nods;;6.338385;47.094551
+25424_0054_00004;4;;Rue du Mont;25580;25424;Les Premiers Sapins;Nods;;6.338731;47.09401
+25424_0080_00005;5;;Rue du Repos;25580;25424;Les Premiers Sapins;Nods;;6.338441;47.097825
+25424_rsbtwc_00004;4;;Rue du Cerf;25580;25424;Les Premiers Sapins;Rantechaux;;6.375513;47.113269
+25424_0148_00006;6;;Chemin des Pieces;25580;25424;Les Premiers Sapins;Chasnans;;6.316237;47.088573
+25424_0160_00013_d;13;d;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.374539;47.113043
+25424_0052_00001;1;;Rue de la Mare;25580;25424;Les Premiers Sapins;Nods;;6.338108;47.097031
+25424_0110_00026;26;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.33029;47.095142
+25424_0069_00007;7;;rue de la Pie Grièche;25580;25424;Les Premiers Sapins;Nods;;6.335783;47.100162
+25424_0086_00016;16;;rue Soldat Liechti;25580;25424;Les Premiers Sapins;Nods;;6.340214;47.099641
+25424_0112_00008;8;;Rue de la Salle des Fêtes;25580;25424;Les Premiers Sapins;Athose;;6.308581;47.076987
+25424_0040_00058_bis;58;bis;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.334189;47.097968
+25424_0040_00014;14;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.34079;47.093395
+25424_0069_00011;11;;rue de la Pie Grièche;25580;25424;Les Premiers Sapins;Nods;;6.336304;47.100362
+25424_0040_00012;12;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.341045;47.093035
+25424_0148_00005;5;;Chemin des Pieces;25580;25424;Les Premiers Sapins;Chasnans;;6.315151;47.08839
+25424_0005_00005;5;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.294492;47.049597
+25424_0134_00020;20;;Route de la Vallée;25580;25424;Les Premiers Sapins;Chasnans;;6.312236;47.083299
+25424_0151_00014;14;;Rue Emile Lonchampt;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.288817;47.047639
+25424_0040_00027;27;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.34005;47.094646
+25424_0054_00005;5;;Rue du Mont;25580;25424;Les Premiers Sapins;Nods;;6.339363;47.094014
+25424_0135_00003;3;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.313823;47.086105
+25424_avwrix_00009_c;9;c;Rue de l’Eglise;25580;25424;Les Premiers Sapins;Rantechaux;;6.371996;47.110331
+25424_0076_00052;52;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.365498;47.104592
+25424_0164_00002_ter;2;ter;Rue des Chênes;25580;25424;Les Premiers Sapins;Rantechaux;;6.374462;47.11579
+25424_0110_00018;18;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.332505;47.095969
+25424_0080_00011;11;;Rue du Repos;25580;25424;Les Premiers Sapins;Nods;;6.339319;47.098395
+25424_0080_00013;13;;Rue du Repos;25580;25424;Les Premiers Sapins;Nods;;6.339703;47.09847
+25424_0165_00002_bis;2;bis;Rue de la Croix de Bois;25580;25424;Les Premiers Sapins;Rantechaux;;6.372392;47.111289
+25424_0173_00006;6;;Rue du Réservoir;25580;25424;Les Premiers Sapins;Vanclans;;6.362561;47.101057
+25424_0005_00007;7;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.294172;47.049469
+25424_0113_00020;20;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.310502;47.079858
+25424_0173_00014;14;;Rue du Réservoir;25580;25424;Les Premiers Sapins;Vanclans;;6.361041;47.100581
+25424_xkigef_00060;60;;la Vèche;25580;25424;Les Premiers Sapins;Vanclans;;6.36933;47.092411
+25424_b759_00061;61;;Neuve Vie;25580;25424;Les Premiers Sapins;Vanclans;;6.372641;47.084646
+25424_0080_00008;8;;Rue du Repos;25580;25424;Les Premiers Sapins;Nods;;6.340252;47.098223
+25424_bgqbym_00005;5;;Le Coin du Bois;25580;25424;Les Premiers Sapins;Nods;;6.349241;47.079751
+25424_a041_00011;11;;Hameau du Fourney;25580;25424;Les Premiers Sapins;Athose;;6.333275;47.071438
+25424_0056_00013;13;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.333135;47.097072
+25424_0163_00001_d;1;d;Rue des Trembles;25580;25424;Les Premiers Sapins;Rantechaux;;6.376121;47.113134
+25424_0160_00021;21;;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.377115;47.112541
+25424_1pygp5_00002;2;;Rue du Repos;25580;25424;Les Premiers Sapins;Athose;;6.30959;47.078753
+25424_0160_00002_b;2;b;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.372811;47.113736
+25424_0040_00036;36;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.338403;47.096208
+25424_0027_00001_bis;1;bis;Rue des Coudres;25580;25424;Les Premiers Sapins;Nods;;6.337979;47.099158
+25424_0055_00026_bis;26;bis;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.340715;47.097868
+25424_0076_00046;46;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.364993;47.1038
+25424_0134_00004;4;;Route de la Vallée;25580;25424;Les Premiers Sapins;Chasnans;;6.314946;47.086653
+25424_0154_00001;1;;Rue de la Pistolette;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.292074;47.05025
+25424_0040_00019;19;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.340933;47.09383
+25424_0160_00010_b;10;b;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.374726;47.112831
+25424_0150_00011;11;;Rue de la Roche;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.289851;47.050208
+25424_0055_00012;12;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.341939;47.097347
+25424_0164_00006;6;;Rue des Chênes;25580;25424;Les Premiers Sapins;Rantechaux;;6.374413;47.118458
+25424_0180_00009;9;;Rue de la Paule;25580;25424;Les Premiers Sapins;Vanclans;;6.366463;47.102519
+25424_w3lwme_00064;64;;Sous le Geai;25580;25424;Les Premiers Sapins;Vanclans;;6.379218;47.086549
+25424_0052_00002;2;;Rue de la Mare;25580;25424;Les Premiers Sapins;Nods;;6.338534;47.097369
+25424_0055_00010;10;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.341602;47.097017
+25424_0160_00006;6;;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.372845;47.113443
+25424_0137_00003;3;;Chemin de la Scie;25580;25424;Les Premiers Sapins;Chasnans;;6.315932;47.08573
+25424_66zt9s_00002;2;;Chemin du Tribillery;25580;25424;Les Premiers Sapins;Nods;;6.362982;47.073888
+25424_0080_00001;1;;Rue du Repos;25580;25424;Les Premiers Sapins;Nods;;6.33768;47.097529
+25424_0054_00002;2;;Rue du Mont;25580;25424;Les Premiers Sapins;Nods;;6.34007;47.094296
+25424_0051_00002;2;;Rue des Maisonnettes;25580;25424;Les Premiers Sapins;Nods;;6.335969;47.09664
+25424_0173_00001;1;;Rue du Réservoir;25580;25424;Les Premiers Sapins;Vanclans;;6.363039;47.100957
+25424_0140_00005;5;;Chemin de la Combotte;25580;25424;Les Premiers Sapins;Chasnans;;6.313118;47.08617
+25424_0069_00009;9;;rue de la Pie Grièche;25580;25424;Les Premiers Sapins;Nods;;6.336055;47.100271
+25424_0129_00007;7;;Chemin de la Coulanges;25580;25424;Les Premiers Sapins;Chasnans;;6.31031;47.087475
+25424_0075_00018;18;;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.331348;47.100214
+25424_0005_00004;4;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.292856;47.049407
+25424_0069_00003;3;;rue de la Pie Grièche;25580;25424;Les Premiers Sapins;Nods;;6.335323;47.099964
+25424_0167_00008;8;;Rue du Potet;25580;25424;Les Premiers Sapins;Rantechaux;;6.373552;47.114421
+25424_0162_00002;2;;Rue du Village;25580;25424;Les Premiers Sapins;Rantechaux;;6.373642;47.11291
+25424_0033_00004;4;;Rue de la Forge;25580;25424;Les Premiers Sapins;Nods;;6.339582;47.095487
+25424_0135_00007;7;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.313368;47.085638
+25424_0062_00019;19;;Rue Notre Dame;25580;25424;Les Premiers Sapins;Vanclans;;6.360346;47.099716
+25424_0040_00041;41;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.339226;47.096149
+25424_0066_00002;2;;Rue Pergaud;25580;25424;Les Premiers Sapins;Nods;;6.333945;47.096923
+25424_0040_00026;26;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.339517;47.09484
+25424_0163_00002;2;;Rue des Trembles;25580;25424;Les Premiers Sapins;Rantechaux;;6.375874;47.113
+25424_0082_00002;2;;Rue des Rochets;25580;25424;Les Premiers Sapins;Nods;;6.331309;47.095545
+25424_0160_00016;16;;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.376227;47.11208
+25424_0026_00010_a;10;a;Rue de la Cure;25580;25424;Les Premiers Sapins;Nods;;6.33769;47.096146
+25424_0115_00010;10;;Rue de Lavans-Vuillafans;25580;25424;Les Premiers Sapins;Athose;;6.305414;47.077062
+25424_0135_00024;24;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.309425;47.085649
+25424_0056_00016;16;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.332075;47.097336
+25424_crelxe_00067;67;;La Grange Marlier;25580;25424;Les Premiers Sapins;Vanclans;;6.384434;47.093309
+25424_0160_00008;8;;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.373194;47.113334
+25424_0155_00001;1;;Chemin du Belvedere;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.28593;47.048434
+25424_0134_00014;14;;Route de la Vallée;25580;25424;Les Premiers Sapins;Chasnans;;6.31345;47.084179
+25424_0133_00019;19;;Route de la Vierge;25580;25424;Les Premiers Sapins;Chasnans;;6.319448;47.089553
+25424_0146_00004_bis;4;bis;Chemin du Petit Paris;25580;25424;Les Premiers Sapins;Chasnans;;6.348269;47.074385
+25424_0066_00005;5;;Rue Pergaud;25580;25424;Les Premiers Sapins;Nods;;6.334046;47.096709
+25424_0040_00039;39;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.33888;47.09588
+25424_0111_00002;2;;Route des Fermes;25580;25424;Les Premiers Sapins;Athose;;6.307442;47.075883
+25424_w3lwme_00062;62;;Sous le Geai;25580;25424;Les Premiers Sapins;Vanclans;;6.380983;47.084178
+25424_0135_00027;27;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.309288;47.085449
+25424_0069_00002;2;;rue de la Pie Grièche;25580;25424;Les Premiers Sapins;Nods;;6.335587;47.099563
+25424_0163_00005;5;;Rue des Trembles;25580;25424;Les Premiers Sapins;Rantechaux;;6.377855;47.112869
+25424_0118_00006;6;;Rue du Presbytère;25580;25424;Les Premiers Sapins;Athose;;6.310665;47.078799
+25424_0082_00016;16;;Rue des Rochets;25580;25424;Les Premiers Sapins;Nods;;6.329526;47.095515
+25424_0040_00010;10;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.341153;47.09246
+25424_0075_00020;20;;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.332456;47.0995
+25424_0082_00001;1;;Rue des Rochets;25580;25424;Les Premiers Sapins;Nods;;6.331144;47.095333
+25424_7esmth_00008;8;;Impasse des Noyers;25580;25424;Les Premiers Sapins;Chasnans;;6.313074;47.08629
+25424_rsbtwc_00002;2;;Rue du Cerf;25580;25424;Les Premiers Sapins;Rantechaux;;6.375331;47.113365
+25424_0055_00014;14;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.342194;47.097538
+25424_0140_00003;3;;Chemin de la Combotte;25580;25424;Les Premiers Sapins;Chasnans;;6.312924;47.085994
+25424_0110_00002_a;2;a;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.337183;47.097226
+25424_0054_00007;7;;Rue du Mont;25580;25424;Les Premiers Sapins;Nods;;6.338451;47.093681
+25424_0150_00002;2;;Rue de la Roche;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.288644;47.048864
+25424_0086_00006;6;;rue Soldat Liechti;25580;25424;Les Premiers Sapins;Nods;;6.341185;47.098993
+25424_0086_00015;15;;rue Soldat Liechti;25580;25424;Les Premiers Sapins;Nods;;6.339856;47.099572
+25424_0040_00022;22;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.340077;47.094351
+25424_0086_00012;12;;rue Soldat Liechti;25580;25424;Les Premiers Sapins;Nods;;6.340594;47.099439
+25424_0161_00002;2;;Rue des Tilleuls;25580;25424;Les Premiers Sapins;Rantechaux;;6.370923;47.111319
+25424_0137_00006;6;;Chemin de la Scie;25580;25424;Les Premiers Sapins;Chasnans;;6.315681;47.085008
+25424_0112_00004;4;;Rue de la Salle des Fêtes;25580;25424;Les Premiers Sapins;Athose;;6.309042;47.077534
+25424_0040_00003;3;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.346957;47.090407
+25424_0135_00019;19;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.311935;47.085668
+25424_0111_00001_ter;1;ter;Route des Fermes;25580;25424;Les Premiers Sapins;Athose;;6.308037;47.076529
+25424_0040_00019;19;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.341096;47.093849
+25424_0179_00001_bis;1;bis;Route de Cicon;25580;25424;Les Premiers Sapins;Vanclans;;6.363878;47.09986
+25424_7esmth_00001;1;;Impasse des Noyers;25580;25424;Les Premiers Sapins;Chasnans;;6.312589;47.086273
+25424_0031_00010;10;;Route des Fermes de Cicon;25580;25424;Les Premiers Sapins;Vanclans;;6.364347;47.098338
+25424_a041_00006_bis;6;bis;Hameau du Fourney;25580;25424;Les Premiers Sapins;Athose;;6.33283;47.071838
+25424_0160_00009;9;;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.373911;47.113299
+25424_0165_00004;4;;Rue de la Croix de Bois;25580;25424;Les Premiers Sapins;Rantechaux;;6.370991;47.111627
+25424_0066_00007;7;;Rue Pergaud;25580;25424;Les Premiers Sapins;Nods;;6.333292;47.096414
+25424_0076_00054;54;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.365575;47.104825
+25424_0172_00003;3;;Rue du Petit Mont;25580;25424;Les Premiers Sapins;Vanclans;;6.357195;47.098026
+25424_0040_00019;19;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.340895;47.093875
+25424_0153_00002;2;;Rue du Parc;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.290884;47.049994
+25424_0113_00010;10;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.308731;47.077975
+25424_0132_00003;3;;Chemin de l’Etang;25580;25424;Les Premiers Sapins;Chasnans;;6.311002;47.084693
+25424_0051_00001;1;;Rue des Maisonnettes;25580;25424;Les Premiers Sapins;Nods;;6.336722;47.096784
+25424_31h2qh_00001;1;;Chemin de la Tassonnière;25580;25424;Les Premiers Sapins;Chasnans;;6.293376;47.085147
+25424_0040_00024;24;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.339805;47.094572
+25424_0005_00001;1;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.298124;47.050202
+25424_0005_00015;15;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.292295;47.049292
+25424_0040_00048_a;48;a;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.337263;47.097346
+25424_0167_00005;5;;Rue du Potet;25580;25424;Les Premiers Sapins;Rantechaux;;6.373957;47.114474
+25424_0148_00015;15;;Chemin des Pieces;25580;25424;Les Premiers Sapins;Chasnans;;6.315701;47.088785
+25424_0134_00022;22;;Route de la Vallée;25580;25424;Les Premiers Sapins;Chasnans;;6.31209;47.083094
+25424_0176_00004;4;;Rue de Loyon;25580;25424;Les Premiers Sapins;Vanclans;;6.365142;47.09902
+25424_0052_00001_bis;1;bis;Rue de la Mare;25580;25424;Les Premiers Sapins;Nods;;6.338357;47.097133
+25424_kk2nj9_00003_b;3;b;Rue du Rétameur;25580;25424;Les Premiers Sapins;Nods;;6.335897;47.097239
+25424_0171_00003;3;;Rue des Ormeaux;25580;25424;Les Premiers Sapins;Vanclans;;6.364254;47.103649
+25424_avwrix_00005;5;;Rue de l’Eglise;25580;25424;Les Premiers Sapins;Rantechaux;;6.373555;47.111276
+25424_0055_00034;34;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.340393;47.097564
+25424_0040_00055;55;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.337821;47.097281
+25424_0026_00006;6;;Rue de la Cure;25580;25424;Les Premiers Sapins;Nods;;6.338102;47.095854
+25424_0040_00042;42;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.337943;47.096797
+25424_0027_00004;4;;Rue des Coudres;25580;25424;Les Premiers Sapins;Nods;;6.339158;47.098635
+25424_avwrix_00013;13;;Rue de l’Eglise;25580;25424;Les Premiers Sapins;Rantechaux;;6.371764;47.109776
+25424_0134_00001;1;;Route de la Vallée;25580;25424;Les Premiers Sapins;Chasnans;;6.316151;47.08749
+25424_0139_00009;9;;Chemin du Grand Clos;25580;25424;Les Premiers Sapins;Chasnans;;6.313667;47.085525
+25424_0086_00010;10;;rue Soldat Liechti;25580;25424;Les Premiers Sapins;Nods;;6.340932;47.09927
+25424_0110_00013;13;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.333992;47.096192
+25424_0033_00010;10;;Rue de la Forge;25580;25424;Les Premiers Sapins;Nods;;6.340406;47.09565
+25424_0146_00003;3;;Chemin du Petit Paris;25580;25424;Les Premiers Sapins;Chasnans;;6.349295;47.074564
+25424_0075_00018_b;18;b;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.330928;47.099781
+25424_0040_00017_a;17;a;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.341045;47.09369
+25424_0161_00009;9;;Rue des Tilleuls;25580;25424;Les Premiers Sapins;Rantechaux;;6.369781;47.110243
+25424_0031_00003;3;;Route des Fermes de Cicon;25580;25424;Les Premiers Sapins;Vanclans;;6.36262;47.099756
+25424_0160_00017;17;;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.375697;47.112631
+25424_0066_00003;3;;Rue Pergaud;25580;25424;Les Premiers Sapins;Nods;;6.33463;47.096834
+25424_0054_00001;1;;Rue du Mont;25580;25424;Les Premiers Sapins;Nods;;6.340216;47.093997
+25424_0040_00037;37;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.339125;47.095717
+25424_0150_00001_b;1;b;Rue de la Roche;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.288195;47.048844
+25424_0023_00002;2;;Chemin de la Chenaux;25580;25424;Les Premiers Sapins;Nods;;6.347408;47.09093
+25424_0040_00044;44;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.337902;47.096855
+25424_b708_00068;68;;Cicon du Haut;25580;25424;Les Premiers Sapins;Vanclans;;6.376479;47.097673
+25424_0028_00001;1;;Chemin de la Corvée;25580;25424;Les Premiers Sapins;Nods;;6.334693;47.095393
+25424_7esmth_00004;4;;Impasse des Noyers;25580;25424;Les Premiers Sapins;Chasnans;;6.312886;47.086192
+25424_0163_00007;7;;Rue des Trembles;25580;25424;Les Premiers Sapins;Rantechaux;;6.378369;47.113186
+25424_0113_00007;7;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.308074;47.077643
+25424_0064_00004;4;;Rue du Pelerot;25580;25424;Les Premiers Sapins;Nods;;6.337697;47.097832
+25424_66zt9s_00004;4;;Chemin du Tribillery;25580;25424;Les Premiers Sapins;Nods;;6.363617;47.074482
+25424_0075_00006;6;;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.334536;47.099131
+25424_0090_00003;3;;Rue du Tilleul;25580;25424;Les Premiers Sapins;Nods;;6.338479;47.095277
+25424_0056_00005;5;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.334335;47.097266
+25424_0131_00002;2;;Chemin de la Vie;25580;25424;Les Premiers Sapins;Chasnans;;6.310228;47.086512
+25424_0050_00002_bis;2;bis;Place de la Mairie;25580;25424;Les Premiers Sapins;Nods;;6.338035;47.094451
+25424_0085_00003;3;;Rue de la Scierie;25580;25424;Les Premiers Sapins;Nods;;6.336184;47.098727
+25424_0116_00002;2;;Rue de la Craye;25580;25424;Les Premiers Sapins;Athose;;6.310006;47.077921
+25424_0005_00003;3;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.295016;47.049712
+25424_0131_00004;4;;Chemin de la Vie;25580;25424;Les Premiers Sapins;Chasnans;;6.309723;47.086883
+25424_0134_00007;7;;Route de la Vallée;25580;25424;Les Premiers Sapins;Chasnans;;6.314782;47.085238
+25424_0160_00011;11;;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.374353;47.113171
+25424_0129_00003_bis;3;bis;Chemin de la Coulanges;25580;25424;Les Premiers Sapins;Chasnans;;6.309882;47.08716
+25424_0040_00025;25;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.340348;47.094507
+25424_0115_00001;1;;Rue de Lavans-Vuillafans;25580;25424;Les Premiers Sapins;Athose;;6.306662;47.077143
+25424_0075_00011;11;;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.331692;47.09971
+25424_0160_00019_d;19;d;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.375787;47.112451
+25424_0160_00002_a;2;a;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.372806;47.113767
+25424_0110_00010;10;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.335067;47.096667
+25424_0056_00015;15;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.332785;47.096978
+25424_qepqg9_00001;1;;la Baraque;25580;25424;Les Premiers Sapins;Athose;;6.310776;47.066286
+25424_0118_00004;4;;Rue du Presbytère;25580;25424;Les Premiers Sapins;Athose;;6.309962;47.07839
+25424_0040_00019;19;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.340851;47.093941
+25424_0056_00004;4;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.334056;47.097744
+25424_0151_00005;5;;Rue Emile Lonchampt;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.286601;47.047306
+25424_0056_00021;21;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.331799;47.097281
+25424_0056_00008;8;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.333498;47.097345
+25424_0178_00001;1;;Rue Devant Velle;25580;25424;Les Premiers Sapins;Vanclans;;6.360417;47.098751
+25424_0135_00030;30;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.307816;47.085961
+25424_0134_00016;16;;Route de la Vallée;25580;25424;Les Premiers Sapins;Chasnans;;6.312847;47.084038
+25424_0148_00010;10;;Chemin des Pieces;25580;25424;Les Premiers Sapins;Chasnans;;6.316668;47.088888
+25424_0129_00011;11;;Chemin de la Coulanges;25580;25424;Les Premiers Sapins;Chasnans;;6.311068;47.087383
+25424_0144_00001;1;;Chemin de la Plaine Rouge;25580;25424;Les Premiers Sapins;Chasnans;;6.348726;47.076698
+25424_0069_00006;6;;rue de la Pie Grièche;25580;25424;Les Premiers Sapins;Nods;;6.336134;47.099836
+25424_0055_00019;19;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.339492;47.097331
+25424_0043_00002;2;;Rue Hugonnot;25580;25424;Les Premiers Sapins;Nods;;6.335763;47.098682
+25424_0160_00015;15;;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.375275;47.112967
+25424_0112_00002_a;2;a;Rue de la Salle des Fêtes;25580;25424;Les Premiers Sapins;Athose;;6.309116;47.077737
+25424_0111_00014;14;;Route des Fermes;25580;25424;Les Premiers Sapins;Athose;;6.309365;47.076409
+25424_0148_00004;4;;Chemin des Pieces;25580;25424;Les Premiers Sapins;Chasnans;;6.315995;47.088358
+25424_0086_00004;4;;rue Soldat Liechti;25580;25424;Les Premiers Sapins;Nods;;6.341275;47.098855
+25424_0051_00007;7;;Rue des Maisonnettes;25580;25424;Les Premiers Sapins;Nods;;6.335637;47.096344
+25424_0135_00006;6;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.313954;47.086372
+25424_0113_00001;1;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.306655;47.075852
+25424_0005_00021;21;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.290437;47.048919
+25424_0150_00001_a;1;a;Rue de la Roche;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.288337;47.048833
+25424_0040_00025_bis;25;bis;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.340333;47.094378
+25424_0111_00001;1;;Route des Fermes;25580;25424;Les Premiers Sapins;Athose;;6.308199;47.076382
+25424_0113_00019;19;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.31015;47.080017
+25424_0027_00003;3;;Rue des Coudres;25580;25424;Les Premiers Sapins;Nods;;6.338017;47.099653
+25424_0042_00003;3;;Chemin de la Grosse Aige;25580;25424;Les Premiers Sapins;Nods;;6.346441;47.089824
+25424_0026_00012;12;;Rue de la Cure;25580;25424;Les Premiers Sapins;Nods;;6.336986;47.096309
+25424_0076_00006;6;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.358637;47.098383
+25424_avwrix_00002;2;;Rue de l’Eglise;25580;25424;Les Premiers Sapins;Rantechaux;;6.374852;47.112232
+25424_0135_00024_a;24;a;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.309287;47.085712
+25424_0031_00009;9;;Route des Fermes de Cicon;25580;25424;Les Premiers Sapins;Vanclans;;6.364617;47.099309
+25424_w3lwme_00065;65;;Sous le Geai;25580;25424;Les Premiers Sapins;Vanclans;;6.378969;47.087213
+25424_0175_00001;1;;Rue de la Mairie;25580;25424;Les Premiers Sapins;Vanclans;;6.35971;47.098501
+25424_0062_00002;2;;Rue Notre Dame;25580;25424;Les Premiers Sapins;Vanclans;;6.358395;47.099125
+25424_0167_00012;12;;Rue du Potet;25580;25424;Les Premiers Sapins;Rantechaux;;6.373117;47.113839
+25424_b581_00002;2;;Hameau du Châtelet;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.298409;47.035162
+25424_0161_00002_a;2;a;Rue des Tilleuls;25580;25424;Les Premiers Sapins;Rantechaux;;6.370704;47.111221
+25424_0133_00005;5;;Route de la Vierge;25580;25424;Les Premiers Sapins;Chasnans;;6.317161;47.088512
+25424_0165_00002;2;;Rue de la Croix de Bois;25580;25424;Les Premiers Sapins;Rantechaux;;6.371866;47.111438
+25424_0076_00039;39;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.364991;47.104726
+25424_0148_00021;21;;Chemin des Pieces;25580;25424;Les Premiers Sapins;Chasnans;;6.316112;47.089093
+25424_0173_00002;2;;Rue du Réservoir;25580;25424;Les Premiers Sapins;Vanclans;;6.363466;47.101493
+25424_0148_00002;2;;Chemin des Pieces;25580;25424;Les Premiers Sapins;Chasnans;;6.31582;47.088118
+25424_0040_00038;38;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.338067;47.096469
+25424_0033_00005;5;;Rue de la Forge;25580;25424;Les Premiers Sapins;Nods;;6.340441;47.09599
+25424_0164_00004;4;;Rue des Chênes;25580;25424;Les Premiers Sapins;Rantechaux;;6.374449;47.116452
+25424_0076_00005;5;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.358788;47.098791
+25424_0153_00006;6;;Rue du Parc;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.290361;47.049562
+25424_0113_00018;18;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.31025;47.079561
+25424_0151_00009;9;;Rue Emile Lonchampt;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.288826;47.047982
+25424_0139_00003;3;;Chemin du Grand Clos;25580;25424;Les Premiers Sapins;Chasnans;;6.3144;47.085905
+25424_0110_00015;15;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.333537;47.096028
+25424_0163_00001_a;1;a;Rue des Trembles;25580;25424;Les Premiers Sapins;Rantechaux;;6.375971;47.113225
+25424_0040_00043_bis;43;bis;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.339008;47.096152
+25424_0062_00007;7;;Rue Notre Dame;25580;25424;Les Premiers Sapins;Vanclans;;6.35893;47.099536
+25424_0075_00003;3;;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.334244;47.098885
+25424_0110_00002;2;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.337223;47.097177
+25424_0044_00001;1;;Impasse des Jardins;25580;25424;Les Premiers Sapins;Nods;;6.338792;47.096379
+25424_0178_00007;7;;Rue Devant Velle;25580;25424;Les Premiers Sapins;Vanclans;;6.362043;47.097264
+25424_avwrix_00008;8;;Rue de l’Eglise;25580;25424;Les Premiers Sapins;Rantechaux;;6.37183;47.110666
+25424_0040_00007;7;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.34287;47.092051
+25424_0167_00007;7;;Rue du Potet;25580;25424;Les Premiers Sapins;Rantechaux;;6.373994;47.114181
+25424_0040_00021;21;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.340784;47.094139
+25424_b581_00003;3;;Hameau du Châtelet;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.299044;47.035808
+25424_0113_00013_bis;13;bis;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.308905;47.078403
+25424_a041_00010;10;;Hameau du Fourney;25580;25424;Les Premiers Sapins;Athose;;6.332409;47.071229
+25424_0040_00049;49;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.338623;47.096565
+25424_0136_00003;3;;Chemin des Fontaines;25580;25424;Les Premiers Sapins;Chasnans;;6.314711;47.086217
+25424_0122_00002;2;;Rue des Epinettes;25580;25424;Les Premiers Sapins;Athose;;6.309137;47.079261
+25424_0064_00003_bis;3;bis;Rue du Pelerot;25580;25424;Les Premiers Sapins;Nods;;6.337388;47.098995
+25424_0085_00006;6;;Rue de la Scierie;25580;25424;Les Premiers Sapins;Nods;;6.337112;47.098118
+25424_0082_00009;9;;Rue des Rochets;25580;25424;Les Premiers Sapins;Nods;;6.329829;47.095268
+25424_0172_00004;4;;Rue du Petit Mont;25580;25424;Les Premiers Sapins;Vanclans;;6.357911;47.098526
+25424_0135_00005;5;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.313684;47.085808
+25424_0142_00004;4;;Route du Haut Doubs;25580;25424;Les Premiers Sapins;Chasnans;;6.349581;47.073781
+25424_0148_00003;3;;Chemin des Pieces;25580;25424;Les Premiers Sapins;Chasnans;;6.31556;47.088394
+25424_0135_00020;20;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.3114;47.085932
+25424_0069_00005;5;;rue de la Pie Grièche;25580;25424;Les Premiers Sapins;Nods;;6.33554;47.100062
+25424_0137_00002;2;;Chemin de la Scie;25580;25424;Les Premiers Sapins;Chasnans;;6.31485;47.085772
+25424_0040_00031_ter;31;ter;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.339706;47.09529
+25424_0042_00002;2;;Chemin de la Grosse Aige;25580;25424;Les Premiers Sapins;Nods;;6.345959;47.090245
+25424_0175_00002;2;;Rue de la Mairie;25580;25424;Les Premiers Sapins;Vanclans;;6.359531;47.09854
+25424_0005_00027;27;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.288235;47.048462
+25424_1pygp5_00001;1;;Rue du Repos;25580;25424;Les Premiers Sapins;Athose;;6.309672;47.07903
+25424_0110_00001;1;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.337697;47.097013
+25424_0110_00023;23;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.331541;47.095241
+25424_0062_00005;5;;Rue Notre Dame;25580;25424;Les Premiers Sapins;Vanclans;;6.358992;47.099471
+25424_0119_00007;7;;Rue de la Perrière;25580;25424;Les Premiers Sapins;Athose;;6.305064;47.075229
+25424_0055_00013;13;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.340336;47.097052
+25424_0161_00005_bis;5;bis;Rue des Tilleuls;25580;25424;Les Premiers Sapins;Rantechaux;;6.370583;47.110304
+25424_0005_00027_a;27;a;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.288368;47.048418
+25424_0082_00006;6;;Rue des Rochets;25580;25424;Les Premiers Sapins;Nods;;6.330921;47.095926
+25424_0110_00001_bis;1;bis;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.337487;47.096873
+25424_b620_00001;1;;Route d’Hautepierre;25580;25424;Les Premiers Sapins;Chasnans;;6.349886;47.075176
+25424_0040_00013;13;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.34126;47.093146
+25424_0110_00029;29;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.330599;47.094369
+25424_0055_00007;7;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.34016;47.096466
+25424_0148_00023;23;;Chemin des Pieces;25580;25424;Les Premiers Sapins;Chasnans;;6.316316;47.089032
+25424_0064_00001;1;;Rue du Pelerot;25580;25424;Les Premiers Sapins;Nods;;6.337742;47.098191
+25424_0121_00002;2;;chemin des Mûriers;25580;25424;Les Premiers Sapins;Athose;;6.308855;47.080286
+25424_0076_00038;38;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.364496;47.102035
+25424_0082_00008;8;;Rue des Rochets;25580;25424;Les Premiers Sapins;Nods;;6.330709;47.096148
+25424_0135_00018;18;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.311667;47.086056
+25424_0113_00005_bis;5;bis;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.307603;47.077305
+25424_0056_00007;7;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.334082;47.097217
+25424_odacje_00001;1;;Chemin de l’Olivier;25580;25424;Les Premiers Sapins;Chasnans;;6.320856;47.093686
+25424_0135_00021;21;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.310663;47.085486
+25424_0115_00008;8;;Rue de Lavans-Vuillafans;25580;25424;Les Premiers Sapins;Athose;;6.305764;47.077167
+25424_0111_00008;8;;Route des Fermes;25580;25424;Les Premiers Sapins;Athose;;6.307904;47.076159
+25424_0180_00005;5;;Rue de la Paule;25580;25424;Les Premiers Sapins;Vanclans;;6.366571;47.103111
+25424_0113_00006;6;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.307749;47.076784
+25424_0040_00009_bis;9;bis;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.341601;47.092638
+25424_7esmth_00002;2;;Impasse des Noyers;25580;25424;Les Premiers Sapins;Chasnans;;6.312918;47.086121
+25424_0005_00025;25;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.289084;47.048572
+25424_0076_00007;7;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.35926;47.09878
+25424_0131_00001_b;1;b;Chemin de la Vie;25580;25424;Les Premiers Sapins;Chasnans;;6.309896;47.086223
+25424_0031_00008;8;;Route des Fermes de Cicon;25580;25424;Les Premiers Sapins;Vanclans;;6.364021;47.098674
+25424_0026_00010;10;;Rue de la Cure;25580;25424;Les Premiers Sapins;Nods;;6.337691;47.09589
+25424_0040_00035;35;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.339128;47.095565
+25424_0076_00004;4;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.356983;47.099635
+25424_0040_00023;23;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.340513;47.094311
+25424_0080_00002;2;;Rue du Repos;25580;25424;Les Premiers Sapins;Nods;;6.339256;47.09756
+25424_0120_00006;6;;Chemin des Grands Champs;25580;25424;Les Premiers Sapins;Athose;;6.304946;47.077515
+25424_0177_00002;2;;Rue de la Fromagerie;25580;25424;Les Premiers Sapins;Vanclans;;6.359053;47.098854
+25424_0076_00001;1;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.358451;47.09902
+25424_0076_00042;42;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.36489;47.102897
+25424_0062_00017;17;;Rue Notre Dame;25580;25424;Les Premiers Sapins;Vanclans;;6.360071;47.09974
+25424_kk2nj9_00003_c;3;c;Rue du Rétameur;25580;25424;Les Premiers Sapins;Nods;;6.336001;47.097237
+25424_0138_00002;2;;Chemin du Parterre;25580;25424;Les Premiers Sapins;Chasnans;;6.314091;47.086809
+25424_0131_00003;3;;Chemin de la Vie;25580;25424;Les Premiers Sapins;Chasnans;;6.309662;47.086434
+25424_0148_00008;8;;Chemin des Pieces;25580;25424;Les Premiers Sapins;Chasnans;;6.31651;47.088711
+25424_0080_00007;7;;Rue du Repos;25580;25424;Les Premiers Sapins;Nods;;6.338791;47.097986
+25424_0076_00011;11;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.359845;47.098891
+25424_0080_00021;21;;Rue du Repos;25580;25424;Les Premiers Sapins;Nods;;6.341942;47.09898
+25424_0076_00050;50;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.36539;47.104338
+25424_0120_00008;8;;Chemin des Grands Champs;25580;25424;Les Premiers Sapins;Athose;;6.304705;47.077293
+25424_0119_00001;1;;Rue de la Perrière;25580;25424;Les Premiers Sapins;Athose;;6.306527;47.07578
+25424_0134_00006;6;;Route de la Vallée;25580;25424;Les Premiers Sapins;Chasnans;;6.314637;47.0858
+25424_0146_00002;2;;Chemin du Petit Paris;25580;25424;Les Premiers Sapins;Chasnans;;6.34886;47.074676
+25424_0160_00010_c;10;c;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.375026;47.112667
+25424_0075_00014;14;;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.33242;47.100421
+25424_0152_00001;1;;Rue du Four;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.287212;47.047942
+25424_0129_00015;15;;Chemin de la Coulanges;25580;25424;Les Premiers Sapins;Chasnans;;6.311705;47.089328
+25424_0163_00003;3;;Rue des Trembles;25580;25424;Les Premiers Sapins;Rantechaux;;6.377488;47.1128
+25424_0133_00003;3;;Route de la Vierge;25580;25424;Les Premiers Sapins;Chasnans;;6.316891;47.088269
+25424_0118_00010;10;;Rue du Presbytère;25580;25424;Les Premiers Sapins;Athose;;6.31071;47.078993
+25424_0173_00011;11;;Rue du Réservoir;25580;25424;Les Premiers Sapins;Vanclans;;6.360582;47.10022
+25424_0135_00014;14;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.312647;47.086007
+25424_0086_00011;11;;rue Soldat Liechti;25580;25424;Les Premiers Sapins;Nods;;6.340011;47.099203
+25424_0110_00006;6;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.335858;47.096888
+25424_0055_00026;26;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.340868;47.097893
+25424_0075_00001;1;;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.334873;47.098188
+25424_0129_00003;3;;Chemin de la Coulanges;25580;25424;Les Premiers Sapins;Chasnans;;6.310219;47.086918
+25424_0042_00001;1;;Chemin de la Grosse Aige;25580;25424;Les Premiers Sapins;Nods;;6.346338;47.090045
+25424_0040_00052;52;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.336025;47.097466
+25424_0133_00002;2;;Route de la Vierge;25580;25424;Les Premiers Sapins;Chasnans;;6.316365;47.087596
+25424_0160_00020;20;;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.377702;47.111903
+25424_0040_00008;8;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.341706;47.092298
+25424_w3lwme_00063;63;;Sous le Geai;25580;25424;Les Premiers Sapins;Vanclans;;6.378366;47.08595
+25424_0040_00048_b;48;b;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.33718;47.097303
+25424_0139_00007;7;;Chemin du Grand Clos;25580;25424;Les Premiers Sapins;Chasnans;;6.313712;47.085234
+25424_0031_00003_bis;3;bis;Route des Fermes de Cicon;25580;25424;Les Premiers Sapins;Vanclans;;6.362866;47.099898
+25424_0172_00001;1;;Rue du Petit Mont;25580;25424;Les Premiers Sapins;Vanclans;;6.357798;47.098162
+25424_0086_00003;3;;rue Soldat Liechti;25580;25424;Les Premiers Sapins;Nods;;6.340868;47.098893
+25424_b581_00004;4;;Hameau du Châtelet;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.298843;47.035221
+25424_0110_00016;16;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.333556;47.096369
+25424_0055_00021;21;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.339566;47.097756
+25424_0150_00005;5;;Rue de la Roche;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.28917;47.049477
+25424_0076_00032;32;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.36427;47.100924
+25424_0054_00002_a;2;a;Rue du Mont;25580;25424;Les Premiers Sapins;Nods;;6.339957;47.094269
+25424_0064_00012;12;;Rue du Pelerot;25580;25424;Les Premiers Sapins;Nods;;6.337297;47.099825
+25424_0134_00018;18;;Route de la Vallée;25580;25424;Les Premiers Sapins;Chasnans;;6.312747;47.083684
+25424_0055_00036;36;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.340159;47.097661
+25424_0075_00008;8;;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.334476;47.099783
+25424_0076_00015;15;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.36167;47.099589
+25424_0076_00040;40;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.364618;47.102318
+25424_b744_00066;66;;La Grange Gourmand;25580;25424;Les Premiers Sapins;Vanclans;;6.384968;47.09225
+25424_0005_00023;23;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.289663;47.048737
+25424_0148_00017;17;;Chemin des Pieces;25580;25424;Les Premiers Sapins;Chasnans;;6.315587;47.088935
+25424_0064_00003;3;;Rue du Pelerot;25580;25424;Les Premiers Sapins;Nods;;6.337354;47.098514
+25424_0064_00005;5;;Rue du Pelerot;25580;25424;Les Premiers Sapins;Nods;;6.337082;47.099401
+25424_0129_00001;1;;Chemin de la Coulanges;25580;25424;Les Premiers Sapins;Chasnans;;6.310447;47.086862
+25424_0055_00020;20;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.341452;47.097993
+25424_0076_00017;17;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.361636;47.099897
+25424_0112_00001;1;;Rue de la Salle des Fêtes;25580;25424;Les Premiers Sapins;Athose;;6.309278;47.077611
+25424_0162_00006;6;;Rue du Village;25580;25424;Les Premiers Sapins;Rantechaux;;6.373889;47.112267
+25424_0151_00004;4;;Rue Emile Lonchampt;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.286018;47.046955
+25424_0055_00002;2;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.341217;47.09678
+25424_0113_00016;16;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.309873;47.07913
+25424_0133_00009;9;;Route de la Vierge;25580;25424;Les Premiers Sapins;Chasnans;;6.317772;47.088834
+25424_0040_00016;16;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.340573;47.093658
+25424_0055_00038;38;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.339969;47.097878
+25424_0076_00009;9;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.359562;47.098753
+25424_0148_00019;19;;Chemin des Pieces;25580;25424;Les Premiers Sapins;Chasnans;;6.315741;47.089106
+25424_0082_00003;3;;Rue des Rochets;25580;25424;Les Premiers Sapins;Nods;;6.330841;47.095487
+25424_0040_00054;54;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.33496;47.097687
+25424_0026_00008;8;;Rue de la Cure;25580;25424;Les Premiers Sapins;Nods;;6.337912;47.09583
+25424_0135_00022;22;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.309625;47.085683
+25424_0155_00002;2;;Chemin du Belvedere;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.286253;47.048205
+25424_0112_00010;10;;Rue de la Salle des Fêtes;25580;25424;Les Premiers Sapins;Athose;;6.308685;47.077059
+25424_6h72vy_00070;70;;Les Coudres;25580;25424;Les Premiers Sapins;Vanclans;;6.349937;47.104246
+25424_0165_00001;1;;Rue de la Croix de Bois;25580;25424;Les Premiers Sapins;Rantechaux;;6.371533;47.110908
+25424_0062_00010;10;;Rue Notre Dame;25580;25424;Les Premiers Sapins;Vanclans;;6.360549;47.099239
+25424_0133_00001;1;;Route de la Vierge;25580;25424;Les Premiers Sapins;Chasnans;;6.3165;47.088103
+25424_0134_00002;2;;Route de la Vallée;25580;25424;Les Premiers Sapins;Chasnans;;6.315177;47.087042
+25424_0055_00005;5;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.340323;47.096653
+25424_0110_00005;5;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.335933;47.096716
+25424_0115_00003;3;;Rue de Lavans-Vuillafans;25580;25424;Les Premiers Sapins;Athose;;6.306586;47.076919
+25424_0113_00005;5;;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.307839;47.077186
+25424_0080_00006;6;;Rue du Repos;25580;25424;Les Premiers Sapins;Nods;;6.339809;47.098195
+25424_0075_00009;9;;Rue des Premiers Sapins;25580;25424;Les Premiers Sapins;Nods;;6.332001;47.099993
+25424_0110_00022;22;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.331711;47.095674
+25424_0163_00009;9;;Rue des Trembles;25580;25424;Les Premiers Sapins;Rantechaux;;6.378987;47.113354
+25424_0166_00004;4;;Chemin de Traverse;25580;25424;Les Premiers Sapins;Rantechaux;;6.374406;47.112611
+25424_0136_00005;5;;Chemin des Fontaines;25580;25424;Les Premiers Sapins;Chasnans;;6.315188;47.086388
+25424_avwrix_00006;6;;Rue de l’Eglise;25580;25424;Les Premiers Sapins;Rantechaux;;6.372014;47.110896
+25424_0086_00005;5;;rue Soldat Liechti;25580;25424;Les Premiers Sapins;Nods;;6.340274;47.098883
+25424_0163_00003_a;3;a;Rue des Trembles;25580;25424;Les Premiers Sapins;Rantechaux;;6.376675;47.112992
+25424_0056_00011;11;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.333363;47.0971
+25424_0110_00004;4;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.336514;47.097235
+25424_0175_00004;4;;Rue de la Mairie;25580;25424;Les Premiers Sapins;Vanclans;;6.359522;47.098232
+25424_0111_00010_bis;10;bis;Route des Fermes;25580;25424;Les Premiers Sapins;Athose;;6.308384;47.076325
+25424_0056_00010;10;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.333213;47.097492
+25424_0111_00012;12;;Route des Fermes;25580;25424;Les Premiers Sapins;Athose;;6.308951;47.076248
+25424_0005_00033;33;;Route des Cerisiers;25580;25424;Les Premiers Sapins;Hautepierre-le-Châtelet;;6.287305;47.04808
+25424_0179_00001;1;;Route de Cicon;25580;25424;Les Premiers Sapins;Vanclans;;6.363984;47.099839
+25424_0090_00002;2;;Rue du Tilleul;25580;25424;Les Premiers Sapins;Nods;;6.338858;47.095376
+25424_0160_00019_ter;19;ter;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.376467;47.112339
+25424_0040_00048;48;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.337357;47.097378
+25424_r3yjnv_00005;5;;Le Sapey;25580;25424;Les Premiers Sapins;Athose;;6.336294;47.065786
+25424_0146_00006;6;;Chemin du Petit Paris;25580;25424;Les Premiers Sapins;Chasnans;;6.34769;47.074736
+25424_0131_00008;8;;Chemin de la Vie;25580;25424;Les Premiers Sapins;Chasnans;;6.309259;47.087418
+25424_0133_00007;7;;Route de la Vierge;25580;25424;Les Premiers Sapins;Chasnans;;6.317475;47.08862
+25424_0069_00010;10;;rue de la Pie Grièche;25580;25424;Les Premiers Sapins;Nods;;6.336559;47.100089
+25424_0112_00012;12;;Rue de la Salle des Fêtes;25580;25424;Les Premiers Sapins;Athose;;6.308554;47.076631
+25424_0133_00017;17;;Route de la Vierge;25580;25424;Les Premiers Sapins;Chasnans;;6.319065;47.089501
+25424_0148_00007;7;;Chemin des Pieces;25580;25424;Les Premiers Sapins;Chasnans;;6.31491;47.088489
+25424_0148_00001;1;;Chemin des Pieces;25580;25424;Les Premiers Sapins;Chasnans;;6.315414;47.088018
+25424_0110_00009;9;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.334471;47.096268
+25424_0120_00012;12;;Chemin des Grands Champs;25580;25424;Les Premiers Sapins;Athose;;6.30591;47.078049
+25424_0163_00008;8;;Rue des Trembles;25580;25424;Les Premiers Sapins;Rantechaux;;6.378667;47.113037
+25424_0056_00014;14;;Rue des Neules;25580;25424;Les Premiers Sapins;Nods;;6.332532;47.097423
+25424_0052_00004;4;;Rue de la Mare;25580;25424;Les Premiers Sapins;Nods;;6.33874;47.097436
+25424_0172_00006;6;;Rue du Petit Mont;25580;25424;Les Premiers Sapins;Vanclans;;6.357246;47.098328
+25424_0167_00001;1;;Rue du Potet;25580;25424;Les Premiers Sapins;Rantechaux;;6.37374;47.115476
+25424_0062_00021;21;;Rue Notre Dame;25580;25424;Les Premiers Sapins;Vanclans;;6.360689;47.099374
+25424_0160_00019_c;19;c;Grande Rue de Rantechaux;25580;25424;Les Premiers Sapins;Rantechaux;;6.375725;47.112405
+25424_0040_00009;9;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.341431;47.092767
+25424_0040_00046;46;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.337852;47.096912
+25424_0062_00009;9;;Rue Notre Dame;25580;25424;Les Premiers Sapins;Vanclans;;6.359413;47.099465
+25424_0085_00004;4;;Rue de la Scierie;25580;25424;Les Premiers Sapins;Nods;;6.336738;47.098035
+25424_0055_00028;28;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.34121;47.097778
+25424_0062_00019_b;19;b;Rue Notre Dame;25580;25424;Les Premiers Sapins;Vanclans;;6.360549;47.099393
+25424_0040_00043;43;;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.338702;47.096112
+25424_0113_00006_bis;6;bis;Grande Rue d’Athose;25580;25424;Les Premiers Sapins;Athose;;6.307897;47.076936
+25424_0119_00001_bis;1;bis;Rue de la Perrière;25580;25424;Les Premiers Sapins;Athose;;6.306458;47.075734
+25424_0026_00007;7;;Rue de la Cure;25580;25424;Les Premiers Sapins;Nods;;6.33665;47.096197
+25424_0085_00005;5;;Rue de la Scierie;25580;25424;Les Premiers Sapins;Nods;;6.335688;47.099078
+25424_0062_00013;13;;Rue Notre Dame;25580;25424;Les Premiers Sapins;Vanclans;;6.359419;47.099826
+25424_0134_00005;5;;Route de la Vallée;25580;25424;Les Premiers Sapins;Chasnans;;6.31544;47.086856
+25424_0076_00031;31;;Rue Principale;25580;25424;Les Premiers Sapins;Vanclans;;6.364517;47.103212
+25424_0167_00002_bis;2;bis;Rue du Potet;25580;25424;Les Premiers Sapins;Rantechaux;;6.373008;47.115484
+25424_0110_00007;7;;Rue de la Vallée;25580;25424;Les Premiers Sapins;Nods;;6.334724;47.0964
+25424_0120_00001;1;;Chemin des Grands Champs;25580;25424;Les Premiers Sapins;Athose;;6.306025;47.077346
+25424_0064_00006;6;;Rue du Pelerot;25580;25424;Les Premiers Sapins;Nods;;6.338109;47.09809
+25424_0040_00027_bis;27;bis;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.340155;47.094677
+25424_0031_00001;1;;Route des Fermes de Cicon;25580;25424;Les Premiers Sapins;Vanclans;;6.362566;47.099737
+25424_0033_00003;3;;Rue de la Forge;25580;25424;Les Premiers Sapins;Nods;;6.339487;47.095554
+25424_0055_00022;22;;Clos du Moulin;25580;25424;Les Premiers Sapins;Nods;;6.341167;47.098092
+25424_0050_00004;4;;Place de la Mairie;25580;25424;Les Premiers Sapins;Nods;;6.339346;47.09458
+25424_0031_00007;7;;Route des Fermes de Cicon;25580;25424;Les Premiers Sapins;Vanclans;;6.364424;47.099284
+25424_0133_00011;11;;Route de la Vierge;25580;25424;Les Premiers Sapins;Chasnans;;6.318171;47.088907
+25424_b620_00002;2;;Route d’Hautepierre;25580;25424;Les Premiers Sapins;Chasnans;;6.34381;47.075786
+25424_0086_00013;13;;rue Soldat Liechti;25580;25424;Les Premiers Sapins;Nods;;6.340014;47.099414
+25424_0082_00010;10;;Rue des Rochets;25580;25424;Les Premiers Sapins;Nods;;6.330442;47.096011
+25424_0135_00013;13;;Route des Grands Champs;25580;25424;Les Premiers Sapins;Chasnans;;6.312524;47.085806
+25424_0040_00003_bis;3;bis;Grande Rue;25580;25424;Les Premiers Sapins;Nods;;6.34667;47.090632
+25424_0085_00012;12;;Rue de la Scierie;25580;25424;Les Premiers Sapins;Nods;;6.336174;47.099117

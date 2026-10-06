@@ -1,0 +1,901 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+61232_0050_00010;10;;Place Jules Levée;61700;61232;Lonlay-l'Abbaye;;;-0.709347;48.647109
+61232_0226_00750;750;;Chemin du Mont;61700;61232;Lonlay-l'Abbaye;;Sur le Mont;-0.714991;48.635279
+61232_0264_00015;15;;Chemin de la Thélinière;61700;61232;Lonlay-l'Abbaye;;La Thomassière;-0.687291;48.655992
+61232_0249_00321;321;;Chemin de la Retoudière;61700;61232;Lonlay-l'Abbaye;;La Retoudière;-0.709387;48.659315
+61232_m76mr1_00068;68;;Impasse d'Hélène;61700;61232;Lonlay-l'Abbaye;;Le Nézement;-0.745965;48.658017
+61232_0248_00701;701;;Chemin de la Reinière;61700;61232;Lonlay-l'Abbaye;;La Reinière;-0.685633;48.66269
+61232_0173_00599;599;;Chemin de la Douardière;61700;61232;Lonlay-l'Abbaye;;La Douardière;-0.682269;48.653129
+61232_0155_00004;4;;Chemin du Carrefour;61700;61232;Lonlay-l'Abbaye;;La Logerie;-0.70781;48.649443
+61232_0244_00287;287;;Chemin du Puy;61700;61232;Lonlay-l'Abbaye;;Le Puy;-0.742618;48.658366
+61232_0156_01314;1314;;Chemin du Cerisier;61700;61232;Lonlay-l'Abbaye;;Le Cerisier;-0.755855;48.635913
+61232_0121_00014;14;;Route du Stade;61700;61232;Lonlay-l'Abbaye;;;-0.710391;48.64092
+61232_0050_00003;3;;Place Jules Levée;61700;61232;Lonlay-l'Abbaye;;;-0.709892;48.647014
+61232_0239_00065;65;;Impasse de la Petite Reinière;61700;61232;Lonlay-l'Abbaye;;La Petite Reinière;-0.67892;48.65987
+61232_0050_00013;13;;Place Jules Levée;61700;61232;Lonlay-l'Abbaye;;;-0.709459;48.646822
+61232_0140_00247;247;;Chemin du Bois Viel;61700;61232;Lonlay-l'Abbaye;;Le Bois Viel;-0.67336;48.659633
+61232_0050_00014;14;;Place Jules Levée;61700;61232;Lonlay-l'Abbaye;;;-0.709527;48.646801
+61232_0200_01661;1661;;Route de Grille-Souris;61700;61232;Lonlay-l'Abbaye;;Beau Soleil;-0.726277;48.632123
+61232_0121_00007;7;;Route du Stade;61700;61232;Lonlay-l'Abbaye;;;-0.710852;48.643499
+61232_0189_00136;136;;Chemin de la Fouquière;61700;61232;Lonlay-l'Abbaye;;La Fouquière;-0.657423;48.643189
+61232_0152_00456;456;;Chemin de la Bunoudière;61700;61232;Lonlay-l'Abbaye;;La Bunoudière;-0.667698;48.63319
+61232_a003_00015;15;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.711025;48.641252
+61232_0145_00560;560;;Chemin de la Bouscaudière;61700;61232;Lonlay-l'Abbaye;;La Bouscaudière;-0.675862;48.633586
+61232_0040_00003;3;;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.709771;48.647492
+61232_0163_00201;201;;Chemin de la Chauvinière;61700;61232;Lonlay-l'Abbaye;;La Chauvinière;-0.716959;48.656218
+61232_0172_00741;741;;Chemin de la Couvrie;61700;61232;Lonlay-l'Abbaye;;Les Fressandières;-0.71298;48.624974
+61232_0134_00890;890;;Chemin des Barres;61700;61232;Lonlay-l'Abbaye;;Les Barres;-0.700656;48.666003
+61232_0123_00011;11;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;La Logerie;-0.708939;48.64963
+61232_0121_00004_bis;4;bis;Route du Stade;61700;61232;Lonlay-l'Abbaye;;Pôle Santé;-0.711654;48.644005
+61232_0120_00001;1;;Place Saint Sauveur;61700;61232;Lonlay-l'Abbaye;;;-0.70987;48.645733
+61232_0120_00002_a;2;a;Place Saint Sauveur;61700;61232;Lonlay-l'Abbaye;;salon de coiffure;-0.709961;48.645624
+61232_0233_00059;59;;Chemin de la Passée Bouvet;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.697737;48.647693
+61232_0175_00015;15;;Route de l'Épine-Orbière;61700;61232;Lonlay-l'Abbaye;;L'Épine-Orbière;-0.657492;48.669339
+61232_0228_00167;167;;Chemin du Moulin de Bridé;61700;61232;Lonlay-l'Abbaye;;Moulin de Bridé;-0.723276;48.663172
+61232_0246_00424;424;;Chemin de Ranfougeray;61700;61232;Lonlay-l'Abbaye;;Ranfougeray;-0.694514;48.643577
+61232_0123_00002;2;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;;-0.70413;48.64548
+61232_0265_00092;92;;Chemin de la Thomassière;61700;61232;Lonlay-l'Abbaye;;La Thomassière;-0.687445;48.654115
+61232_0120_00002;2;;Place Saint Sauveur;61700;61232;Lonlay-l'Abbaye;;;-0.709944;48.645664
+61232_0222_00889;889;;Chemin de la Macère;61700;61232;Lonlay-l'Abbaye;;La Macère;-0.674424;48.649251
+61232_0100_00006;6;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.708544;48.647104
+61232_0247_00003;3;;Chemin de la Réauté;61700;61232;Lonlay-l'Abbaye;;La Réauté;-0.646799;48.636882
+61232_0040_00006;6;;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.709429;48.647699
+61232_a003_00020;20;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.71207;48.641242
+61232_0186_00125;125;;Chemin de la Foisonnière;61700;61232;Lonlay-l'Abbaye;;La Foisonnière;-0.671255;48.626649
+61232_0181_02254;2254;;Route de l'Être-Chédeville;61700;61232;Lonlay-l'Abbaye;;L'Être-Chédeville;-0.740548;48.664395
+61232_0191_00120;120;;Route de Froidebise;61700;61232;Lonlay-l'Abbaye;;La Favrie;-0.713276;48.649498
+61232_0185_04699;4699;;Route de Flers;61700;61232;Lonlay-l'Abbaye;;L'Épine Orbière;-0.658247;48.669523
+61232_0263_00571;571;;Chemin du Tertre;61700;61232;Lonlay-l'Abbaye;;Le Tertre;-0.716794;48.645482
+61232_0020_00019;19;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.710209;48.646699
+61232_0181_00340;340;;Route de l'Être-Chédeville;61700;61232;Lonlay-l'Abbaye;;La Bistière;-0.722555;48.657306
+61232_a005_00007;7;;Lotissement le Val;61700;61232;Lonlay-l'Abbaye;;;-0.715086;48.642549
+61232_0193_00041;41;;Allée Gallo-Romaine;61700;61232;Lonlay-l'Abbaye;;Les Bordeaux;-0.697711;48.689575
+61232_0262_01530;1530;;Route de la Tablère;61700;61232;Lonlay-l'Abbaye;;Les Bruyères-l'Abbé;-0.734981;48.646785
+61232_0248_00453;453;;Chemin de la Reinière;61700;61232;Lonlay-l'Abbaye;;La Reinière;-0.682615;48.661831
+61232_0135_00499;499;;Chemin de la Barthelière;61700;61232;Lonlay-l'Abbaye;;La Barthelière;-0.657924;48.637858
+61232_0159_00809;809;;Route de Chanu;61700;61232;Lonlay-l'Abbaye;;La Villière;-0.662027;48.676158
+61232_0143_08110;8110;;Route des Bordeaux;61700;61232;Lonlay-l'Abbaye;;Les Bordeaux;-0.696818;48.687642
+61232_0202_00651;651;;Chemin de la Guélinière;61700;61232;Lonlay-l'Abbaye;;La Guélinière;-0.694009;48.639214
+61232_a005_00011;11;;Lotissement le Val;61700;61232;Lonlay-l'Abbaye;;;-0.714738;48.642151
+61232_0177_00186;186;;Chemin de l'Érrerie;61700;61232;Lonlay-l'Abbaye;;L'Érrerie;-0.729671;48.632228
+61232_0159_00933;933;;Route de Chanu;61700;61232;Lonlay-l'Abbaye;;La Villière;-0.662576;48.677062
+61232_0121_00006;6;;Route du Stade;61700;61232;Lonlay-l'Abbaye;;;-0.711528;48.64378
+61232_0123_00026;26;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;;-0.707984;48.648804
+61232_0123_00006;6;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;;-0.705853;48.645888
+61232_0238_00050;50;;Impasse de la Petite Maison;61700;61232;Lonlay-l'Abbaye;;La Foisonniere;-0.672766;48.626561
+61232_0145_00449;449;;Chemin de la Bouscaudière;61700;61232;Lonlay-l'Abbaye;;La Bouscaudière;-0.676917;48.632899
+61232_0155_00002;2;;Chemin du Carrefour;61700;61232;Lonlay-l'Abbaye;;La Logerie;-0.708325;48.649434
+61232_0196_03350;3350;;Route de Ger;61700;61232;Lonlay-l'Abbaye;;Le Bout du Tertre;-0.755542;48.660268
+61232_0059_00002;2;;Impasse du Moulin;61700;61232;Lonlay-l'Abbaye;;Appartements A,B,C,D;-0.710705;48.645589
+61232_0144_00150;150;;Chemin de la Bourbissière;61700;61232;Lonlay-l'Abbaye;;La Bourbissière;-0.747234;48.664104
+61232_0205_00384;384;;Chemin des Guernelles;61700;61232;Lonlay-l'Abbaye;;Les Guernelles;-0.669706;48.67048
+61232_0262_03430;3430;;Route de la Tablère;61700;61232;Lonlay-l'Abbaye;;La Tablère;-0.760516;48.64562
+61232_0199_00004;4;;Impasse du Grand Pré;61700;61232;Lonlay-l'Abbaye;;Le Grand Pré;-0.709906;48.641868
+61232_0254_01460;1460;;Route de Rouellé;61700;61232;Lonlay-l'Abbaye;;La Provostière Montaufray;-0.706403;48.628665
+61232_0250_00857;857;;Chemin de la Roche au Vesque;61700;61232;Lonlay-l'Abbaye;;La Roche au Vesque;-0.652618;48.628995
+61232_0019_00011;11;;Route de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.698434;48.647767
+61232_0269_00261;261;;Chemin de la Verdrie;61700;61232;Lonlay-l'Abbaye;;La Verdrie;-0.699035;48.623339
+61232_0123_01112;1112;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;Le Carrefour - Dépôt Biscuiterie;-0.70726;48.652275
+61232_0175_00016;16;;Route de l'Épine-Orbière;61700;61232;Lonlay-l'Abbaye;;L'Épine-Orbière;-0.657738;48.669256
+61232_0223_00553;553;;Route de la Mare;61700;61232;Lonlay-l'Abbaye;;La Mare;-0.679731;48.677295
+61232_0197_00268;268;;Chemin de la Gérardière;61700;61232;Lonlay-l'Abbaye;;La Plaisantière;-0.674737;48.640248
+61232_0193_00109;109;;Allée Gallo-Romaine;61700;61232;Lonlay-l'Abbaye;;Les Bordeaux;-0.698264;48.69008
+61232_0223_00389;389;;Route de la Mare;61700;61232;Lonlay-l'Abbaye;;La Mare;-0.681025;48.676089
+61232_0148_00121;121;;Impasse de la Bresderie;61700;61232;Lonlay-l'Abbaye;;La Bresderie;-0.667451;48.682335
+61232_b270_00005;5;;Lotissement de la Patte d'Oie;61700;61232;Lonlay-l'Abbaye;;;-0.712157;48.643566
+61232_0123_00016;16;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;;-0.706692;48.647563
+61232_0268_00115;115;;Chemin des Vallées;61700;61232;Lonlay-l'Abbaye;;Les Vallées;-0.730595;48.627064
+61232_0020_00009;9;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.710554;48.646496
+61232_0172_01530;1530;;Chemin de la Couvrie;61700;61232;Lonlay-l'Abbaye;;La Couvrie;-0.722075;48.625437
+61232_0262_00382;382;;Route de la Tablère;61700;61232;Lonlay-l'Abbaye;;La Chevallerie Pilet;-0.720249;48.648595
+61232_0141_00555;555;;Chemin du Bois Ellier;61700;61232;Lonlay-l'Abbaye;;Le Bois Ellier;-0.697929;48.679154
+61232_0123_01542;1542;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;La Fournerie;-0.705904;48.655853
+61232_0262_00253;253;;Route de la Tablère;61700;61232;Lonlay-l'Abbaye;;La Chevallerie Pilet;-0.718112;48.648415
+61232_0120_00014;14;;Place Saint Sauveur;61700;61232;Lonlay-l'Abbaye;;;-0.710663;48.645883
+61232_0052_00009;9;;Route de Domfront;61700;61232;Lonlay-l'Abbaye;;;-0.705162;48.644967
+61232_a002_00013;13;;Lotissement du Clos;61700;61232;Lonlay-l'Abbaye;;;-0.701631;48.645811
+61232_0262_03320;3320;;Route de la Tablère;61700;61232;Lonlay-l'Abbaye;;La Tablère;-0.758961;48.645839
+61232_0019_00004;4;;Route de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.703083;48.647248
+61232_0149_00198;198;;Chemin de la Brionnière;61700;61232;Lonlay-l'Abbaye;;La Brionnière;-0.671698;48.641826
+61232_0040_00014;14;;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.708897;48.648578
+61232_0248_00543;543;;Chemin de la Reinière;61700;61232;Lonlay-l'Abbaye;;La Reinière;-0.683657;48.662203
+61232_0229_00137;137;;Chemin du Nézement;61700;61232;Lonlay-l'Abbaye;;Le Nézement;-0.745748;48.657995
+61232_0167_00015;15;;Impasse de la Chevallerie-Pilet;61700;61232;Lonlay-l'Abbaye;;La Chevallerie Pilet;-0.71889;48.648521
+61232_0253_00072;72;;Chemin des Rochers;61700;61232;Lonlay-l'Abbaye;;Les Rochers;-0.757706;48.631167
+61232_0205_00535;535;;Chemin des Guernelles;61700;61232;Lonlay-l'Abbaye;;Les Guernelles;-0.671613;48.670062
+61232_0232_00603;603;;Chemin de Oissel;61700;61232;Lonlay-l'Abbaye;;Oissel;-0.66878;48.628938
+61232_0241_00316;316;;Chemin du Plessis;61700;61232;Lonlay-l'Abbaye;;Le Plessis;-0.733707;48.643725
+61232_0223_00489;489;;Route de la Mare;61700;61232;Lonlay-l'Abbaye;;La Mare;-0.680364;48.676804
+61232_0019_00010;10;;Route de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.701099;48.647025
+61232_0185_03211;3211;;Route de Flers;61700;61232;Lonlay-l'Abbaye;;Le Champion;-0.673788;48.662135
+61232_0121_00008;8;;Route du Stade;61700;61232;Lonlay-l'Abbaye;;;-0.711577;48.643695
+61232_0120_00010;10;;Place Saint Sauveur;61700;61232;Lonlay-l'Abbaye;;;-0.710594;48.645595
+61232_0123_00005;5;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;;-0.704938;48.644778
+61232_0051_00888;888;;Route de Beauchêne;61700;61232;Lonlay-l'Abbaye;;La Mancellière;-0.712862;48.655683
+61232_0181_02250;2250;;Route de l'Être-Chédeville;61700;61232;Lonlay-l'Abbaye;;L'Être-Chédeville;-0.740107;48.664363
+61232_0212_00141;141;;Impasse de l'Ingulière;61700;61232;Lonlay-l'Abbaye;;L'Ingulière;-0.706495;48.622399
+61232_a003_00002;2;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.711403;48.64189
+61232_0100_00012;12;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.708218;48.64721
+61232_0268_00108;108;;Chemin des Vallées;61700;61232;Lonlay-l'Abbaye;;Les Vallées;-0.730533;48.627225
+61232_0227_00260;260;;Chemin de la Montagne;61700;61232;Lonlay-l'Abbaye;;La Montagne;-0.679034;48.639626
+61232_0080_00011;11;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.711608;48.645806
+61232_0234_00481;481;;Chemin de la Peignerie Bouvet;61700;61232;Lonlay-l'Abbaye;;La Peignerie Bouvet;-0.665753;48.662745
+61232_0050_00012;12;;Place Jules Levée;61700;61232;Lonlay-l'Abbaye;;;-0.709393;48.646865
+61232_0215_00570;570;;Chemin de Ker-Maria;61700;61232;Lonlay-l'Abbaye;;Chancerot;-0.761962;48.656797
+61232_0248_00650;650;;Chemin de la Reinière;61700;61232;Lonlay-l'Abbaye;;La Reinière;-0.684778;48.662532
+61232_0213_00040;40;;Impasse des Isles;61700;61232;Lonlay-l'Abbaye;;Les Isles;-0.699732;48.634326
+61232_0235_00266;266;;Chemin de la Peignerie Masseron;61700;61232;Lonlay-l'Abbaye;;La Peignerie Masseron;-0.691298;48.674896
+61232_0019_00007;7;;Route de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.700001;48.647613
+61232_0216_00041;41;;Route de Larchamp;61700;61232;Lonlay-l'Abbaye;;Les Bordeaux;-0.696832;48.689178
+61232_0080_00017;17;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.711823;48.645881
+61232_0040_00011_b;11;b;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.709327;48.648289
+61232_0183_00076;76;;Impasse du Fay;61700;61232;Lonlay-l'Abbaye;;Le Fay;-0.715183;48.625314
+61232_0020_00022;22;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.709826;48.646625
+61232_0233_00109;109;;Chemin de la Passée Bouvet;61700;61232;Lonlay-l'Abbaye;;La Passée Bouvet;-0.697952;48.648129
+61232_0059_00004;4;;Impasse du Moulin;61700;61232;Lonlay-l'Abbaye;;;-0.710576;48.645545
+61232_0221_00184;184;;Chemin de la Longère;61700;61232;Lonlay-l'Abbaye;;Le Bout du Tertre;-0.754683;48.66047
+61232_a002_00006;6;;Lotissement du Clos;61700;61232;Lonlay-l'Abbaye;;;-0.699314;48.646691
+61232_0254_00225;225;;Route de Rouellé;61700;61232;Lonlay-l'Abbaye;;La Brousse;-0.70788;48.638624
+61232_0136_00670;670;;Chemin des Beaux Rochers;61700;61232;Lonlay-l'Abbaye;;Les Beaux Rochers;-0.737402;48.628817
+61232_0236_00470;470;;Chemin du Périer;61700;61232;Lonlay-l'Abbaye;;Le Périer;-0.752502;48.641522
+61232_0214_01069;1069;;Chemin de la Josselinière;61700;61232;Lonlay-l'Abbaye;;La Josselinière;-0.679174;48.619121
+61232_0156_01310;1310;;Chemin du Cerisier;61700;61232;Lonlay-l'Abbaye;;Le Cerisier;-0.755047;48.635853
+61232_0265_00109;109;;Chemin de la Thomassière;61700;61232;Lonlay-l'Abbaye;;La Thomassière;-0.687888;48.654027
+61232_0133_00310;310;;Chemin des Aunays;61700;61232;Lonlay-l'Abbaye;;Les Aunays;-0.735984;48.664199
+61232_0247_00007;7;;Chemin de la Réauté;61700;61232;Lonlay-l'Abbaye;;La Réauté;-0.646992;48.636779
+61232_a005_00014;14;;Lotissement le Val;61700;61232;Lonlay-l'Abbaye;;;-0.714195;48.642631
+61232_0051_01639;1639;;Route de Beauchêne;61700;61232;Lonlay-l'Abbaye;;Égrenne;-0.718313;48.661115
+61232_0164_01579;1579;;Route du Chemin Grippon;61700;61232;Lonlay-l'Abbaye;;Les Guimondières;-0.680317;48.630046
+61232_0139_00120;120;;Chemin du Bois Alix;61700;61232;Lonlay-l'Abbaye;;Le Bois Alix;-0.683268;48.667634
+61232_a001_00012;12;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.710357;48.642428
+61232_0265_00048;48;;Chemin de la Thomassière;61700;61232;Lonlay-l'Abbaye;;La Thomassière;-0.687831;48.654521
+61232_0235_00220;220;;Chemin de la Peignerie Masseron;61700;61232;Lonlay-l'Abbaye;;La Peignerie Masseron;-0.690442;48.675211
+61232_0020_00017;17;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.710291;48.646639
+61232_0186_00081;81;;Chemin de la Foisonnière;61700;61232;Lonlay-l'Abbaye;;La Foisonnière;-0.67098;48.62724
+61232_a001_00006;6;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.710551;48.643121
+61232_a001_00011;11;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.710517;48.642392
+61232_0159_00920;920;;Route de Chanu;61700;61232;Lonlay-l'Abbaye;;La Villière;-0.662178;48.677103
+61232_0189_00192;192;;Chemin de la Fouquière;61700;61232;Lonlay-l'Abbaye;;La Fouquière;-0.657344;48.642398
+61232_0223_01130;1130;;Route de la Mare;61700;61232;Lonlay-l'Abbaye;;La Bresdèrie;-0.672202;48.678782
+61232_0050_00009;9;;Place Jules Levée;61700;61232;Lonlay-l'Abbaye;;Appartements A, B et C;-0.709434;48.647165
+61232_0171_00095;95;;Chemin de la Collardière;61700;61232;Lonlay-l'Abbaye;;La Collardière;-0.736855;48.670686
+61232_0248_00691;691;;Chemin de la Reinière;61700;61232;Lonlay-l'Abbaye;;La Reinière;-0.685342;48.662514
+61232_0019_00005;5;;Route de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.700667;48.647854
+61232_0121_00004;4;;Route du Stade;61700;61232;Lonlay-l'Abbaye;;La Poste;-0.711568;48.643993
+61232_0253_00076;76;;Chemin des Rochers;61700;61232;Lonlay-l'Abbaye;;Les Rochers;-0.758044;48.631092
+61232_0262_00183;183;;Route de la Tablère;61700;61232;Lonlay-l'Abbaye;;La Chevallerie Pilet;-0.717452;48.64847
+61232_0142_00350;350;;Chemin de la Bonnefantière;61700;61232;Lonlay-l'Abbaye;;La Bonnefantière;-0.722734;48.631643
+61232_a001_00019;19;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.709923;48.642858
+61232_0080_00020;20;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.713566;48.647986
+61232_0020_00016;16;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.709638;48.646054
+61232_0080_00018;18;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.713277;48.647795
+61232_0020_00011;11;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.7105;48.646462
+61232_0154_00009;9;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.705689;48.647737
+61232_0201_00280;280;;Chemin du Gros-Chêne;61700;61232;Lonlay-l'Abbaye;;Le Gros-Chêne;-0.761425;48.659513
+61232_0020_00022_bis;22;bis;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.709716;48.646626
+61232_0178_00012;12;;Chemin de l'Étang de Larchamp;61700;61232;Lonlay-l'Abbaye;;La Mare;-0.681443;48.676567
+61232_0132_00855;855;;Chemin de l'Archerie;61700;61232;Lonlay-l'Abbaye;;La Douardière;-0.680736;48.650913
+61232_0041_00001;1;;Route du Val;61700;61232;Lonlay-l'Abbaye;;;-0.712048;48.643977
+61232_0269_00343;343;;Chemin de la Verdrie;61700;61232;Lonlay-l'Abbaye;;La Verdrie;-0.700082;48.623785
+61232_0156_00632;632;;Chemin du Cerisier;61700;61232;Lonlay-l'Abbaye;;La Volerie;-0.747378;48.638178
+61232_0179_00201;201;;Impasse de l'Être Chapron;61700;61232;Lonlay-l'Abbaye;;L'Être Chapron;-0.716289;48.628242
+61232_0265_00123;123;;Chemin de la Thomassière;61700;61232;Lonlay-l'Abbaye;;La Thomassière;-0.687363;48.653902
+61232_a005_00002;2;;Lotissement le Val;61700;61232;Lonlay-l'Abbaye;;;-0.714769;48.641471
+61232_0270_00280;280;;Chemin de la Vesquière;61700;61232;Lonlay-l'Abbaye;;La Vesquière;-0.663912;48.648873
+61232_0216_00093;93;;Route de Larchamp;61700;61232;Lonlay-l'Abbaye;;Les Bordeaux;-0.696198;48.688951
+61232_0050_00006;6;;Place Jules Levée;61700;61232;Lonlay-l'Abbaye;;;-0.709776;48.647171
+61232_0204_00645;645;;Chemin de la Guerche-Midi;61700;61232;Lonlay-l'Abbaye;;La Guerche-Midi;-0.727744;48.637453
+61232_0053_00004;4;;Rue de Rouellé;61700;61232;Lonlay-l'Abbaye;;École;-0.71111;48.645182
+61232_0154_00003;3;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.704626;48.647433
+61232_0123_00001;1;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;Le Champ au Parc;-0.704313;48.643911
+61232_0100_00018;18;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.707595;48.646782
+61232_0251_00600;600;;Chemin de la Roche Louvel;61700;61232;Lonlay-l'Abbaye;;La Roche Louvel;-0.693515;48.674991
+61232_0157_00192;192;;Chemin de Champ-Guichon;61700;61232;Lonlay-l'Abbaye;;Champ-Guichon;-0.679822;48.665985
+61232_0139_00202;202;;Chemin du Bois Alix;61700;61232;Lonlay-l'Abbaye;;Le Bois Alix;-0.683308;48.667266
+61232_0051_00451;451;;Route de Beauchêne;61700;61232;Lonlay-l'Abbaye;;Moulin Neuf;-0.711122;48.651869
+61232_0197_00484;484;;Chemin de la Gérardière;61700;61232;Lonlay-l'Abbaye;;La Plaisantière;-0.674596;48.638672
+61232_0214_01071;1071;;Chemin de la Josselinière;61700;61232;Lonlay-l'Abbaye;;La Josselinière;-0.679365;48.618837
+61232_0159_00790;790;;Route de Chanu;61700;61232;Lonlay-l'Abbaye;;La Villière;-0.660907;48.675453
+61232_0181_03240;3240;;Route de l'Être-Chédeville;61700;61232;Lonlay-l'Abbaye;;Le Haut du Bois;-0.751951;48.667099
+61232_0195_00478;478;;Impasse de la Gaumondière;61700;61232;Lonlay-l'Abbaye;;La Gaumondière;-0.68654;48.634933
+61232_0053_00007;7;;Rue de Rouellé;61700;61232;Lonlay-l'Abbaye;;;-0.710658;48.645105
+61232_0262_02490;2490;;Route de la Tablère;61700;61232;Lonlay-l'Abbaye;;Les Bruyères;-0.74763;48.645917
+61232_0246_00502;502;;Chemin de Ranfougeray;61700;61232;Lonlay-l'Abbaye;;Ranfougeray;-0.693565;48.64325
+61232_0207_00199;199;;Chemin de la Héyère Bidard;61700;61232;Lonlay-l'Abbaye;;La Héyère Bidard;-0.646522;48.632546
+61232_0132_00563;563;;Chemin de l'Archerie;61700;61232;Lonlay-l'Abbaye;;L'Archerie;-0.684047;48.649458
+61232_0150_00520;520;;Chemin des Bruyères des Bordeaux;61700;61232;Lonlay-l'Abbaye;;Les Bruyères des Bordeaux;-0.686601;48.68374
+61232_0258_00002;2;;Place Sainte Thérèse;61700;61232;Lonlay-l'Abbaye;;;-0.709949;48.646051
+61232_0191_00020;20;;Route de Froidebise;61700;61232;Lonlay-l'Abbaye;;La Favrie;-0.714404;48.64846
+61232_0100_00013;13;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.708336;48.647319
+61232_0226_00660;660;;Chemin du Mont;61700;61232;Lonlay-l'Abbaye;;Sur le Mont;-0.715284;48.635046
+61232_0146_00230;230;;Chemin de la Bouvetière;61700;61232;Lonlay-l'Abbaye;;La Bouvetière;-0.700918;48.650619
+61232_0176_00238;238;;Chemin de l'Épinette;61700;61232;Lonlay-l'Abbaye;;L'Épinette;-0.707773;48.68023
+61232_0248_00541;541;;Chemin de la Reinière;61700;61232;Lonlay-l'Abbaye;;La Reinière;-0.683282;48.662179
+61232_0040_00012;12;;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.709034;48.648376
+61232_a002_00016;16;;Lotissement du Clos;61700;61232;Lonlay-l'Abbaye;;;-0.701011;48.646304
+61232_0205_00370;370;;Chemin des Guernelles;61700;61232;Lonlay-l'Abbaye;;Les Guernelles;-0.669295;48.669532
+61232_0040_00013;13;;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.709207;48.648619
+61232_0040_00011_a;11;a;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.709294;48.648282
+61232_0230_02729;2729;;Route des Noës;61700;61232;Lonlay-l'Abbaye;;Les Noës;-0.688776;48.672875
+61232_0052_00006;6;;Route de Domfront;61700;61232;Lonlay-l'Abbaye;;;-0.708829;48.646609
+61232_0053_00005;5;;Rue de Rouellé;61700;61232;Lonlay-l'Abbaye;;;-0.710392;48.644981
+61232_0189_00229;229;;Chemin de la Fouquière;61700;61232;Lonlay-l'Abbaye;;La Fouquière;-0.655895;48.643442
+61232_0254_01359;1359;;Route de Rouellé;61700;61232;Lonlay-l'Abbaye;;La Provostière Montaufray;-0.706134;48.629154
+61232_0241_00151;151;;Chemin du Plessis;61700;61232;Lonlay-l'Abbaye;;Le Plessis;-0.733502;48.645303
+61232_0239_00070;70;;Impasse de la Petite Reinière;61700;61232;Lonlay-l'Abbaye;;La Petite Reinière;-0.678719;48.660052
+61232_a003_00005;5;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.711701;48.641639
+61232_0157_00249;249;;Chemin de Champ-Guichon;61700;61232;Lonlay-l'Abbaye;;Champ-Guichon;-0.679427;48.665444
+61232_0171_00114;114;;Chemin de la Collardière;61700;61232;Lonlay-l'Abbaye;;La Collardière;-0.737039;48.671055
+61232_0214_00779;779;;Chemin de la Josselinière;61700;61232;Lonlay-l'Abbaye;;La Josselinière;-0.681914;48.621093
+61232_0161_00632;632;;Allée du Château;61700;61232;Lonlay-l'Abbaye;;Froidebise;-0.744424;48.675363
+61232_0269_00245;245;;Chemin de la Verdrie;61700;61232;Lonlay-l'Abbaye;;La Verdrie;-0.698833;48.623322
+61232_0040_00002;2;;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.709525;48.647337
+61232_0157_00280;280;;Chemin de Champ-Guichon;61700;61232;Lonlay-l'Abbaye;;Champ-Guichon;-0.680427;48.665332
+61232_0203_00355;355;;Route de la Guerche-Carrée;61700;61232;Lonlay-l'Abbaye;;La Guerche-Carrée;-0.726394;48.639829
+61232_0142_00628;628;;Chemin de la Bonnefantière;61700;61232;Lonlay-l'Abbaye;;La Bonnefantière;-0.720578;48.630922
+61232_0132_00521;521;;Chemin de l'Archerie;61700;61232;Lonlay-l'Abbaye;;L'Archerie;-0.684676;48.649428
+61232_0149_00230;230;;Chemin de la Brionnière;61700;61232;Lonlay-l'Abbaye;;La Brionnière;-0.671751;48.641624
+61232_0251_00602;602;;Chemin de la Roche Louvel;61700;61232;Lonlay-l'Abbaye;;La Roche Louvel;-0.693063;48.675159
+61232_0080_00016;16;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.712658;48.646757
+61232_0052_00001;1;;Route de Domfront;61700;61232;Lonlay-l'Abbaye;;;-0.70902;48.646903
+61232_0020_00015;15;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.710352;48.646549
+61232_0205_00455;455;;Chemin des Guernelles;61700;61232;Lonlay-l'Abbaye;;Les Guernelles;-0.670768;48.6697
+61232_0255_00027;27;;Sentier de la Ruelle;61700;61232;Lonlay-l'Abbaye;;;-0.712714;48.645742
+61232_0141_00155;155;;Chemin du Bois Ellier;61700;61232;Lonlay-l'Abbaye;;Le Bois Ellier;-0.702769;48.679474
+61232_0192_00279;279;;Chemin de la Gagnonnière;61700;61232;Lonlay-l'Abbaye;;La Gagnonnière;-0.66324;48.652402
+61232_0245_00210;210;;Chemin des Quatre Vents;61700;61232;Lonlay-l'Abbaye;;Les Quatre Vents;-0.740396;48.647617
+61232_0250_00691;691;;Chemin de la Roche au Vesque;61700;61232;Lonlay-l'Abbaye;;La Roche au Vesque;-0.654018;48.630034
+61232_b270_00004;4;;Lotissement de la Patte d'Oie;61700;61232;Lonlay-l'Abbaye;;;-0.711983;48.643558
+61232_0241_00365;365;;Chemin du Plessis;61700;61232;Lonlay-l'Abbaye;;Le Plessis;-0.732788;48.643813
+61232_0255_00051;51;;Sentier de la Ruelle;61700;61232;Lonlay-l'Abbaye;;;-0.712972;48.645702
+61232_0020_00004;4;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.71032;48.646089
+61232_0254_00889;889;;Route de Rouellé;61700;61232;Lonlay-l'Abbaye;;La Brousse;-0.706894;48.633073
+61232_a005_00004;4;;Lotissement le Val;61700;61232;Lonlay-l'Abbaye;;;-0.715182;48.641812
+61232_0218_00080;80;;Impasse du Lieu Ressource;61700;61232;Lonlay-l'Abbaye;;La Fournerie;-0.705446;48.655299
+61232_0266_00268;268;;Chemin de la Vaillette;61700;61232;Lonlay-l'Abbaye;;La Vaillette;-0.710421;48.665083
+61232_0020_00001;1;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.710943;48.646129
+61232_0185_03265;3265;;Route de Flers;61700;61232;Lonlay-l'Abbaye;;Le Champion;-0.673978;48.662226
+61232_0206_00940;940;;Chemin de la Guimardière;61700;61232;Lonlay-l'Abbaye;;La Guimardière;-0.658693;48.660799
+61232_0209_00106;106;;Chemin de la Houdonnière;61700;61232;Lonlay-l'Abbaye;;La Houdonnière;-0.729006;48.646619
+61232_0243_00465;465;;Chemin de la Provostière-Roullin;61700;61232;Lonlay-l'Abbaye;;La Provostière-Roullin;-0.727643;48.661014
+61232_a005_00013;13;;Lotissement le Val;61700;61232;Lonlay-l'Abbaye;;;-0.714269;48.642336
+61232_0169_00003;3;;Chemin du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.701533;48.646231
+61232_0019_00006;6;;Route de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.702317;48.647276
+61232_0215_01030;1030;;Chemin de Ker-Maria;61700;61232;Lonlay-l'Abbaye;;Ker-Maria;-0.763709;48.653297
+61232_a003_00012;12;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.712336;48.641909
+61232_0234_00482;482;;Chemin de la Peignerie Bouvet;61700;61232;Lonlay-l'Abbaye;;La Peignerie Bouvet;-0.66609;48.662792
+61232_0121_00010;10;;Route du Stade;61700;61232;Lonlay-l'Abbaye;;;-0.710653;48.641464
+61232_0164_03310;3310;;Route du Chemin Grippon;61700;61232;Lonlay-l'Abbaye;;Le Chemin Grippon;-0.659889;48.62462
+61232_0051_00002;2;;Route de Beauchêne;61700;61232;Lonlay-l'Abbaye;;;-0.709546;48.648317
+61232_0263_00681;681;;Chemin du Tertre;61700;61232;Lonlay-l'Abbaye;;Le Tertre;-0.717061;48.64606
+61232_0154_00012;12;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.70439;48.647824
+61232_0258_00004;4;;Place Sainte Thérèse;61700;61232;Lonlay-l'Abbaye;;;-0.710235;48.646155
+61232_a002_00001;1;;Lotissement du Clos;61700;61232;Lonlay-l'Abbaye;;;-0.700541;48.647177
+61232_0185_04670;4670;;Route de Flers;61700;61232;Lonlay-l'Abbaye;;L'Épine Orbière;-0.658305;48.669217
+61232_0167_00017;17;;Impasse de la Chevallerie-Pilet;61700;61232;Lonlay-l'Abbaye;;La Chevallerie Pilet;-0.718738;48.648531
+61232_0100_00003;3;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.709149;48.647088
+61232_0080_00014;14;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.712339;48.646446
+61232_0121_00012;12;;Route du Stade;61700;61232;Lonlay-l'Abbaye;;;-0.710446;48.64111
+61232_0176_00198;198;;Chemin de l'Épinette;61700;61232;Lonlay-l'Abbaye;;L'Épinette;-0.707363;48.680534
+61232_0188_00099;99;;Chemin de la Fouchellière;61700;61232;Lonlay-l'Abbaye;;La Fouchellière;-0.696447;48.665253
+61232_a003_00011;11;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.711238;48.641175
+61232_0188_00130;130;;Chemin de la Fouchellière;61700;61232;Lonlay-l'Abbaye;;La Fouchellière;-0.696543;48.665634
+61232_0152_00499;499;;Chemin de la Bunoudière;61700;61232;Lonlay-l'Abbaye;;La Bunoudière;-0.667882;48.63344
+61232_a005_00008;8;;Lotissement le Val;61700;61232;Lonlay-l'Abbaye;;;-0.715431;48.642625
+61232_0123_00022;22;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;;-0.70771;48.648136
+61232_0210_00516;516;;Chemin de la Houssaye;61700;61232;Lonlay-l'Abbaye;;La Houssaye;-0.712971;48.61947
+61232_0205_00480;480;;Chemin des Guernelles;61700;61232;Lonlay-l'Abbaye;;Les Guernelles;-0.67061;48.670206
+61232_0123_00002_bis;2;bis;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.702143;48.645345
+61232_0262_00538;538;;Route de la Tablère;61700;61232;Lonlay-l'Abbaye;;La Chevallerie Pilet;-0.721936;48.648195
+61232_0185_04602;4602;;Route de Flers;61700;61232;Lonlay-l'Abbaye;;L'Épine Orbière;-0.659158;48.668961
+61232_0235_00155;155;;Chemin de la Peignerie Masseron;61700;61232;Lonlay-l'Abbaye;;La Peignerie Masseron;-0.689456;48.675103
+61232_0146_00224;224;;Chemin de la Bouvetière;61700;61232;Lonlay-l'Abbaye;;La Bouvetière;-0.700534;48.650816
+61232_0264_00485;485;;Chemin de la Thélinière;61700;61232;Lonlay-l'Abbaye;;La Thélinière;-0.68942;48.659379
+61232_0154_00017;17;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.705289;48.648208
+61232_a003_00008;8;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.712027;48.641892
+61232_0181_01049;1049;;Route de l'Être-Chédeville;61700;61232;Lonlay-l'Abbaye;;La Chopinière;-0.732348;48.657341
+61232_0194_00351;351;;Chemin du Gas;61700;61232;Lonlay-l'Abbaye;;Le Gas;-0.671707;48.683222
+61232_0132_00565;565;;Chemin de l'Archerie;61700;61232;Lonlay-l'Abbaye;;L'Archerie;-0.683596;48.64951
+61232_0164_03358;3358;;Route du Chemin Grippon;61700;61232;Lonlay-l'Abbaye;;Le Chemin Grippon;-0.659088;48.624449
+61232_0209_00221;221;;Chemin de la Houdonnière;61700;61232;Lonlay-l'Abbaye;;La Houdonnière;-0.727509;48.646651
+61232_0248_00484;484;;Chemin de la Reinière;61700;61232;Lonlay-l'Abbaye;;La Reinière;-0.682679;48.662638
+61232_0134_00610;610;;Chemin des Barres;61700;61232;Lonlay-l'Abbaye;;La Besnerie;-0.702095;48.662889
+61232_0019_00003;3;;Route de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.701168;48.647854
+61232_0181_02344;2344;;Route de l'Être-Chédeville;61700;61232;Lonlay-l'Abbaye;;L'Être-Chédeville;-0.740579;48.663812
+61232_b270_00002;2;;Lotissement de la Patte d'Oie;61700;61232;Lonlay-l'Abbaye;;;-0.712068;48.643736
+61232_0196_00820;820;;Route de Ger;61700;61232;Lonlay-l'Abbaye;;La Planche;-0.724284;48.651714
+61232_0121_00005;5;;Route du Stade;61700;61232;Lonlay-l'Abbaye;;;-0.711005;48.644087
+61232_0234_00421;421;;Chemin de la Peignerie Bouvet;61700;61232;Lonlay-l'Abbaye;;La Peignerie Bouvet;-0.665306;48.663626
+61232_0246_00337;337;;Chemin de Ranfougeray;61700;61232;Lonlay-l'Abbaye;;Ranfougeray;-0.694643;48.644562
+61232_0100_00005;5;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.709041;48.647112
+61232_0051_00699;699;;Route de Beauchêne;61700;61232;Lonlay-l'Abbaye;;Moulin Neuf;-0.712774;48.653456
+61232_0132_00905;905;;Chemin de l'Archerie;61700;61232;Lonlay-l'Abbaye;;La Douardière;-0.679318;48.650152
+61232_0230_00600;600;;Route des Noës;61700;61232;Lonlay-l'Abbaye;;La Massonnière;-0.700561;48.65604
+61232_0080_00021;21;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.712118;48.645941
+61232_0132_00320;320;;Chemin de l'Archerie;61700;61232;Lonlay-l'Abbaye;;L'Archerie;-0.686304;48.647816
+61232_0181_02222;2222;;Route de l'Être-Chédeville;61700;61232;Lonlay-l'Abbaye;;L'Être-Chédeville;-0.74024;48.664612
+61232_0208_00461;461;;Chemin de la Houdière;61700;61232;Lonlay-l'Abbaye;;La Houdière;-0.738585;48.634108
+61232_0153_00091;91;;Impasse de la Butte;61700;61232;Lonlay-l'Abbaye;;La Butte;-0.67555;48.645553
+61232_0145_00439;439;;Chemin de la Bouscaudière;61700;61232;Lonlay-l'Abbaye;;La Bouscaudière;-0.676714;48.632297
+61232_0020_00020;20;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.709986;48.646515
+61232_0100_00022;22;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.706887;48.646279
+61232_0259_00371;371;;Chemin de la Savrière;61700;61232;Lonlay-l'Abbaye;;La Savrière;-0.718067;48.634737
+61232_0185_00420;420;;Route de Flers;61700;61232;Lonlay-l'Abbaye;;Ranfougeray;-0.700583;48.644364
+61232_0205_00580;580;;Chemin des Guernelles;61700;61232;Lonlay-l'Abbaye;;Les Guernelles;-0.671861;48.670665
+61232_0180_00102;102;;Chemin de l'Être Jobard;61700;61232;Lonlay-l'Abbaye;;L'Être Jobard;-0.734657;48.659462
+61232_0262_03350;3350;;Route de la Tablère;61700;61232;Lonlay-l'Abbaye;;La Tablère;-0.759507;48.645802
+61232_0135_00445;445;;Chemin de la Barthelière;61700;61232;Lonlay-l'Abbaye;;La Barthelière;-0.658534;48.637718
+61232_0157_00160;160;;Chemin de Champ-Guichon;61700;61232;Lonlay-l'Abbaye;;Champ-Guichon;-0.680033;48.666359
+61232_0197_00451;451;;Chemin de la Gérardière;61700;61232;Lonlay-l'Abbaye;;La Plaisantière;-0.673746;48.639342
+61232_0080_00007;7;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.711435;48.645751
+61232_0220_00223;223;;Chemin du Logis des Bordeaux;61700;61232;Lonlay-l'Abbaye;;Le Logis des Bordeaux;-0.692911;48.68599
+61232_o5o9kd_00002;2;;Allée de la Salle Polyvalente;61700;61232;Lonlay-l'Abbaye;;Salle Polyvalente;-0.712509;48.64261
+61232_0100_00002_bis;2;bis;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;Appartements A, B, C, D;-0.709023;48.646941
+61232_0166_00428;428;;Chemin de la Chevallerie aux Lièvres;61700;61232;Lonlay-l'Abbaye;;La Chevallerie aux Lièvres;-0.674567;48.656616
+61232_0240_00797;797;;Route des Petits Étangs;61700;61232;Lonlay-l'Abbaye;;Le Brulay;-0.706656;48.678442
+61232_0019_00009;9;;Route de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.699151;48.647841
+61232_0175_00050;50;;Route de l'Épine-Orbière;61700;61232;Lonlay-l'Abbaye;;L'Épine-Orbière;-0.657248;48.66915
+61232_0186_00085;85;;Chemin de la Foisonnière;61700;61232;Lonlay-l'Abbaye;;La Foisonnière;-0.671447;48.626635
+61232_0230_02881;2881;;Route des Noës;61700;61232;Lonlay-l'Abbaye;;Le Friche;-0.688456;48.674473
+61232_0255_00275;275;;Sentier de la Ruelle;61700;61232;Lonlay-l'Abbaye;;;-0.714211;48.643697
+61232_0232_00640;640;;Chemin de Oissel;61700;61232;Lonlay-l'Abbaye;;Oissel;-0.669563;48.62949
+61232_0213_00074;74;;Impasse des Isles;61700;61232;Lonlay-l'Abbaye;;Les Isles;-0.700212;48.634163
+61232_0243_00300;300;;Chemin de la Provostière-Roullin;61700;61232;Lonlay-l'Abbaye;;La Provostière-Roullin;-0.727564;48.660535
+61232_0218_00015;15;;Impasse du Lieu Ressource;61700;61232;Lonlay-l'Abbaye;;La Fournerie;-0.706455;48.655566
+61232_0233_00130;130;;Chemin de la Passée Bouvet;61700;61232;Lonlay-l'Abbaye;;La Passée Bouvet;-0.697718;48.648685
+61232_0080_00004;4;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.711307;48.645871
+61232_0267_00045;45;;Chemin du Valisa;61700;61232;Lonlay-l'Abbaye;;Les Aunays;-0.735496;48.664108
+61232_0200_01320;1320;;Route de Grille-Souris;61700;61232;Lonlay-l'Abbaye;;La Haute-Savrière;-0.7261;48.63588
+61232_0154_00002;2;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.704307;48.647677
+61232_0225_00140;140;;Chemin de la Massonnière;61700;61232;Lonlay-l'Abbaye;;La Massonnière;-0.69964;48.655158
+61232_0196_03360;3360;;Route de Ger;61700;61232;Lonlay-l'Abbaye;;Le Bout du Tertre;-0.755618;48.660289
+61232_0248_00482;482;;Chemin de la Reinière;61700;61232;Lonlay-l'Abbaye;;La Reinière;-0.68215;48.662731
+61232_0100_00009;9;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.708718;48.64722
+61232_0123_00014;14;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;;-0.707133;48.64744
+61232_0132_00911;911;;Chemin de l'Archerie;61700;61232;Lonlay-l'Abbaye;;La Douardière;-0.679687;48.650056
+61232_0251_00320;320;;Chemin de la Roche Louvel;61700;61232;Lonlay-l'Abbaye;;La Roche Louvel;-0.69361;48.674086
+61232_0051_00695;695;;Route de Beauchêne;61700;61232;Lonlay-l'Abbaye;;Moulin Neuf;-0.712499;48.65362
+61232_0080_00015;15;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.711728;48.64584
+61232_0172_01439;1439;;Chemin de la Couvrie;61700;61232;Lonlay-l'Abbaye;;La Couvrie;-0.721562;48.626339
+61232_0167_00067;67;;Impasse de la Chevallerie-Pilet;61700;61232;Lonlay-l'Abbaye;;La Chevallerie Pilet;-0.718483;48.648073
+61232_a001_00001;1;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.71039;48.642655
+61232_0264_00565;565;;Chemin de la Thélinière;61700;61232;Lonlay-l'Abbaye;;La Thélinière;-0.690368;48.65973
+61232_0100_00020;20;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.707156;48.646386
+61232_0080_00003;3;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.711176;48.645669
+61232_0171_00050;50;;Chemin de la Collardière;61700;61232;Lonlay-l'Abbaye;;La Collardière;-0.736222;48.671157
+61232_0189_00321;321;;Chemin de la Fouquière;61700;61232;Lonlay-l'Abbaye;;La Fouquière;-0.655801;48.642155
+61232_0136_00450;450;;Chemin des Beaux Rochers;61700;61232;Lonlay-l'Abbaye;;Le Rochelet;-0.734754;48.628707
+61232_0248_00451;451;;Chemin de la Reinière;61700;61232;Lonlay-l'Abbaye;;La Reinière;-0.682684;48.661628
+61232_0246_00357;357;;Chemin de Ranfougeray;61700;61232;Lonlay-l'Abbaye;;Ranfougeray;-0.693522;48.64408
+61232_0230_02810;2810;;Route des Noës;61700;61232;Lonlay-l'Abbaye;;Les Noës;-0.688012;48.673317
+61232_0198_00142;142;;Chemin du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.711873;48.640561
+61232_0121_00008_bis;8;bis;Route du Stade;61700;61232;Lonlay-l'Abbaye;;;-0.711603;48.643485
+61232_0189_00314;314;;Chemin de la Fouquière;61700;61232;Lonlay-l'Abbaye;;La Fouquière;-0.655993;48.64203
+61232_a003_00003;3;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.711383;48.641622
+61232_0041_00007;7;;Route du Val;61700;61232;Lonlay-l'Abbaye;;Le Val;-0.717748;48.642406
+61232_0143_08281;8281;;Route des Bordeaux;61700;61232;Lonlay-l'Abbaye;;Les Bordeaux;-0.697592;48.689127
+61232_0181_02862;2862;;Route de l'Être-Chédeville;61700;61232;Lonlay-l'Abbaye;;La Bourbissière;-0.746655;48.665843
+61232_0199_00007;7;;Impasse du Grand Pré;61700;61232;Lonlay-l'Abbaye;;Le Grand Pré;-0.7094;48.642381
+61232_0270_00366;366;;Chemin de la Vesquière;61700;61232;Lonlay-l'Abbaye;;La Vesquière;-0.66313;48.648621
+61232_0161_00706;706;;Allée du Château;61700;61232;Lonlay-l'Abbaye;;Froidebise;-0.745102;48.674568
+61232_0185_00699;699;;Route de Flers;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.698308;48.647015
+61232_a001_00014;14;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.709977;48.642479
+61232_0209_00165;165;;Chemin de la Houdonnière;61700;61232;Lonlay-l'Abbaye;;La Houdonnière;-0.728333;48.64718
+61232_0256_02789;2789;;Route de Saint Bomer;61700;61232;Lonlay-l'Abbaye;;La Menardière;-0.662071;48.645333
+61232_0197_00269;269;;Chemin de la Gérardière;61700;61232;Lonlay-l'Abbaye;;La Plaisantière;-0.674475;48.640327
+61232_0051_00001;1;;Route de Beauchêne;61700;61232;Lonlay-l'Abbaye;;;-0.709814;48.648157
+61232_0120_00013;13;;Place Saint Sauveur;61700;61232;Lonlay-l'Abbaye;;;-0.710971;48.645805
+61232_0154_00021;21;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.704647;48.648258
+61232_a005_00009;9;;Lotissement le Val;61700;61232;Lonlay-l'Abbaye;;;-0.714556;48.642603
+61232_a001_00016;16;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.709577;48.642841
+61232_a003_00017;17;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.710826;48.641413
+61232_0197_00375;375;;Chemin de la Gérardière;61700;61232;Lonlay-l'Abbaye;;La Plaisantière;-0.674202;48.639354
+61232_0200_01549;1549;;Route de Grille-Souris;61700;61232;Lonlay-l'Abbaye;;Beau Soleil;-0.726398;48.632958
+61232_a001_00005;5;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.710449;48.643129
+61232_0080_00023;23;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.714067;48.647885
+61232_0052_00011;11;;Route de Domfront;61700;61232;Lonlay-l'Abbaye;;Le Champ au Parc;-0.704268;48.643633
+61232_0080_00010_bis;10;bis;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.711884;48.646049
+61232_0123_00030;30;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;La Logerie;-0.708301;48.649901
+61232_0213_00102;102;;Impasse des Isles;61700;61232;Lonlay-l'Abbaye;;Les Isles;-0.700479;48.634012
+61232_0196_03370;3370;;Route de Ger;61700;61232;Lonlay-l'Abbaye;;Le Bout du Tertre;-0.755933;48.660418
+61232_0134_00530;530;;Chemin des Barres;61700;61232;Lonlay-l'Abbaye;;La Besnerie;-0.702759;48.662887
+61232_0205_00542;542;;Chemin des Guernelles;61700;61232;Lonlay-l'Abbaye;;Les Guernelles;-0.671363;48.670572
+61232_0215_00722;722;;Chemin de Ker-Maria;61700;61232;Lonlay-l'Abbaye;;Chancerot;-0.763044;48.655479
+61232_0211_00905;905;;Chemin de la Huberdière;61700;61232;Lonlay-l'Abbaye;;La Huberdière;-0.659682;48.657629
+61232_0241_00135;135;;Chemin du Plessis;61700;61232;Lonlay-l'Abbaye;;Le Plessis;-0.734128;48.645395
+61232_0242_00132;132;;Chemin de la Provostière Montaufray;61700;61232;Lonlay-l'Abbaye;;La Provostière Montaufray;-0.70712;48.628932
+61232_0199_00001;1;;Impasse du Grand Pré;61700;61232;Lonlay-l'Abbaye;;Le Grand Pré;-0.710445;48.64214
+61232_0175_00065;65;;Route de l'Épine-Orbière;61700;61232;Lonlay-l'Abbaye;;L'Épine-Orbière;-0.656556;48.669493
+61232_0158_00157;157;;Chemin des Champs;61700;61232;Lonlay-l'Abbaye;;Les Champs;-0.733639;48.639583
+61232_0219_00221;221;;Chemin des Loges;61700;61232;Lonlay-l'Abbaye;;Les Loges;-0.719645;48.654016
+61232_0121_00009;9;;Route du Stade;61700;61232;Lonlay-l'Abbaye;;;-0.709452;48.641769
+61232_0209_00071;71;;Chemin de la Houdonnière;61700;61232;Lonlay-l'Abbaye;;La Houdonnière;-0.729173;48.647051
+61232_0052_02751;2751;;Route de Domfront;61700;61232;Lonlay-l'Abbaye;;La Hobette;-0.692434;48.625436
+61232_0051_00887;887;;Route de Beauchêne;61700;61232;Lonlay-l'Abbaye;;La Mancellière;-0.713199;48.6553
+61232_0269_00255;255;;Chemin de la Verdrie;61700;61232;Lonlay-l'Abbaye;;La Verdrie;-0.698955;48.623188
+61232_0185_01850;1850;;Route de Flers;61700;61232;Lonlay-l'Abbaye;;La Thomassière;-0.688092;48.654484
+61232_0266_00220;220;;Chemin de la Vaillette;61700;61232;Lonlay-l'Abbaye;;La Vaillette;-0.70989;48.665458
+61232_0227_00221;221;;Chemin de la Montagne;61700;61232;Lonlay-l'Abbaye;;La Montagne;-0.677917;48.640213
+61232_0153_00050;50;;Impasse de la Butte;61700;61232;Lonlay-l'Abbaye;;La Butte;-0.676044;48.644962
+61232_0246_00112;112;;Chemin de Ranfougeray;61700;61232;Lonlay-l'Abbaye;;Les Voies;-0.696517;48.646392
+61232_0262_03450;3450;;Route de la Tablère;61700;61232;Lonlay-l'Abbaye;;La Tablère;-0.760825;48.645522
+61232_0174_00330;330;;Chemin de l'Épine Heuzé;61700;61232;Lonlay-l'Abbaye;;L'Épine Heuzé;-0.70447;48.674473
+61232_0165_00001;1;;Chemin du Chênet;61700;61232;Lonlay-l'Abbaye;;Le Tertre-Villiers;-0.66071;48.678881
+61232_0225_00010;10;;Chemin de la Massonnière;61700;61232;Lonlay-l'Abbaye;;La Massonnière;-0.700866;48.655387
+61232_0194_00450;450;;Chemin du Gas;61700;61232;Lonlay-l'Abbaye;;Le Gas;-0.674335;48.683501
+61232_a002_00009;9;;Lotissement du Clos;61700;61232;Lonlay-l'Abbaye;;;-0.700316;48.646057
+61232_0155_00006;6;;Chemin du Carrefour;61700;61232;Lonlay-l'Abbaye;;Le Carrefour;-0.705966;48.65027
+61232_0246_00610;610;;Chemin de Ranfougeray;61700;61232;Lonlay-l'Abbaye;;Ranfougeray;-0.693772;48.643238
+61232_0052_01752;1752;;Route de Domfront;61700;61232;Lonlay-l'Abbaye;;Les Isles;-0.69861;48.633349
+61232_a003_00004;4;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.711574;48.641894
+61232_0166_00456;456;;Chemin de la Chevallerie aux Lièvres;61700;61232;Lonlay-l'Abbaye;;La Chevallerie aux Lièvres;-0.674751;48.656462
+61232_0231_00106;106;;Impasse des Noës;61700;61232;Lonlay-l'Abbaye;;Les Noës;-0.68735;48.672878
+61232_0246_00420;420;;Chemin de Ranfougeray;61700;61232;Lonlay-l'Abbaye;;Ranfougeray;-0.694503;48.643691
+61232_0243_00385;385;;Chemin de la Provostière-Roullin;61700;61232;Lonlay-l'Abbaye;;La Provostière-Roullin;-0.72812;48.660573
+61232_0020_00008;8;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.710358;48.646208
+61232_0125_00001;1;;Rue de Stogursey;61700;61232;Lonlay-l'Abbaye;;;-0.712481;48.645016
+61232_0169_00001;1;;Chemin du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.701653;48.646243
+61232_0270_00319;319;;Chemin de la Vesquière;61700;61232;Lonlay-l'Abbaye;;La Vesquière;-0.663505;48.648905
+61232_0174_00257;257;;Chemin de l'Épine Heuzé;61700;61232;Lonlay-l'Abbaye;;L'Épine Heuzé;-0.704928;48.675224
+61232_0146_00030;30;;Chemin de la Bouvetière;61700;61232;Lonlay-l'Abbaye;;La Bouvetière;-0.699809;48.651214
+61232_0187_02780;2780;;Route de la Fosse Arthour;61700;61232;Lonlay-l'Abbaye;;Le Village Neuf;-0.751461;48.631632
+61232_0164_01099;1099;;Route du Chemin Grippon;61700;61232;Lonlay-l'Abbaye;;La Gaumondière;-0.685765;48.63219
+61232_0123_00003;3;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;;-0.704517;48.644514
+61232_0269_00360;360;;Chemin de la Verdrie;61700;61232;Lonlay-l'Abbaye;;La Verdrie;-0.699697;48.623901
+61232_0185_04712;4712;;Route de Flers;61700;61232;Lonlay-l'Abbaye;;L'Épine Orbière;-0.657888;48.66928
+61232_0231_00072;72;;Impasse des Noës;61700;61232;Lonlay-l'Abbaye;;Les Noës;-0.687837;48.672686
+61232_0140_00256;256;;Chemin du Bois Viel;61700;61232;Lonlay-l'Abbaye;;Le Bois Viel;-0.673552;48.659435
+61232_0154_00008;8;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.70526;48.648066
+61232_0053_00002;2;;Rue de Rouellé;61700;61232;Lonlay-l'Abbaye;;;-0.710376;48.64547
+61232_a003_00016;16;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.712263;48.641666
+61232_0100_00004;4;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.708639;48.647008
+61232_0174_00261;261;;Chemin de l'Épine Heuzé;61700;61232;Lonlay-l'Abbaye;;L'Épine Heuzé;-0.704084;48.675114
+61232_0222_00460;460;;Chemin de la Macère;61700;61232;Lonlay-l'Abbaye;;La Thierrière;-0.677536;48.647033
+61232_a005_00001;1;;Lotissement le Val;61700;61232;Lonlay-l'Abbaye;;;-0.714415;48.641438
+61232_0154_00015;15;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.705472;48.648103
+61232_a005_00003;3;;Lotissement le Val;61700;61232;Lonlay-l'Abbaye;;;-0.715083;48.641497
+61232_0172_00300;300;;Chemin de la Couvrie;61700;61232;Lonlay-l'Abbaye;;La Sinotière;-0.707285;48.624944
+61232_0154_00006;6;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.705489;48.647941
+61232_0154_00007;7;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.705683;48.647676
+61232_0176_00166;166;;Chemin de l'Épinette;61700;61232;Lonlay-l'Abbaye;;L'Épinette;-0.706988;48.680643
+61232_0230_02730;2730;;Route des Noës;61700;61232;Lonlay-l'Abbaye;;Les Noës;-0.68824;48.672845
+61232_0041_00008;8;;Route du Val;61700;61232;Lonlay-l'Abbaye;;;-0.714517;48.643083
+61232_0053_00003;3;;Rue de Rouellé;61700;61232;Lonlay-l'Abbaye;;;-0.710475;48.645209
+61232_0267_00044;44;;Chemin du Valisa;61700;61232;Lonlay-l'Abbaye;;Les Aunays;-0.735393;48.663682
+61232_0100_00011;11;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.70859;48.647269
+61232_0121_00016;16;;Route du Stade;61700;61232;Lonlay-l'Abbaye;;La Lande du Moulin;-0.710224;48.640775
+61232_0137_00277;277;;Impasse de la Bessonnière;61700;61232;Lonlay-l'Abbaye;;La Bessonnière;-0.733264;48.626856
+61232_0189_00285;285;;Chemin de la Fouquière;61700;61232;Lonlay-l'Abbaye;;La Fouquière;-0.656151;48.642395
+61232_0125_00006;6;;Rue de Stogursey;61700;61232;Lonlay-l'Abbaye;;;-0.712048;48.64529
+61232_0051_00951;951;;Route de Beauchêne;61700;61232;Lonlay-l'Abbaye;;La Mancellière;-0.713532;48.655536
+61232_b270_00006;6;;Lotissement de la Patte d'Oie;61700;61232;Lonlay-l'Abbaye;;;-0.712319;48.643607
+61232_0100_00002;2;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.708807;48.647021
+61232_0019_00012;12;;Route de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.700038;48.647123
+61232_0154_00001;1;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.704241;48.647492
+61232_0050_00016;16;;Place Jules Levée;61700;61232;Lonlay-l'Abbaye;;;-0.709669;48.646738
+61232_0259_00323;323;;Chemin de la Savrière;61700;61232;Lonlay-l'Abbaye;;La Savrière;-0.718468;48.634721
+61232_0256_02861;2861;;Route de Saint Bomer;61700;61232;Lonlay-l'Abbaye;;La Menardière;-0.661301;48.644898
+61232_0254_00677;677;;Route de Rouellé;61700;61232;Lonlay-l'Abbaye;;La Brousse;-0.706699;48.635556
+61232_0125_00008;8;;Rue de Stogursey;61700;61232;Lonlay-l'Abbaye;;;-0.712335;48.645952
+61232_0130_00080;80;;Impasse des Acres;61700;61232;Lonlay-l'Abbaye;;Les Acres;-0.693786;48.649052
+61232_0171_00063;63;;Chemin de la Collardière;61700;61232;Lonlay-l'Abbaye;;La Collardière;-0.736292;48.67098
+61232_0041_00004;4;;Route du Val;61700;61232;Lonlay-l'Abbaye;;;-0.712496;48.64406
+61232_a003_00010;10;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.712174;48.641896
+61232_0248_00684;684;;Chemin de la Reinière;61700;61232;Lonlay-l'Abbaye;;La Reinière;-0.685102;48.662719
+61232_0120_00006;6;;Place Saint Sauveur;61700;61232;Lonlay-l'Abbaye;;;-0.710079;48.645264
+61232_0120_00008;8;;Place Saint Sauveur;61700;61232;Lonlay-l'Abbaye;;;-0.710419;48.64548
+61232_0157_00218;218;;Chemin de Champ-Guichon;61700;61232;Lonlay-l'Abbaye;;Champ-Guichon;-0.679777;48.66574
+61232_0263_00330;330;;Chemin du Tertre;61700;61232;Lonlay-l'Abbaye;;Le Tertre;-0.715647;48.643274
+61232_a002_00003;3;;Lotissement du Clos;61700;61232;Lonlay-l'Abbaye;;;-0.700494;48.646753
+61232_a001_00020;20;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.709985;48.643003
+61232_0052_01750;1750;;Route de Domfront;61700;61232;Lonlay-l'Abbaye;;Les Isles;-0.699642;48.633671
+61232_0123_01660;1660;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;La Fournerie;-0.705889;48.656788
+61232_0162_02145;2145;;Route du Châtellier;61700;61232;Lonlay-l'Abbaye;;La Verdrie;-0.695433;48.622363
+61232_0248_00700;700;;Chemin de la Reinière;61700;61232;Lonlay-l'Abbaye;;La Reinière;-0.68528;48.662805
+61232_0228_00098;98;;Chemin du Moulin de Bridé;61700;61232;Lonlay-l'Abbaye;;Moulin de Bridé;-0.723071;48.662551
+61232_0262_00911;911;;Route de la Tablère;61700;61232;Lonlay-l'Abbaye;;La Houdonnière;-0.725521;48.647062
+61232_0264_00670;670;;Chemin de la Thélinière;61700;61232;Lonlay-l'Abbaye;;La Thélinière;-0.690651;48.660263
+61232_0248_00480;480;;Chemin de la Reinière;61700;61232;Lonlay-l'Abbaye;;La Reinière;-0.682482;48.662191
+61232_0211_00540;540;;Chemin de la Huberdière;61700;61232;Lonlay-l'Abbaye;;Château d'eau;-0.664659;48.656241
+61232_0246_00124;124;;Chemin de Ranfougeray;61700;61232;Lonlay-l'Abbaye;;Les Voies;-0.696239;48.646004
+61232_0235_00264;264;;Chemin de la Peignerie Masseron;61700;61232;Lonlay-l'Abbaye;;La Peignerie Masseron;-0.690946;48.675
+61232_0234_00443;443;;Chemin de la Peignerie Bouvet;61700;61232;Lonlay-l'Abbaye;;La Peignerie Bouvet;-0.665133;48.663524
+61232_0181_00318;318;;Route de l'Être-Chédeville;61700;61232;Lonlay-l'Abbaye;;La Bistière;-0.722326;48.657195
+61232_0150_00516;516;;Chemin des Bruyères des Bordeaux;61700;61232;Lonlay-l'Abbaye;;Les Bruyères des Bordeaux;-0.687248;48.683043
+61232_0230_02781;2781;;Route des Noës;61700;61232;Lonlay-l'Abbaye;;Les Noës;-0.689139;48.673213
+61232_0156_01451;1451;;Chemin du Cerisier;61700;61232;Lonlay-l'Abbaye;;Le Cerisier;-0.757452;48.635391
+61232_0259_00351;351;;Chemin de la Savrière;61700;61232;Lonlay-l'Abbaye;;La Savrière;-0.718581;48.634346
+61232_0242_00139;139;;Chemin de la Provostière Montaufray;61700;61232;Lonlay-l'Abbaye;;La Provostière Montaufray;-0.706915;48.628869
+61232_0040_00004_bis;4;bis;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.709461;48.647611
+61232_0040_00005;5;;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.70967;48.647592
+61232_0223_00459;459;;Route de la Mare;61700;61232;Lonlay-l'Abbaye;;La Mare;-0.6807;48.67675
+61232_0249_00473;473;;Chemin de la Retoudière;61700;61232;Lonlay-l'Abbaye;;La Retoudière;-0.710614;48.659458
+61232_0271_00094;94;;Impasse des Voies;61700;61232;Lonlay-l'Abbaye;;Les Voies;-0.696729;48.646682
+61232_0186_00079;79;;Chemin de la Foisonnière;61700;61232;Lonlay-l'Abbaye;;La Foisonnière;-0.672204;48.626865
+61232_a003_00001;1;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.711143;48.641549
+61232_0160_00164;164;;Chemin de la Chapellière;61700;61232;Lonlay-l'Abbaye;;La Chapellière;-0.746347;48.644139
+61232_0169_00002;2;;Chemin du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.702634;48.645835
+61232_0100_00016;16;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.707902;48.647098
+61232_0197_00920;920;;Chemin de la Gérardière;61700;61232;Lonlay-l'Abbaye;;La Gérardière;-0.675476;48.635811
+61232_0193_00110;110;;Allée Gallo-Romaine;61700;61232;Lonlay-l'Abbaye;;Les Bordeaux;-0.697644;48.690267
+61232_0240_00975;975;;Route des Petits Étangs;61700;61232;Lonlay-l'Abbaye;;La Grange;-0.705128;48.680091
+61232_0080_00010;10;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.711682;48.645964
+61232_0147_00195;195;;Chemin de la Bouvrie;61700;61232;Lonlay-l'Abbaye;;La Bouvrie;-0.690547;48.626944
+61232_0100_00001;1;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.709243;48.64706
+61232_0121_00004_ter;4;ter;Route du Stade;61700;61232;Lonlay-l'Abbaye;;;-0.711551;48.64403
+61232_0133_00502;502;;Chemin des Aunays;61700;61232;Lonlay-l'Abbaye;;Les Aunays;-0.735;48.665691
+61232_0080_00005;5;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.711265;48.645692
+61232_0192_00311;311;;Chemin de la Gagnonnière;61700;61232;Lonlay-l'Abbaye;;La Gagnonnière;-0.66284;48.652425
+61232_0020_00003;3;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.710646;48.646323
+61232_0203_00300;300;;Route de la Guerche-Carrée;61700;61232;Lonlay-l'Abbaye;;La Guerche-Carrée;-0.727425;48.639933
+61232_0271_00120;120;;Impasse des Voies;61700;61232;Lonlay-l'Abbaye;;Les Voies;-0.697102;48.646656
+61232_0246_00418;418;;Chemin de Ranfougeray;61700;61232;Lonlay-l'Abbaye;;Ranfougeray;-0.694904;48.643595
+61232_0040_00008_bis;8;bis;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.709266;48.647998
+61232_0199_00009;9;;Impasse du Grand Pré;61700;61232;Lonlay-l'Abbaye;;Le Grand Pré;-0.708851;48.642759
+61232_0222_00780;780;;Chemin de la Macère;61700;61232;Lonlay-l'Abbaye;;La Macère;-0.675308;48.64849
+61232_0193_00030;30;;Allée Gallo-Romaine;61700;61232;Lonlay-l'Abbaye;;Les Bordeaux;-0.696627;48.68971
+61232_0178_00076;76;;Chemin de l'Étang de Larchamp;61700;61232;Lonlay-l'Abbaye;;La Mare;-0.680975;48.676955
+61232_0040_00001;1;;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.709761;48.647314
+61232_a003_00006;6;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.711758;48.641879
+61232_0050_00005;5;;Place Jules Levée;61700;61232;Lonlay-l'Abbaye;;;-0.709816;48.64712
+61232_0123_00018;18;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;;-0.707459;48.647658
+61232_0051_01571;1571;;Route de Beauchêne;61700;61232;Lonlay-l'Abbaye;;Égrenne;-0.717411;48.660784
+61232_0262_00442;442;;Route de la Tablère;61700;61232;Lonlay-l'Abbaye;;La Chevallerie Pilet;-0.720668;48.648519
+61232_0020_00006;6;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.710404;48.646169
+61232_0020_00007;7;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.710691;48.646532
+61232_0189_00252;252;;Chemin de la Fouquière;61700;61232;Lonlay-l'Abbaye;;La Fouquière;-0.657175;48.642371
+61232_0158_00309;309;;Chemin des Champs;61700;61232;Lonlay-l'Abbaye;;Les Champs;-0.732925;48.638396
+61232_0166_00466;466;;Chemin de la Chevallerie aux Lièvres;61700;61232;Lonlay-l'Abbaye;;La Chevallerie aux Lièvres;-0.674757;48.656361
+61232_0100_00014;14;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.708103;48.647202
+61232_0270_00307;307;;Chemin de la Vesquière;61700;61232;Lonlay-l'Abbaye;;La Vesquière;-0.66368;48.64907
+61232_0246_00032;32;;Chemin de Ranfougeray;61700;61232;Lonlay-l'Abbaye;;Les Voies;-0.695961;48.647119
+61232_0186_00098;98;;Chemin de la Foisonnière;61700;61232;Lonlay-l'Abbaye;;La Foisonnière;-0.671445;48.62648
+61232_0261_00002;2;;Place de la Superette;61700;61232;Lonlay-l'Abbaye;;1er étage;-0.711303;48.645094
+61232_0100_00024;24;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.706547;48.646007
+61232_zujvo3_00091;91;;Impasse de la Thierrière;61700;61232;Lonlay-l'Abbaye;;La Thierrière;-0.679481;48.646455
+61232_0255_00029;29;;Sentier de la Ruelle;61700;61232;Lonlay-l'Abbaye;;;-0.712812;48.645461
+61232_a003_00009;9;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.711409;48.641293
+61232_0230_01620;1620;;Route des Noës;61700;61232;Lonlay-l'Abbaye;;La Fouchellière;-0.694159;48.664179
+61232_0121_00003;3;;Route du Stade;61700;61232;Lonlay-l'Abbaye;;;-0.711141;48.644324
+61232_a005_00015;15;;Lotissement le Val;61700;61232;Lonlay-l'Abbaye;;;-0.71367;48.642431
+61232_0080_00009;9;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.711503;48.645772
+61232_0230_01619;1619;;Route des Noës;61700;61232;Lonlay-l'Abbaye;;La Fouchellière;-0.694458;48.664147
+61232_0019_00002;2;;Route de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;;-0.705142;48.646359
+61232_0172_01451;1451;;Chemin de la Couvrie;61700;61232;Lonlay-l'Abbaye;;La Couvrie;-0.721399;48.626116
+61232_0080_00012_bis;12;bis;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.71223;48.646073
+61232_0140_00195;195;;Chemin du Bois Viel;61700;61232;Lonlay-l'Abbaye;;Le Bois Viel;-0.673835;48.659969
+61232_a002_00011;11;;Lotissement du Clos;61700;61232;Lonlay-l'Abbaye;;;-0.700988;48.645699
+61232_0019_00008;8;;Route de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.701465;48.647175
+61232_0269_00235;235;;Chemin de la Verdrie;61700;61232;Lonlay-l'Abbaye;;La Verdrie;-0.698619;48.623365
+61232_0263_00523;523;;Chemin du Tertre;61700;61232;Lonlay-l'Abbaye;;Le Tertre - Château d'eau;-0.715559;48.645197
+61232_0203_00321;321;;Route de la Guerche-Carrée;61700;61232;Lonlay-l'Abbaye;;La Guerche-Carrée;-0.72715;48.639666
+61232_0262_03420;3420;;Route de la Tablère;61700;61232;Lonlay-l'Abbaye;;La Tablère;-0.760388;48.645617
+61232_0041_00002_bis;2;bis;Route du Val;61700;61232;Lonlay-l'Abbaye;;MAM des Loulous;-0.712628;48.644312
+61232_0164_02718;2718;;Route du Chemin Grippon;61700;61232;Lonlay-l'Abbaye;;La Haute Boudière;-0.668112;48.625355
+61232_0270_00343;343;;Chemin de la Vesquière;61700;61232;Lonlay-l'Abbaye;;La Vesquière;-0.663217;48.649129
+61232_0134_00580;580;;Chemin des Barres;61700;61232;Lonlay-l'Abbaye;;La Besnerie;-0.70239;48.662996
+61232_0229_00011;11;;Chemin du Nézement;61700;61232;Lonlay-l'Abbaye;;Le Nézement;-0.746395;48.658069
+61232_0168_00150;150;;Chemin de Choisel;61700;61232;Lonlay-l'Abbaye;;Choisel;-0.654927;48.621807
+61232_0194_00444;444;;Chemin du Gas;61700;61232;Lonlay-l'Abbaye;;Le Gas;-0.67287;48.683759
+61232_0189_00270;270;;Chemin de la Fouquière;61700;61232;Lonlay-l'Abbaye;;La Fouquière;-0.656971;48.642044
+61232_0172_00916;916;;Chemin de la Couvrie;61700;61232;Lonlay-l'Abbaye;;Le Fay - Le Château de la Bière;-0.715022;48.626177
+61232_0020_00005;5;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.710576;48.646372
+61232_a001_00007;7;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.710769;48.643012
+61232_0052_00002;2;;Route de Domfront;61700;61232;Lonlay-l'Abbaye;;;-0.709314;48.646824
+61232_0138_00201;201;;Chemin de la Bévinière;61700;61232;Lonlay-l'Abbaye;;La Bevinière;-0.712727;48.651225
+61232_0050_00011;11;;Place Jules Levée;61700;61232;Lonlay-l'Abbaye;;;-0.709307;48.647039
+61232_0120_00007;7;;Place Saint Sauveur;61700;61232;Lonlay-l'Abbaye;;;-0.710161;48.645317
+61232_0186_00149;149;;Chemin de la Foisonnière;61700;61232;Lonlay-l'Abbaye;;La Foisonnière;-0.670906;48.626676
+61232_0019_00014;14;;Route de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.69924;48.647154
+61232_0162_02161;2161;;Route du Châtellier;61700;61232;Lonlay-l'Abbaye;;La Verdrie;-0.695714;48.622759
+61232_0080_00012;12;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.712031;48.646076
+61232_0159_00769;769;;Route de Chanu;61700;61232;Lonlay-l'Abbaye;;La Villière;-0.662187;48.675597
+61232_m76mr1_00132;132;;Impasse d'Hélène;61700;61232;Lonlay-l'Abbaye;;Le Nézement;-0.745695;48.658507
+61232_0051_00889;889;;Route de Beauchêne;61700;61232;Lonlay-l'Abbaye;;La Mancellière;-0.713548;48.655302
+61232_0181_03651;3651;;Route de l'Être-Chédeville;61700;61232;Lonlay-l'Abbaye;;Le Haut Faux;-0.755709;48.664556
+61232_0050_00017;17;;Place Jules Levée;61700;61232;Lonlay-l'Abbaye;;;-0.709772;48.6467
+61232_0020_00014;14;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.710291;48.646331
+61232_0193_00111;111;;Allée Gallo-Romaine;61700;61232;Lonlay-l'Abbaye;;Les Bordeaux;-0.698457;48.689877
+61232_0138_00202;202;;Chemin de la Bévinière;61700;61232;Lonlay-l'Abbaye;;La Bevinière;-0.712609;48.651115
+61232_0020_00013;13;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.710528;48.646563
+61232_0214_00325;325;;Chemin de la Josselinière;61700;61232;Lonlay-l'Abbaye;;La Richardière;-0.686245;48.623267
+61232_0214_00323;323;;Chemin de la Josselinière;61700;61232;Lonlay-l'Abbaye;;La Richardière;-0.686366;48.623083
+61232_0169_00006;6;;Chemin du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.701389;48.64604
+61232_a001_00004;4;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.710308;48.642967
+61232_0100_00010;10;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.708292;48.647191
+61232_0020_00018;18;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.71005;48.646445
+61232_0185_04715;4715;;Route de Flers;61700;61232;Lonlay-l'Abbaye;;L'Épine Orbière;-0.658035;48.669454
+61232_0052_00003;3;;Route de Domfront;61700;61232;Lonlay-l'Abbaye;;;-0.70879;48.646771
+61232_0052_00007;7;;Route de Domfront;61700;61232;Lonlay-l'Abbaye;;;-0.707939;48.646366
+61232_0120_00003_a;3;a;Place Saint Sauveur;61700;61232;Lonlay-l'Abbaye;;;-0.709569;48.64524
+61232_0164_01580;1580;;Route du Chemin Grippon;61700;61232;Lonlay-l'Abbaye;;Les Guimondières;-0.680345;48.629749
+61232_0189_00227;227;;Chemin de la Fouquière;61700;61232;Lonlay-l'Abbaye;;La Fouquière;-0.656341;48.642899
+61232_0250_00635;635;;Chemin de la Roche au Vesque;61700;61232;Lonlay-l'Abbaye;;La Roche au Vesque;-0.654192;48.630524
+61232_0159_00890;890;;Route de Chanu;61700;61232;Lonlay-l'Abbaye;;La Villière;-0.662081;48.676986
+61232_0248_00592;592;;Chemin de la Reinière;61700;61232;Lonlay-l'Abbaye;;La Reinière;-0.684176;48.662495
+61232_0230_02850;2850;;Route des Noës;61700;61232;Lonlay-l'Abbaye;;Les Noës;-0.687593;48.673897
+61232_a003_00018;18;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.71218;48.64143
+61232_0160_00305;305;;Chemin de la Chapellière;61700;61232;Lonlay-l'Abbaye;;La Chapellière;-0.745657;48.643039
+61232_0179_00161;161;;Impasse de l'Être Chapron;61700;61232;Lonlay-l'Abbaye;;L'Être Chapron;-0.716874;48.628501
+61232_0164_02720;2720;;Route du Chemin Grippon;61700;61232;Lonlay-l'Abbaye;;La Haute Boudière;-0.668648;48.62514
+61232_0123_00007;7;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;;-0.707071;48.646627
+61232_0213_00090;90;;Impasse des Isles;61700;61232;Lonlay-l'Abbaye;;Les Isles;-0.700325;48.634104
+61232_0190_00071;71;;Chemin de la Fournerie;61700;61232;Lonlay-l'Abbaye;;La Fournerie;-0.7051;48.65711
+61232_0233_00042;42;;Chemin de la Passée Bouvet;61700;61232;Lonlay-l'Abbaye;;La Passée Bouvet;-0.696987;48.648052
+61232_0191_01214;1214;;Route de Froidebise;61700;61232;Lonlay-l'Abbaye;;La Bistière;-0.720889;48.65814
+61232_0052_01670;1670;;Route de Domfront;61700;61232;Lonlay-l'Abbaye;;Les Isles;-0.699036;48.633761
+61232_0140_00235;235;;Chemin du Bois Viel;61700;61232;Lonlay-l'Abbaye;;Le Bois Viel;-0.673469;48.659723
+61232_0242_00158;158;;Chemin de la Provostière Montaufray;61700;61232;Lonlay-l'Abbaye;;La Provostière Montaufray;-0.708298;48.629263
+61232_0199_00005;5;;Impasse du Grand Pré;61700;61232;Lonlay-l'Abbaye;;Le Grand Pré;-0.709884;48.642227
+61232_0251_00400;400;;Chemin de la Roche Louvel;61700;61232;Lonlay-l'Abbaye;;La Roche Louvel;-0.694148;48.674008
+61232_0199_00002;2;;Impasse du Grand Pré;61700;61232;Lonlay-l'Abbaye;;Le Grand Pré;-0.710241;48.641838
+61232_0019_00001;1;;Route de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.701615;48.647954
+61232_0158_00190;190;;Chemin des Champs;61700;61232;Lonlay-l'Abbaye;;Les Champs;-0.734425;48.639752
+61232_0150_00515;515;;Chemin des Bruyères des Bordeaux;61700;61232;Lonlay-l'Abbaye;;Les Bruyères des Bordeaux;-0.687231;48.685006
+61232_0242_00108;108;;Chemin de la Provostière Montaufray;61700;61232;Lonlay-l'Abbaye;;La Provostière Montaufray;-0.707651;48.629264
+61232_a005_00010;10;;Lotissement le Val;61700;61232;Lonlay-l'Abbaye;;;-0.714745;48.642366
+61232_0235_00121;121;;Chemin de la Peignerie Masseron;61700;61232;Lonlay-l'Abbaye;;La Peignerie Masseron;-0.688899;48.675523
+61232_0156_01312;1312;;Chemin du Cerisier;61700;61232;Lonlay-l'Abbaye;;Le Cerisier;-0.755605;48.636045
+61232_0040_00013_bis;13;bis;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;Gîte;-0.709422;48.648453
+61232_0182_00370;370;;Impasse de l'Être-Laizé;61700;61232;Lonlay-l'Abbaye;;L'Être-Laizé;-0.698678;48.672143
+61232_0215_00169;169;;Chemin de Ker-Maria;61700;61232;Lonlay-l'Abbaye;;Le Bas Faux;-0.756118;48.658585
+61232_0223_00623;623;;Route de la Mare;61700;61232;Lonlay-l'Abbaye;;La Mare;-0.679148;48.677816
+61232_0040_00010;10;;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.709084;48.648144
+61232_0157_00186;186;;Chemin de Champ-Guichon;61700;61232;Lonlay-l'Abbaye;;Champ-Guichon;-0.68013;48.666144
+61232_0144_00178;178;;Chemin de la Bourbissière;61700;61232;Lonlay-l'Abbaye;;La Bourbissière;-0.747416;48.663775
+61232_0266_00255;255;;Chemin de la Vaillette;61700;61232;Lonlay-l'Abbaye;;La Vaillette;-0.710138;48.664805
+61232_0120_00004;4;;Place Saint Sauveur;61700;61232;Lonlay-l'Abbaye;;;-0.709655;48.645141
+61232_0100_00015;15;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.708761;48.647614
+61232_0265_00130;130;;Chemin de la Thomassière;61700;61232;Lonlay-l'Abbaye;;La Thomassière;-0.687026;48.653821
+61232_0163_00087;87;;Chemin de la Chauvinière;61700;61232;Lonlay-l'Abbaye;;La Chauvinière;-0.717093;48.656053
+61232_0053_00001;1;;Rue de Rouellé;61700;61232;Lonlay-l'Abbaye;;;-0.710284;48.645369
+61232_0041_00005;5;;Route du Val;61700;61232;Lonlay-l'Abbaye;;Le Val;-0.716526;48.642601
+61232_0207_00140;140;;Chemin de la Héyère Bidard;61700;61232;Lonlay-l'Abbaye;;La Héyère Bidard;-0.646888;48.632905
+61232_0263_00750;750;;Chemin du Tertre;61700;61232;Lonlay-l'Abbaye;;Le Tertre;-0.716677;48.646739
+61232_0123_01480;1480;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;La Fournerie;-0.706314;48.655396
+61232_0252_00353;353;;Impasse du Rocher;61700;61232;Lonlay-l'Abbaye;;Le Rocher;-0.677477;48.62402
+61232_0240_00835;835;;Route des Petits Étangs;61700;61232;Lonlay-l'Abbaye;;Le Brulay;-0.706615;48.678884
+61232_0154_00025;25;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.704232;48.647894
+61232_0205_00382;382;;Chemin des Guernelles;61700;61232;Lonlay-l'Abbaye;;Les Guernelles;-0.669396;48.670373
+61232_0217_00175;175;;Allée de Launay;61700;61232;Lonlay-l'Abbaye;;Launay;-0.752093;48.664849
+61232_a003_00022;22;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.711864;48.64108
+61232_0052_00029;29;;Route de Domfront;61700;61232;Lonlay-l'Abbaye;;Salle Sainte Thérèse;-0.708983;48.64629
+61232_0041_00011;11;;Route du Val;61700;61232;Lonlay-l'Abbaye;;Le Val;-0.718996;48.641986
+61232_a005_00006;6;;Lotissement le Val;61700;61232;Lonlay-l'Abbaye;;;-0.715284;48.642359
+61232_0185_04600;4600;;Route de Flers;61700;61232;Lonlay-l'Abbaye;;L'Épine Orbière;-0.659649;48.668853
+61232_0196_00001;1;;Route de Ger;61700;61232;Lonlay-l'Abbaye;;La Favrie;-0.714579;48.648235
+61232_a001_00018;18;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.709886;48.642813
+61232_0154_00013;13;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.705647;48.648006
+61232_0121_00013;13;;Route du Stade;61700;61232;Lonlay-l'Abbaye;;;-0.709756;48.641019
+61232_0264_00515;515;;Chemin de la Thélinière;61700;61232;Lonlay-l'Abbaye;;La Thélinière;-0.689545;48.659509
+61232_0131_00002;2;;Allée Âges et Vie;61700;61232;Lonlay-l'Abbaye;;;-0.712578;48.643373
+61232_0264_00450;450;;Chemin de la Thélinière;61700;61232;Lonlay-l'Abbaye;;La Thélinière;-0.688837;48.659756
+61232_0150_00518;518;;Chemin des Bruyères des Bordeaux;61700;61232;Lonlay-l'Abbaye;;Les Bruyères des Bordeaux;-0.686872;48.683842
+61232_0164_01540;1540;;Route du Chemin Grippon;61700;61232;Lonlay-l'Abbaye;;Les Guimondières;-0.680786;48.629952
+61232_0053_00009;9;;Rue de Rouellé;61700;61232;Lonlay-l'Abbaye;;;-0.710546;48.644841
+61232_0249_00370;370;;Chemin de la Retoudière;61700;61232;Lonlay-l'Abbaye;;La Retoudière;-0.709704;48.660628
+61232_a001_00003;3;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.710285;48.64291
+61232_0264_00600;600;;Chemin de la Thélinière;61700;61232;Lonlay-l'Abbaye;;La Thélinière;-0.690198;48.660239
+61232_0223_00531;531;;Route de la Mare;61700;61232;Lonlay-l'Abbaye;;La Mare;-0.680028;48.677082
+61232_0229_00237;237;;Chemin du Nézement;61700;61232;Lonlay-l'Abbaye;;Le Nézement;-0.745479;48.658094
+61232_0242_00289;289;;Chemin de la Provostière Montaufray;61700;61232;Lonlay-l'Abbaye;;La Provostière Montaufray;-0.71014;48.629389
+61232_0157_00165;165;;Chemin de Champ-Guichon;61700;61232;Lonlay-l'Abbaye;;Champ-Guichon;-0.679218;48.666385
+61232_0191_00036;36;;Route de Froidebise;61700;61232;Lonlay-l'Abbaye;;La Favrie;-0.714375;48.648627
+61232_a005_00005;5;;Lotissement le Val;61700;61232;Lonlay-l'Abbaye;;;-0.715229;48.64209
+61232_0154_00005;5;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.705395;48.647526
+61232_0171_00132;132;;Chemin de la Collardière;61700;61232;Lonlay-l'Abbaye;;La Collardière;-0.737728;48.671027
+61232_0174_00350;350;;Chemin de l'Épine Heuzé;61700;61232;Lonlay-l'Abbaye;;L'Épine Heuzé;-0.70387;48.674248
+61232_0040_00009;9;;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.709518;48.647942
+61232_0135_00224;224;;Chemin de la Barthelière;61700;61232;Lonlay-l'Abbaye;;Le Grand Champ;-0.661533;48.637385
+61232_0168_00240;240;;Chemin de Choisel;61700;61232;Lonlay-l'Abbaye;;Choisel;-0.654076;48.622172
+61232_0050_00007;7;;Place Jules Levée;61700;61232;Lonlay-l'Abbaye;;;-0.70974;48.647231
+61232_0235_00256;256;;Chemin de la Peignerie Masseron;61700;61232;Lonlay-l'Abbaye;;La Peignerie Masseron;-0.690798;48.675057
+61232_0040_00007;7;;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.709592;48.647813
+61232_0166_00469;469;;Chemin de la Chevallerie aux Lièvres;61700;61232;Lonlay-l'Abbaye;;La Chevallerie aux Lièvres;-0.67431;48.656305
+61232_0194_00530;530;;Chemin du Gas;61700;61232;Lonlay-l'Abbaye;;Le Gas;-0.673803;48.683304
+61232_0051_00865;865;;Route de Beauchêne;61700;61232;Lonlay-l'Abbaye;;La Mancellière;-0.713008;48.655267
+61232_0123_01570;1570;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;La Fournerie;-0.705952;48.65636
+61232_0214_01060;1060;;Chemin de la Josselinière;61700;61232;Lonlay-l'Abbaye;;La Josselinière;-0.679813;48.619316
+61232_0211_00315;315;;Chemin de la Huberdière;61700;61232;Lonlay-l'Abbaye;;La Roche l'Homer;-0.665474;48.657763
+61232_0253_00130;130;;Chemin des Rochers;61700;61232;Lonlay-l'Abbaye;;Les Rochers;-0.758035;48.631427
+61232_0166_00471;471;;Chemin de la Chevallerie aux Lièvres;61700;61232;Lonlay-l'Abbaye;;La Chevallerie aux Lièvres;-0.674101;48.656331
+61232_0247_00010;10;;Chemin de la Réauté;61700;61232;Lonlay-l'Abbaye;;La Réauté;-0.646262;48.637343
+61232_0181_01771;1771;;Route de l'Être-Chédeville;61700;61232;Lonlay-l'Abbaye;;La Breslière;-0.738253;48.662353
+61232_0121_00011;11;;Route du Stade;61700;61232;Lonlay-l'Abbaye;;;-0.709881;48.641289
+61232_0134_00780;780;;Chemin des Barres;61700;61232;Lonlay-l'Abbaye;;Les Barres;-0.701008;48.664654
+61232_g3ur4o_00200;200;;Impasse du Lac Caché;61700;61232;Lonlay-l'Abbaye;;Le Cerisier;-0.763466;48.63454
+61232_0257_00001;1;;Impasse Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.706087;48.647139
+61232_0233_00313;313;;Chemin de la Passée Bouvet;61700;61232;Lonlay-l'Abbaye;;La Bouvetière;-0.698482;48.65028
+61232_0253_00090;90;;Chemin des Rochers;61700;61232;Lonlay-l'Abbaye;;Les Rochers;-0.758373;48.631218
+61232_0246_00466;466;;Chemin de Ranfougeray;61700;61232;Lonlay-l'Abbaye;;Ranfougeray;-0.693948;48.643493
+61232_0154_00027;27;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.704125;48.647699
+61232_a001_00017;17;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.709607;48.642997
+61232_0185_04696;4696;;Route de Flers;61700;61232;Lonlay-l'Abbaye;;L'Épine Orbière;-0.658208;48.669059
+61232_0173_00186;186;;Chemin de la Douardière;61700;61232;Lonlay-l'Abbaye;;La Douardière;-0.686722;48.654581
+61232_0120_00005;5;;Place Saint Sauveur;61700;61232;Lonlay-l'Abbaye;;Médiathèque;-0.709706;48.645054
+61232_0152_00397;397;;Chemin de la Bunoudière;61700;61232;Lonlay-l'Abbaye;;La Bunoudière;-0.667214;48.632801
+61232_0237_00001;1;;Impasse du Petit Pré;61700;61232;Lonlay-l'Abbaye;;;-0.710294;48.644399
+61232_0209_00237;237;;Chemin de la Houdonnière;61700;61232;Lonlay-l'Abbaye;;La Houdonnière;-0.727321;48.646551
+61232_0145_00580;580;;Chemin de la Bouscaudière;61700;61232;Lonlay-l'Abbaye;;La Bouscaudière;-0.676401;48.633593
+61232_b270_00003;3;;Lotissement de la Patte d'Oie;61700;61232;Lonlay-l'Abbaye;;;-0.711912;48.643705
+61232_0229_00157;157;;Chemin du Nézement;61700;61232;Lonlay-l'Abbaye;;Le Nézement;-0.7457;48.657684
+61232_0181_02259;2259;;Route de l'Être-Chédeville;61700;61232;Lonlay-l'Abbaye;;L'Être-Chédeville;-0.739566;48.66404
+61232_0190_00106;106;;Chemin de la Fournerie;61700;61232;Lonlay-l'Abbaye;;La Fournerie;-0.704752;48.656866
+61232_0233_00763;763;;Chemin de la Passée Bouvet;61700;61232;Lonlay-l'Abbaye;;La Passée Bouvet;-0.695141;48.653418
+61232_0200_01500;1500;;Route de Grille-Souris;61700;61232;Lonlay-l'Abbaye;;La Croix Simon;-0.727007;48.633589
+61232_0205_00540;540;;Chemin des Guernelles;61700;61232;Lonlay-l'Abbaye;;Les Guernelles;-0.671001;48.670553
+61232_0053_00011;11;;Rue de Rouellé;61700;61232;Lonlay-l'Abbaye;;;-0.710856;48.64493
+61232_0167_00126;126;;Impasse de la Chevallerie-Pilet;61700;61232;Lonlay-l'Abbaye;;La Chevallerie Pilet;-0.719506;48.6482
+61232_0121_00002;2;;Route du Stade;61700;61232;Lonlay-l'Abbaye;;;-0.711795;48.644137
+61232_0160_00145;145;;Chemin de la Chapellière;61700;61232;Lonlay-l'Abbaye;;La Chapellière;-0.745023;48.643813
+61232_a002_00010;10;;Lotissement du Clos;61700;61232;Lonlay-l'Abbaye;;;-0.700637;48.64584
+61232_0247_00005;5;;Chemin de la Réauté;61700;61232;Lonlay-l'Abbaye;;La Réauté;-0.647078;48.637008
+61232_0159_00954;954;;Route de Chanu;61700;61232;Lonlay-l'Abbaye;;La Villière;-0.662286;48.677483
+61232_0216_00063;63;;Route de Larchamp;61700;61232;Lonlay-l'Abbaye;;Les Bordeaux;-0.696493;48.689087
+61232_0147_00133;133;;Chemin de la Bouvrie;61700;61232;Lonlay-l'Abbaye;;La Bouvrie;-0.690892;48.627928
+61232_0235_00125;125;;Chemin de la Peignerie Masseron;61700;61232;Lonlay-l'Abbaye;;La Peignerie Masseron;-0.68933;48.67566
+61232_a001_00002;2;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.710264;48.642802
+61232_0142_00720;720;;Chemin de la Bonnefantière;61700;61232;Lonlay-l'Abbaye;;La Bonnefantière;-0.721251;48.631077
+61232_0184_00686;686;;Allée de la Ferme;61700;61232;Lonlay-l'Abbaye;;Froidebise;-0.745687;48.67499
+61232_0040_00004;4;;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.709526;48.647434
+61232_0123_00012;12;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;;-0.707013;48.647292
+61232_0123_00024;24;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;;-0.707911;48.648494
+61232_a002_00005;5;;Lotissement du Clos;61700;61232;Lonlay-l'Abbaye;;;-0.69967;48.646761
+61232_0123_00008;8;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;;-0.705951;48.645961
+61232_0191_01220;1220;;Route de Froidebise;61700;61232;Lonlay-l'Abbaye;;La Bistière;-0.720657;48.658057
+61232_0236_00511;511;;Chemin du Périer;61700;61232;Lonlay-l'Abbaye;;Le Périer;-0.75253;48.6411
+61232_0154_00019;19;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.704919;48.648261
+61232_0020_00010;10;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.710346;48.646282
+61232_0208_00504;504;;Chemin de la Houdière;61700;61232;Lonlay-l'Abbaye;;La Houdière;-0.738399;48.633614
+61232_0050_00008;8;;Place Jules Levée;61700;61232;Lonlay-l'Abbaye;;;-0.7095;48.647237
+61232_0175_00015_bis;15;bis;Route de l'Épine-Orbière;61700;61232;Lonlay-l'Abbaye;;L’Epine Orbiere-Sud;-0.657097;48.669331
+61232_0261_00004;4;;Place de la Superette;61700;61232;Lonlay-l'Abbaye;;1er étage;-0.711316;48.645066
+61232_0147_00230;230;;Chemin de la Bouvrie;61700;61232;Lonlay-l'Abbaye;;La Bouvrie;-0.690792;48.626511
+61232_0164_01280;1280;;Route du Chemin Grippon;61700;61232;Lonlay-l'Abbaye;;Les Guimondières;-0.683911;48.630767
+61232_0156_01410;1410;;Chemin du Cerisier;61700;61232;Lonlay-l'Abbaye;;Le Cerisier;-0.756525;48.635247
+61232_0269_00093;93;;Chemin de la Verdrie;61700;61232;Lonlay-l'Abbaye;;La Verdrie;-0.696823;48.622886
+61232_0237_00003;3;;Impasse du Petit Pré;61700;61232;Lonlay-l'Abbaye;;;-0.710129;48.644312
+61232_0254_00679;679;;Route de Rouellé;61700;61232;Lonlay-l'Abbaye;;La Brousse;-0.706058;48.635483
+61232_0100_00008;8;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.708359;48.64715
+61232_0100_00019;19;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.707511;48.646999
+61232_0050_00001;1;;Place Jules Levée;61700;61232;Lonlay-l'Abbaye;;;-0.710045;48.646865
+61232_0080_00019;19;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.712017;48.645927
+61232_0164_03333;3333;;Route du Chemin Grippon;61700;61232;Lonlay-l'Abbaye;;Le Chemin Grippon;-0.659578;48.624678
+61232_0171_00183;183;;Chemin de la Collardière;61700;61232;Lonlay-l'Abbaye;;La Collardière;-0.737191;48.670482
+61232_0194_00448;448;;Chemin du Gas;61700;61232;Lonlay-l'Abbaye;;Le Gas;-0.674237;48.683709
+61232_0100_00017;17;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.708275;48.647698
+61232_0145_00441;441;;Chemin de la Bouscaudière;61700;61232;Lonlay-l'Abbaye;;La Bouscaudière;-0.676978;48.632141
+61232_0120_00012;12;;Place Saint Sauveur;61700;61232;Lonlay-l'Abbaye;;;-0.71085;48.645645
+61232_0040_00015;15;;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.709072;48.648594
+61232_0196_00002;2;;Route de Ger;61700;61232;Lonlay-l'Abbaye;;La Favrie;-0.714296;48.648302
+61232_0020_00002;2;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.710373;48.646033
+61232_0185_04690;4690;;Route de Flers;61700;61232;Lonlay-l'Abbaye;;L'Épine Orbière;-0.658119;48.669178
+61232_0262_00274;274;;Route de la Tablère;61700;61232;Lonlay-l'Abbaye;;La Chevallerie Pilet;-0.718344;48.648726
+61232_0194_00545;545;;Chemin du Gas;61700;61232;Lonlay-l'Abbaye;;Le Gas;-0.673622;48.682764
+61232_0193_00155;155;;Allée Gallo-Romaine;61700;61232;Lonlay-l'Abbaye;;Les Bordeaux;-0.6984;48.690554
+61232_0181_02840;2840;;Route de l'Être-Chédeville;61700;61232;Lonlay-l'Abbaye;;La Bourbissière;-0.746138;48.665712
+61232_0154_00023;23;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.70431;48.648066
+61232_0222_00844;844;;Chemin de la Macère;61700;61232;Lonlay-l'Abbaye;;La Macère;-0.674451;48.648743
+61232_0159_00012;12;;Route de Chanu;61700;61232;Lonlay-l'Abbaye;;L'Épine Orbière;-0.657661;48.669699
+61232_0051_00697;697;;Route de Beauchêne;61700;61232;Lonlay-l'Abbaye;;Moulin Neuf;-0.712801;48.65373
+61232_0154_00010;10;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.704467;48.648004
+61232_0080_00001;1;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.711093;48.645605
+61232_0259_00270;270;;Chemin de la Savrière;61700;61232;Lonlay-l'Abbaye;;La Savrière;-0.719155;48.634961
+61232_0262_00500;500;;Route de la Tablère;61700;61232;Lonlay-l'Abbaye;;La Chevallerie Pilet;-0.721817;48.648393
+61232_0050_00015;15;;Place Jules Levée;61700;61232;Lonlay-l'Abbaye;;;-0.709587;48.646772
+61232_0260_00059;59;;Impasse de la Sinotière;61700;61232;Lonlay-l'Abbaye;;La Sinotière;-0.708002;48.625255
+61232_0040_00004_a;4;a;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.709525;48.64748
+61232_0053_00013;13;;Rue de Rouellé;61700;61232;Lonlay-l'Abbaye;;;-0.711128;48.644785
+61232_0159_00771;771;;Route de Chanu;61700;61232;Lonlay-l'Abbaye;;La Villière;-0.662005;48.675776
+61232_a002_00007;7;;Lotissement du Clos;61700;61232;Lonlay-l'Abbaye;;;-0.699554;48.646405
+61232_0080_00006;6;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.711429;48.645876
+61232_a001_00015;15;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.709562;48.6428
+61232_0164_01460;1460;;Route du Chemin Grippon;61700;61232;Lonlay-l'Abbaye;;Les Guimondières;-0.683314;48.630469
+61232_0123_02655;2655;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;La Vaillette;-0.70816;48.66592
+61232_a003_00014;14;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.712124;48.641663
+61232_0172_01471;1471;;Chemin de la Couvrie;61700;61232;Lonlay-l'Abbaye;;La Couvrie;-0.721339;48.62594
+61232_a002_00008;8;;Lotissement du Clos;61700;61232;Lonlay-l'Abbaye;;;-0.700063;48.646329
+61232_0200_02221;2221;;Route de Grille-Souris;61700;61232;Lonlay-l'Abbaye;;Les Vallées;-0.728869;48.627468
+61232_0209_00120;120;;Chemin de la Houdonnière;61700;61232;Lonlay-l'Abbaye;;La Houdonnière;-0.72797;48.646098
+61232_0154_00004;4;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.705525;48.647745
+61232_0190_00090;90;;Chemin de la Fournerie;61700;61232;Lonlay-l'Abbaye;;La Fournerie;-0.705021;48.656712
+61232_0145_00561;561;;Chemin de la Bouscaudière;61700;61232;Lonlay-l'Abbaye;;La Bouscaudière;-0.676455;48.633282
+61232_0270_00352;352;;Chemin de la Vesquière;61700;61232;Lonlay-l'Abbaye;;La Vesquière;-0.663001;48.64882
+61232_0120_00003;3;;Place Saint Sauveur;61700;61232;Lonlay-l'Abbaye;;Mairie;-0.709595;48.64521
+61232_0199_00003;3;;Impasse du Grand Pré;61700;61232;Lonlay-l'Abbaye;;Le Grand Pré;-0.710133;48.64217
+61232_0200_03250;3250;;Route de Grille-Souris;61700;61232;Lonlay-l'Abbaye;;Grille Souris;-0.738798;48.623205
+61232_0235_00075;75;;Chemin de la Peignerie Masseron;61700;61232;Lonlay-l'Abbaye;;La Peignerie Masseron;-0.688815;48.675948
+61232_0264_01111;1111;;Chemin de la Thélinière;61700;61232;Lonlay-l'Abbaye;;La Thélinière;-0.691678;48.65591
+61232_0255_00123;123;;Sentier de la Ruelle;61700;61232;Lonlay-l'Abbaye;;;-0.713465;48.644935
+61232_0141_00405;405;;Chemin du Bois Ellier;61700;61232;Lonlay-l'Abbaye;;Le Bois Ellier;-0.699371;48.679378
+61232_a001_00013;13;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.710131;48.642444
+61232_0182_00332;332;;Impasse de l'Être-Laizé;61700;61232;Lonlay-l'Abbaye;;L'Être-Laizé;-0.697966;48.672418
+61232_a001_00008;8;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.710717;48.64296
+61232_0052_00005;5;;Route de Domfront;61700;61232;Lonlay-l'Abbaye;;;-0.708084;48.6467
+61232_0223_01591;1591;;Route de la Mare;61700;61232;Lonlay-l'Abbaye;;La Bresderie;-0.668084;48.681715
+61232_0144_00181;181;;Chemin de la Bourbissière;61700;61232;Lonlay-l'Abbaye;;La Bourbissière;-0.747111;48.663765
+61232_0123_00004;4;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;;-0.704693;48.645793
+61232_0231_00090;90;;Impasse des Noës;61700;61232;Lonlay-l'Abbaye;;Les Noës;-0.687574;48.672691
+61232_0132_00865;865;;Chemin de l'Archerie;61700;61232;Lonlay-l'Abbaye;;La Douardière;-0.6802;48.650806
+61232_0100_00018_bis;18;bis;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.707313;48.64658
+61232_a002_00014;14;;Lotissement du Clos;61700;61232;Lonlay-l'Abbaye;;;-0.70098;48.646034
+61232_0153_00089;89;;Impasse de la Butte;61700;61232;Lonlay-l'Abbaye;;La Butte;-0.676117;48.645392
+61232_0259_00026;26;;Chemin de la Savrière;61700;61232;Lonlay-l'Abbaye;;La Savrière;-0.721536;48.636179
+61232_a002_00015;15;;Lotissement du Clos;61700;61232;Lonlay-l'Abbaye;;;-0.700714;48.646271
+61232_0262_00383;383;;Route de la Tablère;61700;61232;Lonlay-l'Abbaye;;La Chevallerie Pilet;-0.72049;48.648142
+61232_0100_00007;7;;Rue de Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.70881;48.647182
+61232_0052_02739;2739;;Route de Domfront;61700;61232;Lonlay-l'Abbaye;;La Hobette;-0.692412;48.625546
+61232_0224_00170;170;;Impasse de la Marette;61700;61232;Lonlay-l'Abbaye;;La Marette;-0.70144;48.625726
+61232_0222_00575;575;;Chemin de la Macère;61700;61232;Lonlay-l'Abbaye;;La Thierrière;-0.677688;48.647518
+61232_0206_00900;900;;Chemin de la Guimardière;61700;61232;Lonlay-l'Abbaye;;La Guimardière;-0.659267;48.66059
+61232_a002_00017;17;;Lotissement du Clos;61700;61232;Lonlay-l'Abbaye;;;-0.701495;48.64655
+61232_0134_00575;575;;Chemin des Barres;61700;61232;Lonlay-l'Abbaye;;La Besnerie;-0.703094;48.66343
+61232_0123_00010;10;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;;-0.706918;48.646829
+61232_0186_00042;42;;Chemin de la Foisonnière;61700;61232;Lonlay-l'Abbaye;;La Foisonnière;-0.671796;48.626351
+61232_a005_00012;12;;Lotissement le Val;61700;61232;Lonlay-l'Abbaye;;;-0.714297;48.6421
+61232_0174_00351;351;;Chemin de l'Épine Heuzé;61700;61232;Lonlay-l'Abbaye;;L'Épine Heuzé;-0.704103;48.674605
+61232_0020_00021;21;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.710231;48.646775
+61232_0123_00020;20;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;;-0.707569;48.64782
+61232_0148_00049;49;;Impasse de la Bresderie;61700;61232;Lonlay-l'Abbaye;;La Bresderie;-0.667613;48.682265
+61232_0041_00002;2;;Route du Val;61700;61232;Lonlay-l'Abbaye;;Service de Secours et d'Incendie;-0.712005;48.644407
+61232_0050_00002;2;;Place Jules Levée;61700;61232;Lonlay-l'Abbaye;;;-0.710015;48.646914
+61232_0183_00052;52;;Impasse du Fay;61700;61232;Lonlay-l'Abbaye;;Le Fay;-0.71479;48.625309
+61232_0123_00013;13;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;La Logerie;-0.708865;48.650005
+61232_0041_00009;9;;Route du Val;61700;61232;Lonlay-l'Abbaye;;Le Val;-0.718302;48.642422
+61232_0164_03365;3365;;Route du Chemin Grippon;61700;61232;Lonlay-l'Abbaye;;Le Chemin Grippon;-0.659064;48.624563
+61232_0147_00181;181;;Chemin de la Bouvrie;61700;61232;Lonlay-l'Abbaye;;La Bouvrie;-0.690857;48.627082
+61232_0151_00185;185;;Chemin des Bruyères-l'Abbé;61700;61232;Lonlay-l'Abbaye;;Les Bruyères-l'Abbé;-0.744076;48.647119
+61232_0142_00700;700;;Chemin de la Bonnefantière;61700;61232;Lonlay-l'Abbaye;;La Bonnefantière;-0.721118;48.630797
+61232_a001_00010;10;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.710635;48.642844
+61232_0041_00006;6;;Route du Val;61700;61232;Lonlay-l'Abbaye;;;-0.713647;48.643255
+61232_0169_00004;4;;Chemin du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos;-0.701681;48.645963
+61232_0135_00535;535;;Chemin de la Barthelière;61700;61232;Lonlay-l'Abbaye;;La Barthelière;-0.657404;48.637878
+61232_0053_00006;6;;Rue de Rouellé;61700;61232;Lonlay-l'Abbaye;;;-0.711398;48.644808
+61232_0209_00147;147;;Chemin de la Houdonnière;61700;61232;Lonlay-l'Abbaye;;La Houdonnière;-0.728404;48.646935
+61232_0140_00215;215;;Chemin du Bois Viel;61700;61232;Lonlay-l'Abbaye;;Le Bois Viel;-0.673578;48.659805
+61232_0080_00002;2;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.711165;48.645802
+61232_0040_00006_bis;6;bis;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.709397;48.647801
+61232_b270_00001;1;;Lotissement de la Patte d'Oie;61700;61232;Lonlay-l'Abbaye;;;-0.712226;48.643782
+61232_a002_00018;18;;Lotissement du Clos;61700;61232;Lonlay-l'Abbaye;;;-0.701383;48.64679
+61232_0121_00001;1;;Route du Stade;61700;61232;Lonlay-l'Abbaye;;;-0.711185;48.644528
+61232_0052_00004;4;;Route de Domfront;61700;61232;Lonlay-l'Abbaye;;;-0.708942;48.646658
+61232_0161_00630;630;;Allée du Château;61700;61232;Lonlay-l'Abbaye;;Froidebise;-0.744003;48.67554
+61232_0145_00447;447;;Chemin de la Bouscaudière;61700;61232;Lonlay-l'Abbaye;;La Bouscaudière;-0.67713;48.632797
+61232_a002_00012;12;;Lotissement du Clos;61700;61232;Lonlay-l'Abbaye;;;-0.701569;48.645593
+61232_0166_00451;451;;Chemin de la Chevallerie aux Lièvres;61700;61232;Lonlay-l'Abbaye;;La Chevallerie aux Lièvres;-0.674163;48.656559
+61232_0120_00003_b;3;b;Place Saint Sauveur;61700;61232;Lonlay-l'Abbaye;;;-0.709511;48.645314
+61232_0123_03333;3333;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;Les Petits Étangs;-0.70984;48.671669
+61232_a002_00004;4;;Lotissement du Clos;61700;61232;Lonlay-l'Abbaye;;;-0.700085;48.646801
+61232_0257_00002;2;;Impasse Saint Nicolas;61700;61232;Lonlay-l'Abbaye;;;-0.705357;48.646992
+61232_0181_02340;2340;;Route de l'Être-Chédeville;61700;61232;Lonlay-l'Abbaye;;L'Être-Chédeville;-0.740297;48.663833
+61232_0191_01210;1210;;Route de Froidebise;61700;61232;Lonlay-l'Abbaye;;La Bistière;-0.721008;48.657896
+61232_0175_00032;32;;Route de l'Épine-Orbière;61700;61232;Lonlay-l'Abbaye;;L'Épine-Orbière;-0.657327;48.669014
+61232_0164_03200;3200;;Route du Chemin Grippon;61700;61232;Lonlay-l'Abbaye;;Le Chemin Grippon;-0.660481;48.624572
+61232_0154_00011;11;;Allée de la Butte du Clos;61700;61232;Lonlay-l'Abbaye;;Le Clos - Lotissement Saint Nicolas;-0.705736;48.647961
+61232_0135_00517;517;;Chemin de la Barthelière;61700;61232;Lonlay-l'Abbaye;;La Barthelière;-0.658501;48.638064
+61232_0250_00773;773;;Chemin de la Roche au Vesque;61700;61232;Lonlay-l'Abbaye;;La Roche au Vesque;-0.653176;48.629429
+61232_0265_00046;46;;Chemin de la Thomassière;61700;61232;Lonlay-l'Abbaye;;La Thomassière;-0.687694;48.654694
+61232_0080_00008;8;;Rue Saint Michel;61700;61232;Lonlay-l'Abbaye;;;-0.711623;48.645946
+61232_0040_00008;8;;Rue Chancerot;61700;61232;Lonlay-l'Abbaye;;;-0.709345;48.647885
+61232_0202_00688;688;;Chemin de la Guélinière;61700;61232;Lonlay-l'Abbaye;;La Guélinière;-0.693445;48.639141
+61232_0269_00220;220;;Chemin de la Verdrie;61700;61232;Lonlay-l'Abbaye;;La Verdrie;-0.698466;48.623451
+61232_0251_00500;500;;Chemin de la Roche Louvel;61700;61232;Lonlay-l'Abbaye;;La Roche Louvel;-0.693951;48.675009
+61232_a001_00009;9;;Lotissement de l'Abbaye;61700;61232;Lonlay-l'Abbaye;;;-0.710712;48.642938
+61232_0020_00023;23;;Rue du Centre;61700;61232;Lonlay-l'Abbaye;;;-0.71011;48.646818
+61232_0262_00470;470;;Route de la Tablère;61700;61232;Lonlay-l'Abbaye;;La Chevallerie Pilet;-0.721169;48.648432
+61232_0159_00724;724;;Route de Chanu;61700;61232;Lonlay-l'Abbaye;;La Villière;-0.661342;48.675459
+61232_0262_00909;909;;Route de la Tablère;61700;61232;Lonlay-l'Abbaye;;La Houdonniére;-0.725379;48.647648
+61232_0167_00069;69;;Impasse de la Chevallerie-Pilet;61700;61232;Lonlay-l'Abbaye;;La Chevallerie Pilet;-0.718774;48.64777
+61232_0205_00415;415;;Chemin des Guernelles;61700;61232;Lonlay-l'Abbaye;;Les Guernelles;-0.670141;48.669669
+61232_0149_00141;141;;Chemin de la Brionnière;61700;61232;Lonlay-l'Abbaye;;La Brionnière;-0.672492;48.642073
+61232_a003_00007;7;;Lotissement du Grand Jardin;61700;61232;Lonlay-l'Abbaye;;;-0.711588;48.641427
+61232_0041_00003;3;;Route du Val;61700;61232;Lonlay-l'Abbaye;;Le Val;-0.715969;48.642628
+61232_0248_00670;670;;Chemin de la Reinière;61700;61232;Lonlay-l'Abbaye;;La Reinière;-0.68484;48.662732
+61232_0191_02749;2749;;Route de Froidebise;61700;61232;Lonlay-l'Abbaye;;La Boisnière;-0.732644;48.667808
+61232_0248_00689;689;;Chemin de la Reinière;61700;61232;Lonlay-l'Abbaye;;La Reinière;-0.685237;48.662658
+61232_0191_01200;1200;;Route de Froidebise;61700;61232;Lonlay-l'Abbaye;;La Bistière;-0.72083;48.657739
+61232_0207_00235;235;;Chemin de la Héyère Bidard;61700;61232;Lonlay-l'Abbaye;;La Héyère Bidard;-0.646766;48.632244
+61232_0123_03000;3000;;Route de Tinchebray;61700;61232;Lonlay-l'Abbaye;;La Largerie;-0.70772;48.669058
+61232_0193_00107;107;;Allée Gallo-Romaine;61700;61232;Lonlay-l'Abbaye;;Les Bordeaux;-0.698072;48.69012
+61232_0181_02400;2400;;Route de l'Être-Chédeville;61700;61232;Lonlay-l'Abbaye;;L'Être-Chédeville;-0.741569;48.664084
+61232_0174_00265;265;;Chemin de l'Épine Heuzé;61700;61232;Lonlay-l'Abbaye;;L'Épine Heuzé;-0.703671;48.67525

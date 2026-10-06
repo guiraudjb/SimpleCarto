@@ -1,0 +1,856 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+10265_0912_00021;21;;Rue du 25 Août;10420;10265;Les Noës-près-Troyes;;;4.046058;48.301794
+10265_0580_00004;4;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.047853;48.302004
+10265_0310_00022;22;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.037804;48.305321
+10265_0510_00024;24;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.045271;48.299844
+10265_0345_00004_f;4;f;Rue Guynemer;10420;10265;Les Noës-près-Troyes;;;4.040981;48.300918
+10265_0510_00042_bis;42;bis;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.041532;48.30041
+10265_0715_00013_b;13;b;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.042895;48.303015
+10265_0895_00006;6;;Rue de Verdun;10420;10265;Les Noës-près-Troyes;;;4.046382;48.300447
+10265_0695_00002;2;;Allée des Prés;10420;10265;Les Noës-près-Troyes;;;4.037203;48.304762
+10265_0550_00005;5;;Rue du Maréchal Foch;10420;10265;Les Noës-près-Troyes;;;4.043616;48.300163
+10265_0620_00004;4;;Rue du 11 Novembre;10420;10265;Les Noës-près-Troyes;;;4.04687;48.301909
+10265_0905_00006;6;;Rue Victorien Sardou;10420;10265;Les Noës-près-Troyes;;;4.050509;48.300591
+10265_0908_00003;3;;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.044488;48.304681
+10265_0275_00008;8;;Allée des Folies;10420;10265;Les Noës-près-Troyes;;;4.034608;48.303859
+10265_0465_00017;17;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.045632;48.305075
+10265_0125_00007;7;;Allée des Charmilles;10420;10265;Les Noës-près-Troyes;;;4.038742;48.305727
+10265_0132_00001;1;;Rue du Clos d’Orvilliers;10420;10265;Les Noës-près-Troyes;;;4.041423;48.304886
+10265_0510_00022_a;22;a;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.046323;48.299776
+10265_0115_00014_b;14;b;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.04807;48.301277
+10265_0035_00046;46;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.044716;48.300923
+10265_0320_00001;1;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.04726;48.300992
+10265_0645_00006_bis;6;bis;Rue Paul Bert;10420;10265;Les Noës-près-Troyes;;;4.045261;48.300475
+10265_0912_00010;10;;Rue du 25 Août;10420;10265;Les Noës-près-Troyes;;;4.045115;48.301833
+10265_0640_00013_x;13;x;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.045631;48.303258
+10265_0140_00009;9;;Rue du Colonel Driant;10420;10265;Les Noës-près-Troyes;;;4.048054;48.303132
+10265_0715_00016_bis;16;bis;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.041354;48.302822
+10265_0465_00055;55;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.04785;48.306433
+10265_0605_00003_ter;3;ter;Rue du Mont Saint Loup;10420;10265;Les Noës-près-Troyes;;;4.034943;48.301975
+10265_0280_00009;9;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.046953;48.304211
+10265_0280_00019;19;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.046139;48.303853
+10265_0590_00009;9;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.03956;48.304806
+10265_0025_00012;12;;Rue Albert Schweitzer;10420;10265;Les Noës-près-Troyes;;;4.04678;48.300403
+10265_0465_00011;11;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.045572;48.305029
+10265_0500_00003;3;;Impasse Lamartine;10420;10265;Les Noës-près-Troyes;;;4.040098;48.301044
+10265_0115_00036;36;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.049527;48.29984
+10265_0640_00044_ter;44;ter;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.043118;48.306107
+10265_0645_00003;3;;Rue Paul Bert;10420;10265;Les Noës-près-Troyes;;;4.045277;48.300622
+10265_0100_00008;8;;Allée du Bosquet;10420;10265;Les Noës-près-Troyes;;;4.034512;48.304144
+10265_0035_00003;3;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.0397;48.301885
+10265_0715_00013;13;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.042699;48.302978
+10265_0715_00003;3;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.044211;48.303467
+10265_0605_00005;5;;Rue du Mont Saint Loup;10420;10265;Les Noës-près-Troyes;;;4.03424;48.30312
+10265_0715_00027_ter;27;ter;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.037839;48.301819
+10265_0465_00020;20;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.047516;48.306045
+10265_0360_00012;12;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.047975;48.303711
+10265_0060_00007;7;;Place du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.037617;48.303432
+10265_0290_00001_bis;1;bis;Rue des Frères Berthaut;10420;10265;Les Noës-près-Troyes;;;4.040452;48.303034
+10265_0715_00007_bis;7;bis;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.043666;48.303219
+10265_0360_00009;9;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.047271;48.303605
+10265_0715_00010_a;10;a;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.04296;48.303111
+10265_0714_00023;23;;Impasse de la République;10420;10265;Les Noës-près-Troyes;;;4.040663;48.302122
+10265_0912_00018;18;;Rue du 25 Août;10420;10265;Les Noës-près-Troyes;;;4.046072;48.301727
+10265_0604_00003;3;;Place du Mont Saint Loup;10420;10265;Les Noës-près-Troyes;;;4.033264;48.30317
+10265_0908_00026;26;;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.046344;48.305981
+10265_0035_00004;4;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.040284;48.301514
+10265_0605_00001;1;;Rue du Mont Saint Loup;10420;10265;Les Noës-près-Troyes;;;4.034704;48.302711
+10265_0360_00027;27;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.0491;48.305297
+10265_0275_00017;17;;Allée des Folies;10420;10265;Les Noës-près-Troyes;;;4.033719;48.303793
+10265_0038_00017;17;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.041235;48.304358
+10265_0648_00005;5;;Allée du Petit Prince;10420;10265;Les Noës-près-Troyes;;;4.037188;48.303845
+10265_0140_00019;19;;Rue du Colonel Driant;10420;10265;Les Noës-près-Troyes;;;4.048945;48.303398
+10265_0320_00021;21;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.048036;48.300121
+10265_0065_00008_a;8;a;Rue du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.037836;48.302912
+10265_0035_00022;22;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.042181;48.300897
+10265_0290_00009;9;;Rue des Frères Berthaut;10420;10265;Les Noës-près-Troyes;;;4.039315;48.303716
+10265_0715_00010_c;10;c;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.043093;48.303493
+10265_0648_00001;1;;Allée du Petit Prince;10420;10265;Les Noës-près-Troyes;;;4.036805;48.303755
+10265_0060_00009;9;;Place du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.037643;48.303556
+10265_0015_00005;5;;Place de l’Abreuvoir;10420;10265;Les Noës-près-Troyes;;;4.037945;48.304113
+10265_0605_00002;2;;Rue du Mont Saint Loup;10420;10265;Les Noës-près-Troyes;;;4.034372;48.302773
+10265_0015_00013;13;;Place de l’Abreuvoir;10420;10265;Les Noës-près-Troyes;;;4.038015;48.304405
+10265_0035_00001_ter;1;ter;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.039505;48.302049
+10265_0620_00001;1;;Rue du 11 Novembre;10420;10265;Les Noës-près-Troyes;;;4.047046;48.302032
+10265_0035_00017;17;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.04262;48.300938
+10265_0310_00008;8;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.038544;48.304458
+10265_0640_00042;42;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.042066;48.305896
+10265_0115_00004;4;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.04749;48.301858
+10265_0912_00008;8;;Rue du 25 Août;10420;10265;Les Noës-près-Troyes;;;4.044631;48.301996
+10265_0705_00008;8;;Rue Raymond Poincaré;10420;10265;Les Noës-près-Troyes;;;4.041411;48.302474
+10265_0115_00021;21;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.049567;48.299907
+10265_0035_00030;30;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.043596;48.300802
+10265_0695_00010;10;;Allée des Prés;10420;10265;Les Noës-près-Troyes;;;4.036533;48.305085
+10265_0320_00017;17;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047871;48.300306
+10265_0131_00003;3;;Impasse du Clos d'Orvilliers;10420;10265;Les Noës-près-Troyes;;;4.039905;48.305249
+10265_0125_00004;4;;Allée des Charmilles;10420;10265;Les Noës-près-Troyes;;;4.039085;48.30548
+10265_0125_00005;5;;Allée des Charmilles;10420;10265;Les Noës-près-Troyes;;;4.039363;48.305415
+10265_0890_00019;19;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.040351;48.304843
+10265_0640_00038;38;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.042366;48.305686
+10265_0310_00002;2;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.038989;48.303955
+10265_0590_00019;19;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.039006;48.304544
+10265_0465_00016;16;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.046661;48.305268
+10265_0320_00018;18;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047765;48.300279
+10265_0465_00019;19;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.045722;48.304993
+10265_0035_00024;24;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.042451;48.30088
+10265_0900_00010;10;;Rue Veuve Gautherot;10420;10265;Les Noës-près-Troyes;;;4.037168;48.302631
+10265_0465_00014_b;14;b;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.04655;48.305171
+10265_0590_00020;20;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.039052;48.304478
+10265_0290_00005;5;;Rue des Frères Berthaut;10420;10265;Les Noës-près-Troyes;;;4.04003;48.303338
+10265_0648_00007;7;;Allée du Petit Prince;10420;10265;Les Noës-près-Troyes;;;4.037411;48.303921
+10265_0908_00020;20;;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.045422;48.305704
+10265_0360_00005;5;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.04679;48.303393
+10265_0132_00007;7;;Rue du Clos d’Orvilliers;10420;10265;Les Noës-près-Troyes;;;4.041065;48.305224
+10265_0310_00007;7;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.03822;48.305018
+10265_0580_00021;21;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.048921;48.301094
+10265_0645_00008;8;;Rue Paul Bert;10420;10265;Les Noës-près-Troyes;;;4.045276;48.30028
+10265_0025_00010;10;;Rue Albert Schweitzer;10420;10265;Les Noës-près-Troyes;;;4.046877;48.300439
+10265_0715_00031;31;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.037119;48.301503
+10265_0035_00052;52;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.045605;48.301072
+10265_0640_00035;35;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.043371;48.304919
+10265_0590_00013;13;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.039124;48.304739
+10265_0038_00022;22;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.039855;48.303725
+10265_0467_00001;1;;Rue Jules Verne;10420;10265;Les Noës-près-Troyes;;;4.04664;48.300937
+10265_0580_00039;39;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.049926;48.300161
+10265_0510_00052;52;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.039066;48.301071
+10265_0345_00004_d;4;d;Rue Guynemer;10420;10265;Les Noës-près-Troyes;;;4.040868;48.300908
+10265_0620_00009;9;;Rue du 11 Novembre;10420;10265;Les Noës-près-Troyes;;;4.047682;48.30241
+10265_0510_00024_bis;24;bis;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.044971;48.299871
+10265_0715_00032;32;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.037188;48.301649
+10265_0038_00029;29;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.039867;48.303612
+10265_0580_00007;7;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.04823;48.301747
+10265_0465_00039;39;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.046344;48.305436
+10265_0035_00031;31;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.044348;48.300919
+10265_0640_00013;13;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.04543;48.303381
+10265_0890_00017;17;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.040155;48.304676
+10265_0625_00002;2;;Rue Oudin Léger;10420;10265;Les Noës-près-Troyes;;;4.042317;48.303277
+10265_0100_00010;10;;Allée du Bosquet;10420;10265;Les Noës-près-Troyes;;;4.034666;48.304334
+10265_0510_00064_ter;64;ter;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.036049;48.301547
+10265_0360_00004;4;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.047099;48.303392
+10265_0908_00008;8;;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.044854;48.30482
+10265_0890_00007;7;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.040671;48.304551
+10265_0640_00024;24;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.04481;48.303825
+10265_0652_00008;8;;Rue Pierre Curie;10420;10265;Les Noës-près-Troyes;;;4.045562;48.302532
+10265_0912_00006;6;;Rue du 25 Août;10420;10265;Les Noës-près-Troyes;;;4.042834;48.302174
+10265_0140_00006;6;;Rue du Colonel Driant;10420;10265;Les Noës-près-Troyes;;;4.047278;48.302724
+10265_0115_00018;18;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.048326;48.301028
+10265_0320_00025;25;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.048216;48.299917
+10265_0695_00015;15;;Allée des Prés;10420;10265;Les Noës-près-Troyes;;;4.037091;48.3053
+10265_0015_00008;8;;Place de l’Abreuvoir;10420;10265;Les Noës-près-Troyes;;;4.037625;48.304153
+10265_0640_00004;4;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.04646;48.302275
+10265_0065_00008_h;8;h;Rue du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.038292;48.302586
+10265_0120_00004;4;;Rue des Champs Pommasse;10420;10265;Les Noës-près-Troyes;;;4.047749;48.30552
+10265_0280_00018;18;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.046518;48.304019
+10265_0900_00002;2;;Rue Veuve Gautherot;10420;10265;Les Noës-près-Troyes;;;4.038428;48.302054
+10265_0275_00014;14;;Allée des Folies;10420;10265;Les Noës-près-Troyes;;;4.03384;48.303607
+10265_0467_00001_bis;1;bis;Rue Jules Verne;10420;10265;Les Noës-près-Troyes;;;4.046701;48.300957
+10265_0015_00011;11;;Place de l’Abreuvoir;10420;10265;Les Noës-près-Troyes;;;4.037764;48.304316
+10265_0320_00007;7;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047533;48.300686
+10265_0895_00003;3;;Rue de Verdun;10420;10265;Les Noës-près-Troyes;;;4.046111;48.30087
+10265_0590_00012;12;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.039255;48.304777
+10265_0035_00050_bis;50;bis;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.045366;48.301035
+10265_0035_00035;35;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.0447;48.300979
+10265_0550_00001;1;;Rue du Maréchal Foch;10420;10265;Les Noës-près-Troyes;;;4.043323;48.300497
+10265_0132_00008;8;;Rue du Clos d’Orvilliers;10420;10265;Les Noës-près-Troyes;;;4.040769;48.305211
+10265_0715_00017_bis;17;bis;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.041363;48.302728
+10265_0604_00007;7;;Place du Mont Saint Loup;10420;10265;Les Noës-près-Troyes;;;4.034138;48.302298
+10265_0360_00007;7;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.047035;48.30349
+10265_0465_00022;22;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.047693;48.306199
+10265_0900_00008;8;;Rue Veuve Gautherot;10420;10265;Les Noës-près-Troyes;;;4.037497;48.302458
+10265_0895_00002;2;;Rue de Verdun;10420;10265;Les Noës-près-Troyes;;;4.045582;48.30137
+10265_0038_00006;6;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.042332;48.305019
+10265_0580_00003;3;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.048021;48.30196
+10265_0155_00004;4;;Avenue Daniel Ormancey;10420;10265;Les Noës-près-Troyes;;;4.041139;48.302305
+10265_0639_00006_b;6;b;Impasse Pasteur;10420;10265;Les Noës-près-Troyes;;;4.044709;48.303189
+10265_0590_00015;15;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.038734;48.304835
+10265_0715_00024;24;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.03912;48.302203
+10265_0120_00010;10;;Rue des Champs Pommasse;10420;10265;Les Noës-près-Troyes;;;4.048299;48.304964
+10265_0360_00019;19;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.048227;48.30436
+10265_0604_00006;6;;Place du Mont Saint Loup;10420;10265;Les Noës-près-Troyes;;;4.033875;48.302424
+10265_0890_00002;2;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.041264;48.304678
+10265_0715_00014_ter;14;ter;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.042171;48.302964
+10265_0465_00043;43;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.046934;48.305617
+10265_0015_00006;6;;Place de l’Abreuvoir;10420;10265;Les Noës-près-Troyes;;;4.037804;48.304076
+10265_0310_00014;14;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.038089;48.305006
+10265_0639_00014;14;;Impasse Pasteur;10420;10265;Les Noës-près-Troyes;;;4.044515;48.302901
+10265_0905_00002;2;;Rue Victorien Sardou;10420;10265;Les Noës-près-Troyes;;;4.050782;48.300365
+10265_0499_00005;5;;Place Lamartine;10420;10265;Les Noës-près-Troyes;;;4.038526;48.301397
+10265_0640_00022;22;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.045331;48.303561
+10265_0132_00011;11;;Rue du Clos d’Orvilliers;10420;10265;Les Noës-près-Troyes;;;4.040668;48.305425
+10265_0620_00011;11;;Rue du 11 Novembre;10420;10265;Les Noës-près-Troyes;;;4.04779;48.302472
+10265_0115_00009_b;9;b;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.04831;48.30118
+10265_0640_00025;25;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.043995;48.304419
+10265_0100_00028;28;;Allée du Bosquet;10420;10265;Les Noës-près-Troyes;;;4.035726;48.304248
+10265_0705_00003;3;;Rue Raymond Poincaré;10420;10265;Les Noës-près-Troyes;;;4.0418;48.30229
+10265_0640_00005;5;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.04624;48.302485
+10265_0715_00018;18;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.040973;48.302724
+10265_0038_00003;3;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.04249;48.305033
+10265_0465_00053;53;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.047708;48.306311
+10265_0895_00001;1;;Rue de Verdun;10420;10265;Les Noës-près-Troyes;;;4.045676;48.301347
+10265_0590_00021;21;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.039108;48.304414
+10265_0550_00007;7;;Rue du Maréchal Foch;10420;10265;Les Noës-près-Troyes;;;4.043769;48.300021
+10265_0038_00011;11;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.041934;48.304732
+10265_0465_00031;31;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.046187;48.305433
+10265_0580_00014;14;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.04899;48.30093
+10265_0280_00015;15;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.046362;48.303866
+10265_0645_00004;4;;Rue Paul Bert;10420;10265;Les Noës-près-Troyes;;;4.045233;48.300635
+10265_0320_00013;13;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047712;48.300484
+10265_0100_00013;13;;Allée du Bosquet;10420;10265;Les Noës-près-Troyes;;;4.035904;48.304645
+10265_0900_00002_b;2;b;Rue Veuve Gautherot;10420;10265;Les Noës-près-Troyes;;;4.038282;48.302122
+10265_0465_00003;3;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.045567;48.304506
+10265_0035_00023;23;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.043537;48.300871
+10265_0510_00044;44;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.041271;48.300481
+10265_0590_00014;14;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.039011;48.304719
+10265_0389_00001;1;;Rue du 8 Mai 1945;10420;10265;Les Noës-près-Troyes;;;4.044205;48.300621
+10265_0510_00008;8;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.048948;48.299619
+10265_0060_00001;1;;Place du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.037074;48.30333
+10265_0695_00006;6;;Allée des Prés;10420;10265;Les Noës-près-Troyes;;;4.036319;48.30443
+10265_0695_00001;1;;Allée des Prés;10420;10265;Les Noës-près-Troyes;;;4.037445;48.304701
+10265_0038_00002;2;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.042546;48.305132
+10265_0652_00005;5;;Rue Pierre Curie;10420;10265;Les Noës-près-Troyes;;;4.045207;48.302597
+10265_0640_00044;44;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.04178;48.306154
+10265_0620_00002;2;;Rue du 11 Novembre;10420;10265;Les Noës-près-Troyes;;;4.046783;48.30188
+10265_0125_00006;6;;Allée des Charmilles;10420;10265;Les Noës-près-Troyes;;;4.038831;48.305784
+10265_0715_00028;28;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.038124;48.301929
+10265_0132_00010;10;;Rue du Clos d’Orvilliers;10420;10265;Les Noës-près-Troyes;;;4.040701;48.30536
+10265_0900_00001;1;;Rue Veuve Gautherot;10420;10265;Les Noës-près-Troyes;;;4.037901;48.302197
+10265_0100_00009;9;;Allée du Bosquet;10420;10265;Les Noës-près-Troyes;;;4.034656;48.304222
+10265_0140_00007;7;;Rue du Colonel Driant;10420;10265;Les Noës-près-Troyes;;;4.04784;48.30305
+10265_0499_00001;1;;Place Lamartine;10420;10265;Les Noës-près-Troyes;;;4.038429;48.301279
+10265_0035_00029;29;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.044099;48.300876
+10265_0140_00017;17;;Rue du Colonel Driant;10420;10265;Les Noës-près-Troyes;;;4.048837;48.303581
+10265_0360_00021;21;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.048645;48.304577
+10265_0714_00001;1;;Impasse de la République;10420;10265;Les Noës-près-Troyes;;;4.040806;48.302075
+10265_0280_00013;13;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.046572;48.303979
+10265_0360_00014;14;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.048172;48.303806
+10265_0275_00013;13;;Allée des Folies;10420;10265;Les Noës-près-Troyes;;;4.034014;48.303608
+10265_0714_00004;4;;Impasse de la République;10420;10265;Les Noës-près-Troyes;;;4.0404;48.302318
+10265_0510_00010;10;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.048796;48.299629
+10265_0115_00001;1;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.047456;48.301978
+10265_0715_00001_a;1;a;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.04451;48.303588
+10265_0640_00047;47;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.042465;48.305551
+10265_0510_00064_bis;64;bis;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.036304;48.301483
+10265_0320_00027;27;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.048299;48.299823
+10265_0500_00005;5;;Impasse Lamartine;10420;10265;Les Noës-près-Troyes;;;4.040232;48.301038
+10265_0715_00029;29;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.037635;48.301809
+10265_0060_00004;4;;Place du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.037382;48.303387
+10265_0465_00057;57;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.048026;48.306594
+10265_0908_00003_bis;3;bis;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.044538;48.305065
+10265_0060_00008;8;;Place du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.037713;48.303509
+10265_0460_00002;2;;Rue Jean Jaurès;10420;10265;Les Noës-près-Troyes;;;4.048925;48.304015
+10265_0360_00003;3;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.046548;48.303366
+10265_0360_00011;11;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.047499;48.303713
+10265_0580_00001;1;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.047922;48.302056
+10265_0912_00025;25;;Rue du 25 Août;10420;10265;Les Noës-près-Troyes;;;4.046528;48.301899
+10265_0115_00014_a;14;a;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.047955;48.301387
+10265_0138_00006;6;;Allée de la Colline;10420;10265;Les Noës-près-Troyes;;;4.039276;48.305759
+10265_0467_00006;6;;Rue Jules Verne;10420;10265;Les Noës-près-Troyes;;;4.047417;48.301163
+10265_0900_00015;15;;Rue Veuve Gautherot;10420;10265;Les Noës-près-Troyes;;;4.036386;48.303039
+10265_0580_00005;5;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.048134;48.301834
+10265_0275_00016;16;;Allée des Folies;10420;10265;Les Noës-près-Troyes;;;4.033782;48.303729
+10265_0138_00003;3;;Allée de la Colline;10420;10265;Les Noës-près-Troyes;;;4.039824;48.305712
+10265_0345_00004_b;4;b;Rue Guynemer;10420;10265;Les Noës-près-Troyes;;;4.040801;48.300842
+10265_0510_00032;32;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.042951;48.300119
+10265_0510_00048;48;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.039503;48.30096
+10265_0035_00021;21;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.043338;48.300908
+10265_0115_00023;23;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.049629;48.299835
+10265_0715_00010;10;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.042803;48.303081
+10265_0639_00011;11;;Impasse Pasteur;10420;10265;Les Noës-près-Troyes;;;4.045154;48.303113
+10265_0580_00019;19;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.048788;48.301217
+10265_0912_00012;12;;Rue du 25 Août;10420;10265;Les Noës-près-Troyes;;;4.045207;48.301745
+10265_0715_00026;26;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.038813;48.302106
+10265_0035_00009;9;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.040546;48.301498
+10265_0035_00001_bis;1;bis;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.03943;48.302108
+10265_0695_00011;11;;Allée des Prés;10420;10265;Les Noës-près-Troyes;;;4.03691;48.304925
+10265_0465_00009;9;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.045665;48.304974
+10265_0320_00011;11;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047649;48.300559
+10265_0060_00002;2;;Place du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.037188;48.303367
+10265_0020_00001;1;;Place des AFN;10420;10265;Les Noës-près-Troyes;;;4.03649;48.303239
+10265_0465_00007;7;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.045741;48.304921
+10265_0100_00014;14;;Allée du Bosquet;10420;10265;Les Noës-près-Troyes;;;4.036102;48.304786
+10265_0695_00009;9;;Allée des Prés;10420;10265;Les Noës-près-Troyes;;;4.036415;48.305057
+10265_0038_00001;1;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.042587;48.305082
+10265_0510_00038;38;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.042568;48.300177
+10265_0510_00012;12;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.048609;48.299639
+10265_0908_00022;22;;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.045618;48.30583
+10265_0465_00001;1;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.045351;48.304378
+10265_0467_00004_bis;4;bis;Rue Jules Verne;10420;10265;Les Noës-près-Troyes;;;4.047047;48.301007
+10265_0640_00019;19;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.044417;48.304065
+10265_0310_00003;3;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.039087;48.303976
+10265_0715_00022_ter;22;ter;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.039351;48.302255
+10265_0100_00016;16;;Allée du Bosquet;10420;10265;Les Noës-près-Troyes;;;4.036195;48.305007
+10265_0715_00023_a;23;a;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.03995;48.302317
+10265_0908_00004;4;;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.044538;48.304639
+10265_0035_00042;42;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.044518;48.300889
+10265_0100_00030;30;;Allée du Bosquet;10420;10265;Les Noës-près-Troyes;;;4.035292;48.304218
+10265_0510_00060;60;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.037457;48.30129
+10265_0035_00016_bis;16;bis;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.0411;48.30119
+10265_0025_00008;8;;Rue Albert Schweitzer;10420;10265;Les Noës-près-Troyes;;;4.046972;48.300359
+10265_0320_00023;23;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.048121;48.300024
+10265_0065_00004_a;4;a;Rue du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.038302;48.303401
+10265_0499_00011;11;;Place Lamartine;10420;10265;Les Noës-près-Troyes;;;4.038721;48.301237
+10265_0510_00066;66;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.035295;48.301749
+10265_0320_00009;9;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047603;48.300607
+10265_0908_00007;7;;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.046907;48.305889
+10265_0465_00037;37;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.046244;48.305521
+10265_0025_00006;6;;Rue Albert Schweitzer;10420;10265;Les Noës-près-Troyes;;;4.047148;48.300165
+10265_0290_00007;7;;Rue des Frères Berthaut;10420;10265;Les Noës-près-Troyes;;;4.039776;48.303484
+10265_0115_00020;20;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.048422;48.300946
+10265_0580_00006;6;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.048174;48.301698
+10265_0625_00002_bis;2;bis;Rue Oudin Léger;10420;10265;Les Noës-près-Troyes;;;4.042088;48.303502
+10265_0650_00002;2;;Allée des Peupliers;10420;10265;Les Noës-près-Troyes;;;4.033587;48.304105
+10265_0466_00000;0;;Place Jules Ferry;10420;10265;Les Noës-près-Troyes;;;4.041041;48.301956
+10265_0360_00017;17;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.048069;48.304116
+10265_0463_00010;10;;Rue Josquin des Prés;10420;10265;Les Noës-près-Troyes;;;4.046131;48.303094
+10265_0715_00002;2;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.044615;48.303716
+10265_0900_00004;4;;Rue Veuve Gautherot;10420;10265;Les Noës-près-Troyes;;;4.038112;48.302197
+10265_0510_00042;42;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.041793;48.300339
+10265_0463_00008;8;;Rue Josquin des Prés;10420;10265;Les Noës-près-Troyes;;;4.046583;48.302754
+10265_0645_00002;2;;Rue Paul Bert;10420;10265;Les Noës-près-Troyes;;;4.045209;48.300846
+10265_0025_00002;2;;Rue Albert Schweitzer;10420;10265;Les Noës-près-Troyes;;;4.047463;48.29981
+10265_0290_00006;6;;Rue des Frères Berthaut;10420;10265;Les Noës-près-Troyes;;;4.039614;48.303429
+10265_0280_00004;4;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.047716;48.304752
+10265_0580_00008;8;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.048372;48.301512
+10265_0580_00020;20;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.04955;48.300437
+10265_0590_00022;22;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.039169;48.304325
+10265_0715_00016;16;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.041496;48.302848
+10265_0570_00045;45;;Rue des Marots;10420;10265;Les Noës-près-Troyes;;;4.049696;48.306036
+10265_0035_00044;44;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.044615;48.300906
+10265_0652_00001;1;;Rue Pierre Curie;10420;10265;Les Noës-près-Troyes;;;4.045316;48.302138
+10265_0580_00029;29;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.049219;48.300818
+10265_0100_00011;11;;Allée du Bosquet;10420;10265;Les Noës-près-Troyes;;;4.03554;48.30469
+10265_0912_00016;16;;Rue du 25 Août;10420;10265;Les Noës-près-Troyes;;;4.04571;48.301639
+10265_0060_00011;11;;Place du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.037494;48.303649
+10265_0890_00026;26;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.040759;48.304868
+10265_0648_00004;4;;Allée du Petit Prince;10420;10265;Les Noës-près-Troyes;;;4.037075;48.303812
+10265_0389_00006;6;;Rue du 8 Mai 1945;10420;10265;Les Noës-près-Troyes;;;4.044412;48.300261
+10265_0065_00008_d;8;d;Rue du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.038017;48.302735
+10265_0280_00006;6;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.047528;48.304844
+10265_0120_00005;5;;Rue des Champs Pommasse;10420;10265;Les Noës-près-Troyes;;;4.047865;48.305533
+10265_0620_00006;6;;Rue du 11 Novembre;10420;10265;Les Noës-près-Troyes;;;4.047856;48.30243
+10265_0890_00013;13;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.040217;48.30434
+10265_0465_00015;15;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.04559;48.305065
+10265_0140_00005;5;;Rue du Colonel Driant;10420;10265;Les Noës-près-Troyes;;;4.047632;48.302951
+10265_0510_00030;30;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.043083;48.300098
+10265_0320_00001_bis;1;bis;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047319;48.300932
+10265_0550_00002;2;;Rue du Maréchal Foch;10420;10265;Les Noës-près-Troyes;;;4.043043;48.30067
+10265_0715_00027_bis;27;bis;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.038149;48.301822
+10265_0115_00010;10;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.047748;48.301604
+10265_0510_00026;26;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.043394;48.300052
+10265_0639_00006_a;6;a;Impasse Pasteur;10420;10265;Les Noës-près-Troyes;;;4.04476;48.30322
+10265_0345_00004;4;;Rue Guynemer;10420;10265;Les Noës-près-Troyes;;;4.041092;48.300742
+10265_0715_00027;27;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.038423;48.301839
+10265_0065_00008;8;;Rue du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.037431;48.303052
+10265_0035_00015;15;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.042202;48.300949
+10265_0908_00001;1;;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.04425;48.304559
+10265_0465_00033;33;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.046169;48.305461
+10265_0120_00003;3;;Rue des Champs Pommasse;10420;10265;Les Noës-près-Troyes;;;4.047604;48.305653
+10265_0575_00005;5;;Allée Michel Marchand;10420;10265;Les Noës-près-Troyes;;;4.039235;48.30309
+10265_0510_00072_bis;72;bis;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.032756;48.302416
+10265_0705_00001_bis;1;bis;Rue Raymond Poincaré;10420;10265;Les Noës-près-Troyes;;;4.041616;48.302405
+10265_0275_00009;9;;Allée des Folies;10420;10265;Les Noës-près-Troyes;;;4.03447;48.303826
+10265_0908_00028;28;;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.046749;48.305892
+10265_0015_00007;7;;Place de l’Abreuvoir;10420;10265;Les Noës-près-Troyes;;;4.037682;48.304074
+10265_0890_00011;11;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.040306;48.30423
+10265_0500_00001;1;;Impasse Lamartine;10420;10265;Les Noës-près-Troyes;;;4.040036;48.300947
+10265_0715_00022;22;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.03987;48.302381
+10265_0140_00011;11;;Rue du Colonel Driant;10420;10265;Les Noës-près-Troyes;;;4.048432;48.303221
+10265_0280_00011;11;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.046769;48.304086
+10265_0320_00014;14;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047533;48.300539
+10265_0465_00006_bis;6;bis;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.046144;48.304838
+10265_0590_00006;6;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.039577;48.304614
+10265_0715_00023_d;23;d;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.039413;48.302188
+10265_0035_00026;26;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.042659;48.300885
+10265_0620_00008_bis;8;bis;Rue du 11 Novembre;10420;10265;Les Noës-près-Troyes;;;4.048073;48.302564
+10265_0580_00017;17;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.048713;48.301289
+10265_0360_00015;15;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.047932;48.303928
+10265_0465_00024;24;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.047805;48.306305
+10265_0510_00006;6;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.049139;48.299609
+10265_0035_00027;27;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.043802;48.30086
+10265_0639_00012;12;;Impasse Pasteur;10420;10265;Les Noës-près-Troyes;;;4.044559;48.302928
+10265_0890_00012;12;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.040265;48.304272
+10265_0590_00003;3;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.039718;48.304387
+10265_0640_00017;17;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.045006;48.303638
+10265_0320_00020;20;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047885;48.300143
+10265_0897_00002;2;;Allée des Vergers;10420;10265;Les Noës-près-Troyes;;;4.044747;48.301507
+10265_0908_00012;12;;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.044682;48.30523
+10265_0652_00010;10;;Rue Pierre Curie;10420;10265;Les Noës-près-Troyes;;;4.045458;48.302698
+10265_0310_00005;5;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.039031;48.304054
+10265_0715_00023_c;23;c;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.039617;48.302239
+10265_0115_00011_bis;11;bis;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.048559;48.300926
+10265_0890_00018;18;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.04025;48.304746
+10265_0275_00007;7;;Allée des Folies;10420;10265;Les Noës-près-Troyes;;;4.034746;48.303857
+10265_0639_00016;16;;Impasse Pasteur;10420;10265;Les Noës-près-Troyes;;;4.044478;48.302885
+10265_0590_00007;7;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.039549;48.304677
+10265_0900_00007;7;;Rue Veuve Gautherot;10420;10265;Les Noës-près-Troyes;;;4.037282;48.302466
+10265_0320_00006;6;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047286;48.300817
+10265_0715_00019;19;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.040601;48.302518
+10265_0499_00007;7;;Place Lamartine;10420;10265;Les Noës-près-Troyes;;;4.038671;48.301344
+10265_0715_00021;21;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.040434;48.302459
+10265_0115_00034;34;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.049413;48.299957
+10265_0065_00008_e;8;e;Rue du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.038073;48.302705
+10265_0640_00043;43;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.042724;48.305376
+10265_0912_00015;15;;Rue du 25 Août;10420;10265;Les Noës-près-Troyes;;;4.045043;48.302091
+10265_0465_00008;8;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.04623;48.304899
+10265_0510_00064;64;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.036633;48.301411
+10265_0125_00011;11;;Allée des Charmilles;10420;10265;Les Noës-près-Troyes;;;4.038154;48.305654
+10265_0310_00023;23;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.037817;48.305468
+10265_0320_00015;15;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047802;48.300384
+10265_0465_00021;21;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.045797;48.304944
+10265_0715_00010_d;10;d;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.043129;48.303136
+10265_0065_00006;6;;Rue du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.037874;48.30326
+10265_0625_00004;4;;Rue Oudin Léger;10420;10265;Les Noës-près-Troyes;;;4.041575;48.303739
+10265_0652_00002_a;2;a;Rue Pierre Curie;10420;10265;Les Noës-près-Troyes;;;4.045517;48.302111
+10265_0715_00010_b;10;b;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.042663;48.303556
+10265_0715_00014;14;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.041719;48.302885
+10265_0912_00004;4;;Rue du 25 Août;10420;10265;Les Noës-près-Troyes;;;4.042656;48.30215
+10265_0590_00018;18;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.038928;48.304622
+10265_0035_00011;11;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.041343;48.301158
+10265_0115_00003;3;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.047763;48.301681
+10265_0580_00025;25;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.049039;48.300985
+10265_0640_00033_bis;33;bis;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.043495;48.304827
+10265_0900_00013_bis;13;bis;Rue Veuve Gautherot;10420;10265;Les Noës-près-Troyes;;;4.036299;48.302716
+10265_0015_00010;10;;Place de l’Abreuvoir;10420;10265;Les Noës-près-Troyes;;;4.037594;48.304263
+10265_0100_00007;7;;Allée du Bosquet;10420;10265;Les Noës-près-Troyes;;;4.034241;48.304102
+10265_0320_00024;24;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.048082;48.299928
+10265_0890_00015;15;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.040197;48.304555
+10265_0640_00015;15;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.045252;48.30349
+10265_0645_00005;5;;Rue Paul Bert;10420;10265;Les Noës-près-Troyes;;;4.045302;48.300461
+10265_0467_00002;2;;Rue Jules Verne;10420;10265;Les Noës-près-Troyes;;;4.04663;48.300843
+10265_0065_00006_bis;6;bis;Rue du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.0377;48.303198
+10265_0275_00011;11;;Allée des Folies;10420;10265;Les Noës-près-Troyes;;;4.034278;48.303748
+10265_0695_00005;5;;Allée des Prés;10420;10265;Les Noës-près-Troyes;;;4.036774;48.304488
+10265_0140_00004;4;;Rue du Colonel Driant;10420;10265;Les Noës-près-Troyes;;;4.046853;48.30304
+10265_0550_00006;6;;Rue du Maréchal Foch;10420;10265;Les Noës-près-Troyes;;;4.043314;48.300361
+10265_0510_00050;50;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.039253;48.301029
+10265_0035_00022_bis;22;bis;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.042368;48.300888
+10265_0389_00004;4;;Rue du 8 Mai 1945;10420;10265;Les Noës-près-Troyes;;;4.044268;48.300428
+10265_0345_00002;2;;Rue Guynemer;10420;10265;Les Noës-près-Troyes;;;4.041451;48.300914
+10265_0570_00045_a;45;a;Rue des Marots;10420;10265;Les Noës-près-Troyes;;;4.04954;48.306112
+10265_0900_00013_ter;13;ter;Rue Veuve Gautherot;10420;10265;Les Noës-près-Troyes;;;4.036273;48.302768
+10265_0290_00002;2;;Rue des Frères Berthaut;10420;10265;Les Noës-près-Troyes;;;4.040475;48.302888
+10265_0890_00008;8;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.040494;48.304522
+10265_0715_00023_b;23;b;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.039895;48.302297
+10265_0035_00005;5;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.039965;48.301721
+10265_0320_00003;3;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047388;48.300845
+10265_0132_00002;2;;Rue du Clos d’Orvilliers;10420;10265;Les Noës-près-Troyes;;;4.041347;48.304949
+10265_0715_00017;17;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.041542;48.302764
+10265_0570_00047_a;47;a;Rue des Marots;10420;10265;Les Noës-près-Troyes;;;4.049049;48.306372
+10265_0648_00006;6;;Allée du Petit Prince;10420;10265;Les Noës-près-Troyes;;;4.037291;48.303881
+10265_0132_00004;4;;Rue du Clos d’Orvilliers;10420;10265;Les Noës-près-Troyes;;;4.041233;48.305047
+10265_0580_00010;10;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.048544;48.301352
+10265_0115_00008;8;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.047666;48.301689
+10265_0115_00013;13;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.048787;48.300692
+10265_0715_00008_bis;8;bis;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.043448;48.303215
+10265_0465_00013;13;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.045564;48.305045
+10265_0465_00041;41;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.046707;48.305414
+10265_0120_00002;2;;Rue des Champs Pommasse;10420;10265;Les Noës-près-Troyes;;;4.047445;48.305661
+10265_0280_00020;20;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.046175;48.30394
+10265_0060_00005;5;;Place du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.037433;48.303395
+10265_0580_00035;35;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.049563;48.300485
+10265_0115_00001_bis;1;bis;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.047549;48.301904
+10265_0310_00019;19;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.037886;48.305383
+10265_0035_00037;37;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.045042;48.301035
+10265_0640_00033;33;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.043579;48.304762
+10265_0320_00022;22;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047993;48.300026
+10265_0025_00005;5;;Rue Albert Schweitzer;10420;10265;Les Noës-près-Troyes;;;4.046962;48.300264
+10265_0640_00020;20;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.045505;48.303441
+10265_0115_00032;32;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.049355;48.30002
+10265_0467_00004;4;;Rue Jules Verne;10420;10265;Les Noës-près-Troyes;;;4.046913;48.300961
+10265_0465_00014;14;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.046453;48.305093
+10265_0580_00022;22;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.049811;48.300208
+10265_0640_00032;32;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.043683;48.304761
+10265_0345_00004_e;4;e;Rue Guynemer;10420;10265;Les Noës-près-Troyes;;;4.040877;48.300947
+10265_0280_00012;12;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.046964;48.30462
+10265_0890_00009;9;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.04053;48.304311
+10265_0015_00004;4;;Place de l’Abreuvoir;10420;10265;Les Noës-près-Troyes;;;4.038079;48.304153
+10265_0648_00009;9;;Allée du Petit Prince;10420;10265;Les Noës-près-Troyes;;;4.037096;48.303974
+10265_0604_00005;5;;Place du Mont Saint Loup;10420;10265;Les Noës-près-Troyes;;;4.033454;48.30243
+10265_0639_00011_bis;11;bis;Impasse Pasteur;10420;10265;Les Noës-près-Troyes;;;4.044716;48.302952
+10265_0695_00013;13;;Allée des Prés;10420;10265;Les Noës-près-Troyes;;;4.037045;48.305055
+10265_0510_00056;56;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.037985;48.301234
+10265_0639_00006_d;6;d;Impasse Pasteur;10420;10265;Les Noës-près-Troyes;;;4.0446;48.30314
+10265_0695_00003;3;;Allée des Prés;10420;10265;Les Noës-près-Troyes;;;4.037032;48.304707
+10265_0280_00005;5;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.04725;48.304481
+10265_0065_00008_i;8;i;Rue du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.038373;48.302589
+10265_0895_00002_bis;2;bis;Rue de Verdun;10420;10265;Les Noës-près-Troyes;;;4.046274;48.300574
+10265_0120_00006;6;;Rue des Champs Pommasse;10420;10265;Les Noës-près-Troyes;;;4.048039;48.305387
+10265_0590_00002;2;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.039496;48.304334
+10265_0275_00019;19;;Allée des Folies;10420;10265;Les Noës-près-Troyes;;;4.033605;48.303924
+10265_0620_00021;21;;Rue du 11 Novembre;10420;10265;Les Noës-près-Troyes;;;4.048966;48.303007
+10265_0640_00040;40;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.042202;48.305802
+10265_0510_00046_bis;46;bis;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.040331;48.300739
+10265_0038_00020;20;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.040031;48.303812
+10265_0605_00004;4;;Rue du Mont Saint Loup;10420;10265;Les Noës-près-Troyes;;;4.034177;48.303003
+10265_0890_00023;23;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.040659;48.305095
+10265_0140_00025;25;;Rue du Colonel Driant;10420;10265;Les Noës-près-Troyes;;;4.048687;48.303015
+10265_0345_00004_a;4;a;Rue Guynemer;10420;10265;Les Noës-près-Troyes;;;4.041001;48.300792
+10265_0510_00058;58;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.037745;48.30126
+10265_0125_00002;2;;Allée des Charmilles;10420;10265;Les Noës-près-Troyes;;;4.038762;48.305377
+10265_0650_00004;4;;Allée des Peupliers;10420;10265;Les Noës-près-Troyes;;;4.033788;48.304151
+10265_0465_00029;29;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.046321;48.305396
+10265_0510_00028;28;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.043239;48.300075
+10265_0715_00022_bis;22;bis;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.039493;48.302302
+10265_0120_00009;9;;Rue des Champs Pommasse;10420;10265;Les Noës-près-Troyes;;;4.048381;48.305299
+10265_0132_00003;3;;Rue du Clos d’Orvilliers;10420;10265;Les Noës-près-Troyes;;;4.041286;48.305007
+10265_0900_00006;6;;Rue Veuve Gautherot;10420;10265;Les Noës-près-Troyes;;;4.037898;48.302291
+10265_0890_00024;24;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.040677;48.305008
+10265_0280_00008;8;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.047356;48.304666
+10265_0590_00017;17;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.038908;48.30467
+10265_0605_00001_bis;1;bis;Rue du Mont Saint Loup;10420;10265;Les Noës-près-Troyes;;;4.034688;48.302219
+10265_0140_00001;1;;Rue du Colonel Driant;10420;10265;Les Noës-près-Troyes;;;4.046982;48.303002
+10265_0890_00027;27;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.040723;48.304758
+10265_0590_00005;5;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.03962;48.304552
+10265_0038_00010;10;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.04204;48.304913
+10265_0715_00025;25;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.039009;48.302088
+10265_0465_00049;49;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.047313;48.30596
+10265_0290_00003;3;;Rue des Frères Berthaut;10420;10265;Les Noës-près-Troyes;;;4.040252;48.303176
+10265_0065_00008_g;8;g;Rue du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.038201;48.302641
+10265_0640_00041;41;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.042968;48.305201
+10265_0640_00009;9;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.045992;48.302939
+10265_0465_00025;25;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.046283;48.305038
+10265_0605_00001_ter;1;ter;Rue du Mont Saint Loup;10420;10265;Les Noës-près-Troyes;;;4.035301;48.302312
+10265_0310_00018;18;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.03795;48.305164
+10265_0640_00016;16;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.045692;48.303323
+10265_0580_00003_bis;3;bis;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.048048;48.301917
+10265_0015_00002;2;;Place de l’Abreuvoir;10420;10265;Les Noës-près-Troyes;;;4.038346;48.304242
+10265_0605_00003;3;;Rue du Mont Saint Loup;10420;10265;Les Noës-près-Troyes;;;4.03428;48.302881
+10265_0140_00023;23;;Rue du Colonel Driant;10420;10265;Les Noës-près-Troyes;;;4.048599;48.303214
+10265_0465_00006;6;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.045821;48.30459
+10265_0620_00023;23;;Rue du 11 Novembre;10420;10265;Les Noës-près-Troyes;;;4.049207;48.303088
+10265_0465_00012;12;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.046387;48.305037
+10265_0463_00006;6;;Rue Josquin des Prés;10420;10265;Les Noës-près-Troyes;;;4.046734;48.302624
+10265_0038_00012;12;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.041912;48.304845
+10265_0715_00008;8;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.043902;48.303394
+10265_0715_00029_bis;29;bis;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.03742;48.301751
+10265_0035_00018;18;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.041767;48.300966
+10265_0115_00019;19;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.049435;48.300044
+10265_0130_00003;3;;Place du Clos d’Orvilliers;10420;10265;Les Noës-près-Troyes;;;4.040626;48.305854
+10265_0025_00004;4;;Rue Albert Schweitzer;10420;10265;Les Noës-près-Troyes;;;4.047327;48.29996
+10265_0035_00033;33;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.044539;48.300952
+10265_0320_00019;19;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047949;48.300216
+10265_0510_00002;2;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.049654;48.299591
+10265_0115_00028_bis;28;bis;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.049242;48.300136
+10265_0465_00005;5;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.045858;48.304837
+10265_0640_00008;8;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.046295;48.302601
+10265_0715_00015;15;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.04193;48.302836
+10265_0640_00010;10;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.046224;48.302667
+10265_0320_00016;16;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.04763;48.30043
+10265_0510_00022;22;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.046321;48.299775
+10265_0715_00005_bis;5;bis;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.043871;48.303313
+10265_0275_00006;6;;Allée des Folies;10420;10265;Les Noës-près-Troyes;;;4.034868;48.303898
+10265_0640_00006;6;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.046337;48.302495
+10265_0510_00082;82;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.03085;48.303134
+10265_0570_00045_b;45;b;Rue des Marots;10420;10265;Les Noës-près-Troyes;;;4.049416;48.306189
+10265_0604_00004;4;;Place du Mont Saint Loup;10420;10265;Les Noës-près-Troyes;;;4.03331;48.302369
+10265_0620_00008;8;;Rue du 11 Novembre;10420;10265;Les Noës-près-Troyes;;;4.048224;48.302619
+10265_0580_00011;11;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.048411;48.301575
+10265_0605_00002_ter;2;ter;Rue du Mont Saint Loup;10420;10265;Les Noës-près-Troyes;;;4.034951;48.302005
+10265_0580_00015;15;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.048594;48.301399
+10265_0465_00002_ter;2;ter;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.045515;48.304403
+10265_0705_00002;2;;Rue Raymond Poincaré;10420;10265;Les Noës-près-Troyes;;;4.041205;48.302654
+10265_0320_00010;10;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047414;48.300673
+10265_0895_00004;4;;Rue de Verdun;10420;10265;Les Noës-près-Troyes;;;4.046299;48.30055
+10265_0640_00037;37;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.043208;48.305031
+10265_0467_00008;8;;Rue Jules Verne;10420;10265;Les Noës-près-Troyes;;;4.047525;48.301209
+10265_0890_00005;5;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.040968;48.304614
+10265_0360_00025;25;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.049045;48.305004
+10265_0038_00008;8;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.042218;48.304955
+10265_0652_00003;3;;Rue Pierre Curie;10420;10265;Les Noës-près-Troyes;;;4.045207;48.302558
+10265_0908_00016;16;;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.045038;48.305458
+10265_0115_00009_a;9;a;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.048236;48.301258
+10265_0580_00018_bis;18;bis;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.049468;48.30051
+10265_0580_00013;13;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.048485;48.301504
+10265_0510_00066_a;66;a;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.035561;48.301678
+10265_0140_00003;3;;Rue du Colonel Driant;10420;10265;Les Noës-près-Troyes;;;4.047088;48.302854
+10265_0320_00026;26;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.048179;48.299821
+10265_0280_00014;14;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.047035;48.304373
+10265_0639_00008;8;;Impasse Pasteur;10420;10265;Les Noës-près-Troyes;;;4.044625;48.302984
+10265_0035_00014;14;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.04079;48.301317
+10265_0310_00028;28;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.037675;48.305483
+10265_0125_00009;9;;Allée des Charmilles;10420;10265;Les Noës-près-Troyes;;;4.03832;48.305709
+10265_0580_00027;27;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.049109;48.300917
+10265_0499_00009;9;;Place Lamartine;10420;10265;Les Noës-près-Troyes;;;4.038749;48.301324
+10265_0620_00017;17;;Rue du 11 Novembre;10420;10265;Les Noës-près-Troyes;;;4.048574;48.302842
+10265_0038_00027;27;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.040196;48.303815
+10265_0015_00001;1;;Place de l’Abreuvoir;10420;10265;Les Noës-près-Troyes;;;4.038419;48.304269
+10265_0100_00006;6;;Allée du Bosquet;10420;10265;Les Noës-près-Troyes;;;4.034024;48.304183
+10265_0890_00001;1;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.041351;48.304705
+10265_0905_00004;4;;Rue Victorien Sardou;10420;10265;Les Noës-près-Troyes;;;4.050614;48.300504
+10265_0125_00012;12;;Allée des Charmilles;10420;10265;Les Noës-près-Troyes;;;4.038062;48.305624
+10265_0280_00001;1;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.048129;48.304547
+10265_0060_00010;10;;Place du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.037564;48.303603
+10265_0115_00024;24;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.04882;48.300562
+10265_0025_00003;3;;Rue Albert Schweitzer;10420;10265;Les Noës-près-Troyes;;;4.047143;48.300057
+10265_0580_00009;9;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.048333;48.30165
+10265_0715_00013_a;13;a;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.042444;48.302928
+10265_0640_00026;26;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.04446;48.304118
+10265_0140_00013;13;;Rue du Colonel Driant;10420;10265;Les Noës-près-Troyes;;;4.048631;48.303289
+10265_0132_00005;5;;Rue du Clos d’Orvilliers;10420;10265;Les Noës-près-Troyes;;;4.041191;48.305103
+10265_0310_00011;11;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.038157;48.305075
+10265_0900_00011;11;;Rue Veuve Gautherot;10420;10265;Les Noës-près-Troyes;;;4.036901;48.302708
+10265_0115_00026;26;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.048939;48.30045
+10265_0015_00009;9;;Place de l’Abreuvoir;10420;10265;Les Noës-près-Troyes;;;4.037579;48.304219
+10265_0620_00005;5;;Rue du 11 Novembre;10420;10265;Les Noës-près-Troyes;;;4.047425;48.302251
+10265_0280_00003;3;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.047892;48.304626
+10265_0120_00007;7;;Rue des Champs Pommasse;10420;10265;Les Noës-près-Troyes;;;4.048117;48.30542
+10265_0465_00002_bis;2;bis;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.045446;48.304363
+10265_0890_00016;16;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.040138;48.304636
+10265_0510_00046;46;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.040669;48.300635
+10265_0025_00001;1;;Rue Albert Schweitzer;10420;10265;Les Noës-près-Troyes;;;4.047311;48.299871
+10265_0310_00024;24;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.037773;48.305368
+10265_0100_00029;29;;Allée du Bosquet;10420;10265;Les Noës-près-Troyes;;;4.035542;48.304284
+10265_0590_00010;10;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.039479;48.304832
+10265_0695_00004;4;;Allée des Prés;10420;10265;Les Noës-près-Troyes;;;4.036859;48.30465
+10265_0275_00015;15;;Allée des Folies;10420;10265;Les Noës-près-Troyes;;;4.033809;48.303675
+10265_0580_00016;16;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.049224;48.300723
+10265_0320_00002_a;2;a;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047131;48.300991
+10265_0125_00001;1;;Allée des Charmilles;10420;10265;Les Noës-près-Troyes;;;4.038667;48.305238
+10265_0580_00001_b;1;b;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.047871;48.302103
+10265_0038_00023;23;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.040478;48.303962
+10265_0608_00001;1;;Rue de la Noue;10420;10265;Les Noës-près-Troyes;;;4.046429;48.304331
+10265_0705_00010;10;;Rue Raymond Poincaré;10420;10265;Les Noës-près-Troyes;;;4.041512;48.302389
+10265_0580_00041;41;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.050017;48.300086
+10265_0620_00007;7;;Rue du 11 Novembre;10420;10265;Les Noës-près-Troyes;;;4.047573;48.302344
+10265_0467_00007;7;;Rue Jules Verne;10420;10265;Les Noës-près-Troyes;;;4.047502;48.30127
+10265_0035_00019;19;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.04311;48.300922
+10265_0115_00013_bis;13;bis;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.04901;48.300484
+10265_0035_00016;16;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.040955;48.301251
+10265_0890_00014;14;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.040232;48.30445
+10265_0890_00010;10;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.040371;48.304182
+10265_0890_00025;25;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.040723;48.304928
+10265_0510_00036;36;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.042695;48.300157
+10265_0035_00020;20;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.041949;48.300936
+10265_0038_00025;25;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.040334;48.303879
+10265_0140_00002;2;;Rue du Colonel Driant;10420;10265;Les Noës-près-Troyes;;;4.046753;48.303174
+10265_0467_00010;10;;Rue Jules Verne;10420;10265;Les Noës-près-Troyes;;;4.047625;48.301247
+10265_0275_00012;12;;Allée des Folies;10420;10265;Les Noës-près-Troyes;;;4.034131;48.303674
+10265_0035_00002;2;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.040077;48.301595
+10265_0900_00003;3;;Rue Veuve Gautherot;10420;10265;Les Noës-près-Troyes;;;4.037733;48.302266
+10265_0100_00031;31;;Allée du Bosquet;10420;10265;Les Noës-près-Troyes;;;4.035131;48.303954
+10265_0620_00015;15;;Rue du 11 Novembre;10420;10265;Les Noës-près-Troyes;;;4.048454;48.302799
+10265_0155_00003;3;;Avenue Daniel Ormancey;10420;10265;Les Noës-près-Troyes;;;4.041458;48.302167
+10265_0310_00021;21;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.03785;48.305429
+10265_0650_00001;1;;Allée des Peupliers;10420;10265;Les Noës-près-Troyes;;;4.033507;48.304085
+10265_0065_00008_f;8;f;Rue du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.038121;48.302681
+10265_0038_00015;15;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.041479;48.304488
+10265_0125_00010;10;;Allée des Charmilles;10420;10265;Les Noës-près-Troyes;;;4.03823;48.30568
+10265_0610_00001;1;;Rue des Nozats;10420;10265;Les Noës-près-Troyes;;;4.041152;48.306184
+10265_0280_00010;10;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.046997;48.304649
+10265_0645_00006;6;;Rue Paul Bert;10420;10265;Les Noës-près-Troyes;;;4.045329;48.300126
+10265_0510_00080;80;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.030969;48.303023
+10265_0580_00024;24;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.050011;48.300032
+10265_0705_00004;4;;Rue Raymond Poincaré;10420;10265;Les Noës-près-Troyes;;;4.04126;48.302603
+10265_0038_00021;21;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.040664;48.304059
+10265_0590_00008;8;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.039569;48.304752
+10265_0705_00001;1;;Rue Raymond Poincaré;10420;10265;Les Noës-près-Troyes;;;4.041407;48.302567
+10265_0465_00023;23;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.045913;48.304867
+10265_0465_00018;18;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.046976;48.305561
+10265_0652_00004;4;;Rue Pierre Curie;10420;10265;Les Noës-près-Troyes;;;4.045672;48.302162
+10265_0648_00010;10;;Allée du Petit Prince;10420;10265;Les Noës-près-Troyes;;;4.036444;48.303824
+10265_0510_00040_ter;40;ter;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.041961;48.300299
+10265_0310_00001;1;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.039185;48.3039
+10265_0580_00037;37;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.049728;48.300339
+10265_0389_00003;3;;Rue du 8 Mai 1945;10420;10265;Les Noës-près-Troyes;;;4.044396;48.300396
+10265_0466_00000;0;;Place Jules Ferry;10420;10265;Les Noës-près-Troyes;;;4.041806;48.301787
+10265_0320_00008;8;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047351;48.300743
+10265_0510_00046_ter;46;ter;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.040155;48.300781
+10265_0465_00004;4;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.045708;48.304517
+10265_0640_00039;39;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.043052;48.305142
+10265_0510_00078;78;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.031193;48.302891
+10265_0125_00003;3;;Allée des Charmilles;10420;10265;Les Noës-près-Troyes;;;4.038991;48.305452
+10265_0120_00001;1;;Rue des Champs Pommasse;10420;10265;Les Noës-près-Troyes;;;4.047398;48.305746
+10265_0310_00020;20;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.037895;48.305227
+10265_0900_00009;9;;Rue Veuve Gautherot;10420;10265;Les Noës-près-Troyes;;;4.037097;48.30258
+10265_0467_00003;3;;Rue Jules Verne;10420;10265;Les Noës-près-Troyes;;;4.046834;48.300998
+10265_0035_00041;41;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.045614;48.301117
+10265_0389_00002;2;;Rue du 8 Mai 1945;10420;10265;Les Noës-près-Troyes;;;4.044074;48.300649
+10265_0895_00008;8;;Rue de Verdun;10420;10265;Les Noës-près-Troyes;;;4.046499;48.30031
+10265_0320_00012;12;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.04747;48.300612
+10265_0140_00014_bis;14;bis;Rue du Colonel Driant;10420;10265;Les Noës-près-Troyes;;;4.048149;48.303101
+10265_0100_00015;15;;Allée du Bosquet;10420;10265;Les Noës-près-Troyes;;;4.036123;48.304949
+10265_0570_00053;53;;Rue des Marots;10420;10265;Les Noës-près-Troyes;;;4.04743;48.306922
+10265_0570_00049;49;;Rue des Marots;10420;10265;Les Noës-près-Troyes;;;4.048393;48.30668
+10265_0035_00007;7;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.040302;48.301591
+10265_0310_00013;13;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.038102;48.305128
+10265_0908_00010;10;;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.044752;48.30491
+10265_0510_00084;84;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.030666;48.303245
+10265_0360_00001;1;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.046078;48.303257
+10265_0465_00002;2;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.045323;48.304286
+10265_0360_00002;2;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.046899;48.303346
+10265_0360_00008;8;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.047558;48.303515
+10265_0640_00021;21;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.044269;48.304188
+10265_0604_00001;1;;Place du Mont Saint Loup;10420;10265;Les Noës-près-Troyes;;;4.033503;48.303054
+10265_0320_00002_b;2;b;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.04716;48.30096
+10265_0131_00001;1;;Impasse du Clos d'Orvilliers;10420;10265;Les Noës-près-Troyes;;;4.040295;48.305004
+10265_0132_00006;6;;Rue du Clos d’Orvilliers;10420;10265;Les Noës-près-Troyes;;;4.041118;48.305172
+10265_0640_00023;23;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.044152;48.304286
+10265_0155_00002;2;;Avenue Daniel Ormancey;10420;10265;Les Noës-près-Troyes;;;4.040986;48.302427
+10265_0138_00007;7;;Allée de la Colline;10420;10265;Les Noës-près-Troyes;;;4.039115;48.305821
+10265_0570_00047_b;47;b;Rue des Marots;10420;10265;Les Noës-près-Troyes;;;4.048802;48.306492
+10265_0138_00002;2;;Allée de la Colline;10420;10265;Les Noës-près-Troyes;;;4.039928;48.305797
+10265_0575_00003;3;;Allée Michel Marchand;10420;10265;Les Noës-près-Troyes;;;4.039366;48.302999
+10265_0115_00016;16;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.048169;48.301191
+10265_0320_00004;4;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047226;48.30089
+10265_0580_00018;18;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.049367;48.300592
+10265_0620_00013;13;;Rue du 11 Novembre;10420;10265;Les Noës-près-Troyes;;;4.04826;48.302708
+10265_0100_00012;12;;Allée du Bosquet;10420;10265;Les Noës-près-Troyes;;;4.035703;48.304608
+10265_0131_00002;2;;Impasse du Clos d'Orvilliers;10420;10265;Les Noës-près-Troyes;;;4.040201;48.305128
+10265_0140_00015;15;;Rue du Colonel Driant;10420;10265;Les Noës-près-Troyes;;;4.048712;48.303519
+10265_0065_00004_b;4;b;Rue du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.038152;48.303362
+10265_0650_00003;3;;Allée des Peupliers;10420;10265;Les Noës-près-Troyes;;;4.033644;48.304109
+10265_0715_00002_bis;2;bis;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.044394;48.303617
+10265_0908_00006;6;;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.044786;48.304771
+10265_0310_00009;9;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.038193;48.305046
+10265_0912_00005;5;;Rue du 25 Août;10420;10265;Les Noës-près-Troyes;;;4.042864;48.302247
+10265_0510_00022_b;22;b;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.045846;48.299804
+10265_0510_00004;4;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.049449;48.299584
+10265_0065_00003;3;;Rue du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.038309;48.30346
+10265_0715_00009;9;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.043372;48.303112
+10265_0100_00027;27;;Allée du Bosquet;10420;10265;Les Noës-près-Troyes;;;4.035867;48.304181
+10265_0550_00008;8;;Rue du Maréchal Foch;10420;10265;Les Noës-près-Troyes;;;4.043407;48.300257
+10265_0015_00003;3;;Place de l’Abreuvoir;10420;10265;Les Noës-près-Troyes;;;4.038288;48.304213
+10265_0115_00005;5;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.0479;48.301552
+10265_0035_00012;12;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.040537;48.301419
+10265_0580_00002;2;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.047722;48.302131
+10265_0645_00001;1;;Rue Paul Bert;10420;10265;Les Noës-près-Troyes;;;4.045274;48.300724
+10265_0500_00007;7;;Impasse Lamartine;10420;10265;Les Noës-près-Troyes;;;4.040352;48.300995
+10265_0705_00006;6;;Rue Raymond Poincaré;10420;10265;Les Noës-près-Troyes;;;4.041323;48.302549
+10265_0035_00001;1;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.039394;48.302137
+10265_0570_00045_c;45;c;Rue des Marots;10420;10265;Les Noës-près-Troyes;;;4.049309;48.306258
+10265_0035_00024_bis;24;bis;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.042603;48.300877
+10265_0038_00004;4;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.042444;48.30508
+10265_0912_00023;23;;Rue du 25 Août;10420;10265;Les Noës-près-Troyes;;;4.046341;48.30186
+10265_0648_00008;8;;Allée du Petit Prince;10420;10265;Les Noës-près-Troyes;;;4.037527;48.30394
+10265_0895_00007;7;;Rue de Verdun;10420;10265;Les Noës-près-Troyes;;;4.046361;48.30059
+10265_0360_00010;10;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.047757;48.30361
+10265_0510_00024_ter;24;ter;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.044388;48.299929
+10265_0310_00010;10;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.038448;48.304561
+10265_0908_00014;14;;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.044847;48.305337
+10265_0310_00015;15;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.038041;48.305198
+10265_0138_00005;5;;Allée de la Colline;10420;10265;Les Noës-près-Troyes;;;4.039473;48.305687
+10265_0715_00030;30;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.037515;48.301874
+10265_0580_00033;33;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.049397;48.30063
+10265_0035_00048;48;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.044873;48.30095
+10265_0908_00002;2;;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.044294;48.304508
+10265_0912_00002;2;;Rue du 25 Août;10420;10265;Les Noës-près-Troyes;;;4.042239;48.302088
+10265_0038_00007;7;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.042252;48.304907
+10265_0465_00035;35;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.046215;48.305506
+10265_0280_00017;17;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.04623;48.303798
+10265_0499_00003;3;;Place Lamartine;10420;10265;Les Noës-près-Troyes;;;4.038453;48.301364
+10265_0035_00039;39;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.04541;48.301076
+10265_0130_00001;1;;Place du Clos d’Orvilliers;10420;10265;Les Noës-près-Troyes;;;4.041186;48.305561
+10265_0640_00007;7;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.046093;48.302748
+10265_0715_00028_ter;28;ter;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.037769;48.301898
+10265_0648_00003;3;;Allée du Petit Prince;10420;10265;Les Noës-près-Troyes;;;4.036974;48.303788
+10265_0639_00010;10;;Impasse Pasteur;10420;10265;Les Noës-près-Troyes;;;4.044583;48.302961
+10265_0345_00004_c;4;c;Rue Guynemer;10420;10265;Les Noës-près-Troyes;;;4.040836;48.300875
+10265_0035_00013;13;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.041729;48.301024
+10265_0015_00012;12;;Place de l’Abreuvoir;10420;10265;Les Noës-près-Troyes;;;4.037853;48.304373
+10265_0640_00044_bis;44;bis;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.041827;48.306102
+10265_0310_00006;6;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.038784;48.304188
+10265_0290_00001;1;;Rue des Frères Berthaut;10420;10265;Les Noës-près-Troyes;;;4.040631;48.302893
+10265_0695_00007;7;;Allée des Prés;10420;10265;Les Noës-près-Troyes;;;4.036291;48.305016
+10265_0580_00031;31;;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.049292;48.300756
+10265_0120_00008;8;;Rue des Champs Pommasse;10420;10265;Les Noës-près-Troyes;;;4.048225;48.305303
+10265_0550_00004;4;;Rue du Maréchal Foch;10420;10265;Les Noës-près-Troyes;;;4.043184;48.300512
+10265_0908_00018;18;;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.045236;48.305584
+10265_0510_00034;34;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.042821;48.300137
+10265_0590_00016;16;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.038803;48.304774
+10265_0035_00028;28;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.043328;48.300832
+10265_0310_00012;12;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.038406;48.304619
+10265_0652_00006;6;;Rue Pierre Curie;10420;10265;Les Noës-près-Troyes;;;4.045635;48.302291
+10265_0060_00003;3;;Place du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.037257;48.303349
+10265_0038_00005;5;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.042395;48.304981
+10265_0908_00024;24;;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.045794;48.305937
+10265_0275_00018;18;;Allée des Folies;10420;10265;Les Noës-près-Troyes;;;4.033661;48.303846
+10265_0100_00005;5;;Allée du Bosquet;10420;10265;Les Noës-près-Troyes;;;4.033868;48.304188
+10265_0310_00017;17;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.037981;48.305269
+10265_0570_00051;51;;Rue des Marots;10420;10265;Les Noës-près-Troyes;;;4.047923;48.306821
+10265_0130_00002;2;;Place du Clos d’Orvilliers;10420;10265;Les Noës-près-Troyes;;;4.041222;48.305903
+10265_0360_00016;16;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.048394;48.303914
+10265_0290_00003_bis;3;bis;Rue des Frères Berthaut;10420;10265;Les Noës-près-Troyes;;;4.040139;48.303258
+10265_0715_00007_ter;7;ter;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.04378;48.303271
+10265_0510_00076;76;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.031964;48.302581
+10265_0035_00040;40;;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.04444;48.300874
+10265_0550_00003;3;;Rue du Maréchal Foch;10420;10265;Les Noës-près-Troyes;;;4.043459;48.300336
+10265_0060_00006;6;;Place du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.037556;48.303432
+10265_0463_00004;4;;Rue Josquin des Prés;10420;10265;Les Noës-près-Troyes;;;4.046871;48.302501
+10265_0465_00010;10;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.046326;48.304982
+10265_0912_00019;19;;Rue du 25 Août;10420;10265;Les Noës-près-Troyes;;;4.045774;48.301731
+10265_0140_00014;14;;Rue du Colonel Driant;10420;10265;Les Noës-près-Troyes;;;4.048058;48.30307
+10265_0465_00027;27;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.046424;48.305162
+10265_0115_00012;12;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.047812;48.301542
+10265_0890_00006;6;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.04082;48.304586
+10265_0290_00005_bis;5;bis;Rue des Frères Berthaut;10420;10265;Les Noës-près-Troyes;;;4.039937;48.303403
+10265_0640_00045;45;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.042631;48.305441
+10265_0645_00007;7;;Rue Paul Bert;10420;10265;Les Noës-près-Troyes;;;4.045368;48.30014
+10265_0275_00010;10;;Allée des Folies;10420;10265;Les Noës-près-Troyes;;;4.034312;48.303772
+10265_0900_00013;13;;Rue Veuve Gautherot;10420;10265;Les Noës-près-Troyes;;;4.036737;48.302812
+10265_0310_00026;26;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.037734;48.305429
+10265_0389_00005;5;;Rue du 8 Mai 1945;10420;10265;Les Noës-près-Troyes;;;4.044566;48.300211
+10265_0912_00017;17;;Rue du 25 Août;10420;10265;Les Noës-près-Troyes;;;4.045316;48.301763
+10265_0115_00006;6;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.047584;48.301765
+10265_0065_00008_b;8;b;Rue du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.037901;48.302846
+10265_0640_00027;27;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.04385;48.304545
+10265_0695_00012;12;;Allée des Prés;10420;10265;Les Noës-près-Troyes;;;4.037066;48.304976
+10265_0570_00051_bis;51;bis;Rue des Marots;10420;10265;Les Noës-près-Troyes;;;4.047687;48.306868
+10265_0115_00011;11;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.048385;48.301081
+10265_0465_00051;51;;Rue Jules Bodie;10420;10265;Les Noës-près-Troyes;;;4.047504;48.306126
+10265_0640_00031;31;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.043696;48.30467
+10265_0115_00015;15;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.04916;48.300328
+10265_0510_00040;40;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.042462;48.300195
+10265_0310_00004;4;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.038857;48.304101
+10265_0065_00002;2;;Rue du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.038545;48.303447
+10265_0890_00004;4;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.041029;48.304649
+10265_0590_00011;11;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.0394;48.304796
+10265_0648_00002;2;;Allée du Petit Prince;10420;10265;Les Noës-près-Troyes;;;4.036903;48.30378
+10265_0715_00001_b;1;b;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.044449;48.30356
+10265_0035_00017_bis;17;bis;Rue Alexandre Lécorché;10420;10265;Les Noës-près-Troyes;;;4.042873;48.300938
+10265_0908_00005;5;;Rue Vincent d'Indy;10420;10265;Les Noës-près-Troyes;;;4.046646;48.306017
+10265_0132_00009;9;;Rue du Clos d’Orvilliers;10420;10265;Les Noës-près-Troyes;;;4.040718;48.305308
+10265_0510_00016;16;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.047945;48.299682
+10265_0695_00008;8;;Allée des Prés;10420;10265;Les Noës-près-Troyes;;;4.036339;48.305045
+10265_0714_00002;2;;Impasse de la République;10420;10265;Les Noës-près-Troyes;;;4.040298;48.302387
+10265_0604_00002;2;;Place du Mont Saint Loup;10420;10265;Les Noës-près-Troyes;;;4.033072;48.302898
+10265_0895_00010;10;;Rue de Verdun;10420;10265;Les Noës-près-Troyes;;;4.046759;48.29999
+10265_0310_00016;16;;Rue du Gagnage;10420;10265;Les Noës-près-Troyes;;;4.038014;48.305089
+10265_0510_00040_bis;40;bis;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.042171;48.300261
+10265_0115_00030;30;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.049291;48.300088
+10265_0138_00004;4;;Allée de la Colline;10420;10265;Les Noës-près-Troyes;;;4.03963;48.305649
+10265_0715_00005;5;;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.044062;48.303387
+10265_0890_00003;3;;Allée des Vendangeurs;10420;10265;Les Noës-près-Troyes;;;4.041158;48.304687
+10265_0115_00002;2;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.047395;48.301949
+10265_0640_00029;29;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.043773;48.304607
+10265_0059_00002;2;;Impasse du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.038133;48.303813
+10265_0280_00002;2;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.04799;48.304653
+10265_0510_00020;20;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.046514;48.299761
+10265_0345_00004_g;4;g;Rue Guynemer;10420;10265;Les Noës-près-Troyes;;;4.041105;48.30087
+10265_0695_00016;16;;Allée des Prés;10420;10265;Les Noës-près-Troyes;;;4.03723;48.305314
+10265_0360_00013;13;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.047704;48.303811
+10265_0065_00001;1;;Rue du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.038439;48.303519
+10265_0280_00016;16;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.04689;48.304245
+10265_0038_00014;14;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.040173;48.303898
+10265_0639_00006_c;6;c;Impasse Pasteur;10420;10265;Les Noës-près-Troyes;;;4.044655;48.303167
+10265_0900_00005;5;;Rue Veuve Gautherot;10420;10265;Les Noës-près-Troyes;;;4.037557;48.302336
+10265_0065_00004_c;4;c;Rue du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.038027;48.303298
+10265_0510_00074;74;;Rue Lamartine;10420;10265;Les Noës-près-Troyes;;;4.03245;48.302438
+10265_0360_00006;6;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.047324;48.303444
+10265_0570_00047;47;;Rue des Marots;10420;10265;Les Noës-près-Troyes;;;4.049163;48.306308
+10265_0065_00008_c;8;c;Rue du Bel Air;10420;10265;Les Noës-près-Troyes;;;4.037976;48.302763
+10265_0138_00001;1;;Allée de la Colline;10420;10265;Les Noës-près-Troyes;;;4.039934;48.30588
+10265_0320_00005;5;;Rue Georges Clémenceau;10420;10265;Les Noës-près-Troyes;;;4.047459;48.300766
+10265_0715_00014_bis;14;bis;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.0418;48.30291
+10265_0715_00016_ter;16;ter;Rue de la République;10420;10265;Les Noës-près-Troyes;;;4.040889;48.303166
+10265_0115_00028;28;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.049154;48.30023
+10265_0590_00004;4;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.039725;48.30446
+10265_0125_00008;8;;Allée des Charmilles;10420;10265;Les Noës-près-Troyes;;;4.038635;48.30568
+10265_0580_00001_a;1;a;Rue Millard;10420;10265;Les Noës-près-Troyes;;;4.047706;48.302276
+10265_0115_00007;7;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.04804;48.301416
+10265_0590_00001;1;;Place des Moissons;10420;10265;Les Noës-près-Troyes;;;4.039376;48.304285
+10265_0695_00014;14;;Allée des Prés;10420;10265;Les Noës-près-Troyes;;;4.036935;48.305248
+10265_0640_00003;3;;Rue Pasteur;10420;10265;Les Noës-près-Troyes;;;4.046425;48.302193
+10265_0038_00013;13;;Rue Alsace Lorraine;10420;10265;Les Noës-près-Troyes;;;4.041728;48.304625
+10265_0280_00007;7;;Rue des Fourches Regnault;10420;10265;Les Noës-près-Troyes;;;4.047099;48.304344
+10265_0360_00023;23;;Rue Henri Garnier;10420;10265;Les Noës-près-Troyes;;;4.048986;48.304842
+10265_0115_00022;22;;Rue Camille Desmoulins;10420;10265;Les Noës-près-Troyes;;;4.048545;48.300825

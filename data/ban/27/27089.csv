@@ -1,0 +1,578 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+27089_0003_00006;6;;Chemin du Bois Follet;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.777744;49.295607
+27089_v4p97d_00041;41;;les Vallots;27520;27089;Thénouville;Theillement;;0.801288;49.29525
+27089_0023_00258;258;;Route de Berville;27520;27089;Thénouville;Theillement;;0.811041;49.290707
+27089_0048_00013;13;;Sente Barree;27290;27089;Thénouville;Touville;;0.760447;49.299137
+27089_0055_00003;3;;Route de Bourgtheroulde;27290;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77736;49.303301
+27089_0055_00125;125;;Route de Bourgtheroulde;27290;27089;Thénouville;Touville;;0.744607;49.308875
+27089_0009_00020;20;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775844;49.292555
+27089_0025_00011;11;;Allee du Bosc;27520;27089;Thénouville;Theillement;;0.810412;49.290602
+27089_0057_00041;41;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.758741;49.302399
+27089_0009_00006;6;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775698;49.293595
+27089_0037_01086;1086;;Route du Pont des Vaux;27520;27089;Thénouville;Theillement;;0.794153;49.28625
+27089_0060_00002;2;;Impasse Saint Germain de l'Auxerrois;27290;27089;Thénouville;Touville;;0.755353;49.298514
+27089_vyoll5_00065;65;;Chemin des Corblins;27520;27089;Thénouville;Touville;;0.752986;49.314827
+27089_0046_00083;83;;Route du Village;27520;27089;Thénouville;Theillement;;0.796886;49.287897
+27089_0016_00019;19;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771428;49.302243
+27089_0016_00007;7;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776138;49.295741
+27089_0012_00002;2;;Chemin de Lenteuil;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.783236;49.302645
+27089_0026_00006;6;;Route de Bourg Achard;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.780568;49.294629
+27089_b006_00040;40;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772425;49.291572
+27089_0024_00561;561;;Route de Boissey;27520;27089;Thénouville;Theillement;;0.806105;49.271764
+27089_vyoll5_00065_bis;65;bis;Chemin des Corblins;27290;27089;Thénouville;Touville;;0.753632;49.313579
+27089_b006_00030;30;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773705;49.291915
+27089_0027_00120;120;;Chemin des Bruyeres;27520;27089;Thénouville;Theillement;;0.804001;49.292048
+27089_10hn06_00005;5;;Butte du Moulin;27520;27089;Thénouville;Touville;;0.75667;49.298097
+27089_0009_00073;73;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.770953;49.293653
+27089_0050_00054;54;;Route des Corblins;27290;27089;Thénouville;Touville;;0.753081;49.312853
+27089_0009_00061;61;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774531;49.294382
+27089_b006_00083;83;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.767511;49.294067
+27089_0003_00002;2;;Chemin du Bois Follet;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.777295;49.295205
+27089_0022_00013_ter;13;ter;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.765722;49.296476
+27089_0057_00025;25;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.759827;49.303972
+27089_0009_00069;69;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771544;49.294075
+27089_b013_00098;98;;Le Bois du Val Martin;27520;27089;Thénouville;Theillement;;0.793249;49.287658
+27089_0028_00131;131;;Impasse de l’Eglise;27520;27089;Thénouville;Theillement;;0.799297;49.286309
+27089_b002_00002;2;;Les Bruyères Sud;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.778183;49.293807
+27089_10hn06_00004;4;;Butte du Moulin;27290;27089;Thénouville;Touville;;0.756966;49.298427
+27089_0036_00496;496;;Route du Pavier;27520;27089;Thénouville;Theillement;;0.807003;49.275985
+27089_0030_00717;717;;Route de la Mairie;27520;27089;Thénouville;Theillement;;0.798763;49.287432
+27089_0039_00590;590;;Impasse du Roumois;27520;27089;Thénouville;Theillement;;0.788521;49.307881
+27089_0025_00001;1;;Allee du Bosc;27520;27089;Thénouville;Theillement;;0.810143;49.290157
+27089_0036_00468;468;;Route du Pavier;27520;27089;Thénouville;Theillement;;0.807353;49.275831
+27089_0009_00059;59;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774531;49.294382
+27089_v4p97d_00072;72;;les Vallots;27520;27089;Thénouville;Theillement;;0.801288;49.29525
+27089_0016_00003;3;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.777272;49.293949
+27089_0022_00022;22;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.768054;49.295186
+27089_0009_00051;51;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772852;49.292748
+27089_b006_00008;8;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775536;49.293046
+27089_b006_00043;43;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.770951;49.291459
+27089_0032_00206;206;;Route des Monts;27520;27089;Thénouville;Theillement;;0.78164;49.29225
+27089_0028_00206;206;;Impasse de l’Eglise;27520;27089;Thénouville;Theillement;;0.799267;49.286059
+27089_0034_00841;841;;Route du Neubourg;27520;27089;Thénouville;Theillement;;0.811507;49.283249
+27089_0027_00090;90;;Chemin des Bruyeres;27520;27089;Thénouville;Theillement;;0.804458;49.292681
+27089_0033_00110;110;;Impasse des Monts Nord;27520;27089;Thénouville;Theillement;;0.78191;49.293777
+27089_0039_00590_bis;590;bis;Impasse du Roumois;27520;27089;Thénouville;Theillement;;0.788521;49.307881
+27089_0050_00065;65;;Route des Corblins;27290;27089;Thénouville;;;0.753948;49.313937
+27089_0056_00032;32;;Route aux Renards;27290;27089;Thénouville;Touville;;0.760071;49.297789
+27089_0020_00005;5;;Chemin du Pont Meunier;27520;27089;Thénouville;Theillement;;0.779048;49.292618
+27089_0046_00159;159;;Route du Village;27520;27089;Thénouville;Theillement;;0.796507;49.2881
+27089_0016_00019_bis;19;bis;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772172;49.301531
+27089_b006_00016;16;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774391;49.29257
+27089_0036_00003;3;;Route du Pavier;27520;27089;Thénouville;Theillement;;0.807128;49.271906
+27089_b006_00034;34;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773753;49.291219
+27089_0022_00020;20;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.768486;49.294884
+27089_0032_00111;111;;Route des Monts;27520;27089;Thénouville;Theillement;;0.780893;49.292937
+27089_0022_00030;30;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.764493;49.297001
+27089_0047_00124;124;;Chemin des Violettes;27520;27089;Thénouville;;;0.794647;49.305179
+27089_0060_00003;3;;Impasse Saint Germain de l'Auxerrois;27290;27089;Thénouville;Touville;;0.755314;49.298557
+27089_0025_00007;7;;Allee du Bosc;27520;27089;Thénouville;Theillement;;0.809566;49.289955
+27089_0003_00018;18;;Chemin du Bois Follet;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.780022;49.29508
+27089_0027_00428;428;;Chemin des Bruyeres;27520;27089;Thénouville;Theillement;;0.80342;49.289493
+27089_0037_00862;862;;Route du Pont des Vaux;27520;27089;Thénouville;Theillement;;0.797082;49.286873
+27089_0056_00018;18;;Route aux Renards;27290;27089;Thénouville;Touville;;0.759173;49.298231
+27089_b006_00075;75;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.76873;49.294494
+27089_b025_00012;12;;La Mare de la Salle;27520;27089;Thénouville;Theillement;;0.781543;49.294787
+27089_0022_00034;34;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.763706;49.297225
+27089_b006_00014;14;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774453;49.292868
+27089_0057_00034;34;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.759099;49.302989
+27089_0057_00001;1;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.760492;49.305827
+27089_0036_00148;148;;Route du Pavier;27520;27089;Thénouville;Theillement;;0.806907;49.273153
+27089_0052_00007;7;;Chemin de l’Eglise;27290;27089;Thénouville;Touville;;0.755912;49.299538
+27089_0033_00059;59;;Impasse des Monts Nord;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.781625;49.293858
+27089_0032_00093;93;;Route des Monts;27520;27089;Thénouville;Theillement;;0.780593;49.293179
+27089_0037_00992;992;;Route du Pont des Vaux;27520;27089;Thénouville;Theillement;;0.795522;49.286634
+27089_0024_00346;346;;Route de Boissey;27520;27089;Thénouville;Theillement;;0.808756;49.271809
+27089_0049_00017_b;17;b;Impasse du Bois;27290;27089;Thénouville;Touville;;0.759577;49.296026
+27089_0033_00150;150;;Impasse des Monts Nord;27520;27089;Thénouville;Theillement;;0.782336;49.293813
+27089_0036_00092;92;;Route du Pavier;27520;27089;Thénouville;Theillement;;0.806915;49.272656
+27089_0022_00009_bis;9;bis;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77628;49.294594
+27089_0022_00002;2;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.778338;49.294143
+27089_0049_00019;19;;Impasse du Bois;27290;27089;Thénouville;Touville;;0.758668;49.29635
+27089_0057_00062;62;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.75771;49.300863
+27089_0051_00001;1;;Chemin de l’Ecole;27290;27089;Thénouville;Touville;;0.757074;49.301277
+27089_b006_00026;26;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774592;49.292057
+27089_b006_00058;58;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774574;49.293833
+27089_0057_00048;48;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.757873;49.30204
+27089_0022_00009;9;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776664;49.2945
+27089_0009_00053;53;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774531;49.294382
+27089_0022_00019_bis;19;bis;Route de Touville;27290;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.76269;49.297342
+27089_0027_00073;73;;Chemin des Bruyeres;27520;27089;Thénouville;Theillement;;0.804579;49.292659
+27089_b006_00053;53;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772844;49.293063
+27089_b051_00002;2;;Le Puit de Vinet;27290;27089;Thénouville;Touville;;0.757107;49.300961
+27089_0027_00005;5;;Chemin des Bruyeres;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.779152;49.295001
+27089_b006_00028;28;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774093;49.292021
+27089_0011_00001;1;;Route d’Epreville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.766713;49.296481
+27089_0052_00018;18;;Chemin de l’Eglise;27290;27089;Thénouville;Touville;;0.754841;49.300055
+27089_0024_00435;435;;Route de Boissey;27520;27089;Thénouville;Theillement;;0.807574;49.271734
+27089_0026_00003;3;;Route de Bourg Achard;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.78017;49.294556
+27089_0032_00155;155;;Route des Monts;27520;27089;Thénouville;Theillement;;0.781057;49.292754
+27089_0009_00063;63;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774531;49.294382
+27089_0009_00058;58;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774189;49.293887
+27089_b006_00039;39;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77222;49.290871
+27089_0025_00005;5;;Allee du Bosc;27520;27089;Thénouville;Theillement;;0.808823;49.289652
+27089_b006_00015;15;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.777612;49.292243
+27089_0035_00037;37;;Impasse du Pavier;27520;27089;Thénouville;Theillement;;0.806849;49.276301
+27089_0022_00030_ter;30;ter;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.765021;49.296843
+27089_0024_00342;342;;Route de Boissey;27520;27089;Thénouville;Theillement;;0.809096;49.271551
+27089_0016_00018;18;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775258;49.29697
+27089_0036_00004;4;;Route du Pavier;27520;27089;Thénouville;Theillement;;0.807189;49.271966
+27089_0003_00014;14;;Chemin du Bois Follet;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.779501;49.297116
+27089_0056_00040;40;;Route aux Renards;27290;27089;Thénouville;Touville;;0.761367;49.297293
+27089_0038_00007;7;;Route du Pont Meunier - Theillem;27520;27089;Thénouville;Theillement;;0.778755;49.292309
+27089_0009_00007;7;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775995;49.293075
+27089_0057_00018;18;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.759459;49.304316
+27089_0009_00049;49;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77296;49.292706
+27089_0016_00010;10;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776771;49.295858
+27089_0009_00018;18;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774821;49.29261
+27089_0046_00200;200;;Route du Village;27520;27089;Thénouville;Theillement;;0.795774;49.288281
+27089_b006_00013;13;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77744;49.292514
+27089_0057_00028;28;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.759492;49.3036
+27089_0037_01038;1038;;Route du Pont des Vaux;27520;27089;Thénouville;Theillement;;0.794617;49.286165
+27089_b006_00038;38;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77278;49.291322
+27089_0043_00648;648;;Route du Val;27520;27089;Thénouville;Theillement;;0.79669;49.294962
+27089_b006_00006;6;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775395;49.293574
+27089_0057_00038;38;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.758837;49.302637
+27089_0035_00073;73;;Impasse du Pavier;27520;27089;Thénouville;Theillement;;0.806483;49.276865
+27089_b006_00021;21;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776342;49.292319
+27089_0043_00695;695;;Route du Val;27520;27089;Thénouville;Theillement;;0.796258;49.294839
+27089_0043_00391;391;;Route du Val;27520;27089;Thénouville;Theillement;;0.800378;49.29574
+27089_0028_00001;1;;Impasse de l’Eglise;27520;27089;Thénouville;Theillement;;0.798792;49.287403
+27089_0009_00002;2;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774908;49.294161
+27089_0009_00004;4;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775342;49.293854
+27089_10hn06_00003;3;;Butte du Moulin;27290;27089;Thénouville;Touville;;0.757072;49.298477
+27089_0052_00017;17;;Chemin de l’Eglise;27290;27089;Thénouville;Touville;;0.755311;49.299875
+27089_0054_00004;4;;Chemin Marenette;27290;27089;Thénouville;;;0.768191;49.309428
+27089_0055_00016;16;;Route de Bourgtheroulde;27290;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772879;49.302183
+27089_0009_00026;26;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774584;49.291784
+27089_0057_00042;42;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.758669;49.302433
+27089_0020_00006;6;;Chemin du Pont Meunier;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.778719;49.292847
+27089_g4laa1_00003;3;;Impasse Saint Germain;27290;27089;Thénouville;Touville;;0.75604;49.299022
+27089_0033_00026;26;;Impasse des Monts Nord;27520;27089;Thénouville;Theillement;;0.780911;49.29375
+27089_0057_00033;33;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.760353;49.302672
+27089_0043_00317;317;;Route du Val;27520;27089;Thénouville;Theillement;;0.800907;49.295285
+27089_0043_00185;185;;Route du Val;27520;27089;Thénouville;Theillement;;0.801622;49.294771
+27089_0046_00020;20;;Route du Village;27520;27089;Thénouville;Theillement;;0.797314;49.287273
+27089_0045_00072;72;;Chemin des Vallots;27520;27089;Thénouville;Theillement;;0.800433;49.296453
+27089_0037_01017;1017;;Route du Pont des Vaux;27520;27089;Thénouville;Theillement;;0.794847;49.286539
+27089_0009_00023;23;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775789;49.291999
+27089_b006_00089;89;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.766628;49.294644
+27089_0022_00018;18;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.770011;49.294708
+27089_0022_00009_ter;9;ter;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775419;49.294618
+27089_b006_00022;22;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775425;49.292248
+27089_0022_00005;5;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.777896;49.294142
+27089_0032_00216;216;;Route des Monts;27520;27089;Thénouville;Theillement;;0.781954;49.291648
+27089_0016_00020;20;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775216;49.297066
+27089_0016_00021;21;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771442;49.302244
+27089_0027_00002;2;;Chemin des Bruyeres;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77919;49.294207
+27089_10hn06_00010;10;;Butte du Moulin;27290;27089;Thénouville;Touville;;0.75781;49.296762
+27089_0003_00012;12;;Chemin du Bois Follet;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.778209;49.296033
+27089_0009_00005;5;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776009;49.293311
+27089_0009_00052;52;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773384;49.293019
+27089_0052_00012;12;;Chemin de l’Eglise;27290;27089;Thénouville;Touville;;0.755357;49.299804
+27089_0036_00029;29;;Route du Pavier;27520;27089;Thénouville;Theillement;;0.807054;49.272113
+27089_2q9hv9_00012;12;;Route de la Mare de la Salle;27520;27089;Thénouville;Theillement;;0.781543;49.294787
+27089_0043_00418;418;;Route du Val;27520;27089;Thénouville;Theillement;;0.799819;49.295469
+27089_0009_00032;32;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773709;49.291672
+27089_b006_00046;46;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772799;49.292051
+27089_0032_00171;171;;Route des Monts;27520;27089;Thénouville;Theillement;;0.780678;49.292077
+27089_0009_00079;79;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.767474;49.294774
+27089_0016_00011;11;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775882;49.296279
+27089_0055_00013;13;;Route de Bourgtheroulde;27290;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774097;49.302892
+27089_g4laa1_00005;5;;Impasse Saint Germain;27520;27089;Thénouville;Touville;;0.755685;49.298695
+27089_0022_00012;12;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775473;49.294984
+27089_0046_00255;255;;Route du Village;27520;27089;Thénouville;Theillement;;0.79515;49.288412
+27089_b006_00047;47;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771468;49.2928
+27089_b006_00049;49;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771793;49.293233
+27089_0012_00003;3;;Chemin de Lenteuil;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.781087;49.303015
+27089_0009_00083;83;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.767045;49.294237
+27089_0023_00239;239;;Route de Berville;27520;27089;Thénouville;Theillement;;0.811058;49.290762
+27089_0033_00105;105;;Impasse des Monts Nord;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.781743;49.29386
+27089_b006_00029;29;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.7755;49.290927
+27089_0032_00150;150;;Route des Monts;27520;27089;Thénouville;Theillement;;0.781087;49.292533
+27089_0057_00033_bis;33;bis;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.760403;49.302685
+27089_b006_00048;48;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773467;49.292293
+27089_0057_00011;11;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.760285;49.305154
+27089_b006_00091;91;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.767113;49.294891
+27089_0009_00013;13;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776922;49.292237
+27089_0016_00022_bis;22;bis;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775258;49.29697
+27089_b006_00002;2;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774839;49.294004
+27089_0034_00103;103;;Route du Neubourg;27520;27089;Thénouville;Theillement;;0.807864;49.289359
+27089_0020_00003;3;;Chemin du Pont Meunier;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77946;49.293122
+27089_0022_00013_bis;13;bis;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.765096;49.296499
+27089_g4laa1_00001;1;;Impasse Saint Germain;27520;27089;Thénouville;Touville;;0.755849;49.298845
+27089_0016_00002;2;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.777267;49.293846
+27089_0060_00001;1;;Impasse Saint Germain de l'Auxerrois;27290;27089;Thénouville;Touville;;0.755914;49.298736
+27089_0022_00007;7;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77696;49.294433
+27089_0010_00001;1;;Chemin de Dorbeaux;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.782762;49.300873
+27089_0016_00013;13;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775237;49.296791
+27089_0022_00030_bis;30;bis;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.764944;49.29687
+27089_0029_00063;63;;Route des Froids Vents;27520;27089;Thénouville;Theillement;;0.80679;49.289856
+27089_0047_00294_bis;294;bis;Chemin des Violettes;27520;27089;Thénouville;Theillement;;0.792528;49.305629
+27089_0009_00077;77;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.768376;49.294819
+27089_0032_00100;100;;Route des Monts;27520;27089;Thénouville;Theillement;;0.780741;49.293127
+27089_0027_00183;183;;Chemin des Bruyeres;27520;27089;Thénouville;Theillement;;0.803734;49.291498
+27089_9ydvyr_00017;17;;Chemin de Lauteuil;27290;27089;Thénouville;Touville;;0.760052;49.300066
+27089_0058_00016;16;;Chemin de la Varenne;27290;27089;Thénouville;Touville;;0.746653;49.30989
+27089_b006_00077;77;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.768261;49.294553
+27089_0047_00294;294;;Chemin des Violettes;27520;27089;Thénouville;Theillement;;0.792446;49.3056
+27089_0043_00160;160;;Route du Val;27520;27089;Thénouville;Theillement;;0.802333;49.29491
+27089_0016_00014;14;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776397;49.296589
+27089_b006_00018;18;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774892;49.292463
+27089_0037_01091;1091;;Route du Pont des Vaux;27520;27089;Thénouville;Theillement;;0.794116;49.2862
+27089_b006_00025;25;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775966;49.291574
+27089_0009_00045;45;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771858;49.292212
+27089_0009_00029;29;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775;49.291221
+27089_0009_00038;38;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772589;49.291026
+27089_b006_00017;17;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.777156;49.292019
+27089_0044_00141;141;;Impasse du Val Martin;27520;27089;Thénouville;Theillement;;0.793006;49.28707
+27089_0011_00003;3;;Route d’Epreville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.766657;49.296382
+27089_b006_00036;36;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773177;49.290988
+27089_b006_00045;45;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771799;49.292343
+27089_0009_00081;81;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.767246;49.294457
+27089_0043_00397;397;;Route du Val;27520;27089;Thénouville;Theillement;;0.799972;49.29569
+27089_0009_00037;37;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772573;49.29093
+27089_0033_00176;176;;Impasse des Monts Nord;27520;27089;Thénouville;Theillement;;0.782657;49.293721
+27089_0029_00205;205;;Route des Froids Vents;27520;27089;Thénouville;Theillement;;0.804947;49.28926
+27089_2q9hv9_00006;6;;Route de la Mare de la Salle;27520;27089;Thénouville;Theillement;;0.78237;49.29457
+27089_0023_00350;350;;Route de Berville;27520;27089;Thénouville;Theillement;;0.811725;49.291051
+27089_0033_00183;183;;Impasse des Monts Nord;27520;27089;Thénouville;Theillement;;0.78241;49.293825
+27089_b006_00087;87;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.766434;49.294258
+27089_b006_00007;7;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776261;49.293091
+27089_0028_00050;50;;Impasse de l’Eglise;27520;27089;Thénouville;Theillement;;0.798965;49.286974
+27089_0032_00149;149;;Route des Monts;27520;27089;Thénouville;Theillement;;0.78117;49.292603
+27089_0057_00063;63;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.757661;49.300442
+27089_0016_00003_a;3;a;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776946;49.293604
+27089_0033_00129;129;;Impasse des Monts Nord;27520;27089;Thénouville;Theillement;;0.782159;49.293586
+27089_0043_00285;285;;Route du Val;27520;27089;Thénouville;Theillement;;0.801058;49.295205
+27089_0023_00249;249;;Route de Berville;27520;27089;Thénouville;Theillement;;0.810744;49.290671
+27089_0009_00001;1;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775056;49.294174
+27089_0020_00002;2;;Chemin du Pont Meunier;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.779324;49.293395
+27089_b006_00056;56;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774251;49.293449
+27089_0027_00004;4;;Chemin des Bruyeres;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.779225;49.294648
+27089_b006_00067;67;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772282;49.293862
+27089_10hn06_00008;8;;Butte du Moulin;27290;27089;Thénouville;Touville;;0.757784;49.297423
+27089_b006_00061;61;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773506;49.294195
+27089_0022_00018_bis;18;bis;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771549;49.294156
+27089_0048_00013_bis;13;bis;Sente Barree;27290;27089;Thénouville;Touville;;0.760646;49.29916
+27089_0009_00008;8;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77587;49.29305
+27089_0037_01069;1069;;Route du Pont des Vaux;27520;27089;Thénouville;Theillement;;0.794411;49.286409
+27089_0009_00009;9;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776267;49.292511
+27089_0036_00064;64;;Route du Pavier;27520;27089;Thénouville;Theillement;;0.806997;49.27246
+27089_0057_00068;68;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.757444;49.300295
+27089_0009_00028;28;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774127;49.291793
+27089_0040_00034;34;;Chemin des Soupirs;27520;27089;Thénouville;Theillement;;0.81015;49.290912
+27089_0009_00047;47;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.7721;49.292337
+27089_0052_00008;8;;Chemin de l’Eglise;27290;27089;Thénouville;Touville;;0.756117;49.299797
+27089_0022_00036;36;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.763413;49.297303
+27089_b006_00012;12;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774642;49.293133
+27089_10hn06_00002;2;;Butte du Moulin;27290;27089;Thénouville;Touville;;0.757584;49.298894
+27089_0057_00044;44;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.758473;49.302172
+27089_b006_00024;24;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775179;49.291902
+27089_0022_00015;15;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.763729;49.29713
+27089_0057_00005;5;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.760378;49.305422
+27089_0049_00013;13;;Impasse du Bois;27290;27089;Thénouville;Touville;;0.75981;49.297921
+27089_0009_00065;65;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771544;49.294075
+27089_0048_00009;9;;Sente Barree;27290;27089;Thénouville;Touville;;0.760646;49.29916
+27089_0042_00153;153;;Route de la Tomberie;27520;27089;Thénouville;;;0.794761;49.304266
+27089_0009_00025;25;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775381;49.291529
+27089_0037_00902;902;;Route du Pont des Vaux;27520;27089;Thénouville;Theillement;;0.796481;49.286532
+27089_0022_00003;3;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.778362;49.294141
+27089_0058_00015;15;;Chemin de la Varenne;27290;27089;Thénouville;Touville;;0.746123;49.310146
+27089_0027_00009;9;;Chemin des Bruyeres;27520;27089;Thénouville;Theillement;;0.804945;49.293186
+27089_b006_00020;20;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775441;49.292617
+27089_0024_00605;605;;Route de Boissey;27520;27089;Thénouville;Theillement;;0.805352;49.271661
+27089_0025_00003;3;;Allee du Bosc;27520;27089;Thénouville;Theillement;;0.808878;49.289804
+27089_0016_00005;5;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776814;49.29555
+27089_0022_00013;13;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.764466;49.296921
+27089_0012_00001;1;;Chemin de Lenteuil;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.781019;49.302618
+27089_0022_00028_bis;28;bis;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.76538;49.296721
+27089_0038_00005;5;;Route du Pont Meunier - Theillem;27520;27089;Thénouville;Theillement;;0.779048;49.292618
+27089_0046_00329;329;;Route du Village;27520;27089;Thénouville;Theillement;;0.794707;49.288881
+27089_0037_00825;825;;Route du Pont des Vaux;27520;27089;Thénouville;Theillement;;0.797544;49.286925
+27089_0032_00001;1;;Route des Monts;27520;27089;Thénouville;Theillement;;0.780382;49.293724
+27089_0055_00009;9;;Route de Bourgtheroulde;27290;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77502;49.30302
+27089_0042_00159;159;;Route de la Tomberie;27520;27089;Thénouville;Theillement;;0.794399;49.304533
+27089_0022_00013_d;13;d;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.766645;49.296278
+27089_0022_00026;26;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.767692;49.295964
+27089_0009_00055;55;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774531;49.294382
+27089_0034_00203;203;;Route du Neubourg;27520;27089;Thénouville;Theillement;;0.807704;49.288421
+27089_0030_00625;625;;Route de la Mairie;27520;27089;Thénouville;Theillement;;0.80003;49.287826
+27089_0036_00495;495;;Route du Pavier;27520;27089;Thénouville;Theillement;;0.807069;49.275873
+27089_0025_00009_bis;9;bis;Allee du Bosc;27520;27089;Thénouville;Theillement;;0.81074;49.290033
+27089_0057_00010;10;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.759717;49.304974
+27089_0009_00071;71;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771398;49.294078
+27089_0033_00076;76;;Impasse des Monts Nord;27520;27089;Thénouville;Theillement;;0.781111;49.293741
+27089_0033_00130;130;;Impasse des Monts Nord;27520;27089;Thénouville;Theillement;;0.78207;49.293834
+27089_0003_00005;5;;Chemin du Bois Follet;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.78012;49.295186
+27089_0057_00016;16;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.759519;49.304637
+27089_0022_00010;10;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77581;49.294661
+27089_0054_00002;2;;Chemin Marenette;27290;27089;Thénouville;;;0.767117;49.308049
+27089_0009_00017;17;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776819;49.292193
+27089_0057_00069;69;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.75735;49.299908
+27089_0016_00012;12;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776401;49.296116
+27089_0024_00563;563;;Route de Boissey;27520;27089;Thénouville;Theillement;;0.805735;49.271767
+27089_0033_00184;184;;Impasse des Monts Nord;27520;27089;Thénouville;Theillement;;0.782777;49.293709
+27089_0009_00014;14;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774677;49.292688
+27089_0009_00067;67;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771544;49.294075
+27089_0043_00490;490;;Route du Val;27520;27089;Thénouville;Theillement;;0.798697;49.295256
+27089_0037_00892;892;;Route du Pont des Vaux;27520;27089;Thénouville;Theillement;;0.796861;49.286837
+27089_0009_00075;75;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.768817;49.294758
+27089_0055_00011;11;;Route de Bourgtheroulde;27290;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774639;49.302959
+27089_0026_00582;582;;Route de Bourg Achard;27520;27089;Thénouville;Theillement;;0.804476;49.294583
+27089_0009_00034;34;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774093;49.290825
+27089_0048_00010;10;;Sente Barree;27290;27089;Thénouville;Touville;;0.759419;49.298207
+27089_0026_00005;5;;Route de Bourg Achard;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.780887;49.294838
+27089_0032_00273;273;;Route des Monts;27520;27089;Thénouville;Theillement;;0.781572;49.29189
+27089_hujb5m_00009;9;;Le Bosc;27520;27089;Thénouville;Theillement;;0.811694;49.289933
+27089_0032_00620;620;;Route des Monts;27520;27089;Thénouville;Theillement;;0.779982;49.288654
+27089_0056_00036;36;;Route aux Renards;27290;27089;Thénouville;Touville;;0.760995;49.297574
+27089_0016_00022;22;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772318;49.301891
+27089_0016_00006;6;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.777108;49.294563
+27089_0027_00039;39;;Chemin des Bruyeres;27520;27089;Thénouville;Theillement;;0.804127;49.293125
+27089_0025_00010;10;;Allee du Bosc;27520;27089;Thénouville;Theillement;;0.810729;49.290121
+27089_0031_00174;174;;Impasse de la Mare;27520;27089;Thénouville;Theillement;;0.807127;49.270383
+27089_b025_00184;184;;La Mare de la Salle;27520;27089;Thénouville;Theillement;;0.782703;49.294696
+27089_b025_00008;8;;La Mare de la Salle;27520;27089;Thénouville;Theillement;;0.781034;49.294598
+27089_0009_00003_bis;3;bis;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77596;49.293472
+27089_0023_00145;145;;Route de Berville;27520;27089;Thénouville;Theillement;;0.809723;49.290462
+27089_0049_00008;8;;Impasse du Bois;27290;27089;Thénouville;Touville;;0.759614;49.296967
+27089_0022_00011;11;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.764569;49.296894
+27089_0032_01204;1204;;Route des Monts;27520;27089;Thénouville;Theillement;;0.785648;49.284505
+27089_0055_00123;123;;Route de Bourgtheroulde;27290;27089;Thénouville;Touville;;0.746299;49.307717
+27089_0047_00040;40;;Chemin des Violettes;27520;27089;Thénouville;;;0.795735;49.305117
+27089_0016_00004;4;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.777192;49.29421
+27089_0032_00162;162;;Route des Monts;27520;27089;Thénouville;Theillement;;0.780325;49.292522
+27089_0037_00832;832;;Route du Pont des Vaux;27520;27089;Thénouville;Theillement;;0.797281;49.286841
+27089_0049_00015;15;;Impasse du Bois;27290;27089;Thénouville;Touville;;0.75876;49.296481
+27089_0026_00001;1;;Route de Bourg Achard;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.780029;49.294164
+27089_b006_00027;27;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775971;49.291129
+27089_0043_00252;252;;Route du Val;27520;27089;Thénouville;Theillement;;0.80128;49.295062
+27089_0009_00085;85;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.766699;49.293934
+27089_0040_00007;7;;Chemin des Soupirs;27520;27089;Thénouville;Theillement;;0.810481;49.29081
+27089_0045_00041;41;;Chemin des Vallots;27520;27089;Thénouville;Theillement;;0.800211;49.296195
+27089_b006_00051;51;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772385;49.293122
+27089_b006_00010;10;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775109;49.293204
+27089_zghpek_00150;150;;Les Monts;27520;27089;Thénouville;Theillement;;0.780771;49.292581
+27089_0022_00032;32;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.764031;49.29713
+27089_0022_00017;17;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.763593;49.29717
+27089_0033_00104_bis;104;bis;Impasse des Monts Nord;27520;27089;Thénouville;Theillement;;0.781695;49.293778
+27089_0032_00202;202;;Route des Monts;27520;27089;Thénouville;Theillement;;0.781282;49.292199
+27089_b025_00014;14;;La Mare de la Salle;27520;27089;Thénouville;Theillement;;0.781756;49.295014
+27089_0029_00175;175;;Route des Froids Vents;27520;27089;Thénouville;Theillement;;0.805293;49.289321
+27089_0020_00007;7;;Chemin du Pont Meunier;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.778597;49.29261
+27089_b006_00063;63;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773189;49.29401
+27089_0009_00089;89;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.767142;49.294502
+27089_0016_00005_bis;5;bis;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776753;49.295684
+27089_10hn06_00007;7;;Butte du Moulin;27290;27089;Thénouville;Touville;;0.757724;49.297807
+27089_0047_00204;204;;Chemin des Violettes;27520;27089;Thénouville;;;0.793607;49.305393
+27089_b006_00009;9;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776289;49.292713
+27089_0016_00002_bis;2;bis;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.777119;49.293584
+27089_b006_00050;50;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773486;49.292594
+27089_0057_00060;60;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.757805;49.301022
+27089_0032_00618;618;;Route des Monts;27520;27089;Thénouville;Theillement;;0.782232;49.288498
+27089_b006_00071;71;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771347;49.29389
+27089_10hn06_00009;9;;Butte du Moulin;27520;27089;Thénouville;Touville;;0.757408;49.297033
+27089_0037_01025;1025;;Route du Pont des Vaux;27520;27089;Thénouville;Theillement;;0.794921;49.286488
+27089_b006_00041;41;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771697;49.291199
+27089_0016_00017;17;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775098;49.297043
+27089_0016_00016;16;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775334;49.296845
+27089_g4laa1_00002;2;;Impasse Saint Germain;27520;27089;Thénouville;Touville;;0.755417;49.298459
+27089_0027_00118;118;;Chemin des Bruyeres;27520;27089;Thénouville;Theillement;;0.803691;49.292424
+27089_0037_01171;1171;;Route du Pont des Vaux;27520;27089;Thénouville;Theillement;;0.793847;49.285745
+27089_0055_00121;121;;Route de Bourgtheroulde;27290;27089;Thénouville;Touville;;0.745758;49.309056
+27089_0032_00159;159;;Route des Monts;27520;27089;Thénouville;Theillement;;0.781244;49.292503
+27089_0054_00030;30;;Chemin Marenette;27290;27089;Thénouville;Touville;;0.766492;49.307351
+27089_0009_00050;50;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77296;49.292583
+27089_0034_01520;1520;;Route du Neubourg;27520;27089;Thénouville;Theillement;;0.812293;49.276595
+27089_0030_00441;441;;Route de la Mairie;27520;27089;Thénouville;Theillement;;0.802078;49.288714
+27089_0026_00004;4;;Route de Bourg Achard;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.780213;49.294341
+27089_b006_00001;1;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775246;49.294268
+27089_b006_00085;85;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.766822;49.294045
+27089_0009_00024;24;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775022;49.29169
+27089_0027_00001;1;;Chemin des Bruyeres;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.779091;49.294341
+27089_b006_00031;31;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774926;49.290867
+27089_0057_00050;50;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.757569;49.301944
+27089_0056_00046;46;;Route aux Renards;27290;27089;Thénouville;Touville;;0.76217;49.297309
+27089_0022_00026_bis;26;bis;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.766589;49.296065
+27089_0033_00088;88;;Impasse des Monts Nord;27520;27089;Thénouville;Theillement;;0.781413;49.293794
+27089_0009_00022;22;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775725;49.292108
+27089_0027_00006;6;;Chemin des Bruyeres;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.779273;49.294994
+27089_b006_00054;54;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773987;49.293224
+27089_0009_00054;54;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773638;49.293286
+27089_0026_00353;353;;Route de Bourg Achard;27520;27089;Thénouville;Theillement;;0.80572;49.29249
+27089_0033_00104;104;;Impasse des Monts Nord;27520;27089;Thénouville;Theillement;;0.781699;49.293779
+27089_fereie_00001;1;;place des Tilleuls;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776806;49.294658
+27089_0027_00158;158;;Chemin des Bruyeres;27520;27089;Thénouville;Theillement;;0.803561;49.291898
+27089_b006_00011;11;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776906;49.292707
+27089_0022_00028;28;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.765892;49.296509
+27089_0016_00009;9;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775819;49.296316
+27089_0009_00027;27;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775237;49.29141
+27089_b006_00057;57;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773433;49.293537
+27089_0027_00003;3;;Chemin des Bruyeres;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.779119;49.29477
+27089_b006_00019;19;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776701;49.291943
+27089_b006_00069;69;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771855;49.293769
+27089_0009_00010;10;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775264;49.292776
+27089_0033_00269;269;;Impasse des Monts Nord;27520;27089;Thénouville;Theillement;;0.783977;49.293647
+27089_0048_00011;11;;Sente Barree;27290;27089;Thénouville;Touville;;0.760222;49.298969
+27089_b006_00052;52;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773663;49.29293
+27089_0036_00122;122;;Route du Pavier;27520;27089;Thénouville;Theillement;;0.806841;49.272898
+27089_0052_00016;16;;Chemin de l’Eglise;27290;27089;Thénouville;Touville;;0.755042;49.299986
+27089_b006_00079;79;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.767651;49.294658
+27089_0055_00015;15;;Route de Bourgtheroulde;27290;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773227;49.30286
+27089_0033_00159;159;;Impasse des Monts Nord;27520;27089;Thénouville;Theillement;;0.782811;49.293425
+27089_0033_00086;86;;Impasse des Monts Nord;27520;27089;Thénouville;Theillement;;0.781657;49.294125
+27089_0009_00039;39;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772414;49.291068
+27089_0026_00008;8;;Route de Bourg Achard;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.781277;49.294995
+27089_10hn06_00001;1;;Butte du Moulin;27290;27089;Thénouville;Touville;;0.757714;49.298244
+27089_0057_00015;15;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.760176;49.304662
+27089_0025_00002;2;;Allee du Bosc;27520;27089;Thénouville;Theillement;;0.809599;49.290001
+27089_b006_00023;23;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776135;49.291897
+27089_0055_00019;19;;Route de Bourgtheroulde;27290;27089;Thénouville;Touville;;0.763084;49.30539
+27089_0009_00040;40;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772133;49.291316
+27089_0009_00091;91;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.767139;49.294947
+27089_0027_00098;98;;Chemin des Bruyeres;27520;27089;Thénouville;Theillement;;0.80451;49.292754
+27089_0057_00071;71;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.757092;49.299516
+27089_0047_00121;121;;Chemin des Violettes;27520;27089;Thénouville;Theillement;;0.794839;49.304947
+27089_0022_00004;4;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77772;49.294274
+27089_b006_00003_bis;3;bis;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776317;49.293595
+27089_0032_00189;189;;Route des Monts;27520;27089;Thénouville;Theillement;;0.780976;49.292194
+27089_0026_00002;2;;Route de Bourg Achard;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.780259;49.293936
+27089_0009_00016;16;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774677;49.292688
+27089_0009_00036;36;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773128;49.290801
+27089_0049_00017_a;17;a;Impasse du Bois;27290;27089;Thénouville;Touville;;0.760154;49.295884
+27089_0003_00010;10;;Chemin du Bois Follet;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.778176;49.296004
+27089_0037_00920;920;;Route du Pont des Vaux;27520;27089;Thénouville;Theillement;;0.796389;49.286775
+27089_0043_00469;469;;Route du Val;27520;27089;Thénouville;Theillement;;0.799255;49.295359
+27089_0025_00009;9;;Allee du Bosc;27520;27089;Thénouville;Theillement;;0.810228;49.290141
+27089_b006_00055;55;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772993;49.29335
+27089_0034_00840;840;;Route du Neubourg;27520;27089;Thénouville;Theillement;;0.811604;49.283102
+27089_0055_00001;1;;Route de Bourgtheroulde;27290;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.777211;49.303295
+27089_0009_00031;31;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774645;49.291027
+27089_0034_00300;300;;Route du Neubourg;27520;27089;Thénouville;Theillement;;0.807637;49.288014
+27089_b006_00004;4;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775131;49.293722
+27089_0027_00507;507;;Chemin des Bruyeres;27520;27089;Thénouville;Theillement;;0.803556;49.289134
+27089_b025_00010;10;;La Mare de la Salle;27520;27089;Thénouville;Theillement;;0.781326;49.294761
+27089_0057_00052;52;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.757875;49.301293
+27089_0033_00001;1;;Impasse des Monts Nord;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.780387;49.293805
+27089_0022_00038;38;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.763141;49.297364
+27089_0031_00013;13;;Impasse de la Mare;27520;27089;Thénouville;Theillement;;0.807295;49.271666
+27089_0009_00012;12;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774755;49.292749
+27089_0031_00132;132;;Impasse de la Mare;27520;27089;Thénouville;Theillement;;0.807125;49.270386
+27089_0046_00350;350;;Route du Village;27520;27089;Thénouville;Theillement;;0.794344;49.287928
+27089_0044_00164;164;;Impasse du Val Martin;27520;27089;Thénouville;Theillement;;0.792911;49.287219
+27089_b006_00032;32;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773185;49.291631
+27089_0057_00002;2;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.760084;49.30576
+27089_0028_00157;157;;Impasse de l’Eglise;27520;27089;Thénouville;Theillement;;0.799289;49.286095
+27089_0022_00003_bis;3;bis;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.778771;49.293712
+27089_zdct05_00030;30;;Chemin des Marnettes;27520;27089;Thénouville;Touville;;0.766786;49.307093
+27089_0047_00071;71;;Chemin des Violettes;27520;27089;Thénouville;Theillement;;0.795443;49.304825
+27089_0044_00227;227;;Impasse du Val Martin;27520;27089;Thénouville;Theillement;;0.792754;49.287691
+27089_b006_00042;42;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771971;49.291905
+27089_0057_00055;55;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.758117;49.301679
+27089_b006_00081;81;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.767457;49.294407
+27089_0031_00103;103;;Impasse de la Mare;27520;27089;Thénouville;Theillement;;0.806964;49.270886
+27089_0042_00191;191;;Route de la Tomberie;27520;27089;Thénouville;Theillement;;0.794469;49.304503
+27089_0055_00008;8;;Route de Bourgtheroulde;27290;27089;Thénouville;Touville;;0.761405;49.305683
+27089_0015_00006;6;;Place de la Mairie;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776559;49.294789
+27089_0022_00016;16;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771549;49.294156
+27089_0025_00006;6;;Allee du Bosc;27520;27089;Thénouville;Theillement;;0.809119;49.289837
+27089_0033_00071;71;;Impasse des Monts Nord;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.781019;49.293814
+27089_0030_00356;356;;Route de la Mairie;27520;27089;Thénouville;Theillement;;0.802957;49.288864
+27089_0009_00003;3;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775601;49.293787
+27089_0039_00588;588;;Impasse du Roumois;27520;27089;Thénouville;Theillement;;0.788755;49.307318
+27089_0044_00190;190;;Impasse du Val Martin;27520;27089;Thénouville;Theillement;;0.79278;49.287484
+27089_0032_00998;998;;Route des Monts;27520;27089;Thénouville;Theillement;;0.785002;49.28572
+27089_0020_00001;1;;Chemin du Pont Meunier;27520;27089;Thénouville;Theillement;;0.779946;49.293813
+27089_0041_00329;329;;Chemin du Thuit;27520;27089;Thénouville;Theillement;;0.80439;49.285127
+27089_0009_00035;35;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774388;49.29092
+27089_10hn06_00012;12;;Butte du Moulin;27290;27089;Thénouville;Touville;;0.758135;49.297268
+27089_0009_00048;48;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772955;49.292414
+27089_0009_00041;41;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771967;49.291319
+27089_10hn06_00006;6;;Butte du Moulin;27290;27089;Thénouville;Touville;;0.757211;49.29807
+27089_0020_00003_bis;3;bis;Chemin du Pont Meunier;27520;27089;Thénouville;Theillement;;0.779493;49.293414
+27089_0046_00140;140;;Route du Village;27520;27089;Thénouville;Theillement;;0.796733;49.288068
+27089_0022_00014;14;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771549;49.294156
+27089_0016_00007_bis;7;bis;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775318;49.296691
+27089_0003_00003;3;;Chemin du Bois Follet;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.780076;49.29583
+27089_0060_00005;5;;Impasse Saint Germain de l'Auxerrois;27290;27089;Thénouville;Touville;;0.75529;49.298831
+27089_0003_00002_bis;2;bis;Chemin du Bois Follet;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.777097;49.295003
+27089_0022_00022_bis;22;bis;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.767605;49.295025
+27089_b006_00065;65;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772576;49.293953
+27089_0057_00074;74;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.757191;49.299826
+27089_0024_00433;433;;Route de Boissey;27520;27089;Thénouville;Theillement;;0.807661;49.271812
+27089_0022_00024;24;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.767079;49.295396
+27089_0057_00024;24;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.759728;49.303954
+27089_b006_00044;44;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772447;49.29222
+27089_0009_00042;42;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77168;49.292006
+27089_0041_00015;15;;Chemin du Thuit;27520;27089;Thénouville;Theillement;;0.807943;49.286285
+27089_0051_00002;2;;Chemin de l’Ecole;27290;27089;Thénouville;Touville;;0.75714;49.301008
+27089_10hn06_00013;13;;Butte du Moulin;27290;27089;Thénouville;Touville;;0.758427;49.297812
+27089_0022_00006;6;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.771549;49.294156
+27089_0042_00066;66;;Route de la Tomberie;27520;27089;Thénouville;;;0.794479;49.304018
+27089_0003_00004;4;;Chemin du Bois Follet;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.777507;49.295382
+27089_0016_00001;1;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.777023;49.293404
+27089_0032_00073;73;;Route des Monts;27520;27089;Thénouville;Theillement;;0.780399;49.293522
+27089_0026_00009;9;;Route de Bourg Achard;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.781857;49.295239
+27089_0009_00044;44;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77223;49.292301
+27089_0044_00238;238;;Impasse du Val Martin;27520;27089;Thénouville;Theillement;;0.792522;49.287836
+27089_vyoll5_00054;54;;Chemin des Corblins;27290;27089;Thénouville;Touville;;0.75308;49.312852
+27089_0009_00015;15;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775853;49.292837
+27089_0049_00017;17;;Impasse du Bois;27290;27089;Thénouville;Touville;;0.75899;49.296426
+27089_0026_00007;7;;Route de Bourg Achard;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.781489;49.295086
+27089_0048_00015;15;;Sente Barree;27290;27089;Thénouville;Touville;;0.760646;49.29916
+27089_b006_00037;37;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772919;49.290479
+27089_0025_00008;8;;Allee du Bosc;27520;27089;Thénouville;Theillement;;0.809975;49.290069
+27089_0043_00428;428;;Route du Val;27520;27089;Thénouville;Theillement;;0.799746;49.295205
+27089_0057_00006;6;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.760243;49.305274
+27089_0029_00145;145;;Route des Froids Vents;27520;27089;Thénouville;Theillement;;0.805656;49.289381
+27089_0056_00005;5;;Route aux Renards;27290;27089;Thénouville;Touville;;0.756472;49.298171
+27089_0022_00011_bis;11;bis;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.764331;49.296683
+27089_b006_00035;35;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773719;49.290251
+27089_b030_00618;618;;Les Monts Sud;27520;27089;Thénouville;Theillement;;0.781302;49.287816
+27089_g4laa1_00002_bis;2;bis;Impasse Saint Germain;27520;27089;Thénouville;Touville;;0.755686;49.298695
+27089_0023_00182;182;;Route de Berville;27520;27089;Thénouville;Theillement;;0.810406;49.290681
+27089_0029_00118;118;;Route des Froids Vents;27520;27089;Thénouville;Theillement;;0.806113;49.289399
+27089_0025_00004;4;;Allee du Bosc;27520;27089;Thénouville;Theillement;;0.808719;49.28977
+27089_0022_00019;19;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.762867;49.297332
+27089_0009_00057;57;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.774531;49.294382
+27089_0022_00008;8;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77628;49.294594
+27089_0055_00007;7;;Route de Bourgtheroulde;27290;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775708;49.303148
+27089_0009_00011;11;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776701;49.292463
+27089_b006_00005;5;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776641;49.293597
+27089_0056_00034;34;;Route aux Renards;27290;27089;Thénouville;Touville;;0.760223;49.297735
+27089_0036_00242;242;;Route du Pavier;27520;27089;Thénouville;Theillement;;0.807246;49.27385
+27089_0039_00200;200;;Impasse du Roumois;27520;27089;Thénouville;Theillement;;0.788356;49.304637
+27089_v4p97d_00046;46;;les Vallots;27520;27089;Thénouville;Theillement;;0.801288;49.29525
+27089_0009_00030;30;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773846;49.291722
+27089_0023_00088;88;;Route de Berville;27520;27089;Thénouville;Theillement;;0.809271;49.290338
+27089_0028_00059;59;;Impasse de l’Eglise;27520;27089;Thénouville;Theillement;;0.799001;49.286952
+27089_0043_00785;785;;Route du Val;27520;27089;Thénouville;Theillement;;0.796256;49.294923
+27089_0057_00030;30;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.759261;49.303198
+27089_0045_00046;46;;Chemin des Vallots;27520;27089;Thénouville;Theillement;;0.800213;49.296151
+27089_0029_00083;83;;Route des Froids Vents;27520;27089;Thénouville;Theillement;;0.806529;49.289579
+27089_0055_00014;14;;Route de Bourgtheroulde;27290;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773668;49.30195
+27089_0057_00059;59;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.757921;49.301069
+27089_0055_00005;5;;Route de Bourgtheroulde;27290;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.776672;49.303262
+27089_0020_00004;4;;Chemin du Pont Meunier;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.779049;49.293139
+27089_0022_00001;1;;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.779464;49.29389
+27089_0016_00008;8;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.777071;49.294756
+27089_0003_00016;16;;Chemin du Bois Follet;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.779989;49.295614
+27089_0024_00432;432;;Route de Boissey;27520;27089;Thénouville;Theillement;;0.807611;49.271816
+27089_0003_00001;1;;Chemin du Bois Follet;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.777612;49.295624
+27089_b006_00003;3;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775824;49.293905
+27089_0052_00009;9;;Chemin de l’Eglise;27290;27089;Thénouville;Touville;;0.75577;49.299608
+27089_0030_00456;456;;Route de la Mairie;27520;27089;Thénouville;Theillement;;0.80142;49.288482
+27089_0020_00008;8;;Chemin du Pont Meunier;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.778549;49.292704
+27089_0009_00046;46;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.772835;49.292389
+27089_0057_00057;57;;Route de Saint Leger;27290;27089;Thénouville;Touville;;0.757961;49.301177
+27089_9ydvyr_00027;27;;Chemin de Lauteuil;27290;27089;Thénouville;Touville;;0.76044;49.300067
+27089_0009_00021;21;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775933;49.292308
+27089_0033_00081;81;;Impasse des Monts Nord;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.781527;49.293856
+27089_0009_00019;19;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77682;49.292193
+27089_0009_00056;56;;Rue de la Cote Pelee;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.773914;49.293581
+27089_0022_00028_ter;28;ter;Route de Touville;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.765815;49.297186
+27089_b006_00059;59;;La Cote Pelée;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.77381;49.29394
+27089_0055_00004;4;;Route de Bourgtheroulde;27290;27089;Thénouville;Touville;;0.761046;49.305787
+27089_0016_00015;15;;Chemin du Poirier de la Vierge;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.775136;49.296957
+27089_0003_00008;8;;Chemin du Bois Follet;27520;27089;Thénouville;Bosc-Renoult-en-Roumois;;0.777998;49.295843

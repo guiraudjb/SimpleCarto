@@ -1,0 +1,555 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+05122_0138_00206;206;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.582126;44.749127
+05122_0165_00004;4;;Chemin des Grandes Pierres;05310;05122;La Roche-de-Rame;;Pra Reboul;6.592085;44.722173
+05122_0265_00293;293;;Route des Vignettes;05310;05122;La Roche-de-Rame;;Pra Reboul;6.591699;44.722717
+05122_0119_00531_b;531;b;Route de l'Ecole;05310;05122;La Roche-de-Rame;;Les  Sagnes;6.578138;44.754748
+05122_0219_00118;118;;Chemin de la Plaine;05310;05122;La Roche-de-Rame;;;6.568515;44.765499
+05122_0119_00689;689;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;Les Frairies;6.576841;44.756386
+05122_0200_00156;156;;Chemin de la Mairie;05310;05122;La Roche-de-Rame;;Les Queyras;6.579585;44.748801
+05122_0119_00086;86;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;La Fare;6.579491;44.751082
+05122_0138_00260;260;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;;6.582552;44.747841
+05122_0260_00261;261;;Chemin du Ventoir;05310;05122;La Roche-de-Rame;;Les Queyras;6.580649;44.747029
+05122_0247_00217;217;;Chemin du Serre;05310;05122;La Roche-de-Rame;;Le Serre;6.583627;44.75296
+05122_0070_00302;302;;Route de Briançon;05310;05122;La Roche-de-Rame;;Sur le Riou;6.577688;44.751451
+05122_0060_00307;307;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.584908;44.754988
+05122_0119_00635;635;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;Les Sagnes;6.577755;44.755595
+05122_0205_00001;1;;Place du Monument aux Morts;05310;05122;La Roche-de-Rame;;Les Queyras;6.579591;44.749277
+05122_0138_00125;125;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Le Clot;6.58132;44.749822
+05122_0193_00433;433;;Route du Lauzet;05310;05122;La Roche-de-Rame;;L'Amourier;6.582921;44.75189
+05122_0119_00651;651;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;Les Sagnes;6.577733;44.755768
+05122_0119_00574;574;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;Les Sagnes;6.578185;44.755116
+05122_0015_00067;67;;Rue des Bonnaffés;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.57509;44.760563
+05122_0138_00180;180;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.581945;44.749255
+05122_0050_00389_b;389;b;Chemin de l'Allézabre;05310;05122;La Roche-de-Rame;;L'Allézabre;6.582882;44.755867
+05122_0193_01172;1172;;Route du Lauzet;05310;05122;La Roche-de-Rame;;Coutin;6.585185;44.749436
+05122_0100_00126;126;;Chemin des Cours;05310;05122;La Roche-de-Rame;;Les Cours;6.581559;44.757464
+05122_0060_00495;495;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Le Lauzeron;6.585561;44.75617
+05122_0060_00385;385;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.584407;44.755451
+05122_0150_00239;239;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.573001;44.76216
+05122_0193_00409;409;;Route du Lauzet;05310;05122;La Roche-de-Rame;;L'Amourier;6.582675;44.751895
+05122_0050_00211;211;;Chemin de l'Allézabre;05310;05122;La Roche-de-Rame;;L'Allézabre;6.583941;44.754401
+05122_0119_00687;687;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;Les Frairies;6.576985;44.756158
+05122_0265_00321;321;;Route des Vignettes;05310;05122;La Roche-de-Rame;;Pra Reboul;6.591832;44.722536
+05122_0150_00343;343;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.573602;44.76266
+05122_0144_00216;216;;Route de Gap;05310;05122;La Roche-de-Rame;;Les Queyras;6.580406;44.746786
+05122_0150_00390;390;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.57413;44.762356
+05122_0070_00129;129;;Route de Briançon;05310;05122;La Roche-de-Rame;;Les Queyras;6.578512;44.749946
+05122_0193_00493;493;;Route du Lauzet;05310;05122;La Roche-de-Rame;;L'Amourier;6.583618;44.751948
+05122_0235_00185;185;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Pra Paret;6.576047;44.757584
+05122_0073_00088;88;;Chemin des Bruns;05310;05122;La Roche-de-Rame;;Les Bruns;6.579906;44.759422
+05122_0150_00200;200;;Route de Géro;05310;05122;La Roche-de-Rame;;Les Ribes;6.572557;44.761956
+05122_0057_00038;38;;Impasse du Bathéoud;05310;05122;La Roche-de-Rame;;Le Bathéoud;6.585304;44.754395
+05122_0060_00228;228;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Le Bathéoud;6.585707;44.754606
+05122_0247_00132;132;;Chemin du Serre;05310;05122;La Roche-de-Rame;;Le Serre;6.583771;44.752413
+05122_0127_00320;320;;Route d'Escroses;05310;05122;La Roche-de-Rame;;L'Allézabre;6.582357;44.754445
+05122_0138_00495;495;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.583639;44.749656
+05122_0084_00063;63;;Chemin de la Chapelle;05310;05122;La Roche-de-Rame;;Pra Reboul;6.592017;44.722923
+05122_0193_00207;207;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.580772;44.750756
+05122_0138_00493;493;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.583745;44.749244
+05122_0127_00235;235;;Route d'Escroses;05310;05122;La Roche-de-Rame;;La Combe;6.582791;44.753808
+05122_0144_00004;4;;Route de Gap;05310;05122;La Roche-de-Rame;;Les Queyras;6.578265;44.748849
+05122_0193_00287;287;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.581236;44.751142
+05122_0154_00051;51;;Chemin du Goudeyron;05310;05122;La Roche-de-Rame;;Sur le Riou;6.578187;44.751555
+05122_0193_00455;455;;Route du Lauzet;05310;05122;La Roche-de-Rame;;L'Amourier;6.583201;44.751868
+05122_0150_00345;345;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.573652;44.762671
+05122_0185_00003;3;;Place du Lac;05310;05122;La Roche-de-Rame;;Les Queyras;6.581143;44.746764
+05122_0073_00134;134;;Chemin des Bruns;05310;05122;La Roche-de-Rame;;Les Bruns;6.579528;44.759776
+05122_0235_00137;137;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Pra Paret;6.575671;44.75748
+05122_0050_00503;503;;Chemin de l'Allézabre;05310;05122;La Roche-de-Rame;;Le Lauzeron;6.583638;44.756189
+05122_0200_00061;61;;Chemin de la Mairie;05310;05122;La Roche-de-Rame;;Les Queyras;6.579779;44.74963
+05122_0107_00057;57;;Chemin de la Cure;05310;05122;La Roche-de-Rame;;Les Queyras;6.580675;44.749113
+05122_0054_00235;235;;Route de l'Ascension;05310;05122;La Roche-de-Rame;;Géro;6.574761;44.761475
+05122_0135_00033;33;;Impasse du Four;05310;05122;La Roche-de-Rame;;Géro;6.57352;44.762914
+05122_0060_00353;353;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.584772;44.755368
+05122_0135_00013;13;;Impasse du Four;05310;05122;La Roche-de-Rame;;Géro;6.573449;44.762662
+05122_0161_00111;111;;Chemin du Goutail;05310;05122;La Roche-de-Rame;;Pra Paret;6.576781;44.758822
+05122_0150_00156;156;;Route de Géro;05310;05122;La Roche-de-Rame;;Les Ribes;6.572234;44.761702
+05122_0235_00113;113;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Pra Paret;6.575461;44.757434
+05122_0176_00152;152;;Chemin de l'Hière;05310;05122;La Roche-de-Rame;;Pra Reboul;6.592226;44.72287
+05122_0060_00276;276;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.585334;44.754891
+05122_0150_00481;481;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.575269;44.761805
+05122_0223_00237;237;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.575732;44.758908
+05122_0067_00010;10;;Chemin des Brands;05310;05122;La Roche-de-Rame;;Les Gillis;6.579712;44.758497
+05122_0235_00613;613;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Les Bruns;6.5805;44.759365
+05122_0073_00148;148;;Chemin des Bruns;05310;05122;La Roche-de-Rame;;Les Bruns;6.579331;44.759896
+05122_0158_00132;132;;Chemin des Gourgs;05310;05122;La Roche-de-Rame;;La Fare;6.577879;44.753387
+05122_0260_00101;101;;Chemin du Ventoir;05310;05122;La Roche-de-Rame;;Les Queyras;6.580995;44.748569
+05122_0200_00127;127;;Chemin de la Mairie;05310;05122;La Roche-de-Rame;;Les Queyras;6.579754;44.749025
+05122_0127_00728;728;;Route d'Escroses;05310;05122;La Roche-de-Rame;;Les Cours;6.580762;44.757667
+05122_0223_00186;186;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.57557;44.758397
+05122_0015_00066;66;;Rue des Bonnaffés;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.575126;44.760466
+05122_0050_00169;169;;Chemin de l'Allézabre;05310;05122;La Roche-de-Rame;;L'Allézabre;6.584328;44.75403
+05122_0070_00205;205;;Route de Briançon;05310;05122;La Roche-de-Rame;;Sur le Riou;6.577956;44.750632
+05122_0060_00426;426;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.584842;44.755932
+05122_0127_00004;4;;Route d'Escroses;05310;05122;La Roche-de-Rame;;Le Bathéoud;6.585378;44.753191
+05122_0165_00052;52;;Chemin des Grandes Pierres;05310;05122;La Roche-de-Rame;;Pra Reboul;6.59283;44.721945
+05122_0084_00060;60;;Chemin de la Chapelle;05310;05122;La Roche-de-Rame;;Pra Reboul;6.591886;44.722907
+05122_0193_00103;103;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.579644;44.750626
+05122_0119_00691;691;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;Les Frairies;6.576766;44.756628
+05122_0200_00159;159;;Chemin de la Mairie;05310;05122;La Roche-de-Rame;;Les Queyras;6.579744;44.748787
+05122_0150_00478_a;478;a;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.574973;44.761723
+05122_0235_00210;210;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Les Frairies;6.576424;44.757516
+05122_0243_00022;22;;Chemin du Sarret;05310;05122;La Roche-de-Rame;;Géro;6.573582;44.762185
+05122_0123_00009;9;;Chemin de l'Eglise;05310;05122;La Roche-de-Rame;;Les Queyras;6.57989;44.748964
+05122_0127_00708;708;;Route d'Escroses;05310;05122;La Roche-de-Rame;;Les Cours;6.580888;44.757493
+05122_l6ympe_00018;18;;Chemin de la Fontaine;05310;05122;La Roche-de-Rame;;Pra Reboul;6.592286;44.72236
+05122_0119_00589;589;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;Les Sagnes;6.577632;44.755157
+05122_0081_00311;311;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Champ Pérussier;6.576951;44.760667
+05122_0060_00510;510;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.585686;44.756014
+05122_0070_00173;173;;Route de Briançon;05310;05122;La Roche-de-Rame;;Sur le Riou;6.57809;44.750413
+05122_0138_00251;251;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.58269;44.749112
+05122_0096_00152;152;;Impasse de la Combe;05310;05122;La Roche-de-Rame;;La Combe;6.582766;44.753148
+05122_0239_00189;189;;Chemin des Sagnes;05310;05122;La Roche-de-Rame;;Les Frairies;6.57661;44.756161
+05122_0138_00244;244;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.582136;44.748724
+05122_0150_00230;230;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.572932;44.761991
+05122_0260_00029;29;;Chemin du Ventoir;05310;05122;La Roche-de-Rame;;Les Queyras;6.579911;44.748533
+05122_0210_00006;6;;Impasse Mura;05310;05122;La Roche-de-Rame;;Coutin;6.585187;44.749289
+05122_0073_00068;68;;Chemin des Bruns;05310;05122;La Roche-de-Rame;;Les Bruns;6.5798;44.759244
+05122_0070_00277;277;;Route de Briançon;05310;05122;La Roche-de-Rame;;Sur le Riou;6.577683;44.7512
+05122_0239_00107;107;;Chemin des Sagnes;05310;05122;La Roche-de-Rame;;Les Frairies;6.575774;44.756392
+05122_0135_00010;10;;Impasse du Four;05310;05122;La Roche-de-Rame;;Géro;6.573561;44.762683
+05122_0100_00075;75;;Chemin des Cours;05310;05122;La Roche-de-Rame;;Les Cours;6.581067;44.758005
+05122_0073_00122;122;;Chemin des Bruns;05310;05122;La Roche-de-Rame;;Les Bruns;6.579665;44.759684
+05122_0140_00044;44;;Impasse de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.582088;44.7497
+05122_0067_00034;34;;Chemin des Brands;05310;05122;La Roche-de-Rame;;Les Gillis;6.579754;44.758278
+05122_0247_00218;218;;Chemin du Serre;05310;05122;La Roche-de-Rame;;Le Serre;6.583991;44.752783
+05122_0235_00274;274;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Les Frairies;6.577181;44.757785
+05122_0235_00649;649;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Les Bruns;6.581067;44.759378
+05122_0054_00059;59;;Route de l'Ascension;05310;05122;La Roche-de-Rame;;Les Ribes;6.572436;44.760769
+05122_l6ympe_00045;45;;Chemin de la Fontaine;05310;05122;La Roche-de-Rame;;Pra Reboul;6.592133;44.722447
+05122_0200_00042_a;42;a;Chemin de la Mairie;05310;05122;La Roche-de-Rame;;Les Queyras;6.579528;44.749805
+05122_0070_00153;153;;Route de Briançon;05310;05122;La Roche-de-Rame;;Sur le Riou;6.578226;44.750409
+05122_0200_00003;3;;Chemin de la Mairie;05310;05122;La Roche-de-Rame;;Le Clot;6.579985;44.749926
+05122_0057_00013;13;;Impasse du Bathéoud;05310;05122;La Roche-de-Rame;;Le Bathéoud;6.585566;44.754513
+05122_0144_00714;714;;Route de Gap;05310;05122;La Roche-de-Rame;;;6.582185;44.743012
+05122_0127_00249;249;;Route d'Escroses;05310;05122;La Roche-de-Rame;;La Combe;6.582264;44.75361
+05122_0200_00005;5;;Chemin de la Mairie;05310;05122;La Roche-de-Rame;;Le Clot;6.579979;44.74987
+05122_0081_00309;309;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Champ Pérussier;6.577156;44.760829
+05122_0015_00084;84;;Rue des Bonnaffés;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.575309;44.760535
+05122_0176_00239;239;;Chemin de l'Hière;05310;05122;La Roche-de-Rame;;Pra Reboul;6.593325;44.722561
+05122_0081_00011;11;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Le Goutail;6.578971;44.758666
+05122_0223_00290;290;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.576479;44.758977
+05122_0060_00251;251;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.58541;44.754672
+05122_0057_00020;20;;Impasse du Bathéoud;05310;05122;La Roche-de-Rame;;Le Bathéoud;6.585479;44.754479
+05122_0119_00082;82;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;La Fare;6.579261;44.750898
+05122_0172_00017;17;;Impasse des Gravières;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.57533;44.760039
+05122_0073_00132;132;;Chemin des Bruns;05310;05122;La Roche-de-Rame;;Les Bruns;6.57951;44.759711
+05122_0127_00157;157;;Route d'Escroses;05310;05122;La Roche-de-Rame;;Le Serre;6.583492;44.753518
+05122_0260_00270;270;;Chemin du Ventoir;05310;05122;La Roche-de-Rame;;Les Queyras;6.580566;44.74701
+05122_0193_01095;1095;;Route du Lauzet;05310;05122;La Roche-de-Rame;;Coutin;6.585296;44.750004
+05122_0247_00151;151;;Chemin du Serre;05310;05122;La Roche-de-Rame;;Le Serre;6.583118;44.75263
+05122_0235_00362;362;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Le Goutail;6.577943;44.758223
+05122_0223_00036;36;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.574638;44.757591
+05122_0185_00001_bis;1;bis;Place du Lac;05310;05122;La Roche-de-Rame;;Les Queyras;6.580759;44.746811
+05122_0127_00858;858;;Route d'Escroses;05310;05122;La Roche-de-Rame;;Les Gillis;6.579484;44.758304
+05122_0239_00097;97;;Chemin des Sagnes;05310;05122;La Roche-de-Rame;;Les Frairies;6.576223;44.756683
+05122_0060_00588_a;588;a;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Le Bathéoud;6.586012;44.755097
+05122_0193_00159;159;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.58037;44.750684
+05122_0135_00037;37;;Impasse du Four;05310;05122;La Roche-de-Rame;;Géro;6.573565;44.762914
+05122_0127_00141;141;;Route d'Escroses;05310;05122;La Roche-de-Rame;;Le Serre;6.58384;44.753518
+05122_0030_00512;512;;Chemin du Planet;05310;05122;La Roche-de-Rame;;;6.583227;44.734949
+05122_0119_00367_a;367;a;Route de l'Ecole;05310;05122;La Roche-de-Rame;;;6.578002;44.75316
+05122_0172_00040;40;;Impasse des Gravières;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.575325;44.760206
+05122_0073_00003;3;;Chemin des Bruns;05310;05122;La Roche-de-Rame;;Les Bruns;6.579269;44.759029
+05122_0060_00512;512;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.585868;44.756019
+05122_0115_00089;89;;Chemin de la Dure;05310;05122;La Roche-de-Rame;;;6.567608;44.767955
+05122_0176_00179;179;;Chemin de l'Hière;05310;05122;La Roche-de-Rame;;Pra Reboul;6.592424;44.722926
+05122_0200_00193;193;;Chemin de la Mairie;05310;05122;La Roche-de-Rame;;Les Queyras;6.57971;44.748546
+05122_0060_00401;401;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.58446;44.755767
+05122_0073_00131;131;;Chemin des Bruns;05310;05122;La Roche-de-Rame;;Les Bruns;6.57935;44.759588
+05122_0070_00261;261;;Route de Briançon;05310;05122;La Roche-de-Rame;;Sur le Riou;6.577369;44.750976
+05122_0119_00088;88;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;La Fare;6.579596;44.751106
+05122_0247_00191;191;;Chemin du Serre;05310;05122;La Roche-de-Rame;;Le Serre;6.583573;44.752796
+05122_0193_00110;110;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.580094;44.750359
+05122_0189_00043;43;;Chemin de la Latta;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.58589;44.755
+05122_0077_00039;39;;Chemin de la Casse;05310;05122;La Roche-de-Rame;;Géro;6.573776;44.763075
+05122_0150_00062;62;;Route de Géro;05310;05122;La Roche-de-Rame;;Les Ribes;6.571874;44.761052
+05122_0030_00164;164;;Chemin du Planet;05310;05122;La Roche-de-Rame;;Le Planet;6.582742;44.738093
+05122_0265_00319;319;;Route des Vignettes;05310;05122;La Roche-de-Rame;;Pra Reboul;6.59179;44.722584
+05122_0081_00351;351;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Champ Pérussier;6.57687;44.760846
+05122_0050_00103;103;;Chemin de l'Allézabre;05310;05122;La Roche-de-Rame;;L'Allézabre;6.584788;44.753632
+05122_0064_00372;372;;Route de Bouchouse;05310;05122;La Roche-de-Rame;;Le Claux;6.582521;44.751183
+05122_0127_00301;301;;Route d'Escroses;05310;05122;La Roche-de-Rame;;La Combe;6.582082;44.754121
+05122_0138_00026;26;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Les Queyras;6.580151;44.74965
+05122_0067_00039;39;;Chemin des Brands;05310;05122;La Roche-de-Rame;;Les Gillis;6.57988;44.758229
+05122_0081_00398;398;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Champ Pérussier;6.576569;44.761465
+05122_0260_00070;70;;Chemin du Ventoir;05310;05122;La Roche-de-Rame;;Les Queyras;6.580466;44.748497
+05122_0050_00424;424;;Chemin de l'Allézabre;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.58322;44.755662
+05122_0070_00255;255;;Route de Briançon;05310;05122;La Roche-de-Rame;;Sur le Riou;6.5774;44.750775
+05122_0247_00153;153;;Chemin du Serre;05310;05122;La Roche-de-Rame;;Le Serre;6.583454;44.752452
+05122_0138_00063;63;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Le Clot;6.580763;44.749769
+05122_0060_00153;153;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Le Bathéoud;6.585973;44.754264
+05122_0165_00051;51;;Chemin des Grandes Pierres;05310;05122;La Roche-de-Rame;;Pra Reboul;6.592595;44.722269
+05122_0223_00295;295;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.576472;44.759106
+05122_0200_00042_c;42;c;Chemin de la Mairie;05310;05122;La Roche-de-Rame;;Les Queyras;6.579461;44.749906
+05122_0138_00263;263;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.582733;44.748854
+05122_0081_00445;445;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Champ Pérussier;6.575937;44.76129
+05122_0150_00340;340;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.573737;44.762481
+05122_0189_00062;62;;Chemin de la Latta;05310;05122;La Roche-de-Rame;;Le Bathéoud;6.586208;44.754978
+05122_0144_00088;88;;Route de Gap;05310;05122;La Roche-de-Rame;;Les Queyras;6.579465;44.748104
+05122_0193_00291;291;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.58131;44.751173
+05122_0073_00142;142;;Chemin des Bruns;05310;05122;La Roche-de-Rame;;Les Bruns;6.579377;44.759782
+05122_0161_00009;9;;Chemin du Goutail;05310;05122;La Roche-de-Rame;;Pra Paret;6.577001;44.757975
+05122_0015_00089;89;;Rue des Bonnaffés;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.575351;44.760608
+05122_0176_00144;144;;Chemin de l'Hière;05310;05122;La Roche-de-Rame;;Pra Reboul;6.591961;44.723111
+05122_0070_00163_c;163;c;Route de Briançon;05310;05122;La Roche-de-Rame;;Sur le Riou;6.578107;44.75035
+05122_0150_00467;467;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.57484;44.762076
+05122_0096_00388;388;;Impasse de la Combe;05310;05122;La Roche-de-Rame;;La Combe;6.582293;44.75286
+05122_0119_00531;531;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;Les Sagnes;6.578145;44.754734
+05122_0119_00338;338;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;La Fare;6.57892;44.752806
+05122_0165_00056;56;;Chemin des Grandes Pierres;05310;05122;La Roche-de-Rame;;Pra Reboul;6.59279;44.722252
+05122_0070_00133;133;;Route de Briançon;05310;05122;La Roche-de-Rame;;Les Queyras;6.57833;44.749968
+05122_0081_00295;295;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Champ Pérussier;6.577485;44.760625
+05122_l6ympe_00008;8;;Chemin de la Fontaine;05310;05122;La Roche-de-Rame;;Pra Reboul;6.592367;44.722312
+05122_0077_00003;3;;Chemin de la Casse;05310;05122;La Roche-de-Rame;;Géro;6.573786;44.762784
+05122_0150_00186;186;;Route de Géro;05310;05122;La Roche-de-Rame;;Les Ribes;6.572372;44.761809
+05122_0050_00513;513;;Chemin de l'Allézabre;05310;05122;La Roche-de-Rame;;Le Lauzeron;6.58381;44.756149
+05122_0081_00322;322;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Champ Pérussier;6.577247;44.760993
+05122_0235_00214;214;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Les Frairies;6.576543;44.757562
+05122_0070_00163_a;163;a;Route de Briançon;05310;05122;La Roche-de-Rame;;Sur le Riou;6.578193;44.750377
+05122_0227_00166;166;;Chemin des Queyras;05310;05122;La Roche-de-Rame;;;6.57909;44.746435
+05122_0193_00173_c;173;c;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.580539;44.750722
+05122_0193_00145;145;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.580123;44.750675
+05122_l6ympe_00048;48;;Chemin de la Fontaine;05310;05122;La Roche-de-Rame;;Pra Reboul;6.592015;44.722524
+05122_0070_00149;149;;Route de Briançon;05310;05122;La Roche-de-Rame;;Sur le Riou;6.5783;44.750266
+05122_0247_00200;200;;Chemin du Serre;05310;05122;La Roche-de-Rame;;Le Serre;6.583888;44.75275
+05122_0138_00183;183;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.582012;44.749408
+05122_0176_00154;154;;Chemin de l'Hière;05310;05122;La Roche-de-Rame;;Pra Reboul;6.592445;44.722724
+05122_0144_00002;2;;Route de Gap;05310;05122;La Roche-de-Rame;;Les Queyras;6.578918;44.748868
+05122_0235_00197;197;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Pra Paret;6.576214;44.757695
+05122_0193_00173_a;173;a;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.58047;44.750724
+05122_0070_00200;200;;Route de Briançon;05310;05122;La Roche-de-Rame;;Sur le Riou;6.578268;44.750552
+05122_0131_00060;60;;Chemin des Falaises du Bathéoud;05310;05122;La Roche-de-Rame;;Le Bathéoud;6.586884;44.754401
+05122_0073_00066;66;;Chemin des Bruns;05310;05122;La Roche-de-Rame;;Les Bruns;6.579736;44.75921
+05122_0081_00093;93;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Le Goutail;6.578343;44.759215
+05122_0115_00002;2;;Chemin de la Dure;05310;05122;La Roche-de-Rame;;;6.568173;44.766545
+05122_0050_00593;593;;Chemin de l'Allézabre;05310;05122;La Roche-de-Rame;;Le Lauzeron;6.584572;44.755952
+05122_0169_00317;317;;Chemin des Gravières;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.575605;44.760341
+05122_0127_00264;264;;Route d'Escroses;05310;05122;La Roche-de-Rame;;L'Allézabre;6.582743;44.754263
+05122_0050_00326;326;;Chemin de l'Allézabre;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.583613;44.755106
+05122_0060_00275;275;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.584956;44.754718
+05122_0015_00072;72;;Rue des Bonnaffés;05310;05122;La Roche-de-Rame;;;6.57521;44.760528
+05122_0064_00156;156;;Route de Bouchouse;05310;05122;La Roche-de-Rame;;Le Clot;6.580502;44.750206
+05122_0150_00306;306;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.573651;44.762333
+05122_0223_00073;73;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.574412;44.757989
+05122_0200_00154;154;;Chemin de la Mairie;05310;05122;La Roche-de-Rame;;Les Queyras;6.579573;44.748828
+05122_0138_00176;176;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.581755;44.749355
+05122_0260_00145;145;;Chemin du Ventoir;05310;05122;La Roche-de-Rame;;Les Queyras;6.580965;44.74827
+05122_0092_00151;151;;Chemin des Claux;05310;05122;La Roche-de-Rame;;Le Claux;6.583744;44.750913
+05122_0193_00513;513;;Route du Lauzet;05310;05122;La Roche-de-Rame;;L'Amourier;6.583861;44.751926
+05122_0054_00233_b;233;b;Route de l'Ascension;05310;05122;La Roche-de-Rame;;Géro;6.574535;44.761163
+05122_0247_00142;142;;Chemin du Serre;05310;05122;La Roche-de-Rame;;Le Serre;6.583665;44.7524
+05122_0150_00347;347;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.57371;44.762685
+05122_0144_00115;115;;Route de Gap;05310;05122;La Roche-de-Rame;;Les Queyras;6.579968;44.747721
+05122_0150_00407;407;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.574464;44.762254
+05122_0193_00149;149;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.580138;44.750567
+05122_0100_00146;146;;Chemin des Cours;05310;05122;La Roche-de-Rame;;Les Cours;6.581349;44.757274
+05122_0161_00081;81;;Chemin du Goutail;05310;05122;La Roche-de-Rame;;Pra Paret;6.576889;44.75858
+05122_0193_00643;643;;Route du Lauzet;05310;05122;La Roche-de-Rame;;Le Serre;6.584599;44.752322
+05122_0150_00357;357;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.574266;44.762582
+05122_0077_00002;2;;Chemin de la Casse;05310;05122;La Roche-de-Rame;;Géro;6.573838;44.762778
+05122_0081_00044;44;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Les Bruns;6.57878;44.758966
+05122_0223_00320;320;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Le Goutail;6.576797;44.75919
+05122_0150_00263;263;;Route de Géro;05310;05122;La Roche-de-Rame;;Les Ribes;6.572679;44.762754
+05122_0161_00080;80;;Chemin du Goutail;05310;05122;La Roche-de-Rame;;Le Goutail;6.577033;44.758631
+05122_0135_00041;41;;Impasse du Four;05310;05122;La Roche-de-Rame;;Géro;6.573659;44.762922
+05122_0064_00414;414;;Route de Bouchouse;05310;05122;La Roche-de-Rame;;Le Claux;6.58324;44.750657
+05122_0060_00472;472;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.585447;44.755813
+05122_0154_00021;21;;Chemin du Goudeyron;05310;05122;La Roche-de-Rame;;Sur le Riou;6.577933;44.751534
+05122_0054_00233_c;233;c;Route de l'Ascension;05310;05122;La Roche-de-Rame;;Géro;6.574485;44.761139
+05122_0193_00565;565;;Route du Lauzet;05310;05122;La Roche-de-Rame;;Le Serre;6.584982;44.752174
+05122_0235_00553;553;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Les Bruns;6.580184;44.758892
+05122_0138_00030;30;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Les Queyras;6.580339;44.749614
+05122_0223_00116;116;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.575012;44.758014
+05122_0193_00128;128;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.579987;44.750436
+05122_0138_00100;100;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Frairie;6.580916;44.74958
+05122_0119_00845;845;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;Les Frairies;6.576917;44.757278
+05122_0015_00098;98;;Rue des Bonnaffés;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.575465;44.760502
+05122_0138_00142;142;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.581494;44.749474
+05122_0150_00203;203;;Route de Géro;05310;05122;La Roche-de-Rame;;Les Ribes;6.572489;44.762169
+05122_0015_00092;92;;Rue des Bonnaffés;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.57542;44.760532
+05122_0064_00390;390;;Route de Bouchouse;05310;05122;La Roche-de-Rame;;Le Claux;6.582781;44.751543
+05122_0172_00061;61;;Impasse des Gravières;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.575005;44.760274
+05122_0223_00244;244;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.576066;44.758778
+05122_0060_00454;454;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.585165;44.756006
+05122_0070_02434;2434;;Route de Briançon;05310;05122;La Roche-de-Rame;;;6.564289;44.768057
+05122_0239_00135;135;;Chemin des Sagnes;05310;05122;La Roche-de-Rame;;Les Frairies;6.576056;44.756096
+05122_0127_00261;261;;Route d'Escroses;05310;05122;La Roche-de-Rame;;La Combe;6.582526;44.753954
+05122_0260_00175;175;;Chemin du Ventoir;05310;05122;La Roche-de-Rame;;;6.581992;44.747955
+05122_0265_00465;465;;Route des Vignettes;05310;05122;La Roche-de-Rame;;Pra Reboul;6.592376;44.721323
+05122_0081_00434;434;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Champ Pérussier;6.576042;44.761446
+05122_0247_00182;182;;Chemin du Serre;05310;05122;La Roche-de-Rame;;Le Serre;6.583558;44.752685
+05122_0081_00384;384;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Champ Pérussier;6.576733;44.761241
+05122_0064_00526;526;;Route de Bouchouse;05310;05122;La Roche-de-Rame;;Le Serre;6.585118;44.75195
+05122_0138_00258;258;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.582601;44.748493
+05122_0119_00155;155;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;Sur le Riou;6.578507;44.751485
+05122_0243_00007;7;;Chemin du Sarret;05310;05122;La Roche-de-Rame;;Géro;6.573685;44.762268
+05122_0239_00039;39;;Chemin des Sagnes;05310;05122;La Roche-de-Rame;;Les Frairies;6.575371;44.756934
+05122_0172_00041;41;;Impasse des Gravières;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.575181;44.760134
+05122_0265_00315;315;;Route des Vignettes;05310;05122;La Roche-de-Rame;;Pra Reboul;6.591757;44.722627
+05122_0081_00250;250;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Champ Pérussier;6.577908;44.760672
+05122_0172_00002;2;;Impasse des Gravières;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.575625;44.759961
+05122_0144_00035;35;;Route de Gap;05310;05122;La Roche-de-Rame;;Les Queyras;6.579546;44.748513
+05122_0127_00619;619;;Route d'Escroses;05310;05122;La Roche-de-Rame;;Les Cours;6.580958;44.756723
+05122_0070_00163_b;163;b;Route de Briançon;05310;05122;La Roche-de-Rame;;Sur le Riou;6.57815;44.750363
+05122_0050_00413;413;;Chemin de l'Allézabre;05310;05122;La Roche-de-Rame;;L'Allézabre;6.582811;44.756001
+05122_0054_00137;137;;Route de l'Ascension;05310;05122;La Roche-de-Rame;;Géro;6.573244;44.761048
+05122_0260_00267;267;;Chemin du Ventoir;05310;05122;La Roche-de-Rame;;Les Queyras;6.58064;44.747023
+05122_0144_00025;25;;Route de Gap;05310;05122;La Roche-de-Rame;;Les Queyras;6.579478;44.748678
+05122_0223_00725;725;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.575333;44.760777
+05122_0235_00150;150;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Les Frairies;6.576054;44.757073
+05122_0119_00705;705;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;Les Frairies;6.577642;44.756233
+05122_0200_00042_b;42;b;Chemin de la Mairie;05310;05122;La Roche-de-Rame;;Les Queyras;6.579449;44.749839
+05122_0185_00002;2;;Place du Lac;05310;05122;La Roche-de-Rame;;Les Queyras;6.580956;44.746539
+05122_0070_00110;110;;Route de Briançon;05310;05122;La Roche-de-Rame;;Les Queyras;6.578708;44.749925
+05122_0119_00210_a;210;a;Route de l'Ecole;05310;05122;La Roche-de-Rame;;La Fare;6.579104;44.752068
+05122_0247_00086;86;;Chemin du Serre;05310;05122;La Roche-de-Rame;;Le Serre;6.584121;44.75268
+05122_0150_00237;237;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.572786;44.762409
+05122_0235_00241;241;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Pra Paret;6.576692;44.757809
+05122_0243_00018;18;;Chemin du Sarret;05310;05122;La Roche-de-Rame;;Géro;6.573564;44.76223
+05122_0050_00492;492;;Chemin de l'Allézabre;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.583489;44.75603
+05122_0060_00628;628;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Le Bathéoud;6.586209;44.755131
+05122_0064_00412;412;;Route de Bouchouse;05310;05122;La Roche-de-Rame;;Le Claux;6.583034;44.751011
+05122_0060_00476;476;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.585378;44.75597
+05122_0119_00739;739;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;Les Frairies;6.577541;44.756544
+05122_0060_00646;646;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Le Bathéoud;6.586421;44.755026
+05122_0119_00272;272;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;La Fare;6.578971;44.752533
+05122_0119_00367_b;367;b;Route de l'Ecole;05310;05122;La Roche-de-Rame;;;6.57799;44.753186
+05122_0144_00483;483;;Route de Gap;05310;05122;La Roche-de-Rame;;;6.582215;44.744609
+05122_0193_00151;151;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.580208;44.75057
+05122_0260_00098;98;;Chemin du Ventoir;05310;05122;La Roche-de-Rame;;Les Queyras;6.580738;44.748424
+05122_0223_00683;683;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.575499;44.760695
+05122_0223_00145;145;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.574957;44.758509
+05122_0127_00360;360;;Route d'Escroses;05310;05122;La Roche-de-Rame;;L'Allézabre;6.581646;44.754517
+05122_0247_00170;170;;Chemin du Serre;05310;05122;La Roche-de-Rame;;Le Serre;6.583675;44.752557
+05122_0138_00121;121;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Le Clot;6.58113;44.750008
+05122_0096_00170;170;;Impasse de la Combe;05310;05122;La Roche-de-Rame;;La Combe;6.582203;44.752218
+05122_0067_00059;59;;Chemin des Brands;05310;05122;La Roche-de-Rame;;Les Gillis;6.579855;44.758027
+05122_0235_00090;90;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Les Frairies;6.575144;44.75716
+05122_0223_00679;679;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.57556;44.760651
+05122_0060_00294;294;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.585182;44.755086
+05122_0223_00125;125;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.574914;44.758174
+05122_0138_00281;281;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.582946;44.748776
+05122_0060_00588_b;588;b;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Le Bathéoud;6.586062;44.755113
+05122_0123_00025;25;;Chemin de l'Eglise;05310;05122;La Roche-de-Rame;;Les Queyras;6.580017;44.748928
+05122_0260_00051;51;;Chemin du Ventoir;05310;05122;La Roche-de-Rame;;Les Queyras;6.580134;44.748565
+05122_0119_00084;84;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;La Fare;6.579192;44.751003
+05122_0247_00094;94;;Chemin du Serre;05310;05122;La Roche-de-Rame;;Le Serre;6.584063;44.752615
+05122_0060_00425;425;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Le Lauzeron;6.584587;44.756224
+05122_0235_00363;363;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Le Goutail;6.577869;44.758466
+05122_0100_00071;71;;Chemin des Cours;05310;05122;La Roche-de-Rame;;Les Cours;6.580627;44.758154
+05122_0070_00074;74;;Route de Briançon;05310;05122;La Roche-de-Rame;;Les Queyras;6.579004;44.749612
+05122_0172_00014;14;;Impasse des Gravières;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.575468;44.760087
+05122_0100_00025;25;;Chemin des Cours;05310;05122;La Roche-de-Rame;;Les Cours;6.580224;44.757801
+05122_0144_00029;29;;Route de Gap;05310;05122;La Roche-de-Rame;;Les Queyras;6.579485;44.74864
+05122_0176_00081;81;;Chemin de l'Hière;05310;05122;La Roche-de-Rame;;Pra Reboul;6.591389;44.723992
+05122_0064_00338;338;;Route de Bouchouse;05310;05122;La Roche-de-Rame;;Le Claux;6.582327;44.751026
+05122_0096_00132;132;;Impasse de la Combe;05310;05122;La Roche-de-Rame;;La Combe;6.582453;44.753132
+05122_0073_00010;10;;Chemin des Bruns;05310;05122;La Roche-de-Rame;;Les Bruns;6.579639;44.758799
+05122_0064_00424;424;;Route de Bouchouse;05310;05122;La Roche-de-Rame;;Le Claux;6.583252;44.751474
+05122_0070_00100;100;;Route de Briançon;05310;05122;La Roche-de-Rame;;Les Queyras;6.578761;44.749845
+05122_0144_00095;95;;Route de Gap;05310;05122;La Roche-de-Rame;;Les Queyras;6.579851;44.747989
+05122_0235_00597;597;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Les Bruns;6.580707;44.758985
+05122_0115_00051;51;;Chemin de la Dure;05310;05122;La Roche-de-Rame;;;6.566908;44.766823
+05122_0247_00193;193;;Chemin du Serre;05310;05122;La Roche-de-Rame;;Le Serre;6.583536;44.752846
+05122_0119_00597;597;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;Les Sagnes;6.577442;44.755405
+05122_0193_00181;181;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.580605;44.750731
+05122_0073_00046;46;;Chemin des Bruns;05310;05122;La Roche-de-Rame;;Les Bruns;6.579729;44.758902
+05122_cixvqw_00021;21;;Chemin des Granges;05310;05122;La Roche-de-Rame;;Pra Reboul;6.592549;44.72237
+05122_0193_00381;381;;Route du Lauzet;05310;05122;La Roche-de-Rame;;L'Amourier;6.582322;44.751768
+05122_0015_00111;111;;Rue des Bonnaffés;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.575559;44.760553
+05122_0223_00365;365;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Le Goutail;6.576514;44.759543
+05122_0050_00389_a;389;a;Chemin de l'Allézabre;05310;05122;La Roche-de-Rame;;L'Allézabre;6.5829;44.755833
+05122_0138_00230;230;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.582317;44.748993
+05122_0123_00019;19;;Chemin de l'Eglise;05310;05122;La Roche-de-Rame;;Les Queyras;6.579968;44.749043
+05122_0064_00298;298;;Route de Bouchouse;05310;05122;La Roche-de-Rame;;Le Clot;6.581876;44.750878
+05122_0150_00478_b;478;b;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.57492;44.761708
+05122_0054_00091;91;;Route de l'Ascension;05310;05122;La Roche-de-Rame;;Les Ribes;6.573049;44.760889
+05122_0127_00392;392;;Route d'Escroses;05310;05122;La Roche-de-Rame;;L'Allézabre;6.581565;44.754847
+05122_0054_00171;171;;Route de l'Ascension;05310;05122;La Roche-de-Rame;;Géro;6.573828;44.760875
+05122_0150_00177;177;;Route de Géro;05310;05122;La Roche-de-Rame;;Les Ribes;6.572372;44.762046
+05122_0235_00295;295;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Le Goutail;6.577268;44.75805
+05122_0077_00013;13;;Chemin de la Casse;05310;05122;La Roche-de-Rame;;Géro;6.573772;44.762896
+05122_0150_00359;359;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.574524;44.763014
+05122_0081_00296;296;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Champ Pérussier;6.577715;44.760867
+05122_0070_00029;29;;Route de Briançon;05310;05122;La Roche-de-Rame;;Les Queyras;6.578585;44.749422
+05122_0193_01152;1152;;Route du Lauzet;05310;05122;La Roche-de-Rame;;Coutin;6.585164;44.749535
+05122_0150_00268;268;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.573271;44.762165
+05122_0127_00785;785;;Route d'Escroses;05310;05122;La Roche-de-Rame;;Les Cours;6.579534;44.757255
+05122_0140_00066;66;;Impasse de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.582402;44.74981
+05122_0200_00184;184;;Chemin de la Mairie;05310;05122;La Roche-de-Rame;;Les Queyras;6.579678;44.748579
+05122_0064_00216;216;;Route de Bouchouse;05310;05122;La Roche-de-Rame;;Le Clot;6.581516;44.750113
+05122_0239_00071;71;;Chemin des Sagnes;05310;05122;La Roche-de-Rame;;Les Frairies;6.575671;44.75671
+05122_0169_00215;215;;Chemin des Gravières;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.574905;44.759646
+05122_0223_00117;117;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.574608;44.758344
+05122_0127_00848;848;;Route d'Escroses;05310;05122;La Roche-de-Rame;;Les Cours;6.579539;44.75822
+05122_0015_00077;77;;Rue des Bonnaffés;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.575175;44.760628
+05122_0193_00161;161;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.580331;44.750824
+05122_0111_00065;65;;Chemin de la Digue;05310;05122;La Roche-de-Rame;;Le Planet;6.582298;44.73806
+05122_0067_00049;49;;Chemin des Brands;05310;05122;La Roche-de-Rame;;Les Gillis;6.579828;44.758115
+05122_0127_00065;65;;Route d'Escroses;05310;05122;La Roche-de-Rame;;Le Serre;6.584597;44.753073
+05122_0081_00112;112;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Les Bruns;6.578822;44.759684
+05122_0064_00194;194;;Route de Bouchouse;05310;05122;La Roche-de-Rame;;Le Clot;6.580905;44.750433
+05122_0100_00093;93;;Chemin des Cours;05310;05122;La Roche-de-Rame;;Les Cours;6.581248;44.757827
+05122_0235_00329;329;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Le Goutail;6.577589;44.758171
+05122_0060_00371;371;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.58474;44.755537
+05122_0265_00715;715;;Route des Vignettes;05310;05122;La Roche-de-Rame;;Pra Reboul;6.594541;44.719669
+05122_0015_00049;49;;Rue des Bonnaffés;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.574939;44.760621
+05122_0070_00259;259;;Route de Briançon;05310;05122;La Roche-de-Rame;;Sur le Riou;6.577633;44.750975
+05122_0070_00048;48;;Route de Briançon;05310;05122;La Roche-de-Rame;;Les Queyras;6.579031;44.749394
+05122_0193_00129;129;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.57986;44.75074
+05122_0210_00148;148;;Impasse Mura;05310;05122;La Roche-de-Rame;;Coutin;6.585369;44.748515
+05122_cixvqw_00014;14;;Chemin des Granges;05310;05122;La Roche-de-Rame;;Pra Reboul;6.592638;44.722388
+05122_0193_00163;163;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.580227;44.750891
+05122_0235_00436;436;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Les Gillis;6.578992;44.758438
+05122_0050_00534;534;;Chemin de l'Allézabre;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.583782;44.755839
+05122_0193_00365;365;;Route du Lauzet;05310;05122;La Roche-de-Rame;;L'Amourier;6.582167;44.751711
+05122_0070_00105;105;;Route de Briançon;05310;05122;La Roche-de-Rame;;Les Queyras;6.578566;44.749866
+05122_0227_00057;57;;Chemin des Queyras;05310;05122;La Roche-de-Rame;;Les Queyras;6.579852;44.747489
+05122_0223_00301;301;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.576192;44.759406
+05122_l6ympe_00056;56;;Chemin de la Fontaine;05310;05122;La Roche-de-Rame;;Pra Reboul;6.591923;44.722611
+05122_0050_00241;241;;Chemin de l'Allézabre;05310;05122;La Roche-de-Rame;;L'Allézabre;6.583738;44.754595
+05122_0050_00331;331;;Chemin de l'Allézabre;05310;05122;La Roche-de-Rame;;L'Allézabre;6.583047;44.75532
+05122_0260_00160;160;;Chemin du Ventoir;05310;05122;La Roche-de-Rame;;Les Queyras;6.580892;44.747927
+05122_0119_00680;680;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;Les Sagnes;6.577782;44.756013
+05122_0235_00091;91;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Pra Paret;6.575137;44.757423
+05122_0060_00348;348;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.584953;44.755318
+05122_0070_00308;308;;Route de Briançon;05310;05122;La Roche-de-Rame;;Sur le Riou;6.577638;44.751525
+05122_0193_00257;257;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.580815;44.750985
+05122_0193_00327;327;;Route du Lauzet;05310;05122;La Roche-de-Rame;;L'Amourier;6.581563;44.751656
+05122_0064_00302;302;;Route de Bouchouse;05310;05122;La Roche-de-Rame;;Le Claux;6.582074;44.750805
+05122_0260_00210;210;;Chemin du Ventoir;05310;05122;La Roche-de-Rame;;Les Queyras;6.58092;44.747486
+05122_0127_00266;266;;Route d'Escroses;05310;05122;La Roche-de-Rame;;L'Allézabre;6.582462;44.754225
+05122_0081_00310;310;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Champ Pérussier;6.577423;44.760989
+05122_0265_00331;331;;Route des Vignettes;05310;05122;La Roche-de-Rame;;Pra Reboul;6.591907;44.722444
+05122_0193_00112;112;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.580204;44.75038
+05122_0103_00027;27;;Chemin de Coutin;05310;05122;La Roche-de-Rame;;Coutin;6.584752;44.749371
+05122_0060_00388;388;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.584971;44.755737
+05122_0223_00105;105;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.574723;44.758049
+05122_0150_00383;383;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.574777;44.762642
+05122_0193_00173_b;173;b;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.580506;44.750723
+05122_0235_00196;196;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Les Frairies;6.57634;44.75744
+05122_0081_00069;69;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Le Goutail;6.578319;44.759003
+05122_0260_00049;49;;Chemin du Ventoir;05310;05122;La Roche-de-Rame;;Les Queyras;6.58004;44.74857
+05122_0150_00414;414;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.57435;44.762118
+05122_0223_00154;154;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.575305;44.75823
+05122_0150_00362;362;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.574023;44.762501
+05122_0060_00325;325;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.584818;44.75516
+05122_0223_00165;165;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.575298;44.758387
+05122_0064_00020;20;;Route de Bouchouse;05310;05122;La Roche-de-Rame;;Les Queyras;6.578832;44.750193
+05122_0135_00039;39;;Impasse du Four;05310;05122;La Roche-de-Rame;;Géro;6.573613;44.762914
+05122_0154_00030;30;;Chemin du Goudeyron;05310;05122;La Roche-de-Rame;;Sur le Riou;6.577975;44.751427
+05122_0138_00213;213;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.582333;44.749299
+05122_0119_00080;80;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;La Fare;6.579166;44.750881
+05122_0081_00086;86;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Les Bruns;6.578536;44.759228
+05122_0193_00255;255;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.580645;44.750931
+05122_0081_00060;60;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Les Bruns;6.578898;44.75933
+05122_0243_00023;23;;Chemin du Sarret;05310;05122;La Roche-de-Rame;;Géro;6.573694;44.762195
+05122_0054_00149;149;;Route de l'Ascension;05310;05122;La Roche-de-Rame;;Géro;6.573544;44.760839
+05122_0127_00636;636;;Route d'Escroses;05310;05122;La Roche-de-Rame;;Les Cours;6.581108;44.756934
+05122_0107_00028;28;;Chemin de la Cure;05310;05122;La Roche-de-Rame;;Les Queyras;6.580463;44.749372
+05122_0060_00254;254;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.585726;44.75484
+05122_0193_00143;143;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.580038;44.750736
+05122_0070_00301;301;;Route de Briançon;05310;05122;La Roche-de-Rame;;Sur le Riou;6.577562;44.751399
+05122_0084_00105;105;;Chemin de la Chapelle;05310;05122;La Roche-de-Rame;;Pra Reboul;6.59233;44.72267
+05122_0050_00474;474;;Chemin de l'Allézabre;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.583218;44.756041
+05122_0081_00414;414;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Champ Pérussier;6.576214;44.761457
+05122_0054_00079;79;;Route de l'Ascension;05310;05122;La Roche-de-Rame;;Les Ribes;6.572771;44.761028
+05122_0189_00050;50;;Chemin de la Latta;05310;05122;La Roche-de-Rame;;Le Bathéoud;6.586142;44.754925
+05122_0239_00057;57;;Chemin des Sagnes;05310;05122;La Roche-de-Rame;;Les Frairies;6.575533;44.756844
+05122_0131_00082;82;;Chemin des Falaises du Bathéoud;05310;05122;La Roche-de-Rame;;Le Bathéoud;6.586551;44.754503
+05122_0064_00270;270;;Route de Bouchouse;05310;05122;La Roche-de-Rame;;Le Clot;6.581641;44.750854
+05122_0119_00470;470;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;Les Sagnes;6.578378;44.754224
+05122_0243_00020;20;;Chemin du Sarret;05310;05122;La Roche-de-Rame;;Géro;6.57357;44.762208
+05122_0227_00004;4;;Chemin des Queyras;05310;05122;La Roche-de-Rame;;Les Queyras;6.57951;44.747954
+05122_0223_00203;203;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.575652;44.758619
+05122_0127_00665;665;;Route d'Escroses;05310;05122;La Roche-de-Rame;;Les Cours;6.580839;44.757058
+05122_0073_00120;120;;Chemin des Bruns;05310;05122;La Roche-de-Rame;;Les Bruns;6.579554;44.759617
+05122_0150_00229;229;;Route de Géro;05310;05122;La Roche-de-Rame;;Les Ribes;6.572803;44.76215
+05122_0227_00040;40;;Chemin des Queyras;05310;05122;La Roche-de-Rame;;Les Queyras;6.579447;44.747686
+05122_0119_00795;795;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;Les Frairies;6.57686;44.757022
+05122_0070_00040;40;;Route de Briançon;05310;05122;La Roche-de-Rame;;Les Queyras;6.579098;44.749285
+05122_0144_00224;224;;Route de Gap;05310;05122;La Roche-de-Rame;;Les Queyras;6.580483;44.746628
+05122_0054_00340;340;;Route de l'Ascension;05310;05122;La Roche-de-Rame;;Champ Pérussier;6.576901;44.761753
+05122_0064_00456;456;;Route de Bouchouse;05310;05122;La Roche-de-Rame;;Le Claux;6.583612;44.751509
+05122_0200_00007;7;;Chemin de la Mairie;05310;05122;La Roche-de-Rame;;Le Clot;6.57998;44.749827
+05122_0150_00405;405;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.574322;44.762237
+05122_0235_00611;611;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Les Bruns;6.580057;44.759346
+05122_0243_00045;45;;Chemin du Sarret;05310;05122;La Roche-de-Rame;;Géro;6.573781;44.762085
+05122_0247_00100;100;;Chemin du Serre;05310;05122;La Roche-de-Rame;;Le Serre;6.583997;44.752547
+05122_0060_00475;475;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Le Lauzeron;6.58529;44.756262
+05122_0081_00443;443;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Champ Pérussier;6.575948;44.761285
+05122_0127_00851;851;;Route d'Escroses;05310;05122;La Roche-de-Rame;;Les Gillis;6.579388;44.75826
+05122_0111_00650;650;;Chemin de la Digue;05310;05122;La Roche-de-Rame;;Le Planet;6.580886;44.733836
+05122_0073_00118;118;;Chemin des Bruns;05310;05122;La Roche-de-Rame;;Les Bruns;6.579478;44.759874
+05122_0081_00301;301;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Champ Pérussier;6.576802;44.760439
+05122_0235_00632;632;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Les Bruns;6.581225;44.758949
+05122_0138_00256;256;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.582522;44.748727
+05122_0150_00252;252;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.573093;44.762121
+05122_0158_00148;148;;Chemin des Gourgs;05310;05122;La Roche-de-Rame;;La Fare;6.578075;44.753393
+05122_0165_00120;120;;Chemin des Grandes Pierres;05310;05122;La Roche-de-Rame;;Pra Reboul;6.592559;44.722543
+05122_0150_00175;175;;Route de Géro;05310;05122;La Roche-de-Rame;;Les Ribes;6.572165;44.762026
+05122_0239_00129;129;;Chemin des Sagnes;05310;05122;La Roche-de-Rame;;Les Frairies;6.576345;44.75644
+05122_0150_00079;79;;Route de Géro;05310;05122;La Roche-de-Rame;;Les Ribes;6.571186;44.761463
+05122_0084_00030;30;;Chemin de la Chapelle;05310;05122;La Roche-de-Rame;;Pra Reboul;6.591712;44.723121
+05122_0060_00320;320;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.585635;44.755238
+05122_0127_00755;755;;Route d'Escroses;05310;05122;La Roche-de-Rame;;Les Cours;6.580164;44.757447
+05122_0119_00210_b;210;b;Route de l'Ecole;05310;05122;La Roche-de-Rame;;La Fare;6.579083;44.752133
+05122_0247_00125;125;;Chemin du Serre;05310;05122;La Roche-de-Rame;;Le Serre;6.583854;44.752401
+05122_0084_00095;95;;Chemin de la Chapelle;05310;05122;La Roche-de-Rame;;Pra Reboul;6.592198;44.722695
+05122_0127_00828;828;;Route d'Escroses;05310;05122;La Roche-de-Rame;;Les Cours;6.579661;44.758017
+05122_0070_00334;334;;Route de Briançon;05310;05122;La Roche-de-Rame;;La Fare;6.578188;44.751879
+05122_0060_00447;447;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Le Lauzeron;6.584903;44.756216
+05122_0070_00241;241;;Route de Briançon;05310;05122;La Roche-de-Rame;;Sur le Riou;6.577591;44.750765
+05122_0255_00030;30;;Impasse du Torrent;05310;05122;La Roche-de-Rame;;Géro;6.573989;44.760621
+05122_0138_00272;272;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.582833;44.748597
+05122_0054_00326;326;;Route de l'Ascension;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.575352;44.761402
+05122_0138_00131;131;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Le Clot;6.581629;44.749747
+05122_0200_00040;40;;Chemin de la Mairie;05310;05122;La Roche-de-Rame;;Les Queyras;6.579221;44.749885
+05122_0050_00263;263;;Chemin de l'Allézabre;05310;05122;La Roche-de-Rame;;L'Allézabre;6.583377;44.754962
+05122_0057_00031;31;;Impasse du Bathéoud;05310;05122;La Roche-de-Rame;;Le Bathéoud;6.585406;44.754409
+05122_0073_00143;143;;Chemin des Bruns;05310;05122;La Roche-de-Rame;;Les Bruns;6.579304;44.759824
+05122_0119_00241;241;;Route de l'Ecole;05310;05122;La Roche-de-Rame;;La Fare;6.578513;44.752168
+05122_0081_00237;237;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Champ Pérussier;6.577837;44.760462
+05122_0127_00783;783;;Route d'Escroses;05310;05122;La Roche-de-Rame;;Les Cours;6.579841;44.757275
+05122_0081_00214;214;;Route de Champérussier;05310;05122;La Roche-de-Rame;;Champ Pérussier;6.578093;44.760426
+05122_0138_00204;204;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.582132;44.74917
+05122_0193_00141;141;;Route du Lauzet;05310;05122;La Roche-de-Rame;;La Fare;6.580039;44.750564
+05122_0064_00272;272;;Route de Bouchouse;05310;05122;La Roche-de-Rame;;Le Clot;6.581692;44.750894
+05122_0060_00642;642;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Le Bathéoud;6.58631;44.75507
+05122_0176_00213;213;;Chemin de l'Hière;05310;05122;La Roche-de-Rame;;Pra Reboul;6.592921;44.7227
+05122_0223_00239;239;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.575593;44.759005
+05122_0140_00029;29;;Impasse de la Frairie;05310;05122;La Roche-de-Rame;;Le Clot;6.58192;44.749676
+05122_0057_00028;28;;Impasse du Bathéoud;05310;05122;La Roche-de-Rame;;Le Bathéoud;6.585406;44.754436
+05122_0144_00031;31;;Route de Gap;05310;05122;La Roche-de-Rame;;Les Queyras;6.579491;44.748613
+05122_0150_00394;394;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.574156;44.76228
+05122_0084_00057;57;;Chemin de la Chapelle;05310;05122;La Roche-de-Rame;;Pra Reboul;6.591944;44.722955
+05122_0210_00340;340;;Impasse Mura;05310;05122;La Roche-de-Rame;;;6.583324;44.747182
+05122_0138_00138;138;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.581406;44.749525
+05122_0015_00085;85;;Rue des Bonnaffés;05310;05122;La Roche-de-Rame;;Les Bonnaffés;6.575311;44.760582
+05122_0193_00059;59;;Route du Lauzet;05310;05122;La Roche-de-Rame;;Sur le Riou;6.579221;44.750392
+05122_0084_00073;73;;Chemin de la Chapelle;05310;05122;La Roche-de-Rame;;Pra Reboul;6.592062;44.722842
+05122_0060_00548;548;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Clot du Bathéoud;6.585928;44.755767
+05122_0054_00233_a;233;a;Route de l'Ascension;05310;05122;La Roche-de-Rame;;Géro;6.574577;44.761181
+05122_0050_00517;517;;Chemin de l'Allézabre;05310;05122;La Roche-de-Rame;;Le Lauzeron;6.58433;44.756269
+05122_0235_00215;215;;Route de la Ruine;05310;05122;La Roche-de-Rame;;Pra Paret;6.576432;44.757744
+05122_0030_00276;276;;Chemin du Planet;05310;05122;La Roche-de-Rame;;Le Planet;6.582888;44.737055
+05122_0223_00006;6;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.574717;44.757325
+05122_0150_00269;269;;Route de Géro;05310;05122;La Roche-de-Rame;;Géro;6.57316;44.762419
+05122_0138_00484;484;;Chemin de la Frairie;05310;05122;La Roche-de-Rame;;Coutin;6.583815;44.749006
+05122_0077_00009;9;;Chemin de la Casse;05310;05122;La Roche-de-Rame;;Géro;6.573768;44.762852
+05122_0144_00005;5;;Route de Gap;05310;05122;La Roche-de-Rame;;Les Queyras;6.579394;44.74883
+05122_0255_00029;29;;Impasse du Torrent;05310;05122;La Roche-de-Rame;;Géro;6.574322;44.760804
+05122_0111_00063;63;;Chemin de la Digue;05310;05122;La Roche-de-Rame;;Le Planet;6.582558;44.73829
+05122_0127_00384;384;;Route d'Escroses;05310;05122;La Roche-de-Rame;;L'Allézabre;6.581644;44.75472
+05122_0223_00275;275;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.576262;44.758978
+05122_0103_00025;25;;Chemin de Coutin;05310;05122;La Roche-de-Rame;;Coutin;6.584884;44.749416
+05122_0223_00201;201;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.575586;44.758562
+05122_0200_00001;1;;Chemin de la Mairie;05310;05122;La Roche-de-Rame;;Le Clot;6.579986;44.749972
+05122_0144_00009;9;;Route de Gap;05310;05122;La Roche-de-Rame;;Les Queyras;6.579431;44.748777
+05122_0127_00863;863;;Route d'Escroses;05310;05122;La Roche-de-Rame;;Les Gillis;6.579335;44.758306
+05122_0227_00071;71;;Chemin des Queyras;05310;05122;La Roche-de-Rame;;Les Queyras;6.579468;44.747383
+05122_0067_00020;20;;Chemin des Brands;05310;05122;La Roche-de-Rame;;Les Gillis;6.579782;44.758377
+05122_0060_00644;644;;Route du Bathéoud;05310;05122;La Roche-de-Rame;;Le Bathéoud;6.586324;44.755068
+05122_0223_00260;260;;Chemin de Pra Paret;05310;05122;La Roche-de-Rame;;Pra Paret;6.576211;44.758846
+05122_0144_00026;26;;Route de Gap;05310;05122;La Roche-de-Rame;;Les Queyras;6.579501;44.748442

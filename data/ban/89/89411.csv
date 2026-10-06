@@ -1,0 +1,657 @@
+id;numero;rep;nom_voie;code_postal;code_insee;nom_commune;nom_ancienne_commune;nom_ld;lon;lat
+89411_0010_00003;3;;Chemin de la Bergerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.436121;48.169532
+89411_0010_00002_bis;2;bis;Chemin de la Bergerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.435432;48.169582
+89411_0337_00024;24;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.477351;48.199689
+89411_0332_00003;3;;Route des Clerimois;89190;89411;Les Vallées de la Vanne;Chigy;;3.469221;48.205337
+89411_0130_00016;16;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.431142;48.168522
+89411_0130_00023;23;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.430398;48.168337
+89411_0130_00036;36;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.434774;48.169432
+89411_0130_00039;39;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.432691;48.168936
+89411_0130_00044;44;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.436845;48.170208
+89411_0130_00032_bis;32;bis;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.434378;48.169306
+89411_0220_00006;6;;Route du Pont Rouge;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425517;48.167244
+89411_0270_00003;3;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.429718;48.167573
+89411_0270_00032;32;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.43002;48.164395
+89411_0331_00006;6;;Rue du Chemin de Rónde;89190;89411;Les Vallées de la Vanne;Chigy;;3.47902;48.200842
+89411_0331_00010;10;;Rue du Chemin de Rónde;89190;89411;Les Vallées de la Vanne;Chigy;;3.478663;48.20148
+89411_0363_00003;3;;Rue de l’Eglise;89320;89411;Les Vallées de la Vanne;Vareilles;;3.469953;48.176327
+89411_0364_00024;24;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.478128;48.168339
+89411_0365_00004;4;;Rue du Fays;89320;89411;Les Vallées de la Vanne;Vareilles;;3.470977;48.175972
+89411_0365_00016;16;;Rue du Fays;89320;89411;Les Vallées de la Vanne;Vareilles;;3.473056;48.176524
+89411_0085_00005;5;;Rue de la Fontaine Grelee;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.432206;48.169992
+89411_0090_00005;5;;Rue des Fossés;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425873;48.165702
+89411_0090_00011;11;;Rue des Fossés;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.426465;48.165288
+89411_0355_00011;11;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.469511;48.199956
+89411_0100_00013;13;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424525;48.166793
+89411_0100_00046;46;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.419069;48.165867
+89411_0100_00003_bis;3;bis;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425308;48.166961
+89411_0343_00005;5;;Rue du Moulin;89190;89411;Les Vallées de la Vanne;Chigy;;3.476356;48.200659
+89411_0343_00020_bis;20;bis;Rue du Moulin;89190;89411;Les Vallées de la Vanne;Chigy;;3.476619;48.200354
+89411_0212_00003;3;;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423809;48.165446
+89411_0370_00009;9;;Rue des Pres;89320;89411;Les Vallées de la Vanne;Vareilles;;3.466948;48.177069
+89411_5pii0k_00025;25;;Route Nationale 60;89320;89411;Les Vallées de la Vanne;Chigy;;3.47208;48.206191
+89411_0088_00002;2;;Chemin de la Forge;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.416808;48.1672
+89411_0337_00008;8;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.474828;48.199543
+89411_0337_00013;13;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.475747;48.199692
+89411_0042_00010;10;;Impasse des Chennevieres;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424893;48.168801
+89411_0375_00001;1;;Passage du Foulon;89320;89411;Les Vallées de la Vanne;Vareilles;;3.470631;48.175344
+89411_0332_00002;2;;Route des Clerimois;89190;89411;Les Vallées de la Vanne;Chigy;;3.469333;48.205353
+89411_0130_00021;21;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.430107;48.168226
+89411_0130_00026;26;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.432739;48.168819
+89411_0130_00034;34;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.43459;48.169393
+89411_0130_00002_c;2;c;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.426217;48.167156
+89411_0220_00003;3;;Route du Pont Rouge;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425229;48.16739
+89411_0220_00016;16;;Route du Pont Rouge;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424401;48.168203
+89411_0270_00005;5;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.429698;48.167357
+89411_0270_00013;13;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.429914;48.166275
+89411_0361_00001;1;;Rue du Charme;89320;89411;Les Vallées de la Vanne;Vareilles;;3.492948;48.157494
+89411_0358_00018;18;;Rue du Chemin Vert;89320;89411;Les Vallées de la Vanne;Vareilles;;3.473162;48.17421
+89411_0333_00006;6;;Rue de la Cour Fusee;89190;89411;Les Vallées de la Vanne;Chigy;;3.476527;48.199176
+89411_0364_00001;1;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.470806;48.175637
+89411_0364_00025;25;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.473407;48.172644
+89411_0364_00025_a;25;a;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.473563;48.172574
+89411_0364_00027_ter;27;ter;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.475821;48.170408
+89411_0365_00008;8;;Rue du Fays;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471962;48.176284
+89411_0365_00004_bis;4;bis;Rue du Fays;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471109;48.176006
+89411_0085_00001;1;;Rue de la Fontaine Grelee;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.432608;48.169246
+89411_0090_00001;1;;Rue des Fossés;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425341;48.165578
+89411_0090_00004;4;;Rue des Fossés;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.426158;48.165422
+89411_0090_00009;9;;Rue des Fossés;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.426248;48.165469
+89411_0100_00006;6;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424983;48.166978
+89411_0100_00045;45;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.419788;48.165745
+89411_0100_00056;56;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.416701;48.1652
+89411_0340_00006;6;;Rue du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.477641;48.200729
+89411_0343_00018;18;;Rue du Moulin;89190;89411;Les Vallées de la Vanne;Chigy;;3.47637;48.200569
+89411_0346_00001;1;;Rue de la Planchette;89190;89411;Les Vallées de la Vanne;Chigy;;3.478028;48.200056
+89411_0373_00002;2;;Rue du Sauvageon;89320;89411;Les Vallées de la Vanne;Vareilles;;3.491752;48.156704
+89411_0290_00002;2;;Rue de la Vallee du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.421176;48.165779
+89411_0290_00005;5;;Rue de la Vallee du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.421562;48.164984
+89411_0360_00019;19;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.493133;48.15651
+89411_0360_00010_bis;10;bis;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.493009;48.156374
+89411_0339_00003;3;;Ruelle du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.477743;48.201364
+89411_0370_00003;3;;Rue des Pres;89320;89411;Les Vallées de la Vanne;Vareilles;;3.467505;48.176537
+89411_0370_00011;11;;Rue des Pres;89320;89411;Les Vallées de la Vanne;Vareilles;;3.466834;48.177177
+89411_0349_00010;10;;Rue des Presles;89190;89411;Les Vallées de la Vanne;Chigy;;3.473245;48.198771
+89411_0352_00005;5;;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.482221;48.197607
+89411_0352_00013;13;;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.482506;48.197329
+89411_0352_00016;16;;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.484386;48.195398
+89411_0374_00004;4;;Rue des Sources;89320;89411;Les Vallées de la Vanne;Vareilles;;3.478469;48.170097
+89411_0273_00002;2;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423976;48.165692
+89411_0273_00005;5;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42493;48.165654
+89411_0273_00013;13;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424793;48.164696
+89411_0360_00016_bis;16;bis;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.49737;48.154037
+89411_w19mqk_00009;9;;rue de la Chaussée;89320;89411;Les Vallées de la Vanne;Chigy;;3.470628;48.204497
+89411_0263_00005;5;;Chemin de la Sucrerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425798;48.17067
+89411_0337_00010;10;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.474853;48.199471
+89411_0042_00006;6;;Impasse des Chennevieres;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425181;48.168399
+89411_0341_00007;7;;Impasse Guillot;89190;89411;Les Vallées de la Vanne;Chigy;;3.478297;48.20037
+89411_0130_00001;1;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425948;48.167183
+89411_0130_00008;8;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.429574;48.168001
+89411_0130_00020;20;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.431957;48.1686
+89411_0130_00028;28;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.432903;48.16886
+89411_0220_00022;22;;Route du Pont Rouge;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423792;48.168698
+89411_0270_00008;8;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42965;48.166923
+89411_0270_00019;19;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.430421;48.164824
+89411_0331_00001;1;;Rue du Chemin de Rónde;89190;89411;Les Vallées de la Vanne;Chigy;;3.478835;48.198927
+89411_0358_00036;36;;Rue du Chemin Vert;89320;89411;Les Vallées de la Vanne;Vareilles;;3.475169;48.172869
+89411_0333_00006_a;6;a;Rue de la Cour Fusee;89190;89411;Les Vallées de la Vanne;Chigy;;3.476184;48.198848
+89411_0364_00016;16;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.472946;48.172763
+89411_0364_00021;21;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.472797;48.172931
+89411_0365_00012;12;;Rue du Fays;89320;89411;Les Vallées de la Vanne;Vareilles;;3.472529;48.176394
+89411_0355_00016;16;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.46967;48.200101
+89411_0355_00026;26;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.468538;48.199699
+89411_0100_00021;21;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423745;48.166578
+89411_0100_00026;26;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.422025;48.166401
+89411_0100_00029;29;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.422674;48.166414
+89411_0100_00042;42;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.41981;48.165839
+89411_0340_00019;19;;Rue du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.478611;48.201168
+89411_0212_00008;8;;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423581;48.164961
+89411_0369_00004;4;;Rue du Poncelot;89320;89411;Les Vallées de la Vanne;Vareilles;;3.469625;48.175902
+89411_5pii0k_00013;13;;Route Nationale 60;89320;89411;Les Vallées de la Vanne;Chigy;;3.47028;48.204998
+89411_w19mqk_00011;11;;rue de la Chaussée;89320;89411;Les Vallées de la Vanne;Chigy;;3.470199;48.204631
+89411_0337_00031;31;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.477663;48.199591
+89411_0042_00007;7;;Impasse des Chennevieres;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424997;48.168502
+89411_0130_00005;5;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.426606;48.167365
+89411_0130_00029;29;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.430943;48.168543
+89411_0130_00042;42;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.436496;48.170005
+89411_0130_00045;45;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.434397;48.169447
+89411_0270_00010;10;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.429695;48.166709
+89411_0331_00004;4;;Rue du Chemin de Rónde;89190;89411;Les Vallées de la Vanne;Chigy;;3.479304;48.200365
+89411_0364_00009;9;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471753;48.17487
+89411_0364_00017;17;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.47229;48.173457
+89411_0364_00020;20;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.474129;48.172233
+89411_0364_00029;29;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.478148;48.168441
+89411_0355_00002;2;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.472232;48.201612
+89411_0338_00002;2;;Rue de la Grenouillére;89190;89411;Les Vallées de la Vanne;Chigy;;3.473657;48.200767
+89411_0338_00014;14;;Rue de la Grenouillére;89190;89411;Les Vallées de la Vanne;Chigy;;3.470301;48.203846
+89411_0100_00009;9;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.4248;48.166857
+89411_0100_00014;14;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424369;48.166841
+89411_0100_00030;30;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.421769;48.166273
+89411_0100_00038;38;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.420172;48.165918
+89411_0100_00032_bis;32;bis;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.420836;48.16606
+89411_0340_00017;17;;Rue du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.478452;48.201102
+89411_0212_00004;4;;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423692;48.165422
+89411_0212_00007;7;;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423712;48.165001
+89411_0346_00005;5;;Rue de la Planchette;89190;89411;Les Vallées de la Vanne;Chigy;;3.478423;48.199738
+89411_0369_00008;8;;Rue du Poncelot;89320;89411;Les Vallées de la Vanne;Vareilles;;3.466577;48.176276
+89411_0351_00006;6;;Rue Servais;89190;89411;Les Vallées de la Vanne;Chigy;;3.478587;48.19965
+89411_0351_00010;10;;Rue Servais;89190;89411;Les Vallées de la Vanne;Chigy;;3.478732;48.199805
+89411_0352_00011;11;;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.483193;48.196721
+89411_0352_00017;17;;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.483995;48.196004
+89411_0352_00021;21;;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.484447;48.195606
+89411_0374_00003;3;;Rue des Sources;89320;89411;Les Vallées de la Vanne;Vareilles;;3.479276;48.170222
+89411_0359_00001;1;;Rue des Tilleuls;89320;89411;Les Vallées de la Vanne;Vareilles;;3.470537;48.176898
+89411_0273_00001;1;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424292;48.165713
+89411_0273_00014;14;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424856;48.164646
+89411_0273_00023;23;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423201;48.164103
+89411_0273_00028;28;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423294;48.164028
+89411_0360_00016;16;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.494168;48.155757
+89411_0222_00007;7;;Rue du Potier;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.422207;48.165252
+89411_0349_00006;6;;Rue des Presles;89190;89411;Les Vallées de la Vanne;Chigy;;3.473607;48.198948
+89411_0351_00005;5;;Rue Servais;89190;89411;Les Vallées de la Vanne;Chigy;;3.478786;48.199923
+89411_0374_00008;8;;Rue des Sources;89320;89411;Les Vallées de la Vanne;Vareilles;;3.479603;48.169272
+89411_0273_00010;10;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42486;48.165737
+89411_0273_00022;22;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424038;48.164136
+89411_0273_00030;30;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423093;48.164059
+89411_0360_00007;7;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.491091;48.157885
+89411_0360_00015;15;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.49275;48.156735
+89411_0360_00025;25;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.493683;48.156344
+89411_0354_00026;26;;Rue des Vieilles Chenevieres;89190;89411;Les Vallées de la Vanne;Chigy;;3.476036;48.198577
+89411_0354_00036;36;;Rue des Vieilles Chenevieres;89190;89411;Les Vallées de la Vanne;Chigy;;3.477447;48.198335
+89411_0339_00002;2;;Ruelle du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.47793;48.201035
+89411_5pii0k_00007;7;;Route Nationale 60;89320;89411;Les Vallées de la Vanne;Chigy;;3.469153;48.204248
+89411_b015_00001;1;;Champ Fetu Theil S/vanne;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.460913;48.156426
+89411_0337_00002;2;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.474411;48.199932
+89411_0337_00005;5;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.474802;48.199695
+89411_0337_00014;14;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.475407;48.199454
+89411_0337_00023;23;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.476789;48.199967
+89411_0337_00034;34;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.478442;48.198868
+89411_0042_00008;8;;Impasse des Chennevieres;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424962;48.16861
+89411_0341_00001;1;;Impasse Guillot;89190;89411;Les Vallées de la Vanne;Chigy;;3.477667;48.200028
+89411_0130_00013;13;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.427526;48.167697
+89411_0130_00030;30;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.433504;48.169029
+89411_0130_00033;33;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.431275;48.168647
+89411_0130_00038;38;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.435163;48.169581
+89411_0130_00053;53;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.435639;48.169852
+89411_0361_00002;2;;Rue du Charme;89320;89411;Les Vallées de la Vanne;Vareilles;;3.493214;48.157583
+89411_0358_00030;30;;Rue du Chemin Vert;89320;89411;Les Vallées de la Vanne;Vareilles;;3.474468;48.17319
+89411_0333_00001;1;;Rue de la Cour Fusee;89190;89411;Les Vallées de la Vanne;Chigy;;3.47665;48.199547
+89411_0362_00002;2;;Rue de la Croix Bressee;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471018;48.17728
+89411_0364_00004;4;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.470707;48.175629
+89411_0364_00007;7;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471626;48.175057
+89411_0364_00015;15;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.472115;48.173832
+89411_0364_00018_bis;18;bis;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.473543;48.172504
+89411_0365_00004_ter;4;ter;Rue du Fays;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471169;48.176005
+89411_0085_00002;2;;Rue de la Fontaine Grelee;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.432689;48.169273
+89411_0085_00008;8;;Rue de la Fontaine Grelee;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.43265;48.169857
+89411_0090_00002;2;;Rue des Fossés;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425369;48.165518
+89411_0355_00009;9;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.469854;48.200078
+89411_0100_00020;20;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423794;48.166708
+89411_0100_00039;39;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.420567;48.165837
+89411_0100_00047;47;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.409318;48.164231
+89411_0100_00001_bis;1;bis;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425523;48.167011
+89411_0343_00002;2;;Rue du Moulin;89190;89411;Les Vallées de la Vanne;Chigy;;3.47439;48.200236
+89411_0371_00004;4;;Rue du Prieuré;89320;89411;Les Vallées de la Vanne;Vareilles;;3.468888;48.176683
+89411_0352_00010;10;;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.483881;48.195969
+89411_0374_00010;10;;Rue des Sources;89320;89411;Les Vallées de la Vanne;Vareilles;;3.479498;48.168705
+89411_0359_00005;5;;Rue des Tilleuls;89320;89411;Les Vallées de la Vanne;Vareilles;;3.47059;48.176472
+89411_0273_00024;24;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423792;48.164054
+89411_0273_00010_bis;10;bis;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425402;48.164869
+89411_0360_00014;14;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.493708;48.155919
+89411_0360_00033;33;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.498195;48.15396
+89411_0337_00011;11;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.475517;48.199578
+89411_0337_00021_bis;21;bis;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.476538;48.199975
+89411_0375_00003;3;;Passage du Foulon;89320;89411;Les Vallées de la Vanne;Vareilles;;3.470774;48.175489
+89411_0220_00018;18;;Route du Pont Rouge;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42424;48.168371
+89411_0220_00002_bis;2;bis;Route du Pont Rouge;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425826;48.167078
+89411_0270_00009;9;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42983;48.166783
+89411_0270_00015;15;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.4301;48.165308
+89411_0331_00009;9;;Rue du Chemin de Rónde;89190;89411;Les Vallées de la Vanne;Chigy;;3.479102;48.200336
+89411_0365_00006;6;;Rue du Fays;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471561;48.176172
+89411_0365_00009;9;;Rue du Fays;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471886;48.176333
+89411_0355_00004;4;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.471591;48.201182
+89411_0355_00012;12;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.470014;48.200248
+89411_0338_00010;10;;Rue de la Grenouillére;89190;89411;Les Vallées de la Vanne;Chigy;;3.472625;48.20171
+89411_0100_00016;16;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424163;48.166795
+89411_0100_00028;28;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.421908;48.166317
+89411_0100_00036;36;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.420373;48.165955
+89411_0100_00044;44;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.41962;48.165814
+89411_0212_00002;2;;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42335;48.165992
+89411_0346_00002;2;;Rue de la Planchette;89190;89411;Les Vallées de la Vanne;Chigy;;3.478285;48.199793
+89411_0369_00010;10;;Rue du Poncelot;89320;89411;Les Vallées de la Vanne;Vareilles;;3.466203;48.176327
+89411_0370_00001;1;;Rue des Pres;89320;89411;Les Vallées de la Vanne;Vareilles;;3.467724;48.176337
+89411_0348_00001;1;;Rue des Prés Francs;89190;89411;Les Vallées de la Vanne;Chigy;;3.478986;48.198559
+89411_0348_00009;9;;Rue des Prés Francs;89190;89411;Les Vallées de la Vanne;Chigy;;3.480181;48.197333
+89411_0374_00002;2;;Rue des Sources;89320;89411;Les Vallées de la Vanne;Vareilles;;3.477444;48.171519
+89411_0273_00004;4;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424304;48.165759
+89411_0360_00006;6;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.49218;48.15696
+89411_0360_00009;9;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.49122;48.157734
+89411_0360_00017;17;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.492948;48.156616
+89411_0354_00001;1;;Rue des Vieilles Chenevieres;89190;89411;Les Vallées de la Vanne;Chigy;;3.474065;48.199913
+89411_0354_00038;38;;Rue des Vieilles Chenevieres;89190;89411;Les Vallées de la Vanne;Chigy;;3.477721;48.198287
+89411_0225_00001;1;;Sentier des Prêtres;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.433987;48.168923
+89411_pljo19_00001;1;;La Malotrie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.435786;48.17165
+89411_5pii0k_00015;15;;Route Nationale 60;89320;89411;Les Vallées de la Vanne;Chigy;;3.470533;48.205158
+89411_5pii0k_00023;23;;Route Nationale 60;89320;89411;Les Vallées de la Vanne;Chigy;;3.471702;48.205945
+89411_0337_00006;6;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.474687;48.199656
+89411_0337_00015;15;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.475975;48.199717
+89411_0337_00027;27;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.477243;48.199931
+89411_0337_00032;32;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.478189;48.199045
+89411_0341_00002;2;;Impasse Guillot;89190;89411;Les Vallées de la Vanne;Chigy;;3.477739;48.200022
+89411_0130_00031;31;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.431148;48.168609
+89411_0130_00063;63;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.436936;48.170322
+89411_0220_00001;1;;Route du Pont Rouge;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425407;48.167188
+89411_0220_00012;12;;Route du Pont Rouge;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424795;48.167856
+89411_0353_00005;5;;Route de Vareilles;89190;89411;Les Vallées de la Vanne;Chigy;;3.47898;48.197598
+89411_0358_00026;26;;Rue du Chemin Vert;89320;89411;Les Vallées de la Vanne;Vareilles;;3.474032;48.173446
+89411_0364_00002;2;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.470626;48.175672
+89411_0364_00011;11;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471839;48.174658
+89411_0364_00027_bis;27;bis;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.478773;48.168992
+89411_0336_00004;4;;Rue de Foissy;89190;89411;Les Vallées de la Vanne;Chigy;;3.481189;48.199765
+89411_0085_00009;9;;Rue de la Fontaine Grelee;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.429485;48.17249
+89411_0355_00006;6;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.471261;48.200962
+89411_0100_00005;5;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425047;48.166905
+89411_0366_00006;6;;Rue des Grolois;89320;89411;Les Vallées de la Vanne;Vareilles;;3.468782;48.175255
+89411_0340_00001;1;;Rue du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.477054;48.200443
+89411_0342_00002;2;;Rue du Maroy;89190;89411;Les Vallées de la Vanne;Chigy;;3.478797;48.197487
+89411_0343_00005_ter;5;ter;Rue du Moulin;89190;89411;Les Vallées de la Vanne;Chigy;;3.47642;48.200735
+89411_0356_00004;4;;Rue du Paradis;89190;89411;Les Vallées de la Vanne;Chigy;;3.479801;48.199671
+89411_5pii0k_00001;1;;Route Nationale 60;89320;89411;Les Vallées de la Vanne;Chigy;;3.46582;48.202028
+89411_w19mqk_00001;1;;rue de la Chaussée;89320;89411;Les Vallées de la Vanne;Chigy;;3.472033;48.20368
+89411_0010_00006;6;;Chemin de la Bergerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.436088;48.169452
+89411_0215_00001;1;;Chemin des Pierres Percées;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.421859;48.163787
+89411_0337_00016;16;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.47571;48.199562
+89411_0337_00022;22;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.477263;48.199753
+89411_0337_00014_bis;14;bis;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.475519;48.199486
+89411_0341_00006;6;;Impasse Guillot;89190;89411;Les Vallées de la Vanne;Chigy;;3.478295;48.200328
+89411_0130_00002;2;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.426111;48.167146
+89411_0130_00057;57;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.436204;48.17004
+89411_0220_00010;10;;Route du Pont Rouge;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425072;48.167669
+89411_0353_00003;3;;Route de Vareilles;89190;89411;Les Vallées de la Vanne;Chigy;;3.478984;48.197925
+89411_0331_00011;11;;Rue du Chemin de Rónde;89190;89411;Les Vallées de la Vanne;Chigy;;3.478933;48.200705
+89411_0358_00028;28;;Rue du Chemin Vert;89320;89411;Les Vallées de la Vanne;Vareilles;;3.474253;48.173337
+89411_0358_00034;34;;Rue du Chemin Vert;89320;89411;Les Vallées de la Vanne;Vareilles;;3.47496;48.172962
+89411_0333_00003;3;;Rue de la Cour Fusee;89190;89411;Les Vallées de la Vanne;Chigy;;3.476941;48.199455
+89411_0362_00001;1;;Rue de la Croix Bressee;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471023;48.17754
+89411_0362_00005;5;;Rue de la Croix Bressee;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471463;48.177024
+89411_0336_00003;3;;Rue de Foissy;89190;89411;Les Vallées de la Vanne;Chigy;;3.48075;48.19969
+89411_0100_00001;1;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425638;48.167044
+89411_0100_00022;22;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423529;48.166659
+89411_0100_00025;25;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423296;48.166541
+89411_0100_00033;33;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.422018;48.166258
+89411_0100_00041;41;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.420326;48.165794
+89411_0366_00008;8;;Rue des Grolois;89320;89411;Les Vallées de la Vanne;Vareilles;;3.468913;48.175074
+89411_0343_00004;4;;Rue du Moulin;89190;89411;Les Vallées de la Vanne;Chigy;;3.474591;48.200256
+89411_0343_00024;24;;Rue du Moulin;89190;89411;Les Vallées de la Vanne;Chigy;;3.476866;48.200094
+89411_0212_00015;15;;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.422457;48.164223
+89411_0349_00012;12;;Rue des Presles;89190;89411;Les Vallées de la Vanne;Chigy;;3.472927;48.198642
+89411_0352_00006;6;;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.483299;48.196473
+89411_0352_00003_t;3;t;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.482292;48.198053
+89411_0290_00017;17;;Rue de la Vallee du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42239;48.163238
+89411_0360_00011;11;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.491775;48.157407
+89411_0360_00027_bis;27;bis;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.496539;48.154609
+89411_0354_00020;20;;Rue des Vieilles Chenevieres;89190;89411;Les Vallées de la Vanne;Chigy;;3.475012;48.19874
+89411_0354_00028;28;;Rue des Vieilles Chenevieres;89190;89411;Les Vallées de la Vanne;Chigy;;3.476457;48.198526
+89411_0354_00002_a;2;a;Rue des Vieilles Chenevieres;89190;89411;Les Vallées de la Vanne;Chigy;;3.473703;48.199924
+89411_0369_00014;14;;Rue du Poncelot;89320;89411;Les Vallées de la Vanne;Vareilles;;3.465487;48.176401
+89411_0222_00004;4;;Rue du Potier;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.422839;48.165535
+89411_0349_00001;1;;Rue des Presles;89190;89411;Les Vallées de la Vanne;Chigy;;3.473942;48.198962
+89411_0352_00003_c;3;c;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.482049;48.197787
+89411_0374_00003_bis;3;bis;Rue des Sources;89320;89411;Les Vallées de la Vanne;Vareilles;;3.47929;48.170224
+89411_0273_00019;19;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424055;48.164237
+89411_0290_00006;6;;Rue de la Vallee du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42153;48.164207
+89411_0360_00012;12;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.493365;48.156229
+89411_0360_00031;31;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.497564;48.154231
+89411_0354_00002;2;;Rue des Vieilles Chenevieres;89190;89411;Les Vallées de la Vanne;Chigy;;3.473863;48.200018
+89411_0339_00006;6;;Ruelle du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.477879;48.201438
+89411_w19mqk_00003;3;;rue de la Chaussée;89320;89411;Les Vallées de la Vanne;Chigy;;3.471873;48.203942
+89411_0092_00001;1;;Chemin de la Garenne;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.430679;48.163951
+89411_0337_00001;1;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.474498;48.199977
+89411_0337_00018;18;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.475951;48.199628
+89411_0337_00035;35;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.478235;48.199147
+89411_0042_00001;1;;Impasse des Chennevieres;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425466;48.168019
+89411_0042_00011;11;;Impasse des Chennevieres;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424544;48.16895
+89411_0341_00011;11;;Impasse Guillot;89190;89411;Les Vallées de la Vanne;Chigy;;3.478347;48.200411
+89411_0130_00049;49;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.435039;48.169945
+89411_0270_00011;11;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.429886;48.166437
+89411_0358_00020;20;;Rue du Chemin Vert;89320;89411;Les Vallées de la Vanne;Vareilles;;3.473377;48.17391
+89411_0333_00002;2;;Rue de la Cour Fusee;89190;89411;Les Vallées de la Vanne;Chigy;;3.476487;48.199693
+89411_0333_00008;8;;Rue de la Cour Fusee;89190;89411;Les Vallées de la Vanne;Chigy;;3.476356;48.198738
+89411_0362_00007;7;;Rue de la Croix Bressee;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471615;48.17656
+89411_0364_00005;5;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471506;48.175167
+89411_0364_00031;31;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.478566;48.168206
+89411_0364_00018_ter;18;ter;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.473739;48.172417
+89411_0365_00007;7;;Rue du Fays;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471468;48.176226
+89411_0336_00009;9;;Rue de Foissy;89190;89411;Les Vallées de la Vanne;Chigy;;3.482;48.200203
+89411_0090_00017;17;;Rue des Fossés;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.426138;48.165087
+89411_0355_00003;3;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.470812;48.200521
+89411_0338_00001;1;;Rue de la Grenouillére;89190;89411;Les Vallées de la Vanne;Chigy;;3.472314;48.201858
+89411_0338_00006;6;;Rue de la Grenouillére;89190;89411;Les Vallées de la Vanne;Chigy;;3.473208;48.201184
+89411_0338_00013;13;;Rue de la Grenouillére;89190;89411;Les Vallées de la Vanne;Chigy;;3.471903;48.201955
+89411_0100_00002;2;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42531;48.167051
+89411_0100_00010;10;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424666;48.16696
+89411_0100_00018;18;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424006;48.166761
+89411_0100_00034;34;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.420589;48.165991
+89411_0100_00037;37;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.421406;48.165947
+89411_0100_00054;54;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.417022;48.165235
+89411_0340_00007;7;;Rue du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.477536;48.200736
+89411_0340_00010;10;;Rue du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.478221;48.200942
+89411_0343_00014;14;;Rue du Moulin;89190;89411;Les Vallées de la Vanne;Chigy;;3.475886;48.200617
+89411_0212_00011;11;;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423476;48.164633
+89411_0212_00016;16;;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42271;48.164246
+89411_0212_00001_ter;1;ter;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423433;48.16612
+89411_0369_00001;1;;Rue du Poncelot;89320;89411;Les Vallées de la Vanne;Vareilles;;3.470581;48.175674
+89411_0369_00016;16;;Rue du Poncelot;89320;89411;Les Vallées de la Vanne;Vareilles;;3.465138;48.176467
+89411_0222_00003;3;;Rue du Potier;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.422783;48.165438
+89411_0222_00008;8;;Rue du Potier;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42227;48.165346
+89411_0370_00002;2;;Rue des Pres;89320;89411;Les Vallées de la Vanne;Vareilles;;3.466016;48.178174
+89411_0348_00004;4;;Rue des Prés Francs;89190;89411;Les Vallées de la Vanne;Chigy;;3.479458;48.197384
+89411_0349_00002;2;;Rue des Presles;89190;89411;Les Vallées de la Vanne;Chigy;;3.473911;48.199095
+89411_0349_00005;5;;Rue des Presles;89190;89411;Les Vallées de la Vanne;Chigy;;3.473529;48.198645
+89411_0010_00002;2;;Chemin de la Bergerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.435694;48.169507
+89411_b181_00053;53;;Sous la Cote d’Enfer;89320;89411;Les Vallées de la Vanne;Vareilles;;3.484476;48.160704
+89411_0337_00004;4;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.474583;48.19976
+89411_0337_00025;25;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.47709;48.200065
+89411_0337_00002_bis;2;bis;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.474411;48.199932
+89411_0341_00003;3;;Impasse Guillot;89190;89411;Les Vallées de la Vanne;Chigy;;3.477947;48.200175
+89411_0130_00014;14;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.43089;48.168435
+89411_0130_00018;18;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.431603;48.168585
+89411_0130_00037;37;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.43226;48.168817
+89411_0130_00025_bis;25;bis;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.430401;48.168833
+89411_0270_00001;1;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.429536;48.167787
+89411_0270_00030;30;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.430097;48.16483
+89411_0363_00005;5;;Rue de l’Eglise;89320;89411;Les Vallées de la Vanne;Vareilles;;3.469961;48.176535
+89411_0364_00006;6;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.47093;48.175452
+89411_0365_00001;1;;Rue du Fays;89320;89411;Les Vallées de la Vanne;Vareilles;;3.470746;48.176001
+89411_0365_00011;11;;Rue du Fays;89320;89411;Les Vallées de la Vanne;Vareilles;;3.472274;48.176429
+89411_0085_00004;4;;Rue de la Fontaine Grelee;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.432495;48.169432
+89411_0090_00019;19;;Rue des Fossés;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425884;48.165024
+89411_0355_00007;7;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.470217;48.200201
+89411_0355_00010;10;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.470349;48.200459
+89411_0355_00017;17;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.468865;48.199683
+89411_0355_00024;24;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.468821;48.199749
+89411_0338_00005;5;;Rue de la Grenouillére;89190;89411;Les Vallées de la Vanne;Chigy;;3.472821;48.201406
+89411_0100_00017;17;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424159;48.166721
+89411_0340_00003;3;;Rue du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.477212;48.200823
+89411_0340_00011;11;;Rue du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.477762;48.200869
+89411_0342_00004;4;;Rue du Maroy;89190;89411;Les Vallées de la Vanne;Chigy;;3.478247;48.197369
+89411_0372_00002;2;;Rue du Moulin Saint Remy;89320;89411;Les Vallées de la Vanne;Vareilles;;3.472256;48.173042
+89411_0356_00002;2;;Rue du Paradis;89190;89411;Les Vallées de la Vanne;Chigy;;3.480279;48.199549
+89411_0212_00012;12;;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423318;48.164602
+89411_0374_00007;7;;Rue des Sources;89320;89411;Les Vallées de la Vanne;Vareilles;;3.479869;48.169272
+89411_0273_00006;6;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42449;48.165789
+89411_0273_00009;9;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425149;48.165138
+89411_0273_00018;18;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42443;48.164389
+89411_0290_00011;11;;Rue de la Vallee du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.421795;48.164455
+89411_0360_00008;8;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.492505;48.15677
+89411_0360_00027;27;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.496287;48.154719
+89411_0360_00018_a;18;a;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.498423;48.153818
+89411_0354_00004;4;;Rue des Vieilles Chenevieres;89190;89411;Les Vallées de la Vanne;Chigy;;3.473502;48.199826
+89411_0348_00005;5;;Rue des Prés Francs;89190;89411;Les Vallées de la Vanne;Chigy;;3.480388;48.198029
+89411_0373_00003;3;;Rue du Sauvageon;89320;89411;Les Vallées de la Vanne;Vareilles;;3.490731;48.156248
+89411_0352_00002;2;;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.48186;48.197781
+89411_0352_00023;23;;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.484772;48.195373
+89411_0290_00001;1;;Rue de la Vallee du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.421287;48.165712
+89411_0290_00009;9;;Rue de la Vallee du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.421727;48.164614
+89411_0360_00002;2;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.490862;48.157905
+89411_0360_00020;20;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.49936;48.153452
+89411_0360_00020_ter;20;ter;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.499051;48.153232
+89411_0354_00008;8;;Rue des Vieilles Chenevieres;89190;89411;Les Vallées de la Vanne;Chigy;;3.473591;48.199746
+89411_lb2ejp_00001;1;;Lieu Dit la Malhortie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.435997;48.171354
+89411_5pii0k_00011_bis;11;bis;Route Nationale 60;89320;89411;Les Vallées de la Vanne;Chigy;;3.469873;48.204659
+89411_0010_00004;4;;Chemin de la Bergerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.435885;48.169477
+89411_0092_00003;3;;Chemin de la Garenne;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.430895;48.163679
+89411_0337_00028;28;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.477696;48.199408
+89411_0042_00005;5;;Impasse des Chennevieres;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.4252;48.168294
+89411_0341_00004;4;;Impasse Guillot;89190;89411;Les Vallées de la Vanne;Chigy;;3.478016;48.200118
+89411_0341_00009;9;;Impasse Guillot;89190;89411;Les Vallées de la Vanne;Chigy;;3.478442;48.200452
+89411_0130_00047;47;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.434938;48.169622
+89411_0130_00003_bis;3;bis;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.426208;48.16778
+89411_0220_00008;8;;Route du Pont Rouge;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425376;48.167411
+89411_0270_00027;27;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.432594;48.161336
+89411_0270_00013_bis;13;bis;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.430062;48.165669
+89411_0331_00003;3;;Rue du Chemin de Rónde;89190;89411;Les Vallées de la Vanne;Chigy;;3.479066;48.199342
+89411_0358_00024;24;;Rue du Chemin Vert;89320;89411;Les Vallées de la Vanne;Vareilles;;3.473852;48.173591
+89411_0333_00004;4;;Rue de la Cour Fusee;89190;89411;Les Vallées de la Vanne;Chigy;;3.476511;48.199287
+89411_0333_00001_bis;1;bis;Rue de la Cour Fusee;89190;89411;Les Vallées de la Vanne;Chigy;;3.47665;48.199547
+89411_0363_00007;7;;Rue de l’Eglise;89320;89411;Les Vallées de la Vanne;Vareilles;;3.469965;48.177037
+89411_0364_00018;18;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.473333;48.172596
+89411_0364_00023;23;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.473086;48.172786
+89411_0364_00026;26;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.478953;48.167941
+89411_0364_00025_t;25;t;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.474117;48.172361
+89411_0336_00006;6;;Rue de Foissy;89190;89411;Les Vallées de la Vanne;Chigy;;3.483201;48.200035
+89411_0090_00013;13;;Rue des Fossés;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.426502;48.165238
+89411_0355_00001;1;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.471391;48.200888
+89411_0355_00019;19;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.468776;48.199551
+89411_0355_00028;28;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.468661;48.199529
+89411_0338_00017;17;;Rue de la Grenouillére;89190;89411;Les Vallées de la Vanne;Chigy;;3.471369;48.202703
+89411_0100_00011;11;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424687;48.166826
+89411_0100_00023;23;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423539;48.166568
+89411_0100_00031;31;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.422312;48.166329
+89411_0340_00013;13;;Rue du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.477881;48.200939
+89411_0343_00010;10;;Rue du Moulin;89190;89411;Les Vallées de la Vanne;Chigy;;3.475368;48.200454
+89411_0343_00020;20;;Rue du Moulin;89190;89411;Les Vallées de la Vanne;Chigy;;3.476546;48.200381
+89411_0343_00005_bis;5;bis;Rue du Moulin;89190;89411;Les Vallées de la Vanne;Chigy;;3.476327;48.200754
+89411_0212_00013;13;;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423291;48.164481
+89411_0212_00001_bis;1;bis;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423608;48.165786
+89411_0370_00005;5;;Rue des Pres;89320;89411;Les Vallées de la Vanne;Vareilles;;3.467308;48.176725
+89411_0349_00004;4;;Rue des Presles;89190;89411;Les Vallées de la Vanne;Chigy;;3.473735;48.199021
+89411_0349_00007;7;;Rue des Presles;89190;89411;Les Vallées de la Vanne;Chigy;;3.473402;48.198415
+89411_0351_00003;3;;Rue Servais;89190;89411;Les Vallées de la Vanne;Chigy;;3.478556;48.199704
+89411_0352_00019;19;;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.484211;48.195817
+89411_0352_00003_a;3;a;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.481823;48.197993
+89411_0273_00007;7;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425205;48.165349
+89411_0273_00012;12;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425118;48.164746
+89411_0273_00016;16;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424588;48.164547
+89411_0273_00021;21;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423721;48.164117
+89411_0290_00003;3;;Rue de la Vallee du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.421414;48.165311
+89411_0360_00010_ter;10;ter;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.493156;48.156276
+89411_0360_00025_bis;25;bis;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.493984;48.156319
+89411_0354_00014;14;;Rue des Vieilles Chenevieres;89190;89411;Les Vallées de la Vanne;Chigy;;3.47391;48.199244
+89411_0354_00022;22;;Rue des Vieilles Chenevieres;89190;89411;Les Vallées de la Vanne;Chigy;;3.475469;48.198664
+89411_5pii0k_00021;21;;Route Nationale 60;89320;89411;Les Vallées de la Vanne;Chigy;;3.471445;48.205774
+89411_w19mqk_00007;7;;rue de la Chaussée;89320;89411;Les Vallées de la Vanne;Chigy;;3.471379;48.204531
+89411_0010_00010;10;;Chemin de la Bergerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.43689;48.169405
+89411_0215_00005;5;;Chemin des Pierres Percées;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.420541;48.163218
+89411_0337_00019;19;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.476301;48.199807
+89411_0332_00002_bis;2;bis;Route des Clerimois;89190;89411;Les Vallées de la Vanne;Chigy;;3.4693;48.204886
+89411_0130_00003;3;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.426214;48.167275
+89411_0130_00017;17;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.429255;48.167964
+89411_0130_00022;22;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.432321;48.168713
+89411_0130_00025;25;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.43061;48.168425
+89411_0130_00041;41;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.433852;48.169234
+89411_0130_00002_a;2;a;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.426022;48.167123
+89411_0220_00004;4;;Route du Pont Rouge;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425517;48.167244
+89411_0270_00006;6;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.429611;48.167095
+89411_0331_00023;23;;Rue du Chemin de Rónde;89190;89411;Les Vallées de la Vanne;Chigy;;3.478143;48.201944
+89411_0363_00002;2;;Rue de l’Eglise;89320;89411;Les Vallées de la Vanne;Vareilles;;3.470511;48.176112
+89411_0364_00029_bis;29;bis;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.478313;48.168348
+89411_0365_00014;14;;Rue du Fays;89320;89411;Les Vallées de la Vanne;Vareilles;;3.472789;48.176489
+89411_0090_00007;7;;Rue des Fossés;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.426014;48.165623
+89411_0338_00004;4;;Rue de la Grenouillére;89190;89411;Les Vallées de la Vanne;Chigy;;3.47348;48.200937
+89411_0100_00003;3;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.4252;48.166927
+89411_0100_00008;8;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424788;48.166951
+89411_0100_00006_bis;6;bis;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424921;48.166956
+89411_0367_00003;3;;Rue au Gué;89320;89411;Les Vallées de la Vanne;Vareilles;;3.468916;48.175672
+89411_0340_00004;4;;Rue du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.477357;48.20056
+89411_0340_00009;9;;Rue du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.477666;48.200814
+89411_0368_00002;2;;Rue de la Madeleine;89320;89411;Les Vallées de la Vanne;Vareilles;;3.479042;48.167337
+89411_0372_00004;4;;Rue du Moulin Saint Remy;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471976;48.172887
+89411_0212_00005;5;;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423775;48.165214
+89411_0212_00010;10;;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423461;48.164758
+89411_0369_00003;3;;Rue du Poncelot;89320;89411;Les Vallées de la Vanne;Vareilles;;3.470309;48.175735
+89411_0222_00002;2;;Rue du Potier;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423148;48.165647
+89411_0222_00005;5;;Rue du Potier;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.422481;48.165334
+89411_0351_00009;9;;Rue Servais;89190;89411;Les Vallées de la Vanne;Chigy;;3.478962;48.200104
+89411_0352_00003;3;;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.482043;48.198087
+89411_0352_00014;14;;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.484184;48.195335
+89411_0374_00006;6;;Rue des Sources;89320;89411;Les Vallées de la Vanne;Vareilles;;3.478866;48.169589
+89411_0290_00008;8;;Rue de la Vallee du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.421824;48.164084
+89411_0290_00013;13;;Rue de la Vallee du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.422288;48.163468
+89411_0360_00023;23;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.493491;48.156282
+89411_0339_00001;1;;Ruelle du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.477792;48.201242
+89411_5pii0k_00017;17;;Route Nationale 60;89320;89411;Les Vallées de la Vanne;Chigy;;3.470807;48.205327
+89411_w19mqk_00005;5;;rue de la Chaussée;89320;89411;Les Vallées de la Vanne;Chigy;;3.471516;48.204247
+89411_0010_00008;8;;Chemin de la Bergerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.436383;48.169439
+89411_0088_00080;80;;Chemin de la Forge;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.415271;48.168364
+89411_0092_00005;5;;Chemin de la Garenne;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.431855;48.162862
+89411_b181_00053_a;53;a;Sous la Cote d’Enfer;89320;89411;Les Vallées de la Vanne;Vareilles;;3.485658;48.160753
+89411_0337_00003;3;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.474722;48.199882
+89411_0337_00009;9;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.475149;48.1995
+89411_0337_00012;12;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.475174;48.199411
+89411_0337_00017;17;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.476119;48.199767
+89411_0337_00021;21;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.476437;48.19986
+89411_0337_00023_a;23;a;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.4765;48.200041
+89411_0042_00012;12;;Impasse des Chennevieres;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424559;48.169012
+89411_0332_00001;1;;Route des Clerimois;89190;89411;Les Vallées de la Vanne;Chigy;;3.469125;48.205091
+89411_0332_00004;4;;Route des Clerimois;89190;89411;Les Vallées de la Vanne;Chigy;;3.469705;48.205858
+89411_0130_00015;15;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.429039;48.167916
+89411_0130_00035;35;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.431696;48.168735
+89411_0130_00002_b;2;b;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.426118;48.167082
+89411_0270_00007;7;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.429806;48.166969
+89411_0270_00012;12;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.429754;48.166468
+89411_0270_00034;34;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.43035;48.163863
+89411_0357_00010;10;;Rue du Bas du Grand Champ;89190;89411;Les Vallées de la Vanne;Chigy;;3.479949;48.201931
+89411_0361_00003;3;;Rue du Charme;89320;89411;Les Vallées de la Vanne;Vareilles;;3.49315;48.15761
+89411_0333_00010;10;;Rue de la Cour Fusee;89190;89411;Les Vallées de la Vanne;Chigy;;3.477176;48.198886
+89411_0362_00004;4;;Rue de la Croix Bressee;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471334;48.1768
+89411_0363_00003_bis;3;bis;Rue de l’Eglise;89320;89411;Les Vallées de la Vanne;Vareilles;;3.469953;48.176405
+89411_0042_00004;4;;Impasse des Chennevieres;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425395;48.168224
+89411_0042_00009;9;;Impasse des Chennevieres;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424767;48.168727
+89411_0341_00005;5;;Impasse Guillot;89190;89411;Les Vallées de la Vanne;Chigy;;3.478181;48.200303
+89411_0130_00040;40;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.436161;48.169931
+89411_0220_00020;20;;Route du Pont Rouge;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424078;48.168495
+89411_0270_00017;17;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.430168;48.164939
+89411_0364_00013;13;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471885;48.174478
+89411_0090_00021;21;;Rue des Fossés;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42563;48.164986
+89411_0355_00005;5;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.470574;48.200307
+89411_0355_00008;8;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.470714;48.200659
+89411_0355_00002_bis;2;bis;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.471917;48.201364
+89411_0338_00003;3;;Rue de la Grenouillére;89190;89411;Les Vallées de la Vanne;Chigy;;3.473091;48.201139
+89411_0100_00007;7;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424898;48.166877
+89411_0100_00048;48;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.418464;48.165539
+89411_0340_00005;5;;Rue du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.477369;48.200632
+89411_0343_00008;8;;Rue du Moulin;89190;89411;Les Vallées de la Vanne;Chigy;;3.475082;48.200397
+89411_kxx3vd_00001;1;;Les Carbottes;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.421603;48.17281
+89411_fg4yak_00001;1;;Rue de la Leitumiere;89320;89411;Les Vallées de la Vanne;Vareilles;;3.474275;48.172759
+89411_0010_00001;1;;Chemin de la Bergerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.4358;48.1696
+89411_0337_00026;26;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.477576;48.199507
+89411_0337_00029;29;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.477441;48.199775
+89411_0130_00004;4;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.427617;48.167621
+89411_0130_00012;12;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.430655;48.168336
+89411_0130_00019;19;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.429813;48.168122
+89411_0130_00024;24;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.432508;48.168758
+89411_0130_00027;27;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.430744;48.168467
+89411_0130_00051;51;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.435253;48.169719
+89411_0130_00061;61;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.43678;48.170276
+89411_0220_00002;2;;Route du Pont Rouge;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425862;48.167029
+89411_0220_00005;5;;Route du Pont Rouge;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425096;48.167544
+89411_0270_00004;4;;Route de Tourne Bride;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.429564;48.167305
+89411_0358_00032;32;;Rue du Chemin Vert;89320;89411;Les Vallées de la Vanne;Vareilles;;3.474673;48.173095
+89411_0358_00038;38;;Rue du Chemin Vert;89320;89411;Les Vallées de la Vanne;Vareilles;;3.475604;48.172657
+89411_0333_00005;5;;Rue de la Cour Fusee;89190;89411;Les Vallées de la Vanne;Chigy;;3.477186;48.199441
+89411_0343_00022;22;;Rue du Moulin;89190;89411;Les Vallées de la Vanne;Chigy;;3.476742;48.200261
+89411_0222_00006;6;;Rue du Potier;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.422553;48.165442
+89411_0222_00010;10;;Rue du Potier;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.421954;48.165268
+89411_0349_00008;8;;Rue des Presles;89190;89411;Les Vallées de la Vanne;Chigy;;3.473501;48.19887
+89411_0351_00004;4;;Rue Servais;89190;89411;Les Vallées de la Vanne;Chigy;;3.478511;48.199571
+89411_0374_00001;1;;Rue des Sources;89320;89411;Les Vallées de la Vanne;Vareilles;;3.475069;48.172034
+89411_0273_00020;20;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424255;48.164263
+89411_0290_00007;7;;Rue de la Vallee du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.421643;48.164805
+89411_0360_00021;21;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.493287;48.156418
+89411_0360_00020_bis;20;bis;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.49889;48.153586
+89411_0360_00025_ter;25;ter;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.494151;48.156299
+89411_0354_00034;34;;Rue des Vieilles Chenevieres;89190;89411;Les Vallées de la Vanne;Chigy;;3.477173;48.198383
+89411_0364_00022;22;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.477972;48.168449
+89411_0365_00010;10;;Rue du Fays;89320;89411;Les Vallées de la Vanne;Vareilles;;3.472297;48.176366
+89411_0365_00013;13;;Rue du Fays;89320;89411;Les Vallées de la Vanne;Vareilles;;3.472959;48.176602
+89411_0090_00006;6;;Rue des Fossés;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.426216;48.165262
+89411_0338_00011;11;;Rue de la Grenouillére;89190;89411;Les Vallées de la Vanne;Chigy;;3.472314;48.201858
+89411_0100_00012;12;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424541;48.16687
+89411_0100_00024;24;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42284;48.166525
+89411_0100_00027;27;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.422896;48.166456
+89411_0100_00035;35;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.421688;48.166177
+89411_0100_00040;40;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.420059;48.165876
+89411_0366_00001;1;;Rue des Grolois;89320;89411;Les Vallées de la Vanne;Vareilles;;3.469189;48.175144
+89411_0340_00008;8;;Rue du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.478057;48.200905
+89411_0340_00015;15;;Rue du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.478253;48.201032
+89411_0340_00023;23;;Rue du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.478715;48.201107
+89411_0343_00003;3;;Rue du Moulin;89190;89411;Les Vallées de la Vanne;Chigy;;3.475966;48.200692
+89411_0343_00020_ter;20;ter;Rue du Moulin;89190;89411;Les Vallées de la Vanne;Chigy;;3.476606;48.200335
+89411_0372_00006;6;;Rue du Moulin Saint Remy;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471863;48.172744
+89411_0212_00014;14;;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423044;48.1644
+89411_0369_00012;12;;Rue du Poncelot;89320;89411;Les Vallées de la Vanne;Vareilles;;3.465788;48.176362
+89411_0222_00001;1;;Rue du Potier;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423025;48.165526
+89411_0370_00013;13;;Rue des Pres;89320;89411;Les Vallées de la Vanne;Vareilles;;3.466598;48.177456
+89411_0348_00011;11;;Rue des Prés Francs;89190;89411;Les Vallées de la Vanne;Chigy;;3.48035;48.197126
+89411_0371_00002;2;;Rue du Prieuré;89320;89411;Les Vallées de la Vanne;Vareilles;;3.469571;48.176952
+89411_0352_00004;4;;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.483143;48.196624
+89411_0374_00001_bis;1;bis;Rue des Sources;89320;89411;Les Vallées de la Vanne;Vareilles;;3.475622;48.171934
+89411_0273_00026;26;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42352;48.164019
+89411_0290_00004;4;;Rue de la Vallee du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.421363;48.164323
+89411_0360_00004;4;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.491087;48.157494
+89411_0360_00035;35;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.499183;48.153586
+89411_0354_00016;16;;Rue des Vieilles Chenevieres;89190;89411;Les Vallées de la Vanne;Chigy;;3.474596;48.198811
+89411_0354_00001_a;1;a;Rue des Vieilles Chenevieres;89190;89411;Les Vallées de la Vanne;Chigy;;3.474206;48.200041
+89411_0364_00003;3;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471262;48.175365
+89411_0364_00008;8;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471392;48.175135
+89411_0364_00029_ter;29;ter;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.478472;48.168339
+89411_0365_00005;5;;Rue du Fays;89320;89411;Les Vallées de la Vanne;Vareilles;;3.471202;48.176147
+89411_0336_00002;2;;Rue de Foissy;89190;89411;Les Vallées de la Vanne;Chigy;;3.480858;48.199595
+89411_0336_00005;5;;Rue de Foissy;89190;89411;Les Vallées de la Vanne;Chigy;;3.480967;48.199757
+89411_0090_00015;15;;Rue des Fossés;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.426394;48.165149
+89411_0355_00018;18;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.46947;48.200019
+89411_0338_00015;15;;Rue de la Grenouillére;89190;89411;Les Vallées de la Vanne;Chigy;;3.471527;48.202254
+89411_0100_00019;19;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424014;48.166663
+89411_0100_00032;32;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42112;48.166072
+89411_0100_00043;43;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.420083;48.165763
+89411_0212_00006;6;;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423666;48.165156
+89411_0212_00009;9;;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.4236;48.164817
+89411_0369_00002;2;;Rue du Poncelot;89320;89411;Les Vallées de la Vanne;Vareilles;;3.470157;48.175826
+89411_0349_00003;3;;Rue des Presles;89190;89411;Les Vallées de la Vanne;Chigy;;3.473724;48.198893
+89411_0352_00007;7;;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.482759;48.197103
+89411_0352_00015;15;;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.483789;48.196191
+89411_0352_00003_b;3;b;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.481892;48.197886
+89411_0374_00005;5;;Rue des Sources;89320;89411;Les Vallées de la Vanne;Vareilles;;3.478964;48.169624
+89411_0359_00003;3;;Rue des Tilleuls;89320;89411;Les Vallées de la Vanne;Vareilles;;3.470629;48.176637
+89411_0273_00008;8;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424651;48.165785
+89411_0290_00015;15;;Rue de la Vallee du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.422151;48.163691
+89411_0360_00013;13;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.492391;48.156983
+89411_0360_00029;29;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.496996;48.154448
+89411_0339_00004;4;;Ruelle du Guichet;89190;89411;Les Vallées de la Vanne;Chigy;;3.477869;48.201244
+89411_5pii0k_00011;11;;Route Nationale 60;89320;89411;Les Vallées de la Vanne;Chigy;;3.470093;48.204875
+89411_0337_00033;33;;Grande Rue;89190;89411;Les Vallées de la Vanne;Chigy;;3.47797;48.199369
+89411_0341_00008;8;;Impasse Guillot;89190;89411;Les Vallées de la Vanne;Chigy;;3.478519;48.200351
+89411_0130_00032;32;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.433959;48.169204
+89411_0130_00043;43;;Route du Miroir;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.43401;48.169301
+89411_0220_00014;14;;Route du Pont Rouge;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424626;48.167999
+89411_0331_00007;7;;Rue du Chemin de Rónde;89190;89411;Les Vallées de la Vanne;Chigy;;3.479127;48.20009
+89411_0358_00001;1;;Rue du Chemin Vert;89320;89411;Les Vallées de la Vanne;Vareilles;;3.477222;48.171822
+89411_0358_00022;22;;Rue du Chemin Vert;89320;89411;Les Vallées de la Vanne;Vareilles;;3.473678;48.173742
+89411_0363_00001;1;;Rue de l’Eglise;89320;89411;Les Vallées de la Vanne;Vareilles;;3.470016;48.176116
+89411_0364_00019;19;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.472515;48.173174
+89411_0364_00027;27;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.474368;48.172228
+89411_0364_00033;33;;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.478679;48.168146
+89411_0364_00025_b;25;b;Rue de l’Erable;89320;89411;Les Vallées de la Vanne;Vareilles;;3.473906;48.172456
+89411_0085_00003;3;;Rue de la Fontaine Grelee;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.432209;48.169803
+89411_0085_00006;6;;Rue de la Fontaine Grelee;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.432457;48.169725
+89411_0090_00003;3;;Rue des Fossés;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425783;48.16572
+89411_0355_00015;15;;Rue des Grandes Hâtes;89190;89411;Les Vallées de la Vanne;Chigy;;3.469142;48.199803
+89411_0100_00004;4;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.425128;48.167031
+89411_0100_00015;15;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42438;48.166758
+89411_0100_00058;58;;Rue de la Grève;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.416274;48.165135
+89411_0367_00001;1;;Rue au Gué;89320;89411;Les Vallées de la Vanne;Vareilles;;3.469187;48.175743
+89411_0212_00001;1;;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.423562;48.165927
+89411_0212_00017;17;;Rue du Parc;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.422152;48.164257
+89411_0346_00003;3;;Rue de la Planchette;89190;89411;Les Vallées de la Vanne;Chigy;;3.478232;48.199912
+89411_0370_00007;7;;Rue des Pres;89320;89411;Les Vallées de la Vanne;Vareilles;;3.46712;48.176902
+89411_0351_00008;8;;Rue Servais;89190;89411;Les Vallées de la Vanne;Chigy;;3.478633;48.199697
+89411_0352_00018;18;;Rue des Sièges;89190;89411;Les Vallées de la Vanne;Chigy;;3.482575;48.19727
+89411_0273_00003;3;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424685;48.165736
+89411_0273_00011;11;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.42524;48.164991
+89411_0273_00017;17;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.424319;48.164404
+89411_0273_00032;32;;Rue de la Tuilerie;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.422901;48.164102
+89411_0360_00010;10;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.492852;48.15645
+89411_0360_00018;18;;Rue des Vallèes;89320;89411;Les Vallées de la Vanne;Vareilles;;3.498146;48.153865
+89411_0354_00006;6;;Rue des Vieilles Chenevieres;89190;89411;Les Vallées de la Vanne;Chigy;;3.47295;48.199792
+89411_b070_00080;80;;Usine de la Forge;89320;89411;Les Vallées de la Vanne;Theil-sur-Vanne;;3.414272;48.16876
