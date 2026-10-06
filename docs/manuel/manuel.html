@@ -80,7 +80,7 @@
         padding-bottom: 0.5rem;
         margin-top: 0;
     }
-    h3 { font-size: 1.05rem; margin-top: 1.5rem; }
+    h3 { font-size: 1.05rem; margin-top: 1.5rem; break-after: avoid; page-break-after: avoid; }
 
     p { margin: 0.6rem 0; text-align: justify; }
     ul, ol { margin: 0.5rem 0; padding-left: 1.4rem; }
@@ -181,7 +181,7 @@
     <h1>SimpleCarto</h1>
     <p class="tagline">Manuel d'utilisation — Créez des cartes thématiques de France et du monde à partir d'un simple fichier CSV.</p>
     <span class="badge">100% gratuit &middot; sans inscription &middot; fonctionne hors-ligne</span>
-    <div class="meta">Version du manuel — août 2026<br>guiraudjb.github.io/SimpleCarto</div>
+    <div class="meta">Version du manuel — octobre 2026<br>guiraudjb.github.io/SimpleCarto</div>
 </div>
 
 <div class="toc">
@@ -263,6 +263,19 @@
         Pour les échelles région, département, EPCI et commune, des menus en cascade apparaissent pour affiner
         la zone (région → département → EPCI/commune).
     </p>
+    <div class="note">
+        <strong>Paris, Lyon et Marseille par arrondissement :</strong> si vos données utilisent les codes INSEE des
+        arrondissements municipaux (<code>75101</code> à <code>75120</code> pour Paris, <code>69381</code> à
+        <code>69389</code> pour Lyon, <code>13201</code> à <code>13216</code> pour Marseille), la ville est
+        automatiquement découpée en arrondissements sur la carte. Avec le code de la commune entière
+        (<code>75056</code>, <code>69123</code>, <code>13055</code>), elle reste d'un seul tenant. À l'échelle
+        Commune, ces trois villes s'affichent toujours par arrondissement. Aux échelles nationale et régionale, les
+        valeurs des arrondissements s'additionnent dans leur département.
+    </div>
+    <figure>
+        <img src="images/18-arrondissements-paris.jpg" alt="Carte de Paris découpée en 20 arrondissements colorés">
+        <figcaption>Département de Paris avec des données saisies par arrondissement (jeu d'exemple « communes »).</figcaption>
+    </figure>
     <figure>
         <img src="images/02-zone-geographique.jpg" alt="Menus en cascade pour choisir une région puis un département">
         <figcaption>Les menus en cascade s'adaptent à l'échelle choisie (ici : Département, avec la région Nouvelle-Aquitaine sélectionnée).</figcaption>
@@ -353,6 +366,25 @@
             <figcaption>Résultat appliqué à la carte.</figcaption>
         </figure>
     </div>
+
+    <h3>Couleurs du fond de carte</h3>
+    <p>
+        Le menu <strong>Couleurs du fond de carte</strong> propose des préréglages (Blanc par défaut, Mer bleue et
+        terres beiges, Parchemin, Gris clair) et trois sélecteurs de couleur pour les ajuster :
+    </p>
+    <ul>
+        <li><strong>Mer / fond</strong> : l'arrière-plan de la carte, qui figure la mer autour des côtes ;</li>
+        <li><strong>Hors zone</strong> : les territoires affichés autour de la zone étudiée (par exemple les autres départements sur une carte régionale) ;</li>
+        <li><strong>Sans donnée</strong> : les zones de la carte pour lesquelles votre fichier ne contient pas de valeur.</li>
+    </ul>
+    <p>
+        Modifier l'une des trois couleurs bascule le menu sur « Personnalisé ». Ces couleurs s'appliquent aussi à
+        l'export PNG et sont enregistrées dans la configuration exportée.
+    </p>
+    <figure>
+        <img src="images/19-couleurs-fond.jpg" alt="Carte de France sur fond de mer bleue avec le menu des couleurs du fond">
+        <figcaption>Préréglage « Mer bleue, terres beiges » à l'échelle France métropolitaine.</figcaption>
+    </figure>
 </section>
 
 <section class="chapter" id="etiquettes">
@@ -438,6 +470,11 @@
         soit l'échelle choisie et apparaissent dans l'export PNG et la génération par lot.
     </p>
     <ul>
+        <li><strong>Par adresse</strong> : le bloc « Rechercher une adresse » s'appuie sur la Base Adresse Nationale.
+            Choisissez successivement le département, la commune (Paris, Lyon et Marseille sont proposées par
+            arrondissement), la voie puis le numéro : la longitude, la latitude et la légende de l'épingle se
+            remplissent automatiquement. Il ne reste qu'à choisir la couleur et le symbole puis à cliquer sur
+            « 📌 Ajouter l'épingle ». Une voie qui ne compte qu'une adresse (lieu-dit) est sélectionnée directement.</li>
         <li><strong>Une par une</strong> : saisissez la longitude et la latitude en degrés décimaux (ex : 5.3698 et 43.2965 pour Marseille), une couleur, une légende facultative et un symbole (point de couleur ou icône illustrée), puis cliquez sur « 📌 Ajouter l'épingle ».</li>
         <li><strong>En lot</strong> : « ⬆️ Importer un CSV d'épingles » lit un fichier de 4 ou 5 colonnes <code>x,y,couleur,légende,icône</code>, où x est la longitude et y la latitude. La 5ᵉ colonne, facultative, contient l'identifiant d'une icône illustrée (ex : <code>routeur</code>, <code>char-de-combat</code>, <code>eolienne</code>, <code>mairie</code>) ; l'identifiant de chaque icône s'affiche sous le menu « Symbole » quand vous la sélectionnez. Sans icône, ou si l'identifiant est inconnu, l'épingle est un point de couleur. Le séparateur peut être <code>,</code> ou <code>;</code> (dans ce cas la virgule décimale est acceptée), la ligne d'en-tête est facultative, et la couleur s'écrit en hexadécimal (<code>#e1000f</code>) ou en toutes lettres en anglais (<code>red</code>, <code>blue</code>...). Les lignes aux coordonnées invalides sont ignorées et signalées.</li>
     </ul>
@@ -445,6 +482,15 @@
         La taille des icônes se règle séparément de celle des points. La légende de chaque épingle peut s'afficher à côté du point, et un encadré en bas à gauche regroupe les
         couples couleur / légende des épingles visibles. Les deux affichages, ainsi que la taille du point, se
         règlent dans la même section. La liste des épingles permet d'en supprimer une (×) ou de toutes les effacer.
+    </p>
+    <figure>
+        <img src="images/20-recherche-adresse.jpg" alt="Formulaire de recherche d'adresse rempli et coordonnées de l'épingle">
+        <figcaption>Recherche d'adresse : département, commune, voie et numéro remplissent les coordonnées de l'épingle.</figcaption>
+    </figure>
+    <p class="tip">
+        <strong>Hors-ligne :</strong> les adresses d'une commune sont téléchargées la première fois que vous la
+        sélectionnez, puis conservées par l'application. Une commune jamais consultée n'est pas disponible sans
+        connexion.
     </p>
 </section>
 
@@ -518,6 +564,18 @@
         <li>Sur <strong>Firefox pour ordinateur</strong> : Firefox ne propose pas d'installation native de ce type
             d'application ; le bouton ouvre l'extension tierce <em>PWAsForFirefox</em>, qui permet d'obtenir une
             fenêtre autonome.</li>
+    </ul>
+
+    <h3>Faire tourner SimpleCarto sur un poste Windows, sans Internet</h3>
+    <p>
+        Le dossier de l'application contient un lanceur, <code>Lancer-SimpleCarto.bat</code>. Un double-clic
+        démarre un petit serveur web local (script PowerShell, sans droits administrateur ni logiciel à installer)
+        et ouvre SimpleCarto dans le navigateur à l'adresse <code>http://localhost:8080</code>. Ce serveur n'est
+        accessible que depuis le poste lui-même. Fermez la fenêtre noire pour l'arrêter.
+    </p>
+    <ul>
+        <li>Si le port 8080 est déjà utilisé, le lanceur essaie automatiquement les ports suivants et affiche l'adresse retenue.</li>
+        <li>Options, depuis une invite de commandes : <code>Lancer-SimpleCarto.bat -Port 9000</code> pour choisir le port, <code>-NoBrowser</code> pour ne pas ouvrir le navigateur.</li>
     </ul>
 </section>
 
