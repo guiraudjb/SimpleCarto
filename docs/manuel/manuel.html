@@ -407,8 +407,9 @@
     </p>
     <h3>Pictogrammes</h3>
     <p>
-        Choisissez un jeu de pictogrammes (humanitaire OCHA ou pictogrammes DSFR de l'État), un symbole, sa
-        couleur et sa taille, puis cliquez sur « 📍 Placer ce pictogramme » avant de cliquer sur la carte pour
+        Choisissez un jeu de pictogrammes (humanitaire OCHA, pictogrammes DSFR de l'État, ou icônes illustrées
+        en couleur : informatique et réseaux, guerre et défense, énergie, météo, transports, secours, bâtiments
+        publics, cadastre et géomètres, finances publiques, environnement, agriculture, économie et emploi), un symbole, sa couleur (sauf pour les icônes illustrées, déjà en couleur) et sa taille, puis cliquez sur « 📍 Placer ce pictogramme » avant de cliquer sur la carte pour
         le positionner. Cliquer sur un pictogramme déjà placé le supprime.
     </p>
     <figure>
@@ -437,11 +438,11 @@
         soit l'échelle choisie et apparaissent dans l'export PNG et la génération par lot.
     </p>
     <ul>
-        <li><strong>Une par une</strong> : saisissez la longitude et la latitude en degrés décimaux (ex : 5.3698 et 43.2965 pour Marseille), une couleur et une légende facultative, puis cliquez sur « 📌 Ajouter l'épingle ».</li>
-        <li><strong>En lot</strong> : « ⬆️ Importer un CSV d'épingles » lit un fichier de 4 colonnes <code>x,y,couleur,légende</code>, où x est la longitude et y la latitude. Le séparateur peut être <code>,</code> ou <code>;</code> (dans ce cas la virgule décimale est acceptée), la ligne d'en-tête est facultative, et la couleur s'écrit en hexadécimal (<code>#e1000f</code>) ou en toutes lettres en anglais (<code>red</code>, <code>blue</code>...). Les lignes aux coordonnées invalides sont ignorées et signalées.</li>
+        <li><strong>Une par une</strong> : saisissez la longitude et la latitude en degrés décimaux (ex : 5.3698 et 43.2965 pour Marseille), une couleur, une légende facultative et un symbole (point de couleur ou icône illustrée), puis cliquez sur « 📌 Ajouter l'épingle ».</li>
+        <li><strong>En lot</strong> : « ⬆️ Importer un CSV d'épingles » lit un fichier de 4 ou 5 colonnes <code>x,y,couleur,légende,icône</code>, où x est la longitude et y la latitude. La 5ᵉ colonne, facultative, contient l'identifiant d'une icône illustrée (ex : <code>routeur</code>, <code>char-de-combat</code>, <code>eolienne</code>, <code>mairie</code>) ; l'identifiant de chaque icône s'affiche sous le menu « Symbole » quand vous la sélectionnez. Sans icône, ou si l'identifiant est inconnu, l'épingle est un point de couleur. Le séparateur peut être <code>,</code> ou <code>;</code> (dans ce cas la virgule décimale est acceptée), la ligne d'en-tête est facultative, et la couleur s'écrit en hexadécimal (<code>#e1000f</code>) ou en toutes lettres en anglais (<code>red</code>, <code>blue</code>...). Les lignes aux coordonnées invalides sont ignorées et signalées.</li>
     </ul>
     <p>
-        La légende de chaque épingle peut s'afficher à côté du point, et un encadré en bas à gauche regroupe les
+        La taille des icônes se règle séparément de celle des points. La légende de chaque épingle peut s'afficher à côté du point, et un encadré en bas à gauche regroupe les
         couples couleur / légende des épingles visibles. Les deux affichages, ainsi que la taille du point, se
         règlent dans la même section. La liste des épingles permet d'en supprimer une (×) ou de toutes les effacer.
     </p>

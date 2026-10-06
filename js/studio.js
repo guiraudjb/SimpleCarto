@@ -145,6 +145,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const dsfrCategoryByFile = new Map();
     DSFR_PICTOGRAM_ICONS.forEach(i => dsfrCategoryByFile.set(i.file, i.category));
 
+    // Jeu d'icônes illustrées (PNG générés avec Krea 2) : catalogue optionnel,
+    // absent tant que tools/icons/install_icons.py n'a pas été lancé.
+    const K2_CATEGORIES = typeof K2_PICTOGRAM_CATEGORIES !== 'undefined' ? K2_PICTOGRAM_CATEGORIES : [];
+    const K2_ICONS = typeof K2_PICTOGRAM_ICONS !== 'undefined' ? K2_PICTOGRAM_ICONS : [];
+    const k2CategoryByFile = new Map(K2_ICONS.map(i => [i.file, i.category]));
+    const k2IconIds = new Set(K2_ICONS.map(i => i.id));
+
     function currentPictogramSet() {
         return document.getElementById('pictogram-set').value;
     }
@@ -153,8 +160,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const sel = document.getElementById('pictogram-select');
         sel.innerHTML = '';
         const set = currentPictogramSet();
-        const categories = set === 'dsfr' ? DSFR_PICTOGRAM_CATEGORIES : PICTOGRAM_CATEGORIES;
-        const icons = set === 'dsfr' ? DSFR_PICTOGRAM_ICONS : PICTOGRAM_ICONS;
+        const categories = set === 'dsfr' ? DSFR_PICTOGRAM_CATEGORIES : set === 'k2' ? K2_CATEGORIES : PICTOGRAM_CATEGORIES;
+        const icons = set === 'dsfr' ? DSFR_PICTOGRAM_ICONS : set === 'k2' ? K2_ICONS : PICTOGRAM_ICONS;
 
         categories.forEach(cat => {
             const catIcons = icons.filter(i => i.category === cat.id);
@@ -170,13 +177,18 @@ document.addEventListener('DOMContentLoaded', () => {
             sel.appendChild(grp);
         });
 
-        document.getElementById('pictogram-color').style.display = set === 'dsfr' ? 'none' : 'block';
+        document.getElementById('pictogram-color').style.display = set === 'ocha' ? 'block' : 'none';
         document.getElementById('pictogram-dsfr-color').style.display = set === 'dsfr' ? 'block' : 'none';
     }
 
     // Construit le chemin d'accès et, pour les icônes DSFR (monochromes,
-    // sans fill défini), la couleur à injecter par héritage SVG.
+    // sans fill défini), la couleur à injecter par héritage SVG. Les icônes
+    // illustrées sont des PNG en couleur (raster) : ni recoloration ni SVG inline.
     function resolvePictogramSource(set, file, color) {
+        if (set === 'k2') {
+            const category = k2CategoryByFile.get(file);
+            return { path: `./icons/pictograms-k2/${category}/${file}`, category, recolor: null, raster: true };
+        }
         if (set === 'dsfr') {
             const category = dsfrCategoryByFile.get(file);
             return { path: `./icons/pictograms-dsfr/${category}/${file}`, category, recolor: color };
@@ -209,7 +221,15 @@ document.addEventListener('DOMContentLoaded', () => {
         const frame = document.getElementById('pictogram-preview-frame');
         if (!file) { frame.innerHTML = ''; return; }
         const color = set === 'dsfr' ? document.getElementById('pictogram-dsfr-color').value : document.getElementById('pictogram-color').value;
-        const { path, recolor } = resolvePictogramSource(set, file, color);
+        const { path, recolor, raster } = resolvePictogramSource(set, file, color);
+        if (raster) {
+            frame.innerHTML = '';
+            const img = document.createElement('img');
+            img.src = path;
+            img.alt = '';
+            frame.appendChild(img);
+            return;
+        }
         let svgText = await getPictogramSvgText(path);
         if (svgText && recolor) svgText = applySvgRecolor(svgText, recolor);
         frame.innerHTML = svgText || '';
@@ -219,10 +239,13 @@ document.addEventListener('DOMContentLoaded', () => {
         container.querySelectorAll('.pictogram-marker').forEach(el => el.remove());
         for (let i = 0; i < pictograms.length; i++) {
             const p = pictograms[i];
-            const { path, recolor } = resolvePictogramSource(p.set, p.file, p.color);
-            let svgText = await getPictogramSvgText(path);
-            if (!svgText) continue;
-            if (recolor) svgText = applySvgRecolor(svgText, recolor);
+            const { path, recolor, raster } = resolvePictogramSource(p.set, p.file, p.color);
+            let svgText = null;
+            if (!raster) {
+                svgText = await getPictogramSvgText(path);
+                if (!svgText) continue;
+                if (recolor) svgText = applySvgRecolor(svgText, recolor);
+            }
 
             const marker = document.createElement('div');
             marker.className = 'pictogram-marker';
@@ -232,7 +255,14 @@ document.addEventListener('DOMContentLoaded', () => {
             marker.style.top = `${p.y}px`;
             marker.style.width = `${p.size}px`;
             marker.style.height = `${p.size}px`;
-            marker.innerHTML = svgText;
+            if (raster) {
+                const img = document.createElement('img');
+                img.src = path;
+                img.alt = '';
+                marker.appendChild(img);
+            } else {
+                marker.innerHTML = svgText;
+            }
             container.appendChild(marker);
         }
     }
@@ -637,10 +667,40 @@ document.addEventListener('DOMContentLoaded', () => {
         return c && CSS.supports('color', c) ? c : DEFAULT_PIN_COLOR;
     }
 
-    function makePin(lon, lat, color, label) {
-        if (!(lon >= -180 && lon <= 180 && lat >= -90 && lat <= 90)) return null;
-        return { lon, lat, color: sanitizePinColor(color), label: String(label ?? '').trim() };
+    // Icône illustrée facultative : seul un identifiant connu du catalogue est conservé.
+    function sanitizePinIcon(raw) {
+        const id = String(raw ?? '').trim().toLowerCase();
+        return k2IconIds.has(id) ? id : '';
     }
+
+    function makePin(lon, lat, color, label, icon) {
+        if (!(lon >= -180 && lon <= 180 && lat >= -90 && lat <= 90)) return null;
+        return { lon, lat, color: sanitizePinColor(color), label: String(label ?? '').trim(), icon: sanitizePinIcon(icon) };
+    }
+
+    function populatePinIconSelect() {
+        const sel = document.getElementById('pin-icon');
+        K2_CATEGORIES.forEach(cat => {
+            const catIcons = K2_ICONS.filter(i => i.category === cat.id);
+            if (catIcons.length === 0) return;
+            const grp = document.createElement('optgroup');
+            grp.label = cat.label;
+            catIcons.forEach(icon => {
+                const opt = document.createElement('option');
+                opt.value = icon.id;
+                opt.textContent = icon.name;
+                grp.appendChild(opt);
+            });
+            sel.appendChild(grp);
+        });
+    }
+    populatePinIconSelect();
+
+    // Affiche l'identifiant de l'icône choisie, à reprendre dans la colonne « icône » d'un CSV d'épingles
+    document.getElementById('pin-icon').onchange = (e) => {
+        document.getElementById('pin-icon-id').innerHTML = e.target.value
+            ? `Identifiant pour le CSV : <code>${e.target.value}</code>` : '';
+    };
 
     function refreshAfterPinsChange() {
         renderPinList();
@@ -652,9 +712,18 @@ document.addEventListener('DOMContentLoaded', () => {
         list.innerHTML = '';
         currentPins.forEach((pin, i) => {
             const li = document.createElement('li');
-            const dot = document.createElement('span');
-            dot.className = 'pin-dot';
-            dot.style.background = pin.color;
+            let dot;
+            const iconPath = k2IconPath(pin.icon);
+            if (iconPath) {
+                dot = document.createElement('img');
+                dot.className = 'pin-icon-thumb';
+                dot.src = iconPath;
+                dot.alt = '';
+            } else {
+                dot = document.createElement('span');
+                dot.className = 'pin-dot';
+                dot.style.background = pin.color;
+            }
             const text = document.createElement('span');
             text.className = 'pin-text';
             text.textContent = `${pin.label || '(sans légende)'} — ${pin.lon}, ${pin.lat}`;
@@ -678,7 +747,8 @@ document.addEventListener('DOMContentLoaded', () => {
             parseCoordinate(document.getElementById('pin-lon').value),
             parseCoordinate(document.getElementById('pin-lat').value),
             document.getElementById('pin-color').value,
-            document.getElementById('pin-label').value
+            document.getElementById('pin-label').value,
+            document.getElementById('pin-icon').value
         );
         if (!pin) {
             showToast("Coordonnées invalides", "Saisissez une longitude (-180 à 180) et une latitude (-90 à 90) en degrés décimaux.", "warning");
@@ -703,15 +773,21 @@ document.addEventListener('DOMContentLoaded', () => {
             // Ligne d'en-tête facultative : détectée si x/y ne sont pas numériques
             const hasHeader = rows.length > 0 && (Number.isNaN(parseCoordinate(rows[0][0])) || Number.isNaN(parseCoordinate(rows[0][1])));
             const dataRows = hasHeader ? rows.slice(1) : rows;
-            let imported = 0;
+            let imported = 0, unknownIcons = 0;
             dataRows.forEach(r => {
-                const pin = makePin(parseCoordinate(r[0]), parseCoordinate(r[1]), r[2], r[3]);
-                if (pin) { currentPins.push(pin); imported++; }
+                const pin = makePin(parseCoordinate(r[0]), parseCoordinate(r[1]), r[2], r[3], r[4]);
+                if (!pin) return;
+                if (String(r[4] ?? '').trim() && !pin.icon) unknownIcons++;
+                currentPins.push(pin);
+                imported++;
             });
             const ignored = dataRows.length - imported;
+            const notes = [];
+            if (ignored > 0) notes.push(`${ignored} ligne(s) ignorée(s) (coordonnées invalides)`);
+            if (unknownIcons > 0) notes.push(`${unknownIcons} icône(s) inconnue(s), remplacée(s) par un point`);
             showToast("Import des épingles",
-                `${imported} épingle(s) importée(s)${ignored > 0 ? `, ${ignored} ligne(s) ignorée(s) (coordonnées invalides)` : ''}.`,
-                imported > 0 ? (ignored > 0 ? "warning" : "success") : "error");
+                `${imported} épingle(s) importée(s)${notes.length ? ', ' + notes.join(', ') : ''}.`,
+                imported > 0 ? (notes.length ? "warning" : "success") : "error");
             refreshAfterPinsChange();
         }});
         e.target.value = '';
@@ -916,6 +992,7 @@ document.addEventListener('DOMContentLoaded', () => {
             showPinLabels: document.getElementById('pin-show-labels').checked,
             showPinLegend: document.getElementById('pin-show-legend').checked,
             pinSize: parseFloat(document.getElementById('pin-size').value) || 5,
+            pinIconSize: parseFloat(document.getElementById('pin-icon-size').value) || 28,
 
             showRelief: document.getElementById('layer-show-relief')?.checked || false,
             reliefOpacity: parseFloat(document.getElementById('layer-relief-opacity')?.value) ?? 0.6,
@@ -1281,12 +1358,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
 
                 currentPins = Array.isArray(config.pins)
-                    ? config.pins.map(p => makePin(parseCoordinate(p.lon), parseCoordinate(p.lat), p.color, p.label)).filter(Boolean)
+                    ? config.pins.map(p => makePin(parseCoordinate(p.lon), parseCoordinate(p.lat), p.color, p.label, p.icon)).filter(Boolean)
                     : [];
                 renderPinList();
                 document.getElementById('pin-show-labels').checked = config.showPinLabels !== false;
                 document.getElementById('pin-show-legend').checked = config.showPinLegend !== false;
                 document.getElementById('pin-size').value = config.pinSize || 5;
+                document.getElementById('pin-icon-size').value = config.pinIconSize || 28;
 
                 document.getElementById('map-title').value = config.title || "";
                 document.getElementById('title-font-select').value = config.titleFont || DEFAULT_FONT;

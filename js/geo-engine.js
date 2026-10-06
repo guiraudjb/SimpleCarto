@@ -168,21 +168,45 @@ function forceRectCollide(padding) {
 // Bornes lon/lat exactes de l'image data/relief_france.png (requête WMS IGN d'origine)
 const RELIEF_BOUNDS = { lonMin: -5.2, latMin: 41.2, lonMax: 9.7, latMax: 51.3 };
 const roadDataCache = new Map();
-let reliefDataUrlPromise = null;
 
-function loadReliefDataUrl() {
-    if (!reliefDataUrlPromise) {
-        reliefDataUrlPromise = fetch('./data/relief_france.png')
-            .then(res => res.blob())
+// Les images référencées dans le SVG de la carte (relief, icônes d'épingles) y sont
+// intégrées en data URL : html2canvas ne charge pas les href externes d'un SVG,
+// elles disparaîtraient de l'export PNG.
+const dataUrlCache = new Map();
+
+function loadDataUrl(url) {
+    if (!dataUrlCache.has(url)) {
+        dataUrlCache.set(url, fetch(url)
+            .then(res => { if (!res.ok) throw new Error(res.status); return res.blob(); })
             .then(blob => new Promise((resolve, reject) => {
                 const reader = new FileReader();
                 reader.onload = () => resolve(reader.result);
                 reader.onerror = reject;
                 reader.readAsDataURL(blob);
             }))
-            .catch(() => { reliefDataUrlPromise = null; return null; });
+            .catch(() => { dataUrlCache.delete(url); return null; }));
     }
-    return reliefDataUrlPromise;
+    return dataUrlCache.get(url);
+}
+
+function loadReliefDataUrl() {
+    return loadDataUrl('./data/relief_france.png');
+}
+
+// Chemin d'une icône illustrée (jeu Krea 2) d'après son identifiant, ou null si inconnue.
+function k2IconPath(iconId) {
+    if (!iconId || typeof K2_PICTOGRAM_ICONS === 'undefined') return null;
+    const icon = K2_PICTOGRAM_ICONS.find(i => i.id === iconId);
+    return icon ? `./icons/pictograms-k2/${icon.category}/${icon.file}` : null;
+}
+
+async function loadPinIconDataUrls(pins) {
+    const ids = [...new Set(pins.map(p => p.icon).filter(Boolean))];
+    const urls = await Promise.all(ids.map(id => {
+        const path = k2IconPath(id);
+        return path ? loadDataUrl(path) : null;
+    }));
+    return new Map(ids.map((id, i) => [id, urls[i]]).filter(([, url]) => url));
 }
 
 // Découpe l'image de relief en grille et positionne chaque tuile via la projection D3
@@ -303,20 +327,27 @@ function isMetropolitanScope(config) {
 // des épingles visibles dans le cadre.
 const PIN_LEGEND_MAX_ENTRIES = 12;
 
-function drawPins(svg, config, projection, width, height) {
+function drawPins(svg, config, projection, width, height, iconUrls) {
     const radius = config.pinSize || 5;
+    const iconSize = config.pinIconSize || 28;
     const labelFont = `"${config.labelFont || DEFAULT_FONT}", 'Segoe UI', Arial, sans-serif`;
     const pts = projectPoints(config.pins, projection)
-        .filter(p => p.x >= 0 && p.x <= width && p.y >= 0 && p.y <= height);
+        .filter(p => p.x >= 0 && p.x <= width && p.y >= 0 && p.y <= height)
+        .map(p => ({ ...p, iconUrl: iconUrls.get(p.icon) || null }));
+    const halfExtent = d => d.iconUrl ? iconSize / 2 : radius;
 
     const gPins = svg.append("g").attr("class", "pins-layer");
-    gPins.selectAll("circle").data(pts).enter().append("circle")
+    gPins.selectAll("circle").data(pts.filter(p => !p.iconUrl)).enter().append("circle")
         .attr("cx", d => d.x).attr("cy", d => d.y).attr("r", radius)
         .attr("fill", d => d.color).attr("stroke", "#ffffff").attr("stroke-width", 1.2);
+    gPins.selectAll("image").data(pts.filter(p => p.iconUrl)).enter().append("image")
+        .attr("href", d => d.iconUrl)
+        .attr("x", d => d.x - iconSize / 2).attr("y", d => d.y - iconSize / 2)
+        .attr("width", iconSize).attr("height", iconSize);
 
     if (config.showPinLabels !== false) {
         gPins.selectAll("text").data(pts.filter(p => p.label)).enter().append("text")
-            .attr("x", d => d.x + radius + 3).attr("y", d => d.y + 3.5)
+            .attr("x", d => d.x + halfExtent(d) + 3).attr("y", d => d.y + 3.5)
             .style("font-size", "10px").style("font-family", labelFont).style("font-weight", "700")
             .style("fill", "#1e1e1e")
             .attr("stroke", "#ffffff").attr("stroke-width", 2.5).attr("stroke-linejoin", "round")
@@ -329,16 +360,16 @@ function drawPins(svg, config, projection, width, height) {
     const seen = new Set();
     pts.forEach(p => {
         if (!p.label) return;
-        const key = `${p.color}|${p.label}`;
+        const key = `${p.iconUrl ? p.icon : p.color}|${p.label}`;
         if (seen.has(key)) return;
         seen.add(key);
-        entries.push({ color: p.color, label: p.label });
+        entries.push({ color: p.color, label: p.label, iconUrl: p.iconUrl });
     });
     if (entries.length === 0) return;
 
     const shown = entries.slice(0, PIN_LEGEND_MAX_ENTRIES);
     const overflow = entries.length - shown.length;
-    const lineH = 15, padX = 8, padY = 6;
+    const lineH = 17, padX = 8, padY = 6;
     const rows = shown.length + (overflow > 0 ? 1 : 0);
     const boxH = padY * 2 + rows * lineH;
     const legend = svg.append("g").attr("class", "pins-legend")
@@ -348,8 +379,13 @@ function drawPins(svg, config, projection, width, height) {
 
     shown.forEach((e, i) => {
         const cy = padY + i * lineH + lineH / 2;
-        legend.append("circle").attr("cx", padX + 5).attr("cy", cy).attr("r", 5)
-            .attr("fill", e.color).attr("stroke", "#ffffff").attr("stroke-width", 1);
+        if (e.iconUrl) {
+            legend.append("image").attr("href", e.iconUrl)
+                .attr("x", padX - 2).attr("y", cy - 7).attr("width", 14).attr("height", 14);
+        } else {
+            legend.append("circle").attr("cx", padX + 5).attr("cy", cy).attr("r", 5)
+                .attr("fill", e.color).attr("stroke", "#ffffff").attr("stroke-width", 1);
+        }
         legend.append("text").attr("x", padX + 15).attr("y", cy + 3.5)
             .style("font-size", "10px").style("font-family", labelFont).style("fill", "#1e1e1e")
             .text(e.label);
@@ -548,7 +584,7 @@ async function drawD3Map(container, config, dataMap) {
     }
 
     if (Array.isArray(config.pins) && config.pins.length > 0) {
-        drawPins(svg, config, projection, width, height);
+        drawPins(svg, config, projection, width, height, await loadPinIconDataUrls(config.pins));
     }
 
     const gLabels = svg.append("g");

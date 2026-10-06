@@ -1,7 +1,8 @@
-const CACHE_NAME = 'simplecarto-v12';
+const CACHE_NAME = 'simplecarto-v13';
 const ASSET_MANIFEST_URLS = [
     './icons/pictograms/manifest.json',
     './icons/pictograms-dsfr/manifest.json',
+    './icons/pictograms-k2/manifest.json',
     './fonts/manifest.json'
 ];
 
@@ -17,6 +18,7 @@ const PRECACHE_URLS = [
     './js/pwa.js',
     './js/pictogram-catalog.js',
     './js/dsfr-pictogram-catalog.js',
+    './js/k2-pictogram-catalog.js',
     './js/font-catalog.js',
     './libs/papaparse.min.js',
     './libs/d3.v7.min.js',

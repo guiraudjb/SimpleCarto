@@ -1,0 +1,2056 @@
+{
+ "style": "flat vector icon of {subject}, simple bold shapes, thick dark outline, limited color palette, centered, isolated on plain white background, no text, no shadow, app icon style",
+ "icons": [
+  {
+   "id": "routeur",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Routeur",
+   "subject": "a network router box with antennas and blinking LEDs"
+  },
+  {
+   "id": "commutateur-switch",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Commutateur (switch)",
+   "subject": "a rack-mounted network switch with a row of ethernet ports"
+  },
+  {
+   "id": "pare-feu",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Pare-feu",
+   "subject": "a brick wall firewall with a flame"
+  },
+  {
+   "id": "point-d-acces-wi-fi",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Point d'accès Wi-Fi",
+   "subject": "a ceiling-mounted wifi access point with wifi signal waves"
+  },
+  {
+   "id": "box-internet",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Box internet",
+   "subject": "a home internet modem box with indicator lights"
+  },
+  {
+   "id": "repartiteur-de-charge",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Répartiteur de charge",
+   "subject": "a load balancer device splitting one arrow into three arrows"
+  },
+  {
+   "id": "vpn",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "VPN",
+   "subject": "a secure tunnel with a padlock in front"
+  },
+  {
+   "id": "antenne-relais-4g-5g",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Antenne relais 4G/5G",
+   "subject": "a cell phone tower antenna mast with radio waves"
+  },
+  {
+   "id": "parabole-satellite",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Parabole satellite",
+   "subject": "a satellite dish antenna"
+  },
+  {
+   "id": "fibre-optique",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Fibre optique",
+   "subject": "a coil of glowing fiber optic cable"
+  },
+  {
+   "id": "baie-de-brassage",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Baie de brassage",
+   "subject": "a network patch panel with colorful patch cables"
+  },
+  {
+   "id": "cloud",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Cloud",
+   "subject": "a fluffy cloud computing symbol"
+  },
+  {
+   "id": "serveur",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Serveur",
+   "subject": "a single rack server unit"
+  },
+  {
+   "id": "baie-de-serveurs",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Baie de serveurs",
+   "subject": "a tall server rack cabinet full of servers"
+  },
+  {
+   "id": "centre-de-donnees",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Centre de données",
+   "subject": "a data center building with server racks"
+  },
+  {
+   "id": "base-de-donnees",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Base de données",
+   "subject": "a database symbol made of stacked cylinders"
+  },
+  {
+   "id": "stockage-nas",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Stockage NAS",
+   "subject": "a small NAS storage box with hard drive bays"
+  },
+  {
+   "id": "sauvegarde",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Sauvegarde",
+   "subject": "a hard drive with a circular backup arrow"
+  },
+  {
+   "id": "conteneur-vm",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Conteneur / VM",
+   "subject": "a shipping container box representing a software container"
+  },
+  {
+   "id": "ordinateur-de-bureau",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Ordinateur de bureau",
+   "subject": "a desktop computer with monitor and keyboard"
+  },
+  {
+   "id": "ordinateur-portable",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Ordinateur portable",
+   "subject": "an open laptop computer"
+  },
+  {
+   "id": "tablette",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Tablette",
+   "subject": "a tablet device"
+  },
+  {
+   "id": "smartphone",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Smartphone",
+   "subject": "a smartphone"
+  },
+  {
+   "id": "imprimante",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Imprimante",
+   "subject": "an office printer with a sheet of paper"
+  },
+  {
+   "id": "telephone-ip",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Téléphone IP",
+   "subject": "a desk IP telephone with handset and screen"
+  },
+  {
+   "id": "camera-de-videosurveillance",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Caméra de vidéosurveillance",
+   "subject": "a wall-mounted CCTV security camera"
+  },
+  {
+   "id": "objet-connecte-iot",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Objet connecté IoT",
+   "subject": "a small IoT sensor device with wireless signal"
+  },
+  {
+   "id": "terminal-de-paiement",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Terminal de paiement",
+   "subject": "a card payment terminal with a credit card"
+  },
+  {
+   "id": "ecran-d-affichage",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Écran d'affichage",
+   "subject": "a large digital display screen on a stand"
+  },
+  {
+   "id": "utilisateur",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Utilisateur",
+   "subject": "a single user person bust avatar"
+  },
+  {
+   "id": "groupe-d-utilisateurs",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Groupe d'utilisateurs",
+   "subject": "a group of three user person avatars"
+  },
+  {
+   "id": "administrateur",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Administrateur",
+   "subject": "a user person avatar with a gear"
+  },
+  {
+   "id": "authentification",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Authentification",
+   "subject": "a key"
+  },
+  {
+   "id": "cybersecurite",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Cybersécurité",
+   "subject": "a shield with a check mark"
+  },
+  {
+   "id": "malware",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Malware",
+   "subject": "a computer virus bug"
+  },
+  {
+   "id": "cadenas",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Cadenas",
+   "subject": "a closed padlock"
+  },
+  {
+   "id": "alerte-incident",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Alerte incident",
+   "subject": "a warning triangle with an exclamation mark"
+  },
+  {
+   "id": "support-technique",
+   "theme": "informatique",
+   "theme_label": "Informatique & réseaux",
+   "label_fr": "Support technique",
+   "subject": "a headset with microphone"
+  },
+  {
+   "id": "infanterie",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Infanterie",
+   "subject": "an infantry soldier with helmet and rifle"
+  },
+  {
+   "id": "char-de-combat",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Char de combat",
+   "subject": "a main battle tank"
+  },
+  {
+   "id": "vehicule-blinde",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Véhicule blindé",
+   "subject": "an armored personnel carrier with wheels"
+  },
+  {
+   "id": "artillerie",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Artillerie",
+   "subject": "a towed artillery cannon"
+  },
+  {
+   "id": "lance-roquettes-multiple",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Lance-roquettes multiple",
+   "subject": "a multiple rocket launcher truck"
+  },
+  {
+   "id": "mortier",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Mortier",
+   "subject": "a mortar tube on a bipod"
+  },
+  {
+   "id": "tireur-d-elite",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Tireur d'élite",
+   "subject": "a sniper rifle with scope"
+  },
+  {
+   "id": "genie-militaire",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Génie militaire",
+   "subject": "a military engineer shovel and pickaxe crossed"
+  },
+  {
+   "id": "poste-de-commandement",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Poste de commandement",
+   "subject": "a military command tent with a flag"
+  },
+  {
+   "id": "avion-de-chasse",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Avion de chasse",
+   "subject": "a fighter jet"
+  },
+  {
+   "id": "bombardier",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Bombardier",
+   "subject": "a large bomber aircraft"
+  },
+  {
+   "id": "helicoptere-de-combat",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Hélicoptère de combat",
+   "subject": "an attack helicopter"
+  },
+  {
+   "id": "drone-militaire",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Drone militaire",
+   "subject": "a military drone aircraft"
+  },
+  {
+   "id": "missile",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Missile",
+   "subject": "a missile"
+  },
+  {
+   "id": "defense-antiaerienne",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Défense antiaérienne",
+   "subject": "an anti-aircraft missile launcher vehicle"
+  },
+  {
+   "id": "navire-de-guerre",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Navire de guerre",
+   "subject": "a navy warship"
+  },
+  {
+   "id": "sous-marin",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Sous-marin",
+   "subject": "a submarine"
+  },
+  {
+   "id": "porte-avions",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Porte-avions",
+   "subject": "an aircraft carrier ship"
+  },
+  {
+   "id": "explosion-frappe",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Explosion / frappe",
+   "subject": "an explosion burst"
+  },
+  {
+   "id": "mine-terrestre",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Mine terrestre",
+   "subject": "a landmine"
+  },
+  {
+   "id": "barricade",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Barricade",
+   "subject": "a barricade of sandbags"
+  },
+  {
+   "id": "barbeles",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Barbelés",
+   "subject": "a coil of barbed wire"
+  },
+  {
+   "id": "bunker",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Bunker",
+   "subject": "a concrete military bunker"
+  },
+  {
+   "id": "check-point",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Check-point",
+   "subject": "a military checkpoint barrier gate"
+  },
+  {
+   "id": "ligne-de-front",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Ligne de front",
+   "subject": "two opposing arrows facing each other"
+  },
+  {
+   "id": "zone-interdite",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Zone interdite",
+   "subject": "a red prohibition sign circle"
+  },
+  {
+   "id": "refugies-evacuation",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Réfugiés / évacuation",
+   "subject": "a family of refugees walking with bags"
+  },
+  {
+   "id": "hopital-de-campagne",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Hôpital de campagne",
+   "subject": "a field hospital tent with a red cross"
+  },
+  {
+   "id": "base-militaire",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Base militaire",
+   "subject": "a military base with a watchtower and flag"
+  },
+  {
+   "id": "depot-de-munitions",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Dépôt de munitions",
+   "subject": "a stack of ammunition crates"
+  },
+  {
+   "id": "radar",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Radar",
+   "subject": "a rotating radar dish"
+  },
+  {
+   "id": "radio-militaire",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Radio militaire",
+   "subject": "a military field radio with antenna"
+  },
+  {
+   "id": "cessez-le-feu",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Cessez-le-feu",
+   "subject": "a white flag on a pole"
+  },
+  {
+   "id": "objectif",
+   "theme": "guerre",
+   "theme_label": "Guerre & défense",
+   "label_fr": "Objectif",
+   "subject": "a target crosshair"
+  },
+  {
+   "id": "centrale-nucleaire",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Centrale nucléaire",
+   "subject": "a nuclear power plant with cooling towers emitting steam"
+  },
+  {
+   "id": "centrale-a-charbon",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Centrale à charbon",
+   "subject": "a coal power plant with smoking chimneys"
+  },
+  {
+   "id": "centrale-a-gaz",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Centrale à gaz",
+   "subject": "a gas power plant with a gas flame"
+  },
+  {
+   "id": "barrage-hydroelectrique",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Barrage hydroélectrique",
+   "subject": "a hydroelectric dam with water flowing"
+  },
+  {
+   "id": "eolienne",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Éolienne",
+   "subject": "a wind turbine"
+  },
+  {
+   "id": "eolien-en-mer",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Éolien en mer",
+   "subject": "an offshore wind turbine standing in the sea"
+  },
+  {
+   "id": "panneau-solaire",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Panneau solaire",
+   "subject": "a solar panel"
+  },
+  {
+   "id": "centrale-solaire-thermique",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Centrale solaire thermique",
+   "subject": "a solar thermal tower surrounded by mirrors"
+  },
+  {
+   "id": "geothermie",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Géothermie",
+   "subject": "a geothermal plant with steam rising from the ground"
+  },
+  {
+   "id": "methaniseur",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Méthaniseur",
+   "subject": "a biogas digester dome"
+  },
+  {
+   "id": "energie-maremotrice",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Énergie marémotrice",
+   "subject": "a tidal turbine underwater with waves"
+  },
+  {
+   "id": "pylone-haute-tension",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Pylône haute tension",
+   "subject": "a high voltage electricity pylon"
+  },
+  {
+   "id": "poste-de-transformation",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Poste de transformation",
+   "subject": "an electrical substation transformer"
+  },
+  {
+   "id": "ligne-electrique",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Ligne électrique",
+   "subject": "power lines on wooden poles"
+  },
+  {
+   "id": "batterie-de-stockage",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Batterie de stockage",
+   "subject": "a large battery storage unit"
+  },
+  {
+   "id": "compteur-electrique",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Compteur électrique",
+   "subject": "an electricity meter"
+  },
+  {
+   "id": "borne-de-recharge",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Borne de recharge",
+   "subject": "an electric vehicle charging station"
+  },
+  {
+   "id": "hydrogene",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Hydrogène",
+   "subject": "a hydrogen gas tank labeled with a molecule"
+  },
+  {
+   "id": "plateforme-petroliere",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Plateforme pétrolière",
+   "subject": "an offshore oil platform"
+  },
+  {
+   "id": "puits-de-petrole",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Puits de pétrole",
+   "subject": "an oil pump jack"
+  },
+  {
+   "id": "raffinerie",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Raffinerie",
+   "subject": "an oil refinery with tanks and towers"
+  },
+  {
+   "id": "oleoduc-gazoduc",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Oléoduc / gazoduc",
+   "subject": "a large pipeline with a valve"
+  },
+  {
+   "id": "terminal-methanier",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Terminal méthanier",
+   "subject": "an LNG tanker ship with spherical tanks"
+  },
+  {
+   "id": "station-service",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Station-service",
+   "subject": "a gas station fuel pump"
+  },
+  {
+   "id": "citerne-de-carburant",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Citerne de carburant",
+   "subject": "a cylindrical fuel storage tank"
+  },
+  {
+   "id": "mine-de-charbon",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Mine de charbon",
+   "subject": "a mine cart full of coal"
+  },
+  {
+   "id": "panne-de-courant",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Panne de courant",
+   "subject": "a light bulb crossed out"
+  },
+  {
+   "id": "delestage",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Délestage",
+   "subject": "a lightning bolt crossed out"
+  },
+  {
+   "id": "fuite-de-gaz",
+   "theme": "energie",
+   "theme_label": "Énergie",
+   "label_fr": "Fuite de gaz",
+   "subject": "a gas pipe leaking gas"
+  },
+  {
+   "id": "soleil",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Soleil",
+   "subject": "a bright sun"
+  },
+  {
+   "id": "eclaircies",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Éclaircies",
+   "subject": "a sun partly behind a cloud"
+  },
+  {
+   "id": "nuageux",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Nuageux",
+   "subject": "two white clouds"
+  },
+  {
+   "id": "couvert",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Couvert",
+   "subject": "dark grey clouds"
+  },
+  {
+   "id": "brouillard",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Brouillard",
+   "subject": "fog horizontal lines with a cloud"
+  },
+  {
+   "id": "nuit-claire",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Nuit claire",
+   "subject": "a crescent moon with stars"
+  },
+  {
+   "id": "nuit-nuageuse",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Nuit nuageuse",
+   "subject": "a crescent moon behind a cloud"
+  },
+  {
+   "id": "pluie-faible",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Pluie faible",
+   "subject": "a cloud with a few light rain drops"
+  },
+  {
+   "id": "pluie-forte",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Pluie forte",
+   "subject": "a dark cloud with heavy rain"
+  },
+  {
+   "id": "averses",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Averses",
+   "subject": "a sun and cloud with rain drops"
+  },
+  {
+   "id": "orage",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Orage",
+   "subject": "a dark storm cloud with a lightning bolt"
+  },
+  {
+   "id": "grele",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Grêle",
+   "subject": "a cloud with hailstones"
+  },
+  {
+   "id": "neige",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Neige",
+   "subject": "a cloud with snowflakes"
+  },
+  {
+   "id": "pluie-et-neige",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Pluie et neige",
+   "subject": "a cloud with rain drops and snowflakes"
+  },
+  {
+   "id": "verglas",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Verglas",
+   "subject": "an icy road with a slipping warning"
+  },
+  {
+   "id": "vent-fort",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Vent fort",
+   "subject": "strong wind gusts swirling lines"
+  },
+  {
+   "id": "tempete",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Tempête",
+   "subject": "a storm with wind and a bent tree"
+  },
+  {
+   "id": "cyclone",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Cyclone",
+   "subject": "a hurricane spiral"
+  },
+  {
+   "id": "tornade",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Tornade",
+   "subject": "a tornado funnel"
+  },
+  {
+   "id": "canicule",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Canicule",
+   "subject": "a red thermometer with a hot sun"
+  },
+  {
+   "id": "grand-froid",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Grand froid",
+   "subject": "a blue thermometer with a snowflake"
+  },
+  {
+   "id": "secheresse",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Sécheresse",
+   "subject": "cracked dry earth with a dead plant"
+  },
+  {
+   "id": "inondation",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Inondation",
+   "subject": "a house flooded by water"
+  },
+  {
+   "id": "submersion-marine",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Submersion marine",
+   "subject": "a big ocean wave"
+  },
+  {
+   "id": "avalanche",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Avalanche",
+   "subject": "an avalanche of snow on a mountain"
+  },
+  {
+   "id": "feu-de-foret",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Feu de forêt",
+   "subject": "a forest fire with burning trees"
+  },
+  {
+   "id": "arc-en-ciel",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Arc-en-ciel",
+   "subject": "a rainbow with clouds"
+  },
+  {
+   "id": "pollution-de-l-air",
+   "theme": "meteo",
+   "theme_label": "Météo & climat",
+   "label_fr": "Pollution de l'air",
+   "subject": "a factory chimney with grey smoke"
+  },
+  {
+   "id": "gare-ferroviaire",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Gare ferroviaire",
+   "subject": "a train station building with a clock"
+  },
+  {
+   "id": "train",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Train",
+   "subject": "a regional passenger train"
+  },
+  {
+   "id": "tgv",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "TGV",
+   "subject": "a high speed train"
+  },
+  {
+   "id": "tramway",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Tramway",
+   "subject": "a modern tram"
+  },
+  {
+   "id": "metro",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Métro",
+   "subject": "a subway metro train in a tunnel"
+  },
+  {
+   "id": "bus",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Bus",
+   "subject": "a city bus"
+  },
+  {
+   "id": "autocar",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Autocar",
+   "subject": "a coach bus"
+  },
+  {
+   "id": "gare-routiere",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Gare routière",
+   "subject": "a bus stop shelter"
+  },
+  {
+   "id": "voiture",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Voiture",
+   "subject": "a car"
+  },
+  {
+   "id": "camion",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Camion",
+   "subject": "a heavy truck lorry"
+  },
+  {
+   "id": "velo",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Vélo",
+   "subject": "a bicycle"
+  },
+  {
+   "id": "parking",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Parking",
+   "subject": "a parking sign with a car"
+  },
+  {
+   "id": "peage",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Péage",
+   "subject": "a highway toll booth"
+  },
+  {
+   "id": "echangeur-routier",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Échangeur routier",
+   "subject": "a highway interchange cloverleaf"
+  },
+  {
+   "id": "pont",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Pont",
+   "subject": "a bridge"
+  },
+  {
+   "id": "tunnel",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Tunnel",
+   "subject": "a road tunnel entrance in a mountain"
+  },
+  {
+   "id": "port-maritime",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Port maritime",
+   "subject": "a harbor with a crane and container ship"
+  },
+  {
+   "id": "ferry",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Ferry",
+   "subject": "a passenger ferry boat"
+  },
+  {
+   "id": "aeroport",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Aéroport",
+   "subject": "an airplane taking off"
+  },
+  {
+   "id": "heliport",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Héliport",
+   "subject": "a helipad with a helicopter"
+  },
+  {
+   "id": "covoiturage",
+   "theme": "transports",
+   "theme_label": "Transports",
+   "label_fr": "Covoiturage",
+   "subject": "a car with several passengers"
+  },
+  {
+   "id": "caserne-de-pompiers",
+   "theme": "secours",
+   "theme_label": "Secours & sécurité civile",
+   "label_fr": "Caserne de pompiers",
+   "subject": "a fire station building"
+  },
+  {
+   "id": "camion-de-pompiers",
+   "theme": "secours",
+   "theme_label": "Secours & sécurité civile",
+   "label_fr": "Camion de pompiers",
+   "subject": "a red fire truck"
+  },
+  {
+   "id": "ambulance",
+   "theme": "secours",
+   "theme_label": "Secours & sécurité civile",
+   "label_fr": "Ambulance",
+   "subject": "an ambulance"
+  },
+  {
+   "id": "helicoptere-de-secours",
+   "theme": "secours",
+   "theme_label": "Secours & sécurité civile",
+   "label_fr": "Hélicoptère de secours",
+   "subject": "a rescue helicopter"
+  },
+  {
+   "id": "police",
+   "theme": "secours",
+   "theme_label": "Secours & sécurité civile",
+   "label_fr": "Police",
+   "subject": "a police car with siren lights"
+  },
+  {
+   "id": "gendarmerie",
+   "theme": "secours",
+   "theme_label": "Secours & sécurité civile",
+   "label_fr": "Gendarmerie",
+   "subject": "a gendarmerie building with a flag"
+  },
+  {
+   "id": "poste-de-secours",
+   "theme": "secours",
+   "theme_label": "Secours & sécurité civile",
+   "label_fr": "Poste de secours",
+   "subject": "a first aid post tent with a cross"
+  },
+  {
+   "id": "defibrillateur",
+   "theme": "secours",
+   "theme_label": "Secours & sécurité civile",
+   "label_fr": "Défibrillateur",
+   "subject": "an automated external defibrillator with a heart and lightning bolt"
+  },
+  {
+   "id": "sirene-d-alerte",
+   "theme": "secours",
+   "theme_label": "Secours & sécurité civile",
+   "label_fr": "Sirène d'alerte",
+   "subject": "an emergency alarm siren on a pole"
+  },
+  {
+   "id": "hebergement-d-urgence",
+   "theme": "secours",
+   "theme_label": "Secours & sécurité civile",
+   "label_fr": "Hébergement d'urgence",
+   "subject": "an emergency shelter building with beds"
+  },
+  {
+   "id": "point-de-rassemblement",
+   "theme": "secours",
+   "theme_label": "Secours & sécurité civile",
+   "label_fr": "Point de rassemblement",
+   "subject": "an assembly point sign with people gathering"
+  },
+  {
+   "id": "secours-en-montagne",
+   "theme": "secours",
+   "theme_label": "Secours & sécurité civile",
+   "label_fr": "Secours en montagne",
+   "subject": "a mountain rescue with a stretcher on a mountain"
+  },
+  {
+   "id": "sauvetage-en-mer",
+   "theme": "secours",
+   "theme_label": "Secours & sécurité civile",
+   "label_fr": "Sauvetage en mer",
+   "subject": "a lifebuoy ring"
+  },
+  {
+   "id": "deviation",
+   "theme": "secours",
+   "theme_label": "Secours & sécurité civile",
+   "label_fr": "Déviation",
+   "subject": "a road block barrier with a detour arrow"
+  },
+  {
+   "id": "risque-chimique",
+   "theme": "secours",
+   "theme_label": "Secours & sécurité civile",
+   "label_fr": "Risque chimique",
+   "subject": "a chemical hazard barrel with toxic symbol"
+  },
+  {
+   "id": "risque-nucleaire",
+   "theme": "secours",
+   "theme_label": "Secours & sécurité civile",
+   "label_fr": "Risque nucléaire",
+   "subject": "a radiation trefoil warning sign"
+  },
+  {
+   "id": "poste-de-commandement-operationnel",
+   "theme": "secours",
+   "theme_label": "Secours & sécurité civile",
+   "label_fr": "Poste de commandement opérationnel",
+   "subject": "a mobile command center vehicle with antenna"
+  },
+  {
+   "id": "mairie",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "Mairie",
+   "subject": "a French town hall building with a flag"
+  },
+  {
+   "id": "prefecture",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "Préfecture",
+   "subject": "a large official government building with columns and a flag"
+  },
+  {
+   "id": "sous-prefecture",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "Sous-préfecture",
+   "subject": "a small official government building with a flag"
+  },
+  {
+   "id": "centre-des-finances-publiques",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "Centre des finances publiques",
+   "subject": "a public finance office building with a coin"
+  },
+  {
+   "id": "tribunal",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "Tribunal",
+   "subject": "a courthouse with scales of justice"
+  },
+  {
+   "id": "ecole",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "École",
+   "subject": "a primary school building"
+  },
+  {
+   "id": "college-lycee",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "Collège / lycée",
+   "subject": "a high school building"
+  },
+  {
+   "id": "universite",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "Université",
+   "subject": "a university building with a graduation cap"
+  },
+  {
+   "id": "creche",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "Crèche",
+   "subject": "a nursery with a baby rattle"
+  },
+  {
+   "id": "hopital",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "Hôpital",
+   "subject": "a hospital building with a red cross"
+  },
+  {
+   "id": "maison-de-sante",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "Maison de santé",
+   "subject": "a medical clinic with a stethoscope"
+  },
+  {
+   "id": "ehpad",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "EHPAD",
+   "subject": "a retirement home with an elderly person"
+  },
+  {
+   "id": "bureau-de-poste",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "Bureau de poste",
+   "subject": "a post office with a letter"
+  },
+  {
+   "id": "bibliotheque",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "Bibliothèque",
+   "subject": "a library with books"
+  },
+  {
+   "id": "musee",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "Musée",
+   "subject": "a museum building with columns"
+  },
+  {
+   "id": "gymnase",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "Gymnase",
+   "subject": "a sports hall with a ball"
+  },
+  {
+   "id": "france-services",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "France Services",
+   "subject": "a public service counter desk"
+  },
+  {
+   "id": "dechetterie",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "Déchetterie",
+   "subject": "a recycling center with containers"
+  },
+  {
+   "id": "cimetiere",
+   "theme": "services-publics",
+   "theme_label": "Bâtiments & services publics",
+   "label_fr": "Cimetière",
+   "subject": "a cemetery with gravestones"
+  },
+  {
+   "id": "parcelle-cadastrale",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Parcelle cadastrale",
+   "subject": "a land parcel plot outline with numbered boundary corners on a map"
+  },
+  {
+   "id": "plan-cadastral",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Plan cadastral",
+   "subject": "an unrolled cadastral map sheet showing parcel boundaries"
+  },
+  {
+   "id": "section-cadastrale",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Section cadastrale",
+   "subject": "a map grid sheet divided into lettered sections"
+  },
+  {
+   "id": "borne-de-delimitation",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Borne de délimitation",
+   "subject": "a small stone boundary marker post planted in the ground"
+  },
+  {
+   "id": "borne-geodesique",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Borne géodésique",
+   "subject": "a geodetic survey benchmark disc set in concrete"
+  },
+  {
+   "id": "bornage",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Bornage",
+   "subject": "two boundary marker posts linked by a dashed line"
+  },
+  {
+   "id": "limite-de-propriete",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Limite de propriété",
+   "subject": "a property boundary fence line with a dashed border"
+  },
+  {
+   "id": "division-parcellaire",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Division parcellaire",
+   "subject": "a land parcel split in two by a dashed line"
+  },
+  {
+   "id": "servitude-de-passage",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Servitude de passage",
+   "subject": "a path crossing between two land parcels"
+  },
+  {
+   "id": "theodolite",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Théodolite",
+   "subject": "a surveying theodolite on a tripod"
+  },
+  {
+   "id": "tacheometre",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Tachéomètre",
+   "subject": "a robotic total station surveying instrument on a tripod"
+  },
+  {
+   "id": "recepteur-gnss",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Récepteur GNSS",
+   "subject": "a GNSS surveying antenna receiver mounted on a pole"
+  },
+  {
+   "id": "niveau-de-chantier",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Niveau de chantier",
+   "subject": "a surveying level instrument on a tripod with a leveling staff"
+  },
+  {
+   "id": "mire-de-nivellement",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Mire de nivellement",
+   "subject": "a striped surveying leveling rod"
+  },
+  {
+   "id": "prisme-de-topographie",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Prisme de topographie",
+   "subject": "a surveying reflector prism mounted on a pole"
+  },
+  {
+   "id": "jalon",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Jalon",
+   "subject": "a red and white striped surveying ranging pole"
+  },
+  {
+   "id": "drone-de-releve",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Drone de relevé",
+   "subject": "a mapping survey drone with a camera"
+  },
+  {
+   "id": "scanner-laser-3d",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Scanner laser 3D",
+   "subject": "a 3D laser scanner on a tripod emitting laser beams"
+  },
+  {
+   "id": "geometre-expert",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Géomètre-expert",
+   "subject": "a land surveyor person with a helmet looking through a theodolite"
+  },
+  {
+   "id": "point-de-repere",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Point de repère",
+   "subject": "a survey control point triangle marker"
+  },
+  {
+   "id": "mesure-de-surface",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Mesure de surface",
+   "subject": "a land plot with a measuring tape and area arrows"
+  },
+  {
+   "id": "carte-topographique",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Carte topographique",
+   "subject": "a topographic map with contour lines"
+  },
+  {
+   "id": "orthophotographie",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Orthophotographie",
+   "subject": "an aerial photograph tile of fields seen from above"
+  },
+  {
+   "id": "acte-notarie",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Acte notarié",
+   "subject": "a property deed document with a red seal"
+  },
+  {
+   "id": "bureau-du-cadastre",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Bureau du cadastre",
+   "subject": "an official land registry office building"
+  },
+  {
+   "id": "permis-de-construire",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Permis de construire",
+   "subject": "a building permit document with a house plan"
+  },
+  {
+   "id": "zonage-d-urbanisme",
+   "theme": "cadastre",
+   "theme_label": "Cadastre & géomètres",
+   "label_fr": "Zonage d'urbanisme",
+   "subject": "a colored urban zoning map with different zones"
+  },
+  {
+   "id": "impots",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Impôts",
+   "subject": "a tax form document with a percent sign"
+  },
+  {
+   "id": "taxe-fonciere",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Taxe foncière",
+   "subject": "a house with a tax document and coins"
+  },
+  {
+   "id": "tva",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "TVA",
+   "subject": "a shopping receipt with a percent sign"
+  },
+  {
+   "id": "douane",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Douane",
+   "subject": "a customs officer cap with a barrier"
+  },
+  {
+   "id": "tresorerie",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Trésorerie",
+   "subject": "a treasury vault building with coins"
+  },
+  {
+   "id": "controle-fiscal",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Contrôle fiscal",
+   "subject": "a magnifying glass over a tax document"
+  },
+  {
+   "id": "paiement-en-ligne",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Paiement en ligne",
+   "subject": "a computer screen with a credit card and a check mark"
+  },
+  {
+   "id": "coffre-fort",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Coffre-fort",
+   "subject": "a steel safe"
+  },
+  {
+   "id": "facture",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Facture",
+   "subject": "an invoice document with a euro sign"
+  },
+  {
+   "id": "aide-financiere",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Aide financière",
+   "subject": "a hand holding a euro coin"
+  },
+  {
+   "id": "subvention",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Subvention",
+   "subject": "a stack of euro banknotes with a ribbon"
+  },
+  {
+   "id": "pret",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Prêt",
+   "subject": "a handshake with a euro coin"
+  },
+  {
+   "id": "budget",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Budget",
+   "subject": "a pie chart with a euro sign"
+  },
+  {
+   "id": "dette-publique",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Dette publique",
+   "subject": "a stack of documents with a red down arrow and a euro sign"
+  },
+  {
+   "id": "recettes",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Recettes",
+   "subject": "a cash register with euro coins"
+  },
+  {
+   "id": "depenses",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Dépenses",
+   "subject": "a wallet with euro coins flying out"
+  },
+  {
+   "id": "euro",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Euro",
+   "subject": "a large golden euro coin"
+  },
+  {
+   "id": "banque",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Banque",
+   "subject": "a bank building with columns and a euro sign"
+  },
+  {
+   "id": "distributeur-de-billets",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Distributeur de billets",
+   "subject": "an ATM cash machine"
+  },
+  {
+   "id": "comptabilite",
+   "theme": "finances",
+   "theme_label": "Finances publiques & fiscalité",
+   "label_fr": "Comptabilité",
+   "subject": "an accounting ledger book with a calculator"
+  },
+  {
+   "id": "foret",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Forêt",
+   "subject": "a group of green trees"
+  },
+  {
+   "id": "zone-humide",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Zone humide",
+   "subject": "a wetland marsh with reeds and water"
+  },
+  {
+   "id": "espece-protegee",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Espèce protégée",
+   "subject": "a lynx with a shield"
+  },
+  {
+   "id": "parc-naturel",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Parc naturel",
+   "subject": "a mountain landscape with a tree and a sign"
+  },
+  {
+   "id": "reserve-marine",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Réserve marine",
+   "subject": "a fish and coral under the sea"
+  },
+  {
+   "id": "corridor-ecologique",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Corridor écologique",
+   "subject": "a green path linking two forests with animal footprints"
+  },
+  {
+   "id": "abeille",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Abeille",
+   "subject": "a honey bee"
+  },
+  {
+   "id": "oiseau-migrateur",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Oiseau migrateur",
+   "subject": "a stork flying"
+  },
+  {
+   "id": "recyclage",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Recyclage",
+   "subject": "a green recycling symbol with three arrows"
+  },
+  {
+   "id": "compost",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Compost",
+   "subject": "a compost bin with vegetable waste"
+  },
+  {
+   "id": "eau-potable",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Eau potable",
+   "subject": "a water tap with a clean drop"
+  },
+  {
+   "id": "station-d-epuration",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Station d'épuration",
+   "subject": "a wastewater treatment plant with round basins"
+  },
+  {
+   "id": "qualite-de-l-eau",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Qualité de l'eau",
+   "subject": "a water drop with a check mark"
+  },
+  {
+   "id": "dechets-sauvages",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Déchets sauvages",
+   "subject": "an illegal dump of garbage bags in nature"
+  },
+  {
+   "id": "tri-selectif",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Tri sélectif",
+   "subject": "three colored recycling bins"
+  },
+  {
+   "id": "arbre-remarquable",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Arbre remarquable",
+   "subject": "a large old oak tree"
+  },
+  {
+   "id": "pollinisateurs",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Pollinisateurs",
+   "subject": "a butterfly on a flower"
+  },
+  {
+   "id": "riviere",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Rivière",
+   "subject": "a winding river"
+  },
+  {
+   "id": "sol-pollue",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Sol pollué",
+   "subject": "contaminated soil with a toxic barrel"
+  },
+  {
+   "id": "bruit",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Bruit",
+   "subject": "a loudspeaker with sound waves"
+  },
+  {
+   "id": "carbone",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Carbone",
+   "subject": "a CO2 cloud"
+  },
+  {
+   "id": "energie-renouvelable",
+   "theme": "environnement",
+   "theme_label": "Environnement & biodiversité",
+   "label_fr": "Énergie renouvelable",
+   "subject": "a leaf with a lightning bolt"
+  },
+  {
+   "id": "tracteur",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Tracteur",
+   "subject": "a green farm tractor"
+  },
+  {
+   "id": "champ-de-ble",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Champ de blé",
+   "subject": "a golden wheat field"
+  },
+  {
+   "id": "vigne",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Vigne",
+   "subject": "a grapevine with bunches of grapes"
+  },
+  {
+   "id": "elevage-bovin",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Élevage bovin",
+   "subject": "a dairy cow"
+  },
+  {
+   "id": "elevage-ovin",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Élevage ovin",
+   "subject": "a sheep"
+  },
+  {
+   "id": "volaille",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Volaille",
+   "subject": "a hen"
+  },
+  {
+   "id": "elevage-porcin",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Élevage porcin",
+   "subject": "a pig"
+  },
+  {
+   "id": "serre-agricole",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Serre agricole",
+   "subject": "an agricultural greenhouse"
+  },
+  {
+   "id": "irrigation",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Irrigation",
+   "subject": "an irrigation sprinkler watering a field"
+  },
+  {
+   "id": "silo-a-grains",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Silo à grains",
+   "subject": "a grain silo"
+  },
+  {
+   "id": "cooperative-agricole",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Coopérative agricole",
+   "subject": "a farm building with a cooperative sign"
+  },
+  {
+   "id": "marche",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Marché",
+   "subject": "a market stall with a striped awning and vegetables"
+  },
+  {
+   "id": "circuit-court",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Circuit court",
+   "subject": "a farmer handing a basket of vegetables"
+  },
+  {
+   "id": "peche",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Pêche",
+   "subject": "a fishing boat with a net"
+  },
+  {
+   "id": "aquaculture",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Aquaculture",
+   "subject": "a fish farm with floating cages"
+  },
+  {
+   "id": "agriculture-biologique",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Agriculture biologique",
+   "subject": "a green leaf inside a circle label"
+  },
+  {
+   "id": "appellation-d-origine",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Appellation d'origine",
+   "subject": "a wine bottle with a quality seal"
+  },
+  {
+   "id": "verger",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Verger",
+   "subject": "a fruit orchard with apple trees"
+  },
+  {
+   "id": "maraichage",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Maraîchage",
+   "subject": "rows of vegetables growing in a garden"
+  },
+  {
+   "id": "ferme",
+   "theme": "agriculture",
+   "theme_label": "Agriculture & alimentation",
+   "label_fr": "Ferme",
+   "subject": "a red farm barn"
+  },
+  {
+   "id": "entreprise",
+   "theme": "economie",
+   "theme_label": "Économie & emploi",
+   "label_fr": "Entreprise",
+   "subject": "an office building with a briefcase"
+  },
+  {
+   "id": "usine",
+   "theme": "economie",
+   "theme_label": "Économie & emploi",
+   "label_fr": "Usine",
+   "subject": "a factory with chimneys"
+  },
+  {
+   "id": "zone-d-activite",
+   "theme": "economie",
+   "theme_label": "Économie & emploi",
+   "label_fr": "Zone d'activité",
+   "subject": "a business park with several warehouses"
+  },
+  {
+   "id": "commerce-de-proximite",
+   "theme": "economie",
+   "theme_label": "Économie & emploi",
+   "label_fr": "Commerce de proximité",
+   "subject": "a small shop front with an awning"
+  },
+  {
+   "id": "centre-commercial",
+   "theme": "economie",
+   "theme_label": "Économie & emploi",
+   "label_fr": "Centre commercial",
+   "subject": "a shopping mall building with a shopping cart"
+  },
+  {
+   "id": "artisan",
+   "theme": "economie",
+   "theme_label": "Économie & emploi",
+   "label_fr": "Artisan",
+   "subject": "a craftsman toolbox with a hammer and saw"
+  },
+  {
+   "id": "start-up",
+   "theme": "economie",
+   "theme_label": "Économie & emploi",
+   "label_fr": "Start-up",
+   "subject": "a small rocket taking off"
+  },
+  {
+   "id": "emploi",
+   "theme": "economie",
+   "theme_label": "Économie & emploi",
+   "label_fr": "Emploi",
+   "subject": "a briefcase with a check mark"
+  },
+  {
+   "id": "chomage",
+   "theme": "economie",
+   "theme_label": "Économie & emploi",
+   "label_fr": "Chômage",
+   "subject": "a briefcase with a minus sign"
+  },
+  {
+   "id": "formation",
+   "theme": "economie",
+   "theme_label": "Économie & emploi",
+   "label_fr": "Formation",
+   "subject": "an open book with a graduation cap"
+  },
+  {
+   "id": "apprentissage",
+   "theme": "economie",
+   "theme_label": "Économie & emploi",
+   "label_fr": "Apprentissage",
+   "subject": "a young apprentice with a tool and a teacher"
+  },
+  {
+   "id": "teletravail",
+   "theme": "economie",
+   "theme_label": "Économie & emploi",
+   "label_fr": "Télétravail",
+   "subject": "a person working on a laptop at home"
+  },
+  {
+   "id": "tiers-lieu",
+   "theme": "economie",
+   "theme_label": "Économie & emploi",
+   "label_fr": "Tiers-lieu",
+   "subject": "a shared coworking table with laptops"
+  },
+  {
+   "id": "entrepot-logistique",
+   "theme": "economie",
+   "theme_label": "Économie & emploi",
+   "label_fr": "Entrepôt logistique",
+   "subject": "a large warehouse with a truck at the loading dock"
+  },
+  {
+   "id": "export",
+   "theme": "economie",
+   "theme_label": "Économie & emploi",
+   "label_fr": "Export",
+   "subject": "a cargo container with an arrow leaving a globe"
+  },
+  {
+   "id": "croissance-economique",
+   "theme": "economie",
+   "theme_label": "Économie & emploi",
+   "label_fr": "Croissance économique",
+   "subject": "a bar chart with a rising green arrow"
+  },
+  {
+   "id": "recession",
+   "theme": "economie",
+   "theme_label": "Économie & emploi",
+   "label_fr": "Récession",
+   "subject": "a bar chart with a falling red arrow"
+  },
+  {
+   "id": "creation-d-entreprise",
+   "theme": "economie",
+   "theme_label": "Économie & emploi",
+   "label_fr": "Création d'entreprise",
+   "subject": "a light bulb with a plus sign"
+  }
+ ]
+}

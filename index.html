@@ -209,6 +209,11 @@
                             <input type="color" id="pin-color" value="#e1000f" title="Couleur de l'épingle">
                             <input type="text" id="pin-label" class="text-input" placeholder="Légende (optionnelle)" style="flex:1">
                         </div>
+                        <label class="field-label small-label" for="pin-icon" style="margin-top:0.5rem;">Symbole</label>
+                        <select class="select-input" id="pin-icon">
+                            <option value="">● Point de couleur</option>
+                        </select>
+                        <p class="hint-text" id="pin-icon-id"></p>
                         <button class="btn btn-secondary btn-block" id="btn-add-pin" style="margin-top:0.5rem;">📌 Ajouter l'épingle</button>
                     </div>
 
@@ -216,7 +221,7 @@
 
                     <input type="file" id="pins-csv-file" accept=".csv,.txt" style="display:none">
                     <button class="btn btn-secondary btn-block" id="btn-import-pins">⬆️ Importer un CSV d'épingles</button>
-                    <p class="hint-text">Format : <code>x,y,couleur,légende</code> — x = longitude, y = latitude (degrés décimaux). Séparateur <code>,</code> ou <code>;</code>, ligne d'en-tête facultative. Couleur : <code>#e1000f</code> ou un nom (<code>red</code>, <code>blue</code>...).</p>
+                    <p class="hint-text">Format : <code>x,y,couleur,légende,icône</code> — x = longitude, y = latitude (degrés décimaux). Séparateur <code>,</code> ou <code>;</code>, ligne d'en-tête facultative. Couleur : <code>#e1000f</code> ou un nom (<code>red</code>, <code>blue</code>...). Icône (facultative) : identifiant d'une icône illustrée, ex. <code>routeur</code>, <code>char-de-combat</code> ; sans icône, l'épingle est un point de couleur.</p>
 
                     <hr class="divider">
 
@@ -231,6 +236,10 @@
                     <div class="row-between">
                         <label class="small-label" for="pin-size">Taille du point (px)</label>
                         <input type="number" id="pin-size" class="text-input tiny" value="5" min="2" max="15">
+                    </div>
+                    <div class="row-between">
+                        <label class="small-label" for="pin-icon-size">Taille des icônes (px)</label>
+                        <input type="number" id="pin-icon-size" class="text-input tiny" value="28" min="12" max="96">
                     </div>
 
                     <ul id="pin-list" class="pin-list"></ul>
@@ -385,6 +394,7 @@
                         <select class="select-input" id="pictogram-set">
                             <option value="ocha">Humanitaire (OCHA — conflits, catastrophes...)</option>
                             <option value="dsfr">Pictogrammes DSFR (État)</option>
+                            <option value="k2">Icônes illustrées (informatique, défense, énergie, météo...)</option>
                         </select>
 
                         <select class="select-input" id="pictogram-select" style="margin-top:0.5rem;"></select>
@@ -458,6 +468,7 @@
     <script src="./js/geo-engine.js"></script>
     <script src="./js/pictogram-catalog.js"></script>
     <script src="./js/dsfr-pictogram-catalog.js"></script>
+    <script src="./js/k2-pictogram-catalog.js"></script>
     <script src="./js/font-catalog.js"></script>
     <script src="./js/studio.js"></script>
     <script src="./js/pwa.js"></script>
