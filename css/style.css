@@ -179,6 +179,9 @@ textarea.text-input {
 
 .row-between { display: flex; justify-content: space-between; align-items: center; }
 .row-inline { display: flex; gap: 0.5rem; }
+.color-trio { flex-wrap: wrap; margin-top: 0.25rem; }
+.color-trio label { display: flex; align-items: center; gap: 0.3rem; font-weight: 400; }
+.color-trio input[type="color"] { width: 28px; height: 24px; padding: 0; border: 1px solid var(--grey-900); border-radius: 4px; cursor: pointer; }
 
 .checkbox-row { display: flex; align-items: center; gap: 0.5rem; font-size: 0.85rem; }
 .checkbox-row.small { font-size: 0.75rem; margin: 0.1rem 0 0.3rem; }

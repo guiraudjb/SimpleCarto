@@ -29,6 +29,8 @@ const PALETTE_SCALES = {
     divergentAscending: d3.interpolateRgbBasis(["#E91719", "#EFB900", "#298641"])
 };
 
+const DEFAULT_MAP_COLORS = { background: '#ffffff', context: '#f8f9fa', noData: '#e5e5e5' };
+
 const frenchNumberFormat = new Intl.NumberFormat('fr-FR', { maximumFractionDigits: 2 });
 
 function getSafeCol(row, expectedKey) {
@@ -474,6 +476,8 @@ async function drawD3Map(container, config, dataMap) {
     if (targetFeatures.length === 0) return false;
 
     const svg = d3.select(container).append("svg").attr("width", width).attr("height", height);
+    const mapColors = { ...DEFAULT_MAP_COLORS, ...config.mapColors };
+    svg.append("rect").attr("width", width).attr("height", height).attr("fill", mapColors.background);
 
     // Zone de titre dynamique : retour à la ligne automatique (en plus des
     // retours manuels saisis par l'utilisateur), avec une hauteur réservée
@@ -531,10 +535,10 @@ async function drawD3Map(container, config, dataMap) {
         .attr("d", path)
         .attr("fill", d => {
             const code = String((config.scale === 'world') ? getIso(d) : (d.properties.code_insee || d.properties.code || ""));
-            if (!targetFeatures.includes(d)) return "#f8f9fa";
-            return dataMap?.has(code) ? colorScale(dataMap.get(code)) : "#e5e5e5";
+            if (!targetFeatures.includes(d)) return mapColors.context;
+            return dataMap?.has(code) ? colorScale(dataMap.get(code)) : mapColors.noData;
         })
-        .attr("stroke", d => targetFeatures.includes(d) ? "#ffffff" : "#f0f0f0")
+        .attr("stroke", d => targetFeatures.includes(d) ? "#ffffff" : d3.color(mapColors.context).darker(0.3).formatHex())
         .attr("stroke-width", d => targetFeatures.includes(d) ? 0.5 : 0.2);
 
     // Région détaillée à la commune : limites départementales internes en trait

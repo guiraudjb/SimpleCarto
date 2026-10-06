@@ -338,6 +338,24 @@
                     <hr class="divider">
 
                     <div class="field">
+                        <label class="field-label" for="map-colors-preset">Couleurs du fond de carte</label>
+                        <select class="select-input" id="map-colors-preset">
+                            <option value="#ffffff,#f8f9fa,#e5e5e5">Blanc (par défaut)</option>
+                            <option value="#d4e6f1,#f2efe6,#dcdcdc">Mer bleue, terres beiges</option>
+                            <option value="#f4ecd8,#e8dcc0,#d8cfbb">Parchemin</option>
+                            <option value="#e9eef2,#ffffff,#e5e5e5">Gris clair</option>
+                            <option value="custom">Personnalisé…</option>
+                        </select>
+                        <div class="row-inline color-trio">
+                            <label class="small-label"><input type="color" id="map-bg-color" value="#ffffff"> Mer / fond</label>
+                            <label class="small-label"><input type="color" id="map-context-color" value="#f8f9fa"> Hors zone</label>
+                            <label class="small-label"><input type="color" id="map-nodata-color" value="#e5e5e5"> Sans donnée</label>
+                        </div>
+                    </div>
+
+                    <hr class="divider">
+
+                    <div class="field">
                         <label class="field-label">Étiquettes</label>
                         <select class="select-input" id="label-type">
                             <option value="name">Nom</option>

@@ -1057,6 +1057,7 @@ document.addEventListener('DOMContentLoaded', () => {
             labelTextCol: labelTextCol,
             labelTextMap: labelTextMap,
             showLegend: showLegend,
+            mapColors: getMapColors(),
             palette: document.getElementById('map-palette')?.value || 'default',
             customColors: document.getElementById('map-palette')?.value === 'custom' ? getCustomColorsArray() : null,
 
@@ -1102,7 +1103,7 @@ document.addEventListener('DOMContentLoaded', () => {
         hiddenDiv.style.left = '-9999px';
         hiddenDiv.style.width = '850px';
         hiddenDiv.style.height = '550px';
-        hiddenDiv.style.background = '#fff';
+        hiddenDiv.style.background = config.mapColors?.background || DEFAULT_MAP_COLORS.background;
         document.body.appendChild(hiddenDiv);
 
         await Promise.all([ensureFontLoaded(config.titleFont), ensureFontLoaded(config.labelFont)]);
@@ -1120,7 +1121,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const canvas = await html2canvas(hiddenDiv, {
             scale: 2,
-            backgroundColor: "#ffffff",
+            backgroundColor: config.mapColors?.background || DEFAULT_MAP_COLORS.background,
             useCORS: true,
             logging: false
         });
@@ -1245,6 +1246,31 @@ document.addEventListener('DOMContentLoaded', () => {
         const label = e.target.selectedOptions[0].textContent;
         loadSampleCsv(path, label);
     };
+
+    // Couleurs du fond de carte : un préréglage remplit les trois sélecteurs,
+    // une retouche manuelle bascule le préréglage sur « Personnalisé ».
+    const MAP_COLOR_INPUTS = { background: 'map-bg-color', context: 'map-context-color', noData: 'map-nodata-color' };
+
+    function getMapColors() {
+        return Object.fromEntries(Object.entries(MAP_COLOR_INPUTS).map(([k, id]) => [k, document.getElementById(id).value]));
+    }
+
+    function setMapColors(colors) {
+        const merged = { ...DEFAULT_MAP_COLORS, ...colors };
+        Object.entries(MAP_COLOR_INPUTS).forEach(([k, id]) => { document.getElementById(id).value = merged[k]; });
+        const preset = document.getElementById('map-colors-preset');
+        const key = [merged.background, merged.context, merged.noData].join(',');
+        preset.value = [...preset.options].some(o => o.value === key) ? key : 'custom';
+    }
+
+    document.getElementById('map-colors-preset').onchange = (e) => {
+        if (e.target.value === 'custom') return;
+        const [background, context, noData] = e.target.value.split(',');
+        setMapColors({ background, context, noData });
+    };
+    Object.values(MAP_COLOR_INPUTS).forEach(id => {
+        document.getElementById(id).addEventListener('input', () => setMapColors(getMapColors()));
+    });
 
     document.getElementById('map-palette').onchange = (e) => {
         const val = e.target.value;
@@ -1456,6 +1482,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 document.getElementById('map-scale').value = config.scale || "national";
                 document.getElementById('label-type').value = config.labelType || "none";
                 document.getElementById('map-show-legend').checked = config.showLegend !== false;
+                setMapColors(config.mapColors);
                 document.getElementById('map-palette').value = config.palette || "default";
                 document.getElementById('label-toolkit').style.display = config.labelType !== 'none' ? 'block' : 'none';
                 if (config.labelSize) document.getElementById('label-size').value = config.labelSize;
