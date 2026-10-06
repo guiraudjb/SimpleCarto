@@ -30,6 +30,8 @@ python3 -m http.server 8080
 
 puis ouvrez `http://localhost:8080`.
 
+Sous Windows, sans rien installer : double-cliquez sur `Lancer-SimpleCarto.bat`. Il démarre un mini serveur web PowerShell (`tools/serveur/serveur-local.ps1`) sur `http://localhost:8080` et ouvre le navigateur. Fermez la fenêtre pour l'arrêter. Options : `Lancer-SimpleCarto.bat -Port 9000 -NoBrowser`.
+
 ## Architecture
 
 - Aucun framework, aucune étape de build : HTML / CSS / JavaScript vanilla.
