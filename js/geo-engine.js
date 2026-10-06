@@ -18,6 +18,12 @@ const DEPARTEMENTS_DICT = {
     "01": "Ain", "02": "Aisne", "03": "Allier", "04": "Alpes-de-Haute-Provence", "05": "Hautes-Alpes", "06": "Alpes-Maritimes", "07": "Ardèche", "08": "Ardennes", "09": "Ariège", "10": "Aube", "11": "Aude", "12": "Aveyron", "13": "Bouches-du-Rhône", "14": "Calvados", "15": "Cantal", "16": "Charente", "17": "Charente-Maritime", "18": "Cher", "19": "Corrèze", "2A": "Corse-du-Sud", "2B": "Haute-Corse", "21": "Côte-d'Or", "22": "Côtes-d'Armor", "23": "Creuse", "24": "Dordogne", "25": "Doubs", "26": "Drôme", "27": "Eure", "28": "Eure-et-Loir", "29": "Finistère", "30": "Gard", "31": "Haute-Garonne", "32": "Gers", "33": "Gironde", "34": "Hérault", "35": "Ille-et-Vilaine", "36": "Indre", "37": "Indre-et-Loire", "38": "Isère", "39": "Jura", "40": "Landes", "41": "Loir-et-Cher", "42": "Loire", "43": "Haute-Loire", "44": "Loire-Atlantique", "45": "Loiret", "46": "Lot", "47": "Lot-et-Garonne", "48": "Lozère", "49": "Maine-et-Loire", "50": "Manche", "51": "Marne", "52": "Haute-Marne", "53": "Mayenne", "54": "Meurthe-et-Moselle", "55": "Meuse", "56": "Morbihan", "57": "Moselle", "58": "Nièvre", "59": "Nord", "60": "Oise", "61": "Orne", "62": "Pas-de-Calais", "63": "Puy-de-Dôme", "64": "Pyrénées-Atlantiques", "65": "Hautes-Pyrénées", "66": "Pyrénées-Orientales", "67": "Bas-Rhin", "68": "Haut-Rhin", "69": "Rhône", "70": "Haute-Saône", "71": "Saône-et-Loire", "72": "Sarthe", "73": "Savoie", "74": "Haute-Savoie", "75": "Paris", "76": "Seine-Maritime", "77": "Seine-et-Marne", "78": "Yvelines", "79": "Deux-Sèvres", "80": "Somme", "81": "Tarn", "82": "Tarn-et-Garonne", "83": "Var", "84": "Vaucluse", "85": "Vendée", "86": "Vienne", "87": "Haute-Vienne", "88": "Vosges", "89": "Yonne", "90": "Territoire de Belfort", "91": "Essonne", "92": "Hauts-de-Seine", "93": "Seine-Saint-Denis", "94": "Val-de-Marne", "95": "Val-d'Oise", "971": "Guadeloupe", "972": "Martinique", "973": "Guyane", "974": "La Réunion", "976": "Mayotte"
 };
 
+// Arrondissements municipaux (absents du COG chargé) : commune parente ->
+// [département, premier code INSEE, nombre d'arrondissements].
+const MUNICIPAL_ARRONDISSEMENTS = {
+    "75056": ["75", 75101, 20], "69123": ["69", 69381, 9], "13055": ["13", 13201, 16]
+};
+
 const PALETTE_SCALES = {
     divergentDescending: d3.interpolateRgbBasis(["#298641", "#EFB900", "#E91719"]),
     divergentAscending: d3.interpolateRgbBasis(["#E91719", "#EFB900", "#298641"])
@@ -45,6 +51,13 @@ async function loadMapReferentials() {
     geoReferential.worldRegions = worldData || [];
     communesData.forEach(c => geoReferential.comToDep.set(getSafeCol(c, 'COM'), getSafeCol(c, 'DEP')));
     epciData.forEach(e => geoReferential.comToEpci.set(getSafeCol(e, 'CODGEO'), getSafeCol(e, 'EPCI')));
+    Object.entries(MUNICIPAL_ARRONDISSEMENTS).forEach(([parent, [dep, first, count]]) => {
+        for (let i = 0; i < count; i++) {
+            const code = String(first + i);
+            geoReferential.comToDep.set(code, dep);
+            geoReferential.comToEpci.set(code, geoReferential.comToEpci.get(parent));
+        }
+    });
     geoReferential.loaded = true;
 }
 
@@ -417,6 +430,17 @@ async function drawD3Map(container, config, dataMap) {
     if (geoJSON.type === "Topology") {
         const key = Object.keys(geoJSON.objects)[0];
         features = topojson.feature(geoJSON, geoJSON.objects[key]).features;
+        // Paris, Lyon et Marseille sont remplacées par leurs arrondissements
+        // municipaux quand les données utilisent ces codes, ou à l'échelle commune.
+        const armObj = geoJSON.objects.arrondissement_municipal;
+        if (armObj) {
+            const arms = topojson.feature(geoJSON, armObj).features;
+            const parentOf = f => f.properties.code_insee_de_la_commune_parente;
+            const detailed = new Set(arms.filter(f => config.scale === 'commune'
+                || dataMap?.has(f.properties.code_insee) || config.labelTextMap?.has(f.properties.code_insee)).map(parentOf));
+            features = features.filter(f => !detailed.has(f.properties.code_insee))
+                .concat(arms.filter(f => detailed.has(parentOf(f))));
+        }
     } else {
         features = geoJSON.features || [];
     }
@@ -432,7 +456,7 @@ async function drawD3Map(container, config, dataMap) {
         const p = f.properties;
         const codeReg = String(p.code_insee_de_la_region || p.code_insee_region || p.reg || "");
         const codeDep = String(p.code_insee_du_departement || p.code_insee_departement || p.dep || "");
-        const codeCom = String(p.code_insee || p.code || "");
+        const codeCom = String(p.code_insee_de_la_commune_parente || p.code_insee || p.code || "");
 
         if (['region', 'region-communes'].includes(config.scale) && config.region) return codeReg === String(config.region);
         if (config.scale === 'departement' && config.dept) return codeDep === String(config.dept);
